@@ -22,7 +22,7 @@
 .thumbnail:hover,
 .thumbnail:focus
 {
-   border: 1px solid #FCB720;
+   border: 1px solid #333;
    opacity: 0.7;
 }
 
@@ -40,7 +40,7 @@
 .thumbnails__pager a
 {
    margin: 0 0.2em;
-   color: #FFFFFF;
+   color: #333;
    text-decoration: none;
 }
 
