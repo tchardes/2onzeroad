@@ -6,7 +6,7 @@
 
    function searchText(parameters) {
       var requestParameters = Utility.extend(parameters, {
-         method: 'flickr.people.getPublicPhotos',
+         method: 'flickr.photos.search',
          api_key: apiKey,
          user_id: "127048817@N07",
          format: 'json'
