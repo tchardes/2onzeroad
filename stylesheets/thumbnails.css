@@ -48,6 +48,6 @@
 .thumbnails__pager a:hover,
 .thumbnails__pager a:focus
 {
-   color: #FCB720;
+   color: #333;
    text-decoration: underline;
 }

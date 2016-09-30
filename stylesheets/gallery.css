@@ -40,7 +40,7 @@
    position: absolute;
    width: 10px;
    height: 40%;
-   background-color: #FFFFFF;
+   background-color: #333;
 }
 
 .gallery__arrow:before
@@ -58,7 +58,7 @@
 .gallery__arrow:hover:after,
 .gallery__arrow:focus:after
 {
-   background-color: #FCB712;
+   background-color: #333;
 }
 
 .gallery__arrow--left
