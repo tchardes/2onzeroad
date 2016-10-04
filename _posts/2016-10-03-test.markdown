@@ -1,9 +1,0 @@
----
-layout: post
-title:  "welcome usa!"
-date:   2016-10-03 21:42:25 +0200
-categories: usa floride
-comments: true
----
-
-bbbbb bb b b bbbbb bb
