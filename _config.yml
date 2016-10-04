@@ -25,7 +25,7 @@ wpm: 200
 # Owner/author information
 owner:
   name:   2onzeroad
-  avatar: avatar.jpg
+  avatar: avatar.png
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    An amazing journey
 
