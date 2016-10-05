@@ -419,3 +419,135 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fh5co-post {
+		float: left;
+		width: 100%;
+		background: #FFF;
+		position: relative;
+		margin-bottom: 30px;
+		-webkit-box-shadow: 0px 0px 20px #DFDFDF;
+		-moz-box-shadow: 0px 0px 20px #DFDFDF;
+		-ms-box-shadow: 0px 0px 20px #DFDFDF;
+		-o-box-shadow: 0px 0px 20px #DFDFDF;
+		box-shadow: 0px 0px 20px #DFDFDF;
+		border-radius: 7px;
+		
+}
+
+.fh5co-post .fh5co-post-image {
+			position: relative;
+			overflow: hidden;
+			border-top-right-radius: 7px;
+			border-top-left-radius: 7px;
+			z-index: 1;
+      height: 200px;
+}
+
+.fh5co-post .fh5co-post-image img {
+			width:100%;
+      min-height: 200px;
+}
+
+
+.fh5co-post .fh5co-post-image	.fh5co-overlay {
+				z-index: 1;
+				background: rgba(0, 0, 0, .3);
+				position: absolute;
+				top: 0;
+				bottom: 0;
+				left: 0;
+				right: 0;
+}
+.fh5co-post .fh5co-post-image	.fh5co-category {
+				margin: -10px 0 0 10px;
+				float: left;
+				z-index: 2;
+				position: absolute;
+}
+.fh5co-post .fh5co-post-image	.fh5co-category a {
+					font-size: 10px;
+					padding: 2px 10px;
+					line-height: 1.5;
+					font-family: #333;
+					text-transform: uppercase;
+					color: #FFF;
+					border: 1px solid #FFF;
+					margin: 0 4px 4px 0;
+					border-radius: 30px;
+}
+
+			
+		
+.fh5co-post	.fh5co-post-text {
+			padding: 20px;
+}
+			.fh5co-post	.fh5co-post-text h3 {
+				font-size: 17px;
+				margin-bottom: 15px;
+				margin-top: 0;
+				font-weight: 700;
+      }
+			.fh5co-post	.fh5co-post-text h3	a {
+					
+					color: #333;
+					/*&:hover {
+						color: #333;
+					}
+					&:hover, &:active, &:focus {
+						text-decoration: none;
+					}*/
+				}
+			
+			.fh5co-post	.fh5co-post-text p {
+				font-size: 14px;
+				margin-bottom: 0;
+				color: #666;
+				/*&:last-child {
+					margin-bottom: 0!important;
+				}*/
+			}
+		
+
+
+
+
+
+		.fh5co-post-meta {
+			border-top: 1px solid #999;
+			padding: 0px 20px 10px 20px;
+			font-family: #666;
+			font-family: 'Arial', sans-serif;
+			font-weight: 400;
+    }
+
+		.fh5co-post-meta	a {
+				font-size: 13px;
+				margin-right: 10px;
+				margin-bottom: 20px;
+				color: 	#666;
+    }
+			.fh5co-post-meta	a	i {
+					display: inline-block;
+					margin-right: 5px;
+				}
+				/*&:hover, &:active, &:focus {
+					text-decoration: none;
+				}
+				&:hover {
+					color: #666;
+				}*/
+			
+		
