@@ -29,11 +29,15 @@ San Juan est surtout connu par les caribéens pour ces outlet ou Mall, immenses 
 
 ## Format XXL
 
-A la pause, nous prennons notre repas dans un Cheesecake Factory, chaine de restaurants célèbre au USA dont la spécialité est un dessert, le Cheesecake. A part que le plat principal était tellement copieux, énorme, que nous n'avions plus de place pour goûter cette spécialité. On s'est rattrapé en fin de séjour….
+A la pause, nous prennons notre repas dans un Cheesecake Factory, chaine de restaurants célèbre au USA dont la spécialité est un dessert, le Cheesecake. Au final, le plat principal était tellement copieux, énorme, que nous n'avions plus de place pour goûter cette spécialité. On s'est rattrapé en fin de séjour….
 
-Le dimanche 3 juillet, nous nous rendons au Capitole siège de l'assemblée législative de Puerto Rico. Magnifique bâtiment en marbre de style néoclassique en cours de restauration qui donne sur l'océan. Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grandes ouvertes, gardées par deux policiers qui nous indiquent que l'entrée est libre. Nous pénétrons dans un grand hall après être passés devant un détecteur tenu par un policier nonchalant et nous voilà seuls, dans le capitole, nous passons devant les bureaux des sénateurs, devant des reliques et des expositions. De toute évidence, ils ne sont pas en vigipirate de quelque couleur que ce soit ….
+## Vigipirate ?
 
-Les bonnes tables :
+Le dimanche 3 juillet, nous nous rendons au Capitole, siège de l'assemblée législative de Puerto Rico. Magnifique bâtiment en marbre de style néoclassique en cours de restauration qui donne sur l'océan.  
+
+Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grandes ouvertes, deux policiers sont postés. Nous rpprochant d'eux, ils nous indiquent que l'entrée est libre. Nous pénétrons dans un grand hall après être passés sous un portique de sécurité tenu par un policier nonchalant et nous voilà seuls, dans le capitole, nous passons devant les bureaux des sénateurs, devant des reliques et expositions. De toute évidence, ils ne sont pas en vigipirate de quelque couleur que ce soit ….
+
+## Les bonnes tables :
 - Raices
 - Rosa de Triana
 - El Jibarito
