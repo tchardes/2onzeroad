@@ -55,5 +55,5 @@ Avec l'aide du réceptionniste de l'hôtel, nous avons contacté à l'assistance
 
 Nous nous y rendons, on nous tend les clés d'un Hyundai Tucson flambant neuf et donnons celles de notre Kia Rio. En deux coups de scans de code barre sur les véhicules le tour était joué et la copilote rassurée d'avoir à nouveau une roue de secours.  
 
-A la fin de notre séjour, nous ramenons le véhicule chez *Alamo*, j'avais préparé un discours de 5 minutes en anglais pour expliquer notre mésaventure mais l'agent à scanner la voiture et nous a dit c'est OK, good bye….. même pas pu me lancer dans mes explications. 
+A la fin de notre séjour, nous ramenons le véhicule chez **Alamo**, j'avais préparé un discours de 5 minutes en anglais pour expliquer notre mésaventure mais l'agent à scanner la voiture et nous a dit c'est OK, good bye….. même pas pu me lancer dans mes explications. 
 
