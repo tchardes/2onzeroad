@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      "Puerto Rico - Old San Juan"
+subtitle:   "Roadtrip d'une semaine à Puerto Rico du 30 juin au 07 juillet 2016"
+date:       2016-07-10 12:00:00
+author:     "Thierry"
+header-img: "assets/owner/blog/header/post-bg-puerto-rico-old-san-juan"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
+tags: [tag-name-one, tag-name-two]
+category: [cat03]
+comments: false
+share: false
+
+---
+
+# OLD SAN JUAN
+
+Le 30 juin 2016 après un petit vol d'une heure trente depuis Pointe-à-Pitre nous arrivons à Puerto Rico où nous commençons notre séjour par la Capitale et plus précisément le Old San Juan. Ces 4 jours à pied nous a permis de découvrir ce joyaux de la caraïbe. Notre hôtel situé Plazza de Armas au centre de la ville était idéal pour arpenter toutes les rues du centre historique coincé entre de nombreuses fortifications. Dès notre arrivée, nous sommes immédiatement impressionné du niveau de propreté de la ville ce qui est plutôt rare dans les caraïbes. Rien ne traine au sol, même à 22 heures 00 des employés communaux ramassent encore mégots et papiers. Toutes les façades de style colonial ont fait l'objet d'une campagne de restauration et arborent des tons pastels qui ajoutent à la douceur de vivre qui émane de cette ville. On y trouve de très bons restaurants proposant une cuisine traditionnelle. 
+
+L'achat du billet (5$) pour la visite du Castillo de San Cristobal vous permet également de visiter les jours suivants le Castillo San Felipe Del Moro qui sont les deux places fortes qui protégeaient la ville. 
+
+San Juan est surtout connu par les caribéens pour ces Mall, immenses centres commerciaux au format XXL américains. En effet beaucoup viennent pour un ou jeux jours de shopping où toutes les grandes marques sont représentées à des prix intéressants. Nous n'avons pas failli à la tradition et avons passons un long moment à "Las Americas", un temple de la consommation ou une journée complète est nécessaire pour en faire tour. A la pause, nous sommes allés prendre un repas dans un Cheesecake Factory, chaine de restaurants célèbre au USA dont la spécialité est un dessert, le Cheesecake. A part que le plat principal était tellement copieux, énorme, que nous n'avions plus de place pour goûter cette spécialité. On s'est rattrapé en fin de séjour….
+
+Le dimanche 3 juillet, nous nous rendons au Capitole siège de l'assemblée législative de Puerto Rico. Magnifique bâtiment en marbre de style néoclassique en cours de restauration qui donne sur l'océan. Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grandes ouvertes, gardées par deux policiers qui nous indiquent que l'entrée est libre. Nous pénétrons dans un grand hall après être passés devant un détecteur tenu par un policier nonchalant et nous voilà seuls, dans le capitole, nous passons devant les bureaux des sénateurs, devant des reliques et des expositions. De toute évidence, ils ne sont pas en vigipirate de quelque couleur que ce soit ….
+
+Les bonnes tables :
+- Raices
+- Rosa de Triana
+- El Jibarito
+- El Patio de Sam
+- Barrachina Restaurant 
+
