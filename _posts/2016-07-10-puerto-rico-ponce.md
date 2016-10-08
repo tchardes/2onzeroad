@@ -23,17 +23,23 @@ Le centre ville a également été entièrement restauré comme le Old San Juan.
 
 ## Y a plus de rhum ??
 
- Porto Rico est l'un des plus gros distilleur de Rhum au monde. Le préféré des portoricains est le **Don Q** qui vient du célèbre héros du roman de Cervantès, Don Quichotte, le **Captain Morgan** qui reprend le nom du célèbre flibustier qui écuma les mers et finit par devenir gouverneur de la Jamaïque, le **Castillo** et enfin le plus connu et vendu à l'étranger, **Bacardi** et bien d'autres **Ron del Barrilito**, **Ron Llave**, **Palo Viejo**.... Contrairement aux antilles françaises qui distillent du rhum agricole, ces rhums plus légers en alcool sont distillés après extraction du sucre de la canne. Durant notre voyage, qui n'a pas couvert toute l'île, nous n'avons vu aucun champ de cannes. Il est possible que Porto Rico achète la bagasse à des producteur de sucre comme Haïti et la République Dominicaine pour distiller son rhum. 
+ Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le **Don Q** qui vient du célèbre héros du roman de Cervantès, Don Quichotte, vient ensuite le **Captain Morgan** qui reprend le nom du célèbre flibustier qui écuma les mers et finit par devenir gouverneur de la Jamaïque, le **Castillo** et certainement le plus connu et vendu à l'étranger : **Bacardi** et bien d'autres moins connus comme **Ron del Barrilito**, **Ron Llave**, **Palo Viejo**....  
+ 
+ Contrairement aux antilles françaises qui distillent du rhum agricole, ces rhums plus légers en alcool sont distillés après extraction du sucre de la canne. Durant notre voyage, qui n'a pas couvert toute l'île, nous n'avons vu aucun champ de cannes. Il est possible que Porto Rico achète la bagasse à des pays producteurs de sucre comme Haïti et la République Dominicaine pour distiller son rhum. 
 
 Durant ces deux jours nous avons flâné dans la ville est avons particulièrement apprécié la visite de :
 
 * La Cathédrale Notre-Dame-de-Guadeloupe ;
-* Le Parque de Bombas, une ancienne caserne de pompier, immanquable, devenue musée avec des pièces historiques. 
-* La Croix de la Vigie, une tour de béton de 30 m construite sur les hauteur de Poncé.
+* Le Parque de Bombas, une ancienne caserne de pompier, immanquable, devenue musée avec des pièces historiques ;
+* La Croix de la Vigie, une tour de béton de 30 m construite sur les hauteur de Poncé ;
+* Le musée d'art de Poncé, un des plus beau de toutes les Antilles.
 
-Sur la place Degetau nous avons bien trouvé la "Fuente De Los Leones" une superbe fontaine entourée de lions mais nous n'avons pas osé plonger pour vérifier.
+## Et la fontaine de jouvence ?
 
-Les bonnes tables de Poncé :
+ Sur la place Degetau nous avons bien trouvé la "Fuente De Los Leones" une superbe fontaine entourée de lions mais nous n'avons pas osé plonger pour vérifier.
+
+## Les bonnes tables de Poncé :
+
 * Chef's Creations
 * Lola Electric Cuisine
 * Proscenium
