@@ -22,7 +22,7 @@ Immanquablement, l'évocation de Puerto Rico fait penser à West Side Story et l
 Cette semaine passée à Puerto Rico a été vraiment une très belle découverte, très dépaysante. Nous y avons rencontré des personnes très sympathiques et, en dehors de la capitale, assez surpris et content d'avoir la visite de français. Il est vrai que cette destination n'est pas forcément la plus prisée des caraïbes en venant de Paris. Pour ce roadtrip, nous nous sommes plus particulièrement attardés à la San Juan, région d'Arecibo et Poncé.  
 
 
-![Trajet] (2onzeroad\assets\owner\blog\galleries\puerto-rico.png "google map")  
+![Trajet] ({{root_url}}\assets\owner\blog\galleries\puerto-rico.png "google map")  
 
 
 ## Conseils pour partir Puerto Rico :  
