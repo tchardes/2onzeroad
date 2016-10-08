@@ -4,7 +4,7 @@ title:      "Puerto Rico - Old San Juan"
 subtitle:   "Roadtrip d'une semaine à Puerto Rico du 30 juin au 07 juillet 2016"
 date:       2016-07-10 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-puerto-rico-old-san-juan"
+header-img: "assets/owner/blog/header/post-bg-puerto-rico-old-san-juan.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
 tags: [tag-name-one, tag-name-two]
 category: [cat03]
