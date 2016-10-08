@@ -3,13 +3,13 @@ body {
 			   font-weight: 300;
   /*font-family: 'Lora', 'Times New Roman', serif;*/
   font-size: 3rem;
-  color: #666;
+  color: #666 !important;
   background-color: #FFF !important;
   /*background-image: url('/assets/owner/pattern.jpg');*/
   background-attachment: fixed;
 }
 p {
-  font-size:16px;
+  font-size:17px;
   margin: 30px 0;
 }
 p a {
