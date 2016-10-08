@@ -46,10 +46,14 @@ Durant ces deux jours nous avons flâné dans la ville est avons particulièreme
 * Cuerdas tavernas and tapas
 * Pizzeria Campioni (Cf, Cout de la Vie)
 
-Nous avons fait retour sur San Juan en longeant la cote par le Sud-Est. Nous voulions passer une après-midi à El Yunque National Forest qui propose des très belles randonnées avec de très belles cascades mais le temps ne s'y prêtait pas. A une petite demi-heure avant d'arriver à San Juan, nous nous sommes arrêtes à Canovanas à l'Outlet Mall 66, plus petit que Las Americas avec des prix dit "d'usine", très intéressant. 
+Nous avons fait retour sur San Juan en longeant la cote par le Sud-Est. Nous voulions passer une après-midi à El Yunque National Forest qui propose des très belles randonnées avec de très belles cascades mais le temps ne s'y prêtait pas. Une petite demi-heure avant d'arriver à San Juan, nous nous sommes arrêtes à Canovanas à l'Outlet Mall 66, plus petit que Las Americas avec des prix dit "d'usine", très intéressant. 
 
 
 **L'efficacité américaine :**
 
-Avec l'aide du réceptionniste de l'hôtel, nous téléphonons à l'assistance de notre loueur de véhicule afin de faire réparer le pneu crevé  à Arécibo. Alamo ne disposant pas d'agence à Poncé, ils nous donnent l'adresse d'un confrère afin d'y récupérer une nouvelle voiture. Nous nous y rendons, on nous tend les clés d'un Hyundai Tucson flambant neuf et donnons celles de notre Kia Rio. En deux coups de scans de code barre sur les véhicules le tour était joué et la copilote rassurée d'avoir à nouveau une roue de secours. A la fin de notre séjour, nous ramenons le véhicule chez Alamo, j'avais préparé un discours de 5 minutes en anglais pour expliquer notre mésaventure mais l'agent à scanner la voiture et nous a dit c'est OK, good bye….. même pas pu me lancer dans mes explications. 
+Avec l'aide du réceptionniste de l'hôtel, nous avons contacté à l'assistance de notre loueur de véhicule afin de faire réparer le pneu crevé à Arécibo. **Alamo** ne disposant pas d'agence à Poncé, ils nous donnent l'adresse d'un confrère afin d'y récupérer une nouvelle voiture.  
+
+Nous nous y rendons, on nous tend les clés d'un Hyundai Tucson flambant neuf et donnons celles de notre Kia Rio. En deux coups de scans de code barre sur les véhicules le tour était joué et la copilote rassurée d'avoir à nouveau une roue de secours.  
+
+A la fin de notre séjour, nous ramenons le véhicule chez *Alamo*, j'avais préparé un discours de 5 minutes en anglais pour expliquer notre mésaventure mais l'agent à scanner la voiture et nous a dit c'est OK, good bye….. même pas pu me lancer dans mes explications. 
 
