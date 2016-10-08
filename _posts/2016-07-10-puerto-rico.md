@@ -19,18 +19,19 @@ share: false
 
 Immanquablement, l'évocation de Puerto Rico fait penser à West Side Story et l'opposition entre les Shark et les Jets dans un New York du milieu des années 50. 80 ans plus tard, cette ile, territoire non incorporé des Etats Unis au statut d'Etat libre associé, est toujours tiraillée entre vouloir obtenir son indépendance ou devenir le 51éme état des Etats-Unis, c'est ce qui lui donne tout son charme, une ile historiquement et profondément hispanique vivant à l'américaine où tous les drapeaux sont systématiquement binômés.
 
-Cette semaine passée à Puerto Rico a été vraiment une très belle découverte, très dépaysante. Nous y avons rencontré des personnes très sympathiques et, en dehors de la capitale, assez surpris et content d'avoir la visite de français. Il est vrai que cette destination n'est pas forcément la plus prisée des caraïbes en venant de Paris. Pour ce roadtrip, nous nous sommes plus particulièrement attardés à la San Juan, région d'Arecibo et Poncé.
+Cette semaine passée à Puerto Rico a été vraiment une très belle découverte, très dépaysante. Nous y avons rencontré des personnes très sympathiques et, en dehors de la capitale, assez surpris et content d'avoir la visite de français. Il est vrai que cette destination n'est pas forcément la plus prisée des caraïbes en venant de Paris. Pour ce roadtrip, nous nous sommes plus particulièrement attardés à la San Juan, région d'Arecibo et Poncé.  
 
 
-![Trajet] (/assets/owner/blog/galleries-puerto-rico.png "google map")
+![Trajet] (2onzeroad\assets\owner\blog\galleries\puerto-rico.png "google map")  
 
-## Conseils pour partir Puerto Rico :
 
-### Formalités avant de partir :
+## Conseils pour partir Puerto Rico :  
 
-Il est nécessaire d'avoir un passeport électronique ou au mieux biométrique et d'avoir rempli et payé sa demande de visa en ligne "ESTA" car vous vous rendez malgré tout aux USA.
+### Formalités avant de partir :  
 
-### Quand partir ?
+Il est nécessaire d'avoir un passeport électronique ou au mieux biométrique et d'avoir rempli et payé sa demande de visa en ligne "ESTA" car vous vous rendez malgré tout aux USA.  
+
+### Quand partir ?  
 
 Comme pour tout voyage dans l'arc antillais, la période idéale pour se rendre à Puerto Rico est de décembre à mai, en dehors de la période cyclonique. Très prisée par les américains cette période est également la plus chargée. Nous y sommes allés hors saison, fin juin début juillet.
 
