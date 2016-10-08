@@ -41,7 +41,7 @@ Nous vous conseillons de changer quelques dollars US avant votre départ, le co�
 
 ### Nourriture
 
-Les restaurants sont à l'image du pays, la gastronomie est à la fois traditionnelle caribéenne, espagnole avec de nombreux bars à tapas et américaine avec toutes ses chaines de restauration rapide. Demeurant en Guadeloupe, nous avons retrouvé le même type de plats locaux. Nous avons toutefois découvert et particulièrement apprécié le "Mofongo" composée d'une écrasée de bananes plantains frites et de Yuca frit, servi dans un plat traditionnel en bois en forme de Mortier. Le Yuca frit est également excellent. Les portions sont à l'américaine, énormes.
+Les restaurants sont à l'image du pays, la gastronomie est à la fois traditionnelle caribéenne, espagnole avec de nombreux bars à tapas et américaine avec toutes ses chaines de restauration rapide. Demeurant en Guadeloupe, nous avons retrouvé le même type de plats locaux. Nous avons toutefois découvert et particulièrement apprécié le "Mofongo" composée d'une écrasée de bananes plantain frites et de Yuca frit, servi dans un plat traditionnel en bois en forme de Mortier. Le Yuca frit est également excellent. Les portions sont à l'américaine, énormes.
 
 ### Hôtels
 
@@ -51,9 +51,9 @@ Nous avons dormi dans trois hôtels différents, tous aux normes américaines, l
 
 Nous n'avons pas réservé à l'avance de véhicule de location, sachant que nous n'en n'aurions pas besoin pour les premiers jours. Ne trouvant pas de véhicule de location hors grandes enseignes, à un prix raisonnable, nous sommes retournés à l'aéroport pour louer une voiture chez ALAMO. L'agent a été très dubitatif à la vue de mon permis de conduire, surtout la photo, qui date de …. longtemps. En discutant avec lui il a reconnu qu'il lui fallait souvent une grande imagination pour reconnaître les conducteurs à partir des photos des permis français et allemands.
 
-Tous les véhicules sont automatiques. La signalisation routière est assez claire et sans GPS juste avec une carte nous nous sommes débrouillés. Si la qualité du réseau routier est assez bonne sur le réseau principal et les grands axes, dès que l'on s'éloigne un peu, il se dégrade vite avec de nombreux nids de poule, nous en avons fait la mauvaise expérience. Le plus déroutant est leur signalisation une fois en anglais avec les distances et limitations de vitesse en Miles et une autre fois en espagnol avec des Km, d'ou l'intérêt d'avoir des compteurs qui indiquent les deux … 
+Tous les véhicules sont automatiques. La signalisation routière est assez claire et sans GPS juste avec une carte nous nous sommes débrouillés. Si la qualité du réseau routier est assez bonne sur le réseau principal et les grands axes, dès que l'on s'éloigne un peu, il se dégrade vite avec de nombreux nids de poule, nous en avons fait la mauvaise expérience. Le plus déroutant est leur signalisation une fois en anglais avec les distances et limitations de vitesse en Miles et une autre fois en espagnol avec des Kms, d'ou l'intérêt d'avoir des compteurs qui indiquent les deux … 
 
  
 ### Sécurité
 
-Police omniprésente en Harley, 4x4 ou grosses berlines, aucun sentiment d'insécurité.
+Police omniprésente en Harley Davidson, 4x4 ou grosses berlines, aucun sentiment d'insécurité.
