@@ -35,7 +35,7 @@ A la pause, nous prennons notre repas dans un Cheesecake Factory, chaine de rest
 
 Le dimanche 3 juillet, nous nous rendons au Capitole, siège de l'assemblée législative de Puerto Rico. Magnifique bâtiment en marbre de style néoclassique en cours de restauration qui donne sur l'océan.  
 
-Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grandes ouvertes, deux policiers sont postés. Nous rpprochant d'eux, ils nous indiquent que l'entrée est libre. Nous pénétrons dans un grand hall après être passés sous un portique de sécurité tenu par un policier nonchalant et nous voilà seuls, dans le capitole, nous passons devant les bureaux des sénateurs, devant des reliques et expositions. De toute évidence, ils ne sont pas en vigipirate de quelque couleur que ce soit ….
+Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grandes ouvertes, deux policiers sont postés. Nous rapprochant d'eux, ils nous indiquent que l'entrée est libre. Nous pénétrons dans un grand hall après être passés sous un portique de sécurité tenu par un policier nonchalant et nous voilà seuls, dans le capitole, nous passons devant les bureaux des sénateurs, devant des reliques et expositions. De toute évidence, ils ne sont pas en vigipirate de quelque couleur que ce soit ….
 
 ## Les bonnes tables :
 - Raices
