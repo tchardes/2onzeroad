@@ -24,6 +24,8 @@ Cette semaine passée à Puerto Rico a été vraiment une très belle découvert
 
 ![Trajet] (/assets/owner/blog/galleries/puerto-rico.png "google map plop")  
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/owner/blog/galleries/puerto-rico.png">
+
 
 ## Conseils pour partir Puerto Rico :  
 
