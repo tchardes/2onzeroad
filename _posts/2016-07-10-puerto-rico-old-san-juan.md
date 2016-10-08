@@ -15,7 +15,13 @@ share: false
 
 # OLD SAN JUAN
 
-Le 30 juin 2016 après un petit vol d'une heure trente depuis Pointe-à-Pitre nous arrivons à Puerto Rico où nous commençons notre séjour par la Capitale et plus précisément le Old San Juan. Ces 4 jours à pied nous a permis de découvrir ce joyaux de la caraïbe. Notre hôtel situé Plazza de Armas au centre de la ville était idéal pour arpenter toutes les rues du centre historique coincé entre de nombreuses fortifications. Dès notre arrivée, nous sommes immédiatement impressionné du niveau de propreté de la ville ce qui est plutôt rare dans les caraïbes. Rien ne traine au sol, même à 22 heures 00 des employés communaux ramassent encore mégots et papiers. Toutes les façades de style colonial ont fait l'objet d'une campagne de restauration et arborent des tons pastels qui ajoutent à la douceur de vivre qui émane de cette ville. On y trouve de très bons restaurants proposant une cuisine traditionnelle. 
+Le 30 juin 2016 après un petit vol d'une heure trente depuis Pointe-à-Pitre nous arrivons à Puerto Rico où nous commençons notre séjour par la Capitale et plus précisément le Old San Juan. Ces 4 jours à pied nous ont permis de découvrir ce joyaux de la caraïbe.  
+
+Notre hôtel **Plazza de Armas** situé au centre de la ville est idéal pour arpenter toutes les rues du centre historique coincé entre de nombreuses fortifications.  
+
+Dès notre arrivée, nous sommes immédiatement impressionnés du niveau de propreté de la ville, ce qui est plutôt rare dans les caraïbes. Rien ne traine au sol, même à 22 heures 00 des employés communaux ramassent encore mégots et papiers.  
+
+Toutes les façades de style colonial ont fait l'objet d'une campagne de restauration et arborent des tons pastels qui ajoutent à la douceur de vivre qui émane de cette ville. On se met à imaginer ce que serait ou sera la Havane quand elle sera elle aussi restaurée. On y trouve de très bons restaurants proposant une cuisine traditionnelle.  
 
 L'achat du billet (5$) pour la visite du Castillo de San Cristobal vous permet également de visiter les jours suivants le Castillo San Felipe Del Moro qui sont les deux places fortes qui protégeaient la ville. 
 
