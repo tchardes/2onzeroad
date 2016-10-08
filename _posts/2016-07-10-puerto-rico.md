@@ -37,7 +37,7 @@ Comme pour tout voyage dans l'arc antillais, la période idéale pour se rendre 
 
 ### Coût de la vie
 
-Nous vous conseillons de changer quelques dollars US avant votre départ, le coût de la vie étant relativement élevé. Comme aux USA, les prix affichés sont Hors Taxe (11 %) et hors Tips (entre 10 et 18 %). Au final la note peut-être vite salée. Un dimanche soir à Poncé nous n'avons trouvé qu'une pizzeria d'ouverte "Pizzeria Campioni" au demeurant une très bonne adresse. Pour deux Pizzas normales, pour eux (donc bien trop grande), et une bouteille de vin Frizzante, la facture s'est élevée à 80 $ tout compris. Nous sommes repartis avec un doggy bag. 
+Nous vous conseillons de changer quelques dollars US avant votre départ, le coût de la vie étant relativement élevé. Comme aux USA, les prix affichés sont Hors Taxe (11 %) et hors Tips (entre 10 et 18 %). Au final la note peut-être vite salée. Un dimanche soir à Poncé nous n'avons trouvé qu'une pizzeria d'ouverte "Pizzeria Campioni" au demeurant une très bonne adresse. Pour deux Pizzas normales, pour eux (donc bien trop grandes), et une bouteille de vin Frizzante, la facture s'est élevée à 80 $ tout compris. Nous sommes repartis avec un doggy bag. 
 
 ### Nourriture
 
