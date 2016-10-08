@@ -27,11 +27,10 @@ Vous connaissez forcement ce site qui a été exploité plusieurs fois par le ci
 Un peu déçu par cette visite qui faisait pourtant partie de la liste des nombreuses choses que j'avais inscrite en me disant que j'aimerai bien le voir une fois en vrai. Au final, pas de James Bond ni d'extra terrestre ni même un E.T. phone home. Non, ce site est vraiment à voir si on passe vers Arecibo et assez inattendu en ce lieu. Bien que d'aspect un peu vieillissant cette technologie est toujours d'actualité puisque les chinois viennent de mettre en service le 26/09/2016 ce qui est devenu le plus grand radiotélescope au monde avec un diamètre de 500 mètres.  
 
  
-Notre route nous conduit plein sud à PONCE, côté mer des caraïbes en traversant le massif forestier par la Ruta 10. Pour rattraper cet axe je me suis un peu perdu dans la montagne et on s'est retrouvé sur une petite route, tellement peu fréquentée que le goudron était recouvert de mousse. Ma copilote, déjà pas rassurée de rouler avec une galette, se voyait déjà subir une nouvelle crevaison
-et finir là, oubliés de tous en pleine foret tropicale….  
+Notre route nous conduit plein sud à PONCE, côté mer des caraïbes en traversant le massif forestier par la Ruta 10. Pour rattraper cet axe je me suis un peu perdu dans la montagne et on s'est retrouvé sur une petite route, tellement peu fréquentée que le goudron était recouvert de mousse. Ma copilote, déjà pas rassurée de rouler avec une galette, se voyait déjà subir une nouvelle crevaison et finir là, oubliés de tous, en pleine foret tropicale….  
 
 
-*Autre lieu à visiter dans les environs :* 
+**Autre lieu à visiter dans les environs :** 
 
 Non loin, se trouve également le parc des grottes de Rio Camuy que nous n'avons pas eu le temps de visiter mais qui est assez bien noté par les voyageurs.
 
