@@ -15,9 +15,15 @@ share: false
 # PONCE  "Et la fontaine de Jouvance"
 
 
-Nous sommes finalement parvenus à retrouver la Ruta 10 et sommes arrivés, entiers, à Poncé où nous avons passé deux jours entiers. Deuxième ville d'importance de Puerto Rico, elle tire son nom du célèbre Juan Ponce de Léon, conquistador et premier gouverneur de Puerto Rico. Nous avions réservé au Ponce Plaza Hôtel, très bien situé et très agrèable.
+Nous sommes finalement parvenus à retrouver la Ruta 10 et sommes arrivés, entiers, à Poncé où nous avons passé deux jours entiers. Deuxième ville d'importance de Puerto Rico, elle tire son nom du célèbre Juan Ponce de Léon, conquistador et premier gouverneur de Puerto Rico.
 
-Le centre ville a également été entièrement restauré comme le Old San Juan. De très beaux bâtiments sont ainsi mis en valeur et démontrent le passé riche et commerçant de la ville notamment   grâce avec la culture de la canne à sucre et ses distilleries de Rhum (Rum).
+Nous avions réservé au **Ponce Plaza Hôtel**, très bien situé et très agrèable.
+
+Le centre ville a également été entièrement restauré comme le Old San Juan. De très beaux bâtiments ont été remis en valeur et démontrent du passé riche et commerçant de la ville, notamment grâce à la culture de la canne à sucre et ses distilleries de Rhum (Rum ou Ron).
+
+## Y a plus de rhum ??
+
+ Porto Rico est l'un des plus gros distilleur de Rhum au monde. Le préféré des portoricains est le **Don Q** qui vient du célèbre héros du roman de Cervantès, Don Quichotte, le **Captain Morgan** qui reprend le nom du célèbre flibustier qui écuma les mers et finit par devenir gouverneur de la Jamaïque, le **Castillo** et enfin le plus connu et vendu à l'étranger, **Bacardi** et bien d'autres **Ron del Barrilito**, **Ron Llave**, **Palo Viejo**.... Contrairement aux antilles françaises qui distillent du rhum agricole, ces rhums plus légers en alcool sont distillés après extraction du sucre de la canne. Durant notre voyage, qui n'a pas couvert toute l'île, nous n'avons vu aucun champ de cannes. Il est possible que Porto Rico achète la bagasse à des producteur de sucre comme Haïti et la République Dominicaine pour distiller son rhum. 
 
 Durant ces deux jours nous avons flâné dans la ville est avons particulièrement apprécié la visite de :
 
