@@ -33,7 +33,7 @@ Il est nécessaire d'avoir un passeport électronique ou au mieux biométrique e
 
 ### Quand partir ?  
 
-Comme pour tout voyage dans l'arc antillais, la période idéale pour se rendre à Puerto Rico est de décembre à mai, en dehors de la période cyclonique. Très prisée par les américains cette période est également la plus chargée. Nous y sommes allés hors saison, fin juin début juillet.
+Comme pour tout voyage dans l'arc antillais, la période idéale pour se rendre à Puerto Rico est de décembre à mai, en dehors de la période cyclonique. Très prisée par les américains cette période est également la plus chargée et la plus chère. Nous y sommes allés hors saison, fin juin début juillet.
 
 ### Coût de la vie
 
