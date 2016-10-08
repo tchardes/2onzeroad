@@ -24,6 +24,8 @@ L'observatoire est niché dans les montagnes. Arrivés à l'entrée du site, des
 
 Vous connaissez forcément ce site qui a été exploité plusieurs fois par le cinéma, notamment dans la scène finale du film de James Bond 007 "GoldenEye", dans un épisode X-Files intitulé Petits Hommes Verts, il est apparu également dans les films Contact, The Arrival, The Losers et La Mutante1.  
 
+# Rencontre du troisème type ?
+
 Un peu déçu par cette visite qui faisait pourtant partie des nombreuses choses que j'avais envie de voir au moins une fois dans ma vie. Au final, pas de James Bond ni d'extra terrestre ni même un E.T. phone home. **Non !!!**, ce site est vraiment à voir si on passe vers Arecibo et assez inattendu en ce lieu. Bien que d'aspect un peu vieillissant cette technologie est toujours d'actualité puisque les chinois viennent de mettre en service le 26/09/2016 ce qui est devenu le plus grand radiotélescope au monde avec un diamètre de 500 mètres.  
  
 Notre route nous conduit plein sud à PONCE, côté mer des caraïbes en traversant le massif forestier par la Ruta 10. Pour rattraper cet axe je me suis un peu perdu dans la montagne et on s'est retrouvé sur une petite route, tellement peu fréquentée que le goudron était recouvert de mousse. Ma copilote, déjà pas rassurée de rouler avec une galette, se voyait déjà subir une nouvelle crevaison et finir là, oubliés de tous, en pleine forêt tropicale….  
