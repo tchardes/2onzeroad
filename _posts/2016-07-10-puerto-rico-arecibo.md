@@ -33,7 +33,7 @@ Un peu déçu par cette visite qui faisait pourtant partie des nombreuses choses
 Notre route nous conduit plein sud à PONCE, côté mer des caraïbes en traversant le massif forestier par la Ruta 10. Pour rattraper cet axe je me suis un peu perdu dans la montagne et on s'est retrouvé sur une petite route, tellement peu fréquentée que le goudron était recouvert de mousse. Ma copilote, déjà pas rassurée de rouler avec une galette, se voyait déjà subir une nouvelle crevaison et finir là, oubliés de tous, en pleine forêt tropicale….  
 
 
-**Autre lieu à visiter dans les environs :** 
+# Autre lieu à visiter dans les environs : 
 
 Non loin, se trouve également le parc des grottes de Rio Camuy que nous n'avons pas eu le temps de visiter mais qui est assez bien noté par les voyageurs.
 
