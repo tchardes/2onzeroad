@@ -15,7 +15,7 @@ share: false
 
 # PUERTO RICO
 
-PUERTO RICO ou PORTO RICO, selon que l'on soit portoricain hispanophone ou anglophone, cela traduit toute la complexité de la plus petite ile des grandes Antilles dans les caraïbes, située entre Cuba, La Jamaïque et Saint Domingues.
+PUERTO RICO ou PORTO RICO, selon que l'on soit portoricain hispanophone ou anglophone, cela traduit toute la complexité de la plus petite ile des grandes Antilles dans les caraïbes, située entre Cuba, La Jamaïque et Hispaniola (Haîti et la République dominicaine).
 
 Immanquablement, l'évocation de Puerto Rico fait penser à West Side Story et l'opposition entre les Shark et les Jets dans un New York du milieu des années 50. 80 ans plus tard, cette ile, territoire non incorporé des Etats Unis au statut d'Etat libre associé, est toujours tiraillée entre vouloir obtenir son indépendance ou devenir le 52 éme état des Etats-Unis, c'est ce qui lui donne tout son charme, une ile historiquement et profondément hispanique vivant à l'américaine où tous les drapeaux sont systématiquement binômés.
 
