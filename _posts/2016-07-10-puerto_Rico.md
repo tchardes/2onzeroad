@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Puerto RicoToulouse town"
+title:      "Puerto Rico"
 subtitle:   "Roadtrip d'une semaine à Puerto Rico du 30 juin au 07 juillet 2016"
 date:       2016-07-10 12:00:00
 author:     "Thierry"
@@ -24,7 +24,7 @@ Immanquablement, l'évocation de Puerto Rico fait penser à West Side Story et l
 Cette semaine passée à Puerto Rico a été vraiment une très belle découverte, très dépaysante. Nous y avons rencontré des personnes très sympathiques et, en dehors de la capitale, assez surpris et content d'avoir la visite de français. Il est vrai que cette destination n'est pas forcément la plus prisée des caraïbes en venant de Paris. Pour ce roadtrip, nous nous sommes plus particulièrement attardés à la San Juan, région d'Arecibo et Poncé.
 
 
-![Trajet](assets/owner/blog/header/post-bg-puerto-rico.png "google map")
+![Trajet](assets/owner/galleries-puerto rico.png "google map")
 
 ## Conseils pour partir Puerto Rico :
 
