@@ -11,9 +11,7 @@ category: [cat03]
 comments: false
 share: false
 
-
-<p> Content of your post HERE </p>
-
+---
 
 # PUERTO RICO
 
