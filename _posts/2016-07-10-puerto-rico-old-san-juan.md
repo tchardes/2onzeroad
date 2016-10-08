@@ -15,7 +15,7 @@ share: false
 
 # OLD SAN JUAN
 
-Le 30 juin 2016 après un petit vol d'une heure trente depuis Pointe-à-Pitre nous arrivons à Puerto Rico où nous commençons notre séjour par la Capitale et plus précisément le Old San Juan. Ces 4 jours à pied nous ont permis de découvrir ce joyaux de la caraïbe.  
+Le 30 juin 2016 après un petit vol d'une heure trente depuis Pointe-à-Pitre nous arrivons à Puerto Rico où nous commençons notre séjour par la Capitale et plus précisément le Old San Juan. Ces 4 jours à pied nous ont permis de découvrir ce joyaux de la caraïbe.    
 
 Notre hôtel **Plazza de Armas** situé au centre de la ville est idéal pour arpenter toutes les rues du centre historique coincé entre de nombreuses fortifications.  
 
