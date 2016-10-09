@@ -1,11 +1,9 @@
-body {
+/*body {
   font-family: 'Lato', sans-serif;
 			   font-weight: 300;
-  /*font-family: 'Lora', 'Times New Roman', serif;*/
   font-size: 3rem;
   color: #666 !important;
   background-color: #FFF !important;
-  /*background-image: url('/assets/owner/pattern.jpg');*/
   background-attachment: fixed;
 }
 p {
@@ -96,7 +94,6 @@ hr.small {
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
     transition: background-color 0.3s;
-    /* Force Hardware Acceleration in WebKit */
     -webkit-transform: translate3d(0, 0, 0);
     -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
@@ -106,7 +103,6 @@ hr.small {
     backface-visibility: hidden;
   }
   .navbar-custom.is-fixed {
-    /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
     top: -70px;
     background-color: rgba(81, 52, 52, 0.9);
@@ -130,7 +126,6 @@ hr.small {
     color: #0085a1;
   }
   .navbar-custom.is-visible {
-    /* if the user changes the scrolling direction, we show the header */
     -webkit-transform: translate3d(0, 100%, 0);
     -moz-transform: translate3d(0, 100%, 0);
     -ms-transform: translate3d(0, 100%, 0);
@@ -420,7 +415,7 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
-}
+}*/
 
 
 
