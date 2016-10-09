@@ -7,7 +7,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-old-san-juan.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-osj.jpg
 tags: [tag-name-one, tag-name-two]
-category: [cat03]
+category: [Puerto Rico - Old San Juan]
 comments: false
 share: false
 
