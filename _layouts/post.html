@@ -38,7 +38,7 @@ layout: default
                         <i class="fa fa-calendar"></i>{{ page.date | date: "%B %-d, %Y" }}
 
                         {% assign minutes = content | number_of_words | divided_by: 180 %}
-                        <i class="fa fa-clock-o"></i>&nbsp;{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+                        <i class="fa fa-clock-o" style="padding:0 10px 0 15px"></i>{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
                         {{ minutes }} min.
 
                         {% if post.tags.size > 0 %}
