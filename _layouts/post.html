@@ -46,7 +46,7 @@ layout: default
                         {% for tag in page.tags %}<a href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}{% endif %}
 
                         {% if post.categories.size > 0 %}
-                            &sim; {% if post.categories.size == 1 %}<i class="fa fa-briefcase"></i>{% endif %}&nbsp;:&nbsp;<span class="post-tags">{% for tag in page.categories %}<a href="{{ site.baseurl }}/writing/category/{{ tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts filed in {{ tag }} category" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %%}{% endif %}</span>
+                            &sim; {% if post.categories.size == 1 %}<i class="fa fa-briefcase"></i>{% endif %}&nbsp;:&nbsp;<span>{% for tag in page.categories %}<a href="{{ site.baseurl }}/writing/category/{{ tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts filed in {{ tag }} category" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %%}{% endif %}</span>
                         </span>
                     </div>
                     </div>
