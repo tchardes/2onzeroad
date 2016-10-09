@@ -25,7 +25,7 @@ Toutes les façades de style colonial ont fait l'objet d'une campagne de restaur
 
 La calle Fortaleza concentre de nombreuses boutiques d'artisanat local. On y trouve notamment les masques traditionnels de carnaval **"Vejigante"** très colorés ainsi que des santons qui n'ont rien à envier à ceux de Provence.   
 
-L'architecture militaire omniprésente (Rempart, castillo ...) atteste de l'importance que les espagnols accordés à Puerto Rico. Nous avons visité le Castillo de San Cristobal et l'achat du billet (5$) permet également de visiter, les jours suivants, le Castillo San Felipe Del Moro qui sont les deux principales places fortes qui protégeaient la ville.  
+L'architecture militaire omniprésente (Rempart, castillo ...) atteste de l'importance que les espagnols accordaient à Puerto Rico. Nous avons visité le Castillo de San Cristobal et l'achat du billet (5$) permet également de visiter, les jours suivants, le Castillo San Felipe Del Moro qui sont les deux principales places fortes qui protégeaient la ville.  
 
 San Juan est surtout connu par les caribéens pour ces outlet ou Mall, immenses centres commerciaux au format XXL américains. En effet beaucoup viennent pour un ou deux jours de shopping où toutes les grandes marques sont représentées à des prix intéressants. Nous n'avons pas failli à la tradition et avons passé un long moment à "Las Americas", un temple de la consommation où une journée complète est nécessaire pour en faire le tour. 
 
