@@ -503,6 +503,7 @@ img::-moz-selection {
 		
 .fh5co-post	.fh5co-post-text {
   padding: 10px;
+  height: 135px;
 }
 .fh5co-post	.fh5co-post-text h3 {
   font-size: 17px;
@@ -530,11 +531,11 @@ img::-moz-selection {
 
 .fh5co-post-meta	a {
   font-size: 13px;
-  margin-right: 10px;
+  margin-right: 2px;
   margin-bottom: 20px;
   color: 	#666;
 }
 .fh5co-post-meta	a	i {
   display: inline-block;
-  margin-right: 5px;
+  margin-right: 2px;
 }
