@@ -1,4 +1,4 @@
-/*body {
+body {
   font-family: 'Lato', sans-serif;
 			   font-weight: 300;
   font-size: 3rem;
@@ -105,13 +105,11 @@ hr.small {
   .navbar-custom.is-fixed {
     position: fixed;
     top: -70px;
-    background-color: rgba(81, 52, 52, 0.9);
-    border-bottom: 10px solid #223333;
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
     transition: transform 0.3s;
   }
-  .navbar-custom.is-fixed .navbar-brand {
+  /*.navbar-custom.is-fixed .navbar-brand {
     color: #3C763D;
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
@@ -124,7 +122,7 @@ hr.small {
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
     color: #0085a1;
-  }
+  }*/
   .navbar-custom.is-visible {
     -webkit-transform: translate3d(0, 100%, 0);
     -moz-transform: translate3d(0, 100%, 0);
@@ -415,7 +413,7 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
-}*/
+}
 
 
 
