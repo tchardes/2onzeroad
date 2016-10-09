@@ -1839,13 +1839,13 @@ textarea {
 }
 
 a {
-  color: #008989;
+  color: #092db7;
     transition: color .3s;
 }
 
 a:focus,
 a:hover {
-  color: #f08080;
+  color: #af0404;
       transition: color .4s;
   outline: none;
   text-decoration: none;
