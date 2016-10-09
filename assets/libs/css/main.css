@@ -491,12 +491,12 @@ img::-moz-selection {
   font-size: 10px;
   padding: 2px 10px;
   line-height: 1.5;
-  font-family: #666;
   text-transform: uppercase;
-  color: #FFF;
-  border: 1px solid #FFF;
+  color: #666;
+  font-weight: 500;
   margin: 0 4px 4px 0;
   border-radius: 30px;
+  background-color: rgba(255,255,255,0.7);
 }
 
 			
