@@ -430,6 +430,7 @@ img::-moz-selection {
 
 .fh5co-post {
   float: left;
+  height: 360px;
   width: 100%;
   background: #FFF;
   position: relative;
@@ -453,7 +454,7 @@ img::-moz-selection {
 
 .fh5co-post .fh5co-post-image img {
   width:100%;
-  min-height: 250px;
+  min-height: 200px;
   transition: all 1s;
   -moz-transition: all 1s;
   -webkit-transition: all 1s;
@@ -481,7 +482,7 @@ img::-moz-selection {
   right: 0;
 }
 .fh5co-post .fh5co-post-image	.fh5co-category {
-  margin: -10px 0 0 10px;
+  margin: 5px 0 0 10px;
   float: left;
   z-index: 2;
   position: absolute;
@@ -501,7 +502,7 @@ img::-moz-selection {
 			
 		
 .fh5co-post	.fh5co-post-text {
-  padding: 20px;
+  padding: 10px;
 }
 .fh5co-post	.fh5co-post-text h3 {
   font-size: 17px;
