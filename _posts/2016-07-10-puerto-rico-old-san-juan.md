@@ -44,6 +44,6 @@ Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grande
 - Rosa de Triana
 - El Jibarito
 - El Patio de Sam
-- Barrachina Restaurant 
+- Barrachina (lieu où a été inventé la Pina Colada)
 - CheeseCake Factory
 
