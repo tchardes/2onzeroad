@@ -37,11 +37,11 @@ Comme pour tout voyage dans l'arc antillais, la période idéale pour se rendre 
 
 ### Coût de la vie
 
-Nous vous conseillons de changer quelques dollars US avant votre départ, le coût de la vie étant relativement élevé. Comme aux USA, les prix affichés sont Hors Taxe (11 %) et hors Tips (entre 10 et 18 %). Au final la note peut-être vite salée. Un dimanche soir à Poncé nous n'avons trouvé qu'une pizzeria d'ouverte "Pizzeria Campioni" au demeurant une très bonne adresse. Pour deux Pizzas normales, pour eux (donc bien trop grandes), et une bouteille de vin Frizzante, la facture s'est élevée à 80 $ tout compris. Nous sommes repartis avec un doggy bag. 
+La monnaie en vigueur est le Dollar US. Le coût de la vie étant relativement élevé, il faut prévoir un certain budget (bien sur tout dépend de vote façon de voyager). Comme aux USA, les prix affichés sont Hors Taxe (11 %) et hors Tips (entre 10 et 18 %). Au final la note peut-être vite salée. Un dimanche soir à Poncé nous n'avons trouvé qu'une pizzeria d'ouverte "Pizzeria Campioni" au demeurant une très bonne adresse. Pour deux Pizzas normales, pour eux (donc bien trop grandes), et une bouteille de vin Frizzante, la facture s'est élevée à 80 $ tout compris. Nous sommes quand même repartis avec un doggy bag. 
 
 ### Nourriture
 
-Les restaurants sont à l'image du pays, la gastronomie est à la fois traditionnelle caribéenne, espagnole avec de nombreux bars à tapas et américaine avec toutes ses chaines de restauration rapide. Demeurant en Guadeloupe, nous avons retrouvé le même type de plats locaux. Nous avons toutefois découvert et particulièrement apprécié le "Mofongo" composée d'une écrasée de bananes plantain frites et de Yuca frit, servi dans un plat traditionnel en bois en forme de Mortier. Le Yuca frit est également excellent. Les portions sont à l'américaine, énormes.
+Les restaurants sont à l'image du pays, la gastronomie est à la fois traditionnelle caribéenne, espagnole avec de nombreux bars à tapas et américaine avec toutes ses chaines de restauration rapide. Demeurant en Guadeloupe, nous avons retrouvé le même type de plats locaux. Nous avons toutefois découvert et particulièrement apprécié le "Mofongo" composée d'une écrasée de bananes plantain frites et de Yuca frit, servi dans un plat traditionnel en bois en forme de Mortier. Le Yuca frit comme des french fries est également excellent. Les portions sont à l'américaine, énormes.
 
 ### Hôtels
 
@@ -53,6 +53,7 @@ Nous n'avons pas réservé à l'avance de véhicule de location, sachant que nou
 
 Tous les véhicules sont automatiques. La signalisation routière est assez claire et sans GPS juste avec une carte nous nous sommes débrouillés. Si la qualité du réseau routier est assez bonne sur le réseau principal et les grands axes, dès que l'on s'éloigne un peu, il se dégrade vite avec de nombreux nids de poule, nous en avons fait la mauvaise expérience. Le plus déroutant est leur signalisation une fois en anglais avec les distances et limitations de vitesse en Miles et une autre fois en espagnol avec des Kms, d'ou l'intérêt d'avoir des compteurs qui indiquent les deux … 
 
+Comme aux USA, il faut payer son carburant à la caisse avant de se servir à la pompe.
  
 ### Sécurité
 
