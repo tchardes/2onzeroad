@@ -32,6 +32,7 @@ layout: default
                 </div>
                 <div class="time-tag-categ" style="width:100%;height:30px;background-color:#4285f4;font-size:.55em;color:#FFF">
                     <div class="container">
+                        <div class="row">
                         <i class="fa fa-pencil"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}
                         <i class="fa fa-calendar"></i>{{ page.date | date: "%B %-d, %Y" }}
 
@@ -46,6 +47,7 @@ layout: default
                         {% if post.categories.size > 0 %}
                             &sim; {% if post.categories.size == 1 %}<i class="fa fa-briefcase"></i>{% endif %}&nbsp;:&nbsp;<span class="post-tags">{% for tag in page.categories %}<a href="{{ site.baseurl }}/writing/category/{{ tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts filed in {{ tag }} category" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %%}{% endif %}</span>
                         </span>
+                    </div>
                     </div>
                 </div>
             </header>
