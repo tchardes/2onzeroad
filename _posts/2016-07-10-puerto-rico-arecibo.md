@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Puerto Rico - Arécibo"
-subtitle:   "Roadtrip d'une semaine à Puerto Rico du 30 juin au 07 juillet 2016"
+subtitle:   "A la recherche de E.T."
 date:       2016-07-10 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-arecibo.jpg"
