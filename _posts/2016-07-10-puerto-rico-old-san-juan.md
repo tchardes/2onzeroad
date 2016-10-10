@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Puerto Rico - Old San Juan"
+title:      "Old San Juan"
 subtitle:   "Douceur de vivre dans la vieille ville"
 date:       2016-07-10 12:00:00
 author:     "Thierry"

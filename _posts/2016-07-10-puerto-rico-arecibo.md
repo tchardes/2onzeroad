@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Puerto Rico - Arécibo"
+title:      "Arécibo"
 subtitle:   "A la recherche de E.T."
 date:       2016-07-10 12:00:00
 author:     "Thierry"

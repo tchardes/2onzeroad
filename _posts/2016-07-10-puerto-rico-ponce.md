@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Puerto Rico - Poncé"
+title:      "Poncé"
 subtitle:   "Et la fontaine de Jouvance"
 date:       2016-07-10 12:00:00
 author:     "Thierry"
