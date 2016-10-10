@@ -7,7 +7,8 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-arecibo.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-arecibo.jpg
 tags: [tag-name-one, tag-name-two]
-categories: [Puerto Rico, Arécibo]
+
+categories: jekyll update
 comments: false
 share: false
 
