@@ -31,8 +31,6 @@ Toutes les façades de style colonial ont fait l'objet d'une campagne de restaur
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/owner/blog/galleries/g03/OSJ7.jpg">
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/owner/blog/galleries/g03/OSJ3.jpg">
-
 La calle Fortaleza concentre de nombreuses boutiques d'artisanat local. On y trouve notamment les masques traditionnels de carnaval **"Vejigante"** très colorés ainsi que des santons qui n'ont rien à envier à ceux de Provence.   
 
 L'architecture militaire omniprésente (Rempart, castillo ...) atteste de l'importance que les espagnols accordaient à Puerto Rico. Nous avons visité le **Castillo de San Cristobal** et l'achat du billet (5$) permet également de visiter, les jours suivants, le **Castillo San Felipe Del Moro** qui sont les deux principales places fortes qui protégeaient la ville.  
@@ -72,3 +70,4 @@ Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grande
 - Barrachina (lieu où a été inventé la Pina Colada)
 - CheeseCake Factory
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/owner/blog/galleries/g03/OSJ3.jpg">
