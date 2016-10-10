@@ -21,11 +21,15 @@ Notre hôtel **Plazza de Armas** situé au centre de la ville est idéal pour ar
 
 Dès notre arrivée, nous sommes immédiatement impressionnés du niveau de propreté de la ville, ce qui est plutôt rare dans les caraïbes. Rien ne traine au sol, même à 22 heures 00 des employés communaux ramassent encore mégots et papiers.  
 
+## A voir !!
+
 Toutes les façades de style colonial ont fait l'objet d'une campagne de restauration et arborent des tons pastels qui ajoutent à la douceur de vivre qui émane de cette ville. On se met à imaginer ce que serait ou sera la Havane quand elle sera elle aussi restaurée. On trouve dans les petites ruellles de très bons restaurants proposant une cuisine traditionnelle.  
 
 La calle Fortaleza concentre de nombreuses boutiques d'artisanat local. On y trouve notamment les masques traditionnels de carnaval **"Vejigante"** très colorés ainsi que des santons qui n'ont rien à envier à ceux de Provence.   
 
 L'architecture militaire omniprésente (Rempart, castillo ...) atteste de l'importance que les espagnols accordaient à Puerto Rico. Nous avons visité le Castillo de San Cristobal et l'achat du billet (5$) permet également de visiter, les jours suivants, le Castillo San Felipe Del Moro qui sont les deux principales places fortes qui protégeaient la ville.  
+
+## Bonnes affaires ...
 
 San Juan est surtout connu par les caribéens pour ces outlet ou Mall, immenses centres commerciaux au format XXL américains. En effet beaucoup viennent pour un ou deux jours de shopping où toutes les grandes marques sont représentées à des prix intéressants. Nous n'avons pas failli à la tradition et avons passé un long moment à "Las Americas", un temple de la consommation où une journée complète est nécessaire pour en faire le tour. 
 
