@@ -8,7 +8,7 @@
 {% endif %}
 {% assign route="" %}
 
-<a href="/">Home</a>
+<a href="/">Home</a> {{categories}}
 {% for category in categories %}
 <span class="prompt">>></span>
 {% assign route = route | append: '/' | append: category %}
