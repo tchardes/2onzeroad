@@ -80,9 +80,6 @@ paginate_path: "/writing/page:num/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 slugify: "pretty"
 
-gems:
-  - jekyll-maps
-
 # Analytics and webmaster tools stuff goes here
 google_analytics:
 google_verify:      
