@@ -22,10 +22,6 @@ Nous quittons San Juan de bonne heure à bord de notre Kia Rio de location pour 
 
 En route, empruntant une petite route en bord de mer, j'éclate le pneu avant droit dans un nid d'autruche et avons du poursuivre notre route avec une galette en guise de roue de secours, ce qui a eu pour effet de stresser passablement la copilote pour le reste de la journée…  
 
-[![][url=https://flic.kr/p/MEhYH9][img]https://c3.staticflickr.com/9/8134/29969393970_03bae56e00_b.jpg[/img][/url][url=https://flic.kr/p/MEhYH9]Radiotélescope - Arécibo - [Puerto-Rico][/url] by [url=https://www.flickr.com/photos/127048817@N07/]Thierry CHARDES[/url], sur Flickr
-
-[![](https://c3.staticflickr.com/9/8134/29969393970_03bae56e00_b.jpg[/img][/url][url=https://flic.kr/p/MEhYH9]Radiotélescope - Arécibo - [Puerto-Rico][/url] by [url=https://www.flickr.com/photos/127048817@N07/]Thierry CHARDES[/url], sur Flickr
-
 L'observatoire est niché dans les montagnes. Arrivés à l'entrée du site, des gardes vous demandent d'éteindre tous les appareils électroniques afin de ne pas perturber les ondes. Après le parking, une grande montée mène à l'entrée du site dont l'entrée coute 12 $/p. Les scientifiques du monde entier utilisent cette gigantesque antenne construite en 1964 de 305 mètres de diamètre posée au fond d'un cuvette pour étudier l'univers. Arecibo est une source de données pour le projet SETI (Search for Extra-Terrestrial Intelligence). Après la visite de salles pédagogiques et le visionage d'un petit film de 20mn, nous pouvons enfin admirer l'immense télescope fait de plaques d'aluminium, de béton et d'acier depuis une plate-forme d'observation, dont l'aspect tranche radicalement avec le paysage tropical dense et verdoyant qui l'entoure.  
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/owner/blog/galleries/g02/Arecibo.jpg">  
@@ -44,9 +40,9 @@ Un peu déçu par cette visite qui faisait pourtant partie des nombreux lieux qu
 
 **Non !!!**, ce site est vraiment à voir si vous passez vers Arecibo et assez inattendu en ce lieu. Bien que d'aspect un peu vieillissant cette technologie est toujours d'actualité puisque les chinois viennent de mettre en service le 26/09/2016 ce qui est devenu le plus grand radiotélescope au monde avec un diamètre de 500 mètres.  
 
-# Rallye-raid ....
+# Rallye-raid...
 
-Notre route nous conduit plein Sud à PONCE, côté mer des caraïbes en traversant le massif forestier par la Ruta 10. Pour rattraper cet axe je me suis un peu perdu dans la montagne et on s'est retrouvé sur une petite route, tellement peu fréquentée que le goudron était recouvert de mousse. Ma copilote, déjà pas rassurée de rouler avec une galette, se voyait déjà subir une nouvelle crevaison et finir là, oubliés de tous, en pleine forêt tropicale….  
+Notre route nous conduit plein Sud à PONCE, côté mer des caraïbes en traversant le massif forestier par la Ruta 10. Pour rattraper cet axe je me suis un peu perdu dans la montagne et on s'est retrouvé sur une petite route, tellement peu fréquentée que le goudron était recouvert de mousse. Ma copilote, déjà pas rassurée de rouler avec une galette, se voyait déjà subir une nouvelle crevaison et finir là, oubliés de tous, en pleine forêt tropicale…  
 
 
 # Autre lieu à visiter dans les environs : 
