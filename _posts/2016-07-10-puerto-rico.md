@@ -11,9 +11,6 @@ category: [Puerto Rico]
 comments: false
 share: false
 
-mapping:
-    latitude: 51.101
-    longitude: 0.1
 
 ---
 
