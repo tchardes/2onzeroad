@@ -14,7 +14,7 @@ function initMap(canvas) {
       $(this).find('.map-canvas').each(function() {    
         map = getMap(this);
         bounds = new google.maps.LatLngBounds();
-        console.log("plop+65");
+        console.log("plop2");
       });
 
       // loop through map points and put them on the map
