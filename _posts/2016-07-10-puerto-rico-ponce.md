@@ -34,8 +34,8 @@ Durant ces deux jours nous avons flâné dans la ville et avons particulièremen
 * La Cathédrale Notre-Dame-de-Guadeloupe ;
 * Le Parque de Bombas, une ancienne caserne de pompier, immanquable, devenue musée avec des pièces historiques ;
 * La Croix de la Vigie, une tour de béton de 30 m construite sur les hauteur de Poncé ;
-* Le Musée Castillo Serrales ;
-* Le musée d'art de Poncé, un des plus beaux de toutes les Antilles.
+* Le musée Castillo Serrales ;
+* Le musée d'Art de Poncé, un des plus beaux de toutes les Antilles.
 
 ## Et la fontaine de jouvence ?
 
