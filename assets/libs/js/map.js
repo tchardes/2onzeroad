@@ -76,7 +76,7 @@ function getMap(canvas) {
   }
 
   // create the map
-  map = new google.maps.Map(canvas, myOptions);
+  map = new google.maps.Map(document.getElementById('map'), myOptions);
   map.setCenter(latlng);
 
   // set some custom styles
