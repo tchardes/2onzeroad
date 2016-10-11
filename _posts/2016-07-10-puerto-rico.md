@@ -1,19 +1,17 @@
 ---
 layout:     post
 title:      "Puerto Rico"
-subtitle:   "Roadtrip d'une semaine à Puerto Rico du 30 juin au 07 juillet 2016"
+subtitle:   "Roadtrip du 30 juin au 07 juillet 2016"
 date:       2016-07-10 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
 tags: [tag-name-one, tag-name-two]
-category: [cat03]
+category: [Puerto Rico]
 comments: false
 share: false
 
 ---
-
-# PUERTO RICO
 
 **Puerto Rico** ou **Porto Rico**, selon que l'on soit portoricain hispanophone ou anglophone, cela traduit toute la complexité de la plus petite île des grandes Antilles dans les caraïbes composées de Cuba, La Jamaïque et Hispaniola (Haïti et la République dominicaine).
 
@@ -64,3 +62,6 @@ Comme aux USA, il faut payer son carburant à la caisse avant de se servir à la
 ### Sécurité
 
 Police omniprésente en Harley Davidson, 4x4 ou grosses berlines, aucun sentiment d'insécurité.
+
+
+# NOS ARTICLES SUR PUERTO RICO
