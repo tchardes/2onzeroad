@@ -13,7 +13,6 @@ share: false
 
 ---
 
-
 # ARECIBO "A la recherche de E.T."
 
 Nous quittons San Juan de bonne heure à bord de notre Kia Rio de location pour la région d'Arecibo située à l'Ouest, sur la Côte Atlantique. Nous découvrons une circulation commune à toutes les capitales : saturée et accédons tant bien que mal sur la voie express 22. Nous passons en coup de vent dans la ville d'Arécibo qui présente peu d'intérêt, pour nous rendre en pleine forêt tropicale pour visiter ce qui était encore lors de notre visite, le plus grand radiotélescope au monde.  
