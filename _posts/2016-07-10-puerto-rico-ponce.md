@@ -27,16 +27,19 @@ Le centre ville a également été entièrement restauré comme le Old San Juan.
  
  Contrairement aux antilles françaises qui distillent du rhum agricole, ces rhums plus légers en alcool sont distillés après extraction du sucre de la canne. Durant notre voyage, qui n'a pas couvert toute l'île, nous n'avons vu aucun champ de cannes. Il est possible que Porto Rico achète la bagasse à des pays producteurs de sucre comme Haïti et la République Dominicaine pour distiller son rhum. 
 
+# A voir !!!
+
 Durant ces deux jours nous avons flâné dans la ville et avons particulièrement apprécié la visite de :
 
 * La Cathédrale Notre-Dame-de-Guadeloupe ;
 * Le Parque de Bombas, une ancienne caserne de pompier, immanquable, devenue musée avec des pièces historiques ;
 * La Croix de la Vigie, une tour de béton de 30 m construite sur les hauteur de Poncé ;
+* Le Musée Castillo Serrales ;
 * Le musée d'art de Poncé, un des plus beaux de toutes les Antilles.
 
 ## Et la fontaine de jouvence ?
 
- Sur la place Degetau nous avons bien trouvé la "Fuente De Los Leones" une superbe fontaine entourée de lions mais nous n'avons pas osé plonger pour vérifier.
+ Sur la place Degetau nous avons bien trouvé la **"Fuente De Los Leones"** une superbe fontaine entourée de lions mais nous n'avons pas osé plonger pour vérifier.
 
 ## Les bonnes tables de Poncé :
 
@@ -49,7 +52,7 @@ Durant ces deux jours nous avons flâné dans la ville et avons particulièremen
 Nous avons fait retour sur San Juan en longeant la côte par le Sud-Est. Nous voulions passer une après-midi à **El Yunque National Forest** qui propose des très belles randonnées et cascades mais le temps ne s'y prêtait pas. Une petite demi-heure avant d'arriver à San Juan, nous nous sommes arrêtés à Canovanas à **l'Outlet Mall 66**, plus petit que Las Americas, avec des prix dit "d'usine", très intéressant. 
 
 
-**L'efficacité américaine :**
+**L'efficacité anglosaxonne :**
 
 Avec l'aide du réceptionniste de l'hôtel, nous avons contacté l'assistance de notre loueur de véhicule afin de faire réparer le pneu crevé à Arécibo. **Alamo** ne disposant pas d'agence à Poncé, ils nous donnent l'adresse d'un confrère afin d'y récupérer une nouvelle voiture.  
 

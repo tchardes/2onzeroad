@@ -63,12 +63,12 @@ Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grande
 
 ## Les bonnes tables :
 
-- Raices
-- Rosa de Triana
-- El Jibarito
-- El Patio de Sam
-- Barrachina (lieu où a été inventé la Pina Colada)
-- CheeseCake Factory
-- Palmas Rest.
+* Raices ;
+* Rosa de Triana ;
+* El Jibarito ;
+* El Patio de Sam ;
+* Barrachina (lieu où a été inventé la Pina Colada) ;
+* CheeseCake Factory ;
+* Palmas Rest.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/owner/blog/galleries/g03/OSJ3.jpg">
