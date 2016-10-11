@@ -10,11 +10,13 @@ tags: [tag-name-one, tag-name-two]
 category: [Puerto Rico]
 comments: false
 share: false
-
+location:
+    latitude: 51.5285582
+    longitude: -0.2416807
 
 ---
 
-{% render_map %}
+  {% google_map %}
 
 **Puerto Rico** ou **Porto Rico**, selon que l'on soit portoricain hispanophone ou anglophone, cela traduit toute la complexité de la plus petite île des grandes Antilles dans les caraïbes composées de Cuba, La Jamaïque et Hispaniola (Haïti et la République dominicaine).
 
