@@ -164,6 +164,7 @@ hr.small {
 }
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {
+  font-variant: small-caps;
   margin-top: 0;
   font-size: 50px;
   letter-spacing: 10px;
