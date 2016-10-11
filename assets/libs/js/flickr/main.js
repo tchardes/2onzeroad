@@ -85,6 +85,9 @@
    }
 
    function init() {
+
+       if(!document.getElementsByClassName('js-form-search')) return;
+
       document.getElementsByClassName('js-form-search')[0].addEventListener('submit', function(event) {
          event.preventDefault();
 
