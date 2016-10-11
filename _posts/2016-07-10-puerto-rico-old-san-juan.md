@@ -14,7 +14,6 @@ share: false
 location:
   latitude:18.441275
   longitude: -66.080113
-  
 ---
 
 # OLD SAN JUAN
