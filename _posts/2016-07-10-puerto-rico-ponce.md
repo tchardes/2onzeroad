@@ -52,7 +52,7 @@ Durant ces deux jours nous avons flâné dans la ville et avons particulièremen
 Nous avons fait retour sur San Juan en longeant la côte par le Sud-Est. Nous voulions passer une après-midi à **El Yunque National Forest** qui propose des très belles randonnées et cascades mais le temps ne s'y prêtait pas. Une petite demi-heure avant d'arriver à San Juan, nous nous sommes arrêtés à Canovanas à **l'Outlet Mall 66**, plus petit que Las Americas, avec des prix dit "d'usine", très intéressant. 
 
 
-**L'efficacité anglosaxonne :**
+## L'efficacité anglosaxonne :
 
 Avec l'aide du réceptionniste de l'hôtel, nous avons contacté l'assistance de notre loueur de véhicule afin de faire réparer le pneu crevé à Arécibo. **Alamo** ne disposant pas d'agence à Poncé, ils nous donnent l'adresse d'un confrère afin d'y récupérer une nouvelle voiture.  
 
