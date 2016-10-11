@@ -13,11 +13,9 @@ share: false
 
 ---
 
-# ARECIBO "A la recherche de E.T."
-
 Nous quittons San Juan de bonne heure à bord de notre Kia Rio de location pour la région d'Arecibo située à l'Ouest, sur la Côte Atlantique. Nous découvrons une circulation commune à toutes les capitales : saturée et accédons tant bien que mal sur la voie express 22. Nous passons en coup de vent dans la ville d'Arécibo qui présente peu d'intérêt, pour nous rendre en pleine forêt tropicale pour visiter ce qui était encore lors de notre visite, le plus grand radiotélescope au monde.  
 
-# La cata !!!
+### La cata !!!
 
 En route, empruntant une petite route en bord de mer, j'éclate le pneu avant droit dans un nid d'autruche et avons du poursuivre notre route avec une galette en guise de roue de secours, ce qui a eu pour effet de stresser passablement la copilote pour le reste de la journée…  
 
@@ -27,11 +25,11 @@ L'observatoire est niché dans les montagnes. Arrivés à l'entrée du site, des
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/owner/blog/galleries/g02/Arecibo3.jpg">  
 
-# Du déjà vu 
+### Du déjà vu 
 
 Vous connaissez forcément ce site qui a été exploité plusieurs fois par le cinéma, notamment dans la scène finale du film de James Bond 007 "GoldenEye", dans un épisode X-Files intitulé Petits Hommes Verts, il est apparu également dans les films Contact, The Arrival, The Losers et La Mutante1.  
 
-# Rencontre du troisème type ?
+### Rencontre du troisème type ?
 
 Un peu déçu par cette visite qui faisait pourtant partie des nombreux lieux que j'avais envie de découvrir au moins une fois dans ma vie. Au final, pas de James Bond ni d'extra-terrestre ni même un "E.T. phone home".  
 
@@ -39,12 +37,12 @@ Un peu déçu par cette visite qui faisait pourtant partie des nombreux lieux qu
 
 **Non !!!**, ce site est vraiment à voir si vous passez vers Arecibo et assez inattendu en ce lieu. Bien que d'aspect un peu vieillissant cette technologie est toujours d'actualité puisque les chinois viennent de mettre en service le 26/09/2016 ce qui est devenu le plus grand radiotélescope au monde avec un diamètre de 500 mètres.  
 
-# Rallye-raid...
+### Rallye-raid...
 
 Notre route nous conduit plein Sud à PONCE, côté mer des caraïbes en traversant le massif forestier par la Ruta 10. Pour rattraper cet axe je me suis un peu perdu dans la montagne et on s'est retrouvé sur une petite route, tellement peu fréquentée que le goudron était recouvert de mousse. Ma copilote, déjà pas rassurée de rouler avec une galette, se voyait déjà subir une nouvelle crevaison et finir là, oubliés de tous, en pleine forêt tropicale…  
 
 
-# Autre lieu à visiter dans les environs : 
+### Autre lieu à visiter dans les environs : 
 
 Non loin, se trouve également le parc des grottes de Rio Camuy que nous n'avons pas eu le temps de visiter mais qui est assez bien noté par les voyageurs.
 
