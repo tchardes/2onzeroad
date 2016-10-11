@@ -12,6 +12,7 @@ $(document).ready ( function() {
     $(this).find('.map-canvas').each(function() {    
       map = initMap(this);
       bounds = new google.maps.LatLngBounds();
+      console.log("plop+65");
     });
 
     // loop through map points and put them on the map
@@ -61,8 +62,6 @@ function initMap(canvas) {
 
   // set a default zoom unless it's specified
   zoom = parseInt($(canvas).attr('zoom')) || 15;
-
-console.log("plop");
 
   // center the map and create options
   var latlng = new google.maps.LatLng(0, 0);
