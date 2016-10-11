@@ -1,6 +1,6 @@
 var geocoder; // currently not used
 
-function initMap(canvas) {
+function initMap() {
 
   $(document).ready ( function() {
 
