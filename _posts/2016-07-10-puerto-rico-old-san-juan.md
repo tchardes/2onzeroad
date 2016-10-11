@@ -10,7 +10,9 @@ tags: [tag-name-one, tag-name-two]
 category: [Puerto Rico - Old San Juan]
 comments: false
 share: false
-
+location:
+  latitude: 18.7396183
+  longitude: -66.00017439999999
 ---
 
 # OLD SAN JUAN
