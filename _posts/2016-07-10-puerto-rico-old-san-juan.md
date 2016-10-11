@@ -11,8 +11,8 @@ category: [Puerto Rico - Old San Juan]
 comments: false
 share: false
 location:
-  latitude: 18.422850
-  longitude: -66.091766
+  latitude: 18.466164
+  longitude: -66.116421
 ---
 
 Le 30 juin 2016 après un petit vol d'une heure trente depuis Pointe-à-Pitre nous arrivons à Puerto Rico où nous commençons notre séjour par la Capitale et plus précisément le **Old San Juan**, le quartier historique. Ces 4 jours à pied nous ont permis de découvrir ce joyaux de la caraïbe.    
