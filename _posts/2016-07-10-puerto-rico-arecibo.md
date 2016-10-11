@@ -22,6 +22,8 @@ Nous quittons San Juan de bonne heure à bord de notre Kia Rio de location pour 
 
 En route, empruntant une petite route en bord de mer, j'éclate le pneu avant droit dans un nid d'autruche et avons du poursuivre notre route avec une galette en guise de roue de secours, ce qui a eu pour effet de stresser passablement la copilote pour le reste de la journée…  
 
+[![][url=https://flic.kr/p/MEhYH9][img]https://c3.staticflickr.com/9/8134/29969393970_03bae56e00_b.jpg[/img][/url][url=https://flic.kr/p/MEhYH9]Radiotélescope - Arécibo - [Puerto-Rico][/url] by [url=https://www.flickr.com/photos/127048817@N07/]Thierry CHARDES[/url], sur Flickr
+
 [![](https://c3.staticflickr.com/9/8134/29969393970_03bae56e00_b.jpg[/img][/url][url=https://flic.kr/p/MEhYH9]Radiotélescope - Arécibo - [Puerto-Rico][/url] by [url=https://www.flickr.com/photos/127048817@N07/]Thierry CHARDES[/url], sur Flickr
 
 L'observatoire est niché dans les montagnes. Arrivés à l'entrée du site, des gardes vous demandent d'éteindre tous les appareils électroniques afin de ne pas perturber les ondes. Après le parking, une grande montée mène à l'entrée du site dont l'entrée coute 12 $/p. Les scientifiques du monde entier utilisent cette gigantesque antenne construite en 1964 de 305 mètres de diamètre posée au fond d'un cuvette pour étudier l'univers. Arecibo est une source de données pour le projet SETI (Search for Extra-Terrestrial Intelligence). Après la visite de salles pédagogiques et le visionage d'un petit film de 20mn, nous pouvons enfin admirer l'immense télescope fait de plaques d'aluminium, de béton et d'acier depuis une plate-forme d'observation, dont l'aspect tranche radicalement avec le paysage tropical dense et verdoyant qui l'entoure.  
