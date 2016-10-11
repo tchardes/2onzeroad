@@ -23,7 +23,7 @@ Le centre ville a également été entièrement restauré comme le Old San Juan.
 
 ## Y a plus de rhum ??
 
- Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le **Don Q** qui vient du célèbre héros du roman de Cervantès, Don Quichotte, vient ensuite le **Captain Morgan** qui reprend le nom du célèbre flibustier qui écuma les mers et finit par devenir gouverneur de la Jamaïque, le **Castillo** et certainement le plus connu et vendu à l'étranger : **Bacardi** et bien d'autres moins connus comme **Ron del Barrilito**, **Ron Llave**, **Palo Viejo**....  
+ Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le **Don Q** qui vient de, Don Quichotte, célèbre héros du roman de Cervantès, vient ensuite le **Captain Morgan** qui reprend le nom du célèbre flibustier qui écuma les mers et finit par devenir gouverneur de la Jamaïque, le **Castillo** et, certainement le plus connu et vendu à l'étranger, **Bacardi** et bien d'autres moins connus comme **Ron del Barrilito**, **Ron Llave**, **Palo Viejo**....  
  
  Contrairement aux antilles françaises qui distillent du rhum agricole, ces rhums plus légers en alcool sont distillés après extraction du sucre de la canne. Durant notre voyage, qui n'a pas couvert toute l'île, nous n'avons vu aucun champ de cannes. Il est possible que Porto Rico achète la bagasse à des pays producteurs de sucre comme Haïti et la République Dominicaine pour distiller son rhum. 
 
@@ -54,7 +54,7 @@ Nous avons fait retour sur San Juan en longeant la côte par le Sud-Est. Nous vo
 
 ## L'efficacité anglosaxonne :
 
-Avec l'aide du réceptionniste de l'hôtel, nous avons contacté l'assistance de notre loueur de véhicule afin de faire réparer le pneu crevé à Arécibo. **Alamo** ne disposant pas d'agence à Poncé, ils nous donnent l'adresse d'un confrère afin d'y récupérer une nouvelle voiture.  
+Avec l'aide du réceptionniste de l'hôtel à Poncé, nous avons contacté l'assistance de notre loueur de véhicule afin de faire réparer le pneu crevé à Arécibo. **Alamo** ne disposant pas d'agence à Poncé, ils nous donnent l'adresse d'un confrère afin d'y récupérer une nouvelle voiture.  
 
 Sur place, on nous tend les clés d'un Hyundai Tucson flambant neuf et donnons celles de notre Kia Rio. En deux coups de scans de code barre sur les véhicules le tour était joué et la copilote rassurée d'avoir à nouveau une roue de secours.  
 
