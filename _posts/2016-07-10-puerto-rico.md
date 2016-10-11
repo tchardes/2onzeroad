@@ -2,7 +2,7 @@
 layout:     post
 title:      "Puerto Rico"
 subtitle:   "Roadtrip du 30 juin au 07 juillet 2016"
-date:       2016-07-10 12:00:00
+date:       2016-06-30 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
