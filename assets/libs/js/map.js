@@ -28,7 +28,7 @@ function initMap() {
           icon: $(this).attr('icon'),
           position: latlng,
           title: $(this).attr('title'),
-          url: $(this).find(".description a").attr('href')
+          url: ""
         });
 
         console.log($(this).attr('title'));
