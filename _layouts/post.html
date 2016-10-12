@@ -70,9 +70,10 @@ layout: default
                             <div class="mapping">
                                 <div class="map-canvas" id="map-event"></div>
                                 {% for post in site.posts %}
+                                    <div title="{{ post.location.title }}"></div>
                                     {% if post.location %}
-                                    {% assign displayMap = true %}
-                                    <div class="map-point" latitude="{{ post.location.latitude }}" longitude="{{ post.location.longitude }}"></div>
+                                        {% assign displayMap = true %}
+                                        <div class="map-point" title="{{ post.location.title }}" latitude="{{ post.location.latitude }}" longitude="{{ post.location.longitude }}"></div>
                                     {% endif %}                                    
                                 {% endfor %}
                             </div>
