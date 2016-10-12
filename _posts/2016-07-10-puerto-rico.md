@@ -37,7 +37,7 @@ Cette semaine passée à Puerto Rico a été vraiment une très belle découvert
 
 ### Notre parcours   
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/owner/blog/galleries/puerto-rico.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/owner/blog/galleries/puerto-rico1.jpg">
 
 ## Conseils pour se rendre à Puerto Rico :  
 
