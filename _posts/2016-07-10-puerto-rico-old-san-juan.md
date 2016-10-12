@@ -7,9 +7,13 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-old-san-juan.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-osj.jpg
 tags: [tag-name-one, tag-name-two]
-category: [Puerto Rico - Old San Juan]
+category: blog
 comments: false
 share: false
+
+country: puerto-rico
+city: old-san-juan
+
 location:
   latitude: 18.466164
   longitude: -66.116421

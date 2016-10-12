@@ -7,9 +7,12 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
 tags: [tag-name-one, tag-name-two]
-category: [Puerto Rico]
+category: roadmap
 comments: false
 share: false
+
+country: puerto-rico
+
 location:
   latitude: 18.233127
   longitude: -66.481905

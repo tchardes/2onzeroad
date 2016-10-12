@@ -8,7 +8,7 @@ layout: default
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">  
         <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" href="{{root_url}}/assets/libs/css/galleries.css">
-        <link rel="stylesheet" href="{{root_url}}/assets/libs/css/magnificpopup.css"">
+        <link rel="stylesheet" href="{{root_url}}/assets/libs/css/magnificpopup.css">
     </head>
     <body> 
         <!-- Footnotes CSS-->
@@ -64,19 +64,15 @@ layout: default
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
 
+                        {% if page.location or category == roadmap %}
 
+                            <div class="mapping">
+                                <div class="map-canvas" id="map-event"></div>
+                                <div class="map-point" latitude="{{ page.location.latitude }}" longitude="{{ page.location.longitude }}"></div>
+                            </div>
 
-
-
-{% if page.location %}
-<div class="mapping">
-  <div class="map-canvas" id="map-event"></div>
-  <div class="map-point" latitude="{{ page.location.latitude }}" longitude="{{ page.location.longitude }}">
-  </div>
-</div>
-<div id="map" style="width:100%;height:200px;background-color:#FEEEEE">
-</div>
-{% endif %}
+                            <div id="map" style="width:100%;height:200px;background-color:#FEEEEE"></div>
+                        {% endif %}
 
 
 
