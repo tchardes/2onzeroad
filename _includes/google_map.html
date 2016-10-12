@@ -1,0 +1,24 @@
+{% assign displayMap = false %}
+
+{% if page.category == "roadmap" %}
+    <div class="mapping">
+        <div class="map-canvas" id="map-event"></div>
+        {% for post in site.posts %}
+            <div title="{{ post.location.title }}"></div>
+            {% if post.location %}
+                {% assign displayMap = true %}
+                <div class="map-point" title="{{ post.location.title }}" latitude="{{ post.location.latitude }}" longitude="{{ post.location.longitude }}"></div>
+            {% endif %}                                    
+        {% endfor %}
+    </div>
+{% elsif page.location %}
+    {% assign displayMap = true %}
+    <div class="mapping">
+        <div class="map-canvas" id="map-event"></div>
+        <div class="map-point" latitude="{{ page.location.latitude }}" longitude="{{ page.location.longitude }}"></div>
+    </div>
+{% endif %}
+
+{% if displayMap %}
+    <div id="map" style="width:100%;height:200px;background-color:#FEEEEE"></div>
+{% endif %}

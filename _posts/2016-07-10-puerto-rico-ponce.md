@@ -14,6 +14,11 @@ share: false
 country: puerto-rico
 city: ponce
 
+
+location:
+  latitude: 18.006878
+  longitude: -66.610805
+
 ---
 
 Nous sommes finalement parvenus à retrouver la Ruta 10 et sommes arrivés, entiers, à Poncé où nous avons passé deux jours entiers. Deuxième ville d'importance de Puerto Rico, elle tire son nom du célèbre Juan Ponce de Léon, conquistador et premier gouverneur de Puerto Rico.
