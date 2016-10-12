@@ -11,7 +11,6 @@ category: [Puerto Rico]
 comments: false
 share: false
 location:
-  address: 218 W 15th St, NY, NY
   latitude: 18.233127
   longitude: -66.481905
 ---
@@ -19,7 +18,7 @@ location:
 
 **Puerto Rico** ou **Porto Rico**, selon que l'on soit portoricain hispanophone ou anglophone, cela traduit toute la complexité de la plus petite île des grandes Antilles dans les caraïbes composées de Cuba, La Jamaïque et Hispaniola (Haïti et la République dominicaine).
 
-# Maria ....
+### Maria ....
 
 [![](https://c1.staticflickr.com/6/5575/29469084264_11af093d53_z.jpg)](https://flic.kr/p/LU5L4J)[Epave - Marigot - [Saint-Martin]](https://flic.kr/p/LU5L4J) by [Thierry CHARDES](https://www.flickr.com/photos/127048817@N07/), sur Flickr
 
@@ -29,7 +28,7 @@ location:
 
 Immanquablement, l'évocation de Puerto Rico me fait penser à la comédie musicale West Side Story (oui je sais ça date ...) et l'opposition entre les *Sharks* et les *Jets* dans un New York du milieu des années 50. Près de 80 ans plus tard, cette île, territoire non incorporé des Etats Unis au statut d'Etat libre associé, est toujours tiraillée entre vouloir obtenir son indépendance ou devenir le 51éme état des Etats-Unis. C'est ce qui lui donne tout son charme, une ile historiquement et profondément latine vivant à l'américaine où tous les drapeaux sont systématiquement binômés. Les drapeaux, cubain et portoricain, sont très ressemblants, les couleurs  rouge et le bleu ont simplement été inversées.
 
-# Bilan
+### Bilan
 
 Cette semaine passée à Puerto Rico a été vraiment une très belle découverte, très dépaysante. De tout l'arc antillais cette île est unique. Nous y avons rencontré des personnes très sympathiques et, en dehors de la capitale, assez surprises et contentes d'avoir la visite de français. Il est vrai que cette destination n'est pas forcément la plus prisée des caraïbes en venant de Paris. Pour ce roadtrip, nous nous sommes plus particulièrement attardés à San Juan, à Arecibo et sa région et Poncé.  
 
@@ -37,7 +36,7 @@ Cette semaine passée à Puerto Rico a été vraiment une très belle découvert
 <img src="{{ site.url }}{{ site.baseurl }}/assets/owner/blog/galleries/puerto-rico.png">
 
 
-## Conseils pour se rendre à Puerto Rico :  
+### Conseils pour se rendre à Puerto Rico :  
 
 ### Formalités avant de partir :  
 
@@ -74,4 +73,4 @@ Comme aux USA, il faut payer son carburant à la caisse avant de se servir à la
 Police omniprésente en Harley Davidson, 4x4 ou grosses berlines, aucun sentiment d'insécurité.
 
 
-# NOS ARTICLES SUR PUERTO RICO
+### NOS ARTICLES SUR PUERTO RICO
