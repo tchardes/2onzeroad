@@ -4,7 +4,6 @@
     <div class="mapping">
         <div class="map-canvas" id="map-event"></div>
         {% for post in site.posts %}
-            <div title="{{ post.location.title }}"></div>
             {% if post.location %}
                 {% assign displayMap = true %}
                 <div class="map-point" title="{{ post.title }}" latitude="{{ post.location.latitude }}" longitude="{{ post.location.longitude }}"></div>
