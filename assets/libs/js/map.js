@@ -31,6 +31,8 @@ function initMap() {
           url: $(this).find(".description a").attr('href')
         });
 
+        console.log($(this).attr('title'));
+
         // if the map point has HTML, turn it into an info window
         var infowindow = new google.maps.InfoWindow({
           content: $(this).html()
