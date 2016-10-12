@@ -27,7 +27,7 @@ location:
 
 [![](https://c4.staticflickr.com/6/5692/30175107211_672eb314bb_z.jpg)](https://flic.kr/p/MYtj6a)[Arecibo3](https://flic.kr/p/MYtj6a) by [Thierry CHARDES](https://www.flickr.com/photos/127048817@N07/), sur Flickr
 
-Immanquablement, l'évocation de Puerto Rico me fait penser à la comédie musicale West Side Story (oui je sais ça date ...) et l'opposition entre les *Sharks* et les *Jets* dans un New York du milieu des années 50. Près de 80 ans plus tard, cette île, territoire non incorporé des Etats Unis au statut d'Etat libre associé, est toujours tiraillée entre vouloir obtenir son indépendance ou devenir le 51éme état des Etats-Unis. C'est ce qui lui donne tout son charme, une ile historiquement et profondément latine vivant à l'américaine où tous les drapeaux sont systématiquement binômés.
+Immanquablement, l'évocation de Puerto Rico me fait penser à la comédie musicale West Side Story (oui je sais ça date ...) et l'opposition entre les *Sharks* et les *Jets* dans un New York du milieu des années 50. Près de 80 ans plus tard, cette île, territoire non incorporé des Etats Unis au statut d'Etat libre associé, est toujours tiraillée entre vouloir obtenir son indépendance ou devenir le 51éme état des Etats-Unis. C'est ce qui lui donne tout son charme, une ile historiquement et profondément latine vivant à l'américaine où tous les drapeaux sont systématiquement binômés. Les drapeaux, cubain et portoricain, sont très ressemblants, les couleurs  rouge et le bleu ont simplement été inversées.
 
 # Bilan
 
