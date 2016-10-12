@@ -71,6 +71,7 @@ layout: default
                                 <div class="map-canvas" id="map-event"></div>
                                 {% for post in site.posts %}
                                     {% if post.location %}
+                                    {% assign displayMap = true %}
                                     <div class="map-point" latitude="{{ post.location.latitude }}" longitude="{{ post.location.longitude }}"></div>
                                     {% endif %}                                    
                                 {% endfor %}
