@@ -12,10 +12,6 @@ comments: false
 share: false
 
 country: puerto-rico
-
-location:
-  latitude: 18.233127
-  longitude: -66.481905
 ---
 
 
