@@ -10,8 +10,12 @@ tags: [tag-name-one, tag-name-two]
 category: "roadmap"
 comments: false
 share: false
-
 country: puerto-rico
+
+location:
+  latitude: 18.242404
+  longitude: -66.452262
+
 ---
 
 
