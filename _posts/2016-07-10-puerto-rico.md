@@ -78,4 +78,4 @@ Comme aux USA, il faut payer son carburant à la caisse avant de se servir à la
 Police omniprésente en Harley Davidson, 4x4 ou grosses berlines, aucun sentiment d'insécurité.
 
 
-### NOS ARTICLES SUR PUERTO RICO
+## NOS ARTICLES SUR PUERTO RICO
