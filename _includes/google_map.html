@@ -37,7 +37,9 @@
     {% assign displayMap = true %}
     <div class="mapping">
         <div class="map-canvas" id="map-event"></div>
-        <div class="map-point" title="{{ page.title }}" latitude="{{ page.location.latitude }}" longitude="{{ page.location.longitude }}"></div>
+        <div class="map-point" title="{{ page.title }}" latitude="{{ page.location.latitude }}" longitude="{{ page.location.longitude }}">
+            {{ page.title }}
+        </div>
     </div>
 {% endif %}
 
