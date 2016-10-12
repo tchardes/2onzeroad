@@ -64,18 +64,28 @@ layout: default
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
 
-                        {% if page.location or category == roadmap %}
+                        {% assign displayMap = false %}
 
+                        {% if category == roadmap %}
+                            <div class="mapping">
+                                <div class="map-canvas" id="map-event"></div>
+                                {% for post in site.posts %}
+                                    {% if post.location %}
+                                    <div class="map-point" latitude="{{ post.location.latitude }}" longitude="{{ post.location.longitude }}"></div>
+                                    {% endif %}                                    
+                                {% endfor %}
+                            </div>
+                        {% elsif page.location %}
+                            {% assign displayMap = true %}
                             <div class="mapping">
                                 <div class="map-canvas" id="map-event"></div>
                                 <div class="map-point" latitude="{{ page.location.latitude }}" longitude="{{ page.location.longitude }}"></div>
                             </div>
-
-                            <div id="map" style="width:100%;height:200px;background-color:#FEEEEE"></div>
                         {% endif %}
 
-
-
+                        {% if displayMap %}
+                            <div id="map" style="width:100%;height:200px;background-color:#FEEEEE"></div>
+                        {% endif %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/127048817@N07/30175107211/" title="Epave - Marigot - [Saint-Martin]"><img src="https://c4.staticflickr.com/6/5692/30175107211_672eb314bb_z.jpg" width="640" height="360" alt="Epave - Marigot - [Saint-Martin]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
