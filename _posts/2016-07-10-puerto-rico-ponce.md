@@ -25,13 +25,13 @@ Nous sommes finalement parvenus à retrouver la Ruta 10 et sommes arrivés, enti
 
 Nous avions réservé au **Ponce Plaza Hôtel**, très bien situé et très agrèable.
 
-Le centre ville a également été entièrement restauré comme le Old San Juan. De très beaux bâtiments ont été remis en valeur et démontrent du passé riche et commerçant de la ville, notamment grâce à la culture de la canne à sucre et ses distilleries de Rhum (Rum ou Ron).
+Le centre ville a également été entièrement restauré comme le Old San Juan. De très beaux bâtiments ont été mis en valeur. Ils démontrent du passé riche et commerçant de la ville, notamment grâce à la culture de la canne à sucre et ses distilleries de Rhum (Rum ou Ron).
 
 ### Y a plus de rhum ??
 
- Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le **Don Q** qui vient de, Don Quichotte, célèbre héros du roman de Cervantès, vient ensuite le **Captain Morgan** qui reprend le nom du célèbre flibustier qui écuma les mers et finit par devenir gouverneur de la Jamaïque, le **Castillo** et, certainement le plus connu et vendu à l'étranger, **Bacardi** et bien d'autres moins connus comme **Ron del Barrilito**, **Ron Llave**, **Palo Viejo**....  
+ Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le **Don Q** qui vient de, Don Quichotte, célèbre héros du roman de Cervantès, vient ensuite le **Captain Morgan** qui reprend le nom du célèbre flibustier qui écuma les mers et finit par devenir gouverneur de la Jamaïque, sans oublier le **Castillo** et, certainement le plus connu et vendu à l'étranger, **Bacardi** et bien d'autres moins connus comme **Ron del Barrilito**, **Ron Llave**, **Palo Viejo**...  
  
- Contrairement aux antilles françaises qui distillent du rhum agricole, ces rhums plus légers en alcool sont distillés après extraction du sucre de la canne. Durant notre voyage, qui n'a pas couvert toute l'île, nous n'avons vu aucun champ de cannes. Il est possible que Porto Rico achète la bagasse à des pays producteurs de sucre comme Haïti et la République Dominicaine pour distiller son rhum. 
+ Contrairement aux antilles françaises qui distillent du rhum agricole, ces rhums sont plus légers en alcool car ils sont distillés après extraction du sucre de la canne. Durant notre voyage, qui n'a pas couvert toute l'île, nous n'avons vu aucun champ de cannes. Il est possible que Porto Rico achète la bagasse à des pays producteurs de sucre comme Haïti et la République Dominicaine pour distiller son rhum. 
 
 ### A voir !!!
 
@@ -55,7 +55,7 @@ Durant ces deux jours nous avons flâné dans la ville et avons particulièremen
 * Cuerdas tavernas and tapas
 * Pizzeria Campioni (Cf, Coût de la Vie)
 
-Nous avons fait retour sur San Juan en longeant la côte par le Sud-Est. Nous voulions passer une après-midi à **El Yunque National Forest** qui propose des très belles randonnées et cascades mais le temps ne s'y prêtait pas. Une petite demi-heure avant d'arriver à San Juan, nous nous sommes arrêtés à Canovanas à **l'Outlet Mall 66**, plus petit que Las Americas, avec des prix dit "d'usine", très intéressant. 
+Nous faisons retour sur San Juan en longeant la côte par le Sud-Est. Nous voulions passer une après-midi à **El Yunque National Forest** qui propose des très belles randonnées et cascades mais le temps ne s'y prêtait pas. Une petite demi-heure avant d'arriver à San Juan, nous nous arrêtons à Canovanas à **l'Outlet Mall 66**. Plus petit que Las Americas, les prix dit "d'usine", sont très intéressants. 
 
 
 ### L'efficacité anglosaxonne :

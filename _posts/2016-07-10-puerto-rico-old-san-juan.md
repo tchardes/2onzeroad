@@ -37,7 +37,7 @@ L'architecture militaire omniprésente (Remparts, castillos ...) atteste de l'im
 
 ### Attentat artistique !!!
 
-Passage obligé de tous les touristes pour la photo souvenir (on y a pas échappé), cette photo a été prise juste à temps. Le 04 jullet, jour de "l'Indépendance Day" un groupe d'étudiants en art à repeint la porte en noir en guise de protestation. Par cet acte, ils souhaitent attirer l'attention sur la dette abyssale de Puerto Rico et la mise en place d'un conseil de contrôle et de surveillance par l'administration Obama.  
+Passage obligé de tous les touristes pour la photo souvenir (nous n'y avons pas échappé), cette photo a été prise juste à temps. Le 04 jullet, jour de "l'Indépendance Day" un groupe d'étudiants en art à repeint la porte en noir en guise de protestation. Par cet acte, ils souhaitent attirer l'attention sur la dette abyssale de Puerto Rico et la mise en place d'un conseil de contrôle et de surveillance par l'administration Obama.  
 
 ### Bonnes affaires ...
 
@@ -45,13 +45,13 @@ San Juan est surtout connu par les caribéens pour ces outlet ou Mall, immenses 
 
 ### Format XXL
 
-la pause, après quelques achahts, nous prennons notre déjeuner dans un **Cheesecake Factory**, chaine de restaurants célèbre au USA dont la spécialité est un dessert, le Cheesecake. Au final, le plat principal était tellement copieux, énorme, que nous n'avions plus de place pour goûter cette spécialité. On s'est rattrapé en fin de séjour...
+A la pause, après quelques achats, nous prennons notre déjeuner dans un **Cheesecake Factory**, chaine de restaurants célèbre au USA dont la spécialité est un dessert, le Cheesecake. Au final, le plat principal était tellement copieux, énorme, que nous n'avions plus de place pour goûter cette spécialité. On s'est rattrapé en fin de séjour...
 
 ### Vigipirate ?
 
 Le dimanche 3 juillet, nous nous rendons au **Capitole**, siège de l'assemblée législative de Puerto Rico. Magnifique bâtiment en marbre de style néoclassique en cours de restauration qui donne sur l'océan.  
 
-Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grandes ouvertes, deux policiers sont postés. Nous rapprochant d'eux, ils nous indiquent que l'entrée est libre. Nous pénétrons dans un grand hall après être passés sous un portique de sécurité tenu par un policier nonchalant. Nous voilà seuls, dans le capitole. Nous passons devant les bureaux des sénateurs, devant des reliques et expositions. De toute évidence, ils ne sont pas en vigipirate quelle que soit la couleur...
+Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grandes ouvertes, deux policiers y sont postés. Nous rapprochant d'eux, ils nous indiquent que l'entrée est libre. Nous pénétrons dans un grand hall après être passés sous un portique de sécurité tenu par un policier nonchalant. Nous voilà seuls, dans le capitole. Nous passons devant les bureaux des sénateurs, devant des reliques et expositions. De toute évidence, ils ne sont pas en vigipirate quelle que soit la couleur...
 
 ### Les bonnes tables :
 
