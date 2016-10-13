@@ -387,7 +387,7 @@ img::-moz-selection {
 
 
 .post-preview {
-  float: left;
+  margin: auto;
   height: 340px;
   width: 100%;
   max-width: 250px;
