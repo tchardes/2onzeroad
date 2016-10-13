@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:   "Roadtrip du 30 juin au 07 juillet 2016"
-preview:    "Puerto Rico ou Porto Rico, selon que l'on soit portoricain hispanophone ou anglophone, cela traduit toute la complexité..."
+preview:    "Puerto Rico ou Porto Rico, selon que l'on soit portoricain hispanophone ou anglophone, cela..."
 
 date:       2016-06-30 12:00:00
 author:     "Thierry"
