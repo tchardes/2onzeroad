@@ -1,7 +1,6 @@
 ---
 layout:     post
-title:      "Arécibo"
-subtitle:   "A la recherche de E.T."
+title:      "A la recherche de E.T."
 preview:    "This is a short preview you need to replace"
 
 date:       2016-07-04 12:00:00

@@ -10,7 +10,7 @@
     </div>
     <div class="post-preview-text">
         <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ root_url }} {{ post.title }}</a></h3>
-        <p>{{ root_url }} {{ post.subtitle }}</p>
+        <p>{{ root_url }} {{ post.preview }}</p>
     </div>
     <div class="post-preview-meta">
         <a href="#"><i class="fa fa-clock-o"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a>

@@ -23,13 +23,11 @@ layout: default
                         <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
                             <div class="page-heading">
                                 <h1>{{ page.title }}</h1>
-                                {% if page.subtitle %}
                                 <hr class="small">
                                 <span class="subheading">
                                     <i class="fa fa-map-marker"></i>
                                     {{ post.city | capitalize }}{% if post.city and post.country %}, {% endif %}{{ post.country | capitalize }}
                                 </span>
-                                {% endif %}
                             </div>
                         </div>
                     </div>
@@ -60,15 +58,37 @@ layout: default
             <div class="container">
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-
-                        {% include google_map.html %}
-
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <h1>{{page.title}}</h1>
+                            </div>
+                            <div class="col-sm-6">
+                                {% include google_map.html %}               
+                            </div>
+                        </div>
+                        <br/>
                         {{ content }} 
                     </div>
                 </div>
 
+                {% assign otherPosts = false %}
                 {% if page.category == "roadmap" %}
-                    <div class="row">      
+                    {% for post in site.posts %}       
+                        {% if page.id != post.id and page.country == post.country %}
+                            {% assign otherPosts = true %}
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+
+
+                {% if otherPosts %}
+                    <div class="row">                           
+                        <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
+                            <h2>Autres articles en relation...</h2>
+                        </div>
+                    </div>
+
+                    <div class="row">   
                         <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
                             {% for post in site.posts %}       
                                 {% if page.id != post.id and page.country == post.country %}

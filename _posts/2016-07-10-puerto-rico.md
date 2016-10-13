@@ -1,7 +1,6 @@
 ---
 layout:     post
-title:      "Puerto Rico"
-subtitle:   "Roadtrip du 30 juin au 07 juillet 2016"
+title:   "Roadtrip du 30 juin au 07 juillet 2016"
 date:       2016-06-30 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico.jpg"
@@ -72,6 +71,3 @@ Comme aux USA, il faut payer son carburant à la caisse avant de se servir à la
 ### Sécurité
 
 Police omniprésente en Harley Davidson, 4x4 ou grosses berlines, aucun sentiment d'insécurité.
-
-
-## NOS ARTICLES SUR PUERTO RICO
