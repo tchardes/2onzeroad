@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Poncé et la fontaine de Jouvance"
-preview:    "Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le **Don Q** qui vient de..."
+preview:    "Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le..."
 
 date:       2016-07-05 12:00:00
 author:     "Thierry"

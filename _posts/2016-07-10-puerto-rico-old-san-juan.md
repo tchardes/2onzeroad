@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Douceur de vivre dans la vieille ville"
-preview:    "Toutes les façades de style colonial ont fait l'objet d'une campagne de restauration et arborent des tons pastels..."
+preview:    "Toutes les façades de style colonial ont fait l'objet d'une campagne de restauration et arborent des tons..."
 
 date:       2016-07-01 12:00:00
 author:     "Thierry"
