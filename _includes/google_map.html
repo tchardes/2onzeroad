@@ -1,12 +1,12 @@
 {% assign displayMap = false %}
 
 {% if page.category == "roadmap" %}
-    <div class="mapping" style="display:none;">
+    <div class="mapping" style="display:none;" itinary="{{ site.baseurl }}/assets/owner/itinaries/{{ page.itinary }}">
         <div class="map-canvas" id="map-event"></div>
         {% for post in site.posts %}
             {% if post.location and page.country == post.country %}
                 {% assign displayMap = true %}
-                <div class="map-point" title="{{ post.title }}" latitude="{{ post.location.latitude }}" longitude="{{ post.location.longitude }}">
+                <div class="map-point" icon="{{ site.baseurl }}/assets/owner/markers/marker-icon-blue.png" title="{{ post.title }}" latitude="{{ post.location.latitude }}" longitude="{{ post.location.longitude }}">
                     <div class="fh5co-post wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1.1s" style="width:250px;height:340px; visibility: visible; animation-duration: 1s; animation-delay: 1.1s; animation-name: fadeInLeft;">
                         <div class="fh5co-post-image">
                             <div class="fh5co-overlay"></div>	
@@ -37,7 +37,7 @@
     {% assign displayMap = true %}
     <div class="mapping" style="display:none;">
         <div class="map-canvas" id="map-event"></div>
-        <div class="map-point" title="{{ page.title }}" latitude="{{ page.location.latitude }}" longitude="{{ page.location.longitude }}">
+        <div class="map-point" icon="{{ site.baseurl }}/assets/owner/markers/marker-icon-blue.png" title="{{ page.title }}" latitude="{{ page.location.latitude }}" longitude="{{ page.location.longitude }}">
             {{ page.title }}
         </div>
     </div>
