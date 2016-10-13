@@ -1,7 +1,8 @@
 ---
 layout:     post
-title:      "Old San Juan"
-subtitle:   "Douceur de vivre dans la vieille ville"
+title:      "Douceur de vivre dans la vieille ville"
+preview:    "Toutes les façades de style colonial ont fait l'objet d'une campagne de restauration et arborent des tons pastels..."
+
 date:       2016-07-01 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-old-san-juan.jpg"

@@ -1,7 +1,8 @@
 ---
 layout:     post
-title:      "Poncé"
-subtitle:   "Et la fontaine de Jouvance"
+title:      "Poncé et la fontaine de Jouvance"
+preview:    "Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le **Don Q** qui vient de..."
+
 date:       2016-07-05 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-ponce.jpg"
@@ -27,9 +28,9 @@ Le centre ville a également été entièrement restauré comme le Old San Juan.
 
 ### Y a plus de rhum ??
 
- Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le **Don Q** qui vient de, Don Quichotte, célèbre héros du roman de Cervantès, vient ensuite le **Captain Morgan** qui reprend le nom du célèbre flibustier qui écuma les mers et finit par devenir gouverneur de la Jamaïque, sans oublier le **Castillo** et, certainement le plus connu et vendu à l'étranger, **Bacardi** et bien d'autres moins connus comme **Ron del Barrilito**, **Ron Llave**, **Palo Viejo**...  
+Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le **Don Q** qui vient de, Don Quichotte, célèbre héros du roman de Cervantès, vient ensuite le **Captain Morgan** qui reprend le nom du célèbre flibustier qui écuma les mers et finit par devenir gouverneur de la Jamaïque, sans oublier le **Castillo** et, certainement le plus connu et vendu à l'étranger, **Bacardi** et bien d'autres moins connus comme **Ron del Barrilito**, **Ron Llave**, **Palo Viejo**...  
  
- Contrairement aux antilles françaises qui distillent du rhum agricole, ces rhums sont plus légers en alcool car ils sont distillés après extraction du sucre de la canne. Durant notre voyage, qui n'a pas couvert toute l'île, nous n'avons vu aucun champ de cannes. Il est possible que Porto Rico achète la bagasse à des pays producteurs de sucre comme Haïti et la République Dominicaine pour distiller son rhum. 
+Contrairement aux antilles françaises qui distillent du rhum agricole, ces rhums sont plus légers en alcool car ils sont distillés après extraction du sucre de la canne. Durant notre voyage, qui n'a pas couvert toute l'île, nous n'avons vu aucun champ de cannes. Il est possible que Porto Rico achète la bagasse à des pays producteurs de sucre comme Haïti et la République Dominicaine pour distiller son rhum. 
 
 ### A voir !!!
 
