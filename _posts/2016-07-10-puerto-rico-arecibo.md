@@ -7,7 +7,7 @@ date:       2016-07-04 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-arecibo.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-arecibo.jpg
-tags: [tag-name-one, tag-name-two]
+tags: [Architecture, Technologie]
 category: "blog"
 
 country: puerto-rico
