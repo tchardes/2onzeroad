@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "A la recherche de E.T."
-preview:    "This is a short preview you need to replace"
+preview:    "Arecibo est une source de données pour le projet SETI (Search for Extra-Terrestrial Intelligence"
 
 date:       2016-07-04 12:00:00
 author:     "Thierry"
