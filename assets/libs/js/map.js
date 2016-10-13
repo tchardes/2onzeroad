@@ -72,6 +72,7 @@ function getMap(canvas) {
   var myOptions = {
     zoom: zoom,
     center: latlng,
+    scrollwheel: false,
     mapTypeControl: false,
     streetViewControl: false,
     mapTypeId: google.maps.MapTypeId.ROADMAP
