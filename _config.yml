@@ -9,7 +9,7 @@ assets:
   libs: assets/libs
   owner: assets/owner
 logo: logo.png
-discus_shortname: roadtripmanager
+discus_shortname: 2onzeroad
 email: thierry.chardes@gmail.com
 url: ""
 search: true
