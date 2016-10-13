@@ -26,7 +26,15 @@ Nous quittons San Juan de bonne heure à bord de notre Kia Rio de location pour 
 
 En route, empruntant une petite route en bord de mer, j'éclate le pneu avant droit dans un nid d'autruche et avons du poursuivre notre route avec une galette en guise de roue de secours, ce qui a eu pour effet de stresser passablement la copilote pour le reste de la journée…  
 
+### Le site
+
 L'observatoire est niché dans les montagnes. Arrivés à l'entrée du site, des gardes vous demandent d'éteindre tous les appareils électroniques afin de ne pas perturber les ondes radio. Après le parking, une grande montée mène à l'entrée du site dont l'entrée coute 12 $/p. Les scientifiques du monde entier utilisent cette gigantesque antenne construite en 1964 de 305 mètres de diamètre posée au fond d'un cuvette pour étudier l'univers. Arecibo est une source de données pour le projet SETI (Search for Extra-Terrestrial Intelligence). Après la visite de salles pédagogiques et le visionage d'un petit film de 20mn, nous pouvons enfin admirer l'immense télescope fait de plaques d'aluminium, de béton et d'acier dont l'aspect tranche radicalement avec le paysage tropical dense et verdoyant qui l'entoure, depuis une plate-forme d'observation, dont l'aspect tranche radicalement avec le paysage tropical dense et verdoyant qui l'entoure.  
+
+>Le télescope d'Arecibo se distingue par sa grande taille : le diamètre de l'antenne principale est de 305 mètres, construite à l'intérieur de la dépression laissée par un effondrement. Jusqu'à la mise en service du radiotéléscope FAST en Chine, l'antenne était la plus grande antenne convergente incurvée du monde, ce qui lui donnait la plus grande capacité de collecte d'ondes électromagnétiques. La surface de l'antenne est faite de 38 778 panneaux d'aluminium perforés, chacun mesurant environ 1 m sur 2 m, supportés par un maillage de câbles en acier.
+
+C'est une antenne sphérique (par opposition à antenne parabolique). Cette forme provient de la méthode utilisée pour pointer le télescope. L'antenne est fixe mais le récepteur se positionne en son point focal pour intercepter les signaux réfléchis des différentes directions par la surface sphérique. Le récepteur est situé sur une plateforme de 900 tonnes suspendue à 150 m au-dessus de l'antenne par 18 câbles à partir de trois tours en béton armé, une de 110 m de hauteur et deux autres de 80 m de haut (les sommets des trois tours sont au même niveau). La plateforme possède une voie tournante de 93 m de long, en forme d'arc, sur laquelle sont montés l'antenne de réception, les réflecteurs secondaires et tertiaires. Cela permet au télescope d'observer n'importe quelle région du ciel dans un cône de 40 degrés autour du zénith local (entre -1 et 38 degrés de déclinaison). La localisation de Porto Rico près de l'équateur permet à Arecibo d'observer toutes les planètes du système solaire pendant environ la moitié de leur orbite.
+
+
 
 ### Du déjà vu 
 
