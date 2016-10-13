@@ -38,13 +38,15 @@ Durant ces deux jours nous avons flâné dans la ville et avons particulièremen
 
 * La Cathédrale Notre-Dame-de-Guadeloupe ;
 * Le Parque de Bombas, une ancienne caserne de pompier, immanquable, devenue musée avec des pièces historiques ;
-* La Croix de la Vigie, une tour de béton de 30 m construite sur les hauteur de Poncé ;
+* La Croix de la Vigie, une tour de béton de 30 m construite sur les hauteurs de Poncé ;
 * Le musée Castillo Serrales ;
 * Le musée d'Art de Poncé, un des plus beaux de toutes les Antilles.
 
 ### Et la fontaine de jouvence ?
 
- Sur la place Degetau nous avons bien trouvé la **"Fuente De Los Leones"** une superbe fontaine entourée de lions mais nous n'avons pas osé plonger pour vérifier.
+ Sur la place Degetau nous avons bien trouvé la **"Fuente De Los Leones"** une superbe fontaine entourée de lions mais nous n'avons pas osé plonger pour vérifier. Selon les différentes croyances on la situe un peu partout sur le globe mails il semble que Juan Poncé de Léon l'a cherchait plutot en Floride.
+
+ > Selon une légende populaire, l'explorateur espagnol Juan Ponce de León, qui fit le voyage vers le Nouveau Monde avec Christophe Colomb, découvrit la Floride alors qu'il était à la recherche de la fontaine de Jouvence. Bien que les légendes d'une eau régénérante aient existé des deux côtés de l'Atlantique bien avant Ponce de León, la mention de sa recherche d'une telle eau n'apparut qu'après sa mort. Dans son Historia general y natural de las Indias (es) de 1535, Gonzalo Fernández de Oviedo y Valdés écrivit que Ponce de León cherchait les eaux de Bimini pour guérir son impuissance sexuelle. Des propos similaires apparurent dans l’Historia general de las Indias de 1551 de Francisco López de Gómara.
 
 ### Les bonnes tables de Poncé :
 
