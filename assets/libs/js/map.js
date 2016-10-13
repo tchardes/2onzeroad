@@ -65,7 +65,7 @@ function initMap() {
 function getMap(canvas) {
 
   // set a default zoom unless it's specified
-  zoom = parseInt($(canvas).attr('zoom')) || 10;
+  zoom = parseInt($(canvas).attr('zoom')) || 8;
 
   // center the map and create options
   var latlng = new google.maps.LatLng(0, 0);

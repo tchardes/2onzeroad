@@ -25,7 +25,10 @@ layout: default
                                 <h1>{{ page.title }}</h1>
                                 {% if page.subtitle %}
                                 <hr class="small">
-                                <span class="subheading">{{ page.subtitle }}</span>
+                                <span class="subheading">
+                                    <i class="fa fa-map-marker"></i>
+                                    {{ post.city | capitalize }}{% if post.city and post.country %}, {% endif %}{{ post.country | capitalize }}
+                                </span>
                                 {% endif %}
                             </div>
                         </div>
@@ -36,7 +39,7 @@ layout: default
                         <div class="row">
                             <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1" style="padding:5px">
                                 <i class="fa fa-pencil" style="padding:0 5px 0 10px"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}
-                                <i class="fa fa-calendar" style="padding:0 5px 0 10px"></i>{{ page.date | date: "%B %-d, %Y" }}
+                                <i class="fa fa-calendar" style="padding:0 5px 0 10px"></i>{{ page.date | date: "%-d %-B %Y" }}
 
                                 {% assign minutes = content | number_of_words | divided_by: 180 %}
                                 <i class="fa fa-clock-o" style="padding:0 5px 0 10px"></i>{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
@@ -44,15 +47,9 @@ layout: default
 
                                 {% if post.tags.size > 0 %}
                                 {% if post.tags.size == 1 %} {% else %}<i class="fa fa-tags" style="padding:0 5px 0 10px"></i>{% endif %}
-                                {% for tag in page.tags %}<a href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}{% endif %}
+                                {% for tag in page.tags %}<a style="color:white;" href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}{% endif %}
 
-                                {% if post.categories.size > 0 %}
-                                    {% if post.categories.size == 1 %}<i class="fa fa-briefcase" style="padding:0 5px 0 10px"></i>{% endif %}<span>{% for tag in page.categories %}<a href="{{ site.baseurl }}/writing/category/{{ tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts filed in {{ tag }} category" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %%}{% endif %}</span>
-                                </span>
                             </div>
-                        </div>
-                        <div class="row">
-                            {% include breadcrumbs.html path=page.path title=page.title %}
                         </div>
                     </div>
                 </div>

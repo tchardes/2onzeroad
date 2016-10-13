@@ -2,14 +2,14 @@
 layout:     post
 title:      "Arécibo"
 subtitle:   "A la recherche de E.T."
+preview:    "This is a short preview you need to replace"
+
 date:       2016-07-04 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-arecibo.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-arecibo.jpg
 tags: [tag-name-one, tag-name-two]
 category: "blog"
-comments: false
-share: false
 
 country: puerto-rico
 city: arecibo

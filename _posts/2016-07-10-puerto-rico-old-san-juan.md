@@ -8,8 +8,6 @@ header-img: "assets/owner/blog/header/post-bg-puerto-rico-old-san-juan.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-osj.jpg
 tags: [tag-name-one, tag-name-two]
 category: "blog"
-comments: false
-share: false
 
 country: puerto-rico
 city: old-san-juan

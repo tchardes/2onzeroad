@@ -13,10 +13,7 @@
         <p>{{ root_url }} {{ post.subtitle }}</p>
     </div>
     <div class="post-preview-meta">
-        <a href="#"><i class="fa fa-pencil"></i>{% if post.author %}{{ root_url }}{{ post.author }}{% else %}{{ root_url }}{{ site.title }}{% endif %} </a>
-        <a href="#"><i class="fa fa-clock-o"></i>{{ root_url }}{{ post.date | date: "%B %-d, %Y" }}</a>
-        <a href="#"><i class="fa fa-briefcase"></i>
-            {{ post.category }}
-        </a>
+        <a href="#"><i class="fa fa-clock-o"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a>
+        <a href="#"><i class="fa fa-map-marker"></i>{{ post.city | capitalize }}{% if post.city and post.country %}, {% endif %}{{ post.country | capitalize }}</a>
     </div>
 </div>
