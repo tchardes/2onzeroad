@@ -6,6 +6,7 @@ function initMap() {
 
     //loop through all the mapping elements
     $(".mapping").each(function() {
+      var itinary = $(this).attr('itinary');
 
       var map;
       var bounds;
@@ -14,24 +15,29 @@ function initMap() {
       $(this).find('.map-canvas').each(function() {    
         map = getMap(this);
         bounds = new google.maps.LatLngBounds();
-        console.log("plop2");
       });
 
       // loop through map points and put them on the map
       var points = $(this).find(".map-point");
       points.each(function() {
 
+        var pinIcon = new google.maps.MarkerImage(
+            $(this).attr('icon'),
+            null, /* size is determined at runtime */
+            null, /* origin is 0,0 */
+            new google.maps.Point(25,50), /* anchor is bottom center of the scaled image */
+            new google.maps.Size(50, 50)
+        );
+
         // create a latlong and marker for each point
         var latlng = new google.maps.LatLng($(this).attr('latitude'), $(this).attr('longitude'));    
         var marker = new google.maps.Marker({
           map: map,
-          icon: $(this).attr('icon'),
+          icon: pinIcon,
           position: latlng,
           title: $(this).attr('title'),
           url: ""
         });
-
-        console.log($(this).attr('title'));
 
         // if the map point has HTML, turn it into an info window
         var infowindow = new google.maps.InfoWindow({
@@ -56,11 +62,25 @@ function initMap() {
         }
 
       });
-
+      map.data.loadGeoJson(itinary);
     });
+
 
   });
 }
+
+function loadKmlLayer(src, map) {
+  var kmlLayer = new google.maps.KmlLayer(src, {
+    suppressInfoWindows: true,
+    preserveViewport: false,
+    map: map
+  });
+  google.maps.event.addListener(kmlLayer, 'click', function(event) {
+    var content = event.featureData.infoWindowHtml;
+    var testimonial = document.getElementById('capture');
+    testimonial.innerHTML = content;
+  });
+  }
 
 function getMap(canvas) {
 

@@ -18,7 +18,7 @@ layout: default
         <article>
         <!-- Post Header -->
             <header class="intro-header" >
-                <div style="background-image: url('{{root_url}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+                <div style="background-position:center;background-image: url('{{root_url}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
                     <div class="container" >
                         <div class="row">
                             <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
@@ -43,7 +43,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
                     ;color:#FFF">
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1" style="padding:22px 5px 5px 5px">
+                                <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1" style="padding:20px 5px 5px 5px">
                                     <i class="fa fa-pencil" style="padding:0 5px 0 10px"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}
                                     <i class="fa fa-calendar" style="padding:0 5px 0 10px"></i>{{ page.date | date: "%-d %-B %Y" }}
 

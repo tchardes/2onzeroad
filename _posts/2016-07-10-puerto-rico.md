@@ -14,6 +14,7 @@ country: puerto-rico
 location:
   latitude: 18.242404
   longitude: -66.452262
+itinary: "porto-rico.json"
 
 ---
 
