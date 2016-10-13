@@ -458,6 +458,7 @@ img::-moz-selection {
   font-size: 17px;
   margin-top: 0;
   font-weight: 700;
+  margin-bottom:5px !important;
 }
 .post-preview	.post-preview-text h3	a {
   color: #666;
