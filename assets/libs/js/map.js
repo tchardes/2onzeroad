@@ -25,7 +25,7 @@ function initMap() {
             $(this).attr('icon'),
             null, /* size is determined at runtime */
             null, /* origin is 0,0 */
-            new google.maps.Point(25,50), /* anchor is bottom center of the scaled image */
+            new google.maps.Point(25,45), /* anchor is bottom center of the scaled image */
             new google.maps.Size(50, 50)
         );
 
