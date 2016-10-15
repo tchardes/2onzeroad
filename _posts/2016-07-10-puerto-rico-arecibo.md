@@ -34,9 +34,11 @@ L'observatoire est niché dans les montagnes. Arrivés à l'entrée du site, des
 
 >Le télescope d'Arecibo se distingue par sa grande taille : le diamètre de l'antenne principale est de 305 mètres, construite à l'intérieur de la dépression laissée par un effondrement. Jusqu'à la mise en service du radiotéléscope FAST en Chine, l'antenne était la plus grande antenne convergente incurvée du monde, ce qui lui donnait la plus grande capacité de collecte d'ondes électromagnétiques. La surface de l'antenne est faite de 38 778 panneaux d'aluminium perforés, chacun mesurant environ 1 m sur 2 m, supportés par un maillage de câbles en acier.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/30150596212/in/photostream/" title="Radiotélescope - Arécibo - [Puerto-Rico]"><img src="https://c5.staticflickr.com/9/8278/30150596212_4dcea149de_c.jpg" width="800" height="450" alt="Radiotélescope - Arécibo - [Puerto-Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 C'est une antenne sphérique (par opposition à antenne parabolique). Cette forme provient de la méthode utilisée pour pointer le télescope. L'antenne est fixe mais le récepteur se positionne en son point focal pour intercepter les signaux réfléchis des différentes directions par la surface sphérique. Le récepteur est situé sur une plateforme de 900 tonnes suspendue à 150 m au-dessus de l'antenne par 18 câbles à partir de trois tours en béton armé, une de 110 m de hauteur et deux autres de 80 m de haut (les sommets des trois tours sont au même niveau). La plateforme possède une voie tournante de 93 m de long, en forme d'arc, sur laquelle sont montés l'antenne de réception, les réflecteurs secondaires et tertiaires. Cela permet au télescope d'observer n'importe quelle région du ciel dans un cône de 40 degrés autour du zénith local (entre -1 et 38 degrés de déclinaison). La localisation de Porto Rico près de l'équateur permet à Arecibo d'observer toutes les planètes du système solaire pendant environ la moitié de leur orbite.
 
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29969390440/in/photostream/" title="Radiotélescope - Arécibo - [Puerto-Rico]"><img src="https://c1.staticflickr.com/8/7529/29969390440_a6d6fbc535_c.jpg" width="800" height="450" alt="Radiotélescope - Arécibo - [Puerto-Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Du déjà vu 
 
@@ -45,6 +47,8 @@ Vous connaissez forcément ce site qui a été exploité plusieurs fois par le c
 ### Rencontre du troisème type ?
 
 Un peu déçu par cette visite qui faisait pourtant partie des nombreux lieux que j'avais envie de découvrir au moins une fois dans ma vie. Au final, pas de James Bond ni d'extra-terrestre ni même un "E.T. phone home".  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29969388130/in/photostream/" title="Radiotélescope - Arécibo - [Puerto-Rico]"><img src="https://c3.staticflickr.com/9/8589/29969388130_aa530580d1_c.jpg" width="800" height="450" alt="Radiotélescope - Arécibo - [Puerto-Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 **Non !!!**, ce site est vraiment à voir si vous passez vers Arecibo et assez inattendu en ce lieu. Bien que d'aspect un peu vieillissant cette technologie est toujours d'actualité puisque les chinois viennent de mettre en service le 26/09/2016 ce qui est devenu le plus grand radiotélescope au monde avec un diamètre de 500 mètres.  
