@@ -32,6 +32,8 @@ Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré de
  
 Contrairement aux antilles françaises qui distillent du rhum agricole, ces rhums sont plus légers en alcool car ils sont distillés après extraction du sucre de la canne. Durant notre voyage, qui n'a pas couvert toute l'île, nous n'avons vu aucun champ de cannes. Il est possible que Porto Rico achète la bagasse à des pays producteurs de sucre comme Haïti et la République Dominicaine pour distiller son rhum. 
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/27760472264/in/album-72157670834710945/" title="Chateau Serralles - Ponce - [Puerto Rico]"><img src="https://c1.staticflickr.com/9/8803/27760472264_ef2aaf8759_c.jpg" width="800" height="450" alt="Chateau Serralles - Ponce - [Puerto Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ### A voir !!!
 
 Durant ces deux jours nous avons flâné dans la ville et avons particulièrement apprécié la visite de :
@@ -42,11 +44,15 @@ Durant ces deux jours nous avons flâné dans la ville et avons particulièremen
 * Le musée Castillo Serrales ;
 * Le musée d'Art de Poncé, un des plus beaux de toutes les Antilles.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/27761412353/in/album-72157670834710945/" title="La Parque de Bombas - Ponce - [Puerto Rico]"><img src="https://c2.staticflickr.com/9/8884/27761412353_58372e8692_c.jpg" width="800" height="534" alt="La Parque de Bombas - Ponce - [Puerto Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ### Et la fontaine de jouvence ?
 
  Sur la place Degetau nous avons bien trouvé la **"Fuente De Los Leones"** une superbe fontaine entourée de lions mais nous n'avons pas osé plonger pour vérifier. Selon les différentes croyances on la situe un peu partout sur le globe mails il semble que Juan Poncé de Léon l'a cherchait plutot en Floride.
 
  > Selon une légende populaire, l'explorateur espagnol Juan Ponce de León, qui fit le voyage vers le Nouveau Monde avec Christophe Colomb, découvrit la Floride alors qu'il était à la recherche de la fontaine de Jouvence. Bien que les légendes d'une eau régénérante aient existé des deux côtés de l'Atlantique bien avant Ponce de León, la mention de sa recherche d'une telle eau n'apparut qu'après sa mort. Dans son Historia general y natural de las Indias (es) de 1535, Gonzalo Fernández de Oviedo y Valdés écrivit que Ponce de León cherchait les eaux de Bimini pour guérir son impuissance sexuelle. Des propos similaires apparurent dans l’Historia general de las Indias de 1551 de Francisco López de Gómara.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/28343916756/in/album-72157670834710945/" title="Fontaine des Lions - Ponce - [Puerto Rico]"><img src="https://c5.staticflickr.com/9/8368/28343916756_1364905690_c.jpg" width="800" height="534" alt="Fontaine des Lions - Ponce - [Puerto Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Les bonnes tables de Poncé :
 
