@@ -42,7 +42,7 @@ L'architecture militaire omniprésente (Remparts, castillos ...) atteste de l'im
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29636157673/in/photostream/" title="Street Art - Old San Juan - [Puerto-Rico]"><img src="https://c2.staticflickr.com/9/8548/29636157673_1da0d66f73_c.jpg" width="800" height="450" alt="Street Art - Old San Juan - [Puerto-Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Passage obligé de tous les touristes pour la photo souvenir (nous n'y avons pas échappé), cette photo a été prise juste à temps. Le 04 jullet, jour de "l'Indépendance Day" un groupe d'étudiants en art à repeint la porte en noir en guise de protestation. Par cet acte, ils souhaitent attirer l'attention sur la dette abyssale de Puerto Rico et la mise en place d'un conseil de contrôle et de surveillance par l'administration Obama.  
+Passage obligé de tous les touristes pour la photo souvenir (nous n'y avons pas échappé), cette photo a été prise juste à temps. Le 04 juillet, jour de "l'Indépendance Day" un groupe d'étudiants en art à repeint la porte en noir en guise de protestation. Par cet acte, ils souhaitent attirer l'attention sur la dette abyssale de Puerto Rico et la mise en place d'un conseil de contrôle et de surveillance par l'administration Obama.  
 
 ### Bonnes affaires ...
 
