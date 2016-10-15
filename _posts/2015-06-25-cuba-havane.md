@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "A la recherche de E.T."
-preview:    "Vous connaissez forcément ce site qui a été exploité plusieurs fois par le cinéma, notamment dans la scène finale du film..."
+title:      "Viva Havana"
+preview:    "          "
 
 date:       2015-06-25 12:00:00
 author:     "Thierry"
