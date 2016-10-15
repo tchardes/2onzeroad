@@ -36,7 +36,7 @@ La calle (Rue) **Fortaleza** concentre de nombreuses boutiques d'artisanat local
 
 L'architecture militaire omniprésente (Remparts, castillos ...) atteste de l'importance que les espagnols accordaient à Puerto Rico. Nous avons visité le **Castillo de San Cristobal** et l'achat du billet (5$) permet également de visiter, les jours suivants, le **Castillo San Felipe Del Moro** qui sont les deux principales places fortes qui protégeaient la ville.  
 
-<a data-flickr-embed="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/127048817@N07/29636160383/in/photolist-M9R4Yt-K3Seuk-MWiQFS-K1CDsG" title="Castillo San Felipe Del Moro - Old San Juan - [Puerto-Rico]"><img src="https://c8.staticflickr.com/6/5768/29636160383_caf72130d6_c.jpg" width="800" height="450" alt="Castillo San Felipe Del Moro - Old San Juan - [Puerto-Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/127048817@N07/29636160383/in/photolist-M9R4Yt-MWiPHQ-K3Seuk-MWiQFS-MWiRmQ-K1CDsG" title="Castillo San Felipe Del Moro - Old San Juan - [Puerto-Rico]"><img src="https://c8.staticflickr.com/6/5768/29636160383_caf72130d6_c.jpg" width="800" height="450" alt="Castillo San Felipe Del Moro - Old San Juan - [Puerto-Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Attentat artistique !!!
 
