@@ -12,6 +12,7 @@ tags: [Architecture, Technologie]
 
 country: cuba
 city: la havane
+category: "blog"
 
 location:
   latitude: 23.135457

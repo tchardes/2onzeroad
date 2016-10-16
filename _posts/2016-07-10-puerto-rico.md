@@ -9,6 +9,8 @@ header-img: "assets/owner/blog/header/post-bg-puerto-rico.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
 tags: [tag-name-one, tag-name-two]
 country: puerto-rico
+category: "roadmap"
+
 
 location:
   latitude: 18.242404

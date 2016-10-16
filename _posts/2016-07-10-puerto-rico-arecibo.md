@@ -13,6 +13,8 @@ tags: [Architecture, Technologie]
 
 country: puerto-rico
 city: arecibo
+category: "blog"
+
 
 location:
   latitude: 18.348002
