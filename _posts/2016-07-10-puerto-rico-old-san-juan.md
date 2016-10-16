@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     blog
 title:      "Douceur de vivre dans la vieille ville"
 preview:    "Toutes les façades de style colonial ont fait l'objet d'une campagne de restauration et arborent des tons..."
 

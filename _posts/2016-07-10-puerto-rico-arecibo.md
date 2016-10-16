@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     blog
 title:      "A la recherche de E.T."
 preview:    "Vous connaissez forcément ce site qui a été exploité plusieurs fois par le cinéma, notamment dans la scène finale du film..."
 
