@@ -70,8 +70,8 @@
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
                         <!--{% if site.share %}{% include share.html %}{% endif %}
-                            {% include signoff.html %} 
-                        {% if site.comments %}{% include disqus_comments.html %}{% endif %}       -->
+                            {% include signoff.html %}       -->
+                        {% if site.comments %}{% include disqus_comments.html %}{% endif %} 
                         <br>
                         <ul class="pager">
                             {% if page.previous.url %}
@@ -96,7 +96,7 @@
 
             {% assign otherPosts = false %}
             {% for post in site.posts %}       
-                {% if page.id != post.id and post.parent-id and (page.parent-id == post.parent-id or post.path contains page.parent-id or page.path contains post.parent-id) %}
+                {% if page.id != post.id and (page.parent-id == post.parent-id or post.path contains page.parent-id or page.path contains post.parent-id) %}
                     {% assign otherPosts = true %}
                 {% endif %}
             {% endfor %}
@@ -115,9 +115,9 @@
                 </div>
                 <div class="row">   
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-                        {% for post in site.posts %}       
-                            {% if page.id != post.id and post.parent-id and (page.parent-id == post.parent-id or post.path contains page.parent-id or page.path contains post.parent-id) %}
-
+                        {% for post in site.posts %}
+                            {% if page.id != post.id and (post.path contains page.parent-id or page.path contains post.parent-id or (post.parent-id and page.parent-id == post.parent-id)) %}
+                                
                             <div class="col-md-4 col-sm-6 col-xs-12 col-xxs-12" style="display:inline-flex">
                                 {% include post_preview.html %}
                             </div>

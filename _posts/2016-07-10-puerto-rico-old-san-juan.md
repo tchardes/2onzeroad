@@ -13,6 +13,8 @@ tags: [tag-name-one, tag-name-two]
 
 country: puerto-rico
 city: old-san-juan
+category: "blog"
+
 
 location:
   latitude: 18.466164
