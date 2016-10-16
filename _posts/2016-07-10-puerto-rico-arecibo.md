@@ -3,12 +3,13 @@ layout:     blog
 title:      "A la recherche de E.T."
 preview:    "Vous connaissez forcément ce site qui a été exploité plusieurs fois par le cinéma, notamment dans la scène finale du film..."
 
+parent-id:  2016-07-10-puerto-rico
+
 date:       2016-07-04 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-arecibo.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-arecibo.jpg
 tags: [Architecture, Technologie]
-category: "blog"
 
 country: puerto-rico
 city: arecibo

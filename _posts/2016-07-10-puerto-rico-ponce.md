@@ -3,16 +3,16 @@ layout:     blog
 title:      "Poncé et la fontaine de Jouvance"
 preview:    "Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le..."
 
+parent-id:  2016-07-10-puerto-rico
+
 date:       2016-07-05 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-ponce.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-ponce.jpg
 tags: [tag-name-one, tag-name-two]
-category: "blog"
 
 country: puerto-rico
 city: ponce
-
 
 location:
   latitude: 18.006878

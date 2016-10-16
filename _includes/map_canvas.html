@@ -1,0 +1,27 @@
+{% assign displayMap = false %}
+
+<div class="mapping" mapId="{{include.id}}" style="display:none;" {% if page.itinary and include.displayItinary %} itinary="{{ site.baseurl }}/assets/owner/itinaries/{{ page.itinary }}" {% endif %} >
+    <div class="map-canvas" id="map-event"></div>
+    {% if include.isRecusrive %}
+        {% for post in site.posts %}
+            {% if post.location and post.parent-id and (page.parent-id == post.parent-id or post.path contains page.parent-id or page.path contains post.parent-id) %}
+
+                {% assign displayMap = true %}
+                {% assign iconColor = "blue" %}
+                {% if page.id == post.id %} {% assign iconColor = "red" %} {% endif %}
+
+                    {% include map_point.html %}
+
+            {% endif %}                                    
+        {% endfor %}
+    {% else %}
+        {% assign iconColor = "red" %}
+        {% assign displayMap = true %}
+        {% assign post = page %}
+        {% include map_point.html %}
+    {% endif %}
+</div>
+
+{% if displayMap %}
+    <div id="{{include.id}}" style="width:100%;height:400px;background-color:#FEEEEE"></div>
+{% endif %}

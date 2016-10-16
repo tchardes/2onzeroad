@@ -7,13 +7,13 @@ function initMap() {
     //loop through all the mapping elements
     $(".mapping").each(function() {
       var itinary = $(this).attr('itinary');
-
+      var mapId = $(this).attr('mapId');
       var map;
       var bounds;
 
       // initialize the map canvas
       $(this).find('.map-canvas').each(function() {    
-        map = getMap(this);
+        map = getMap(this, mapId);
         bounds = new google.maps.LatLngBounds();
       });
 
@@ -82,7 +82,7 @@ function loadKmlLayer(src, map) {
   });
   }
 
-function getMap(canvas) {
+function getMap(canvas, mapId) {
 
   // set a default zoom unless it's specified
   zoom = parseInt($(canvas).attr('zoom')) || 8;
@@ -99,7 +99,7 @@ function getMap(canvas) {
   }
 
   // create the map
-  map = new google.maps.Map(document.getElementById('map'), myOptions);
+  map = new google.maps.Map(document.getElementById(mapId), myOptions);
   map.setCenter(latlng);
 
   // set some custom styles

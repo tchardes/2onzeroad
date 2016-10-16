@@ -2,13 +2,13 @@
 layout:     blog
 title:      "Viva Havana"
 preview:    "          "
+parent-id:  2015-07-03-cuba
 
 date:       2015-06-25 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-havane.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-havane.jpg
 tags: [Architecture, Technologie]
-category: "blog"
 
 country: cuba
 city: la havane
