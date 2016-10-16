@@ -113,6 +113,16 @@ hr.small {
     background-color: rgba(255, 255, 255, 0.8) !important;
   }
 
+  .time-tag-categ {
+    width:100%;
+    height:50px;
+    color:#FFF;
+    background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%); 
+    background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%); 
+    background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#000000',GradientType=0 );
+  }
+
   /*.navbar-custom.is-fixed .navbar-brand {
     color: #3C763D;
   }

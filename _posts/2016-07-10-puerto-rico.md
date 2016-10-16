@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     blog
 title:   "Roadtrip du 30 juin au 07 juillet 2016"
 preview:    "Puerto ou Porto Rico, selon que l'on soit portoricain hispanophone ou anglophone..."
 
