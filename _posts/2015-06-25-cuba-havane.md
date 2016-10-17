@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-havane.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-havane.jpg
 tags: [Architecture, Technologie]
+flickr-tag: "Toulouse"
 
 country: cuba
 city: la havane
