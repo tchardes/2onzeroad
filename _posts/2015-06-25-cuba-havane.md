@@ -56,4 +56,4 @@ La place de la révolution est une vaste place pouvant contenir jusqu’à un mi
 
 Le capitole est très imposant et était en cours de restauration, ancien siège du gouvernement, il est le siège de l'académie des Sciences cubaine.  
 
-Il y a encore de nombreuses choses que nous aurions aimé voir
+Il y a encore de nombreuses choses que nous aurions aimé voir...
