@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-havane.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-havane.jpg
 tags: [Architecture, Technologie]
-flickr-tag: "Toulouse"
+flickr-tag: "havane"
 
 country: cuba
 city: la havane
@@ -24,7 +24,7 @@ location:
 
 Arrivés en Martinique, on nous apprend que la compagnie **La Cubana de Aviacion** a un souci. Toutes les 4 heures, on va nous annoncer un nouveau retard, nous empêchant de prendre des dispositions pour la nuit. Au final, après 20 h d'attente et de déambulations dans l'aéroport, on voit enfin atterrir notre avion... un Antonov 158, un avion russe qui s'est avéré très correct. Cette compagnie est connue pour ne pas être très ponctuelle et nous n'avons pas été les seuls à en faire les frais autour de nous.   
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29760054294/in/dateposted/" title="Antonov 158 - [Cuba]"><img src="https://c7.staticflickr.com/6/5565/29760054294_a1116a49d7_b.jpg" width="1024" height="768" alt="Antonov 158 - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29760054294/in/dateposted/" title="Antonov 158 - [Cuba]"><img src="https://c7.staticflickr.com/6/5565/29760054294_a1116a49d7_b.jpg" width="1024" height="768" alt="La Cubana de Aviacion - Antonov 158 - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Viva Habana
 
@@ -59,7 +59,7 @@ On ne peut passer par la Havane sans faire un détour par le bar restaurant **La
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29760057204/in/photostream/" title="La Bodeguita Del Medio - La Havane - [Cuba]"><img src="https://c5.staticflickr.com/9/8668/29760057204_b625913d78_b.jpg" width="1024" height="576" alt="La Bodeguita Del Medio - La Havane - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Afin de faire rentrer des devises, un grand marché artisanal a été crée dans une immense halle métallique sur les quais, proche du port. De nombreux artisans vendent des souvenirs, passage obligatoire pour tout bon touriste, nous avons même acheté quelques babioles.  
+Afin de faire rentrer des devises, un grand marché artisanal a été créé dans une immense halle métallique sur les quais, proche du port. De nombreux artisans vendent des souvenirs, passage obligatoire pour tout bon touriste, nous avons même acheté quelques babioles.  
 
 Nous avons assisté à une soirée cabaret de très bonne facture dans le célèbre **hôtel Nacional de Cuba**. Entrer dans cet hôtel très chic, au charme désuet, vous replonge dans les vieux films américains des années 60. Au rez-de-chaussée se trouve un petit musée qui retrace les heures de gloire de l'établissement. C'est ici que **Meyer Lansky**, en décembre 1946, a organisé une conférence hors du commun avec **Lucky Luciano**, **Santo Trafficante Jr.**, **Frank Costello**, **Albert Anastasia**, **Vito Genovese** et beaucoup d'autres chefs des familles mafieuses des USA. Après avoir "reigné" sur Las Vegas, Lansky voulait faire de Cuba une Sin City puissance 10. Il avait édité à l'occasion de cette "réunion", pas du tout secréte, une affiche digne des plus belles revues de cabaret.  
 
