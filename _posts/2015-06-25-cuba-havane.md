@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Viva Havana"
+title:      "Viva Habana"
 preview:    "          "
 parent-id:  2015-07-03-cuba
 
@@ -37,15 +37,22 @@ Bien que notre programme était bien défini, nous avons pu prendre un taxi deva
  
 ### Nous avons aimé :
 
+Cadillac, Buick, Chevrolet, Oldsmobil, Ford, Pontiac... la ville regorge de ces belles américaines, nous les avons photographié dans tous les sens. Souvent rafistolée comme ils peuvent, certaines sont vraiment magnifique. Les garagistes cubains font des merveilles. En discutant un peu avec des propriètaires, nous avons appris que la pluspart des moteurs d'origines avaient été remplacés par des moteur dièsel. La fumée qui s'en échappe l'atteste.   
 
+Cuba est surtout connu pour ces cigares. Nous avons visité une des nombreuses fabriques étatiques qui achete toute la produxtion de tabac de l'île. Composé d'un immense bâtiment sur trois étages. Chaque étage correspond à une étape de fabrication. Au dernier étage, les meilleurs ouvriers finalise la confection des cigares et appose la cape, la dernière feuille qui l'entoure. Le choix des différents types de tabacs et l'assemblage des feuilles selon leurs qualités fera au bout de la chaine des **Cohiba**, **MontéCristo**, **Roméo y Julietta**, **Bolivar** et plein d'autres.  
 
-Le capitole très imposant était en cours de restauration, ancien siège du gouvernement, il est le siège de l'académie des Sciences cubaine.
-La fabrique de cigares : elle est sur trois étages. Chaque étage correspond à une étape de fabrication  du cigare et au dernier étage, les meilleurs ouvriers finissent la confection en enroulant la dernière feuille. 
-C'est une entreprise étatisée. L'état achète toute la production aux ouvriers.
-Marché artisanal : dans une immense halle métallique, de nombreux artisans vendent des souvenirs, passage obligatoire pour tout bon touriste, nous avons même acheté quelques babioles. 
-Le fort El Morro d'où l'on a une vue imprenable sur La Havane.
-Le musée de la ville : Très bien arrangé, il regorge de pièces constituant le patrimoine de Cuba.
-Le restaurant La Bodeguita del medio : très apprécié, nous avons mangé à l'étage des patates douces frites excellentes. Les murs étaient entièrement recouverts de mots, signatures, dédicaces ou remerciements, C'était typique.
+Le **fort El Morro** (Castillo De Los Tres Reyes Del Morro) est une forteresse situé juste en face de la Havane qui protégeait l'entrée de la baie. Sur ses remparts, on bénéficie d'une vue imprenable sur toute la ville. Transformé en musée militaire, il est gardé par des cadets en uniforme d'époque dont nous avons pu assister à la reléve de la garde, au son du canon.
 
-Nous avons assisté à une soirée cabaret de très bonne facture dans le célèbre **hôtel Nacional de Cuba**. En rentrant dans cet hôtel très chic au charme desuet vous replonge dans les vieux films américains des années 60. Au rez-de-chaussée se trouve un genre de petit musée qui retance les heures de gloire de l'établissement. C'est dans cet établissement que Meyer Lansky, en Décembre 1946 , l'hôtel a accueilli la Conférence de La Havane , un sommet de Infamous Mobb dirigé par Lucky Luciano et Meyer Lansky et en présence de Santo Trafficante Jr. , Frank Costello , Albert Anastasia , Vito Genovese et beaucoup d' autres
+Le musée de la Ciudad se trouve au bout de la plaza de armas. Un orchestre symphonique joue juste devant, autour des stands vendent des livres de propagandes à la gloire de la révolution, de Fidel et du Ché. Très bien arrangé, ce musée de l'histoire locale regorge de pièces constituant le patrimoine de Cuba. Très eclectiques, on passe d'oeuvres picturales aux meubles, armes et armures espagnoles, drapeaux et fanions, carosses .... 
 
+On ne peu passer par la Havane sans faire un détour par le bar restaurant **La Bodeguita del medio**. Acceuillis par des musiciens reprenant les tubes du Buena Vista Sicial Club, cet établissement qui revendique la création du Mojito en 1942 doit sa célébrité à ces clients célébres, Pablo Neruda, Salvador Allende, Ernest Hemingway... apprécié, nous avons mangé à l'étage des patates douces frites excellentes. La décoration est très particulière. Les murs intérieurs et extérieurs sont entièrement recouverts de mots, signatures, dédicaces ou remerciements, C'est typique.
+
+Afin de faire rentrer des devises, un grand marché artisanal a été crée dans une immense halle métallique sur les quais, proche du port. De nombreux artisans vendent des souvenirs, passage obligatoire pour tout bon touriste, nous avons même acheté quelques babioles. 
+
+Nous avons assisté à une soirée cabaret de très bonne facture dans le célèbre **hôtel Nacional de Cuba**. Entrer dans cet hôtel très chic au charme desuet vous replonge dans les vieux films américains des années 60. Au rez-de-chaussée se trouve un genre de petit musée qui retrace les heures de gloire de l'établissement. C'est ici que Meyer Lansky, en Décembre 1946 , a organisé une conférence hors du commun avec Lucky Luciano, Santo Trafficante Jr., Frank Costello, Albert Anastasia, Vito Genovese et beaucoup d'autres chefs des familles mafieuse des USA. Après avoir "reigné" sur Las Vegas, Lansky voulais faire de Cuba une Sin City fois 10.  
+
+La place de la révolution est une vaste place pouvant contenir jusqu’à un million de personnes. Elle bordée par le Mémorial José Marti et le ministère de l'Intérieur, qui arbore sur sa façade le visage du Ché Guevara avec cette célèbre phrase **"Hasta la victoria siempre"**. L’endroit a été le théâtre de nombreux évènements marquants de l’histoire cubaine, notament les monologues interminables de Fidel Castro. Recement, ce sont les Stones qui ont offert un concert gratuit aux havanais. 
+
+Le capitole est très imposant et était en cours de restauration, ancien siège du gouvernement, il est le siège de l'académie des Sciences cubaine.
+
+Il y a encore de nombreuses choses que nous aurions aimé voir
