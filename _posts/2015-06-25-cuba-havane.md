@@ -19,21 +19,33 @@ location:
   longitude: -82.358861
 ---
 
-Le jour J, impatients au possible, nous décollons pour Fort-de-France vers 10h30, à notre arrivée une heure plus tard environ, nous devons attendre 16h30 notre vol pour La Havane. Pour passer le temps, nous nous promenons dans l'aéroport, nous prenons un encas quand soudain un message est diffusé dans les hauts parleurs de l'aéroport : le vol vers La Havane sera retardé de 20 h. La compagnie La Cubana a un souci (il paraît que cette compagnie n'est pas sérieuse et qu'il y a des problèmes sur chaque vol)... Sur le coup, le choc 20 h à attendre l'enfer, puis on relativise, au final on ne va rien manqué. Et puis on est là pour passer une semaine de rêve et on va passer une semaine de rêve, non mais !!!
-Vers 8h00 le lendemain, notre avion est enfin là, c'est un antonov, un avion russe très correct qui nous a amené à Cuba.
+### Voyage laborieux !!!
+
+Arrivés en Martinique, on nous apprend que la compagnie **La Cubana de Aviacion** a un souci. Toutes les 4 heures, on va nous annoncer un nouveau retard, nous empêchant de prendre des dispositions pour la nuit. Au final, après 20 h d'attente et de déambulations dans l'aéroport, on voit enfin atterrir notre avion. Nous sommes assez surpris de le voir atterrir : un Antonov 158, un avion russe qui s'est avéré très correct. Cette compagnie est connue pour ne pas être très ponctuelle et nous n'avons pas été les seuls à en faire les frais autour de nous.   
+
+
+### Viva Habana
+
+Les formalitées aéroportuaires terminées, notre guide nous prend en compte et partons en direction de la Havane dans un mini car. Notre groupe ne compte que 3 autres couples de martiniquais, très sympathiques. Dès que nous entrons dans le flux de la circulation, notre voyage dans le temps commence. Nous sommes doublés par de très belles amricaines de toutes marques et couleurs, témoignage d'une autre époque. 
+
+Notre hôtel, l'Occidental Miramar est situé dans un quartier très riche, au milieu d'imposantes bâtisses, témoignage d'une grande puissance et richesse avant la "Révolution" et transformées aujourd'hui principalement en ambassades.
+
+Nous trouvons beaucoup de charme à la vieille ville même si les façades sont en piteux état. On peut s'en rendre compte en empruntant le « malacon » route qui longe le bord de mer. L'absence de politique d'entretien et de rénovation depuis la fin des années 50 est criarde. Toutefois, sous l'impulsion de l'Unesco un gros chantier de restauration est en cours. Ils n'hesitent pas à ne garder que la façade et détruire tout le reste du bâtiment pour partir sur du neuf. La ville habrite une très belle architecture, qu'elle soit militaire, baroque, néoclassique, art nouveau et révolutionnaire.  
+
+Bien que notre programme était bien défini, nous avons pu prendre un taxi devant l'hôtel pour nous déplacer dans la ville. 
+
+ 
+### Nous avons aimé :
 
 
 
-A la sortie de l 'aéroport, ayant pris un tour opérateur, un guide nous attendait et nous sommes montés dans un minibus de marque chinoise et assez récent.
-Sur le chemin de l'hôtel, à peine une minute après le départ, nous voyons, oh merveille !!!, notre première américaine, puis une deuxième puis une troisième...
-On en revient pas, elles sont toutes très belles et très colorées. Elles sont si bien entretenues que certaines ont l'air flambant neuves. On se serait cru dans les années 50.
+Le capitole très imposant était en cours de restauration, ancien siège du gouvernement, il est le siège de l'académie des Sciences cubaine.
+La fabrique de cigares : elle est sur trois étages. Chaque étage correspond à une étape de fabrication  du cigare et au dernier étage, les meilleurs ouvriers finissent la confection en enroulant la dernière feuille. 
+C'est une entreprise étatisée. L'état achète toute la production aux ouvriers.
+Marché artisanal : dans une immense halle métallique, de nombreux artisans vendent des souvenirs, passage obligatoire pour tout bon touriste, nous avons même acheté quelques babioles. 
+Le fort El Morro d'où l'on a une vue imprenable sur La Havane.
+Le musée de la ville : Très bien arrangé, il regorge de pièces constituant le patrimoine de Cuba.
+Le restaurant La Bodeguita del medio : très apprécié, nous avons mangé à l'étage des patates douces frites excellentes. Les murs étaient entièrement recouverts de mots, signatures, dédicaces ou remerciements, C'était typique.
 
-
-Nous trouvons beaucoup de charme à cette ville. Les rues de la vieille ville sont pavées. Il y a de très belles architectures. Le Capitole en impose ainsi que la cathédrale. Ceci est le témoignage d'une grande puissance et richesse avant l'embargo dans les années 50. Aujourd'hui la plupart des façades sont en piteux état, on peut s'en rendre compte en empruntant le « malacon » route qui longe le bord de mer. Toutefois, ils commencent petit  à petit à restaurer leurs patrimoines.
-Pour le transport, outre les belles américaines, on est surpris de voir des calèches ainsi que de tout petits taxis jaunes bien rigolos appelés taxis coco.
-La fabrique de cigare tient une place importante ainsi que le rhum.
-Nous avons visité le musée de la ville très bien arrangé.
-Nous nous sommes rendus au fort El Morro d'où l'on a une vue magnifique sur La Havane.
-Ce fort est toujours en activité et nous avons assisté à une mise à feu de canon, les oreilles ont été mises à rude épreuve. Il y avait une chapelle et un musée dédié au Che, personne très emblématique de Cuba.
-
+Nous avons assisté à une soirée cabaret de très bonne facture dans le célèbre **hôtel Nacional de Cuba**. En rentrant dans cet hôtel très chic au charme desuet vous replonge dans les vieux films américains des années 60. Au rez-de-chaussée se trouve un genre de petit musée qui retance les heures de gloire de l'établissement. C'est dans cet établissement que Meyer Lansky, en Décembre 1946 , l'hôtel a accueilli la Conférence de La Havane , un sommet de Infamous Mobb dirigé par Lucky Luciano et Meyer Lansky et en présence de Santo Trafficante Jr. , Frank Costello , Albert Anastasia , Vito Genovese et beaucoup d' autres
 
