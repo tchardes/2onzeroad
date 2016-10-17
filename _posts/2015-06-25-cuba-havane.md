@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-havane.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-havane.jpg
 tags: [Capitale, ville]
-flickr-tag: "havane"
+flickr-tag: "La Havane"
 
 country: cuba
 city: la havane
