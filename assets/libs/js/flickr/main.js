@@ -13,6 +13,7 @@ function gup( name, url ) {
    var gallery;
 
    var lastSearch = gup("tag");
+   if(!lastSearch || lastSearch === "") { lastSearch = "Toulouse" }
 
 
    function searchPhotos(text, page) {
