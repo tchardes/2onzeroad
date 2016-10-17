@@ -10,7 +10,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-old-san-juan.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-osj.jpg
 tags: [Capitale, Ville]
-flickr-tag: "Old San Juan"
+flickr-tag: "San Juan"
 
 country: puerto-rico
 city: old-san-juan
