@@ -76,4 +76,6 @@ Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grande
 * CheeseCake Factory ;
 * Palmas Rest.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29636163733/in/photostream/" title="Façade - Old San Juan - [Puerto-Rico]"><img src="https://c6.staticflickr.com/9/8643/29636163733_7d1e4c794f_c.jpg" width="1024" height="576" alt="Façade - Old San Juan - [Puerto-Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29636163733/in/photostream/" title="Façade - Old San Juan - [Puerto-Rico]"><img src="https://c6.staticflickr.com/9/8643/29636163733_7d1e4c794f_c.jpg" width="1024" height="576" alt="Façade - Old San Juan - [Puerto-Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>      
+
+
