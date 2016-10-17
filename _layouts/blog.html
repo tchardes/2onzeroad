@@ -106,12 +106,12 @@
                 <div class="row">                           
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
                         <h2>Autres articles en relation...</h2>
+                        <a href="{{ root_url }}/gallery/?tag={{page.flickr-tag}}">Photos</a>
                     </div>
                 </div>
                 <div class="row">   
-                
-                {% include map_canvas.html id="map2" isRecusrive="true" %}
-                <br />
+                    {% include map_canvas.html id="map2" isRecusrive="true" %}
+                    <br />
                 </div>
                 <div class="row">   
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
