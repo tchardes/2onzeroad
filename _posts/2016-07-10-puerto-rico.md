@@ -7,7 +7,7 @@ date:       2016-06-30 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
-tags: [tag-name-one, tag-name-two]
+tags: [Caraïbes-Caribbean]
 country: puerto-rico
 category: "roadmap"
 
