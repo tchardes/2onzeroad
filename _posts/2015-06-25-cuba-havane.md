@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Viva Habana"
-preview:    "          "
+preview:    " Nous trouvons beaucoup de charme à la vieille ville même si... "
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-25 12:00:00
