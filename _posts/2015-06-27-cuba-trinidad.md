@@ -20,3 +20,11 @@ location:
   longitude: -79.976970
 ---
 
+Trinidad
+
+Nous visitons une très belle cathédrale. Nous déambulons dans les rues pavées. On s'y sent bien.
+On flâne devant des étals d'un marché artisanal, c'est agréable.
+On prend un verre dans un bar à l'ambiance chaleureuse. Un orchestre joue de la salsa. On est transporté. La musique fait vraiment partie de leur vie et ils ont le rythme dans la peau, c'est un régal de les voir danser.
+A l'heure du déjeuner, pour quelques euros en supplément, on pouvait manger la fameuse « langouste de Cuba ».
+
+
