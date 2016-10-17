@@ -22,7 +22,7 @@ location:
 
 ### Voyage laborieux !!!
 
-Arrivés en Martinique, on nous apprend que la compagnie **La Cubana de Aviacion** a un souci. Toutes les 4 heures, on va nous annoncer un nouveau retard, nous empêchant de prendre des dispositions pour la nuit. Au final, après 20 h d'attente et de déambulations dans l'aéroport, on voit enfin atterrir notre avion. Nous sommes assez surpris de voir un Antonov 158, un avion russe qui s'est avéré très correct. Cette compagnie est connue pour ne pas être très ponctuelle et nous n'avons pas été les seuls à en faire les frais autour de nous.   
+Arrivés en Martinique, on nous apprend que la compagnie **La Cubana de Aviacion** a un souci. Toutes les 4 heures, on va nous annoncer un nouveau retard, nous empêchant de prendre des dispositions pour la nuit. Au final, après 20 h d'attente et de déambulations dans l'aéroport, on voit enfin atterrir notre avion... un Antonov 158, un avion russe qui s'est avéré très correct. Cette compagnie est connue pour ne pas être très ponctuelle et nous n'avons pas été les seuls à en faire les frais autour de nous.   
 
 
 ### Viva Habana
@@ -31,7 +31,7 @@ Les formalités aéroportuaires terminées, notre guide nous prend en compte et 
 
 Notre hôtel, l'**Occidental Miramar** est situé dans un quartier très riche, au milieu d'imposantes bâtisses, témoignage d'une grande puissance et richesse avant la "Révolution" et transformées aujourd'hui principalement en ambassades.
 
-Nous trouvons beaucoup de charme à la vieille ville même si les façades sont en piteux état. On peut s'en rendre compte en empruntant le « malacon » route qui longe le bord de mer. L'absence de politique d'entretien et de rénovation depuis la fin des années 50 est criarde. Toutefois, sous l'impulsion de l'Unesco un gros chantier de restauration est en cours. Ils n'hesitent pas à ne garder que la façade et détruire tout le reste du bâtiment pour partir sur du neuf. La ville abrite une très belle architecture, qu'elle soit militaire, baroque, néoclassique, art nouveau et révolutionnaire.  
+Nous trouvons beaucoup de charme à la vieille ville même si les façades sont en piteux état. On peut s'en rendre compte en empruntant le « malacon » route qui longe le bord de mer. L'absence de politique d'entretien et de rénovation depuis la fin des années 50 est criarde. Toutefois, sous l'impulsion de l'Unesco un gros chantier de restauration est en cours. Ils n'hesitent pas à ne garder que la façade et détruire tout le reste du bâtiment pour partir sur du neuf. La ville abrite une très belle architecture, qu'elle soit militaire, baroque, néoclassique, art nouveau et moins belle, révolutionnaire.  
 
 Bien que notre programme était bien défini, nous avons pu prendre un taxi devant l'hôtel le soir pour nous déplacer dans la ville. 
 
@@ -40,7 +40,7 @@ Bien que notre programme était bien défini, nous avons pu prendre un taxi deva
 
 Cadillac, Buick, Chevrolet, Oldsmobil, Ford, Pontiac... la ville regorge de ces belles américaines, nous les avons photographié dans tous les sens. Souvent rafistolées comme ils peuvent, certaines sont vraiment magnifiques. Les garagistes cubains font des merveilles avec peu. En discutant avec des propriètaires, nous avons appris que la pluspart des moteurs d'origines avaient été remplacés par des moteurs dièsel. La fumée qui s'en échappe l'atteste.   
 
-Cuba est surtout connu pour ces cigares. Nous avons visité une des nombreuses fabriques étatiques qui achéte toute la production de tabac de l'île aux paysans. Composé d'un immense bâtiment sur trois étages. Chaque étage correspond à une étape de fabrication. Au dernier étage, les meilleurs ouvriers finalises la confection des cigares et apposent la cape, la dernière feuille qui l'entoure. Le choix des différents types de tabacs et l'assemblage des feuilles selon leurs qualités fera au bout de la chaine des **Cohiba**, **MontéCristo**, **Roméo y Julietta**, **Bolivar** et plein d'autres.  
+Cuba est surtout connu pour ces cigares. Nous avons visité une des nombreuses fabriques étatiques qui achéte toute la production de tabac de l'île aux paysans. Composé d'un immense bâtiment sur trois étages, chaque étage correspond à une étape de fabrication. Au dernier étage, les meilleurs ouvriers finalisent la confection des cigares et apposent la cape, la dernière feuille qui l'entoure. Le choix des différents types de tabacs et l'assemblage des feuilles selon leurs qualités fera au bout de la chaine des **Cohiba**, **MontéCristo**, **Roméo y Julietta**, **Bolivar** et plein d'autres.  
 
 Le **fort El Morro** (Castillo De Los Tres Reyes Del Morro) est une forteresse située juste en face de la Havane, elle protégeait l'entrée de la baie. Sur ses remparts, on bénéficie d'une vue imprenable sur toute la ville. Transformé en musée militaire, il est gardé par des cadets en uniforme d'époque dont nous avons pu assister à la reléve de la garde, au son du canon.  
 
