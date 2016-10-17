@@ -10,6 +10,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-ponce.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-ponce.jpg
 tags: [Ville]
+flickr-tag: "Ponce"
 
 country: puerto-rico
 city: ponce
