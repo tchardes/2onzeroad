@@ -24,6 +24,7 @@ location:
 
 Arrivés en Martinique, on nous apprend que la compagnie **La Cubana de Aviacion** a un souci. Toutes les 4 heures, on va nous annoncer un nouveau retard, nous empêchant de prendre des dispositions pour la nuit. Au final, après 20 h d'attente et de déambulations dans l'aéroport, on voit enfin atterrir notre avion... un Antonov 158, un avion russe qui s'est avéré très correct. Cette compagnie est connue pour ne pas être très ponctuelle et nous n'avons pas été les seuls à en faire les frais autour de nous.   
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29760054294/in/dateposted/" title="Antonov 158 - [Cuba]"><img src="https://c7.staticflickr.com/6/5565/29760054294_a1116a49d7_b.jpg" width="1024" height="768" alt="Antonov 158 - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Viva Habana
 
@@ -40,19 +41,31 @@ Bien que notre programme était bien défini, nous avons pu prendre un taxi deva
 
 Cadillac, Buick, Chevrolet, Oldsmobil, Ford, Pontiac... la ville regorge de ces belles américaines, nous les avons photographié dans tous les sens. Souvent rafistolées comme ils peuvent, certaines sont vraiment magnifiques. Les garagistes cubains font des merveilles avec peu. En discutant avec des propriètaires, nous avons appris que la pluspart des moteurs d'origines avaient été remplacés par des moteurs dièsel. La fumée qui s'en échappe l'atteste.   
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/19414711722/in/album-72157653125169544/" title="Belle Américaine - La Havane - [Cuba]"><img src="https://c3.staticflickr.com/4/3935/19414711722_bbfb966f17_b.jpg" width="1024" height="683" alt="Belle Américaine - La Havane - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Cuba est surtout connu pour ces cigares. Nous avons visité une des nombreuses fabriques étatiques qui achéte toute la production de tabac de l'île aux paysans. Composé d'un immense bâtiment sur trois étages, chaque étage correspond à une étape de fabrication. Au dernier étage, les meilleurs ouvriers finalisent la confection des cigares et apposent la cape, la dernière feuille qui l'entoure. Le choix des différents types de tabacs et l'assemblage des feuilles selon leurs qualités fera au bout de la chaine des **Cohiba**, **MontéCristo**, **Roméo y Julietta**, **Bolivar** et plein d'autres.  
 
 Le **fort El Morro** (Castillo De Los Tres Reyes Del Morro) est une forteresse située juste en face de la Havane, elle protégeait l'entrée de la baie. Sur ses remparts, on bénéficie d'une vue imprenable sur toute la ville. Transformé en musée militaire, il est gardé par des cadets en uniforme d'époque dont nous avons pu assister à la reléve de la garde, au son du canon.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/19445783615/in/album-72157653125169544/" title="Panoramique La Havane - [Cuba]"><img src="https://c8.staticflickr.com/1/437/19445783615_2ced36954b_b.jpg" width="1024" height="351" alt="Panoramique La Havane - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Le musée de la Ciudad se trouve au bout de la Plaza de Armas. Un orchestre symphonique jouait juste devant, autour, des stands vendent des livres de propagandes à la gloire de la révolution, de Fidel et du Ché. Très bien arrangé, ce musée de l'histoire locale regorge de pièces constituant le patrimoine de Cuba. Très eclectiques, on passe d'oeuvres picturales aux meubles, armes et armures espagnoles, drapeaux et fanions, carosses...   
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/30093438540/in/photostream/" title="Livres de propagande - La Havane - [Cuba]"><img src="https://c5.staticflickr.com/6/5632/30093438540_a074e34f74_b.jpg" width="1024" height="576" alt="Livres de propagande - La Havane - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29760061824/in/photostream/" title="Concert Plaza de Arma - La Havane - [Cuba]"><img src="https://c1.staticflickr.com/6/5835/29760061824_5beed91966_b.jpg" width="1024" height="576" alt="Concert Plaza de Arma - La Havane - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 On ne peut passer par la Havane sans faire un détour par le bar restaurant **La Bodeguita del medio**. Acceuillis par des musiciens reprenant les tubes du Buena Vista Sicial Club, cet établissement qui revendique la création du Mojito en 1942 doit sa célébrité à ces clients célébres, Pablo Neruda, Salvador Allende, Ernest Hemingway... Nous avons mangé à l'étage des patates douces frites excellentes. La décoration est très particulière. Les murs intérieurs et extérieurs sont entièrement recouverts de mots, signatures, dédicaces ou remerciements, C'est typique.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29760057204/in/photostream/" title="La Bodeguita Del Medio - La Havane - [Cuba]"><img src="https://c5.staticflickr.com/9/8668/29760057204_b625913d78_b.jpg" width="1024" height="576" alt="La Bodeguita Del Medio - La Havane - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Afin de faire rentrer des devises, un grand marché artisanal a été crée dans une immense halle métallique sur les quais, proche du port. De nombreux artisans vendent des souvenirs, passage obligatoire pour tout bon touriste, nous avons même acheté quelques babioles.  
 
 Nous avons assisté à une soirée cabaret de très bonne facture dans le célèbre **hôtel Nacional de Cuba**. Entrer dans cet hôtel très chic, au charme désuet, vous replonge dans les vieux films américains des années 60. Au rez-de-chaussée se trouve un petit musée qui retrace les heures de gloire de l'établissement. C'est ici que **Meyer Lansky**, en décembre 1946, a organisé une conférence hors du commun avec **Lucky Luciano**, **Santo Trafficante Jr.**, **Frank Costello**, **Albert Anastasia**, **Vito Genovese** et beaucoup d'autres chefs des familles mafieuses des USA. Après avoir "reigné" sur Las Vegas, Lansky voulait faire de Cuba une Sin City puissance 10. Il avait édité à l'occasion de cette "réunion", pas du tout secréte, une affiche digne des plus belles revues de cabaret.  
 
 La place de la révolution est une vaste place pouvant contenir jusqu’à un million de personnes. Elle est bordée par le mémorial José Marti et le ministère de l'Intérieur,qui arbore sur sa façade le visage de Ché Guevara avec cette célèbre phrase **"Hasta la victoria siempre"**. L’endroit a été le théâtre de nombreux évènements marquants de l’histoire cubaine, notament les monologues interminables de Fidel Castro. Récemment, ce sont les Rolling Stones qui ont offert un concert gratuit aux havanais, une première.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/18800356763/in/album-72157653125169544/" title="Ministère de l&#x27;intérieur - La Havane - [Cuba]"><img src="https://c4.staticflickr.com/1/448/18800356763_cbe0b08e7b_b.jpg" width="1024" height="576" alt="Ministère de l&#x27;intérieur - La Havane - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Le capitole est très imposant et était en cours de restauration, ancien siège du gouvernement, il est le siège de l'académie des Sciences de Cuba.  
 
