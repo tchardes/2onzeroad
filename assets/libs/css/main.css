@@ -245,18 +245,15 @@ hr.small {
   border-bottom-left-radius: 5px;
 }
 footer {
-  padding: 10px 0px 0px 0px;
-  background-color: #223333;
+    background-color: #223333;
+    text-align: center;
 }
-footer .list-inline {
-  margin: 0;
-  padding: 0;
+
+.copyright {
+  color:#FFF;
+  text-shadow: 1px 2px 1px rgba(0,0,0,1);
 }
-footer .copyright {
-  text-align: center;
-  margin-bottom: 10px;
-  color:#BBB;
-}
+
 .floating-label-form-group {
   font-size: 14px;
   position: relative;
