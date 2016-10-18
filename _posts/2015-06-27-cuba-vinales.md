@@ -8,7 +8,7 @@ date:       2015-06-29 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-vinales.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-vinales.jpg
-tags: [ville]
+tags: [Ville]
 flickr-tag: "Viñales"
 
 country: cuba
