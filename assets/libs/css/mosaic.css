@@ -7,6 +7,7 @@
    -moz-column-gap:      0px;
    column-count:         18;
    column-gap:           0px;
+   opacity: 0.7;
 }
 
 #photos img {

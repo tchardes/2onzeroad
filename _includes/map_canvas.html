@@ -1,6 +1,6 @@
 {% assign displayMap = false %}
 
-<div class="mapping" mapId="{{include.id}}" style="display:none;" {% if page.itinary and include.displayItinary %} itinary="{{ site.baseurl }}/assets/owner/itinaries/{{ page.itinary }}" {% endif %} >
+<div class="mapping" googleStyle="{{include.googleStyle}}" mapId="{{include.id}}" style="display:none;" {% if page.itinary and include.displayItinary %} itinary="{{ site.baseurl }}/assets/owner/itinaries/{{ page.itinary }}" {% endif %} >
     <div class="map-canvas" id="map-event"></div>
     {% if include.isRecusrive %}
         {% for post in site.posts %}

@@ -54,7 +54,7 @@
                     </div>
                 </div>
                 <div style="opacity:0.8;">
-                    {% include map_canvas.html id="map1" displayItinary="true" %}
+                    {% include map_canvas.html id="map1" displayItinary="true" googleStyle="true" %}
                 </div>
             </header>
 
@@ -64,9 +64,10 @@
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
                         <h1>{{ page.title }}</h1>
                         {{ content }} 
+                        <a href="{{ root_url }}/gallery/?tag={{page.flickr-tag}}"><h3><i class="fa fa-picture-o" aria-hidden="true"></i> Direction la gallerie pour d'autres photos...</h3></a>
+                        <hr />                        
                     </div>
                 </div>
-
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
                         <!--{% if site.share %}{% include share.html %}{% endif %}
@@ -88,10 +89,6 @@
                     </div>
                 </div>
             </div>
-            <div style="opacity:0.8;">
-                
-            </div>
-
 
 
             {% assign otherPosts = false %}
@@ -103,15 +100,18 @@
 
 
             {% if otherPosts %}
-                <div class="row">                           
-                    <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-                        <h2>Autres articles en relation...</h2>
-                        <a href="{{ root_url }}/gallery/?tag={{page.flickr-tag}}">Photos</a>
+                <div class="container">
+                    <div class="row">                           
+                        <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
+                            <h2>Autres articles en relation...</h2>
+                        </div>
                     </div>
                 </div>
-                <div class="row">   
-                    {% include map_canvas.html id="map2" isRecusrive="true" %}
-                    <br />
+                <div class="row"> 
+                    <div style="opacity:0.8;">  
+                        {% include map_canvas.html id="map2" isRecusrive="true" googleStyle="false" %}
+                        <br />
+                    </div>
                 </div>
                 <div class="row">   
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">

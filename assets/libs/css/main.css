@@ -245,13 +245,13 @@ hr.small {
   border-bottom-left-radius: 5px;
 }
 footer {
-    background-color: #223333;
     text-align: center;
 }
 
 .copyright {
-  color:#FFF;
-  text-shadow: 1px 2px 1px rgba(0,0,0,1);
+  color:#222;
+  font-weight: 600!important;
+  text-shadow: 0px 0px 4px rgba(255,255,255,0.8);
 }
 
 .floating-label-form-group {
