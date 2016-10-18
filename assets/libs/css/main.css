@@ -509,6 +509,24 @@ img::-moz-selection {
 
 
 
+
+
+.gallery-thumb {
+    position: relative;
+    float: left;
+    border: 3px solid #E3E3E3;
+    margin: 16px 0px 45px;
+}
+
+gallery-thumb-bottom {
+    position: absolute;
+    bottom: -24px;
+    left: 0px;
+    height: 21px;
+    width: 34%;
+    padding: 0px 217px;
+}
+
 .left-shadow {
     background: url(/assets/owner/gallery-bottom-leftshadow.png) no-repeat;
     width: 217px;
