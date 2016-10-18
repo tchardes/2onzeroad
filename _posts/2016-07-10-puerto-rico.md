@@ -7,7 +7,7 @@ date:       2016-06-30 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
-tags: [Caraïbes, Caribbean]
+tags: [Caraïbes, Roadtrip]
 country: puerto-rico
 category: "roadmap"
 flickr-tag: "Puerto Rico"
