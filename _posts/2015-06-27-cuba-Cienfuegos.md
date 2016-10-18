@@ -6,8 +6,8 @@ parent-id:  2015-07-03-cuba
 
 date:       2015-06-28 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-havane.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-havane.jpg
+header-img: "assets/owner/blog/header/post-bg-cienfuegos.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-cienfuegos.jpg
 tags: [ville, histoire]
 flickr-tag: "cienfuegos"
 

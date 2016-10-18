@@ -6,8 +6,8 @@ parent-id:  2015-07-03-cuba
 
 date:       2015-06-30 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-havane.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-havane.jpg
+header-img: "assets/owner/blog/header/post-bg-santa-clara.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-santa-clara.jpg
 tags: [ville, histoire]
 flickr-tag: "Santa Clara"
 
