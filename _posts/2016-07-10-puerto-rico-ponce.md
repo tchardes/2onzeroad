@@ -23,7 +23,7 @@ location:
 
 ---
 
-Nous sommes finalement parvenus à retrouver la Ruta 10 et sommes arrivés, sains et saufs, à Poncé où nous avons passé deux jours entiers. Deuxième ville d'importance de Puerto Rico, elle tire son nom du célèbre Juan Ponce de Léon, conquistador et premier gouverneur de Puerto Rico.
+Nous sommes finalement parvenus à retrouver la Ruta 10 et sommes arrivés, sains et saufs, à Poncé où nous avons passé deux jours entiers. Deuxième ville d'importance de Puerto Rico, elle tire son nom du célèbre Juan Ponce de León, conquistador et premier gouverneur de Puerto Rico.
 
 Nous avions réservé au **Ponce Plaza Hôtel**, très bien situé et très agrèable.
 
@@ -51,9 +51,9 @@ Durant ces deux jours nous avons flâné dans la ville et avons particulièremen
 
 ### Et la fontaine de jouvence ?
 
- Sur la place Degetau nous avons bien trouvé la **"Fuente De Los Leones"** une superbe fontaine entourée de lions mais nous n'avons pas osé plonger pour vérifier. Selon les différentes croyances on la situe un peu partout sur le globe mails il semble que Juan Poncé de Léon l'a cherchait plutot en Floride.
+ Sur la place Degetau nous avons bien trouvé la **"Fuente De Los Leones"** une superbe fontaine entourée de lions mais nous n'avons pas osé plonger pour vérifier. Selon les différentes croyances on la situe un peu partout sur le globe mails il semble que Juan Poncé de León l'a cherché plutôt en Floride.
 
- > Selon une légende populaire, l'explorateur espagnol Juan Ponce de León, qui fit le voyage vers le Nouveau Monde avec Christophe Colomb, découvrit la Floride alors qu'il était à la recherche de la fontaine de Jouvence. Bien que les légendes d'une eau régénérante aient existé des deux côtés de l'Atlantique bien avant Ponce de León, la mention de sa recherche d'une telle eau n'apparut qu'après sa mort. Dans son Historia general y natural de las Indias (es) de 1535, Gonzalo Fernández de Oviedo y Valdés écrivit que Ponce de León cherchait les eaux de Bimini pour guérir son impuissance sexuelle. Des propos similaires apparurent dans l’Historia general de las Indias de 1551 de Francisco López de Gómara.
+ > Selon une légende populaire, l'explorateur espagnol Juan Ponce de León, qui fit le voyage vers le Nouveau Monde avec Christophe Colomb, découvrit la Floride alors qu'il était à la recherche de la fontaine de Jouvence. Bien que les légendes d'une eau régénérante aient existé des deux côtés de l'Atlantique bien avant Ponce de León, la mention de sa recherche d'une telle eau n'apparut qu'après sa mort. Dans son Historia général y natural de las Indias (es) de 1535, Gonzalo Fernández de Oviedo y Valdés écrivit que Ponce de León cherchait les eaux de Bimini pour guérir son impuissance sexuelle. Des propos similaires apparurent dans l’Historia général de las Indias de 1551 de Francisco López de Gómara.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/28343916756/in/album-72157670834710945/" title="Fontaine des Lions - Ponce - [Puerto Rico]"><img src="https://c5.staticflickr.com/9/8368/28343916756_1364905690_c.jpg" width="1024" height="576" alt="Fontaine des Lions - Ponce - [Puerto Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -65,7 +65,7 @@ Durant ces deux jours nous avons flâné dans la ville et avons particulièremen
 * Cuerdas tavernas and tapas
 * Pizzeria Campioni (Cf, Coût de la Vie)
 
-Nous faisons retour sur San Juan en longeant la côte par le Sud-Est. Nous voulions passer une après-midi à **El Yunque National Forest** qui propose des très belles randonnées et cascades mais le temps ne s'y prêtait pas. Une petite demi-heure avant d'arriver à San Juan, nous nous arrêtons à Canovanas à **l'Outlet Mall 66**. Plus petit que Las Americas, les prix dit "d'usine", sont très intéressants. 
+Nous faisons retour sur San Juan en longeant la côte par le Sud-Est. Nous voulions passer une après-midi à **El Yunque National Forest** qui propose des très belles randonnées et cascades mais le temps ne s'y prêtait pas. Une petite demi-heure avant d'arriver à San Juan, nous nous arrêtons à Canóvanas à **l'Outlet Mall 66**. Plus petit que Las Americas, les prix dit "d'usine", sont très intéressants. 
 
 
 ### L'efficacité anglosaxonne :
