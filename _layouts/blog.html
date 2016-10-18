@@ -54,7 +54,11 @@
                     </div>
                 </div>
                 <div style="opacity:0.8;">
-                    {% include map_canvas.html id="map1" displayItinary="true" googleStyle="true" %}
+                    {% if page.category == "blog" %}
+                        {% include map_canvas.html id="map1" displayItinary="true" googleStyle="false" %}
+                    {% else %}
+                        {% include map_canvas.html id="map1" displayItinary="true" googleStyle="true" %}
+                    {% endif %}                        
                 </div>
             </header>
 
