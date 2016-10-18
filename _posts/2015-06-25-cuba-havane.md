@@ -24,6 +24,19 @@ location:
 
 Arrivés en Martinique, on nous apprend que la compagnie **La Cubana de Aviacion** a un souci. Toutes les 4 heures, on va nous annoncer un nouveau retard, nous empêchant de prendre des dispositions pour la nuit. Au final, après 20 h d'attente et de déambulations dans l'aéroport, on voit enfin atterrir notre avion... un Antonov 158, un avion russe qui s'est avéré très correct. Cette compagnie est connue pour ne pas être très ponctuelle et nous n'avons pas été les seuls à en faire les frais autour de nous.   
 
+
+<div class="gallery-thumb">
+									<a href="http://cdn.elegantthemes.com/preview/DeepFocus/wp-content/uploads/2010/09/3.jpg" rel="media" class="fancybox" title="The Morning Dew">
+																					
+																				
+									</a>
+									<div class="gallery-thumb-bottom" style="width: 208px;">
+										<div class="left-shadow"></div>
+										<div class="bg"></div>
+										<div class="right-shadow"></div>
+									</div> <!-- end .gallery-thumb-botton -->
+								</div>
+
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29760054294/in/dateposted/" title="Antonov 158 - [Cuba]"><img src="https://c7.staticflickr.com/6/5565/29760054294_a1116a49d7_b.jpg" width="1024" height="768" alt="La Cubana de Aviacion - Antonov 158 - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <div class="gallery-thumb-bottom" style="width: 208px;">
   <div class="left-shadow"></div>
