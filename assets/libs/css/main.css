@@ -506,3 +506,28 @@ img::-moz-selection {
   display: inline-block;
   margin-right: 2px;
 }
+
+
+
+.left-shadow {
+    background: url(/assets/owner/gallery-bottom-leftshadow.png) no-repeat;
+    width: 217px;
+    height: 21px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.bg {
+    background: url(/assets/owner/gallery-thumb-bottombg.png) repeat-x;
+    height: 14px;
+}
+
+.right-shadow {
+    background: url(/assets/owner/gallery-bottom-rightshadow.png) no-repeat;
+    width: 217px;
+    height: 21px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
