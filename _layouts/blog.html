@@ -46,8 +46,8 @@
                                     {{ minutes }} min.
 
                                     {% if post.tags.size > 0 %}
-                                    {% if post.tags.size == 1 %} {% else %}<i class="fa fa-tags" style="padding:0 5px 0 10px"></i>{% endif %}
-                                    {% for tag in page.tags %}<a style="color:white;" href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}{% endif %}
+                                    <i class="fa fa-tags" style="padding:0 5px 0 10px"></i>
+                                    {% for tag in page.tags %}<a style="color:white;" href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;-&nbsp;{% endunless %}{% endfor %}{% endif %}
                                 </div>
                             </div>
                         </div>
