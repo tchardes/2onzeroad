@@ -23,7 +23,7 @@ location:
 
 ---
 
-Nous sommes finalement parvenus à retrouver la Ruta 10 et sommes arrivés, entiers, à Poncé où nous avons passé deux jours entiers. Deuxième ville d'importance de Puerto Rico, elle tire son nom du célèbre Juan Ponce de Léon, conquistador et premier gouverneur de Puerto Rico.
+Nous sommes finalement parvenus à retrouver la Ruta 10 et sommes arrivés, sains et saufs, à Poncé où nous avons passé deux jours entiers. Deuxième ville d'importance de Puerto Rico, elle tire son nom du célèbre Juan Ponce de Léon, conquistador et premier gouverneur de Puerto Rico.
 
 Nous avions réservé au **Ponce Plaza Hôtel**, très bien situé et très agrèable.
 
