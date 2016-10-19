@@ -41,7 +41,7 @@ function initMap() {
             url: 'data:image/svg+xml;charset=UTF-8;base64,' + btoa(svg),
             fillColor: $(this).attr('iconColor'),
             fillOpacity: 1,
-            anchor: new google.maps.Point(50,30),
+            anchor: new google.maps.Point(25,35),
             strokeWeight: 0
         }
         var marker = new google.maps.Marker({
