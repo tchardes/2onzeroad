@@ -12,7 +12,7 @@ tags: [Capitale, Ville]
 flickr-tag: "havane"
 
 country: cuba
-city: la havane
+city: la Havane
 category: "blog"
 
 location:
