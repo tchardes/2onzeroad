@@ -42,8 +42,7 @@ function initMap() {
             fillColor: $(this).attr('iconColor'),
             fillOpacity: 1,
             anchor: new google.maps.Point(0,0),
-            strokeWeight: 0,
-            scale: 1
+            strokeWeight: 0
         }
         var marker = new google.maps.Marker({
           map: map,
