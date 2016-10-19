@@ -26,8 +26,8 @@
         </div>
         <div style="padding:5px">
             <h3 style="margin:5px;font-size:14px;font-weight:600 !important;margin-top: 0px;" ><a href="{{ page.url | prepend: site.baseurl }}">{{ root_url }} {{ page.title }}</a></h3>
-            <p style="font-size:12px;margin:5px;">{{ root_url }} {{ page.preview }}</p>
-            <div style="font-size:12px;" class="page-preview-meta-{{page.category}}">
+            <p style="font-size:14px;margin:5px;height:85px;">{{ root_url }} {{ page.preview }}</p>
+            <div style="font-size:12px;background-color:#2D7CA6;" class="page-preview-meta-{{page.category}}">
                 <a href="#"><i class="fa fa-calendar"></i>{{ root_url }}{{ page.date | date: "%-d %-b %y" }}</a>
                 <a href="#"><i class="fa fa-map-marker"></i>{{ page.city | capitalize }}{% if page.city and page.country %}, {% endif %}{{ page.country | capitalize }}</a>
             </div>
