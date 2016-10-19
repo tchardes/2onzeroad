@@ -72,7 +72,7 @@
 
 
 <div style=" margin: auto;
-  height: 200px;
+  height: 150px;
   width: 300px;
   background: #FFF;
 
@@ -87,13 +87,13 @@
         <div>
             <a href="{{ page.url | prepend: site.baseurl }}"><div >
                 <div class="page-preview-overlay"></div>		
-                    <img src="{{ page.thumbnail }}" alt="Image" class="img-responsive"/>
+                    <img src="{{ page.thumbnail }}" alt="Image" class="img-responsive" style="height:150px;width:150px" />
                 </div>
             </a>
         </div>
-        <div class=>
-                <h3 style="font-weight:600 !important;" ><a href="{{ page.url | prepend: site.baseurl }}">{{ root_url }} {{ page.title }}</a></h3>
-                <p>{{ root_url }} {{ page.preview }}</p>
+        <div>
+                <h3 style="font-size:14px;font-weight:600 !important;" ><a href="{{ page.url | prepend: site.baseurl }}">{{ root_url }} {{ page.title }}</a></h3>
+                <p style="font-size:12px;">{{ root_url }} {{ page.preview }}</p>
         </div>
     </div>
     <div class=" page-preview-meta-{{page.category}}">
