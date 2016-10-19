@@ -92,14 +92,15 @@
             </a>
         </div>
         <div>
-                <h3 style="font-size:14px;font-weight:600 !important;" ><a href="{{ page.url | prepend: site.baseurl }}">{{ root_url }} {{ page.title }}</a></h3>
-                <p style="font-size:12px;">{{ root_url }} {{ page.preview }}</p>
+            <h3 style="font-size:14px;font-weight:600 !important;" ><a href="{{ page.url | prepend: site.baseurl }}">{{ root_url }} {{ page.title }}</a></h3>
+            <p style="font-size:12px;">{{ root_url }} {{ page.preview }}</p>
+            <div class=" page-preview-meta-{{page.category}}">
+                <a href="#"><i class="fa fa-calendar"></i>{{ root_url }}{{ page.date | date: "%-d %-b %y" }}</a>
+                <a href="#"><i class="fa fa-map-marker"></i>{{ page.city | capitalize }}{% if page.city and page.country %}, {% endif %}{{ page.country | capitalize }}</a>
+            </div>
         </div>
     </div>
-    <div class=" page-preview-meta-{{page.category}}">
-        <a href="#"><i class="fa fa-calendar"></i>{{ root_url }}{{ page.date | date: "%-d %-b %y" }}</a>
-        <a href="#"><i class="fa fa-map-marker"></i>{{ page.city | capitalize }}{% if page.city and page.country %}, {% endif %}{{ page.country | capitalize }}</a>
-    </div>
+  
 </div>
 
 
