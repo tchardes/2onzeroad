@@ -69,13 +69,13 @@
                         <h1>{{ page.title }}</h1>
                         {{ content }} 
                         <a href="{{ root_url }}/gallery/?tag={{page.flickr-tag}}"><h3><i class="fa fa-picture-o" aria-hidden="true"></i> Direction la gallerie pour d'autres photos...</h3></a>
-                        <hr />                        
+                        <hr style="border-top: 2px solid #AAA;" />                        
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-                        <!--{% if site.share %}{% include share.html %}{% endif %}
-                            {% include signoff.html %}       -->
+                        {% if site.share %}{% include share.html %}{% endif %}
+                        <!-- {% include signoff.html %}       -->
                         {% if site.comments %}{% include disqus_comments.html %}{% endif %} 
                         <br>
                         <ul class="pager">
@@ -94,14 +94,12 @@
                 </div>
             </div>
 
-
             {% assign otherPosts = false %}
             {% for post in site.posts %}       
                 {% if page.id != post.id and (page.parent-id == post.parent-id or post.path contains page.parent-id or page.path contains post.parent-id) %}
                     {% assign otherPosts = true %}
                 {% endif %}
             {% endfor %}
-
 
             {% if otherPosts %}
                 <div class="container">
@@ -135,6 +133,8 @@
         </article>
         {% include footer.html %}
         {% include scroll_to_top.html %}
+
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5807328e5c4d2d94"></script> 
     </body>
 </html>
 

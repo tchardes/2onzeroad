@@ -22,19 +22,31 @@ function initMap() {
       var points = $(this).find(".map-point");
       points.each(function() {
 
-        var pinIcon = new google.maps.MarkerImage(
-            $(this).attr('icon'),
-            null, /* size is determined at runtime */
-            null, /* origin is 0,0 */
-            new google.maps.Point(25,45), /* anchor is bottom center of the scaled image */
-            new google.maps.Size(50, 50)
-        );
+        // var pinIcon = new google.maps.MarkerImage(
+        //     $(this).attr('icon'),
+        //     null, /* size is determined at runtime */
+        //     null, /* origin is 0,0 */
+        //     new google.maps.Point(25,45), /* anchor is bottom center of the scaled image */
+        //     new google.maps.Size(50, 50)
+        // );
 
         // create a latlong and marker for each point
-        var latlng = new google.maps.LatLng($(this).attr('latitude'), $(this).attr('longitude'));    
+        var latlng = new google.maps.LatLng($(this).attr('latitude'), $(this).attr('longitude'));  
+
+
+        var icon = {
+            path: "M0-48c-9.8 0-17.7 7.8-17.7 17.4 0 15.5 17.7 30.6 17.7 30.6s17.7-15.4 17.7-30.6c0-9.6-7.9-17.4-17.7-17.4z",
+            fillColor: $(this).attr('iconColor'),
+            fillOpacity: 1,
+            anchor: new google.maps.Point(0,0),
+            strokeWeight: 0,
+            scale: 1
+        }
+        
+
         var marker = new google.maps.Marker({
           map: map,
-          icon: pinIcon,
+          icon: icon,
           position: latlng,
           title: $(this).attr('title'),
           url: ""
