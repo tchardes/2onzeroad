@@ -18,6 +18,8 @@ category: "blog"
 location:
   latitude: 22.613590
   longitude: -83.712819
+
+  
 ---
 
 ### L'aventure autoroutière...
