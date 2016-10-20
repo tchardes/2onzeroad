@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Viñales"
-preview:    "Nous empruntons et découvrons l'autoroute de Cuba "A4" en fait l'autopista National de Cuba. Cette précision à toute son importance, surtout la terminaison ... "
+preview:    "Nous empruntons et découvrons l'autoroute de Cuba "A4" en fait l'autopista National de Cuba. Cette précision à toute son importance... "
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-26 12:00:00
@@ -19,7 +19,7 @@ location:
   latitude: 22.613590
   longitude: -83.712819
 
-  
+
 ---
 
 ### L'aventure autoroutière...
