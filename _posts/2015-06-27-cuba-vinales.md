@@ -29,7 +29,7 @@ Notre chauffeur, très prudent ne dépasse pas les 80 km/h. Très concentré, il
 
 ### Patrimoine de l'humanité...  
 
-<a data-flickr-embed="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/127048817@N07/18818886153/in/album-72157653125169544/" title="Vallée de Viñales - [Cuba]"><img src="https://c2.staticflickr.com/1/464/18818886153_9efaec7cd9_b.jpg" width="1024" height="361" alt="Vallée de Viñales - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/18818886153/in/album-72157653125169544/" title="Vallée de Viñales - [Cuba]"><img src="https://c2.staticflickr.com/1/464/18818886153_9efaec7cd9_b.jpg" width="1024" height="361" alt="Vallée de Viñales - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 La Vallée de Viñales est située dans la province de Pinar del Río. La région a été inscrite au Patrimoine mondial de l'UNESCO en 1992. Elle présente un bel exemple de relief karstique, sous la forme de mogotes, buttes montagneuses de calcaire émergeant de la plaine. La vallée englobe le parc national de Viñales, blotti au cœur de la Sierra de los Organos. En raison de la richesse des ces terres rouges, la vallée abrite principalement des agriculteurs qui cultivent tabacs et cannes à sucre. Ce décor me fait immédiatement une pensée à la ***baie d'Halong terrestre*** au vietnam, c'est assez inhabituel dans la caraïbe.  
 
