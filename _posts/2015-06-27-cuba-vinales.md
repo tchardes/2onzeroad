@@ -33,6 +33,8 @@ Notre chauffeur, très prudent, ne dépasse pas les 80 km/h. Concentré, il pilo
 
 La Vallée de Viñales est située dans la province de Pinar del Río. La région a été inscrite au patrimoine mondial de l'UNESCO en 1999. Sa principale caractèristique est son relief karstique, **"mogotes"**, buttes montagneuses de calcaire émergeant de la plaine. La vallée englobe le parc national de Viñales, blotti au cœur de la Sierra de los Organos. En raison de la richesse des ces terres rouges, la vallée abrite principalement des agriculteurs qui cultivent du tabac et de la canne à sucre. Ce décor me fait immédiatement penser à une mini ***baie d'Halong terrestre*** au vietnam. Ce type de formation géologique est assez inhabituel dans la caraïbe.  
 
+### Nos visites
+
 Nous nous arrêtons dans la réplique d'une maison de tabac implantée au milieu d'un champ de tabac, nous y découvrons le processus de séchage et de tri des feuilles de tabac. On nous sert une boisson rafraichissante pendant qu'un **"torcedores"** nous fait une démonstration de roulage de cigare en nous décortiquant toutes les étapes. Super dextéritée. Dans les fabriques de cigares, le ouvriers modèlent une soixantaine de cigares par jour.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/30439834045/in/dateposted/" title="Maison du Tabac - Viñales - [Cuba]"><img src="https://c6.staticflickr.com/6/5752/30439834045_46fa7f1e9d_b.jpg" width="1024" height="576" alt="Maison du Tabac - Viñales - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
