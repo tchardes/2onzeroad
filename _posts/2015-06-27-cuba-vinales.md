@@ -37,7 +37,7 @@ Nous nous arrêtons dans une réplique d'une maison de tabac implantée au milie
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/30439834045/in/dateposted/" title="Maison du Tabac - Viñales - [Cuba]"><img src="https://c6.staticflickr.com/6/5752/30439834045_46fa7f1e9d_b.jpg" width="1024" height="576" alt="Maison du Tabac - Viñales - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/127048817@N07/19420044805/in/album-72157653125169544/" title="Taxi ... Parisien ? - [Cuba]"><img src="https://c6.staticflickr.com/1/324/19420044805_f73f83fcbc_b.jpg" width="1024" height="683" alt="Taxi ... Parisien ? - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/19420044805/in/album-72157653125169544/" title="Taxi ... Parisien ? - [Cuba]"><img src="https://c6.staticflickr.com/1/324/19420044805_f73f83fcbc_b.jpg" width="1024" height="683" alt="Taxi ... Parisien ? - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 De nombreuses rivières souterraines ont rongé le calcaires et des grottes se sont formées au pied des mogotes. Nous visitons l'une d'entre elle la "Cueva del Indio". Comme il s'agit de la grotte de l'indien, un petit village indien a été recrée. Bon franchement, rien d'exceptionnel, la grotte est "morte" aucune concrétion n'est encore active. Après un trajet effectué à pied au travers d'une veine, on arrive à un ponton au bord d'une rivière souterraine pour montée dans une petite embarcation afin de regagner l'extérieur de la grotte.  
 
@@ -49,6 +49,6 @@ Nous faisons une halte dans le centre de viñales. Les maisons basses sont bien 
 
 Nous déjeunons au **"Balcon del vallee"**, restaurant panoramique où les tables sont installées sur des terrasses suspendues dans le vide. La vue est imprenable sur la vallée où de nombreux Ubu à têtes rouges chassent.
 
-<a data-flickr-embed="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/127048817@N07/18860942383/in/album-72157653125169544/" title="Urubus à tête rouge - Vallée de Viñales - [Cuba]"><img src="https://c8.staticflickr.com/4/3815/18860942383_29b4fb4e2b_b.jpg" width="1024" height="576" alt="Urubus à tête rouge - Vallée de Viñales - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/18860942383/in/album-72157653125169544/" title="Urubus à tête rouge - Vallée de Viñales - [Cuba]"><img src="https://c8.staticflickr.com/4/3815/18860942383_29b4fb4e2b_b.jpg" width="1024" height="576" alt="Urubus à tête rouge - Vallée de Viñales - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Pour en savoir plus : <http://whc.unesco.org/fr/list/840/>
