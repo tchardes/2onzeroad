@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Viñales"
-preview:    ""
+preview:    "Cette précision à toute son importance, surtout la terminaison..."
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-26 12:00:00
