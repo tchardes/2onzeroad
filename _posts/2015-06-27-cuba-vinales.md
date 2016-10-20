@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Viñales"
-preview:    " "
+preview:    "Nous empruntons et découvrons l'autoroute de Cuba "A4" en fait l'autopista National de Cuba. Cette précision à toute son importance, surtout la terminaison ... "
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-26 12:00:00
@@ -26,7 +26,7 @@ Nous quittons la Havane pour la valée de Viñales. Nous empruntons et découvro
 
 Notre chauffeur, très prudent ne dépasse pas les 80 km/h. Très concentré, il pilote plus qu'il ne conduit afin d'éviter les nids de poule, d'autruche, les charettes, les animaux, le gens qui font du stop avec un billet à la main pour bien signifier qu'ils sont prêts à payer pour arriver à leur destination, les poids lourds russes avec benne qui servent de "Transportivo", souvent équipés de chaises. Ana, notre guide, nous expliquera qu'il est très difficile pour les cubains de se déplacer par manque de moyen de tansport collectif.
 
-### Patrimoine de l'humanité...  http://whc.unesco.org/fr/list/840/
+### Patrimoine de l'humanité...  
 
 La Vallée de Viñales est située dans la province de Pinar del Río. La région a été inscrite au Patrimoine mondial de l'UNESCO en 1992. Elle présente un bel exemple de relief karstique, sous la forme de mogotes, buttes montagneuses de calcaire émergeant de la plaine. La vallée englobe le parc national de Viñales, blotti au cœur de la Sierra de los Organos. En raison de la richesse des ces terres rouges, la vallée abrite principalement des agriculteurs qui cultivent tabacs et cannes à sucre. Ce décor me fait immédiatement une pensée à la ***baie d'Halong terrestre*** au vietnam, c'est assez inhabituel dans la caraïbe.  
 
@@ -37,3 +37,5 @@ De nombreuses rivières souterraines ont rongé le calcaires et des grottes se s
 Nous faisons une halte dans le centre de viñales. Les maisons basses sont bien entretenues, on voit que cette région compte de nombreuses "casa particular", reellle économie souterraine (normal dan scette zone) qui permet aux cubains de bénéficier directement du tourisme.
 
 Nous déjeunons au **"Balcon del vallee"**, restaurant panoramique où les tables sont installées sur des terrasses suspendues dans le vide. La vue est imprenable sur la vallée où de nombreux Ubu à têtes rouges chassent.
+
+Pour en savoir plus : <http://whc.unesco.org/fr/list/840/>
