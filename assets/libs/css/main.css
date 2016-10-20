@@ -533,7 +533,8 @@ img::-moz-selection {
 	top: 15px !important;
 	left: 0px !important;
 	background-color: #fff;
-	box-shadow: 0 1px 6px rgba(178, 178, 178, 0.8);
+  box-shadow: 0 1px 6px rgba(1, 1, 1, 0.8);
+  border-radius: 7px;
 }
 #iw-container {
 	margin-bottom: 10px;
