@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Viñales"
-preview:    "Nous empruntons et découvrons l'autoroute de Cuba "A4" en fait l'autopista National de Cuba..."
+preview:    "Nous empruntons et découvrons l'autoroute de Cuba "A4"..."
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-26 12:00:00
@@ -18,7 +18,6 @@ category: "blog"
 location:
   latitude: 22.613590
   longitude: -83.712819
-
 
 ---
 
