@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Viñales"
-preview:    "Nous empruntons et découvrons l'autoroute de Cuba "A4"..."
+preview:    ""
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-26 12:00:00
