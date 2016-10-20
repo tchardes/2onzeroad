@@ -10,8 +10,6 @@
     </head>
     <body> 
 
-        {% assign site.tagada = "plop" %}
-
         {% assign relatedPosts = "" | split:"|"  %}
         {% for post in site.posts %}       
             {% if page.id != post.id and (post.path contains page.parent-id or page.path contains post.parent-id or (post.parent-id and page.parent-id == post.parent-id)) %}
