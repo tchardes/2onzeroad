@@ -25,7 +25,7 @@ Nous quittons la Havane en direction du Sud-Est par l'Autopista "A1" en directio
  <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/19393948656/in/album-72157653125169544/" title="Lieu du QG de Fidel lors de la Baie des Cochons - [Cuba]"><img src="https://c1.staticflickr.com/1/478/19393948656_0b45d27d55_b.jpg" width="1024" height="683" alt="Lieu du QG de Fidel lors de la Baie des Cochons - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-Nous poursuivons notre route en dircetion de **Guama** et sa ferme aux crcodiles **"Criadero de Cocodrilos"**.
+Nous poursuivons notre route en dircetion de **Guama** et sa ferme aux crocodiles **"Criadero de Cocodrilos"**.
 
 
 
