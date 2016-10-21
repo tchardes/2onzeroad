@@ -20,12 +20,27 @@ location:
   longitude: -80.451987
 ---
 
+Nous quittons la Havane en direction du Sud-Est par l'Autopista "A1" en direction de Cienfuegos. Pour notre premier arrêt, nous faisons une pause café à Australia Township. Cette ville tire son nom de son ancienne sucrerie dont il reste encore une grande cheminée. A l'époque, Cuba donnait des noms de continent à ces usines sucrières, Australie pour celle là. Elle est également connue car Fidel castro y avait positionné sa base arrière des opérations en 1961 lors de la crise de la Baie des Cochons. A l'entrée de la ville un grand panneau rapelle ce point historique.
+
+ <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/19393948656/in/album-72157653125169544/" title="Lieu du QG de Fidel lors de la Baie des Cochons - [Cuba]"><img src="https://c1.staticflickr.com/1/478/19393948656_0b45d27d55_b.jpg" width="1024" height="683" alt="Lieu du QG de Fidel lors de la Baie des Cochons - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+Nous poursuivons notre route en dircetion de **Guama** et sa ferme aux crcodiles **"Criadero de Cocodrilos"**.
+
+
+
+
+
+
+
+
 Guama
 
 
 Dès notre arrivée, nous avons visité une ferme aux crocodiles « cocodrilo ». Nous avons vu de beaux spécimens et une nurserie.
 Plus tard, nous avons pris une embarcation pour se rendre dans un village indien formé de huttes sur pilotis. Nous avons même été peints pour exécuter la danse de la joie. A l'issue une boisson nous a été offerte, il fallait au moins ça pour se remettre !!!
-La baie des cochons
+L
+a baie des cochons
 
 
 
