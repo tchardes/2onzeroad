@@ -31,7 +31,7 @@ Nous poursuivons notre route en direction de **Guama** et sa ferme aux crocodile
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/19423961241/in/album-72157653125169544/" title="Belle Américaine - [Cuba]"><img src="https://c2.staticflickr.com/1/407/19423961241_b3850c5b85_b.jpg" width="1024" height="683" alt="Belle Américaine - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-### Bais des... Cochinos !!!
+### Bais des... Cochinos !!!  
 
 Nous reprenons la route en direction de la **"Baya de cochinos"**, playa Larga et playa Giron. A l'entrée de la ville, un panneau indique « Playa Giron, la première défaite impérialiste en Amérique Latine », le décor est planté. Nous nous arrêtons au **Museo de la Intervención**. Le musée retrace la journée du 17 avril 1961 au cours de laquelle 1500 "mercenaires" et exilés cubains entraînés par la CIA, débarquèrent pour renverser Fidel Castro. Mais ils ne s'attendaient pas à ce que des chars russes T-34 et des avions de chasse T-33 les accueillent. Après deux jours de combat aériens et terrestres incessants, les mercenaires se rendirent.
 
