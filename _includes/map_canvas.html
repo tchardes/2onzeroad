@@ -1,18 +1,19 @@
 {% assign displayMap = false %}
-
 <div class="mapping" googleStyle="{{include.googleStyle}}" mapId="{{include.id}}" style="display:none;" {% if page.itinary and include.displayItinary %} itinary="{{ site.baseurl }}/assets/owner/itinaries/{{ page.itinary }}" {% endif %} >
     <div class="map-canvas" id="map-event"></div>
-    {% if include.isRecusrive %}
-        {% for post in site.posts %}
-            {% if post.location and (page.id == post.id or post.path contains page.parent-id or page.path contains post.parent-id or (post.parent-id and page.parent-id == post.parent-id)) %}
+    {% if include.relatedPosts %}
+        {% assign postsToDisplay = include.relatedPosts | push: page %}
+        {% for post in postsToDisplay %}
+            {% if post.location %}
                 {% assign displayMap = true %}
-                {% include map_point.html %}
-            {% endif %}                                    
+                {% include map_point.html postToPoint=post %}
+            {% endif %}
         {% endfor %}
     {% else %}
-        {% assign displayMap = true %}
-        {% assign post = page %}
-        {% include map_point.html %}
+        {% if page.location %}
+            {% assign displayMap = true %}
+            {% include map_point.html postToPoint=page %}
+        {% endif %}
     {% endif %}
 </div>
 

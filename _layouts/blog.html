@@ -10,6 +10,13 @@
     </head>
     <body> 
 
+        {% assign relatedPosts = "" | split:"|"  %}
+        {% for post in site.posts %}       
+            {% if page.id != post.id and (post.path contains page.parent-id or page.path contains post.parent-id or (post.parent-id and page.parent-id == post.parent-id)) %}
+                {% assign relatedPosts = relatedPosts | push: post %}
+            {% endif %}
+        {% endfor %}
+
         {% include nav.html %}
         
         <!-- Footnotes CSS-->
@@ -95,14 +102,7 @@
                 </div>
             </div>
 
-            {% assign otherPosts = false %}
-            {% for post in site.posts %}       
-                {% if page.id != post.id and (page.parent-id == post.parent-id or post.path contains page.parent-id or page.path contains post.parent-id) %}
-                    {% assign otherPosts = true %}
-                {% endif %}
-            {% endfor %}
-
-            {% if otherPosts %}
+            {% if relatedPosts | size > 0 %}
                 <div class="container">
                     <div class="row">                           
                         <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
@@ -112,20 +112,18 @@
                 </div>
                 <div class="row"> 
                     <div style="opacity:0.8;">  
-                        {% include map_canvas.html id="map2" isRecusrive="true" googleStyle="false" %}
+                        {% include map_canvas.html id="map2" relatedPosts=relatedPosts isRecusrive="true" googleStyle="false" %}
                         <br />
                     </div>
                 </div>
                 <div class="row">   
                     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-                        {% for post in site.posts %}
-                            {% if page.id != post.id and (post.path contains page.parent-id or page.path contains post.parent-id or (post.parent-id and page.parent-id == post.parent-id)) %}
+                        {% for post in relatedPosts %}
                                 
-                            <div class="col-md-4 col-sm-6 col-xs-12 col-xxs-12" style="display:inline-flex">
+                            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 col-xxs-12" style="display:inline-flex">
                                 {% include post_preview.html %}
                             </div>
 
-                            {% endif %}
                         {% endfor %}
                     </div>
                 </div>

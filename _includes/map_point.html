@@ -1,4 +1,5 @@
 {% assign iconColor = "#2D7CA6" %}
+{% assign post = include.postToPoint %}
 {% if post.category == "roadmap" %} {% assign iconColor = "#D44141" %} {% endif %}
 
 <div class="map-point" iconColor="{{iconColor}}" title="{{ post.title }}" latitude="{{ post.location.latitude }}" longitude="{{ post.location.longitude }}">
@@ -27,9 +28,9 @@
         <div>
             <h3 style="margin:5px;font-size:14px;font-weight:600 !important;margin-top: 5px;" ><a href="{{ post.url | prepend: site.baseurl }}">{{ root_url }} {{ post.title }}</a></h3>
             <p style="font-size:14px;margin:5px;height:85px;">{{ root_url }} {{ post.preview }}</p>
-            <div style="font-size:13px;background-color:#2D7CA6;padding:1px;color:white;" class="post-preview-meta-{{post.category}}">
-                <a href="#"><i class="fa fa-calendar"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a>
-                <a href="#"><i class="fa fa-map-marker"></i>{{ post.city | capitalize }}{% if post.city and post.country %}, {% endif %}{{ post.country | capitalize }}</a>
+            <div style="font-size:13px;background-color:{{iconColor}};padding:2px 4px;color:white;border-radius: 0px 0px 7px 0px;">
+                <a style="color:white;" href="#"><i class="fa fa-calendar"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a>
+                <a style="color:white;" href="#"><i class="fa fa-map-marker"></i>{{ post.city | capitalize }}{% if post.city and post.country %}, {% endif %}{{ post.country | capitalize }}</a>
             </div>
         </div>
     </div>
