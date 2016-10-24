@@ -471,6 +471,7 @@ img::-moz-selection {
 .post-preview	.post-preview-text {
   padding: 10px;
   height: 115px;
+  overflow: hidden;
 }
 .post-preview	.post-preview-text h3 {
   font-size: 17px;
@@ -529,7 +530,7 @@ img::-moz-selection {
 
 
 .gm-style-iw {
-	width: 350px !important;
+	width: 400px !important;
 	top: 15px !important;
 	left: 0px !important;
 	background-color: #fff;
