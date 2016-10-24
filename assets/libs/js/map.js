@@ -95,7 +95,7 @@ function initMap() {
           iwOuter.parent().parent().css({left: '115px'});
 
           // Moves the shadow of the arrow 76px to the left margin.
-          iwBackground.children(':nth-child(1)').attr('style', function(i,s){ return s + 'left: 76px !important;'});
+          iwBackground.children(':nth-child(1)').attr('style', function(i,s){ return s + 'left: 100px !important;'});
 
           // Moves the arrow 76px to the left margin.
           iwBackground.children(':nth-child(3)').attr('style', function(i,s){ return s + 'left: 100px !important;'});
