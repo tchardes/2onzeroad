@@ -55,6 +55,10 @@
                                     {% if post.tags.size > 0 %}
                                     <i class="fa fa-tags" style="padding:0 5px 0 10px"></i>
                                     {% for tag in page.tags %}<a style="color:white;" href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;-&nbsp;{% endunless %}{% endfor %}{% endif %}
+
+                                    {% if page.category == "roadmap" and relatedPosts | size > 1 %}
+                                        <i class="fa fa-folder-open" style="padding:0 5px 0 10px"></i> {{ relatedPosts | size }} article(s)
+                                    {% endif %}
                                 </div>
                             </div>
                         </div>
