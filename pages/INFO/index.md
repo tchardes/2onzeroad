@@ -109,7 +109,7 @@ Nous avons recensé et installé quelques applications qui nous seront utiles et
 
 ### Sites de voyageurs
 
-Ci-dessous, quelques sites de voyageurs (En cours ou terminé) qui sont des trésors de renseignements et qui nous ont donné le goût et l'envie de nous lancer :
+Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont des trésors de renseignements et qui nous ont donné le goût et l'envie de nous lancer :
 
 
 * [Me gusta mucho este pais](http://songkol.com/WordPress3/) - La parenthèse itinérante d'une famille en Amérique du Sud.
@@ -126,13 +126,13 @@ Ci-dessous, quelques sites de voyageurs (En cours ou terminé) qui sont des tré
 * [Après l'Afrique](http://apreslafrique.e-monsite.com/)
 * [Armadillo 13](http://www.armadillo13.com/)
 * [Au temps pour nous](http://www.autempspournous.com/)
-* [Bos'Trotters](http://bostrotters.over-blog.com/) - Un Tour du monde en Camping-Car départ Juillet 2014 Retour Juillet 2017
+* [Bos'Trotters](http://bostrotters.over-blog.com/) - Un Tour du monde en Camping-Car départ Juillet 2014 Retour Juillet 2017.
 * [Boubou Aventures](http://boubouaventures.canalblog.com/) - Sur les routes de nos rêves.
 * [Couval Venture](http://couvalventure.com/)
 * [La vie devant - Les kilomètres derrière](http://laviedevant-leskilometresderriere.com/)
 * [Les Mollalpagas](http://www.lesmollalpagas.com/)
 * [Toitvagabondetmoi](http://www.toitvagabondetmoi.com/) - Francoise et Alain partent autour du monde afin de découvrir les us et coutumes des différentes peuplades.
-* [Ushulaska](http://ushulaska.be/) - Le voyage d'Ushuaia à l'Alaska de Monique et André
+* [Ushulaska](http://ushulaska.be/) - Le voyage d'Ushuaia à l'Alaska de Monique et André.
 * [El caracol](http://www.el-caracol.fr/)
 * [Sous les étoiles du monde](http://souslesetoilesdumonde.wifeo.com/)
 * ... et bien d'autres ...
@@ -140,5 +140,4 @@ Ci-dessous, quelques sites de voyageurs (En cours ou terminé) qui sont des tré
 
 ### Sites de voyageurs croisés
 
-
-Nous mettrons les liens des sites qui nous ont vraiment inspirés et mettront ceux des voyageurs que nous rencontrerons lors de notre périple.
+Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de notre périple.
