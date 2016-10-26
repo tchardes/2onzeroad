@@ -1,0 +1,19 @@
+{% if include.type == "primary" %}
+    <p class="info-box bg-primary"><i class="fa fa-question-circle"></i>{{ include.content }}</p>
+{% endif %}
+
+{% if include.type == "success" %}
+    <p class="info-box bg-success"><i class="fa fa-check-circle"></i>{{ include.content }}</p>
+{% endif %}
+
+{% if include.type == "info" %}
+    <p class="info-box bg-info"><i class="fa fa-info-circle"></i>{{ include.content }}</p>
+{% endif %}
+
+{% if include.type == "warning" %}
+    <p class="info-box bg-warning"><i class="fa fa-exclamation-circle"></i>{{ include.content }}</p>
+{% endif %}
+
+{% if include.type == "danger" %}
+    <p class="info-box bg-danger"><i class="fa fa-exclamation-circle"></i>{{ include.content }}</p>
+{% endif %}
