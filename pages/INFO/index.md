@@ -8,13 +8,19 @@ permalink: /info/
 
 ### Pourquoi ce site Web
 
-Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des objets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. Tout a déjà été écrit sur le sujet et bien mieux que nous. Nous tenterons simplement de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
+Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des sujets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. tout a déjà été écrit sur le sujet et bien mieux que nous. Nous tenterons simplement de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
 
 Il nous semble aussi que c'est un juste retour des choses tant la lecture de plusieurs dizaines de carnets de route nous ont conforté dans notre idée de larguer les amarres et nous ont permis de nous faire une idée de ce qui allait nous attendre. 
 
 Vous trouverez sur ce site un carnet de route avec des récits rédigés au fil de l'eau sur notre avancée ou bien sur un sujet bien particulier qui nous aura plus ou au moins attiré notre attention. Nous essayerons de l'agrémenter de photos, vidéos et de cartes pour situer tout ça. N'hésitez pas à commenter ou nous poser des questions si vous souhaitez des précisions.
 
-Pour nous faire la main, nous publierons les récits de nos derniers voyages, à Cuba et Puerto Rico.
+Nous l'avons organisé de la sorte :
+
+* Les articles type blog, de couleur bleu
+* Les articles type carnet de route, de couleur rouge
+* Les bilans des états ou pays après y avoir séjourné, de couleur verte.
+
+Pour nous faire la main sur la rédaction , nous avons publié les récits de nos derniers voyages, à Cuba et Puerto Rico.
 
 
 ### Notre HomeZeRoad
