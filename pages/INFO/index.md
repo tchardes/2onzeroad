@@ -20,6 +20,9 @@ Nous l'avons organisé de la sorte :
 * Les articles type carnet de route, de couleur rouge
 * Les bilans des états ou pays après y avoir séjourné, de couleur verte.
 
+* Les plus belles photos seront stockées sur Flick.fr et seront visiblent depuis la Gallery.
+* Les vidéos seront stockées et visible sur YouTube et directement dans les posts. 
+
 Pour nous faire la main sur la rédaction et sur l'ergonomie du site, nous avons publié les récits de nos derniers voyages, à Cuba et Puerto Rico.
 
 Le site a été entièrement imaginé et construit par notre fils Alexandre, grand manitou de l'informatique. Afin de faciliter la gestion de notre voyage, il nous a également concocté une application "RoadTripManager" qui nous permettra de recenser au quotidien, nos dépenses, activités, bivouacs, trajets ... dur sur mesure. 
@@ -81,7 +84,7 @@ Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, no
 
 ### Applications
 
-Nous avons recensé et installé quelques applications qui nous seront utiles et que nous avons trouvé pratiques.
+Nous avons recensé et installé quelques applications sous IOs qui nous seront utiles et que nous avons trouvés pratiques.
 
 #### Aide au voyage
 
@@ -94,6 +97,7 @@ Nous avons recensé et installé quelques applications qui nous seront utiles et
 * Safeway
 * Dropbox
 * Skype
+* Sites de nos banques
 
 
 #### Aide à la photographie
