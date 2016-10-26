@@ -101,8 +101,8 @@ Ci-dessous, quelques sites de voyageurs (En cours ou terminé) qui sont des tré
 * [Roadtrippin](http://www.roadtrippin.fr"lien vers Roadtrippin") Un site très complet avec beaucoup d'explications et carnets de voyage, notamment 
 pour visiter l'ouest américain et ses grands parcs. 
 
-* [Me gusta mucho este pais](http://github.com) La parenthèse itinérante d'une famille en Amérique du Sud
-* [Roadtrippin](http://github.com) Un site très complet avec beaucoup d'explications et carnets de voyage, notamment 
+* [Me gusta mucho este pais](http://songkol.com/WordPress3/) - La parenthèse itinérante d'une famille en Amérique du Sud
+* [Roadtrippin](http://www.roadtrippin.fr) - Un site très complet avec beaucoup d'explications et carnets de voyage, notamment 
 pour visiter l'ouest américain et ses grands parcs. 
 
 
