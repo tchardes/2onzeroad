@@ -85,25 +85,57 @@ Nous avons recensé et installé quelques applications qui nous seront utiles et
 
 #### Aide au voyage
 
-*
+* iOverlander
+* OsmAnd Maps
+* Maps.Me
+* Google Maps
+* Conseils aux voyageurs
+* Walmart Overnight Parking locator
+* Safeway
+* Dropbox
+* Skype
 
 
 #### Aide à la photographie
 
-
+* The Photographer's Ephemeris
+* Photo Transit
+* Gps4cam
+* NDExposure
+* Digital DoF
+* TL Calc
+* Capture
 
 
 ### Sites de voyageurs
 
 Ci-dessous, quelques sites de voyageurs (En cours ou terminé) qui sont des trésors de renseignements et qui nous ont donné le goût et l'envie de nous lancer :
 
-* [Me gusta mucho este pais](http://songkol.com/WordPress3/"La parenthèse itinérante d'une famille en Amérique du Sud")    
-* [Roadtrippin](http://www.roadtrippin.fr"lien vers Roadtrippin") Un site très complet avec beaucoup d'explications et carnets de voyage, notamment 
-pour visiter l'ouest américain et ses grands parcs. 
 
-* [Me gusta mucho este pais](http://songkol.com/WordPress3/) - La parenthèse itinérante d'une famille en Amérique du Sud
-* [Roadtrippin](http://www.roadtrippin.fr) - Un site très complet avec beaucoup d'explications et carnets de voyage, notamment 
-pour visiter l'ouest américain et ses grands parcs. 
+* [Me gusta mucho este pais](http://songkol.com/WordPress3/) - La parenthèse itinérante d'une famille en Amérique du Sud.
+* [Cavagnis-tour](http://www.cavagnis-tour.com/) 
+* [Aventure 4x4](http://www.aventuren4x4.com/)
+* [Charisma 45](http://www.charisma45.com/)
+* [Americandream 972](https://americandream972.wordpress.com/)
+* [Chazel](http://www.chazel.com/pagereponsesquestions.htm)
+* [Exploracy](http://www.exploracy.fr/)
+* [Les bouegons](http://voyages.ccar.free.fr/()
+* [Les voyages de Passe Partout](http://voyages-de-passepartout.over-blog.com/)
+* [Nathalie et jean](http://www.natetjean.com/lecamping-car/) - Le tour du monde en camping-car de Nathalie et Jean.
+* [Les Amériques](http://www.lesameriques.net/accueil/)
+* [Après l'Afrique](http://apreslafrique.e-monsite.com/)
+* [Armadillo 13](http://www.armadillo13.com/)
+* [Au temps pour nous](http://www.autempspournous.com/)
+* [Bos'Trotters](http://bostrotters.over-blog.com/) - Un Tour du monde en Camping-Car départ Juillet 2014 Retour Juillet 2017
+* [Boubou Aventures](http://boubouaventures.canalblog.com/) - Sur les routes de nos rêves.
+* [Couval Venture](http://couvalventure.com/)
+* [La vie devant - Les kilomètres derrière](http://laviedevant-leskilometresderriere.com/)
+* [Les Mollalpagas](http://www.lesmollalpagas.com/)
+* [Toitvagabondetmoi](http://www.toitvagabondetmoi.com/) - Francoise et Alain partent autour du monde afin de découvrir les us et coutumes des différentes peuplades.
+* [Ushulaska](http://ushulaska.be/) - Le voyage d'Ushuaia à l'Alaska de Monique et André
+* [El caracol](http://www.el-caracol.fr/)
+* [Sous les étoiles du monde](http://souslesetoilesdumonde.wifeo.com/)
+* ... et bien d'autres ...
 
 
 ### Sites de voyageurs croisés
