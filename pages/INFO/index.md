@@ -119,7 +119,7 @@ Ci-dessous, quelques sites de voyageurs (En cours ou terminé) qui sont des tré
 * [Americandream 972](https://americandream972.wordpress.com/)
 * [Chazel](http://www.chazel.com/pagereponsesquestions.htm)
 * [Exploracy](http://www.exploracy.fr/)
-* [Les bouegons](http://voyages.ccar.free.fr/)
+* [Les boulegons](http://voyages.ccar.free.fr/)
 * [Les voyages de Passe Partout](http://voyages-de-passepartout.over-blog.com/)
 * [Nathalie et jean](http://www.natetjean.com/lecamping-car/) - Le tour du monde en camping-car de Nathalie et Jean.
 * [Les Amériques](http://www.lesameriques.net/accueil/)
