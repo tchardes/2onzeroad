@@ -523,7 +523,13 @@ img::-moz-selection {
 }
 
 
+.info-box{
+  padding:5px;
+}
 
+.info-box i{
+  padding-right:3px;
+}
 
 
 
