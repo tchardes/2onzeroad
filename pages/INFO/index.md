@@ -97,8 +97,8 @@ Nous avons recensé et installé quelques applications qui nous seront utiles et
 
 Ci-dessous, quelques sites de voyageurs (En cours ou terminé) qui sont des trésors de renseignement et nous ont donné le goût et l'envie de nous lancer :
 
-[Me gusta mucho este pais] (http://songkol.com/WordPress3/ "La parenthèse itinérante d'une famille en Amérique du Sud")
-[Roadtrippin] (http://www.roadtrippin.fr "lien vers Roadtrippin") Un site très complet avec beaucoup d'explications et carnets de voyage, notamment pour visiter l'ouest américain et ses grands parcs. 
+![Me gusta mucho este pais] (http://songkol.com/WordPress3/ "La parenthèse itinérante d'une famille en Amérique du Sud")
+![Roadtrippin] (http://www.roadtrippin.fr "lien vers Roadtrippin") Un site très complet avec beaucoup d'explications et carnets de voyage, notamment pour visiter l'ouest américain et ses grands parcs. 
 
 
 
