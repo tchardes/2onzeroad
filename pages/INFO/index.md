@@ -16,20 +16,20 @@ Vous trouverez sur ce site un carnet de route avec des récits rédigés au fil 
 
 Nous l'avons organisé de la sorte :
 
-* Les articles type blog, de couleur bleu
-* Les articles type carnet de route, de couleur rouge
-* Les bilans des états ou pays après y avoir séjourné, de couleur verte.
+* Les articles type blog, de couleur bleu ;
+* Les articles type carnet de route, de couleur rouge ;
+* Les bilans des états ou pays après y avoir séjourné, de couleur verte ;  
 
-* Les plus belles photos seront stockées sur Flick.fr et seront visiblent depuis la Gallery.
-* Les vidéos seront stockées et visible sur YouTube et directement dans les posts. 
+* Les plus belles photos seront stockées sur Flick.fr et seront visiblent depuis la Gallery ;
+* Les vidéos seront stockées et visible sur YouTube et directement dans les posts ;  
 
-* Des Tags ou rubriques qui permenntent de choisir de lire les articles en fonction d'un lieu ou d'une catégorie.
-* Des Tags ou rubriques qui permenntent de visionner les potos et vidéos en fonction d'un lieu ou d'une catégorie.
+* Des Tags ou rubriques qui permetent de choisir de lire les articles en fonction d'un lieu ou d'une catégorie ;
+* Des Tags ou rubriques qui permetent de visionner les potos et vidéos en fonction d'un lieu ou d'une catégorie ;   
 
-* Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur.  
-* Une carte reprenant, dans le grande ligne, notre parcours.  
+* Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
+* Une carte reprenant, dans les grande lignes, notre parcours, nos bivouacs.
 
-Pour nous faire la main sur la rédaction et sur l'ergonomie du site, nous avons publié les récits de nos derniers voyages, à Cuba et Puerto Rico.
+Pour nous faire la main sur la rédaction et sur l'ergonomie du site, nous avons publié les récits de nos derniers voyages, à **Cuba** et **Puerto Rico**.
 
 Le site a été entièrement imaginé et construit par notre fils Alexandre, grand manitou de l'informatique. Afin de faciliter la gestion de notre voyage, il nous a également concocté une application "RoadTripManager" qui nous permettra de recenser au quotidien, nos dépenses, activités, bivouacs, trajets ... du sur mesure. 
 
@@ -94,26 +94,26 @@ Nous avons recensé et installé quelques applications sous IOs qui nous seront 
 
 #### Aide au voyage
 
-* iOverlander - *Base de données des endroits pour des overlanders et des voyageurs. Il inclut camper, hôtels, restaurants, mécanique, l'eau, remplissage de propane et peut d'autres catégories* ;
-* OsmAnd Maps -  *Application cartographique et de navigation avec accès aux données libres OpenStreetMap (OSM), à la couverture mondiale de haute qualité. Toutes les données cartographiques peuvent être stockées sur la carte mémoire de votre appareil pour une utilisation hors ligne* ;
-* Maps.Me - *Application de cartographie permettant de télécharger localement les cartes du monde entier pour une consultation hors ligne. Maps.me dispose d'un mode itinéraire utilisable partout dans le monde* ;
-* Google Maps
-* Conseils aux voyageurs - *Site du MAE - Conseils par pays · Dernières minutes · Fiches Réflexes · Infos pratiques · Foire aux questions · Services aux citoyens · Préparer son voyage* ;
-* Walmart Overnight Parking locator - *Toutes les informations sur Walmart qui acceptent les RV la nuit* ;
-* Dropbox - *Héberge tous vos fichiers (documents, photos, vidéos, etc.). Les fichiers que vous stockez dans Dropbox sont conservés en lieu sûr et accessibles sur tous vos appareils. L'envoi de fichiers volumineux se fait en toute simplicité, même si le destinataire n'a pas de compte Dropbox* ;
-* Skype - *Pour communiquer avec les proches* ;
-* Sites de nos banques.
+* **iOverlander** - *Base de données des endroits pour des overlanders et des voyageurs. Il inclut camper, hôtels, restaurants, mécanique, l'eau, remplissage de propane et peut d'autres catégories* ;
+* **OsmAnd Maps** -  *Application cartographique et de navigation avec accès aux données libres OpenStreetMap (OSM), à la couverture mondiale de haute qualité. Toutes les données cartographiques peuvent être stockées sur la carte mémoire de votre appareil pour une utilisation hors ligne* ;
+* **Maps.Me** - *Application de cartographie permettant de télécharger localement les cartes du monde entier pour une consultation hors ligne. Maps.me dispose d'un mode itinéraire utilisable partout dans le monde* ;
+* **Google Maps** - *On ne présente plus*
+* **Conseils aux voyageurs** - *Site du MAE - Conseils par pays · Dernières minutes · Fiches Réflexes · Infos pratiques · Foire aux questions · Services aux citoyens · Préparer son voyage* ;
+* **Walmart Overnight Parking locator** - *Toutes les informations sur Walmart qui acceptent les RV la nuit* ;
+* **Dropbox** - *Héberge tous vos fichiers (documents, photos, vidéos, etc.). Les fichiers que vous stockez dans Dropbox sont conservés en lieu sûr et accessibles sur tous vos appareils. L'envoi de fichiers volumineux se fait en toute simplicité, même si le destinataire n'a pas de compte Dropbox* ;
+* **Skype** - *Pour communiquer avec les proches* ;
+* **Sites de nos banques**.
 
 
 #### Aide à la photographie
 
-* The Photographer's Ephemeris - *Programme permettant de connaître les répercussions de la luminosité solaire ou lunaire partout dans le monde à une date précise. Il assiste dans la planification de session de photo de paysage ou de milieu urbai*n ;
-* Photo Transit - *Outil de planification plan basé sur une carte pour les photographes de plein air qui utilisent des appareils photo à objectifs interchangeables (comme SLR s). Planifiez le meilleur appareil photo possible, des lentilles et des lieux de tournage pour votre voyage de photo ou de la cession en utilisant le complexe intégré dans le champ de vue simulateur* ;
-* Gps4cam - *Permet de géotaguer vos photos prises avec votre appareil photo préféré. Fini le temps où vous vous demandiez où vous aviez pris vos photos : gps4cam pro les localise toutes ! L’application fonctionne avec toutes les marques d’appareil photo et ne nécessite aucune synchronisation manuelle entre votre appareil photo et votre iPhone. De plus, gps4cam peut être utilisé sans connection au réseau, ce qui est idéal pour les voyages à l’étranger* ;
-* NDExposure - *Permet de calculer le temps d'exposition correcte lors de l'utilisation des filtres à densité neutre* ;
-* Digital DoF - *Permet de calculer l'hyperfocale* ;
-* TL Calc - *Une calculatrice time-lapse rapide et simple avec trois modes. Le mode par défaut vous permet de déterminer l'intervalle d'obturation (temps entre plans) qui est nécessaire pour atteindre une longueur de clip vidéo souhaitée pour une durée d'enregistrement donné* ; 
-* Capture - *Logiciel GoPro*.
+* **The Photographer's Ephemeris** - *Programme permettant de connaître les répercussions de la luminosité solaire ou lunaire partout dans le monde à une date précise. Il assiste dans la planification de session de photo de paysage ou de milieu urbai*n ;
+* **Photo Transit** - *Outil de planification plan basé sur une carte pour les photographes de plein air qui utilisent des appareils photo à objectifs interchangeables (comme SLR s). Planifiez le meilleur appareil photo possible, des lentilles et des lieux de tournage pour votre voyage de photo ou de la cession en utilisant le complexe intégré dans le champ de vue simulateur* ;
+* **Gps4cam** - *Permet de géotaguer vos photos prises avec votre appareil photo préféré. Fini le temps où vous vous demandiez où vous aviez pris vos photos : gps4cam pro les localise toutes ! L’application fonctionne avec toutes les marques d’appareil photo et ne nécessite aucune synchronisation manuelle entre votre appareil photo et votre iPhone. De plus, gps4cam peut être utilisé sans connection au réseau, ce qui est idéal pour les voyages à l’étranger* ;
+* **NDExposure** - *Permet de calculer le temps d'exposition correcte lors de l'utilisation des filtres à densité neutre* ;
+* **Digital DoF** - *Permet de calculer l'hyperfocale* ;
+* **TL Calc** - *Une calculatrice time-lapse rapide et simple avec trois modes. Le mode par défaut vous permet de déterminer l'intervalle d'obturation (temps entre plans) qui est nécessaire pour atteindre une longueur de clip vidéo souhaitée pour une durée d'enregistrement donné* ; 
+* **Capture** - *Logiciel GoPro*.
 
 
 ### Sites de voyageurs
