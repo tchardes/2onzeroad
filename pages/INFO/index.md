@@ -79,7 +79,7 @@ Certainement le point le plus difficile pour nous. Nos bases sont lointaines et 
 
 En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frolerons la frontière méxicaine, nous attaquerons l'espagnol dans la même état d'esprit. Quelques soirées d'études "calienté" en perpective.
 
-### Visa B2
+### Visa USA de type B2 
 
 A venir...
 
