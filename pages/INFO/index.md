@@ -75,7 +75,7 @@ Nous avons profité de l'occsion pour faire refaire nos permis de conduire et po
 
 ### Langues
 
-Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car nous ne nous sentons pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...  
+Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...  
 
 En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frolerons la frontière méxicaine, nous attaquerons l'espagnol dans la même état d'esprit. Quelques soirées d'études "calienté" en perpective.
 
@@ -90,7 +90,7 @@ Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, no
 
 ### Applications
 
-Nous avons recensé et installé quelques applications sous IOs qui nous seront utiles et que nous avons trouvés pratiques.
+Nous avons recensé et installé quelques applications sous IOS qui nous seront utiles et que nous avons trouvés pratiques.
 
 #### Aide au voyage
 
@@ -105,7 +105,7 @@ Nous avons recensé et installé quelques applications sous IOs qui nous seront 
 * **Sites de nos banques**.
 
 
-#### Aide à la photographie
+#### Aide à la photographie/vidéo
 
 * **The Photographer's Ephemeris** - *Programme permettant de connaître les répercussions de la luminosité solaire ou lunaire partout dans le monde à une date précise. Il assiste dans la planification de session de photo de paysage ou de milieu urbai*n ;
 * **Photo Transit** - *Outil de planification plan basé sur une carte pour les photographes de plein air qui utilisent des appareils photo à objectifs interchangeables (comme SLR s). Planifiez le meilleur appareil photo possible, des lentilles et des lieux de tournage pour votre voyage de photo ou de la cession en utilisant le complexe intégré dans le champ de vue simulateur* ;
