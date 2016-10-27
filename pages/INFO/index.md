@@ -71,7 +71,7 @@ Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium
 
 ### Permis de conduire
 
-Nous avons profité de l'occsion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicule Alamo à Puerto Rico nous à motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international, valables 3 ans. 
+Nous avons profité de l'occsion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicule Alamo à Puerto Rico nous à motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international, valable 3 ans. 
 
 ### Langues
 
