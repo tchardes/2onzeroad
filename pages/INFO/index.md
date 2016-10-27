@@ -8,11 +8,11 @@ permalink: /info/
 
 ### Pourquoi ce site Web
 
-Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des sujets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. Tout a déjà été écrit sur le sujet et par bien meiileur que nous. Nous tenterons simplement de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
+Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des sujets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. Tout a déjà été écrit sur le sujet et par bien meilleur que nous. Nous tenterons simplement de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
 
 Il nous semble aussi que c'est un juste retour des choses tant la lecture de plusieurs dizaines de carnets de route nous ont conforté dans notre idée de larguer les amarres et nous ont permis de nous faire une idée de ce qui allait nous attendre. 
 
-Vous trouverez sur ce site un carnet de route avec des récits rédigés au fil de l'eau sur notre avancée ou bien sur un sujet bien particulier qui nous aura plus ou au moins attiré notre attention. Nous essayerons de l'agrémenter de photos, vidéos et de cartes pour situer tout ça. N'hésitez pas à commenter ou nous poser des questions si vous souhaitez des précisions.
+Vous trouverez sur ce site un carnet de route avec des récits rédigés au fil de l'eau sur notre avancée ou bien sur un sujet bien particulier qui aura plus ou au moins attiré notre attention. Nous essayerons de l'agrémenter de photos, vidéos et de cartes pour situer tout ça. N'hésitez pas à commenter ou nous poser des questions si vous souhaitez des précisions.
 
 Nous l'avons organisé de la sorte :
 
@@ -20,11 +20,11 @@ Nous l'avons organisé de la sorte :
 * Les articles type carnet de route, de couleur rouge ;
 * Les bilans des états ou pays après y avoir séjourné, de couleur verte ;  
 
-* Les plus belles photos seront stockées sur Flick.fr et seront visiblent depuis la Gallery ;
-* Les vidéos seront stockées et visible sur YouTube et directement dans les posts ;  
+* Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Gallery ;
+* Les vidéos seront stockées et visibles sur YouTube et directement dans les posts ;  
 
-* Des Tags ou rubriques qui permetent de choisir de lire les articles en fonction d'un lieu ou d'une catégorie ;
-* Des Tags ou rubriques qui permetent de visionner les potos et vidéos en fonction d'un lieu ou d'une catégorie ;   
+* Des Tags ou rubriques qui permettent de choisir de lire les articles en fonction d'un lieu ou d'une catégorie ;
+* Des Tags ou rubriques qui permettent de visionner les photos et vidéos en fonction d'un lieu ou d'une catégorie ;   
 
 * Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
 * Une carte reprenant, dans les grande lignes, notre parcours, nos bivouacs.
@@ -46,7 +46,7 @@ Quelles sont les motivations de ce choix, qui reste personnel et adapté à notr
 
 * Depuis peu, les douaniers étasuniens ont remis au goût du jour un vieux texte de loi indiquant que les véhicules de marque étrangères ne pouvaient rester plus de 12 mois sur leur sol à partir de la date de leur première entrée sous peine d'interdiction de sortie du territoire et destruction dudit véhicule ou procédure d'homologation, dont le prix peut-être prohibitif. Ces 12 mois sont pour nous rédhibitoires puisque nous espérons pouvoir laisser notre HomeZeRoad au moins 24 mois en comptant nos retours en métropole tous les 6 mois, si nous obtenons notre visa B2 (Cf, "Visa"). 
 
-* Au niveau motorisation, les RVs sont équipés principalement de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèle de Class C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro et donc moins regardant quant à la qualité des carburants assez inégale, même entre les différentes états des USA. 
+* Au niveau motorisation, les RVs sont équipés principalement de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèle de Class C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro et donc moins regardant sur la qualité des carburants assez inégale, même entre les différents états des USA. 
 
 * Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur.
 
