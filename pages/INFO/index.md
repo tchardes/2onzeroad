@@ -97,7 +97,7 @@ Nous avons recensé et installé quelques applications sous IOs qui nous seront 
 * **iOverlander** - *Base de données des endroits pour des overlanders et des voyageurs. Il inclut camper, hôtels, restaurants, mécanique, l'eau, remplissage de propane et peut d'autres catégories* ;
 * **OsmAnd Maps** -  *Application cartographique et de navigation avec accès aux données libres OpenStreetMap (OSM), à la couverture mondiale de haute qualité. Toutes les données cartographiques peuvent être stockées sur la carte mémoire de votre appareil pour une utilisation hors ligne* ;
 * **Maps.Me** - *Application de cartographie permettant de télécharger localement les cartes du monde entier pour une consultation hors ligne. Maps.me dispose d'un mode itinéraire utilisable partout dans le monde* ;
-* **Google Maps** - *On ne présente plus*
+* **Google Maps** - *On ne présente plus* ;
 * **Conseils aux voyageurs** - *Site du MAE - Conseils par pays · Dernières minutes · Fiches Réflexes · Infos pratiques · Foire aux questions · Services aux citoyens · Préparer son voyage* ;
 * **Walmart Overnight Parking locator** - *Toutes les informations sur Walmart qui acceptent les RV la nuit* ;
 * **Dropbox** - *Héberge tous vos fichiers (documents, photos, vidéos, etc.). Les fichiers que vous stockez dans Dropbox sont conservés en lieu sûr et accessibles sur tous vos appareils. L'envoi de fichiers volumineux se fait en toute simplicité, même si le destinataire n'a pas de compte Dropbox* ;
