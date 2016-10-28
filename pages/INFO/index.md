@@ -16,9 +16,9 @@ Vous trouverez sur ce site un carnet de route avec des récits rédigés au fil 
 
 Nous l'avons organisé de la sorte :
 
-* Les articles type blog, de couleur bleu ;
-* Les articles type carnet de route, de couleur rouge ;
-* Les bilans des états ou pays après y avoir séjourné, de couleur verte ;  
+* Les articles type blog, avec un bandeau et icône de couleur bleu ;
+* Les articles type carnet de route, avec un bandeau et icône de couleur rouge ;
+* Les bilans des états ou pays après y avoir séjourné, avec un bandeau et icône de couleur verte ;  
 
 * Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Gallery ;
 * Les vidéos seront stockées et visibles sur YouTube et directement dans les posts ;  
