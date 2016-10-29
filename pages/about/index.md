@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Qui sommes nous ?"
+title: "QUI SOMMES NOUS ?"
 description: "Notre projet, notre itinéraire"
 header-img: "assets/owner/hero/about-bg.jpg"
 permalink: /about/
