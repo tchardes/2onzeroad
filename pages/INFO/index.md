@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Infos Pratiques"
+title: "INFOS PRATIQUES"
 description: "Site, Véhicule, Santé, Banque, Visa..."
 header-img: "assets/owner/hero/about-bg.jpg"
 permalink: /info/
