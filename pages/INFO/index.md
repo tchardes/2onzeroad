@@ -152,10 +152,3 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 ### Sites de voyageurs croisés
 
 Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de notre périple.
-
-
-<script type="text/javascript">
-$(document).ready(function() {
-    $('#toc').toc();
-});
-</script>
