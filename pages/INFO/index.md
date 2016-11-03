@@ -8,7 +8,7 @@ permalink: /info/
 
 <div id="toc"></div>
 
-### Pourquoi ce site Web
+### Pourquoi ce site Web :
 
 Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des sujets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. Tout a déjà été écrit sur le sujet et par bien meilleur que nous. Nous tenterons simplement de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
 
@@ -36,7 +36,7 @@ Pour nous faire la main sur la rédaction et sur l'ergonomie du site, nous avons
 Le site a été entièrement imaginé et construit par notre fils Alexandre, grand manitou de l'informatique. Afin de faciliter la gestion de notre voyage, il nous a également concocté une application "RoadTripManager" qui nous permettra de recenser au quotidien, nos dépenses, activités, bivouacs, trajets ... du sur mesure. 
 
 
-### Notre HomeZeRoad
+### Notre HomeZeRoad :
 
 Lors de la préparation de notre voyage au long cours, le camping-car c'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car à nous reprocher pour l'instant …. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
 
@@ -59,42 +59,42 @@ Quelles sont les motivations de ce choix, qui reste personnel et adapté à notr
 Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
 
 
-### Santé
+### Santé :
 
 Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la Sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
 
-### Vaccins
+### Vaccins :
 
 Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, valable 10 ans, cela nous permettra de descendre le cas échéant vers l'Amérique du sud.
 
-### Comptes bancaires
+### Comptes bancaires :
 
 Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium et avons ouvert un compte auprès de la banque N26 qui fournit une Mastercard. Cette carte permet des achats et retraits à l'étranger sans frais.
 
-### Permis de conduire
+### Permis de conduire :
 
 Nous avons profité de l'occsion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicule Alamo à Puerto Rico nous à motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international, valable 3 ans. 
 
-### Langues
+### Langues :
 
 Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...  
 
 En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frolerons la frontière méxicaine, nous attaquerons l'espagnol dans la même état d'esprit. Quelques soirées d'études "calienté" en perpective.
 
-### Visa USA de type B2 
+### Visa USA de type B2  :
 
 A venir...
 
-### Divers
+### Divers :
 
 Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.  
 
 
-### Applications
+### Applications :
 
 Nous avons recensé et installé quelques applications sous IOS qui nous seront utiles et que nous avons trouvés pratiques.
 
-#### Aide au voyage
+#### Aide au voyage :
 
 * **iOverlander** - *Base de données des endroits pour des overlanders et des voyageurs. Il inclut camper, hôtels, restaurants, mécanique, l'eau, remplissage de propane et peut d'autres catégories* ;
 * **OsmAnd Maps** -  *Application cartographique et de navigation avec accès aux données libres OpenStreetMap (OSM), à la couverture mondiale de haute qualité. Toutes les données cartographiques peuvent être stockées sur la carte mémoire de votre appareil pour une utilisation hors ligne* ;
@@ -107,7 +107,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **Sites de nos banques**.
 
 
-#### Aide à la photographie/vidéo
+#### Aide à la photographie/vidéo :
 
 * **The Photographer's Ephemeris** - *Programme permettant de connaître les répercussions de la luminosité solaire ou lunaire partout dans le monde à une date précise. Il assiste dans la planification de session de photo de paysage ou de milieu urbai*n ;
 * **Photo Transit** - *Outil de planification plan basé sur une carte pour les photographes de plein air qui utilisent des appareils photo à objectifs interchangeables (comme SLR s). Planifiez le meilleur appareil photo possible, des lentilles et des lieux de tournage pour votre voyage de photo ou de la cession en utilisant le complexe intégré dans le champ de vue simulateur* ;
@@ -118,7 +118,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **Capture** - *Logiciel GoPro*.
 
 
-### Sites de voyageurs
+### Sites de voyageurs :
 
 Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont des trésors de renseignements et qui nous ont donné le goût et l'envie de nous lancer :
 
@@ -149,6 +149,6 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 * ... et bien d'autres ...
 
 
-### Sites de voyageurs croisés
+### Sites de voyageurs croisés :
 
 Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de notre périple.
