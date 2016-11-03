@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Qui sommes nous ? :
 
-Thierry et Corinne, deux quinquagénaires qui ont décidé tout simplement de lâcher prise et de profiter de la vie. Amoureux de voyages, nous avons déjà pas mal bourlingué tant pour des raisons professionnelles que personnelles et vécu en différents lieux. 
+Nous sommes deux quinquagénaires, Corinne et Thierry, qui avons décidé tout simplement de lâcher prise et de profiter de la vie. Amoureux de voyages, nous avons déjà pas mal bourlingué tant pour des raisons professionnelles que personnelles et vécu en différents lieux. 
 
 ### Notre projet :
 
