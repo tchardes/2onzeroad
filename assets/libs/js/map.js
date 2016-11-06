@@ -130,6 +130,7 @@ function initMap() {
 
       });
       map.data.loadGeoJson(itinary);
+      map.data.setStyle({strokeColor: 'blue', strokeWeight:1});
     });
 
 

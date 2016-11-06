@@ -453,9 +453,8 @@ img::-moz-selection {
   padding-top: 2px;
 }
 .post-preview-category div {
-  font-size: 0.6em;
+  font-size: 0.7em;
   padding:3px;  
-  text-transform: uppercase;
   font-weight: 600;
   border-radius: 5px;
   background-color: #CCC;
@@ -545,4 +544,12 @@ img::-moz-selection {
 }
 #iw-container {
 	margin-bottom: 10px;
+}
+
+
+.line6{
+   stroke:black;
+  stroke-width:6;
+  stroke-dasharray:8,2;
+  fill:yellow;
 }

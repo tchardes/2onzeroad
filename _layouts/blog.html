@@ -29,7 +29,7 @@
                 <div style="background-position:center;background-size: cover;background-image: url('{{root_url}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
                     <div class="container" >
                         <div class="row">
-                            <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
+                            <div class="col-lg-10 col-lg-offset-1">
                                 <div class="page-heading">
                                     <h1>{{ page.title }}</h1>
                                     <hr class="small">
@@ -48,17 +48,17 @@
                                     <i class="fa fa-pencil" style="padding:0 5px 0 10px"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}
                                     <i class="fa fa-calendar" style="padding:0 5px 0 10px"></i>{{ page.date | date: "%-d %-B %Y" }}
 
-                                    {% assign minutes = content | number_of_words | divided_by: 180 %}
-                                    <i class="fa fa-clock-o" style="padding:0 5px 0 10px"></i>{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
-                                    {{ minutes }} min.
-
                                     {% if post.tags.size > 0 %}
                                     <i class="fa fa-tags" style="padding:0 5px 0 10px"></i>
-                                    {% for tag in page.tags %}<a style="color:white;" href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Other posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;-&nbsp;{% endunless %}{% endfor %}{% endif %}
+                                    {% for tag in page.tags %}<a style="color:white;" href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;-&nbsp;{% endunless %}{% endfor %}{% endif %}
 
                                     {% if page.category == "roadmap" and relatedPosts | size > 1 %}
                                         <i class="fa fa-folder-open" style="padding:0 5px 0 10px"></i> {{ relatedPosts | size }} article(s)
                                     {% endif %}
+
+                                    {% assign minutes = content | number_of_words | divided_by: 180 %}
+                                    <i class="fa fa-clock-o" style="padding:0 5px 0 10px"></i>{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+                                    Temps de lecture estimé : {{ minutes }} min.
                                 </div>
                             </div>
                         </div>
@@ -80,7 +80,36 @@
                         <h1>{{ page.title }}</h1>
                         {{ content }} 
 
-                        <a href="{{ root_url }}/gallery/?tag={{page.flickr-tag}}"><h3><i class="fa fa-picture-o" aria-hidden="true"></i> Direction la galerie pour d'autres photos...</h3></a>
+
+                        <div class="row">
+                            <div class="col-sm-6" style="padding:15px;">
+                                <div style="font-size:22px;" class="info-box bg-primary">
+                                    <i class="fa fa-picture-o"></i>
+                                    <a style="color:white;" href="{{ root_url }}/gallery/?tag={{page.flickr-tag}}">Galerie pour d'autres photos...</a>
+                                </div>
+                            </div>  
+
+                            <div class="col-sm-6" style="padding:15px;">
+                                <div style="font-size:22px;" class="info-box bg-primary">
+                                    <i class="fa fa-folder-open"></i>
+                                    <a style="color:white;" href="#other-articles">Autres articles en relation...</a>
+                                </div>
+                            </div> 
+                        </div>
+
+                        <ul class="pager">
+                            {% if page.previous.url %}
+                            <li class="previous">
+                                <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Post Précédent</a>
+                            </li>
+                            {% endif %}
+                            {% if page.next.url %}
+                            <li class="next">
+                                <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Post Suivant &rarr;</a>
+                            </li>
+                            {% endif %}
+                        </ul>
+
                         <hr style="border-top: 2px solid #AAA;" />                        
                     </div>
                 </div>
@@ -90,18 +119,6 @@
                         <!-- {% include signoff.html %}       -->
                         {% if site.comments %}{% include disqus_comments.html %}{% endif %} 
                         <br>
-                        <ul class="pager">
-                            {% if page.previous.url %}
-                            <li class="previous">
-                                <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-                            </li>
-                            {% endif %}
-                            {% if page.next.url %}
-                            <li class="next">
-                                <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-                            </li>
-                            {% endif %}
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -110,7 +127,7 @@
                 <div class="container">
                     <div class="row">                           
                         <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-                            <h2>Autres articles en relation...</h2>
+                            <h2 id="other-articles">Autres articles en relation...</h2>
                         </div>
                     </div>
                 </div>
