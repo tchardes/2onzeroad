@@ -20,7 +20,7 @@ location:
   longitude: -79.976970
 ---
 
-Après un bon petit déjeuner, nous quittons Cienfiegos en direction de Trinidad, une des plus belles villes de Cuba. En route, nous nous arrêtons devant une maison qui propose, comme c'est souvent le cas dans la caraïbe, un étal avec des fruits et légumes à vendre. La propriétaire nous fait goûter des fruits locaux et nous propose du miel, directement depuis un cadre de ruche. Elle nous coupe des morceaux de cire que nous machouillons pour en extraire le miel, on s'en met de partout !!!.
+Après un bon petit déjeuner, nous quittons Cienfiegos en direction de Trinidad, une des plus belles villes de Cuba. En route, nous nous arrêtons devant une maison a installé, comme c'est souvent le cas dans la caraïbe, un étal avec des fruits et légumes à vendre. La propriétaire nous fait goûter des fruits locaux et nous propose du miel, directement depuis un cadre de ruche. Elle nous coupe des morceaux de cire que nous machouillons pour en extraire le miel, on s'en met de partout !!!.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/127048817@N07/30704699232/in/dateposted/" title="Photos blog - Trinidad - [Cuba]"><img src="https://c1.staticflickr.com/6/5734/30704699232_ce8653f83d_k.jpg" width="2048" height="1152" alt="Photos blog - Trinidad - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
