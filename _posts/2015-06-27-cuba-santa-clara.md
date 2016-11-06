@@ -40,6 +40,6 @@ Après cette salle, l'on arrive dans une musée où se trouve de nombreuses phot
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/127048817@N07/30783865376/in/dateposted/" title="Santa Clara - [Cuba]"><img src="https://c1.staticflickr.com/6/5498/30783865376_36327e8aff_k.jpg" width="2048" height="1152" alt="Santa Clara - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A midi nous avons déjeuné dans une très bel hôtel-restaurants "Los Caneyes", magnifiquement aménagé et qui rapelle un village indigène. Il est orné de nombreuses sculptures et cabanes aux toits de chaume.
+A midi nous déjeunons dans un très bel hôtel-restaurants "Los Caneyes", magnifiquement aménagé et qui rapelle un village indigène. Il est orné de nombreuses sculptures et cabanes aux toits de chaume.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/127048817@N07/30818557455/in/photostream/" title="Photos blog - Santa Clara - [Cuba]"><img src="https://c8.staticflickr.com/6/5632/30818557455_a4c58d2130_k.jpg" width="2048" height="1152" alt="Photos blog - Santa Clara - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
