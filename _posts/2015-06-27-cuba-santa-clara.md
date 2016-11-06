@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Santa-Clara... Hasta Siempre"
-preview:    "En route vers Santa Clara, notre dernière visite avant notre retour sur la Havane... "
+preview:    "En route vers Santa-Clara, notre dernière visite avant notre retour sur la Havane... "
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-30 12:00:00
