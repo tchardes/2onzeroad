@@ -28,7 +28,7 @@ En route vers Santa Clara, notre dernière visite avant notre retour sur la Hava
 
 ### Memorial Comandante Ernesto Che Guevara
 
-Santa Clara est un passage obligé, un pélerinage pour tous les cubains. En 1958, pendant la révolution, **Ernesto "Che" Guevara** à la tête de 300 hommes prend la ville et met en déroute les 3000 soldats du dictateur **Batista** qui la défendaient. Les jours suivants, il inflige une nouvelle défaite aux troupes gouvernementales en faisant dérailler un train militaire transportant soldats et matériels, qui devaient bloquer la progression des rebelles vers la capitale. Cette défaite est à l'origine de la fuite de Batista vers Saint-Domingue et qui accéléra la chute de son régime.
+Santa Clara est un passage obligé, un pélerinage pour tous les cubains. En 1958, pendant la révolution, **Ernesto "Che" Guevara** à la tête de 300 hommes prend la ville et met en déroute les 3000 soldats du dictateur **Batista** qui la défendaient. Les jours suivants, il inflige une nouvelle défaite aux troupes gouvernementales en faisant dérailler un train militaire transportant soldats et matériels, qui devaient bloquer la progression des rebelles vers la capitale. Cette défaite est à l'origine de la fuite de Batista vers Saint-Domingue et accélera la chute de son régime.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/127048817@N07/30730372891/in/photostream/" title="Photos Blog - Santa Clara - [Cuba]"><img src="https://c4.staticflickr.com/6/5723/30730372891_2826b3ff72_k.jpg" width="2048" height="1152" alt="Photos Blog - Santa Clara - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
