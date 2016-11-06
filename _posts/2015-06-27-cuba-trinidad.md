@@ -20,12 +20,16 @@ location:
   longitude: -79.976970
 ---
 
-Trinidad
+Après un bon petit déjeuner, nous quitton Cienfiegos en drection de Trinidad, une des plus belles villes de Cuba. En route nous nous arrêtons devant une maison qui propose, comme c'est souvent le cas dans la caraïbe, un étal avec des fruits et légumes. La prpriétaire nous fait gouter de fruits locaux et nous propose du miel, directement depuis un cadre de ruche. Elle nous coupe des morceaux de cire que nous machouillons pour en extraire le miel, on s'en met de partout !!!
 
-Nous visitons une très belle cathédrale. Nous déambulons dans les rues pavées. On s'y sent bien.
-On flâne devant des étals d'un marché artisanal, c'est agréable.
-On prend un verre dans un bar à l'ambiance chaleureuse. Un orchestre joue de la salsa. On est transporté. La musique fait vraiment partie de leur vie et ils ont le rythme dans la peau, c'est un régal de les voir danser.
-visite du musee
-A l'heure du déjeuner, pour quelques euros en supplément, on pouvait manger la fameuse « langouste de Cuba ».
+PHOTO
+
+Nous arrivons enfin à Trinidad. Si l'autopista est assez cahotique le réseau secondaire est quant à lui épique. La ville est réputée pour son centre historique à l'architecture coloniale inscrit au patrimoine mondial de l'UNESCO depuis 1988. Les rues pavées et les maisons aux couleurs pastel contribuent à donner l'impression que le temps s'est arrêté depuis l'époque coloniale. Entièrement restauré, le centre ville montre de très belles batisses, notamment autour de la Plaza Mayor. Elles témoignent de la richesse des propriétaires de l'époque ayant fait fortune dans la canne à sucre et l'esclavage. Nous posons nos valises à l'hotel "Las Cuevas", qui domine la ville et qui propose des bungalows construits en terrasse autour d'une très grande piscine.
+
+Nous passons la journée à promener dans la veille ville composée de maisons basses, colorées, aux toits de tuiles. Les grandes fenêtres qui laissent entrevoir l'intéreiur des habitations sont protégées par des barreaux en fer ou en bois tourné colorés laissant les courants d’air rafraichir les patios, c'est vraiment très beau. Les rues pavées sont d'origines, avec l'écoulement des eaux de pluies en leur centre, l'irrégularite des pavés font danser les vieille américaines qui circulent.  
+
+Nous nous attardons sur la plaza Mayor qui habrite la très belle Église de la Santissima Trinidad, nous flanons devant des étals d'un marché artisanal, l'ambiance est très agréable. Avant le déjeuner,  nous prenons un verre dans un bar "La Canchanchata" à l'ambiance chaleureuse. Un orchestre joue de la salsa. On est transporté. La musique fait vraiment partie de leur vie et ils ont le rythme dans la peau, c'est un régal de les voir danser. Le nom de l'établissement et également le nom d'un coktail servi dans un verre en terre cuite type bolé. La recette ? : Aguardiente "Santero" (une sorte d'eau de vie "Brandys" extraite de la canne utilisée dans les coktails), miel, citron, eau, glaçon. Il faut bien remuer pour dissoudre le miel qui se dépose au fond du verre. A midi je déguste une très belle langouste .... de Cuba... sous les yeux dégoutés de Corinne et tous ça avec un groupe qui reprend les standards de la salsa cubaine.
+
+L'après midi nous visitons l'un des très nombreux musées de la ville, le musée municipal général, sis à l’intérieur de l’ancien palais Cantero qui a été décoré par des peintres locaux et italiens. Il recèle l'historique de la ville à travers les armes, le mobilier, les arts et les documents. Sa tour de trois étages - emblématique de Trinidad - offre une vue panoramique sur la ville et ses environs. Tournée presque exclusivement vers le tourisme, la cenre ville propose de nombreuses boutiques d'art traditionnel, poterie, peinture, broderie sans oublier les multiples représentation du "ché" sous toutes les coutures.
 
 
