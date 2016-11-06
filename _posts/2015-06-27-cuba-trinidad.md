@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Trinidad"
-preview:    " "
+preview:    "La ville est réputée pour son centre historique à l'architecture coloniale inscrit au patrimoine mondial de l'UNESCO... "
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-29 12:00:00
@@ -20,7 +20,7 @@ location:
   longitude: -79.976970
 ---
 
-Après un bon petit déjeuner, nous quitton Cienfiegos en drection de Trinidad, une des plus belles villes de Cuba. En route nous nous arrêtons devant une maison qui propose, comme c'est souvent le cas dans la caraïbe, un étal avec des fruits et légumes. La prpriétaire nous fait gouter de fruits locaux et nous propose du miel, directement depuis un cadre de ruche. Elle nous coupe des morceaux de cire que nous machouillons pour en extraire le miel, on s'en met de partout !!!
+Après un bon petit déjeuner, nous quittons Cienfiegos en drection de Trinidad, une des plus belles villes de Cuba. En route, nous nous arrêtons devant une maison qui propose, comme c'est souvent le cas dans la caraïbe, un étal avec des fruits et légumes à vendre. La prpriétaire nous fait gouter des fruits locaux et nous propose du miel, directement depuis un cadre de ruche. Elle nous coupe des morceaux de cire que nous machouillons pour en extraire le miel, on s'en met de partout !!!.
 
 PHOTO
 
