@@ -40,6 +40,8 @@ Après cette salle, l'on arrive dans un musée où se trouve de nombreuses photo
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/127048817@N07/30783865376/in/dateposted/" title="Santa Clara - [Cuba]"><img src="https://c1.staticflickr.com/6/5498/30783865376_36327e8aff_k.jpg" width="2048" height="1152" alt="Santa Clara - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+### Pourquoi le "Che" ?
+
 Comment **Ernesto Guevara** est devenu le **"Che"** ? Il s'agit en fait d’un tic de langage. En effet, Ernesto avait l’habitude de terminer toutes ses phrases par « che ». Une exclamation utilisée par les argentins, oui il est argentin et non cubain, qui pourrait se traduire grosso modo par « hé toi », « hé mec ». Un terme qui ne sert en fait à rien d’autre qu’à fermer les guillemets. Il n’en faudra pas plus pour que les cubains le rebaptisent en Ernesto Che Guevara dit le "Che".
 
 A midi nous déjeunons dans un très bel hôtel-restaurant "Los Caneyes", magnifiquement aménagé et qui rapelle un village indigène. Il est orné de nombreuses sculptures et cabanes aux toits de chaume.
