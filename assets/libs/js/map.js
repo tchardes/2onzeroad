@@ -1,6 +1,7 @@
-var geocoder; // currently not used
 
 function initMap() {
+
+  var markers = [];
 
   $(document).ready ( function() {
 
@@ -22,19 +23,10 @@ function initMap() {
       var points = $(this).find(".map-point");
       points.each(function() {
 
-        // var pinIcon = new google.maps.MarkerImage(
-        //     $(this).attr('icon'),
-        //     null, /* size is determined at runtime */
-        //     null, /* origin is 0,0 */
-        //     new google.maps.Point(25,45), /* anchor is bottom center of the scaled image */
-        //     new google.maps.Size(50, 50)
-        // );
+        var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="50px" height="50px" viewBox="0 0 512 512" version="1.1"><g id="#333333ff"><path fill="' + $(this).attr('iconColor') + '" opacity="1.00" d=" M 223.07 11.47 C 257.45 3.52 294.50 7.37 326.37 22.57 C 355.70 36.35 380.51 59.45 396.45 87.65 C 412.30 115.70 419.61 148.81 415.81 180.88 C 412.06 208.59 399.39 234.18 384.25 257.36 C 370.77 277.80 354.77 296.38 339.25 315.26 C 312.76 347.22 285.76 378.76 258.75 410.28 C 227.65 377.01 196.87 343.42 167.02 309.02 C 147.04 285.98 127.62 261.81 115.21 233.71 C 102.35 205.53 97.89 173.67 102.16 143.02 C 106.63 110.63 121.70 79.89 144.29 56.28 C 165.46 34.14 193.18 18.26 223.07 11.47 M 251.14 91.29 C 227.86 93.35 206.08 106.83 193.51 126.46 C 183.24 142.07 179.15 161.53 181.93 179.98 C 184.67 199.31 195.19 217.37 210.53 229.41 C 222.85 239.26 238.27 245.16 254.01 246.05 C 269.66 247.04 285.60 243.14 298.98 234.97 C 311.23 227.55 321.35 216.68 327.87 203.93 C 336.74 186.68 338.80 166.04 333.43 147.39 C 328.10 128.18 314.94 111.33 297.68 101.39 C 283.76 93.20 267.20 89.70 251.14 91.29 Z"/></g></svg>';
 
         // create a latlong and marker for each point
         var latlng = new google.maps.LatLng($(this).attr('latitude'), $(this).attr('longitude'));  
-
-
-        var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="50px" height="50px" viewBox="0 0 512 512" version="1.1"><g id="#333333ff"><path fill="' + $(this).attr('iconColor') + '" opacity="1.00" d=" M 223.07 11.47 C 257.45 3.52 294.50 7.37 326.37 22.57 C 355.70 36.35 380.51 59.45 396.45 87.65 C 412.30 115.70 419.61 148.81 415.81 180.88 C 412.06 208.59 399.39 234.18 384.25 257.36 C 370.77 277.80 354.77 296.38 339.25 315.26 C 312.76 347.22 285.76 378.76 258.75 410.28 C 227.65 377.01 196.87 343.42 167.02 309.02 C 147.04 285.98 127.62 261.81 115.21 233.71 C 102.35 205.53 97.89 173.67 102.16 143.02 C 106.63 110.63 121.70 79.89 144.29 56.28 C 165.46 34.14 193.18 18.26 223.07 11.47 M 251.14 91.29 C 227.86 93.35 206.08 106.83 193.51 126.46 C 183.24 142.07 179.15 161.53 181.93 179.98 C 184.67 199.31 195.19 217.37 210.53 229.41 C 222.85 239.26 238.27 245.16 254.01 246.05 C 269.66 247.04 285.60 243.14 298.98 234.97 C 311.23 227.55 321.35 216.68 327.87 203.93 C 336.74 186.68 338.80 166.04 333.43 147.39 C 328.10 128.18 314.94 111.33 297.68 101.39 C 283.76 93.20 267.20 89.70 251.14 91.29 Z"/></g></svg>';
 
         var icon = {
             // path: "M0-48c-9.8 0-17.7 7.8-17.7 17.4 0 15.5 17.7 30.6 17.7 30.6s17.7-15.4 17.7-30.6c0-9.6-7.9-17.4-17.7-17.4z",
@@ -44,12 +36,15 @@ function initMap() {
             anchor: new google.maps.Point(25,40),
             strokeWeight: 0
         }
+
         var marker = new google.maps.Marker({
           map: map,
           icon: icon,
           position: latlng,
           title: $(this).attr('title')
         });
+
+        markers.push(marker);
 
         // if the map point has HTML, turn it into an info window
         var infowindow = new google.maps.InfoWindow({
@@ -133,6 +128,7 @@ function initMap() {
       map.data.setStyle({strokeColor: 'blue', strokeWeight:1});
     });
 
+    var markerCluster = new MarkerClusterer(map, markers, {imagePath: '/assets/owner/m'});
 
   });
 }
