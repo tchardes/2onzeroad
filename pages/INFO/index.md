@@ -124,10 +124,10 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 ### Sites utiles :
 
 * [Forum Amérique du Nord et Amérique Centrale](https://groups.google.com/forum/#!forum/le-lien-amnordcentrale) - lelien-amnordcentrale, l'Amérique du Nord et Centrale en camping-car ;
-* [Forum Amérique du Sud](https://fr.groups.yahoo.com/neo/groups/lelien-amsud/) - lelien-amsud, l'Amérique du Sud en camping-car ;
-* [roadtrippin](http://www.roadtrippin.fr/) - Guide - Forum - Préparation voyage aux USA ;
-* [ouestusa](http://www.ouestusa.fr/) - Bienvenue aux passionnés de l'Ouest Américain ;
-* [boondockerswelcome](https://www.boondockerswelcome.com/) - Overnight boondocking on fellow RVers' property ;
+* [Forum Amérique du Sud](https://fr.groups.yahoo.com/neo/groups/lelien-amsud/info) - lelien-amsud, l'Amérique du Sud en camping-car ;
+* [Roadtrippin](http://www.roadtrippin.fr/) - Guide - Forum - Préparation voyage aux USA ;
+* [Ouestusa](http://www.ouestusa.fr/) - Bienvenue aux passionnés de l'Ouest Américain ;
+* [Boondockerswelcome](https://www.boondockerswelcome.com/) - Overnight boondocking on fellow RVers' property ;
 
 
 ### Sites de voyageurs :
