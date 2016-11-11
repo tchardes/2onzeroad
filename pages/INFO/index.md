@@ -31,7 +31,7 @@ Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 * Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
 * Une carte reprenant, dans les grande lignes, notre parcours, nos bivouacs ;
 * Une carte recensant les lieux que nous aimerions visiter (Pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant »
-Claire, Michael, Soraya, Jimmy et Amélie) N’hésitez pas à l'utiliser à votre tour comme base de départ ;
+Claire, Michael, Soraya, Jimmy et Amélie). N’hésitez pas à l'utiliser à votre tour comme base de départ ;
 * Dans le futur, une carte matérialisant nos meilleurs bivouacs.
 
 
@@ -46,7 +46,7 @@ Lors de la préparation de notre voyage au long cours, le camping-car s'est rapi
 
 Dès l'instant où la décision a été prise, nous avons connu les mêmes interrogations que tous les voyageurs ayant choisi ce mode de locomotion, lequel choisir ?……. De type 4x4, profilé, intégral, capucine, fourgon, fabriqué sur mesure, de quelle marque, motorisation, avec quelles options …. Bref de quoi alimenter de nombreuses nuits blanches, la lecture de kilomètres de commentaires, arguments, certitudes, sans parler du coût pouvant aller du simple au ….  
 
-A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord américain. Ce sera un " Recreational Vehicle " (RV) ou " Motorhome " de Class C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux Etats-Unis ou si nous n'obtenons pas le Visa B2 US et que nous devions l'acquérir au Quebec. 
+A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motorhome " de Class C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux Etats-Unis ou si nous n'obtenons pas le Visa B2 US et que nous devions l'acquérir au Quebec. 
 
 Quelles sont les motivations de ce choix, qui reste personnel et adapté à notre vision des choses. 
 
@@ -58,7 +58,7 @@ Quelles sont les motivations de ce choix, qui reste personnel et adapté à notr
 
 * Même si nous avons tous en tête ces énormes Class A sur base de bus, on trouve également des RVs de taille "normale" guère plus larges que les européens. Bon, il est vrai qu'ils sont moins bien conçus, aménagés et souvent avec une déco, pour nous, un peu dépassée voire carrément vieillotte. Au pire nous le revendrons avant de nous aventurer plus au sud si nous nous rendons compte qu'il n'est pas adapté.
 
-* Enfin nous compenserons la consommation excessive de ces engins par une rythme plus lent nous permettant d'étaler et lisser le poste "Carburant" de notre budget dans le temps.
+* Enfin nous compenserons la consommation excessive de ces engins par un rythme plus lent nous permettant d'étaler et lisser le poste "Carburant" de notre budget dans le temps.
 
 Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
 
@@ -83,7 +83,7 @@ Nous avons profité de l'occasion pour faire refaire nos permis de conduire et p
 
 Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...  
 
-En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière méxicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "caliente" en perpective.
+En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière méxicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "calientes" en perpective.
 
 ### Visa USA de type B2  :
 
