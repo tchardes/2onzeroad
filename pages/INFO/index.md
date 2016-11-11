@@ -30,9 +30,9 @@ Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 
 * Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
 * Une carte reprenant, dans les grande lignes, notre parcours, nos bivouacs ;
-* Une carte recenssant les lieux que nous aimerions visiter (Pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant »
+* Une carte recensant les lieux que nous aimerions visiter (Pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant »
 Claire, Michael, Soraya, Jimmy et Amélie) N’hésitez pas à l'utiliser ;
-* Une carte matérialisant nos meilleurs bivouacs.
+* Dans le futur, une carte matérialisant nos meilleurs bivouacs.
 
 
 Pour nous faire la main sur la rédaction et sur l'ergonomie du site, nous avons publié les récits de nos derniers voyages, à **Cuba** et **Puerto Rico**.
@@ -52,7 +52,7 @@ Quelles sont les motivations de ce choix, qui reste personnel et adapté à notr
 
 * Depuis peu, les douaniers étasuniens ont remis au goût du jour un vieux texte de loi indiquant que les véhicules de marque étrangères ne pouvaient rester plus de 12 mois sur leur sol à partir de la date de leur première entrée sous peine d'interdiction de sortie du territoire et destruction dudit véhicule ou procédure d'homologation, dont le prix peut-être prohibitif. Ces 12 mois sont pour nous rédhibitoires puisque nous espérons pouvoir laisser notre HomeZeRoad au moins 24 mois en comptant nos retours en métropole tous les 6 mois, si nous obtenons notre visa B2 (Cf, "Visa"). 
 
-* Au niveau motorisation, les RVs sont équipés principalement de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèle de Class C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro et donc moins regardant sur la qualité des carburants assez inégale, même entre les différents états des USA. 
+* Au niveau motorisation, les RVs sont équipés principalement de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro et donc moins regardant sur la qualité des carburants assez inégale, même entre les différents états des Etats-Unis. 
 
 * Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur.
 
