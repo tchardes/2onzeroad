@@ -22,7 +22,7 @@ Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 * Les articles type carnet de route, avec un bandeau et icône de couleur rouge ;
 * Les bilans des états ou pays après y avoir séjourné, avec un bandeau et icône de couleur verte ;  
 
-* Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Gallery ;
+* Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Galerie ;
 * Les vidéos seront stockées et visibles sur YouTube et directement dans les posts ;  
 
 * Des Tags ou rubriques qui permettent de choisir de lire les articles en fonction d'un lieu ou d'une catégorie ;
@@ -69,7 +69,7 @@ Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé n
 
 ### Vaccins :
 
-Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, valable 10 ans, cela nous permettra de descendre le cas échéant vers l'Amérique du sud.
+Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, valable 10 ans, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud.
 
 ### Comptes bancaires :
 
