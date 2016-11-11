@@ -31,7 +31,7 @@ Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 * Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
 * Une carte reprenant, dans les grande lignes, notre parcours, nos bivouacs ;
 * Une carte recensant les lieux que nous aimerions visiter (Pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant »
-Claire, Michael, Soraya, Jimmy et Amélie) N’hésitez pas à l'utiliser ;
+Claire, Michael, Soraya, Jimmy et Amélie) N’hésitez pas à l'utiliser à votre tour comme base de départ ;
 * Dans le futur, une carte matérialisant nos meilleurs bivouacs.
 
 
@@ -42,7 +42,7 @@ Le site a été entièrement imaginé et construit par notre fils Alexandre, gra
 
 ### Notre HomeZeRoad :
 
-Lors de la préparation de notre voyage au long cours, le camping-car c'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car à nous reprocher pour l'instant …. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
+Lors de la préparation de notre voyage au long cours, le camping-car s'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car à nous reprocher pour l'instant …. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
 
 Dès l'instant où la décision a été prise, nous avons connu les mêmes interrogations que tous les voyageurs ayant choisi ce mode de locomotion, lequel choisir ?……. De type 4x4, profilé, intégral, capucine, fourgon, fabriqué sur mesure, de quelle marque, motorisation, avec quelles options …. Bref de quoi alimenter de nombreuses nuits blanches, la lecture de kilomètres de commentaires, arguments, certitudes, sans parler du coût pouvant aller du simple au ….  
 
@@ -54,7 +54,7 @@ Quelles sont les motivations de ce choix, qui reste personnel et adapté à notr
 
 * Au niveau motorisation, les RVs sont équipés principalement de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro et donc moins regardant sur la qualité des carburants assez inégale, même entre les différents états des Etats-Unis. 
 
-* Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur.
+* Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord-américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur.
 
 * Même si nous avons tous en tête ces énormes Class A sur base de bus, on trouve également des RVs de taille "normale" guère plus larges que les européens. Bon, il est vrai qu'ils sont moins bien conçus, aménagés et souvent avec une déco, pour nous, un peu dépassée voire carrément vieillotte. Au pire nous le revendrons avant de nous aventurer plus au sud si nous nous rendons compte qu'il n'est pas adapté.
 
@@ -77,13 +77,13 @@ Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium
 
 ### Permis de conduire :
 
-Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicule Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international, valable 3 ans. 
+Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international, valable 3 ans. 
 
 ### Langues :
 
 Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...  
 
-En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frolerons la frontière méxicaine, nous attaquerons l'espagnol dans la même état d'esprit. Quelques soirées d'études "calienté" en perpective.
+En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière méxicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "caliente" en perpective.
 
 ### Visa USA de type B2  :
 
@@ -100,7 +100,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 
 #### Aide au voyage :
 
-* **iOverlander** - *Base de données des endroits pour des overlanders et des voyageurs. Il inclut camper, hôtels, restaurants, mécanique, l'eau, remplissage de propane et peut d'autres catégories* ;
+* **iOverlander** - *Base de données des endroits pour des overlanders et des voyageurs. Il inclut camper, hôtels, restaurants, mécanique, l'eau, remplissage de propane et plein d'autres catégories* ;
 * **OsmAnd Maps** -  *Application cartographique et de navigation avec accès aux données libres OpenStreetMap (OSM), à la couverture mondiale de haute qualité. Toutes les données cartographiques peuvent être stockées sur la carte mémoire de votre appareil pour une utilisation hors ligne* ;
 * **Maps.Me** - *Application de cartographie permettant de télécharger localement les cartes du monde entier pour une consultation hors ligne. Maps.me dispose d'un mode itinéraire utilisable partout dans le monde* ;
 * **Google Maps** - *On ne présente plus* ;
