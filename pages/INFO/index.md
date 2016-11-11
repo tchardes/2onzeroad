@@ -12,7 +12,7 @@ permalink: /info/
 
 Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des sujets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. Tout a déjà été écrit sur le sujet et par bien meilleur que nous. Nous tenterons simplement de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
 
-Il nous semble aussi que c'est un juste retour des choses tant la lecture de plusieurs dizaines de carnets de route nous ont conforté dans notre idée de larguer les amarres et nous ont permis de nous faire une idée de ce qui allait nous attendre. 
+Il nous semble aussi que c'est un juste retour des choses tant la lecture de plusieurs dizaines de carnets de route nous a conforté dans notre idée de larguer les amarres et nous a permis de nous faire une idée de ce qui allait nous attendre. 
 
 Vous trouverez sur ce site un carnet de route avec des récits rédigés au fil de l'eau sur notre avancée ou bien sur un sujet bien particulier qui aura plus ou au moins attiré notre attention. Nous essayerons de l'agrémenter de photos, vidéos et de cartes pour situer tout ça. N'hésitez pas à commenter ou nous poser des questions si vous souhaitez des précisions.
 
@@ -29,7 +29,11 @@ Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 * Des Tags ou rubriques qui permettent de visionner les photos et vidéos en fonction d'un lieu ou d'une catégorie ;   
 
 * Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
-* Une carte reprenant, dans les grande lignes, notre parcours, nos bivouacs.
+* Une carte reprenant, dans les grande lignes, notre parcours, nos bivouacs ;
+* Une carte recenssant les lieux que nous aimerions visiter (Pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant »
+Claire, Michael, Soraya, Jimmy et Amélie) N’hésitez pas à l'utiliser ;
+* Une carte matérialisant nos meilleurs bivouacs.
+
 
 Pour nous faire la main sur la rédaction et sur l'ergonomie du site, nous avons publié les récits de nos derniers voyages, à **Cuba** et **Puerto Rico**.
 
@@ -61,7 +65,7 @@ Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
 
 ### Santé :
 
-Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la Sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
+Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
 
 ### Vaccins :
 
@@ -73,7 +77,7 @@ Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium
 
 ### Permis de conduire :
 
-Nous avons profité de l'occsion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicule Alamo à Puerto Rico nous à motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international, valable 3 ans. 
+Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicule Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international, valable 3 ans. 
 
 ### Langues :
 
