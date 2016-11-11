@@ -44,15 +44,15 @@ Le site a été entièrement imaginé et construit par notre fils Alexandre, gra
 
 Lors de la préparation de notre voyage au long cours, le camping-car s'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car à nous reprocher pour l'instant …. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
 
-Dès l'instant où la décision a été prise, nous avons connu les mêmes interrogations que tous les voyageurs ayant choisi ce mode de locomotion, lequel choisir ?……. De type 4x4, profilé, intégral, capucine, fourgon, fabriqué sur mesure, de quelle marque, motorisation, avec quelles options …. Bref de quoi alimenter de nombreuses nuits blanches, la lecture de kilomètres de commentaires, arguments, certitudes, sans parler du coût pouvant aller du simple au ….  
+Dès l'instant où la décision a été prise, nous avons connu les mêmes interrogations que tous les voyageurs ayant choisi ce mode de locomotion, lequel choisir ?……. De type 4x4 avec cellule (US = Camper), profilé (US = Class B+), intégral (US = Class A), capucine (US = Class C), fourgon (US = Class B), fabriqué sur mesure, de quelle marque, motorisation, avec quelles options …. Bref de quoi alimenter de nombreuses nuits blanches, la lecture de kilomètres de commentaires, arguments, certitudes, sans parler du coût pouvant aller du simple au ….  
 
-A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motorhome " de Class C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux Etats-Unis ou si nous n'obtenons pas le Visa B2 US et que nous devions l'acquérir au Quebec. 
+A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motorhome " de Class B+ ou C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux Etats-Unis ou si nous n'obtenons pas le Visa B2 US et que nous devions l'acquérir au Quebec. 
 
 Quelles sont les motivations de ce choix ?, qui reste personnel et adapté à notre vision des choses. 
 
 * Depuis peu, les douaniers étasuniens ont remis au goût du jour un vieux texte de loi indiquant que les véhicules de marque étrangères ne pouvaient rester plus de 12 mois sur leur sol à partir de la date de leur première entrée sous peine d'interdiction de sortie du territoire et destruction dudit véhicule ou procédure d'homologation, dont le prix peut-être prohibitif. Ces 12 mois sont pour nous rédhibitoires puisque nous espérons pouvoir laisser notre HomeZeRoad au moins 24 mois en comptant nos retours en métropole tous les 6 mois, si nous obtenons notre visa B2 (Cf, "Visa"). 
 
-* Au niveau motorisation, les RVs sont équipés principalement de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro et donc moins regardantes sur la qualité des carburants assez inégale, même entre les différents états des Etats-Unis. 
+* Au niveau motorisation, les RVs sont équipés principalement de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class B+ ou C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro et donc moins regardantes sur la qualité des carburants assez inégale, même entre les différents états des Etats-Unis. 
 
 * Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord-américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur.
 
@@ -120,6 +120,14 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **Digital DoF** - *Permet de calculer l'hyperfocale* ;
 * **TL Calc** - *Une calculatrice time-lapse rapide et simple avec trois modes. Le mode par défaut vous permet de déterminer l'intervalle d'obturation (temps entre plans) qui est nécessaire pour atteindre une longueur de clip vidéo souhaitée pour une durée d'enregistrement donné* ; 
 * **Capture** - *Logiciel GoPro*.
+
+### Sites utiles :
+
+* [Forum Amérique du Nord et Amérique Centrale](https://groups.google.com/forum/#!forum/le-lien-amnordcentrale) - lelien-amnordcentrale, l'Amérique du Nord et Centrale en camping-car ;
+* [Forum Amérique du Sud](https://fr.groups.yahoo.com/neo/groups/lelien-amsud/) - lelien-amsud, l'Amérique du Sud en camping-car ;
+* [roadtrippin](http://www.roadtrippin.fr/) - Guide - Forum - Préparation voyage aux USA ;
+* [ouestusa](http://www.ouestusa.fr/) - Bienvenue aux passionnés de l'Ouest Américain ;
+* [boondockerswelcome](https://www.boondockerswelcome.com/) - Overnight boondocking on fellow RVers' property ;
 
 
 ### Sites de voyageurs :
