@@ -48,7 +48,7 @@ Dès l'instant où la décision a été prise, nous avons connu les mêmes inter
 
 A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motorhome " de Class C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux Etats-Unis ou si nous n'obtenons pas le Visa B2 US et que nous devions l'acquérir au Quebec. 
 
-Quelles sont les motivations de ce choix, qui reste personnel et adapté à notre vision des choses. 
+Quelles sont les motivations de ce choix ?, qui reste personnel et adapté à notre vision des choses. 
 
 * Depuis peu, les douaniers étasuniens ont remis au goût du jour un vieux texte de loi indiquant que les véhicules de marque étrangères ne pouvaient rester plus de 12 mois sur leur sol à partir de la date de leur première entrée sous peine d'interdiction de sortie du territoire et destruction dudit véhicule ou procédure d'homologation, dont le prix peut-être prohibitif. Ces 12 mois sont pour nous rédhibitoires puisque nous espérons pouvoir laisser notre HomeZeRoad au moins 24 mois en comptant nos retours en métropole tous les 6 mois, si nous obtenons notre visa B2 (Cf, "Visa"). 
 
