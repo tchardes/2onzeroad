@@ -25,12 +25,12 @@ Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 * Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Galerie ;
 * Les vidéos seront stockées et visibles sur YouTube et directement dans les posts ;  
 
-* Des Tags ou rubriques qui permettent de choisir de lire les articles en fonction d'un lieu ou d'une catégorie ;
-* Des Tags ou rubriques qui permettent de visionner les photos et vidéos en fonction d'un lieu ou d'une catégorie ;   
+* Des tags ou rubriques qui permettent de choisir de lire les articles en fonction d'un lieu ou d'une catégorie ;
+* Des tags ou rubriques qui permettent de visionner les photos et vidéos en fonction d'un lieu ou d'une catégorie ;   
 
 * Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
 * Une carte reprenant, dans les grande lignes, notre parcours, nos bivouacs ;
-* Une carte recensant les lieux que nous aimerions visiter (Pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant »
+* Une carte recensant les lieux que nous aimerions visiter (pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant »
 Claire, Michael, Soraya, Jimmy et Amélie). N’hésitez pas à l'utiliser à votre tour comme base de départ ;
 * Dans le futur, une carte matérialisant nos meilleurs bivouacs.
 
