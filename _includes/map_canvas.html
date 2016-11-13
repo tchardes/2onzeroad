@@ -17,6 +17,12 @@
     {% endif %}
 </div>
 
+{% if include.height %}
+    {% assign mapHeight = include.height %}
+ {% else %}  
+    {% assign mapHeight = 400 %}
+ {% endif %}
+
 {% if displayMap %}
-    <div id="{{include.id}}" style="width:100%;height:400px;background-color:#FEEEEE"></div>
+    <div id="{{include.id}}" style="width:100%;height:{{mapHeight}}px;background-color:#FEEEEE"></div>
 {% endif %}
