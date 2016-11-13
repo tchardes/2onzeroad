@@ -125,10 +125,13 @@ function initMap() {
 
       });
       map.data.loadGeoJson(itinary);
-      map.data.setStyle({strokeColor: 'blue', strokeWeight:1});
+      map.data.setStyle({strokeColor: '#2D7CA6', strokeWeight:3});
     });
 
-    var markerCluster = new MarkerClusterer(map, markers, {imagePath: '/assets/owner/m'});
+    if(markers.lenght > 1)
+    {
+      var markerCluster = new MarkerClusterer(map, markers, {imagePath: '/assets/owner/m'});
+    }
 
   });
 }
@@ -168,7 +171,6 @@ function getMap(canvas, mapId, googleStyle) {
 
 
   if(googleStyle === "false") {
-      console.log("googleStyle");
 
   // set some custom styles
   map.set('styles', 
