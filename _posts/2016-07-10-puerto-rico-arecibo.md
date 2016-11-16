@@ -12,8 +12,8 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-arecibo.jpg
 tags: [Architecture, Technologie]
 flickr-tag: "Arecibo"
 
-country: puerto-rico
-city: arecibo
+country: Puerto-Rico
+city: Arecibo
 category: "blog"
 
 

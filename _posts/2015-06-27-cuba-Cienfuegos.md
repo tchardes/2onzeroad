@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-cienfuegos.jpg
 tags: [Ville, Histoire]
 flickr-tag: "cienfuegos"
 
-country: cuba
+country: Cuba
 city: Cienfuegos
 category: "blog"
 

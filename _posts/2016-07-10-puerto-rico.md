@@ -8,7 +8,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
 tags: [Caraïbes, Roadtrip]
-country: puerto-rico
+country: Puerto-Rico
 category: "roadmap"
 flickr-tag: "Puerto Rico"
 

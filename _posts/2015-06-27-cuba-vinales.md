@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-vinales.jpg
 tags: [Ville]
 flickr-tag: "Viñales"
 
-country: cuba
+country: Cuba
 city: Viñales
 category: "blog"
 

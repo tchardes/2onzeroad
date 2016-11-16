@@ -12,8 +12,8 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-ponce.jpg
 tags: [Ville]
 flickr-tag: "Ponce"
 
-country: puerto-rico
-city: ponce
+country: Puerto-Rico
+city: Ponce
 category: "blog"
 
 
