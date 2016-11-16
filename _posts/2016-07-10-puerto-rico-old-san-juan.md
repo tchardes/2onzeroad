@@ -12,8 +12,8 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-osj.jpg
 tags: [Capitale, Ville]
 flickr-tag: "Old San Juan"
 
-country: puerto-rico
-city: old-san-juan
+country: Puerto-Rico
+city: Old San Juan
 category: "blog"
 
 
