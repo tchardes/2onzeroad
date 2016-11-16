@@ -1,12 +1,11 @@
 
 function initMap() {
 
-  var markers = [];
-
   $(document).ready ( function() {
 
     //loop through all the mapping elements
     $(".mapping").each(function() {
+      var markers = [];
       var itinary = $(this).attr('itinary');
       var mapId = $(this).attr('mapId');
       var googleStyle = $(this).attr('googleStyle');
@@ -126,12 +125,13 @@ function initMap() {
       });
       map.data.loadGeoJson(itinary);
       map.data.setStyle({strokeColor: '#2D7CA6', strokeWeight:3});
-    });
 
-    if(markers.lenght > 1)
-    {
-      var markerCluster = new MarkerClusterer(map, markers, {imagePath: '/assets/owner/m'});
-    }
+      if(markers.length > 2)
+      {
+        var markerCluster = new MarkerClusterer(map, markers, {imagePath: '/assets/owner/m'});
+      }
+
+    });
 
   });
 }
