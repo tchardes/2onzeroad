@@ -10,7 +10,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
 tags: [Caraïbes, Roadtrip]
 country: Puerto-Rico
 category: "roadmap"
-flickr-tag: "Puerto Rico"
+flickr-tag: "Puerto_Rico"
 
 
 location:
