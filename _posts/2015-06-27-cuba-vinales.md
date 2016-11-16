@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-vinales.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-vinales.jpg
 tags: [Ville]
-flickr-tag: "Viñales"
+flickr-tag: "Vinales"
 
 country: Cuba
 city: Viñales
