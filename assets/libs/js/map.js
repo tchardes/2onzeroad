@@ -128,10 +128,10 @@ function initMap() {
       map.data.setStyle({strokeColor: '#2D7CA6', strokeWeight:3});
     });
 
-    if(markers.length > 1)
-    {
+    //if(markers.length > 1)
+    //{
       var markerCluster = new MarkerClusterer(map, markers, {imagePath: '/assets/owner/m'});
-    }
+    //}
 
   });
 }
