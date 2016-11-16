@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-santa-clara.jpg
 tags: [Ville, Histoire]
 flickr-tag: "Santa"
 
-country: cuba
+country: Cuba
 city: Santa-Clara
 category: "blog"
 
