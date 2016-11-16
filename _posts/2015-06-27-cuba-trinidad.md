@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-trinidad.jpg
 tags: [Ville]
 flickr-tag: "Trinidad"
 
-country: cuba
+country: Cuba
 city: Trinidad
 category: "blog"
 

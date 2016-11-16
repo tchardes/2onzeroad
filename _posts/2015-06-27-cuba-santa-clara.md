@@ -9,9 +9,9 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-santa-clara.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-santa-clara.jpg
 tags: [Ville, Histoire]
-flickr-tag: "Santa Clara"
+flickr-tag: "Santa_Clara"
 
-country: cuba
+country: Cuba
 city: Santa-Clara
 category: "blog"
 
