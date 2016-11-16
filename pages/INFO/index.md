@@ -14,12 +14,12 @@ Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous
 
 Il nous semble aussi que c'est un juste retour des choses tant la lecture de plusieurs dizaines de carnets de route nous a conforté dans notre idée de larguer les amarres et nous a permis de nous faire une idée de ce qui allait nous attendre. 
 
-Vous trouverez sur ce site un carnet de route avec des récits rédigés au fil de l'eau sur notre avancée ou bien sur un sujet bien particulier qui aura plus ou au moins attiré notre attention. Nous essayerons de l'agrémenter de photos, vidéos et de cartes pour situer tout ça. N'hésitez pas à commenter ou nous poser des questions si vous souhaitez des précisions.
+Vous trouverez sur ce site un carnet de routes avec des récits rédigés au fil de l'eau sur notre avancée ou bien sur un sujet bien particulier qui aura plus ou au moins attiré notre attention. Nous essayerons de l'agrémenter de photos, vidéos et de cartes pour situer tout ça. N'hésitez pas à commenter ou nous poser des questions si vous souhaitez des précisions.
 
 Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 
 * Les articles type blog, avec un bandeau et icône de couleur bleu ;
-* Les articles type carnet de route, avec un bandeau et icône de couleur rouge ;
+* Les articles type carnet de routes, avec un bandeau et icône de couleur rouge ;
 * Les bilans des états ou pays après y avoir séjourné, avec un bandeau et icône de couleur verte ;  
 
 * Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Galerie ;
