@@ -73,7 +73,7 @@ Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" que
 
 ### Comptes bancaires :
 
-Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium et avons ouvert un compte auprès de la banque N26 qui fournit une Mastercard. Cette carte permet des achats et retraits à l'étranger sans frais.
+Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium et avons ouvert un compte auprès de la banque N26 qui fournit une Mastercard. Cette carte permet des achats et retraits à l'étranger sans frais. Depuis, la mastercard n'est plus gratuite mais plus abordable que les banques classiques.
 
 ### Permis de conduire :
 
@@ -91,7 +91,7 @@ Plusieurs types de visa sont délivrés par les Etats-Unis en fonction du type d
 
 Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des Etats-Unis à Paris aux personnes désirant se rendre au USA pour des raisons touristiques ou médicale. En général, le demandeur se voit délivrer un visa pour une durée de un, trois ou dix ans l’autorisant à séjourner aux Etats-Unis six mois par an. Il est possible d’obtenir une extension allant jusqu’à six mois additionnels. Toutefois, ce visa n'est pas un droit. Au final c'est l'agent de l'immigration qui vous accueillera à votre arrivée sur le sol américain qui décidera seul et sans appel possible, le temps qu'il vous accordera.
 
-La procédure est la suivante :
+#### La procédure est la suivante :
 
 * Se connecter au site Internet de l'ambassade US et se rendre sur la page des visas non immigrant.
 * Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Si vous n'y arrivez pas il faudra l’amener lors de l'entretien.
@@ -102,29 +102,28 @@ La procédure est la suivante :
 * Attendre un mail confirmant que l'argent a bien été reçu (entre 1 et 3 jours)
 * Se reconnecter à votre compte et choisir sur un calendrier la date et heure de votre rendez-vous à l'ambassade des Etats-Unis à Paris.
 
-Déroulement de l'entretien.
+#### Déroulement de l'entretien.
 
 Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement et de manière illégale aux Etats-Unis. Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays et que vous avez tout intérêt à y revenir.
 
-Le jour de l'entretien, se munir d'un dossier complet comprenant :
+#### Composition du dossier complet :
 
 * Son livret de famille ;
 * Un Relevé d'Identité Bancaire ;
 * Un contrat de travail ;
 * Les trois dernières fiches de paies ;
-* Une attestation de retraite (si vous êtes à la retraite).
+* Une attestation de retraite (si vous êtes à la retraite).   
+
+* Son passeport valide ;
+* Une enveloppe Chronopost sur le dos de laquelle est inscrite votre adresse ;
+* Une impression de la page confirmant que votre formulaire a bien été envoyé ;
+* Un justificatif du paiement des frais de la demande de visa.
 
 Et éventuellement :
 
 * Ses titres de propriétés ;
 * Ses attestations de paiement de loyer.
 
-Mais aussi:
-
-- Son passeport valide ;
-- Une enveloppe Chronopost sur le dos de laquelle est inscrite votre adresse ;
-- Une impression de la page confirmant que votre formulaire a bien été envoyé ;
-- Un justificatif du paiement des frais de la demande de visa.
 
 Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sezame. La décision est sans appel.
 
