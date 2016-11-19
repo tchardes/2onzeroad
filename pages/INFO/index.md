@@ -97,7 +97,7 @@ La procédure est la suivante :
 * Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Si vous n'y arrivez pas il faudra l’amener lors de l'entretien.
 * Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard.
 * Créer un compte personnel avec login et mot de passe.
-* Se connecter à son compte, indiquer l'adresse de livraison des passeports abondés du visa.
+* Se connecter à son compte, indiquer l'adresse de livraison des passeports abondés ou non du visa.
 * Effectuer un virement en ligne (144 €/Pers. en 2016), vous avez 8 jours pour payer sous peine de devoir tout recommencer.
 * Attendre un mail confirmant que l'argent a bien été reçu (entre 1 et 3 jours)
 * Se reconnecter à votre compte et choisir sur un calendrier la date et heure de votre rendez-vous à l'ambassade des Etats-Unis à Paris.
@@ -106,22 +106,22 @@ Déroulement de l'entretien.
 
 Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement et de manière illégale aux Etats-Unis. Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays et que vous avez tout intérêt à y revenir.
 
-Le jour J, vous devrez vous munir d'un dossier complet comprenant :
+Le jour de l'entretien, se munir d'un dossier complet comprenant :
 
-* Votre livret de famille ;
-* Votre Relevé d'Identité Bancaire ;
-* Votre contrat de travail ;
-* Vos trois dernières fiches de paies ;
-* Votre attestation de retraite (si vous êtes à la retraite).
+* Son livret de famille ;
+* Un Relevé d'Identité Bancaire ;
+* Un contrat de travail ;
+* Les trois dernières fiches de paies ;
+* Une attestation de retraite (si vous êtes à la retraite).
 
 Et éventuellement :
 
-* Vos titres de propriétés ;
-* Vos attestations de paiement de loyer.
+* Ses titres de propriétés ;
+* Ses attestations de paiement de loyer.
 
 Mais aussi:
 
-- Votre passeport valide ;
+- Son passeport valide ;
 - Une enveloppe Chronopost sur le dos de laquelle est inscrite votre adresse ;
 - Une impression de la page confirmant que votre formulaire a bien été envoyé ;
 - Un justificatif du paiement des frais de la demande de visa.
