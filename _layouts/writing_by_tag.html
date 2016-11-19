@@ -20,7 +20,7 @@ title: tag archive
             {% endif %}
 			
             <a href="{{ post.url }}" class="list-group-item">
-                <h4 class="list-group-item-heading">{{ post.title }}</h4> - <h5 class="list-group-item-heading">{{ post.preview }}</h5>
+                <h4 class="list-group-item-heading">{{ post.title }} - <span style="font-size:15px">{{ post.preview }}<span></h4>
             </a>
 
             {% if forloop.last %}
