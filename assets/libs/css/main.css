@@ -55,7 +55,6 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: 'Lato', sans-serif !important;
 }
 .navbar-custom .navbar-brand {
   font-weight: 300 !important;
@@ -193,7 +192,6 @@ hr.small {
   font-size: 35px;
   line-height: 1.1;
   display: block;
-  font-family: 'Lato', sans-serif !important;
   font-weight: 300 !important;
   margin: 10px 0 0;
   text-shadow: 0px 0px 35px rgba(0,0,0,0.6);
@@ -214,14 +212,12 @@ hr.small {
   display: block;
 }
 .intro-header .post-heading .subheading {
-  font-family: 'Lato', sans-serif !important;
   font-size: 24px;
   margin: 10px 0 30px;
   font-weight: 300 !important;
   text-shadow: 0px 0px 35px rgba(0,0,0,0.6);
 }
 .intro-header .post-heading .meta {
-  font-family: 'Lato', sans-serif !important;
   font-style: italic;
   font-weight: 300 !important;
   font-size: 20px;
@@ -315,7 +311,6 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
 }
 .btn {
-  font-family: 'Lato', sans-serif !important;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -338,7 +333,6 @@ form .row:first-child .floating-label-form-group {
 }
 .pager li > a,
 .pager li > span {
-  font-family: 'Lato', sans-serif !important;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 300;
