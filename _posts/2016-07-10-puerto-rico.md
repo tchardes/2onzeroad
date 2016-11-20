@@ -7,7 +7,7 @@ date:       2016-07-10 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
-tags: [Caraïbe, Carnet de Route]
+tags: [Caraïbes, Carnet de Route]
 country: Puerto-Rico
 category: "roadmap"
 flickr-tag: "Puerto_Rico"

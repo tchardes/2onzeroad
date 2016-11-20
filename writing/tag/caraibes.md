@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_tag"
-tag: "Caraïbe"
+tag: "Caraïbes"
 permalink: "/writing/tag/caraibe/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
