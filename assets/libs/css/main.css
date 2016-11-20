@@ -1,11 +1,11 @@
 body {
-  font-family: 'LatoLatinWebLight' !important;
+  font-family: 'LatoLatinWeb' !important;
   font-size: 17px !important;
   color: #333 !important;
   background-color: #FFF !important;
   background-attachment: fixed;
   -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale;
 }
 p {
   font-size:17px;
