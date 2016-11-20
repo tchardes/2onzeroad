@@ -3,8 +3,9 @@ body {
   font-size: 17px !important;
   color: #555 !important;
   background-color: #FFF !important;
-  /*-webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;*/
+  font-weight: 300 !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 p {
   font-size:17px;
