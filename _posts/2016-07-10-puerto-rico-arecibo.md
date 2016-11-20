@@ -9,7 +9,7 @@ date:       2016-07-04 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-arecibo.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-arecibo.jpg
-tags: [Architecture, Technologie]
+tags: [Architecture, Technologie, Caraïbe]
 flickr-tag: "Arecibo"
 
 country: Puerto-Rico
