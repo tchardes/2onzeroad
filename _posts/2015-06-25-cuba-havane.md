@@ -8,7 +8,7 @@ date:       2015-06-25 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-havane.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-havane.jpg
-tags: [Caraïbes, Capitale]
+tags: [Capitale]
 flickr-tag: "Havane"
 
 country: Cuba
