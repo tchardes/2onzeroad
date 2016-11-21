@@ -121,7 +121,7 @@ Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pa
 
 Et éventuellement :
 
-* Ses titres de propriétés ;
+* Ses titres de propriété ;
 * Ses attestations de paiement de loyer.
 
 
