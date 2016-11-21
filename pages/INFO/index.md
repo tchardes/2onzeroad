@@ -98,7 +98,7 @@ Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des E
 * Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard.
 * Créer un compte personnel avec login et mot de passe.
 * Se connecter à son compte, indiquer l'adresse de livraison des passeports qui seront enrichis ou pas du visa.
-* Effectuer un virement en ligne (144 €/Pers. en 2016), vous avez 8 jours pour payer sous peine de devoir tout recommencer.
+* Effectuer un virement en ligne (144€ - 160$/Pers. en 2016), vous avez 8 jours pour payer sous peine de devoir tout recommencer.
 * Attendre un mail confirmant que l'argent a bien été reçu (entre 1 et 3 jours)
 * Se reconnecter à votre compte et choisir sur un calendrier la date et heure de votre rendez-vous à l'ambassade des Etats-Unis à Paris.
 
