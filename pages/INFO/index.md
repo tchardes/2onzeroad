@@ -111,7 +111,7 @@ Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pa
 * Son livret de famille ;
 * Un Relevé d'Identité Bancaire ;
 * Un contrat de travail ;
-* Les trois dernières fiches de paies ;
+* Les trois dernières fiches de paie ;
 * Une attestation de retraite (si vous êtes à la retraite).   
 
 * Son passeport valide ;
@@ -125,7 +125,7 @@ Et éventuellement :
 * Ses attestations de paiement de loyer.
 
 
-Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sezame. La décision est sans appel.
+Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel.
 
 
 ### Divers :
