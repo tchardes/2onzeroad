@@ -112,8 +112,7 @@ Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pa
 * Un Relevé d'Identité Bancaire ;
 * Un contrat de travail ;
 * Les trois dernières fiches de paie ;
-* Une attestation de retraite (si vous êtes à la retraite).   
-
+* Une attestation de retraite (si vous êtes à la retraite) ;
 * Son passeport valide ;
 * Une enveloppe Chronopost sur le dos de laquelle est inscrite votre adresse ;
 * Une impression de la page confirmant que votre formulaire a bien été envoyé ;
