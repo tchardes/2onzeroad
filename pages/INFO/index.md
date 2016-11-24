@@ -73,7 +73,7 @@ Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé n
 
 ### Vaccins :
 
-Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvemable tous les 10 ans.
+Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvelable tous les 10 ans.
 
 ### Comptes bancaires :
 
@@ -177,7 +177,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * [Ouestusa](http://www.ouestusa.fr/) - Bienvenue aux passionnés de l'Ouest Américain ;
 * [Boondockerswelcome](https://www.boondockerswelcome.com/) - Overnight boondocking on fellow RVers' property ;
 * [Forum Tourdumondiste](http://www.tourdumondiste.com/) - Le blog de voyage de François : une mine d'info pour préparer votre tour du monde ;
-* [Flyonward](https://flyonward.com/fr/] - Location de billet retour.
+* [Flyonward](https://flyonward.com/fr/) - Location de billet retour.
 
 
 ### Sites de voyageurs :
