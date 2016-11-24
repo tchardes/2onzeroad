@@ -132,6 +132,11 @@ Et éventuellement :
 Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel.
 
 
+### Iscription sur le site ARIANE
+
+Il s'agit d'un service du Ministère des Affaires Étrangères? l'inscription est entièrement gratuite. Il suffit d'indiqué les lieux dans lesquels on compte se rendre, afin de recevoir des recommandations de sécurité par SMS ou mail si la situation dans le pays se dégrade ou en cas de crise. Une personne que vous aurez désignée comme contact sera également prévenue en cas de besoin.   
+
+
 ### Divers :
 
 Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.  
@@ -171,6 +176,8 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * [Roadtrippin](http://www.roadtrippin.fr/) - Guide - Forum - Préparation voyage aux USA ;
 * [Ouestusa](http://www.ouestusa.fr/) - Bienvenue aux passionnés de l'Ouest Américain ;
 * [Boondockerswelcome](https://www.boondockerswelcome.com/) - Overnight boondocking on fellow RVers' property ;
+* [Forum Tourdumondiste](http://www.tourdumondiste.com/) - Le blog de voyage de François : une mine d'info pour préparer votre tour du monde ;
+* [Flyonward](https://flyonward.com/fr/] - Location de billet retour.
 
 
 ### Sites de voyageurs :
