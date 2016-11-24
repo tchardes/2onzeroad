@@ -98,7 +98,7 @@ Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des E
 
 #### Procédure pas à pas :
 
-* Se connecter au site Internet de l'ambassade US **[ici](https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/)** et se rendre sur la page des visas non immigrant.
+* Se connecter au site Internet de l'ambassade US et se rendre sur la page des visas non immigrant **[ici](https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/)**.
 * Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Si vous n'y arrivez pas il faudra l’amener lors de l'entretien.
 * Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard.
 * Créer un compte personnel avec login et mot de passe.
