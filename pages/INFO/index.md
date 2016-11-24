@@ -132,9 +132,9 @@ Et éventuellement :
 Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel.
 
 
-### Iscription sur le site ARIANE
+### Iscription sur le site Ariane :
 
-Il s'agit d'un service du Ministère des Affaires Étrangères? l'inscription est entièrement gratuite. Il suffit d'indiqué les lieux dans lesquels on compte se rendre, afin de recevoir des recommandations de sécurité par SMS ou mail si la situation dans le pays se dégrade ou en cas de crise. Une personne que vous aurez désignée comme contact sera également prévenue en cas de besoin.   
+Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription est entièrement gratuite. Il suffit d'indiqué les lieux dans lesquels on compte se rendre, afin de recevoir des recommandations de sécurité par SMS ou mail si la situation dans le pays se dégrade ou en cas de crise. Une personne que vous aurez désignée comme contact sera également prévenue en cas de besoin. Pour plus de renseignements cliquez **[Ici](http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/evenements-et-actualites-du-ministere/article/vous-partez-en-voyage-inscrivez-vous-sur-ariane)**.
 
 
 ### Divers :
@@ -178,6 +178,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * [Boondockerswelcome](https://www.boondockerswelcome.com/) - Overnight boondocking on fellow RVers' property ;
 * [Forum Tourdumondiste](http://www.tourdumondiste.com/) - Le blog de voyage de François : une mine d'info pour préparer votre tour du monde ;
 * [Flyonward](https://flyonward.com/fr/) - Location de billet retour.
+
 
 
 ### Sites de voyageurs :
