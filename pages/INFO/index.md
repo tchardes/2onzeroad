@@ -25,8 +25,8 @@ Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 * Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Galerie ;
 * Les vidéos seront stockées et visibles sur YouTube et directement dans les posts ;  
 
-* Des tags ou rubriques qui permettent de choisir de lire les articles en fonction d'un lieu ou d'une catégorie ;
-* Des tags ou rubriques qui permettent de visionner les photos et vidéos en fonction d'un lieu ou d'une catégorie ;   
+* Des tags ou rubriques qui permettent de choisir de lire les articles en fonction d'un lieu, d'une zone ou d'une catégorie ;
+* Des tags ou rubriques qui permettent de visionner les photos et vidéos en fonction d'un lieu, d'une zone ou d'une catégorie ;   
 
 * Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
 * Une carte reprenant, dans les grandes lignes, notre parcours ;
@@ -82,7 +82,7 @@ Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium
 
 ### Permis de conduire :
 
-Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international, valable 3 ans. 
+Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international chacun, valable 3 ans. 
 
 ### Langues :
 
