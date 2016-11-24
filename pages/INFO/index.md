@@ -73,7 +73,7 @@ Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé n
 
 ### Vaccins :
 
-Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, valable 10 ans, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud.
+Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvemable tous les 10 ans.
 
 ### Comptes bancaires :
 
