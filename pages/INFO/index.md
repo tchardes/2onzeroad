@@ -73,7 +73,8 @@ Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" que
 
 ### Comptes bancaires :
 
-Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium et avons ouvert un compte auprès de la banque N26 qui fournit une Mastercard. Cette carte permet des achats et retraits à l'étranger sans frais. Depuis, la mastercard n'est plus gratuite mais plus abordable que les banques classiques.
+Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium et avons ouvert un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%. Depuis, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez  [ici](https://n26.com/fr)
+
 
 ### Permis de conduire :
 
