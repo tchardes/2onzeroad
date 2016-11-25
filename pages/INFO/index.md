@@ -18,9 +18,9 @@ Vous trouverez sur ce site un carnet de route avec des récits rédigés au fil 
 
 Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 
-* Les articles type blog, avec un bandeau et icône de couleur bleu ;
-* Les articles type carnet de route, avec un bandeau et icône de couleur rouge ;
-* Les bilans des états ou pays après y avoir séjourné, avec un bandeau et icône de couleur verte ;  
+* Les articles de type blog, reconnaissables à un bandeau et icône de couleur bleu ;
+* Les articles de type carnet de route, reconnaissables à un bandeau et icône de couleur rouge ;
+* Les bilans des états ou pays après y avoir séjourné, reconnaissables à un bandeau et icône de couleur verte ;  
 
 * Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Galerie ;
 * Les vidéos seront stockées et visibles sur YouTube et directement dans les posts ;  
@@ -77,7 +77,7 @@ Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" que
 
 ### Comptes bancaires :
 
-Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium et avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7% hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez  **[ici](https://n26.com/fr)**.
+Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium et avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7% hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.
 
 
 ### Permis de conduire :
@@ -134,7 +134,7 @@ Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports av
 
 ### Inscription sur le site Ariane :
 
-Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription est entièrement gratuite. Il suffit d'indiqué les lieux dans lesquels on compte se rendre, afin de recevoir des recommandations de sécurité par SMS ou mail si la situation dans le pays se dégrade ou en cas de crise. Une personne que vous aurez désignée comme contact sera également prévenue en cas de besoin. Pour plus de renseignements cliquez **[ici](http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/evenements-et-actualites-du-ministere/article/vous-partez-en-voyage-inscrivez-vous-sur-ariane)**.
+Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription est entièrement gratuite. Il suffit d'indiquer les lieux dans lesquels on compte se rendre, afin de recevoir des recommandations de sécurité par SMS ou mail si la situation dans le pays se dégrade ou en cas de crise. Une personne que vous aurez désignée comme contact sera également prévenue en cas de besoin. Pour plus de renseignements cliquez **[ici](http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/evenements-et-actualites-du-ministere/article/vous-partez-en-voyage-inscrivez-vous-sur-ariane)**.
 
 
 ### Divers :
