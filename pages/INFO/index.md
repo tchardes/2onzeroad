@@ -10,7 +10,7 @@ permalink: /info/
 
 ### Pourquoi ce site Web :
 
-Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des sujets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. Tout a déjà été écrit sur le sujet et par bien meilleur que nous. Nous tenterons simplement de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
+Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des sujets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. Tout a déjà été écrit sur le sujet et par bien meilleur que nous. Nous tenterons simplement, modestement, de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
 
 Il nous semble aussi que c'est un juste retour des choses tant la lecture de plusieurs dizaines de carnets de route nous a conforté dans notre idée de larguer les amarres et nous a permis de nous faire une idée de ce qui allait nous attendre. 
 
@@ -64,8 +64,7 @@ Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
 
 ### Impôts :
 
-Là c'est un grand moment. 
-
+Là, c'est un grand moment. Pour vous la faire courte, impossible d'être un SDF en France, lieu de nos intérêts économique car nous percevons des revenus. Après plusieurs courriels et entretiens avec différents agents bien embarrassés par notre histoire, après interrogation des services des non résidents à Paris, rien à faire, nous devons donner comme adresse celle de notre fils qui deviendra de fait notre mandataire fiscal. Les services fiscaux vous demandent donc clairement de mentir en donnant une adresse fiscale qui n'en est pas une, tout simplement pour désigner le centre des impôts qui aura votre dossier en gestion.
 
 ### Santé :
 
@@ -140,6 +139,8 @@ Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription es
 ### Divers :
 
 Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.  
+
+Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des antilles pour le climat moins clément du centre de la France.
 
 
 ### Applications :
