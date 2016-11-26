@@ -76,8 +76,22 @@ Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" que
 
 ### Comptes bancaires :
 
-Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium et avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7% hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.
+Il est utile de posséder deux cartes bancaires, une Visa et une Mastercard afin de pallier les problèmes de perte, de vol, de blocage ou refus de certains distributeurs qui n'acceptent que l'une ou l'autre.
 
+#### Banque traditionnelle :
+
+Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium. Il est pratique d'utiliser cette carte afin de bénéficier de l'assurance qui s'y rattache mais les frais bancaires sont trops importants pour être utilisée lors d'une voyage au long cours. 
+
+
+#### Banque en ligne :
+
+Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.
+
+#### Achats par internet avec validation
+
+Certains achats par internet demandent une authentification forte via un code reçu par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual sim afin de pouvoir l'équipé, le moment venu, simultanément d'une SIM de mon opérateur français Free et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à Androïd non plus. 
+
+Du coup, nous avons obtenu de notre banque, non sans mal d'ailleur, de remplacer l'envoi du code par SMS, par Mail. On part du principe que si nous effectuons un achat par Internet c'est que nous sommes connectés et donc en capacité de recvoir le code par mail. 
 
 ### Permis de conduire :
 
@@ -134,6 +148,26 @@ Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports av
 ### Inscription sur le site Ariane :
 
 Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription est entièrement gratuite. Il suffit d'indiquer les lieux dans lesquels on compte se rendre, afin de recevoir des recommandations de sécurité par SMS ou mail si la situation dans le pays se dégrade ou en cas de crise. Une personne que vous aurez désignée comme contact sera également prévenue en cas de besoin. Pour plus de renseignements cliquez **[ici](http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/evenements-et-actualites-du-ministere/article/vous-partez-en-voyage-inscrivez-vous-sur-ariane)**.
+
+
+### Balises de détresse :
+
+Il existe plusieurs types de balise de détresse qui proposent différentes options. Pour le début de notre voyage nous n'en serons pas équipé et verrons plus tard en traverssant des zones moins sures ou moins bien couverte au niveau du réseau. Les plus connues sont : 
+
+
+#### Balise de localisation SPOT GEN3 :
+
+La balise SPOT permet de bénéficier d'un service de suivi de progression amélioré.
+Suivi personnalisé : vous pourrez modifier la périodicité des points de géolocalisation (toutes les 2min 30s, ou 5 min, 10min, 30 ou 60 min). Voir abonnement en vous rendant à cette adresse : FindMeSPOT.com
+Suivi en fonction de vos mouvements : SPOT envoi des points de géolocalisation uniquement lorsque vous bougez.
+Suivi ininterrompu : contrairement à l'ancienne génération, vous n'avez plus besoin de réinitialiser la fonction "tracking" toutes les 24h.
+
+#### Balise de localisation DELORME INREACH EXPLORER :
+
+La dernière génération des balises de géolocalisation "satellite" dédiées aux personnes.
+Plusieurs fonctions dont l'envoi et la réception de message texte, le secours et le suivi.
+Posséder une balise DeLorme, c'est aussi accorder à vos amis et à votre famille une certaine tranquillité d'esprit lorsque vous partez.
+Réseau satellitaire Iridium : couverture mondiale.
 
 
 ### Divers :
