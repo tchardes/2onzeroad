@@ -137,15 +137,15 @@ Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" que
 
 Il est utile de posséder deux cartes bancaires, une Visa et une Mastercard afin de pallier les problèmes de perte, de vol, de blocage ou refus de certains distributeurs qui n'acceptent que l'une ou l'autre.  
 
-#### Banque traditionnelle :
+### Banque traditionnelle :
 
 Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium. Il est pratique d'utiliser cette carte afin de bénéficier de l'assurance qui s'y rattache mais les frais bancaires sont trops importants pour être utilisée lors d'une voyage au long cours.  
 
-#### Banque en ligne :
+### Banque en ligne :
 
 Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.  
 
-#### Achats par internet avec validation
+### Achats par internet avec validation
 
 Certains achats par internet demandent une authentification forte via un code reçu par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual sim afin de pouvoir l'équipé, le moment venu, simultanément d'une SIM de mon opérateur français Free et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à Androïd non plus.  
 
