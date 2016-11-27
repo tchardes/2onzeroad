@@ -143,17 +143,23 @@ Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium
 
 Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.  
 
-### Achats par internet avec validation
+### Achats par internet avec validation :
 
-Certains achats par internet demandent une authentification forte via un code reçu par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual sim afin de pouvoir l'équipé, le moment venu, simultanément d'une SIM de mon opérateur français Free et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à Androïd non plus.  
+Certains achats par internet demandent une authentification forte via un code envoyé par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual SIM afin de pouvoir l'équipé, le moment venu, simultanément d'une SIM de mon opérateur français, Free, et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à l'environement d'Androïd non plus.  
 
 Du coup, nous avons obtenu de notre banque, non sans mal d'ailleur, de remplacer l'envoi du code par SMS, par Mail. On part du principe que si nous effectuons un achat par Internet c'est que nous sommes connectés et donc en capacité de recvoir le code par mail.  
 
 ## Communication :  
 
-### Téléphonie
+### Téléphonie :
+
+Pour les premiers mois de notre voyage nous aurons uniquement notre carte SIM de l'opérateur Free avec un abonnement à 20€ qui permet de téléphoner 35 jours par an et par destination, notamment les USA et le Canada. 
+
+Dès que nous rentrerons au Mexique nous passerons notre abonnement Free à2 € et prendrons une carte SIM d'un opérateur local.   
 
 ### Internet :
+
+En Amérique du Nord nous n'aurons aucun problème pour trouver du WIFI gratuit et nous privilégierons les applications web pour rester en contact avec nos proches et mettre à jour le site. Dès notre entrée en Amérique latine, nous verrons si avec les abonnements aux opérateurs locaux nous permettent de bénéficier suffisament de data.
 
 ### Balises de détresse :
 
