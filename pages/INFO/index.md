@@ -72,7 +72,7 @@ Là, c'est un grand moment. Pour vous la faire courte, impossible d'être un SDF
 
 ### Permis de conduire :
 
-Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international chacun, valable 3 ans.  
+Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poids lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international chacun, valable 3 ans.  
 
 
 ### Visa USA de type B2  :
@@ -143,11 +143,11 @@ Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium
 
 Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.  
 
-### Achats par internet avec validation :
+### Validation achats par internet :
 
-Certains achats par internet demandent une authentification forte via un code envoyé par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual SIM afin de pouvoir l'équipé, le moment venu, simultanément d'une SIM de mon opérateur français, Free, et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à l'environement d'Androïd non plus.  
+Certains achats par internet demandent une authentification forte via un code envoyé par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual SIM afin de pouvoir l'équipé, le moment venu, simultanément d'une SIM de mon opérateur français, Free, et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à l’environnement d'Androïd non plus.  
 
-Du coup, nous avons obtenu de notre banque, non sans mal d'ailleur, de remplacer l'envoi du code par SMS, par Mail. On part du principe que si nous effectuons un achat par Internet c'est que nous sommes connectés et donc en capacité de recvoir le code par mail.  
+Du coup, nous avons obtenu de notre banque, non sans mal d'ailleurs, de remplacer l'envoi du code par SMS, par Mail. On part du principe que si nous effectuons un achat par Internet c'est que nous sommes connectés et donc en capacité de recevoir le code par mail.  
 
 ## Communication :  
 
@@ -159,16 +159,15 @@ Dès que nous rentrerons au Mexique nous passerons notre abonnement Free à 2€
 
 ### Internet :
 
-En Amérique du Nord nous n'aurons aucun problème pour trouver du WIFI gratuit et nous privilégierons les applications web pour rester en contact avec nos proches et mettre à jour le site. Dès notre entrée en Amérique latine, nous verrons si avec les abonnements aux opérateurs locaux nous permettent de bénéficier suffisament de data.
-Bien que le WIFI soit plus rare et de moins bonne qualité, en général, en Amérique du Sud on trouve néanmoins de nombreux spots gratuits.
+En Amérique du Nord nous n'aurons aucun problème pour trouver du WIFI gratuit et nous privilégierons les applications web pour rester en contact avec nos proches et mettre à jour le site. Dès notre entrée en Amérique latine, nous verrons si avec les abonnements aux opérateurs locaux nous permettent de bénéficier suffisamment de data.
+Bien que le WIFI soit plus rare et de moins bonne qualité, en général, en Amérique du Sud on trouve néanmoins de nombreux spots gratuits. Le partage de connexion permettra depuis notre téléphone de bénéficier du WIFI sur nos autres appareils.
 
 Si jamais nous ne sommes pas satisfaits, nous verrons pour augmenter la puissance de notre captation réseau par la mise en place d'une antenne wifi de type Yagi Bazooka et d'un routeur WIFI afin de pourvoir connecter tous nos appareils.
 
 
-
 ### Balises de détresse :
 
-Il existe plusieurs types de balise de détresse qui proposent différentes options. Pour le début de notre voyage nous n'en serons pas équipé et verrons plus tard en traverssant des zones moins sures ou moins bien couverte au niveau du réseau. Les plus connues sont :   
+Il existe plusieurs types de balise de détresse qui proposent différentes options, notamment communiquer par SMS avec des tiers. Pour le début de notre voyage nous n'en serons pas équipé et verrons plus tard en traversant des zones moins sures ou moins bien couverte au niveau du réseau. Les plus connues sont :   
 
 #### Balise de localisation SPOT GEN3 :
 
@@ -187,21 +186,20 @@ Réseau satellitaire Iridium : couverture mondiale.
 
 ## Divers :  
 
-### Langues :
+### Langues :  
 
 Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...   
 
-En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière méxicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "calientes" en perpective.  
+En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière mexicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "calientes" en perspective.  
 
 
-
+### Photo, Vidéo, Plongée... :  
 
 Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
 
-Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des antilles pour le climat moins clément du centre de la France.  
+### Animal de compagnie :  
 
-
-
+Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des Antilles pour le climat moins clément du centre de la France.  
 
 
 ### Applications :
