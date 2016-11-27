@@ -159,10 +159,10 @@ Dès que nous rentrerons au Mexique nous passerons notre abonnement Free à 2€
 
 ### Internet 
 
-En Amérique du Nord nous n'aurons aucun problème pour trouver du WIFI gratuit et nous privilégierons les applications web pour rester en contact avec nos proches et mettre à jour le site. Dès notre entrée en Amérique latine, nous verrons si avec les abonnements aux opérateurs locaux nous permettent de bénéficier suffisamment de data.
+En Amérique du Nord nous n'aurons aucun problème pour trouver du WIFI gratuit et nous privilégierons les applications web pour rester en contact avec nos proches et mettre à jour le site. Dès notre entrée en Amérique latine, nous verrons si les abonnements aux opérateurs locaux nous permettent de bénéficier suffisamment de data.
 Bien que le WIFI soit plus rare et de moins bonne qualité, en général, en Amérique du Sud on trouve néanmoins de nombreux spots gratuits. Le partage de connexion permettra depuis notre téléphone de bénéficier du WIFI sur nos autres appareils.
 
-Si jamais nous ne sommes pas satisfaits, nous verrons pour augmenter la puissance de notre captation réseau par la mise en place d'une antenne wifi de type Yagi Bazooka et d'un routeur WIFI afin de pourvoir connecter tous nos appareils.
+Si jamais nous ne sommes pas satisfaits, nous verrons pour augmenter la puissance de notre captation WIFI par la mise en place d'une antenne wifi de type Yagi Bazooka et d'un routeur WIFI afin de pourvoir connecter tous nos appareils.
 
 
 ### Balises de détresse 
