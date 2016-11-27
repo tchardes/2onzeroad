@@ -62,6 +62,8 @@ Quelles sont les motivations de ce choix ?, qui reste personnel et adapté à no
 
 Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
 
+## Démarches administratives :
+
 ### Impôts :
 
 Là, c'est un grand moment. Pour vous la faire courte, impossible d'être un SDF en France, lieu de nos intérêts économique car nous percevons des revenus. Après plusieurs courriels et entretiens avec différents agents bien embarrassés par notre histoire, après interrogation des services des non résidents à Paris, rien à faire, nous devons donner comme adresse celle de notre fils qui deviendra de fait notre mandataire fiscal. Les services fiscaux vous demandent donc clairement de mentir en donnant une adresse fiscale qui n'en est pas une, tout simplement pour désigner le centre des impôts qui aura votre dossier en gestion.
@@ -171,7 +173,7 @@ Posséder une balise DeLorme, c'est aussi accorder à vos amis et à votre famil
 Réseau satellitaire Iridium : couverture mondiale.
 
 
-### Divers :
+## Divers :
 
 Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
 
