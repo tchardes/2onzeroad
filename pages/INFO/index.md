@@ -124,13 +124,16 @@ Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription es
 
 ## Santé :
 
+### Sécu, complémentaire et plus :
+
 Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
 
 ### Vaccins :
 
 Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvelable tous les 10 ans.  
 
-### Comptes bancaires :
+
+## Comptes bancaires :
 
 Il est utile de posséder deux cartes bancaires, une Visa et une Mastercard afin de pallier les problèmes de perte, de vol, de blocage ou refus de certains distributeurs qui n'acceptent que l'une ou l'autre.  
 
@@ -148,9 +151,14 @@ Certains achats par internet demandent une authentification forte via un code re
 
 Du coup, nous avons obtenu de notre banque, non sans mal d'ailleur, de remplacer l'envoi du code par SMS, par Mail. On part du principe que si nous effectuons un achat par Internet c'est que nous sommes connectés et donc en capacité de recvoir le code par mail.  
 
-### Internet et Téléphonie :
+
 
 ## Divers :
+
+
+### Internet et Téléphonie :
+
+
 
 ### Langues :
 
