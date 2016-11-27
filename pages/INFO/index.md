@@ -40,7 +40,9 @@ Pour nous faire la main sur la rédaction et sur l'ergonomie du site, nous avons
 Le site a été entièrement fabriqué par notre fils Alexandre, grand manitou de l'informatique. Afin de faciliter la gestion de notre voyage, il nous a également concocté une application "RoadTripManager" qui nous permettra de recenser au quotidien, nos dépenses, activités, bivouacs, trajets ... du sur mesure. 
 
 
-### Notre HomeZeRoad :
+## Notre HomeZeRoad :
+
+### Choix :
 
 Lors de la préparation de notre voyage au long cours, le camping-car s'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car à nous reprocher pour l'instant …. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
 
