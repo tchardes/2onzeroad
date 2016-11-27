@@ -128,7 +128,7 @@ Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé n
 
 ### Vaccins 
 
-Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvelable tous les 10 ans. S'il n'est obligatoire que pour la Guyane fançaise, mieux vaux être protégé surtout si l'on s'approche de l'Amazonie.  
+Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvelable tous les 10 ans. S'il n'est obligatoire que pour la Guyane française, mieux vaut être protégé surtout si l'on s'approche de l'Amazonie.  
 
 
 ## Comptes bancaires   
@@ -137,7 +137,7 @@ Il est utile de posséder deux cartes bancaires, une Visa et une Mastercard afin
 
 ### Banque traditionnelle 
 
-Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium. Il est pratique d'utiliser cette carte afin de bénéficier de l'assurance qui s'y rattache mais les frais bancaires sont trops importants pour être utilisée lors d'une voyage au long cours.  
+Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium. Il est pratique d'utiliser cette carte afin de bénéficier de l'assurance qui s'y rattache mais les frais bancaires sont trop importants pour être utilisée lors d'une voyage au long cours.  
 
 ### Banque en ligne 
 
@@ -145,7 +145,7 @@ Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui 
 
 ### Validation achats par Internet 
 
-Certains achats par internet demandent une authentification forte via un code envoyé par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual SIM afin de pouvoir l'équipé, le moment venu, simultanément d'une SIM de mon opérateur français, Free, et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à l’environnement d'Androïd non plus.  
+Certains achats par internet demandent une authentification forte via un code envoyé par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual SIM afin de pouvoir l'équiper, le moment venu, simultanément d'une SIM de mon opérateur français, Free, et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à l’environnement d'Androïd non plus.  
 
 Du coup, nous avons obtenu de notre banque, non sans mal d'ailleurs, de remplacer l'envoi du code par SMS, par Mail. On part du principe que si nous effectuons un achat par Internet c'est que nous sommes connectés et donc en capacité de recevoir le code par mail.  
 
@@ -162,12 +162,14 @@ Dès que nous rentrerons au Mexique nous passerons notre abonnement Free à 2€
 En Amérique du Nord nous n'aurons aucun problème pour trouver du WIFI gratuit et nous privilégierons les applications web pour rester en contact avec nos proches et mettre à jour le site. Dès notre entrée en Amérique latine, nous verrons si les abonnements aux opérateurs locaux nous permettent de bénéficier suffisamment de data.
 Bien que le WIFI soit plus rare et de moins bonne qualité, en général, en Amérique du Sud on trouve néanmoins de nombreux spots gratuits. Le partage de connexion permettra depuis notre téléphone de bénéficier du WIFI sur nos autres appareils.
 
-Si jamais nous ne sommes pas satisfaits, nous verrons pour augmenter la puissance de notre captation WIFI par la mise en place d'une antenne wifi de type Yagi Bazooka et d'un routeur WIFI afin de pourvoir connecter tous nos appareils.
+Si jamais nous ne sommes pas satisfaits, nous verrons pour augmenter la puissance de notre captation WIFI par la mise en place d'une antenne WIFI de type Yagi Bazooka et d'un routeur WIFI afin de pourvoir connecter tous nos appareils.
 
 
 ### Balises de détresse 
 
-Il existe plusieurs types de balise de détresse qui proposent différentes options, notamment communiquer par SMS avec des tiers. Pour le début de notre voyage nous n'en serons pas équipé et verrons plus tard en traversant des zones moins sures ou moins bien couverte au niveau du réseau. Les plus connues sont :   
+Il existe plusieurs types de balise de détresse qui proposent différentes options, notamment communiquer par SMS avec des tiers. Pour le début de notre voyage nous n'en serons pas équipé et verrons plus tard en traversant des zones moins sûres ou moins bien couvertes au niveau du réseau.
+
+Les plus connues sont :   
 
 #### Balise de localisation SPOT GEN3 
 
