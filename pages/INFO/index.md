@@ -68,43 +68,10 @@ Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
 
 Là, c'est un grand moment. Pour vous la faire courte, impossible d'être un SDF en France, lieu de nos intérêts économique car nous percevons des revenus. Après plusieurs courriels et entretiens avec différents agents bien embarrassés par notre histoire, après interrogation des services des non résidents à Paris, rien à faire, nous devons donner comme adresse celle de notre fils qui deviendra de fait notre mandataire fiscal. Les services fiscaux vous demandent donc clairement de mentir en donnant une adresse fiscale qui n'en est pas une, tout simplement pour désigner le centre des impôts qui aura votre dossier en gestion.
 
-### Santé :
-
-Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
-
-### Vaccins :
-
-Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvelable tous les 10 ans.  
-
-### Comptes bancaires :
-
-Il est utile de posséder deux cartes bancaires, une Visa et une Mastercard afin de pallier les problèmes de perte, de vol, de blocage ou refus de certains distributeurs qui n'acceptent que l'une ou l'autre.  
-
-#### Banque traditionnelle :
-
-Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium. Il est pratique d'utiliser cette carte afin de bénéficier de l'assurance qui s'y rattache mais les frais bancaires sont trops importants pour être utilisée lors d'une voyage au long cours.  
-
-#### Banque en ligne :
-
-Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.  
-
-#### Achats par internet avec validation
-
-Certains achats par internet demandent une authentification forte via un code reçu par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual sim afin de pouvoir l'équipé, le moment venu, simultanément d'une SIM de mon opérateur français Free et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à Androïd non plus.  
-
-Du coup, nous avons obtenu de notre banque, non sans mal d'ailleur, de remplacer l'envoi du code par SMS, par Mail. On part du principe que si nous effectuons un achat par Internet c'est que nous sommes connectés et donc en capacité de recvoir le code par mail.  
-
-### Internet et Téléphonie :
-
 ### Permis de conduire :
 
 Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international chacun, valable 3 ans.  
 
-### Langues :
-
-Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...   
-
-En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière méxicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "calientes" en perpective.  
 
 ### Visa USA de type B2  :
 
@@ -153,6 +120,52 @@ Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports av
 Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription est entièrement gratuite. Il suffit d'indiquer les lieux dans lesquels on compte se rendre, afin de recevoir des recommandations de sécurité par SMS ou mail si la situation dans le pays se dégrade ou en cas de crise. Une personne que vous aurez désignée comme contact sera également prévenue en cas de besoin. Pour plus de renseignements cliquez **[ici](http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/evenements-et-actualites-du-ministere/article/vous-partez-en-voyage-inscrivez-vous-sur-ariane)**.  
 
 
+
+
+## Santé :
+
+Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
+
+### Vaccins :
+
+Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvelable tous les 10 ans.  
+
+### Comptes bancaires :
+
+Il est utile de posséder deux cartes bancaires, une Visa et une Mastercard afin de pallier les problèmes de perte, de vol, de blocage ou refus de certains distributeurs qui n'acceptent que l'une ou l'autre.  
+
+#### Banque traditionnelle :
+
+Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium. Il est pratique d'utiliser cette carte afin de bénéficier de l'assurance qui s'y rattache mais les frais bancaires sont trops importants pour être utilisée lors d'une voyage au long cours.  
+
+#### Banque en ligne :
+
+Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.  
+
+#### Achats par internet avec validation
+
+Certains achats par internet demandent une authentification forte via un code reçu par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual sim afin de pouvoir l'équipé, le moment venu, simultanément d'une SIM de mon opérateur français Free et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à Androïd non plus.  
+
+Du coup, nous avons obtenu de notre banque, non sans mal d'ailleur, de remplacer l'envoi du code par SMS, par Mail. On part du principe que si nous effectuons un achat par Internet c'est que nous sommes connectés et donc en capacité de recvoir le code par mail.  
+
+### Internet et Téléphonie :
+
+## Divers :
+
+### Langues :
+
+Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...   
+
+En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière méxicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "calientes" en perpective.  
+
+
+
+
+Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
+
+Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des antilles pour le climat moins clément du centre de la France.  
+
+
 ### Balises de détresse :
 
 Il existe plusieurs types de balise de détresse qui proposent différentes options. Pour le début de notre voyage nous n'en serons pas équipé et verrons plus tard en traverssant des zones moins sures ou moins bien couverte au niveau du réseau. Les plus connues sont :   
@@ -171,13 +184,6 @@ La dernière génération des balises de géolocalisation "satellite" dédiées 
 Plusieurs fonctions dont l'envoi et la réception de message texte, le secours et le suivi.
 Posséder une balise DeLorme, c'est aussi accorder à vos amis et à votre famille une certaine tranquillité d'esprit lorsque vous partez.
 Réseau satellitaire Iridium : couverture mondiale.
-
-
-## Divers :
-
-Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
-
-Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des antilles pour le climat moins clément du centre de la France.  
 
 
 ### Applications :
