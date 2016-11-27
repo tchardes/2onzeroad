@@ -62,7 +62,7 @@ Quelles sont les motivations de ce choix ?, qui reste personnel et adapté à no
 
 Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
 
-## ***Démarches administratives :***
+## Démarches administratives :
 
 ### Impôts :
 
