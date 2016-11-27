@@ -153,13 +153,18 @@ Du coup, nous avons obtenu de notre banque, non sans mal d'ailleur, de remplacer
 
 ### Téléphonie :
 
-Pour les premiers mois de notre voyage nous aurons uniquement notre carte SIM de l'opérateur Free avec un abonnement à 20€ qui permet de téléphoner 35 jours par an et par destination, notamment les USA et le Canada. 
+Pour les premiers mois de notre voyage nous aurons uniquement notre SIM Free avec un abonnement à 20€ qui permet de téléphoner 35 jours par an et par destination, valable notamment pour les USA et le Canada. 
 
-Dès que nous rentrerons au Mexique nous passerons notre abonnement Free à2 € et prendrons une carte SIM d'un opérateur local.   
+Dès que nous rentrerons au Mexique nous passerons notre abonnement Free à 2€ et prendrons une carte SIM chez un opérateur local.   
 
 ### Internet :
 
 En Amérique du Nord nous n'aurons aucun problème pour trouver du WIFI gratuit et nous privilégierons les applications web pour rester en contact avec nos proches et mettre à jour le site. Dès notre entrée en Amérique latine, nous verrons si avec les abonnements aux opérateurs locaux nous permettent de bénéficier suffisament de data.
+Bien que le WIFI soit plus rare et de moins bonne qualité, en général, en Amérique du Sud on trouve néanmoins de nombreux spots gratuits.
+
+Si jamais nous ne sommes pas satisfaits, nous verrons pour augmenter la puissance de notre captation réseau par la mise en place d'une antenne wifi de type Yagi Bazooka et d'un routeur WIFI afin de pourvoir connecter tous nos appareils.
+
+
 
 ### Balises de détresse :
 
