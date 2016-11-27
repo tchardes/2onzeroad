@@ -12,7 +12,7 @@ Nous sommes deux quinquagénaires, Corinne et Thierry, qui avons décidé tout s
 
 ### Notre projet  
 
-Partir pour un voyage au long cours sans contrainte de temps ni de trajet. Sortir de notre zone de confort, de notre petit routine pour vivre une aventure humaine à deux. Nous savons que la vie de nomade ce n'est pas "LES" vacances, cette aventure ne sera pas sans servitude ni difficulté, il faudra savoir gérer d'autres problèmes? être à la recherche constante de l'équilibre.   
+Partir pour un voyage au long cours sans contrainte de temps ni de trajet. Sortir de notre zone de confort, de notre petite routine pour vivre une aventure humaine à deux. Nous savons que la vie de nomade ce n'est pas "LES" vacances, cette aventure ne sera pas sans servitude ni difficulté, il faudra savoir gérer d'autres problèmes,  être à la recherche constante de l'équilibre.   
 
 Cette idée nous est venue il y a trois ans en préparant un roadtrip pour la côte Ouest des Etats-Unis. Tandis que nous essayions tant bien que mal de caser un maximum de visites durant le temps imparti à notre voyage, nous sommes tombés par hasard sur le récit d'un couple de retraités qui venait de finir un voyage de 24 mois en Amérique du nord. Ce fut le déclic et après de nombreuses discutions, interrogations, hésitations, décision fut prise. Nous avons annulé toutes nos réservations et sommes partis sur un autre projet, plus ambitieux.
 
