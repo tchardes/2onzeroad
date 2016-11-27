@@ -13,7 +13,7 @@ Nous sommes deux quinquagénaires, Corinne et Thierry, qui avons décidé tout s
 ### Notre projet  
 
 Partir pour un voyage au long cours sans contrainte de temps ni de trajet.
-Cette idée nous est venue il y a trois ans en préparant un roadtrip sur le côte Ouest des Etats-Unis. Tandis que nous essayions tant bien que mal de caser un maximum de visites durant le temps imparti à notre voyage, nous sommes tombés par hasard sur le récit d'un couple de retraités qui venait de finir un voyage de 24 mois en Amérique du nord. Ce fut le déclic et après de nombreuses discutions, interrogations, hésitations, décision fut prise. Nous avons annulé toutes nos réservations et sommes partis sur un autre projet, plus ambitieux.
+Cette idée nous est venue il y a trois ans en préparant un roadtrip pour la côte Ouest des Etats-Unis. Tandis que nous essayions tant bien que mal de caser un maximum de visites durant le temps imparti à notre voyage, nous sommes tombés par hasard sur le récit d'un couple de retraités qui venait de finir un voyage de 24 mois en Amérique du nord. Ce fut le déclic et après de nombreuses discutions, interrogations, hésitations, décision fut prise. Nous avons annulé toutes nos réservations et sommes partis sur un autre projet, plus ambitieux.
 
 ### Notre itinéraire  
 
