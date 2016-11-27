@@ -174,7 +174,6 @@ Il existe plusieurs types de balise de détresse qui proposent différentes opti
 La balise SPOT permet de bénéficier d'un service de suivi de progression amélioré.
 Suivi personnalisé : vous pourrez modifier la périodicité des points de géolocalisation (toutes les 2min 30s, ou 5 min, 10min, 30 ou 60 min). Voir abonnement en vous rendant à cette adresse : FindMeSPOT.com
 Suivi en fonction de vos mouvements : SPOT envoi des points de géolocalisation uniquement lorsque vous bougez.
-Suivi ininterrompu : contrairement à l'ancienne génération, vous n'avez plus besoin de réinitialiser la fonction "tracking" toutes les 24h.
 
 #### Balise de localisation DELORME INREACH EXPLORER 
 
