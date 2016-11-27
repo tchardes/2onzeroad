@@ -128,7 +128,7 @@ Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé n
 
 ### Vaccins 
 
-Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvelable tous les 10 ans.  
+Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvelable tous les 10 ans. S'il n'est obligatoire que pour la Guyane fançaise, mieux vaux être protégé surtout si l'on s'approche de l'Amazonie.  
 
 
 ## Comptes bancaires   
@@ -143,7 +143,7 @@ Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium
 
 Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.  
 
-### Validation achats par internet 
+### Validation achats par Internet 
 
 Certains achats par internet demandent une authentification forte via un code envoyé par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual SIM afin de pouvoir l'équipé, le moment venu, simultanément d'une SIM de mon opérateur français, Free, et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à l’environnement d'Androïd non plus.  
 
