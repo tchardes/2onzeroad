@@ -153,6 +153,24 @@ Du coup, nous avons obtenu de notre banque, non sans mal d'ailleur, de remplacer
 
 ### Internet :
 
+### Balises de détresse :
+
+Il existe plusieurs types de balise de détresse qui proposent différentes options. Pour le début de notre voyage nous n'en serons pas équipé et verrons plus tard en traverssant des zones moins sures ou moins bien couverte au niveau du réseau. Les plus connues sont :   
+
+#### Balise de localisation SPOT GEN3 :
+
+La balise SPOT permet de bénéficier d'un service de suivi de progression amélioré.
+Suivi personnalisé : vous pourrez modifier la périodicité des points de géolocalisation (toutes les 2min 30s, ou 5 min, 10min, 30 ou 60 min). Voir abonnement en vous rendant à cette adresse : FindMeSPOT.com
+Suivi en fonction de vos mouvements : SPOT envoi des points de géolocalisation uniquement lorsque vous bougez.
+Suivi ininterrompu : contrairement à l'ancienne génération, vous n'avez plus besoin de réinitialiser la fonction "tracking" toutes les 24h.
+
+#### Balise de localisation DELORME INREACH EXPLORER :
+
+La dernière génération des balises de géolocalisation "satellite" dédiées aux personnes.
+Plusieurs fonctions dont l'envoi et la réception de message texte, le secours et le suivi.
+Posséder une balise DeLorme, c'est aussi accorder à vos amis et à votre famille une certaine tranquillité d'esprit lorsque vous partez.
+Réseau satellitaire Iridium : couverture mondiale.
+
 
 ## Divers :
 
@@ -170,24 +188,7 @@ Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, no
 Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des antilles pour le climat moins clément du centre de la France.  
 
 
-### Balises de détresse :
 
-Il existe plusieurs types de balise de détresse qui proposent différentes options. Pour le début de notre voyage nous n'en serons pas équipé et verrons plus tard en traverssant des zones moins sures ou moins bien couverte au niveau du réseau. Les plus connues sont :   
-
-
-#### Balise de localisation SPOT GEN3 :
-
-La balise SPOT permet de bénéficier d'un service de suivi de progression amélioré.
-Suivi personnalisé : vous pourrez modifier la périodicité des points de géolocalisation (toutes les 2min 30s, ou 5 min, 10min, 30 ou 60 min). Voir abonnement en vous rendant à cette adresse : FindMeSPOT.com
-Suivi en fonction de vos mouvements : SPOT envoi des points de géolocalisation uniquement lorsque vous bougez.
-Suivi ininterrompu : contrairement à l'ancienne génération, vous n'avez plus besoin de réinitialiser la fonction "tracking" toutes les 24h.
-
-#### Balise de localisation DELORME INREACH EXPLORER :
-
-La dernière génération des balises de géolocalisation "satellite" dédiées aux personnes.
-Plusieurs fonctions dont l'envoi et la réception de message texte, le secours et le suivi.
-Posséder une balise DeLorme, c'est aussi accorder à vos amis et à votre famille une certaine tranquillité d'esprit lorsque vous partez.
-Réseau satellitaire Iridium : couverture mondiale.
 
 
 ### Applications :
