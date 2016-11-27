@@ -8,7 +8,7 @@ permalink: /info/
 
 <div id="toc"></div>
 
-## Pourquoi ce site Web :
+## Pourquoi ce site Web 
 
 Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des sujets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. Tout a déjà été écrit sur le sujet et par bien meilleur que nous. Nous tenterons simplement, modestement, de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
 
@@ -40,9 +40,9 @@ Pour nous faire la main sur la rédaction et sur l'ergonomie du site, nous avons
 Le site a été entièrement fabriqué par notre fils Alexandre, grand manitou de l'informatique. Afin de faciliter la gestion de notre voyage, il nous a également concocté une application "RoadTripManager" qui nous permettra de recenser au quotidien, nos dépenses, activités, bivouacs, trajets ... du sur mesure. 
 
 
-## Notre HomeZeRoad :
+## Notre HomeZeRoad 
 
-### Choix :
+### Choix 
 
 Lors de la préparation de notre voyage au long cours, le camping-car s'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car à nous reprocher pour l'instant …. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
 
@@ -64,24 +64,24 @@ Quelles sont les motivations de ce choix ?, qui reste personnel et adapté à no
 
 Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
 
-## Démarches administratives :  
+## Démarches administratives  
 
-### Impôts :
+### Impôts 
 
 Là, c'est un grand moment. Pour vous la faire courte, impossible d'être un SDF en France, lieu de nos intérêts économique car nous percevons des revenus. Après plusieurs courriels et entretiens avec différents agents bien embarrassés par notre histoire, après interrogation des services des non résidents à Paris, rien à faire, nous devons donner comme adresse celle de notre fils qui deviendra de fait notre mandataire fiscal. Les services fiscaux vous demandent donc clairement de mentir en donnant une adresse fiscale qui n'en est pas une, tout simplement pour désigner le centre des impôts qui aura votre dossier en gestion.
 
-### Permis de conduire :
+### Permis de conduire 
 
 Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poids lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international chacun, valable 3 ans.  
 
 
-### Visa USA de type B2  :
+### Visa USA de type B2  
 
 Plusieurs types de visa sont délivrés par les Etats-Unis en fonction du type de voyage que vous souhaitez réaliser. Le visa le plus commun est l'ESTA qui permet de séjourner aux USA pour une période de 90 jours.  
 
 Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des Etats-Unis à Paris aux personnes désirant se rendre au USA pour des raisons touristiques ou médicale. En général, le demandeur se voit délivrer un visa pour une durée de un, trois ou dix ans l’autorisant à séjourner aux Etats-Unis six mois par an. Il est possible d’obtenir une extension allant jusqu’à six mois additionnels. Toutefois, ce visa n'est pas un droit. Au final c'est l'agent de l'immigration qui vous accueillera à votre arrivée sur le sol américain qui décidera seul et sans appel possible, le temps qu'il vous accordera.  
 
-#### Procédure pas à pas :
+#### Procédure pas à pas 
 
 * Se connecter au site Internet de l'ambassade US et se rendre sur la page des visas non immigrant **[ici](https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/)**.
 * Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Si vous n'y arrivez pas il faudra l’amener lors de l'entretien.
@@ -92,11 +92,11 @@ Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des E
 * Attendre un mail confirmant que l'argent a bien été reçu (entre 1 et 3 jours)
 * Se reconnecter à votre compte et choisir sur un calendrier la date et heure de votre rendez-vous à l'ambassade des Etats-Unis à Paris.
 
-#### Déroulement de l'entretien :
+#### Déroulement de l'entretien 
 
 Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement et de manière illégale aux Etats-Unis. Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays et que vous avez tout intérêt à y revenir.
 
-#### Composition du dossier complet :
+#### Composition du dossier complet 
 
 * Son livret de famille ;
 * Un Relevé d'Identité Bancaire ;
@@ -115,49 +115,49 @@ Et éventuellement :
 
 Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel.  
 
-### Inscription sur le site Ariane :
+### Inscription sur le site Ariane 
 
 Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription est entièrement gratuite. Il suffit d'indiquer les lieux dans lesquels on compte se rendre, afin de recevoir des recommandations de sécurité par SMS ou mail si la situation dans le pays se dégrade ou en cas de crise. Une personne que vous aurez désignée comme contact sera également prévenue en cas de besoin. Pour plus de renseignements cliquez **[ici](http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/evenements-et-actualites-du-ministere/article/vous-partez-en-voyage-inscrivez-vous-sur-ariane)**.  
 
 
-## Santé :  
+## Santé   
 
-### Sécu, complémentaire et plus :
+### Sécu, complémentaire et plus 
 
 Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
 
-### Vaccins :
+### Vaccins 
 
 Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvelable tous les 10 ans.  
 
 
-## Comptes bancaires :  
+## Comptes bancaires   
 
 Il est utile de posséder deux cartes bancaires, une Visa et une Mastercard afin de pallier les problèmes de perte, de vol, de blocage ou refus de certains distributeurs qui n'acceptent que l'une ou l'autre.  
 
-### Banque traditionnelle :
+### Banque traditionnelle 
 
 Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium. Il est pratique d'utiliser cette carte afin de bénéficier de l'assurance qui s'y rattache mais les frais bancaires sont trops importants pour être utilisée lors d'une voyage au long cours.  
 
-### Banque en ligne :
+### Banque en ligne 
 
 Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.  
 
-### Validation achats par internet :
+### Validation achats par internet 
 
 Certains achats par internet demandent une authentification forte via un code envoyé par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual SIM afin de pouvoir l'équipé, le moment venu, simultanément d'une SIM de mon opérateur français, Free, et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à l’environnement d'Androïd non plus.  
 
 Du coup, nous avons obtenu de notre banque, non sans mal d'ailleurs, de remplacer l'envoi du code par SMS, par Mail. On part du principe que si nous effectuons un achat par Internet c'est que nous sommes connectés et donc en capacité de recevoir le code par mail.  
 
-## Communication :  
+## Communication   
 
-### Téléphonie :
+### Téléphonie 
 
 Pour les premiers mois de notre voyage nous aurons uniquement notre SIM Free avec un abonnement à 20€ qui permet de téléphoner 35 jours par an et par destination, valable notamment pour les USA et le Canada. 
 
 Dès que nous rentrerons au Mexique nous passerons notre abonnement Free à 2€ et prendrons une carte SIM chez un opérateur local.   
 
-### Internet :
+### Internet 
 
 En Amérique du Nord nous n'aurons aucun problème pour trouver du WIFI gratuit et nous privilégierons les applications web pour rester en contact avec nos proches et mettre à jour le site. Dès notre entrée en Amérique latine, nous verrons si avec les abonnements aux opérateurs locaux nous permettent de bénéficier suffisamment de data.
 Bien que le WIFI soit plus rare et de moins bonne qualité, en général, en Amérique du Sud on trouve néanmoins de nombreux spots gratuits. Le partage de connexion permettra depuis notre téléphone de bénéficier du WIFI sur nos autres appareils.
@@ -165,18 +165,18 @@ Bien que le WIFI soit plus rare et de moins bonne qualité, en général, en Am�
 Si jamais nous ne sommes pas satisfaits, nous verrons pour augmenter la puissance de notre captation réseau par la mise en place d'une antenne wifi de type Yagi Bazooka et d'un routeur WIFI afin de pourvoir connecter tous nos appareils.
 
 
-### Balises de détresse :
+### Balises de détresse 
 
 Il existe plusieurs types de balise de détresse qui proposent différentes options, notamment communiquer par SMS avec des tiers. Pour le début de notre voyage nous n'en serons pas équipé et verrons plus tard en traversant des zones moins sures ou moins bien couverte au niveau du réseau. Les plus connues sont :   
 
-#### Balise de localisation SPOT GEN3 :
+#### Balise de localisation SPOT GEN3 
 
 La balise SPOT permet de bénéficier d'un service de suivi de progression amélioré.
 Suivi personnalisé : vous pourrez modifier la périodicité des points de géolocalisation (toutes les 2min 30s, ou 5 min, 10min, 30 ou 60 min). Voir abonnement en vous rendant à cette adresse : FindMeSPOT.com
 Suivi en fonction de vos mouvements : SPOT envoi des points de géolocalisation uniquement lorsque vous bougez.
 Suivi ininterrompu : contrairement à l'ancienne génération, vous n'avez plus besoin de réinitialiser la fonction "tracking" toutes les 24h.
 
-#### Balise de localisation DELORME INREACH EXPLORER :
+#### Balise de localisation DELORME INREACH EXPLORER 
 
 La dernière génération des balises de géolocalisation "satellite" dédiées aux personnes.
 Plusieurs fonctions dont l'envoi et la réception de message texte, le secours et le suivi.
@@ -184,29 +184,29 @@ Posséder une balise DeLorme, c'est aussi accorder à vos amis et à votre famil
 Réseau satellitaire Iridium : couverture mondiale.
 
 
-## Divers :  
+## Divers   
 
-### Langues :  
+### Langues   
 
 Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...   
 
 En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière mexicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "calientes" en perspective.  
 
 
-### Photo, Vidéo, Plongée... :  
+### Photo, Vidéo, Plongée...   
 
 Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
 
-### Animal de compagnie :  
+### Animal de compagnie   
 
 Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des Antilles pour le climat moins clément du centre de la France.  
 
 
-### Applications :
+### Applications 
 
 Nous avons recensé et installé quelques applications sous IOS qui nous seront utiles et que nous avons trouvés pratiques.
 
-#### Aide au voyage :
+#### Aide au voyage 
 
 * **iOverlander** - *Base de données des endroits pour des overlanders et des voyageurs. Il inclut camper, hôtels, restaurants, mécanique, l'eau, remplissage de propane et plein d'autres catégories* ;
 * **OsmAnd Maps** -  *Application cartographique et de navigation avec accès aux données libres OpenStreetMap (OSM), à la couverture mondiale de haute qualité. Toutes les données cartographiques peuvent être stockées sur la carte mémoire de votre appareil pour une utilisation hors ligne* ;
@@ -219,7 +219,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **Sites de nos banques**.
 
 
-#### Aide à la photographie/vidéo :
+#### Aide à la photographie/vidéo 
 
 * **The Photographer's Ephemeris** - *Programme permettant de connaître les répercussions de la luminosité solaire ou lunaire partout dans le monde à une date précise. Il assiste dans la planification de session de photo de paysage ou de milieu urbai*n ;
 * **Photo Transit** - *Outil de planification plan basé sur une carte pour les photographes de plein air qui utilisent des appareils photo à objectifs interchangeables (comme SLR s). Planifiez le meilleur appareil photo possible, des lentilles et des lieux de tournage pour votre voyage de photo ou de la cession en utilisant le complexe intégré dans le champ de vue simulateur* ;
@@ -229,7 +229,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **TL Calc** - *Une calculatrice time-lapse rapide et simple avec trois modes. Le mode par défaut vous permet de déterminer l'intervalle d'obturation (temps entre plans) qui est nécessaire pour atteindre une longueur de clip vidéo souhaitée pour une durée d'enregistrement donné* ; 
 * **Capture** - *Logiciel GoPro*.
 
-### Sites utiles :
+### Sites utiles 
 
 * [Forum Amérique du Nord et Amérique Centrale](https://groups.google.com/forum/#!forum/le-lien-amnordcentrale) - lelien-amnordcentrale, l'Amérique du Nord et Centrale en camping-car ;
 * [Forum Amérique du Sud](https://fr.groups.yahoo.com/neo/groups/lelien-amsud/info) - lelien-amsud, l'Amérique du Sud en camping-car ;
@@ -241,7 +241,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 
 
 
-### Sites de voyageurs :
+### Sites de voyageurs 
 
 Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont des trésors de renseignements et qui nous ont donné le goût et l'envie de nous lancer :
 
@@ -272,6 +272,6 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 * ... et bien d'autres ...
 
 
-### Sites de voyageurs croisés :
+### Sites de voyageurs croisés 
 
 Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de notre périple.
