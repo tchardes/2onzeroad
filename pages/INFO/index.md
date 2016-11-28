@@ -209,7 +209,7 @@ Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la m
 
 Nous avons recensé et installé quelques applications sous IOS qui nous seront utiles et que nous avons trouvés pratiques.
 
-#### Applications d'aide au voyage 
+#### Aide au voyage 
 
 * **iOverlander** - *Base de données des endroits pour des overlanders et des voyageurs. Il inclut camper, hôtels, restaurants, mécanique, l'eau, remplissage de propane et plein d'autres catégories* ;
 * **OsmAnd Maps** -  *Application cartographique et de navigation avec accès aux données libres OpenStreetMap (OSM), à la couverture mondiale de haute qualité. Toutes les données cartographiques peuvent être stockées sur la carte mémoire de votre appareil pour une utilisation hors ligne* ;
