@@ -203,11 +203,13 @@ Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, no
 Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des Antilles pour le climat moins clément du centre de la France.  
 
 
-### Applications 
+## Applications et sites Internet 
+
+### Applications
 
 Nous avons recensé et installé quelques applications sous IOS qui nous seront utiles et que nous avons trouvés pratiques.
 
-#### Aide au voyage 
+#### Applications d'aide au voyage 
 
 * **iOverlander** - *Base de données des endroits pour des overlanders et des voyageurs. Il inclut camper, hôtels, restaurants, mécanique, l'eau, remplissage de propane et plein d'autres catégories* ;
 * **OsmAnd Maps** -  *Application cartographique et de navigation avec accès aux données libres OpenStreetMap (OSM), à la couverture mondiale de haute qualité. Toutes les données cartographiques peuvent être stockées sur la carte mémoire de votre appareil pour une utilisation hors ligne* ;
@@ -230,7 +232,12 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **TL Calc** - *Une calculatrice time-lapse rapide et simple avec trois modes. Le mode par défaut vous permet de déterminer l'intervalle d'obturation (temps entre plans) qui est nécessaire pour atteindre une longueur de clip vidéo souhaitée pour une durée d'enregistrement donné* ; 
 * **Capture** - *Logiciel GoPro*.
 
-### Sites utiles 
+
+### Sites internet
+
+
+
+#### Sites utiles 
 
 * [Forum Amérique du Nord et Amérique Centrale](https://groups.google.com/forum/#!forum/le-lien-amnordcentrale) - lelien-amnordcentrale, l'Amérique du Nord et Centrale en camping-car ;
 * [Forum Amérique du Sud](https://fr.groups.yahoo.com/neo/groups/lelien-amsud/info) - lelien-amsud, l'Amérique du Sud en camping-car ;
@@ -242,7 +249,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 
 
 
-### Sites de voyageurs 
+#### Sites de voyageurs 
 
 Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont des trésors de renseignements et qui nous ont donné le goût et l'envie de nous lancer :
 
@@ -273,6 +280,6 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 * ... et bien d'autres ...
 
 
-### Sites de voyageurs croisés 
+#### Sites de voyageurs croisés 
 
 Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de notre périple.
