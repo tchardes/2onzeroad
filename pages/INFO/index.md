@@ -185,24 +185,6 @@ Posséder une balise DeLorme, c'est aussi accorder à vos amis et à votre famil
 Réseau satellitaire Iridium : couverture mondiale.
 
 
-## Divers   
-
-### Langues   
-
-Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...   
-
-En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière mexicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "calientes" en perspective.  
-
-
-### Photo, Vidéo, Plongée...   
-
-Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
-
-### Animal de compagnie   
-
-Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des Antilles pour le climat moins clément du centre de la France.  
-
-
 ## Applications et sites Internet 
 
 ### Applications
@@ -281,5 +263,26 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 
 
 #### Sites de voyageurs croisés 
+
+
+
+
+## Divers   
+
+### Langues   
+
+Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...   
+
+En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière mexicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "calientes" en perspective.  
+
+
+### Photo, Vidéo, Plongée...   
+
+Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
+
+### Animal de compagnie   
+
+Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des Antilles pour le climat moins clément du centre de la France.  
+
 
 Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de notre périple.
