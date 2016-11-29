@@ -8,6 +8,12 @@ permalink: /info/
 
 <div id="toc"></div>
 
+
+<p class="info-box bg-warning"><i class="fa fa-exclamation-circle"></i-->
+Si vous êtes sur cette page car vous vous intéressez et cherchez des informations concernnat les démarches à entreprendre pour réaliser ce type de voyage, ne soyez pas effrayés, tout cela se réalise petit à petit, le plus important est d'enmagasiner et rechercher le plus d'info possible qui correspondent à votre cas.
+
+ 
+
 ## Notre HomeZeRoad 
 
 ### Choix 
@@ -243,7 +249,7 @@ En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous
 
 ### Photo, Vidéo, Plongée...   
 
-Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
+Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous nous sommes équipés en matériel photo et vidéo et nous avons pris des cours, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
 
 ### Animal de compagnie   
 
