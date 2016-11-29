@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "QUI SOMMES NOUS ?"
+title: "QUI SOMMES-NOUS ?"
 description: "Notre projet, notre itinéraire, un site"
 header-img: "assets/owner/hero/about-bg.jpg"
 permalink: /about/
@@ -9,7 +9,7 @@ permalink: /about/
 
 <div id="toc"></div>
 
-### Qui sommes nous ?  
+### Qui sommes-nous ?  
 
 Nous sommes deux quinquagénaires, Corinne et Thierry, qui avons décidé tout simplement de lâcher prise et de profiter de la vie, autrement. Amoureux de voyages, nous avons déjà pas mal bourlingué tant pour des raisons professionnelles que personnelles et vécu en différents lieux. 
 
