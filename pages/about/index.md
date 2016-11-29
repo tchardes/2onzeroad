@@ -54,4 +54,4 @@ Claire, Michael, Soraya, Jimmy et Amélie). N’hésitez pas à l'utiliser à vo
 
 Pour nous faire la main sur la rédaction et sur l'ergonomie du site, nous avons publié les récits de nos derniers voyages, à **Cuba** et **Puerto Rico**.
 
-Le site a été entièrement fabriqué par notre fils Alexandre, grand manitou de l'informatique. Afin de faciliter la gestion de notre voyage, il nous a également concocté une application "RoadTripManager" qui nous permettra de recenser au quotidien, nos dépenses, activités, bivouacs, trajets ... du sur mesure. 
+Le site a été entièrement fabriqué par notre fils Alexandre, grand manitou de l'informatique. Afin de faciliter la gestion de notre voyage, il nous a également concocté une application "RoadTripManager" qui nous permettra de recenser au quotidien, nos dépenses, activités, bivouacs, trajets ... du sur mesure. Ces données nous seront très utiles lors de la rédaction des bilans pour donner des infos sur le budget par poste, les Kms parcourus, les consommations... .
