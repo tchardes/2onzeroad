@@ -1,10 +1,13 @@
 ---
 layout: page
 title: "QUI SOMMES NOUS ?"
-description: "Notre projet, notre itinéraire"
+description: "Notre projet, notre itinéraire, un site"
 header-img: "assets/owner/hero/about-bg.jpg"
 permalink: /about/
 ---
+
+
+<div id="toc"></div>
 
 ### Qui sommes nous ?  
 
@@ -21,3 +24,34 @@ Cette idée nous est venue il y a trois ans en préparant un roadtrip pour la c�
 Des nombreuses lectures de carnet de route et forums de voyageurs nous avons, entre autre, retenu une chose. Ne pas préparer de circuit trop précis car au final, il est pratiquement impossible de le respecter. Nous nous sommes donc contentés de lister les endroits que nous aimerions voir, traverser, séjourner et nous essayerons d'en relier le plus possible, sans oublier ceux qui viendront s'ajouter au fur et à mesure de nos rencontres et nos envies.  
 
 Nous savons d'ores et déjà que nous allons commencer notre voyage en Floride pour monter en Alaska et puis redescendre plein Sud. Même si un trajet idéal a été imaginé en fonction des saisons, visas, nous ne voulons pas nous mettre une pression ou nous sentir obligés de respecter un quelconque programme ou listing prédéfini. Donc vous l'aurez compris, pas de carte disponible de notre itinéraire prévisionnel, juste celui réalisé, mis à jour au fur et à mesure.
+
+### Pourquoi ce site Web 
+
+Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des sujets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. Tout a déjà été écrit sur le sujet et par bien meilleur que nous. Nous tenterons simplement, modestement, de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
+
+Il nous semble aussi que c'est un juste retour des choses tant la lecture de plusieurs dizaines de carnets de route nous a conforté dans notre idée de larguer les amarres et nous a permis de nous faire une idée de ce qui allait nous attendre. 
+
+Vous trouverez sur ce site un carnet de route avec des récits rédigés au fil de l'eau sur notre avancée ou bien sur un sujet bien particulier qui aura plus ou au moins attiré notre attention. Nous essayerons de l'agrémenter de photos, vidéos et de cartes pour situer tout ça. N'hésitez pas à commenter ou nous poser des questions si vous souhaitez des précisions.
+
+Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
+
+* Les articles de type blog, reconnaissables à un bandeau et icône de couleur bleu ;
+* Les articles de type carnet de route, reconnaissables à un bandeau et icône de couleur rouge ;
+* Les bilans des états ou pays après y avoir séjourné, reconnaissables à un bandeau et icône de couleur verte ;  
+
+* Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Galerie ;
+* Les vidéos seront stockées et visibles sur YouTube et directement dans les posts ;  
+
+* Des tags ou rubriques qui permettent de choisir de lire les articles en fonction d'un lieu, d'une zone ou d'une catégorie ;
+* Des tags ou rubriques qui permettent de visionner les photos et vidéos en fonction d'un lieu, d'une zone ou d'une catégorie ;   
+
+* Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
+* Une carte reprenant, dans les grandes lignes, notre parcours ;
+* Une carte recensant les lieux que nous aimerions visiter (pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant »
+Claire, Michael, Soraya, Jimmy et Amélie). N’hésitez pas à l'utiliser à votre tour comme base de départ ;
+* Dans le futur, une carte matérialisant nos meilleurs bivouacs.
+
+
+Pour nous faire la main sur la rédaction et sur l'ergonomie du site, nous avons publié les récits de nos derniers voyages, à **Cuba** et **Puerto Rico**.
+
+Le site a été entièrement fabriqué par notre fils Alexandre, grand manitou de l'informatique. Afin de faciliter la gestion de notre voyage, il nous a également concocté une application "RoadTripManager" qui nous permettra de recenser au quotidien, nos dépenses, activités, bivouacs, trajets ... du sur mesure. 
