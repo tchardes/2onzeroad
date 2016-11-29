@@ -218,7 +218,6 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 ### Sites internet
 
 
-
 #### Sites utiles 
 
 * [Forum Amérique du Nord et Amérique Centrale](https://groups.google.com/forum/#!forum/le-lien-amnordcentrale) - lelien-amnordcentrale, l'Amérique du Nord et Centrale en camping-car ;
@@ -263,8 +262,6 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 
 
 #### Sites de voyageurs croisés 
-
-
 
 
 ## Divers   
