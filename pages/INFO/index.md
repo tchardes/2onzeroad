@@ -41,7 +41,7 @@ Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
 
 ### Carnet de passage en douane (CDP)
 
-Certains pays dans le monde veulent être sur qu'une fois sur leur sol, vous le quitterez avec votre véhicule sans essayer de le vendre sur place. C'est le cas par exemple de l'Australie, l'Inde, l'Iran, l'Egypte... . Les services des douanes de ces pays demandent donc une garantie qui peut vite coûter très cher, le ***Carnet de Passage en Douane***. Le CDP est délivré en France par l'Automobile Club de France. Pour l'obtenir, il ne faut pas moins qu'un dépôt équivalent à la valeur vénale (côte Argus) de votre véhicule... Ce carnet est tamponné par les douanes à chaque entrée et sortie des territoires et de retour en France vous devez le présenter à l'Automobile Club de France afin d'être remboursé ou afin que l'argent soit débloqué.
+Certains pays dans le monde veulent être sur qu'une fois sur leur sol, vous le quitterez avec votre véhicule sans essayer de le vendre sur place. C'est le cas par exemple de l'Australie, l'Inde, l'Iran, l'Egypte... . Les services des douanes de ces pays demandent donc une garantie qui peut vite coûter très cher, le ***Carnet de Passage en Douane***. Le CDP est délivré en France par l'Automobile Club de France. Pour l'obtenir, il ne faut pas moins qu'un dépôt équivalent à la valeur vénale (côte Argus) de votre véhicule... . Ce carnet est tamponné par les douanes à chaque entrée et sortie des territoires et de retour en France vous devez le présenter à l'Automobile Club de France afin d'être remboursé ou afin que l'argent soit débloqué.
 
 Pour tout le continent Américain, ce document n'est pas obligatoire et n'est pas demandé aux frontières par les douaniers. 
 
