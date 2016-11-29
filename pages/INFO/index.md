@@ -8,7 +8,7 @@ permalink: /info/
 
 <p class="info-box bg-info"><i class="fa fa-info-circle"></i>
 Si vous êtes sur cette page car vous vous intéressez et recherchez des informations concernant les démarches à entreprendre pour réaliser ce type de voyage, ne soyez pas effrayés ni inquiets, tout cela se réalise petit à petit, au final rien de bien compliqué. Ce type d'aventure se prépare à l'avance et ce n'est pas en une semaine que l'on passe de la prise de décision au départ effectif. Le plus important est d'enmagasiner le plus d'informations possibles et retenir les idées et options qui correspondent à votre cas de figure. N'ayant plus d'enfant scolarisé, vous ne trouverez pas par exemple sur cette page, de conseil sur la scolarité à distance (CNED) ou sur l'acheminent d'un camping car par voie maritime.   
-Par contre n'hésitez pas à revenir de temps en temps, nous mettrons cette partie à jour au fur et à mesure des problèmes rencontrés et de leur résolution.
+Par contre n'hésitez pas à revenir de temps en temps, nous mettrons cette partie à jour au fur et à mesure des problèmes rencontrés et de leurs résolutions.
 
 </p>
 
