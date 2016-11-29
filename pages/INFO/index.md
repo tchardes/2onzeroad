@@ -176,7 +176,7 @@ Réseau satellitaire Iridium : couverture mondiale.
 
 ### Applications
 
-Nous avons recensé et installé quelques applications sous IOS qui nous seront utiles et que nous avons trouvés pratiques.
+Nous avons recensé et installé quelques applications sous IOS qui nous seront utiles et que nous avons trouvées pratiques.
 
 #### Aide au voyage 
 
