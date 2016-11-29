@@ -26,7 +26,7 @@ A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'
 
 Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à notre vision des choses**. 
 
-* Depuis peu, les douaniers étasuniens ont remis au goût du jour un vieux texte de loi indiquant que les véhicules de marque étrangères ne pouvaient rester plus de 12 mois sur leur sol à partir de la date de leur première entrée sous peine d'interdiction de sortie du territoire et destruction dudit véhicule ou procédure d'homologation, dont le prix peut-être prohibitif. Ces 12 mois sont pour nous rédhibitoires puisque nous espérons pouvoir laisser notre HomeZeRoad au moins 24 mois en comptant nos retours en métropole tous les 6 mois, si nous obtenons notre visa B2 (Cf, "Visa"). 
+* Depuis peu, les douaniers étasuniens ont remis au goût du jour un vieux texte de loi indiquant que les véhicules de marques étrangères ne pouvaient rester plus de 12 mois sur leur sol à partir de la date de leur première entrée sous peine d'interdiction de sortie du territoire et destruction dudit véhicule ou procédure d'homologation, dont le prix peut-être prohibitif. Ces 12 mois sont pour nous rédhibitoires puisque nous espérons pouvoir laisser notre HomeZeRoad au moins 24 mois en comptant nos retours en métropole tous les 6 mois, si nous obtenons notre visa B2 (Cf, "Visa USA"). 
 
 * Au niveau motorisation, les RVs sont équipés principalement de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class B+ ou C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro et donc moins regardantes sur la qualité des carburants assez inégale, même entre les différents états des Etats-Unis. 
 
@@ -39,9 +39,9 @@ Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à 
 Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
 
 
-### Carnet de passage en douane (CDP)
+### Carnet de passage en douane (CPD)
 
-Certains pays dans le monde veulent être sûrs qu'une fois sur leur sol, vous le quitterez avec votre véhicule sans essayer de le vendre sur place. C'est le cas par exemple de l'Australie, l'Inde, l'Iran, l'Egypte... . Les services des douanes de ces pays demandent donc une garantie qui peut vite coûter très cher, le ***Carnet de Passage en Douane***. Le CDP est délivré en France par l'Automobile Club de France. Pour l'obtenir, il ne faut pas moins qu'un dépôt équivalent à la valeur vénale (côte Argus) de votre véhicule... . Ce carnet est tamponné par les douanes à chaque entrée et sortie des territoires et de retour en France vous devez le présenter à l'Automobile Club de France afin d'être remboursé ou afin que l'argent soit débloqué.
+Certains pays dans le monde veulent être sûrs qu'une fois sur leur sol, vous le quitterez avec votre véhicule sans essayer de le vendre sur place. C'est le cas par exemple de l'Australie, l'Inde, l'Iran, l'Egypte... . Les services des douanes de ces pays demandent donc une garantie qui peut vite coûter très cher, le ***Carnet de Passage en Douane***. Le CPD est délivré en France par l'Automobile Club de France. Pour l'obtenir, il ne faut pas moins qu'un dépôt équivalent à la valeur vénale (côte Argus) de votre véhicule... . Ce carnet est tamponné par les douanes à chaque entrée et sortie des territoires et de retour en France vous devez le présenter à l'Automobile Club de France afin d'être remboursé ou afin que l'argent soit débloqué.
 
 Pour tout le continent Américain, ce document n'est pas obligatoire et n'est pas demandé aux frontières par les douaniers. 
 
