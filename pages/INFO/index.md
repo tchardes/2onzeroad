@@ -113,7 +113,7 @@ Si vous quittez votre emploi et envisagez de partir plusieurs années vous ne se
 
 ### Vaccins 
 
-Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques vaccins et rappels, tétanos, hépatite A, typhoïde et fièvre jaune, cela nous permettra de descendre plus sereinement et le cas échéant vers l'Amérique du Sud. 
+Si pour ma part j'étais à jour, Corinne a du "subir" quelques vaccins et rappels, tétanos, hépatite A, typhoïde et fièvre jaune, cela nous permettra de descendre plus sereinement et le cas échéant vers l'Amérique du Sud. 
 
 Depuis peu, le vaccin de la fièvre jaune est valable à vie et non plus 10 ans renouvelable. S'il n'est obligatoire que pour la Guyane française, mieux vaut être protégé surtout si l'on s'approche de l'Amazonie.  
 
