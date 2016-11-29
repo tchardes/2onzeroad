@@ -215,7 +215,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **Capture** - *Logiciel GoPro*.
 
 
-### Sites internet
+### Sites Internet
 
 
 #### Sites utiles 
