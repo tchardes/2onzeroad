@@ -45,9 +45,10 @@ Certains pays dans le monde veulent être sur qu'une fois sur leur sol, vous le 
 
 Pour tout le continent Américain, ce document n'est pas obligatoire et n'est pas demandé aux frontières par les douaniers. 
 
+
 ## Démarches administratives  
 
-### Impôts 
+### Impôts  
 
 Là, c'est un grand moment. Pour vous la faire courte, impossible d'être un SDF en France, lieu de nos intérêts économique car nous percevons des revenus. Après plusieurs courriels et entretiens avec différents agents bien embarrassés par notre histoire, après interrogation des services des non résidents à Paris, rien à faire, nous devons donner comme adresse celle de notre fils qui deviendra de fait notre mandataire fiscal. Les services fiscaux vous demandent donc clairement de mentir en donnant une adresse fiscale qui n'en est pas une, tout simplement pour désigner le centre des impôts qui aura votre dossier en gestion.
 
@@ -96,7 +97,7 @@ Et éventuellement :
 
 Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel.  
 
-### Inscription sur le site Ariane 
+### Inscription sur le site Ariane  
 
 Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription est entièrement gratuite. Il suffit d'indiquer les lieux dans lesquels on compte se rendre, afin de recevoir des recommandations de sécurité par SMS ou mail si la situation dans le pays se dégrade ou en cas de crise. Une personne que vous aurez désignée comme contact sera également prévenue en cas de besoin. Pour plus de renseignements cliquez **[ici](http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/evenements-et-actualites-du-ministere/article/vous-partez-en-voyage-inscrivez-vous-sur-ariane)**.  
 
