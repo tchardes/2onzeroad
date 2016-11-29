@@ -7,8 +7,8 @@ permalink: /info/
 ---
 
 <p class="info-box bg-info"><i class="fa fa-info-circle"></i>
-Si vous êtes sur cette page car vous vous intéressez et recherchez des informations concernant les démarches à entreprendre pour réaliser ce type de voyage, ne soyez pas effrayés, tout cela se réalise petit à petit. Ce type d'aventure se prépare à l'avance et ce n'est pas en une semaine que l'on passe de la décision au départ effectif. Le plus important est d'enmagasiner le plus d'informations possibles et retenir les idées et options qui correspondent à votre cas de figure. N'ayant plus d'enfant scolarisé, vous ne trouverez pas par exemple sur cette page, de conseil sur la scolarité à distance (CNED) ou sur l'acheminent d'un camping car par voie maritime.  
-Par contre nhésitez pas à revenir de temps en temps, nous mettrons cette partie à jour au fur et à mesure des problèmes rencontrés et de leur résolution.
+Si vous êtes sur cette page car vous vous intéressez et recherchez des informations concernant les démarches à entreprendre pour réaliser ce type de voyage, ne soyez pas effrayés, tout cela se réalise petit à petit. Ce type d'aventure se prépare à l'avance et ce n'est pas en une semaine que l'on passe de la prise de décision au départ effectif. Le plus important est d'enmagasiner le plus d'informations possibles et retenir les idées et options qui correspondent à votre cas de figure. N'ayant plus d'enfant scolarisé, vous ne trouverez pas par exemple sur cette page, de conseil sur la scolarité à distance (CNED) ou sur l'acheminent d'un camping car par voie maritime.   
+Par contre n'hésitez pas à revenir de temps en temps, nous mettrons cette partie à jour au fur et à mesure des problèmes rencontrés et de leur résolution.
 
 </p>
 
@@ -18,7 +18,7 @@ Par contre nhésitez pas à revenir de temps en temps, nous mettrons cette parti
 
 ### Choix 
 
-Lors de la préparation de notre voyage au long cours, le camping-car s'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car à nous reprocher pour l'instant …. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
+Lors de la préparation de notre voyage au long cours, le camping-car s'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car à nous reprocher pour l'instant…. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
 
 Dès l'instant où la décision a été prise, nous avons connu les mêmes interrogations que tous les voyageurs ayant choisi ce mode de locomotion, lequel choisir ?…. De type intégral (US = Class A), profilé (US = Class B+), fourgon (US = Class B), capucine (US = Class C), 4x4 avec cellule (US = Camper), fabriqué sur mesure, de quelle marque, motorisation, avec quelles options…. Bref de quoi alimenter de nombreuses nuits blanches, la lecture de kilomètres de commentaires, arguments, certitudes, sans parler du coût pouvant aller du simple au….  
 
@@ -37,6 +37,13 @@ Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à 
 * Enfin nous compenserons la consommation excessive de ces engins par un rythme plus lent nous permettant d'étaler et lisser le poste "Carburant" de notre budget dans le temps.
 
 Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
+
+
+### Carnet de passage en douane (CDP)
+
+Certains pays dans le monde veulent être sur qu'une fois sur leur sol, vous le quitterez avec votre véhicule sans essayer de le vendre sur place. C'est le cas par exemple de l'Australie, l'Inde, l'Iran, l'Egypte... . Les services des douanes de ces pays demandent donc une garantie qui peut vite coûter très cher, le ***Carnet de Passage en Douane***. Le CDP est délivré en France par l'Automobile Club de France. Pour l'obtenir, il ne faut pas moins qu'un dépôt équivalent à la valeur vénale (côte Argus) de votre véhicule... Ce carnet est tamponné par les douanes à chaque entrée et sortie des territoires et de retour en France vous devez le présenter à l'Automobile Club de France afin d'être remboursé ou afin que l'argent soit débloqué.
+
+Pour tout le continent Américain, ce document n'est pas obligatoire et n'est pas demandé aux frontières par les douaniers. 
 
 ## Démarches administratives  
 
@@ -100,9 +107,14 @@ Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription es
 
 Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
 
+Si vous quittez votre emploi et envisagez de partir plusieurs années vous ne serez plus couvert par la securité sociale au bout d'une année et vous devrez alors optez pour la souscription d'une assurance voyage longue durée de type Marco Polo ou Chapka. Toutes les infos **[ici](http://www.tourdumondiste.com/comparatifs-assurances-voyage)**.  
+ 
+
 ### Vaccins 
 
-Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. Depuis peu ce vaccin est valable à vie et non plus renouvelable tous les 10 ans. S'il n'est obligatoire que pour la Guyane française, mieux vaut être protégé surtout si l'on s'approche de l'Amazonie.  
+Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques vaccins et rappels, Tétanos, Hépatite A, Tuphoïde et fièvre jaune, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud. 
+
+Depuis peu la fièvre jaune est valable à vie et non plus renouvelable tous les 10 ans. S'il n'est obligatoire que pour la Guyane française, mieux vaut être protégé surtout si l'on s'approche de l'Amazonie.  
 
 
 ## Comptes bancaires   
