@@ -9,7 +9,7 @@ permalink: /info/
 <div id="toc"></div>
 
 
-<p class="info-box bg-warning"><i class="fa fa-exclamation-circle"></i-->
+<p class="info-box bg-warning"><i class="fa fa-exclamation-circle"></i>
 Si vous êtes sur cette page car vous vous intéressez et cherchez des informations concernnat les démarches à entreprendre pour réaliser ce type de voyage, ne soyez pas effrayés, tout cela se réalise petit à petit, le plus important est d'enmagasiner et rechercher le plus d'info possible qui correspondent à votre cas.
 
 </p>
