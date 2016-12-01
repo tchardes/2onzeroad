@@ -8,8 +8,12 @@ permalink: /info/
 
 <p class="info-box bg-info"><i class="fa fa-info-circle"></i>
 
-Si vous vous intéressez et recherchez des informations concernant les démarches à entreprendre pour concrétiser ce type de voyage, ne soyez ni effrayés ni inquiets, tout cela se réalise petit à petit. Au final rien de bien compliqué. Ce type d'aventure se prépare à l'avance et ce n'est pas en une semaine que l'on passe de la prise de décision au départ effectif. Le plus important est d'emmagasiner le plus d'informations possibles et retenir les idées et options qui correspondent à votre cas de figure.
-N'ayant plus d'enfant scolarisé, vous ne trouverez pas par exemple sur cette page, de conseil sur la scolarité à distance (CNED) ou sur l'acheminent d'un camping car par voie maritime.
+Si vous vous intéressez à ce type de voyage et recherchez des informations, vous êtes sur la bonne page. Ne soyez ni effrayés ni inquiets par toutes les démarches à entreprendre, tout cela se réalise petit à petit. La préparation d’un voyage au long cours ou tour du monde fait déjà partie du voyage, c'est plusieurs mois d'interrogations, évasions, planification, préparation, budgétisation... en fait plein de mots en « ion ». On devient rapidement des pros en géographie, géopolitique, climat et saisons, histoire, bureaucratie... 
+
+Ce type d'aventure se prépare et ce n'est pas en une semaine que l'on passe de la prise de décision au départ effectif. Consultez plusieurs sites et forums de voyageurs afin d'emmagasiner le plus d'informations possibles pour ne retenir que les idées et options qui correspondent à votre cas de figure. Au final rien de bien compliqué.
+
+N'ayant plus d'enfant scolarisé, vous ne trouverez pas par exemple sur cette page, de conseil sur la scolarité à distance (CNED) ou sur l'acheminent d'un camping-car par voie maritime.
+
 Par contre n'hésitez pas à revenir de temps en temps, nous mettrons cette partie à jour au fur et à mesure des problèmes rencontrés et de leurs résolutions.
 
 </p>
