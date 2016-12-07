@@ -40,7 +40,7 @@ Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à 
 
 * Même si nous avons tous en tête ces énormes Class A sur base de bus, on trouve également des RVs de taille "normale" (24 pieds, 7 m 30), guère plus larges que les européens (+ ou - 20 cm). Bon, il est vrai que les aménagements intérieurs sont souvent un peu dépassés avec une déco carrément kitch, mais ils sont très robustes. Pesant souvent près de 5 tonnes pour un Class C, propulsion arrière à double essieux, ils ne nécessitent pas, aux Amériques, d'un permis poids lourd. Au pire nous le revendrons avant de nous aventurer plus au sud si nous nous rendons compte qu'il n'est pas adapté.  
 
-* Acheter sur place permet d'économiser le shipping, c'est à dire la traversée maritime pour acheminer le camping-car européen soit environ 6000 € selon le port de destination.  
+* Acheter sur place permet d'économiser la traversée maritime pour acheminer le camping-car européen aux Amériques, soit environ 6000 € selon le port de destination.  
 
 * Au niveau équipements de base, les américains aimant leur confort, tous les RV sont équipés d'un générateur qui permet d'alimenter un four micro-onde, un climatiseur un ou plusieurs écrans TV lorsque l'on est en autonomie, un réservoir de propane, une fosse septique et souvent une ou deux extensions qui permettent à l'arrêt d'élargir ou rallonger le RV pour augmenter la surface intérieure.  
 
