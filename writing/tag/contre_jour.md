@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_tag"
-tag: "Randonée"
-permalink: "/writing/tag/randonee/"
+tag: "Contre-Jour"
+permalink: "/writing/tag/contre_jour/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---

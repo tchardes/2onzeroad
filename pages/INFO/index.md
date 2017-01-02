@@ -1,119 +1,100 @@
 ---
 layout: page
 title: "INFOS PRATIQUES"
-description: "Site, Véhicule, Santé, Banque, Visa..."
+description: "Véhicule, Santé, Banque, Visa..."
 header-img: "assets/owner/hero/about-bg.jpg"
 permalink: /info/
 ---
 
+<p class="info-box bg-info"><i class="fa fa-info-circle"></i>
+
+Si vous vous intéressez à ce type de voyage et recherchez des informations, vous êtes sur la bonne page. Ne soyez ni effrayés ni inquiets par toutes les démarches à entreprendre, tout cela se réalise petit à petit. La préparation d’un voyage au long cours ou tour du monde fait déjà partie du voyage, c'est plusieurs mois d'interrogations, évasions, planification, préparation, budgétisation... en fait plein de mots en « ion ». On devient rapidement des pros en géographie, géopolitique, climat et saisons, histoire, bureaucratie... 
+
+Ce type d'aventure se prépare et ce n'est pas en une semaine que l'on passe de la prise de décision au départ effectif. Consultez plusieurs sites et forums de voyageurs afin d'emmagasiner le plus d'informations possibles pour ne retenir que les idées et options qui correspondent à votre cas de figure. Au final rien de bien compliqué.
+
+N'ayant plus d'enfant scolarisé, vous ne trouverez pas, par exemple, sur cette page de conseil sur la scolarité à distance (CNED) ou sur l'acheminement d'un camping-car par voie maritime.
+
+Par contre n'hésitez pas à revenir de temps en temps, nous mettrons cette partie à jour au fur et à mesure des problèmes rencontrés et de leurs résolutions.
+
+</p>
+
 <div id="toc"></div>
 
-### Pourquoi ce site Web :
+## Notre HomeZeRoad 
 
-Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des sujets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. Tout a déjà été écrit sur le sujet et par bien meilleur que nous. Nous tenterons simplement de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
+### Choix 
 
-Il nous semble aussi que c'est un juste retour des choses tant la lecture de plusieurs dizaines de carnets de route nous a conforté dans notre idée de larguer les amarres et nous a permis de nous faire une idée de ce qui allait nous attendre. 
-
-Vous trouverez sur ce site un carnet de route avec des récits rédigés au fil de l'eau sur notre avancée ou bien sur un sujet bien particulier qui aura plus ou au moins attiré notre attention. Nous essayerons de l'agrémenter de photos, vidéos et de cartes pour situer tout ça. N'hésitez pas à commenter ou nous poser des questions si vous souhaitez des précisions.
-
-Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
-
-* Les articles type blog, avec un bandeau et icône de couleur bleu ;
-* Les articles type carnet de route, avec un bandeau et icône de couleur rouge ;
-* Les bilans des états ou pays après y avoir séjourné, avec un bandeau et icône de couleur verte ;  
-
-* Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Galerie ;
-* Les vidéos seront stockées et visibles sur YouTube et directement dans les posts ;  
-
-* Des tags ou rubriques qui permettent de choisir de lire les articles en fonction d'un lieu ou d'une catégorie ;
-* Des tags ou rubriques qui permettent de visionner les photos et vidéos en fonction d'un lieu ou d'une catégorie ;   
-
-* Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
-* Une carte reprenant, dans les grandes lignes, notre parcours ;
-* Une carte recensant les lieux que nous aimerions visiter (pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant »
-Claire, Michael, Soraya, Jimmy et Amélie). N’hésitez pas à l'utiliser à votre tour comme base de départ ;
-* Dans le futur, une carte matérialisant nos meilleurs bivouacs.
-
-
-Pour nous faire la main sur la rédaction et sur l'ergonomie du site, nous avons publié les récits de nos derniers voyages, à **Cuba** et **Puerto Rico**.
-
-Le site a été entièrement imaginé et construit par notre fils Alexandre, grand manitou de l'informatique. Afin de faciliter la gestion de notre voyage, il nous a également concocté une application "RoadTripManager" qui nous permettra de recenser au quotidien, nos dépenses, activités, bivouacs, trajets ... du sur mesure. 
-
-
-### Notre HomeZeRoad :
-
-Lors de la préparation de notre voyage au long cours, le camping-car s'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car à nous reprocher pour l'instant …. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
+Lors de la préparation de notre voyage au long cours, le camping-car s'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car à nous reprocher pour l'instant…. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
 
 Dès l'instant où la décision a été prise, nous avons connu les mêmes interrogations que tous les voyageurs ayant choisi ce mode de locomotion, lequel choisir ?…. De type intégral (US = Class A), profilé (US = Class B+), fourgon (US = Class B), capucine (US = Class C), 4x4 avec cellule (US = Camper), fabriqué sur mesure, de quelle marque, motorisation, avec quelles options…. Bref de quoi alimenter de nombreuses nuits blanches, la lecture de kilomètres de commentaires, arguments, certitudes, sans parler du coût pouvant aller du simple au….  
 
 A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motorhome " de Class B+ ou C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux Etats-Unis ou si nous n'obtenons pas le Visa B2 US et que nous devions l'acquérir au Quebec. 
 
-Quelles sont les motivations de ce choix ?, qui reste personnel et adapté à notre vision des choses. 
+Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à notre vision des choses**. 
 
-* Depuis peu, les douaniers étasuniens ont remis au goût du jour un vieux texte de loi indiquant que les véhicules de marque étrangères ne pouvaient rester plus de 12 mois sur leur sol à partir de la date de leur première entrée sous peine d'interdiction de sortie du territoire et destruction dudit véhicule ou procédure d'homologation, dont le prix peut-être prohibitif. Ces 12 mois sont pour nous rédhibitoires puisque nous espérons pouvoir laisser notre HomeZeRoad au moins 24 mois en comptant nos retours en métropole tous les 6 mois, si nous obtenons notre visa B2 (Cf, "Visa"). 
+* Depuis peu, les douaniers étasuniens ont remis au goût du jour un vieux texte de loi indiquant que les véhicules de marques étrangères ne pouvaient rester plus de 12 mois sur leur sol à partir de la date de leur première entrée sous peine d'interdiction de sortie du territoire et destruction dudit véhicule ou procédure d'homologation, dont le prix peut-être prohibitif. Ces 12 mois sont pour nous rédhibitoires puisque nous espérons pouvoir laisser notre HomeZeRoad au moins 24 mois en comptant nos retours en métropole tous les 6 mois, si nous obtenons notre visa B2 (Cf, "Visa USA"). 
 
-* Au niveau motorisation, les RVs sont équipés principalement de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class B+ ou C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro et donc moins regardantes sur la qualité des carburants assez inégale, même entre les différents états des Etats-Unis. 
+* Au niveau motorisation, les RVs sont équipés le plus souvent de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class B+ ou C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro 5, 6... et donc moins regardantes sur la qualité des carburants assez inégale, même entre les différents états des Etats-Unis. 
 
-* Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord-américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur.
+* Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord-américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur. Au pire nous le revendrons avant de nous aventurer plus au sud si nous nous rendons compte qu'il n'est pas adapté.  
 
-* Même si nous avons tous en tête ces énormes Class A sur base de bus, on trouve également des RVs de taille "normale" guère plus larges que les européens. Bon, il est vrai qu'ils sont moins bien conçus, aménagés et souvent avec une déco, pour nous, un peu dépassée voire carrément vieillotte. Au pire nous le revendrons avant de nous aventurer plus au sud si nous nous rendons compte qu'il n'est pas adapté.
+* Même si nous avons tous en tête ces énormes Class A sur base de bus, on trouve également des RVs de taille "normale" (24 pieds, 7 m 30), guère plus larges que les européens (+ ou - 20 cm). Bon, il est vrai que les aménagements intérieurs sont souvent un peu dépassés avec une déco carrément kitch, mais ils sont très robustes. Pesant souvent près de 5 tonnes pour un Class C, propulsion arrière à double essieux, ils ne nécessitent pas, aux Amériques, d'un permis poids lourd. 
+
+* Acheter sur place permet d'économiser la traversée maritime pour acheminer le camping-car européen aux Amériques, soit environ 6000 € selon le port de destination.  
+
+* Au niveau équipements de base, les américains aimant leur confort, tous les RV sont équipés d'un générateur qui permet d'alimenter un four micro-onde, un climatiseur un ou plusieurs écrans TV lorsque l'on est en autonomie, un réservoir de propane, une fosse septique et souvent une ou deux extensions qui permettent à l'arrêt d'élargir ou rallonger le RV pour augmenter la surface intérieure.  
 
 * Enfin nous compenserons la consommation excessive de ces engins par un rythme plus lent nous permettant d'étaler et lisser le poste "Carburant" de notre budget dans le temps.
 
 Nous y reviendrons plus en détail quand nous y serons et l'aurons acquis.
 
 
-### Santé :
+### Carnet de passage en douane (CPD)
 
-Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
+Certains pays dans le monde veulent être sûrs qu'une fois sur leur sol, vous le quitterez avec votre véhicule sans essayer de le vendre sur place. C'est le cas par exemple de l'Australie, l'Inde, l'Iran, l'Egypte... . Les services des douanes de ces pays demandent donc une garantie qui peut vite coûter très cher, le ***Carnet de Passage en Douane***. Le CPD est délivré en France par l'Automobile Club de France. Pour l'obtenir, il ne faut pas moins qu'un dépôt équivalent à la valeur vénale (côte Argus) de votre véhicule... . Ce carnet est tamponné par les douanes à chaque entrée et sortie des territoires et de retour en France vous devez le présenter à l'Automobile Club de France afin d'être remboursé ou afin que l'argent soit débloqué.
 
-### Vaccins :
+Pour tout le continent Américain, ce document n'est pas obligatoire et n'est pas demandé aux frontières par les douaniers. 
 
-Si pour ma part j'étais à jour au niveau des vaccins, Corinne a du "subir" quelques rappels et en a profité pour se faire vacciner contre la fièvre jaune, valable 10 ans, cela nous permettra de descendre le cas échéant vers l'Amérique du Sud.
 
-### Comptes bancaires :
+## Démarches administratives  
 
-Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium et avons ouvert un compte auprès de la banque N26 qui fournit une Mastercard. Cette carte permet des achats et retraits à l'étranger sans frais. Depuis, la mastercard n'est plus gratuite mais plus abordable que les banques classiques.
+### Impôts  
 
-### Permis de conduire :
+Là, c'est un grand moment. Pour vous la faire courte, impossible d'être un SDF (Sans Domicile Fiscal) en France, lieu de nos intérêts économiques car nous percevons des revenus. Après plusieurs courriels et entretiens avec différents agents des Impôts bien embarrassés par notre histoire, après interrogation du service des non résidents à Paris, rien à faire, nous devons donner comme adresse celle de notre fils qui deviendra de fait notre mandataire fiscal. Les services fiscaux vous demandent donc clairement de mentir en donnant une adresse fiscale qui n'en est pas une, tout simplement pour désigner le centre des impôts qui aura votre dossier en gestion.
 
-Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poid lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international, valable 3 ans. 
+### Permis de conduire 
 
-### Langues :
+Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poids lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international chacun, valable 3 ans.  
 
-Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...  
 
-En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière méxicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "calientes" en perpective.
+### Visa USA de type B2  
 
-### Visa USA de type B2  :
+Plusieurs types de visa sont délivrés par les Etats-Unis en fonction du type de voyage que vous souhaitez réaliser. Le visa le plus commun est l'ESTA qui permet de séjourner aux USA pour une période de 90 jours.  
 
-Plusieurs types de visa sont délivrés par les Etats-Unis en fonction du type de voyage que vous souhaitez réaliser. Le visa le plus commun est l'ESTA qui permet de séjourner aux USA pour une période de 90 jours.
+Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des Etats-Unis à Paris aux personnes désirant se rendre au USA pour des raisons touristiques ou médicale. En général, le demandeur se voit délivrer un visa pour une durée de un, trois ou dix ans l’autorisant à séjourner aux Etats-Unis six mois par an. Il est possible d’obtenir une extension allant jusqu’à six mois additionnels. Toutefois, ce visa n'est pas un droit. Au final c'est l'agent de l'immigration qui vous accueillera à votre arrivée sur le sol américain qui décidera seul et sans appel possible, le temps qu'il vous accordera.  
 
-Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des Etats-Unis à Paris aux personnes désirant se rendre au USA pour des raisons touristiques ou médicale. En général, le demandeur se voit délivrer un visa pour une durée de un, trois ou dix ans l’autorisant à séjourner aux Etats-Unis six mois par an. Il est possible d’obtenir une extension allant jusqu’à six mois additionnels. Toutefois, ce visa n'est pas un droit. Au final c'est l'agent de l'immigration qui vous accueillera à votre arrivée sur le sol américain qui décidera seul et sans appel possible, le temps qu'il vous accordera.
+#### Procédure pas à pas 
 
-#### Procédure pas à pas :
-
-* Se connecter au site Internet de l'ambassade US et se rendre sur la page des visas non immigrant.
+* Se connecter au site Internet de l'ambassade US et se rendre sur la page des visas non immigrant **[ici](https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/)**.
 * Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Si vous n'y arrivez pas il faudra l’amener lors de l'entretien.
 * Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard.
 * Créer un compte personnel avec login et mot de passe.
-* Se connecter à son compte, indiquer l'adresse de livraison des passeports abondés ou non du visa.
-* Effectuer un virement en ligne (144 €/Pers. en 2016), vous avez 8 jours pour payer sous peine de devoir tout recommencer.
+* Se connecter à son compte, indiquer l'adresse de livraison des passeports qui seront enrichis ou pas du visa.
+* Effectuer un virement en ligne (144€ - 160$/Pers. en 2016), vous avez 8 jours pour payer sous peine de devoir tout recommencer.
 * Attendre un mail confirmant que l'argent a bien été reçu (entre 1 et 3 jours)
 * Se reconnecter à votre compte et choisir sur un calendrier la date et heure de votre rendez-vous à l'ambassade des Etats-Unis à Paris.
 
-#### Déroulement de l'entretien :
+#### Déroulement de l'entretien 
 
 Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement et de manière illégale aux Etats-Unis. Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays et que vous avez tout intérêt à y revenir.
 
-#### Composition du dossier complet :
+#### Composition du dossier complet 
 
 * Son livret de famille ;
 * Un Relevé d'Identité Bancaire ;
 * Un contrat de travail ;
-* Les trois dernières fiches de paies ;
-* Une attestation de retraite (si vous êtes à la retraite).   
-
+* Les trois dernières fiches de paie ;
+* Une attestation de retraite (si vous êtes à la retraite) ;
 * Son passeport valide ;
 * Une enveloppe Chronopost sur le dos de laquelle est inscrite votre adresse ;
 * Une impression de la page confirmant que votre formulaire a bien été envoyé ;
@@ -121,23 +102,93 @@ Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pa
 
 Et éventuellement :
 
-* Ses titres de propriétés ;
+* Ses titres de propriété ;
 * Ses attestations de paiement de loyer.
 
+Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel.  
 
-Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sezame. La décision est sans appel.
+### Inscription sur le site Ariane  
 
-
-### Divers :
-
-Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous avons pris des cours et nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.  
+Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription est entièrement gratuite. Il suffit d'indiquer les lieux dans lesquels on compte se rendre, afin de recevoir des recommandations de sécurité par SMS ou mail si la situation dans le pays se dégrade ou en cas de crise. Une personne que vous aurez désignée comme contact sera également prévenue en cas de besoin. Pour plus de renseignements cliquez **[ici](http://www.diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/evenements-et-actualites-du-ministere/article/vous-partez-en-voyage-inscrivez-vous-sur-ariane)**.  
 
 
-### Applications :
+## Santé   
 
-Nous avons recensé et installé quelques applications sous IOS qui nous seront utiles et que nous avons trouvés pratiques.
+### Sécu, complémentaire et plus 
 
-#### Aide au voyage :
+Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
+
+Si vous quittez votre emploi et envisagez de partir plusieurs années vous ne serez plus couverts par la securité sociale au bout d'une année et vous devrez alors opter pour la souscription d'une assurance voyage longue durée de type Marco Polo ou Chapka. Toutes les infos **[ici](http://www.tourdumondiste.com/comparatifs-assurances-voyage)**.  
+ 
+
+### Vaccins 
+
+Si pour ma part j'étais à jour, Corinne a du "subir" quelques vaccins et rappels, tétanos, hépatite A, typhoïde et fièvre jaune, cela nous permettra de descendre plus sereinement et le cas échéant, vers l'Amérique du Sud. 
+
+Depuis peu, le vaccin de la fièvre jaune est valable à vie et non plus 10 ans renouvelable. S'il n'est obligatoire que pour la Guyane française sur le continent américain, mieux vaut être protégé surtout si l'on s'approche de l'Amazonie.  
+
+
+## Comptes bancaires   
+
+Il est utile de posséder deux cartes bancaires, une Visa et une Mastercard afin de pallier les problèmes de perte, de vol, de blocage ou refus de certains distributeurs qui n'acceptent que l'une ou l'autre.  
+
+### Banque traditionnelle 
+
+Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium. Il est pratique d'utiliser cette carte afin de bénéficier de l'assurance qui s'y rattache mais les frais bancaires sont trop importants pour être utilisée lors d'une voyage au long cours.  
+
+### Banque en ligne 
+
+Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.  
+
+### Validation achats par Internet 
+
+Certains achats par internet demandent une authentification forte via un code envoyé par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual SIM afin de pouvoir l'équiper, le moment venu, simultanément d'une SIM de mon opérateur français, Free, et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à l’environnement d'Androïd non plus.  
+
+Du coup, nous avons obtenu de notre banque, non sans mal d'ailleurs, de remplacer l'envoi du code par SMS, par Mail. On part du principe que si nous effectuons un achat par Internet c'est que nous sommes connectés et donc en capacité de recevoir le code par mail.  
+
+## Communication   
+
+### Téléphonie 
+
+Pour les premiers mois de notre voyage nous aurons uniquement notre SIM Free avec un abonnement à 20€ qui permet de téléphoner 35 jours par an et par destination, valable notamment pour les USA et le Canada. 
+
+Dès que nous rentrerons au Mexique nous passerons notre abonnement Free à 2€ et prendrons une carte SIM chez un opérateur local.   
+
+### Internet 
+
+En Amérique du Nord nous n'aurons aucun problème pour trouver du WIFI gratuit et nous privilégierons les applications web pour rester en contact avec nos proches et mettre à jour le site. Dès notre entrée en Amérique latine, nous verrons si les abonnements aux opérateurs locaux nous permettent de bénéficier suffisamment de data.
+Bien que le WIFI soit plus rare et de moins bonne qualité, en général, en Amérique du Sud on trouve néanmoins de nombreux spots gratuits. Le partage de connexion permettra depuis notre téléphone de bénéficier du WIFI sur nos autres appareils.
+
+Si jamais nous ne sommes pas satisfaits, nous verrons pour augmenter la puissance de notre captation WIFI par la mise en place d'une antenne WIFI de type Yagi Bazooka et d'un routeur WIFI afin de pourvoir connecter tous nos appareils.
+
+
+### Balises de détresse 
+
+Il existe plusieurs types de balise de détresse qui proposent différentes options, notamment communiquer par SMS avec des tiers. Pour le début de notre voyage nous n'en serons pas équipé et verrons plus tard en traversant des zones moins sûres ou moins bien couvertes au niveau du réseau.
+
+Les plus connues sont :   
+
+#### Balise de localisation SPOT GEN3 
+
+La balise SPOT permet de bénéficier d'un service de suivi de progression amélioré.
+Suivi personnalisé : vous pourrez modifier la périodicité des points de géolocalisation (toutes les 2min 30s, ou 5 min, 10min, 30 ou 60 min). Voir abonnement en vous rendant à cette adresse : FindMeSPOT.com
+Suivi en fonction de vos mouvements : SPOT envoi des points de géolocalisation uniquement lorsque vous bougez.
+
+#### Balise de localisation DELORME INREACH EXPLORER 
+
+La dernière génération des balises de géolocalisation "satellite" dédiées aux personnes.
+Plusieurs fonctions dont l'envoi et la réception de message texte, le secours et le suivi.
+Posséder une balise DeLorme, c'est aussi accorder à vos amis et à votre famille une certaine tranquillité d'esprit lorsque vous partez.
+Réseau satellitaire Iridium : couverture mondiale.
+
+
+## Applications et sites Internet 
+
+### Applications
+
+Nous avons recensé et installé quelques applications sous IOS qui nous seront utiles et que nous avons trouvées pratiques.
+
+#### Aide au voyage 
 
 * **iOverlander** - *Base de données des endroits pour des overlanders et des voyageurs. Il inclut camper, hôtels, restaurants, mécanique, l'eau, remplissage de propane et plein d'autres catégories* ;
 * **OsmAnd Maps** -  *Application cartographique et de navigation avec accès aux données libres OpenStreetMap (OSM), à la couverture mondiale de haute qualité. Toutes les données cartographiques peuvent être stockées sur la carte mémoire de votre appareil pour une utilisation hors ligne* ;
@@ -150,7 +201,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **Sites de nos banques**.
 
 
-#### Aide à la photographie/vidéo :
+#### Aide à la photographie/vidéo 
 
 * **The Photographer's Ephemeris** - *Programme permettant de connaître les répercussions de la luminosité solaire ou lunaire partout dans le monde à une date précise. Il assiste dans la planification de session de photo de paysage ou de milieu urbai*n ;
 * **Photo Transit** - *Outil de planification plan basé sur une carte pour les photographes de plein air qui utilisent des appareils photo à objectifs interchangeables (comme SLR s). Planifiez le meilleur appareil photo possible, des lentilles et des lieux de tournage pour votre voyage de photo ou de la cession en utilisant le complexe intégré dans le champ de vue simulateur* ;
@@ -160,16 +211,23 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **TL Calc** - *Une calculatrice time-lapse rapide et simple avec trois modes. Le mode par défaut vous permet de déterminer l'intervalle d'obturation (temps entre plans) qui est nécessaire pour atteindre une longueur de clip vidéo souhaitée pour une durée d'enregistrement donné* ; 
 * **Capture** - *Logiciel GoPro*.
 
-### Sites utiles :
+
+### Sites Internet
+
+
+#### Sites utiles 
 
 * [Forum Amérique du Nord et Amérique Centrale](https://groups.google.com/forum/#!forum/le-lien-amnordcentrale) - lelien-amnordcentrale, l'Amérique du Nord et Centrale en camping-car ;
 * [Forum Amérique du Sud](https://fr.groups.yahoo.com/neo/groups/lelien-amsud/info) - lelien-amsud, l'Amérique du Sud en camping-car ;
 * [Roadtrippin](http://www.roadtrippin.fr/) - Guide - Forum - Préparation voyage aux USA ;
 * [Ouestusa](http://www.ouestusa.fr/) - Bienvenue aux passionnés de l'Ouest Américain ;
 * [Boondockerswelcome](https://www.boondockerswelcome.com/) - Overnight boondocking on fellow RVers' property ;
+* [Forum Tourdumondiste](http://www.tourdumondiste.com/) - Le blog de voyage de François : une mine d'info pour préparer votre tour du monde ;
+* [Flyonward](https://flyonward.com/fr/) - Location de billet retour.
 
 
-### Sites de voyageurs :
+
+#### Sites de voyageurs 
 
 Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont des trésors de renseignements et qui nous ont donné le goût et l'envie de nous lancer :
 
@@ -200,6 +258,26 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 * ... et bien d'autres ...
 
 
-### Sites de voyageurs croisés :
+#### Sites de voyageurs croisés 
 
 Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de notre périple.
+
+## Divers   
+
+### Langues   
+
+Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...   
+
+En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière mexicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "calientes" en perspective.  
+
+
+### Photo, Vidéo, Plongée...   
+
+Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous nous sommes équipés en matériel photo et vidéo et nous avons pris des cours, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
+
+### Animal de compagnie   
+
+Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des Antilles pour le climat moins clément du centre de la France.  
+
+
+
