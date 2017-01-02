@@ -10,7 +10,7 @@
         </div>
         <div class="post-preview-meta post-preview-meta-{{post.category}}">
             <a href="#"><i class="fa fa-calendar"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a>
-            <a href="#"><i class="fa fa-map-marker"></i>{{ post.city | capitalize }}{% if post.city and post.country %}, {% endif %}{{ post.country | capitalize }}</a>
+            <a href="#"><i class="fa fa-map-marker"></i>{{ post.city }}{% if post.city and post.country %}, {% endif %}{{ post.country | capitalize }}</a>
         </div>
     </div>
     <div class="post-preview-category">
