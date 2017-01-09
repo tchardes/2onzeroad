@@ -10,7 +10,6 @@ header-img: "assets/owner/blog/header/post-bg-havane.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-havane.jpg
 tags: [Capitale]
 flickr-tag: "Havane"
-
 country: Cuba
 city: la Havane
 category: "blog"
