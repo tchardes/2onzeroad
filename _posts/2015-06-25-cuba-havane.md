@@ -1,16 +1,15 @@
 ---
 layout:     blog
 title:      "La Havane"
-preview:    " Nous trouvons beaucoup de charme à la vieille ville même si... "
+preview:    "Nous trouvons beaucoup de charme à la vieille ville même si... "
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-25 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-havane.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-havane.jpg
-tags: [Capitale, Ville]
+tags: [Capitale]
 flickr-tag: "Havane"
-
 country: Cuba
 city: la Havane
 category: "blog"
@@ -31,11 +30,11 @@ Arrivés en Martinique, on nous apprend que la compagnie **La Cubana de Aviacion
 
 Les formalités aéroportuaires terminées, notre guide nous prend en compte et partons en direction de la Havane dans un mini car. Notre groupe ne compte que 3 autres couples de martiniquais, très sympathiques. Dès que nous entrons dans le flux de la circulation, notre voyage dans le temps commence. Nous sommes doublés par de très belles américaines de toutes marques et couleurs, témoignage d'une autre époque. 
 
-Notre hôtel, l'**Occidental Miramar** est situé dans un quartier très riche, au milieu d'imposantes bâtisses, témoignage d'une grande puissance et richesse avant la "Révolution" et transformées aujourd'hui principalement en ambassades.
+Notre hôtel, l'**Occidental Miramar** est situé dans un quartier très riche, au milieu d'imposantes bâtisses, témoignage d'une grande puissance et richesse avant la "révolution" et transformées aujourd'hui principalement en ambassades.
 
-Nous trouvons beaucoup de charme à la vieille ville même si les façades sont en piteux état. On peut s'en rendre compte en empruntant le « malacon » route qui longe le bord de mer. L'absence de politique d'entretien et de rénovation depuis la fin des années 50 est criarde. Toutefois, sous l'impulsion de l'Unesco un gros chantier de restauration est en cours. Ils n'hesitent pas à ne garder que la façade et détruire tout le reste du bâtiment pour partir sur du neuf. La ville abrite une très belle architecture, qu'elle soit militaire, baroque, néoclassique, art nouveau et moins belle, révolutionnaire.  
+Nous trouvons beaucoup de charme à la vieille ville même si les façades sont en piteux état. On peut s'en rendre compte en empruntant le « Malecon » route qui longe le bord de mer. L'absence de politique d'entretien et de rénovation depuis la fin des années 50 est criarde. Toutefois, sous l'impulsion de l'Unesco un gros chantier de restauration est en cours. Ils n'hesitent pas à ne garder que la façade et détruire tout le reste du bâtiment pour partir sur du neuf. La ville abrite une très belle architecture, qu'elle soit militaire, baroque, néoclassique, art nouveau et moins belle, révolutionnaire.  
 
-Bien que notre programme était bien défini, nous avons pu prendre un taxi devant l'hôtel le soir pour nous déplacer dans la ville. 
+Bien que notre programme soit bien chargé, nous avons pu prendre un taxi devant l'hôtel le soir pour nous déplacer dans la ville. 
 
  
 ### Nous avons aimé :

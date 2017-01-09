@@ -10,12 +10,12 @@
         </div>
         <div class="post-preview-meta post-preview-meta-{{post.category}}">
             <a href="#"><i class="fa fa-calendar"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a>
-            <a href="#"><i class="fa fa-map-marker"></i>{{ post.city | capitalize }}{% if post.city and post.country %}, {% endif %}{{ post.country | capitalize }}</a>
+            <a href="#"><i class="fa fa-map-marker"></i>{{ post.city }}{% if post.city and post.country %}, {% endif %}{{ post.country }}</a>
         </div>
     </div>
     <div class="post-preview-category">
         {% for tag in post.tags %}
-            <div><a href="{{ site.baseurl }}/writing/tag/{{ tag | cgi_encode }}/" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ tag }}</a></div>
+            <div><a href="{{ site.baseurl }}/writing/tag/{{ tag  | slugify }}/" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ tag }}</a></div>
         {% endfor %%}
     </div>
 </div>

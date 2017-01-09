@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "A la recherche de E.T."
+title:      "A la recherche de E.T.2"
 preview:    "Vous connaissez forcément ce site qui a été exploité plusieurs fois par le cinéma, notamment dans la scène finale du film..."
 
 parent-id:  2016-07-10-puerto-rico
