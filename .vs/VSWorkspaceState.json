@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\pages\\gallery",
+    "\\_includes",
     "\\_posts"
   ],
+  "SelectedNode": "\\_includes\\post_preview.html",
   "PreviewInSolutionExplorer": false
 }
