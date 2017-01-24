@@ -75,16 +75,12 @@ Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des E
 
 * Se connecter au site Internet de l'ambassade US et se rendre sur la page des visas non immigrant **[ici](https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/)**.
 * Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Si vous n'y arrivez pas il faudra l’amener lors de l'entretien.
-* Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard.
+* Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard. Par contre, à la fin du processus et après la signature numérique, il affiche un résumé avec votre photo, vos principaux renseignements et un code barre. Il faut absoluement imprimer cette page pour chaque personne car elle vous sera demandée à l'entrée de l'ambassade.
 * Créer un compte personnel avec login et mot de passe.
 * Se connecter à son compte, indiquer l'adresse de livraison des passeports qui seront enrichis ou pas du visa.
 * Effectuer un virement en ligne (144€ - 160$/Pers. en 2016), vous avez 8 jours pour payer sous peine de devoir tout recommencer.
 * Attendre un mail confirmant que l'argent a bien été reçu (entre 1 et 3 jours)
 * Se reconnecter à votre compte et choisir sur un calendrier la date et heure de votre rendez-vous à l'ambassade des Etats-Unis à Paris.
-
-#### Déroulement de l'entretien 
-
-Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement et de manière illégale aux Etats-Unis. Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays et que vous avez tout intérêt à y revenir.
 
 #### Composition du dossier complet 
 
@@ -94,7 +90,6 @@ Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pa
 * Les trois dernières fiches de paie ;
 * Une attestation de retraite (si vous êtes à la retraite) ;
 * Son passeport valide ;
-* Une enveloppe Chronopost sur le dos de laquelle est inscrite votre adresse ;
 * Une impression de la page confirmant que votre formulaire a bien été envoyé ;
 * Un justificatif du paiement des frais de la demande de visa.
 
@@ -102,6 +97,14 @@ Et éventuellement :
 
 * Ses titres de propriété ;
 * Ses attestations de paiement de loyer.
+
+#### But de l'entretien 
+
+Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement et de manière illégale aux Etats-Unis et que vous avez les moyens financiers sufffisants pour vivre sur place et surtout rentrer en France. Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays et que vous avez tout intérêt à y revenir.
+
+#### Déroulement de l'entretien
+
+Une fois dans l'ambassade vous faites la queue dans une première file d'attente, oui parce-qu'en fait au jour J et l'heure H se sont plusieurs dizaines de personnes qui ont rendez-vous en même temps, l'agent au premier guichet filtre et vérifie les documents, les passeports et prend vos empreintes. Si c'est OK, vous faites une deuxième queue pour rencontrer un autre agent, toujours derrière une vitre. La personne vous pose de nombreuses questions. Personnellement nous lui avons raconté notre projet avec à l'appui des copies d'écrans de Google Maps retraçant notre futur parcours, ainsi qu'un courier de notre banque attestant de nos actifs. Après un bon quart d'heure d'entretien elle nous a indiqué qu'elle donnait un avis positif à notre demande.  
 
 Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel.  
 
