@@ -1,9 +1,9 @@
 <!-- Footer -->
 <footer>
-    <div style="position:absolute;max-height:150px;overflow:hidden;">
+    <div style="overflow:hidden;">
         <section id="photos"></section>
     </div>
-    <div style="position:absolute;width:100%">
+    <div style="height: 150px;">
         <h2 class="copyright">{{ site.title }} &copy;  {{ site.time | date: '%Y' }}</h2>
         <!--<h3 class="copyright" style="padding:10px">Powered by <a href="https://github.com/">Github</a> - <a href="https://github.com/jekyll/">Jekyll</a>.</h3>-->
     </div>
@@ -40,7 +40,6 @@
                 // other options
             });
         });
-
 
     $(document).ready(function() {
         $('#toc').toc();

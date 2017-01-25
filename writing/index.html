@@ -3,7 +3,6 @@ layout: page
 description: "Tous nos articles"
 title: "BLOG"
 header-img: "assets/owner/hero/writing-bg.jpg"
-permalink: /writing/
 ---
 
 <div class="row">
@@ -20,25 +19,23 @@ permalink: /writing/
  
  </div>
 
-<p>&nbsp;</p>
-
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    
+    <li class="previous {% if paginator.previous_page %}{% else %}disabled{% endif %}">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Posts Précédents</a>
     </li>
-    {% endif %}
-    <span class="button-height" style="font-size:.45em;"> 
+    
+    <span class="button-height"> 
         Page {{ root_url }}{{paginator.page}} of {{ root_url }}{{paginator.total_pages}}
     </span>
 
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+
+    <li class="next {% if paginator.next_page %}{% else %}disabled{% endif %}">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Posts Suivants &rarr;</a>
     </li>
-    {% endif %}
+
 </ul>
 {% endif %}
 

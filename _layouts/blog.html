@@ -11,10 +11,23 @@
     <body> 
 
         {% assign relatedPosts = "" | split:"|"  %}
+        
         {% for post in site.posts %}       
-            {% if page.id != post.id and (post.path contains page.parent-id or page.path contains post.parent-id or (post.parent-id and page.parent-id == post.parent-id)) %}
+            {% assign areEquals = false %}
+            {% assign hasParents = false %}
+
+            {% if post.parent-id and page.parent-id == post.parent-id %}
+                {% assign areEquals = true %}
+            {% endif %}
+
+            {% if post.path contains page.parent-id or page.path contains post.parent-id or areEquals %}
+                {% assign hasParents = true %}
+            {% endif %}
+
+            {% if page.id != post.id and hasParents == true %}
                 {% assign relatedPosts = relatedPosts | push: post %}
             {% endif %}
+
         {% endfor %}
 
         {% include nav.html %}
@@ -50,7 +63,7 @@
                                     <i class="fa fa-tags" style="padding:0 5px 0 10px"></i>
                                     {% for tag in page.tags %}<a style="color:white;" href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;-&nbsp;{% endunless %}{% endfor %}{% endif %}
 
-                                    {% if page.category == "roadmap" and relatedPosts | size > 1 %}
+                                    {% if page.category == "roadmap" and relatedPosts.size > 1 %}
                                         <i class="fa fa-folder-open" style="padding:0 5px 0 10px"></i> {{ relatedPosts | size }} article(s)
                                     {% endif %}
 
@@ -121,7 +134,7 @@
                 </div>
             </div>
 
-            {% if relatedPosts | size > 0 %}
+            {% if relatedPosts.size > 0 %}
                 <div class="container">
                     <div class="row">                           
                         <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">

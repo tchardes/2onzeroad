@@ -1,0 +1,40 @@
+---
+layout: page
+title: "2onzeroad"
+description: "Destinations"
+header-img: "assets/owner/hero/home-bg.jpg"
+permalink: /destinations
+---
+
+{% capture getParam %}<script>document.write(getQueryParam("country"));</script>{% endcapture %}
+{% assign plop = getParam | split: "#" %}
+{% assign country = plop.last | lstrip %}
+
+
+<script>
+var getQueryParam = function(param) {
+    var found;
+    window.location.search.substr(1).split("&").forEach(function(item) {
+        if (param ==  item.split("=")[0]) {
+            found = item.split("=")[1];
+        }
+    });
+    return "#" + found;
+};
+</script>
+
+{% for post in site.posts %}
+
+    {{post.country}}
+    {% if post.country == getParam %}
+        {% assign post = site.posts.first %}
+        {% assign content = post.content %}
+
+        <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
+            {% include post_preview.html %}
+        </div>
+
+    {% endif %}
+{% endfor %}
+
+{{ country | split: "#" | last }}
