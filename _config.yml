@@ -2,6 +2,9 @@
 title: "2onzeroad"
 description: Carnet de voyages
 
+# set the encoding to utf-8
+encoding: utf-8
+
 # Files
 baseurl:
 pagesdir: pages
@@ -74,7 +77,7 @@ kramdown:
     input:          GFM
 sass:
     style:          :compressed
-paginate: 30
+paginate: 8
 paginate_path: "/writing/page:num/"
 permalink: "/writing/:title/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

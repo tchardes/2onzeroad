@@ -18,10 +18,24 @@ permalink: /map/point-of-interest/
     <body> 
 
         {% assign relatedPosts = "" | split:"|"  %}
+        
+        
         {% for post in site.posts %}       
-            {% if page.id != post.id and (post.path contains page.parent-id or page.path contains post.parent-id or (post.parent-id and page.parent-id == post.parent-id)) %}
+            {% assign areEquals = false %}
+            {% assign hasParents = false %}
+
+            {% if post.parent-id and page.parent-id == post.parent-id %}
+                {% assign areEquals = true %}
+            {% endif %}
+
+            {% if post.path contains page.parent-id or page.path contains post.parent-id or areEquals %}
+                {% assign hasParents = true %}
+            {% endif %}
+
+            {% if page.id != post.id and hasParents == true %}
                 {% assign relatedPosts = relatedPosts | push: post %}
             {% endif %}
+
         {% endfor %}
 
         {% include nav.html %}

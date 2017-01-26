@@ -251,12 +251,13 @@ hr.small {
   border-bottom-left-radius: 5px;
 }
 footer {
+    margin-top:20px;
     text-align: center;
-   background-color: #333;
+    background-color: #252525;
 }
 
 .copyright {
-  color:#222;
+  color:#FFF;
   font-weight: 600!important;
   text-shadow: 0px 0px 4px rgba(255,255,255,0.8);
 }
@@ -339,9 +340,8 @@ form .row:first-child .floating-label-form-group {
   font-weight: 300;
   letter-spacing: 1px;
   padding: 10px 5px;
-  color: #3c763d;
-  background-color: #4d3232;
-  border: 1px solid #3c763d;
+  color: #0085a1;
+  border: 1px solid #0085a1;
   border-radius: 15px;
 }
 @media only screen and (min-width: 768px) {
@@ -354,7 +354,6 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: #e81062;
-  background-color: #4d3232;
   border: 1px solid #e81062;
   border-radius: 15px;
 }
@@ -365,6 +364,7 @@ form .row:first-child .floating-label-form-group {
   color: #808080;
   background-color: #404040;
   cursor: not-allowed;
+  pointer-events: none;
 }
 ::-moz-selection {
   color: white;
