@@ -271,7 +271,7 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 
 ## Divers   
 
-### Côté habitation :
+### Côté habitation
 
 Le cas échéant :
 
