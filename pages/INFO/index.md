@@ -75,7 +75,7 @@ Une fois dans l'ambassade au service des Visas vous faites la queue dans une pre
 
 Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel. J'ai pu lire sur Internet, sans en avoir confirmation, que cette démarche n'est pas anodine car en cas de refus, vous ne pouvez même plus demander une ESTA. A vérifier... .  
 
-Personnellement nous lui avons raconté notre projet avec à l'appui des copies d'écrans de Google Maps retraçant notre futur parcours, ainsi qu'un courier de notre banque attestant de nos actifs. Après un bon quart d'heure d'entretien elle nous a indiqué qu'elle donnait un avis positif à notre demande.  
+Personnellement nous lui avons raconté notre projet avec à l'appui des copies d'écrans de Google Maps retraçant notre futur parcours, ainsi qu'un courier de notre banque attestant de nos actifs. Après un bon quart d'heure d'entretien elle nous a indiqué qu'elle émettra un avis positif à notre demande.  
 
 ### Inscription sur le site Ariane  
 
