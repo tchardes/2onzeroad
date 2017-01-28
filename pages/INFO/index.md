@@ -8,7 +8,7 @@ permalink: /info/
 
 <p class="info-box bg-info"><i class="fa fa-info-circle"></i>
 
-Si vous vous intéressez à ce type de voyage et recherchez des informations, vous êtes sur la bonne page. Ne soyez ni effrayés ni inquiets par toutes les démarches à entreprendre, tout cela se réalise petit à petit. La préparation d’un voyage au long cours ou tour du monde fait déjà partie du voyage, c'est plusieurs mois d'interrogations, d'évasions, de planification, de préparation, de budgétisation... en fait plein de mots en « ion ». On devient rapidement des pros en géographie, géopolitique, climat et saisons, histoire et immanquablement en paperasses bureaucratiques...<br /><br />
+Si vous vous intéressez à ce type de voyage et recherchez des informations, vous êtes sur la bonne page. Ne soyez ni effrayés ni inquiets par toutes les démarches à entreprendre, tout cela se réalise petit à petit. La préparation d’un voyage au long cours ou d'un tour du monde fait déjà partie du voyage. Ce sont plusieurs mois d'interrogations, d'évasions, de planification, de préparation, de budgétisation... en fait plein de mots en « ion ». On devient rapidement des pros en géographie, géopolitique, climat et saisons, histoire et immanquablement en démarches bureaucratiques...<br /><br />
 
 Ce type d'aventure se prépare et ce n'est pas en une semaine que l'on passe de la prise de décision au départ effectif. Consultez plusieurs sites et forums de voyageurs afin d'emmagasiner le plus d'informations possibles pour ne retenir que les idées et options qui correspondent à votre cas de figure. Au final rien de bien compliqué.<br /><br />
 
@@ -311,6 +311,3 @@ Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la m
 ### Famille... fromages et charcuterie  
 
 Avant le départ, profiter des bons moments avec ses enfants, sa famille et ses amis autour d'une bonne table pour déguster de la charcuterie, du fromage, du vrai pain, le tout arrosé d'un bon vin... c'est ce qui manque le plus aux voyageurs généralement.   
-
-
-
