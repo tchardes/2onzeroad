@@ -289,7 +289,7 @@ Tous nos documents importants et qui pourraient nous être utiles ont été num�
 
 ### Procuration
 
-Il peut être utile d'établir une procuration auprès de la Gendarmerie ou de la police pour les prochaines élections.  
+Il peut être utile d'établir une procuration auprès de la Gendarmerie ou de la police pour les prochaines élections.     
 
 ### Langues   
 
