@@ -279,7 +279,7 @@ Le cas échéant :
 - Résilier tous ces abonnements (téléphone, Internet, télépéage, journaux, revues...) ;
 - Faire rediriger son courrier vers une personne qui pourra transmettra par mail les infos importantes ;
 - Occulter sa boîte aux lettres pour ne pas la retrouver pleine de publicités ;
-- Souscrire gratuitement à l'opération "tranquillité vacances" proposée par la Gendarmerie Nationale et peut-être la Police qui vont, même pour une longue période, passer de temps en temps durant leurs patrouilles faire un tour de la maison ;
+- Souscrire gratuitement à l'opération "tranquillité vacances" proposée par la Gendarmerie et peut-être la police qui vont, même pour une longue période, passer de temps en temps durant leurs patrouilles faire un tour de la maison ;
 - Réduire au minimum l'assurance du ou des véhicule restant au garage.
 
 
