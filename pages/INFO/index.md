@@ -278,18 +278,18 @@ Le cas échéant :
 - Suspendre les compteurs d'eau, électicité, Gaz... ;
 - Résilier tous ces abonnements (téléphone, Internet, télépéage, journaux, revues...) ;
 - Faire rediriger son courrier vers une personne qui pourra transmettra par mail les infos importantes ;
-- Oculter sa boîte aux lettres pour ne pas la retrouver pleine de publicités.
-- Souscrire gratuitement à l'opération "tranquillité vacances" proposée par la Gendarmerie Nationale et peut-être la Police qui vont, même pour une longue période, passer de temps en temps durant leurs patrouilles faire un tour de la maison.
-- Réduire au minimum l'assurance du ou des véhicule restant au garage
+- Occulter sa boîte aux lettres pour ne pas la retrouver pleine de publicités ;
+- Souscrire gratuitement à l'opération "tranquillité vacances" proposée par la Gendarmerie Nationale et peut-être la Police qui vont, même pour une longue période, passer de temps en temps durant leurs patrouilles faire un tour de la maison ;
+- Réduire au minimum l'assurance du ou des véhicule restant au garage.
 
 
 ### Cloud
 
-Tous nos documents ont été numérisés et stockés sur un espace disque distant. Nous avons opté pour Dropbox qui propose 2 Go  gratuitement. Pour les plus parano, vous pouvez toujours les crypter avant de les déposer.  
+Tous nos documents ont été numérisés et stockés sur un espace disque distant. Nous avons opté pour Dropbox qui propose 2 Go  gratuitement, il en existe d'autres. Pour les plus parano, vous pouvez toujours les crypter avant de les déposer.  
 
 ### Procuration
 
-Il peut être utile d'établir une procuration auprès de la Gendarmerie ou la police pour les prochaines élections.  
+Il peut être utile d'établir une procuration auprès de la Gendarmerie ou de la police pour les prochaines élections.  
 
 ### Langues   
 
@@ -308,9 +308,9 @@ Ne pas oublier de s'équiper d'adaptateur de prises de courant pour brancher tou
 
 Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des Antilles pour le climat moins clément du centre de la France.  
 
-### Fromages et charcuterie
+### Famille... fromages et charcuterie  
 
-Avant le départ, profiter des bons moments avec ses enfants, sa famille et ses amis autour d'une bonne table pour déguster de la charcuterie, du fromage, un bon pain, le tout arrosé d'un bon Bourgogne... c'est ce qui manque le plus aux voyageurs généralement.   
+Avant le départ, profiter des bons moments avec ses enfants, sa famille et ses amis autour d'une bonne table pour déguster de la charcuterie, du fromage, un bon pain, le tout arrosé d'un bon vin... c'est ce qui manque le plus aux voyageurs généralement.   
 
 
 
