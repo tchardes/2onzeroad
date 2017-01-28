@@ -8,7 +8,7 @@ permalink: /info/
 
 <p class="info-box bg-info"><i class="fa fa-info-circle"></i>
 
-Si vous vous intéressez à ce type de voyage et recherchez des informations, vous êtes sur la bonne page. Ne soyez ni effrayés ni inquiets par toutes les démarches à entreprendre, tout cela se réalise petit à petit. La préparation d’un voyage au long cours ou tour du monde fait déjà partie du voyage, c'est plusieurs mois d'interrogations, évasions, planification, préparation, budgétisation... en fait plein de mots en « ion ». On devient rapidement des pros en géographie, géopolitique, climat et saisons, histoire et immanquablement en bureaucratie...<br /><br />
+Si vous vous intéressez à ce type de voyage et recherchez des informations, vous êtes sur la bonne page. Ne soyez ni effrayés ni inquiets par toutes les démarches à entreprendre, tout cela se réalise petit à petit. La préparation d’un voyage au long cours ou tour du monde fait déjà partie du voyage, c'est plusieurs mois d'interrogations, d'évasions, de planification, de préparation, de budgétisation... en fait plein de mots en « ion ». On devient rapidement des pros en géographie, géopolitique, climat et saisons, histoire et immanquablement en paperasses bureaucratiques...<br /><br />
 
 Ce type d'aventure se prépare et ce n'est pas en une semaine que l'on passe de la prise de décision au départ effectif. Consultez plusieurs sites et forums de voyageurs afin d'emmagasiner le plus d'informations possibles pour ne retenir que les idées et options qui correspondent à votre cas de figure. Au final rien de bien compliqué.<br /><br />
 
@@ -23,7 +23,9 @@ Par contre n'hésitez pas à revenir de temps en temps, nous mettrons cette part
 
 ### Impôts  
 
-Là, c'est un grand moment. Pour vous la faire courte, impossible d'être un SDF (Sans Domicile Fiscal) en France, lieu de nos intérêts économiques car nous percevons des revenus. Après plusieurs courriels et entretiens avec différents agents des Impôts bien embarrassés par notre histoire, après interrogation du service des non résidents à Paris, rien à faire, nous devons donner comme adresse celle de notre fils qui deviendra de fait notre mandataire fiscal. Les services fiscaux vous demandent donc clairement de mentir en donnant une adresse fiscale qui n'en est pas une, tout simplement pour désigner le centre des impôts qui aura votre dossier en gestion.
+Là, c'est un grand moment. Pour vous la faire courte, impossible d'être un SDF (Sans Domicile Fiscal) en France, lieu de nos intérêts économiques car nous percevons des revenus. Après plusieurs courriels et entretiens avec différents agents des impôts bien embarrassés par notre histoire, après interrogation du service des non résidents à Paris, rien à faire, nous devons donner comme adresse celle de notre fils qui deviendra de fait notre mandataire fiscal. Les services fiscaux vous demandent donc clairement de mentir en donnant une adresse fiscale qui n'en est pas une, tout simplement pour désigner le centre des impôts qui aura votre dossier en gestion.
+
+Il faut bien évidemment penser à emmener les documents nécessaires pour renseigner par Internet la déclaration d'impôts de l'année en cours.
 
 ### Permis de conduire 
 
@@ -34,13 +36,13 @@ Nous avons profité de l'occasion pour faire refaire nos permis de conduire et p
 
 Plusieurs types de visa sont délivrés par les Etats-Unis en fonction du type de voyage que vous souhaitez réaliser. Le visa le plus commun est l'ESTA qui permet de séjourner aux USA pour une période de 90 jours.  
 
-Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des Etats-Unis à Paris aux personnes désirant se rendre au USA pour des raisons touristiques ou médicale. En général, le demandeur se voit délivrer un visa pour une durée de un, trois ou dix ans l’autorisant à séjourner aux Etats-Unis six mois par an. Il est possible d’obtenir une extension allant jusqu’à six mois additionnels. Toutefois, ce visa n'est pas un droit. Au final c'est l'agent de l'immigration qui vous accueillera à votre arrivée sur le sol américain qui décidera seul et sans appel possible, le temps qu'il vous accordera.  
+Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des Etats-Unis à Paris aux personnes désirant se rendre au USA pour des raisons touristiques ou médicale. En général, le demandeur se voit délivrer un visa pour une durée de un, trois ou dix ans l'autorisant à séjourner aux Etats-Unis six mois par an. Il est possible d’obtenir une extension allant jusqu’à six mois additionnels. Toutefois, ce visa n'est pas un droit. Au final c'est l'agent de l'immigration qui vous accueillera à votre arrivée sur le sol américain qui décidera seul et sans appel possible, le temps qu'il vous accordera.  
 
 #### Procédure pas à pas 
 
 * Se connecter au site Internet de l'ambassade US et se rendre sur la page des visas non immigrant **[ici](https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/)**.
 * Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Si vous n'y arrivez pas il faudra l’amener lors de l'entretien.
-* Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard. Par contre, à la fin du processus et après la signature numérique, il affiche un résumé avec votre photo, vos principaux renseignements et un code barre. Il faut absoluement imprimer cette page pour chaque personne car elle vous sera demandée à l'entrée de l'ambassade.
+* Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard. Par contre, à la fin du processus et après la signature numérique, il affiche un résumé avec votre photo, vos principaux renseignements et un code barre. Il faut **absoluement imprimer cette page** pour chaque personne car elle vous sera demandée à l'entrée de l'ambassade.
 * Créer un compte personnel avec login et mot de passe.
 * Se connecter à son compte, indiquer l'adresse de livraison des passeports qui seront enrichis ou pas du visa.
 * Effectuer un virement en ligne (144€ - 160$/Pers. en 2016), vous avez 8 jours pour payer sous peine de devoir tout recommencer.
@@ -65,11 +67,11 @@ Et éventuellement :
 
 #### But de l'entretien 
 
-Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement et de manière illégale aux Etats-Unis et que vous avez les moyens financiers sufffisants pour vivre sur place et surtout rentrer en France. Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays et que vous avez tout intérêt à y revenir et que vous en avez lzq moyens.
+Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement et de manière illégale aux Etats-Unis et que vous avez les moyens financiers sufffisants pour vivre sur place et surtout rentrer en France. Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays et que vous avez tout intérêt à y revenir et que vous en avez les moyens de votre projet.
 
 #### Déroulement de l'entretien
 
-Une fois dans l'ambassade au service des Visas vous faites la queue dans une première file d'attente, oui parce-qu'en fait au jour J et l'heure H se sont plusieurs dizaines de personnes qui ont rendez-vous en même temps, l'agent au premier guichet filtre et vérifie les documents, les passeports et prend vos empreintes. Si c'est OK, vous faites une deuxième queue pour rencontrer un autre agent, toujours derrière une vitre. La personne vous pose de nombreuses questions. 
+Une fois dans l'ambassade au service des Visas vous faites la queue dans une première file d'attente, oui parce-qu'en fait au jour J et l'heure H se sont plusieurs dizaines de personnes qui ont rendez-vous en même temps, l'agent au premier guichet filtre et vérifie les documents, les passeports et prend vos empreintes. Si c'est OK, vous faites une deuxième queue pour rencontrer un autre agent, toujours derrière une vitre qui va vous poser de nombreuses questions. 
 
 Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel. J'ai pu lire sur Internet, sans en avoir confirmation, que cette démarche n'est pas anodine car en cas de refus, vous ne pouvez même plus demander une ESTA. A vérifier... .  
 
@@ -87,6 +89,8 @@ Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription es
 Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
 
 Si vous quittez votre emploi et envisagez de partir plusieurs années vous ne serez plus couverts par la securité sociale au bout d'une année et vous devrez alors opter pour la souscription d'une assurance voyage longue durée de type Marco Polo ou Chapka. Toutes les infos **[ici](http://www.tourdumondiste.com/comparatifs-assurances-voyage)**.  
+
+Bilan de santé complet réalisé avant le départ, prise de sang, dentiste, ophtalmo... .  
  
 
 ### Vaccins 
@@ -98,7 +102,7 @@ Depuis peu, le vaccin de la fièvre jaune est valable à vie et non plus 10 ans 
 
 ## Comptes bancaires   
 
-Il est utile de posséder deux cartes bancaires, une Visa et une Mastercard afin de pallier les problèmes de perte, de vol, de blocage ou refus de certains distributeurs qui n'acceptent que l'une ou l'autre.  
+Il est utile de posséder deux cartes bancaires, une Visa et une Mastercard afin de pallier les problèmes de perte, de vol, de blocage ou refus de certains distributeurs, qui n'acceptent que l'une ou l'autre. Il faut vérifier que ses cartes bancaires n'arrivent pas à expiration durant le voyage ou avant un retour. Dans ce cas, les faire remplacer par anticipation. Il faut penser à prévenir ces interlocuteurs du départ pour une longue durée à l'étranger afin que les cartes ne soient pas bloquées après plusieurs utilisations, par sécurité.
 
 ### Banque traditionnelle 
 
@@ -267,6 +271,26 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 
 ## Divers   
 
+### Côté habitation :
+
+Le cas échéant :
+
+- Suspendre les compteurs d'eau, électicité, Gaz... ;
+- Résilier tous ces abonnements (téléphone, Internet, télépéage, journaux, revues...) ;
+- Faire rediriger son courrier vers une personne qui pourra transmettra par mail les infos importantes ;
+- Oculter sa boîte aux lettres pour ne pas la retrouver pleine de publicités.
+- Souscrire gratuitement à l'opération "tranquillité vacances" proposée par la Gendarmerie Nationale et peut-être la Police qui vont, même pour une longue période, passer de temps en temps durant leurs patrouilles faire un tour de la maison.
+- Réduire au minimum l'assurance du ou des véhicule restant au garage
+
+
+### Cloud
+
+Tous nos documents ont été numérisés et stockés sur un espace disque distant. Nous avons opté pour Dropbox qui propose 2 Go  gratuitement. Pour les plus parano, vous pouvez toujours les crypter avant de les déposer.  
+
+### Procuration
+
+Il peut être utile d'établir une procuration auprès de la Gendarmerie ou la police pour les prochaines élections.  
+
 ### Langues   
 
 Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...   
@@ -278,9 +302,15 @@ En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous
 
 Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous nous sommes équipés en matériel photo et vidéo et nous avons pris des cours, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
 
+Ne pas oublier de s'équiper d'adaptateur de prises de courant pour brancher tous vos appareils électriques dans les différents pays.
+
 ### Animal de compagnie   
 
 Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des Antilles pour le climat moins clément du centre de la France.  
+
+### Fromages et charcuterie
+
+Avant le départ, profiter des bons moments avec ses enfants, sa famille et ses amis autour d'une bonne table pour déguster de la charcuterie, du fromage, un bon pain, le tout arrosé d'un bon Bourgogne... c'est ce qui manque le plus aux voyageurs généralement.   
 
 
 
