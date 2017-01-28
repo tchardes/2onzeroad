@@ -12,7 +12,7 @@ Si vous vous intéressez à ce type de voyage et recherchez des informations, vo
 
 Ce type d'aventure se prépare et ce n'est pas en une semaine que l'on passe de la prise de décision au départ effectif. Consultez plusieurs sites et forums de voyageurs afin d'emmagasiner le plus d'informations possibles pour ne retenir que les idées et options qui correspondent à votre cas de figure. Au final rien de bien compliqué.<br /><br />
 
-Par contre n'hésitez pas à revenir de temps en temps, nous mettrons cette partie à jour au fur et à mesure des problèmes rencontrés et de leurs résolutions.
+Par contre n'hésitez pas à revenir de temps en temps, nous mettrons cette partie à jour au fur et à mesure des problèmes rencontrés et de leurs résolutions.   
 
 </p>
 
