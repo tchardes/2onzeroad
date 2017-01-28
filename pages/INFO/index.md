@@ -310,7 +310,7 @@ Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la m
 
 ### Famille... fromages et charcuterie  
 
-Avant le départ, profiter des bons moments avec ses enfants, sa famille et ses amis autour d'une bonne table pour déguster de la charcuterie, du fromage, un bon pain, le tout arrosé d'un bon vin... c'est ce qui manque le plus aux voyageurs généralement.   
+Avant le départ, profiter des bons moments avec ses enfants, sa famille et ses amis autour d'une bonne table pour déguster de la charcuterie, du fromage, du vrai pain, le tout arrosé d'un bon vin... c'est ce qui manque le plus aux voyageurs généralement.   
 
 
 
