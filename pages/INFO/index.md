@@ -285,7 +285,7 @@ Le cas échéant :
 
 ### Cloud
 
-Tous nos documents ont été numérisés et stockés sur un espace disque distant. Nous avons opté pour Dropbox qui propose 2 Go  gratuitement, il en existe d'autres. Pour les plus parano, vous pouvez toujours les crypter avant de les déposer.  
+Tous nos documents importants et qui pourraient nous être utiles ont été numérisés et stockés sur un espace disque distant. Nous avons opté pour Dropbox qui propose 2 Go gratuitement, il en existe d'autres. Pour les plus parano, vous pouvez toujours les crypter avant de les déposer.  
 
 ### Procuration
 
