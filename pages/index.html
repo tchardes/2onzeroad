@@ -10,7 +10,6 @@ permalink: ./index.html
   <head>
     <meta content="charset=utf-8">
     <!-- CSS -->
-    <link rel="stylesheet" href="{{root_url}}/assets/libs/css/intro.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="{{root_url}}/assets/libs/css/flexslider.css" type="text/css" media="screen" />
     <!-- jQuery -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
@@ -48,33 +47,69 @@ permalink: ./index.html
             <div class="col-md-right-cntct">
             {% include links.html %}
             </div>-->
-
             <div style="text-align:center">
                 <h1 style="margin: 40px;font-weight: bold;">Bienvenue sur 2onzeroad!</h1>
                 <h2>De l'Alaska à Ushuaia</h2>
                 <h2>Roadtrip de 3 ans aux Amériques</h2>
                 <h1 style="margin: 40px;"><i class="fa fa-rocket"></i> Départ le 24 mars 2017</h1>
             </div>
+
+            {% assign destinations = "" | split:"|"  %}
+            {% for post in site.posts %}
+            {% if destinations contains post.country %}
+              {% else %}
+                {% assign destinations = destinations | push: post.country %}
+              {% endif %}
+            {% endfor %}
+
+
+            <ul>
+            {% for destination in destinations %}
+              <li><a href="{{ site.baseurl }}/writing/destination/{{ destination  | slugify }}"/>{{destination}}</a></li>
+            {% endfor %}
+            </ul>
         </div>
     </div>
 
-    <!-- slider -->
-    <div class="flexslider" style="display:none;">
-      <ul class="slides">
-        <li>
-          <img src="{{root_url}}/assets/owner/slider/bg1.jpg" />
-          <p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
-        </li>
-        <li>
-          <img src="{{root_url}}/assets/owner/slider/bg2.jpg" />
-          <p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
-        </li>
-        <li>
-          <img src="{{root_url}}/assets/owner/slider/bg3.jpg" />
-          <p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
-        </li>
-      </ul>
-    </div>
+    <div class="row">
+      <div class="col-md-8 col-sm-8 col-xs-8 col-xxs-12">
+        <section id="cd-timeline" class="cd-container">
 
+          {% assign reversePosts = site.posts | reverse %}
+          {% for post in reversePosts %}
+            <div class="cd-timeline-block">
+              <div class="cd-timeline-img cd-{{post.category}}">
+              </div>
+
+              <div class="cd-timeline-content">
+                  <h4 style="font-weight:600 !important;margin-top: 0;position:absolute;top:-20px;" ><a href="{{ post.url | prepend: site.baseurl }}">{{ root_url }} {{ post.title }}</a></h4>
+
+                  <div style="height: 100%;display: inline-flex">
+                    <div style="height: 100%;">
+                      <img src="{{ post.thumbnail }}" alt="Image" class="img-responsive" style="height: 100%;border-radius: 0.25em 0 0 0.25em;" />                
+                    </div>
+                    <div style="height: 100%;width: 240px;padding:10px">
+                      {{ post.preview }}
+                    </div>
+                  </div>
+                  <span class="cd-date">
+                    <a href="#"><i class="fa fa-calendar"></i> {{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a> </br>
+                    <a href="#" style="padding-left:4px;"><i class="fa fa-map-marker"></i> {{ post.city }}{% if post.city and post.country %}, {% endif %}{{ post.country }}</a> </br>
+                    <div class="post-preview-category">
+                        {% for tag in post.tags %}
+                            <div><a href="{{ site.baseurl }}/writing/tag/{{ tag  | slugify }}/" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ tag }}</a></div>
+                        {% endfor %%}
+                    </div>
+                  </span>
+              </div>
+            </div>
+          {% endfor %}
+        </section>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-4 col-xxs-12" style="background-color: black;height: 1000px">
+          plop
+        </div>
+      </div>
   </body>
 </html>
+
