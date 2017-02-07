@@ -86,10 +86,9 @@ permalink: ./index.html
                 {% endif %}
               {% endfor %}
 
-
               <ul>
               {% for destination in destinations %}
-                <li><a href="{{ site.baseurl }}/writing/destination/{{ destination  | slugify }}"/>{{destination}}</a></li>
+                <li><a href="{{ site.baseurl }}/writing/destination/{{ destination }}"/>{{destination}}</a></li>
               {% endfor %}
               </ul>
             </div>
