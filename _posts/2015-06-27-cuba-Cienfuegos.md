@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Cienfuegos, la perle du sud"
-preview:    "Nous quittons la Havane en direction du Sud-Est par par l'Autopista A1 en direction de..."
+preview:    "Nous quittons la Havane en direction du Sud-Est par l'Autopista A1 en direction de..."
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-28 12:00:00
