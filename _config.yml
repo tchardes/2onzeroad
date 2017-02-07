@@ -3,9 +3,9 @@ title: "2onzeroad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "23.135457,-82.358861"
-  name: "La Havana"
-  date: "7 Jan 17"
+  coordinates: "43.588464, 1.340009"
+  name: "Tournefeuille"
+  date: "7 Fev 17"
 
 # set the encoding to utf-8
 encoding: utf-8

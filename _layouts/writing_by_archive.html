@@ -1,0 +1,29 @@
+---
+layout: page
+title: destination archive
+---
+
+<div id="post-content">
+
+    <h3>Articles du mois <strong>{{page.archive-date}}</strong>...</h3>
+    
+    {% assign relatedPosts = "" | split:"|"  %}
+    {% for post in site.posts %}
+        {% assign archiveDate = post.date | date: "%B %y" %}
+        {% if archiveDate == page.archive-date %}
+            {% assign relatedPosts = relatedPosts | push: post %}
+        {% endif %}
+    {% endfor %}
+
+    <div class="row">
+
+        {% for post in relatedPosts %}
+
+        <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
+        {% include post_preview.html %}
+        </div>
+        {% endfor %}
+    
+    </div>
+
+</div>

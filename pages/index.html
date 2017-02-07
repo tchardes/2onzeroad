@@ -76,22 +76,52 @@ permalink: ./index.html
           {% endfor %}
         </section>
         </div>
-        <div class="col-md-4" style="padding-left:50px;">
-          <div style="background-color: aliceblue">
-              {% assign destinations = "" | split:"|"  %}
-              {% for post in site.posts %}
-              {% if destinations contains post.country %}
-                {% else %}
-                  {% assign destinations = destinations | push: post.country %}
-                {% endif %}
-              {% endfor %}
+        <div class="col-md-4" style="height: 100%;padding-left:50px;">
+          <div style="margin-top:-30px;padding:50px 10px;height: 100%;background-color: aliceblue">
+            <div>
+                <h3>Nos destinations</h3>
+                {% assign destinations = "" | split:"|"  %}
+                {% for post in site.posts %}
+                {% if destinations contains post.country %}
+                  {% else %}
+                    {% assign destinations = destinations | push: post.country %}
+                  {% endif %}
+                {% endfor %}
 
-              <ul>
-              {% for destination in destinations %}
-                <li><a href="{{ site.baseurl }}/writing/destination/{{ destination }}"/>{{destination}}</a></li>
-              {% endfor %}
-              </ul>
+                <ul>
+                {% for destination in destinations %}
+                  <li><a href="{{ site.baseurl }}/writing/destination/{{ destination | slugify }}"/>{{destination}}</a></li>
+                {% endfor %}
+                </ul>
             </div>
+            <div>
+                <h3>Archives</h3>
+                {% assign archives = "" | split:"|"  %}
+                {% for post in site.posts %}
+                  {% assign archiveDate = post.date | date: "%B %y" %}
+                  {% if archives contains archiveDate %}
+                  {% else %}
+                    {% assign archives = archives | push: archiveDate %}
+                  {% endif %}
+                {% endfor %}
+
+
+                <ul>
+                {% for archive in archives %}
+                  {% assign numberOfArchive = 0 %}
+
+                  {% for post in site.posts %}
+                    {% assign archiveDate = post.date | date: "%B %y" %}
+                    {% if archive == archiveDate %}
+                      {% assign numberOfArchive = numberOfArchive | plus: 1 %}
+                    {% endif %}
+                  {% endfor %}
+
+                  <li><a href="{{ site.baseurl }}/writing/archive/{{ archive | slugify }}"/>{{archive}} ({{numberOfArchive}})</a></li>
+                {% endfor %}
+                </ul>
+              </div>
+          </div>
         </div>
       </div>
 

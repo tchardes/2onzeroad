@@ -3,47 +3,22 @@ layout: page
 title: destination archive
 ---
 
-{{content}}
+{% assign relatedPosts = "" | split:"|"  %}
+{% for post in site.posts %}
+    {% if post.country == page.destination %}
+        {% assign relatedPosts = relatedPosts | push: post %}
+    {% endif %}
+{% endfor %}
+
 
 <div id="post-content">
-    {% assign destinations = "" | split:"|"  %}
-    {% for post in site.posts %}
-        {% if post.country == page.destination %}
-            {% assign destinations = destinations | push: post %}
-        {% endif %}
-    {% endfor %}
-
-    {% if destinations.size > 0 %}
-        {% for post in destinations %}
-            {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
-            {% if forloop.first %}
-                <h3>{{ post_year }}</h3><div class="list-group">
-            {% endif %}
-			
-            {% if forloop.first == false %}
-                {% assign previous_index = forloop.index0 | minus: 1 %}
-                {% capture previous_post_year %}{{ destinations[previous_index].date | date: '%Y' }}{% endcapture %}
-                {% if post_year != previous_post_year %}
-                    </div><h3>{{ post_year }}</h3><div class="list-group">
-                {% endif %}
-            {% endif %}
-			
-            <a href="{{ post.url }}" class="list-group-item" style="overflow: hidden;padding: 0;height: 60px;">
-                <div style="display: inline-flex;width: 100%">
-                    <img src="{{ post.thumbnail }}" style="width: 80px;height: 60px;" alt="Image" class="img-responsive"/>
-                    
-                    <h3 class="post-preview-image-{{post.category}}" style="padding: 20px;margin: 0;width: 100%" class="list-group-item-heading">{{ post.title }} - <span style="font-size:15px">{{ post.preview }}<span></h3>
-                </div>
-            </a>
-
-            {% if forloop.last %}
-                </div>
-            {% endif %}
+    <h3>Articles de <strong>{{page.destination}}</strong>...</h3>
+    
+    <div class="row">
+        {% for post in relatedPosts %}
+            <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
+                {% include post_preview.html %}
+            </div>
         {% endfor %}
-    {% else %}
-        <p>There are no posts for this tag.</p>
-    {% endif %}
-
-
-
+    </div>
 </div>
