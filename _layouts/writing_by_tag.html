@@ -3,6 +3,8 @@ layout: page
 title: tag archive
 ---
 
+<h3>Articles contenant le tag <strong>{{page.tag}}</strong>...</h3>
+
 <div id="post-content">
     {% if site.tags[page.tag] %}
         {% for post in site.tags[page.tag] %}

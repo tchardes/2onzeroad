@@ -505,6 +505,17 @@ img::-moz-selection {
   background-color: rgb(45, 124, 166);
 }
 
+.post-preview-image-roadmap {
+  border-right: solid 10px rgb(212, 65, 65);
+}
+
+.post-preview-image-blog {
+  border-right: solid 10px rgb(45, 124, 166);
+}
+
+.post-preview-image-bilan {
+  border-right: solid 10px #75ce66;
+}
 
 .post-preview-meta	a {
   font-size: 13px;

@@ -6,6 +6,8 @@ header-img: "assets/owner/hero/home-bg.jpg"
 permalink: ./index.html
 ---
 
+
+
 <html class="no-js" lang="en">
   <head>
     <meta content="charset=utf-8">
@@ -18,65 +20,33 @@ permalink: ./index.html
     <!-- Modernizr -->
     <script src="{{ site.baseurl }}/assets/libs/js/modernizr.js"></script>
 
-    <!-- Back To Top -->
-    <script type="text/javascript">
-      $(window).load(function(){
-        $('.flexslider').flexslider({
-          animation: "slide",
-          slideshow: false,
-          slideshowSpeed: 12000,
-          pausePlay: true,
-          start: function(slider){
-            $('body').removeClass('loading');
-          }
-        });
-      });
-    </script>
   </head>
 
   <body>
     <!-- intro -->
-    <div class="intro">
-        <div class="row">
-            <!--<div class="col-md-left-cntct">
-                <h2>Welcome to 2onzeroad!</h2>
-                De l'Alaska � Ushuaia
-                Roadtrip de 3 ans aux Am�riques
-                D�part Avril 2017
-            </div>  
-            <div class="col-md-right-cntct">
-            {% include links.html %}
-            </div>-->
-            <div style="text-align:center">
-                <h1 style="margin: 40px;font-weight: bold;">Bienvenue sur 2onzeroad!</h1>
-                <h2>De l'Alaska à Ushuaia</h2>
-                <h2>Roadtrip de 3 ans aux Amériques</h2>
-                <h1 style="margin: 40px;"><i class="fa fa-rocket"></i> Départ le 24 mars 2017</h1>
-            </div>
 
-            {% assign destinations = "" | split:"|"  %}
-            {% for post in site.posts %}
-            {% if destinations contains post.country %}
-              {% else %}
-                {% assign destinations = destinations | push: post.country %}
-              {% endif %}
-            {% endfor %}
-
-
-            <ul>
-            {% for destination in destinations %}
-              <li><a href="{{ site.baseurl }}/writing/destination/{{ destination  | slugify }}"/>{{destination}}</a></li>
-            {% endfor %}
-            </ul>
-        </div>
-    </div>
 
     <div class="row">
       <div class="col-md-8">
         <section id="cd-timeline" class="cd-container">
 
-          {% assign reversePosts = site.posts | reverse %}
-          {% for post in reversePosts %}
+          <div class="cd-timeline-block">
+            <div class="cd-timeline-img cd-map">
+            </div>
+
+            <div class="cd-timeline-content">
+                <h4 style="font-weight:600 !important;font-size: 20px;margin-top: 0;position:absolute;top:-24px;letter-spacing: -1px;" ><a href="{{ post.url | prepend: site.baseurl }}">Notre dernière position...</a></h4>
+
+                  <img src="https://maps.googleapis.com/maps/api/staticmap?zoom=6&size=340x170&maptype=roadmap&markers=color:blue%7Clabel:S%7C{{site.currentLocation.coordinates}}" style="border-radius: 4px;" />
+
+                <span class="cd-date">
+                  <a href="#"><i class="fa fa-calendar"></i> {{site.currentLocation.date}}</a> </br>
+                  <a href="#" style="padding-left:4px;"><i class="fa fa-map-marker"></i> {{site.currentLocation.name}}</a> </br>
+                </span>
+            </div>
+          </div>
+
+          {% for post in site.posts limit:5 %}
             <div class="cd-timeline-block">
               <div class="cd-timeline-img cd-{{post.category}}">
               </div>
@@ -106,10 +76,26 @@ permalink: ./index.html
           {% endfor %}
         </section>
         </div>
-        <div class="col-md-4" style="background-color: black;height: 1000px">
-          plop
+        <div class="col-md-4" style="padding-left:50px;">
+          <div style="background-color: aliceblue">
+              {% assign destinations = "" | split:"|"  %}
+              {% for post in site.posts %}
+              {% if destinations contains post.country %}
+                {% else %}
+                  {% assign destinations = destinations | push: post.country %}
+                {% endif %}
+              {% endfor %}
+
+
+              <ul>
+              {% for destination in destinations %}
+                <li><a href="{{ site.baseurl }}/writing/destination/{{ destination  | slugify }}"/>{{destination}}</a></li>
+              {% endfor %}
+              </ul>
+            </div>
         </div>
       </div>
+
   </body>
 </html>
 
