@@ -93,3 +93,5 @@ google_analytics: UA-85699607-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
+
+photo_tags : ["Animaux", "Architecture", "Art", "Capitale", "Contre jour", "Coucher de soleil", "Culturel", "Desert", "Fête évenement", "Forêt", "Geologie", "Glace", "Histoire", "Insolite", "Lac", "Mer ocean", "Montagne", "Monument", "Nature", "Neige", "Nuit", "Parc naturel", "Paysage", "Plage", "Portrait", "Randonnee", "Religion", "Riviere", "Route", "Technologie", "Transport", "Ville", "Volcan"]

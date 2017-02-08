@@ -22,3 +22,15 @@ title: destination archive
         {% endfor %}
     </div>
 </div>
+
+<h3 style="margin-top:60px;">Photos contenant le tag <strong>{{page.destination}}</strong>...</h3>
+
+<style type="text/css"> 
+.flickr_badge_image {margin:0px;display:inline-flex;}
+.flickr_badge_image a {pointer-events: none;}
+.flickr_badge_image img {border: 0px solid #666666 !important; padding:1px; margin:2px;}
+#flickr_badge_wrapper {width:100%;text-align:center}
+</style>
+<div id="flickr_badge_wrapper">
+    <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=m&layout=x&source=user_tag&user=127048817@N07&tag={{page.destination}}"></script>
+</div>

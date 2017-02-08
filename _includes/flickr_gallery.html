@@ -1,11 +1,32 @@
 
 
-<header class="island" style="margin-top:60px;">
-    <h1>Flickr gallery</h1>
+<script>
+
+    function DropDownTextToBox(select, textBox)
+    {
+        document.getElementById(textBox).value = select.options[select.selectedIndex].text;
+    }
+
+</script>
+
+<header class="island" style="margin-top:0px;background-color: #111;padding:80px 20px 20px 20px;;">
     <form class="js-form-search form-search" action="/search" method="get" role="search">
     <label for="query">Search:</label>
-    <input type="search" name="query" id="query" placeholder="Search" required />
-    <input type="submit" value="Search" />
+
+    <div style="position: absolute;top: 80px; left: 90px;" id="outerFilterDiv">
+        <input name="query" type="text" id="query" tabindex="2" style="width: 140px;position: absolute; top: 1px; left: 1px; z-index: 2;border:none;" />
+        <div style="position: absolute;" id="filterDropdownDiv">
+            <select name="filterDropDown" id="filterDropDown" tabindex="1000" onchange="DropDownTextToBox(this,'query');" style="position: absolute;top: 0px; left: 0px; z-index: 1; width: 165px;">
+                <optgroup label="Theme">
+                    {% for photoTag in site.photo_tags %}
+                        <option value="{{photoTag}}">{{photoTag}}</option>    
+                    {% endfor %}
+                </optgroup>
+            </select>
+        </div>
+    </div>
+
+    <input type="submit" value="Search" style="position: absolute;top: 80px; left: 280px;" />
     </form>
 </header>
 
@@ -21,7 +42,7 @@
     </div>
 </div>
 
-<div class="island thumbnails">
+<div class="island thumbnails" style="background-color: #111;margin-bottom: -20px;">
     <ul class="js-thumbnails__list thumbnails__list"></ul>
     <ol class="js-thumbnails__pager thumbnails__pager"></ol>
 </div>
