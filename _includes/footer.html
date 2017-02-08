@@ -1,12 +1,23 @@
 <!-- Footer -->
-<footer>
+<footer style="min-height: 230px; padding-bottom:30px;">
     <div style="overflow:hidden;">
         <section id="photos"></section>
     </div>
-    <div style="height: 150px;">
-        <h2 class="copyright">{{ site.title }} &copy;  {{ site.time | date: '%Y' }}</h2>
-        <div class="fb-follow" data-href="https://www.facebook.com/1052602931472479" data-layout="standard" data-size="small" data-show-faces="true"></div>
-        <!--<h3 class="copyright" style="padding:10px">Powered by <a href="https://github.com/">Github</a> - <a href="https://github.com/jekyll/">Jekyll</a>.</h3>-->
+    <div class="row" style="margin-bottom: 30px;">
+        <div class="col-md-12"><h2 class="copyright">{{ site.title }} &copy;  {{ site.time | date: '%Y' }}</h2></div>
+    </div>
+    <div class="row">
+        <div class="col-md-4" style="text-align: -webkit-center;padding:20px">
+            <div class="fb-follow" data-colorscheme="dark" data-href="https://www.facebook.com/1052602931472479" data-layout="button_count" data-size="large" data-show-faces="true"></div>
+        </div>
+
+        <div class="col-md-4" style="padding:20px;">
+            <a href="mailto:someone@example.com?Subject=Hello%20again" target="_top">Contactez Nous</br>Contact Us</a>
+        </div>
+
+        <div class="col-md-4" style="text-align: -webkit-center;padding:20px">
+            <a href="http://www.flickr.com/photos/127048817@N07/" title="Regardez mes photos sur Flickr !"><img src="https://s.yimg.com/pw/images/goodies/white-see-my-photos_fr.png" width="159" height="26" alt=""></a>
+        </div>
     </div>
 </footer>
 
@@ -49,6 +60,14 @@
     $(document).ready(function() {
         $('#toc').toc();
     });
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.8";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
 
 </script>
 

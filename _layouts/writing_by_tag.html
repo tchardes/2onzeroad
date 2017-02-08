@@ -3,9 +3,10 @@ layout: page
 title: tag archive
 ---
 
-<h3>Articles contenant le tag <strong>{{page.tag}}</strong>...</h3>
+<div id="post-content" style="margin-bottom:30px;">
 
-<div id="post-content">
+    <h3>Articles contenant le tag <strong>{{page.tag}}</strong>...</h3>
+
     {% if site.tags[page.tag] %}
         {% for post in site.tags[page.tag] %}
             {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -20,10 +21,6 @@ title: tag archive
                     </div><h3>{{ post_year }}</h3><div class="list-group">
                 {% endif %}
             {% endif %}
-			
-            <!--<a href="{{ post.url }}" class="list-group-item">
-                <h4 class="list-group-item-heading">{{ post.title }} - <span style="font-size:15px">{{ post.preview }}<span></h4>
-            </a>-->
 
             <a href="{{ post.url }}" class="list-group-item" style="overflow: hidden;padding: 0;height: 60px;">
                 <div style="display: inline-flex;width: 100%">
@@ -40,4 +37,17 @@ title: tag archive
     {% else %}
         <p>There are no posts for this tag.</p>
     {% endif %}
+
+    <h3 style="margin-top:60px;">Photos contenant le tag <strong>{{page.tag}}</strong>...</h3>
+
+
+    <style type="text/css"> 
+    .flickr_badge_image {margin:0px;display:inline-flex;}
+    .flickr_badge_image img {border: 0px solid #666666 !important; padding:1px; margin:2px;}
+    #flickr_badge_wrapper {width:100%;text-align:center}
+    </style>
+    <div id="flickr_badge_wrapper">
+        <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=m&layout=x&source=user_tag&user=127048817@N07&tag=Rempart"></script>
+    </div>
+
 </div>

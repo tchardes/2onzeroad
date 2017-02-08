@@ -1,7 +1,6 @@
 .gallery
 {
    position: relative;
-   height: 500px;
    border: 1px solid #333;
    background-color: #111;
 }
