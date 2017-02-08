@@ -116,6 +116,15 @@ permalink: ./index.html
           </div>
           <h3>Tag cloud</h3>
           <div id="cloudTag" style="height: 200px" class="cloudTag"></div>
+
+          <h3>Tag photos</h3>
+              
+          <ul>
+              {% for photoTag in site.photo_tags %}
+                <li><a href="{{ root_url }}/gallery/?tag={{photoTag}}">{{photoTag}}</a></li>
+              {% endfor %}
+          </ul>
+
       </div>
     
     </div>
