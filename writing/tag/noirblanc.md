@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_tag"
-tag: "Animaux"
-permalink: "/writing/tag/animaux/"
+tag: "Noir&Blanc"
+permalink: "/writing/tag/noirblanc/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
