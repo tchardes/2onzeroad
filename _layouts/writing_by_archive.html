@@ -3,18 +3,18 @@ layout: page
 title: destination archive
 ---
 
-<div id="post-content">
+{% assign relatedPosts = "" | split:"|"  %}
+{% for post in site.posts %}
+    {% assign archiveDate = post.date | date: "%B %y" %}
+    {% if archiveDate == page.archive-date %}
+        {% assign relatedPosts = relatedPosts | push: post %}
+    {% endif %}
+{% endfor %}
 
+
+<div id="post-content">
     <h3>Articles du mois <strong>{{page.archive-date}}</strong>...</h3>
     
-    {% assign relatedPosts = "" | split:"|"  %}
-    {% for post in site.posts %}
-        {% assign archiveDate = post.date | date: "%B %y" %}
-        {% if archiveDate == page.archive-date %}
-            {% assign relatedPosts = relatedPosts | push: post %}
-        {% endif %}
-    {% endfor %}
-
     <div class="row">
 
         {% for post in relatedPosts %}
@@ -25,5 +25,4 @@ title: destination archive
         {% endfor %}
     
     </div>
-
 </div>
