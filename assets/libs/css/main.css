@@ -101,7 +101,7 @@ hr.small {
   }
   .navbar-custom.is-fixed {
     position: fixed;
-    top: -61px;
+    top: -51px;
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
     transition: transform 0.3s;

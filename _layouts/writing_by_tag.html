@@ -5,6 +5,19 @@ title: tag archive
 
 <div id="post-content" style="margin-bottom:30px;">
 
+<h3 style="margin-top:60px;">Photos contenant le tag <strong>{{page.tag}}</strong>...<a href="{{ root_url }}/gallery/?tag={{page.tag}}">toutes les photos ici</a></h3>
+
+<style type="text/css"> 
+.flickr_badge_image {margin:0px;display:inline-flex;}
+.flickr_badge_image a {pointer-events: none;}
+.flickr_badge_image img {border: 0px solid #666666 !important; padding:1px; margin:2px;}
+#flickr_badge_wrapper {width:100%;text-align:center}
+</style>
+<div id="flickr_badge_wrapper">
+    <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=14&display=latest&size=s&layout=x&source=user_tag&user=144140566@N03&tag={{page.tag}}"></script>
+</div>
+
+
     <h3>Articles contenant le tag <strong>{{page.tag}}</strong>...</h3>
 
     {% if site.tags[page.tag] %}
@@ -37,16 +50,5 @@ title: tag archive
     {% else %}
         <p>There are no posts for this tag.</p>
     {% endif %}
-
-    <h3 style="margin-top:60px;">Photos contenant le tag <strong>{{page.tag}}</strong>...</h3>
-
-    <style type="text/css"> 
-    .flickr_badge_image {margin:0px;display:inline-flex;}
-    .flickr_badge_image img {border: 0px solid #666666 !important; padding:1px; margin:2px;}
-    #flickr_badge_wrapper {width:100%;text-align:center}
-    </style>
-    <div id="flickr_badge_wrapper">
-        <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=m&layout=x&source=user_tag&user=127048817@N07&tag=Rempart"></script>
-    </div>
 
 </div>

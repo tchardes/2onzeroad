@@ -2,13 +2,15 @@
    'use strict';
 
    var apiKey = '0fbd106e7a10290ab9362d4fe14d51cd';
+   //var apiKey = 'gzfssjojazlm77uoirwcwyflg5o6v6px3zw7tqvv';
    var apiURL = 'https://api.flickr.com/services/rest/';
 
    function searchText(parameters) {
       var requestParameters = Utility.extend(parameters, {
          method: 'flickr.photos.search',
          api_key: apiKey,
-         user_id: "127048817@N07",
+         user_id: "144140566@N03",
+         //user_id: "127048817@N07",
          format: 'json'
       });
 

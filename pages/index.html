@@ -41,7 +41,7 @@ permalink: ./index.html
             </div>
           </div>
 
-          {% for post in site.posts limit:5 %}
+          {% for post in site.posts limit:6 %}
             <div class="cd-timeline-block">
               <div class="cd-timeline-img cd-{{post.category}}">
               </div>
@@ -114,14 +114,11 @@ permalink: ./index.html
               {% endfor %}
               </ul>
           </div>
-          <h3>Tag cloud</h3>
-          <div id="cloudTag" style="height: 200px" class="cloudTag"></div>
-
-          <h3>Tag photos</h3>
+          <h3>Tags</h3>
               
           <ul>
               {% for photoTag in site.photo_tags %}
-                <li><a href="{{ root_url }}/gallery/?tag={{photoTag}}">{{photoTag}}</a></li>
+                <li style="float:left;list-style: none;font-size: 0.9em;padding: 4px;font-weight: 600;border-radius: 5px;background-color: #CCC;margin-right: 6px;margin:3px"><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag | slugify }}">{{photoTag}}</a></li>
               {% endfor %}
           </ul>
 
@@ -146,21 +143,29 @@ permalink: ./index.html
 $(document).ready(function() {
 
     var words = [
+                    {% for tag in site.photo_tags %}
 
-        {% for tag in tags %}
-          {% assign numberOfTag = 0 %}
+
+          {% assign numberOfTag = 2 %}
           {% for post in site.posts %}
             {% if post.tags contains tag %}
               {% assign numberOfTag = numberOfTag | plus: 1 %}
             {% endif %}
           {% endfor %}
-          {text: "{{tag}}", weight: {{numberOfTag}}, link: '{{ site.baseurl }}/writing/tag/{{ tag | slugify }}' },
+          {text: "{{tag}}", weight: 8, link: '{{ site.baseurl }}/writing/tag/{{ tag | slugify }}' },
         {% endfor %}
 
     ];
 
+    
+
     $('#cloudTag').jQCloud(words, {
-        autoResize: true
+        autoResize: true,
+        fontSize: {
+          from: 0.15,
+          to: 0.02
+        }
+
     });
 });
 </script>
