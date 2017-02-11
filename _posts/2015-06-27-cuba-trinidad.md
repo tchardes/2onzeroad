@@ -8,8 +8,8 @@ date:       2015-06-29 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-trinidad.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-trinidad.jpg
-tags: [Ville]
-flickr-tag: "Trinidad, Unesco"
+tags: [Ville, Unesco]
+flickr-tag: "Trinidad"
 
 country: Cuba
 city: Trinidad
