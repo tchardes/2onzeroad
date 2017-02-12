@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_category"
-category: "cat02"
-permalink: "/writing/category/cat02/"
+category: "roadmap"
+permalink: "/writing/category/roadmap/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---

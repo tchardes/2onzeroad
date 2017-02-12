@@ -88,6 +88,22 @@ permalink: ./index.html
               </ul>
           </div>
           <div>
+              <h3>Catégories</h3>
+              {% assign categories = "" | split:"|"  %}
+              {% for post in site.posts %}
+              {% if categories contains post.category %}
+                {% else %}
+                  {% assign categories = categories | push: post.category %}
+                {% endif %}
+              {% endfor %}
+
+              <ul>
+              {% for category in categories %}
+                <li><a href="{{ site.baseurl }}/writing/category/{{ category | slugify }}"/>{{category | capitalize}}</a></li>
+              {% endfor %}
+              </ul>
+          </div>
+          <div>
               <h3>Archives</h3>
               {% assign archives = "" | split:"|"  %}
               {% for post in site.posts %}
