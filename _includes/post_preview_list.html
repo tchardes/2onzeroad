@@ -1,0 +1,17 @@
+<a href="{{ post.url }}" class="post_preview_list">
+    <div style="display: inline-flex;width: 100%">
+        <img src="{{ post.thumbnail }}" style="width: 80px;height: 60px;" alt="Image" class="img-responsive"/>
+        <div class="post-preview-image-{{post.category}}" style="width: 100%" >
+            <div style="display: inline-flex;padding: 5px 5px 3px 10px;">
+                <div>
+                    <h3 style="margin: 0;color: #00C4ED;" class="list-group-item-heading">{{ post.title }}</h3>
+                </div>
+                <div style="padding: 0px 0px 0px 20px;font-size: 19px;color: #eee;font-weight: 500;">
+                    <i class="fa fa-map-marker googleMarker"></i>
+                    {{ post.city }}{% if post.city and post.country %}, {% endif %}{{ post.country }}
+                </div>
+            </div>
+            <div style="font-size:15px;padding: 0px 10px;color: #eee;">{{ post.preview }}</div>
+        </div>
+    </div>
+</a>
