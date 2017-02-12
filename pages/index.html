@@ -30,8 +30,8 @@ permalink: ./index.html
             <div class="cd-timeline-content">
                 <h4 style="font-weight:600 !important;font-size: 20px;margin-top: 0;position:absolute;top:-24px;letter-spacing: -1px;" ><a href="{{ post.url | prepend: site.baseurl }}">Notre dernière position...</a></h4>
 
-                  <div style="height: 100%;overflow: hidden;border-radius: 4px;">
-                    <img src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyBouHmvjOZCF3-_wbMlNKK_A9XTb8NCS0s&zoom=6&size=540x270&maptype=roadmap&markers=color:blue%7Clabel:S%7C{{site.currentLocation.coordinates}}" style="border-radius: 4px;width: 100%" />
+                  <div style="height: 100%;overflow: hidden;">
+                    <img src="https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyBouHmvjOZCF3-_wbMlNKK_A9XTb8NCS0s&zoom=6&size=540x270&maptype=roadmap&markers=color:blue%7Clabel:S%7C{{site.currentLocation.coordinates}}" style="width: 100%" />
                   </div>
 
                 <span class="cd-date">
@@ -50,7 +50,7 @@ permalink: ./index.html
                   <h4 style="font-weight:600 !important;font-size: 20px;margin-top: 0;position:absolute;top:-24px;letter-spacing: -1px;" ><a href="{{ post.url | prepend: site.baseurl }}">{{ root_url }} {{ post.title }}</a></h4>
 
                   <div style="height: 100%;display: flex">
-                    <div style="border-radius:4px 0px 0px 4px;height: 100%;width: 60%;background-image: url('{{post.thumbnail}}');background-size: cover;background-repeat: no-repeat;background-position: center;"></div>
+                    <div style="height: 100%;width: 60%;background-image: url('{{post.thumbnail}}');background-size: cover;background-repeat: no-repeat;background-position: center;"></div>
                     <div style="height: 100%;width: 240px;padding:5px 10px 5px 10px;font-size: 16px;line-height: 21px;">
                       {{ post.preview }}
                     </div>
@@ -118,7 +118,7 @@ permalink: ./index.html
               
           <ul>
               {% for photoTag in site.photo_tags %}
-                <li style="float:left;list-style: none;font-size: 0.9em;padding: 4px;font-weight: 600;border-radius: 5px;background-color: #CCC;margin-right: 6px;margin:3px"><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag | slugify }}">{{photoTag}}</a></li>
+                <li class="post-preview-category" style="margin-bottom:0px !important;"><div style="margin-right: 3px !important;"><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag | slugify }}">{{photoTag}}</a></div></li>
               {% endfor %}
           </ul>
 

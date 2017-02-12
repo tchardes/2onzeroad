@@ -282,7 +282,7 @@ function getMap(canvas, mapId, googleStyle) {
     "featureType": "water",
     "stylers": [
       {
-        "color": "#ffffff"
+        "color": "#252525"
       }
     ]
   },

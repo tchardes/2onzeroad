@@ -60,7 +60,7 @@
   height: 30px;
   border-radius: 50%;
   /*box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);*/
-  background-color: white;
+  background-color: #252525;
   border-width: 5px;
   border-style: solid;
 }
@@ -169,10 +169,9 @@
     height: 160px;
   position: relative;
   margin-left: 60px;
-  background: #d9edf7;
-    color: #31708f;
-  border-radius: 0.25em;
-  font-weight: 400;
+  background: white;
+    color: #333;
+  font-weight: 300;
 }
 .cd-timeline-content:after {
   content: "";
@@ -197,7 +196,6 @@
   padding: .8em 1em;
   background: #acb7c0;
   color: white;
-  border-radius: 0.25em;
 }
 .no-touch .cd-timeline-content .cd-read-more:hover {
   background-color: #bac4cb;
