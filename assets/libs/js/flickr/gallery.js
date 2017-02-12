@@ -13,6 +13,7 @@
       if (index >= 0 && index < this.photos.length) {
          this.currentIndex = index;
          this.container.src = Flickr.buildPhotoLargeUrl(this.photos[this.currentIndex]);
+         document.getElementById("photoTitle").textContent = this.photos[this.currentIndex].title;
       }
    };
 

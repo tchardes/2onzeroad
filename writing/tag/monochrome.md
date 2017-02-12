@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_tag"
-tag: "Noir & Blanc"
-permalink: "/writing/tag/noir-blanc/"
+tag: "Monochrome"
+permalink: "/writing/tag/monochrome/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
