@@ -94,4 +94,4 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
-photo_tags : ["Animaux", "Architecture", "Art", "Capitale", "Contre jour", "Coucher de soleil", "Culturel", "Desert", "Fête évenement", "Forêt", "Géologie", "Glace", "Histoire", "Insolite", "Lac", "Mer/Océan", "Montagne", "Monument", "Nature", "Neige", "Monochrome", "Nuit", "Parc naturel", "Paysage", "Plage", "Portrait", "Randonnee", "Religion", "Riviere", "Route", "Technologie", "Transport", "Unesco", "Ville", "Volcan"]
+photo_tags : ["Animaux", "Architecture", "Art", "Capitale", "Contre-jour", "Coucher de soleil", "Culturel", "Désert", "Fête/Evénement", "Forêt", "Géologie", "Glace", "Histoire", "Insolite", "Lac", "Mer/Océan", "Montagne", "Monument", "Nature", "Neige", "Monochrome", "Nuit", "Parc-naturel", "Paysage", "Plage", "Portrait", "Randonnée", "Religion", "Rivière", "Route", "Technologie", "Transport", "Unesco", "Ville", "Volcan"]
