@@ -6,7 +6,7 @@ header-img: "assets/owner/hero/about-bg.jpg"
 permalink: /info/
 ---
 
-<p class="info-box bg-info"><i class="fa fa-info-circle"></i>
+<p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
 
 Si vous vous intéressez à ce type de voyage et recherchez des informations, vous êtes sur la bonne page. Ne soyez ni effrayés ni inquiets par toutes les démarches à entreprendre, tout cela se réalise petit à petit. La préparation d’un voyage au long cours ou d'un tour du monde fait déjà partie du voyage. Ce sont plusieurs mois d'interrogations, d'évasions, de planification, de préparation, de budgétisation... en fait plein de mots en « ion ». On devient rapidement des pros en géographie, géopolitique, climat et saisons, histoire et immanquablement en démarches bureaucratiques...<br /><br />
 

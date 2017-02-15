@@ -35,29 +35,40 @@ permalink: ./index.html
                   "></div>
 
                 <span class="cd-date">
-                  <a href="#"><i class="fa fa-calendar"></i> {{site.currentLocation.date}}</a> </br>
-                  <a href="#" style="padding-left:4px;"><i class="fa fa-map-marker"></i> {{site.currentLocation.name}}</a> </br>
+                  <a href="#" style="color: white !important;"><i class="fa fa-calendar" style="color: #00C4ED"></i> {{site.currentLocation.date}}</a> </br>
+                  <a href="#" style="padding-left:4px;color: white !important;"><i class="fa fa-map-marker googleMarker"></i> {{site.currentLocation.name}}</a> </br>
                 </span>
             </div>
           </div>
 
-          {% for post in site.posts limit:6 %}
-            <div class="cd-timeline-block">
+
+          {% assign pendingArticlesCount = 10 %}
+          {% if site.posts.size < 14 %}
+            {% assign pendingArticlesCount = pendingArticlesCount | minus:4 %}
+          {% endif %}
+
+          {% assign postCount = 0 %}
+          {% for post in site.posts | limit:14 %}
+            {% assign postCount = postCount | plus:1 %}
+
+            <div class="cd-timeline-block" {% if postCount > 4 %} style="display:none" {% endif %} >
               <div class="cd-timeline-img cd-{{post.category}}">
               </div>
 
               <div class="cd-timeline-content">
                   <h4 style="font-weight:600 !important;font-size: 20px;margin-top: 0;position:absolute;top:-24px;letter-spacing: -1px;" ><a href="{{ post.url | prepend: site.baseurl }}">{{ root_url }} {{ post.title }}</a></h4>
 
-                  <div style="height: 100%;display: flex">
-                    <div style="height: 100%;width: 60%;background-image: url('{{post.thumbnail}}');background-size: cover;background-repeat: no-repeat;background-position: center;"></div>
+                  <div class="cd-timeline-content-bubble" style="height: 100%;display: flex">
+                    <div style="height: 100%;width: 60%;overflow: hidden;">
+                      <div class="cd-timeline-picture" style="width: 100%;height: 100%; background-image: url('{{post.thumbnail}}');background-size: cover;background-repeat: no-repeat;background-position: center;"></div>
+                    </div>
                     <div style="height: 100%;width: 240px;padding:5px 10px 5px 10px;font-size: 16px;line-height: 21px;">
                       {{ post.preview }}
                     </div>
                   </div>
                   <span class="cd-date">
-                    <a href="#"><i class="fa fa-calendar"></i> {{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a> </br>
-                    <a href="#" style="padding-left:4px;"><i class="fa fa-map-marker"></i> {{ post.city }}{% if post.city and post.country %}, {% endif %}{{ post.country }}</a> </br>
+                    <a href="#" style="color: white !important;"><i style="color: #00C4ED" class="fa fa-calendar googleMarker"></i> {{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a> </br>
+                    <a href="#" style="padding-left:4px;color: white !important;"><i class="fa fa-map-marker googleMarker"></i> {{ post.city }}{% if post.city and post.country %}, {% endif %}{{ post.country }}</a> </br>
                     <div class="post-preview-category">
                         {% for tag in post.tags %}
                             <div><a href="{{ site.baseurl }}/writing/tag/{{ tag  | slugify }}/" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ tag }}</a></div>
@@ -67,6 +78,16 @@ permalink: ./index.html
               </div>
             </div>
           {% endfor %}
+
+          <div class="cd-timeline-block" id="displayMoreArticlesBlock" style="height: 41px;">
+            <div class="cd-timeline-img cd-map">
+            </div>
+
+            <div class="cd-timeline-content displayMoreArticles bg-primary" onclick="displayAllBlock();" style="height: 41px;">
+               <div style="padding: 8px 12px;"  >Afficher les {{pendingArticlesCount}} articles suivants...</div>
+            </div>
+          </div>
+
         </section>
       </div>
    
@@ -81,12 +102,11 @@ permalink: ./index.html
                 {% endif %}
               {% endfor %}
 
-              <ul>
               {% for destination in destinations %}
-                <li><a href="{{ site.baseurl }}/writing/destination/{{ destination | slugify }}"/>{{destination}}</a></li>
+                <div><a href="{{ site.baseurl }}/writing/destination/{{ destination | slugify }}"/><i style="width:26px;" class="fa fa-globe"></i>{{destination}}</a></div>
               {% endfor %}
-              </ul>
           </div>
+          <hr />
           <div>
               <h3>Catégories</h3>
               {% assign categories = "" | split:"|"  %}
@@ -97,12 +117,11 @@ permalink: ./index.html
                 {% endif %}
               {% endfor %}
 
-              <ul>
               {% for category in categories %}
-                <li><a href="{{ site.baseurl }}/writing/category/{{ category | slugify }}"/>{{category | capitalize}}</a></li>
+                <div><a href="{{ site.baseurl }}/writing/category/{{ category | slugify }}"/><i style="width:26px;" class="fa fa-folder-open color-{{category}}"></i>{{category | capitalize}}</a></div>
               {% endfor %}
-              </ul>
           </div>
+          <hr />
           <div>
               <h3>Archives</h3>
               {% assign archives = "" | split:"|"  %}
@@ -115,7 +134,6 @@ permalink: ./index.html
               {% endfor %}
 
 
-              <ul>
               {% for archive in archives %}
                 {% assign numberOfArchive = 0 %}
 
@@ -126,22 +144,19 @@ permalink: ./index.html
                   {% endif %}
                 {% endfor %}
 
-                <li><a href="{{ site.baseurl }}/writing/archive/{{ archive | slugify }}"/>{{archive}} ({{numberOfArchive}})</a></li>
+                <div><a href="{{ site.baseurl }}/writing/archive/{{ archive | slugify }}"/><i style="width:26px;" class="fa fa-archive"></i> {{archive}} ({{numberOfArchive}})</a></div>
               {% endfor %}
-              </ul>
           </div>
+          <hr />
           <h3>Tags</h3>
               
-          <ul>
-              {% for photoTag in site.photo_tags %}
-                <li class="post-preview-category" style="margin-bottom:0px !important;"><div style="margin-right: 3px !important;"><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag | slugify }}">{{photoTag}}</a></div></li>
-              {% endfor %}
-          </ul>
+          {% for photoTag in site.photo_tags %}
+            <div class="post-preview-category" style="margin-bottom:0px !important;"><div style="margin-right: 3px !important;"><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag | slugify }}">{{photoTag}}</a></div></div>
+          {% endfor %}
 
       </div>
     
-    </div>
-
+    </div>    
   </body>
 </html>
 
@@ -156,11 +171,22 @@ permalink: ./index.html
 {% endfor %}
 
 <script>
+
+function displayAllBlock()
+{
+  var cusid_ele = document.getElementsByClassName('cd-timeline-block');
+  for (var i = 0; i < cusid_ele.length; ++i) {
+      var item = cusid_ele[i];  
+      item.style.display = 'block';
+  }
+
+  document.getElementById("displayMoreArticlesBlock").style.display = 'none'; 
+}
+
 $(document).ready(function() {
 
     var words = [
-                    {% for tag in site.photo_tags %}
-
+        {% for tag in site.photo_tags %}
 
           {% assign numberOfTag = 2 %}
           {% for post in site.posts %}

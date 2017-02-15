@@ -18,10 +18,8 @@ title: category archive
                     </div><h3>{{ post_year }}</h3><div class="list-group">
                 {% endif %}
             {% endif %}
-			
-            <a href="{{ post.url }}" class="list-group-item">
-                <h4 class="list-group-item-heading">{{ post.title }}</h4>
-            </a>
+
+                {% include post_preview_list.html %}
 
             {% if forloop.last %}
                 </div>
