@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_tag"
-tag: "Randonée"
-permalink: "/writing/tag/randonee/"
+tag: "Randonnée"
+permalink: "/writing/tag/randonnée/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
