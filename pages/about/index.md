@@ -2,7 +2,7 @@
 layout: page
 title: "QUI SOMMES-NOUS ?"
 description: "Notre projet, notre itinéraire, un site"
-header-img: "assets/owner/hero/about-bg.jpg"
+header-img: "assets/owner/hero/galerie-bg.jpg"
 permalink: /about/
 ---
 
