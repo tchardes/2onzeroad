@@ -150,8 +150,8 @@ permalink: ./index.html
           <hr />
           <h3>Tags</h3>
               
-          {% for photoTag in site.photo_tags %}
-            <div class="post-preview-category" style="margin-bottom:0px !important;"><div style="margin-right: 3px !important;"><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag | slugify }}">{{photoTag}}</a></div></div>
+          {% for photoTag in site.data.tags %}
+            <div class="post-preview-category" style="margin-bottom:0px !important;"><div style="margin-right: 3px !important;"><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag.name | slugify }}">{{photoTag.displayName}}</a></div></div>
           {% endfor %}
 
       </div>
