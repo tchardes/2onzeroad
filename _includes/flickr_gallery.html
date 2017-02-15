@@ -19,7 +19,7 @@
             <select name="filterDropDown" id="filterDropDown" tabindex="1000" onchange="DropDownTextToBox(this,'query');" style="height: 20px;position: absolute;top: 0px; left: 0px; z-index: 1; width: 165px;">
                 <optgroup label="Theme">
                     {% for photoTag in site.photo_tags %}
-                        <option value="{{photoTag}}">{{photoTag}}</option>    
+                        <option value="{{photoTag[1]}}">{{photoTag[0]}}</option>    
                     {% endfor %}
                 </optgroup>
             </select>
