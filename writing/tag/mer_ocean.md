@@ -1,6 +1,5 @@
 ---
 layout: "writing_by_tag"
-tag: "Mer/Océan"
-permalink: "/writing/tag/mer-océan/"
+permalink: "/writing/tag/mer-ocean/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
