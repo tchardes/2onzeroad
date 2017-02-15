@@ -588,10 +588,12 @@ img::-moz-selection {
 .displayMoreArticles {
   cursor: pointer;
   font-weight: 500 !important;
+  background-color: #337ab7 !important;
+  color: white !important;
 }
 
 .displayMoreArticles:hover {
-  background-color: #ccc;
+  background-color: #2e6da4 !important;
 }
 
 .googleMarker {

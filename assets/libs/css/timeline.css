@@ -189,6 +189,11 @@
     color: #333;
   font-weight: 300;
 }
+
+.cd-timeline-content-bubble {
+  flex-direction: row-reverse;
+}
+
 .cd-timeline-content:after {
   content: "";
   display: table;
@@ -265,11 +270,10 @@
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content {
     float: right;
-    flex-direction: row-reverse;
   }
 
-  .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-timeline-content-bubble {
-    flex-direction: row-reverse;
+  .cd-timeline-block:nth-child(odd) .cd-timeline-content .cd-timeline-content-bubble {
+    flex-direction: row;
   }
 
   .cd-timeline-block:nth-child(even) .cd-timeline-content::before {
