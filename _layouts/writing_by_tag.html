@@ -3,6 +3,17 @@ layout: page
 title: tag archive
 ---
 
+
+{% assign tag = page.url | split:'/' | last %}
+{% assign displayTag = tag %}
+
+{% for tag in site.data.tags %}
+    {% assign displayTag = tag %}
+
+{% endfor %}
+
+{{tag}}--{{displayTag}}
+
 <div id="post-content" style="margin-bottom:30px;">
 
 <h3 style="margin-top:60px;">Photos contenant le tag <strong>{{page.tag}}</strong>...<a href="{{ root_url }}/gallery/?tag={{page.tag}}">toutes les photos ici</a></h3>

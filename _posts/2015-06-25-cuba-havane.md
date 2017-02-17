@@ -14,9 +14,7 @@ country: Cuba
 city: la Havane
 category: "blog"
 
-location:
-  latitude: 23.135457
-  longitude: -82.358861
+location: "23.135457, -82.358861"
 ---
 
 ### Voyage laborieux !!!

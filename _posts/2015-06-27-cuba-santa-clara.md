@@ -15,9 +15,7 @@ country: Cuba
 city: Santa-Clara
 category: "blog"
 
-location:
-  latitude: 22.402651
-  longitude: -79.979591
+location: "22.402651, -79.979591"
 ---
 
 ### Tour Manaca Iznaga

@@ -16,9 +16,7 @@ city: Old San Juan
 category: "blog"
 
 
-location:
-  latitude: 18.466164
-  longitude: -66.116421
+location: "18.466164, -66.116421"
 
 
 ---

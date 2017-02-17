@@ -96,14 +96,14 @@
                             <div class="col-sm-6" style="padding:15px;">
                                 <div style="font-size:22px;" class="info-box bg-primary">
                                     <i class="fa fa-picture-o"></i>
-                                    <a style="color:white;" href="{{ root_url }}/gallery/?tag={{page.flickr-tag}}">La suite en photos...</a>
+                                    <a style="color:white !important;" href="{{ root_url }}/gallery/?tag={{page.flickr-tag}}">La suite en photos...</a>
                                 </div>
                             </div>  
 
                             <div class="col-sm-6" style="padding:15px;">
                                 <div style="font-size:22px;" class="info-box bg-primary">
                                     <i class="fa fa-folder-open"></i>
-                                    <a style="color:white;" href="#other-articles">Autres articles en relation...</a>
+                                    <a style="color:white !important;" href="#other-articles">Autres articles en relation...</a>
                                 </div>
                             </div> 
                         </div>
@@ -132,34 +132,30 @@
                         <br>
                     </div>
                 </div>
-            </div>
 
-            {% if relatedPosts.size > 0 %}
-                <div class="container">
+                {% if relatedPosts.size > 0 %}
                     <div class="row">                           
                         <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
                             <h2 id="other-articles">Autres articles en relation...</h2>
                         </div>
                     </div>
-                </div>
-                <div class="row"> 
-                    <div>  
-                        {% include map_canvas.html id="map2" relatedPosts=relatedPosts isRecusrive="true" googleStyle="false" %}
-                        <br />
+                    <div class="row"> 
+                        <div>  
+                            {% include map_canvas.html id="map2" relatedPosts=relatedPosts isRecusrive="true" googleStyle="false" %}
+                            <br />
+                        </div>
                     </div>
-                </div>
-                <div class="row">   
-                    <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
+                    <div class="row">   
                         {% for post in relatedPosts %}
-                                
-                            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 col-xxs-12" style="display:inline-flex">
+                            <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
                                 {% include post_preview.html %}
                             </div>
-
                         {% endfor %}
                     </div>
-                </div>
-            {% endif %}
+                {% endif %}
+
+            </div>
+
 
         </article>
         {% include footer.html %}

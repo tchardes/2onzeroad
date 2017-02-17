@@ -17,9 +17,7 @@ city: Arecibo
 category: "blog"
 
 
-location:
-  latitude: 18.348002
-  longitude: -66.752834
+location: "18.348002, -66.752834"
 ---
 
 

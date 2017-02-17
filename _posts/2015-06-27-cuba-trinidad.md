@@ -15,9 +15,7 @@ country: Cuba
 city: Trinidad
 category: "blog"
 
-location:
-  latitude: 21.807211
-  longitude: -79.976970
+location: "21.807211, -79.976970"
 ---
 
 Après un bon petit déjeuner, nous quittons Cienfiegos en direction de Trinidad, une des plus belles villes de Cuba. En route, nous nous arrêtons devant une maison où est installé, comme c'est souvent le cas dans la caraïbe, un étal avec des fruits et légumes à vendre. La propriétaire nous fait goûter des fruits locaux et nous propose du miel, directement depuis un cadre de ruche. Elle nous coupe des morceaux de cire que nous machouillons pour en extraire le miel, on s'en met de partout !!!.

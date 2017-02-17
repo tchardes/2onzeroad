@@ -13,9 +13,8 @@ category: "roadmap"
 flickr-tag: "Puerto_Rico"
 
 
-location:
-  latitude: 18.242404
-  longitude: -66.452262
+location: "18.242404, -66.452262"
+
 itinary: "porto-rico.json"
 
 ---

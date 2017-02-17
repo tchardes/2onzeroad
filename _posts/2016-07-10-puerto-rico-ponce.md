@@ -17,9 +17,7 @@ city: Ponce
 category: "blog"
 
 
-location:
-  latitude: 18.006878
-  longitude: -66.610805
+location: "18.006878, -66.610805"
 
 ---
 

@@ -15,9 +15,7 @@ country: Cuba
 city: Cienfuegos
 category: "blog"
 
-location:
-  latitude: 22.122271
-  longitude: -80.451987
+location: "22.122271, -80.451987"
 ---
 
 Nous quittons la Havane en direction du Sud-Est par l'Autopista "A1" en direction de Cienfuegos. Pour notre premier arrêt, nous faisons une pause café à Australia Township. Cette ville tire son nom de son ancienne sucrerie dont il reste encore une grande cheminée. A l'époque, Cuba donnait des noms de continent à ces usines sucrières, Australie pour celle là. Elle est également connue car Fidel Castro y avait positionné sa base arrière des opérations en 1961 lors de la crise de la Baie des Cochons. A l'entrée de la ville un grand panneau rappelle ce point historique.

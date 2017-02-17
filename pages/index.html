@@ -117,8 +117,10 @@ permalink: ./index.html
                 {% endif %}
               {% endfor %}
 
+              <div><a href="{{ site.baseurl }}/writing"/><i style="width:26px;" class="fa fa-folder-open"></i>Toutes</a></div>
+
               {% for category in categories %}
-                <div><a href="{{ site.baseurl }}/writing/category/{{ category | slugify }}"/><i style="width:26px;" class="fa fa-folder-open color-{{category}}"></i>{{category | capitalize}}</a></div>
+                <div><a href="{{ site.baseurl }}/writing/category/{{ category | slugify }}"/><i style="width:26px;" class="fa fa-folder-open color-{{category}}"></i>{{category | replace: 'roadmap', 'Carnet de route' | capitalize }}</a></div>
               {% endfor %}
           </div>
           <hr />
