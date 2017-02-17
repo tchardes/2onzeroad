@@ -10,11 +10,9 @@ header-img: "assets/owner/blog/header/post-bg-santa-clara.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-santa-clara.jpg
 tags: [Histoire, Monument]
 flickr-tag: "Santa_Clara"
-
 country: Cuba
 city: Santa-Clara
 category: "blog"
-
 location: "22.402651, -79.979591"
 ---
 

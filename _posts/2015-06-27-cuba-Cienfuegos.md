@@ -10,11 +10,9 @@ header-img: "assets/owner/blog/header/post-bg-cienfuegos.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-cienfuegos.jpg
 tags: [Ville, Histoire, Unesco]
 flickr-tag: "cienfuegos"
-
 country: Cuba
 city: Cienfuegos
 category: "blog"
-
 location: "22.122271, -80.451987"
 ---
 

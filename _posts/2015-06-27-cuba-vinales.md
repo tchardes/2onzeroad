@@ -10,11 +10,9 @@ header-img: "assets/owner/blog/header/post-bg-vinales.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-vinales.jpg
 tags: [Ville, Unesco, Géologie, Nature]
 flickr-tag: "Vinales"
-
 country: Cuba
 city: Viñales
 category: "blog"
-
 location: "22.613590, -83.712819"
 
 ---

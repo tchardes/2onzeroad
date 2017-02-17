@@ -10,11 +10,9 @@ header-img: "assets/owner/blog/header/post-bg-trinidad.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-trinidad.jpg
 tags: [Ville, Unesco]
 flickr-tag: "Trinidad"
-
 country: Cuba
 city: Trinidad
 category: "blog"
-
 location: "21.807211, -79.976970"
 ---
 

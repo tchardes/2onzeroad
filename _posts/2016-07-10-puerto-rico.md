@@ -11,10 +11,7 @@ tags: []
 country: Puerto-Rico
 category: "roadmap"
 flickr-tag: "Puerto_Rico"
-
-
 location: "18.242404, -66.452262"
-
 itinary: "porto-rico.json"
 
 ---

@@ -11,11 +11,9 @@ header-img: "assets/owner/blog/header/post-bg-puerto-rico-ponce.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-ponce.jpg
 tags: [Ville, Culturel]
 flickr-tag: "Ponce"
-
 country: Puerto-Rico
 city: Ponce
 category: "blog"
-
 
 location: "18.006878, -66.610805"
 
