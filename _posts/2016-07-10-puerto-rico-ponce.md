@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Poncé et la fontaine de Jouvance"
-preview:    "Porto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le..."
+preview:    "Puerto Rico est l'un des plus gros distilleurs de Rhum au monde. Le préféré des portoricains est le..."
 
 parent-id:  2016-07-10-puerto-rico
 
