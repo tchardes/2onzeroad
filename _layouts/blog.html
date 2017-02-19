@@ -59,8 +59,22 @@
                                     <i class="fa fa-calendar" style="padding:0 5px 0 10px"></i>{{ page.date | date: "%-d %-B %Y" }}
 
                                     {% if post.tags.size > 0 %}
-                                    <i class="fa fa-tags" style="padding:0 5px 0 10px"></i>
-                                    {% for tag in page.tags %}<a style="color:white;" href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;-&nbsp;{% endunless %}{% endfor %}{% endif %}
+                                        <i class="fa fa-tags" style="padding:0 5px 0 10px"></i>
+                                        {% for tag in page.tags %}
+
+                                            {% assign displayTag = "" %}
+                                            {% for dataTag in site.data.tags %}
+                                                {% if dataTag.name == tag %}
+                                                    {% assign displayTag = dataTag.displayName %}
+                                                {% endif %}
+                                            {% endfor %}
+
+                                            {% if displayTag != "" %} 
+                                                <a style="color:white;" href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ displayTag }}</a>
+                                            {% endif %}
+
+                                        {% unless forloop.last %}&nbsp;-&nbsp;{% endunless %}{% endfor %}
+                                    {% endif %}
 
                                     {% if page.category == "roadmap" and relatedPosts.size > 1 %}
                                         <i class="fa fa-folder-open" style="padding:0 5px 0 10px"></i> {{ relatedPosts | size }} article(s)

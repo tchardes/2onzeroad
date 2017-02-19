@@ -442,6 +442,7 @@ img::-moz-selection {
   margin: 6px 0px 15px 0px;
   display: inline-flex;
   padding-top: 2px;
+  min-height: 25px;
 }
 .post-preview-category div {
   font-size: 0.7em;
