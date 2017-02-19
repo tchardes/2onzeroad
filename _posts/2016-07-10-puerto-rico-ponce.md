@@ -9,7 +9,7 @@ date:       2016-07-05 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-ponce.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-ponce.jpg
-tags: [ville, Culturel]
+tags: [ville, culturel]
 flickr-tag: "Ponce"
 country: Puerto-Rico
 city: Ponce

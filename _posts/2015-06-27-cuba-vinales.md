@@ -8,7 +8,7 @@ date:       2015-06-26 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-vinales.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-vinales.jpg
-tags: [Ville, Unesco, Géologie, Nature]
+tags: [ville, unesco, geologie, nature]
 flickr-tag: "Vinales"
 country: Cuba
 city: Viñales
