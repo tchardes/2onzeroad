@@ -17,40 +17,16 @@ permalink: /map/point-of-interest/
     </head>
     <body> 
 
-        {% assign relatedPosts = "" | split:"|"  %}
-        
-        
-        {% for post in site.posts %}       
-            {% assign areEquals = false %}
-            {% assign hasParents = false %}
-
-            {% if post.parent-id and page.parent-id == post.parent-id %}
-                {% assign areEquals = true %}
-            {% endif %}
-
-            {% if post.path contains page.parent-id or page.path contains post.parent-id or areEquals %}
-                {% assign hasParents = true %}
-            {% endif %}
-
-            {% if page.id != post.id and hasParents == true %}
-                {% assign relatedPosts = relatedPosts | push: post %}
-            {% endif %}
-
-        {% endfor %}
-
         {% include nav.html %}
-        
-        {% assign post = page %}
 
-        <article>
-
+        <div class="container-fluid" style="margin-bottom:-20px">
             <div class="row"> 
-                <div style="padding-top:50px">  
-                    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=13Q1PycJrzYebc9GpL_DmXLY5Y0U" height="800" style="width:100%;margin-bottom:20px;"></iframe>
+                <div>  
+                    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=13Q1PycJrzYebc9GpL_DmXLY5Y0U" height="800" style="width:100%;"></iframe>
                 </div>
             </div>
+        </div>
 
-        </article>
         {% include footer.html %}
         {% include scroll_to_top.html %}
 

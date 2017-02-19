@@ -42,16 +42,14 @@ itinary: "total.json"
 
         {% assign post = page %}
 
-        <article>
-
+        <div class="container-fluid" style="margin-bottom:-20px">
             <div class="row"> 
-                <div style="padding-top:50px">  
+                <div>  
                     {% include map_canvas.html id="map1" displayItinary="true" relatedPosts=site.posts isRecusrive="false" googleStyle="true" height="800" %}
-                    <br />
                 </div>
             </div>
+        </div>
 
-        </article>
         {% include footer.html %}
         {% include scroll_to_top.html %}
 

@@ -43,16 +43,14 @@ permalink: /map/markup/
         <link href="{{root_url}}/assets/libs/css/bigfoot.css" rel="stylesheet" />
         {% assign post = page %}
 
-        <article>
-
+        <div class="container-fluid" style="margin-bottom:-20px">
             <div class="row"> 
-                <div style="padding-top:50px">  
+                <div>  
                     {% include map_canvas.html id="map1" relatedPosts=site.posts isRecusrive="false" googleStyle="false" height="800" %}
-                    <br />
                 </div>
             </div>
+        </div>
 
-        </article>
         {% include footer.html %}
         {% include scroll_to_top.html %}
 
