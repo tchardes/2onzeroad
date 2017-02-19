@@ -5,55 +5,67 @@ title: tag archive
 
 
 {% assign tag = page.url | split:'/' | last %}
-{% assign displayTag = tag %}
 
-{% for tag in site.data.tags %}
-    {% assign displayTag = tag %}
-
+{% for dataTag in site.data.tags %}
+    {% if dataTag.name == tag %}
+        {% assign displayTag = dataTag.displayName %}
+    {% endif %}
 {% endfor %}
 
-{{tag}}--{{displayTag}}
+<div id="post-content">
 
-<div id="post-content" style="margin-bottom:30px;">
+    <div class="row">
+        <div class="col-md-8" style="text-align: left;padding-bottom: 20px;">
+             <h3>Aperçus de photos taggées <strong>{{displayTag}}</strong>... </h3>
+        </div>
 
-<h3 style="margin-top:60px;">Photos contenant le tag <strong>{{page.tag}}</strong>...<a href="{{ root_url }}/gallery/?tag={{page.tag}}">toutes les photos ici</a></h3>
+        <div class="col-md-4" style="text-align: right">
+             <h3><a style="color:white" href="{{ root_url }}/gallery/?tag={{tag}}">...vers la gallerie</a> </h3>
+        </div>
+    </div>
 
-<style type="text/css"> 
-.flickr_badge_image {margin:0px;display:inline-flex;}
-.flickr_badge_image a {pointer-events: none;}
-.flickr_badge_image img {border: 0px solid #666666 !important; padding:1px; margin:2px;}
-#flickr_badge_wrapper {width:100%;text-align:center}
-</style>
-<div id="flickr_badge_wrapper">
-    <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=14&display=latest&size=s&layout=x&source=user_tag&user=144140566@N03&tag={{page.tag}}"></script>
-</div>
+    <div class="row">
+        <div class="col-md-12">
+            <div id="flickr_badge_wrapper">
+                <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=14&display=latest&size=s&layout=x&source=user_tag&user=144140566@N03&tag={{tag}}"></script>
+            </div>
+        </div>
+    </div>
 
+    <br/>
+    <br/>
 
-    <h3>Articles contenant le tag <strong>{{page.tag}}</strong>...</h3>
-
-    {% if site.tags[page.tag] %}
-        {% for post in site.tags[page.tag] %}
-            {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
-            {% if forloop.first %}
-                <h3>{{ post_year }}</h3><div class="list-group">
-            {% endif %}
-			
-            {% if forloop.first == false %}
-                {% assign previous_index = forloop.index0 | minus: 1 %}
-                {% capture previous_post_year %}{{ site.tags[page.tag][previous_index].date | date: '%Y' }}{% endcapture %}
-                {% if post_year != previous_post_year %}
-                    </div><h3>{{ post_year }}</h3><div class="list-group">
+    <div class="row" style="padding-bottom: 20px;">
+        <div class="col-md-12">
+            <h3>Articles taggés <strong>{{displayTag}}</strong>...</h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+        {% if site.tags[tag] %}
+            {% for post in site.tags[tag] %}
+                {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
+                {% if forloop.first %}
+                    <h3>{{ post_year }}</h3><div class="list-group">
                 {% endif %}
-            {% endif %}
+                
+                {% if forloop.first == false %}
+                    {% assign previous_index = forloop.index0 | minus: 1 %}
+                    {% capture previous_post_year %}{{ site.tags[tag][previous_index].date | date: '%Y' }}{% endcapture %}
+                    {% if post_year != previous_post_year %}
+                        </div><h3>{{ post_year }}</h3><div class="list-group">
+                    {% endif %}
+                {% endif %}
 
-                {% include post_preview_list.html %}
+                    {% include post_preview_list.html %}
 
-            {% if forloop.last %}
-                </div>
-            {% endif %}
-        {% endfor %}
-    {% else %}
-        <p>Aucun article contenant ce tag.</p>
-    {% endif %}
-
+                {% if forloop.last %}
+                    </div>
+                {% endif %}
+            {% endfor %}
+        {% else %}
+            <p>Aucun article contenant ce tag.</p>
+        {% endif %}
+        </div>
+    </div>
 </div>

@@ -5,24 +5,37 @@ title: destination archive
 
 {% assign relatedPosts = "" | split:"|"  %}
 {% for post in site.posts %}
-    {% assign archiveDate = post.date | date: "%B %y" %}
+    {% assign archiveDate = post.date | date: "%B %Y" %}
     {% if archiveDate == page.archive-date %}
         {% assign relatedPosts = relatedPosts | push: post %}
     {% endif %}
 {% endfor %}
 
+{% assign displayDate = page.archive-date 
+| replace: 'January', 'Janvier' 
+| replace: 'February', 'Février' 
+| replace: 'March', 'Mars' 
+| replace: 'April', 'Avril' 
+| replace: 'May', 'Mai' 
+| replace: 'June', 'Juin' 
+| replace: 'July', 'Juillet' 
+| replace: 'August', 'Août' 
+| replace: 'September', 'Septembre' 
+| replace: 'October', 'Octobre' 
+| replace: 'November', 'Novembre' 
+| replace: 'December', 'Décembre' %}
 
 <div id="post-content">
-    <h3>Articles du mois <strong>{{page.archive-date}}</strong>...</h3>
-    
-    <div class="row">
-
-        {% for post in relatedPosts %}
-
-        <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
-        {% include post_preview.html %}
+    <div class="row" style="padding-bottom: 20px;">
+        <div class="col-md-12">
+            <h3>Articles archivés du mois de <strong>{{displayDate}}</strong>...</h3>
         </div>
+    </div>
+    <div class="row">
+        {% for post in relatedPosts %}
+            <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
+                {% include post_preview.html %}
+            </div>
         {% endfor %}
-    
     </div>
 </div>
