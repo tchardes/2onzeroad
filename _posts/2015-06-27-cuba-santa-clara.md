@@ -8,7 +8,7 @@ date:       2015-06-30 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-santa-clara.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-santa-clara.jpg
-tags: [Histoire, Monument]
+tags: [histoire, monument]
 flickr-tag: "Santa_Clara"
 country: Cuba
 city: Santa-Clara

@@ -8,7 +8,7 @@ date:       2015-06-28 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-cienfuegos.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-cienfuegos.jpg
-tags: [Ville, Histoire, Unesco]
+tags: [ville, histoire, unesco]
 flickr-tag: "cienfuegos"
 country: Cuba
 city: Cienfuegos
