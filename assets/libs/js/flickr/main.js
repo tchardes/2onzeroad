@@ -13,12 +13,12 @@ function gup( name, url ) {
    var gallery;
 
    var lastSearch = gup("tag");
-   if(!lastSearch || lastSearch === "") { lastSearch = "Toulouse" }
+   if(!lastSearch || lastSearch === "") { lastSearch = "" }
 
 
    function searchPhotos(text, page) {
       if (text.length === 0) {
-         alert('Error: the field is required');
+         //alert('Error: the field is required');
       }
       page = page > 0 ? page : 1;
 
@@ -52,9 +52,13 @@ function gup( name, url ) {
       // Avoid showing less than 6 pages in the pager because the user reaches the end
       var pagesDifference = parameters.pagesNumber - parameters.currentPage;
       var startIndex = parameters.currentPage;
+
       if (pagesDifference < pagesToShow) {
          startIndex = parameters.currentPage - (pagesToShow - pagesDifference - 1) || 1;
       }
+
+      if(startIndex < 1) { startIndex = 1; }
+
       var link;
       for(var i = startIndex; i < parameters.currentPage + pagesToShow && i <= parameters.pagesNumber; i++) {
          link = document.createElement('a');

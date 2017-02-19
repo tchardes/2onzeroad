@@ -598,3 +598,10 @@ img::-moz-selection {
 .googleMarker {
   color: rgb(220, 72, 60);
 }
+
+
+
+.flickr_badge_image {margin:0px;display:inline-flex;}
+.flickr_badge_image a {pointer-events: none;}
+.flickr_badge_image img {border: 0px solid #666666 !important; padding:1px; margin:2px;}
+#flickr_badge_wrapper {width:100%;text-align:center}

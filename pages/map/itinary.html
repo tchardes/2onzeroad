@@ -3,6 +3,7 @@ title: "map"
 description: "Nos différentes cartes"
 header-img: "assets/owner/hero/map-bg.jpg"
 permalink: /map/itinary/
+itinary: "total.json"
 ---
 
 <html>
@@ -45,7 +46,7 @@ permalink: /map/itinary/
 
             <div class="row"> 
                 <div style="padding-top:50px">  
-                    {% include map_canvas.html id="map1" relatedPosts=site.posts isRecusrive="false" googleStyle="true" height="800" %}
+                    {% include map_canvas.html id="map1" displayItinary="true" relatedPosts=site.posts isRecusrive="false" googleStyle="true" height="800" %}
                     <br />
                 </div>
             </div>

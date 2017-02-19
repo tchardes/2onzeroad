@@ -146,29 +146,35 @@
                         <br>
                     </div>
                 </div>
-
-                {% if relatedPosts.size > 0 %}
-                    <div class="row">                           
-                        <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-                            <h2 id="other-articles">Autres articles en relation...</h2>
-                        </div>
-                    </div>
-                    <div class="row"> 
-                        <div>  
-                            {% include map_canvas.html id="map2" relatedPosts=relatedPosts isRecusrive="true" googleStyle="false" %}
-                            <br />
-                        </div>
-                    </div>
-                    <div class="row">   
-                        {% for post in relatedPosts %}
-                            <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
-                                {% include post_preview.html %}
-                            </div>
-                        {% endfor %}
-                    </div>
-                {% endif %}
-
             </div>
+
+
+            {% if relatedPosts.size > 0 %}
+            <div class="container">
+                <div class="row">                           
+                    <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
+                        <h2 id="other-articles">Autres articles en relation...</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid">
+                <div class="row"> 
+                    <div>  
+                        {% include map_canvas.html id="map2" relatedPosts=relatedPosts isRecusrive="true" googleStyle="false" %}
+                        <br />
+                    </div>
+                </div>
+            </div>
+             <div class="container">
+                <div class="row">   
+                    {% for post in relatedPosts %}
+                        <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
+                            {% include post_preview.html %}
+                        </div>
+                    {% endfor %}
+                </div>
+             </div>
+            {% endif %}
 
 
         </article>

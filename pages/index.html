@@ -71,7 +71,17 @@ permalink: ./index.html
                     <a href="#" style="padding-left:4px;color: white !important;"><i class="fa fa-map-marker googleMarker"></i> {{ post.city }}{% if post.city and post.country %}, {% endif %}{{ post.country }}</a> </br>
                     <div class="post-preview-category">
                         {% for tag in post.tags %}
-                            <div><a href="{{ site.baseurl }}/writing/tag/{{ tag  | slugify }}/" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ tag }}</a></div>
+
+                            {% assign displayTag = "" %}
+                            {% for dataTag in site.data.tags %}
+                                {% if dataTag.name == tag %}
+                                    {% assign displayTag = dataTag.displayName %}
+                                {% endif %}
+                            {% endfor %}
+
+                            {% if displayTag != "" %} 
+                                <div><a href="{{ site.baseurl }}/writing/tag/{{ tag  | slugify }}/" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ displayTag }}</a></div>
+                            {% endif %}
                         {% endfor %%}
                     </div>
                   </span>
@@ -128,7 +138,7 @@ permalink: ./index.html
               <h3>Archives</h3>
               {% assign archives = "" | split:"|"  %}
               {% for post in site.posts %}
-                {% assign archiveDate = post.date | date: "%B %y" %}
+                {% assign archiveDate = post.date | date: "%B %Y" %}
                 {% if archives contains archiveDate %}
                 {% else %}
                   {% assign archives = archives | push: archiveDate %}
@@ -140,13 +150,26 @@ permalink: ./index.html
                 {% assign numberOfArchive = 0 %}
 
                 {% for post in site.posts %}
-                  {% assign archiveDate = post.date | date: "%B %y" %}
+                  {% assign archiveDate = post.date | date: "%B %Y" %}
                   {% if archive == archiveDate %}
                     {% assign numberOfArchive = numberOfArchive | plus: 1 %}
                   {% endif %}
                 {% endfor %}
 
-                <div><a href="{{ site.baseurl }}/writing/archive/{{ archive | slugify }}"/><i style="width:26px;" class="fa fa-archive"></i> {{archive}} ({{numberOfArchive}})</a></div>
+                <div><a href="{{ site.baseurl }}/writing/archive/{{ archive | slugify }}"/><i style="width:26px;" class="fa fa-archive"></i> {{archive 
+                    | replace: 'January', 'Janvier' 
+                    | replace: 'February', 'Février' 
+                    | replace: 'March', 'Mars' 
+                    | replace: 'April', 'Avril' 
+                    | replace: 'May', 'Mai' 
+                    | replace: 'June', 'Juin' 
+                    | replace: 'July', 'Juillet' 
+                    | replace: 'August', 'Août' 
+                    | replace: 'September', 'Septembre' 
+                    | replace: 'October', 'Octobre' 
+                    | replace: 'November', 'Novembre' 
+                    | replace: 'December', 'Décembre' %}}
+                    ({{numberOfArchive}})</a></div>
               {% endfor %}
           </div>
           <hr />
