@@ -123,6 +123,7 @@ function initMap() {
         }
 
       });
+
       map.data.loadGeoJson(itinary);
       map.data.setStyle({strokeColor: '#2D7CA6', strokeWeight:3});
 
