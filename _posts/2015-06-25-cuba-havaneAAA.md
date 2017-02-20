@@ -13,7 +13,7 @@ flickr-tag: "Havane"
 country: Cuba
 city: la Havane
 category: "blog"
-location: ""
+location: "23.135457, -82.358861"
 ---
 
 ### Voyage laborieux !!!
