@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "La Havane"
-preview:    "Nous trouvons beaucoup de charme à la vieille ville même si les façades sont en piteux état ... "
+preview:    "Nous trouvons beaucoup de charme à la vieille ville même si les façades sont en piteux état&hellip;"
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-25 12:00:00
