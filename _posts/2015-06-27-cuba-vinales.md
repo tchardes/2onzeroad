@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Viñales"
-preview:    "Cette précision à toute son importance, surtout la terminaison ... car on en est pas loin !!!"
+preview:    "Cette précision à toute son importance, surtout la terminaison... "Pista" car on en est pas loin !!!"
 parent-id:  2015-07-03-cuba
 
 date:       2015-06-26 12:00:00
@@ -19,7 +19,7 @@ location: "22.613590, -83.712819"
 
 ### L'aventure autoroutière...
 
-Nous quittons la Havane pour la valée de Viñales. Nous empruntons et découvrons l'autoroute de Cuba "A4" en fait l'Autopista National de Cuba. Cette précision à toute son importance, surtout la terminaison ... "Pista" car on en est pas loin !!!. Au total ce sont 597 kms de route praticable qui ont été construites. Les travaux ont commencé dans les années 70. Elle devait couvrir toutes les provinces du pays et ralier les capitales provinciales. Le projet a été interrompu en 90 et j'ai l'impression qu'aucune maintenance n'a été réalisée depuis. Son usage et gratuit.  
+Nous quittons la Havane pour la valée de Viñales. Nous empruntons et découvrons l'autoroute de Cuba "A4" en fait l'Autopista National de Cuba. Cette précision à toute son importance, surtout la terminaison... "Pista" car on en est pas loin !!!. Au total ce sont 597 kms de route praticable qui ont été construites. Les travaux ont commencé dans les années 70. Elle devait couvrir toutes les provinces du pays et ralier les capitales provinciales. Le projet a été interrompu en 90 et j'ai l'impression qu'aucune maintenance n'a été réalisée depuis. Son usage et gratuit.  
 
 Notre chauffeur, très prudent, ne dépasse pas les 80 km/h. Concentré, il pilote plus qu'il ne conduit et change de voie sans cesse afin d'éviter les nids de poule, d'autruche, les charettes, les animaux... Les gens y font du stop avec un billet à la main pour bien signifier qu'ils sont prêts à payer pour arriver à leur destination. Les poids lourds russes avec benne, servent de "transportivo", souvent juste équipés de chaises posées à l'arrière. Ana, notre guide, nous expliquera qu'il est très difficile pour les cubains de se déplacer par manque de moyen en transport collectif.
 
