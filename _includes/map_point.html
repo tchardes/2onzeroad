@@ -22,8 +22,8 @@
             <h3 style="margin:5px;font-size:17px;font-weight:700!important;margin-top: 5px;" ><a href="{{ post.url | prepend: site.baseurl }}">{{ root_url }} {{ post.title }}</a></h3>
             <p style="font-size:14px;margin:5px;height:99px;min-height:99px;color:#444">{{ root_url }} {{ post.preview }}</p>
             <div style="font-size:13px;background-color:{{iconColor}};padding:2px 4px;color:white;width:100%;position:absolute;bottom:0px;">
-                <a style="color:white !important;" href="#"><i class="fa fa-calendar" style="padding-right:3px;"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a>
-                <a style="color:white !important;" href="#"><i class="fa fa-map-marker" style="padding-right:3px;padding-left:3px;"></i>{{ post.city | capitalize }}{% if post.city and post.country %}, {% endif %}{{ post.country | capitalize }}</a>
+                <span style="color:white !important;"><i class="fa fa-calendar" style="padding-right:3px;"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</span>
+                <span style="color:white !important;"><i class="fa fa-map-marker" style="padding-right:3px;padding-left:3px;"></i>{{ post.city | capitalize }}{% if post.city and post.country %}, {% endif %}{{ post.country | capitalize }}</span>
             </div>
         </div>
     </div>

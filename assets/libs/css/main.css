@@ -66,6 +66,15 @@ hr.small {
   font-weight: 300 !important;
   letter-spacing: 1px;
 }
+
+.navbar-toggle {
+    background-color: #aaa !important;
+}
+
+.navbar-toggle:hover {
+    background-color: #888 !important;
+}
+
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
@@ -74,19 +83,12 @@ hr.small {
   .navbar-custom .navbar-brand {
     color: white;
   }
-  .navbar-custom .navbar-brand:hover,
-  .navbar-custom .navbar-brand:focus {
-    color: rgba(255, 255, 255, 0.8);
-  }
   .navbar-custom .nav li a {
     color: white;
   }
-  .navbar-custom .nav li a:hover,
-  .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
-  }
 }
-@media only screen and (min-width: 1170px) {
+
+@media only screen {
   .navbar-custom {
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
@@ -522,13 +524,13 @@ img::-moz-selection {
   color: #75ce66;
 }
 
-.post-preview-meta	a {
+.post-preview-meta span {
   font-size: 13px;
   margin-right: 2px;
   margin-bottom: 20px;
   color: white !important;;
 }
-.post-preview-meta	a	i {
+.post-preview-meta span	i {
   display: inline-block;
   margin-right: 2px;
 }

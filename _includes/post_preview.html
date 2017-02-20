@@ -9,8 +9,8 @@
             <p>{{ root_url }} {{ post.preview }}</p>
         </div>
         <div class="post-preview-meta post-preview-meta-{{post.category}}">
-            <a href="#"><i class="fa fa-calendar"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a>
-            <a href="#"><i class="fa fa-map-marker"></i>{{ post.city }}{% if post.city and post.country %}, {% endif %}{{ post.country }}</a>
+            <span><i class="fa fa-calendar"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</span>
+            <span><i class="fa fa-map-marker"></i>{{ post.city }}{% if post.city and post.country %}, {% endif %}{{ post.country }}</span>
         </div>
     </div>
     <div class="post-preview-category">

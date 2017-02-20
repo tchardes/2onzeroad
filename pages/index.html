@@ -35,8 +35,8 @@ permalink: ./index.html
                   "></div>
 
                 <span class="cd-date">
-                  <a href="#" style="color: white !important;"><i class="fa fa-calendar" style="color: #00C4ED"></i> {{site.currentLocation.date}}</a> </br>
-                  <a href="#" style="padding-left:4px;color: white !important;"><i class="fa fa-map-marker googleMarker"></i> {{site.currentLocation.name}}</a> </br>
+                  <span style="color: white !important;"><i class="fa fa-calendar" style="color: #00C4ED"></i> {{site.currentLocation.date}}</span>
+                  <span style="padding-left:4px;color: white !important;"><i class="fa fa-map-marker googleMarker"></i> {{site.currentLocation.name}}</span>
                 </span>
             </div>
           </div>
@@ -67,8 +67,8 @@ permalink: ./index.html
                     </div>
                   </div>
                   <span class="cd-date">
-                    <a href="#" style="color: white !important;"><i style="color: #00C4ED" class="fa fa-calendar googleMarker"></i> {{ root_url }}{{ post.date | date: "%-d %-b %y" }}</a> </br>
-                    <a href="#" style="padding-left:4px;color: white !important;"><i class="fa fa-map-marker googleMarker"></i> {{ post.city }}{% if post.city and post.country %}, {% endif %}{{ post.country }}</a> </br>
+                    <span style="color: white !important;"><i style="color: #00C4ED" class="fa fa-calendar googleMarker"></i> {{ root_url }}{{ post.date | date: "%-d %-b %y" }}</span> </br>
+                    <span style="padding-left:4px;color: white !important;"><i class="fa fa-map-marker googleMarker"></i> {{ post.city }}{% if post.city and post.country %}, {% endif %}{{ post.country }}</span> </br>
                     <div class="post-preview-category">
                         {% for tag in post.tags %}
 
