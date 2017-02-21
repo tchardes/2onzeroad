@@ -42,7 +42,7 @@ Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des E
 
 * Se connecter au site Internet de l'ambassade US et se rendre sur la page des visas non immigrant **[ici](https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/)**.
 * Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Si vous n'y arrivez pas il faudra l’amener lors de l'entretien.
-* Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard. Par contre, à la fin du processus et après la signature numérique, il affiche un résumé avec votre photo, vos principaux renseignements et un code barre. Il faut **absoluement imprimer cette page** pour chaque personne car elle vous sera demandée à l'entrée de l'ambassade.
+* Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard. Par contre, à la fin du processus et après la signature numérique, il affiche un résumé avec votre photo, vos principaux renseignements et un code barre. Il faut **absolument imprimer cette page** pour chaque personne car elle vous sera demandée à l'entrée de l'ambassade.
 * Créer un compte personnel avec login et mot de passe.
 * Se connecter à son compte, indiquer l'adresse de livraison des passeports qui seront enrichis ou pas du visa.
 * Effectuer un virement en ligne (144€ - 160$/Pers. en 2016), vous avez 8 jours pour payer sous peine de devoir tout recommencer.
@@ -67,7 +67,7 @@ Et éventuellement :
 
 #### But de l'entretien 
 
-Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement et de manière illégale aux Etats-Unis et que vous avez les moyens financiers sufffisants pour vivre sur place et surtout rentrer en France. Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays et que vous avez tout intérêt à y revenir et que vous en avez les moyens de votre projet.
+Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement et de manière illégale aux Etats-Unis et que vous avez les moyens financiers suffisants pour vivre sur place et surtout rentrer en France. Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays et que vous avez tout intérêt à y revenir et que vous en avez les moyens de votre projet.
 
 #### Déroulement de l'entretien
 
@@ -75,7 +75,7 @@ Une fois dans l'ambassade au service des Visas vous faites la queue dans une pre
 
 Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel. J'ai pu lire sur Internet, sans en avoir confirmation, que cette démarche n'est pas anodine car en cas de refus, vous ne pouvez même plus demander une ESTA. A vérifier... .  
 
-Personnellement nous lui avons raconté notre projet avec à l'appui des copies d'écrans de Google Maps retraçant notre futur parcours, ainsi qu'un courier de notre banque attestant de nos actifs. Après un bon quart d'heure d'entretien elle nous a indiqué qu'elle émettra un avis positif à notre demande.  
+Personnellement nous lui avons raconté notre projet avec à l'appui des copies d'écrans de Google Maps retraçant notre futur parcours, ainsi qu'un courrier de notre banque attestant de nos actifs. Après un bon quart d'heure d'entretien elle nous a indiqué qu'elle émettra un avis positif à notre demande.  
 
 ### Inscription sur le site Ariane  
 
@@ -88,7 +88,7 @@ Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription es
 
 Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous ferons une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement.
 
-Si vous quittez votre emploi et envisagez de partir plusieurs années vous ne serez plus couverts par la securité sociale au bout d'une année et vous devrez alors opter pour la souscription d'une assurance voyage longue durée de type Marco Polo ou Chapka. Toutes les infos **[ici](http://www.tourdumondiste.com/comparatifs-assurances-voyage)**.  
+Si vous quittez votre emploi et envisagez de partir plusieurs années vous ne serez plus couverts par la sécurité sociale au bout d'une année et vous devrez alors opter pour la souscription d'une assurance voyage longue durée de type Marco Polo ou Chapka. Toutes les infos **[ici](http://www.tourdumondiste.com/comparatifs-assurances-voyage)**.  
 
 Bilan de santé complet réalisé avant le départ, prise de sang, dentiste, ophtalmo... .  
  
@@ -275,7 +275,7 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 
 Le cas échéant :
 
-- Suspendre les compteurs d'eau, électicité, Gaz... ;
+- Suspendre les compteurs d'eau, électricité, Gaz... ;
 - Résilier tous ces abonnements (téléphone, Internet, télépéage, journaux, revues...) ;
 - Faire rediriger son courrier vers une personne qui pourra transmettra par mail les infos importantes ;
 - Occulter sa boîte aux lettres pour ne pas la retrouver pleine de publicités ;
