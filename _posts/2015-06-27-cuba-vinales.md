@@ -53,4 +53,4 @@ Nous déjeunons au **"Balcon del vallee"**, restaurant panoramique où les table
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/18860942383/in/album-72157653125169544/" title="Urubus à tête rouge - Vallée de Viñales - [Cuba]"><img src="https://c8.staticflickr.com/4/3815/18860942383_29b4fb4e2b_b.jpg" width="1024" height="576" alt="Urubus à tête rouge - Vallée de Viñales - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Pour en savoir plus sur Viñales, patrimoine de l'humanité :  **[ici](http://whc.unesco.org/fr/list/840/)**.
+Pour en savoir plus sur Viñales, patrimoine de l'humanité :  **[c'est ici](http://whc.unesco.org/fr/list/840/)**.
