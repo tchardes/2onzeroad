@@ -23,25 +23,25 @@ Par contre n'hésitez pas à revenir de temps en temps, nous mettrons cette part
 
 ### Impôts  
 
-Là, c'est un grand moment. Pour vous la faire courte, impossible d'être un SDF (Sans Domicile Fiscal) en France, lieu de nos intérêts économiques car nous percevons des revenus. Après plusieurs courriels et entretiens avec différents agents des impôts bien embarrassés par notre histoire, après interrogation du service des non résidents à Paris, rien à faire, nous devons donner comme adresse celle de notre fils qui deviendra de fait notre mandataire fiscal. Les services fiscaux vous demandent donc clairement de mentir en donnant une adresse fiscale qui n'en est pas une, tout simplement pour désigner le centre des impôts qui aura votre dossier en gestion.
+Là, c'est un grand moment. Pour résumer, impossible d'être un SDF (Sans Domicile Fiscal) en France, lieu de nos intérêts économiques car nous percevons des revenus. Après plusieurs courriels et entretiens avec différents agents des impôts bien embarrassés par notre histoire, après interrogation du service des non résidents à Paris, rien à faire, nous devons donner comme adresse celle de notre fils qui deviendra de fait notre mandataire fiscal. Les services fiscaux vous demandent donc clairement de mentir en donnant une adresse fiscale qui n'en est pas une, tout simplement pour désigner le centre des impôts qui aura votre dossier en gestion.
 
-Il faut bien évidemment penser à emmener les documents nécessaires pour renseigner par Internet la déclaration d'impôts de l'année en cours.
+Il faut bien évidemment penser à emporter les documents nécessaires pour renseigner par Internet la déclaration d'impôts de l'année en cours.
 
 ### Permis de conduire 
 
-Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poids lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire en Préfecture un permis de conduire international chacun, valable 3 ans.  
+Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poids lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire pour chacun, en Préfecture un permis de conduire international valable 3 ans.  
 
 
 ### Visa USA de type B2  
 
 Plusieurs types de visa sont délivrés par les Etats-Unis en fonction du type de voyage que vous souhaitez réaliser. Le visa le plus commun est l'ESTA qui permet de séjourner aux USA pour une période de 90 jours.  
 
-Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des Etats-Unis à Paris aux personnes désirant se rendre au USA pour des raisons touristiques ou médicale. En général, le demandeur se voit délivrer un visa pour une durée de un, trois ou dix ans l'autorisant à séjourner aux Etats-Unis six mois par an. Il est possible d’obtenir une extension allant jusqu’à six mois additionnels. Toutefois, ce visa n'est pas un droit. Au final c'est l'agent de l'immigration qui vous accueillera à votre arrivée sur le sol américain qui décidera seul et sans appel possible, le temps qu'il vous accordera.  
+Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des Etats-Unis à Paris aux personnes désirant se rendre au USA pour des raisons touristiques ou médicales. En général, le demandeur se voit délivrer un visa pour une durée de un, trois ou dix ans l'autorisant à séjourner aux Etats-Unis six mois par an. Il est possible d’obtenir une extension allant jusqu’à six mois additionnels. Toutefois, ce visa n'est pas un droit. Au final c'est l'agent de l'immigration qui vous accueillera à votre arrivée sur le sol américain qui décidera seul et sans appel possible, le temps qu'il vous accordera.  
 
 #### Procédure pas à pas 
 
 * Se connecter au site Internet de l'ambassade US et se rendre sur la page des visas non immigrant **[ici](https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/)**.
-* Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Si vous n'y arrivez pas il faudra l’amener lors de l'entretien.
+* Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Il faut l’amener et la joindre à votre dosier pour l'entretien.
 * Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard. Par contre, à la fin du processus et après la signature numérique, il affiche un résumé avec votre photo, vos principaux renseignements et un code barre. Il faut **absolument imprimer cette page** pour chaque personne car elle vous sera demandée à l'entrée de l'ambassade.
 * Créer un compte personnel avec login et mot de passe.
 * Se connecter à son compte, indiquer l'adresse de livraison des passeports qui seront enrichis ou pas du visa.
@@ -67,15 +67,17 @@ Et éventuellement :
 
 #### But de l'entretien 
 
-Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement et de manière illégale aux Etats-Unis et que vous avez les moyens financiers suffisants pour vivre sur place et surtout rentrer en France. Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays et que vous avez tout intérêt à y revenir et que vous en avez les moyens de votre projet.
+Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement, de manière illégale aux Etats-Unis et que vous avez les moyens financiers suffisants pour vivre sur place et surtout pour rentrer en France.   
+
+Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays, que vous avez tout intérêt à y revenir et que vous avez les moyens de votre projet.
 
 #### Déroulement de l'entretien
 
-Une fois dans l'ambassade au service des Visas vous faites la queue dans une première file d'attente, oui parce-qu'en fait au jour J et l'heure H se sont plusieurs dizaines de personnes qui ont rendez-vous en même temps, l'agent au premier guichet filtre et vérifie les documents, les passeports et prend vos empreintes. Si c'est OK, vous faites une deuxième queue pour rencontrer un autre agent, toujours derrière une vitre qui va vous poser de nombreuses questions. 
+Une fois dans l'ambassade au service des Visas vous faites la queue dans une première file d'attente, oui parce-qu'en fait, au jour J et l'heure H se sont plusieurs dizaines de personnes qui ont rendez-vous en même temps, l'agent au premier guichet filtre et vérifie les documents, les passeports et prend vos empreintes. Si c'est OK, vous faites une deuxième queue pour rencontrer un autre agent, toujours derrière une vitre qui va vous poser de nombreuses questions. 
 
 Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel. J'ai pu lire sur Internet, sans en avoir confirmation, que cette démarche n'est pas anodine car en cas de refus, vous ne pouvez même plus demander une ESTA. A vérifier... .  
 
-Personnellement nous lui avons raconté notre projet avec à l'appui des copies d'écrans de Google Maps retraçant notre futur parcours, ainsi qu'un courrier de notre banque attestant de nos actifs. Après un bon quart d'heure d'entretien elle nous a indiqué qu'elle émettra un avis positif à notre demande.  
+Personnellement nous lui avons raconté notre projet avec à l'appui des copies d'écrans de Google Maps retraçant notre futur parcours, ainsi qu'un courrier de notre banque attestant de nos actifs. Après un bon quart d'heure d'entretien il nous a indiqué émettre un avis positif à notre demande.  
 
 ### Inscription sur le site Ariane  
 
@@ -131,13 +133,13 @@ Dès que nous rentrerons au Mexique nous passerons notre abonnement Free à 2€
 En Amérique du Nord nous n'aurons aucun problème pour trouver du WI-FI gratuit et nous privilégierons les applications web pour rester en contact avec nos proches et mettre à jour le site. Dès notre entrée en Amérique latine, nous verrons si les abonnements aux opérateurs locaux nous permettent de bénéficier suffisamment de data.
 Bien que le WIFI soit plus rare et de moins bonne qualité, en général, en Amérique du Sud on trouve néanmoins de nombreux spots gratuits. Le partage de connexion permettra depuis notre téléphone de bénéficier du WIFI sur nos autres appareils.
 
-Si jamais nous ne sommes pas satisfaits, nous verrons pour augmenter la puissance de notre captation WIFI par la mise en place d'une antenne WIFI de type Yagi Bazooka et d'un routeur WIFI afin de pourvoir connecter tous nos appareils.
+Si jamais nous ne sommes pas satisfaits, nous verrons pour augmenter la puissance de notre captation WIFI par la mise en place d'une antenne WIFI de type Yagi Bazooka et d'un routeur WIFI afin de pouvoir connecter tous nos appareils.
 
 ## Notre HomeZeRoad 
 
 ### Choix 
 
-Lors de la préparation de notre voyage au long cours, le camping-car s'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car à nous reprocher pour l'instant…. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
+Lors de la préparation de notre voyage au long cours, le camping-car s'est rapidement imposé à nous comme étant la meilleure façon de voyager. En effet, peu à l'aise sur une embarcation, pas assez courageux pour partir en backpacking, pas assez bohème pour du couchsurfing et enfin pas assez riche pour partir de longs mois et voyager en véhicule de location, hôtels et restaurants, nous souhaitons prendre notre temps, avoir un minimum de confort et pouvoir, quand cela est possible, nous poser où nous le souhaitons sans avoir à faire et défaire nos valises tout le temps. Si votre question à ce niveau est « Êtes-vous des pros du camping ? » la réponse est simple, non, aucun jour de camping ou de camping-car pour l'instant…. L'adaptation à ce nouveau mode de vie fera également partie intégrante de l'aventure.
 
 Dès l'instant où la décision a été prise, nous avons connu les mêmes interrogations que tous les voyageurs ayant choisi ce mode de locomotion, lequel choisir ?…. De type intégral (US = Class A), profilé (US = Class B+), fourgon (US = Class B), capucine (US = Class C), 4x4 avec cellule (US = Camper), fabriqué sur mesure, de quelle marque, motorisation, avec quelles options…. Bref de quoi alimenter de nombreuses nuits blanches, la lecture de kilomètres de commentaires, arguments, certitudes, sans parler du coût pouvant aller du simple au….  
 
@@ -149,7 +151,7 @@ Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à 
 
 * Au niveau motorisation, les RVs sont équipés le plus souvent de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class B+ ou C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro 5, 6... et donc moins regardantes sur la qualité des carburants assez inégale, même entre les différents états des Etats-Unis. 
 
-* Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord-américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur. Au pire nous le revendrons avant de nous aventurer plus au sud si nous nous rendons compte qu'il n'est pas adapté.  
+* Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord-américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur. Au pire nous le revendrons avant de nous aventurer plus au sud si nous nous rendons compte qu'il est peu adapté.  
 
 * Même si nous avons tous en tête ces énormes Class A sur base de bus, on trouve également des RVs de taille "normale" (24 pieds, 7 m 30), guère plus larges que les européens (+ ou - 20 cm). Bon, il est vrai que les aménagements intérieurs sont souvent un peu dépassés avec une déco carrément kitch, mais ils sont très robustes. Pesant souvent près de 5 tonnes pour un Class C, propulsion arrière à double essieux, ils ne nécessitent pas, aux Amériques, d'un permis poids lourd. 
 
@@ -276,11 +278,11 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 Le cas échéant :
 
 - Suspendre les compteurs d'eau, électricité, Gaz... ;
-- Résilier tous ces abonnements (téléphone, Internet, télépéage, journaux, revues...) ;
+- Résilier tous ses abonnements (téléphone, Internet, télépéage, journaux, revues...) ;
 - Faire rediriger son courrier vers une personne qui pourra transmettra par mail les infos importantes ;
 - Occulter sa boîte aux lettres pour ne pas la retrouver pleine de publicités ;
 - Souscrire gratuitement à l'opération "tranquillité vacances" proposée par la Gendarmerie et peut-être la police qui vont, même pour une longue période, passer de temps en temps durant leurs patrouilles faire un tour de la maison ;
-- Réduire au minimum l'assurance du ou des véhicule restant au garage.
+- Réduire au minimum l'assurance du ou des véhicules restant au garage.
 
 
 ### Cloud
@@ -300,7 +302,7 @@ En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous
 
 ### Photo, Vidéo, Plongée...   
 
-Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous nous sommes équipés en matériel photo et vidéo et nous avons pris des cours, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
+Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe afin de profiter des spots réputés que nous allons croiser.   
 
 Ne pas oublier de s'équiper d'adaptateur de prises de courant pour brancher tous vos appareils électriques dans les différents pays.
 
