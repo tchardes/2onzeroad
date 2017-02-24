@@ -17,18 +17,18 @@ itinary: "porto-rico.json"
 ---
 
 
-**Puerto Rico** ou **Porto Rico**, selon que l'on soit portoricain hispanophone ou anglophone, cela traduit toute la complexité de la plus petite île des grandes Antilles dans les caraïbes composées de Cuba, La Jamaïque et Hispaniola (Haïti et la République dominicaine).
+**Puerto Rico** ou **Porto Rico**, selon que l'on soit portoricain hispanophone ou anglophone, cela traduit toute la complexité de la plus petite île des grandes Antilles dans les Caraïbes composées de Cuba, La Jamaïque et Hispaniola (Haïti et la République dominicaine).
 
 ### Maria ....
 
-Immanquablement, l'évocation de Puerto Rico me fait penser à la comédie musicale West Side Story (oui je sais ça date ...) et l'opposition entre les *Sharks* et les *Jets* dans un New York du milieu des années 50. Près de 80 ans plus tard, cette île, territoire non incorporé des Etats Unis au statut d'Etat libre associé, est toujours tiraillée entre vouloir obtenir son indépendance ou devenir le 51éme état des Etats-Unis. C'est ce qui lui donne tout son charme, une ile historiquement et profondément latine vivant à l'américaine où tous les drapeaux sont systématiquement binômés. Les drapeaux, cubain et portoricain, sont très ressemblants, les couleurs  rouge et le bleu ont simplement été inversées.
+Immanquablement, l'évocation de Puerto Rico me fait penser à la comédie musicale West Side Story (oui je sais ça date ...) et l'opposition entre les *Sharks* et les *Jets* dans un New York du milieu des années 50. Près de 80 ans plus tard, cette île, territoire non incorporé des Etats-Unis au statut d'Etat libre associé, est toujours tiraillée entre vouloir obtenir son indépendance ou devenir le 51éme état des Etats-Unis. C'est ce qui lui donne tout son charme, une île historiquement et profondément latine vivant à l'américaine où tous les drapeaux sont systématiquement binômés. Les drapeaux, cubain et puertoricain, sont très ressemblants, les couleurs  rouge et le bleu ont simplement été inversées.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/28255835271/in/album-72157670834710945/" title="Promenade - Old San Juan - [Puerto Rico]"><img src="https://c8.staticflickr.com/9/8613/28255835271_c18458c360_b.jpg" width="1024" height="576" alt="Promenade - Old San Juan - [Puerto Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ### Bilan
 
-Cette semaine passée à Puerto Rico a été vraiment une très belle découverte, très dépaysante. De tout l'arc antillais cette île est unique. Nous y avons rencontré des personnes très sympathiques et, en dehors de la capitale, assez surprises et contentes d'avoir la visite de français. Il est vrai que cette destination n'est pas forcément la plus prisée des caraïbes en venant de Paris. Pour ce roadtrip, nous nous sommes plus particulièrement attardés à San Juan, à Arecibo et sa région et Poncé.  
+Cette semaine passée à Puerto Rico a été vraiment une très belle découverte, très dépaysante. De tout l'arc antillais cette île est unique. Nous y avons rencontré des personnes très sympathiques et, en dehors de la capitale, assez surprises et contentes d'avoir la visite de français. Il est vrai que cette destination n'est pas forcément la plus prisée des Caraïbes en venant de Paris. Pour ce roadtrip, nous nous sommes plus particulièrement attardés à San Juan, à Arecibo et sa région et Poncé.  
 
 
 ## Conseils pour se rendre à Puerto Rico :  
@@ -43,7 +43,7 @@ Comme pour tout voyage dans l'arc antillais, la période idéale pour se rendre 
 
 ### Coût de la vie
 
-La monnaie en vigueur est le Dollar US. Le coût de la vie étant relativement élevé, il faut prévoir un certain budget (bien sûr, tout dépend de sa façon de voyager). Habitant en Guadeloupe où les prix sont relativement élevés par rapport à la métropole, nous avons été surpris. Comme aux USA, les prix affichés sont Hors Taxe (11%) et hors tips (pourboire, entre 15 et 20%). Au final la note peut être vite salée. Le 4 juillet au soir à Poncé, jour de la fête nationale US pas vraiment fêtée sur l'île, nous n'avons trouvé qu'une pizzeria d'ouverte, la "Pizzeria Campioni" au demeurant une très bonne adresse. Pour deux Pizzas normales, pour eux (donc bien trop grandes), et une bouteille de vin Frizzante, la facture s'est élevée à 80 $ tout compris. Nous sommes quand même repartis avec un doggy bag. 
+La monnaie en vigueur est le Dollar US. Le coût de la vie étant relativement élevé, il faut prévoir un certain budget (bien sûr, tout dépend de sa façon de voyager). Habitant en Guadeloupe où les prix sont relativement élevés par rapport à la métropole, nous avons été surpris. Comme aux USA, les prix affichés sont hors taxe (11%) et hors tips (pourboire, entre 15 et 20%). Au final la note peut être vite salée. Le 4 juillet au soir à Poncé, jour de la fête nationale US pas vraiment fêtée sur l'île, nous n'avons trouvé qu'une pizzeria d'ouverte, la "Pizzeria Campioni" au demeurant une très bonne adresse. Pour deux Pizzas normales, pour eux (donc bien trop grandes), et une bouteille de vin frizzante, la facture s'est élevée à 80 $ tout compris. Nous sommes quand même repartis avec un doggy bag. 
 
 Payer par carte bancaire est un peu fastidieux. Le commerçant vous présente un ticket avec le montant + les taxes et 3 propositions de tips à 15, 18 ou 20% et donc le montant à rajouter en fonction de votre niveau de satisfaction. Vous faites votre choix de tips et signez le ticket. Le commerçant part et revient avec le bon ticket de paiement avec le montant total (Prix + Taxes + Tips).  
 
