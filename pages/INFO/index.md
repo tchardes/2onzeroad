@@ -41,7 +41,7 @@ Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des E
 #### Procédure pas à pas 
 
 * Se connecter au site Internet de l'ambassade US et se rendre sur la page des visas non immigrant **[ici](https://fr.usembassy.gov/fr/visas-fr/visas-de-sejour-temporaire/)**.
-* Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Il faut l’amener et la joindre à votre dosier pour l'entretien.
+* Se munir d'une photo d'identité particulière au format 51mm X 51mm (nous l'avons fait faire chez un photographe professionnel). Tout est bien expliqué sur le site où vous pouvez l'uploader en ligne. Il faut l’amener et la joindre à votre dossier pour l'entretien.
 * Remplir en ligne le formulaire DS-160, c'est assez simple mais très long, à réitérer pour chaque voyageur. Vous pouvez enregistrer et reprendre plus tard. Par contre, à la fin du processus et après la signature numérique, il affiche un résumé avec votre photo, vos principaux renseignements et un code barre. Il faut **absolument imprimer cette page** pour chaque personne car elle vous sera demandée à l'entrée de l'ambassade.
 * Créer un compte personnel avec login et mot de passe.
 * Se connecter à son compte, indiquer l'adresse de livraison des passeports qui seront enrichis ou pas du visa.
@@ -112,7 +112,7 @@ Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium
 
 ### Banque en ligne 
 
-Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.  
+Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la Mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive. N26 propose également un "vrai compte" à 5,90 €/mois. Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.  
 
 ### Validation achats par Internet 
 
@@ -260,7 +260,7 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 * [Couval Venture](http://couvalventure.com/) ;
 * [La vie devant - Les kilomètres derrière](http://laviedevant-leskilometresderriere.com/) ;
 * [Les Mollalpagas](http://www.lesmollalpagas.com/) ;
-* [Toitvagabondetmoi](http://www.toitvagabondetmoi.com/) - Francoise et Alain partent autour du monde afin de découvrir les us et coutumes des différentes peuplades ;
+* [Toitvagabondetmoi](http://www.toitvagabondetmoi.com/) - Françoise et Alain partent autour du monde afin de découvrir les us et coutumes des différentes peuplades ;
 * [Ushulaska](http://ushulaska.be/) - Le voyage d'Ushuaia à l'Alaska de Monique et André ;
 * [El caracol](http://www.el-caracol.fr/) ;
 * [Sous les étoiles du monde](http://souslesetoilesdumonde.wifeo.com/) ;

@@ -21,7 +21,7 @@ location: "18.348002, -66.752834"
 
 
 
-Nous quittons San Juan de bonne heure à bord de notre Kia Rio de location pour la région d'Arecibo située à l'Ouest, sur la Côte Atlantique. Nous découvrons une circulation commune à toutes les capitales : saturée et accédons tant bien que mal à la voie express 22. Nous passons en coup de vent dans la ville d'Arécibo qui présente peu d'intérêt, en dehors d'un très beau phare, pour nous rendre en pleine forêt tropicale pour visiter ce qui était encore lors de notre visite, le plus grand radiotélescope au monde.  
+Nous quittons San Juan de bonne heure à bord de notre Kia Rio de location pour la région d'Arecibo située à l'Ouest, sur la Côte Atlantique. Nous découvrons une circulation commune à toutes les capitales : saturée et accédons tant bien que mal à la voie express 22. Nous passons en coup de vent dans la ville d'Arecibo qui présente peu d'intérêt, en dehors d'un très beau phare, pour nous rendre en pleine forêt tropicale pour visiter ce qui était encore lors de notre visite, le plus grand radiotélescope au monde.  
 
 ### La cata !!!
 
@@ -31,9 +31,9 @@ En route, empruntant une petite route en bord de mer, j'éclate le pneu avant dr
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29969393970/in/dateposted/" title="Radiotélescope - Arécibo - [Puerto-Rico]"><img src="https://c3.staticflickr.com/9/8134/29969393970_03bae56e00_c.jpg" width="1024" height="576" alt="Radiotélescope - Arécibo - [Puerto-Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-L'observatoire est niché dans les montagnes. Des gardes vous demandent d'éteindre tous les appareils électroniques afin de ne pas perturber les ondes radio. Après le parking, une grande montée mène au site dont l'entrée coute 12 $/p. Les scientifiques du monde entier utilisent cette gigantesque antenne construite en 1964 de 305 mètres de diamètre posée au fond d'un cuvette pour étudier l'univers. Arecibo est une source de données pour le projet SETI (Search for Extra-Terrestrial Intelligence). Après la visite de salles pédagogiques et le visionage d'un petit film de 20 mn, nous pouvons enfin admirer l'immense télescope fait de plaques d'aluminium, de béton et d'acier dont l'aspect tranche radicalement avec le paysage tropical dense et verdoyant qui l'entoure, depuis une plate-forme d'observation, dont l'aspect tranche radicalement avec le paysage tropical dense et verdoyant qui l'entoure.  
+L'observatoire est niché dans les montagnes. Des gardes vous demandent d'éteindre tous les appareils électroniques afin de ne pas perturber les ondes radio. Après le parking, une grande montée mène au site dont l'entrée coute 12 $/p. Les scientifiques du monde entier utilisent cette gigantesque antenne construite en 1964 de 305 mètres de diamètre posée au fond d'un cuvette pour étudier l'univers. Arecibo est une source de données pour le projet SETI (Search for Extra-Terrestrial Intelligence). Après la visite de salles pédagogiques et le visionnage d'un petit film de 20 mn, nous pouvons enfin admirer l'immense télescope fait de plaques d'aluminium, de béton et d'acier dont l'aspect tranche radicalement avec le paysage tropical dense et verdoyant qui l'entoure, depuis une plate-forme d'observation, dont l'aspect tranche radicalement avec le paysage tropical dense et verdoyant qui l'entoure.  
 
->Le télescope d'Arecibo se distingue par sa grande taille : le diamètre de l'antenne principale est de 305 mètres, construite à l'intérieur de la dépression laissée par un effondrement. Jusqu'à la mise en service du radiotéléscope FAST en Chine, l'antenne était la plus grande antenne convergente incurvée du monde, ce qui lui donnait la plus grande capacité de collecte d'ondes électromagnétiques. La surface de l'antenne est faite de 38 778 panneaux d'aluminium perforés, chacun mesurant environ 1 m sur 2 m, supportés par un maillage de câbles en acier.
+>Le télescope d'Arecibo se distingue par sa grande taille : le diamètre de l'antenne principale est de 305 mètres, construite à l'intérieur de la dépression laissée par un effondrement. Jusqu'à la mise en service du radiotélescope FAST en Chine, l'antenne était la plus grande antenne convergente incurvée du monde, ce qui lui donnait la plus grande capacité de collecte d'ondes électromagnétiques. La surface de l'antenne est faite de 38 778 panneaux d'aluminium perforés, chacun mesurant environ 1 m sur 2 m, supportés par un maillage de câbles en acier.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/30150596212/in/photostream/" title="Radiotélescope - Arécibo - [Puerto-Rico]"><img src="https://c5.staticflickr.com/9/8278/30150596212_4dcea149de_c.jpg" width="1024" height="576" alt="Radiotélescope - Arécibo - [Puerto-Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -45,7 +45,7 @@ C'est une antenne sphérique (par opposition à antenne parabolique). Cette form
 
 Vous connaissez forcément ce site qui a été exploité plusieurs fois par le cinéma, notamment dans la scène finale du film de James Bond 007 "GoldenEye", dans un épisode X-Files intitulé Petits Hommes Verts, il est apparu également dans les films Contact, The Arrival, The Losers et La Mutante1.  
 
-### Rencontre du troisème type ?
+### Rencontre du troisième type ?
 
 Un peu déçu par cette visite qui faisait pourtant partie des nombreux lieux que j'avais envie de découvrir au moins une fois dans ma vie. Au final, pas de James Bond ni d'extra-terrestre ni même un "E.T. phone home".  
 
