@@ -29,7 +29,7 @@ Nous poursuivons notre route en direction de **Guama** et sa ferme aux crocodile
 
 ### Bais des... Cochinos !!!  
 
-Nous reprenons la route en direction de la **"Baya de cochinos"**, playa Larga et playa Giron. A l'entrée de la ville, un panneau indique « Playa Giron, la première défaite impérialiste en Amérique Latine », le décor est planté. Nous nous arrêtons au **Museo de la Intervención**. Le musée retrace la journée du 17 avril 1961 au cours de laquelle 1500 "mercenaires" et exilés cubains entraînés par la CIA, débarquèrent pour renverser Fidel Castro. Ils ne s'attendaient pas à ce que des chars russes T-34 et des avions de chasse T-33 les accueillent. Après deux jours de combats aériens et terrestres incessants, les mercenaires se rendirent.
+Nous reprenons la route en direction de la **"Baya de cochinos"**, Playa Larga et Playa Giron. A l'entrée de la ville, un panneau indique « Playa Giron, la première défaite impérialiste en Amérique Latine », le décor est planté. Nous nous arrêtons au **Museo de la Intervención**. Le musée retrace la journée du 17 avril 1961 au cours de laquelle 1500 "mercenaires" et exilés cubains entraînés par la CIA, débarquèrent pour renverser Fidel Castro. Ils ne s'attendaient pas à ce que des chars russes T-34 et des avions de chasse T-33 les accueillent. Après deux jours de combats aériens et terrestres incessants, les mercenaires se rendirent.
 
 Devant le musée, le visiteur est accueilli par des vestiges de chars américains et un bombardier B-26 abattu par les cubains. Cette visite a été l'occasion avec Ana de parler longuement de cet épisode dont je ne connaissais pas vraiment l'histoire et les réelles manœuvres des étasuniens. 
 
