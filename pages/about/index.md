@@ -15,9 +15,9 @@ Nous sommes deux quinquagénaires, Corinne et Thierry, qui avons décidé tout s
 
 ### Notre projet  
 
-Partir pour un voyage au long cours sans contrainte de temps ni de trajet. Sortir de notre zone de confort, de notre petite routine pour vivre une aventure humaine à deux. Nous savons que la vie de nomade ce n'est pas "LES" vacances, cette aventure ne sera pas sans difficulté, il faudra savoir gérer d'autres problèmes, être à la recherche constante de l'équilibre.   
+Partir pour un voyage au long cours sans contrainte de temps ni de trajet. Sortir de notre zone de confort, de notre petite routine pour vivre une aventure humaine à deux. Nous savons que la vie de nomade ce n'est pas "Les vacances", cette aventure ne sera pas sans difficulté, il faudra savoir gérer d'autres problèmes, être à la recherche constante de l'équilibre.   
 
-Cette idée nous est venue il y a trois ans en préparant un roadtrip pour la côte Ouest des Etats-Unis. Tandis que nous essayions tant bien que mal de caser un maximum de visites durant le temps imparti à notre voyage, nous sommes tombés par hasard sur le récit d'un couple de retraités qui venait de finir un voyage de 24 mois en Amérique du nord. Ce fut le déclic et après de nombreuses discutions, interrogations, hésitations, décision fut prise. Nous avons annulé toutes nos réservations et sommes partis sur un autre projet, plus ambitieux.
+Cette idée nous est venue en 2013 en préparant un roadtrip pour la côte Ouest des Etats-Unis. Tandis que nous essayions tant bien que mal de caser un maximum de visites durant le temps imparti à notre voyage, nous sommes tombés par hasard sur le récit d'un couple de retraités qui venait de finir un voyage de 24 mois en Amérique du nord. Ce fut le déclic et après de nombreuses discutions, interrogations, hésitations, décision fut prise. Nous avons annulé toutes nos réservations et sommes partis sur un autre projet, plus ambitieux.
 
 ### Notre itinéraire  
 
@@ -40,15 +40,14 @@ Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 * Les bilans des états ou pays après y avoir séjourné, reconnaissables à un bandeau et icône de couleur verte ;  
 
 * Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Galerie ;
-* Les vidéos seront stockées et visibles sur YouTube et directement dans les posts ;  
+* Les vidéos seront stockées et visibles depuis YouTube et directement dans les posts et depuis la page vidéos;  
 
-* Des tags ou rubriques qui permettent de choisir de lire les articles en fonction d'un lieu, d'une zone ou d'une catégorie ;
-* Des tags ou rubriques qui permettent de visionner les photos et vidéos en fonction d'un lieu, d'une zone ou d'une catégorie ;   
+* Des tags et catégories qui permettent de choisir de lire les articles en fonction d'un lieu, d'une zone ou d'une catégorie ;
+* Des tags et catégories qui permettent de visionner les photos et vidéos en fonction d'un lieu, d'une zone ou d'une catégorie ;   
 
 * Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
 * Une carte reprenant, dans les grandes lignes, notre parcours ;
-* Une carte recensant les lieux que nous aimerions visiter (pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant »
-Claire, Michael, Soraya, Jimmy et Amélie). N’hésitez pas à l'utiliser à votre tour comme base de départ ;
+* Une carte recensant les lieux que nous aimerions visiter (pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant ». N’hésitez pas à l'utiliser à votre tour comme base de départ ;
 * Dans le futur, une carte matérialisant nos meilleurs bivouacs.
 
 
