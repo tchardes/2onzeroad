@@ -21,9 +21,9 @@ location: "18.466164, -66.116421"
 
 ---
 
-Le 30 juin 2016 après un petit vol d'une heure trente depuis Pointe-à-Pitre nous arrivons à Puerto Rico où nous commençons notre séjour par la Capitale et plus précisément le **Old San Juan**, le quartier historique. Ces 4 jours à pied nous ont permis de découvrir ce joyaux de la caraïbe.    
+Le 30 juin 2016 après un petit vol d'une heure trente depuis Pointe-à-Pitre nous arrivons à Puerto Rico où nous commençons notre séjour par la capitale et plus précisément le **Old San Juan**, le quartier historique. Ces 4 jours à pied nous ont permis de découvrir ce joyaux de la caraïbe.    
 
-Notre hôtel, **Plazza de Armas**, situé au centre de la ville est idéal pour arpenter toutes les rues de la vieille ville qui est protégée par une ensemble de fortifications.  
+Notre hôtel, **Plazza de Armas**, situé au centre de la ville est idéal pour arpenter toutes les rues de la vieille ville qui est protégée par un ensemble de fortifications.  
 
 Dès notre arrivée, nous sommes immédiatement impressionnés du niveau de propreté de la ville, ce qui est plutôt rare dans les Caraïbes. Rien ne traine au sol, même à 22 heures 00 des employés communaux ramassent encore mégots et papiers.  
 
@@ -69,7 +69,7 @@ Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grande
 * Rosa de Triana ;
 * El Jibarito ;
 * El Patio de Sam ;
-* Barrachina (lieu où a été inventé la Pina Colada) ;
+* Barrachina (lieu où a été inventé la Piña Colada) ;
 * CheeseCake Factory ;
 * Palmas Rest.
 
