@@ -280,7 +280,6 @@ Le cas échéant :
 - Suspendre les compteurs d'eau, électricité, Gaz... ;
 - Résilier tous ses abonnements (téléphone, Internet, télépéage, journaux, revues...) ;
 - Faire rediriger son courrier vers une personne qui pourra transmettra par mail les infos importantes ;
-- Occulter sa boîte aux lettres pour ne pas la retrouver pleine de publicités ;
 - Souscrire gratuitement à l'opération "tranquillité vacances" proposée par la Gendarmerie et peut-être la police qui vont, même pour une longue période, passer de temps en temps durant leurs patrouilles faire un tour de la maison ;
 - Réduire au minimum l'assurance du ou des véhicules restant au garage.
 
