@@ -36,7 +36,7 @@ Bien que notre programme soit bien chargé, nous avons pu prendre un taxi devant
  
 ### Nous avons aimé :
 
-Cadillac, Buick, Chevrolet, Oldsmobil, Ford, Pontiac... la ville regorge de ces belles américaines des années 50, nous les avons photographiées dans tous les sens. Souvent rafistolées comme ils peuvent, certaines sont vraiment magnifiques. Les garagistes cubains font des merveilles avec peu. En discutant avec des propriétaires, nous avons appris que la plupart des moteurs d'origine avaient été remplacés par des moteurs diesel. La fumée qui s'en échappe l'atteste.   
+Cadillac, Buick, Chevrolet, Oldsmobil, Ford, Pontiac... la ville regorge de ces belles américaines des années 50, nous les avons photographiées sous toutes les coutures. Souvent rafistolées comme ils peuvent, certaines sont vraiment magnifiques. Les garagistes cubains font des merveilles avec peu. En discutant avec des propriétaires, nous avons appris que la plupart des moteurs d'origine avaient été remplacés par des moteurs diesel. La fumée qui s'en échappe l'atteste.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/19414711722/in/album-72157653125169544/" title="Belle Américaine - La Havane - [Cuba]"><img src="https://c3.staticflickr.com/4/3935/19414711722_bbfb966f17_b.jpg" width="1024" height="683" alt="Belle Américaine - La Havane - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
