@@ -3,9 +3,9 @@ title: "2onzeroad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "45.8329, 1.2557"
-  name: "Limoges"
-  date: "24 Fev 17"
+  coordinates: "43.944273, 4.824771"
+  name: "Avignon"
+  date: "27 Fev 17"
 
 # set the encoding to utf-8
 encoding: utf-8
