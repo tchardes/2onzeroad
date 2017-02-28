@@ -47,7 +47,7 @@ Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 
 * Une carte matérialisant, géographiquement, l'ensemble des publications avec des marqueurs de couleur ; 
 * Une carte reprenant, dans les grandes lignes, notre parcours ;
-* Une carte recensant les lieux que nous aimerions visiter (pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant ». N’hésitez pas à l'utiliser à votre tour comme base de départ ;
+* Une carte recensant les lieux que nous aimerions visiter (pour la réaliser, nous sommes partis de la carte mise à disposition par la famille « La Vie Devant » (laviedevant-leskilometresderriere.com). N’hésitez pas à l'utiliser à votre tour comme base de départ ;
 * Dans le futur, une carte matérialisant nos meilleurs bivouacs.
 
 
