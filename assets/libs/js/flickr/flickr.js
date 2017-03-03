@@ -30,7 +30,7 @@
 
    function buildPhotoLargeUrl(photo) {
       return 'https://farm' + photo.farm + '.staticflickr.com/' + photo.server +
-      '/' + photo.id + '_' + photo.secret + '_h.jpg';//b by default
+      '/' + photo.id + '_' + photo.secret + '_b.jpg';//b by default
    }
 
    window.Flickr = Utility.extend(window.Flickr || {}, {

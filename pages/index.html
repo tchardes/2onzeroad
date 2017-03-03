@@ -208,31 +208,4 @@ function displayAllBlock()
   document.getElementById("displayMoreArticlesBlock").style.display = 'none'; 
 }
 
-$(document).ready(function() {
-
-    var words = [
-        {% for tag in site.photo_tags %}
-
-          {% assign numberOfTag = 2 %}
-          {% for post in site.posts %}
-            {% if post.tags contains tag %}
-              {% assign numberOfTag = numberOfTag | plus: 1 %}
-            {% endif %}
-          {% endfor %}
-          {text: "{{tag}}", weight: 8, link: '{{ site.baseurl }}/writing/tag/{{ tag | slugify }}' },
-        {% endfor %}
-
-    ];
-
-    
-
-    $('#cloudTag').jQCloud(words, {
-        autoResize: true,
-        fontSize: {
-          from: 0.15,
-          to: 0.02
-        }
-
-    });
-});
 </script>
