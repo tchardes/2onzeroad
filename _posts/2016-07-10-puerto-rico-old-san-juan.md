@@ -21,15 +21,15 @@ location: "18.466164, -66.116421"
 
 ---
 
-Le 30 juin 2016 après un petit vol d'une heure trente depuis Pointe-à-Pitre nous arrivons à Puerto Rico où nous commençons notre séjour par la Capitale et plus précisément le **Old San Juan**, le quartier historique. Ces 4 jours à pied nous ont permis de découvrir ce joyaux de la caraïbe.    
+Le 30 juin 2016 après un petit vol d'une heure trente depuis Pointe-à-Pitre nous arrivons à Puerto Rico où nous commençons notre séjour par la capitale et plus précisément le **Old San Juan**, le quartier historique. Ces 4 jours à pied nous ont permis de découvrir ce joyaux de la caraïbe.    
 
-Notre hôtel, **Plazza de Armas**, situé au centre de la ville est idéal pour arpenter toutes les rues de la vieille ville qui est protégée par une ensemble de fortifications.  
+Notre hôtel, **Plazza de Armas**, situé au centre de la ville est idéal pour arpenter toutes les rues de la vieille ville qui est protégée par un ensemble de fortifications.  
 
-Dès notre arrivée, nous sommes immédiatement impressionnés du niveau de propreté de la ville, ce qui est plutôt rare dans les caraïbes. Rien ne traine au sol, même à 22 heures 00 des employés communaux ramassent encore mégots et papiers.  
+Dès notre arrivée, nous sommes immédiatement impressionnés du niveau de propreté de la ville, ce qui est plutôt rare dans les Caraïbes. Rien ne traine au sol, même à 22 heures 00 des employés communaux ramassent encore mégots et papiers.  
 
 ### A voir !!!
 
-Toutes les façades de style colonial ont fait l'objet d'une campagne de restauration et arborent des tons pastels qui ajoutent à la douceur de vivre qui émane de cette ville. On se met à imaginer ce que serait ou sera la **Havane**, à l'architecture très proche, quand elle sera restaurée à son tour. On trouve dans les petites ruellles de très bons restaurants proposant une cuisine traditionnelle.  
+Toutes les façades de style colonial ont fait l'objet d'une campagne de restauration et arborent des tons pastels qui ajoutent à la douceur de vivre qui émane de cette ville. On se met à imaginer ce que serait ou sera la **Havane**, à l'architecture très proche, quand elle sera restaurée à son tour. On trouve dans les petites ruelles de très bons restaurants proposant une cuisine traditionnelle.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/28275698511/in/album-72157670834710945/" title="Façade - Old San Juan - [Puerto Rico]"><img src="https://c8.staticflickr.com/9/8816/28275698511_5936448e77_c.jpg" width="1024" height="576" alt="Façade - Old San Juan - [Puerto Rico]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -47,11 +47,11 @@ Passage obligé de tous les touristes pour la photo souvenir (nous n'y avons pas
 
 ### Bonnes affaires ...
 
-San Juan est surtout connu par les caribéens pour ces outlet ou Mall, immenses centres commerciaux au format XXL américain. En effet, beaucoup viennent pour un ou deux jours de shopping, car toutes les grandes marques sont représentées à des prix intéressants. Nous n'avons pas failli à la tradition et avons passé un long moment à **"Las Americas"**, un temple de la consommation où une journée complète est nécessaire pour en faire le tour. 
+San Juan est surtout connu par les caribéens pour ces Malls et outlets, immenses centres commerciaux au format XXL américain. En effet, beaucoup viennent pour un ou deux jours de shopping, car toutes les grandes marques sont représentées à des prix intéressants. Nous n'avons pas failli à la tradition et avons passé un long moment à **"Las Americas"**, un temple de la consommation où une journée complète est nécessaire pour en faire le tour. 
 
 ### Format XXL
 
-A la pause, après quelques achats, nous prennons notre déjeuner dans un **Cheesecake Factory**, chaine de restaurants célèbre au USA dont la spécialité est un dessert, le Cheesecake. Au final, le plat principal était tellement copieux, énorme, que nous n'avions plus de place pour goûter cette spécialité. On s'est rattrapé en fin de séjour...
+A la pause, après quelques achats, nous prenons notre déjeuner dans un **Cheesecake Factory**, chaine de restaurants célèbre au USA dont la spécialité est un dessert, le Cheesecake. Au final, le plat principal était tellement copieux, énorme, que nous n'avions plus de place pour goûter cette spécialité. On s'est rattrapé en fin de séjour...
 
 ### Vigipirate ?
 
@@ -69,7 +69,7 @@ Au bout d'un grand escalier nous remarquons que les portes d'entrée sont grande
 * Rosa de Triana ;
 * El Jibarito ;
 * El Patio de Sam ;
-* Barrachina (lieu où a été inventé la Pina Colada) ;
+* Barrachina (lieu où a été inventé la Piña Colada) ;
 * CheeseCake Factory ;
 * Palmas Rest.
 
