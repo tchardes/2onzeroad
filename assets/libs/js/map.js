@@ -3,6 +3,8 @@ function initMap() {
 
   $(document).ready ( function() {
 
+    var infoWindows = [];
+
     //loop through all the mapping elements
     $(".mapping").each(function() {
       var markers = [];
@@ -45,15 +47,23 @@ function initMap() {
 
         markers.push(marker);
 
+
         // if the map point has HTML, turn it into an info window
         var infowindow = new google.maps.InfoWindow({
           content: $(this).html()
         });
 
+        infoWindows.push(infowindow);
+
         // handle clicks to the marker
         // This event expects a click on a marker
         // When this event is fired the Info Window is opened.
         google.maps.event.addListener(marker, 'click', function() {
+
+          infoWindows.forEach(function(element) {
+            element.close();
+          }, this);
+
           infowindow.open(map,marker);
         });
 
