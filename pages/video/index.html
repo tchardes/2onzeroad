@@ -6,12 +6,56 @@ header-img: "assets/owner/hero/video-bg.jpg"
 permalink: /video/
 ---
 
-<div class="row">
 
-    <!-- debut block video -->
-    <div class="col-md-4 col-sm-4 col-xs-12 col-xxs-12" style="margin-bottom:15px;">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ed8WwhEqypY" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <!-- fin block video -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-</div>
+<script type="text/javascript">
+
+    function onClientLoad() {
+        gapi.client.load("youtube", "v3", onYouTubeApiLoad);
+    }
+
+    function onYouTubeApiLoad() {
+        gapi.client.setApiKey("AIzaSyBouHmvjOZCF3-_wbMlNKK_A9XTb8NCS0s");
+        search("");
+    }
+
+    function search(query) {
+        var request = gapi.client.youtube.search.list({
+            part: "id, snippet",
+            channelId: "UCOwPyMvDSTzLNLP8xoDLe2g",
+            type: "video",
+            q: query
+        });
+
+        request.execute(function (response) {
+            /* sort through the list until a video comes up, then set the URL link */
+            var link = "";
+            console.log(response);
+            
+            var videoContainer = $("#iVideo");
+            videoContainer.empty();
+
+            if(response.items){
+                for(var i = 0; i < Math.min(response.items.length, 10); i++){
+                    if (response.items[i].id.kind === "youtube#video" && response.items[i].id.videoId)
+                    { 
+                        link = "http://www.youtube.com/embed/" + response.items[i].id.videoId + "?HD=1;rel=0;showinfo=1"; 
+
+                        var iframe = document.createElement('iframe');
+                        iframe.src = link;
+                        iframe.frameBorder = "0";
+                        iframe.style = "padding:5px;";
+                        iframe.setAttribute('allowFullScreen', '')
+                        
+                        videoContainer.append(iframe);
+                    }
+                }
+            }
+        });
+    }
+</script>
+
+<script src="https://apis.google.com/js/client.js?onload=onClientLoad" type="text/javascript"></script>
+
+<div id="iVideo"></div>

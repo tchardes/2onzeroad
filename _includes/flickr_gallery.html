@@ -1,59 +1,10 @@
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
 <script type="text/javascript">
-
     function DropDownTextToBox(select, textBox)
     {
         document.getElementById(textBox).value = select.options[select.selectedIndex].text;
     }
-
-    function onClientLoad() {
-        gapi.client.load("youtube", "v3", onYouTubeApiLoad);
-    }
-
-    function onYouTubeApiLoad() {
-        gapi.client.setApiKey("AIzaSyBouHmvjOZCF3-_wbMlNKK_A9XTb8NCS0s");
-        search(document.getElementById('query').value);
-    }
-
-    function search(query) {
-        var request = gapi.client.youtube.search.list({
-            part: "id",
-            channelId: "UCOwPyMvDSTzLNLP8xoDLe2g",
-            q: query
-        });
-
-        request.execute(function (response) {
-            /* sort through the list until a video comes up, then set the URL link */
-            var link = "";
-            console.log(response);
-            
-            var videoContainer = $("#iVideo");
-            videoContainer.empty();
-
-            if(response.items){
-                for(var i = 0; i < Math.min(response.items.length, 10); i++){
-                    if (response.items[i].id.kind === "youtube#video" && response.items[i].id.videoId)
-                    { 
-                        link = "http://www.youtube.com/embed/" + response.items[i].id.videoId + "?HD=1;rel=0;showinfo=1"; 
-
-                        var iframe = document.createElement('iframe');
-                        iframe.src = link;
-                        iframe.frameBorder = "0";
-                        iframe.style = "padding:5px;";
-                        iframe.setAttribute('allowFullScreen', '')
-                        
-                        videoContainer.append(iframe);
-                    }
-                }
-            }
-        });
-    }
 </script>
-
-<script src="https://apis.google.com/js/client.js?onload=onClientLoad" type="text/javascript"></script>
-
 
 <header class="island" style="margin-top:0px;padding:80px 20px 20px 20px;;">
     <form class="js-form-search form-search" action="/search" method="get" role="search">
@@ -92,16 +43,6 @@
     <ol class="js-thumbnails__pager thumbnails__pager"></ol>
 </div>
 
-<hr />
-
-<div class="row" style="padding-left: 10px;">
-    <div class="col-md-12">
-        <h3>Vidéos associées...</h3>
-    </div>
-</div>
-
-<div id="iVideo"></div>
-
 <!-- include the Flickr client -->
 <script src="{{ site.url }}/assets/libs/js/flickr/utility.js"></script>
 <script src="{{ site.url }}/assets/libs/js/flickr/gallery.js"></script>
@@ -109,12 +50,6 @@
 <script src="{{ site.url }}/assets/libs/js/flickr/main.js"></script>
 <script src="{{ site.url }}/assets/libs/js/flickr/script.js"></script>
 <script>
-
-    document.getElementsByClassName('js-form-search')[0].addEventListener('submit', function(event) {
-         event.preventDefault();
-
-        onClientLoad();
-    });
 
 Website.Homepage.init();
 

@@ -17,6 +17,61 @@ title: destination archive
 #flickr_badge_wrapper {width:100%;text-align:center}
 </style>
 
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+    function onClientLoad() {
+        gapi.client.load("youtube", "v3", onYouTubeApiLoad);
+    }
+
+    function onYouTubeApiLoad() {
+        gapi.client.setApiKey("AIzaSyBouHmvjOZCF3-_wbMlNKK_A9XTb8NCS0s");
+        search("");
+    }
+
+    function search(query) {
+        var request = gapi.client.youtube.search.list({
+            part: "id, snippet",
+            channelId: "UCOwPyMvDSTzLNLP8xoDLe2g",
+            type: "video",
+            q: query
+        });
+
+        request.execute(function (response) {
+            /* sort through the list until a video comes up, then set the URL link */
+            var link = "";
+            console.log(response);
+            var keyWord = "{{page.destination}}";
+
+            var videoContainer = $("#iVideo");
+            videoContainer.empty();
+
+            if(response.items){
+                for(var i = 0; i < Math.min(response.items.length, 10); i++){
+                    console.log(response.items[i].snippet.title.toLowerCase());
+                    if (response.items[i].id.kind === "youtube#video" && response.items[i].id.videoId && response.items[i].snippet.title.toLowerCase().includes(keyWord.toLowerCase()))
+                    { 
+                        link = "http://www.youtube.com/embed/" + response.items[i].id.videoId + "?HD=1;rel=0;showinfo=1"; 
+
+                        var iframe = document.createElement('iframe');
+                        iframe.src = link;
+                        iframe.frameBorder = "0";
+                        iframe.style = "padding:5px;";
+                        iframe.setAttribute('allowFullScreen', '')
+                        
+                        videoContainer.append(iframe);
+                    }
+                }
+            }
+        });
+    }
+</script>
+
+<script src="https://apis.google.com/js/client.js?onload=onClientLoad" type="text/javascript"></script>
+
+
 <div id="post-content">
     <div class="row">
         <div class="col-md-8" style="text-align: left;padding-bottom: 20px;">
@@ -36,8 +91,15 @@ title: destination archive
         </div>
     </div>
 
-    <br/>
-    <br/>
+    <div class="row" style="padding-bottom: 20px;">
+        <div class="col-md-12">
+            <h3>Vidéos de <strong>{{page.destination}}</strong>...</h3>
+        </div>
+    </div>
+
+    <div class="row" style="padding: 0px 15px;">
+        <div id="iVideo"></div>
+    </div>
 
     <div class="row" style="padding-bottom: 20px;">
         <div class="col-md-12">
