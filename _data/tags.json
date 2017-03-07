@@ -12,6 +12,7 @@
     {"name": "geologie", "displayName": "Géologie"},
     {"name": "glace", "displayName": "Glace"},
     {"name": "histoire", "displayName": "Histoire"},
+    {"name": "inclassable", "displayName": "Inclassable"},
     {"name": "insolite", "displayName": "Insolite"},
     {"name": "lac", "displayName": "Lac"},
     {"name": "mer-ocean", "displayName": "Mer / Océan"},
