@@ -5,7 +5,7 @@
     {"name": "geologie", "displayName": "Géologie"},
     {"name": "parc-naturel", "displayName": "Parc naturel"},
     {"name": "montagne", "displayName": "Montagne"},
-    {"name": "volcan", "displayName": "Volcan"}
+    {"name": "volcan", "displayName": "Volcan"},
     {"name": "foret", "displayName": "Forêt"},
     {"name": "desert", "displayName": "Désert"},
     {"name": "mer-ocean", "displayName": "Mer / Océan"},
