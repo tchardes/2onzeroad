@@ -1,6 +1,7 @@
 [
     {"name": "nature", "displayName": "Nature"},
-    {"name": "animaux", "displayName": "Animaux"},
+    {"name": "faune", "displayName": "Faune"},
+    {"name": "flore", "displayName": "Flore"},
     {"name": "paysage", "displayName": "Paysage"},
     {"name": "geologie", "displayName": "Géologie"},
     {"name": "parc-naturel", "displayName": "Parc naturel"},
