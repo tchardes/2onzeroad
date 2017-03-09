@@ -28,6 +28,7 @@
     {"name": "transport", "displayName": "Transport"},
     {"name": "fete-evenement", "displayName": "Fête / Evénement"},
     {"name": "religion", "displayName": "Religion"},
+    {"name": "unesco", "displayName": "Unesco"},
 
     {"name": "contre-jour", "displayName": "Contre-jour"},
     {"name": "coucher-de-soleil", "displayName": "Coucher de soleil"}, 
@@ -37,6 +38,6 @@
     {"name": "panoramique", "displayName": "Panoramique"},
     
     {"name": "inclassable", "displayName": "Inclassable"},
-    {"name": "insolite", "displayName": "Insolite"},
-    {"name": "unesco", "displayName": "Unesco"} 
+    {"name": "insolite", "displayName": "Insolite"}
+    
 ]
