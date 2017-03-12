@@ -40,7 +40,7 @@ Nous l'avons organisé de la sorte afin que chacun y trouve son compte :
 * Les bilans des états ou pays après y avoir séjourné, reconnaissables à un bandeau et icône de couleur verte ;  
 
 * Les plus belles photos seront stockées sur Flick.fr et seront visibles depuis la Galerie ;
-* Les vidéos seront stockées et visibles depuis YouTube et directement dans les posts et depuis la page vidéos;  
+* Les vidéos seront stockées et visibles depuis YouTube et directement dans les posts et depuis la page vidéos ;  
 
 * Des tags et catégories qui permettent de choisir de lire les articles en fonction d'un lieu, d'une zone ou d'une catégorie ;
 * Des tags et catégories qui permettent de visionner les photos et vidéos en fonction d'un lieu, d'une zone ou d'une catégorie ;   
