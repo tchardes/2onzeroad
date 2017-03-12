@@ -1,4 +1,7 @@
 
+var map;
+var markers = [];
+
 function initMap() {
 
   $(document).ready ( function() {
@@ -7,11 +10,10 @@ function initMap() {
 
     //loop through all the mapping elements
     $(".mapping").each(function() {
-      var markers = [];
       var itinary = $(this).attr('itinary');
+      var hideMarkers = $(this).attr('hideMarkers');
       var mapId = $(this).attr('mapId');
       var googleStyle = $(this).attr('googleStyle');
-      var map;
       var bounds;
 
       // initialize the map canvas
@@ -137,14 +139,28 @@ function initMap() {
       map.data.loadGeoJson(itinary);
       map.data.setStyle({strokeColor: '#2D7CA6', strokeWeight:3});
 
-      if(markers.length > 2)
+      if(markers.length > 2 && hideMarkers != "true")
       {
         var markerCluster = new MarkerClusterer(map, markers, {imagePath: '/assets/owner/m'});
       }
 
+      if(hideMarkers == "true") { clearMarkers(); }
+
     });
 
   });
+}
+
+// Sets the map on all markers in the array.
+function setMapOnAll(map) {
+  for (var i = 0; i < markers.length; i++) {
+    markers[i].setMap(map);
+  }
+}
+
+// Removes the markers from the map, but keeps them in the array.
+function clearMarkers() {
+  setMapOnAll(null);
 }
 
 function loadKmlLayer(src, map) {

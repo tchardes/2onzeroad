@@ -17,6 +17,8 @@
     {"name": "route", "displayName": "Route"},
     {"name": "randonnee", "displayName": "Randonnée"},
 
+    {"name": "separator", "displayName": "separator"},    
+
     {"name": "art", "displayName": "Art"},
     {"name": "architecture", "displayName": "Architecture"},
     {"name": "histoire", "displayName": "Histoire"},
@@ -28,6 +30,8 @@
     {"name": "transport", "displayName": "Transport"},
     {"name": "fete-evenement", "displayName": "Fête / Evénement"},
     {"name": "religion", "displayName": "Religion"},
+    
+    {"name": "separator", "displayName": "separator"},        
 
     {"name": "contre-jour", "displayName": "Contre-jour"},
     {"name": "coucher-de-soleil", "displayName": "Coucher de soleil"}, 
@@ -35,6 +39,8 @@
     {"name": "nuit", "displayName": "Nuit"},
     {"name": "portrait", "displayName": "Portrait"},
     {"name": "panoramique", "displayName": "Panoramique"},
+    
+    {"name": "separator", "displayName": "separator"},        
     
     {"name": "inclassable", "displayName": "Inclassable"},
     {"name": "insolite", "displayName": "Insolite"},

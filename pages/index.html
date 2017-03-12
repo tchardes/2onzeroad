@@ -2,7 +2,8 @@
 layout: page
 title: "2onzeroad"
 description: "Carnet de voyages"
-long-description: "Ils sont 2 sur les routes pour un voyage au long cours, ils débutent par l'Amérique du Nord... voilà leur histoire !!!"
+long-description: "Ils sont 2 sur les routes pour un voyage au long cours,
+ ils débutent par l'Amérique du Nord... voilà leur histoire !!!"
 header-img: "assets/owner/hero/home-bg.jpg"
 permalink: ./index.html
 ---
@@ -177,7 +178,11 @@ permalink: ./index.html
           <h3>Tags</h3>
               
           {% for photoTag in site.data.tags %}
-            <div class="post-preview-category" style="margin-bottom:0px !important;"><div style="margin-right: 3px !important;"><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag.name | slugify }}">{{photoTag.displayName}}</a></div></div>
+            {% if photoTag.name == "separator" %}
+              <hr style="border-top: 1px solid #555 !important;" />
+            {% else %}
+              <div class="post-preview-category" style="margin-bottom:0px !important;"><div style="margin-right: 3px !important;"><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag.name | slugify }}">{{photoTag.displayName}}</a></div></div>            
+            {% endif %}
           {% endfor %}
 
       </div>
@@ -186,27 +191,17 @@ permalink: ./index.html
   </body>
 </html>
 
-{% assign tags = "" | split:"|"  %}
-{% for post in site.posts %}
-  {% for tag in post.tags %}
-    {% if tags contains tag %}
-    {% else %}
-      {% assign tags = tags | push: tag %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-
 <script>
 
-function displayAllBlock()
-{
-  var cusid_ele = document.getElementsByClassName('cd-timeline-block');
-  for (var i = 0; i < cusid_ele.length; ++i) {
-      var item = cusid_ele[i];  
-      item.style.display = 'block';
-  }
+  function displayAllBlock()
+  {
+    var cusid_ele = document.getElementsByClassName('cd-timeline-block');
+    for (var i = 0; i < cusid_ele.length; ++i) {
+        var item = cusid_ele[i];  
+        item.style.display = 'block';
+    }
 
-  document.getElementById("displayMoreArticlesBlock").style.display = 'none'; 
-}
+    document.getElementById("displayMoreArticlesBlock").style.display = 'none'; 
+  }
 
 </script>

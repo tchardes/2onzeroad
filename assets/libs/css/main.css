@@ -156,6 +156,17 @@ hr.small {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#000000',GradientType=0 );
 }
 
+.long-description {
+    display: none;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin-top: 40px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+}
+
 .intro-header {
   background: no-repeat center center;
   background-attachment: scroll;
@@ -175,7 +186,10 @@ hr.small {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 130px 0;
+    padding: 110px 0 150px 0;
+  }
+  .long-description {
+    display: block;
   }
 }
 .intro-header .site-heading,
@@ -607,15 +621,3 @@ img::-moz-selection {
 .flickr_badge_image a {pointer-events: none;}
 .flickr_badge_image img {border: 0px solid #666666 !important; padding:1px; margin:2px;}
 #flickr_badge_wrapper {width:100%;text-align:center}
-
-
-.long-description {
-    position: absolute;
-    left: 0px;
-    right: 0px;
-    margin-top: 30px;
-    font-size: 20px;
-    padding: 0px 200px;
-    font-style: italic;
-    font-weight: 400;
-}
