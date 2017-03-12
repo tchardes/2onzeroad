@@ -301,7 +301,7 @@ En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous
 
 ### Photo, Vidéo, Plongée...   
 
-Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe (merci Louis, Bruno et Marie,...) afin de profiter des spots réputés que nous allons croiser.   
+Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe (merci Louis, Bruno et Marie,...) afin de profiter des spots réputés que nous allons croiser, je pense notemment aux cénotes mexicains.   
 
 Ne pas oublier de s'équiper d'adaptateur de prises de courant pour brancher tous vos appareils électriques dans les différents pays.
 
