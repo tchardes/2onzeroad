@@ -18,14 +18,12 @@ location: "23.135457, -82.358861"
 
 ### Voyage laborieux !!!
 
-
 <!--Code to add a local photo-->
 <!--<img src="{{baseurl}}/assets/owner/photos/test-photo.jpg" style="width:100%" />-->
 <!--End-->
 
-
 <!--Code to add a link to another post-->
-<a href="{{site.baseurl}}{% post_url 2015-06-27-cuba-Cienfuegos %}" style="width:100%">Lien vers un autre article</a>
+<!--<a href="{{site.baseurl}}{% post_url 2015-06-27-cuba-Cienfuegos %}" style="width:100%">Lien vers un autre article</a>-->
 <!--End-->
 
 Arrivés en Martinique, on nous apprend que la compagnie **La Cubana de Aviacion** a un souci. Toutes les 4 heures, on va nous annoncer un nouveau retard, nous empêchant de prendre des dispositions pour la nuit. Au final, après 20 h d'attente et de déambulations dans l'aéroport, on voit enfin atterrir notre avion... un Antonov 158, un avion russe qui s'est avéré très correct. Cette compagnie est connue pour ne pas être très ponctuelle et nous n'avons pas été les seuls à en faire les frais autour de nous.   
