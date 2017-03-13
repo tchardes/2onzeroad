@@ -157,8 +157,8 @@ hr.small {
 }
 
 .long-description {
-    display: none;
     position: absolute;
+    padding: 5px;
     left: 0px;
     right: 0px;
     margin-top: 40px;
@@ -179,14 +179,14 @@ hr.small {
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
-  padding: 100px 0 50px;
+  padding: 100px 0 0;
   color: white;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 110px 0 150px 0;
+    padding: 110px 0 0 0;
   }
   .long-description {
     display: block;
@@ -195,6 +195,7 @@ hr.small {
 .intro-header .site-heading,
 .intro-header .page-heading {
   text-align: center;
+  min-height: 400px;
 }
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {
