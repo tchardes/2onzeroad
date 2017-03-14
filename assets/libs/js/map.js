@@ -148,7 +148,7 @@ function initMap() {
         var markerCluster = new MarkerClusterer(map, mapMarkers, {imagePath: '/assets/owner/m'});
       }
 
-      if(hideMarkers == "true") { clearMarkers(); alert("plop2");}
+      if(hideMarkers == "true") { clearMarkers(); }
 
     });
 
