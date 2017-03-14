@@ -13,6 +13,7 @@ function initMap() {
       var itinary = $(this).attr('itinary');
       var hideMarkers = $(this).attr('hideMarkers');
       var mapId = $(this).attr('mapId');
+      var mapMarkers = [];
       var googleStyle = $(this).attr('googleStyle');
       var bounds;
 
@@ -48,6 +49,7 @@ function initMap() {
         });
 
         markers.push(marker);
+        mapMarkers.push(marker);
 
 
         // if the map point has HTML, turn it into an info window
@@ -139,12 +141,14 @@ function initMap() {
       map.data.loadGeoJson(itinary);
       map.data.setStyle({strokeColor: '#2D7CA6', strokeWeight:3});
 
-      if(markers.length > 2 && hideMarkers != "true")
+
+
+      if(mapMarkers.length > 2 && hideMarkers != "true")
       {
-        var markerCluster = new MarkerClusterer(map, markers, {imagePath: '/assets/owner/m'});
+        var markerCluster = new MarkerClusterer(map, mapMarkers, {imagePath: '/assets/owner/m'});
       }
 
-      if(hideMarkers == "true") { clearMarkers(); }
+      if(hideMarkers == "true") { clearMarkers(); alert("plop2");}
 
     });
 
