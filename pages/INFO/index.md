@@ -124,7 +124,7 @@ Du coup, nous avons obtenu de notre banque, non sans mal d'ailleurs, de remplace
 
 ### Téléphonie 
 
-Pour les premiers mois de notre voyage nous aurons uniquement notre SIM Free avec un abonnement à 20€ qui permet de téléphoner 35 jours par an et par destination, valable notamment pour les USA et le Canada. 
+Pour les premiers mois de notre voyage nous aurons uniquement notre SIM Free avec un abonnement à 19,99€ qui permet, deouis le 14 mars 2017, de téléphoner et d'envoyer SMS et MMS en illimités + 5Go de data par mois depuis certaines destinations, dont notamment les USA et le Canada. 
 
 Dès que nous rentrerons au Mexique nous passerons notre abonnement Free à 2€ et prendrons une carte SIM chez un opérateur local.   
 
