@@ -141,8 +141,6 @@ function initMap() {
       map.data.loadGeoJson(itinary);
       map.data.setStyle({strokeColor: '#2D7CA6', strokeWeight:3});
 
-
-
       if(mapMarkers.length > 2 && hideMarkers != "true")
       {
         var markerCluster = new MarkerClusterer(map, mapMarkers, {imagePath: '/assets/owner/m'});
