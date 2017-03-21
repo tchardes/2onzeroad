@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "43.944273, 4.824771"
-  name: "Avignon"
-  date: "14 mars 17"
+  name: "Avignon, France"
+  date: "21 mars 17"
 
 # set the encoding to utf-8
 encoding: utf-8
