@@ -234,6 +234,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * [Ouestusa](http://www.ouestusa.fr/) - Bienvenue aux passionnés de l'Ouest Américain ;
 * [Boondockerswelcome](https://www.boondockerswelcome.com/) - Overnight boondocking on fellow RVers' property ;
 * [Forum Tourdumondiste](http://www.tourdumondiste.com/) - Le blog de voyage de François : une mine d'info pour préparer votre tour du monde ;
+* [Forum VR Camping](http://www.vrcamping.com/) - Forum québecois donc francophone qui traite des véhicules récréatifs ;
 * [Flyonward](https://flyonward.com/fr/) - Location de billet retour.
 
 
