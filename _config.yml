@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "43.944273, 4.824771"
-  name: "Avignon, France"
-  date: "23 mars 17"
+  coordinates: "26.157839, -80.101551"
+  name: "Fort lauderdale, Floride, U.S.A"
+  date: "24 mars 17"
 
 # set the encoding to utf-8
 encoding: utf-8
