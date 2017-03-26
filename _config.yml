@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "26.157839, -80.101551"
-  name: "Fort Lauderdale, Floride, U.S.A"
-  date: "25 mars 17"
+  name: "Miami, Floride, U.S.A"
+  date: "26 mars 17"
 
 # set the encoding to utf-8
 encoding: utf-8
