@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "25.780885, -80.130552"
-  name: "Miami, Floride, U.S.A"
-  date: "26 mars 17"
+  coordinates: "27.361060, -80.407738"
+  name: "Port Saint Lucie, Floride, U.S.A"
+  date: "27 mars 17"
 
 # set the encoding to utf-8
 encoding: utf-8
