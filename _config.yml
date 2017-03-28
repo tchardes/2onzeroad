@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "27.361060, -80.407738"
   name: "Port Sainte Lucie, Floride, U.S.A"
-  date: "27 mars 17"
+  date: "28 mars 17"
 
 # set the encoding to utf-8
 encoding: utf-8
