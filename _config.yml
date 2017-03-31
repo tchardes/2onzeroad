@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "27.361060, -80.407738"
-  name: "Port Sainte Lucie, Floride, U.S.A"
+  name: "Fort Pierce, Floride, U.S.A"
   date: "31 mars 17"
 
 # set the encoding to utf-8
