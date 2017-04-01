@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "27.361060, -80.407738"
-  name: "Fort Pierce, Floride, U.S.A"
-  date: "31 mars 17"
+  coordinates: "25.772000, -80.250159"
+  name: "Miami, Floride, U.S.A"
+  date: "01 avril 17"
 
 # set the encoding to utf-8
 encoding: utf-8
