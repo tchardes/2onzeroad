@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "25.772000, -80.250159"
   name: "Miami, Floride, U.S.A"
-  date: "01 avril 17"
+  date: "02 avril 17"
 
 # set the encoding to utf-8
 encoding: utf-8
