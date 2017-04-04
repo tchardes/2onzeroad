@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Miami"
+title:      "Miami... sans \"Vice\" pour nous"
 preview:    "Nous commençons directement par le sud de Miami... "
 parent-id:  2017-04-07-usa-floride
 
@@ -90,5 +90,4 @@ Au cours des années 1960 de nombreux Haïtiens fuient les régimes dictatoriaux
 Voilà pour la partie historique, mais franchement, ce quartier est à éviter, nous n’y avons trouvé aucun charme. En dehors d’une peinture murale assez banale vous souhaitant la bienvenue, un centre commercial il est vrai peint aux couleurs de la caraïbe, c’est limite pas engageant. En parcourant les rues, nous sommes tombés sur un artiste en train de peindre des chanteurs sur un mur. En regardant bien il y avait au milieu un artiste français. Je suis allé au contact de l’artiste, tout surpris que je le connaisse.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33785166075/in/datetaken/" title="Little Haïti - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3736/33785166075_b777b220ef_k.jpg" width="2048" height="1152" alt="Little Haïti - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 
