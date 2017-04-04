@@ -29,10 +29,12 @@ Ce quartier aux influences Art Deco date de la fin des années 20. Architecture 
 
 Les principales façades à admirer se trouvent entre la 9th et la 17th Street, une bonne ballade d’au moins deux heures entre front de mer et plage avec ses postes de secouristes caractéristiques des lifeguards. C’est bien évidemment le lieu où se montrer, les terrasses sont pleines et sur la route c’est un défilé de Maserati, Lamborghini, Porsche, Bentley, Harley, veilles voitures tunées…. Les Mustang et Camaro font figure de simples Renault Clio.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33692987625/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2847/33692987625_f92ab123a5_k.jpg" width="2048" height="1365" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Au fil de la promenade, l’ambiance change en passant devant les bars, on passe ainsi de la musique brésilienne avec des danseuses qui viennent jusque dans la rue pour haranguer la foule, puis hispanique, techno… bref c’est très animé. Celui qui semble être le plus déjanté est le bar Gay dont même les passages piétons devant l’établissement sont aux couleurs de l’arc en ciel. Au cours de notre séjour, nous l’avons traversé à plusieurs reprises, de jour comme de nuit, c’est un peu notre Croisette au forma US et où spectacle est permanent, le tout enrobé de stéroïdes, Botox… pas toujours du meilleur effet.
 
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33692987625/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2847/33692987625_f92ab123a5_k.jpg" width="2048" height="1365" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33822242715/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2943/33822242715_da98cc093e_k.jpg" width="2048" height="1152" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 
