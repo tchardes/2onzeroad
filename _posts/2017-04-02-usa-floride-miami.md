@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Miami... sans \"Vice\" pour nous"
+title:      "Miami sans \"Vice\" pour nous"
 preview:    "Nous commençons directement par le sud de Miami... "
 parent-id:  2017-04-07-usa-floride
 
