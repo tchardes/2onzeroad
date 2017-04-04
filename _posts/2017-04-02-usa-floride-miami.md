@@ -8,7 +8,7 @@ date:       2017-04-02 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-miami.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-miami.png
-tags: [capitale, Art, Architecture, Culturel]
+tags: [capitale, art, architecture, culturel]
 flickr-tag: "miami"
 country: USA
 city: miami
