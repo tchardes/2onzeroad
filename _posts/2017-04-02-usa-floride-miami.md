@@ -6,8 +6,8 @@ parent-id:  2017-04-07-usa-floride
 
 date:       2017-04-02 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-havane.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-havane.jpg
+header-img: "assets/owner/blog/header/post-bg-miami.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-miami.jpg
 tags: [capitale, unesco]
 flickr-tag: "miami"
 country: USA
