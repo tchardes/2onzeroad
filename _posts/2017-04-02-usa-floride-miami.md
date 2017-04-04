@@ -20,7 +20,6 @@ Voilà notre premier article de type Blog depuis notre départ. Il est consacré
 
 Depuis Fort Lauderdale, nous arrivons directement au sud de Miami par l'Interstate. Après avoir traversé l’immense pont MacArthur Causeway qui longe de nombreux ilots artificiels abritant des résidences somptueuses, nous arrivons à South Beach sur Ocean Drive. La plus grosse difficulté est de trouver une place pour se garer. Toutes les places sont payantes, environ 4$ de l’heure. Deux systèmes de paiement, soit directement depuis des bornes où il faut rentrer la plaque d'immatriculation de son véhicule, soit depuis son smartphone depuis une application de l'opérateur.
 
-
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33009055463/in/datetaken/" title="SkyLine - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2841/33009055463_6b5b2c16b6_k.jpg" width="2048" height="1152" alt="SkyLine - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **L'Art Deco District :**
@@ -34,8 +33,6 @@ Les principales façades à admirer se trouvent entre la 9th et la 17th Street, 
 Au fil de la promenade, l’ambiance change en passant devant les bars, on passe ainsi de la musique brésilienne avec des danseuses qui viennent jusque dans la rue pour haranguer la foule, puis hispanique, techno… bref c’est très animé. Celui qui semble être le plus déjanté est le bar Gay dont même les passages piétons devant l’établissement sont aux couleurs de l’arc en ciel. Au cours de notre séjour, nous l’avons traversé à plusieurs reprises, de jour comme de nuit, c’est un peu notre Croisette au forma US et où spectacle est permanent, le tout enrobé de stéroïdes, Botox… pas toujours du meilleur effet.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33822242715/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2943/33822242715_da98cc093e_k.jpg" width="2048" height="1152" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
 
 **WynWood Art District**
 
@@ -91,7 +88,6 @@ Toutefois, après une bonne heure de ballade à pied et autant en voiture, les l
 Au cours des années 1960 de nombreux Haïtiens fuient les régimes dictatoriaux des présidents Duvalier (père et fils), et émigrèrent vers le Canada et aux États-Unis principalement à New York et à Miami. Le quartier de Lemon City prit peu à peu le nom de Little Haiti.
 
 Voilà pour la partie historique, mais franchement, ce quartier est à éviter, nous n’y avons trouvé aucun charme. En dehors d’une peinture murale assez banale vous souhaitant la bienvenue, un centre commercial il est vrai peint aux couleurs de la caraïbe, c’est limite pas engageant. En parcourant les rues, nous sommes tombés sur un artiste en train de peindre des chanteurs sur un mur. En regardant bien il y avait au milieu un artiste français. Je suis allé au contact de l’artiste, tout surpris que je le connaisse.
-
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33785166075/in/datetaken/" title="Little Haïti - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3736/33785166075_b777b220ef_k.jpg" width="2048" height="1152" alt="Little Haïti - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
