@@ -20,8 +20,8 @@ Voilà notre premier article de type Blog depuis notre départ. Il est consacré
 
 Depuis Fort Lauderdale, nous arrivons directement au sud de Miami par l'Interstate. Après avoir traversé l’immense pont MacArthur Causeway qui longe de nombreux ilots artificiels abritant des résidences somptueuses, nous arrivons à South Beach sur Ocean Drive. La plus grosse difficulté est de trouver une place pour se garer. Toutes les places sont payantes, environ 4$ de l’heure. Deux systèmes de paiement, soit directement depuis des bornes où il faut rentrer la plaque d'immatriculation de son véhicule, soit depuis son smartphone depuis une application de l'opérateur.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/2ozr/33009055463/in/datetaken/" title="SkyLine - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2841/33009055463_6b5b2c16b6_k.jpg" width="2048" height="1152" alt="SkyLine - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33009055463/in/datetaken/" title="SkyLine - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2841/33009055463_6b5b2c16b6_k.jpg" width="2048" height="1152" alt="SkyLine - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **L'Art Deco District :**
 
