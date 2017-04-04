@@ -31,7 +31,8 @@ Les principales façades à admirer se trouvent entre la 9th et la 17th Street, 
 
 Au fil de la promenade, l’ambiance change en passant devant les bars, on passe ainsi de la musique brésilienne avec des danseuses qui viennent jusque dans la rue pour haranguer la foule, puis hispanique, techno… bref c’est très animé. Celui qui semble être le plus déjanté est le bar Gay dont même les passages piétons devant l’établissement sont aux couleurs de l’arc en ciel. Au cours de notre séjour, nous l’avons traversé à plusieurs reprises, de jour comme de nuit, c’est un peu notre Croisette au forma US et où spectacle est permanent, le tout enrobé de stéroïdes, Botox… pas toujours du meilleur effet.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/2ozr/33692987625/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2847/33692987625_f92ab123a5_k.jpg" width="2048" height="1365" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33692987625/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2847/33692987625_f92ab123a5_k.jpg" width="2048" height="1365" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 
@@ -39,9 +40,12 @@ Au fil de la promenade, l’ambiance change en passant devant les bars, on passe
 
 Ce quartier faisait partie de nos visites impératives. Il concentre certainement le plus grand nombre de peintures murales au monde. Tous les artistes de street art se « doivent » de venir y peindre un pan de mur. C’est absolument incroyable, une explosion de couleurs et de styles. Parmi les principaux artistes on peut citer : Gaia, Futura, Shepard Fairey, Phase2, Roa, OS Gemeos, Kenny Scharf, Vhils, Aiko, Retna, Faile, Sego, Space Invader, Ron English, How et Nosm, Saner, Nunca Jeff Soto et bien d’autres.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32914718573/in/datetaken/" title="WynWood - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2813/32914718573_c6b6aae6e3_k.jpg" width="2048" height="1322" alt="WynWood - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Une journée ne suffit pas pour tout voir. Ancien quartier mal famé, Tony Goldman en a fait aujourd’hui "LE" quartier de l'art moderne qui regroupe des ateliers d’artistes, de nombreuses galeries d’art, des lieux branchés d’où la musique techno s’entend de loin. Autour de Wynwood Wall, j'ai parcouru près des 10 Km à pied sans en faire le tour complet. Si vous aimez cet art et que vous avez un peu de temps devant vous, n’hésitez pas à cliquer sur la galerie et rentrer "wynwood" dans la barre de recherches.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/2ozr/32914718573/in/datetaken/" title="WynWood - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2813/32914718573_c6b6aae6e3_k.jpg" width="2048" height="1322" alt="WynWood - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33343618950/in/datetaken/" title="WynWood - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2869/33343618950_ff86db34ba_k.jpg" width="2048" height="1152" alt="WynWood - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 **Little Havana**
@@ -59,7 +63,7 @@ Les cubains ont transformé cette rue en un Walk of Fame comme à Hollywood. Les
 
 De la salsa sort de quelques bars qui se battent le privilège de servir les meilleurs Mojito de Miami. Quand on a visité Cuba on trouve que ce quartier manque quand même un peu d’âme. En remontant la 13th avenue, on trouve une enfilade de monuments à la gloire de Cuba, de son héros José Marty, ainsi qu’une stèle qui recense les noms des martyrs de la Baie des cochons.
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/2ozr/32916009933/in/datetaken/" title="Little Havana - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2892/32916009933_80561a3414_k.jpg" width="2048" height="1152" alt="Little Havana - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32916009933/in/photolist-S9F9YD-S75mbS-SNywCd-TowWYc-TowYCp-TjWwB3-S9FjKx" title="Little Havana - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2892/32916009933_80561a3414_k.jpg" width="2048" height="1152" alt="Little Havana - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Coral Glabes**
 
@@ -69,7 +73,7 @@ Les rues sont bordées de vieux arbres, chênes ou ficus immenses qui se rejoign
 
 Se promener dans ce quartier est très reposant. Si vous aimez l’architecture, les belles demeures ce quartier est à visiter. A ne pas manquer également Venetian Pool, piscine extérieure au décor vénitien ouverte en 1924 qui utilise une ancienne carrière de corail. Actuellement en plein travaux. Baltimore Hôtel qui, à sa construction en 1926, était le plus haut bâtiment de Floride et sa piscine, la plus grande du monde. 
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/2ozr/32972718623/in/datetaken/" title="Coral Glabes - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2912/32972718623_2f43c5aefb_k.jpg" width="2048" height="1152" alt="Coral Glabes - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32972718623/in/datetaken/" title="Coral Glabes - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2912/32972718623_2f43c5aefb_k.jpg" width="2048" height="1152" alt="Coral Glabes - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 **Coconut Grove**
@@ -88,6 +92,6 @@ Au cours des années 1960 de nombreux Haïtiens fuient les régimes dictatoriaux
 Voilà pour la partie historique, mais franchement, ce quartier est à éviter, nous n’y avons trouvé aucun charme. En dehors d’une peinture murale assez banale vous souhaitant la bienvenue, un centre commercial il est vrai peint aux couleurs de la caraïbe, c’est limite pas engageant. En parcourant les rues, nous sommes tombés sur un artiste en train de peindre des chanteurs sur un mur. En regardant bien il y avait au milieu un artiste français. Je suis allé au contact de l’artiste, tout surpris que je le connaisse.
 
 
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/2ozr/33785166075/in/datetaken/" title="Little Haïti - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3736/33785166075_b777b220ef_k.jpg" width="2048" height="1152" alt="Little Haïti - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33785166075/in/datetaken/" title="Little Haïti - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3736/33785166075_b777b220ef_k.jpg" width="2048" height="1152" alt="Little Haïti - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
