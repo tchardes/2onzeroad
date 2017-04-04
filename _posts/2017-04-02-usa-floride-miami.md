@@ -33,7 +33,6 @@ Les principales façades à admirer se trouvent entre la 9th et la 17th Street, 
 
 Au fil de la promenade, l’ambiance change en passant devant les bars, on passe ainsi de la musique brésilienne avec des danseuses qui viennent jusque dans la rue pour haranguer la foule, puis hispanique, techno… bref c’est très animé. Celui qui semble être le plus déjanté est le bar Gay dont même les passages piétons devant l’établissement sont aux couleurs de l’arc en ciel. Au cours de notre séjour, nous l’avons traversé à plusieurs reprises, de jour comme de nuit, c’est un peu notre Croisette au forma US et où spectacle est permanent, le tout enrobé de stéroïdes, Botox… pas toujours du meilleur effet.
 
-
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33822242715/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2943/33822242715_da98cc093e_k.jpg" width="2048" height="1152" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
