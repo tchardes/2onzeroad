@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Miami sans \"Vice\" pour nous"
-preview:    "Nous commençons directement par le sud de Miami... "
+preview:    "Après avoir traversé l’immense pont McArthur Causeway qui longe de nombreux ilots artificiels abritant des résidences somptueuses, nous arrivons... "
 parent-id:  2017-04-07-usa-floride
 
 date:       2017-04-02 12:00:00
@@ -18,7 +18,7 @@ location: "25.778121, -80.131167"
 
 Voilà notre premier article de type Blog depuis notre départ. Il est consacré à Miami où nous avons passé trois journées. Nous avons profité de rouler encore avec notre voiture de location pour visiter tous les quartiers que nous avions au préalable sélectionnés depuis plusieurs forums et sites en fonction de nos centres d’intérêts.
 
-Depuis Fort Lauderdale, nous arrivons directement au sud de Miami par l'Interstate. Après avoir traversé l’immense pont MacArthur Causeway qui longe de nombreux ilots artificiels abritant des résidences somptueuses, nous arrivons à South Beach sur Ocean Drive. La plus grosse difficulté est de trouver une place pour se garer. Toutes les places sont payantes, environ 4$ de l’heure. Deux systèmes de paiement, soit directement depuis des bornes où il faut rentrer la plaque d'immatriculation de son véhicule, soit depuis son smartphone depuis une application de l'opérateur.
+Depuis Fort Lauderdale, nous arrivons directement au sud de Miami par l'Interstate. Après avoir traversé l’immense pont McArthur Causeway qui longe de nombreux ilots artificiels abritant des résidences somptueuses, nous arrivons à South Beach sur Ocean Drive. La plus grosse difficulté est de trouver une place pour se garer. Toutes les places sont payantes, environ 4$ de l’heure. Deux systèmes de paiement, soit directement depuis des bornes où il faut rentrer la plaque d'immatriculation de son véhicule, soit depuis son smartphone depuis une application de l'opérateur.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33009055463/in/datetaken/" title="SkyLine - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2841/33009055463_6b5b2c16b6_k.jpg" width="2048" height="1152" alt="SkyLine - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -30,7 +30,7 @@ Les principales façades à admirer se trouvent entre la 9th et la 17th Street, 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33692987625/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2847/33692987625_f92ab123a5_k.jpg" width="2048" height="1365" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Au fil de la promenade, l’ambiance change en passant devant les bars, on passe ainsi de la musique brésilienne avec des danseuses qui viennent jusque dans la rue pour haranguer la foule, puis hispanique, techno… bref c’est très animé. Celui qui semble être le plus déjanté est le bar Gay dont même les passages piétons devant l’établissement sont aux couleurs de l’arc en ciel. Au cours de notre séjour, nous l’avons traversé à plusieurs reprises, de jour comme de nuit, c’est un peu notre Croisette au forma US et où spectacle est permanent, le tout enrobé de stéroïdes, Botox… pas toujours du meilleur effet.
+Au fil de la promenade, l’ambiance change en passant devant les bars, on passe ainsi de la musique brésilienne avec des danseuses qui viennent jusque dans la rue pour haranguer la foule, puis hispanique, techno… bref c’est très animé. Celui qui semble être le plus déjanté est le bar Gay dont même les passages piétons devant l’établissement sont aux couleurs de l’arc en ciel. Au cours de notre séjour, nous l’avons traversé à plusieurs reprises, de jour comme de nuit, c’est un peu notre Croisette au format US et où spectacle est permanent, le tout enrobé de stéroïdes, Botox… pas toujours du meilleur effet.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33822242715/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2943/33822242715_da98cc093e_k.jpg" width="2048" height="1152" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -91,4 +91,4 @@ Voilà pour la partie historique, mais franchement, ce quartier est à éviter, 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33785166075/in/datetaken/" title="Little Haïti - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3736/33785166075_b777b220ef_k.jpg" width="2048" height="1152" alt="Little Haïti - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Au final, pour nos premiers pas aux USA, Miami est une très belle découverte. Certe il y a une multitude d'autres choses à faire mais nous avons fait à peu près le tour de ce que nous nous étions fixés, nous avons marché sur l'immense et mythique plage de Miami en espèrant tomber sur Pamella...,  avons parcouru Miami de nuit à la recherche d'un bon spot pour y faire des photos de nocturnes, pas évident de trouver un point accéssible !!!. Enfin il est très facile de circuler et de se repérer dans la ville et le dowmtown qui est en pleine expension au vu de toutes les grues qui s'affairent reste à taille "humaine".
+Au final, pour nos premiers pas aux USA, Miami est une très belle découverte. Certe il y a une multitude d'autres choses à faire mais nous avons fait à peu près le tour de ce que nous nous étions fixés, nous avons marché sur l'immense et mythique plage de Miami, sans tomber sur Pamella...,  avons parcouru Miami de nuit à la recherche d'un bon spot pour y faire des photos nocturnes, pas évident de trouver un point accéssible !!!. Enfin il est très facile de circuler et de se repérer dans la ville et le dowmtown qui est en pleine expension au vu de toutes les grues qui s'affairent reste à taille "humaine".
