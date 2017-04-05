@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Miami sans \"Vice\" pour nous"
-preview:    "Après avoir traversé l’immense pont McArthur Causeway qui longe de nombreux ilots artificiels abritant des résidences somptueuses, nous arrivons... "
+preview:    "Après avoir traversé l’immense pont McArthur Causeway qui longe de nombreux ilots artificiels abritant des... "
 parent-id:  2017-04-07-usa-floride
 
 date:       2017-04-02 12:00:00
@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-miami.png
 tags: [capitale, art, architecture, culturel]
 flickr-tag: "miami"
 country: USA
-city: miami
+city: Miami
 category: "blog"
 location: "25.778121, -80.131167"
 ---
