@@ -26,7 +26,7 @@ Depuis Fort Lauderdale, nous arrivons directement au sud de Miami par l'Intersta
 
 Ce quartier aux influences Art Deco date de la fin des années 20. Architecture futuriste initiée à Paris en 1925, son style s’est diversifié au gré des cultures. En Floride, il s’agit du style « Tropical Art Deco », qui se caractérise par une multitude de couleurs pastels, héritées d'un programme des années 80 de rénovation. Aucune ville au monde ne regroupe autant de bâtiments de ce style. La ville en a classé plus de 700 dont les plus beaux, transformés principalement en hôtels et commerces, se trouvent sur Ocean Drive et Collins Avenue (South et North Miami Beach).
 
-Les principales façades à admirer se trouvent entre la 9th et la 17th Street, une bonne ballade d’au moins deux heures entre front de mer et plage avec ses postes de secouristes caractéristiques des lifeguards. C’est bien évidemment le lieu où se montrer, les terrasses sont pleines et sur la route c’est un défilé de Maserati, Lamborghini, Porsche, Bentley, Harley, veilles voitures tunées…. Les Mustang et Camaro font figure ici de simples Renault Clio.
+Les principales façades à admirer se trouvent entre la 9th et la 17th Street, une bonne ballade d’au moins deux heures entre front de mer et plage avec ses postes de secouristes caractéristiques des lifeguards. C’est bien évidemment le lieu où se montrer, les terrasses sont pleines et sur la route c’est un défilé de Maserati, Lamborghini, Porsche, Bentley, Harley, vieilles voitures tunées…. Les Mustang et Camaro font figure ici de simples Renault Clio.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33692987625/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2847/33692987625_f92ab123a5_k.jpg" width="2048" height="1365" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -56,10 +56,10 @@ Les cubains ont transformé cette rue en un Walk of Fame comme à Hollywood. Les
 - Little Havana Cigar Factory : boutiques de cigares cubains où l’on peut observer leur fabrication et en déguster ;
 - Tower Theater : Salle de spectacle de 1926 à l’architecture art deco ;
 - Pedestrian Walk : petite rue piétonne décorée de mosaïques cubaines ;
-- Peinture murales ;
+- Peintures murales ;
 - Les coqs : statues géantes de coq peintes de toutes les couleurs.
 
-De la salsa sort de quelques bars qui se battent le privilège de servir les meilleurs Mojito de Miami. Quand on a visité Cuba on trouve que ce quartier manque quand même un peu d’âme. En remontant la 13th avenue, on trouve une enfilade de monuments à la gloire de Cuba, de son héros José Marty, ainsi qu’une stèle qui recense les noms des martyrs de la Baie des cochons.
+De la salsa sort de quelques bars qui se battent le privilège de servir les meilleurs Mojito de Miami. En remontant la 13th avenue, on trouve une enfilade de monuments à la gloire de Cuba, de son héros José Marty, ainsi qu’une stèle qui recense les noms des martyrs de la Baie des cochons. Quand on a visité Cuba on trouve que ce quartier manque quand même un peu d’âme.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32916009933/in/photolist-S9F9YD-S75mbS-SNywCd-TowWYc-TowYCp-TjWwB3-S9FjKx" title="Little Havana - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2892/32916009933_80561a3414_k.jpg" width="2048" height="1152" alt="Little Havana - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
