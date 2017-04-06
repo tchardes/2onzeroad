@@ -28,7 +28,7 @@ Ce quartier aux influences Art Deco date de la fin des années 20. Architecture 
 
 Les principales façades à admirer se trouvent entre la 9th et la 17th Street, une bonne ballade d’au moins deux heures entre front de mer et plage avec ses postes de secouristes caractéristiques des lifeguards. C’est bien évidemment le lieu où se montrer, les terrasses sont pleines et sur la route c’est un défilé de Maserati, Lamborghini, Porsche, Bentley, Harley, vieilles voitures tunées…. Les Mustang et Camaro font figure ici de simples Renault Clio.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33692987625/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2847/33692987625_f92ab123a5_k.jpg" width="2048" height="1365" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33051095413/in/datetaken/" title="Quartier Art Deco - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3952/33051095413_08fc7d55af_k.jpg" width="2048" height="1152" alt="Quartier Art Deco - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Au fil de la promenade, l’ambiance change en passant devant les bars, on passe ainsi de la musique brésilienne avec des danseuses qui viennent jusque dans la rue pour haranguer la foule, bizarrement, c'est juste en face que sont garés sur l'herbe, plusieurs véhicules de police,les agents bien assis à l'intérieur, moteur tournant et je suppose, la clim à fond, puis on passe à une ambiance hispanique puis techno… bref c’est très animé. Celui qui semble être le plus "déjanté" est le bar aux couleurs gay dont même les passages piétons devant l’établissement sont aux couleurs de l’arc en ciel. Au cours de notre séjour, nous l’avons traversé à plusieurs reprises, de jour comme de nuit, c’est un peu notre Croisette au format US et où le spectacle est permanent, le tout bien sur enrobé de stéroïdes, botox… pas toujours du meilleur effet.
 
@@ -38,12 +38,11 @@ Au fil de la promenade, l’ambiance change en passant devant les bars, on passe
 
 Ce quartier faisait partie de nos visites impératives. Il concentre certainement le plus grand nombre de peintures murales au monde. Tous les artistes de street art se "doivent" de venir y peindre un pan de mur. C’est absolument incroyable, une explosion de couleurs et de styles. Parmi les principaux artistes on peut citer : kobra (Yoda stop War), Gaia, Futura, Shepard Fairey, Phase2, Roa, OS Gemeos, Kenny Scharf, Vhils, Aiko, Retna, Faile, Sego, Space Invader, Ron English, How et Nosm, Saner, Nunca Jeff Soto et bien d’autres. Vous pouvez trouver plus d'info **[ici](http://www.http://www.thewynwoodwalls.com/)**.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32914718573/in/datetaken/" title="WynWood - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2813/32914718573_c6b6aae6e3_k.jpg" width="2048" height="1322" alt="WynWood - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33479522960/in/datetaken/" title="Wynwood- Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3841/33479522960_bb7f1b9526_k.jpg" width="2048" height="1322" alt="Wynwood- Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Une journée ne suffit pas pour tout voir. Ancien quartier mal famé, Tony Goldman en a fait aujourd’hui "LE" quartier de l'art moderne qui regroupe des ateliers d’artistes, de nombreuses galeries d’art, des lieux branchés d’où la musique techno s’entend de loin, des marchés et une fois par mois une visite nocture le "Wynwood Art Walk". Autour de Wynwood Wall, j'ai parcouru près des 10 Km à pied sans en faire le tour complet. Si vous aimez cet art et que vous avez un peu de temps devant vous, n’hésitez pas à cliquer sur la galerie et rentrer "wynwood" dans la barre de recherches. Parrallélement à l'appareil photo, j'ai utilisé une application afin de géolocaliser automatiquement toutes les photos. Au Nord, de l'autre coté de l'Interstate se trouve le Miami Design District qui est également un autre quartier intéressant que nous n'avons parcouru qu'en voiture. 
 
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33343618950/in/datetaken/" title="WynWood - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2869/33343618950_ff86db34ba_k.jpg" width="2048" height="1152" alt="WynWood - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33708054782/in/datetaken/" title="Wynwood- Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2843/33708054782_feda798288_k.jpg" width="2048" height="1152" alt="Wynwood- Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>"2048" height="1152" alt="WynWood - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 **Little Havana**
@@ -61,7 +60,9 @@ Les cubains ont transformé cette rue en un Walk of Fame comme à Hollywood. Les
 
 De la salsa sort de quelques bars qui se battent le privilège de servir les meilleurs Mojito de Miami. En remontant la 13th avenue, on trouve une enfilade de monuments à la gloire de Cuba, de son héros José Marty, ainsi qu’une stèle qui recense les noms des martyrs de la Baie des cochons. Quand on a visité Cuba on trouve que ce quartier manque quand même un peu d’âme.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32916009933/in/photolist-S9F9YD-S75mbS-SNywCd-TowWYc-TowYCp-TjWwB3-S9FjKx" title="Little Havana - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2892/32916009933_80561a3414_k.jpg" width="2048" height="1152" alt="Little Havana - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33050240113/in/datetaken/" title="Little Havana - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3839/33050240113_63aa72c14c_k.jpg" width="2048" height="1152" alt="Little Havana - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 **Coral Glabes**
 
@@ -71,7 +72,7 @@ Les rues sont bordées de vieux arbres, chênes ou ficus immenses qui se rejoign
 
 A ne pas manquer également Venetian Pool, piscine extérieure au décor vénitien ouverte en 1924 qui utilise une ancienne carrière de corail. Actuellement en plein travaux. Baltimore Hôtel qui, à sa construction en 1926, était le plus haut bâtiment de Floride et sa piscine, la plus grande du monde. Se promener dans ce quartier est très reposant. Si vous aimez l’architecture, les belles demeures ce quartier est à visiter. 
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32972718623/in/datetaken/" title="Coral Glabes - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2912/32972718623_2f43c5aefb_k.jpg" width="2048" height="1152" alt="Coral Glabes - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33707639582/in/datetaken/" title="Coral Glabes - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2912/33707639582_908892b770_k.jpg" width="2048" height="1152" alt="Coral Glabes - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 **Coconut Grove**
@@ -89,6 +90,6 @@ Au cours des années 1960 de nombreux Haïtiens fuient les régimes dictatoriaux
 
 Voilà pour la partie historique, mais franchement, ce quartier est à éviter, nous n’y avons trouvé aucun charme. En dehors d’une peinture murale assez banale vous souhaitant la bienvenue, un centre commercial il est vrai peint aux couleurs de la caraïbe, c’est limite pas engageant. En parcourant les rues, nous sommes tombés sur un artiste en train de peindre des chanteurs sur un mur. En regardant bien il y avait au milieu un chanteur français. Je suis allé au contact de l’artiste qui fut surpris que je le reconnaisse.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33785166075/in/datetaken/" title="Little Haïti - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3736/33785166075_b777b220ef_k.jpg" width="2048" height="1152" alt="Little Haïti - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33822048576/in/datetaken/" title="Little Haïti - Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3856/33822048576_7129a47fb8_k.jpg" width="2048" height="1152" alt="Little Haïti - Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Au final, pour nos premiers pas aux USA, Miami est une très belle découverte. Certes, il y a une multitude d'autres choses à faire mais nous avons fait à peu près le tour de ce que nous nous étions fixés, nous avons également marché sur l'immense et mythique plage de Miami, sans tomber sur Pamella...,  avons parcouru Miami de nuit à la recherche d'un bon spot pour y faire des photos nocturnes, pas évident de trouver un point accessible !!!. Enfin il est très facile de circuler et de se repérer dans la ville dont le dowmtown est en pleine expension au vu de toutes les grues qui s'affairent.
