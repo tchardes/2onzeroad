@@ -36,7 +36,7 @@ Au fil de la promenade, l’ambiance change en passant devant les bars, on passe
 
 **WynWood Art District**
 
-Ce quartier faisait partie de nos visites impératives. Il concentre certainement le plus grand nombre de peintures murales au monde. Tous les artistes de street art se "doivent" de venir y peindre un pan de mur. C’est absolument incroyable, une explosion de couleurs et de styles. Parmi les principaux artistes on peut citer : kobra (Yoda stop War), Gaia, Futura, Shepard Fairey, Phase2, Roa, OS Gemeos, Kenny Scharf, Vhils, Aiko, Retna, Faile, Sego, Space Invader, Ron English, How et Nosm, Saner, Nunca Jeff Soto et bien d’autres. Vous pouvez trouver plus d'info **[ici](http://www.http://www.thewynwoodwalls.com/)**.
+Ce quartier faisait partie de nos visites impératives. Il concentre certainement le plus grand nombre de peintures murales au monde. Tous les artistes de street art se "doivent" de venir y peindre un pan de mur. C’est absolument incroyable, une explosion de couleurs et de styles. Parmi les principaux artistes on peut citer : kobra (Yoda stop War), Gaia, Futura, Shepard Fairey, Phase2, Roa, OS Gemeos, Kenny Scharf, Vhils, Aiko, Retna, Faile, Sego, Space Invader, Ron English, How et Nosm, Saner, Nunca Jeff Soto et bien d’autres. Vous pouvez trouver plus d'info **[ici](http://www.thewynwoodwalls.com/)**.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33479522960/in/datetaken/" title="Wynwood- Miami - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3841/33479522960_bb7f1b9526_k.jpg" width="2048" height="1322" alt="Wynwood- Miami - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
