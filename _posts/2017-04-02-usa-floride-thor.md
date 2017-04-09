@@ -1,7 +1,7 @@
 ---
 layout:     blog
-title:      "Thor de Floride, pas d'Asgard"
-preview:    "Après de nombreuses heures, voire journées et même nuits à se poser des questions sur... "
+title:      "Thor de Floride, pas d'Asgard!"
+preview:    "Après de nombreuses heures, voire journées et même nuits à se poser des questions sur le type de... "
 parent-id:  2017-04-07-usa-floride
 
 date:       2017-04-06 12:00:00
@@ -18,7 +18,7 @@ location: "27.361876, -80.408413"
 
 Après de nombreuses heures, voire journées et même nuits à se poser des questions sur le type de camping car à acheter et éplucher les sites américains, nous y voilà… on les voit en vrai, en grand.
 
-La visite chez le premier concessionnaire de notre liste « North Trail RV Center » à Fort Lauderdale ne nous a pas convaincu, aussi bien au niveau du parc occasion que du vendeur. Le lundi 27 mars, nous nous rendons sur le deuxième à savoir « La Mesa RV » à Port Sainte Lucie. Immense concessionnaire avec une bonne centaines d’unités sur leur parc, nous tombons sur un vendeur très sympathique, Todd, qui est un peu surpris de nous voir arriver comme ça de France avec notre projet. Il comprend très bien nos difficultés, aussi bien au niveau de la langue que des formalités administratives à venir et nous indique nous assister tout au long du processus d’immatriculation.
+La visite chez le premier concessionnaire de notre liste « North Trail RV Center » à Fort Lauderdale ne nous a pas convaincu, aussi bien au niveau du parc occasion que du vendeur. Le lundi 27 mars, nous nous rendons sur le deuxième à savoir « LaMesa RV » à Port Sainte Lucie. Immense concessionnaire avec une bonne centaines d’unités sur leur parc, nous tombons sur un vendeur très sympathique, Todd, qui est un peu surpris de nous voir arriver comme ça de France avec notre projet. Il comprend très bien nos difficultés, aussi bien au niveau de la langue que des formalités administratives à venir et nous indique nous assister tout au long du processus d’immatriculation.
 
 Dans la fourchette de prix que l’on s’est fixé, il nous présente plusieurs véhicules, neufs et d’occasions. Nous faisons définitivement une croix sur les RV basés sur châssis Mercedes Sprinter moteur diesel, beaucoup plus cher que les traditionnels châssis et moteurs Ford essence.
 
@@ -34,10 +34,9 @@ Lundi 3 avril, de retour de Miami nous nous arrêtons chez LaMesa RV. Todd nous 
 
 Arrivés un peu en avance, on traine dans le magasin pour choisir les choses que nous allons acheter avec le coupon de 100 $ que l’on avait négocié. On rencontre ainsi un couple de canadiens, des « snowbird » comme on les appelle ici. Ce sont les retraités qui fuient le froid du Québec et viennent passer l’hiver au soleil. On passe un long moment à discuter sur les choses à faire en Floride puis il me parle de politique et des élections qui se préparent en France. Il était au courant de tout, Macron, les affaires Fillon et Le Pen , je suis resté un peu sur le cul, étant bien incapable de sortir le moindre nom d’homme politique canadien ou même québécois.
 
-Enfin une dame nous prend en compte et nous présente un des employés du service technique qui parle très bien Français puisque Haïtien installé aux USA depuis 30 ans. Nous passons toute l’après-midi à vérifier et apprendre le mode de fonctionnement de tous les organes et faisant réparer ce qui ne nous convient pas. Après d’âpres discussions, conforté par notre interprète, nous reviendrons dans 15 jours pour qu’il nous répare un cache de l’extension qui est manquant. Ce sera également l'occasion de récupérer notre vrai plaque d'immatriculation.
+Enfin une dame nous prend en compte et nous présente un des employés du service technique qui parle très bien Français puisque Haïtien installé aux USA depuis 30 ans. Nous passons toute l’après-midi à vérifier et apprendre le mode de fonctionnement de tous les organes et faisant réparer ce qui ne nous convient pas. Après d’âpres discussions, conforté par notre interprète, nous reviendrons dans 15 jours pour qu’il nous répare un cache de l’extension qui est manquant. Ce sera également l'occasion de récupérer notre vraie plaque d'immatriculation.
 
 En revenant de la signature du contrat tout a été « fixé » comme ils disent et je pars au volant de notre Homezeroad tandis que Corinne suit avec la voiture de location. 
-
 
 L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte aspirante, un micro-onde, un frigo, un congélateur, un climatiseur, un chauffe-eau, une TV écran plat avec lecteur DVD et une génératrice.
 
@@ -85,7 +84,7 @@ Ce sont le photos du site vendeur, plus parlant sans toutes nos affaires.
 
 ## Cérémonie du fanion et baptême :
 
-Nous avons organisée en toute simplicité une cérémonie non protocolaire de plantage de fanion sur notre nouveau territoire. Il est quand même important d’indiquer qu’ici, afin du moins à l’intérieur… c’est la France !!!! Cette « carte de visite » permettra peut-être à des Français en exil ou en vacances ou bien à des autochtones de venir au contact et bavarder un peu.
+Nous avons organisée en toute simplicité une cérémonie non protocolaire de plantage de fanion sur l'antenne de notre nouveau territoire. Il est quand même important d’indiquer qu’ici, afin du moins à l’intérieur… c’est la France !!!! Cette "carte de visite" permettra peut-être à des français en exil ou en vacances ou bien à des autochtones de venir au contact et bavarder un peu.
 
 Comme il est de coutume dans le monde des voyageurs de donner un nom à leur camping car, nous n’allons pas déroger à la règle et Corinne a choisi le nom de « THOR » s’il lui faut un prénom ce sera Hervé (RV - Recreativ Vehicle) espérons qu’il ne nous rende pas complètement marteau.
 
