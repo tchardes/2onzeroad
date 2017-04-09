@@ -65,21 +65,21 @@ L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte as
 
 ## L'extérieur en photos :
 
-<img src="{{baseurl}}/assets/owner/photos/thor1.jpg" style="width:100%" />  
-<img src="{{baseurl}}/assets/owner/photos/thor2.jpg" style="width:100%" />  
-<img src="{{baseurl}}/assets/owner/photos/thor3.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/Thor1.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/Thor2.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/Thor3.jpg" style="width:100%" />  
 
 ## L'intérieur en photos :
 
 Ce sont les photos du site vendeur, plus parlantes sans toutes nos affaires.
 
-<img src="{{baseurl}}/assets/owner/photos/thor5.jpg" style="width:100%" />  
-<img src="{{baseurl}}/assets/owner/photos/thor6.jpg" style="width:100%" />  
-<img src="{{baseurl}}/assets/owner/photos/thor7.jpg" style="width:100%" />  
-<img src="{{baseurl}}/assets/owner/photos/thor8.jpg" style="width:100%" />  
-<img src="{{baseurl}}/assets/owner/photos/thor9.jpg" style="width:100%" />  
-<img src="{{baseurl}}/assets/owner/photos/thor10.jpg" style="width:100%" />  
-<img src="{{baseurl}}/assets/owner/photos/thor11.png" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/Thor5.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/Thor6.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/Thor7.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/Thor8.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/Thor9.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/Thor10.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/Thor11.png" style="width:100%" />  
 
 
 ## Cérémonie du fanion et baptême :
