@@ -88,7 +88,7 @@ Nous avons organisé, en toute simplicité, une cérémonie non protocolaire de 
 
 Comme il est de coutume, dans le monde des voyageurs, de donner un nom à leur camping car, nous n’allons pas déroger à la règle et Corinne a choisi le nom de « THOR » s’il lui faut un prénom ce sera Hervé (RV - Recreativ Vehicle) espérons qu’il ne nous rende pas complètement marteau.
 
-<img src="{{baseurl}}/assets/owner/photos/thor4.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/Thor4.jpg" style="width:100%" />
 
 Le soir même, nous nous posons à quelques kilomètres, sur le parking d’un Walmart (Auchan, Carrefour) dont certains acceptent les CC pour la nuit. C’est aussi très pratique car ils sont ouverts 24/24. De là, nous avons pu commencer l’ammémagement et l'approvisionnement de Thor.
 
