@@ -63,13 +63,13 @@ L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte as
 * Capacité de propane (gal / lb) : 9,6 / 40,9
 * Chauffe-eau Réservoir (gal / L) : 6 / 22.
 
-## L'extérieur en photos :
+### L'extérieur en photos :
 
 <img src="{{baseurl}}/assets/owner/photos/Thor1.jpg" style="width:100%" />  
 <img src="{{baseurl}}/assets/owner/photos/Thor2.jpg" style="width:100%" />  
 <img src="{{baseurl}}/assets/owner/photos/Thor3.jpg" style="width:100%" />  
 
-## L'intérieur en photos :
+### L'intérieur en photos :
 
 Ce sont les photos du site vendeur, plus parlantes sans toutes nos affaires.
 
@@ -82,7 +82,7 @@ Ce sont les photos du site vendeur, plus parlantes sans toutes nos affaires.
 <img src="{{baseurl}}/assets/owner/photos/Thor11.jpg" style="width:100%" />  
 
 
-## Cérémonie du fanion et baptême :
+### Cérémonie du fanion et baptême :
 
 Nous avons organisé, en toute simplicité, une cérémonie non protocolaire de plantage de fanion sur l'antenne de notre nouveau territoire. Il est quand même important d’indiquer qu’ici, afin du moins à l’intérieur… c’est la France !!!! Cette "carte de visite" permettra peut-être à des français en exil ou en vacances ou bien à des autochtones de venir au contact et bavarder un peu.
 
