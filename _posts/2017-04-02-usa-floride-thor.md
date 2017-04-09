@@ -41,27 +41,27 @@ En revenant de la signature du contrat tout a été « fixé » comme ils dise
 L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte aspirante, un micro-onde, un frigo, un congélateur, un climatiseur, un chauffe-eau, une TV écran plat avec lecteur DVD, une génératrice, une bonbonne de Gaz (Propane) et une fosse septique.
 
 ### Entraînement / châssis
-* Type de moteur: V10
-* Déplacement (l): 6,8
-* Puissance: 305 Cv
-* Type de carburant: Gazoline (essence)
-* Capacité de carburant (gal / L): 55 / 208,2
+* Type de moteur : V10
+* Déplacement (l) : 6,8
+* Puissance : 305 Cv
+* Type de carburant : Gazoline (essence)
+* Capacité de carburant (gal / L) : 55 / 208,2
 
 ### Spécifications
-* Capacité de couchage maximum: 6
-* Nombre de slideouts: 1
+* Capacité de couchage maximum : 6
+* Nombre de slideouts : 1
 * Longueur (ft-in / m): 24' 11 '' / 7,6
 * Hauteur intérieure (mm / po): 82 / 2082,8
-* Climatisation (BTU): 13500
-* Chauffage (BTU): 20000
+* Climatisation (BTU) : 13500
+* Chauffage (BTU) : 20000
 * 2 soutes de rangements extérieures
 
 ### Capacité des réservoirs
-* Capacité d'eau douce (gal / L): 40 / 151,4
-* Capacité gris eau (gal / L): 38,5 / 145,7
-* Capacité de l'eau noire (gal / L): 24,5 / 92,7
-* Capacité de propane (gal / lb): 9,6 / 40,9
-* Chauffe-eau Réservoir (gal / L): 6 / 22.
+* Capacité d'eau douce (gal / L) : 40 / 151,4
+* Capacité gris eau (gal / L) : 38,5 / 145,7
+* Capacité de l'eau noire (gal / L) : 24,5 / 92,7
+* Capacité de propane (gal / lb) : 9,6 / 40,9
+* Chauffe-eau Réservoir (gal / L) : 6 / 22.
 
 ## L'extérieur en photos :
 
