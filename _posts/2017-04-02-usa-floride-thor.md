@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Thor de Floride, pas d'Asgard"
-preview:    " "
+preview:    "Après de nombreuses heures, voire journées et même nuits à se poser des questions sur... "
 parent-id:  2017-04-07-usa-floride
 
 date:       2017-04-06 12:00:00
