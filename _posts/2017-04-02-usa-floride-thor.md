@@ -22,7 +22,7 @@ La visite chez le premier concessionnaire de notre liste « North Trail RV Cent
 
 Dans la fourchette de prix que l’on s’est fixé, il nous présente plusieurs véhicules, neufs et d’occasion. Nous faisons définitivement une croix sur les RV basés sur châssis Mercedes Sprinter moteur diesel, beaucoup plus cher que les traditionnels châssis et moteurs Ford essence.
 
-Nous nous arrêtons sur un Class C de 24,11 pieds de long, de marque Thor Motor Coach, modèle Four Winds de 2015 sur châssis Ford E-350 avec seulement 10 000 Miles au compteur. Il faut mettre de côté ces idéaux sur l’empreinte carbone de notre voyage… le moteur est un Ford V10 de 6,8 litres de 305 Cv. consommant (soit disant) environ 12 Miles / Galon c-à-d plus d’une vingtaine de litres d’essence au 100 Km. Pour vous donner un ordre d’idée, le prix du Galon en Floride est de 2,30 $ soit à peu près 0,56 € le litre d’essence.
+Nous nous arrêtons sur un Class C de 24,11 pieds de long (7,60 m.), de marque Thor Motor Coach, modèle Four Winds de 2015 sur châssis Ford E-350 avec seulement 10 000 Miles au compteur. Il faut mettre de côté ces idéaux sur l’empreinte carbone de notre voyage… le moteur est un Ford V10 de 6,8 litres de 305 Cv. consommant (soit disant) environ 12 Miles / Galon c-à-d plus d’une vingtaine de litres d’essence au 100 Km. Pour vous donner un ordre d’idée, le prix du Galon en Floride est de 2,30 $ soit à peu près 0,56 € le litre d’essence.
 
 De retour à l’hôtel, nous consultons les différents sites des autres concessionnaires que nous avions sélectionnés en amont sur Lakeland et Tampa et au final aucun ne propose de véhicule identique dans cette gamme de prix. Mardi, après une nuit qui nous a porté conseil, nous retournons à La Mesa RV et proposons à Todd "notre" prix. Après quelques allers-retours chez son manager (le manège habituel), on se met d’accord sur le prix… Mince on aurait dû proposer encore moins !!!! c’est le jeu…
 
@@ -38,7 +38,7 @@ Enfin, une dame nous prend en compte et nous présente un des employés du servi
 
 En revenant de la signature du contrat, tout a été « fixé », comme ils disent, et je pars au volant de notre Homezeroad tandis que Corinne suit avec la voiture de location. 
 
-L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte aspirante, un micro-onde, un frigo, un congélateur, un climatiseur, un chauffe-eau, une TV écran plat avec lecteur DVD, une génératrice, une bonbonne de Gaz (Propane) et une fosse septique.
+L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte aspirante, un micro-onde, un frigo, un congélateur, un climatiseur, un chauffe-eau, une TV écran plat avec lecteur DVD, une génératrice, une caméra de recul, une échelle de toit, une bonbonne de Gaz (Propane) et une fosse septique.
 
 ### Entraînement / châssis
 * Type de moteur : V10
