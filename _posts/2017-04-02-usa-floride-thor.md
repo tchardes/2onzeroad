@@ -80,7 +80,7 @@ Ce sont le photos du site vendeur, plus parlant sans toutes nos affaires.
 <img src="{{baseurl}}/assets/owner/photos/thor8.jpg" style="width:100%" />
 <img src="{{baseurl}}/assets/owner/photos/thor9.jpg" style="width:100%" />
 <img src="{{baseurl}}/assets/owner/photos/thor10.jpg" style="width:100%" />
-<img src="{{baseurl}}/assets/owner/photos/thor11.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/thor11.png" style="width:100%" />
 
 
 ## Cérémonie du fanion et baptême :
