@@ -6,7 +6,7 @@ parent-id:  2017-04-07-usa-floride
 
 date:       2017-04-06 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-thor.png"
+header-img: "assets/owner/blog/header/post-bg-thor.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-thor.png
 tags: []
 flickr-tag: ""
