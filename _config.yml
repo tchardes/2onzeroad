@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "27.407019, -80.324211"
-  name: "Fort Pierce, Floride, U.S.A"
-  date: "06 avril 17"
+  coordinates: "24.6582, -81.2782"
+  name: "Bahai Honda Key Floride, U.S.A"
+  date: "09 avril 17"
 
 # set the encoding to utf-8
 encoding: utf-8
