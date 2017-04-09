@@ -71,7 +71,7 @@ L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte as
 
 ## L'intérieur en photos :
 
-Ce sont le photos du site vendeur, plus parlant sans toutes nos affaires.
+Ce sont les photos du site vendeur, plus parlantes sans toutes nos affaires.
 
 <img src="{{baseurl}}/assets/owner/photos/thor5.jpg" style="width:100%" />  
 <img src="{{baseurl}}/assets/owner/photos/thor6.jpg" style="width:100%" />  
