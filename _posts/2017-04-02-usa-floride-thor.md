@@ -4,7 +4,7 @@ title:      "Thor de Floride, pas d'Asgard!"
 preview:    "Après de nombreuses heures, voire journées et même nuits à se poser des questions sur le type de... "
 parent-id:  2017-04-07-usa-floride
 
-date:       2017-04-06 12:00:00
+date:       2017-04-09 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-thor.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-thor.jpg
