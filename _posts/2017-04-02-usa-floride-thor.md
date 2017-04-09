@@ -65,22 +65,22 @@ Chauffe-eau Réservoir (gal / L): 6 / 22.
 
 ## L'extérieur en photos :
 
-<img src="{{baseurl}}/assets/owner/photos/thor1.jpg" style="width:100%" />
-<img src="{{baseurl}}/assets/owner/photos/thor2.jpg" style="width:100%" />
-<img src="{{baseurl}}/assets/owner/photos/thor3.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/thor1.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/thor2.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/thor3.jpg" style="width:100%" />  
 
 ## L'intérieur en photos :
 
 Ce sont le photos du site vendeur, plus parlant sans toutes nos affaires.
 
 
-<img src="{{baseurl}}/assets/owner/photos/thor5.jpg" style="width:100%" />
-<img src="{{baseurl}}/assets/owner/photos/thor6.jpg" style="width:100%" />
-<img src="{{baseurl}}/assets/owner/photos/thor7.jpg" style="width:100%" />
-<img src="{{baseurl}}/assets/owner/photos/thor8.jpg" style="width:100%" />
-<img src="{{baseurl}}/assets/owner/photos/thor9.jpg" style="width:100%" />
-<img src="{{baseurl}}/assets/owner/photos/thor10.jpg" style="width:100%" />
-<img src="{{baseurl}}/assets/owner/photos/thor11.png" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/thor5.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/thor6.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/thor7.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/thor8.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/thor9.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/thor10.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/thor11.png" style="width:100%" />  
 
 
 ## Cérémonie du fanion et baptême :
