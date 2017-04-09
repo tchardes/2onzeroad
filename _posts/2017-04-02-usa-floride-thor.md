@@ -38,7 +38,7 @@ Enfin une dame nous prend en compte et nous présente un des employés du servic
 
 En revenant de la signature du contrat tout a été « fixé » comme ils disent et je pars au volant de notre Homezeroad tandis que Corinne suit avec la voiture de location. 
 
-L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte aspirante, un micro-onde, un frigo, un congélateur, un climatiseur, un chauffe-eau, une TV écran plat avec lecteur DVD et une génératrice.
+L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte aspirante, un micro-onde, un frigo, un congélateur, un climatiseur, un chauffe-eau, une TV écran plat avec lecteur DVD, une génératrice, une bonbonne de Gaz (Propane) et une fosse septique.
 
 ### Entraînement / châssis
 * Type de moteur: V10
