@@ -36,7 +36,7 @@ Arrivés un peu en avance, on traine dans le magasin pour choisir les articles �
 
 Enfin, une dame nous prend en compte et nous présente un des employés du service technique qui parle très bien Français puisque Haïtien et installé aux USA depuis 30 ans. Nous passons toute l’après-midi à vérifier et apprendre le mode de fonctionnement de tous les organes et faisant réparer ce qui ne nous convient pas. Après d’âpres discussions, conforté par notre interprète, nous reviendrons dans 15 jours pour qu’il nous fixe un cache de l’extension qui est manquant. Ce sera également l'occasion de récupérer notre vraie plaque d'immatriculation.
 
-En revenant de la signature du contrat, tout a été « fixé », comme ils disent, et je pars au volant de notre Homezeroad tandis que Corinne suit avec la voiture de location. 
+En revenant de la signature du contrat, tout a été « fixé », comme ils disent, et je pars au volant de notre Homezeroad tandis que Corinne suit avec la voiture de location. Le soir même, nous nous posons à quelques kilomètres, sur le parking d’un Walmart (Auchan, Carrefour) dont certains acceptent les CC pour la nuit. C’est aussi très pratique car ils sont ouverts 24/24. De là, nous avons pu commencer l’ammémagement et l'approvisionnement de Thor.
 
 L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte aspirante, un micro-onde, un frigo, un congélateur, un climatiseur, un chauffe-eau, une TV écran plat avec lecteur DVD, une génératrice, une caméra de recul, une échelle de toit, une bonbonne de Gaz (Propane) et une fosse septique.
 
@@ -89,8 +89,6 @@ Nous avons organisé, en toute simplicité, une cérémonie non protocolaire de 
 Comme il est de coutume, dans le monde des voyageurs, de donner un nom à leur camping car, nous n’allons pas déroger à la règle et Corinne a choisi le nom de « THOR » s’il lui faut un prénom ce sera Hervé (RV - Recreativ Vehicle) espérons qu’il ne nous rende pas complètement marteau.
 
 <img src="{{baseurl}}/assets/owner/photos/Thor4.jpg" style="width:100%" />
-
-Le soir même, nous nous posons à quelques kilomètres, sur le parking d’un Walmart (Auchan, Carrefour) dont certains acceptent les CC pour la nuit. C’est aussi très pratique car ils sont ouverts 24/24. De là, nous avons pu commencer l’ammémagement et l'approvisionnement de Thor.
 
 Nous avions prévu un mois pour trouver notre bonheur et partir avec sur les routes, au final, cela aura été plus court, seulement 15 jours. 
 
