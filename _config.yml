@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "24.552063, -81.795930"
-  name: "Key West, Floride, U.S.A"
-  date: "10 avril 17"
+  coordinates: "25.166530, -80.378946"
+  name: "Key Largo, Floride, U.S.A"
+  date: "11 avril 17"
 
 # set the encoding to utf-8
 encoding: utf-8
