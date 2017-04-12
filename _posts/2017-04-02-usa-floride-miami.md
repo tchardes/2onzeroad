@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Miami sans \"Vice\" pour nous"
 preview:    "Après avoir traversé l’immense pont McArthur Causeway qui longe de nombreux ilots artificiels abritant des... "
-parent-id:  2017-04-07-usa-floride
+parent-id:  2017-04-07-usa-floride-mars
 
 date:       2017-04-02 12:00:00
 author:     "Thierry"
@@ -16,7 +16,7 @@ category: "blog"
 location: "25.778121, -80.131167"
 ---
 
-Voilà notre premier article de type Blog depuis notre départ. Il est consacré à Miami où nous avons passé trois journées. Nous avons profité de rouler encore avec notre voiture de location pour visiter tous les quartiers que nous avions au préalable sélectionnés depuis plusieurs forums et sites en fonction de nos centres d’intérêts.
+Voilà notre premier article de type Blog (couleur bleue) depuis notre départ. Il est consacré à Miami où nous avons passé trois journées. Nous avons profité de rouler encore avec notre voiture de location pour visiter tous les quartiers que nous avions au préalable sélectionnés depuis plusieurs forums et sites en fonction de nos centres d’intérêts.
 
 Depuis Fort Lauderdale, nous arrivons directement au sud de Miami par l'Interstate. Après avoir traversé l’immense pont McArthur Causeway qui longe de nombreux îlots artificiels abritant des résidences somptueuses, nous arrivons à South Beach sur Ocean Drive. La plus grosse difficulté est de trouver une place pour se garer. Toutes les places sont payantes, environ 4$ de l’heure. Deux systèmes de paiement, soit directement aux bornes où il faut rentrer la plaque d'immatriculation de son véhicule, soit depuis son smartphone via une application de l'opérateur.
 
