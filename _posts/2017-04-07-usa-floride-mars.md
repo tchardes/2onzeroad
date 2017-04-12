@@ -18,7 +18,7 @@ itinary: ""
 
 Voilà notre premier article de type carnet de route (couleur rouge). Il n’intéressera pas tout le monde c’est la raison pour laquelle nous avons voulu différencier les types d’articles postés sur le site. Son but est de retracer notre voyage en général, pas forcément dirigé vers un sujet bien particulier. Il couvrira toujours sur une période plus ou moins longue en fonction des événements. Cet article couvre la période du 24 mars au 7 avril 2017, c’est à dire du départ de la France jusqu’à la dépose de notre voiture de location et l’autonomie complète à bord de Thor.
 
-### Jour J
+### Jour J.
 
 Vendredi 24 mars 2017, c’est le jour du grand départ. André nous amène jusqu'à la gare TGV d’Avignon et nous voilà partis en direction de Roissy avec nos 60 Kg de bagages. On espère ne rien avoir oublié, je checkes pour la cinquantième fois les choses importantes que l’on devait faire et emporter… tout est OK… normalement. Une longue journée commence …
 
@@ -42,11 +42,11 @@ Lundi 27 mars, nous partons plein Nord en direction Port Sainte Lucie où se tro
 
 ### Logistique
 
-En attendant la finalisation de l’achat et la livraison, nous gravitons autour de Port Sainte Lucie et Fort Pierce en testant plusieurs Hôtels/Motels (Motel 6, America Best Value Inn, Day Inn) et restaurants. Nous avons essayer de tester un peu toutes les enseignes de restauration qui se trouvaient autour de nous, Américain, Italien, Chinois, Mexicain. On a toujours bien mangé même si parfois c’était surprenant. On se langui quand même de se faire à manger pour retrouver une nourriture plus saine.
+En attendant la finalisation de l’achat et la livraison, nous gravitons autour de Port Sainte Lucie et Fort Pierce en testant plusieurs Hôtels/Motels (Motel 6, America Best Value Inn, Day Inn) et restaurants. Les hôtels dans la même game de prix sont toujours de même standing, on aprécie les grands lits, la machine à glaçons toujours disponible à l'accueil et nous avons testé pour la première fois la machine à gauffres pour le petit déjeuner. Nous avons essayer de tester un peu toutes les enseignes de restauration qui se trouvaient autour de nous, typique américain, fast food, italien, chinois, mexicain. On a toujours bien mangé même si parfois c’était surprenant. On se langui quand même de se faire à manger pour retrouver une nourriture plus saine.
 
 ### Visites
 
-La région en soit n’est pas exceptionnelle mais nous baladons, faisons les magasins pour commencer à voir le type de nourriture que nous trouvons et commencer virtuellement à aménager notre future HomeZeRoad.
+La région en soit n’est pas exceptionnelle mais nous nous baladons, faisons les magasins pour commencer à voir le type de nourriture que nous trouvons et commencer virtuellement à aménager notre future HomeZeRoad.
 
 #### Musée National des Navy SEAL
 
