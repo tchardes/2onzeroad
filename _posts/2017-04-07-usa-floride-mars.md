@@ -62,7 +62,7 @@ Le musée est très bien fourni, dans le bâtiment central se trouve plusieurs s
 
 Nous avons également passé une journée dans un State Parc où nous avons pu profiter de la plage et d’une petite ballade au milieu de la végétation. Donnant sur l’Atlantique l’eau était quand même un peu froide pour se baigner. Toutefois nous avons fait une rencontre assez inattendue en marchant le long de la plage avec une **Limule Trilobite** qui tentait tant bien que mal de regagner le large. Je ne pensais pas que cela était si gros et le dessous a vraisembleblement servi de modèle à la bestiole dans Alien. N’ayant pas mon APN sur moi, je vous mets une photo de Wikipédia pour vous faire une idée.
 
-S'agissant d'un State Parc, l'entrée est payante, 
+S'agissant d'un State Parc, l'entrée est payante, 6 $ pour le véhicule et deux personnes. Vu l'infrastructure et l'entretien du site, ce n'est vraiment pas excessif. 
 
 <img src="{{baseurl}}/assets/owner/photos/entree inlet.jpg" style="width:100%" />  
 <img src="{{baseurl}}/assets/owner/photos/plage inlet.jpg" style="width:100%" />  
