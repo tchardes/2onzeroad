@@ -69,7 +69,8 @@ Nous avons également passé une journée dans un State Parc où nous avons pu p
 
 S'agissant d'un State Parc, l'entrée est payante, 6 $ pour le véhicule et deux personnes. Vu l'infrastructure et l'entretien du site, ce n'est vraiment pas excessif. 
 
-<img src="{{baseurl}}/assets/owner/photos/entree inlet.jpg" style="width:100%" />  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33747897315/in/photolist-TqbN7x-Tbnzc3-S8HSEs" title="Fort Pierce Inlet SP - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2923/33747897315_9fcd0b2d0d_k.jpg" width="2048" height="1152" alt="Fort Pierce Inlet SP - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <img src="{{baseurl}}/assets/owner/photos/plage inlet.jpg" style="width:100%" />  
 
 #### Fort Pierce Jetty Parc
