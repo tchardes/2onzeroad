@@ -52,7 +52,11 @@ La région en soit n’est pas exceptionnelle mais nous baladons, faisons les ma
 
 Sur la baie de Fort Pierce, nous visitons le musée national des Navy Seal. Très bel établissement tenu et géré par des anciens, encore très bien conservés, droits comme des i dans leur chemise au couleur de la Navy, les avant bras couverts de tatouages, bref respect.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33591910012/in/datetaken/" title="Musée Navy SEAL - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2894/33591910012_2b183a055b_k.jpg" width="2048" height="1152" alt="Musée Navy SEAL - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Le musée est très bien fourni, dans le bâtiment central se trouve plusieurs salles où sont exposés leurs armements de dotations (des râteliers permettent à tout en chacun de prendre les armes [démilitarisées] en main) et matériels au cours du temps, salle de projections, maquettes, petits véhicules, un hélicoptère puis out équipé. Un salle est dédiée aux objets saisies à l’ennemi sur les différents théâtres d’opérations et une grande vitrine est dédiée à la France (Normandie, Provence). A l’extérieur, tout autour, se trouve du matériel plus imposant comme de petits sous-marins, des embarcations et même deux  capsules provenant de missions Apollo. Les allées sont bordées de briques sur lesquelles sont gravées les noms des SEAL morts au combat.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33619079261/in/datetaken/" title="Musée Navy SEAL - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2807/33619079261_0f94301d83_k.jpg" width="2048" height="1152" alt="Musée Navy SEAL - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 #### Fort Pierce State Parc Inlet
 
