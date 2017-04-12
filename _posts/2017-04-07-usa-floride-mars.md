@@ -8,7 +8,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt-flo1.jpg
 tags: []
-country: USA
+country: Floride - USA
 category: "roadmap"
 flickr-tag: "Floride"
 location: "27.474253, -80.292273"
