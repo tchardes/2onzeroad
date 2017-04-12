@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:   "Roadtrip du 24 mars au 07 avril 2017"
-preview:    "..."
+preview:    "Vendredi 24 mars 2017, c’est le jour du grand départ. André nous amène jusqu'à la gare TGV d’Avignon et nous voilà..."
 
 date:       2017-04-07 12:00:00
 author:     "Thierry"
