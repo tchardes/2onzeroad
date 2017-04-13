@@ -16,7 +16,7 @@ itinary: ""
 
 ---
 
-Voilà notre premier article de type carnet de route (couleur rouge). Il n’intéressera pas tout le monde c’est la raison pour laquelle nous avons voulu différencier les types d’articles postés sur le site. Son but est de retracer notre voyage en général, pas forcément dirigé vers un sujet bien particulier. Il couvrira toujours sur une période plus ou moins longue en fonction des événements. Cet article couvre la période du 24 mars au 7 avril 2017, c’est à dire du départ de la France jusqu’à la dépose de notre voiture de location et l’autonomie complète à bord de Thor.
+Voilà notre premier article de type carnet de route (couleur rouge). Il n’intéressera pas tout le monde c’est la raison pour laquelle nous avons voulu différencier les types d’articles postés sur le site. Son but est de retracer notre voyage en général, pas forcément dirigé vers un sujet bien particulier. Il couvrira toujours sur une période plus ou moins longue en fonction des événements. Cet article couvre la période du 24 mars au 7 avril 2017, c’est-à-dire du départ de la France jusqu’à la dépose de notre voiture de location et l’autonomie complète à bord de Thor.
 
 ### Jour J.
 
@@ -44,29 +44,29 @@ Lundi 27 mars, nous partons plein Nord en direction Port Sainte Lucie où se tro
 
 ### Logistique
 
-En attendant la finalisation de l’achat et de la livraison, nous gravitons autour de Port Sainte Lucie et Fort Pierce en testant plusieurs Hôtels/Motels (Motel 6, America Best Value Inn, Day Inn) et restaurants. Les hôtels dans la même gamme de prix sont toujours de même standing, on apprécie les grands lits, la machine à glaçons toujours disponible à l'accueil et nous avons testé pour la première fois la machine à gauffres pour le petit déjeuner. Nous avons essayer de tester un peu toutes les enseignes de restauration qui se trouvaient autour de nous, typique américain, fast food, italien, chinois, mexicain. On a toujours bien mangé même si parfois c’était surprenant. On se languit quand même de se faire à manger pour retrouver une nourriture plus saine.
+En attendant la finalisation de l’achat et de la livraison, nous gravitons autour de Port Sainte Lucie et Fort Pierce en testant plusieurs Hôtels/Motels (Motel 6, America Best Value Inn, Day Inn) et restaurants. Les hôtels dans la même gamme de prix sont toujours de même standing, on apprécie les grands lits, la machine à glaçons toujours disponible à l'accueil et nous avons testé pour la première fois la machine à gaufres pour le petit déjeuner. Nous avons essayé de tester un peu toutes les enseignes de restauration qui se trouvaient autour de nous, typique américain, fast food, italien, chinois, mexicain. On a toujours bien mangé même si parfois c’était surprenant. On se languit quand même de se faire à manger pour retrouver une nourriture plus saine.
 
 Mention particulière pour deux chaines : 
 * Draft House où l'ambiance est typique américaine avec des écrans plats partout, beaucoup de bois et des plats très bons et très gouteux, si on fait l'effort d'éviter les burgers. Les toilettes arborrent un panneau "Clams" pour les filles et "Shrimp" pour les garçons ;
-* Denny's où nous avons mangé plusieurs genre de poëlées de légumes et viande servies dans des plats en fonte.
+* Denny's où nous avons mangé plusieurs sortes de poëlées de légumes et viande servies dans des plats en fonte.
 
 ### Visites
 
-La région en soit n’est pas exceptionnelle mais nous nous baladons, faisons les magasins pour commencer à voir quel type de nourriture peut nous convenir et commencer virtuellement à aménager notre future HomeZeRoad.
+La région en soit n’est pas exceptionnelle mais nous nous baladons, faisons les magasins pour commencer à voir quel type de nourriture peut nous convenir et commencer virtuellement à aménager notre futur HomeZeRoad.
 
 #### Musée National des Navy SEAL
 
-Sur la baie de Fort Pierce, nous visitons le musée national des Navy Seal. Très bel établissement tenu et géré par des anciens, encore très bien conservés, droits comme des i dans leur chemise au couleur de la Navy, les avant bras couverts de tatouages, bref respect.
+Sur la baie de Fort Pierce, nous visitons le musée national des Navy Seal. Très bel établissement tenu et géré par des anciens, encore très bien conservés, droits comme des i dans leur chemise aux couleurs de la Navy, les avant bras couverts de tatouages, bref respect.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33591910012/in/datetaken/" title="Musée Navy SEAL - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2894/33591910012_2b183a055b_k.jpg" width="2048" height="1152" alt="Musée Navy SEAL - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le musée est très bien fourni, dans le bâtiment central se trouvent plusieurs salles où sont exposés leurs armements de dotations (des râteliers permettent à tout un chacun de prendre les armes [démilitarisées] en main) et matériels au cours du temps, salle de projections, maquettes, petits véhicules, un hélicoptère tout équipé. Une salle est dédiée aux objets saisis à l’ennemi sur les différents théâtres d’opérations et une grande vitrine est dédiée à la France (Normandie, Provence). A l’extérieur, tout autour, se trouve du matériel plus imposant comme des petits sous-marins, des embarcations et même deux  capsules provenant de missions Apollo. Les allées sont bordées de briques sur lesquelles sont gravées les noms des SEAL morts au combat. (voir les autres photos dans la galerie).
+Le musée est très bien fourni, dans le bâtiment central se trouvent plusieurs salles où sont exposés leurs armements de dotations (des râteliers permettent à tout un chacun de prendre les armes [démilitarisées] en main) et matériels au cours du temps, salle de projections, maquettes, petits véhicules, un hélicoptère tout équipé. Une salle est dédiée aux objets saisis à l’ennemi sur les différents théâtres d’opérations et une grande vitrine est dédiée à la France (Normandie, Provence). A l’extérieur, tout autour, se trouve du matériel plus imposant comme de petits sous-marins, des embarcations et même deux capsules provenant de missions Apollo. Les allées sont bordées de briques sur lesquelles sont gravées les noms des SEAL morts au combat. (voir les autres photos dans la galerie).
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33619079261/in/datetaken/" title="Musée Navy SEAL - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2807/33619079261_0f94301d83_k.jpg" width="2048" height="1152" alt="Musée Navy SEAL - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 #### Fort Pierce State Parc Inlet
 
-Nous avons également passé une journée dans un State Parc où nous avons pu profiter de la plage et d’une petite balade au milieu de la végétation. Donnant sur l’Atlantique, l’eau était quand même un peu froide pour se baigner, seulement 21°C... Toutefois nous avons fait une rencontre assez inattendue en marchant le long de la plage avec une **Limule Trilobite** qui tentait tant bien que mal de regagner le large. Je ne pensais pas que cela était si gros et le dessous a vraisemblablement servi de modèle à la bestiole dans Alien. N’ayant pas mon APN sur moi, je vous mets une photo de Wikipédia pour vous faire une idée.
+Nous avons également passé une journée dans un State Parc où nous avons pu profiter de la plage et d’une petite balade au milieu de la végétation. Donnant sur l’Atlantique, l’eau était quand même un peu froide pour se baigner, seulement 21°C... Toutefois, nous avons fait une rencontre assez inattendue en marchant le long de la plage avec une **Limule Trilobite** qui tentait tant bien que mal de regagner le large. Je ne pensais pas que cela était si gros et le dessous a vraisemblablement servi de modèle à la bestiole dans Alien. N’ayant pas mon APN sur moi, je vous mets une photo de Wikipédia pour vous faire une idée.
 
 <img src="{{baseurl}}/assets/owner/photos/limules.jpg" style="width:100%" />  
 
@@ -78,8 +78,8 @@ S'agissant d'un State Parc, l'entrée est payante, 6 $ pour le véhicule et deux
 
 #### Fort Pierce Jetty Parc
 
-Un autre parc très agréable où nous avons passé une après-midi. De nombreuses personnes viennent flâner le long des quais agrémenté de bancs et balancelles, ainsi que de nombreux pêcheurs. Nous avons été surpris de voir fixées sur les rochers une bonne cinquantaiane de plaques mortuaires, certaines très vieilles. On pense qu'il s'agit de personnes qui ont souhaité que leur cendres soient éparpillées en mer. Après-midi tranquille.
+Un autre parc très agréable où nous avons passé une après-midi. De nombreuses personnes viennent flâner le long des quais agrémentés de bancs et balancelles, ainsi que de nombreux pêcheurs. Nous avons été surpris de voir, fixées sur les rochers, une bonne cinquantaine de plaques mortuaires, dont certaines très vieilles. On pense qu'il s'agit de personnes qui ont souhaitées que leurs cendres soient éparpillées en mer. Après-midi tranquille.
 
-### Poussez-vous du milieu….
+### Poussez-vous du milieu…
 
-Et oui, jusqu’à présent au cours de nos voyages, Corinne s’en est toujours bien sortie puisque c’est toujours moi qui ait conduit les voitures de location, qui plus est automatiques sur le continent américain. J’avais pris l’option deux conducteurs auprès d’Alamo, sachant très bien qu’il faudrait ramener la voiture tout en ayant le RV. Corinne s’est donc exercée sur petite route puis sur l’interstate pour apprivoiser ce type de conduite au demeurant hyper agréable et très facile. Le 7 avril, nous sommes donc repartis vers l’aéroport de Fort Lauderdale, Corinne à bord de la voiture de location et moi à bord de Thor. Voyage sans problème, voiture restituée en 30 secondes, nous voilà en totale autonomie…
+Et oui, jusqu’à présent au cours de nos voyages, Corinne s’en est toujours bien sortie puisque c’est toujours moi qui ai conduit les voitures de location, qui plus est automatiques sur le continent américain. J’avais pris l’option deux conducteurs auprès d’Alamo, sachant très bien qu’il faudrait ramener la voiture tout en ayant le RV. Corinne s’est donc exercée sur petite route puis sur l’interstate pour apprivoiser ce type de conduite au demeurant hyper agréable et très facile. Le 7 avril, nous sommes donc repartis vers l’aéroport de Fort Lauderdale, Corinne à bord de la voiture de location et moi à bord de Thor. Voyage sans problème, voiture restituée en 30 secondes, nous voilà en totale autonomie….
