@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "25.141276, -80.923982"
   name: "Flamingo - Everglades NP, Floride, U.S.A"
-  date: "13 avril 17"
+  date: "14 avril 17"
 
 # set the encoding to utf-8
 encoding: utf-8
