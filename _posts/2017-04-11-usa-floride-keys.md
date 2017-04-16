@@ -31,7 +31,7 @@ On roule plein Sud et à une cinquantaine de kilomètres avant Key West, juste a
 On passe notre dimanche dans un State Park « Honda Bahia » d’où l’on peut « admirer » un ancien pont très endommagé par le temps et une belle plage avec toutes les commodités des States Park. Un bon WiFi couvre le parking, ce qui nous permet de contacter la famille par Skype, relever notre courrier et mettre le site à jour. L’entrée de ce parc coute 10 $ pour le véhicule et nous deux.  
 
 
-Photo
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33924853012/in/datetaken/" title="Bahia Honda SP - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2860/33924853012_90122b3ceb_k.jpg" width="2048" height="1365" alt="Bahia Honda SP - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Key West 
 
