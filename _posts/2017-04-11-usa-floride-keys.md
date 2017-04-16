@@ -13,7 +13,7 @@ flickr-tag: "Keys"
 country: USA
 city: Key West
 category: "blog"
-location: ""
+location: "24.5538, -81.8013"
 ---
 
 ## Les Keys
