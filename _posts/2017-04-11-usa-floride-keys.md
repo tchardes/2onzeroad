@@ -16,8 +16,6 @@ category: "blog"
 location: "24.5538, -81.8013"
 ---
 
-## Les Keys
-
 J’ai toujours été très impressionné dans les films comme True Lie ou Licence to kill, par ces kilomètres de ponts qui relient toutes ces îles et îlots. Il fallait que cet archipel, qui finit les Etats-Unis au Sud-Est en fermant le golfe du Mexique et la Caraïbe, ait une importance hautement stratégique pour y investir autant en milliards de dollars en infrastructures, c’est tout bonnement hallucinant, quand on sait que cela fait 190 kilomètres de long.  
 
 En partant de Homestead au Sud de Miami par la US1, nous sommes assez vite sur les premiers ponts qui relient le continent à Key Largo, la première grande île. C’est samedi et rapidement nous roulons au pas. On se dit que ce n’était peut-être pas le bon jour pour cette destination très prisée. On mettra plus de 4 heures pour arriver jusqu’à la sortie de Key Largo, au final en raison d’un grave accident de la circulation routière. On commence un peu à s’inquiéter pour le bivouac du soir car tout est privé et il existe très peu d’accès vers la mer.   
