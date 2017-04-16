@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "27.7828, -82.7815"
   name: "Tampa, Floride, U.S.A"
-  date: "17 avril 17"
+  date: "17 avril  17"
 
 # set the encoding to utf-8
 encoding: utf-8
