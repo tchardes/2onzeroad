@@ -67,7 +67,7 @@ Key West est également la fin de la US 1 Hightway South et du coup, le point de
 
 Nous avons adoré le style architectural de Key West. C’est un mélange entre l'originalité des maisons caribéennes croisé avec la rigueur esthétique des cottages anglais. Très entretenues, les devants de porte et jardins sont magnifiques. Nombreuses abritent des pensions. Villes d’artistes, l’artère principale, Duval Street, regorge de très belles galeries d’arts. L’ambiance y est festive, de la musique Live sort des nombreux bars tous joliment décorés. L’un deux, le Captain Tony's saloon, a les plafonds recouverts de billets de 1 $ et de soutien-gorges !!!  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33951454481/in/datetaken/" title="Key West - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2924/33951454481_0f8aa8a031_k.jpg" width="2048" height="1152" alt="Key West - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33239148144/in/datetaken/" title="Key West - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2810/33239148144_e5c8a80af8_k.jpg" width="2048" height="1365" alt="Key West - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous avons fait une pose au Sloppy Joe’s Bar pour écouter quelques morceaux de blues tout en dégustant une vraie limonade et la spécialité d’ici, la Key Lime Pie, une sorte de cheesecake au citron, excellent.   
 
