@@ -24,7 +24,7 @@ Nous sommes en période sèche et à en croire les rangers du parc, une année e
 
 ### Royal Palm Visitor Center
 
-C’est notre premier arrêt sur la route de Flamingo. Nous y faisons deux trails, **Anhinga Trail** et **Gumbo Limbo Trail**. Je ne sais pas si le terme « Trail » à le même sens qu’en français, mais là, on peut plutôt parler d’une petite promenade.  
+C’est notre premier arrêt sur la route de Flamingo. Nous y faisons deux trails, **Anhinga Trail** et **Gumbo Limbo Trail**. Je ne sais pas si le terme « Trail » a le même sens qu’en français, mais là, on peut plutôt parler d’une petite promenade.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34042179406/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2923/34042179406_64673f451b_k.jpg" width="2048" height="1365" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
