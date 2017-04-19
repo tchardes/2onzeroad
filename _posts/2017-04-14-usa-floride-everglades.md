@@ -13,7 +13,7 @@ flickr-tag: "Everglades"
 country: USA
 city: Everglades
 category: "blog"
-location: "25.590969, -80.761030"
+location: "25.510555, -80.873661"
 ---
 
 Le 13 avril, nous partons de bonne heure de Homestead vers le parc des Everglades à une dizaine de Miles. Nous y accédons par l’entrée Est qui mène à Flamingo. Nous nous arrêtons au Visitor Center afin de récupérer un plan et quelques informations concernant la circulation des RV et poursuivons jusqu’à l’entrée, le péage, où nous achetons le pass **America is Beautiful**. Ce pass coute 80$ pour une année et donne un accès gratuit, au véhicule et à ses occupants, à tous les parcs nationaux des Etats-Unis, uniquement les nationaux.  
