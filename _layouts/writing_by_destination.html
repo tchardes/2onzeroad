@@ -11,12 +11,9 @@ title: destination archive
 {% endfor %}
 
 {% assign tagClean = page.destination %}
-{{tagClean}}
 {% if tagClean contains " - " %}
-    <div>contains</div>
     {% assign tagCleanArray = tagClean | split: " - "  %}
     {% assign tagClean = tagCleanArray | last  %}
-    {{tagClean}}
 {% endif %}
 
 <style type="text/css"> 
@@ -88,14 +85,14 @@ title: destination archive
         </div>
 
         <div class="col-md-4" style="text-align: right">
-             <h3><a style="color:white" href="{{ root_url }}/gallery/?tag={{page.tagClean}}">...vers la galerie</a> </h3>
+             <h3><a style="color:white" href="{{ root_url }}/gallery/?tag={{tagClean}}">...vers la galerie</a> </h3>
         </div>
     </div>
 
     <div class="row">
         <div class="col-md-12">
             <div id="flickr_badge_wrapper">
-                <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=14&display=latest&size=s&layout=x&source=user_tag&user=144140566@N03&tag={{page.tagClean}}"></script>
+                <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=14&display=latest&size=s&layout=x&source=user_tag&user=144140566@N03&tag={{tagClean}}"></script>
             </div>
         </div>
     </div>
