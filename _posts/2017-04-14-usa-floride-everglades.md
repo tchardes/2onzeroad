@@ -50,7 +50,7 @@ Le soir en rentrant sur Homestead, nous faisons un nouvel arrêt au Royal Palm p
 
 Ce trail est assez court, à peine 30 minutes. On sillonne sur un petit chemin goudronné entre une végétation dense est assez basse, typique des Everglades. Bon … tout est dit, rien de bien transcendant, nous n’avons observé aucune faune ou flore particulière.  
 
-### Pa-hay-okee Overlook 
+### Pa-hay-okee Overlook (Eaux Herbeuses)
 
 Ce nouvel arrêt nous amène sur un circuit à la découverte, pour le coup, de la « steppe » en lieu et place d’un marais. Immense étendue d’herbes hautes jaunies avec ça est là des bosquets qui cassent un peu l’horizontalité. Le circuit se compose de passerelles en bois avec un promontoire permettant de prendre un peu de hauteur.
 
