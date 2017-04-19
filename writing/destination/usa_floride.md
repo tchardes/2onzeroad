@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Floride"
+destination: "USA - Floride"
 permalink: "/writing/destination/usa-floride/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
