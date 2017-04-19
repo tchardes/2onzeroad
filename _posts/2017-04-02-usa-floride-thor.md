@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-thor.jpg
 tags: [transport]
 flickr-tag: ""
 country: USA - Floride
-city: Port Ste Lucie
+city: Pt Ste Lucie
 category: "blog"
 location: "27.361876, -80.408413"
 ---
