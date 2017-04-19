@@ -76,7 +76,7 @@ Certes, c’est une ville très touristique où les bateaux de croisière font e
 
 ### Islamorada
 
-En repartant vers le Nord, nous nous sommes arrêtés dans un petit port, Robbie’s of Islamorada. L’attraction du coin est de donner à manger à des Tarpons d’un bon mètre cinquante avec de petits poissons que les pêcheurs vendent 2$. Une personne est obligée, avec une grande perche, de faire partir les pélicans qui veulent faire un hold-up sur la friture… Autour, se trouve un marché artisanal bien sympathique.  
+En repartant vers le Nord, nous nous sommes arrêtés dans un petit port, Robbie’s of Islamorada. L’attraction du coin est de donner à manger à des Tarpons d’un bon mètre cinquante avec de petits poissons que les pêcheurs vendent 2$ le sac. Une personne est obligée, avec une grande perche, de faire partir les pélicans qui veulent faire un hold-up sur la friture… Autour, se trouve un marché artisanal bien sympathique.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33269770543/in/datetaken/" title="Islamorada - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2871/33269770543_87352c5c4d_k.jpg" width="2048" height="1152" alt="Islamorada - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
