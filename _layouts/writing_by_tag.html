@@ -5,6 +5,7 @@ title: tag archive
 
 
 {% assign tag = page.url | split:'/' | last %}
+{% assign tagClean = tag | replace: '-', ''  %}
 
 {% for dataTag in site.data.tags %}
     {% if dataTag.name == tag %}
@@ -27,7 +28,7 @@ title: tag archive
     <div class="row">
         <div class="col-md-12">
             <div id="flickr_badge_wrapper">
-                <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=14&display=latest&size=s&layout=x&source=user_tag&user=144140566@N03&tag={{tag}}"></script>
+                <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=14&display=latest&size=s&layout=x&source=user_tag&user=144140566@N03&tag={{tagClean}}"></script>
             </div>
         </div>
     </div>
