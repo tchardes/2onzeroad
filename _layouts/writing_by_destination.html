@@ -11,9 +11,12 @@ title: destination archive
 {% endfor %}
 
 {% assign tagClean = page.destination %}
+{{tagClean}}
 {% if tagClean contains " - " %}
+    <div>contains</div>
     {% assign tagCleanArray = tagClean | split: " - "  %}
     {% assign tagClean = tagCleanArray | last  %}
+    {{tagClean}}
 {% endif %}
 
 <style type="text/css"> 
