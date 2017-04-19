@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Missouri"
-permalink: "/writing/destination/usa_missouri/"
+destination: "USA - Missouri"
+permalink: "/writing/destination/usa-missouri/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

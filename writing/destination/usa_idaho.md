@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Idaho"
-permalink: "/writing/destination/usa_idaho/"
+destination: "USA - Idaho"
+permalink: "/writing/destination/usa-idaho/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

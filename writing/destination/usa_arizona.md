@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Arizona"
-permalink: "/writing/destination/usa_arizona/"
+destination: "USA - Arizona"
+permalink: "/writing/destination/usa-arizona/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

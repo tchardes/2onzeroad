@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Caroline Du Nord"
-permalink: "/writing/destination/usa_caroline_du_nord/"
+destination: "USA - Caroline Du Nord"
+permalink: "/writing/destination/usa-caroline_du_nord/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

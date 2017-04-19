@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_New Hampshire"
-permalink: "/writing/destination/usa_new-hampshire/"
+destination: "USA - New Hampshire"
+permalink: "/writing/destination/usa-new-hampshire/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

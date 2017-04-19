@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Pennsylvanie"
-permalink: "/writing/destination/usa_pennsylvanie/"
+destination: "USA - Pennsylvanie"
+permalink: "/writing/destination/usa-pennsylvanie/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

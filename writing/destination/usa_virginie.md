@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Virginie"
-permalink: "/writing/destination/usa_virginie/"
+destination: "USA - Virginie"
+permalink: "/writing/destination/usa-virginie/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

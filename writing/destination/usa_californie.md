@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Californie"
-permalink: "/writing/destination/usa_californie/"
+destination: "USA - Californie"
+permalink: "/writing/destination/usa-californie/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

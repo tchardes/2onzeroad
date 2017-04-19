@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Nouveau Mexique"
-permalink: "/writing/destination/usa_nouveau_mexico/"
+destination: "USA - Nouveau Mexique"
+permalink: "/writing/destination/usa-nouveau_mexico/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

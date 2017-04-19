@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Washington"
-permalink: "/writing/destination/usa_washington/"
+destination: "USA - Washington"
+permalink: "/writing/destination/usa-washington/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

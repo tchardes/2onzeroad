@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Alaska"
-permalink: "/writing/destination/usa_alaska/"
+destination: "USA - Alaska"
+permalink: "/writing/destination/usa-alaska/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

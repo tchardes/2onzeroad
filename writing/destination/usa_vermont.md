@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Vermont"
-permalink: "/writing/destination/usa_vermont/"
+destination: "USA - Vermont"
+permalink: "/writing/destination/usa-vermont/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

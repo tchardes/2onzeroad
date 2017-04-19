@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Arkansas"
-permalink: "/writing/destination/usa_arkansas/"
+destination: "USA - Arkansas"
+permalink: "/writing/destination/usa-arkansas/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

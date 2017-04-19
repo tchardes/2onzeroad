@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Maine"
-permalink: "/writing/destination/usa_maine/"
+destination: "USA - Maine"
+permalink: "/writing/destination/usa-maine/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

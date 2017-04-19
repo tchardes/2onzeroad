@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Visconsin"
-permalink: "/writing/destination/usa_visconsin/"
+destination: "USA - Visconsin"
+permalink: "/writing/destination/usa-visconsin/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

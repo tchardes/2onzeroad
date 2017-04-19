@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Montana"
-permalink: "/writing/destination/usa_montana/"
+destination: "USA - Montana"
+permalink: "/writing/destination/usa-montana/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Mississippi"
-permalink: "/writing/destination/usa_mississippi/"
+destination: "USA - Mississippi"
+permalink: "/writing/destination/usa-mississippi/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

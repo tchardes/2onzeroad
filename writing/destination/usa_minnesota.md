@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Minnesota"
-permalink: "/writing/destination/usa_minnesota/"
+destination: "USA - Minnesota"
+permalink: "/writing/destination/usa-minnesota/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

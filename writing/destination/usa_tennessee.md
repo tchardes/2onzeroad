@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Tennessee"
-permalink: "/writing/destination/usa_tennessee/"
+destination: "USA - Tennessee"
+permalink: "/writing/destination/usa-tennessee/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

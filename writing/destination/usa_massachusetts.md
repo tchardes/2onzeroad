@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Massachusetts"
-permalink: "/writing/destination/usa_massachusetts/"
+destination: "USA - Massachusetts"
+permalink: "/writing/destination/usa-massachusetts/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

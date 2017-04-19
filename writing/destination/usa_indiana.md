@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA_Indiana"
-permalink: "/writing/destination/usa_indiana/"
+destination: "USA - Indiana"
+permalink: "/writing/destination/usa-indiana/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 
