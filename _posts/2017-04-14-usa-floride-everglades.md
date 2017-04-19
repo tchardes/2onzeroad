@@ -26,7 +26,7 @@ Nous sommes en période sèche et à en croire les rangers du parc, une année e
 
 C’est notre premier arrêt sur la route de Flamingo. Nous y faisons deux trails, **Anhinga Trail** et **Gumbo Limbo Trail**. Je ne sais pas si le terme « Trail » à le même sens qu’en français, mais là, on peut plutôt parler d’une petite promenade.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34042179406/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2923/34042179406_64673f451b_k.jpg" width="2048" height="1365" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34042179406/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2923/34042179406_64673f451b_k.jpg" width="2048" height="1365" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 **Anhinga Trail** est certainement, en cette saison, le plus beau. Une structure bois sur pilotis et ponts dessine le parcours qui sillonne au milieu de marécages regorgeant de vie. Nous sommes surpris de la proximité avec la faune. Ce n’est pas un zoo mais bien un parc naturel. Les animaux, et on parle ici plutôt d’alligators, sont là, à un mètre de vous sans aucune protection. On espère juste que leur petit déjeuner a été suffisamment copieux pour leur enlever toute velléité de nous croquer.  
 
@@ -44,6 +44,8 @@ En repartant vers la route principale, nous faisons un détour pour voir un anci
 
 Le soir en rentrant sur Homestead, nous faisons un nouvel arrêt au Royal Palm pour voir le site au coucher du soleil et faire quelques photos supplémentaires.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33952684431/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2830/33952684431_a91fdcbbd2_k.jpg" width="2048" height="1152" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ### Pinelands
 
 Ce trail est assez court, à peine 30 minutes. On sillonne sur un petit chemin goudronné entre une végétation dense est assez basse, typique des Everglades. Bon … tout est dit, rien de bien transcendant, nous n’avons observé aucune faune ou flore particulière.  
@@ -58,13 +60,11 @@ Ce nouvel arrêt nous amène sur un circuit à la découverte, pour le coup, de 
 
 Ce trail a été tracé au milieu d’une petite forêt dominée par les Mahogany (Acajous). Très belle promenade entièrement sur ponts et passerelles en bois, malheureusement très peu de vie présente mais une ombre bien appréciable.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34042327646/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2905/34042327646_f516d8c0d5_k.jpg" width="2048" height="1365" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
-
 ### West Lake 
 
 Dernière balade en forêt et le long d’un grand lac, très agréable même si, là aussi, peu de faune à observer.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34082542885/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3940/34082542885_1961aa9920_k.jpg" width="2048" height="1152" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34042327646/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2905/34042327646_f516d8c0d5_k.jpg" width="2048" height="1365" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 
 ### Flamingo
 
@@ -86,5 +86,7 @@ Un guide ne cessera de commenter tout au long de la visite. En raison de son dé
 En fin d’après-midi, nous repartons en direction Naples et quittons les Everglades après une halte dans un village Indien « Mickosuchee Cultural Center ». Ils sont très présents dans la zone et vivent un peu à l’écart pour préserver leur mode de vie et leurs traditions pourtant ils exploitent, à leur manière, le tourisme également. Nous n’avons pas pris le traditionnel airboat, estimant que la zone était trop sèche et que le tour se serait limité à circuler sur les grands canaux.
 
 Deux jours fabuleux au contact de la faune dans ce magnifique parc qui doit être à voir également en saison humide. C’est assez inouï de circuler et d’observer, le long de la route, alligators, tortues, serpents. S’aventurer de quelques mètres hors d’un axe peut s’avérer périlleux. Heureusement, nous avons les toilettes dans notre HomeZeRoad…
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34042436206/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2949/34042436206_48d4e898c1_k.jpg" width="2048" height="1152" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Ce parc, est de plus en plus contraint entre les extensions urbaines et agricoles. En 2010, l’UNESCO l'a inscrit sur sa liste du patrimoine en péril en raison de "la dégradation continue de son écosystème aquatique ». Ce parc avait déjà été inscrit entre 1993 et 2007 sur la liste des sites menacés à cause de la grande quantité d'eau déviée vers les zones urbaines, ce qui a provoqué une sécheresse dans les marais.
