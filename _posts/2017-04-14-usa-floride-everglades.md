@@ -85,6 +85,8 @@ Un guide ne cessera de commenter tout au long de la visite. En raison de son dé
 
 En fin d’après-midi, nous repartons en direction Naples et quittons les Everglades après une halte dans un village Indien « Mickosuchee Cultural Center ». Ils sont très présents dans la zone et vivent un peu à l’écart pour préserver leur mode de vie et leurs traditions pourtant ils exploitent, à leur manière, le tourisme également. Nous n’avons pas pris le traditionnel airboat, estimant que la zone était trop sèche et que le tour se serait limité à circuler sur les grands canaux.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34016389601/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2942/34016389601_34b50af47b_k.jpg" width="2048" height="1152" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Deux jours fabuleux au contact de la faune dans ce magnifique parc qui doit être à voir également en saison humide. C’est assez inouï de circuler et d’observer, le long de la route, alligators, tortues, serpents. S’aventurer de quelques mètres hors d’un axe peut s’avérer périlleux. Heureusement, nous avons les toilettes dans notre HomeZeRoad…
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34042436206/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2949/34042436206_48d4e898c1_k.jpg" width="2048" height="1152" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
