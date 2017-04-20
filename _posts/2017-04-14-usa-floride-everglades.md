@@ -8,7 +8,7 @@ date:       2017-04-14 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-everglades.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-everglades.jpg
-tags: [nature, faune, parc-naturel]
+tags: [nature, faune, parc-naturel, unesco]
 flickr-tag: "Everglades"
 country: USA - Floride
 city: Everglades
@@ -48,17 +48,17 @@ Le soir en rentrant sur Homestead, nous faisons un nouvel arrêt au Royal Palm p
 
 ### Pinelands
 
-Ce trail est assez court, à peine 30 minutes. On sillonne sur un petit chemin goudronné entre une végétation dense est assez basse, typique des Everglades. Bon … tout est dit, rien de bien transcendant, nous n’avons observé aucune faune ou flore particulière.  
+Ce trail est assez court, à peine 30 minutes. On sillonne sur un petit chemin goudronné entre une végétation dense et assez basse, typique des Everglades. Bon… tout est dit, rien de bien transcendant, nous n’avons observé aucune faune ou flore particulière.  
 
 ### Pa-hay-okee Overlook (Eaux Herbeuses)
 
-Ce nouvel arrêt nous amène sur un circuit à la découverte, pour le coup, de la « steppe » en lieu et place d’un marais. Immense étendue d’herbes hautes jaunies avec ça est là des bosquets qui cassent un peu l’horizontalité. Le circuit se compose de passerelles en bois avec un promontoire permettant de prendre un peu de hauteur.
+Ce nouvel arrêt nous amène sur un circuit à la découverte, pour le coup, de la « steppe » en lieu et place d’un marais. Immense étendue d’herbes hautes jaunies avec ça et là des bosquets qui cassent un peu l’horizontalité. Le circuit se compose de passerelles en bois avec un promontoire permettant de prendre un peu de hauteur.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34082542885/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3940/34082542885_1961aa9920_k.jpg" width="2048" height="1152" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Mahogany Hammock 
 
-Ce trail a été tracé au milieu d’une petite forêt dominée par les Mahogany (Acajous). Très belle promenade entièrement sur ponts et passerelles en bois, malheureusement très peu de vie présente mais une ombre bien appréciable.  
+Ce trail a été tracé au milieu d’une petite forêt dominée par les Mahogany (Acajous). Très belle promenade entièrement sur ponts et passerelles en bois, malheureusement très peu de vie présente mais un ombrage bien appréciable.  
 
 ### West Lake 
 
@@ -68,7 +68,7 @@ Dernière balade en forêt et le long d’un grand lac, très agréable même si
 
 ### Flamingo
 
-Voilà la fin de la route qui nous a conduite plein Sud au bord de la mer, qui est quand même très saumâtre. Après le Visitor Center, nous faisons un petit tour dans le complexe qui est relativement désert et en manque d’activité. On est bien hors saison.  
+Voilà la fin de la route qui nous a conduite plein Sud au bord de la mer, où l'eau est quand même très saumâtre. Après le Visitor Center, nous faisons un petit tour dans le complexe qui est relativement désert et en manque d’activité. On est bien hors saison.  
 
 De retour sur Homestead, nous croisons la route, ce qui nous semble être un boa constrictor qui tient pratiquement une voie. Etant dans la circulation, nous n’avons pu nous arrêter.  
 
@@ -77,17 +77,17 @@ Le 14 avril, nous quittons définitivement la région de Miami pour la côte Oue
 
 ## Shark Valley
 
-Le site abrite un Visitor Center depuis lequel une grande balade est possible en « Tram » (petit train) ou en louant des vélos. Nous prenons l’option motorisée et partons pour une balade de 2 heures, alternant plaine et zone boisée. Sur le trajet, nous voyons des alligators « enfermés » dans une petite mare qui atteste bien de cette période de sécheresse. A mi-parcours, se dresse un immense observatoire en béton qui permet d’avoir une vue panoramique à 360°. A sa base, une grande zone humide regorge de vie. Sur le trajet pour regagner le tram, nous avons croisé deux serpents qui souhaitaient traverser la route. Le retour se fait en longeant un canal ou une rivière où l’on fera plusieurs stops pour observer jeunes alligators, tortues, oiseaux… .  
+Le site abrite un Visitor Center depuis lequel une grande balade est possible en « Tram » (petit train) ou en louant des vélos. Nous prenons l’option motorisée et partons pour une balade de 2 heures, alternant plaine et zone boisée. Sur le trajet, nous voyons des alligators "enfermés" dans de petites mares qui attestent bien de cette période de sécheresse. A mi-parcours, se dresse un immense observatoire en béton qui permet d’avoir une vue panoramique à 360°. A sa base, une grande zone humide regorge de vie. Sur le trajet pour regagner le tram, nous avons croisé deux serpents qui souhaitaient traverser la route. Le retour se fait en longeant un canal ou une rivière où l’on fera plusieurs stops pour observer jeunes alligators, tortues, oiseaux….  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33952543641/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2881/33952543641_218effede1_k.jpg" width="2048" height="1152" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Un guide ne cessera de commenter tout au long de la visite. En raison de son débit, on ne captera que quelques mots par ci par là. Très belle visite.
+Le guide du circuit ne cessera de commenter tout au long de la visite. En raison de son débit, on ne captera que quelques mots par ci par là. Très belle visite en tout cas.
 
-En fin d’après-midi, nous repartons en direction Naples et quittons les Everglades après une halte dans un village Indien « Mickosuchee Cultural Center ». Ils sont très présents dans la zone et vivent un peu à l’écart pour préserver leur mode de vie et leurs traditions pourtant ils exploitent, à leur manière, le tourisme également. Nous n’avons pas pris le traditionnel airboat, estimant que la zone était trop sèche et que le tour se serait limité à circuler sur les grands canaux.
+En fin d’après-midi, nous repartons en direction Naples et quittons les Everglades après une halte dans un village Indien « Mickosuchee Cultural Center ». Ils sont très présents dans la zone avec les indiens Séminoles et vivent un peu à l’écart pour préserver leur mode de vie et leurs traditions pourtant ils exploitent, à leur manière, le tourisme également. Nous n’avons pas pris le traditionnel airboat, estimant que la zone était trop sèche et que le tour se serait limité à circuler sur les grands canaux.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34016389601/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2942/34016389601_34b50af47b_k.jpg" width="2048" height="1152" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Deux jours fabuleux au contact de la faune dans ce magnifique parc qui doit être à voir également en saison humide. C’est assez inouï de circuler et d’observer, le long de la route, alligators, tortues, serpents. S’aventurer de quelques mètres hors d’un axe peut s’avérer périlleux. Heureusement, nous avons les toilettes dans notre HomeZeRoad…
+Deux jours fabuleux au contact de la faune dans ce magnifique parc qui doit être à voir également en saison humide. C’est assez inouï de circuler et d’observer, le long de la route, alligators, tortues, serpents. S’aventurer de quelques mètres hors d’un axe peut s’avérer périlleux. Heureusement, nous avons les toilettes dans notre HomeZeRoad….
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34042436206/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2949/34042436206_48d4e898c1_k.jpg" width="2048" height="1152" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
