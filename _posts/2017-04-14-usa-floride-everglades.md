@@ -48,7 +48,7 @@ Le soir en rentrant sur Homestead, nous faisons un nouvel arrêt au Royal Palm p
 
 ### Pinelands
 
-Ce trail est assez court, à peine 30 minutes. On sillonne sur un petit chemin goudronné entre une végétation dense et assez basse, typique des Everglades. Bon… tout est dit, rien de bien transcendant, nous n’avons observé aucune faune ou flore particulière.  
+Ce trail est assez court, à peine 30 minutes. C'est la durée moyenne de tous les trails environ. On sillonne sur un petit chemin goudronné entre une végétation dense et assez basse, typique des Everglades. Bon… tout est dit, rien de bien transcendant, nous n’avons observé aucune faune ou flore particulière.  
 
 ### Pa-hay-okee Overlook (Eaux Herbeuses)
 
