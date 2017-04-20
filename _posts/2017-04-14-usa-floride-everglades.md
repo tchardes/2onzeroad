@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Les Everglades"
+title:      "Parc des everglades"
 preview:    "Nous nous arrêtons au Visitor Center afin de récupérer un plan et quelques informations concernant la circulation des RV et... "
 parent-id:  2017-04-07-usa-floride-mars
 
@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-everglades.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-everglades.jpg
 tags: [nature, faune, parc-naturel, unesco]
-flickr-tag: "Parc des Everglades"
+flickr-tag: "Everglades"
 country: USA - Floride
 city: Everglades
 category: "blog"
