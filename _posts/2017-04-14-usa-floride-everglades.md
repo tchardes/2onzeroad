@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Parc des everglades"
+title:      "Parc des Everglades"
 preview:    "Nous nous arrêtons au Visitor Center afin de récupérer un plan et quelques informations concernant la circulation des RV et... "
 parent-id:  2017-04-07-usa-floride-mars
 
