@@ -52,7 +52,7 @@ Ce trail est assez court, à peine 30 minutes. C'est la durée moyenne de tous l
 
 ### Pa-hay-okee Overlook (Eaux Herbeuses)
 
-Ce nouvel arrêt nous amène sur un circuit à la découverte, pour le coup, de la « steppe » en lieu et place d’un marais. Immense étendue d’herbes hautes jaunies avec ça et là des bosquets qui cassent un peu l’horizontalité. Le circuit se compose de passerelles en bois avec un promontoire permettant de prendre un peu de hauteur.
+Ce nouvel arrêt nous amène sur un circuit à la découverte, pour le coup, de la "steppe" en lieu et place d’un marais. Immense étendue d’herbes hautes jaunies avec ça et là des bosquets qui cassent un peu l’horizontalité. Le circuit se compose de passerelles en bois avec un promontoire permettant de prendre un peu de hauteur.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34082542885/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3940/34082542885_1961aa9920_k.jpg" width="2048" height="1152" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -91,4 +91,4 @@ Deux jours fabuleux au contact de la faune dans ce magnifique parc qui doit êtr
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34042436206/in/datetaken/" title="Everglades - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2949/34042436206_48d4e898c1_k.jpg" width="2048" height="1152" alt="Everglades - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Ce parc est de plus en plus contraint entre les extensions urbaines et agricoles. En 2010, l’UNESCO l'a inscrit sur sa liste du patrimoine en péril en raison de "la dégradation continue de son écosystème aquatique ». Ce parc avait déjà été inscrit entre 1993 et 2007 sur la liste des sites menacés à cause de la grande quantité d'eau déviée vers les zones urbaines, ce qui a provoqué une sécheresse dans les marais.
+Ce parc est de plus en plus contraint entre les extensions urbaines et agricoles. En 2010, l’UNESCO l'a inscrit sur sa liste du patrimoine en péril en raison de "la dégradation continue de son écosystème aquatique". Ce parc avait déjà été inscrit entre 1993 et 2007 sur la liste des sites menacés à cause de la grande quantité d'eau déviée vers les zones urbaines, ce qui a provoqué une sécheresse dans les marais.
