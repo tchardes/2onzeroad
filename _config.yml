@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "27.361866, -80.408456"
-  name: "Port Sainte Lucie, Floride, U.S.A"
-  date: "20 avril 2017"
+  coordinates: "29.221910, -81.005805"
+  name: "Daytona, Floride, U.S.A"
+  date: "22 avril 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
