@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "29.897877, -81.311535"
-  name: "DSaint Augustine, Floride, U.S.A"
+  name: "Saint Augustine, Floride, U.S.A"
   date: "23 avril 2017"
 
 # set the encoding to utf-8
