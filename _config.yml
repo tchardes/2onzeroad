@@ -3,8 +3,8 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "29.897877, -81.311535"
-  name: "Saint Augustine, Floride, U.S.A"
+  coordinates: "32.777482, -80.146544"
+  name: "Charleston, Caroline du Sud, U.S.A"
   date: "23 avril 2017"
 
 # set the encoding to utf-8
