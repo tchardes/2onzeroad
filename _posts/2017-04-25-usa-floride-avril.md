@@ -22,7 +22,7 @@ Voilà notre deuxième et dernier article de type carnet de route (couleur rouge
 
 Après avoir déposer notre voiture de location, nous repartons vers le Sud par l’US 1 Highway. Il est déjà tard et nous décidons de nous poser sur le parking d’un Walmart du quartier nord de Miami. Aucun autre RV n’est stationné, je demande à un ramasseur de chariots si nous pouvons rester là et il acquiesce. Je fais un petit tour de sécurité dans le coin et en dehors de quelques homeless, ça à l’air calme.  
 
-### 08 avril
+### 08 au 11 avril
 
 Le lendemain nous partons direction Les Keys. C’est un peu la période d’apprentissage de la conduite de Thor. L’engin se conduit comme une voiture si ce n’est le gabarit, je vais en faire rapidement les frais, en raison de la capucine, excroissance au dessus de la cabine qui abrite un lit. En effet, on n’a aucune vue depuis le poste de pilotage sur le haut du toit. Concernant la boite automatique, la seule chose un peu troublante et l’absence totale de frein moteur. Il faut vraiment prendre l’habitude d’appuyer sur les freins pour s’arrêter.  
 
