@@ -20,7 +20,7 @@ Allo Houston ici Thor !!!!
 
 Direction Cap Canaveral, non pas pour un décollage de Thor vers l’au-delà et l’infini, on n’a même pas fini le tour de la Floride, mais pour visiter le Kennedy Space Center, la NASA.
 
-Même si l’on pourrait croire arriver dans un parc d’attraction, il n’en est rien, même si l'organisation est à l’américaine. Tout roule et en 10 minutes nous sommes à l’entrée pour prendre nos billets (Parking 15$, entrées 107$, repas  env. 20 $). On se croirait un peu à Toulouse à la cité de l’espace… mais en plus grand et avec plus de fusée.
+Même si l’on pourrait croire arriver dans un parc d’attraction, il n’en est rien, même si l'organisation est à l’américaine. Tout roule et en 10 minutes nous sommes à l’entrée pour prendre nos billets. On se croirait un peu à Toulouse à la cité de l’espace… mais en plus grand et avec plus de fusée.
 
 Ce « parc » retrace les grandes heures de la conquête spatiale américaine. Il est à la gloire de ces grands astronautes qui ont fait rêver tant de personnes à travers toute la planète ; d’ailleurs, le premier bâtiment en rentrant leur est entièrement dédié. Il faut bien une journée compléte pour en faire le tour pour peu que l'on s'intéresse au sujet. Une brochure avec plan est guide en français à centre d'information ansi que des audiophones.
 
@@ -67,3 +67,10 @@ Appolo / Saturn V Center
 En cours de route, le bus nous dépose Appolo/Saturn V Center, où l’on en apprend d’avantage sur la course entre les américains et les russes pour la conquête spatiale et le premier pas sur la lune: film d’introduction, reconstitution du centre de contrôle d’Appolo 8, avant de découvrir dans une grande salle d’exposition la fusée Saturn V, qui transportait les capsules Appolo, et enfin le Lunar Theater, qui reconstitue les premiers pas de l’homme sur la Lune.
 
 C’est également depuis cette base que l’on peut observer les décollages des fusées, lorsqu’il y en a. Le bus tour dure au total environs 2 heures (45 minutes de bus et 1h15 pour visiter le centre).
+
+
+
+
+
+
+(Parking 15$, entrées 107$, repas  env. 20 $)
