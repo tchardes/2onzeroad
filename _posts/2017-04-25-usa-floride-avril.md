@@ -11,8 +11,8 @@ tags: []
 country: USA - Floride
 category: "roadmap"
 flickr-tag: "Floride"
-location: "26.656032, -80.580994"
-itinary: "floride1.json"
+location: "28.675395, -81.994826"
+itinary: "floride2.json"
 
 ---
 
