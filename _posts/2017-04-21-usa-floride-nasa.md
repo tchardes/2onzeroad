@@ -73,7 +73,7 @@ Tout autour et sur plusieurs étages, des expositions interactives permettent d�
 
 Toutes les 15 minutes, une armada de bus vous embarque pour une visite des sites de montage et de lancement des différentes fusées. Cette visite dure, en tout, plus de deux heures. Le chauffeur sert également de guide et commente toute la promenade. Malheureusement, aucun arrêt n’est organisé sur le parcours en dehors du Apollo Center. Les vitres étant un peu sales, je n’ai pu faire aucune photo.  
 
-Toutefois, on passe devant le grand bâtiment “Vehicle Assembly Building” que l’on voit souvent à la télé qui arbore un immense drapeau américain et le sigle de la NASA où les fusées sont assemblées. Le “véhicule” à chenille, gigantesque, permet d'acheminer, grâce à un long chemin en gravier, les fusées en position verticale jusqu'à leur pas de tir. Etant en pleine nature typique de la Floride, marécageuse, on peut apercevoir, durant le parcours, de nombreux alligators prendre le soleil.  
+Toutefois, on passe devant le grand bâtiment “Vehicle Assembly Building” que l’on voit souvent à la télé qui arbore un immense drapeau américain et le sigle de la NASA où les fusées sont assemblées. Le “Crawler-Transporter" véhicule à chenille construit à deux exemplaires, gigantesque de 2700 tonnes, permet d'acheminer très lentement, grâce à un long chemin en gravier, les fusées en position verticale jusqu'à leur pas de tir. Ces 16 moteurs électriques alimentés par 6 moteurs de 2750Cv consomment 600 L. de gazole à l'heure. Thor est battu !!!. Etant en plein biotope typique de la Floride, on peut apercevoir, durant le parcours, de nombreux alligators prendre le soleil.   
 
 
 * Appolo - Saturn V Center  
