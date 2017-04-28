@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-nasa.jpg
 tags: [histoire, technologie, culturel, transport]
 flickr-tag: "NASA"
 country: USA - Floride
-city: Cap Canaveral
+city: Titusville
 category: "blog"
 location: "28.524458, -80.681116"
 ---
