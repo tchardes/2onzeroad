@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "N.A.S.A."
-preview:    "... "
+preview:    "Allo Houston ici Thor !!!! Direction Cap Canaveral, non pas pour un décollage de Thor vers l’au-delà et l’infini, on n’a même pas fini le tour... "
 parent-id:  2017-04-07-usa-floride-mars
 
 date:       2017-04-21 12:00:00
