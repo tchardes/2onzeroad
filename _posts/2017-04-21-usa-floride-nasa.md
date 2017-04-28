@@ -25,6 +25,8 @@ Même si l’on pourrait croire arriver dans un parc d’attraction, il n’en e
 
 Ce « parc » retrace les grandes heures de la conquête spatiale américaine. Il est à la gloire de ces grands astronautes qui ont fait rêver tant de personnes à travers toute la planète ; d’ailleurs, le premier bâtiment en rentrant leur est entièrement dédié. Il faut bien une journée complète pour en faire le tour pour peu que l’on s’intéresse au sujet. Une brochure avec plan est guide en français à centre d’information ainsi que des audiophones.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33498420673/in/datetaken/" title="Kennedy Space Center - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2851/33498420673_810c973c79_k.jpg" width="2048" height="1152" alt="Kennedy Space Center - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
 
 Les anciens astronaute sont toujours très présents pour la NASA, ils animent des discussions à l”Astronaut Encounter” et “Mission Status Briefing” et on peut même, moyennant un supplément, prendre son déjeuner avec l’un d’entre eux. Mieux vaut maitriser l’anglais.  
 
