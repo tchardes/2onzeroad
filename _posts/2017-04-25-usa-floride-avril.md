@@ -16,4 +16,4 @@ itinary: "floride2.json"
 
 ---
 
-Voilà notre premier article de type carnet de route (couleur rouge). 
+Voilà notre deuxième et dernier article de type carnet de route (couleur rouge) pour la Floride. 
