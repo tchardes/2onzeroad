@@ -59,7 +59,7 @@ Hall pas très bien réussi à mon avis, une animatrice explique, avec à l’ap
 
 * La Navette Spatiale (Space Shuttle)  
 
-C’est le hall à ne pas rater, ce qui parait difficile puisque à l’entrée a été positionné le lanceur de navette qui est assez imposant. Les américains ont le sens du spectacle. On assiste d’abord à un petit film d’introduction sur l’histoire de la navette Spatiale. A la fin du film la lumière arrive depuis l’arrière de l’écran et on commence à entrevoir la Navette Atlantis, l’écran se lève et on arrive dans une immense salle ou la Navette Atlantis est en son centre. Effet garanti.  
+C’est le hall à ne pas rater, ce qui parait difficile puisque à l’entrée a été positionné le lanceur de navette qui est assez imposant. Les américains ont le sens du spectacle. On assiste d’abord à un petit film d’introduction sur l’histoire de la navette Spatiale. A la fin du film, la lumière arrive depuis l’arrière de l’écran et on commence à entrevoir la Navette Atlantis, l’écran se lève et on arrive dans une immense salle où la Navette Atlantis est en son centre. Effet garanti.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33923805140/in/datetaken/" title="Kennedy Space Center - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2874/33923805140_c0c24d7b51_k.jpg" width="2048" height="1152" alt="Kennedy Space Center - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -82,7 +82,7 @@ En cours de route, nous faisons un arrêt à **l'Apollo/Saturn V Center**. Immen
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34307929095/in/datetaken/" title="Kennedy Space Center - Floride - [USA]"><img src="https://c1.staticflickr.com/5/4185/34307929095_e921ca61aa_k.jpg" width="2048" height="1152" alt="Kennedy Space Center - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-A l’issue de la visite, on remonte dans un autre bus qui nous ramène au Space Center. Avec le hall consacré à la navette spatiale, certainement les deux lieux qui nous ont le plus intéressé. Superbe journée qui fait revivre des instants et rappelle des images de notre jeunesse.
+A l’issue de la visite, on remonte dans un autre bus qui nous ramène au Space Center. Avec le hall consacré à la navette spatiale, ce sont certainement les deux lieux qui nous ont le plus intéressé. Superbe journée qui fait revivre des instants et rappelle des images de notre jeunesse.
 
 ### Les chiffres en 2017  
 
