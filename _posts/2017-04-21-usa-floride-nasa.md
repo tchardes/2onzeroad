@@ -76,7 +76,7 @@ Toutefois, on passe devant le grand bâtiment **“Vehicle Assembly Building”*
 
 * Appolo - Saturn V Center  
 
-En cours de route, nous faisons un arrêt à **l'Apollo/Saturn V Center**. Immense hall très pédagogique, où l’on nous montre la course entre les américains et les russes pour la conquête spatiale et le premier pas sur la lune, Une reconstitution du centre de contrôle et simulation décollage d’Apollo 8, avant de découvrir dans une grande salle d’exposition la fusée Saturn V, lanceur du programme Apollo, et enfin le Lunar Theater, qui reconstitue les premiers pas de l’homme sur la Lune. Un rover lunaire et le module lunaire sont présents, tous les écussons des différentes missions Apollo sont accrochés au plafond. 
+En cours de route, nous faisons un arrêt à **l'Apollo/Saturn V Center**. Immense hall très pédagogique, où l’on nous montre la course entre les américains et les russes pour la conquête spatiale et le premier pas sur la lune. Une reconstitution du centre de contrôle fait revivre une simulation du décollage d’Apollo 8, avant de découvrir dans une grande salle d’exposition la fusée Saturn V, lanceur du programme Apollo, et enfin le Lunar Theater, qui reconstitue les premiers pas de l’homme sur la Lune. Un rover lunaire et le module lunaire sont présents, tous les écussons des différentes missions Apollo sont accrochés au plafond. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33466200184/in/datetaken/" title="Kennedy Space Center - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2864/33466200184_2247a383e2_k.jpg" width="2048" height="1152" alt="Kennedy Space Center - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
