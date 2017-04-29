@@ -20,7 +20,7 @@ Voilà notre deuxième et dernier article de type carnet de route (couleur rouge
 
 ### 07 avril 2017
 
-Après avoir déposer notre voiture de location, nous repartons vers le Sud par l’US 1 Highway. Il est déjà tard et nous décidons de nous poser sur le parking d’un Walmart du quartier nord de Miami. Aucun autre RV n’est stationné, je demande à un ramasseur de chariots si nous pouvons rester là et il acquiesce. Je fais un petit tour de sécurité dans le coin et en dehors de quelques homeless, ça à l’air calme.  
+Après avoir déposer notre voiture de location, nous repartons vers le Sud par l’US 1 Highway. Il est déjà tard et nous décidons de nous poser sur le parking d’un Walmart du quartier nord de Miami. Aucun autre RV n’est stationné, je demande à un ramasseur de chariots si nous pouvons rester là pour la nuit et il acquiesce. Je fais un petit tour de sécurité dans le coin et en dehors de quelques homeless, ça à l’air calme.  
 
 ### 08 au 11 avril
 
