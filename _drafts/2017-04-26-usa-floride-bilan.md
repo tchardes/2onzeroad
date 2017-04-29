@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:   "Bilan de la floride"
+title:   "Bilan de la Floride"
 preview:    "Et bien voilà, un mois que nous sommes arrivés en Floride et c’est l’heure de faire un rapide bilan avant de renter en..."
 
 date:       2017-04-26 12:00:00
