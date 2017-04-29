@@ -473,6 +473,7 @@ img::-moz-selection {
 }
 
 .post-preview-category div a {
+  white-space: nowrap;
   padding:3px;  
   color:white !important;
   text-decoration: none;
@@ -515,6 +516,10 @@ img::-moz-selection {
   background-color: rgb(45, 124, 166);
 }
 
+.post-preview-meta-bilan {
+  background-color: rgb(56, 163, 83);
+}
+
 .post-preview-image-roadmap {
   border-right: solid 10px rgb(212, 65, 65);
 }
@@ -524,7 +529,7 @@ img::-moz-selection {
 }
 
 .post-preview-image-bilan {
-  border-right: solid 10px #75ce66;
+  border-right: solid 10px rgb(56, 163, 83);
 }
 
 .color-roadmap {
@@ -536,7 +541,7 @@ img::-moz-selection {
 }
 
 .color-bilan {
-  color: #75ce66;
+  color: rgb(56, 163, 83);
 }
 
 .post-preview-meta span {

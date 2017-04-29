@@ -9,7 +9,7 @@ header-img: "assets/owner/blog/header/post-bg-floride.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-floride.jpg
 tags: []
 country: USA - Floride
-category: "Bilan"
+category: "bilan"
 flickr-tag: "Floride"
 location: "28.675395, -81.994826"
 itinary: "floride3.json"
