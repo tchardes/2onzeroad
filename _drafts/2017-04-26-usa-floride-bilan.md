@@ -115,9 +115,10 @@ Voilà quelles remarques sur leurs supercenter, toutefois l'impression d'ensembl
 Pour l'instant peu de chiffres, nous verrons plus tard avec un peu plus de recul.  
 
 * Prix moyen de l'essence   : 2,40 $ le galon
-* Total essence             : 473 $
-* Distance parcourue :  - En voiture de location    : 1139 Miles - 1833 Km
-                        - Avec Thor                 : 1486 Miles - 2391 Km
+* Total essence             : 473 $  
+* Distance parcourue : 
+- En voiture de location    : 1139 Miles - 1833 Km  
+- Avec Thor                 : 1486 Miles - 2391 Km  
 
 * Nuit camping sauvage  : 4
 * Nuit en Camping       : 1
