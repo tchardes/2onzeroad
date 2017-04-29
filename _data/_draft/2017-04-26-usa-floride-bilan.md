@@ -99,10 +99,10 @@ Les américains sont férus de chasse et de pêche et par conséquent, ces deux 
 Avant de visiter les Everglades et ses marécages, pour ne pas se faire piquer par des nuées de moustiques, nous nous sommes arrêtés au rayon répulsif et là, oh surprise, du répulsif à ... Alligators.
 
 Le côté alimentation vaut le détour également. Tous les produits sont conditionnés en grosse, même très grosse quantité. Impossible ne serait-ce que d'acheter, par exemple, 1 litre de lait ou de jus d'orange. D'ailleurs, les rayons jus de fruits et sodas sont énormissimes ainsi que le rayon bombons, du choix, du choix à n'en plus finir. A côté du thon en boite, on peut aussi trouver des dés de poulet en conserve.
- Les patisseries sont très colorées, peu raffinées et ne donnent pas trop envie. Par contre, les cheesecakes, donuts et coockies sont extras, parole de gourmande!
-  Il est rare de trouver, en rayon, des produits tels quels: tout est prédécoupé comme les fruits et les légumes et tout est cuisiné ou préparé même les pates, le riz et la purée au bacon, cheese, herbes ...
+Les patisseries sont très colorées, peu raffinées et ne donnent pas trop envie. Par contre, les cheesecakes, donuts et coockies sont extras, parole de gourmande!
+Il est rare de trouver, en rayon, des produits tels quels: tout est prédécoupé comme les fruits et les légumes et tout est cuisiné ou préparé même les pates, le riz et la purée au bacon, cheese, herbes ...
 Encore un point surprenant: quelquefois, un medecin s'installe dans un coin du magasin entre les torchons et les serviettes, et peut contrôler, à qui veut, l'audition, la vue, la tension...
-Je n'ai pas parlé de prix, c'est sensiblement comme en France, je dirai même être agréablement surprise à la vue du total!
+Je n'ai pas parlé de prix, c'est sensiblement comme en France, je dirai même être agréablement surprise à la vue du total.
 Pendant nos achats, on croise souvent des employés fort âgés, cela nous surprend énormément. 
 Arrivés aux caisses, bières et sodas et même du café en canette cotoient bonbons et chewing-gums.
 C'est la caissière qui emballe les courses, elle dispose d'un tourniquet où sont accrochés les sacs jetables, ça nous a fait revenir 15 ans en arrière avant nos sacs réutilisables. Il y a beaucoup de caisses automatiques et on nous vérifie quelquefois le ticket à la sortie.
