@@ -26,8 +26,35 @@
             {% if page.id != post.id and hasParents == true %}
                 {% assign relatedPosts = relatedPosts | push: post %}
             {% endif %}
-
         {% endfor %}
+
+        {% if page.category == "bilan" %}
+            {% for relatedPost in relatedPosts %}  
+                {% if relatedPost.category == "roadmap" %}
+                    {% assign refPost = relatedPost %}
+
+                    {% for post in site.posts %}   
+                        {% if post.category == "blog" %}    
+                            {% assign areEquals = false %}
+                            {% assign hasParents = false %}
+
+                            {% if post.parent-id and refPost.parent-id == post.parent-id %}
+                                {% assign areEquals = true %}
+                            {% endif %}
+
+                            {% if post.path contains refPost.parent-id or refPost.path contains post.parent-id or areEquals %}
+                                {% assign hasParents = true %}
+                            {% endif %}
+
+                            {% if refPost.id != post.id and hasParents == true %}
+                                {% assign relatedPosts = relatedPosts | push: post %}
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+                    
+                {% endif %}
+            {% endfor %}
+        {% endif %}
 
         {% include nav.html %}
         
