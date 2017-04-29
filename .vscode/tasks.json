@@ -4,6 +4,6 @@
     "version": "0.1.0",
     "command": "bundle",
     "isShellCommand": true,
-    "args": ["exec", "jekyll", "serve"],
+    "args": ["exec", "jekyll", "serve", "--drafts"],
     "showOutput": "always"
 }
