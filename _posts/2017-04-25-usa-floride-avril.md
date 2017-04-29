@@ -24,7 +24,7 @@ Après avoir déposer notre voiture de location, nous repartons vers le Sud par 
 
 ### 08 au 11 avril
 
-Le lendemain nous partons direction Les Keys. C’est un peu la période d’apprentissage de la conduite de Thor. L’engin se conduit comme une voiture si ce n’est le gabarit, je vais en faire rapidement les frais, en raison de la capucine, excroissance au dessus de la cabine qui abrite un lit. En effet, on n’a aucune vue depuis le poste de pilotage sur le haut du toit. Concernant la boite automatique, la seule chose un peu troublante et l’absence totale de frein moteur. Il faut vraiment prendre l’habitude d’appuyer sur les freins pour s’arrêter.  
+Le lendemain nous partons direction Les Keys. C’est un peu la période d’apprentissage de la conduite de Thor. L’engin se conduit comme une voiture si ce n’est le gabarit, je vais en faire rapidement les frais, en raison de la capucine, excroissance au dessus de la cabine qui abrite un lit. En effet, le conducteur n’a aucune vue depuis le poste de pilotage sur le haut du toit. Concernant la boite automatique, la seule chose un peu troublante et l’absence totale de frein moteur. Il faut vraiment prendre l’habitude d’appuyer sur les freins pour s’arrêter.  
 
 Nous sommes partis de La Mesa RV sans vérifier si nous avions le plein d’eau potable et nous allons vite nous retrouver en quête d’eau. On économise un maximum, on achète des bouteilles d’eau pour la consommation et nous nous mettons à la recherche d’une station essence qui offrirait ce service. Finalement nous en trouvons une en travaux dont le gérant nous permet de remplir nos 40 galons d’eau potable. On se sent mieux….  
 
