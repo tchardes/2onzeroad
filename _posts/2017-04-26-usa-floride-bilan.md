@@ -5,7 +5,7 @@ preview:    "..."
 
 date:       2017-04-26 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
+header-img: "assets/owner/blog/header/post-bg-floride.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-floride.jpg
 tags: []
 country: USA - Floride
