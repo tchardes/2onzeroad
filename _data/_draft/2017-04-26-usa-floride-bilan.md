@@ -37,6 +37,7 @@ La Floride est un grand état, il y en a pour tous les goûts, l'océan et le go
 ### Les Américains   
 
 Pour l’instant nous n’avons rencontré que des gens charmants, toujours prêts à vous aider ou vous rendre service, faisant l’effort de se faire comprendre et de vous déchiffrer. Par contre, nous les avons trouvés très peu curieux. Peu nous ont demandé d’où nous venions, voyant très vite que nous n’étions pas du cru. C’est peut-être la Floride où les gens sont habitués et un peu blasés de voir des touristes arriver de la terre entière, toute l’année. Nous verrons par la suite.
+Nous avons été souvent surpris du nombre de personnes âgées qui "Jobe", dans les magasin, le parkings, péanges et parfois même debout à des carrefours où ils tiennent en main un panneau publicitaire pour engager les gens à aller visiter tel ou tel magasin, ou bénéficier de telles promos. C'est aussi ça l'Amérique.
 
 ### La circulation routière   
 
@@ -89,9 +90,9 @@ Avant de rentrer dans le magasin, voyons le dehors. Sur le parking, la taille de
 
 Moins bien, en revanche, ces derniers traînent sur tout le parking car il n'y a pas de système de jetons comme chez nous.
 
-A la station essence, il faut tellement de temps pour faire le plein tant les réservoirs sont grands que des téléviseurs sont installés à chaque pompe pour distraire le client en attendant.
+Dans certaines stations essences, en raison du temps pour faire le plein tant les réservoirs sont grands que, des téléviseurs sont installés à chaque pompe pour distraire le client en attendant.
 
-Entrons à présent dans la galerie. Rien n'a vraiment rertenu notre attention, si ce n'est une boutique d'alcool dont l'accés se fait par l'extérieur, on y trouve les alccols forts. En effet, ils ne sont pas vendus dans le supermarché lui-même.
+Entrons à présent dans la galerie. Rien n'a vraiment retenu notre attention, si ce n'est les boutiques d'alcools dont l'accés se fait par l'extérieur, on y trouve les alccols forts. En effet, ils ne sont pas vendus dans le supermarché lui-même.
 
 La pharmacie, les toilettes (Restrooms), les Mc Donald ou Subway sont à l'intérieur même du supermarché. 
 Les américains sont férus de chasse et de pêche et par conséquent, ces deux rayons sont très bien achalandés. Au rayon chasse, Thierry n'en revenait pas, on peut acheter n'importe quelle arme en même temps que des Tic Tac!
