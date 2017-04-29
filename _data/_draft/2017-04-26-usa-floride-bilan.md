@@ -83,25 +83,31 @@ Première bafouille, soyez indulgents.
 Nous avions envie de parler des "supercenter" comme il les appellent tant ils sont différents des notres. Et c'est moi qui m'y colle, non pas que Thierry n'aurait pas su, bien au contraire, d'autant plus qu'il m'accompagne souvent, mais il faut bien dire... les courses, c'est un truc de filles!!!
 
 Je ne vais parler que de gigantisme, de démesure au risque de me répéter sans cesse. 
-Ce qui nous a le plus surpris et qui montre bien la démesure américaine : les Walmart sont ouverts h 24. A 3 heures du matin si tu as une envie de fraise, pas de problème.
+Ce qui nous a le plus surpris et qui montre bien la démesure américaine : les Walmart sont ouverts 24h/24. A 3 heures du matin, si tu as une envie de fraise, pas de problème.
 
-avant de rentrer dans le magasin, voyon s le dehors. Sur le parking, la taille des places et adaptée à leur immense véhicule, on ne risque pas d'amboutir la portière du voisin en ouvrant la sienne. Point positif, n'est-ce pas ? ainsi qu'une ceinture de sécurité pour attacher nos chers bébés sur les charriots.
+Avant de rentrer dans le magasin, voyons le dehors. Sur le parking, la taille des places est adaptée à leur immense véhicule, on ne risque pas d'amboutir la portière du voisin en ouvrant la sienne! Point positif, n'est-ce pas ? ainsi qu'une ceinture de sécurité pour attacher nos chers bébés sur les charriots.
 
-Moins bien, en revanche, c'est dernier traîne sur tout le parking car il n'ya pas de système de jettons comme chez nous.
+Moins bien, en revanche, ces derniers traînent sur tout le parking car il n'y a pas de système de jetons comme chez nous.
 
-A la station essence, il faut tellement de temps pour faire le plein tant les réservoirs sont grand que des téléviseurs sont installé à chauque pompe et distraire le client en attendant.
+A la station essence, il faut tellement de temps pour faire le plein tant les réservoirs sont grands que des téléviseurs sont installés à chaque pompe pour distraire le client en attendant.
 
-Entrons à présent dans la galerie. Rien n'a vraiment rertenu notre attention, szi ce n'est une boutique d'alcool dont l'accés se fait par l'extérieur, on y trouve les alccols forts.
+Entrons à présent dans la galerie. Rien n'a vraiment rertenu notre attention, si ce n'est une boutique d'alcool dont l'accés se fait par l'extérieur, on y trouve les alccols forts. En effet, ils ne sont pas vendus dans le supermarché lui-même.
 
-La pharmacie, les toilettes (Restrooms), les Mc Donald ou Subway sont à l'intérieur même du supermarché. Les américains sont ferrus de chasse et de pêche et par conséquent ces deux rayons sont très bien achallendés. Au rayon chasse, Thierry n'en revenait pas, on peut acheter n'importe qu'elle arme en même temps que des Tic Tac.
+La pharmacie, les toilettes (Restrooms), les Mc Donald ou Subway sont à l'intérieur même du supermarché. 
+Les américains sont férus de chasse et de pêche et par conséquent, ces deux rayons sont très bien achalandés. Au rayon chasse, Thierry n'en revenait pas, on peut acheter n'importe quelle arme en même temps que des Tic Tac!
 
-Avant de visiter les Everglades et ces marécages, pour ne pas se faire piquer par des nuées de moustiques, nous nous sommes arrêtés au rayon répulsifs et là, oh surprise, du répulsif à ... Alligators.
+Avant de visiter les Everglades et ses marécages, pour ne pas se faire piquer par des nuées de moustiques, nous nous sommes arrêtés au rayon répulsif et là, oh surprise, du répulsif à ... Alligators.
 
-Le côté alimentation vaut le détour également. Tous les produits sont conditionnés en grosses, même très grosses quantité. Impossible ne serait-ce que d'acheter, par exemple 1 litre de lait ou de jus d'orange. D'ailleurs, les rayons Jus de fruits et sodas sont énormissimes ainsi que le rayon bombons, du choix, du choix à n'en plus finir. A côté du thon en boite on peu aussi trouver des Dé de poulet en conserve. Les patisseries sont très colorées, peu raffinées et ne donnent pas trop envie. par contre, les cheesecake, donut's et coockies sont extras, parole de gourmande. Il est rare de trouver un rayon, des produits tels quels, tout est prédécoupé comme les fruits et les légumes et tout est cuisiné ou préparé même les pates le riz et la purée au bacon, cheese, herbes ...
+Le côté alimentation vaut le détour également. Tous les produits sont conditionnés en grosse, même très grosse quantité. Impossible ne serait-ce que d'acheter, par exemple, 1 litre de lait ou de jus d'orange. D'ailleurs, les rayons jus de fruits et sodas sont énormissimes ainsi que le rayon bombons, du choix, du choix à n'en plus finir. A côté du thon en boite, on peut aussi trouver des dés de poulet en conserve.
+ Les patisseries sont très colorées, peu raffinées et ne donnent pas trop envie. Par contre, les cheesecakes, donuts et coockies sont extras, parole de gourmande!
+  Il est rare de trouver, en rayon, des produits tels quels: tout est prédécoupé comme les fruits et les légumes et tout est cuisiné ou préparé même les pates, le riz et la purée au bacon, cheese, herbes ...
+Encore un point surprenant: quelquefois, un medecin s'installe dans un coin du magasin entre les torchons et les serviettes, et peut contrôler, à qui veut, l'audition, la vue, la tension...
+Je n'ai pas parlé de prix, c'est sensiblement comme en France, je dirai même être agréablement surprise à la vue du total!
+Pendant nos achats, on croise souvent des employés fort âgés, cela nous surprend énormément. 
+Arrivés aux caisses, bières et sodas et même du café en canette cotoient bonbons et chewing-gums.
+C'est la caissière qui emballe les courses, elle dispose d'un tourniquet où sont accrochés les sacs jetables, ça nous a fait revenir 15 ans en arrière avant nos sacs réutilisables. Il y a beaucoup de caisses automatiques et on nous vérifie quelquefois le ticket à la sortie.
 
-Pendant nos achats, on croise souvent des employés fort âgés, cela nous surprend énormément. Arrivés aux caisses, bierres et sodas cotoient bonbons et chewingums.
-C'est la caissière qui emballe les courses, une dispose d'un tourniquet où sont accrochés les scas jettable, ça nous à fait reveir 15 ans en arrière avant nos sac réutilisable. Il y a beaucoup de caisses automatiques et on nous vérifie quelquefois le ticket à la sortie
-
+Voilà quelles remarques sur leurs supercenter, toutefois l'impression d'ensemble est bonne, c'est propre et l'on s'y sent bien.
 
 ### Les chiffres :  
 
