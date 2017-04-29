@@ -58,8 +58,11 @@ En règle générale, si on conduit comme en France tous se passe bien, les rout
 
 Après un mois de circulation, la navigatrice a trouvé ces marques et maitrise parfaitement google maps et plans. Les débuts ont été parfois rocambolesques quand au milieu d’une 2X4 voies avec des échangeurs sur 4 niveaux elle vous annonce :      
 * c’est là … où là … ben là !!!   
+
 ou bien un
+
 * Je vais où là ?…. Ben, je ne sais pas…    
+
 Je crois que tous les couples en vadrouille se reconnaîtrons.  
 
 ### la vie dans Thor  
