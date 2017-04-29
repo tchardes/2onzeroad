@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "32.777482, -80.146544"
   name: "Charleston, Caroline du Sud, U.S.A"
-  date: "28 avril 2017"
+  date: "29 avril 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
