@@ -22,9 +22,7 @@ Bilan forcément positif de la Floride qui aura été notre porte d’entrée po
 
 Sur les plaques d’immatriculation de la Floride est inscrit « Sunshine State » et c’est bien vrai. A part trois ou quatre averses, nous avons eu un temps magnifique et des températures de rêve. On sait d’ores et déjà que cela va se gâter au fur et à mesure de notre progression vers le Canada.   
 
-
-
-Voilà nos premières impressions sur la Floride   
+Voilà nos premières impressions sur la Floride et de facto sur les USA :    
 
 ### Changement d'echelle  
 
