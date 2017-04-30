@@ -76,26 +76,27 @@ Pour l'instant, nous passons nos nuits souvent sur les parkings de Home Dépôt 
 
 ### Les magasins  
 
-Ca y est, je me lance!
+Ca y est, je me lance!  
 
-Première bafouille, soyez indulgents.
-Nous avions envie de parler des "supercenter" comme ils les appellent tant ils sont différents des nôtres. Et c'est moi qui m'y colle, non pas que Thierry n'aurait pas su, bien au contraire, d'autant plus qu'il m'accompagne souvent, mais il faut bien dire... les courses, c'est un truc de filles!!!
+Première bafouille, soyez indulgents.  
+Nous avions envie de parler des "supercenter" comme ils les appellent tant ils sont différents des nôtres. Et c'est moi qui m'y colle, non pas que Thierry n'aurait pas su, bien au contraire, d'autant plus qu'il m'accompagne souvent, mais il faut bien dire... les courses, c'est un truc de filles!!!  
 
 Je ne vais parler que de gigantisme, de démesure au risque de me répéter sans cesse. 
-Ce qui nous a le plus surpris et qui montre bien la démesure américaine : les Walmart sont ouverts 24h/24. A 3 heures du matin, si tu as une envie de fraise, pas de problème.
+Ce qui nous a le plus surpris et qui montre bien la démesure américaine : les Walmart sont ouverts 24h/24. A 3 heures du matin, si tu as une envie de fraise, pas de problème.  
 
-Avant de rentrer dans le magasin, voyons le dehors. Sur le parking, la taille des places est adaptée à leur immense véhicule, on ne risque pas d'emboutir la portière du voisin en ouvrant la sienne! Point positif, n'est-ce pas ? ainsi qu'une ceinture de sécurité pour attacher nos chers bébés sur les charriots.
+Avant de rentrer dans le magasin, voyons le dehors. 
+Sur le parking, la taille des places est adaptée à leur immense véhicule, on ne risque pas d'emboutir la portière du voisin en ouvrant la sienne!
+Point négatif : les chariots traînent un peu partout sur le parking car il n'y a pas de système de jetons comme chez nous, en revanche, ils sont tous équipés de ceintures de sécurité pour y attacher nos chers bébés.
+Dans certaines stations essences, en raison du temps pour faire le plein tant les réservoirs sont grands que, des téléviseurs sont installés à chaque pompe pour distraire le client en attendant.  
 
-Moins bien, en revanche, ces derniers traînent sur tout le parking car il n'y a pas de système de jetons comme chez nous.
+Entrons à présent dans la galerie. 
+Rien n'a vraiment retenu notre attention, si ce n'est les boutiques d'alcools dont l'accès se fait par l'extérieur, on y trouve les alcools forts. En effet, ils ne sont pas vendus dans le supermarché lui-même.   
 
-Dans certaines stations essences, en raison du temps pour faire le plein tant les réservoirs sont grands que, des téléviseurs sont installés à chaque pompe pour distraire le client en attendant.
+La pharmacie, les toilettes (Restrooms), les Mc Donald ou Subway sont à l'intérieur même du supermarché.   
 
-Entrons à présent dans la galerie. Rien n'a vraiment retenu notre attention, si ce n'est les boutiques d'alcools dont l'accès se fait par l'extérieur, on y trouve les alcools forts. En effet, ils ne sont pas vendus dans le supermarché lui-même.
+Les américains sont férus de chasse et de pêche et par conséquent, ces deux rayons sont très bien achalandés. Thierry n'en revenait pas, on peut acheter n'importe quelle arme en même temps que des Tic Tac!  
 
-La pharmacie, les toilettes (Restrooms), les Mc Donald ou Subway sont à l'intérieur même du supermarché. 
-Les américains sont férus de chasse et de pêche et par conséquent, ces deux rayons sont très bien achalandés. Au rayon chasse, Thierry n'en revenait pas, on peut acheter n'importe quelle arme en même temps que des Tic Tac!
-
-Avant de visiter les Everglades et ses marécages, pour ne pas se faire piquer par des nuées de moustiques, nous nous sommes arrêtés au rayon répulsif et là, oh surprise, du répulsif à ... Alligators.
+Avant de visiter les Everglades et ses marécages, pour ne pas se faire piquer par des nuées de moustiques, nous nous sommes arrêtés au rayon répulsif et là, oh surprise, du répulsif à ... Alligators.  
 
 Le côté alimentation vaut le détour également. Tous les produits sont conditionnés en grosse, même très grosse quantité. Impossible ne serait-ce que d'acheter, par exemple, 1 litre de lait ou de jus d'orange. D'ailleurs, les rayons jus de fruits et sodas sont énormissimes ainsi que le rayon bombons, du choix, du choix à n'en plus finir. A côté du thon en boite, on peut aussi trouver des dés de poulet en conserve.
 Les pâtisseries sont très colorées, peu raffinées et ne donnent pas trop envie. Par contre, les cheesecakes, donuts et coockies sont extras, parole de gourmande!
@@ -104,16 +105,17 @@ Encore un point surprenant: quelquefois, un médecin s'installe dans un coin du 
 Je n'ai pas parlé de prix, c'est sensiblement comme en France, je dirai même être agréablement surprise à la vue du total.
 Pendant nos achats, on croise souvent des employés fort âgés, cela nous surprend énormément. 
 Arrivés aux caisses, bières et sodas et même du café en canette côtoient bonbons et chewing-gums.
-C'est la caissière qui emballe les courses, elle dispose d'un tourniquet où sont accrochés les sacs jetables, ça nous a fait revenir 15 ans en arrière avant nos sacs réutilisables. Il y a beaucoup de caisses automatiques et on nous vérifie quelquefois le ticket à la sortie.
+C'est la caissière qui emballe les courses, elle dispose d'un tourniquet où sont accrochés les sacs jetables, ça nous a fait revenir 15 ans en arrière avant nos sacs réutilisables. Il y a beaucoup de caisses automatiques et on nous vérifie quelquefois le ticket à la sortie.  
 
-Voilà quelles remarques sur leurs supercenter, toutefois l'impression d'ensemble est bonne, c'est propre et l'on s'y sent bien.
+Voilà quelles remarques sur leurs supercenter, toutefois l'impression d'ensemble est bonne, c'est propre et l'on s'y sent bien.  
 
-### Les chiffres :  
+### Quelques chiffres :  
 
 Pour l'instant peu de chiffres, nous verrons plus tard avec un peu plus de recul.  
 
 * Prix moyen de l'essence   : 2,40 $ le galon
 * Total essence             : 473 $  
+
 * Distance parcourue : 
 - En voiture de location    : 1139 Miles - 1833 Km  
 - Avec Thor                 : 1486 Miles - 2391 Km  
