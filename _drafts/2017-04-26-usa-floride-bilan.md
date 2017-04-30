@@ -127,4 +127,5 @@ Pour l'instant peu de chiffres, nous verrons plus tard avec un peu plus de recul
 
 * Nuit camping sauvage  : 4
 * Nuit en Camping       : 1
-* Nuit parking          : 12
+* Nuit parking          : 13
+* Nuit Hôtel            : 13
