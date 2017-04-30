@@ -26,7 +26,7 @@ Voilà nos premières impressions sur la Floride et de facto sur les USA :
 
 ### Changement d'echelle  
 
-On se croirait être Gulliver qui arrive à Brobdingrag. Tout est plus grand, tout est au format XXL, les routes, les bâtiments, les magasins, les conditionnements des produits et un peu les américains aussi. En caricaturant un peu, ils sont soit très sportifs et bien taillés, soit en surpoids. Les véhicules, beaucoup de pick-up avec des cylindrés et des pots d'échappement hors normes. Quand un vous double, on commence à sentir les vibrations puis le bruit sourd bien grave et enfin le véhicule. On en arrive à se demander si on n'est pas en train de se faire doubler par un croiseur interstellaire de l'empire...   
+On se croirait être Gulliver qui arrive à Brobdingrag. Tout est plus grand, tout est au format XXL, les routes, les bâtiments, les magasins, les conditionnements des produits et un peu les américains aussi. En caricaturant un peu, ils sont soit très sportifs et bien taillés, soit en surpoids. Les véhicules, un peu de tout mais ils affectionnent quand même beaucoup les pick-up avec des cylindrés et des pots d'échappement hors normes. Quand un vous double, on commence à sentir les vibrations puis le bruit sourd bien grave et enfin le véhicule. On en arrive à se demander si on n'est pas en train de se faire doubler par un croiseur interstellaire de l'empire...   
 
 ### A voir, à faire   
 
