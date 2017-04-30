@@ -13,7 +13,7 @@ flickr-tag: "Savannah"
 country: USA - Géorgie
 city: Savannah
 category: "blog"
-location: "28.524458, -80.681116"
+location: "32.073177, -81.093111"
 ---
 
 
