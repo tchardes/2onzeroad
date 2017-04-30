@@ -26,16 +26,17 @@ Voilà nos premières impressions sur la Floride et de facto sur les USA :
 
 ### Changement d'echelle  
 
-On se croirait être Gulliver arrivant à Brobdingrag. Tout est plus grand, tout est au format XXL, les routes, les bâtiments, les magasins, les conditionnements des produits et un peu les américains aussi. En caricaturant un peu, ils sont soit très sportifs et bien taillés, soit en surpoids. Les véhicules, un peu de tout mais ils affectionnent quand même beaucoup les pick-up avec des cylindrés et des pots d'échappement hors normes. Quand un vous double, on commence à sentir les vibrations puis le bruit sourd bien grave et enfin le véhicule. On en arrive à se demander si on n'est pas en train de se faire doubler par un croiseur interstellaire de l'empire...   
+On se croirait être Gulliver arrivant à Brobdingrag. Tout est plus grand, tout est au format XXL, les routes, les bâtiments, les magasins, les conditionnements des produits et un peu les américains aussi. En caricaturant un peu, ils sont soit très sportifs et bien taillés, soit en surpoids. Concernant les véhicules, un peu de tout les modèles, mais ils affectionnent quand même beaucoup les pick-up avec des cylindrés et des pots d'échappement hors normes. Quand un vous double, on commence à sentir les vibrations puis le bruit sourd bien grave et enfin le véhicule. On en arrive à se demander si on n'est pas en train de se faire doubler par un croiseur interstellaire de l'empire....   
 
 ### A voir, à faire   
 
-La Floride est un grand état, il y en a pour tous les goûts, l'océan et le golfe du Mexique pour les activités nautiques, aquatiques, les parcs nationaux et d'état pour les amoureux de nature, les villes, les parcs de loisirs, une histoire très riche, l'art ainsi qu'une architecture très variée...   
+La Floride est un grand état, il y en a pour tous les goûts, l'océan et le golfe du Mexique pour les activités nautiques, aquatiques, les parcs nationaux et d'état pour les amoureux de nature, les villes, les parcs de loisirs et à thèmes, une histoire récente mais très riche dans cette région (un peu grâce à nous), l'art ainsi qu'une architecture très variée...   
 
 ### Les Américains   
 
-Pour l’instant nous n’avons rencontré que des gens charmants, toujours prêts à vous aider ou vous rendre service, faisant l’effort de se faire comprendre et de vous déchiffrer. Par contre, nous les avons trouvés très peu curieux. Peu nous ont demandé d’où nous venions, voyant très vite que nous n’étions pas du cru. C’est peut-être la Floride où les gens sont habitués et un peu blasés de voir des touristes arriver de la terre entière, toute l’année. Nous verrons par la suite.
-Nous avons été souvent surpris du nombre de personnes âgées qui "Jobbe", dans les magasins, le parkings, péages et parfois même debout à des carrefours où ils tiennent en main un panneau publicitaire pour engager les gens à aller visiter tel ou tel magasin, ou bénéficier de telles promos. C'est aussi ça l'Amérique.
+Pour l’instant nous n’avons rencontré que des gens charmants, toujours prêts à vous aider ou vous rendre service, faisant l’effort de se faire comprendre et de vous déchiffrer. Par contre, nous les avons trouvés très peu curieux. Peu nous ont demandé d’où nous venions, voyant très vite que nous n’étions pas du cru. C’est peut-être la Floride où les gens sont habitués et un peu blasés de voir des touristes arriver de la terre entière, toute l’année. Nous verrons par la suite.  
+
+Nous avons été souvent surpris du nombre de personnes vraiment âgées qui "Jobbe", dans les magasins, les parkings, les restaurants, les péages et parfois même debout à des carrefours tenant en main un panneau publicitaire pour engager les gens à aller visiter tel ou tel magasin, ou bénéficier de telles promos. C'est aussi ça l'Amérique.  
 
 ### La circulation routière   
 
@@ -46,7 +47,7 @@ Elle a ici ses propres règles, parfois surprenantes et parfois, on se demande p
 * A l’arrière, les véhicules n’ont pas de feu clignotant orange, ce sont souvent les feux stop qui clignotent, c’est beaucoup moins visible ;
 * Je trouve les feux oranges des feux tricolores assez courts en temps, ce qui m’a obligé plusieurs fois à écraser les freins pour m’arrêter ;
 * Sur les routes à plusieurs voies, on roule où l’on veut mais surtout au milieu car même sur les grandes routes, il y a des sorties à droite… comme à gauche. Certainement par économie, on trouve des stations essences au milieu des 2 X 4 ou 6 voies. De toutes les façons, on se double copieusement par la droite ou par la gauche ;
-* Je comprends pourquoi il y a des boussoles intégrées dans tous les véhicules. C’est très pratique pour se repérer car parfois les rues portent le même N° mais Sud ou Nord… ;
+* Je comprends pourquoi il y a des boussoles intégrées dans tous les véhicules. C’est très pratique pour se repérer car souvent les rues portent le même N° mais Sud ou Nord… ;
 * A certains carrefours de route de même importance, chacun a un stop et c’est le premier arrivé qui repart et ainsi de suite, en parfait gentlemen ;
 * Ici on ne plaisante pas avec les enfants. Les tronçons de route devant les écoles sont identifiés par des panneaux qui obligent les automobilistes à ralentir à une certaine vitesse si les feux clignotent. Les fameux bus scolaires jaunes s’illuminent comme un sapin de Noël et des panneaux « Stop » se déplient sur le côté du bus lorsqu’ils embarquent ou débarquent des enfants. Tous les véhicules venant dans les deux sens doivent alors faire stop au niveau du bus et attendre que le chauffeur replit ses panneaux avant de pouvoir reprendre la route ;
 * Apparemment, il n’y a pas de règles de base comme chez nous concernant la limitation de vitesse en fonction du type d’axe. Cela oblige à porter une attention constante aux panneaux car même sur l’Interstate (autoroute), la vitesse passe de 50 à 70 miles sans trop de raisons. Idem pour les autres routes ;   
@@ -62,6 +63,10 @@ Après un mois de circulation, la navigatrice a trouvé ces marques et maitrise 
 ou bien à la question
 
 * Je vais où là ?… Ben, je ne sais pas…    
+
+ou le laconique   
+
+* Ah, c'était là en fait...
 
 Je crois que tous les couples en vadrouille se reconnaîtront.  
 
