@@ -30,7 +30,7 @@ On se croirait être Gulliver qui arrive à Brobdingrag. Tout est plus grand, to
 
 ### A voir, à faire   
 
-La Floride est un grand état, il y en a pour tous les goûts, l'océan et le golfe du Mexique pour les activités aquatiques, les parcs nationaux pour les amoureux de nature, les villes, les parcs de loisirs, une histoire très riche, une très belle architecture...   
+La Floride est un grand état, il y en a pour tous les goûts, l'océan et le golfe du Mexique pour les activités nautiques, aquatiques, les parcs nationaux et d'état pour les amoureux de nature, les villes, les parcs de loisirs, une histoire très riche, l'art ainsi qu'une architecture très variée...   
 
 ### Les Américains   
 
