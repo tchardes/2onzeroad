@@ -16,7 +16,7 @@ itinary: "floride3.json"
 
 ---
 
-Premier article de type Bilan (Vert). Celui-là, il faut entièrement l’imaginer car avec Alexandre on se disait, on a le temps, on verra le moment venu. Et bien voilà, un mois que nous sommes arrivés en Floride et c’est l’heure de faire un rapide bilan avant de renter en Géorgie. Tout comme les carnets de route, nous publierons un bilan de temps en temps, pour ceux que cela intéresse.  
+Premier article de type Bilan (Vert). Celui-là, il faut entièrement l’imaginer car avec Alexandre on se disait, on a le temps, on verra le moment venu. Et bien voilà, un mois que nous sommes arrivés en Floride et c’est l’heure de faire un rapide bilan avant de rentrer en Géorgie. Tout comme les carnets de route, nous publierons un bilan de temps en temps, pour ceux que cela intéresse.  
 
 Bilan forcément positif de la Floride qui aura été notre porte d’entrée pour les USA et nos premières images de ce pays que nous avons si souvent imaginé au cours de notre préparation. Tout s’est déroulé comme nous l’avions prévu ou plutôt rêvé, de l’accord des 6 mois à la frontière jusqu'à l’achat du Rv, et ce sans aucun problème.   
 
