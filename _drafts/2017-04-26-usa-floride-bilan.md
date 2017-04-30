@@ -36,13 +36,13 @@ Nous avons été souvent surpris du nombre de personnes vraiment âgées qui "Jo
 
 ### L'environnement
 
-On a tous en mémoire ces images dans les films hollywoodiens de ces résidences, modestes ou énormes, sans cloture, le gason devant la maison coupé au cordeau, un beau massif et la boîte aux lettres personnalisée. Et bien c'est exactement ça, c'est très propre, très bien entretenue, c'est arrangé avec goût, les façade ont l'air d'avoir été refaite la veille, les voitures dans l'allée impeccable.
+On a tous en mémoire ces images dans les films hollywoodiens de ces résidences, modestes ou énormes, sans clôture, le gazon devant la maison coupé au cordeau, un beau massif et la boîte aux lettres personnalisée. Et bien c'est exactement ça, c'est très propre, très bien entretenu, c'est arrangé avec goût, les façades ont l'air d'avoir été refaites la veille, les voitures dans l'allée impeccables.
 
-Nous avons également souvent longé d'immenses résidences privées, véritables petites villes ceinturées d'un grand mur avec une entrée monumentale digne d'un palais des milles et une nuits. Davant ces murs des kilomètres de massifs fleuris et boisés extrémenent bien entretenus, tous simplement magnifiques.
+Nous avons également souvent longé d'immenses résidences privées, véritables petites villes ceinturées d'un grand mur avec une entrée monumentale digne d'un palais des milles et une nuits. Devant ces murs, des kilomètres de massifs fleuris et boisés extrémenent bien entretenus, tout simplement magnifiques.
 
 On ne parle même pas des quartiers huppés que nous avons pu voir à Miami, Venice, Napples... Ici on montre son argent, souvent dans la démesure, c'est normal.
 
-Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter casquette tee-shirt.... De nombreuses maison ont carrément un mat des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau, Certains véhicules, souvent des Pick-up, ont un immense drapeau accroché à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
+Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter casquette, tee-shirt.... De nombreuses maisons ont carrément un mât des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau. Certains véhicules, souvent des Pick-up, ont un immense drapeau accroché à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
 
 ### La circulation routière   
 
@@ -72,7 +72,7 @@ ou bien à la question
 
 ou le laconique   
 
-* Ah, c'était là en fait...
+* Ah, c'était là, en fait...
 
 Je crois que tous les couples en vadrouille se reconnaîtront.  
 
@@ -101,7 +101,7 @@ Ce qui nous a le plus surpris et qui montre bien la démesure américaine : les 
 
 Avant de rentrer dans le magasin, voyons le dehors. 
 Sur le parking, la taille des places est adaptée à leur immense véhicule, on ne risque pas d'emboutir la portière du voisin en ouvrant la sienne!
-Point négatif : les chariots traînent un peu partout sur le parking car il n'y a pas de système de jetons comme chez nous, en revanche, ils sont tous équipés de ceintures de sécurité pour y attacher nos chers bébés. A l'entrée des "caddies - fauteuils roulants" électriques pour les personnes à mobilité réduite sont disponibles et sont très utilisés. Dans certaines stations essences, en raison du temps pour faire le plein tant les réservoirs sont grands que, des téléviseurs sont installés à chaque pompe pour distraire le client en attendant.  
+Point négatif : les chariots traînent un peu partout sur le parking car il n'y a pas de système de jetons comme chez nous, en revanche, ils sont tous équipés de ceintures de sécurité pour y attacher nos chers bébés. A l'entrée des "caddies - fauteuils roulants" électriques pour les personnes à mobilité réduite sont disponibles et sont très utilisés. Dans certaines stations essence, il faut tellement de temps pour faire le plein tant les réservoirs sont grands que, des téléviseurs sont installés à chaque pompe pour distraire le client en attendant.  
 
 Entrons à présent dans la galerie. 
 Rien n'a vraiment retenu notre attention, si ce n'est les boutiques d'alcools dont l'accès se fait par l'extérieur, on y trouve les alcools forts. En effet, ils ne sont pas vendus dans le supermarché lui-même.   
