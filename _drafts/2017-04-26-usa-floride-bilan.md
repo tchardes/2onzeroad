@@ -22,21 +22,27 @@ Bilan forcément positif de la Floride qui aura été notre porte d’entrée po
 
 Sur les plaques d’immatriculation de la Floride est inscrit « Sunshine State » et c’est bien vrai. A part trois ou quatre averses, nous avons eu un temps magnifique et des températures de rêve. On sait d’ores et déjà que cela va se gâter au fur et à mesure de notre progression vers le Canada.   
 
-Voilà nos premières impressions sur la Floride et de facto sur les USA :    
+Voilà nos premières impressions sur la Floride et de facto sur les USA. ce n'est en aucun cas une critique mais juste nos impressions, nos sentiments par rapport à ce que nous connaissons en France :    
 
 ### Changement d'echelle  
 
 On se croirait être Gulliver arrivant à Brobdingrag. Tout est plus grand, tout est au format XXL, les routes, les bâtiments, les magasins, les conditionnements des produits et un peu les américains aussi. En caricaturant un peu, ils sont soit très sportifs et bien taillés, soit en surpoids. Concernant les véhicules, un peu de tout les modèles, mais ils affectionnent quand même beaucoup les pick-up avec des cylindrés et des pots d'échappement hors normes. Quand un vous double, on commence à sentir les vibrations puis le bruit sourd bien grave et enfin le véhicule. On en arrive à se demander si on n'est pas en train de se faire doubler par un croiseur interstellaire de l'empire....   
-
-### A voir, à faire   
-
-La Floride est un grand état, il y en a pour tous les goûts, l'océan et le golfe du Mexique pour les activités nautiques, aquatiques, les parcs nationaux et d'état pour les amoureux de nature, les villes, les parcs de loisirs et à thèmes, une histoire récente mais très riche dans cette région (un peu grâce à nous), l'art ainsi qu'une architecture très variée...   
 
 ### Les Américains   
 
 Pour l’instant nous n’avons rencontré que des gens charmants, toujours prêts à vous aider ou vous rendre service, faisant l’effort de se faire comprendre et de vous déchiffrer. Par contre, nous les avons trouvés très peu curieux. Peu nous ont demandé d’où nous venions, voyant très vite que nous n’étions pas du cru. C’est peut-être la Floride où les gens sont habitués et un peu blasés de voir des touristes arriver de la terre entière, toute l’année. Nous verrons par la suite.  
 
 Nous avons été souvent surpris du nombre de personnes vraiment âgées qui "Jobbe", dans les magasins, les parkings, les restaurants, les péages et parfois même debout à des carrefours tenant en main un panneau publicitaire pour engager les gens à aller visiter tel ou tel magasin, ou bénéficier de telles promos. C'est aussi ça l'Amérique.  
+
+### L'environnement
+
+On a tous en mémoire ces images dans les films hollywoodiens de ces résidences, modestes ou énormes, sans cloture, le gason devant la maison coupé au cordeau, un beau massif et la boîte aux lettres personnalisée. Et bien c'est exactement ça, c'est très propre, très bien entretenue, c'est arrangé avec goût, les façade ont l'air d'avoir été refaite la veille, les voitures dans l'allée impeccable.
+
+Nous avons également souvent longé d'immenses résidences privées, véritables petites villes ceinturées d'un grand mur avec une entrée monumentale digne d'un palais des milles et une nuits. Davant ces murs des kilomètres de massifs fleuris et boisés extrémenent bien entretenus, tous simplement magnifiques.
+
+On ne parle même pas des quartiers huppés que nous avons pu voir à Miami, Venice, Napples... Ici on montre son argent, souvent dans la démesure, c'est normal.
+
+Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter casquette tee-shirt.... De nombreuses maison ont carrément un mat des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau, Certains véhicules, souvent des Pick-up, ont un immense drapeau accroché à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
 
 ### La circulation routière   
 
@@ -78,6 +84,10 @@ On prend nos marques tout doucement, il nous arrive encore de tomber à cours d'
 
 Pour l'instant, nous passons nos nuits souvent sur les parkings de Home Dépôt mais surtout de Walmart, immense magasin type carrefour ouvert 24/24. Le fondateur de cette chaine était camping-cariste et a toujours fait en sorte que les RV's puissent stationner pour la nuit sur les parkings de ces enseignes. Certes, ce n'est pas toujours très glamour mais terriblement pratique quand on bouge constamment. On arrive le soir, on va faire les courses et on aménage Thor petit à petit, on profite du Wi-FI et le lendemain matin, on repart. Les lieux sont sécurisés et assez tranquilles quand on sait où se positionner. Nous avons fait quelques bivouacs sauvages mais ce n'est pas très évident de trouver un endroit accessible où cela est autorisé, surtout en bord de mer.  
 
+### A voir, à faire   
+
+La Floride est un grand état, il y en a pour tous les goûts, l'océan et le golfe du Mexique pour les activités nautiques, aquatiques, les parcs nationaux et d'état pour les amoureux de nature, les villes, les parcs de loisirs et à thèmes, une histoire récente mais très riche dans cette région (un peu grâce à nous), l'art ainsi qu'une architecture très variée...   
+
 
 ### Les magasins  
 
@@ -91,8 +101,7 @@ Ce qui nous a le plus surpris et qui montre bien la démesure américaine : les 
 
 Avant de rentrer dans le magasin, voyons le dehors. 
 Sur le parking, la taille des places est adaptée à leur immense véhicule, on ne risque pas d'emboutir la portière du voisin en ouvrant la sienne!
-Point négatif : les chariots traînent un peu partout sur le parking car il n'y a pas de système de jetons comme chez nous, en revanche, ils sont tous équipés de ceintures de sécurité pour y attacher nos chers bébés.
-Dans certaines stations essences, en raison du temps pour faire le plein tant les réservoirs sont grands que, des téléviseurs sont installés à chaque pompe pour distraire le client en attendant.  
+Point négatif : les chariots traînent un peu partout sur le parking car il n'y a pas de système de jetons comme chez nous, en revanche, ils sont tous équipés de ceintures de sécurité pour y attacher nos chers bébés. A l'entrée des "caddies - fauteuils roulants" électriques pour les personnes à mobilité réduite sont disponibles et sont très utilisés. Dans certaines stations essences, en raison du temps pour faire le plein tant les réservoirs sont grands que, des téléviseurs sont installés à chaque pompe pour distraire le client en attendant.  
 
 Entrons à présent dans la galerie. 
 Rien n'a vraiment retenu notre attention, si ce n'est les boutiques d'alcools dont l'accès se fait par l'extérieur, on y trouve les alcools forts. En effet, ils ne sont pas vendus dans le supermarché lui-même.   
@@ -104,7 +113,8 @@ Les américains sont férus de chasse et de pêche et par conséquent, ces deux 
 Avant de visiter les Everglades et ses marécages, pour ne pas se faire piquer par des nuées de moustiques, nous nous sommes arrêtés au rayon répulsif et là, oh surprise, du répulsif à ... Alligators.  
 
 Le côté alimentation vaut le détour également. Tous les produits sont conditionnés en grosse, même très grosse quantité. Impossible ne serait-ce que d'acheter, par exemple, 1 litre de lait ou de jus d'orange. D'ailleurs, les rayons jus de fruits et sodas sont énormissimes ainsi que le rayon bombons, du choix, du choix à n'en plus finir. A côté du thon en boite, on peut aussi trouver des dés de poulet en conserve.
-Les pâtisseries sont très colorées, peu raffinées et ne donnent pas trop envie. Par contre, les cheesecakes, donuts et coockies sont extras, parole de gourmande!
+Les pâtisseries sont très colorées, peu raffinées et ne donnent pas trop envie. Par contre, les cheesecakes, donuts et coockies sont extras, parole de gourmande!  
+
 Il est rare de trouver, en rayon, des produits tels quels: tout est prédécoupé comme les fruits et les légumes et tout est cuisiné ou préparé même les pâtes, le riz et la purée au bacon, cheese, herbes ...
 Encore un point surprenant: quelquefois, un médecin s'installe dans un coin du magasin entre les torchons et les serviettes, et peut contrôler, à qui veut, l'audition, la vue, la tension...
 Je n'ai pas parlé de prix, c'est sensiblement comme en France, je dirai même être agréablement surprise à la vue du total.
@@ -112,7 +122,11 @@ Pendant nos achats, on croise souvent des employés fort âgés, cela nous surpr
 Arrivés aux caisses, bières et sodas et même du café en canette côtoient bonbons et chewing-gums.
 C'est la caissière qui emballe les courses, elle dispose d'un tourniquet où sont accrochés les sacs jetables, ça nous a fait revenir 15 ans en arrière avant nos sacs réutilisables. Il y a beaucoup de caisses automatiques et on nous vérifie quelquefois le ticket à la sortie.  
 
-Voilà quelles remarques sur leurs supercenter, toutefois l'impression d'ensemble est bonne, c'est propre et l'on s'y sent bien.  
+Voilà quelles remarques sur leurs supercenter, toutefois l'impression d'ensemble est bonne, c'est propre et l'on s'y sent bien. 
+
+### Insécurité
+
+Aucune. Police de tout genre très présente.
 
 ### Quelques chiffres :  
 
@@ -129,3 +143,4 @@ Pour l'instant peu de chiffres, nous verrons plus tard avec un peu plus de recul
 * Nuit en Camping       : 1
 * Nuit parking          : 13
 * Nuit Hôtel            : 13
+
