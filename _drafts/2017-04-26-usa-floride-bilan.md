@@ -76,7 +76,7 @@ ou le laconique
 
 Je crois que tous les couples en vadrouille se reconnaîtront.  
 
-### la vie dans Thor  
+### La vie dans Thor  
 
 On prend nos marques tout doucement, il nous arrive encore de tomber à cours d'eau ou d'électricité mais on apprend petit à petit. Pour autant que nous n'avions jamais fait de camping ou séjour en camping-car, on s'est très rapidement fait à cette nouvelle vie de nomade.  
 
