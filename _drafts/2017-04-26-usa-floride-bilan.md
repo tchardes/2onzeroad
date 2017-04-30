@@ -35,7 +35,7 @@ La Floride est un grand état, il y en a pour tous les goûts, l'océan et le go
 ### Les Américains   
 
 Pour l’instant nous n’avons rencontré que des gens charmants, toujours prêts à vous aider ou vous rendre service, faisant l’effort de se faire comprendre et de vous déchiffrer. Par contre, nous les avons trouvés très peu curieux. Peu nous ont demandé d’où nous venions, voyant très vite que nous n’étions pas du cru. C’est peut-être la Floride où les gens sont habitués et un peu blasés de voir des touristes arriver de la terre entière, toute l’année. Nous verrons par la suite.
-Nous avons été souvent surpris du nombre de personnes âgées qui "Jobe", dans les magasin, le parkings, péages et parfois même debout à des carrefours où ils tiennent en main un panneau publicitaire pour engager les gens à aller visiter tel ou tel magasin, ou bénéficier de telles promos. C'est aussi ça l'Amérique.
+Nous avons été souvent surpris du nombre de personnes âgées qui "Jobbe", dans les magasins, le parkings, péages et parfois même debout à des carrefours où ils tiennent en main un panneau publicitaire pour engager les gens à aller visiter tel ou tel magasin, ou bénéficier de telles promos. C'est aussi ça l'Amérique.
 
 ### La circulation routière   
 
@@ -57,7 +57,7 @@ En règle générale, si on conduit comme en France tout se passe bien, les rout
 
 Après un mois de circulation, la navigatrice a trouvé ces marques et maitrise parfaitement google maps et plans. Les débuts ont été parfois rocambolesques quand au milieu d’une 2X4 voies avec des échangeurs sur 4 niveaux elle vous annonce :   
 
-* c’est là … où là … ben là !!!   
+* c’est là … où là ??? … ben là !!!   
 
 ou bien à la question
 
@@ -71,7 +71,7 @@ On prend nos marques tout doucement, il nous arrive encore de tomber à cours d'
 
 ### Les bivouacs  
 
-Pour l'instant, nous passons nos nuits souvent sur les parkings de Home Dépôt mais surtout de Walmart, immense magasin type carrefour ouvert 24/24. Le fondateur de cette chaine était camping-cariste et a toujours fait en sorte que les RV's puissent stationner pour la nuit sur leurs parkings. Certes, ce n'est pas toujours très glamour mais terriblement pratique quand on bouge constamment. On arrive le soir, on va faire les courses et on aménage Thor petit à petit, on profite du Wi-FI et le lendemain matin, on repart. Les lieux sont sécurisés et assez tranquilles quand on sait où se positionner. Nous avons fait quelques bivouacs sauvages mais ce n'est pas très évident de trouver un endroit accessible où cela est autorisé, surtout en bord de mer.  
+Pour l'instant, nous passons nos nuits souvent sur les parkings de Home Dépôt mais surtout de Walmart, immense magasin type carrefour ouvert 24/24. Le fondateur de cette chaine était camping-cariste et a toujours fait en sorte que les RV's puissent stationner pour la nuit sur les parkings de ces enseignes. Certes, ce n'est pas toujours très glamour mais terriblement pratique quand on bouge constamment. On arrive le soir, on va faire les courses et on aménage Thor petit à petit, on profite du Wi-FI et le lendemain matin, on repart. Les lieux sont sécurisés et assez tranquilles quand on sait où se positionner. Nous avons fait quelques bivouacs sauvages mais ce n'est pas très évident de trouver un endroit accessible où cela est autorisé, surtout en bord de mer.  
 
 
 ### Les magasins  
