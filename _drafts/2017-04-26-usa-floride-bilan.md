@@ -44,6 +44,8 @@ On ne parle même pas des quartiers huppés que nous avons pu voir à Miami, Ven
 
 Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter casquette, tee-shirt.... De nombreuses maisons ont carrément un mât des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau. Certains véhicules, souvent des Pick-up, ont un immense drapeau accroché à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
 
+Des églises de partout, parfois les unes à côté des autres, toujours très bien entretenus, des veilles comme des modernes, bref chacun doit trouver sa paroisse qu'elle soit, Méthodiste, Luthériennes, Pentecôtistes, Episcopaliennes, Presbytérienne, Unitariens, congrégationniste, Evangéliques, Adventistes, Baptistes... Une grande majorité (50%) des chrétiens sont protestants. Nous avons remarqué que les églises Episcopales avant souvent une grande croix devant l'entrée sur laquelle était enroulé, toujours de la même façon, un linge blanc. Je n'en connais pas la signification.
+
 ### La circulation routière   
 
 Elle a ici ses propres règles, parfois surprenantes et parfois, on se demande pourquoi cela n’existe pas chez nous, par exemple :   
@@ -127,6 +129,10 @@ Voilà quelles remarques sur leurs supercenter, toutefois l'impression d'ensembl
 ### Insécurité
 
 Aucune. Police de tout genre très présente.
+
+### Banque
+
+Ravi de ma carte de la banque allemande N26, à l'exception d'une fois où elle n'a pas été prise par le commerçant, elle fonctionne très bien et surtout, aucun frais sur les achats. Leur application est également très ergonomique et pratique.
 
 ### Quelques chiffres :  
 

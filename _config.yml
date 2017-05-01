@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "35.5648, -82.4888"
-  name: "Ashville Caroline du Nord, U.S.A"
+  name: "Ashville, Caroline du Nord, U.S.A"
   date: "01 mai 2017"
 
 # set the encoding to utf-8
