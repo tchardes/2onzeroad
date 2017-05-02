@@ -22,7 +22,7 @@ Bilan forcément positif de la Floride qui aura été notre porte d’entrée po
 
 Sur les plaques d’immatriculation de la Floride est inscrit « Sunshine State » et c’est bien vrai. A part trois ou quatre averses, nous avons eu un temps magnifique et des températures de rêve. On sait d’ores et déjà que cela va se gâter au fur et à mesure de notre progression vers le Canada.   
 
-Voilà nos premières impressions sur la Floride et de facto sur les USA. ce n'est en aucun cas une critique mais juste nos impressions, nos sentiments par rapport à ce que nous connaissons en France :    
+Voilà nos premières impressions sur la Floride et de facto sur les USA. Ce n'est en aucun cas une critique mais juste nos impressions, nos sentiments par rapport à ce que nous connaissons en France :    
 
 ### Changement d'echelle  
 
@@ -42,7 +42,7 @@ Nous avons également souvent longé d'immenses résidences privées, véritable
 
 On ne parle même pas des quartiers huppés que nous avons pu voir à Miami, Venice, Napples... Ici on montre son argent, souvent dans la démesure, c'est normal.
 
-Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter casquette, tee-shirt.... De nombreuses maisons ont carrément un mât des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau. Certains véhicules, souvent des Pick-up, ont un immense drapeau accroché à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
+Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter sur les casquettes, tee-shirt.... De nombreuses maisons ont carrément un mât des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau. Certains véhicules, souvent des Pick-up, ont un immense drapeau accroché à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
 
 Des églises de partout, parfois les unes à côté des autres, toujours très bien entretenus, des veilles comme des modernes, bref chacun doit trouver sa paroisse qu'elle soit, Méthodiste, Luthériennes, Pentecôtistes, Episcopaliennes, Presbytérienne, Unitariens, congrégationniste, Evangéliques, Adventistes, Baptistes... Une grande majorité (50%) des chrétiens sont protestants. Nous avons remarqué que les églises Episcopales avant souvent une grande croix devant l'entrée sur laquelle était enroulé, toujours de la même façon, un linge blanc. Je n'en connais pas la signification.
 
