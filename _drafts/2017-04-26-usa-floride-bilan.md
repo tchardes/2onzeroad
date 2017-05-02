@@ -26,11 +26,11 @@ Voilà nos premières impressions sur la Floride et de facto sur les USA. Ce n'e
 
 ### Changement d'echelle  
 
-On se croirait être Gulliver arrivant à Brobdingrag. Tout est plus grand, tout est au format XXL, les routes, les bâtiments, les magasins, les conditionnements des produits et un peu les américains aussi. En caricaturant un peu, ils sont soit très sportifs et bien taillés, soit en surpoids. Concernant les véhicules, un peu de tout les modèles, mais ils affectionnent quand même beaucoup les pick-up avec des cylindrés et des pots d'échappement hors normes. Quand un vous double, on commence à sentir les vibrations puis le bruit sourd bien grave et enfin le véhicule. On en arrive à se demander si on n'est pas en train de se faire doubler par un croiseur interstellaire de l'empire....   
+On se croirait être Gulliver arrivant à Brobdingrag. Tout est plus grand, tout est au format XXL, les routes, les bâtiments, les magasins, les conditionnements des produits et un peu les américains aussi. En caricaturant, ils sont soit très sportifs et bien taillés, soit en surpoids. Concernant les véhicules, un peu de tout les modèles, mais ils affectionnent quand même beaucoup les pick-up avec des cylindrés et des pots d'échappement hors normes. Quand un vous double, on commence à sentir les vibrations puis le bruit sourd bien grave et enfin le véhicule. On en arrive à se demander si on n'est pas en train de se faire doubler par un croiseur interstellaire de l'empire....   
 
 ### Les Américains   
 
-Pour l’instant nous n’avons rencontré que des gens charmants, toujours prêts à vous aider ou vous rendre service, faisant l’effort de se faire comprendre et de vous déchiffrer. Par contre, nous les avons trouvés très peu curieux. Peu nous ont demandé d’où nous venions, voyant très vite que nous n’étions pas du cru. C’est peut-être la Floride où les gens sont habitués et un peu blasés de voir des touristes arriver de la terre entière, toute l’année. Nous verrons par la suite.  
+Pour l’instant, nous n’avons rencontré que des gens charmants, toujours prêts à vous aider ou vous rendre service, faisant l’effort de se faire comprendre et de vous déchiffrer. Par contre, nous les avons trouvés très peu curieux. Peu nous ont demandé d’où nous venions, voyant très vite que nous n’étions pas du cru. C’est peut-être la Floride où les gens sont habitués et un peu blasés de voir des touristes arriver de la terre entière, toute l’année. Nous verrons par la suite.  
 
 Nous avons été souvent surpris du nombre de personnes vraiment âgées qui "Jobbe", dans les magasins, les parkings, les restaurants, les péages et parfois même debout à des carrefours tenant en main un panneau publicitaire pour engager les gens à aller visiter tel ou tel magasin, ou bénéficier de telles promos. C'est aussi ça l'Amérique.  
 
@@ -40,31 +40,31 @@ On a tous en mémoire ces images dans les films hollywoodiens de ces résidences
 
 Nous avons également souvent longé d'immenses résidences privées, véritables petites villes ceinturées d'un grand mur avec une entrée monumentale digne d'un palais des milles et une nuits. Devant ces murs, des kilomètres de massifs fleuris et boisés extrémenent bien entretenus, tout simplement magnifiques.
 
-On ne parle même pas des quartiers huppés que nous avons pu voir à Miami, Venice, Napples... Ici on montre son argent, souvent dans la démesure, c'est normal.
+On ne parle même pas des quartiers huppés que nous avons pu voir à Miami, Venice, Napples... Ici, on montre son argent, souvent dans la démesure, c'est normal.
 
 Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter sur les casquettes, tee-shirt.... De nombreuses maisons ont carrément un mât des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau. Certains véhicules, souvent des Pick-up, ont un immense drapeau , voire deux avec celui de l'état ou sudiste, accroché, planté à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
 
-Des églises de partout, parfois les unes à côté des autres, toujours très bien entretenus, des veilles comme des modernes, bref chacun doit trouver sa paroisse qu'elle soit, Méthodiste, Luthérienne, Pentecôtiste, Episcopalienne, Presbytérienne, Unitariene, congrégationniste, Evangélique, Adventiste, Baptiste... . Une grande majorité (50%) des chrétiens sont protestants. Nous avons remarqué que les églises Episcopales ont souvent une grande croix devant l'entrée sur laquelle est enroulé, toujours de la même façon, un linge blanc. Je n'en connais pas la signification.
+Des églises de partout, parfois les unes à côté des autres, toujours très bien entretenues, des vieilles comme des modernes, bref chacun doit trouver sa paroisse qu'elle soit, Méthodiste, Luthérienne, Pentecôtiste, Episcopalienne, Presbytérienne, Unitariene, congrégationniste, Evangélique, Adventiste, Baptiste... . Une grande majorité (50%) des chrétiens sont protestants. Nous avons remarqué que les églises Episcopales ont souvent une grande croix devant l'entrée sur laquelle est enroulé, toujours de la même façon, un linge blanc. Je n'en connais pas la signification.
 
 ### La circulation routière   
 
 Elle a ici ses propres règles, parfois surprenantes et parfois, on se demande pourquoi cela n’existe pas chez nous, par exemple :   
 
 * Au feu rouge, et sauf indication contraire, on peut tourner sur sa droite après avoir marqué un stop et en s’assurant de pouvoir s’intégrer dans la circulation ;
-* Un peu déroutants au début, et comme souvent sur tout le continent américain, les feux rouges se trouvent de l’autre côté de la rue. J’ai souvent peur de m’arrêter juste au-dessous comme en France, autant dire en plein milieu du carrefour, ici… ;
+* Un peu déroutant au début, et comme souvent sur tout le continent américain, les feux rouges se trouvent de l’autre côté de la rue. J’ai souvent peur de m’arrêter juste au-dessous comme en France, autant dire en plein milieu du carrefour, ici… ;
 * A l’arrière, les véhicules n’ont pas de feu clignotant orange, ce sont souvent les feux stop qui clignotent, c’est beaucoup moins visible ;
 * Je trouve les feux oranges des feux tricolores assez courts en temps, ce qui m’a obligé plusieurs fois à écraser les freins pour m’arrêter ;
-* Sur les routes à plusieurs voies, on roule où l’on veut mais surtout au milieu car même sur les grandes routes, il y a des sorties à droite… comme à gauche. Certainement par économie, on trouve des stations essences au milieu des 2 X 4 ou 6 voies. De toutes les façons, on se double copieusement par la droite ou par la gauche ;
-* Je comprends pourquoi il y a des boussoles intégrées dans tous les véhicules. C’est très pratique pour se repérer car souvent les rues portent le même N° mais Sud ou Nord…, on voit très peu de panneau donnant la diection générale.
+* Sur les routes à plusieurs voies, on roule où l’on veut mais surtout au milieu car même sur les grandes routes, il y a des sorties à droite… comme à gauche. Certainement par économie, on trouve des stations essence au milieu des 2 X 4 ou 6 voies. De toutes les façons, on se double copieusement par la droite ou par la gauche ;
+* Je comprends pourquoi il y a des boussoles intégrées dans tous les véhicules. C’est très pratique pour se repérer car souvent les rues portent le même N° mais Sud ou Nord…, on voit très peu de panneau donnant la direction générale.
 * A certains carrefours de route de même importance, chacun a un stop et c’est le premier arrivé qui repart et ainsi de suite, en parfait gentlemen ;
-* Ici on ne plaisante pas avec les enfants. Les tronçons de route devant les écoles sont identifiés par des panneaux qui obligent les automobilistes à ralentir à une certaine vitesse si les feux clignotent. Les fameux bus scolaires jaunes s’illuminent comme un sapin de Noël et des panneaux « Stop » se déplient sur le côté du bus lorsqu’ils embarquent ou débarquent des enfants. Tous les véhicules venant dans les deux sens doivent alors faire stop au niveau du bus et attendre que le chauffeur replit ses panneaux avant de pouvoir reprendre la route ;
+* Ici, on ne plaisante pas avec les enfants. Les tronçons de route devant les écoles sont identifiés par des panneaux qui obligent les automobilistes à ralentir à une certaine vitesse si les feux clignotent. Les fameux bus scolaires jaunes s’illuminent comme un sapin de Noël et des panneaux « Stop » se déplient sur le côté du bus lorsqu’ils embarquent ou débarquent des enfants. Tous les véhicules venant dans les deux sens doivent alors faire stop au niveau du bus et attendre que le chauffeur replit ses panneaux avant de pouvoir reprendre la route ;
 * Apparemment, il n’y a pas de règles de base comme chez nous concernant la limitation de vitesse en fonction du type d’axe. Cela oblige à porter une attention constante aux panneaux car même sur l’Interstate (autoroute), la vitesse passe de 50 à 70 miles sans trop de raisons. Idem pour les autres routes ;   
 
-En règle générale, si on conduit comme en France tout se passe bien, les routes sont belles, les voies sont très larges et la signalisation bien faite.  
+En règle générale, si on conduit comme en France, tout se passe bien, les routes sont belles, les voies sont très larges et la signalisation bien faite.  
 
 ### Navigation  
 
-Après un mois de circulation, la navigatrice a trouvé ces marques et maitrise parfaitement google maps et plans. Les débuts ont été parfois rocambolesques quand au milieu d’une 2X4 voies avec des échangeurs sur 4 niveaux elle vous annonce :   
+Après un mois de circulation, la navigatrice a trouvé ces marques et maitrise parfaitement google maps et plans. Les débuts ont été parfois rocambolesques quand au milieu d’une 2X4 voies avec des échangeurs sur 4 niveaux, elle vous annonce :   
 
 * c’est là … où là ??? … ben là !!!   
 
@@ -84,7 +84,7 @@ On prend nos marques tout doucement, il nous arrive encore de tomber à court d'
 
 ### Les bivouacs  
 
-Pour l'instant, nous passons nos nuits souvent sur les parkings de Home Dépôt mais surtout de Walmart, immense magasin type carrefour ouvert 24/24. Le fondateur de cette chaine était camping-cariste et a toujours fait en sorte que les RV's puissent stationner pour la nuit sur les parkings de ces enseignes. Certes, ce n'est pas toujours très glamour mais terriblement pratique quand on bouge constamment. On arrive le soir, on va faire les courses et on aménage Thor petit à petit, on profite du Wi-FI et le lendemain matin, on repart. Les lieux sont sécurisés et assez tranquilles quand on sait où se positionner. Nous avons fait quelques bivouacs sauvages mais ce n'est pas très évident de trouver un endroit accessible où cela est autorisé, surtout en bord de mer.  
+Pour l'instant, nous passons nos nuits souvent sur les parkings de Home Dépôt mais surtout de Walmart, immense magasin type carrefour ouvert 24/24. Le fondateur de cette chaine était camping-cariste et a toujours fait en sorte que les RV's puissent stationner pour la nuit sur les parkings de ses enseignes. Certes, ce n'est pas toujours très glamour mais terriblement pratique quand on bouge constamment. On arrive le soir, on va faire les courses et on aménage Thor petit à petit, on profite du Wi-FI et le lendemain matin, on repart. Les lieux sont sécurisés et assez tranquilles quand on sait où se positionner. Nous avons fait quelques bivouacs sauvages mais ce n'est pas très évident de trouver un endroit accessible où cela est autorisé, surtout en bord de mer.  
 
 ### A voir, à faire   
 
