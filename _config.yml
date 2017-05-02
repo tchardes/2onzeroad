@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "35.5648, -82.4888"
-  name: "Ashville, Caroline du Nord, U.S.A"
-  date: "01 mai 2017"
+  coordinates: "35.4770, -83.3206"
+  name: "Cherokee, Caroline du Nord, U.S.A"
+  date: "02 mai 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
