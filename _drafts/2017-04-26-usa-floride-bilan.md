@@ -42,20 +42,20 @@ Nous avons également souvent longé d'immenses résidences privées, véritable
 
 On ne parle même pas des quartiers huppés que nous avons pu voir à Miami, Venice, Napples... Ici on montre son argent, souvent dans la démesure, c'est normal.
 
-Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter sur les casquettes, tee-shirt.... De nombreuses maisons ont carrément un mât des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau. Certains véhicules, souvent des Pick-up, ont un immense drapeau accroché à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
+Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter sur les casquettes, tee-shirt.... De nombreuses maisons ont carrément un mât des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau. Certains véhicules, souvent des Pick-up, ont un immense drapeau , voire deux avec celui de l'état ou sudiste, accroché, planté à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
 
-Des églises de partout, parfois les unes à côté des autres, toujours très bien entretenus, des veilles comme des modernes, bref chacun doit trouver sa paroisse qu'elle soit, Méthodiste, Luthériennes, Pentecôtistes, Episcopaliennes, Presbytérienne, Unitariens, congrégationniste, Evangéliques, Adventistes, Baptistes... Une grande majorité (50%) des chrétiens sont protestants. Nous avons remarqué que les églises Episcopales avant souvent une grande croix devant l'entrée sur laquelle était enroulé, toujours de la même façon, un linge blanc. Je n'en connais pas la signification.
+Des églises de partout, parfois les unes à côté des autres, toujours très bien entretenus, des veilles comme des modernes, bref chacun doit trouver sa paroisse qu'elle soit, Méthodiste, Luthérienne, Pentecôtiste, Episcopalienne, Presbytérienne, Unitariene, congrégationniste, Evangélique, Adventiste, Baptiste... . Une grande majorité (50%) des chrétiens sont protestants. Nous avons remarqué que les églises Episcopales ont souvent une grande croix devant l'entrée sur laquelle est enroulé, toujours de la même façon, un linge blanc. Je n'en connais pas la signification.
 
 ### La circulation routière   
 
 Elle a ici ses propres règles, parfois surprenantes et parfois, on se demande pourquoi cela n’existe pas chez nous, par exemple :   
 
-* Au feu rouge, et sauf indication contraire, on peut tourner sur sa droite après avoir marqué un stop et en s’assurant pouvoir s’intégrer dans la circulation ;
+* Au feu rouge, et sauf indication contraire, on peut tourner sur sa droite après avoir marqué un stop et en s’assurant de pouvoir s’intégrer dans la circulation ;
 * Un peu déroutants au début, et comme souvent sur tout le continent américain, les feux rouges se trouvent de l’autre côté de la rue. J’ai souvent peur de m’arrêter juste au-dessous comme en France, autant dire en plein milieu du carrefour, ici… ;
 * A l’arrière, les véhicules n’ont pas de feu clignotant orange, ce sont souvent les feux stop qui clignotent, c’est beaucoup moins visible ;
 * Je trouve les feux oranges des feux tricolores assez courts en temps, ce qui m’a obligé plusieurs fois à écraser les freins pour m’arrêter ;
 * Sur les routes à plusieurs voies, on roule où l’on veut mais surtout au milieu car même sur les grandes routes, il y a des sorties à droite… comme à gauche. Certainement par économie, on trouve des stations essences au milieu des 2 X 4 ou 6 voies. De toutes les façons, on se double copieusement par la droite ou par la gauche ;
-* Je comprends pourquoi il y a des boussoles intégrées dans tous les véhicules. C’est très pratique pour se repérer car souvent les rues portent le même N° mais Sud ou Nord… ;
+* Je comprends pourquoi il y a des boussoles intégrées dans tous les véhicules. C’est très pratique pour se repérer car souvent les rues portent le même N° mais Sud ou Nord…, on voit très peu de panneau donnant la diection générale.
 * A certains carrefours de route de même importance, chacun a un stop et c’est le premier arrivé qui repart et ainsi de suite, en parfait gentlemen ;
 * Ici on ne plaisante pas avec les enfants. Les tronçons de route devant les écoles sont identifiés par des panneaux qui obligent les automobilistes à ralentir à une certaine vitesse si les feux clignotent. Les fameux bus scolaires jaunes s’illuminent comme un sapin de Noël et des panneaux « Stop » se déplient sur le côté du bus lorsqu’ils embarquent ou débarquent des enfants. Tous les véhicules venant dans les deux sens doivent alors faire stop au niveau du bus et attendre que le chauffeur replit ses panneaux avant de pouvoir reprendre la route ;
 * Apparemment, il n’y a pas de règles de base comme chez nous concernant la limitation de vitesse en fonction du type d’axe. Cela oblige à porter une attention constante aux panneaux car même sur l’Interstate (autoroute), la vitesse passe de 50 à 70 miles sans trop de raisons. Idem pour les autres routes ;   
@@ -80,7 +80,7 @@ Je crois que tous les couples en vadrouille se reconnaîtront.
 
 ### La vie dans Thor  
 
-On prend nos marques tout doucement, il nous arrive encore de tomber à cours d'eau ou d'électricité mais on apprend petit à petit. Pour autant que nous n'avions jamais fait de camping ou séjour en camping-car, on s'est très rapidement fait à cette nouvelle vie de nomade.  
+On prend nos marques tout doucement, il nous arrive encore de tomber à court d'eau ou d'électricité mais on apprend petit à petit. Pour autant que nous n'avions jamais fait de camping ou séjour en camping-car, on s'est très rapidement fait à cette nouvelle vie de nomade.  
 
 ### Les bivouacs  
 
@@ -132,13 +132,13 @@ Aucune. Police de tout genre très présente.
 
 ### Banque
 
-Ravi de ma carte de la banque allemande N26, à l'exception d'une fois où elle n'a pas été prise par le commerçant, elle fonctionne très bien et surtout, aucun frais sur les achats. Leur application est également très ergonomique et pratique.
+Ravi de notre carte de la banque allemande N26, à l'exception d'une fois où elle n'a pas fonctionnée dans un TPE, elle fonctionne très bien et surtout, aucun frais sur les achats. Leur application est également très ergonomique et pratique.
 
 ### Quelques chiffres :  
 
 Pour l'instant peu de chiffres, nous verrons plus tard avec un peu plus de recul.  
 
-* Prix moyen de l'essence   : 2,40 $ le galon
+* Prix moyen de l'essence   : 2,40 $ le gallon
 * Total essence             : 473 $  
 
 * Distance parcourue : 
@@ -149,4 +149,3 @@ Pour l'instant peu de chiffres, nous verrons plus tard avec un peu plus de recul
 * Nuit en Camping       : 1
 * Nuit parking          : 13
 * Nuit Hôtel            : 13
-
