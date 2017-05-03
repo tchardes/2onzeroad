@@ -3,7 +3,7 @@ layout:     blog
 title:   "Roadtrip du 24 mars au 07 avril 2017"
 preview:    "Vendredi 24 mars 2017, c’est le jour du grand départ. André nous amène jusqu'à la gare TGV d’Avignon et nous voilà..."
 
-parent-id:  2017-04-26-usa-floride-bilan
+parent-id:  2017-04-25-usa-floride-bilan
 
 date:       2017-04-07 12:00:00
 author:     "Thierry"
