@@ -6,8 +6,8 @@ parent-id:
 
 date:       2017-05-05 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-savannah.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-savannah.jpg
+header-img: "assets/owner/blog/header/post-bg-brpw.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-brpw.jpg
 tags: [nature, parc naturel, montagne, paysage]
 flickr-tag: "Blue Ridge"
 country: USA - Caroline du Nord
