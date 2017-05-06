@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt-flo2.jpg
 tags: []
-country: USA - Géorgie
+country: USA - Géorgie - Caroline (Sud & Nord) - Virginie
 category: "roadmap"
 flickr-tag: ""
 location: ""
