@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Charleston"
-preview:    "... "
+preview:    "Charleston est la deuxième plus grande ville de l'Etat. Ville du sud, on y retrouve la même ambiance qu'à... "
 parent-id:  
 
 date:       2017-04-30 12:00:00
