@@ -4,7 +4,7 @@ title:   "Roadtrip du 25 avril X mai 2017"
 preview:    "Il retrace nos journées du 25 avril au 24 avril..."
 parent-id:  
 
-date:       2017-05-10 12:00:00
+date:       2017-05-06 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt-flo2.jpg
