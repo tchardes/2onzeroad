@@ -6,8 +6,8 @@ parent-id:
 
 date:       2017-05-01 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-savannah.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-savannah.jpg
+header-img: "assets/owner/blog/header/post-bg-congaree.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-congaree.jpg
 tags: [nature, parc naturel, foret]
 flickr-tag: "Congaree NP"
 country: USA - Caroline du Sud
