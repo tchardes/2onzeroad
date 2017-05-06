@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-congaree.jpg
 tags: [nature, parc-naturel, foret]
 flickr-tag: "Congaree NP"
 country: USA - Caroline du Sud
-city: Congaree
+city: Congaree NP
 category: "blog"
 location: "33.8308, -80.8228"
 ---
