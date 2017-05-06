@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Savannah"
 preview:    "Cet article sera le seul sur la Géorgie. Effectivement la façade atlantique de cet Etat est assez courte (130 Miles) et à part Savannah... "
-parent-id:  
+parent-id:  2017-05-10-usa-georgie-mai
 
 date:       2017-04-26 12:00:00
 author:     "Thierry"

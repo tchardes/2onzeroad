@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Cherokee"
 preview:    "Point de départ de la Blue Ridge ParkWay située dans le Great Smoky National Park, nous faisons halte dans la montagne des Appalaches... "
-parent-id:  
+parent-id:  2017-05-10-usa-georgie-mai
 
 date:       2017-05-02 12:00:00
 author:     "Thierry"
