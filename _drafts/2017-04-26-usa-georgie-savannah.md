@@ -19,7 +19,7 @@ location: "32.073177, -81.093111"
 
 Cet article sera le seul sur la Géorgie. Effectivement la façade atlantique de cet Etat est assez courte (130 Miles) et à part Savannah, il n'y a pas grand chose à voir. Nous quittons donc la floride et Jacksonville pour la Géorgie. Nous choisissons de longer la côte par une "départementale" la 17 en faisant un détour par Brunswick et Darien. Si vous avez l'occasion, regarder sur google maps une vue de cette région. Vous y verrez un méandre de cours d'eau rejoignant la mer, à moins que ce ne soit mer qui tente désespérement de s'appropier ces terres.  
 
-Cette partie là de la Géorgie n'est vraiment pas gaie et contraste terriblement avec la Floride. De grande ligne droite avec épars des mobilhommes dé   e crépits ça et là, une impressions de pauvreté et un peu d'abandon...    
+Cette partie là de la Géorgie n'est vraiment pas gaie et contraste terriblement avec la Floride. De grandes lignes droites avec épars des mobilhommes décrépits de ça et là, une impressions de pauvreté et un peu d'abandon...    
 
 Les zones boisées alternent avec les zones humides qui se traversent sur des ponts. On peut alors voir d'immenses marécages, marais dans lesquels un ou plusieurs bas de bras de rivière se tracent un chemein en louvoyant. C'est magnifique. Malheureusement, impossible de s'arrêter de prendre des photos.  
 
