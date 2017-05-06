@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Blue Ridge ParkWay"
-preview:    "... "
+preview:    "On a longtemps hésité avant de bifurquer plein Ouest pour entreprendre la traversée de la Blue Ridge. Un peu tôt encore dans la saison, nous craignions... "
 parent-id:  2017-05-10-usa-georgie-mai
 
 date:       2017-05-05 12:00:00
