@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Blue Ridge ParkWay"
 preview:    "... "
-parent-id:  
+parent-id:  2017-05-10-usa-georgie-mai
 
 date:       2017-05-05 12:00:00
 author:     "Thierry"
