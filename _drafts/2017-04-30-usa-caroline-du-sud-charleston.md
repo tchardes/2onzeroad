@@ -28,7 +28,7 @@ Nous passerons le journée à l'aide du plan fourni à relier tous les points in
 
 Au final, visite bien agréable en ce dimanche, où de nombreuses personnes flânent dans les rues tandis que d'autres visitent la ville en calèches dont les chevaux connaissent si bien le parcours que leur conducteur commente la visite en regardant peu la route mais plutôt les passager.
 
-Nous avons fait volontairement l'impasse sur la visite du fort Sumter construit sur une île, l'aquarium ainsi que l'une des nombreuses anciennes plantations qui se visitent autour de la ville.
+Nous avons fait volontairement l'impasse sur la visite du Fort Sumter construit sur une île, l'aquarium ainsi que l'une des nombreuses anciennes plantations qui se visitent autour de la ville.
 
 
 
