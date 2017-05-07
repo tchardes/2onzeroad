@@ -22,10 +22,26 @@ Depuis le Visitor center, nous avons emprunté le "BoardWalk" un chemin de 2 mil
 
 
 Les principales essences d'arbres de cette forêt sont :
-* Bald cypress (Taxodium distichum) au pied très évasé, entouré de nombreux rejetons, le plus large fait 27' de circonférence ;
+* Bald cypress (Taxodium distichum) au pied très évasé, entouré de nombreux rejetons, le plus large fait 8,23 mètres de circonférence ;
+>Le Cyprès chauve, ou Cyprès de Louisiane et Cipre en français de Louisiane, est une espèce d'arbres de la famille des Taxodiaceae originaire du sud-est des États-Unis. C'est une espèce remarquable par son adaptation aux milieux humides. (Wikipédia)
+
 * Lobloly Pine (Pins Taeda) le plus haut fait 169' et 15' de large ;
+>Pinus taeda est une espèce d'arbre de la famille des Pinaceae. C'est une des nombreuses espèces de pin originaire du Sud-Est des États-Unis. Elle a été introduite en Europe en 1713. Elle est appelée pin taeda, pin à l’encens, pin à torches (« taeda » signifie « torche » en latin) car les Romains se servaient des branches de résineux pour faire des torches.(Wikipédia)
+
 * American Beech (Fagus Grandifolia) ;
+> Fagus grandifolia ( hêtre américain ou hêtre nord- américain ) est l'espèce de hêtre originaire de l'est des États-Unis et de l'extrême sud-est du Canada. Le nom de genre Fagus est le latin pour le «hêtre», et le nom de l'espèce Grandifolia provient de la «feuille» grandis «large» et du folium. (Wikipédia)
+
 * Water Tupelo (Nyssa Acquatica) ;
+> Communément appelée tupelo d'eau, c'est un grand arbre à longue durée de vie dans le genre tupelo (Nyssa) qui pousse dans les marécages et les plaines inondables dans le sud-est des États-Unis.Les troncs Nyssa aquatica ont une base gonflée qui s'effondre jusqu'à une longue et claire foudre, et son système racinaire est périodiquement sous l'eau.(Wikipédia)
+
+
+
+
+
+
+
+(Wikipédia)
+
 * Pawpaw (Asimia Triloba) ;
 * American Holly (Llex Paoac) ;
 * American Elm
