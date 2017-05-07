@@ -25,7 +25,7 @@ Les principales essences d'arbres de cette forêt sont :
 * Bald cypress (Taxodium distichum) au pied très évasé, entouré de nombreux rejetons, le plus large fait 8,23 mètres de circonférence ;
 >Le Cyprès chauve, ou Cyprès de Louisiane et Cipre en français de Louisiane, est une espèce d'arbres de la famille des Taxodiaceae originaire du sud-est des États-Unis. C'est une espèce remarquable par son adaptation aux milieux humides. (Wikipédia)
 
-* Lobloly Pine (Pins Taeda) le plus haut fait 169' et 15' de large ;
+* Lobloly Pine (Pins Taeda) le plus haut fait 51 mètres et 4,60 mètres de large ;
 >Pinus taeda est une espèce d'arbre de la famille des Pinaceae. C'est une des nombreuses espèces de pin originaire du Sud-Est des États-Unis. Elle a été introduite en Europe en 1713. Elle est appelée pin taeda, pin à l’encens, pin à torches (« taeda » signifie « torche » en latin) car les Romains se servaient des branches de résineux pour faire des torches.(Wikipédia)
 
 * American Beech (Fagus Grandifolia) ;
