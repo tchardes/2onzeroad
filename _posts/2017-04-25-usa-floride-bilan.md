@@ -24,7 +24,7 @@ Sur les plaques d’immatriculation de la Floride est inscrit « Sunshine State
 
 Voilà nos premières impressions sur la Floride et de facto sur les USA. Ce n'est en aucun cas une critique mais juste nos impressions, nos sentiments par rapport à ce que nous connaissons en France :    
 
-### Changement d'echelle  
+### Changement d'échelle  
 
 On se croirait être Gulliver arrivant à Brobdingrag. Tout est plus grand, tout est au format XXL, les routes, les bâtiments, les magasins, les conditionnements des produits et un peu les américains aussi. En caricaturant, ils sont soit très sportifs et bien taillés, soit en surpoids. Concernant les véhicules, un peu de tout les modèles, mais ils affectionnent quand même beaucoup les pick-up avec des cylindrés et des pots d'échappement hors normes. Quand un vous double, on commence à sentir les vibrations puis le bruit sourd bien grave et enfin le véhicule. On en arrive à se demander si on n'est pas en train de se faire doubler par un croiseur interstellaire de l'empire....   
 
@@ -38,13 +38,13 @@ Nous avons été souvent surpris du nombre de personnes vraiment âgées qui "Jo
 
 On a tous en mémoire ces images dans les films hollywoodiens de ces résidences, modestes ou énormes, sans clôture, le gazon devant la maison coupé au cordeau, un beau massif et la boîte aux lettres personnalisée. Et bien c'est exactement ça, c'est très propre, très bien entretenu, c'est arrangé avec goût, les façades ont l'air d'avoir été refaites la veille, les voitures dans l'allée impeccables.
 
-Nous avons également souvent longé d'immenses résidences privées, véritables petites villes ceinturées d'un grand mur avec une entrée monumentale digne d'un palais des milles et une nuits. Devant ces murs, des kilomètres de massifs fleuris et boisés extrémenent bien entretenus, tout simplement magnifiques.
+Nous avons également souvent longé d'immenses résidences privées, véritables petites villes ceinturées d'un grand mur avec une entrée monumentale digne d'un palais des milles et une nuits. Devant ces murs, des kilomètres de massifs fleuris et boisés extrêmement bien entretenus, tout simplement magnifiques.
 
 On ne parle même pas des quartiers huppés que nous avons pu voir à Miami, Venice, Napples... Ici, on montre son argent, souvent dans la démesure, c'est normal.
 
 Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter sur les casquettes, tee-shirt.... De nombreuses maisons ont carrément un mât des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau. Certains véhicules, souvent des Pick-up, ont un immense drapeau , voire deux avec celui de l'état ou sudiste, accroché, planté à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
 
-Des églises de partout, parfois les unes à côté des autres, toujours très bien entretenues, des vieilles comme des modernes, bref chacun doit trouver sa paroisse qu'elle soit, Méthodiste, Luthérienne, Pentecôtiste, Episcopalienne, Presbytérienne, Unitariene, congrégationniste, Evangélique, Adventiste, Baptiste... . Une grande majorité (50%) des chrétiens sont protestants. Nous avons remarqué que les églises Episcopales ont souvent une grande croix devant l'entrée sur laquelle est enroulé, toujours de la même façon, un linge blanc. Je n'en connais pas la signification.
+Des églises de partout, parfois les unes à côté des autres, toujours très bien entretenues, des vieilles comme des modernes, bref chacun doit trouver sa paroisse qu'elle soit, Méthodiste, Luthérienne, Pentecôtiste, Episcopalienne, Presbytérienne, Unitarienne, congrégationniste, Evangélique, Adventiste, Baptiste... . Une grande majorité (50%) des chrétiens sont protestants. Nous avons remarqué que les églises Episcopales ont souvent une grande croix devant l'entrée sur laquelle est enroulé, toujours de la même façon, un linge blanc. Je n'en connais pas la signification.
 
 ### La circulation routière   
 
@@ -58,7 +58,7 @@ Elle a ici ses propres règles, parfois surprenantes et parfois, on se demande p
 * Je comprends pourquoi il y a des boussoles intégrées dans tous les véhicules. C’est très pratique pour se repérer car souvent les rues portent le même N° mais Sud ou Nord…, on voit très peu de panneau donnant la direction générale.
 * A certains carrefours de route de même importance, chacun a un stop et c’est le premier arrivé qui repart et ainsi de suite, en parfait gentlemen ;
 * Ici, on ne plaisante pas avec les enfants. Les tronçons de route devant les écoles sont identifiés par des panneaux qui obligent les automobilistes à ralentir à une certaine vitesse si les feux clignotent. Les fameux bus scolaires jaunes s’illuminent comme un sapin de Noël et des panneaux « Stop » se déplient sur le côté du bus lorsqu’ils embarquent ou débarquent des enfants. Tous les véhicules venant dans les deux sens doivent alors faire stop au niveau du bus et attendre que le chauffeur replit ses panneaux avant de pouvoir reprendre la route ;
-* Apparemment, il n’y a pas de règles de base comme chez nous concernant la limitation de vitesse en fonction du type d’axe. Cela oblige à porter une attention constante aux panneaux car même sur l’Interstate (autoroute), la vitesse passe de 50 à 70 miles sans trop de raisons. Idem pour les autres routes ;   
+* Apparemment, il n’y a pas de règles de base comme chez nous concernant la limitation de vitesse en fonction du type d’axe. Cela oblige à porter une attention constante aux panneaux car même sur l’Interstate (autoroute), la vitesse passe de 50 à 70 miles sans trop de raisons. Idem pour les autres routes ;  * Les bus ont à l'avant un porte vélo. Si une personne à vélo veut monter dans le car elle déplie le porte vélo et le fixe. Quand elle descend, elle reprend son vélo sous l'oeil du chauffeur. 
 
 En règle générale, si on conduit comme en France, tout se passe bien, les routes sont belles, les voies sont très larges et la signalisation bien faite.  
 
