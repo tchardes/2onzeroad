@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "38.0112, -78.4649"
-  name: "Charlottesville, Virginie, U.S.A"
-  date: "06 mai 2017"
+  coordinates: "39.9143, -78.1892"
+  name: "Front Royal, Virginie, U.S.A"
+  date: "08 mai 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
