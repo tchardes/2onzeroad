@@ -26,6 +26,9 @@ Troisième article de type carnet de route (couleur rouge), il couvre la périod
 
 30 visite Charleston
 
+En arrivant au USA et voyant un peu toutes les marques de voiture circuler on s'était dit le premier qui voit une voiture française gagne quelque chose. Et bien c'est moi qui ait remporté la coupe et cela en rentrant dans charleston. On croise, à contre sens, une Citroën 2CV et devinez de quel modèle ... une Charleston avec sa peinture d'origine, bordeaux et noire. Surement un expatrié avec beaucoup d'humour...
+
+
 01/05 Visite de Congaree NP
 
 02 Visite de Cherokee
