@@ -41,3 +41,7 @@ En arrivant au USA et voyant un peu toutes les marques de voiture circuler on s'
 
 9 au  Visite de washington DC
 
+9 : Cimetière D'Arlngton et go to camping
+10 : Visite de la Bibliothèque du Congres (Déclaration of independance, The constitution, The Bill of Right, Statue libertée), Capitole et le Natiolan Air and Space museum
+11 : Visite du National Archive, US Navy Mémorial and Naval Heritage Center et du National Gallery of Art (2 batiments)
+12 
