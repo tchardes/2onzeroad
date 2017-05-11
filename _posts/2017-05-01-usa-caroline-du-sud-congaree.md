@@ -37,7 +37,7 @@ Les principales essences d'arbres de cette forêt sont :
 * American Elm
 * Cherrybark Oak
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34088021000/in/datetaken/" title="Congaree NP - Caroline du Sud - [USA]"><img src="https://c1.staticflickr.com/5/4160/34088021000_fbbba6192f_k.jpg" width="2048" height="1152" alt="Congaree NP - Caroline du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 Durant la prohibition, ce lieu était le refuge des bouilleurs de cru (Bootleggers) qui fabriquaient, dans la plus grande clandestinité, de l'alcool. Pas grand chose de plus à dire mais simplement l'envie de partager quelques photos de ce lieu assez insolite.
 
