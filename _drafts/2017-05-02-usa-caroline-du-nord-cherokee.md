@@ -21,13 +21,13 @@ Point de départ de la **Blue Ridge ParkWay** située dans le **Great Smoky Nati
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34342968941/in/datetaken/" title="Cherokee - Caroline du Nord - [USA]"><img src="https://c1.staticflickr.com/5/4173/34342968941_b495c80d12_k.jpg" width="2048" height="1152" alt="Cherokee - Caroline du Nord - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Il s'agit bien d'un territoire Indien sans pour autant être à 100% autonome. Il abrite à peu près 12000 descendants et rescapés de l'exil pour ne pas dire la déportation vers l'Oklahoma de la tribu des indiens Cherokee. La ville est assez petite mais très bien arrangée. Les bâtiments, principalement en bois, ont une architecture particulière. Soucieux de l'environnement, de nombreux panneaux solaires et quelques éoliennes semblent alimenter une partie de la ville. Une borne de recharge de tesla est même disponible de vant le visitor center. Toutes les inscriptions sont traduites en langue Cherokee. Il est vrai que cette tribu faisait partie, pour le gouvernement américains, des 5 tribus civilisées.   
+Il s'agit bien d'un territoire Indien sans pour autant être à 100% autonome. Il abrite à peu près 12000 descendants et rescapés de l'exil, pour ne pas dire la déportation, vers l'Oklahoma de plusieurs tribus d'indiens, dont les Cherokee, car ils avaient eu la mauvaise idée de vivre sur des terres orifères. La ville est assez petite mais très bien arrangée. Les bâtiments, principalement en bois, ont une architecture particulière. Soucieux de l'environnement, de nombreux panneaux solaires et quelques éoliennes semblent alimenter une partie de la ville. Une borne de recharge de Tesla est même disponible devant le visitor center. Toutes les inscriptions sont traduites en langue Cherokee. Il est vrai que cette tribu faisait partie, pour le gouvernement américain, des 5 tribus dites "civilisées".   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33631088524/in/datetaken/" title="Cherokee - Caroline du Nord - [USA]"><img src="https://c1.staticflickr.com/5/4158/33631088524_bfb5de9b9a_k.jpg" width="2048" height="1152" alt="Cherokee - Caroline du Nord - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33631086444/in/datetaken/" title="Cherokee - Caroline du Nord - [USA]"><img src="https://c1.staticflickr.com/5/4169/33631086444_3dabafc296_k.jpg" width="2048" height="1152" alt="Cherokee - Caroline du Nord - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Un artiste local à décoré la ville de nombreux ours en terre cuite joliment décorés.   
+Un artiste local a décoré la ville de nombreux ours en terre cuite joliment décorés.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33663622083/in/datetaken/" title="Cherokee - Caroline du Nord - [USA]"><img src="https://c1.staticflickr.com/5/4186/33663622083_0be35ce508_k.jpg" width="2048" height="1152" alt="Cherokee - Caroline du Nord - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -37,6 +37,6 @@ Non loin du **"Tribal Council House"** a été édifié un mémorial des vétér
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34088371800/in/datetaken/" title="Cherokee - Caroline du Nord - [USA]"><img src="https://c1.staticflickr.com/5/4180/34088371800_db0ab3009e_k.jpg" width="2048" height="1152" alt="Cherokee - Caroline du Nord - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Tournée vers l'artisanat de nombreuses échoppes proposes leur produits, il est également possible de visiter musée et un village indien reconstitué "Ocanaluftee".   
+Tournées vers l'artisanat de nombreuses boutiques proposent leurs produits. Il est également possible de visiter un musée et un village indien reconstitué "Ocanaluftee".   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34342980961/in/datetaken/" title="Cherokee - Caroline du Nord - [USA]"><img src="https://c1.staticflickr.com/3/2866/34342980961_a0ad9a0df4_k.jpg" width="2048" height="1152" alt="Cherokee - Caroline du Nord - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
