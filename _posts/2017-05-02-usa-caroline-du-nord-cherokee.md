@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Cherokee"
+title:      "Réserve Indienne de Cherokee"
 preview:    "Point de départ de la route Blue Ridge ParkWay située dans le Great Smoky National Park, que nous allons emprunter, nous faisons halte dans la... "
 parent-id:  2017-05-10-usa-georgie-mai
 
