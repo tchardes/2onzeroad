@@ -20,41 +20,43 @@ itinary: "brpw.json"
 Troisième article de type carnet de route (couleur rouge), il couvre la période du 25 avril au 
 
 
-25 et 26 Avril
+##25 et 26 Avril
 
 Nous quittons la Floride pour la Géorgie. Arrivé à Savannah nous nous posons à l'entrée de la ville et faisons le plein des courses au Walmart. le lendemain direction le centre ville où nous trouvons facielement le Visitor center eu surtout un parking gratuit juste devant le musée des chemins de fer de la géorgie. Nous n'avons plus d'eau dans le réservoir mais nous avons un stock de bouteilles d'eau pour notre consommation. Le lendemain nous finissons notre visite et nous partons en direction de la Caroline du Sud, Charleston en faisant un détour par les villes de Beauport et Port Royal où nous passons la nuit.
 
-27 au 29 Avril
+##27 au 29 Avril
 
 Le nous nous arrêtons à quelques kilomètres avant d'arriver à Charleston dans un camping le "Lake Aire RV Park" que nous avons selectionné grace au Passport America afin de faire les pleins, les vides et les lessives. Au départ nous devions y rester 2 jours mais avec tout ce que nous avions à faire, nous avons pris une journée supplémentaire. Le camping est très boisé, situé autour d'un lac. Le dernier jour, un couple de Québecois est venu s'installer à côté de nous. En voyage depuis plus d'un an, ils rentrent tout doucement chez eux. Nous avons beaucoup échangé sur les différentes routes et choses à voir ainsi des applications qui nous sont bien utiles. Concernant la recherche du meilleur prix pour l'essence il m'indique une application "GazBuddy" qui liste les stations autour de sa position qui propose le meilleur prix. Il est vrai qu'aux USA on peut facilement trouver des écarts de 30 cts du Gallon à quelques kilomètres de distance, vu notre consommation, ce n'est pas négligeable. Le problème c'est que cette application n'est pas disponible sur l'apple store français. J'ai donc du créer un compte Apple US afin de pourvoir télécharger cette application, au final super pratique et utile. Pour la première fois nous faisons le plein de notre réservoir à Gaz directement depuis le Camping qui dospise d'une citerne de propane.
 
-30 Avril
+##30 Avril
 
 En arrivant au USA et voyant un peu toutes les marques de voiture circuler on s'était dit le premier qui voit une voiture française gagne quelque chose. Et bien c'est moi qui ait remporté la coupe et cela en rentrant dans charleston. On croise, à contre sens, une Citroën 2CV et devinez de quel modèle ... une Charleston avec sa peinture d'origine, bordeaux et noire. Surement un expatrié avec beaucoup d'humour...
 
 Après la visite de de ville qui nous a bien plut on se pose la question entre poursuivre vers le nord par la côte en direction de Washington ou rentrer dans les terres pleins Ouest est traverser las Appalaches par la Blue Ridge ParkWay. On sait qu'il est encore tôt dans la saison et que l'on risque de voir chutter le thermomètre, pire de faire la route dans le brouillard mais nous décidons de prendre un peu d'altitude. Nous serons toujours à temps de bifurquer si les conditions météorologique ne sont pas avec nous.
 
 
-01 mai
+##01 mai
 
 Nous quittons Charleston pour la Caroline du Nord avec comme destination Asheville. En route, nous faisons un détour vers Columbia pour visiter le Parc de Congaree que j'avais repéré en préparant le voyage, tant j'avais trouvé les photos de cet endroit surprenantes. Nous n'avons pas été deçus tant l'ambiance qui règne dans cette forêt immergée est spéciale, en y ajoutant un temps très maussade. Nous regrettons juste le manque d'information, visible, qui nous conduira à traversser des passerelle immergée croyant pouvoir finir le trail alors qu celui-ci était conmdamné un peu plus loin.
 Le soir nous nous posons sur le parking d'un walmart, le long d'un étang. Du début de soirée jusque tard dans la nuit nous allons être bercés par un concert de grenouilles en pleine phase créative version free jazz, en gros une vrai cacaphonie.  
 
 
-02 mai
+##02 mai
 
 Ce matin on a du mal à se lever car il nous semble qu'il nous manque quelque chose... Ah oui c'est ça, 10°. Habitués aux températures du Sud et de bord de mer, il fait un peu frisquet même si le thermomètre affiche 15°. Direction la porte d'entrée de la Blue Ridge et la réserve Indienne de Cherokee. Nous passons une bonne partie de la matinée à visiter le village principal de la réserve et mangeons devant une très belle rivière qui le traverse. En début d'après midi, nous rentrons dans le Blue Ridge ParkWay et poursuivont notre assencion. Le soir premier bivouack sur une overloock avec une vue magnifique sur les Appalaches.
 
-02 au 06 mai
+##02 au 06 mai
 
 Nous traverssons par les crêtes ces magnifiques montagnes où nous avons pu admirer de magnifiques points de vue et faire quelques trails pas trops raides et bien agréables. Nous avons également râté quelques sites, soit car mal indiqués ou en raison du mauvais temps.
 
-Le 03 mai nous sortons de quelques kilomètres de la Blue Ridge pour visiter un site remarquable, le **Father Mountain** à Collettesville mais nous arrivons trop tard et le site viens juste de fermer. En dehors des Parc qui ferme généralement à la tombée de la nuit, tous les autres sites ferme souvent à 17 heures. Nous décidons de revenir sur la Blue Ridge et passer la nuit non loin afin d'être sur place le matin de bon heure. Le lendemain matin, les temps est nuageux et le fameux point de vue dans les nuages. Nous allons rouler une bonne partie de la matinée dans le brouillard avant que le temps se lêve. Le lendemain le temps est toujours nuageux et commence à pleuvoir vers 18H00. Je trouve un bivouack sur un overlook bien dégagé et pas trop près des arbres au cas ou le vent se lêve. Bien m'en a pris. Vers 22 heures le vent s'est levé en bourasque avec de forte pluie, des sceaux d'eaux, et ce jusqu'à 06 heures. Le pauvre Thor qui n'est pas vraiment aérodynamique, mais plutôt gros cube, c'est fait secouer toutes la nuit dans tous les sens avec nous par la même occasion. Ce qui est sur, c'est qu'il est bien étanche... 
+Le 03 mai nous sortons de quelques kilomètres de la Blue Ridge pour visiter un site remarquable, le **Father Mountain** à Collettesville mais nous arrivons trop tard et le site viens juste de fermer. En dehors des Parc qui ferme généralement à la tombée de la nuit, tous les autres sites ferme souvent à 17 heures. Nous décidons de revenir sur la Blue Ridge et passer la nuit non loin afin d'être sur place le matin de bon heure. Le lendemain matin, les temps est nuageux et le fameux point de vue dans les nuages. Nous allons rouler une bonne partie de la matinée dans le brouillard avant que le temps se lêve. 
 
-Le lendemain le temps est beau et nous décidons une nouvelle fois de sortir du Parc pour aller visiter le "Naturel Bridge State Parc". A notre arrivée au très beau visitor center, nous apprenons que le site est exceptionnellement fermé pour nettoyage en raison de la tempête de la veille. Nous retournons sur la Blue Ridge pour poursuivre la route
+Le lendemain, 04 mai, le temps est toujours nuageux et commence à pleuvoir vers 18H00. Je trouve un bivouack sur un overlook bien dégagé et pas trop près des arbres au cas ou le vent se lêve. Bien m'en a pris. Vers 22 heures le vent s'est levé en bourasque avec de forte pluie, des sceaux d'eaux, et ce jusqu'à 06 heures. Le pauvre Thor qui n'est pas vraiment aérodynamique, mais plutôt gros cube, c'est fait secouer toutes la nuit dans tous les sens avec nous par la même occasion. Ce qui est sur, c'est qu'il est bien étanche... 
+
+Le 05 mai le temps est beau et nous décidons une nouvelle fois de sortir du Parc pour aller visiter le "Naturel Bridge State Parc". A notre arrivée au très beau visitor center, nous apprenons que le site est exceptionnellement fermé pour nettoyage en raison de la tempête de la veille. Nous retournons sur la Blue Ridge pour poursuivre la route jusqu'à la fin de la première partie à l'entrée du Shenandoah Park. Nous quittons à nouveau la rote pour nous rendre à Charlottesvile.
 
 
-06 Charlottesville
+##06 et 07 Mai
 
 07 et 08 skyline et Luray
 
