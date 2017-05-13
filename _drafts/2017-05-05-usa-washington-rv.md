@@ -7,8 +7,8 @@ parent-id:  2017-05-10-usa-georgie-mai
 date:       2017-05-05 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-brpw.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-brpw.jpg
-tags: [nature, parc-naturel, montagne, paysage]
+thumbnail: /assets/owner/blog/thumbs/post-thumb-greenbelt.jpg
+tags: []
 flickr-tag: ""
 country: USA - Maryland
 city: Washington
