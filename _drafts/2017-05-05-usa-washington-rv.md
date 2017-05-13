@@ -1,7 +1,7 @@
 ---
 layout:     blog
-title:      "Blue Ridge ParkWay"
-preview:    "On a longtemps hésité avant de bifurquer plein Ouest pour entreprendre la traversée de la Blue Ridge. Un peu tôt encore dans la... "
+title:      "Washington en RV"
+preview:    "Visiter Washington en RV n'est pas forcément très facile. En préparant notre voyage, nous avions retenu 3 options... "
 parent-id:  2017-05-10-usa-georgie-mai
 
 date:       2017-05-05 12:00:00
@@ -9,11 +9,11 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-brpw.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-brpw.jpg
 tags: [nature, parc-naturel, montagne, paysage]
-flickr-tag: "Blue Ridge"
-country: USA - Caroline du Nord
-city: Blue Ridge
+flickr-tag: ""
+country: USA - Maryland
+city: Washington
 category: "blog"
-location: "36.0132, -81.8852"
+location: "38.979650, -76.906927"
 ---
 
 Visiter Washington en RV n'est pas forcément très facile. En préparant notre voyage, nous avions retenu 3 options glanées sur certains carnets de route et sur les forums à savoir :
@@ -24,18 +24,22 @@ Visiter Washington en RV n'est pas forcément très facile. En préparant notre 
 
 **Première solution :**
 
-En arrivant de la Blue Ridge, nous nous rendons directement à la gare d'Alexandria pour tater le terrain. Je demande à un employé de la gare si l'on peut se garer et il m'indique que c'est limité à 2 heures et uniquement pour les véhicules légers. Il m'indique que de l'autre côté de la gare se trouve des parkings payants. Nous faisons le tour de tous les parkings mais aucun ne peut accepter notre RV. Certainement ceux qui ont choisi cette option étaient en fourgon. 
+En arrivant de la Blue Ridge, nous nous rendons directement à la gare d'Alexandria pour tater le terrain. Je demande à un employé de la gare si l'on peut se garer et il m'indique que c'est limité à 2 heures et uniquement pour les véhicules légers et me dit que de l'autre côté de la gare se trouve des parkings payants. Nous faisons le tour de tous les parkings mais aucun ne peut accepter notre RV. Certainement ceux qui ont choisi cette option étaient en fourgon, van. 
 
 
 **Deuxième solution :**
 
-Nous décidons de tenter notre chance à Greenbelt NP. Une fois dans le campground, nous faisons le tour des deux "quartiers" ouverts, "Loop B" et "Loop D" où nous trouvons bien un panneaux à l'entrée d'un sentier indiquant "Metro acces trail". 
+Nous décidons de tenter notre chance à Greenbelt NP. Une fois dans le campground, nous faisons le tour des deux "quartiers" ouverts, "Loop B" et "Loop D" où nous trouvons bien un panneau à l'entrée d'un sentier indiquant "Metro acces trail". 
 Ce campground propose un Dump général, plusieurs points d'eau potable et des sanitaires. A l'emplacement, table avec banc et BBC.
+
+<img src="{{baseurl}}/assets/owner/photos/greenbelt3.jpg" style="width:100%" /> 
 
 Si vous réservez à l'avance demander :
 
 * Une place Loop D
-* Si possible une place entre les N°140 et 150 (Ce sont les plus près du sentier)
+* Si possible une place entre les N°130 et 160 (Ce sont les plus près du sentier)
+
+<img src="{{baseurl}}/assets/owner/photos/greenbelt2.jpg" style="width:100%" /> 
 
 Pour rejoindre le métro :
 
