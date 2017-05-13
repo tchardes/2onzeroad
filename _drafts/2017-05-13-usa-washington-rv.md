@@ -4,7 +4,7 @@ title:      "Washington en RV"
 preview:    "Visiter Washington en RV n'est pas forcément très facile. En préparant notre voyage, nous avions retenu 3 options... "
 parent-id:  2017-05-14-usa-georgie-mai
 
-date:       2017-05-05 12:00:00
+date:       2017-05-13 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-brpw.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-greenbelt.jpg
