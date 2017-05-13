@@ -29,7 +29,7 @@ En arrivant de la Blue Ridge, nous nous rendons directement à la gare d'Alexand
 
 **Deuxième solution :**
 
-Nous décidons de tenter notre chance à Greenbelt NP. Une fois dans le campground, nous faisons le tour des deux "quartiers" ouverts, "Loop B" et "Loop D" où nous trouvons bien un panneaux à l'entrée d'un sentier indiquant "Métro". 
+Nous décidons de tenter notre chance à Greenbelt NP. Une fois dans le campground, nous faisons le tour des deux "quartiers" ouverts, "Loop B" et "Loop D" où nous trouvons bien un panneaux à l'entrée d'un sentier indiquant "Metro acces trail". 
 Ce campground propose un Dump général, plusieurs points d'eau potable et des sanitaires. A l'emplacement, table avec banc et BBC.
 
 Si vous réservez à l'avance demander :
@@ -39,19 +39,19 @@ Si vous réservez à l'avance demander :
 
 Pour rejoindre le métro :
 
-* Emprunter le sentier (très agréable et pratiquable) sur 1,200 Km vous arrivez sur la rue "Good Luck Rd".
+* Emprunter le sentier (très agréable et pratiquable) sur 1,200 Km puis vous arrivez sur la rue "Good Luck Rd".
 
 **Solution 1**
 
-* Prendre sur votre droite vers le carrefour et prenez la rue sur votre droite "Kenilworth Av" sur environ 300 mètres en tout et vous avez un arrêt de BUS "KENILWORTH AVE + GOOD LUCK RD - N° 3004093" de la ligne R12. Le bus est censé passer toutes les demies-heure à partir de 05h32 puis toutes les heures à partir de 10hOO.
-* Ce car de ville, vous conduira après une dizaine d'arrêts, comptez bien 30 minutes, à "Greenbelt Station" qui est le terminus de la Ligne verte du métro. Le trajet vous coutera 1,75$/Pers. (il faut avoir l'appoint, la machine ne rend pas la monnaie).
+* Prendre sur votre droite vers le carrefour et prenez la rue sur votre droite "Kenilworth Av" sur environ 300 mètres en tout et vous avez un arrêt du Metro Bus "N° 3004093" de la ligne R12. Le bus est censé passer toutes les demies-heure à partir de 05h32 puis toutes les heures à partir de 10hOO.
+* Ce car de ville vous conduira, après une dizaine d'arrêts, comptez bien 30 minutes, à "Greenbelt Station" qui est le terminus de la Ligne verte du métro de Washington. Le trajet vous coutera 1,75$/Pers. (il faut avoir l'appoint, la machine ne rend pas la monnaie).
 
 **Solution 2**
 
 * Vous êtes en forme et en jambes.
-* Au lieu de tourner à droite sur "Kenilworth Av", vous traverser en face sur "Campus Rd" et vous faite encore 1,5km pour arriver à la gare "College Park-U of MD station", on ne paut pas la rater. C'est l'avant derbière station le terminus, Greenbelt.
+* Au lieu de tourner à droite sur "Kenilworth Av", vous traverser en face sur "Campus Rd" et vous faite encore 1,5km pour arriver à la gare "College Park-U of MD station", on ne peut pas la rater. C'est l'avant dernière station avant le terminus.
 
-(Durant notre séjour, Greenbelt Station était fermée et des shuttles gratuits acheminés les voyageurs à "College Park-U of MD station")
+(Durant notre séjour, Greenbelt Station était fermée et des shuttles gratuits acheminaient directement les voyageurs à "College Park-U of MD station")
 
 
 **A la gare**
