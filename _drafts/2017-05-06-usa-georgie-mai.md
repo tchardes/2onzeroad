@@ -1,5 +1,5 @@
 ---
-layout:     blog
+layout:  blog
 title:   "Roadtrip du 25 avril 14 mai 2017"
 preview:    "Il retrace nos journées du 25 avril au 14 mai..."
 parent-id:  
@@ -12,8 +12,8 @@ tags: []
 country: USA - Georgie - Caroline (Sud & Nord) - Virginie
 category: "roadmap"
 flickr-tag: ""
-location: ""
-itinary: ""
+location: "37.197105, -80.018274"
+itinary: "brpw.json"
 
 ---
 
