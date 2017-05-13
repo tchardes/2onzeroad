@@ -43,9 +43,16 @@ Le soir nous nous posons sur le parking d'un walmart, le long d'un étang. Du d�
 
 02 mai
 
-Ce matin on a du mal à se lever car il nous semble qu'il nous manque quelque chose... Ah oui c'est ça, 10°. Habitués aux températures du Sud et de bord de mer, il fait un peu frisquet même si le thermomètre affiche 15°. Direction la porte d'entrée de la Blue Ridge et la réserve Indienne de Cherokee. 
+Ce matin on a du mal à se lever car il nous semble qu'il nous manque quelque chose... Ah oui c'est ça, 10°. Habitués aux températures du Sud et de bord de mer, il fait un peu frisquet même si le thermomètre affiche 15°. Direction la porte d'entrée de la Blue Ridge et la réserve Indienne de Cherokee. Nous passons une bonne partie de la matinée à visiter le village principal de la réserve et mangeons devant une très belle rivière qui le traverse. En début d'après midi, nous rentrons dans le Blue Ridge ParkWay et poursuivont notre assencion. Le soir premier bivouack sur une overloock avec une vue magnifique sur les Appalaches.
 
-02 au 05 BRPW
+02 au 06 mai
+
+Nous traverssons par les crêtes ces magnifiques montagnes où nous avons pu admirer de magnifiques points de vue et faire quelques trails pas trops raides et bien agréables. Nous avons également râté quelques sites, soit car mal indiqués ou en raison du mauvais temps.
+
+Le 03 mai nous sortons de quelques kilomètres de la Blue Ridge pour visiter un site remarquable, le **Father Mountain** à Collettesville mais nous arrivons trop tard et le site viens juste de fermer. En dehors des Parc qui ferme généralement à la tombée de la nuit, tous les autres sites ferme souvent à 17 heures. Nous décidons de revenir sur la Blue Ridge et passer la nuit non loin afin d'être sur place le matin de bon heure. Le lendemain matin, les temps est nuageux et le fameux point de vue dans les nuages. Nous allons rouler une bonne partie de la matinée dans le brouillard avant que le temps se lêve. Le lendemain le temps est toujours nuageux et commence à pleuvoir vers 18H00. Je trouve un bivouack sur un overlook bien dégagé et pas trop près des arbres au cas ou le vent se lêve. Bien m'en a pris. Vers 22 heures le vent s'est levé en bourasque avec de forte pluie, des sceaux d'eaux, et ce jusqu'à 06 heures. Le pauvre Thor qui n'est pas vraiment aérodynamique, mais plutôt gros cube, c'est fait secouer toutes la nuit dans tous les sens avec nous par la même occasion. Ce qui est sur, c'est qu'il est bien étanche... 
+
+Le lendemain le temps est beau et nous décidons une nouvelle fois de sortir du Parc pour aller visiter le "Naturel Bridge State Parc". A notre arrivée au très beau visitor center, nous apprenons que le site est exceptionnellement fermé pour nettoyage en raison de la tempête de la veille. Nous retournons sur la Blue Ridge pour poursuivre la route
+
 
 06 Charlottesville
 
