@@ -12,7 +12,7 @@ tags: []
 country: USA - Georgie - Caroline (Sud & Nord) - Virginie
 category: "roadmap"
 flickr-tag: ""
-location: "37.197105, -80.018274"
+location: "36.414880, -79.073924"
 itinary: "brpw.json"
 
 ---

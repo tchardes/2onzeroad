@@ -13,7 +13,7 @@ flickr-tag: "Blue Ridge"
 country: USA - Caroline du Nord
 city: Blue Ridge
 category: "blog"
-location: "36.0132, -81.8852"
+location: "37.197105, -80.018274"
 ---
 
 On a longtemps hésité avant de bifurquer plein Ouest pour entreprendre la traversée de la Blue Ridge. Un peu tôt encore dans la saison, nous craignions de rencontrer des conditions météorologiques un peu dures. Mais l'envie de voir les Appalaches et ces magnifiques paysages vus uniquement sur photos pour l'instant aura été plus grande que nos craintes.  
