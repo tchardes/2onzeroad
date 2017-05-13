@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Charleston"
 preview:    "Charleston est la deuxième plus grande ville de l'Etat. Ville du sud, on y retrouve la même ambiance qu'à... "
-parent-id:  2017-05-10-usa-georgie-mai
+parent-id:  2017-05-14-usa-georgie-mai
 
 date:       2017-04-30 12:00:00
 author:     "Thierry"

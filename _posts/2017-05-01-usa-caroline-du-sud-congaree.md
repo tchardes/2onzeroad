@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Congaree National Park"
 preview:    "Sur la route vers Ashville, notre destination du jour, nous faisons un crochet vers le Congaree National Park. Son entrée est... "
-parent-id:  2017-05-10-usa-georgie-mai
+parent-id:  2017-05-14-usa-georgie-mai
 
 date:       2017-05-01 12:00:00
 author:     "Thierry"
