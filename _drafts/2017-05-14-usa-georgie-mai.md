@@ -22,7 +22,7 @@ Troisième article de type carnet de route (couleur rouge), il couvre la périod
 
 ## 25 et 26 Avril
 
-Nous quittons la Floride pour la Géorgie. Arrivé à Savannah nous nous posons à l'entrée de la ville et faisons le plein des courses au Walmart. le lendemain direction le centre ville où nous trouvons facielement le Visitor center eu surtout un parking gratuit juste devant le musée des chemins de fer de la géorgie. Nous n'avons plus d'eau dans le réservoir mais nous avons un stock de bouteilles d'eau pour notre consommation. Le lendemain nous finissons notre visite et nous partons en direction de la Caroline du Sud, Charleston en faisant un détour par les villes de Beauport et Port Royal où nous passons la nuit.
+Nous quittons la Floride pour la Géorgie. Arrivé à Savannah (voir l’article <a href="{{site.baseurl}}{% post_url 2017-04-26-usa-georgie-savannah %}">ici</a>)nous nous posons à l'entrée de la ville et faisons le plein des courses au Walmart. le lendemain direction le centre ville où nous trouvons facielement le Visitor center eu surtout un parking gratuit juste devant le musée des chemins de fer de la géorgie. Nous n'avons plus d'eau dans le réservoir mais nous avons un stock de bouteilles d'eau pour notre consommation. Le lendemain nous finissons notre visite et nous partons en direction de la Caroline du Sud, Charleston en faisant un détour par les villes de Beauport et Port Royal où nous passons la nuit.
 
 ## 27 au 29 Avril
 
@@ -32,22 +32,22 @@ Le nous nous arrêtons à quelques kilomètres avant d'arriver à Charleston dan
 
 En arrivant au USA et voyant un peu toutes les marques de voiture circuler on s'était dit le premier qui voit une voiture française gagne quelque chose. Et bien c'est moi qui ait remporté la coupe et cela en rentrant dans charleston. On croise, à contre sens, une Citroën 2CV et devinez de quel modèle ... une Charleston avec sa peinture d'origine, bordeaux et noire. Surement un expatrié avec beaucoup d'humour...
 
-Après la visite de de ville qui nous a bien plut on se pose la question entre poursuivre vers le nord par la côte en direction de Washington ou rentrer dans les terres pleins Ouest est traverser las Appalaches par la Blue Ridge ParkWay. On sait qu'il est encore tôt dans la saison et que l'on risque de voir chutter le thermomètre, pire de faire la route dans le brouillard mais nous décidons de prendre un peu d'altitude. Nous serons toujours à temps de bifurquer si les conditions météorologique ne sont pas avec nous.
+Après la visite de de ville qui nous a bien plus <a href="{{site.baseurl}}{% post_url 2017-04-30-usa-caroline-du-sud-charleston %}">ici</a>) on se pose la question entre poursuivre vers le nord par la côte en direction de Washington ou rentrer dans les terres pleins Ouest est traverser las Appalaches par la Blue Ridge ParkWay. On sait qu'il est encore tôt dans la saison et que l'on risque de voir chutter le thermomètre, pire de faire la route dans le brouillard mais nous décidons de prendre un peu d'altitude. Nous serons toujours à temps de bifurquer si les conditions météorologique ne sont pas avec nous.
 
 
 ## 01 mai
 
-Nous quittons Charleston pour la Caroline du Nord avec comme destination Asheville. En route, nous faisons un détour vers Columbia pour visiter le Parc de Congaree que j'avais repéré en préparant le voyage, tant j'avais trouvé les photos de cet endroit surprenantes. Nous n'avons pas été deçus tant l'ambiance qui règne dans cette forêt immergée est spéciale, en y ajoutant un temps très maussade. Nous regrettons juste le manque d'information, visible, qui nous conduira à traversser des passerelle immergée croyant pouvoir finir le trail alors qu celui-ci était conmdamné un peu plus loin.
+Nous quittons Charleston pour la Caroline du Nord avec comme destination Asheville. En route, nous faisons un détour vers Columbia pour visiter le Parc de Congaree que j'avais repéré en préparant le voyage <a href="{{site.baseurl}}{% post_url 2017-05-01-usa-caroline-du-sud-congaree %}">ici</a>), tant j'avais trouvé les photos de cet endroit surprenantes. Nous n'avons pas été deçus tant l'ambiance qui règne dans cette forêt immergée est spéciale, en y ajoutant un temps très maussade. Nous regrettons juste le manque d'information, visible, qui nous conduira à traversser des passerelle immergée croyant pouvoir finir le trail alors qu celui-ci était conmdamné un peu plus loin.
 Le soir nous nous posons sur le parking d'un walmart, le long d'un étang. Du début de soirée jusque tard dans la nuit nous allons être bercés par un concert de grenouilles en pleine phase créative version free jazz, en gros une vrai cacaphonie.  
 
 
 ## 02 mai
 
-Ce matin on a du mal à se lever car il nous semble qu'il nous manque quelque chose... Ah oui c'est ça, 10°. Habitués aux températures du Sud et de bord de mer, il fait un peu frisquet même si le thermomètre affiche 15°. Direction la porte d'entrée de la Blue Ridge et la réserve Indienne de Cherokee. Nous passons une bonne partie de la matinée à visiter le village principal de la réserve et mangeons devant une très belle rivière qui le traverse. En début d'après midi, nous rentrons dans le Blue Ridge ParkWay et poursuivont notre assencion. Le soir premier bivouack sur une overloock avec une vue magnifique sur les Appalaches.
+Ce matin on a du mal à se lever car il nous semble qu'il nous manque quelque chose... Ah oui c'est ça, 10°. Habitués aux températures du Sud et de bord de mer, il fait un peu frisquet même si le thermomètre affiche 15°. Direction la porte d'entrée de la Blue Ridge et la réserve Indienne de Cherokee. Nous passons une bonne partie de la matinée à visiter le village principal de la réserve et mangeons devant une très belle rivière qui le traverse <a href="{{site.baseurl}}{% post_url 2017-05-02-usa-caroline-du-nord-cherokee %}">ici</a>). En début d'après midi, nous rentrons dans le Blue Ridge ParkWay et poursuivont notre assencion. Le soir premier bivouack sur une overloock avec une vue magnifique sur les Appalaches.
 
 ## 02 au 05 mai
 
-Nous traverssons par les crêtes ces magnifiques montagnes où nous avons pu admirer de magnifiques points de vue et faire quelques trails pas trops raides et bien agréables. Nous avons également râté quelques sites, soit car mal indiqués ou en raison du mauvais temps.
+Nous traverssons par les crêtes ces magnifiques montagnes où nous avons pu admirer de magnifiques points de vue et faire quelques trails pas trop raides et bien agréables. Nous avons également râté quelques sites, soit car mal indiqués ou en raison du mauvais temps.<a href="{{site.baseurl}}{% post_url 2017-05-05-usa-caroline-du-nord-blue-ridge %}">ici</a>)
 
 Le 03 mai nous sortons de quelques kilomètres de la Blue Ridge pour visiter un site remarquable, le **Father Mountain** à Collettesville mais nous arrivons trop tard et le site viens juste de fermer. En dehors des Parc qui ferme généralement à la tombée de la nuit, tous les autres sites ferme souvent à 17 heures. Nous décidons de revenir sur la Blue Ridge et passer la nuit non loin afin d'être sur place le matin de bon heure. Le lendemain matin, les temps est nuageux et le fameux point de vue dans les nuages. Nous allons rouler une bonne partie de la matinée dans le brouillard avant que le temps se lêve. 
 
@@ -69,7 +69,7 @@ Nous décidons de ne pas retourner sur la Skyline Drive faire les derniers 40 mi
 
 ## 9 au 13 mai
 
-Comme nous ne pouvons laisser Thor à la Gare d'Alexandria, nous décidons de nous rendre dans un campgroud d'un park National. Comme nous passons tout près du cimetière National d'Arligton.
+Comme nous ne pouvons laisser Thor à la Gare d'Alexandria, nous décidons de nous rendre dans un campgroud d'un park National <a href="{{site.baseurl}}{% post_url 2017-05-13-usa-washington-rv %}">ici</a>). Comme nous passons tout près du cimetière National d'Arligton.
 
 9 : Cimetière D'Arlngton et go to camping
 10 : Visite de la Bibliothèque du Congres (Déclaration of independance, The constitution, The Bill of Right, Statue libertée), Capitole et le Natiolan Air and Space museum
