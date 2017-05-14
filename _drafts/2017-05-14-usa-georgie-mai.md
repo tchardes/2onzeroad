@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt-flo2.jpg
 tags: []
-country: USA - Georgie - Caroline (Sud & Nord) - Virginie
+country: USA - Georgie - Caroline (Sud & Nord) - Virginie - Washington DC - Maryland
 category: "roadmap"
 flickr-tag: ""
 location: "36.414880, -79.073924"
@@ -45,22 +45,31 @@ Le soir nous nous posons sur le parking d'un walmart, le long d'un étang. Du d�
 
 Ce matin on a du mal à se lever car il nous semble qu'il nous manque quelque chose... Ah oui c'est ça, 10°. Habitués aux températures du Sud et de bord de mer, il fait un peu frisquet même si le thermomètre affiche 15°. Direction la porte d'entrée de la Blue Ridge et la réserve Indienne de Cherokee. Nous passons une bonne partie de la matinée à visiter le village principal de la réserve et mangeons devant une très belle rivière qui le traverse. En début d'après midi, nous rentrons dans le Blue Ridge ParkWay et poursuivont notre assencion. Le soir premier bivouack sur une overloock avec une vue magnifique sur les Appalaches.
 
-##02 au 06 mai
+##02 au 05 mai
 
 Nous traverssons par les crêtes ces magnifiques montagnes où nous avons pu admirer de magnifiques points de vue et faire quelques trails pas trops raides et bien agréables. Nous avons également râté quelques sites, soit car mal indiqués ou en raison du mauvais temps.
 
 Le 03 mai nous sortons de quelques kilomètres de la Blue Ridge pour visiter un site remarquable, le **Father Mountain** à Collettesville mais nous arrivons trop tard et le site viens juste de fermer. En dehors des Parc qui ferme généralement à la tombée de la nuit, tous les autres sites ferme souvent à 17 heures. Nous décidons de revenir sur la Blue Ridge et passer la nuit non loin afin d'être sur place le matin de bon heure. Le lendemain matin, les temps est nuageux et le fameux point de vue dans les nuages. Nous allons rouler une bonne partie de la matinée dans le brouillard avant que le temps se lêve. 
 
-Le lendemain, 04 mai, le temps est toujours nuageux et commence à pleuvoir vers 18H00. Je trouve un bivouack sur un overlook bien dégagé et pas trop près des arbres au cas ou le vent se lêve. Bien m'en a pris. Vers 22 heures le vent s'est levé en bourasque avec de forte pluie, des sceaux d'eaux, et ce jusqu'à 06 heures. Le pauvre Thor qui n'est pas vraiment aérodynamique, mais plutôt gros cube, c'est fait secouer toutes la nuit dans tous les sens avec nous par la même occasion. Ce qui est sur, c'est qu'il est bien étanche... 
+Le lendemain, 04 mai, le temps est toujours nuageux et il commence à pleuvoir vers 18H00. Je trouve un bivouac sur un overlook bien dégagé et pas trop près des arbres au cas ou le vent se lêve. Bien m'en a pris. Vers 22 heures le vent se leve en bourasque avec une forte pluie, des sceaux d'eaux, et ce jusqu'à 06 heures. Le pauvre Thor qui n'est pas vraiment aérodynamique, mais plutôt cubique, c'est fait secouer toutes la nuit dans tous les sens avec nous par la même occasion. Ce qui est sur, c'est qu'il est bien étanche... 
 
-Le 05 mai le temps est beau et nous décidons une nouvelle fois de sortir du Parc pour aller visiter le "Naturel Bridge State Parc". A notre arrivée au très beau visitor center, nous apprenons que le site est exceptionnellement fermé pour nettoyage en raison de la tempête de la veille. Nous retournons sur la Blue Ridge pour poursuivre la route jusqu'à la fin de la première partie à l'entrée du Shenandoah Park. Nous quittons à nouveau la rote pour nous rendre à Charlottesvile.
-
+Le 05 mai le temps est beau et nous décidons une nouvelle fois de sortir du Parc pour aller visiter le "Naturel Bridge State Parc". A notre arrivée au très beau visitor center, nous apprenons que le site est exceptionnellement fermé pour nettoyage en raison de la tempête de la veille. Nous retournons sur la Blue Ridge pour poursuivre la route jusqu'à la fin de la première partie à l'entrée du Shenandoah Park. Nous quittons à nouveau la route pour nous rendre à Charlottesvile.
 
 ##06 et 07 Mai
 
-07 et 08 skyline et Luray
+Le matin, nous nous reveillons avec la pluie et nous décidons de rester au bivouac toute la journée. nous nous avançons dans le traitement des photos, des vidéos et des articles. Le lendemain le teps est un peu plsu stable et nous décidons de visiter l'université de Charlottesville. Insyallée dans uen région très vallonée les beaux batiements en briques rouges avec encadrement et colonnes en pièrres blanches tranche avec la verdure des lieux. C'est dimanche, de nombreux étudiants font du sport, nous sommes même passés devant un terrain de rugby ou des jeunes s'entraînaient. Nous aurions voulu visiter la bibliothèque avec son magnifique dôme, mais impossible de trouver une place pour se garer. Nous poursuivons la route ensuite jusqu'à Monticello, ancien domaine de Thomas Jefferson mais le temps et le prix nous en a dissuadé. Au final passage un peu raté à Charlottesville. Nous retournons à l'entrée du Shenandoah Park pour attaquer la Skyline Drive. Ce dernier tronçon de la Blue Ridge est un parc fermé avec péage à chaque entrée/sortie, il est donc très surveillé par les Rangers. Nous décidons toutefois de bivouaquer sur un overlook à 1000 mètres d'altitude.
 
-9 au  Visite de washington DC
+##08 mai
+
+Nous nous reveillons de bonne heure, un peu raison du froid, il fait moins de 6° dans le camping-car, ce qui nous permet de tester le chauffage qui nous ramene vite à des températures plus suportables. Nous parton au sommet ou je pars faire un trail de 2 heures qui me conduit au bord d'une falaise qui offre au panorama magnifique. Pendant ce temps, des Park Rangers se sont arrêtés au camping-car et ont questionnés Corinne pour savoir où nous avions passé la nuit. Devant un manque certain de communication, ils ont laché l'affaire et sont partis. Il est certain que nous aurions pu difficilement enchainer sur un autre bivouac sauvage à l'intérieur du Parc. En fin de matinée, nous sortons de la Skyline pour nous rendre à Luray, visiter une grotte. Sur place se trouve en fait un grand complexe avec en plus de la grotte, un musée de l'automobile, un éco musée, un parcours style acrobranche, un restaurant, des boutiques ...  
+
+La grotte est absolument à voir. La visite dure presque deux heures, très bien amménagée, on y retrouve tout type de concrétions. A la fin dans une salle un orgue actionnant de petits marteaux sur des stalagtites permettent de jouer un morceau de musique assez... caverneux. (Voir l'ensemble de sphotos dans la galerie). En srotant nous sommes allés visiter le musée de l'automobile "the car and Carriage Caravan Museum" qui présente de très belles pièces, de la cariole de pioniers américain à de très belles Rolls Royce. Deux voitures française sont présnetes, une Peugeot de 1896 et une Hispano Suza. Dans cette dernière se trouve accroché au tableau de bord un vieux drapeaux français tout décoloré. Comme nous en avions amené plusieurs avec nous, nous sommes ellé en chercher un tout neuf dan Thor et nous leur avons remis pour qu'il le remplace. Le responsable du musée nous a longuement remercier et nous a dit plein de chose que l'on a pas compris. Je ne sais pas si les gens ont un accent particulier dans le nord de la Virginie mais même avec la guide de la grotte, je n'ai pu capter que quelques mots de son spitch.
+
+Nous décidons de ne pas retourner sur la Skyline Drive faire les derniers 40 miles et roulons en directions d'Alexandria où nous passons la nuit. 
+
+## 9 au 13 mai
+
+Comme nous ne pouvons laisser Thor à la Gare d'Alexandria, nous décidons de nous rendre dans un campgroud d'un park National. Comme nous passons tout près du cimetière National d'Arligton.
 
 9 : Cimetière D'Arlngton et go to camping
 10 : Visite de la Bibliothèque du Congres (Déclaration of independance, The constitution, The Bill of Right, Statue libertée), Capitole et le Natiolan Air and Space museum
