@@ -47,7 +47,7 @@ Pour rejoindre le métro :
 
 **Solution 1**
 
-* Prendre sur votre droite vers le carrefour et prenez la rue sur votre droite "Kenilworth Av" sur environ 300 mètres en tout et vous avez un arrêt du Metro Bus "N° 3004093" de la ligne R12. Le bus est censé passer toutes les demies-heure à partir de 05h32 puis toutes les heures à partir de 10hOO.
+* Prendre sur votre droite vers le carrefour et prenez la rue sur votre droite "Kenilworth Av" sur environ 300 mètres en tout et vous avez un arrêt du Metro Bus "N° 3004093" de la ligne R12. Le bus est censé passer toutes les demies-heure à partir de 05h32 puis toutes les heures à partir de 10h00.
 * Ce car de ville vous conduira, après une dizaine d'arrêts, comptez bien 30 minutes, à "Greenbelt Station" qui est le terminus de la Ligne verte du métro de Washington. Le trajet vous coutera 1,75$/Pers. (il faut avoir l'appoint, la machine ne rend pas la monnaie).
 
 **Solution 2**
