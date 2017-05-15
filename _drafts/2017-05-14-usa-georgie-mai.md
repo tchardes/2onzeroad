@@ -72,6 +72,6 @@ Nous décidons de ne pas retourner sur la Skyline Drive faire les derniers 40 mi
 Comme nous ne pouvons laisser Thor à la Gare d'Alexandria, nous décidons de nous rendre dans un campgroud d'un park National (voir l’article <a href="{{site.baseurl}}{% post_url 2017-05-13-usa-washington-rv %}">ici</a>). Comme nous passons tout près du cimetière National d'Arligton.   
   
 9 : Cimetière D'Arlngton et go to camping
-10 : Visite de la Bibliothèque du Congres (Déclaration of independance, The constitution, The Bill of Right, Statue libertée), Capitole et le Natiolan Air and Space museum
-11 : Visite du National Archive, US Navy Mémorial and Naval Heritage Center et du National Gallery of Art (2 batiments)
-12 
+10 : Visite de la Bibliothèque du Congres, Capitole et le National Air and Space museum
+11 : Visite du National Archive (Déclaration of independance, The constitution, The Bill of Right, Statue libertée), US Navy Mémorial and Naval Heritage Center et du National Gallery of Art (2 batiments)
+12 : Arrêt au visitor center de la maison blanche, puis tour de la maison blanche, mémorial Vietnam, Lincoln, corée, 2éme guerre mondiale, obélisque, puis 
