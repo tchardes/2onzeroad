@@ -69,7 +69,9 @@ Nous décidons de ne pas retourner sur la Skyline Drive faire les derniers 40 mi
 
 ## 9 au 13 mai
 
-Comme nous ne pouvons laisser Thor à la Gare d'Alexandria, nous décidons de nous rendre dans un campgroud d'un park National (voir l’article <a href="{{site.baseurl}}{% post_url 2017-05-13-usa-washington-rv %}">ici</a>). Comme nous passons tout près du cimetière National d'Arligton.   
+Comme nous ne pouvons laisser Thor à la Gare d'Alexandria, nous décidons de nous rendre dans un campgroud d'un park National (voir l’article <a href="{{site.baseurl}}{% post_url 2017-05-13-usa-washington-rv %}">ici</a>). Comme nous passons tout près du cimetière National d'Arligton nous tentons d'y aller avec Thor. Après une longue recherche à tourner en rond, ce qui nous a permis de tomber par hasard sur le mémorial des Marines, nous trouvons enfin l'entrée officielle, il faut savoir que c'est immense car il y a aussi dans le périmètre, plusieurs bases militaires dont les gardes ont été tout surpris de voir arriver à leurs portes un camping-car. Les coordonnées exacte de l'entrée sont : 38.8846, -77.0631, google map nous afait tourner en bourique sur ce coup là.
+Sur palce un grand parking pour tout type de véhiucle donc aucun problème pour se garer. La seule chose que l'on nous a demandé à l'entrée c'est si nous avions des animaux de compagnie avec nous, certainement interdits dans le cimetière.
+
   
 9 : Cimetière D'Arlngton et go to camping
 10 : Visite de la Bibliothèque du Congres, Capitole et le National Air and Space museum
