@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "39.925036, -75.139391"
   name: "Philadelphie, Pennsylvanie, U.S.A"
-  date: "15 mai 2017"
+  date: "17 mai 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
