@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "40.6595, -74.1080"
-  name: "Bayonne, New Jersey, U.S.A"
-  date: "18 mai 2017"
+  coordinates: "40.7596, -73.9806"
+  name: "New York, N.Y., U.S.A"
+  date: "19 mai 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
