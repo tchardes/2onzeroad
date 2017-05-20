@@ -16,3 +16,8 @@ category: "blog"
 location: "40.748869, -73.985625"
 ---
 
+1 - Visite Ellis Islande et statue liberte, le soir Skyline
+
+2 - l’empire state building, 80 et 86 éme étage. On a monté la 5th pour voir le batiment en triangle, puis decente vers la « Grand Central Terminal » et la tour Crhysler puis MOMA. Arrêt au centre Rockfeller et à la bibliothèque de NY.
+
+3 - 
