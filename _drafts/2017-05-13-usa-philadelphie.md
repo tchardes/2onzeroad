@@ -16,3 +16,11 @@ category: "blog"
 location: "39.948313, -75.150144"
 ---
 
+Visite du centre ville
+Old city hall
+La cloche
+City Hall
+
+
+
+Fondation Barnes exceptionnelement fermée
