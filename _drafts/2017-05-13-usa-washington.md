@@ -13,6 +13,6 @@ flickr-tag: ""
 country: USA - Maryland
 city: Washington
 category: "blog"
-location: "38.979650, -76.906927"
+location: "38.898254, -77.036473"
 ---
 
