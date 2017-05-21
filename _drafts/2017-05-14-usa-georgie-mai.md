@@ -77,3 +77,5 @@ Sur palce un grand parking pour tout type de véhiucle donc aucun problème pour
 10 : Visite de la Bibliothèque du Congres, Capitole et le National Air and Space museum
 11 : Visite du National Archive (Déclaration of independance, The constitution, The Bill of Right, Statue libertée), US Navy Mémorial and Naval Heritage Center et du National Gallery of Art (2 batiments)
 12 : Arrêt au visitor center de la maison blanche, puis tour de la maison blanche, mémorial Vietnam, Lincoln, corée, 2éme guerre mondiale, obélisque, puis 
+
+Rencontre Français de Montpellier.

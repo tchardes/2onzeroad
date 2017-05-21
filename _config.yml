@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "40.7596, -73.9806"
   name: "New York, N.Y., U.S.A"
-  date: "18 au 22 mai 2017"
+  date: "18 au 23 mai 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
