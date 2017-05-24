@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "40.7596, -73.9806"
-  name: "New York, N.Y., U.S.A"
-  date: "18 au 23 mai 2017"
+  coordinates: "41.4969, -71.3079"
+  name: "Newport, Rhode Island, U.S.A"
+  date: "24 mai 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
