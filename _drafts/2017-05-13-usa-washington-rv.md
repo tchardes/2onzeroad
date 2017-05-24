@@ -47,22 +47,22 @@ Pour rejoindre le métro :
 
 **Solution 1**
 
-* Prendre sur votre droite vers le carrefour et prenez la rue sur votre droite "Kenilworth Av" sur environ 300 mètres en tout et vous avez un arrêt du Metro Bus "N° 3004093" de la ligne R12. Le bus est censé passer toutes les demies-heure à partir de 05h32 puis toutes les heures à partir de 10h00.
+* Prendre sur votre droite vers le carrefour et prenez la rue sur votre droite "Kenilworth Av" sur environ 300 mètres en tout et vous avez un arrêt du Metro Bus "N° 3004093" de la ligne R12. Le bus est censé passer toutes les demi-heures à partir de 05h32 puis toutes les heures à partir de 10h00.
 * Ce car de ville vous conduira, après une dizaine d'arrêts, comptez bien 30 minutes, à "Greenbelt Station" qui est le terminus de la Ligne verte du métro de Washington. Le trajet vous coutera 1,75$/Pers. (il faut avoir l'appoint, la machine ne rend pas la monnaie).
 
 **Solution 2**
 
 * Vous êtes en forme et en jambes.
-* Au lieu de tourner à droite sur "Kenilworth Av", vous traverser en face sur "Campus Rd" et vous faite encore 1,5km pour arriver à la gare "College Park-U of MD station", on ne peut pas la rater. C'est l'avant dernière station avant le terminus.
+* Au lieu de tourner à droite sur "Kenilworth Av", vous traversez en face sur "Campus Rd" et vous faites encore 1,5km pour arriver à la gare "College Park-U of MD station", on ne peut pas la rater. C'est l'avant dernière station avant le terminus.
 
 (Durant notre séjour, Greenbelt Station était fermée et des shuttles gratuits acheminaient directement les voyageurs à "College Park-U of MD station")
 
 
 **A la gare**
 
-* Une fois à la station de votre choix, il faut acheter sa place à un distributeur (cash ou CB). Elle vous donne en fait une carte de débit que vous alimentez de la somme que vous voulez et qui vous permet de payer vos trajets. Cette carte vous servira également par la suite à payer le bus. Il y a des trarifs heures de pointe et heures creuses qui sont indiquées sur le distributeur. Il propose également un pass journalier de 14$.
+* Une fois à la station de votre choix, il faut acheter sa place à un distributeur (cash ou CB). Elle vous donne en fait une carte de débit que vous alimentez de la somme que vous voulez et qui vous permet de payer vos trajets. Cette carte vous servira également par la suite à payer le bus. Il y a des tarifs heures de pointe et heures creuses qui sont indiquées sur le distributeur. Il propose également un pass journalier de 14$.
 
-Pour le retout il est préférable de sortir à "College Park-U of MD station" et soit rentrer à pied (3 km), soit prendre le bus R12 dans le sens "Greenbelt station" et non "Deanwood station" (sinon vous êtes partis pour 1h00 de bus, on l'a fait !!) et descendez au premier arrêt qui est celui de la solution 1. 
+Pour le retour, il est préférable de sortir à "College Park-U of MD station" et soit rentrer à pied (3 kms), soit prendre le bus R12 dans le sens "Greenbelt station" et non "Deanwood station" (sinon vous êtes partis pour 1h00 de bus, on l'a fait !!) et descendez au premier arrêt qui est celui de la solution 1. 
 
 Un petit dessin valant mieux qu'un long discours :
 
