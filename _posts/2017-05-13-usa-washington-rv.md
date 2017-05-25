@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-greenbelt.jpg
 tags: []
 flickr-tag: ""
 country: USA - Washington
-city: Washington
+city: Washington DC
 category: "blog"
 location: "38.979650, -76.906927"
 ---
