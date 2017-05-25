@@ -20,4 +20,8 @@ location: "40.748869, -73.985625"
 
 2 - l’empire state building, 80 et 86 éme étage. On a monté la 5th pour voir le batiment en triangle, puis decente vers la « Grand Central Terminal » et la tour Crhysler puis MOMA. Arrêt au centre Rockfeller et à la bibliothèque de NY.
 
-3 - Broadway - Musée Histoire naturelle.
+3 - Broadway - Musée Histoire naturelle. Central Park
+
+4 - Musée de l'air - MET - Washington Park - Broadway - Top of the Rock
+
+5 - B&H - Quartier financier - 11/09 - Wall Street

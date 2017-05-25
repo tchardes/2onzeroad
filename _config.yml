@@ -3,8 +3,8 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "41.4969, -71.3079"
-  name: "Newport, Rhode Island, U.S.A"
+  coordinates: "42.0411, -70.2098"
+  name: "Cape Cod, Massachusetts , U.S.A"
   date: "24 mai 2017"
 
 # set the encoding to utf-8
