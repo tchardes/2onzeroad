@@ -6,8 +6,8 @@ parent-id:  2017-05-14-usa-georgie-mai
 
 date:       2017-05-13 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-greenbelt.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-greenbelt.jpg
+header-img: "assets/owner/blog/header/post-bg-washington.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-washington.jpg
 tags: [Capitale, Histoire, Culturel]
 flickr-tag: ""
 country: USA - Maryland
