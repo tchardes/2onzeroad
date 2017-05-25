@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Washington District of Comumbia"
+title:      "Washington (District of Columbia)"
 preview:    "... "
 parent-id:  2017-05-14-usa-georgie-mai
 
