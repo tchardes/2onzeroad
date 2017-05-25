@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Roadtrip du 25 avril 14 mai 2017"
-preview:    "Il retrace nos journées du 25 avril au 14 mai..."
+preview:    "Il retrace nos journées du 25 avril au 14 mai 2017. Nous quittons la Floride pour la Géorgie. Arrivé à Savannah..."
 parent-id:  
 
 date:       2017-05-14 12:00:00
@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt2.jpg
 tags: []
-country: USA - Georgie - Caroline (Sud & Nord) - Virginie - Washington DC - Maryland
+country: USA - Virginie
 category: "roadmap"
 flickr-tag: ""
 location: "36.414880, -79.073924"
