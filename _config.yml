@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "42.0411, -70.2098"
   name: "Cape Cod, Massachusetts , U.S.A"
-  date: "24 mai 2017"
+  date: "25 mai 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
