@@ -23,6 +23,8 @@ Nous arrivons juste au bon moment et assistons à une petite cérémonie de quel
 
 <a data-flickr-embed="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/2ozr/34723684112/in/datetaken/" title="Washington DC - [USA]"><img src="https://c1.staticflickr.com/5/4225/34723684112_126ca001f3_k.jpg" width="2048" height="1365" alt="Washington DC - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/2ozr/34723705382/in/datetaken/" title="Washington DC - [USA]"><img src="https://c1.staticflickr.com/5/4271/34723705382_898d2d80c5_k.jpg" width="2048" height="1152" alt="Washington DC - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
     Pour les passionnés de photos, ce monument a été créé depuis une photo faite le 23 février 1945 par le photographe Joe Rosenthal et qui en fait marquait le prise du mont et non pas celui de l'île (26 mars 1945). Pour la petite histoire il s'agit du deuxième "plantage" de drapeau cette journée là, le premier étant trop petit et donc peu visible une patrouille est envoyée pour en hisser un plus voyant, 3 photographes les accompagnent. Cette histoire a fait peser le doute sur le fait qu'il s'agissait d'une mise en scène alors qu'en fait pas du tout. Cette photo à fait la une des journaux dans le monde entier, en moins de 18 heures après sa prise de vue ce qui était un exploit pur l'époque.
 </p>  
