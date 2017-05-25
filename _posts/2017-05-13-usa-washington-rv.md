@@ -10,7 +10,7 @@ header-img: "assets/owner/blog/header/post-bg-greenbelt.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-greenbelt.jpg
 tags: []
 flickr-tag: ""
-country: USA - 
+country: USA - Maryland
 city: Washington DC
 category: "blog"
 location: "38.979650, -76.906927"
@@ -18,9 +18,9 @@ location: "38.979650, -76.906927"
 
 Visiter Washington en RV n'est pas forcément très facile. En préparant notre voyage, nous avions retenu 3 options glanées sur certains carnets de route et sur les forums à savoir :
 
-* Se rendre à la gare d'Alexandria qui se trouve au sud de Washington, stationner son véhicule et prendre le train pour la gare de Washington.
-* Se rendre au Grennbelt National Park (6565 Greenbelt Rd, Greenbelt, MD 20770, États-Unis) où un chemin mènerait au Metro. Tarif : 20$/jour.
-* Se rendre au camping Cherry Hill Park (9800 Cherry Hill Rd, College Park, MD 20740, États-Unis), très pratique car le car menant au métro passe directement dans le camping, tout confort mais 70$/jour. (Pas testée)
+* Se rendre à la gare d'Alexandria qui se trouve au sud de Washington dans l'Etat de Virginie, stationner son véhicule et prendre le train pour la gare de Washington.
+* Se rendre au Grennbelt National Park (6565 Greenbelt Rd, Greenbelt) dans l'Etat du Maryland où un chemin mènerait au Metro. Tarif : 20$/jour.
+* Se rendre au camping Cherry Hill Park (9800 Cherry Hill Rd, College Park) dans l'Etat du Maryland, très pratique car le car menant au métro passe directement dans le camping, tout confort mais 70$/jour. (Pas testée)
 
 **Première solution :**
 
