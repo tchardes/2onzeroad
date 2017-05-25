@@ -10,7 +10,7 @@ header-img: "assets/owner/blog/header/post-bg-greenbelt.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-greenbelt.jpg
 tags: []
 flickr-tag: ""
-country: USA - Washington
+country: USA - 
 city: Washington DC
 category: "blog"
 location: "38.979650, -76.906927"

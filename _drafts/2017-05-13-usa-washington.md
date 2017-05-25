@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-washington.jpg
 tags: [Capitale, Histoire, Culturel]
 flickr-tag: ""
 country: USA - Maryland
-city: Washington
+city: Washington DC
 category: "blog"
 location: "38.898254, -77.036473"
 ---
