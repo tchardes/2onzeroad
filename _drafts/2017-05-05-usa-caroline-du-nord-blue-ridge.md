@@ -24,7 +24,7 @@ La Blue Ridge ParkWay et un parc national, gratuit, qui englobe une route qui fa
  
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34432160746/in/datetaken/" title="Blue Ridge ParkWay - Caroline du Nord - Virginie - [USA]"><img src="https://c1.staticflickr.com/5/4169/34432160746_352448c5bb_k.jpg" width="2048" height="1152" alt="Blue Ridge ParkWay - Caroline du Nord - Virginie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Etant un Parc National, l'ensemble de la route, très large, est aménagée. Une quinzaine de visitor Center permet de s'arrêter et rencontrer des Rangers, d'obtenir de la documentation, bénéficier des commodités, parfois avec des aires de pique-nic, des lodges, des campings, du Wi-Fi, restaurant et de très nombreux départs de trail de tous niveaux. Entre, un nombre très importants de "Overlook", point de vue aménagé permettant de s'arrêter en toute sécurité. Plusieurs semaines doivent être nécessaire pour tout faire. Pour vous donner un ordre d'idée, la Skyline (105 derniers Miles) compte 500 miles de trail et 75 Overlooks.   
+Etant un Parc National, l'ensemble de la route, très large, est aménagée. Une quinzaine de visitor Center permet de s'arrêter et rencontrer des Rangers, d'obtenir de la documentation, bénéficier des commodités, parfois avec des aires de pique-nique, des lodges, des campings, du Wi-Fi, restaurant et de très nombreux départs de trails de tous niveaux. Entre, un nombre très importants de "Overlook" (point de vue) aménagé permettant de s'arrêter en toute sécurité. Plusieurs semaines doivent être nécessaire pour tout faire. Pour vous donner un ordre d'idée, la Skyline (105 derniers Miles) compte 500 miles de trail et 75 Overlooks.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34432150696/in/datetaken/" title="Blue Ridge ParkWay - Caroline du Nord - Virginie - [USA]"><img src="https://c1.staticflickr.com/5/4190/34432150696_6d104ec18b_k.jpg" width="2048" height="1152" alt="Blue Ridge ParkWay - Caroline du Nord - Virginie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -46,7 +46,7 @@ La partie Virginie est plus vallonée avec quelques hauts plateaux, le décors c
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33663520983/in/datetaken/" title="Blue Ridge ParkWay - Caroline du Nord - Virginie - [USA]"><img src="https://c1.staticflickr.com/5/4171/33663520983_65ff82e979_k.jpg" width="2048" height="1152" alt="Blue Ridge ParkWay - Caroline du Nord - Virginie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-La dernière partie, la Skyline Drive (105 Miles) est payante, 25$ par véhicule et gratuite avec le pass América the Beautiful. Il existe de nombreux camgrounds qui permettent de passer la nuit. Pour notre part, étant en début de saison avec peu de monde, nous n'avons fait que du camping sauvage, ce qui est en théorie formellent interdit.    
+La dernière partie, la Skyline Drive (105 Miles) est payante, 25$ par véhicule et gratuite avec le pass América the Beautiful. Il existe de nombreux camgrounds qui permettent de passer la nuit. Pour notre part, étant en début de saison avec peu de monde, nous n'avons fait que du camping sauvage, ce qui est en théorie formellement interdit.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34722934162/in/datetaken/" title="Blue Ridge - Skyline - Virginie - [USA]"><img src="https://c1.staticflickr.com/5/4269/34722934162_680426e6e5_k.jpg" width="2048" height="1365" alt="Blue Ridge - Skyline - Virginie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -57,6 +57,6 @@ Pour ma part j'ai vraiment trouvé cette traversée très agréable, d'une part 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34886180975/in/datetaken/" title="Blue Ridge - Skyline - Virginie - [USA]"><img src="https://c1.staticflickr.com/5/4200/34886180975_a0574a558a_k.jpg" width="2048" height="1152" alt="Blue Ridge - Skyline - Virginie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Voilà le circuit complet de la Blue Ridge :
+Ci-dessous, le circuit complet de la Blue Ridge sans la SkyLine :
 
 <img src="{{baseurl}}/assets/owner/photos/BRPW.jpg" style="width:100%" /> 
