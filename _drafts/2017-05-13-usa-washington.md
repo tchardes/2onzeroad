@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Washington (District of Columbia)"
-preview:    "... "
+preview:    "Nous voilà enfin dans la capitale des Etats-Unis où nous allons passer 4 journées entières. Un chose importante à savoir, à Washington... "
 parent-id:  2017-05-14-usa-georgie-mai
 
 date:       2017-05-13 13:00:00
@@ -16,7 +16,7 @@ category: "blog"
 location: "38.898254, -77.036473"
 ---
 
-Nous voilà enfin dans la capitale férérale des Etats-Unis où nous passons 4 journées entières. Un chose importante à savoir, à Washington, tous les musées sont gratuits, c'est loin d'être négligeable quand en sait qu'une entrée coute en moyenne 25$/Pers.
+Nous voilà enfin dans la capitale des Etats-Unis où nous allons passer 4 journées entières. Un chose importante à savoir, à Washington, tous les musées sont gratuits, c'est loin d'être négligeable quand en sait qu'une entrée coute en moyenne 25$/Pers.
 
 Au départ d'Alexandria pour Washington et avant de traverser le fleuve Potomac, nous passons devant le cimetière national, d'Arlington et décidons de tenter notre chance avec Thor. Nous passons devant le Pentagone que l'on ne peut visiter en tant qu'étranger depuis le 11 septembre. Nous effectuons notre premier arrêt au mémorial des Marines. Il s'agit d'une immense sculture représentant les Marines plantant la banière étoilée au sommet du mont Suribachi sur l'île d'IWO JIMA, avant poste japonnais.
 Nous arrivons juste au bon moment et assistons à une petite cérémonie de quelques marines au comportement très ... décontracté.
