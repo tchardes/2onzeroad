@@ -56,3 +56,7 @@ La dernière partie, la Skyline Drive (105 Miles) est payante, 25$ par véhicule
 Pour ma part j'ai vraiment trouvé cette traversée très agréable, d'une part en raison de la qualité de la route et surtout grâce à son aménagement. Tout est fait, organisé pour circuler facilement et admirer le paysage. Deux regrets toutefois, nous y sommes allés 15 jours trop tôt, la nature était juste en train de se réveiller, nous n'avons pas vu les forêts de rhododendron en fleurs et le tracé des trails n'est pas toujours très évident à suivre. Nous avons pu voir de nombreux écureuils, tamias, biches, rapaces et autres oiseaux dont je ne connais le nom, par contre pas d'our noir....  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34886180975/in/datetaken/" title="Blue Ridge - Skyline - Virginie - [USA]"><img src="https://c1.staticflickr.com/5/4200/34886180975_a0574a558a_k.jpg" width="2048" height="1152" alt="Blue Ridge - Skyline - Virginie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Voilà le circuit complet de la Blue Ridge :
+
+<img src="{{baseurl}}/assets/owner/photos/BRPW.jpg" style="width:100%" /> 
