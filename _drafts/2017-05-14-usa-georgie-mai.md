@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Roadtrip du 25 avril 14 mai 2017"
-preview:    "Il retrace nos journées du 25 avril au 14 mai 2017. Nous quittons la Floride pour la Géorgie. Arrivé à Savannah..."
+preview:    "Cet article retrace nos journées du 25 avril au 14 mai 2017. Nous quittons la Floride pour la Géorgie. Arrivé à Savannah..."
 parent-id:  
 
 date:       2017-05-14 12:00:00
@@ -72,11 +72,8 @@ Nous décidons de ne pas retourner sur la Skyline Drive faire les derniers 40 mi
 Comme nous ne pouvons laisser Thor à la Gare d'Alexandria, nous décidons de nous rendre dans un campgroud d'un park National (voir l’article <a href="{{site.baseurl}}{% post_url 2017-05-13-usa-washington-rv %}">ici</a>). Comme nous passons tout près du cimetière National d'Arligton nous tentons d'y aller avec Thor. Après une longue recherche à tourner en rond, ce qui nous a permis de tomber par hasard sur le mémorial des Marines, nous trouvons enfin l'entrée officielle, il faut savoir que c'est immense car il y a aussi dans le périmètre, plusieurs bases militaires dont les gardes ont été tout surpris de voir arriver à leurs portes un camping-car. Les coordonnées exacte de l'entrée sont : 38.8846, -77.0631, google map nous afait tourner en bourique sur ce coup là.
 Sur palce un grand parking pour tout type de véhicule donc aucun problème pour se garer. La seule chose que l'on nous a demandé à l'entrée c'est si nous avions des animaux de compagnie avec nous, certainement interdits dans le cimetière.
 
-En repartant traversée de Washington avec Thor jusqu'à l'arrêt par la police aux abords du congrés.
+En repartant en direction du campground, je décide de traverser de Washington avec Thor, car on a peur de rien... sauf un peu de la police qui arrête toute la circulation dans les deux sens tout en nous intiment l'ordre d'empruter une autre route qu'il nous indique vigoureusement du bout de l'index. Il est vai que nous sommes tout prêt du Capitole et derrière eux se trouve de grands panneaux "No Truck".
 
-9 : Cimetière D'Arlngton et go to camping 
-10 : Arret de bus et stop  d'une hispanique.Visite de la Bibliothèque du Congres, Capitole et le National Air and Space museum
-11 : Visite du National Archive (Déclaration of independance, The constitution, The Bill of Right, Statue libertée), US Navy Mémorial and Naval Heritage Center et du National Gallery of Art (2 batiments)
-12 : Arrêt au visitor center de la maison blanche, puis tour de la maison blanche, mémorial Vietnam, Lincoln, corée, 2éme guerre mondiale, obélisque, puis 
+Le lendemain matin nous tentons de rejoindre le centre ville de Washington depuis Greenbelt. Au bout d'une demi-heure d'attente devant l'arrêt de bus, sans voir de bus, je décide de sortit mon pouce magique... ah oui je ne vous avez pas dit, j'ai un pouce magique. A peine le pousse sorti pour faire du stop et regagner la gare par un autre moyen, la première voiture qui passe s'arrête. Une dame assez âgée s'arrête et avant qu'lle ne change d'avis, nous montont dans sa voiture. Et là comme souvent au états-unis finalement, la dame ne parle pas un mot d'anglais mais uniquement espagnol. Je ressort mon pouce magique ce coups ci pour tapoter sur Goggle translate et quelques minutes plus tard, et après avoir fait un détour, la dame nous dépose à la gare qui est exceptionnelement fermée. Nous remercions la dame et pour l'occasion, c'est la première fois que je dis à une dame qu'elle est "buenita". Au final des navettes sont mises en place pour nous conduire à une autre gare qui elle fonctionne. 
 
-Rencontre Français de Montpellier.
+Après la visite de Washington (voir l’article <a href="{{site.baseurl}}{% post_url 2017-05-13-usa-washington %}">ici</a>) et vu que le temps est vraiment mauvais, nous décidons de rester une journée de plus à Greenbelt pour nous reposer. Le matin on se rends à l'accueil pour payer une journée supplémentaire et là je vois passer trois camping-car qui m'ont l'air européens. Le dernier voit notre fanion et me demande si je suis français, ça tombe bien ... Nous discutons un petit moment car eux sont sur le départ. Il s'agit de trois couples de la région de Montpellier qui sont arrivés par bateau au Canada à Halifax et compte aller jusqu'à la nouvelle orléans avant de rentrer en France. En autre, nous parlons de nos forfait Free à 19,99€. Si tout a bien fonctionné au Canada, depuis qu'ils sont aux USA ils ne captent plus aucun réseau. Equipés de Samsung, Free ne serait pas arrivé à les dépanner, leur disant qu'avec un Iphone tout marcherait bien mieux. j'espère qu'il dise vrai et que pour nous cela va marcher au Canada.  
