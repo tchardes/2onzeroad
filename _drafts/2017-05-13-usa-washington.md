@@ -16,12 +16,14 @@ category: "blog"
 location: "38.898254, -77.036473"
 ---
 
-1 - Arlington Pentagone
+Nous voilà enfin dans la capitale férérale des Etats-Unis où nous passons 4 journées entières.
 
-Au départ d'Alexandria pour Washington, nous passons devant le cimetière national, d'Arlington et décidons de tenter notre chance avec Thor. Nous passons devant le Pentagone que l'on ne peut visiter en tant qu'étranger depuis le 11 septembre. Nous effectuons notre premier arrêt au mémorial des Marines. Il s'agit d'une immense sculture représentant les Marines plantant la banière étoilée au sommet du mont Suribachi sur l'île d'IWO JIMA, avant poste japonnais.
-Nous arricons juste au bon mment et assistons à une petite cérémonie des quelques marines au comportement très ... décontracté.
+Au départ d'Alexandria pour Washington et avant de traverser le fleuve Potomac, nous passons devant le cimetière national, d'Arlington et décidons de tenter notre chance avec Thor. Nous passons devant le Pentagone que l'on ne peut visiter en tant qu'étranger depuis le 11 septembre. Nous effectuons notre premier arrêt au mémorial des Marines. Il s'agit d'une immense sculture représentant les Marines plantant la banière étoilée au sommet du mont Suribachi sur l'île d'IWO JIMA, avant poste japonnais.
+Nous arrivons juste au bon moment et assistons à une petite cérémonie de quelques marines au comportement très ... décontracté.
 
-Pour les passioné de photos, ce monument a été créé depuis une photo faite le 23 février 1945 par le photographe Joe Rosenthal et qui en fait marquait le prise du mont et non pas celui de l'île (26 mars 1945). Pour la petite histoire il s'agit du deuxième "plantage" de drapeau cette journée là, le premier étant trop petit et donc peu visible une patrouille est envoyée pour en hisser plus voyant, 3 photographes les accompagnent. Cette histoire a fait peser le fait qu'il s'agissait en fait d'une mise en scène alors qu'en fait pas du tout. Cette photo à fait la une des ourneaux dans le monde entier, moins de 18 heures après sa prise de vue ce qui était un exploit pur l'époque.
+<p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
+    Pour les passioné de photos, ce monument a été créé depuis une photo faite le 23 février 1945 par le photographe Joe Rosenthal et qui en fait marquait le prise du mont et non pas celui de l'île (26 mars 1945). Pour la petite histoire il s'agit du deuxième "plantage" de drapeau cette journée là, le premier étant trop petit et donc peu visible une patrouille est envoyée pour en hisser un plus voyant, 3 photographes les accompagnent. Cette histoire a fait peser le doute sur le fait qu'il s'agissait d'une mise en scène alors qu'en fait pas du tout. Cette photo à fait la une des journaux dans le monde entier, en moins de 18 heures après sa prise de vue ce qui était un exploit pur l'époque.
+</p>
 
 Arrivé à l'entrée du cimetière, nous trouvons facilement à nous garée avec les BUS et à l'aide d'un plan, faisons la visite d'une partie du cimetière.
 L'endroit n'est pas particulièrement gai mais c'est quand même à voir, parfaitement entretenu, il abrite plus de 400 000 tombes, principalement de militaires morts au combat et quelques personnalités comme la famille Kennedy. Orgnaisé en sections, les tombes sont regroupées par conflits, guerre civile, 1ére et 2 éme guerre mondiale, Corée, Vietnam... 

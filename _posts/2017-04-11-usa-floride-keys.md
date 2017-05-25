@@ -41,7 +41,11 @@ La très belle maison d’Ernest Hemingway a été transformée en musée. On vi
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34041242886/in/photolist-TFNuTj-TFNbbE-TFNezd-TS6Cb5-TVDqTx-TVDja2-TkGztS-TS6VHQ-SDfoU1-TS7gwN-TFNzpd-RVz1vj-RNhFQ2-RNhFMB-RVz1iL-RZaSNg-RVz11S-QKdZKB" title="Key West - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2849/34041242886_d893e247ee_k.jpg" width="2048" height="1365" alt="Key West - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Plusieurs autres musées sont à visiter dont le « Custom House Museum ». Devant l’entrée du bâtiment, se trouve une immense statue d’un marin embrassant une infirmière. Pour les amoureux de photos, je pense que cette statue a été faite à partir de la photo « Baiser de Times Square » de Alfred Eisenstaed, photos qui a fait polémique plusieurs années après sa publication.  
+Plusieurs autres musées sont à visiter dont le « Custom House Museum ». Devant l’entrée du bâtiment, se trouve une immense statue d’un marin embrassant une infirmière.  
+
+<p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
+    Pour les amoureux de photos, je pense que cette statue a été faite à partir de la photo « Baiser de Times Square » de Alfred Eisenstaed, photos qui a fait polémique plusieurs années après sa publication.  
+</p>   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33239132214/in/datetaken/" title="Key West - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2861/33239132214_33a75c6de8_k.jpg" width="2048" height="1152" alt="Key West - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
