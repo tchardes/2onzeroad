@@ -6,7 +6,7 @@ parent-id:
 
 date:       2017-05-14 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
+header-img: "assets/owner/blog/header/post-bg-rt2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt2.jpg
 tags: []
 country: USA - Virginie
