@@ -26,7 +26,7 @@ Personnellement tout au long de la visite de New York je n'ai que celle-ci en t�
 
 1 - Visite Ellis Islande et statue liberte, le soir Skyline
 
-2 - l’empire state building, 80 et 86 éme étage. On a monté la 5th pour voir le batiment en triangle, puis decente vers la « Grand Central Terminal » et la tour Crhysler puis MOMA. Arrêt au centre Rockfeller et à la bibliothèque de NY.
+2 - l’empire state building, 80 et 86 éme étage. On a monté la 5th pour voir le Flat Iron, puis decente vers la « Grand Central Terminal » et la tour Crhysler puis MOMA. Arrêt au centre Rockfeller et à la bibliothèque de NY.
 
 3 - Broadway - Musée Histoire naturelle. Central Park
 
