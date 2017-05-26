@@ -26,7 +26,7 @@ layout: default
                                     <hr class="small">
                                     <span class="subheading">
                                         <i class="fa fa-map-marker"></i>
-                                        {{ post.city | capitalize }}{% if post.city and post.country %}, {% endif %}{{ post.country | capitalize }}
+                                        {{ post.city | capitalize }}{% if post.city and post.country %} - {% endif %}{{ post.country | capitalize }}
                                     </span>
                                 </div>
                             </div>
