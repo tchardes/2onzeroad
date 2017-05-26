@@ -23,7 +23,9 @@ Qautrième article de type carnet de route (couleur rouge), il couvre la périod
 ## 15 mai
 
 
+Nous arrivons à Philadelphie, "Phila" et trouvons un très bon emplacement provhe du centre ville et d'un arrêt de bus. Le premier jour je pars seul visiter la Fondation Barnes qui regroupe une des plus grande collection de peintures impressionistes au monde. Après une heure de transporten commun j'arrive devant ce très beau bâtiment, très moderne, entouré de bassins. Une fois à l'intérieur, une charmente demoiselle m'indique qu'exceptionnellement? le musée est fermé aujourd'hui.
 
+Je décide donc de traverser toute la ville et regagné notre bivouac à pied. Cela me permet de 
 
 
 
