@@ -1,14 +1,14 @@
 ---
 layout:     blog
 title:      "Philadelphie"
-preview:    "... "
+preview:    "Le centre ville de "Philly", surnom donné à Philadelphie, est assez réduit et se concentre autour de la Old City située entre Walnut Street et Market Street. Cette ancienne capitale des Etat-Unis... "
 parent-id:  2017-05-14-usa-georgie-mai
 
 date:       2017-05-17 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-phila.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-phila.jpg
-tags: []
+tags: [Histoire, Culturel, Ville]
 flickr-tag: ""
 country: USA - Pennsylvanie
 city: Philadelphie
