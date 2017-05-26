@@ -2,7 +2,7 @@
 layout:     blog
 title:      "New York"
 preview:    "... "
-parent-id:  2017-05-14-usa-georgie-mai
+parent-id:  2017-05-14-usa-maine-juin
 
 date:       2017-05-23 12:00:00
 author:     "Thierry"
