@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Philadelphie"
-preview:    "Le centre ville de "Philly", surnom donné à Philadelphie, est assez réduit et se concentre autour de la Old City située entre Walnut Street et Market Street. Cette ancienne capitale des Etat-Unis... "
+preview:    "Le centre ville de "Philly", surnom donné à Philadelphie, est assez réduit et se concentre autour de la Old City située entre Walnut Street et Market Street... "
 parent-id:  2017-05-14-usa-georgie-mai
 
 date:       2017-05-17 12:00:00
