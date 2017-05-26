@@ -58,7 +58,7 @@ Depuis un tunnel, nous accédons directement au **Capitole** avec son immense d�
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34846858656/in/datetaken/" title="Washington DC - [USA]"><img src="https://c1.staticflickr.com/5/4276/34846858656_f9c744d757_k.jpg" width="2048" height="1152" alt="Washington DC - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous finissons la journée par le **musée de l'air et de l'espace**, magnifique lieu qui regroupe des premiers engins volants jusqu'à la conquête de l'espace. La France figure là aussi en bonne place pour les débuts de l'aéronautique. La scénographie est impeccable, tout est bien présenté, éclairé, commenté. Dans le hall d'entrée, se trouve même une grande maquette de "L'Enterprise"... de Star Treck.  
+Nous finissons la journée par le **musée de l'air et de l'espace**, magnifique lieu qui regroupe des premiers engins volants jusqu'à la conquête de l'espace. La France figure là aussi en bonne place pour les débuts de l'aéronautique. La scénographie est impeccable, tout est bien présenté, éclairé, commenté. On y trouve également un cinéma IMax, des simulateurs... . Dans le hall d'entrée, se trouve même une grande maquette de "L'Enterprise"... de Star Treck.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34499747540/in/datetaken/" title="Washington DC - [USA]"><img src="https://c1.staticflickr.com/5/4249/34499747540_831541bb93_k.jpg" width="2048" height="1152" alt="Washington DC - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
