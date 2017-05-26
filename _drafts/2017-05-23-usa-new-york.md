@@ -10,7 +10,7 @@ header-img: "assets/owner/blog/header/post-bg-ny.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-ny.jpg
 tags: []
 flickr-tag: ""
-country: USA - New York
+country: USA - Etat de New York
 city: New York
 category: "blog"
 location: "40.748869, -73.985625"
