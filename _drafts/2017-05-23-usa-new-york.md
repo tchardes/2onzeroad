@@ -16,7 +16,7 @@ category: "blog"
 location: "40.748869, -73.985625"
 ---
 
-L'iéal pour accompagner la lecture de cet article et de le faire en musique. Selon vos gouts et peut-être votre âge, vous pouvez cliquer sur un de ces liens :
+L'iéal pour accompagner la lecture de cet article sur New York est de le faire en musique. Selon vos gouts et peut-être votre âge, vous pouvez cliquer sur un de ces liens :
 https://youtu.be/x_srVEAP-WM si vous aimer "The Voice" Franck Sinatra
 https://youtu.be/GxAnLJwsxII Si vous préférez la version cabaret de Liza Minelli
 https://youtu.be/Q4Yqx5coUiQ une version plus moderne d'Alicia Keys
