@@ -8,7 +8,7 @@ date:       2017-05-13 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-washington.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-washington.jpg
-tags: [capitale, histoire, culturel]
+tags: [capitale, histoire, culturel, architecture]
 flickr-tag: ""
 country: USA - Washington DC
 city: 
