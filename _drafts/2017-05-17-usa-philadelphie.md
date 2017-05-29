@@ -8,7 +8,7 @@ date:       2017-05-17 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-phila.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-phila.jpg
-tags: [Histoire, Culturel, Ville]
+tags: [histoire, culturel, ville, architecture]
 flickr-tag: ""
 country: USA - Pennsylvanie
 city: Philadelphie
