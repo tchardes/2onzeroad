@@ -210,6 +210,9 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **Walmart Overnight Parking locator** - *Toutes les informations sur Walmart qui acceptent les RV la nuit* ;
 * **Dropbox** - *Héberge tous vos fichiers (documents, photos, vidéos, etc.). Les fichiers que vous stockez dans Dropbox sont conservés en lieu sûr et accessibles sur tous vos appareils. L'envoi de fichiers volumineux se fait en toute simplicité, même si le destinataire n'a pas de compte Dropbox* ;
 * **Skype** - *Pour communiquer avec les proches* ;
+* **GasBuddy** - *Uniquement sur le store Amérique du Nord - Vous indique le prix de l'essence le moins cher autour de vous* ;
+* **Allstays** - *Application participative qui liste tous les endroits utiles aux voyageurs, Campings, Walmarts, States Park, Propanes ...)* ;
+* **AroundMe** - *Vous liste automatiquement les lieux qui peuvent être utilies aurout de vous, Hôpitaux, Banques, Parkings ...* ;
 * **Sites de nos banques**.
 
 
