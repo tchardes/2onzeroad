@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "44.363543, -68.307276"
   name: "Arcadia National Park, Maine , U.S.A"
-  date: "27 mai 2017"
+  date: "30 mai 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
