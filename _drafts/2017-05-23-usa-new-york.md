@@ -26,6 +26,19 @@ Personnellement tout au long de la visite de New York je n'ai eu que celle-ci en
 
 1 - Visite Ellis Islande et statue liberte, le soir Skyline
 
+Nous sommes idéalement placés pour visiter New York, même si en soit, le prix de ce RV Park n'est pas du tout justifié. Nous sommes placés juste en face du quartier fianancier de Manhattan, dans l'état du New Jersey à Jersey City plus exactement, juste séparé de la pomme par le fleuve Hudson. Le PATH (métro) est à 5 minutes à pied et vous dépose soit au World Trade Center soit sur la 33th. A 200 mètres à peine on est au bord du fleuve pour admirer la skyline.
+
+Nous commençons cette première journée par prendre un bateau Taxi qui nous fait traverser le Morris Canal Basin pour arriver sur le site du Liberty Stat Park. La traversé coute 2$/pers. et dure à peine quelques minutes. Ce Bateau à également un arrêt au quartier financier de Manhattan.
+
+Nous nous arrêtons au Visitor Center pour prendre de la documentation et nos places. J'en profite pour prende un Pass qui permet, pour la somme de ..... de visiter 6 lieux différents que je voulais faire. Pour Corinne, il n'est pas rentable car il y a plusieurs visites qu'elle ne souhaite pas faire. Nous en profitons également pour nous arrêter au **Empty Sky Memorial** qui commence par un enchetrement de poutres en acien provenant des Twin towers pluis de deux grand mus parralléle dont l'extrémitée pointe vers New York et l'ancien emplacement des deux building. Les noms des victimes sont gravés à l'intérieur. Nous faisons également un tour dans l'immense
+
+Nous prenons le bateau qui nous mène dans un premier temps sur Ellis Island. C'est sur cette île qu'une grange partie des migrants arrivaient, principalement d'Europe pour fuir soit le misère soit les guerres ou faire fortune. D'immense locaux ont été construit pour les accueillir et "faire le tri" de ceux qui pourraient migrer au USA. Au total près de 17 millions de personnes sont pasées par là. Le lieu est parfaitement conservé et géré par le National Park Service. De nombreuses explications sont fournis sur cette époque, les flux, les quotas tout cela durant plus d'un siècle. Ce site intéresse plus particulièrement les américains qui pour la pluspart, ont des ancêtres qui sont rentrés aux USA en passant par ce centre. D'ailleur un service, payant, permet aux personnes de faire des recherches sur leurs parents. Nous remonttons ensuite sur le même bateau pour changer d'île et acoster sur **Liberty Island** qui habrite la statue de la liberté. IL y a un monde fou et nous nous approchons même pas du socle de la Statue. C'est finalement en bateau, en repartant vers notre point de départ que nous la voyons le mieux. 
+
+a    
+
+
+
+
 2 - l’empire state building, 80 et 86 éme étage. On a monté la 5th pour voir le Flat Iron, puis decente vers la « Grand Central Terminal » et la tour Crhysler puis MOMA. Arrêt au centre Rockfeller et à la bibliothèque de NY.
 
 3 - Broadway - Musée Histoire naturelle. Central Park
