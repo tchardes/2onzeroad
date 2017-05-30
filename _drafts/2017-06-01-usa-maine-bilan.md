@@ -16,4 +16,4 @@ itinary: "floride3.json"
 
 ---
 
-Premier article de type Bilan (Vert). 
+Deuxième article de type Bilan (Vert). 

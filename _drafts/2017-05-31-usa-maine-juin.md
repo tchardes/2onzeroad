@@ -2,7 +2,7 @@
 layout:  blog
 title:   "Roadtrip du 14 mai au  juin 2017"
 preview:    "Cet article retrace nos journées du ..."
-parent-id:  
+parent-id:  2017-06-01-usa-maine-bilan
 
 date:       2017-06-04 12:00:00
 author:     "Thierry"
