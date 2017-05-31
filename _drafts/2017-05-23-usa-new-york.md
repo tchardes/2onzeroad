@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "New York"
-preview:    "Nous commençons cette première journée par prendre un bateau taxi qui nous fait traverser le Morris Canal Basin pour arriver sur le site du... "
+preview:    "Nous commençons cette première journée par prendre un bateau taxi qui nous fait traverser le Morris Canal Basin pour arriver sur le... "
 parent-id:  2017-05-14-usa-maine-juin
 
 date:       2017-05-23 12:00:00
@@ -22,7 +22,7 @@ L'iéal pour accompagner la lecture de cet article sur New York est de le faire 
     <li><a href="https://youtu.be/x_srVEAP-WM" target="_blank">Si vous aimer "The Voice" Franck Sinatra</a></li>
     <li><a href="https://youtu.be/GxAnLJwsxII" target="_blank">Si vous préférez la version cabaret de Liza Minelli</a></li>
     <li><a href="https://youtu.be/Q4Yqx5coUiQ" target="_blank">Une version plus moderne d'Alicia Keys</a></li>
-    <li><a href="https://youtu.be/GPeOkzadr5g" target="_blank">La toute moderne reprise de la version d'Alicia avec Jay Z</a></li>
+    <li><a href="https://youtu.be/GPeOkzadr5g" target="_blank">La toute moderne reprise de la version d'Alicia Keys avec Jay Z</a></li>
 </ul>
 
 Personnellement tout au long de la visite de New York je n'ai eu que la dernière en tête.
