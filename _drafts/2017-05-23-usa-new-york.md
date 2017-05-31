@@ -38,12 +38,12 @@ Nous nous arrêtons au Visitor Center pour prendre de la documentation et nos pl
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
 Le City Pass de New York coute (en 2017) 122$. Valable 9 jours il permet une économie de économie de 40% et permte de visiter :  
-* L'Observatoire de l'Empire State Building ;  
-* Musée d'Histoire naturelle ;   
-* Le Metropolitain Museum (MET) ;  
-* Guggenheim Museum **ou** le Top Of The Rock ;  
-* Elllis Island et la Statue de la Liberté ;  
-* Mémorial et musée du 11/9 **ou** l'Intretid Sea, Air and Space Muséum.  
+*  L'Observatoire de l'Empire State Building ;  
+*  Musée d'Histoire naturelle ;   
+*  Le Metropolitain Museum (MET) ;  
+*  Guggenheim Museum **ou** le Top Of The Rock ;  
+*  Elllis Island et la Statue de la Liberté ;  
+*  Mémorial et musée du 11/9 **ou** l'Intretid Sea, Air and Space Muséum.  
 </p>
 
 Nous prenons le bateau qui nous mène dans un premier temps sur Ellis Island. C'est sur cette île qu'une grange partie des migrants arrivaient, principalement d'Europe pour fuir soit le misère soit les guerres ou faire fortune. D'immense locaux ont été construit pour les accueillir et "faire le tri" de ceux qui pourraient migrer au USA. Au total près de 17 millions de personnes sont pasées par là. Le lieu est parfaitement conservé et géré par le National Park Service. De nombreuses explications sont fournis sur cette époque, les flux, les quotas tout cela durant plus d'un siècle. Ce site intéresse plus particulièrement les américains qui pour la pluspart, ont des ancêtres qui sont rentrés aux USA en passant par ce centre. D'ailleur un service, payant, permet aux personnes de faire des recherches sur leurs aïeux. Nous remonttons ensuite sur le même bateau pour changer d'île et acoster sur **Liberty Island** qui habrite la statue de la liberté. IL y a un monde fou et nous nous approchons même pas du socle de la Statue. C'est finalement en bateau, en repartant vers notre point de départ que nous la voyons le mieux.   
