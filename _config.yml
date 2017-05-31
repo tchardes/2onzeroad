@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "44.363543, -68.307276"
-  name: "Arcadia National Park, Maine , U.S.A"
-  date: "30 mai 2017"
+  coordinates: "45.368201, -63.295336"
+  name: "Triro, Nouvelle-Ecosse, Canada"
+  date: "31 mai 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
