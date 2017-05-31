@@ -16,7 +16,7 @@ category: "blog"
 location: "40.748869, -73.985625"
 ---
 
-L'iéal pour accompagner la lecture de cet article sur New York est de le faire en musique. Selon vos gouts et peut-être votre âge, vous pouvez cliquer sur un de ces liens pour lancer la musique et revenir sur le site :
+L'iéal pour accompagner la lecture de cet article sur New York est de le faire en musique. Selon vos gouts et peut-être selon votre âge, vous pouvez cliquer sur un de ces liens pour lancer la musique avant de revenir sur le site :
 
 <ul>
     <li><a href="https://youtu.be/x_srVEAP-WM" target="_blank">Si vous aimer "The Voice" Franck Sinatra</a></li>
@@ -32,7 +32,7 @@ Personnellement tout au long de la visite de New York je n'ai eu que la dernièr
 
 Nous sommes idéalement placés pour visiter New York, même si en soit, le prix de ce RV Park n'est pas du tout justifié. Nous sommes placés juste en face du quartier fianancier de Manhattan, dans l'état du New Jersey à Jersey City plus exactement, juste séparé de la pomme par le fleuve Hudson. Le PATH (métro) est à 5 minutes à pied et vous dépose soit au World Trade Center soit sur la 33th. A 200 mètres à peine on est au bord du fleuve pour admirer la skyline.
 
-Nous commençons cette première journée par prendre un bateau Taxi qui nous fait traverser le Morris Canal Basin pour arriver sur le site du Liberty Stat Park. La traversé coute 2$/pers. et dure à peine quelques minutes. Ce Bateau à également un arrêt au quartier financier de Manhattan.
+Nous commençons cette première journée par prendre un bateau taxi qui nous fait traverser le Morris Canal Basin pour arriver sur le site du Liberty Stat Park. La traversé coute 2$/pers. et dure à peine quelques minutes. Ce Bateau à également un arrêt au quartier financier de Manhattan.
 
 Nous nous arrêtons au Visitor Center pour prendre de la documentation et nos places. J'en profite pour prende le City Pass qui permet, pour la somme de 122$ de visiter 6 lieux différents parmi les 10 proposé que je voulais faire. Pour Corinne, il n'est pas rentable car il y a plusieurs visites qu'elle ne souhaite pas faire. Nous en profitons également pour nous arrêter au **Empty Sky Memorial** qui commence par un enchevêtrement de poutres en acien provenant des Twin towers pluis de deux grand mus parralléle dont l'extrémitée pointe vers New York et l'ancien emplacement des deux building. Les noms des victimes sont gravés à l'intérieur. Nous faisons également un tour dans l'immense Central Railroad of New Jersey Terminal, aujourd'hui désafecté mais qui à l'époque voyaot partir près de 300 trains par jour.
 
