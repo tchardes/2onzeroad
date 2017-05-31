@@ -16,7 +16,7 @@ category: "blog"
 location: "40.748869, -73.985625"
 ---
 
-L'iéal pour accompagner la lecture de cet article sur New York est de le faire en musique. Selon vos gouts et peut-être votre âge, vous pouvez cliquer sur un de ces liens :
+L'iéal pour accompagner la lecture de cet article sur New York est de le faire en musique. Selon vos gouts et peut-être votre âge, vous pouvez cliquer sur un de ces liens pour lancer la musique et revenir sur le site :
 
 <ul>
     <li><a href="https://youtu.be/x_srVEAP-WM" target="_blank">Si vous aimer "The Voice" Franck Sinatra</a></li>
@@ -25,7 +25,7 @@ L'iéal pour accompagner la lecture de cet article sur New York est de le faire 
     <li><a href="https://youtu.be/GPeOkzadr5g" target="_blank">La toute moderne reprise de la version d'Alicia avec Jay Z</a></li>
 </ul>
 
-Personnellement tout au long de la visite de New York je n'ai eu que celle-ci en tête.
+Personnellement tout au long de la visite de New York je n'ai eu que la dernière en tête.
 
 
 1 - Visite Ellis Islande et statue liberte, le soir Skyline
