@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "New York"
-preview:    "... "
+preview:    "Nous commençons cette première journée par prendre un bateau taxi qui nous fait traverser le Morris Canal Basin pour arriver sur le site du... "
 parent-id:  2017-05-14-usa-maine-juin
 
 date:       2017-05-23 12:00:00
@@ -29,8 +29,6 @@ Personnellement tout au long de la visite de New York je n'ai eu que la dernièr
 
 
 1 - Visite Ellis Island et statue liberte, le soir Skyline
-
-Nous sommes idéalement placés pour visiter New York, même si en soit, le prix de ce RV Park n'est pas du tout justifié. Nous sommes placés juste en face du quartier fianancier de Manhattan, dans l'état du New Jersey à Jersey City plus exactement, juste séparé de la pomme par le fleuve Hudson. Le PATH (métro) est à 5 minutes à pied et vous dépose soit au World Trade Center soit sur la 33th. A 200 mètres à peine on est au bord du fleuve pour admirer la skyline.
 
 Nous commençons cette première journée par prendre un bateau taxi qui nous fait traverser le Morris Canal Basin pour arriver sur le site du Liberty Stat Park. La traversé coute 2$/pers. et dure à peine quelques minutes. Ce Bateau à également un arrêt au quartier financier de Manhattan.
 

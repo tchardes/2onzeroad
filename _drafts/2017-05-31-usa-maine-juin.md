@@ -31,6 +31,8 @@ Je décide donc de traverser toute la ville et regagné notre bivouac à pied. C
 
 ## 18 au 23 mai
 
+Nous sommes idéalement placés pour visiter New York, même si en soit, le prix de ce RV Park n'est pas du tout justifié. Nous sommes placés juste en face du quartier fianancier de Manhattan, dans l'état du New Jersey à Jersey City plus exactement, juste séparé de la pomme par le fleuve Hudson. Le PATH (métro) est à 5 minutes à pied et vous dépose soit au World Trade Center soit sur la 33th. A 200 mètres à peine on est au bord du fleuve pour admirer la skyline.
+
 RV Liberty Park, le PATH, le métro
 
 ## 24 au 26 mai
