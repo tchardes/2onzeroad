@@ -35,13 +35,7 @@ Nous commençons cette première journée par prendre un bateau taxi qui nous fa
 Nous nous arrêtons au Visitor Center pour prendre de la documentation et nos places. J'en profite pour prende le City Pass qui permet de visiter 6 lieux que je voulais faire. Pour Corinne, il n'est pas rentable car il y a plusieurs visites qu'elle ne souhaite pas faire. Nous en profitons également pour nous arrêter au **Empty Sky Memorial** qui commence par un enchevêtrement de poutres en acien provenant des Twin towers pluis de deux grand mus parralléle dont l'extrémitée pointe vers New York et l'ancien emplacement des deux building. Les noms des victimes sont gravés à l'intérieur. Nous faisons également un tour dans l'immense Central Railroad of New Jersey Terminal, aujourd'hui désafecté mais qui à l'époque voyaot partir près de 300 trains par jour.
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
-Le City Pass de New York coute (en 2017) 122$. Valable 9 jours il permet une économie de économie de 40% et permet de visiter :  
-*  L'Observatoire de l'Empire State Building ;  
-*  Le Musée d'Histoire naturelle ;   
-*  Le Metropolitain Museum (MET) ;  
-*  Le Guggenheim Museum **ou** le Top Of The Rock ;  
-*  Ellis Island et la Statue de la Liberté ;  
-*  Le Mémorial et le Musée du 11/9 **ou** l'Intretid Sea, Air and Space Museum.  
+Le City Pass de New York coute (en 2017) 122$. Valable 9 jours il permet une économie de économie de 40% et permet de visiter : l'Observatoire de l'Empire State Building ; le Musée d'Histoire naturelle ; le Metropolitain Museum (MET) ; le Guggenheim Museum **ou** le Top Of The Rock ; Ellis Island et la Statue de la Liberté ; le Mémorial et le Musée du 11/9 **ou** l'Intretid Sea, Air and Space Museum.  
 </p>
 
 Nous prenons le bateau qui nous mène dans un premier temps sur Ellis Island. C'est sur cette île qu'une grange partie des migrants arrivaient, principalement d'Europe pour fuir soit le misère soit les guerres ou faire fortune. D'immense locaux ont été construit pour les accueillir et "faire le tri" de ceux qui pourraient migrer au USA. Au total près de 17 millions de personnes sont pasées par là. Le lieu est parfaitement conservé et géré par le National Park Service. De nombreuses explications sont fournis sur cette époque, les flux, les quotas tout cela durant plus d'un siècle. Ce site intéresse plus particulièrement les américains qui pour la pluspart, ont des ancêtres qui sont rentrés aux USA en passant par ce centre. D'ailleur un service, payant, permet aux personnes de faire des recherches sur leurs aïeux. Nous remonttons ensuite sur le même bateau pour changer d'île et acoster sur **Liberty Island** qui habrite la statue de la liberté. IL y a un monde fou et nous nous approchons même pas du socle de la Statue. C'est finalement en bateau, en repartant vers notre point de départ que nous la voyons le mieux.  
