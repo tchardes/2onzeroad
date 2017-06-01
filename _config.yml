@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "45.368201, -63.295336"
-  name: "Triro, Nouvelle-Ecosse, Canada"
-  date: "31 mai 2017"
+  coordinates: "46.812961, -60.646454"
+  name: "Cape Breton Hightland NP, Nouvelle-Ecosse, Canada"
+  date: "01 juin 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
