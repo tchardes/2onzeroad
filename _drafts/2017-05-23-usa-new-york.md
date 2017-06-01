@@ -44,16 +44,14 @@ Le lendemain, le "Path" nous améne jusqu'à le 33éme rue en plein coeur de New
 
 Après avoir vu le **Flatiron «fer à repasser»** d'en haut on decide de monter la 5éme avenue pour voir ce gratte ciel particulièrement original de près, haut de 22 étages soit 87 mètres de hauteur, il était l'un des plus hauts de Manhattan ... en 1902. Sa forme si particulière vient du fait qu'il ait été élevé au croisement de la 5e avenue et de l'avenue de Broadway qui n'est pas à angle droit comme dans tout le reste de la ville, d'où sa forme triangulaire.
 
-Nous descendons ensuite vers le **Grand Central Terminal**. Cette gare construite en 1871, entre la 42e rue et Park Avenue, est célébre car elle figure dans de nombreux films dont recement dans "The Avengers" mais surtout en raison d'une photographie qui à fait le tour du monde, celle du photographe Hal Morey prise en 1930 où les rayons de soleil innonde le hall principal
+Nous descendons ensuite vers le **Grand Central Terminal**. Cette gare construite en 1871, entre la 42éme rue et Park Avenue, est célébre car elle figure dans de nombreux films dont recement dans "The Avengers" mais aussi en raison d'une photographie qui à fait le tour du monde, celle du photographe Hal Morey prise en 1930 où les rayons de soleil innonde le hall principal tel une cathèdrale. La gare est vraiment très belle même si à l'heure ou nous y sommes le rayons du soleils n'innomdent pas l'espace. Les plafond est également à voir puisqu'il est bleu et les étoiles formant les signes du zodiaques y ont été apposées.Non loin nous faisons une halte devant, au pied, la tour Crhysler, elle aussi visible dans de nombreux films avec le haut de la tour en métal et aux angles des aigles chromés.
 
- » et la tour Crhysler 
+Visite ensuite du Museum Of Modern Art (MOMA). Grosse déception pour moi, je m'attendais à en pendre plein les mirettes et au final j'ai trouvé son contenu assez pauvre en contenu. Je me faisais une joie de voir la galerie de Pop Art et au final elle été fermée ce jour là, réservée aux membres. Le tour a été fait en 2 heures.
+
+Nous finnissons la journée par un arrêt au centre Rockfeller qui était sur notre route, ainsi qu'à la bibilithèque municipale de New York. Dans les deux cas, de beaux bâtiments.  
 
 
-
-
-2 - l’empire state building, 80 et 86 éme étage. On a monté la 5th pour voir le Flat Iron, puis decente vers la « Grand Central Terminal » et la tour Crhysler puis MOMA. Arrêt au centre Rockfeller et à la bibliothèque de NY.
-
-3 - Broadway - Musée Histoire naturelle. Central Park
+Le troisième jour nous commençons par déhambuler dans les rues de Broadway avec ses immenses affiches lumineuses avant de nous rendre au Musée Histoire naturelle. nous traverssons Central Park, c'est dimanche, il y a foule entre les gens qui se promenent, jogge, se marient et font leurs photos de mariages, les artistes en tout genre, la police à cheval
 
 4 - Musée de l'air - MET - Washington Park - Broadway - Top of the Rock
 
