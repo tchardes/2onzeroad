@@ -8,7 +8,7 @@ date:       2017-05-23 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-ny.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-ny.jpg
-tags: [capitale, culturel, art]
+tags: [capitale, culturel, art, architecture]
 flickr-tag: ""
 country: USA - Etat de New York
 city: New York
