@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "45.892097, -59.985668"
-  name: "Louisbourg, Nouvelle-Ecosse, Canada"
-  date: "03 juin 2017"
+  coordinates: "46.245206, -63.134504"
+  name: "Charlottetown, Isle du Prince Edouard, Canada"
+  date: "05 juin 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
