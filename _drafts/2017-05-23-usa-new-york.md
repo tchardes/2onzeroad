@@ -45,7 +45,11 @@ Nous prenons le bateau qui nous mène dans un premier temps sur **Ellis Island**
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34869608266/in/datetaken/" title="New York - Etat de New York - [USA]"><img src="https://c1.staticflickr.com/5/4228/34869608266_4b19251627_k.jpg" width="2048" height="1152" alt="New York - Etat de New York - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-Le soir, séance photo de nuit de la skyline de New York, un spectacle grandiose, j'y serais bien resté toute la nuit. Voir tout doucement les Buildings changer de couleur au coucher de soleil jusqu'à l'éclairage de la ville est magnifique. Le sélection a été dure par la suite, (Voir toutes les autres photos dans la galerie). si vous souhaitez arriver à ce point de vue et que vous êtes dans new York, prenez le "Path" direction "Journal Square" et descendez à la station "Grove Street" de là, il vous reste quelques centaines de mètre pour arriver au bord de l'Hudson et vois cà :
+Le soir, séance photo de nuit de la skyline de New York, un spectacle grandiose, j'y serais bien resté toute la nuit. Voir tout doucement les Buildings changer de couleur au coucher de soleil jusqu'à l'éclairage de la ville est magnifique. Le sélection a été dure par la suite. (Voir toutes les autres photos dans la galerie)  
+
+<p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
+    si vous souhaitez arriver à ce point de vue et que vous êtes dans new York, prenez le "Path" direction "Journal Square" et descendez à la station "Grove Street" de là, il vous reste quelques centaines de mètre pour arriver au bord de l'Hudson et vois cà :
+</p>   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34778038051/in/datetaken/" title="New York - Etat de New York - [USA]"><img src="https://c1.staticflickr.com/5/4268/34778038051_29039ecaea_k.jpg" width="2048" height="1152" alt="New York - Etat de New York - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
