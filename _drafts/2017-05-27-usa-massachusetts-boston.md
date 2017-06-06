@@ -8,7 +8,7 @@ date:       2017-05-27 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-boston.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-boston.jpg
-tags: [capitale, histore, Culturel]
+tags: [capitale, histoire, culturel]
 flickr-tag: ""
 country: USA - Massachusetts
 city: Boston
