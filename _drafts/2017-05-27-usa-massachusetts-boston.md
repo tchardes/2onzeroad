@@ -16,18 +16,17 @@ category: "blog"
 location: "42.354313, -71.068408"
 ---
 
-
 Nous arrivons de bonne heure à Boston, capitale de l'Etat du Massachusetts. Nous entrons dans la ville par un immense tunnel qui passe sous la ville pour nous diriger vers le centre. Nous avons énormément de mal à trouver une route qui mène vers le visitor center, n'étant pas interdite au Truck, et oui Thor avec ces 10 tonnes est considéré comme un camion, les policiers de Washington nous l'ont rappelé. Impossible également de trouver un parking qui nous accepte.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34995471801/in/datetaken/" title="Boston - Massachusetts - [USA]"><img src="https://c1.staticflickr.com/5/4204/34995471801_1bb4585aec_k.jpg" width="2048" height="1152" alt="Boston - Massachusetts - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Finalement, la navigatrice arrive à nous trouver un itinéraire qui nous conduit tout près du grand parc "Boston Common" et à quelques centaines de mètres de là, un parking "Automatique" où aucune interdiction n'est affichée et qui dispose de grands emplacements. Avec un tarif de 28$ pour 24 heures, nous y passerons également la nuit.
+Finalement, la navigatrice arrive à nous trouver un itinéraire qui nous conduit tout près du grand parc "Boston Common" et à quelques centaines de mètres de là sur Arlington Avenue, un parking "Automatique" où aucune interdiction n'est affichée et qui dispose de grands emplacements. Avec un tarif de 28$ pour 24 heures, nous y passerons également la nuit.
 
 Boston est une ville au passé riche car elle a joué un rôle central avant et pendant la Révolution américaine contre la Grande-Bretagne. Elle figure parmi les villes fondatrices des Etats-Unis. Ella a su ainsi préserver son centre historique et le mettre en valeur. Le visitor center est situé en plein milieu d'un immense parc coupé en deux parties, magnifiquement entretenu. En entrant dans le parc, nous arrivons sur le "Garden Flag", véritable champ de drapeaux américains plantés d  ans le sol, au pied d'un mémorial dédié aux soldats et marins de la guerre d'indépendance.. Surpris, nous nous approchons et nous lisons sur une plaque qu'ils représentent, en fait, des dons pour venir en aide aux familles des militaires éprouvées. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34316117273/in/datetaken/" title="Boston - Massachusetts - [USA]"><img src="https://c1.staticflickr.com/5/4257/34316117273_ba2159dc89_k.jpg" width="2048" height="1152" alt="Boston - Massachusetts - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Au centre d'information, nous récupérons un plan de la ville qui propose deux trails, le **Black Heritage trail** et le plus long le **Freedom Trail**. Depuis le visitor center, la ville a tracé, au sol, une ligne rouge sur les trotoirs qu'il suffit de suivre pour réaliser cette promenade de 2,5 Miles au travers de la ville. La documentation vous explique tous les points intéressants de l'histoire de la ville. 
+Au centre d'information, nous récupérons un plan de la ville qui propose deux trails, le **Black Heritage trail** et le plus long le **Freedom Trail**. Depuis le visitor center, la ville a tracé, au sol, une ligne rouge sur les trottoirs qu'il suffit de suivre pour réaliser cette promenade de 2,5 Miles au travers de la ville. La documentation vous explique tous les points intéressants de l'histoire de la ville. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34281702764/in/datetaken/" title="Boston - Massachusetts - [USA]"><img src="https://c1.staticflickr.com/5/4268/34281702764_5949aed814_k.jpg" width="2048" height="1365" alt="Boston - Massachusetts - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -40,3 +39,4 @@ C'est samedi, il fait très beau et le centre ville est bondé de monde, tourist
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35086810526/in/datetaken/" title="Boston - Massachusetts - [USA]"><img src="https://c1.staticflickr.com/5/4275/35086810526_45194a881d_k.jpg" width="2048" height="1365" alt="Boston - Massachusetts - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Bref, très belle ville bien mise en valeur avec cette idée simple de trait rouge au sol, très pratique pour ceux qui ont loupé les cours de topographie. Comme toujours dans ces vieilles villes américaines, l'architecture moderne est toujours bien intégrée au milieu des bâtiments historiques qui du coup sont mis en valeur.
+
