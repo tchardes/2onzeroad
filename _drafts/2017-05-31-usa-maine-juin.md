@@ -35,7 +35,11 @@ Le lendamin matin nous partons pour le **Liberty Harbor RV** distant de quelques
 
 Nous sommes donc placés juste en face du quartier fianancier de Manhattan, dans l'état du New Jersey à Jersey City plus exactement, juste séparé de la pomme par le fleuve Hudson. Le PATH (métro) est à 5 minutes à pied et vous dépose soit au World Trade Center soit sur la 33th. A 200 mètres à peine on est au bord du fleuve pour admirer la skyline et depuis notre emplacement nous voyons la statut de la liberté.
 
-Départ de New York assez rock’n roll avec Thor mais on s’en ai bien sortis. 42$ pour traverser un pont qui nous a fait gagner 5 heures de route. Route vers le nord sans problème. On a mangé dans une Aire de repos à l’entrée de l’état du Connecticut.
+Nous quittons le New Jersey et nous sommes bien obligés des traverser New York pour poursuivre notre route vers le Nord. Généralement nous évitons les autoroutes et les péages 
+
+A ce stade vous avez deux options, soit vous ne voulez pas passer par les autoroutes ni payer des péages, ce qui est notre cas en général et là vous êtres partis pour plus de 5 heures de route, uniquement pour traverser l'Hudson soit vous passer par le 
+
+ Départ de New York assez rock’n roll avec Thor mais on s’en ai bien sortis. 42$ pour traverser un pont qui nous a fait gagner 5 heures de route. Route vers le nord sans problème. On a mangé dans une Aire de repos à l’entrée de l’état du Connecticut.
 
 ## 24 au 26 mai
 
