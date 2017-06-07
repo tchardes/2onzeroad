@@ -6,8 +6,8 @@ parent-id:  2017-06-01-usa-maine-bilan
 
 date:       2017-05-31 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt2.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt2.jpg
+header-img: "assets/owner/blog/header/post-bg-rt4.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt4.jpg
 tags: []
 country: USA - Maine
 category: "roadmap"
@@ -35,10 +35,11 @@ Le lendamin matin nous partons pour le **Liberty Harbor RV** distant de quelques
 
 Nous sommes donc placés juste en face du quartier fianancier de Manhattan, dans l'état du New Jersey à Jersey City plus exactement, juste séparé de la pomme par le fleuve Hudson. Le PATH (métro) est à 5 minutes à pied et vous dépose soit au World Trade Center soit sur la 33th. A 200 mètres à peine on est au bord du fleuve pour admirer la skyline et depuis notre emplacement nous voyons la statut de la liberté.
 
+Départ de New York assez rock’n roll avec Thor mais on s’en ai bien sortis. 42$ pour traverser un pont qui nous a fait gagner 5 heures de route. Route vers le nord sans problème. On a mangé dans une Aire de repos à l’entrée de l’état du Connecticut.
 
 ## 24 au 26 mai
 
-Matinée un peu pluvieuse puis le soleil est apparu en fin de journée. Départ pour Newport, très jolie petite bourgade, Belle balade autour du Fort Adams ou nous avons mangé puis  visite des manoir qui se trouvent le long de la route Bellevue, dont celui qui a été utilisé dans le film Gaztbi le Magnifique. Peu sont réellement visibles. On a enfin trouvé du jack et on a pu fêter nos deux mois ici.
+Matinée un peu pluvieuse puis le soleil est apparu en fin de journée. Départ pour Newport, très jolie petite bourgade, Belle balade autour du Fort Adams ou nous avons mangé puis visite des manoir qui se trouvent le long de la route Bellevue, dont celui qui a été utilisé dans le film Gaztbi le Magnifique. Peu sont réellement visibles. On a enfin trouvé du jack et on a pu fêter nos deux mois ici.
 
 Journée pluie, mise à jour du site et traitement des photos grace au WI-FI du Walmart.
 
