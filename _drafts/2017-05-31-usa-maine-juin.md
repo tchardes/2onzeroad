@@ -1,10 +1,10 @@
 ---
 layout:  blog
-title:   "Roadtrip du 14 mai au  juin 2017"
-preview:    "Cet article retrace nos journées du ..."
+title:   "Roadtrip du 14 au 31 mai 2017"
+preview:    "Quatrième article de type carnet de route (couleur rouge), il couvre la période du 14 mai 31 mai 2017 durant lesquels nous avons traversé les états du..."
 parent-id:  2017-06-01-usa-maine-bilan
 
-date:       2017-06-04 12:00:00
+date:       2017-05-31 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt2.jpg
@@ -17,7 +17,7 @@ itinary: "brpw.json"
 
 ---
 
-Qautrième article de type carnet de route (couleur rouge), il couvre la période du 14 mai 31 mai 2017 durant lesquels nous avons traversé les états du Delaware, New Jersey, New York, Massachusetts, New Hampshire et enfin du Maine, dernier état de la côte Est des Etats Unis aavnt notre entrée au Canada.
+Quatrième article de type carnet de route (couleur rouge), il couvre la période du 14 mai 31 mai 2017 durant lesquels nous avons traversé les états du Delaware, New Jersey, New York, Massachusetts, New Hampshire et enfin du Maine, dernier état de la côte Est des Etats Unis aavnt notre entrée au Canada.
 
 
 ## 14 au 17 mai
