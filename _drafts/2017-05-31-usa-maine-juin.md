@@ -13,7 +13,7 @@ country: USA - Maine
 category: "roadmap"
 flickr-tag: ""
 location: "36.414880, -79.073924"
-itinary: "brpw.json"
+itinary: "usaest.json"
 
 ---
 
@@ -32,9 +32,9 @@ Le lendemain je pars seul visiter la **Fondation Barnes** qui regroupe une des p
 
 Nous partons pour New York et nous arrêtons à Bayonne pour passer la nuit sur le parking d'un Walmart. Il est garder jour et nuit par une société de sécurité et le responsable nous autorise à rester là pour la nuit et nous indique un lieu de stationnement. Nous passons une très mauvaise nuit, il fait très très chaud et le camion garé à coté de nous laisse tourner son compresseur toute la nuit.
 
-Le lendamin matin nous partons pour le **Liberty Harbor RV** distant de quelques kilomètres. Ce RV Park est idéalement placé pour visiter New York, même si en soit, Son prix n'est pas du tout justifié. Nous n'avons pas réservé et les emplacements "conventionnels" sont complets du coup nous nous retrouvons sur le chantier naval, qui fait partie également du même site, entre deux bateaux. Nous n'avons aucun branchement et devant nous déplacer pour faire le plein d'eau et le dump des réservoirs d'eaux noires et grises. Tout cela pour la somme de 65$/jour eu lieu des 105$ pour les emplacements branches.
+Le lendemain matin nous partons pour le **Liberty Harbor RV** distant de quelques kilomètres. Ce RV Park est idéalement placé pour visiter New York, même si en soit, Son prix n'est pas du tout justifié. Nous n'avons pas réservé et les emplacements "conventionnels" sont complets du coup nous nous retrouvons sur le chantier naval, qui fait partie également du même site, entre deux bateaux. Nous n'avons aucun branchement et devant nous déplacer pour faire le plein d'eau et le dump des réservoirs d'eaux noires et grises. Tout cela pour la somme de 65$/jour eu lieu des 100$ pour les emplacements branchés.
 
-Nous sommes donc placés juste en face du quartier financier de Manhattan, dans l'état du New Jersey à Jersey City plus exactement, juste séparé de la pomme par le fleuve Hudson. Le PATH (métro) est à 5 minutes à pied et vous dépose soit au World Trade Center soit sur la 33th. A 200 mètres à peine on est au bord du fleuve pour admirer la skyline et depuis notre emplacement nous voyons la statut de la liberté.
+Nous sommes donc placés juste en face du quartier financier de Manhattan, dans l'état du New Jersey à Jersey City plus exactement, juste séparé de la grosse pomme par le fleuve Hudson. Le PATH (métro) est à 5 minutes à pied et vous dépose soit au World Trade Center soit sur la 33th, le terminus. A 200 mètres à peine on est au bord du fleuve pour admirer la skyline et depuis notre emplacement nous voyons la statut de la liberté.
 
 Nous quittons le New Jersey et nous sommes bien obligés des traverser New York pour poursuivre notre route vers le Nord. Généralement nous évitons les autoroutes et les péages mais là nous n'avons que deux options, soit remonter l'Hudson jusqu'à trouver un pont gratuit pour le traverser ce qui fait perdre 5 heures de route, soit emprunter le pont Washington sur la I195 et payer la modique somme de 42$ juste pour le traverser, ce que nous faisons. Cette traversée avec Thor a été assez rock’n roll mais on s’en ai bien sortis. Le soir, nous nous posons dans l'état de Rhode Island.
 
