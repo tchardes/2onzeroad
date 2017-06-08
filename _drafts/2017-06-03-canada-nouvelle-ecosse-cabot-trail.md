@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Cap Breton"
+title:      "Cap-Breton"
 preview:    "... "
 parent-id:  2017-06-20-canada-quebec-juin
 
@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-cabot.jpg
 tags: [capitale, histoire, culturel]
 flickr-tag: ""
 country: Canada - Nouvelle Ecosse
-city: Cap Breton
+city: Cap-Breton
 category: "blog"
 location: "46.741334, -60.623223"
 ---
