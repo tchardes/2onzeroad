@@ -16,7 +16,7 @@ category: "blog"
 location: "46.741334, -60.623223"
 ---
 
-Nous quitons New Glasgow pour monter complétement au Nord de la Nouvelle Ecosse à **Cape Breton** pour visiter, entre autre, le Parc National des Hautes Terres. Nous quittons la voie rapide juste après le pont qui relie les deux iles pour suivre la **Ceilidh Trail**, route panoramique qui longe la côte par le nord. Le temps n'est pas terrible et nous gâche un peu la beauté des lieux. Au lieu de la musique celtique et des distilleries nous voyons énormément de nom de famille commençant par Mac
+Nous quitons New Glasgow pour monter complétement au Nord de la Nouvelle Ecosse à **Cap-Breton** pour visiter, entre autre, le Parc National des Hautes Terres. Nous quittons la voie rapide juste après le pont qui relie les deux iles pour suivre la **Ceilidh Trail**, route panoramique qui longe la côte par le nord. Le temps n'est pas terrible et nous gâche un peu la beauté des lieux. Au lieu de la musique celtique et des distilleries nous voyons énormément de nom de famille commençant par Mac
 Comme tous le Nord Est du Canada cette zone est dédiée à la pêche du homard et du crabe des neiges, Le pauvre animal est représenté à toutes les sauces dans chaque restaurant, commerces, ports...   
 
 A niveau de Margaree Harbour, nous entrons sur les 300 Km de la **Cabot Trail**. et arrivons rapidement à notre premier village Acadien, **Chéticamp**. On ne peut pas les louper car ils arborent fièrement le drapeau français avec une étoile jaune dans le bleu. Les phares, les panneaux et même les pancartes indiquant le nom des rues sont aux couleurs de l'Acadie.   
