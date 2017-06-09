@@ -80,7 +80,7 @@ Après une nuit à Scarborought dans le Maine, nous restons sur l'US1 jusqu'à l
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34799748080/in/datetaken/" title="Pemaquid - Maine - [USA]"><img src="https://c1.staticflickr.com/5/4237/34799748080_ba558b3e5e_k.jpg" width="2048" height="1152" alt="Pemaquid - Maine - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-En fin d'après-midi, nous faisons une halte dans les deux ports de RockPort et de Camden. Dans ce dernier se trouve trois magnifiques voiliers qui proposent des croisières dans l'Atlantique Nord, jusqu'à 6 jours pour un montant légèrement supérieur à 1000$. Le nord Est des USA et du Canada sont connus pour subir les plus hautes marées du monde. Il est vrai qu'à marée basse les pontons descendent de plusieurs mètres.
+En fin d'après-midi, nous faisons une halte dans les deux ports de RockPort et de Camden. Dans ce dernier se trouve trois magnifiques voiliers qui proposent des croisières dans l'Atlantique Nord, jusqu'à 6 jours pour un montant légèrement supérieur à 1000$. Le Nord-Est des USA et du Canada sont connus pour subir les plus hautes marées du monde. Il est vrai qu'à marée basse les pontons descendent de plusieurs mètres.
 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35186336795/in/datetaken/" title="Camden - Maine - [USA]"><img src="https://c1.staticflickr.com/5/4237/35186336795_dc37636c37_k.jpg" width="2048" height="1152" alt="Camden - Maine - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
