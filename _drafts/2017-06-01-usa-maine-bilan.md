@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:   "Bilan USA"
+title:   "Bilan Côte Est des USA"
 preview:    "Deuxième article de type Bilan..."
 
 date:       2017-06-02 14:00:00
@@ -11,7 +11,7 @@ tags: []
 country: USA - Floride
 category: "bilan"
 flickr-tag: "Floride"
-location: "28.675395, -81.994826"
+location: "39.061159, -79.499301"
 itinary: "floride4.json"
 
 ---
