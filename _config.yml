@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "48.477401, -68.511316"
-  name: "Rimouski, Quebec, Canada"
-  date: "11 juin 2017"
+  coordinates: "47.840773, -69.874621"
+  name: "Saint-Siméon, Quebec, Canada"
+  date: "12 juin 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
