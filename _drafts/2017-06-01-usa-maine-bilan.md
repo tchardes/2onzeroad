@@ -3,7 +3,7 @@ layout:     blog
 title:   "Bilan USA"
 preview:    "Deuxième article de type Bilan..."
 
-date:       2017-04-25 14:00:00
+date:       2017-06-02 14:00:00
 author:     "Thierry & Corinne"
 header-img: "assets/owner/blog/header/post-bg-floride.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-floride.jpg
