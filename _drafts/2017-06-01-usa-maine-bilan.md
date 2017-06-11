@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:   "Bilan USA"
-preview:    "..."
+preview:    "Deuxième article de type Bilan..."
 
 date:       2017-04-25 14:00:00
 author:     "Thierry & Corinne"
