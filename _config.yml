@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "46.245206, -63.134504"
-  name: "Isle du Prince Edouard, Canada"
-  date: "05 au 09 juin 2017"
+  coordinates: "48.477401, -68.511316"
+  name: "Rimouski, Quebec, Canada"
+  date: "11 juin 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
