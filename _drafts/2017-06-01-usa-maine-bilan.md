@@ -16,4 +16,7 @@ itinary: "floride4.json"
 
 ---
 
-Deuxième article de type Bilan (Vert). 
+Deuxième article de type Bilan (Vert) sur notre périple le long de la côte Est des Eats-Unis.
+Pour faire court, on s'est régalé, rouler sans contrainte de temps ni de trajet sur les Hightways, non pas en Harley Davidson mais en Camping-car, avec à la radio de la musique Countrie ou bon vieux Rock sur la radio à l'annimateur à la voix grave et la chambre de reverb à fond... c'est le pied et c'est exactement ce que nous avions imaginé.
+
+Nous avons vraiment tout aimé, 
