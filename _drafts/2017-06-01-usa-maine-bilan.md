@@ -18,15 +18,16 @@ itinary: "floride4.json"
 
 Deuxième article de type Bilan (Vert) sur notre périple le long de la côte Est des Etas-Unis.
 
-Pour le faire court, on s'est régalé, rouler sans contrainte de temps ni de trajet sur les Hightways, bon, certes pas en Harley Davidson mais en Camping-car, avec à la radio de la musique Country ou de bons vieux Rocks et où l'annimateur, à la voix grave et la chambre de reverb à fond, débite ces commentaires à une vitesse folle... c'est le pied et c'est exactement ce que nous avions imaginé.
+Pour le faire court, on s'est régalé, rouler sans contrainte de temps ni de trajet sur les Hightways, bon, certes pas en Harley Davidson mais en Camping-car, avec à la radio de la musique Country ou de bons vieux Rocks et où l'animateur, à la voix grave et la chambre de reverb à fond, débite ses commentaires à une vitesse folle... c'est le pied et c'est exactement ce que nous avions imaginé.
 
-La circulation sur ces routes larges est très facile, le réseau principal et en bon état, même si nous l'avons emprunté que rarement, quand au réseau secondaire c'est parfois moyen. C'est d'ailleur la première fois que je vois la possibilité, pour tous les citoyens, d'adopter une route ou un pont. C'est une sorte de mécénat routier, une façon de participer à l'intêret général. Vous pouvez même faire en sorte qu'une portion de route porte le nom d'une personne ou d'une société.
+La circulation sur ces routes larges est très facile, le réseau principal est en bon état, même si nous l'avons emprunté que rarement, quand sur le réseau secondaire, c'est parfois moyen.        PAS DE NOM DE VILLE QUE DES NOMS DE RUES
+ C'est d'ailleurs la première fois que je vois la possibilité, pour tous les citoyens, d'adopter une route ou un pont. C'est une sorte de mécénat routier, une façon de participer à l'intêret général. Vous pouvez même faire en sorte qu'une portion de route porte le nom d'une personne ou d'une société.
 
-Nous avons vraiment tout aimé, notre apprentissage à cette vie de nomade, les lieux visités, les gens rencontrés, la facilité au final de vivre aux USA. Les gens sont très urbains, nous en sommes même arrivés à faire "attention" dans la rue en regardant une carte ou un plan car à plusieurs reprises des gens, en voiture, se sont arrêtés pour nous demander si nous avions besoin d'aide.
+Nous avons vraiment tout aimé, notre apprentissage à cette vie de nomade, les lieux visités, les gens rencontrés, la facilité au final de vivre aux USA. Les gens sont très urbains, nous en sommes même arrivés à faire "attention" dans la rue en regardant une carte ou un plan car à plusieurs reprises des gens, en voiture, se sont arrêtés pour nous proposer leur aide.
 
-Notre programme a été respecté, aussi bien en terme de lieux visités que de délai, il a fallu faire des choix on ne peut pas tout voit ni tout faire mais nous avons déjà emmagasiné pas mal de belles images et de souvenirs.
+Notre programme a été respecté, aussi bien en terme de lieux visités que de délais, il a fallu faire des choix, on ne peut pas tout voir ni tout faire mais nous avons déjà emmagasiné pas mal de belles images et de souvenirs.
 
-Nous n'avons eu aucune difficulté pour nous approvisionner, on trouve de tout, même du brie "Président" et du pain (industriel) pas si mauvais que ça. Après on à un peu tout gouté et là on a eu quelques surprises, leurs habitudes alimentaires étant complétement différentes de nous. On a l'impression qu'ils mettent du sucre un peu partout, même dans des conserves de légumes et qu'ils ne consomment que des préparations assaisonnées à l'avance, comme pour la purée, les pates ou le riz.... Leur viande de boeuf est très bonne et vraiment peu chère.
+Nous n'avons eu aucune difficulté pour nous approvisionner, on trouve de tout, même du brie "Président" et du pain (industriel) pas si mauvais que ça. Après, on a un peu tout goûté et là, on a eu quelques surprises, leurs habitudes alimentaires étant complétement différentes de nous. On a l'impression qu'ils mettent du sucre un peu partout, même dans des conserves de légumes et qu'ils ne consomment que des préparations assaisonnées à l'avance, comme pour la purée, les pates ou le riz.... Leur viande de boeuf est très bonne et vraiment peu chère.
 
 
 ### Quelques chiffres :  
@@ -35,9 +36,9 @@ Nous n'avons eu aucune difficulté pour nous approvisionner, on trouve de tout, 
 * Nombre d'Etats traversés  : 14
 * Monnaie                   : 1 Dollar US = 0,90 €
 * Prix moyen de l'essence   : 2,40 $ le gallon (entre 1,95$ à 2,60$) soit 0,56€ le litre
-* Gaz                       : Disponible un peu partout notre réservoir de 20KG coute environ 25$ 
-* Vidanges - Electricité    : Dans les camping est states parks
-* Stationnement             : Pas évident de trouver des stationnements "sauvage" intéressants
+* Gaz                       : Disponible un peu partout notre réservoir de 20KG coûte environ 25$ 
+* Vidanges - Electricité    : Dans les campings et states parks
+* Stationnement             : Pas évident de trouver des stationnements "sauvages" intéressants
 * Communication             : Forfait Free à 19,99€ - Aucun problème
 
 * Distance parcourue : 
