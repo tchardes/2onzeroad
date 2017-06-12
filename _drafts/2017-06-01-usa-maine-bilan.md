@@ -20,12 +20,11 @@ Deuxième article de type Bilan (Vert) sur notre périple le long de la côte Es
 
 Pour le faire court, on s'est régalé, rouler sans contrainte de temps ni de trajet sur les Hightways, bon, certes pas en Harley Davidson mais en Camping-car, avec à la radio de la musique Country ou de bons vieux Rocks et où l'animateur, à la voix grave et la chambre de reverb à fond, débite ses commentaires à une vitesse folle... c'est le pied et c'est exactement ce que nous avions imaginé.
 
-La circulation sur ces routes larges est très facile, le réseau principal est en bon état, même si nous l'avons emprunté que rarement, quand sur le réseau secondaire, c'est parfois moyen.        PAS DE NOM DE VILLE QUE DES NOMS DE RUES
- C'est d'ailleurs la première fois que je vois la possibilité, pour tous les citoyens, d'adopter une route ou un pont. C'est une sorte de mécénat routier, une façon de participer à l'intêret général. Vous pouvez même faire en sorte qu'une portion de route porte le nom d'une personne ou d'une société.
-
 Nous avons vraiment tout aimé, notre apprentissage à cette vie de nomade, les lieux visités, les gens rencontrés, la facilité au final de vivre aux USA. Les gens sont très urbains, nous en sommes même arrivés à faire "attention" dans la rue en regardant une carte ou un plan car à plusieurs reprises des gens, en voiture, se sont arrêtés pour nous proposer leur aide.
 
 Notre programme a été respecté, aussi bien en terme de lieux visités que de délais, il a fallu faire des choix, on ne peut pas tout voir ni tout faire mais nous avons déjà emmagasiné pas mal de belles images et de souvenirs.
+
+La circulation sur ces routes larges est très facile, le réseau principal est en bon état, même si nous l'avons emprunté que rarement, quand sur le réseau secondaire, c'est parfois moyen. C'est d'ailleurs la première fois que je vois la possibilité, pour tous les citoyens, d'adopter une route ou un pont. C'est une sorte de mécénat routier, une façon de participer à l'intêret général. Vous pouvez même faire en sorte qu'une portion de route porte le nom d'une personne ou d'une société. Il est assez troublant que le nom des aglomérations ne soient jamais indiquées aux entrées et sorties, on ne sait jamais où on est exactement sans avoir recours au GPS.
 
 Nous n'avons eu aucune difficulté pour nous approvisionner, on trouve de tout, même du brie "Président" et du pain (industriel) pas si mauvais que ça. Après, on a un peu tout goûté et là, on a eu quelques surprises, leurs habitudes alimentaires étant complétement différentes de nous. On a l'impression qu'ils mettent du sucre un peu partout, même dans des conserves de légumes et qu'ils ne consomment que des préparations assaisonnées à l'avance, comme pour la purée, les pates ou le riz.... Leur viande de boeuf est très bonne et vraiment peu chère.
 
