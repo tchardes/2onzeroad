@@ -3,14 +3,14 @@ layout:     blog
 title:   "Bilan Côte Est des USA"
 preview:    "Deuxième article de type Bilan (Vert) sur notre périple le long de la côte Est des Etas-Unis. Pour le faire court, on..."
 
-date:       2017-06-02 14:00:00
+date:       2017-06-01 14:00:00
 author:     "Thierry & Corinne"
 header-img: "assets/owner/blog/header/post-bg-bilanusa.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-bilanusa.jpg
 tags: []
 country: USA - Floride
 category: "bilan"
-flickr-tag: "Floride"
+flickr-tag: "USA"
 location: "39.061159, -79.499301"
 itinary: "floride4.json"
 
