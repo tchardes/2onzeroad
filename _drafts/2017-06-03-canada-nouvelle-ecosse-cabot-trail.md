@@ -56,7 +56,7 @@ La prochaine balade se nomme **MacIntosh Brook Trail** et longe un rivière qui 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34418760553/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4230/34418760553_e288514300_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Le dernier Trail "le black brook cove", longe une rivière qui dégringole la montagne puis bifurque pour passer le sommet de celle-ci avant de rejoindre et longer la côte de granit rose.
+Le dernier Trail **Black Brook Cove**, longe une rivière qui dégringole la montagne puis bifurque pour passer le sommet de celle-ci avant de rejoindre et longer la côte de granit rose.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35062037902/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4216/35062037902_a279803f6d_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
