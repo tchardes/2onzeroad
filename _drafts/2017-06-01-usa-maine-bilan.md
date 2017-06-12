@@ -43,9 +43,9 @@ Nous n'avons eu aucune difficulté pour nous approvisionner, on trouve de tout, 
 * Monnaie                   : 1 Dollar US = 0,90 €
 * Prix moyen de l'essence   : 2,40 $ le gallon (entre 1,95$ à 2,60$) soit 0,56€ le litre
 * Gaz                       : Disponible un peu partout, le remplissage de notre réservoir de 20Kg coûte environ 25$ 
-* Vidanges - Electricité    : Dans les campings et states parks
-* Stationnement             : Pas évident de trouver des stationnements "sauvages" intéressants à moins de perdre beaucoup de temps
-* Communication             : Forfait Free à 19,99€ - Aucun problème
+* Eau - Vidanges - Electricité    : Dans les campings et states parks
+* Stationnements             : Pas évident de trouver des stationnements "sauvages" intéressants à moins de perdre beaucoup de temps
+* Communications             : Forfait Free à 19,99€ - Aucun problème
 
 * Distance parcourue : 
 - En voiture de location    : 1139 Miles - 1833 Km  
