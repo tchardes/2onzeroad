@@ -52,11 +52,19 @@ et là il tourne la tête et voit Corinne qui est à une vingtaine de mètres de
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34383939754/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4209/34383939754_182dd547e5_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 
-Le dernier Trail se nomme **MacIntosh Brook Trail** et longe un rivière qui mène jusqu'à une cascade. Petit trail tranquille même si un panneau à l'entrée indique que la zone est fréquentée par des Coyotes (loups) et explique la posture à tenir devant une attaque ... Au final pas de coyote ni autre animal, petite ballade sympa.   
+Le prochain Trail se nomme **MacIntosh Brook Trail** et longe un rivière qui mène jusqu'à une cascade. Petit trail tranquille même si un panneau à l'entrée indique que la zone est fréquentée par des Coyotes (loups) et explique la posture à tenir devant une attaque ... Au final pas de coyote ni autre animal, petite ballade sympa.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34418760553/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4230/34418760553_e288514300_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Il esxite bien sur de nombreux autres trail de toutes difficultés. Bien que la journée  
+Le dernier Trail, longe une rivière qui dégringole la montagne puis bifurque pour passer le sommet de celle-ci avant de rejoindre et longer la côte de grait rose.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35062037902/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4216/35062037902_a279803f6d_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Il esxite bien sur de nombreux autres trail de toutes difficultés. Bien que la journée soit belle et les températures agréables, il reste des zones recouverte d'un épais manteau neigeux d'un bon mètre d'épaissseur. L'extrême nord de l'île abrite des village de pêcheurs et la route rentre et sors du Parc National à plusieurs reprises. 
+
+
+
+On redescendant vers une crique, nous aovns été les témoin d'un spéctacle original. Je ne sais pas trop comment appelé cela, peut-être des brumes marines. Toujours est-il nous avons vu arriver des nuages, brumes à basse altitude, caréssente la mer et entrer à toute vitesse sur la côte, nous plongeant en quelques secondes dans un fog londonnien. Comme au dessus brillait un beau soleil, cette brume était particulièrement lumineuse et aveuglante.
 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35227642895/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4204/35227642895_91d5a7d74a_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
@@ -72,8 +80,6 @@ Il esxite bien sur de nombreux autres trail de toutes difficultés. Bien que la 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35187711376/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4270/35187711376_32509066f8_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35187711376/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4270/35187711376_32509066f8_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35097876521/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4249/35097876521_73e8891d77_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
