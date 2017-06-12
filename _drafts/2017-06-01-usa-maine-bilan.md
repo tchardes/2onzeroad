@@ -28,14 +28,13 @@ Nous n'avons eu aucune difficulté pour nous approvisionner, on trouve de tout, 
 
 ### Quelques chiffres :  
 
-
 * Nombre d'Etats traversés  : 
 * Prix moyen de l'essence   : 2,40 $ le gallon (entre 1,95$ à 2,60$)
  
 
 * Distance parcourue : 
 - En voiture de location    : 1139 Miles - 1833 Km  
-- Avec Thor                 : 1486 Miles - 2391 Km  
+- Avec Thor                 : 4168 Miles - 6710 Km  
 
 * Nuit camping sauvage  : 4
 * Nuit en Camping       : 1
