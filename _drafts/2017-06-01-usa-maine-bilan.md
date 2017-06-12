@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:   "Bilan Côte Est des USA"
-preview:    "Deuxième article de type Bilan..."
+preview:    "Deuxième article de type Bilan (Vert) sur notre périple le long de la côte Est des Etas-Unis. Pour le faire court, on..."
 
 date:       2017-06-02 14:00:00
 author:     "Thierry & Corinne"
