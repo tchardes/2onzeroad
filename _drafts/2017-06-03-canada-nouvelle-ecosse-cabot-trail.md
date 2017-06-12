@@ -56,7 +56,24 @@ Le dernier Trail se nomme **MacIntosh Brook Trail** et longe un rivière qui mè
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34418760553/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4230/34418760553_e288514300_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Il esxite bien sur de nombreux autres trail de toutes   
+Il esxite bien sur de nombreux autres trail de toutes difficultés. Bien que la journée  
 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35227642895/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4204/35227642895_91d5a7d74a_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+
+
+
+
+
+
+
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35187711376/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4270/35187711376_32509066f8_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35187711376/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4270/35187711376_32509066f8_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35097876521/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4249/35097876521_73e8891d77_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
