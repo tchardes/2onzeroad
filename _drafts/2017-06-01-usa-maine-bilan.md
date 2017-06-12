@@ -5,7 +5,7 @@ preview:    "Deuxième article de type Bilan..."
 
 date:       2017-06-02 14:00:00
 author:     "Thierry & Corinne"
-header-img: "assets/owner/blog/header/post-bg-floride.jpg"
+header-img: "assets/owner/blog/header/post-bg-bilanusa.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-floride.jpg
 tags: []
 country: USA - Floride
@@ -35,9 +35,9 @@ Nous n'avons eu aucune difficulté pour nous approvisionner, on trouve de tout, 
 * Nombre d'Etats traversés  : 14
 * Monnaie                   : 1 Dollar US = 0,90 €
 * Prix moyen de l'essence   : 2,40 $ le gallon (entre 1,95$ à 2,60$) soit 0,56€ le litre
-* Gaz                       : Disponible un peu partout notre réservoir de 20KG coûte environ 25$ 
+* Gaz                       : Disponible un peu partout, le remplissage de notre réservoir de 20Kg coûte environ 25$ 
 * Vidanges - Electricité    : Dans les campings et states parks
-* Stationnement             : Pas évident de trouver des stationnements "sauvages" intéressants
+* Stationnement             : Pas évident de trouver des stationnements "sauvages" intéressants à moins de perdre beaucoup de temps
 * Communication             : Forfait Free à 19,99€ - Aucun problème
 
 * Distance parcourue : 
