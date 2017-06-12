@@ -16,9 +16,16 @@ itinary: "floride4.json"
 
 ---
 
-Deuxième article de type Bilan (Vert) sur notre périple le long de la côte Est des Etas-Unis.
+Je vous propose une musique pour la lecture de cet article. Vous pouvez cliquer sur le lien pour lancer la musique avant de revenir sur le site :  
 
-Pour le faire court, on s'est régalé, rouler sans contrainte de temps ni de trajet sur les Hightways, bon, certes pas en Harley Davidson mais en Camping-car, avec à la radio de la musique Country ou de bons vieux Rocks et où l'animateur, à la voix grave et la chambre de reverb à fond, débite ses commentaires à une vitesse folle... c'est le pied et c'est exactement ce que nous avions imaginé.
+<ul>
+    <li><a href="https://youtu.be/fpZDiOSf_wY" target="_blank">Born To Be Wild de Steppenwolf</a></li>
+</ul>
+
+
+Deuxième article de type Bilan (Vert) sur notre roadtrip le long de la côte Est des Etas-Unis.
+
+Pour le faire court, on s'est régalé, rouler sans contrainte de temps ni de trajets sur les Highways, bon, certes pas en Harley Davidson mais en camping-car, avec à la radio de la musique Country ou de bons vieux Rocks et où l'animateur, à la voix grave et la chambre de reverb à fond, débite ses commentaires à une vitesse folle... c'est le pied et c'est exactement ce que nous avions imaginé.
 
 Nous avons vraiment tout aimé, notre apprentissage à cette vie de nomade, les lieux visités, les gens rencontrés, la facilité au final de vivre aux USA. Les gens sont très urbains, nous en sommes même arrivés à faire "attention" dans la rue en regardant une carte ou un plan car à plusieurs reprises des gens, en voiture, se sont arrêtés pour nous proposer leur aide.
 
