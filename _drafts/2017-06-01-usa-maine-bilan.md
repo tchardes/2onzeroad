@@ -6,7 +6,7 @@ preview:    "Deuxième article de type Bilan..."
 date:       2017-06-02 14:00:00
 author:     "Thierry & Corinne"
 header-img: "assets/owner/blog/header/post-bg-bilanusa.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-floride.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-bilanusa.jpg
 tags: []
 country: USA - Floride
 category: "bilan"
