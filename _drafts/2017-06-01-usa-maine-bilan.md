@@ -16,7 +16,7 @@ itinary: "floride4.json"
 
 ---
 
-Je vous propose une musique pour la lecture de cet article. Vous pouvez cliquer sur le lien pour lancer la musique avant de revenir sur le site :  
+Je vous propose une musique pour la lecture de cet article. Vous pouvez cliquer sur le lien pour la lancer, avant de revenir sur le site pour continuer votre lecture :  
 
 <ul>
     <li><a href="https://youtu.be/fpZDiOSf_wY" target="_blank">Born To Be Wild de Steppenwolf</a></li>
