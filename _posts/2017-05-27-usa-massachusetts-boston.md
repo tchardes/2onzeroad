@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Boston"
 preview:    "Nous arrivons de bonne heure à Boston, capitale de l'Etat du Massachusetts. La journée est très belle et nous entrons dans un immense tunnel qui... "
-parent-id:  2017-05-14-usa-maine-juin
+parent-id:  2017-05-31-usa-maine-juin
 
 date:       2017-05-27 12:00:00
 author:     "Thierry"

@@ -2,7 +2,7 @@
 layout:     blog
 title:      "New York"
 preview:    "Nous commençons cette première journée par prendre un bateau taxi qui nous fait traverser le Morris Canal Basin pour arriver sur le... "
-parent-id:  2017-05-14-usa-maine-juin
+parent-id:  2017-05-31-usa-maine-juin
 
 date:       2017-05-23 12:00:00
 author:     "Thierry"
