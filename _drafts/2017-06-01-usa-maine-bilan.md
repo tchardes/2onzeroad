@@ -8,7 +8,7 @@ author:     "Thierry & Corinne"
 header-img: "assets/owner/blog/header/post-bg-bilanusa.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-bilanusa.jpg
 tags: []
-country: USA - Floride
+country: USA - New Hampshire
 category: "bilan"
 flickr-tag: "USA"
 location: "39.061159, -79.499301"
