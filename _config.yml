@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "47.840773, -69.874621"
-  name: "Saint-Siméon, Quebec, Canada"
-  date: "13 juin 2017"
+  coordinates: "48.579550, -70.883764"
+  name: "Parc national des Monts-Valin, Quebec, Canada"
+  date: "14 juin 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
