@@ -49,7 +49,6 @@ Nous ne ferons pas de classement des lieux et villes visités, c'est impossible.
 * Stationnements             : Pas évident de trouver des stationnements "sauvages" intéressants à moins de perdre beaucoup de temps
 * Communications             : Forfait Free à 19,99€ - Aucun problème  
 
-* Distance parcourue :   
-
--- En voiture de location    : 1139 Miles - 1833 Km    
--- Avec Thor                 : 4168 Miles - 6710 Km  
+Distance parcourue :   
+* En voiture de location    : 1139 Miles - 1833 Km    
+* Avec Thor                 : 4168 Miles - 6710 Km  
