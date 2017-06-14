@@ -24,7 +24,7 @@ Je vous propose une musique pour la lecture de cet article. Vous pouvez cliquer 
 </ul>
 
 
-Deuxième article de type Bilan (Vert) sur notre roadtrip, le long de la côte Est des Etats-Unis hors Floride dont le bilan peut-être lu (voir l’article <a href="{{site.baseurl}}{% post_url 2017-04-25-usa-floride-bilan %}">ici</a>).  
+Deuxième article de type Bilan (Vert) sur notre roadtrip, le long de la côte Est des Etats-Unis hors Floride dont le bilan peut-être lu (<a href="{{site.baseurl}}{% post_url 2017-04-25-usa-floride-bilan %}">ici</a>).  
 
 Pour le faire court, on s'est régalé, rouler sans contrainte de temps ni de trajets sur les Highways, bon, certes pas en Harley Davidson mais en camping-car, avec à la radio de la musique Country ou de bons vieux Rocks et où l'animateur, à la voix grave et la chambre de reverb à fond, débite ses commentaires à une vitesse folle... c'est le pied et c'est exactement ce que nous avions imaginé.  
 
