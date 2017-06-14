@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "48.579550, -70.883764"
-  name: "Parc national des Monts-Valin, Quebec, Canada"
-  date: "14 juin 2017"
+  coordinates: "46.812227, -71.207578"
+  name: "Ville de Québec, Québec, Canada"
+  date: "15 juin 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
