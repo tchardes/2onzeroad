@@ -71,4 +71,4 @@ Sur la route côtière, en redescendant vers une crique, nous avons été les t�
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35187711376/in/datetaken/" title="Cap-Breton - Nouvelle Ecosse - [Canada]"><img src="https://c1.staticflickr.com/5/4270/35187711376_32509066f8_k.jpg" width="2048" height="1152" alt="Cap-Breton - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Très belle région, très belle route panoramique et très beau parc et que nous n'avons pas regretté de visiter bien que très excentrés. 
+Très belle région, très belle route panoramique et très beau parc que nous n'avons pas regretté de visiter bien que très excentrés. 
