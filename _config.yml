@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "46.812227, -71.207578"
-  name: "Ville de Québec, Québec, Canada"
-  date: "15 au 19 juin 2017"
+  coordinates: "45.500123, -73.569207"
+  name: "Montréal, Québec, Canada"
+  date: "20 juin 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
