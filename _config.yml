@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "45.500123, -73.569207"
   name: "Montréal, Québec, Canada"
-  date: "20 juin 2017"
+  date: "20 au 22 juin 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
