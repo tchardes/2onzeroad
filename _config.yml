@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "45.415410, -75.696384"
-  name: "Ottawa, Ontario, Canada"
-  date: "23 au 25 juin 2017"
+  coordinates: "44.3363797, -78.736765"
+  name: "Lindsay, Ontario, Canada"
+  date: "25 au 27 juin 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
