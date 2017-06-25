@@ -8,7 +8,7 @@ date:       2017-06-20 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-quebec.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-quebec.jpg
-tags: [capitale, histoire, culture]
+tags: [capitale, histoire, culturel]
 flickr-tag: 
 country: Canada - Quebec
 city: 
