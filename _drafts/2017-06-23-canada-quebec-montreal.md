@@ -8,7 +8,7 @@ date:       2017-06-23 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-montreal.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-montreal.jpg
-tags: [ville, culture]
+tags: [ville, culturel]
 flickr-tag: 
 country: Canada - Québec
 city: Montréal
@@ -22,4 +22,4 @@ Nous trouvons un bivouac non loin d'un terminus du métro qui nous permet de nou
 
 Montréal est une ville très cosmopolite certainement en raison de leur politique d'emmigration.
 
-A midi nous mangeons dans un restaurant on va dire méditeranéen qui proposait un peu de tout, à l'image de la ville. Sur les tables, nous voyons des bouteilles de vin et je demande naturellement la carte mais on m'indique qu'ici on vient avec son vin et l'indique non loin une épicerie ou je peux en trouver.
+A midi nous mangeons dans un restaurant, on va dire méditerranéen, qui proposait un peu de tout, à l'image de la ville. Sur les tables, nous voyons des bouteilles de vin et je demande naturellement la carte et on me dit qu'ici on vient avec son vin et m'indique non loin une épicerie ou je peux en trouver.
