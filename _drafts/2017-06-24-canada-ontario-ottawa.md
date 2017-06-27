@@ -38,6 +38,8 @@ Nous poursuivons notre visite par un passage au Parc Major's Hill, au musée des
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34744155523/in/datetaken/" title="Ottawa - Ontario - [Canada]"><img src="https://c1.staticflickr.com/5/4241/34744155523_8400bb0b9e_k.jpg" width="2048" height="1152" alt="Ottawa - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Ne se trouvant pas tout à fait sur notre route, nous hésitions à venir jusqu'à Ottawa et finalement, nous sommes contents d'avoir fait le détour. Ottawa est une ville très vivante et plaisante.
+Ne se trouvant pas tout à fait sur notre route, nous hésitions à venir jusqu'à Ottawa et finalement, nous sommes contents d'avoir fait le détour. Ottawa est une ville très vivante et plaisante.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35424760601/in/datetaken/" title="Ottawa - Ontario - [Canada]"><img src="https://c1.staticflickr.com/5/4258/35424760601_de3a206e67_k.jpg" width="2048" height="1152" alt="Ottawa - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
