@@ -29,13 +29,11 @@ Après notre dernière nuit à Calais au USA, nous passons la frontière de bon 
 ## 01 et 02 juin
 
 
-Départ de New Glasgow sous une pluie fine en direction de Cape Breton Highlands NP, Passage en Acadie aux couleurs française avec une étoile jaune dans le bleu. On achete du pain dans une bakery et on parle en francais avec la commerçante. Promenade sur le Bog Hiking Trail sur une tourbière et rencontre avec un orignal.
-
-Lever 6h00 mais pas d’orignal sur bivouac. Super visites, trails, rencontre avec Orignal qui a foncé sur Corinne. Tous les temps, Entrées maritimes, orages, soleil…
+Départ de New Glasgow sous une pluie fine en direction de **Cape Breton Highlands NP**. Nous passons dans notre premier village Acadien aux couleurs française avec une étoile jaune dans le bleu. On achete du pain dans une boulangerie et on parle en francais avec la commerçante. Promenade sur différents trails du Parc national et rencontre avec deux Orignauls. (voir l’article <a href="{{site.baseurl}}{% post_url 2017-06-03-canada-nouvelle-ecosse-cabot-trail %}">ici</a>). A la sortie de Cap Breton nous bivouaquons à Sydney.
 
 ## 03 juin
 
-Départ de sydney pour Louisbourg, site gratuit avec le pass, très beau site avec de nombreux figurants. Ensuite route vers Halifax par la côte.
+Départ pour la Nouvelle France et la citadelle de Louisbourg, le site a été entièrement recontruitssite gratuit avec le pass, très beau site avec de nombreux figurants. Ensuite route vers Halifax par la côte.
 
 ## 04 juin
 
