@@ -12,11 +12,10 @@ tags: []
 country: Canada - Québec
 category: "roadmap"
 flickr-tag: ""
-location: ""
+location: "46.652206, -73.885599"
 itinary: "canada.json"
 
 ---
-
 
 Cinquième article de type carnet de route, il couvre la période 30 mai au 15 juin 2017 durant laquelle nous avons traversé les Etats du Nouveau Brunswick, Nouvelle Ecosse, Ile du Prince Edouard, Québec et Ontario.
 
