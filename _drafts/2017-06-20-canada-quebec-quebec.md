@@ -28,7 +28,7 @@ A l'entrée officielle du bâtiment, les visiteur sont accueillis par un monumen
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35109555920/in/datetaken/" title="Ville de Québec - Québec - [Canada]"><img src="https://c1.staticflickr.com/5/4260/35109555920_6944673ed7_k.jpg" width="2048" height="1365" alt="Ville de Québec - Québec - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous effectuons en suite un circuit à pied qui nous permet de passer devant les fortifications de la ville et les plus vieux bâtiments de la ville avec notamment le Château de Frontenac, grand hôtel de luxe qui culmine sur le fleuve et tout Québec, la terrasse Dufférin, la Place Royale, la Basilique Cathedrale - Notre-Dame-de-Quebec et la rue du Trésor où de nombreux artistes exposent.    
+Nous effectuons en suite un circuit à pied qui nous permet de passer devant les fortifications de la ville et les plus vieux bâtiments de la ville avec notamment le Château de Frontenac, grand hôtel de luxe qui culmine sur le fleuve et tout Québec, la terrasse Dufférin, la Place Royale, la Basilique Cathedrale Notre-Dame-de-Quebec et la rue du Trésor où de nombreux artistes exposent.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34654874404/in/datetaken/" title="Ville de Québec - Québec - [Canada]"><img src="https://c1.staticflickr.com/5/4241/34654874404_0a5c9acd03_k.jpg" width="2048" height="1152" alt="Ville de Québec - Québec - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
