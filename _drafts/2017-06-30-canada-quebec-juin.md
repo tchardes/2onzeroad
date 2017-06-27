@@ -4,7 +4,7 @@ title:   "Roadtrip du 30 mai au 15 juin 2017"
 preview:    "Cinquième article de type carnet de route, il couvre la période du 30 mai au 15 juin 2017 durant lesquels nous avons traversé les états du..."
 parent-id:  2017-07-01-canada-quebec-bilan
 
-date:       2017-06-29 12:00:00
+date:       2017-06-30 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt4.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt4.jpg
