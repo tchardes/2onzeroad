@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Ville de Quebec"
+title:      "Ville de Québec"
 preview:    "Depuis le Lac Saint-Jean, nous allons directement à Québec. Nous voulions faire une escale au Parc National de Jacques Cartier, qui propose... "
 parent-id:  2017-06-20-canada-quebec-juin
 
@@ -10,7 +10,7 @@ header-img: "assets/owner/blog/header/post-bg-quebec.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-quebec.jpg
 tags: [capitale, histoire, culturel, unesco]
 flickr-tag: 
-country: Canada - Quebec
+country: Canada - Québec
 city: 
 category: "blog"
 location: "46.814477, -71.205808"
