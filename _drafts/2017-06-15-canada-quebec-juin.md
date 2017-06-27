@@ -18,22 +18,20 @@ itinary: "canada.json"
 ---
 
 
-Cinquième article de type carnet de route, il couvre la période 30 mai au 15 juin 2017 durant laquelle nous avons traversé les Etats du New Brunswik,Nouvelle Ecosse, Ile du Prince Edouard, Québec et Ontario.
+Cinquième article de type carnet de route, il couvre la période 30 mai au 15 juin 2017 durant laquelle nous avons traversé les Etats du Nouveau Brunswick, Nouvelle Ecosse, Ile du Prince Edouard, Québec et Ontario.
 
 
 ## 31 Mai
 
-Passage de frontière sans problème. En raison du mauvais temps on décide de rouler pour s’avancer vers la Nouvelle Ecosse et Cape Breton.
+Après notre dernière nuit à Calais au USA, nous passons la frontière de bon matin pour entrer au Canada dans l'état du New Brunswick. Il s'agit d'un petit poste frontière situé à la sortie du pont qui traverse la rivière Sainte Croix. Le douanier s'adresse à nous directement en français et nous pose quelques questions avant de nous tamponner les passeports, nous avons trois mois devant nous. Nous faisons halte à la première banque pour retirer quelques dollars Canadien (1,50$CA = 1€). Les billets sont assez jolie en matière plastique, transparent par endroit. On est rassuré, notre carte N26 fonctionne bien ainsi que notre abonnement Free qui se cale directement sur le réseau Canadien qui s'apelle "Rogers". En raison du mauvais temps on décide de rouler pour s’avancer vers la Nouvelle Ecosse et Cap Breton, nous nous posons pour la nuit à New Glasgow et faisons nos premières courses Canadiennes.
 
 
-## 01 juin
+## 01 et 02 juin
 
 
 Départ de New Glasgow sous une pluie fine en direction de Cape Breton Highlands NP, Passage en Acadie aux couleurs française avec une étoile jaune dans le bleu. On achete du pain dans une bakery et on parle en francais avec la commerçante. Promenade sur le Bog Hiking Trail sur une tourbière et rencontre avec un orignal.
 
-## 02 juin
-
-Lever 6h00 mais d’orignal sur bivouac. Super visites, trails, rencontre avec Orignal qui a foncé sur Corinne. Tous les temps, Entrées maritimes, orages, soleil…
+Lever 6h00 mais pas d’orignal sur bivouac. Super visites, trails, rencontre avec Orignal qui a foncé sur Corinne. Tous les temps, Entrées maritimes, orages, soleil…
 
 ## 03 juin
 
