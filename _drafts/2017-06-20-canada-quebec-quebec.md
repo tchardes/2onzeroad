@@ -16,7 +16,7 @@ category: "blog"
 location: "46.814477, -71.205808"
 ---
 
-Depuis le Lac Saint-Jean, nous partons en direction de la ville de **Québec**. Nous voulions faire une escale au Parc National de Jacques Cartier, qui propose de nombreuses animations mais je ne suis pas en forme et le temps ne s'y prête pas. Nous allons directement à la ville de Lévis qui se trouve au Sud de Québec sur la rive droite. Un traversier gratuit permet de traverser le Saint Laurent afin de se retrouver rapidement au centre de la vieille ville. Mais de nombreux travaux nous interdisent de nous approcher et de nous garer au niveau de la gare maritime.   
+Depuis le Lac Saint-Jean, nous partons en direction de la ville de **Québec**. Nous voulions faire une escale au Parc National de Jacques Cartier, qui propose de nombreuses activités mais je ne suis pas en forme et le temps ne s'y prête pas. Nous allons directement à la ville de Lévis qui se trouve au Sud de Québec sur la rive droite. Un traversier gratuit permet de traverser le Saint Laurent afin de se retrouver rapidement au centre de la vieille ville. Mais de nombreux travaux nous interdisent de nous approcher et de nous garer au niveau de la gare maritime.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35365471671/in/datetaken/" title="Ville de Québec - Québec - [Canada]"><img src="https://c1.staticflickr.com/5/4216/35365471671_48b28c773e_k.jpg" width="2048" height="1152" alt="Ville de Québec - Québec - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
