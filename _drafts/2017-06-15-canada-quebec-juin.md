@@ -24,7 +24,6 @@ Cinquième article de type carnet de route, il couvre la période 30 mai au 15 j
 ## 31 Mai
 
 Passage de frontière sans problème. En raison du mauvais temps on décide de rouler pour s’avancer vers la Nouvelle Ecosse et Cape Breton.
-A partir de là les depenses se font en Dollars Canadiens 1€ = 1,5 $Ca environ
 
 
 ## 01 juin
