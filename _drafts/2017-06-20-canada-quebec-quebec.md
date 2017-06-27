@@ -36,6 +36,6 @@ A midi nous déjeunons dans un restaurant typique "La Bûche", tout en bois, ave
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34654916574/in/datetaken/" title="Ville de Québec - Québec - [Canada]"><img src="https://c1.staticflickr.com/5/4286/34654916574_e49063af57_k.jpg" width="2048" height="1152" alt="Ville de Québec - Québec - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-Les rues commerçantes sont très belles et très animés, les devantures des établissements sont toutes de style très British, un curieux mélange de tradition anglo-saxonne et française.  
+Les rues commerçantes sont très belles et très animés, les devantures des établissements sont toutes de style très British, un curieux mélange de culture anglo-saxonne et française.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34685917433/in/datetaken/" title="Ville de Québec - Québec - [Canada]"><img src="https://c1.staticflickr.com/5/4289/34685917433_32deea9274_k.jpg" width="2048" height="1152" alt="Ville de Québec - Québec - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
