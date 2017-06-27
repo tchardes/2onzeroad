@@ -20,7 +20,7 @@ Nous quittons la ville de Québec et empruntons la voie Royale sur la rive Nord 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34654426254/in/datetaken/" title="Montréal - Québec - [Canada]"><img src="https://c1.staticflickr.com/5/4266/34654426254_1014ef1590_k.jpg" width="2048" height="649" alt="Montréal - Québec - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous trouvons un bivouac non loin d'un terminus du métro qui nous permet de nous rendr rapidement en centre ville. Le métro est très propre et les stations très lumineuses.
+Nous trouvons un bivouac non loin d'un terminus du métro qui nous permet de nous rendre rapidement en centre ville. Le métro est très propre et les stations très lumineuses.
 
 Montréal est une ville très cosmopolite certainement en raison de leur politique d'emmigration.
 
