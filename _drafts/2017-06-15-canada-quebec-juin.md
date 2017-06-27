@@ -23,61 +23,106 @@ Cinquième article de type carnet de route, il couvre la période 30 mai au 15 j
 
 ## 31 Mai
 
+Passage de frontière sans problème. En raison du mauvais temps on décide de rouler pour s’avancer vers la Nouvelle Ecosse et Cape Breton.
+A partir de là les depenses se font en Dollars Canadiens 1€ = 1,5 $Ca environ
+
+
+## 01 juin
+
+
+Départ de New Glasgow sous une pluie fine en direction de Cape Breton Highlands NP, Passage en Acadie aux couleurs française avec une étoile jaune dans le bleu. On achete du pain dans une bakery et on parle en francais avec la commerçante. Promenade sur le Bog Hiking Trail sur une tourbière et rencontre avec un orignal.
 
 ## 02 juin
 
+Lever 6h00 mais d’orignal sur bivouac. Super visites, trails, rencontre avec Orignal qui a foncé sur Corinne. Tous les temps, Entrées maritimes, orages, soleil…
 
 ## 03 juin
 
+Départ de sydney pour Louisbourg, site gratuit avec le pass, très beau site avec de nombreux figurants. Ensuite route vers Halifax par la côte.
 
 ## 04 juin
 
+Visite d’Halifax et deux ports. Journée musées gratuits.
+Musée maritime, fort
 
 ## 05 juin
 
-## 06 juin
+Nous quittons la nouvelle écosse en direction de l’Ile du Prince Edouard. Sur la route coière nous faison un arrêt à Grand Près, site classé UNESCO, terres fertiles et cultivable grace aux acadiens.
 
-## 07 juin
+## 06 et 07 juin
+
+Trajet jusqu’au camping, dump, lessives traitement de photos. Pas de WiFI. Mise à jour du site. Rencontre couple canadien. Un quebecois s’installe à coté de nous et nous lui demandons conseil pour la suite de notre route.
 
 ## 08 juin
 
+On quite le camping ce matin en direction du nord de lîle. A part une village acadien rigolot RAS.
+
 ## 09 juin
+
+Départ de Summerside pour le Gulf Shore ParkWay National Park qui longe la mer sur 42 Km, bofff. Puis route vers Charlottetown ou nous visitons une très belle basilique et le quartier autour, puis route vers le Fort Amherst sous la pluie
+On quitte l’ile en debut d’après-midi en s’acquittant la somme de 46,50$ et roulons vers Moncton.
 
 ## 10 juin
 
+Départ pour le Quebec. En route nous faison un arrêt au Parc de Kouchibouguac NP au dessus de St Louis de Kent. Nous faison le premier trail « Pines » et sommes harcelés par les moustiques. Nous faison un deuxième « Castor » situé dans une zone humide et là c’est carrément la Guerre, nous sommes entourés d’une centaine de Maringouins (moustique québécois). Au bout d’un quart d’heure nous faisons demi tour c’est intenable. 
+Nous faison le tour de la péninsule qui se trouve en dessous de la Gaspésie sans réel intêret. Arivés à Mont Jolie, la route descend perpendiculairement au fleuve St Laurent si large à cet endroit que l’on dirai la mer.
+
 ## 11 juin
+
+Route vers le St Laurent pour prendre le traversier. Avons croisé deux orignauls au milieu de la route. On arrive un peu tard pour prendre le bateau, on verra demain.
 
 ## 12 juin
 
+Il devait pleuvoir toute la journée donc nous avons décidé de rester là pour faire le plain de courses et faire le « Changement d’huile » de Thor. Au final il fera beau toute la journée, la méteo s’amusant à décaller l’heure de pluie sans arrêt. Corinne en a profité pour aller chez le coiffeur et moi avancer sur le site.
+
 ## 13 juin
+
+Traversée du StLaurent en bateau, discution avec marin sur la salinité du fleuve, les baleines, roaqual et beluga. Visite du PN Fjord Saguenay, deux trails, parc payant car du Quebec, passage sous une pont couvert, à St Felex d’otis, après plusieurs arrets pour chercher de l’eau on tombe sut un emplyé de mairie qui nous améné à la mairie et nous fait le plein de l’eau. Arrêt à la maison blanche rescapé innodation de 1996 à Chicoutimi ouis arrêt au Walmart.
+
+Vocabulaire quebecois :
+Les lumières : feux tricolores
+Changement d’huile : vidange
+Ca mouille : il pleut
+Triple W : 3W
+Barre penchée : /
 
 ## 14 juin
 
+Visite du parc des monts valins, trail de du 
+Ensuite tour du lac St Jean.
+
 ## 15 juin
 
-## 16 juin
+Route jusqu’à Québec ville, je suis malade, journée foutue.
 
-## 17 juin
+## 16 au 19 juin
 
-## 18 juin
-
-## 19 juin
+Dernier jour, visite de Québec, visite guidée de l’assemblée et du centre ville. A midi repas au restaurant « buche » typique où j’ai dégusté la Poutine au Bacon….
 
 ## 20 juin
 
-## 21 juin
+Route sur la rive Nord du St Laurent vert Montréal.
 
-## 22 juin
+## 21 et 22 juin
+
+Premier jour, visite de la vieille ville circuit autour des principaux monuments. Repas resto Italien bof. Deuxième jour panoramique au mont Royal puis visite quartier BOBO de Montréal aevc bâtiment de trois étage et escalier extérieur pour le 3éme. Repas dans un bon resto où il faut venir avec son vin.
+Métro très beau. et très propre, pass peu cher pour 3 jours.
 
 ## 23 juin
 
+Départ de Montréal sous la pluie après avoir fait le plein de gaz. Route jusqu’à Ottawa sous un temps nuageux, Dump dans une usine traitement des eaux usées. Passage dans la capitale avec Thor avant regagner Walmart poiur les courses.
+
 ## 24 juin
+
+Visite de la ville et visite guidée du parlement. Repas de midi dabs resto Irlandais. Discusion avec une famille de québecois qui a vécu en europe on a beaucoup parlé.
 
 ## 25 juin
 
-## 26 juin
+Route vers Lindsay, bivouac sympa au bord d’une rivière.
 
-## 27 juin
+## 26 et 27 juin
+
+Journée camping, lessives, ménage, mise à jour du site et des photos et vidéos. WIFI uniquement à l’accueil et de mauvaise qualité.
 
 ## 28 juin
 
