@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Ottawa"
-preview:    "... "
+preview:    "Depuis notre bivouac, nous prenons le car de la ville pour arriver directement au centre de la vieille ville. Toutes les choses à voir se concentrent au niveau de la rue... "
 parent-id:  2017-06-20-canada-quebec-juin
 
 date:       2017-06-24 12:00:00
