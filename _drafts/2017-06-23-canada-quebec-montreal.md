@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Montréal"
-preview:    "Nous quittons la ville de Québec et empruntons la voie Royale sur la rive Nord du St Laurent pour regagner la plus grande ville ... "
+preview:    "Nous quittons la ville de Québec et empruntons la voie Royale sur la rive Nord du St Laurent pour regagner la plus grande ville... "
 parent-id:  2017-06-20-canada-quebec-juin
 
 date:       2017-06-23 12:00:00
