@@ -43,9 +43,9 @@ Nous prenons la route ensuite pour Halifax par la côte. le trajet est assez cah
 
 ## 04 juin
 
-Nous trouvons un parking dans Halifax qui accepte les RV non loin du centre ville. Un passage au centre d'information nous apprend qu'il s'agit de la journéé du patrimoine et que tous les musées sont gratuits. Nous en profitons pour visiter le musée de la marine dont une grosse part est consacré au Titanic qui a coulé le 14 avril 1912 non loin de là au large de Terre Neuve. Ce sont des bateaux de la région qui sont allé porter secours aux quelques survivants qui ont été transportés directement à New York tandis que tous les corps repêchés ont été déposés à Halifax. 
+Nous trouvons un parking dans Halifax qui accepte les RV non loin du centre ville. Un passage au centre d'information nous apprend qu'il s'agit d'une sorte de journée du patrimoine et que tous les musées sont gratuits. Nous en profitons pour visiter le musée de la marine dont une grosse partie est consacré au Titanic qui a coulé le 14 avril 1912 non loin de là au large de Terre Neuve. Ce sont des bateaux de la région qui sont allés porter secours aux quelques survivants qui ont été transportés directement à New York tandis que tous les corps repêchés ont été déposés à Halifax. 
 
-Le musée retrace également une catastrophe maritime qui a pratiquement rasé la ville le 6 décembre 1917. Alors que le cargo français Mont-Blanc, transportant des munitions à destination de l'Europe alors en guerre, entra en collision avec un navire norvégien, l'Imo. Le Mont-Blanc prit feu et explosa vingt minutes plus tard, tuant 2 000 personnes et en blessant des milliers d'autres. L'explosion engendra un tsunami et une onde de choc si puissante qu'elle cassa des arbres, plia des rails de chemin de fer et démolit des édifices. L'explosion fut entendue à 420 kilomètres de distance. Ce fut la plus puissante explosion causée par l'activité humaine jusqu'au premier essai atomique en juillet 1945.
+Le musée retrace également une catastrophe maritime qui a pratiquement rasé la ville le 6 décembre 1917. Alors que le cargo français le Mont-Blanc, transportant des munitions à destination de l'Europe alors en guerre, entra en collision avec l'Imo, un navire norvégien. Le Mont-Blanc prit feu et explosa vingt minutes plus tard, tuant 2 000 personnes et en blessant des milliers d'autres. L'explosion engendra un tsunami et une onde de choc si puissante qu'elle cassa des arbres, plia des rails de chemin de fer et démolit des édifices. L'explosion fut entendue à 420 kilomètres de distance. Ce fut la plus puissante explosion causée par l'activité humaine jusqu'au premier essai atomique en juillet 1945.
 
 Nous nous promenons ensuite le long du Halifax Harbourwalk, circuit pédestre sur le front de mer bien agréable.
 
@@ -53,15 +53,18 @@ En début d'après-midi nous visitons la citadelle qui abritait les soldats brit
 
 Nous reprenons la route le long de la côte pour visiter deux ports renommés, Peggy's Cove petit port granitique spécialisé dans la pêche au Homard et rendu celèbre par son phare, soit disant un des plus photographiés au monde et Lunenburg, dont le centre historique a été mis sur la liste du patrimoine mondial par l'UNESCO en 1995. Le port abrite la goélette **Bluenose II** qui remporta le trophée de course entre pêcheurs de la côte atlantique entre 1921 et 1938. Un symbole canadien que l'on retrouve sur les plaques d'immatriculation de la nouvelle Ecosse, sur des timbres et sur la pièce de 10 cents. 
 
-Nous finissons la journée en traverssant lîle du Sud Vers le nord, ne voulant faire tout le tour de l'île par la côte.
+Nous finissons la journée en traverssant l'île du Sud Vers le Nord, ne voulant faire tout le tour de la Nouvelle Ecosse par la côte. Nous nous posons à New Ninas.
 
 ## 05 juin
 
-Nous quittons la nouvelle écosse en direction de l’Ile du Prince Edouard. Sur la route coière nous faison un arrêt à Grand Près, site classé UNESCO, terres fertiles et cultivable grace aux acadiens.
+Nous quittons la nouvelle écosse en direction de l’Ile du Prince Edouard. Sur la route cotière nous faisons un arrêt au site de **Grand Prè**, inscrit au patrimoine mondial de l'UNESCO depuis le 30 juin 2012. Fondé en 1682, Grand-Pré est rapidement devenu le grenier et la principale ville de l'Acadie. Ravagé en 1704 et tombé au mains des britanniques en 1713, Grand-Pré fut victime de la lutte pour le contrôle de l'Amérique du Nord. La population fut déportée par les anglais à l'automne 1755, véritable nettoyage etnique, certains historiens n'hésite pas à parler de crime contre l'humanité. Devenu site historique national et considéré comme le cœur historique et spirituel de l'Acadie avec ces terres fertiles et cultivables rendu possible grâce aux techniques agricoles importées par les acadiens. Nous bivouaquons à Amherst.
 
 ## 06 et 07 juin
 
-Trajet jusqu’au camping, dump, lessives traitement de photos. Pas de WiFI. Mise à jour du site. Rencontre couple canadien. Un quebecois s’installe à coté de nous et nous lui demandons conseil pour la suite de notre route.
+En route vers le l'île du Prince Edouard que nous ateignons en traverssant un immense pont de 12 Km de long qui relie lîle au continent. Nous allons directement à New Aman dan sun camping qui se trouve au bord d'une baie côté Atlantique. Nous profitons de ces deux journées pour effectuer les dumps, lessives, traitement de photos et mise à jour du site. Le Wi-Fi est en panne et je dois aller à l'acceuil pour pouvoir bénéficier d'une connexion très lente. 
+
+Un couple de retraité québécois s'installe à coté de nous et nous entamons une discution. Une fois de plus je suis surpris par leur connaissance de la politique française et anglaise. Il est vrai que dans les deux cas l'actualité est assez chargée avec les élections législatives. J'en profite pour lui demander conseil sur la plus belle route à prendre pour rejoindre le Québec. Il confirme ma première idée de ne pas faire tout le tour de la Gaspésie et couper à travers jusqu'à Mont Jolie, l'ouest étant plus intéressant.
+
 
 ## 08 juin
 
@@ -70,7 +73,7 @@ On quite le camping ce matin en direction du nord de lîle. A part une village a
 ## 09 juin
 
 Départ de Summerside pour le Gulf Shore ParkWay National Park qui longe la mer sur 42 Km, bofff. Puis route vers Charlottetown ou nous visitons une très belle basilique et le quartier autour, puis route vers le Fort Amherst sous la pluie
-On quitte l’ile en debut d’après-midi en s’acquittant la somme de 46,50$ et roulons vers Moncton.
+On quitte l’ile en debut d’après-midi en s’acquittant la somme de 46,50$ et roulons vers Moncton où nous essuyons une tempête avec des vents à plus de 100 KM/H qui feront de nombreux dégats. 
 
 ## 10 juin
 
