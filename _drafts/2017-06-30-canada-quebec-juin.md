@@ -22,7 +22,7 @@ Cinquième article de type carnet de route, il couvre la période 30 mai au 15 j
 
 ## 31 Mai
 
-Après notre dernière nuit à Calais au USA, nous passons la frontière de bon matin pour entrer au Canada dans l'état du New Brunswick. Il s'agit d'un petit poste frontière situé à la sortie du pont qui traverse la rivière Sainte Croix. Le douanier s'adresse à nous directement en français et nous pose quelques questions avant de nous tamponner les passeports, nous avons trois mois devant nous. Nous faisons halte à la première banque pour retirer quelques dollars Canadien (1,50$CA = 1€). Les billets sont assez jolie en matière plastique, transparent par endroit. On est rassuré, notre carte N26 fonctionne bien ainsi que notre abonnement Free qui se cale directement sur le réseau Canadien qui s'apelle "Rogers". En raison du mauvais temps on décide de rouler pour s’avancer vers la Nouvelle Ecosse et Cap Breton, nous nous posons pour la nuit à New Glasgow et faisons nos premières courses Canadiennes.
+Après notre dernière nuit à Calais aux USA, nous passons la frontière de bon matin pour entrer au Canada dans l'état du New Brunswick. Il s'agit d'un petit poste frontière situé à la sortie du pont qui traverse la rivière Sainte Croix. Le douanier s'adresse à nous directement en français et nous pose quelques questions avant de nous tamponner les passeports, nous avons trois mois devant nous. Nous faisons halte à la première banque pour retirer quelques dollars Canadien (1,50$CA = 1€). Les billets sont assez jolie en matière plastique, transparent par endroit. On est rassuré, notre carte N26 fonctionne bien ainsi que notre abonnement Free qui se cale directement sur le réseau Canadien qui s'apelle "Rogers". En raison du mauvais temps on décide de rouler pour s’avancer vers la Nouvelle Ecosse et Cap Breton, nous nous posons pour la nuit à New Glasgow et faisons nos premières courses "Canadiennes" dans un Walmart, pas trop de changement par rapport aux USA.
 
 
 ## 01 et 02 juin
@@ -32,12 +32,28 @@ Départ de New Glasgow sous une pluie fine en direction de **Cape Breton Highlan
 
 ## 03 juin
 
-Départ pour la Nouvelle France et la citadelle de Louisbourg, le site a été entièrement recontruitssite gratuit avec le pass, très beau site avec de nombreux figurants. Ensuite route vers Halifax par la côte.
+Départ pour la forteresse de Louisbourg de la Nouvelle France, un quart de la ville fortidié a été entièrement reconstruit entre 1961 et 1981. 
+
+À l'origine établie en 1713 elle est devenue la capitale de l'Île Royale en 1718. En 1745, une force armée britannique venue de la Nouvelle-Angleterre la capture. Elle fut restituée à la France en 1748. En 1958 une nouvelle attaque anglaise échoue les forces française étant nettement supérieure. En 1758, une autre expédition britannique fait le siège de la forteresse. devant l'importance ddu contingent Britanique la rédition de la ville intervint un mois plus tard. Les anglais firent 5 640 prisonniers. Deux ans plus tard, la forteresse est détruite par des ingénieurs militaires britanniques. Encore une fois nous avons cédé devant les anglais, comme partout sur le continent américain, laissant, abandonnant avec une certaine lacheté des centaines de familles françaises à leur propre sort. On a toujours de très bonnes idées mais malheureusement peu de courage et de volonté politique pour les mener à bien et aller au bout de nos convictions.
+
+le site est gratuit grâce au pass. De nombreux figurants font revivre l'histoire, il vous parle en français et vous explique ceux qu'ils font comme si nous étions en 1750. En dehors de l'édifice militaire transformé en musée et retrançant l'histoire des fouilles et de la recontruction, les principales maisons et commerces de la ville ont été rebaties. De nombreuses explications sont pésentes sur les occupants, leur métier, leur tragédie. Très belle visite très instructive et qui fait partie de notre histoire malgrè tout.
+
+Nous prenons la route ensuite pour Halifax par la côte. le trajet est assez cahotique s'agissant de petites routes pas très entretenues. cependant la côté est belle et les villages traversés typiques. Nous trouvons un bivouac sauvage très sympa en pleine fôret.
+
 
 ## 04 juin
 
-Visite d’Halifax et deux ports. Journée musées gratuits.
-Musée maritime, fort
+Nous trouvons un parking dans Halifax qui accepte les RV non loin du centre ville. Un passage au centre d'information nous apprend qu'il s'agit de la journéé du patrimoine et que tous les musées sont gratuits. Nous en profitons pour visiter le musée de la marine dont une grosse part est consacré au Titanic qui a coulé le 14 avril 1912 non loin de là au large de Terre Neuve. Ce sont des bateaux de la région qui sont allé porter secours aux quelques survivants qui ont été transportés directement à New York tandis que tous les corps repêchés ont été déposés à Halifax. 
+
+Le musée retrace également une catastrophe maritime qui a pratiquement rasé la ville le 6 décembre 1917. Alors que le cargo français Mont-Blanc, transportant des munitions à destination de l'Europe alors en guerre, entra en collision avec un navire norvégien, l'Imo. Le Mont-Blanc prit feu et explosa vingt minutes plus tard, tuant 2 000 personnes et en blessant des milliers d'autres. L'explosion engendra un tsunami et une onde de choc si puissante qu'elle cassa des arbres, plia des rails de chemin de fer et démolit des édifices. L'explosion fut entendue à 420 kilomètres de distance. Ce fut la plus puissante explosion causée par l'activité humaine jusqu'au premier essai atomique en juillet 1945.
+
+Nous nous promenons ensuite le long du Halifax Harbourwalk, circuit pédestre sur le front de mer bien agréable.
+
+En début d'après-midi nous visitons la citadelle qui abritait les soldats britaniques en 1869. De nombreuses pièces on été reconstituée et de jeunes gens habillés en uniformes d'époque, souvent en kilt, font revivre les lieux et animent des ateliers, le tout au son de la cornemuse.
+
+Nous reprenons la route le long de la côte pour visiter deux ports renommés, Peggy's Cove petit port granitique spécialisé dans la pêche au Homard et rendu celèbre par son phare, soit disant un des plus photographiés au monde et Lunenburg, dont le centre historique a été mis sur la liste du patrimoine mondial par l'UNESCO en 1995. Le port abrite la goélette **Bluenose II** qui remporta le trophée de course entre pêcheurs de la côte atlantique entre 1921 et 1938. Un symbole canadien que l'on retrouve sur les plaques d'immatriculation de la nouvelle Ecosse, sur des timbres et sur la pièce de 10 cents. 
+
+Nous finissons la journée en traverssant lîle du Sud Vers le nord, ne voulant faire tout le tour de l'île par la côte.
 
 ## 05 juin
 
