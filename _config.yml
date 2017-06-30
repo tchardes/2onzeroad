@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "43.078224, -79.080121"
-  name: "Niagara Falls, Ontario, Canada"
-  date: "29 juin 2017"
+  coordinates: "42.331575, -83.046652"
+  name: "Détroit, Michigan, USA"
+  date: "30 juin 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
