@@ -8,7 +8,7 @@ date:       2017-06-23 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-montreal.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-montreal.jpg
-tags: [ville, culturel]
+tags: [ville, culturel, histoire]
 flickr-tag: 
 country: Canada - Québec
 city: Montréal
