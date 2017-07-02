@@ -71,9 +71,9 @@ Nous reprenons la route le long de la côte pour visiter deux ports renommés, P
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34382284904/in/datetaken/" title="Peggy&#x27;s Cove - Nouvelle Ecosse - [Canada]"><img src="https://farm5.staticflickr.com/4290/34382284904_908529621c_k.jpg" width="2048" height="1152" alt="Peggy&#x27;s Cove - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34382284904/in/datetaken/" title="Peggy&#x27;s Cove - Nouvelle Ecosse - [Canada]"><img src="https://farm5.staticflickr.com/4290/34382284904_908529621c_k.jpg" width="2048" height="1152" alt="Peggy&#x27;s Cove - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35060815042/in/datetaken/" title="Peggy&#x27;s Cove - Nouvelle Ecosse - [Canada]"><img src="https://farm5.staticflickr.com/4242/35060815042_5beea1ffe2_k.jpg" width="2048" height="843" alt="Peggy&#x27;s Cove - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35226300855/in/datetaken/" title="Lunenburg - Nouvelle Ecosse - [Canada]"><img src="https://farm5.staticflickr.com/4226/35226300855_3aa850587d_k.jpg" width="2048" height="1152" alt="Lunenburg - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35226300855/in/datetaken/" title="Lunenburg - Nouvelle Ecosse - [Canada]"><img src="https://farm5.staticflickr.com/4226/35226300855_3aa850587d_k.jpg" width="2048" height="1152" alt="Lunenburg - Nouvelle Ecosse - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 Nous finissons la journée en traverssant l'île du Sud Vers le Nord, ne voulant faire tout le tour de la Nouvelle Ecosse par la côte. Nous nous posons à New Ninas.
 
