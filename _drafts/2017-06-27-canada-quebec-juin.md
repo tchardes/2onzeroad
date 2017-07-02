@@ -103,15 +103,26 @@ On quite le camping ce matin en direction du nord de lîle. A part quleques vill
 
 ## 09 juin
 
-Nous quittons notre bivouac de Summerside pour rejoindre le **Gulf Shore ParkWay National Park** qui longe la mer sur 42 Km, rien de bien extraordinaire. On a l'impression qu'ils ont créé un parc pour "privatiser" et faire payer l'accés aux plages. Nous poussons jusqu'à Charlottetown, capitale de la province, ou nous visitons une très belle basilique et le quartier autour, nous roulant ensuite jusqu'au Fort Amherst mais une forte pluie nous empêche de visiter les lieux. Nous déicdons de quitter l'île en debut d’après-midi en s’acquittant la somme de 46,50$. Nous bivouaquons à Moncton sur le parking d'un Walmart. En début de soirée nous essuyons une tempête qui secoueras Thors et fera trembler Corinne. Le lendemain nous apprenons par la radio qu'une tempête c'est abbatue sur la ville avec des raffales de vents à plus de 100 Km/h occasionnant de nombreux dégats. On entendant cela on s'est dit que la tempête que l'on a essuyé sur le Blue Ridge devait être particulièrement violente tant elle était plus 
-impressionnante. 
+Nous quittons notre bivouac de Summerside pour rejoindre le **Gulf Shore ParkWay National Park** qui longe la mer sur 42 Km, rien de bien extraordinaire. On a l'impression qu'ils ont créé un parc pour "privatiser" et faire payer l'accés aux plages. Nous poussons jusqu'à Charlottetown, capitale de la province, ou nous visitons une très belle basilique et le quartier autour, nous roulant ensuite jusqu'au Fort Amherst mais une forte pluie nous empêche de visiter les lieux.   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34686899443/in/datetaken/" title="Charlottetown - Isle du Prince Edouard - [Canada]"><img src="https://farm5.staticflickr.com/4261/34686899443_1a908ed546_k.jpg" width="2048" height="1365" alt="Charlottetown - Isle du Prince Edouard - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35496852325/in/datetaken/" title="Charlottetown - Isle du Prince Edouard - [Canada]"><img src="https://farm5.staticflickr.com/4266/35496852325_d9bc5310d3_k.jpg" width="2048" height="1365" alt="Charlottetown - Isle du Prince Edouard - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous décidons de quitter l'île en debut d’après-midi en s’acquittant la somme de 46,50$. Nous bivouaquons à Moncton sur le parking d'un Walmart. En début de soirée nous essuyons une tempête qui secoueras Thors et fera trembler Corinne. Le lendemain nous apprenons par la radio qu'une tempête c'est abbatue sur la ville avec des raffales de vents à plus de 100 Km/h occasionnant de nombreux dégats. On entendant cela on s'est dit que la tempête que l'on a essuyé sur le Blue Ridge devait être particulièrement violente tant elle était plus impressionnante. 
 
 
 
 
 ## 10 juin
 
-Départ pour le Quebec. En route nous faisons un arrêt au Parc de Kouchibouguac NP au dessus de St Louis de Kent. Nous faisons le premier trail « Pines » et sommes harcelés par les moustiques. Nous faisons un deuxième « Castor » situé dans une zone humide et là c’est carrément la guerre, nous sommes entourés d’une centaine de Maringouins (moustique québécois). Au bout d’un quart d’heure nous faisons demi tour car c’est intenable. Nous faisons le tour de la péninsule qui se trouve en dessous de la Gaspésie sans réel intêret. En cherchant une station de radio francophone on se cale sur Radio Canada et on comprend enfin pourquoi les Québécois sont autants calés en politique internationale. Les flash infos parlent plus de la déconfiture de Theresa May et des négociations pour le Bexit qui vons commencer sous peu à Bruxels, ainsi que des élections législative en France avec la vague Macron que la politique de la province du Québec. Ce sont carrément des analyses politiques plus que de simples brêves. Nous passons la nuit à Atholville.
+Départ pour le Quebec. 
+
+Shediac, capitale mondiale autoproclamée du homard, vente de garage
+
+Pays de la sagouine, marché local
+
+En route nous faisons un arrêt au Parc de Kouchibouguac NP au dessus de St Louis de Kent. Nous faisons le premier trail « Pines » et sommes harcelés par les moustiques. Nous faisons un deuxième « Castor » situé dans une zone humide et là c’est carrément la guerre, nous sommes entourés d’une centaine de Maringouins (moustique québécois). Au bout d’un quart d’heure nous faisons demi tour car c’est intenable. Nous faisons le tour de la péninsule qui se trouve en dessous de la Gaspésie sans réel intêret. En cherchant une station de radio francophone on se cale sur Radio Canada et on comprend enfin pourquoi les Québécois sont autants calés en politique internationale. Les flash infos parlent plus de la déconfiture de Theresa May et des négociations pour le Bexit qui vons commencer sous peu à Bruxels, ainsi que des élections législative en France avec la vague Macron que la politique de la province du Québec. Ce sont carrément des analyses politiques plus que de simples brêves. Nous passons la nuit à Atholville.
 
 ## 11 juin
 
