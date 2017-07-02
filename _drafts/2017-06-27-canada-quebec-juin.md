@@ -72,52 +72,42 @@ On quite le camping ce matin en direction du nord de lîle. A part quleques vill
 
 ## 09 juin
 
-Nous quittons notre bivouac de Summerside pour rejoindre le **Gulf Shore ParkWay National Park** qui longe la mer sur 42 Km, rien de bien extraordinaire. On a l'impression qu'ils ont crées un parc pour "privatiser" et faire payer l'accés aux plages. Nous poussons jusqu'à Charlottetown, capitale de la province, ou nous visitons une très belle basilique et le quartier autour, nous roulant ensuite jusqu'au Fort Amherst mais une forte pluie nous empêche de visiter les lieux. Nous déicdons de quitter l'île en debut d’après-midi en s’acquittant la somme de 46,50$. Nous bivouaquons à Moncton sur le parking d'un Walmart. En début de soirée nous essuyons une tempête qui secoueras Thords et fera trembler Corinne. Le lendemain nous apprenons à la radio qu'une tempête c'est abbatue sur la ville avec des raffales de vents à plus de 100 Km/h occasionnant de nombreux dégats. On entendant cela on s'est dit que la tempête que l'on a essuyé sur le Blue Ridge devait être particulièrement violente tant elle était plus impressionnante. 
+Nous quittons notre bivouac de Summerside pour rejoindre le **Gulf Shore ParkWay National Park** qui longe la mer sur 42 Km, rien de bien extraordinaire. On a l'impression qu'ils ont créé un parc pour "privatiser" et faire payer l'accés aux plages. Nous poussons jusqu'à Charlottetown, capitale de la province, ou nous visitons une très belle basilique et le quartier autour, nous roulant ensuite jusqu'au Fort Amherst mais une forte pluie nous empêche de visiter les lieux. Nous déicdons de quitter l'île en debut d’après-midi en s’acquittant la somme de 46,50$. Nous bivouaquons à Moncton sur le parking d'un Walmart. En début de soirée nous essuyons une tempête qui secoueras Thors et fera trembler Corinne. Le lendemain nous apprenons par la radio qu'une tempête c'est abbatue sur la ville avec des raffales de vents à plus de 100 Km/h occasionnant de nombreux dégats. On entendant cela on s'est dit que la tempête que l'on a essuyé sur le Blue Ridge devait être particulièrement violente tant elle était plus impressionnante. 
 
 ## 10 juin
 
-Départ pour le Quebec. En route nous faisons un arrêt au Parc de Kouchibouguac NP au dessus de St Louis de Kent. Nous faison le premier trail « Pines » et sommes harcelés par les moustiques. Nous faison un deuxième « Castor » situé dans une zone humide et là c’est carrément la Guerre, nous sommes entourés d’une centaine de Maringouins (moustique québécois). Au bout d’un quart d’heure nous faisons demi tour c’est intenable. Nous faisons le tour de la péninsule qui se trouve en dessous de la Gaspésie sans réel intêret. Arrivés à Mont Jolie, la route descend perpendiculairement au fleuve St Laurent si large à cet endroit que l’on dirai l'Océan. En cherchant une station de radio francophone on se cale sur Radio Canada et on comprend enfin pourquoi les Québécois sont autants calés en politique internationale. Les flash infos parlent plus de la déconfiture de Theresa May et des négociations pour le Bexit qui vons commencer sous peu à Bruxels, ainsi que des élections législative en France avec la vague Macron que la politique de la province du Québec. Ce sont carrément des analyses politiques plus que de simples brêves. Nous nous arrêtons à Rimouski, première ville ayant un ttraversier sur notre route mais ces derniers ne prennent sur leur bateau que les voitures. Ils nous conseilles de descendre 
+Départ pour le Quebec. En route nous faisons un arrêt au Parc de Kouchibouguac NP au dessus de St Louis de Kent. Nous faisons le premier trail « Pines » et sommes harcelés par les moustiques. Nous faisons un deuxième « Castor » situé dans une zone humide et là c’est carrément la guerre, nous sommes entourés d’une centaine de Maringouins (moustique québécois). Au bout d’un quart d’heure nous faisons demi tour car c’est intenable. Nous faisons le tour de la péninsule qui se trouve en dessous de la Gaspésie sans réel intêret. En cherchant une station de radio francophone on se cale sur Radio Canada et on comprend enfin pourquoi les Québécois sont autants calés en politique internationale. Les flash infos parlent plus de la déconfiture de Theresa May et des négociations pour le Bexit qui vons commencer sous peu à Bruxels, ainsi que des élections législative en France avec la vague Macron que la politique de la province du Québec. Ce sont carrément des analyses politiques plus que de simples brêves. Nous passons la nuit à Atholville.
 
 ## 11 juin
 
-Route vers le St Laurent pour prendre le traversier. Avons croisé deux orignauls au milieu de la route. On arrive un peu tard pour prendre le bateau, on verra demain.
+Nous reprenons la route en direction du St Laurent pour prendre le traversier. En plein milieu de la route, nous croisons deux orignauls complétement affolés, le premier fini par traverser les voix tandis que le deuxième fait demi tour et regagne la forêt. Ces animaux sont vraiment impressionnant par leur taille. Arrivés à Mont Jolie, la route descend perpendiculairement au fleuve St Laurent, si large à cet endroit que l’on croirai l'Océan. Nous nous arrêtons à Rimouski, première ville ayant un ttraversier sur notre route mais ces derniers ne prennent sur leur bateau que les voitures. Ils nous conseillent de descendre jusqu'à Rivière-Du-Loup. Nous y arrivons un demi heure trop tard et nous voyons le bateau sortir du port. Nous prenons les renseignements pour le lendemain.
 
 ## 12 juin
 
-Il devait pleuvoir toute la journée donc nous avons décidé de rester là pour faire le plain de courses et faire le « Changement d’huile » de Thor. Au final il fera beau toute la journée, la méteo s’amusant à décaller l’heure de pluie sans arrêt. Corinne en a profité pour aller chez le coiffeur et moi avancer sur le site.
+Il devait pleuvoir toute la journée donc nous avons décidé de rester là pour faire le plein de courses et faire le « Changement d’huile » de Thor comme il dise au Québec. Au final il fera beau toute la journée, la météo s’amusant à décaller l’heure de pluie sans arrêt. Corinne en a profité pour aller chez le coiffeur et moi avancer sur le site.
 
 ## 13 juin
 
-Traversée du StLaurent en bateau, discution avec marin sur la salinité du fleuve, les baleines, roaqual et beluga. Visite du PN Fjord Saguenay, deux trails, parc payant car du Quebec, passage sous une pont couvert, à St Felex d’otis, après plusieurs arrets pour chercher de l’eau on tombe sut un emplyé de mairie qui nous améné à la mairie et nous fait le plein de l’eau. Arrêt à la maison blanche rescapé innodation de 1996 à Chicoutimi ouis arrêt au Walmart.
+A 7h00 nous sommes dans la file d'attente pour prendre le traversier. Un préposé vient me voir, nous mesurons le véhucule ensemble, fixant ainsi le prix de la traversée pour Thor et me demande de couper le "propane" réservoir de gaz). La traversée vers St Siméon dure une bonne heure, j'en profite pour discuter avec un marin. J'apprends ainsi que le fleuve est paartiquement salé jusqu'à Quebec zt qu'au niveau de là ou nous sommes l'eau est 45% salée. Il y a bien des baleines, rorquals bleu et belugas mêmes si certaines races se font plus rares en raison de la polution de St Laurent notemments de métaux lourds provenant de l'industrie.
 
-Vocabulaire quebecois :
-Les lumières : feux tricolores
-Changement d’huile : vidange
-Ca mouille : il pleut
-Triple W : 3W
-Barre penchée : /
+Depuis St Siméon, nous attaquons la remontée de la rivière Saguenay en directon de Saguenay justement. Nous visitons le Parc d'Etat Fjord Saguenay, où nous effectuons deux trails agréables, le sentier des Méandres-à-Falaises et Sentier de la Rivière. S'agissant d'un parc du Québec et non un parc national du Canada, ce dernier est payant est coûte 8,50$/pers. Nous reprenons la route pour faire une autre partie du parc et passons par Anse-St-Jean où nous nous sommes arrêtés à la patisserie "Louise", une institution dans la région depuis plusieurs décénies. Ses tourtes et tartes sont renommées. Pour accéder à notre dernier trail de la journée, nous passons sous le pont Faubourg, un pont couvert dédié à l'art, à l'intérieur, plusieurs artistes y ont accroché des toiles. Ce pont à figure ou a figuré sur les billets de 1000 dollar Canadien. On n'a pas vu les billets mais on a vue le pont... Le sentier de l'Anse-de-Tabatière, une petit boucle qui permet un point de vue sur le fjord d’Est en Ouest, au sommet d’un cap vertigineux. 
+
+En route nous voyons plusieurs commune qui propose une station de Dump pour les RV et aucun point d'eau pour fair le plein. Nous décidons néamoins de faire nos vidanges puis nous arr^ptons à plusieurs "aires de repos" pour y chercher de l'eau, cela nous permettrait de retarder un passage en camping. A St Felex d’Otis, nous passons par l'aire de repos et tombons sur un employé de Marie et lui demandons s'il y avait moyen de faire le plein. Il réfléchi et nous dit ne pas avoir les clés puis nous demande de le suivre. On se retrouve 5 minutes plus tard à la Marie où il ouvre une porte de garage qui va s'avère pêtre aussi la caserne de pompier et nous sort un tyau pour faire notre plein d'eau? Nous avons discuté un long moment, une personne vraiment sympathique et serviable. Nous faison un arrêt à La Baie pour "admirer" la Pyramide des Ha! Ha!, composée de 3000 panneau de céder, commémorant le Déluge du Saguenay de 1996, ainsi qu'une maison blanche rescapée du même drame à Chicoutimi.
+
 
 ## 14 juin
 
-Visite du parc des monts valins, trail de du 
-Ensuite tour du lac St Jean.
+Nous traverssons la rivière à Saguenay pour nous rendre sur la rive Nord afin de visiter le Parc d'Etat des Monts Valins, payant lui aussi au prix de 8,50$/pers. Nous effectuons deux trails, Lac-des-Pères qui fini au niveau d'un lac occupé par plusieurs castors qui ont construit un barrage impressionnant de plusieurs dizaine de mètres de long, montant ainsi le niveau du lac de plus d'un mètre. Corinne s'arrête là et je poursuis seul en direction du Pic-de-la-Tête-de-Chien qui permet plusieurs point de vue magnifique sur la région. Ces points hauts sont balayés par des vents très froid qui vont m'être fatals. Nous terminons la journée par le tour de l'immense lac St Jean avant de nous arrêter pour la nuit à Alma.
 
-## 15 juin
+## 15 au 19 juin
 
-Route jusqu’à Québec ville, je suis malade, journée foutue.
+Nous partons d'Alma directement en directuion de Québec. J'ai finalement pris un coup de froid hier dans le parc des Monts Valins et je suis en vrac. Nous ne nous arrêtons pas du coup au Parc Jacques cartier et filons directement à Lévis au sud de Québec. Je vais rester " jours au lit et le 19 finalement nous visitpns Québec ville.  (voir l’article <a href="{{site.baseurl}}{% post_url 2017-06-20-canada-quebec-quebec %}">ici</a>)
 
-## 16 au 19 juin
 
-Dernier jour, visite de Québec, visite guidée de l’assemblée et du centre ville. A midi repas au restaurant « buche » typique où j’ai dégusté la Poutine au Bacon….
+## 20 au 22 juin
 
-## 20 juin
+Nous quittons Québec par la voie Royale, qui longe les rives du St Laurent sur la rive Nord pour rejjoindre Montréal où nous passon deux jours. (voir l’article <a href="{{site.baseurl}}{% post_url 2017-06-23-canada-quebec-montreal %}">ici</a>)
 
-Route sur la rive Nord du St Laurent vert Montréal.
-
-## 21 et 22 juin
-
-Premier jour, visite de la vieille ville circuit autour des principaux monuments. Repas resto Italien bof. Deuxième jour panoramique au mont Royal puis visite quartier BOBO de Montréal aevc bâtiment de trois étage et escalier extérieur pour le 3éme. Repas dans un bon resto où il faut venir avec son vin.
-Métro très beau. et très propre, pass peu cher pour 3 jours.
 
 ## 23 juin
 
