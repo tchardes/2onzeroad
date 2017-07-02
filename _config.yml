@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "42.264005, -87.583263"
   name: "Chicago, Illinois, USA"
-  date: "01 au 03 Juillet 2017"
+  date: "01 au 05 Juillet 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
