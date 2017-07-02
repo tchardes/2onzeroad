@@ -26,15 +26,15 @@ Depuis notre bivouac, nous prenons le car de la ville pour arriver directement a
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35516308526/in/datetaken/" title="Ottawa - Ontario - [Canada]"><img src="https://c1.staticflickr.com/5/4213/35516308526_ad3d859d0c_k.jpg" width="2048" height="1152" alt="Ottawa - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Une cérémonie officielle s'est tenue devant le monument aux morts gardé par deux militaires en kilt et la ville grouille d'officiels en uniformes de tout genre et de toutes les couleurs. Nous effectuons une visite guidée du Parlement et de sa tour qui ressemble terriblement au Parlement de Grande Bretagne avec Big Ben. Nous sommes venus la bonne année car cet immense édifice composé de trois grands bâtiments ferme en 2018 pour 10 ans de travaux.  
+Une cérémonie officielle s'est tenue devant le monument aux morts gardé par deux militaires en kilt et la ville grouille d'officiels en uniformes de tout genre et de toutes les couleurs. Nous effectuons une visite guidée du Parlement et de sa tour qui ressemble terriblement au Parlement de Grande Bretagne avec Big Ben. Nous sommes venus la bonne année car cet immense édifice composé de trois grands corps de bâtiments ferme en 2018 pour 10 ans de travaux.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34712315514/in/datetaken/" title="Ottawa - Ontario - [Canada]"><img src="https://c1.staticflickr.com/5/4236/34712315514_5bb1795859_k.jpg" width="2048" height="1152" alt="Ottawa - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-A midi, nous nous dirigeons dans le quartier très animé du Marché By qui concentre de nombreux bars, restaurants, boutiques. De nombreux artistes de rue animent les lieux. Nous nous arrêtons dans un restaurant Irlandais où nous passons un très bon moment autour d'une bière locale.   
+A midi, nous nous dirigeons dans le quartier très animé du **Marché By** qui concentre de nombreux bars, restaurants, boutiques. De nombreux artistes de rue animent les lieux. Nous nous arrêtons dans un restaurant Irlandais où nous passons un très bon moment autour d'une bière locale.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35385388192/in/datetaken/" title="Ottawa - Ontario - [Canada]"><img src="https://c1.staticflickr.com/5/4214/35385388192_68ca7ab739_k.jpg" width="2048" height="1152" alt="Ottawa - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous poursuivons notre visite par un passage au Parc Major's Hill, au musée des beaux arts et nous assistons à l'arrivée d'une mariée et de ses demoiselles d'honneur devant la Basilique Cathédrale Notre-Dame.  
+Nous poursuivons notre visite par un passage au Parc Major's Hill, au musée des beaux arts et nous assistons à l'arrivée, en Hummer version limousine, d'une mariée et de ses demoiselles d'honneur devant la Basilique Cathédrale Notre-Dame.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34744155523/in/datetaken/" title="Ottawa - Ontario - [Canada]"><img src="https://c1.staticflickr.com/5/4241/34744155523_8400bb0b9e_k.jpg" width="2048" height="1152" alt="Ottawa - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
