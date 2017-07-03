@@ -116,13 +116,9 @@ Nous décidons de quitter l'île en debut d’après-midi en s’acquittant la s
 
 ## 10 juin
 
-Départ pour le Quebec. 
+Nous partons plein Nord en direction du Québec. Nous nous arrêtons à Shediac, capitale mondiale, autoproclamée, du homard, un gros homard monte la gade à l'entrée de la ville où nous voyons pour la première fois les gens entreposer des affaires à vendre devant leur maiqon, ils appellent cela "vente de garage", un genre de vide grenier.
 
-Shediac, capitale mondiale autoproclamée du homard, vente de garage
-
-Pays de la sagouine, marché local
-
-En route nous faisons un arrêt au Parc de Kouchibouguac NP au dessus de St Louis de Kent. Nous faisons le premier trail « Pines » et sommes harcelés par les moustiques. Nous faisons un deuxième « Castor » situé dans une zone humide et là c’est carrément la guerre, nous sommes entourés d’une centaine de Maringouins (moustique québécois). Au bout d’un quart d’heure nous faisons demi tour car c’est intenable. Nous faisons le tour de la péninsule qui se trouve en dessous de la Gaspésie sans réel intêret. En cherchant une station de radio francophone on se cale sur Radio Canada et on comprend enfin pourquoi les Québécois sont autants calés en politique internationale. Les flash infos parlent plus de la déconfiture de Theresa May et des négociations pour le Bexit qui vons commencer sous peu à Bruxels, ainsi que des élections législative en France avec la vague Macron que la politique de la province du Québec. Ce sont carrément des analyses politiques plus que de simples brêves. Nous passons la nuit à Atholville.
+Nous traversons ensuite le pays de "Cocagne" jusqu'au pays de la sagouine où nous nous arrêtons à Bouctouche dans un marché local. Nous faisons un arrêt au **Kouchibouguac NP** au dessus de St Louis de Kent. Nous faisons le premier trail « Pines » et sommes harcelés par les moustiques. Nous faisons un deuxième « Castor » situé dans une zone humide et là c’est carrément la guerre, nous sommes entourés d’une centaine de Maringouins (moustique québécois). Au bout d’un quart d’heure nous faisons demi tour car c’est intenable. Nous faisons le tour de la péninsule qui se trouve en dessous de la Gaspésie sans réel intêret. En cherchant une station de radio francophone on se cale sur Radio Canada et on comprend enfin pourquoi les Québécois sont autants calés en politique internationale. Les flash infos parlent plus de la déconfiture de Theresa May et des négociations pour le Bexit qui vons commencer sous peu à Bruxels, ainsi que des élections législative en France avec la vague Macron que la politique de la province du Québec. Ce sont carrément des analyses politiques plus que de simples brêves. Nous passons la nuit à Atholville.
 
 ## 11 juin
 
@@ -130,7 +126,7 @@ Nous reprenons la route en direction du St Laurent pour prendre le traversier. E
 
 ## 12 juin
 
-Il devait pleuvoir toute la journée donc nous avons décidé de rester là pour faire le plein de courses et faire le « Changement d’huile » de Thor comme il dise au Québec. Au final il fera beau toute la journée, la météo s’amusant à décaller l’heure de pluie sans arrêt. Corinne en a profité pour aller chez le coiffeur et moi avancer sur le site.
+Il devait pleuvoir toute la journée donc nous avons décidé de rester là pour faire le plein de courses et faire le « Changement d’huile » de Thor comme ils disent au Québec. Au final il fera beau toute la journée, la météo s’amusant à décaller l’heure de pluie sans arrêt. Corinne en a profité pour aller chez le coiffeur et moi avancer sur le site.
 
 ## 13 juin
 
