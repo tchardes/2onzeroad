@@ -109,7 +109,7 @@ Nous quittons notre bivouac de Summerside pour rejoindre le **Gulf Shore ParkWay
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35496852325/in/datetaken/" title="Charlottetown - Isle du Prince Edouard - [Canada]"><img src="https://farm5.staticflickr.com/4266/35496852325_d9bc5310d3_k.jpg" width="2048" height="1365" alt="Charlottetown - Isle du Prince Edouard - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous décidons de quitter l'île en debut d’après-midi en s’acquittant la somme de 46,50$. Nous bivouaquons à Moncton sur le parking d'un Walmart. En début de soirée nous essuyons une tempête qui secoueras Thors et fera trembler Corinne. Le lendemain nous apprenons par la radio qu'une tempête c'est abbatue sur la ville avec des raffales de vents à plus de 100 Km/h occasionnant de nombreux dégats. On entendant cela on s'est dit que la tempête que l'on a essuyé sur le Blue Ridge devait être particulièrement violente tant elle était plus impressionnante. 
+Nous décidons de quitter l'île en debut d’après-midi en s’acquittant la somme de 46,50$ à l'entrée du pont. Nous bivouaquons à Moncton sur le parking d'un Walmart. En début de soirée nous essuyons une tempête qui secoueras Thors et fera trembler Corinne. Le lendemain nous apprenons par la radio qu'une tempête c'est abbatue sur la ville avec des raffales de vents à plus de 100 Km/h occasionnant de nombreux dégats. On entendant cela on s'est dit que la tempête que l'on a essuyé sur le Blue Ridge devait être particulièrement violente tant elle était plus impressionnante. 
 
 
 
@@ -157,7 +157,9 @@ Nous quittons Québec par la voie Royale, qui longe les rives du St Laurent sur 
 
 ## 23 juin
 
-Départ de Montréal sous la pluie après avoir fait le plein de gaz. Route jusqu’à Ottawa sous un temps nuageux, Dump dans une usine traitement des eaux usées. Passage dans la capitale avec Thor avant regagner Walmart poiur les courses.
+Départ de Montréal sous la pluie après avoir fait le plein de gaz qui nous à couté la moitiè du prix payé aux USA. Route jusqu’à Ottawa sous un temps nuageux, Dump dans une usine traitement des eaux usées. Passage dans la capitale avec Thor avant regagner Walmart pour les courses.
+
+(voir l’article <a href="{{site.baseurl}}{% post_url 2017-06-24-canada-ontario-ottawa %}">ici</a>)
 
 ## 24 juin
 
