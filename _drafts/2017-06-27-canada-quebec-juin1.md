@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt5.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt5.jpg
 tags: []
-country: Canada - Québec
+country: Canada - New Brunswick
 category: "roadmap"
 flickr-tag: ""
 location: "46.505981, -65.874279"
