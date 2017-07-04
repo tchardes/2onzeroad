@@ -120,75 +120,8 @@ Nous partons plein Nord en direction du Québec. Nous nous arrêtons à Shediac,
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35496750675/in/datetaken/" title="Shediac - New Brunswick - [Canada]"><img src="https://farm5.staticflickr.com/4234/35496750675_0d33d961a6_k.jpg" width="2048" height="1152" alt="Shediac - New Brunswick - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 Nous traversons ensuite le pays de "Cocagne" jusqu'au pays de la sagouine où nous nous arrêtons à Bouctouche dans un marché local. Nous faisons un arrêt au **Kouchibouguac NP** au dessus de St Louis de Kent. Nous faisons le premier trail « Pines » et sommes harcelés par les moustiques. Nous faisons un deuxième « Castor » situé dans une zone humide et là c’est carrément la guerre, nous sommes entourés d’une centaine de Maringouins (moustique québécois). Au bout d’un quart d’heure nous faisons demi tour car c’est intenable. Nous faisons le tour de la péninsule qui se trouve en dessous de la Gaspésie sans réel intêret. En cherchant une station de radio francophone on se cale sur Radio Canada et on comprend enfin pourquoi les Québécois sont autants calés en politique internationale. Les flash infos parlent plus de la déconfiture de Theresa May et des négociations pour le Bexit qui vons commencer sous peu à Bruxels, ainsi que des élections législative en France avec la vague Macron que la politique de la province du Québec. Ce sont carrément des analyses politiques plus que de simples brêves. Nous passons la nuit à Atholville, aux portes du Québec.  
-
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34655562064/in/datetaken/" title="Pays de la Sagouine - New Brunswick - [Canada]"><img src="https://farm5.staticflickr.com/4234/34655562064_0a431c8e80_k.jpg" width="2048" height="1152" alt="Pays de la Sagouine - New Brunswick - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 11 juin
-
-Nous reprenons la route en direction du St Laurent pour prendre le traversier. En plein milieu de la route, nous croisons deux orignauls complétement affolés, le premier fini par traverser les voix tandis que le deuxième fait demi tour et regagne la forêt. Ces animaux sont vraiment impressionnant par leur taille. Arrivés à Mont Jolie, la route descend perpendiculairement au fleuve St Laurent, si large à cet endroit que l’on croirai l'Océan. Nous nous arrêtons à Rimouski, première ville ayant un ttraversier sur notre route mais ces derniers ne prennent sur leur bateau que les voitures. Ils nous conseillent de descendre jusqu'à Rivière-Du-Loup. Nous y arrivons un demi heure trop tard et nous voyons le bateau sortir du port. Nous prenons les renseignements pour le lendemain.
-
-## 12 et 13 juin
-
-Il devait pleuvoir toute la journée donc nous avons décidé de rester là pour faire le plein de courses et faire le « Changement d’huile » de Thor comme ils disent au Québec. Au final il fera beau toute la journée, la météo s’amusant à décaller l’heure de pluie sans arrêt. Corinne en a profité pour aller chez le coiffeur et moi avancer sur le site.
-
-A 7h00 nous sommes dans la file d'attente pour prendre le traversier. Un préposé vient me voir, nous mesurons le véhucule ensemble, fixant ainsi le prix de la traversée pour Thor et me demande de couper le "propane" réservoir de gaz). La traversée vers St Siméon dure une bonne heure, j'en profite pour discuter avec un marin. J'apprends ainsi que le fleuve est paartiquement salé jusqu'à Quebec zt qu'au niveau de là ou nous sommes l'eau est 45% salée. Il y a bien des baleines, rorquals bleu et belugas mêmes si certaines races se font plus rares en raison de la polution de St Laurent notemments de métaux lourds provenant de l'industrie.
-
-Depuis St Siméon, nous attaquons la remontée de la rivière Saguenay en directon de Saguenay justement. Nous visitons le Parc d'Etat Fjord Saguenay, où nous effectuons deux trails agréables, le sentier des Méandres-à-Falaises et Sentier de la Rivière. S'agissant d'un parc du Québec et non un parc national du Canada, ce dernier est payant est coûte 8,50$/pers. Nous reprenons la route pour faire une autre partie du parc et passons par Anse-St-Jean où nous nous sommes arrêtés à la patisserie "Louise", une institution dans la région depuis plusieurs décénies. Ses tourtes et tartes sont renommées. Pour accéder à notre dernier trail de la journée, nous passons sous le pont Faubourg, un pont couvert dédié à l'art, à l'intérieur, plusieurs artistes y ont accroché des toiles. Ce pont à figure ou a figuré sur les billets de 1000 dollar Canadien. On n'a pas vu les billets mais on a vue le pont... Le sentier de l'Anse-de-Tabatière, une petit boucle qui permet un point de vue sur le fjord d’Est en Ouest, au sommet d’un cap vertigineux. 
-
-En route nous voyons plusieurs commune qui propose une station de Dump pour les RV et aucun point d'eau pour fair le plein. Nous décidons néamoins de faire nos vidanges puis nous arr^ptons à plusieurs "aires de repos" pour y chercher de l'eau, cela nous permettrait de retarder un passage en camping. A St Felex d’Otis, nous passons par l'aire de repos et tombons sur un employé de Marie et lui demandons s'il y avait moyen de faire le plein. Il réfléchi et nous dit ne pas avoir les clés puis nous demande de le suivre. On se retrouve 5 minutes plus tard à la Marie où il ouvre une porte de garage qui va s'avère pêtre aussi la caserne de pompier et nous sort un tyau pour faire notre plein d'eau? Nous avons discuté un long moment, une personne vraiment sympathique et serviable. Nous faison un arrêt à La Baie pour "admirer" la Pyramide des Ha! Ha!, composée de 3000 panneau de céder, commémorant le Déluge du Saguenay de 1996, ainsi qu'une maison blanche rescapée du même drame à Chicoutimi.
-
-
-## 14 juin
-
-Nous traverssons la rivière à Saguenay pour nous rendre sur la rive Nord afin de visiter le Parc d'Etat des Monts Valins, payant lui aussi au prix de 8,50$/pers. Nous effectuons deux trails, Lac-des-Pères qui fini au niveau d'un lac occupé par plusieurs castors qui ont construit un barrage impressionnant de plusieurs dizaine de mètres de long, montant ainsi le niveau du lac de plus d'un mètre. Corinne s'arrête là et je poursuis seul en direction du Pic-de-la-Tête-de-Chien qui permet plusieurs point de vue magnifique sur la région. Ces points hauts sont balayés par des vents très froid qui vont m'être fatals. Nous terminons la journée par le tour de l'immense lac St Jean avant de nous arrêter pour la nuit à Alma.
-
-## 15 au 19 juin
-
-Nous partons d'Alma directement en directuion de Québec. J'ai finalement pris un coup de froid hier dans le parc des Monts Valins et je suis en vrac. Nous ne nous arrêtons pas du coup au Parc Jacques cartier et filons directement à Lévis au sud de Québec. Je vais rester " jours au lit et le 19 finalement nous visitpns Québec ville.  (voir l’article <a href="{{site.baseurl}}{% post_url 2017-06-20-canada-quebec-quebec %}">ici</a>)
-
-
-## 20 au 22 juin
-
-Nous quittons Québec par la voie Royale, qui longe les rives du St Laurent sur la rive Nord pour rejjoindre Montréal où nous passon deux jours. (voir l’article <a href="{{site.baseurl}}{% post_url 2017-06-23-canada-quebec-montreal %}">ici</a>)
-
-
-## 23 juin
-
-Départ de Montréal sous la pluie après avoir fait le plein de gaz qui nous à couté la moitiè du prix payé aux USA. Route jusqu’à Ottawa sous un temps nuageux, Dump dans une usine traitement des eaux usées. Passage dans la capitale avec Thor avant regagner Walmart pour les courses.
-
-(voir l’article <a href="{{site.baseurl}}{% post_url 2017-06-24-canada-ontario-ottawa %}">ici</a>)
-
-## 24 juin
-
-Visite de la ville et visite guidée du parlement. Repas de midi dabs resto Irlandais. Discusion avec une famille de québecois qui a vécu en europe on a beaucoup parlé.
-
-## 25 juin
-
-Route vers Lindsay, bivouac sympa au bord d’une rivière.
-
-## 26 et 27 juin
-
-Journée camping, lessives, ménage, mise à jour du site et des photos et vidéos. WIFI uniquement à l’accueil et de mauvaise qualité.
-
-## 28 juin
-
-## 29 juin
-
-## 30 juin
 
 
 
