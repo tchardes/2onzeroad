@@ -1,7 +1,7 @@
 ---
 layout:  blog
-title:   "Roadtrip du 30 mai au 15 juin 2017"
-preview:    "Cinquième article de type carnet de route, il couvre la période du 30 mai au 15 juin 2017 durant lesquels nous avons traversé les états du..."
+title:   "Roadtrip du 30 mai au 10 juin 2017"
+preview:    "inquième article de type carnet de route, il couvre la période 30 mai au 10 juin 2017 durant laquelle nous avons passé la frontière du Canada et traversé..."
 parent-id:  2017-07-01-canada-quebec-bilan
 
 date:       2017-06-27 12:00:00
@@ -17,7 +17,7 @@ itinary: "canada.json"
 
 ---
 
-Cinquième article de type carnet de route, il couvre la période 30 mai au 10 juin 2017 durant laquelle nous avons passé la frontière su Canada et traversé les Etats du Nouveau Brunswick, Nouvelle Ecosse et de l'Ile du Prince Edouard.
+Cinquième article de type carnet de route, il couvre la période 30 mai au 10 juin 2017 durant laquelle nous avons passé la frontière du Canada et traversé les Etats du Nouveau Brunswick, Nouvelle Ecosse et de l'Ile du Prince Edouard.
 
 
 ## 31 Mai  
