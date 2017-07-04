@@ -101,7 +101,7 @@ On quite le camping ce matin en direction du nord de lîle. A part quleques vill
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35329801742/in/datetaken/" title="Culture - Isle du Prince Edouard- [Canada]"><img src="https://farm5.staticflickr.com/4231/35329801742_d09150ae76_k.jpg" width="2048" height="1152" alt="Culture - Isle du Prince Edouard- [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## 09 juin
+## 09 juin  
 
 Nous quittons notre bivouac de Summerside pour rejoindre le **Gulf Shore ParkWay National Park** qui longe la mer sur 42 Km, rien de bien extraordinaire. On a l'impression qu'ils ont créé un parc pour "privatiser" et faire payer l'accés aux plages. Nous poussons jusqu'à Charlottetown, capitale de la province, ou nous visitons une très belle basilique et le quartier autour, nous roulant ensuite jusqu'au Fort Amherst mais une forte pluie nous empêche de visiter les lieux.   
 
@@ -109,26 +109,39 @@ Nous quittons notre bivouac de Summerside pour rejoindre le **Gulf Shore ParkWay
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35496852325/in/datetaken/" title="Charlottetown - Isle du Prince Edouard - [Canada]"><img src="https://farm5.staticflickr.com/4266/35496852325_d9bc5310d3_k.jpg" width="2048" height="1365" alt="Charlottetown - Isle du Prince Edouard - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous décidons de quitter l'île en debut d’après-midi en s’acquittant la somme de 46,50$ à l'entrée du pont. Nous bivouaquons à Moncton sur le parking d'un Walmart. En début de soirée nous essuyons une tempête qui secoueras Thors et fera trembler Corinne. Le lendemain nous apprenons par la radio qu'une tempête c'est abbatue sur la ville avec des raffales de vents à plus de 100 Km/h occasionnant de nombreux dégats. On entendant cela on s'est dit que la tempête que l'on a essuyé sur le Blue Ridge devait être particulièrement violente tant elle était plus impressionnante. 
+Nous décidons de quitter l'île en debut d’après-midi en s’acquittant la somme de 46,50$ à l'entrée du pont. Nous bivouaquons à Moncton sur le parking d'un Walmart. En début de soirée nous essuyons une tempête qui secoueras Thors et fera trembler Corinne. Le lendemain nous apprenons par la radio qu'une tempête c'est abbatue sur la ville avec des raffales de vents à plus de 100 Km/h occasionnant de nombreux dégats. On entendant cela on s'est dit que la tempête que l'on a essuyé sur le Blue Ridge devait être particulièrement violente tant elle était plus impressionnante.  
+
+## 10 juin  
+
+Nous partons plein Nord en direction du Québec. Nous nous arrêtons à Shediac, capitale mondiale, autoproclamée, du homard, un gros homard monte la garde à l'entrée de la ville où nous voyons pour la première fois les gens entreposer des affaires à vendre devant leur maison, ils appellent cela "vente de garage", un genre de vide grenier.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35366099481/in/datetaken/" title="Shediac - New Brunswick - [Canada]"><img src="https://farm5.staticflickr.com/4240/35366099481_d79c2ffd63_k.jpg" width="2048" height="1152" alt="Shediac - New Brunswick - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
+
+Nous traversons ensuite le pays de "Cocagne" jusqu'au pays de la sagouine où nous nous arrêtons à Bouctouche dans un marché local. Nous faisons un arrêt au **Kouchibouguac NP** au dessus de St Louis de Kent. Nous faisons le premier trail « Pines » et sommes harcelés par les moustiques. Nous faisons un deuxième « Castor » situé dans une zone humide et là c’est carrément la guerre, nous sommes entourés d’une centaine de Maringouins (moustique québécois). Au bout d’un quart d’heure nous faisons demi tour car c’est intenable. Nous faisons le tour de la péninsule qui se trouve en dessous de la Gaspésie sans réel intêret. En cherchant une station de radio francophone on se cale sur Radio Canada et on comprend enfin pourquoi les Québécois sont autants calés en politique internationale. Les flash infos parlent plus de la déconfiture de Theresa May et des négociations pour le Bexit qui vons commencer sous peu à Bruxels, ainsi que des élections législative en France avec la vague Macron que la politique de la province du Québec. Ce sont carrément des analyses politiques plus que de simples brêves. Nous passons la nuit à Atholville, aux portes du Québec.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34655562064/in/datetaken/" title="Pays de la Sagouine - New Brunswick - [Canada]"><img src="https://farm5.staticflickr.com/4234/34655562064_0a431c8e80_k.jpg" width="2048" height="1152" alt="Pays de la Sagouine - New Brunswick - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
 
 
-## 10 juin
 
-Nous partons plein Nord en direction du Québec. Nous nous arrêtons à Shediac, capitale mondiale, autoproclamée, du homard, un gros homard monte la gade à l'entrée de la ville où nous voyons pour la première fois les gens entreposer des affaires à vendre devant leur maiqon, ils appellent cela "vente de garage", un genre de vide grenier.
 
-Nous traversons ensuite le pays de "Cocagne" jusqu'au pays de la sagouine où nous nous arrêtons à Bouctouche dans un marché local. Nous faisons un arrêt au **Kouchibouguac NP** au dessus de St Louis de Kent. Nous faisons le premier trail « Pines » et sommes harcelés par les moustiques. Nous faisons un deuxième « Castor » situé dans une zone humide et là c’est carrément la guerre, nous sommes entourés d’une centaine de Maringouins (moustique québécois). Au bout d’un quart d’heure nous faisons demi tour car c’est intenable. Nous faisons le tour de la péninsule qui se trouve en dessous de la Gaspésie sans réel intêret. En cherchant une station de radio francophone on se cale sur Radio Canada et on comprend enfin pourquoi les Québécois sont autants calés en politique internationale. Les flash infos parlent plus de la déconfiture de Theresa May et des négociations pour le Bexit qui vons commencer sous peu à Bruxels, ainsi que des élections législative en France avec la vague Macron que la politique de la province du Québec. Ce sont carrément des analyses politiques plus que de simples brêves. Nous passons la nuit à Atholville.
+
+
+
+
+
+
+
+
 
 ## 11 juin
 
 Nous reprenons la route en direction du St Laurent pour prendre le traversier. En plein milieu de la route, nous croisons deux orignauls complétement affolés, le premier fini par traverser les voix tandis que le deuxième fait demi tour et regagne la forêt. Ces animaux sont vraiment impressionnant par leur taille. Arrivés à Mont Jolie, la route descend perpendiculairement au fleuve St Laurent, si large à cet endroit que l’on croirai l'Océan. Nous nous arrêtons à Rimouski, première ville ayant un ttraversier sur notre route mais ces derniers ne prennent sur leur bateau que les voitures. Ils nous conseillent de descendre jusqu'à Rivière-Du-Loup. Nous y arrivons un demi heure trop tard et nous voyons le bateau sortir du port. Nous prenons les renseignements pour le lendemain.
 
-## 12 juin
+## 12 et 13 juin
 
 Il devait pleuvoir toute la journée donc nous avons décidé de rester là pour faire le plein de courses et faire le « Changement d’huile » de Thor comme ils disent au Québec. Au final il fera beau toute la journée, la météo s’amusant à décaller l’heure de pluie sans arrêt. Corinne en a profité pour aller chez le coiffeur et moi avancer sur le site.
-
-## 13 juin
 
 A 7h00 nous sommes dans la file d'attente pour prendre le traversier. Un préposé vient me voir, nous mesurons le véhucule ensemble, fixant ainsi le prix de la traversée pour Thor et me demande de couper le "propane" réservoir de gaz). La traversée vers St Siméon dure une bonne heure, j'en profite pour discuter avec un marin. J'apprends ainsi que le fleuve est paartiquement salé jusqu'à Quebec zt qu'au niveau de là ou nous sommes l'eau est 45% salée. Il y a bien des baleines, rorquals bleu et belugas mêmes si certaines races se font plus rares en raison de la polution de St Laurent notemments de métaux lourds provenant de l'industrie.
 
