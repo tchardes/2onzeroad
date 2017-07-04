@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "42.264005, -87.583263"
-  name: "Chicago, Illinois, USA"
-  date: "01 au 05 Juillet 2017"
+  coordinates: "43.031359, -87.918749"
+  name: "Milwaukee, Wisconsin, USA"
+  date: "04 au 05 Juillet 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
