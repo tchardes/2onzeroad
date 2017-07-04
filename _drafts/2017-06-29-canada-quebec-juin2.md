@@ -4,7 +4,7 @@ title:   "Roadtrip du 11 juin au 10 juin 2017"
 preview:    "..."
 parent-id:  2017-07-01-canada-quebec-bilan
 
-date:       2017-06-27 12:00:00
+date:       2017-06-29 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt5.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt5.jpg
