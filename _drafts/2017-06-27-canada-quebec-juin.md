@@ -17,7 +17,7 @@ itinary: "canada.json"
 
 ---
 
-Cinquième article de type carnet de route, il couvre la période 30 mai au 15 juin 2017 durant laquelle nous avons traversé les Etats du Nouveau Brunswick, Nouvelle Ecosse, Ile du Prince Edouard, Québec et Ontario.
+Cinquième article de type carnet de route, il couvre la période 30 mai au 10 juin 2017 durant laquelle nous avons passé la frontière su Canada et traversé les Etats du Nouveau Brunswick, Nouvelle Ecosse et de l'Ile du Prince Edouard.
 
 
 ## 31 Mai  
