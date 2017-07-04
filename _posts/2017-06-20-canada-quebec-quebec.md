@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Ville de Québec"
 preview:    "Depuis le Lac Saint-Jean, nous allons directement à Québec. Nous voulions faire une escale au Parc National de Jacques Cartier, qui propose... "
-parent-id:  2017-06-20-canada-quebec-juin2
+parent-id:  2017-06-29-canada-quebec-juin2
 
 date:       2017-06-20 12:00:00
 author:     "Thierry"

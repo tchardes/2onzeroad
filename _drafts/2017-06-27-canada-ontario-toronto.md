@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Toronto"
 preview:    "... "
-parent-id:  2017-06-20-canada-quebec-juin2
+parent-id:  2017-06-29-canada-quebec-juin2
 
 date:       2017-06-27 12:00:00
 author:     "Thierry"
