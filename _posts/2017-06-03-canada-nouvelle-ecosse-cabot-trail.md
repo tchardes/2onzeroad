@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Cap-Breton"
 preview:    "Nous quittons New Glasgow pour monter complètement au Nord de la Nouvelle Ecosse à Cap-Breton pour visiter, entre autre, le Parc... "
-parent-id:  2017-06-20-canada-quebec-juin
+parent-id:  2017-06-20-canada-quebec-juin1
 
 date:       2017-06-03 12:00:00
 author:     "Thierry"
