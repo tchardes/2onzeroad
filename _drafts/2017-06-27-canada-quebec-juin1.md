@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Roadtrip du 30 mai au 10 juin 2017"
-preview:    "inquième article de type carnet de route, il couvre la période 30 mai au 10 juin 2017 durant laquelle nous avons passé la frontière du Canada et traversé..."
+preview:    "Cinquième article de type carnet de route, il couvre la période 30 mai au 10 juin 2017 durant laquelle nous avons passé la frontière du Canada et traversé..."
 parent-id:  2017-07-01-canada-quebec-bilan
 
 date:       2017-06-27 12:00:00
@@ -12,7 +12,7 @@ tags: []
 country: Canada - Québec
 category: "roadmap"
 flickr-tag: ""
-location: "46.652206, -73.885599"
+location: "46.505981, -65.874279"
 itinary: "canada.json"
 
 ---
