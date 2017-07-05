@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "Roadtrip du 11 juin au 10 juin 2017"
+title:   "Roadtrip du 11 au 30 juin 2017"
 preview:    "..."
 parent-id:  2017-07-01-canada-quebec-bilan
 
