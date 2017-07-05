@@ -17,7 +17,7 @@ itinary: "canada2.json"
 
 ---
 
-Sixième article de type carnet de route, il couvre la période 11 juin au  durant laquelle nous avons traversé les Etats du Québec et de l'Ontario.
+Sixième article de type carnet de route, il couvre la période 11 au 30 juin durant laquelle nous avons traversé les Etats du Québec et de l'Ontario.
 
 
 ## 11 juin
