@@ -6,7 +6,7 @@ parent-id:  2017-07-01-canada-quebec-bilan
 
 date:       2017-06-29 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt5.jpg"
+header-img: "assets/owner/blog/header/post-bg-rt6.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt5.jpg
 tags: []
 country: Canada - Québec
@@ -26,7 +26,7 @@ Nous reprenons la route en direction du St Laurent pour prendre le traversier. E
 
 ## 12 et 13 juin
 
-Il devait pleuvoir toute la journée donc nous avons décidé de rester là pour faire le plein de courses et faire le « Changement d’huile » de Thor comme ils disent au Québec. Au final il fera beau toute la journée, la météo s’amusant à décaller l’heure de pluie sans arrêt. Corinne en a profité pour aller chez le coiffeur et moi avancer sur le site.
+Il devait pleuvoir toute la journée donc nous avons décidé de rester là pour faire le plein de courses et faire le "Changement d’huile" de Thor comme ils disent au Québec. On a eu du mal et fait plusiuers garage avnat d'ne trouver qui pouvait nous prendre immadiatement. Au final il fera beau toute la journée, la météo s’amusant à décaller l’heure de la pluie sans arrêt. Corinne en a profité pour aller chez le coiffeur et moi avancer sur le site.
 
 A 7h00 nous sommes dans la file d'attente pour prendre le traversier. Un préposé vient me voir, nous mesurons le véhucule ensemble, fixant ainsi le prix de la traversée pour Thor et me demande de couper le "propane" réservoir de gaz). La traversée vers St Siméon dure une bonne heure, j'en profite pour discuter avec un marin. J'apprends ainsi que le fleuve est paartiquement salé jusqu'à Quebec zt qu'au niveau de là ou nous sommes l'eau est 45% salée. Il y a bien des baleines, rorquals bleu et belugas mêmes si certaines races se font plus rares en raison de la polution de St Laurent notemments de métaux lourds provenant de l'industrie.
 
@@ -59,6 +59,8 @@ Départ de Montréal sous la pluie après avoir fait le plein de gaz qui nous à
 
 Visite de la ville et visite guidée du parlement. Repas de midi dabs resto Irlandais. Discusion avec une famille de québecois qui a vécu en europe on a beaucoup parlé.
 
+(voir l’article <a href="{{site.baseurl}}{% post_url 2017-06-24-canada-ontario-ottawa %}">ici</a>)
+
 ## 25 juin
 
 Route vers Lindsay, bivouac sympa au bord d’une rivière.
@@ -68,12 +70,16 @@ Route vers Lindsay, bivouac sympa au bord d’une rivière.
 Journée camping, lessives, ménage, mise à jour du site et des photos et vidéos. WIFI uniquement à l’accueil et de mauvaise qualité.
 
 ## 28 juin
+Départ du Camping de bonne heure et route vers Toronto. Beaucoup de bouchons à l’approche de la ville. On décide de se poser à un Walmart prendre le bus (un chauffeur nous donne 2 billets gratuits) puis le Tram pour regagner le centre ville et notre première destination, Casa Loma puis descente pratiquement jusqu’au bort du Lac Ontario. On mange du bison dans un resto. Passage devant le parlmenet l’ancienne et la nouvelle mairie, le temple de la renommée du Hockey, la tour CN puis retour vers le Walmart. On fait les courses et on décide de reprendre la route pour s’approcher des chutes du Niagara, surtout qu’ils ont annoncé de la pluie pour demain matin.
 
+(voir l’article <a href="{{site.baseurl}}{% post_url 2017-06-27-canada-ontario-toronto %}">ici</a>)
 ## 29 juin
+
+Départ pour les chutes, nous allons jusqu’au parking « Rapids View » qui normalement coute 10$, il est tôt et on nous laisse entrer sans payer. Ensuite navette gratuite pour aller jusqu’au Table of th rock, juste devant les chutes. Nous bénéficions de 2 heures sans pluie. Arrêt dans un Outlet où Corinne achéte un blouson. Puis route vers Windsor en face de détroit. Le soir séance photo le long de la rivière Détroit pour photographier la Skyline.
 
 ## 30 juin
 
-
+Passage de la frontière à Détroit, beaucoup de question puis entrée aux USA, la maman du gars de l’immigration même date que Corinne. Visete de la Motown Museum, puis ona fait un tour de ville de détroit puis route vers Kalazoo, usine The Heritage fermée. Puis route jusqu’à Michigan city
 
 
 
