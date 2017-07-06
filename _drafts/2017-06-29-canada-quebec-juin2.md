@@ -2,7 +2,7 @@
 layout:  blog
 title:   "Roadtrip du 11 au 30 juin 2017"
 preview:    "..."
-parent-id:  2017-07-01-canada-quebec-bilan
+parent-id:  2017-07-01-canada-ontario-bilan
 
 date:       2017-06-29 12:00:00
 author:     "Thierry"
