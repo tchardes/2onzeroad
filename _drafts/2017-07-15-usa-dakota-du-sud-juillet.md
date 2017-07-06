@@ -17,4 +17,4 @@ itinary: "Usa1.json"
 
 ---
 
-Septième article de type carnet de route, il couvre la période 30 juin au durant laquelle nous avons traversé les Etats du Québec et de l'Ontario.
+Septième article de type carnet de route, il couvre la période du 30 juin au durant laquelle nous avons traversé les Etats du Québec et de l'Ontario.
