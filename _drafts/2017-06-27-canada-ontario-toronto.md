@@ -16,7 +16,7 @@ category: "blog"
 location: "43.663413, -79.391529"
 ---
 
-Direction la capitale de l'Ontario et plus grande ville du Canada. Avec ces 2 731 571 habitants, elle est la cinquième ville la plus peuplée d'Amérique du Nord. Importante place boursière, c'est une ville typique d'Amérique du Nord avec ces immenses buildings. Nos avis sont partagés, Corinne a adoré cette ville tandis qu'elle ne m'a pas particulière emballée.  
+Direction la capitale de l'Ontario et plus grande ville du Canada. Avec ces 2 731 571 habitants, elle est la cinquième ville la plus peuplée d'Amérique du Nord. Importante place boursière, c'est une ville typique d'Amérique du Nord avec ces immenses buildings. Nos avis sont partagés, Corinne a adoré cette ville tandis qu'elle ne m'a pas particulière emballée même si cella reste une belle ville.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34885717604/in/datetaken/" title="Toronto - Ontario - [Canada]"><img src="https://farm5.staticflickr.com/4081/34885717604_f4ae1e2169_k.jpg" width="2048" height="1152" alt="Toronto - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
