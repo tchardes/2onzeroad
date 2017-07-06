@@ -73,6 +73,7 @@ Journée camping, lessives, ménage, mise à jour du site et des photos et vidé
 Départ du Camping de bonne heure et route vers Toronto. Beaucoup de bouchons à l’approche de la ville. On décide de se poser à un Walmart prendre le bus (un chauffeur nous donne 2 billets gratuits) puis le Tram pour regagner le centre ville et notre première destination, Casa Loma puis descente pratiquement jusqu’au bort du Lac Ontario. On mange du bison dans un resto. Passage devant le parlmenet l’ancienne et la nouvelle mairie, le temple de la renommée du Hockey, la tour CN puis retour vers le Walmart. On fait les courses et on décide de reprendre la route pour s’approcher des chutes du Niagara, surtout qu’ils ont annoncé de la pluie pour demain matin.
 
 (voir l’article <a href="{{site.baseurl}}{% post_url 2017-06-27-canada-ontario-toronto %}">ici</a>)
+
 ## 29 juin
 
 Départ pour les chutes, nous allons jusqu’au parking « Rapids View » qui normalement coute 10$, il est tôt et on nous laisse entrer sans payer. Ensuite navette gratuite pour aller jusqu’au Table of th rock, juste devant les chutes. Nous bénéficions de 2 heures sans pluie. Arrêt dans un Outlet où Corinne achéte un blouson. Puis route vers Windsor en face de détroit. Le soir séance photo le long de la rivière Détroit pour photographier la Skyline.
