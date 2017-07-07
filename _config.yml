@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "43.747387, -101.947778"
   name: "Badlands NP, Dakota du Sud, USA"
-  date: "06 Juillet 2017"
+  date: "07 Juillet 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
