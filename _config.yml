@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "43.747387, -101.947778"
-  name: "Badlands NP, Dakota du Sud, USA"
-  date: "07 Juillet 2017"
+  coordinates: "43.877096, -103.456098"
+  name: "Mont Ruchmore, Dakota du Sud, USA"
+  date: "08 Juillet 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
