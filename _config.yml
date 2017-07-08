@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "43.877096, -103.456098"
-  name: "Mont Ruchmore, Dakota du Sud, USA"
+  name: "Mont Rushmore, Dakota du Sud, USA"
   date: "08 Juillet 2017"
 
 # set the encoding to utf-8
