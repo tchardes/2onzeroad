@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "43.877096, -103.456098"
-  name: "Mont Rushmore, Dakota du Sud, USA"
-  date: "08 Juillet 2017"
+  coordinates: "45.565220, -107.430115"
+  name: "Little Bighorn Battlefield NM, Montana, USA"
+  date: "09 Juillet 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
