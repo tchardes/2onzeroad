@@ -17,21 +17,19 @@ itinary: "canada.json"
 ---
 
 
-Je vous propose une musique pour la lecture de cet article. Vous pouvez cliquer sur le lien pour la lancer, avant de revenir sur le site pour continuer votre lecture :  
 
-<ul>
-    <li><a href="https://youtu.be/fpZDiOSf_wY" target="_blank">Born To Be Wild de Steppenwolf</a></li>
-</ul>
+Quatrième article de type Bilan (Vert) sur notre roadtrip sur la partie Est du Canada où nous aovns traversé les provinces du Newbruswick, de la Nouvelle Ecosse, De l'Ile du prince Edouard, du Québec et de l'Ontario.
 
+Notre voyage se poursuit avec toujours le même plaisir et la même excitation à l'idée de découvrir un nouveau pays et pas des moindre, l'immense Canada.
 
-Troisième article de type Bilan (Vert) sur notre roadtrip, le long de la côte Est des Etats-Unis
+Que dire si ce n'est que c'est très grand
 
 
 ### Quelques chiffres :    
 
 * Nombre de jours           : 68
-* Nombre d'Etats traversés  : 14
-* Monnaie                   : 1 Dollar US = 0,90 €
+* Nombre d'Etats traversés  : 5
+* Monnaie                   : 1 Dollar Cad = 0,70 €
 * Prix moyen de l'essence   : 2,40 $ le gallon (entre 1,95$ à 2,60$) soit 0,56€ le litre
 * Gaz                       : Disponible un peu partout, le remplissage de notre réservoir de 20Kg coûte environ 25$ 
 * Eau - Vidanges - Electricité    : Dans les campings et states parks
