@@ -5,7 +5,7 @@ preview:    "..."
 
 date:       2017-07-01 14:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-bilanusa.jpg"
+header-img: "assets/owner/blog/header/post-bg-bpost-bg-bilan-canada1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-bilanusa.jpg
 tags: []
 country: Canada - Ontario
