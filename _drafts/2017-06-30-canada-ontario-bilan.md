@@ -3,7 +3,7 @@ layout:     blog
 title:   "Bilan Est du Canada"
 preview:    "..."
 
-date:       2017-06-01 14:00:00
+date:       2017-07-01 14:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-bilanusa.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-bilanusa.jpg
