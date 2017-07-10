@@ -41,8 +41,6 @@ Nous poursuivons la visite en passant par le Queens Park qui abrite le **Parleme
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35339989880/in/datetaken/" title="Toronto - Ontario - [Canada]"><img src="https://farm5.staticflickr.com/4241/35339989880_d6ea382984_k.jpg" width="2048" height="1152" alt="Toronto - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35727218805/in/datetaken/" title="Toronto - Ontario - [Canada]"><img src="https://farm5.staticflickr.com/4261/35727218805_5dea23bfaa_k.jpg" width="2048" height="1152" alt="Toronto - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
-
 Nous nous arrêtons au Square Nathan Phillips autour duquel se trouvent l'ancienne et la nouvelle **Mairie de Toronto**.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35595590231/in/datetaken/" title="Toronto - Ontario - [Canada]"><img src="https://farm5.staticflickr.com/4121/35595590231_e4035942a5_k.jpg" width="2048" height="1152" alt="Toronto - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>     
