@@ -11,7 +11,7 @@ tags: []
 country: Canada - Ontario
 category: "bilan"
 flickr-tag: "Canada"
-location: ""
+location: "46.838859, -72.481945"
 itinary: "canada.json"
 
 ---
