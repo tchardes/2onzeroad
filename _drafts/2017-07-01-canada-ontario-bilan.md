@@ -6,7 +6,7 @@ preview:    "..."
 date:       2017-07-01 14:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-bilan-canada1.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-bilan-canada1s.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-bilan-canada1.jpg
 tags: []
 country: Canada - Ontario
 category: "bilan"
