@@ -18,11 +18,13 @@ itinary: "canada.json"
 
 Quatrième article de type Bilan (Vert) sur notre roadtrip sur la partie Est du Canada où nous aovns traversé les provinces du New Brunswick, de la Nouvelle Ecosse, De l'Ile du prince Edouard, du Québec et de l'Ontario.
 
-Notre voyage se poursuit avec toujours le même plaisir et la même excitation à l'idée de découvrir un nouveau pays et pas des moindre, l'immense Canada.
+Notre voyage se poursuit avec toujours le même plaisir et la même excitation à l'idée de découvrir un nouveau pays et pas des moindre, l'immense Canada. Que dire si ce n'est que c'est très grand et très espacé, nous avons roulé pratiquement autant au Canada en un mois qu'aux USA en 68 jours. Le temps a été moyen même s'il ne nous a pas vraiement empêché de faire ce que l'on voulait (35% de plein soleil, 42 % de de journée entre nuages et soleil et 23 % de pluie), la température la plus basse dans Thor au petit matin a été de 10°.
 
-Que dire si ce n'est que c'est très grand et très espacé, nous avons roulé pratiquement autant au Canada en un mois qu'aux USA en 68 jours. Le temps a été moyen même s'il ne nous a pas vraiement empêché de faire ce que l'on voulait (35% de plein soleil, 42 % de de journée entre nuages et soleil et 23 % de pluie), la température la plus basse dans Thor au prit matin 10°.
+Nous avons particulièreme aimé les iles de La Nouvelle Ecosse (Nouvelle France) avec ces paysages cotiers et forestiers à couper le soufle, ces villages acdiens et le parc National de Cap Breton.
 
-Nous avons particulièreme aimé les iles de La Nouvelle Ecosse (Nouvelle France) avec ces paysage cotier et forestier à couper le soufle
+Les gens rencontrés ont tous été très charmants, surtout au Québec où on a eu plaisir à reparler français, communiquer sans effort
+
+On voit que c'est un pays qui vit la pluspart du temps sous la neige, les maisons sont très belles mais les extérieurs sont réduits à leur plus simple expression, souvent deux chaises en bois de préférence de couleur rouge. 
 
 
 ### Quelques chiffres :    
@@ -31,7 +33,7 @@ Nous avons particulièreme aimé les iles de La Nouvelle Ecosse (Nouvelle France
 * Nombre d'Etats traversés  : 5
 * Monnaie                   : 1 Dollar Cad = 0,70 €
 * Prix moyen de l'essence   : 1,10$ le litre (entre 0,989 à 1,12$) soit 0,75€ le litre
-* Gaz                       : Disponible un peu partout, le remplissage de notre réservoir de 20Kg coûte environ 13$ 
+* Gaz                       : Disponible un peu partout, le remplissage de notre réservoir de 20Kg à coûté environ 13$ 
 * Eau - Vidanges - Electricité    : Dans les campings et states parks et certaines communes
 * Stationnements             : Pas évident de trouver des stationnements "sauvages" intéressants à moins de perdre beaucoup de temps
 * Communications             : Forfait Free à 19,99€ - Aucun problème  
