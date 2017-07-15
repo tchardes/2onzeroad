@@ -1,14 +1,14 @@
 ---
 layout:     blog
 title:   "Bilan Est du Canada"
-preview:    "..."
+preview:    "Notre voyage se poursuit avec toujours le même plaisir et la même excitation à l'idée de découvrir un nouveau pays et pas des moindres, l'immense..."
 
 date:       2017-07-01 14:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-bilan-canada1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-bilan-canada1.jpg
 tags: []
-country: Canada - Ontario
+country: Canada
 category: "bilan"
 flickr-tag: "Canada"
 location: "46.838859, -72.481945"
