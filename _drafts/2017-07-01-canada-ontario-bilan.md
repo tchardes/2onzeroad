@@ -32,7 +32,7 @@ Nous avons appris que le drapeau officiel du Canada date de 1965 suite à un con
 
 Dans quelques jours, nous allons rentrer à nouveau au Canada pour rejoindre Calgary, certainement d'autres paysages et d'autres rencontres  feront l'objet d'un autre bilan.
 
-
+Etat route, femmes dans BTP, l'info francaise et anglaise
 
 ### Quelques chiffres :    
 
