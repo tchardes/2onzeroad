@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "47.692739, -114.138343"
-  name: "Polson, Montana, USA"
-  date: "14 Juillet 2017"
+  coordinates: "48.698388, -113.814879"
+  name: "Glacier NP, Montana, USA"
+  date: "15 Juillet 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
