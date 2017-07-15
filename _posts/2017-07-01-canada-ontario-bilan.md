@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:   "Bilan Est du Canada"
-preview:    "Notre voyage se poursuit avec toujours le même plaisir et la même excitation à l'idée de découvrir un nouveau pays et pas des moindres, l'immense..."
+preview:    "Notre voyage se poursuit avec toujours le même plaisir et la même excitation à l'idée de découvrir un nouveau pays et pas des moindres..."
 
 date:       2017-07-01 14:00:00
 author:     "Thierry"
