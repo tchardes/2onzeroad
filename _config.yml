@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "48.698388, -113.814879"
   name: "Glacier NP, Montana, USA"
-  date: "15 Juillet 2017"
+  date: "17 Juillet 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
