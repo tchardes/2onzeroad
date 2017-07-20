@@ -4,12 +4,12 @@ title:   "Roadtrip du 30 juin au juillet  2017"
 preview:    "..."
 parent-id:  2017-07-01-usa-nord-bilan
 
-date:       2017-07-15 12:00:00
+date:       2017-07-19 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt6.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt6.jpg
 tags: []
-country: USA - Dakota du Sud
+country: USA - Montana
 category: "roadmap"
 flickr-tag: ""
 location: "46.537649, -74.668428"
