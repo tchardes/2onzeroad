@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "51.047665, -114.071563"
-  name: "Calgary, Alberta, Canada"
-  date: "20 Juillet 2017"
+  coordinates: "51.178111, -115.570464"
+  name: "Banff NP, Alberta, Canada"
+  date: "21 Juillet 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
