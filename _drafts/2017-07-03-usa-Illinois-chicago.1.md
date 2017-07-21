@@ -20,12 +20,13 @@ Nous arrivons à Chicago par le sud en longeant l'immense lac Michigan. Après a
 
 Nous prenons la Green Line et descendons à la Station Wabash et nous nous rendons sur State Street car depuis le métro nous avons vu qu'il y avait de l'annimation. En fait il s'agit d'une parade, un peu comme au jeux olympiques, de toutes les nations invités à un congré à l'occasion du 100 éme anniversaire du Lions club Internationnal. Nous regardons défiler plusieurs pays comme le Chilie, La Chine ... Durant nos trois jours de visite à Chicago la ville sera envahit par toutes ces personnes qui arborrent fièrement les attributs Lions Club de leur pays. Nous rencontrerons des français qui nous expliquerons que "notre" délégation comptait 1200 participant pour un total de 35000 personnes au total.
 
-Durant notre visite, nous allons silloner toutes les rues du centre ville et du nord jusqu'à Oak Street Beach et au sud jusqu'aux bout du Grand Park. L'architecture est incroyable. Tous les édifices sont de style différents, de couleurs différentes et l'ensemble et absolument remarquable, nous sommes restés souvent de longue minutes à observer ces grands ensembles. faisant face au Lac Michigan, séparé par un immense parc Des tours opérators proposent un "Architecture Tours" en bateau et... en anglais car la ville historique est entourée de plusieurs bras de la Chicago river.
+Durant notre visite, nous allons silloner toutes les rues du centre ville et du nord jusqu'à Oak Street Beach et au sud jusqu'aux bout du Grand Park. L'architecture est incroyable, les grattes ciel sont de tous styles, de toutes couleurs datant de 1871 pour certains après le grand incendie qui a ravagé la ville au plus récents. L'ensemble et absolument remarquable, nous sommes restés souvent de longue minutes à observer ces grands ensembles faisant face au Lac Michigan, séparé par un immense parc. Des tours opérators proposent un "Architecture Tours" en bateau et... en anglais car la ville historique est entourée de plusieurs bras de la Chicago River traversée par de nombreux ponts en acier riveté tous peint en rouge très foncé.
+
+si vous voulez en savoir plus sur l'histoire de l'architecture de la ville https://fr.wikipedia.org/wiki/Architecture_%C3%A0_Chicago
+
+La ligne "Pink" permet de faire une loop dans le vieux Chicago.
 
 
- La ligne "Pink" permet de faire une loop dans le vieux Chicago.
-
-Dès que nous arrivons dans le centre de la ville, nous sommes impressioné par l'architecture de la Ville.
 
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>  
