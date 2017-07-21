@@ -30,5 +30,5 @@ La ligne "Pink" permet de faire une loop dans le vieux Chicago.
 
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>  
-Nous avons trouvé très peu d'information à savoir où se garer avec un RV pour pouvoir visiter facilement la ville. Nous nous sommes stationnés dans un immense parking réservé aux poids lourd mais qui accepte également les RV. L'avantage est d'être très près du centre ville et des transports en commun, métro (Station Cermak-McCormick Place), train et car de ville (Ligne 4, croisement Cermak et Michigan Av). C'est un parking, donc aucune commodité, c'est du goudron mais ils acceptent que l'on y passe la nuit. Il faut donc être autonome et tout cela pour la somme de 35$/Jour.  
+Nous avons trouvé très peu d'information à savoir où se garer avec un RV pour pouvoir visiter facilement la ville. Nous nous sommes stationnés dans un immense parking réservé aux poids lourd mais qui accepte également les RV, "Truck Marshalling" (41.842458, -87.611551). L'avantage est d'être très près du centre ville et des transports en commun, métro (Station Cermak-McCormick Place), train et car de ville (Ligne 4, croisement Cermak et Michigan Av). C'est un parking, donc aucune commodité, c'est du goudron mais ils acceptent que l'on y passe la nuit. Il faut donc être autonome et tout cela pour la somme de 35$/Jour.  
 </p> 
