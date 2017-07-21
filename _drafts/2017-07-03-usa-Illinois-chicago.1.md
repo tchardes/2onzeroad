@@ -13,7 +13,7 @@ flickr-tag:
 country: USA - Illinois
 city: Chicago
 category: "blog"
-location: ""
+location: "41.873139, -87.620446"
 ---
 
 Nous arrivons à Chicago par le sud en longeant l'immense Lac Michigan. Après avoir stationné Thor nous cherchons notre route pour arriver jusqu'au métro. Pour cela, nous devons traverser un immense complexe "McCormick Place" (Hôtel, salles de conférences, restaurants ...). Arrivé au métro nous prenons un pass de 7 jours pour le prix de 28$/Pers. valable sur tous les transports. Il s'agit d'un vieux métro aérien qui sillone la ville entre les buildings. Des vieilles stations, sous le soleil, émane des odeurs de goudron chaud provenant de toutes les traverses encore en bois.
