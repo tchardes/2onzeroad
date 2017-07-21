@@ -1,13 +1,13 @@
 ---
 layout:     blog
 title:      "Chicago"
-preview:    "... "
-parent-id:  2017-06-29-usa-dakota-du-sud-juillet
+preview:    "Nous arrivons à Chicago par le sud en longeant l'immense lac Michigan. Après avoir stationné Thor nous cherchons notre route pour... "
+parent-id:  2017-06-19-usa-montana-juillet
 
 date:       2017-07-03 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-toronto.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-toronto.jpg
+header-img: "assets/owner/blog/header/post-bg-chicago.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-chicago.jpg
 tags: [ville, culture]
 flickr-tag: 
 country: USA - Illinois
