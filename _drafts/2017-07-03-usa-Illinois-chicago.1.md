@@ -37,7 +37,7 @@ Durant notre visite, nous allons silloner toutes les rues du centre ville et du 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35903182751/in/datetaken/" title="Chicago - Illinois - [USA]"><img src="https://farm5.staticflickr.com/4310/35903182751_e961660d6f_k.jpg" width="2048" height="1152" alt="Chicago - Illinois - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Si vous voulez en savoir plus sur l'histoire de l'architecture de la ville **[ici](https://fr.wikipedia.org/wiki/Architecture_%C3%A0_Chicago)**.
+Si vous voulez en savoir plus sur l'histoire de l'architecture de la ville c'est **[ici](https://fr.wikipedia.org/wiki/Architecture_%C3%A0_Chicago)**.
 
 Au Nord, nous avons emprunté la Michigan Avenue qui, à partir du pont DuSable Bridge, est surnommée "The Magnificent Mile" et ce jusqu'à une plage donnant sur le Lac Michigan. C'est très surprenant, en pleine ville, de voir les gens en maillot de bain jouant au volley et se baignant. En route, nous sommes passés devant la Chicago Tribune Tower dont la façade est incrustée de morceau de pierres, bouts de sculpture provenant d'un peu tous les pays, dont un morceau de Notre Dame de Paris. Nous avons également traversé le Navy Pier, immense jetée construite en 1916, longue d'un kilomètre qui abrite aujourd'hui de nombreuses animations dont un musée pour enfants.    
 
