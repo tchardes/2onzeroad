@@ -8,7 +8,7 @@ date:       2017-07-03 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-chicago.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-chicago.jpg
-tags: [ville, culture]
+tags: [ville, capitale, architecture]
 flickr-tag: 
 country: USA - Illinois
 city: Chicago
