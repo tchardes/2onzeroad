@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "51.178124, -115.570421"
   name: "Jasper NP, Alberta, Canada"
-  date: "23 Juillet 2017"
+  date: "24 Juillet 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
