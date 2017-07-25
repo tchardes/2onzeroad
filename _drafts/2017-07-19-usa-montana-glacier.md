@@ -8,7 +8,7 @@ date:       2017-07-19 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-glacier.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-glacier.jpg
-tags: [Nature, parc naturel]
+tags: [nature, parc-naturel, montagne, lac, glace]
 flickr-tag: 
 country: USA - Montana
 city: Glacier NP
