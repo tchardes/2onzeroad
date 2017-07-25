@@ -1,24 +1,23 @@
 ---
 layout:  blog
-title:   "Roadtrip du 30 juin au juillet  2017"
-preview:    "..."
+title:   "Roadtrip du 30 juin au 19 juillet 2017"
+preview:    "Septième article de type carnet de route, il couvre la période du 30 juin au 19 juillet durant laquelle nous avons traversé les Etats..."
 parent-id:  2017-07-01-usa-nord-bilan
 
 date:       2017-07-19 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt6.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt6.jpg
+header-img: "assets/owner/blog/header/post-bg-rt7.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt7.jpg
 tags: []
 country: USA - Montana
 category: "roadmap"
 flickr-tag: ""
 location: "46.537649, -74.668428"
-itinary: "Usa1.json"
+itinary: "Usa2.json"
 
 ---
 
-Septième article de type carnet de route, il couvre la période du 30 juin au durant laquelle nous avons traversé les Etats du Québec et de l'Ontario.
-
+Septième article de type carnet de route, il couvre la période du 30 juin au 19 juillet durant laquelle nous avons traversé les Etats du Michigan, de l'Indiana, de l'Illinois, du Wisconsin, du Minnnesota, du Dakota du Sud, Du Wyoming et du Montana.
 
 ## 30 Juin
 
