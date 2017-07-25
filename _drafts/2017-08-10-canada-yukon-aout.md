@@ -1,19 +1,19 @@
 ---
 layout:  blog
-title:   "Roadtrip du 30 juin au juillet  2017"
+title:   "Roadtrip du 19 juillet au août 2017"
 preview:    "..."
 parent-id:  2017-07-01-usa-nord-bilan
 
 date:       2017-07-19 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt6.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt6.jpg
+header-img: "assets/owner/blog/header/post-bg-rt8.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt8.jpg
 tags: []
-country: USA - Montana
+country: Canada - Yukon
 category: "roadmap"
 flickr-tag: ""
 location: "46.537649, -74.668428"
-itinary: "Usa1.json"
+itinary: "canada2.json"
 
 ---
 
