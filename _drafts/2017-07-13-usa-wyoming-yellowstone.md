@@ -8,7 +8,7 @@ date:       2017-07-13 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-yellowstone.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-yellowstone.jpg
-tags: [nature, parc naturel]
+tags: [nature, parc naturel, geologie, montagne, volcan]
 flickr-tag: 
 country: USA - Wyoming
 city: Yellowstone
