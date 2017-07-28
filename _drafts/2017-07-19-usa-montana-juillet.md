@@ -21,7 +21,15 @@ Septième article de type carnet de route, il couvre la période du 30 juin au 1
 
 ## 30 Juin
 
-Passage de la frontière à Détroit, beaucoup de question puis entrée aux USA, la maman du gars de l’immigration même date que Corinne. Visete de la Motown Museum, puis ona fait un tour de ville de détroit puis route vers Kalazoo, usine The Heritage fermée. Puis route jusqu’à Michigan city
+Nous quittons Windsor et la Canada pour passer la frontière avec les USA à Détroit. Nous tombons sur un agent de l’immigration qui nous pose beaucoups de questions, par chance, sa maman est née à la même date que Corinne, cela détend l'atmosphère et il nous rend les passeports. Dans détroit, nous nous rendons directement au musée de la Motown. Cela faisait partie des endroits que je ne voulais rater sous aucun pretexte. Fan de cette musique des années 60, Tamla Motown et son créateur Berry Gorby, ont révolutionné la musique de l'époque. Pour la première fois aux USA, les jeunes, qu'ils soient blancs ou noirs se retrouvaient autour de la même musique. Tout les grands chanteurs de l'époque ont enregistré dans le studio A de la Motown, Stevie Wonder, Les Jackson Five, Marvin Gaie, The Marvellettes, The Supremes, Four Tops, Rita Wright, Diana Ross, ....  . La visite du musée est agrémentée de vidéos, affiches, photos, costumes, appartement privé de Gorby reconstitué et bien sur le studio A, premier studio d'enregistrement du Label ou la jeune guide nous a fait chanter et "dancer" sur "My Girl" des Temptations. Nous n'étions que deux "blancs" parmi les visiteurs et bien sur les deux seuls à ne pas savoir bouger, pathétique...
+
+A l'issue de la visite nous avons fait un tour de la ville qui ne semble toujours pas s'être remise de la crise automobile, par endroit elle est même peu rassurante. Nous ne nous éternisons pas et partons en direction de Kalamazzo. Vous allez me dire Kezako ? Il s'agit de la ville qui a vu naître la marque de guitare Gibson. En       la marque déménage à Nashville et        . Les plus vieux Luthiers restent à Kalamazzo et reprennent l'usine pour continuer la fabriquation, à la main, de ces guitares légendaires sour la marque "The Heritage". Heureux possesseur d'un exemplaire depuis une dizaine d'année je souhaiter visiter l'usine. Nous sommes vendredi et l'usine ferme à 16h00, nous arrivons une demie-heure trop tard...
+
+Nous faisons route jusqu'à Michigan city pour passer la nuit.
+
+
+
+
 
 ## 01 au 03 Juillet
 
