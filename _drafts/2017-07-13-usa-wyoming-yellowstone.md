@@ -16,7 +16,8 @@ category: "blog"
 location: ""
 ---
 
-La visite de Yellowstone n'était pas prévue pour ce premier voyage de 6 mois aux USA, mais ayant un peu d'avance sur notre programme et ayant décidé ne pas faire un détour pour visiter Little BigHorn nous le rajoutons à notre roadtrip. Yellowstone et le parc le plus visiter aux USA 
+La visite de Yellowstone n'était pas prévue pour ce premier voyage de 6 mois aux USA, mais ayant un peu d'avance sur notre programme et ayant décidé ne pas faire un détour pour visiter le chmap de bataille de Little BigHorn nous le rajoutons à notre roadtrip.
+Yellowstone et le parc le plus visiter aux USA 
 Il dispose de 5 entrées celon que l'on arrive de l'Est comme nous c'est à dire de Cody, du Sud depuis le Parc Grand Teton NP, de l'Ouest par West Yellowstonne, du Nord depuis Gardiner et enfin du Nord-Est en arrivant à Tower Jonction. Le Parc est ouvert 24 heures sur 24 et gratuit avec le Pass America The Beautiful.
 
 
