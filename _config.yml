@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "60.721188, -135.056839"
   name: "Whitehorse, Yukon, Canada"
-  date: "29 Juillet 2017"
+  date: "29 et 30 Juillet 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
