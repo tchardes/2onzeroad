@@ -16,11 +16,11 @@ category: "blog"
 location: "43.854247, -102.337433"
 ---
 
-Nous arrivons au parc national des Badlands en fin de journée par l'entrée Nord-Est. Situé au Sud-Ouest du Dakota du Sud, le parc est situé sur un plateau érodé dont la formation remonte à 75 millions d'années. Riche en fossiles, certaines zones sont toujours étudiées par des scientifiques. L'érosion à sculpté le paysage donnant un relief particulièrement escarpé et riche en couleurs. Il est ouvert toute l'année mais l'hiver peut y être très rude.
+Nous arrivons au **Badlands National Park** (Mauvaises terres) en fin de journée par l'entrée Nord-Est. Situé au Sud-Ouest du Dakota du Sud, le parc est situé sur un plateau érodé dont la formation remonte à 75 millions d'années. Riche en fossiles, certaines zones sont toujours étudiées par des scientifiques. L'érosion à sculpté le paysage donnant un relief particulièrement escarpé et riche en couleurs. Il est ouvert toute l'année mais l'hiver peut y être très rude.
 
 S'agissant d'un parc National, le pass America the biutifful est accepté. Nous y rentrons au coucher de soleil et les premières images sont très prometteuses. N'ayant pas de réservation et le camping du parc affichant complet, nous le quittons pour y revenir le lendemain aux premières heures. Le levé de soleil sur les formations géologiques est également un très beau spectacle. Les strates allant du jaune clair au rouge foncé s'éclairent petit à petit. Dans ce décors presque désertique parfois steppique, une importante faune y réside. Une bonne journée est suffisante pour en faire le tour.
 
-Nous nous enfonçons dans le parc jusqu'au premier parking, lieu de départs de 4 Trails  
+Nous nous enfonçons dans le parc jusqu'au premier parking, lieu de départs de 4 Trails : 
 * Door Trail (1,2 Km)
 * Window Trail (O,40 Km)
 * Notch Trail (2,4)
@@ -39,5 +39,5 @@ Ce petit Trail pédagogique avec de nombreuse explications se trouve presque à 
 
 Tout au long de la route qui traverse le parc, la Badlands Loop Road ou Badlands State Scenic Byway offre de nombreux arrêts, points de vue qui permettent d'observer des formations géologiques différentes, sans oublier la faune.
 
-Deux pistes permettent de poursuivre l'exploration du parc et rejoindre la route 44. La 590 (Sage Creek Rim Road) qui part vers l'Ouest et la 509 qui file plein Sud. On y traverse des prairies ou paissennt de nombreux bisons. Journée vraiment très dépaysante et forte en émotions.
+Deux pistes permettent de poursuivre l'exploration du parc et rejoindre la route 44. La 590 (Sage Creek Rim Road) qui part vers l'Ouest et la 509 qui file plein Sud. On y traverse des prairies ou paissennt de nombreux bisons. Journée vraiment très dépaysante et forte en émotions. Nous poursuivons vers les **Black Hills**, zone plus verte et très riches en sites remarquables.
 
