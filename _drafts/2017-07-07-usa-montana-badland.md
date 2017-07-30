@@ -32,7 +32,7 @@ Les trois premiers sont assez courts et serpentent à travers les formations. Le
 Depuis Castle Trail, on peut réaliser une autre boucle qui peut être le bon moyen par la suite de revenir vers le premier parking si votre véhicule est garé là.
 
 * Cliff Shelf Nature Trail (0,8 Km)
-Depuis le Ben Reifel visitor center, ce trail aménagé circule au milieu de grands cédres et offre également un très beau point de vue sur la vallée.
+Depuis le Ben Reifel visitor center, ce trail aménagé circule au milieu de grands cèdres et offre également un très beau point de vue sur la vallée.
 
 * Fossil Exhibit Trail (0,40 Km)
 Ce petit Trail pédagogique avec de nombreuses explications se trouve presque à la fin de la scenic drive.
@@ -40,4 +40,5 @@ Ce petit Trail pédagogique avec de nombreuses explications se trouve presque à
 Tout au long de la route qui traverse le parc, la Badlands Loop Road ou Badlands State Scenic Byway offre de nombreux arrêts, points de vue qui permettent d'observer des formations géologiques différentes, sans oublier la faune.
 
 Deux pistes permettent de poursuivre l'exploration du parc et rejoindre la route 44. La 590 (Sage Creek Rim Road) qui part vers l'Ouest et la 509 qui file plein Sud. On y traverse des prairies où paissent de nombreux bisons. Journée vraiment très dépaysante et forte en émotions. Nous poursuivons vers les **Black Hills**, zone plus verte et très riche en sites remarquables.
+
 
