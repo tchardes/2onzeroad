@@ -17,7 +17,7 @@ itinary: "Usa2.json"
 
 ---
 
-Septième article de type carnet de route, il couvre la période du 30 juin au 19 juillet durant laquelle nous avons traversé les Etats du Michigan, de l'Indiana, de l'Illinois, du Wisconsin, du Minnnesota, du Dakota du Sud, Du Wyoming et du Montana.
+Septième article de type carnet de route, il couvre la période du 30 juin au 19 juillet durant laquelle nous avons traversé les Etats du Michigan, de l'Indiana, de l'Illinois, du Wisconsin, du Minnnesota, du Dakota du Sud, du Wyoming et du Montana.
 
 ## 30 Juin
 
