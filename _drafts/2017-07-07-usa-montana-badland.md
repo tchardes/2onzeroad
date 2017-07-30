@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Badland NP"
 preview:    "... "
-parent-id:  2017-06-19-usa-dakota-du-sud-juillet
+parent-id:  2017-06-19-usa-montana-juillet
 
 date:       2017-07-07 12:00:00
 author:     "Thierry"
