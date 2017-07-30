@@ -33,31 +33,26 @@ Nous faisons route jusqu'à Michigan city pour passer la nuit.
 
 ## 01 au 03 Juillet
 
-Route jusqu’à un grand parking pour poids lourds, car et RV. Proche de la voir ferrée, un eu bruyant mais très proche du centre et des transport en commun. Départ pour le centre par le métro, achat d’un pass pour 8 jours. A notre arrivée en ville grande parade pour les 100 ans des Lions club. Tous les pays sont représentés on dirait la cérémonie d’ouverture des JO. Plus tard on rencontre des Français qui nous disent que la délégation française est de 120 personnes et qu’ils sontplus de 35000 rassemblés à Chicago pour le WE. Ensuite visite de la ville et du parc. Repas à Mc Do. Avec l’(essence on c’est fait avoir et le compte N26 et vide. Avec le WE impossible de faire un virement on paye tout en Cash  et CB CA.
-
-02 Juillet
-
-Visite de la ville et d’une partie du parc jusqu’à la Buckingham Fountain Flower Gardens, puis Loop ligne Pink, Photos de quelques Tags puis rencontre avec Bruno et Marie.
-
-03 Juillet
-
-Visite des statues Agora à Grant Park puis du reste du parc, bus jusqu’au Navy Pier, skyline dans la brume, et retour Thor pour départ pour Milwaukee
+Nous visiton la magnifique ville de Chicago. Un vrai coup de coeur tant cette ville et belle et très agréables avec ces gands parcs et cette vue imprenable sur le lac Michigan. (voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-03-usa-Illinois-chicago %}">ici</a>)    
 
 ## 04 et 05 Juillet
 
-Du Walmart on a pris 2 bus (27 et Gold Line) pour arriver au niveau du musée d’art de la ville puis nous sommes allés au Summerfest jusqu’en fin d’après-midi.
+DNous décidons de passer le 4 juillet (Independance day) à Milwaukee dans l'état du Wisconsin au nord de Chicago. Depuis un Walmart nous prenons deux bus de ville (Ligne 27 et Gold Line) qui nous laisse deavnt le très beau musée d’art de la ville qui domine le lac Michigan. de là nous nous rendons sur une presqu'ile ou se déroule le Summerfest. Il s'agit d'une immense parc ou se déroule pendant presque deux semaines des concerts de musiques sur 11 scène différentes, de toute taille, avec de nombreuses annimation autour. Nous y passons la journée en passant d'une scène à l'autre et du coup en pasant de la musique Country au Rock, Techno au métal. Toutes les deux heures le groupes changes et cela jusque tard dans la nuit.
 
-Ce matin visite du musée HD puis route jusqu’à Austin en direction des Badlands NP.
+Le lendemain nous retournons en cntre ville mais pour visiter le musée Harley Davidson dont son siège se toruve dans cette ville. Magnifique musée très recent avec une scenographie impeccable et où l'on peut admirer ces motos légendaires de 1903 à un passé récent. Une partie du musée est consacré au motos tunés et celles qui ont participé à des tournages de films comme Easy rider, terminator, Captain America... A l'xpérieur une belle boutique de souvenirs en tout genre, assez cher d'ailleur. C'est dommage qu'il n'y ait pas au même endroit une concéssion qui permettent également de voir les modéles actuels. En tout état de cause, même si l'on est pas un fan absolue de la marque, la visite de ce musée est un incontournable.
 
-En route nous nous arrêtons sur une aire de repos et je vois un robinet d’eau extérieur. Je trouve un employé qui m’autorise à faire le plein d’eau de Thor.
+En fin d'après-midi, nous partons pour une longue route en direction du middle ouest en direction du Badlands NP. En route nous nous arrêtons sur une aire de repos et je vois un robinet d’eau extérieur. Je trouve un employé qui m’autorise à faire le plein d’eau de Thor. Nous nous posons à Austin.
 
 ## 06 juillet
 
 On roule toute la journée, Corinne arrive à prendre le volant de Thor durant 50 miles sur l’autoroute. Pas de chance beaucoups de travaux sur son tronçon. Nous ne trouvons pas de leiux pours se poser et filons jusqu’au parc des Badlands. Première photos au couché de soleil quelques centaines de mètres après l’entrée. Nous allons jusqu’au camping du parc qui est complet. Nous ressortons du parc et tentons de de bivouaquer au bord de la route, devant le panneau de l’entrée du parc.
 
+
 ## 07 juillet
 
-A 6h00 on rentre à l’intérieur du parc et on assiste au lever de soleil sur les Badlands, ça le fait… on déjeune et part sur les lieux de départ de quatre trails, Door, Window, Notch et Castle trail le plus long, près de 6 miles sur une terre très arride presque blanche. Je croise des Longhorns et un serpent à sonnette, Alex me téléphone. Je fais un bout de Medcine Root Trail. En route je croise une jeune fille à contre sens, on échange deux trois mots. A l’arrivée je me mets sur la route qui traverse le parc pour faire du stop afin que l’on me raméne au point de départ. Je ne sais pas pourquoi, mon pouce magique ‘a pas fonctionné et au bon de 40 minutes où l’on ma carrément ignoré, j’allais presque refaire le trail dans l’autre sens quand la jeune fille croisée arrive au parking et accepte de m’embarquer. Nous repartons sur une autre départ de trail Cliff Shelf Nature trail au milieu des cédres. Nous repartons et faisons Scenic Drive avec de nombreux arrêts tout le long. A la sortie du Parc nous nous dirigeons vers Rapid City, nous faisons le plein d’essence et de nourriture et nous nous avançons Vers Rushmore. On voit que c’est l’été et les vacances, il y a énormément de monde sur les routes, RV, motos …. Finalement nous nous arrêtons dans une camping « Happy Holydays » ou nous nous posons pour la nuit. nous faisons les pleins, les vides, les lessives et le traitement des photos et du site.
+A 6h00 on rentre à l’intérieur du parc et on assiste au lever de soleil sur les Badlands, ça le fait… on déjeune et part sur les lieux de départ de quatre trails, Door, Window, Notch et Castle trail le plus long, près de 6 miles sur une terre très arride presque blanche. Je croise des Longhorns et un serpent à sonnette, Alex me téléphone. Je fais un bout de Medcine Root Trail. En route je croise une jeune fille à contre sens, on échange deux trois mots. A l’arrivée je me mets sur la route qui traverse le parc pour faire du stop afin que l’on me raméne au point de départ. Je ne sais pas pourquoi, mon pouce magique ‘a pas fonctionné et au bon de 40 minutes où l’on ma carrément ignoré, j’allais presque refaire le trail dans l’autre sens quand la jeune fille croisée arrive au parking et accepte de m’embarquer. Nous repartons sur une autre départ de trail Cliff Shelf Nature trail au milieu des cédres. Nous repartons et faisons Scenic Drive avec de nombreux arrêts tout le long. A la sortie du Parc nous nous dirigeons vers Rapid City. (voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-07-usa-montana-badland %}">ici</a>)    
+
+Après avoir fait le plein d’essence et de nourriture et nous nous avançons vers Rushmore. On voit que c’est l’été et les vacances, il y a énormément de monde sur les routes, RV, motos …. Finalement nous nous arrêtons dans une camping « Happy Holydays » ou nous nous posons pour la nuit. nous faisons les pleins, les vides, les lessives et le traitement des photos et du site.
 
 
 ## 08 juillet
