@@ -37,7 +37,7 @@ Route jusqu’à un grand parking pour poids lourds, car et RV. Proche de la voi
 
 02 Juillet
 
-Visite de la ville et d’un epartie du parc jusqu’à la Buckingham Fountain Flower Gardens, puis Loop ligne Pink, Photos de quelques Tags puis rencontre avec Bruno et Marie.
+Visite de la ville et d’une partie du parc jusqu’à la Buckingham Fountain Flower Gardens, puis Loop ligne Pink, Photos de quelques Tags puis rencontre avec Bruno et Marie.
 
 03 Juillet
 
@@ -74,12 +74,18 @@ La matin on se leve de bonne heure pour trouver un garage, finalement au Walmart
 
 Parade de fille à cheval au couleur des USA, après prière et hymne national, Rodéo cheval hommes puis enfants de 12 ans, rattrapage de veau homme puis femme sans ficelage, Rattrapage de veau à deux lassos, épreuve de vitesse autour de 4 Bidons femmes, Rodéos avec taureaux. A l’entracte clown et les enfants au milieu pour des jeux avec deux veaux.
 
-11 au 13 juillet
+## 11 au 13 juillet
+
+La visite de Yellowstone n'était pas prévue pour ce premier voyage de 6 mois aux USA, mais ayant un peu d'avance sur notre programme et ayant décidé ne pas faire un détour pour visiter le champ de bataille de Little BigHorn nous le rajoutons à notre roadtrip
 
 Ce matin plus de réseau, plus de téléphone, c’est le jour de changement de mois de mon forfait et toute la journée je pense que Free à un soucis. Départ vers 6h30 pour Yellowstone, en route on a vu biche et faons, bison, finalement le parc ne ferme pas alors qu’on pensait qu’il ouvrai à 8 heures.
 Nombreux trails et photos, on a vu des wapitis, Old Faithfull, super journée. Le soir on quitte le parc et on trouve un camping à la première ville West Yellowstone. Journée inoubliable.
 
 Départ de West Yellowstone en direction du susd pour faire « Biscuit Basin », Grand prismatic Spring, Lower Geyser Basin et Norris Geyser basin avant de remonter vers le Nord. On s’arrête à Gibbon falls. Sur Gardiner tous les camping sont Full on se pose avec d’autres RV à l’entrée de la ville au bord de la route. Dans l’après midi on rencontre une famille de Francais et de hollandais qui parlainet bien français, on a discuté voyages. 
+
+
+Comme nous voyageons au grès de nos envie, nous arrivons dans le parc sans réservation, en plein mois de juillet, donc autant vous dire que ce n'est pas la peine de chercher une place dans un camping ou un Lodge. Il faut s'y prendre au moins un an à l'avance. Il est donc obligatoire de sortir du parc pour trouver une place pour poser Thor. Nous avons donc passé une nuit dans un camping à West Yellowstone où le charme de Corinne a été déterminant puisque tout était complet mais le responsable, haut en couleur, nous a quand même trouvé une petite place ... Une nuit à Gardiner au bord de la route avec une dizaine d'autres RV car tout était complet et nous avons quitté le parc le troisième jour en soirée et rouler en direction de Bozeman pour nous poser.
+
 
 départ de Gardiner pour rentre sur le Parc en direction de mamoth Spring puis changement de coté, nous sommes parits vers l’Est jusqu’à Mud Volcano puis demi tour pour rejoindre West Yellowstone en direction de Bozeman en passant par la Gallatin National Forest, une vallée le long de la rivière Gallatin trsè sauvage et réputée pour la pêche à la mouche.
 
