@@ -34,12 +34,46 @@ Le parc peut se découper en quatre grandes zones :
 
 * Sud Est : Yellowstone Lake, Mud Volcano, West Thumb
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36082472212/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4317/36082472212_0488206594_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-* Sud Ouest : Old Faithful, Fountain Paint Pot
 
-* Nord Ouest : Norris et Mammoth Hot Springs
+* Sud Ouest : Old Faithful, Fountain Paint Pot, Biscuit Basin, Grand Prismatic Spring
 
-* Nord Est : Canyon et prairies
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36082145432/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4304/36082145432_8ee0a8e71c_k.jpg" width="2048" height="1365" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36208548286/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4320/36208548286_4f2ae5c9bf_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36208350056/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4295/36208350056_8365745181_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36249603255/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4309/36249603255_a39eea2d57_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+* Nord Ouest : Irons Spring, Norris et Mammoth Hot Springs
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36249296715/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4301/36249296715_4f3b5d44cb_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36207459456/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4305/36207459456_94a3ba9bc6_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35414687744/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4319/35414687744_330dfe86af_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36206285186/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4316/36206285186_a18ad89c8f_k.jpg" width="2048" height="1099" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36113067431/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4301/36113067431_8a6bbe98a4_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+* Nord Est : Canyons et prairies  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36112765591/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4323/36112765591_311775ec53_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35854498160/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4298/35854498160_c17916356c_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35854417930/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4291/35854417930_5a9996a367_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36205295946/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4330/36205295946_166b60ca11_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+
+
+
 
 Pour notre deuxième séjour, nous repasserons par Yellowstone mais cette fois un peu plus tôt dans la saison afin d'observer une plus grande activité géothermique et pouvoir faire quelques trails. Nous avons passé 3 jours mémorables à en prendre plein la vue.
