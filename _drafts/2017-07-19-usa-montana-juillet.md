@@ -52,12 +52,19 @@ On roule toute la journée, Corinne arrive à prendre le volant de Thor durant 5
 
 A 6h00 on rentre à l’intérieur du parc et on assiste au lever de soleil sur les Badlands, ça le fait… on déjeune et part sur les lieux de départ de quatre trails, Door, Window, Notch et Castle trail le plus long, près de 6 miles sur une terre très arride presque blanche. Je croise des Longhorns et un serpent à sonnette, Alex me téléphone. Je fais un bout de Medcine Root Trail. En route je croise une jeune fille à contre sens, on échange deux trois mots. A l’arrivée je me mets sur la route qui traverse le parc pour faire du stop afin que l’on me raméne au point de départ. Je ne sais pas pourquoi, mon pouce magique ‘a pas fonctionné et au bon de 40 minutes où l’on ma carrément ignoré, j’allais presque refaire le trail dans l’autre sens quand la jeune fille croisée arrive au parking et accepte de m’embarquer. Nous repartons sur une autre départ de trail Cliff Shelf Nature trail au milieu des cédres. Nous repartons et faisons Scenic Drive avec de nombreux arrêts tout le long. A la sortie du Parc nous nous dirigeons vers Rapid City. (voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-07-usa-montana-badland %}">ici</a>)    
 
-Après avoir fait le plein d’essence et de nourriture et nous nous avançons vers Rushmore. On voit que c’est l’été et les vacances, il y a énormément de monde sur les routes, RV, motos …. Finalement nous nous arrêtons dans une camping « Happy Holydays » ou nous nous posons pour la nuit. nous faisons les pleins, les vides, les lessives et le traitement des photos et du site.
+Après avoir fait le plein d’essence et de nourriture, nous nous avançons vers Rushmore. On voit que c’est l’été et les vacances, il y a énormément de monde sur les routes, RV, motos …. Finalement nous nous arrêtons dans une camping « Happy Holydays » ou nous nous posons pour la nuit. nous faisons les pleins, les vides, les lessives et le traitement des photos et du site.
 
 
 ## 08 juillet
 
-Départ à 11h00 du camping direction Rushmore. L’entrée coûte 10$ par VL et pour 2 pers. Visite du site et petit trail qui longe la base de la montagne, très belle vue sur les Présidents. Nous mangeons sur place et repartons vers le site de Crazy Horse. Situé dans les Black Hills national forest le décors change radicalement après plus de 1000 Km de champs et de prairies. Le massif forestier est magnifique. Le site de Crazy horze coûte 11$/Pers. Le chantier commencé an 1948 et loin d’être terminé. Beau musée. Nous quittons les Sioux et traverssons la ville de Cluster toujours dans les Black Hills et rentrons dans le Wyoming. Changement de décors, un relief vallonnée, des prairies, des fermes des bois et une terre très rouge. Nous arrivons à Devils Tower et faisons le Trail qui fait le tour de la base de la montagne et direction le campground du Parc.
+Départ à 11h00 du camping direction les Black Hills et en premier lieu, le Mont Rushmore. L’entrée coûte 10$ par VL et pour 2 pers. On arrive sur une très belle esplanade qui offre une vue imprenable sur les 4 présidents ( ). Les travaux ont débuté en 1927 pour finir en 1941 et ont demandé  plus de 400 ouvriers. Un petit trail permet de longer la base de la montagne et offre différentes vues.
+
+
+    
+    
+Nous faisons quelques kilomètres et arrivons sur le site de Crazy Horse Memorial. Situé dans les Black Hills national forest le décors change radicalement après plus de 1000 Km de champs et de prairies. Le massif forestier est magnifique. Le site de Crazy horze coûte 11$/Pers. Le chantier commencé an 1948 et il est loin d’être terminé. Ce site est la réponse indienne au Mont Rushmore. Ils souhaitent ainsi montrer qu'il y a eu également de grands hommes ches les indiens et notamment le grand chef Sioux "Crazy Horse" qui a battut le général Custer à Litlle BigHorn. 
+
+Beau musée. Nous quittons les Sioux et traverssons la ville de Cluster toujours dans les Black Hills et rentrons dans le Wyoming. Changement de décors, un relief vallonnée, des prairies, des fermes des bois et une terre très rouge. Nous arrivons à Devils Tower et faisons le Trail qui fait le tour de la base de la montagne et direction le campground du Parc.
 
 ## 09 Juillet
 
