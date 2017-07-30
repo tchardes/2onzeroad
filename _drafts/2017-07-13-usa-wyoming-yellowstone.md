@@ -50,7 +50,7 @@ Le parc peut se découper en quatre grandes zones et en images :
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36249603255/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4309/36249603255_a39eea2d57_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-* Nord Ouest : Irons Spring, Norris et Mammoth Hot Springs
+* Nord Ouest : Iron Spring, Norris et Mammoth Hot Springs
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36249296715/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4301/36249296715_4f3b5d44cb_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
