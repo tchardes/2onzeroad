@@ -13,6 +13,6 @@ flickr-tag:
 country: USA - Montana
 city: Glacier NP
 category: "blog"
-location: ""
+location: "48.739430, -113.748812"
 ---
 
