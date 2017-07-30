@@ -26,7 +26,7 @@ Nous nous enfonçons dans le parc jusqu'au premier parking, lieu de départs de 
 * Notch Trail (2,4)
 * Castle Trail (16 Km)
 
-Le trois premiers sont assez courts et serpentes à travers les formations. Les deux premiers sont aménagés en pontons et passerelles. Notch Trail permet d'arriver sur un point haut qui domine toute la vallée. Castle trail est un peu long et chemine à travers steppes et zones désertiques, c'est très sauvage et très beau. Ne pas oublier d'emporter beaucoup d'eau. On peu s'arrêter à la moitié et prendre le Saddle Pass Trail pour rejoindre la route (ce que j'ai fait).
+Le trois premiers sont assez courts et serpentes à travers les formations. Les deux premiers sont aménagés en pontons et passerelles. Notch Trail permet d'arriver sur un point haut qui domine toute la vallée. Castle trail est un peu long et chemine à travers steppes et zones désertiques, c'est très sauvage et très beau. Ne pas oublier d'emporter beaucoup d'eau et faire attention au serpents à sonnettes (Rattlesnakes). On peu s'arrêter à la moitié et prendre le Saddle Pass Trail pour rejoindre la route (ce que j'ai fait).
 
 * Medecine Root Trail (6,4 Km)
 Depuis Castle Trail on peut réaliser une autre boucle qui peut être le bon moyen par la suite de revenir vers le premier parking si votre véhicule est garé là.
@@ -37,7 +37,7 @@ Depuis le Ben Reifel visitor center, ce trail aménagé circule au milieux de gr
 * Fossil Exhibit Trail (0,40 Km)
 Ce petit Trail pédagogique avec de nombreuse explications se trouve presque à la fin de la scenic drive.
 
-Tout au long de la route qui traverse le parc, la Badlands Loop Road ou Badlands State Scenic Byway offre de nombreux points de vue et permet d'observer des formations géologiques différentes sans oublier la faune.
+Tout au long de la route qui traverse le parc, la Badlands Loop Road ou Badlands State Scenic Byway offre de nombreux arrêts, points de vue qui permettent d'observer des formations géologiques différentes, sans oublier la faune.
 
-Deux pistes permettent de poursuivre l'exploration du parc et rejoindre la route 44. La 590 (Sage Creek Rim Road) qui part vers l'Ouest et la 509 qui file plein Sud. On y traverse des prairies ou passe de nombreux bisons. Journée vraiment très dépaysante et forte en émotions.
+Deux pistes permettent de poursuivre l'exploration du parc et rejoindre la route 44. La 590 (Sage Creek Rim Road) qui part vers l'Ouest et la 509 qui file plein Sud. On y traverse des prairies ou paissennt de nombreux bisons. Journée vraiment très dépaysante et forte en émotions.
 
