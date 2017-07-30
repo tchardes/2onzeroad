@@ -1,17 +1,17 @@
 ---
 layout:     blog
-title:      "Badland NP"
+title:      "Badlands NP"
 preview:    "Nous arrivons au Badlands National Park (Mauvaises terres) en fin de journée par l'entrée Nord-Est. Situé au Sud-Ouest du Dakota du Sud, le parc est... "
 parent-id:  2017-06-19-usa-montana-juillet
 
 date:       2017-07-07 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-badland.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-badland.jpg
+header-img: "assets/owner/blog/header/post-bg-badlands.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-badlands.jpg
 tags: [nature, parc-naturel, montagne, geologie, faune]
 flickr-tag: 
 country: USA - Montana
-city: Badland NP
+city: Badlands NP
 category: "blog"
 location: "43.854247, -102.337433"
 ---
