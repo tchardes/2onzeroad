@@ -13,6 +13,6 @@ flickr-tag:
 country: USA - Montana
 city: Badland NP
 category: "blog"
-location: ""
+location: "43.854247, -102.337433"
 ---
 
