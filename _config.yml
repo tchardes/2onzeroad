@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "60.721188, -135.056839"
-  name: "Whitehorse, Yukon, Canada"
-  date: "29 et 30 Juillet 2017"
+  coordinates: "64.060708, -139.432079"
+  name: "Dawson City, Yukon, Canada"
+  date: "31 Juillet 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
