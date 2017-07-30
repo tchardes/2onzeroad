@@ -16,3 +16,23 @@ category: "blog"
 location: "48.739430, -113.748812"
 ---
 
+Nous longeons le Lac Flatheads et arrivons à l'entrée du **Glacier national Park** du côté Ouest par le village de West Glacier et arrivons au visitor center à Apgar où nous prenons tous nos renseignements. Nous nous installons au camping du Parc qui se situe le long du lac Mc Donald et ou nous resterons deux nuits. Juste le strict minimum comme dans tous les States Park.
+
+Le parc national de Glacier a été fondé en 1910. Le parc, qui est constitué de zones montagneuses abritant des dizaines de glaciers, des centaines de lacs et des milliers d'espèces animales et végétales, est l'un des écosystèmes les mieux préservés du pays. La partie Nord du parc se trouve au Canada avec comme principale ville Waterton. Cette zone forme depuis 1932 le parc international de la paix Waterton-Glacier. Cette région composée de deux parcs a été désignée par l'UNESCO réserve de biosphère en 1976 et patrimoine mondial en 1995.
+
+<p class="info-box bg-primary"><i class="fa fa-info-circle"></i>  
+Le parc se traverse en empruntant la Going-to-the-sun road qui va de West glacier à Saint Mary. De Avalanche Creek à the Rising Sun, la route est interdite au RV de plus de 21’ de long et de 12’ de haut car la route est très tortueuse et étroite. Toutefois, les Park Rangers font bien les chauses puiseque dès 07h00 des navettes gratuites vous aménent de Apgar à Logan Pass et de Saint Mary à Logan Pas. Vous pouvez donc faire une grande partie du Parc sans véhicule en utilisant les "shuttle".
+</p>
+
+En début d'après-midi, je prend la navette jusqu'à Avalanche Point pour faire deux trails, le premier très facile et très agréable au miliieu d'immenes cèdres ** Trail of the Cedar** (0,7 Miles) et un autre un peu plus dur **Avalanche Lake** (4,6 Miles + 500 Ft) qui mène dans un lac situé au pied d'une grand cirque contre les parios desquelles s'écoulent de nombreuses cascades puis retour au camping.  
+
+Le lendemain, levé 5h45 et départ 6H30 pour prendre le shuttle jusqu’à Logan Pass. Une heure de route direct le visitor center. Départ pour la randonnée Hidden Lake (la plus populaire) (5,2 miles AR +780 Ft). Un tiers du Trail est fermé en raison d'une présenece trop impotante d'ours dans le coin, à peine 500 m après le départ, le trail se poursuit dans la neige sur des névés. Je décide de faire demi tour car je ne suis pas équiper des bonnes chaussures et certains passages sont assez pentus. De retour vers le visitor center je tombe sur une colonie de Spermophile qui me font le spectacle, tellement habituées à voir du monde. L'une d'eux mem monte même sur la jambe tandis que je suis acroupi pour prensdre des photos. 
+
+Finalement j'opte pour une autre randonnée la **Hightline Trail** (12,7 Miles + 690Ft - 6 heures). Très belle randonnée où il ne faut pas avoir le vertige car la plus grosse partie du trail se fait à flan de montagne. On arrive jusqu'à un chalet où l'on peu manger et dormi puis descente vers la route pour reprendre le shuttle retour. 23 Km de sentiers qui m'ont permis d'admirer des magnifiques massifs montagneux, panoramiques, glaciers..., super trail. 
+
+Le troisième jour nous quittons Apgar pour Saint Mary après avoir fait le plein d’eau et le dump. Nous empruntons une route type nationale qui contourne la  Going-to-the-sun que nous ne pouvons prendre. Arrivé à l’entrée du parc côté Saint Mary nous nous installons  pour deux nuits au campground Rising Sun.
+
+Le lendemain nous partons à 06H00 pour une autre valée, Many Glacier distante de 16 Km. Arrivés au parking petit déjeuné face aux montagnes puis départ pour le Grinnell Glacier Viewpoint (12,2 Miles + 1600 Ft - 6 heures). Magnifique trail qui longe une vallée et quatre lacs "Swiftcurrent Lake", "Lake Joséphine", "Grinnell Lake", et enfin "Upper Grinnel lake" en partie pris dans la glace pour arriver au pied du Grinnell Glacier. Au départ nous étions venus pour faire le Iceberg Lake mais tous les trails de ce coins sont fermés en raison d’une trop grande présence d’ours.
+
+Le dernier jour nous quitons Saint Mary en direction du Canada pour voir la partie canadienne du parc. Après le passage de la frontière nous roulons jusqu'à Waterton, trèx belle petite ville entièrement tournée vers le tourisme et son fameux Hôtel Prince de Galles construit en 1920 pour inciter les gens à venir visiter le parc. Nous n'y ferons aucun trail.
+
