@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Glacier NP"
-preview:    "... "
+preview:    "Nous longeons le Lac Flathead et arrivons à l'entrée du **Glacier national Park** du côté Ouest par le village de West Glacier et commençons par... "
 parent-id:  2017-06-19-usa-montana-juillet
 
 date:       2017-07-19 12:00:00
@@ -16,9 +16,13 @@ category: "blog"
 location: "48.739430, -113.748812"
 ---
 
-Nous longeons le Lac Flatheads et arrivons à l'entrée du **Glacier national Park** du côté Ouest par le village de West Glacier et commençons par le visitor center à Apgar où nous prenons tous nos renseignements. Nous nous installons au camping du Parc qui se situe le long du lac Mc Donald et où nous resterons deux nuits. Juste le strict minimum, comme dans tous les States Park.
+Nous longeons le Lac Flathead et arrivons à l'entrée du **Glacier national Park** du côté Ouest par le village de West Glacier et commençons par le visitor center à Apgar où nous prenons tous nos renseignements. Nous nous installons au camping du Parc qui se situe le long du lac Mc Donald et où nous resterons deux nuits. Juste le strict minimum, comme dans tous les States Park.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35445987823/in/datetaken/" title="Glacier NP - Montana - [USA]"><img src="https://farm5.staticflickr.com/4301/35445987823_15689499cf_k.jpg" width="2048" height="1152" alt="Glacier NP - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Le parc national de Glacier a été fondé en 1910. Le parc, qui est constitué de zones montagneuses abritant des dizaines de glaciers, des centaines de lacs et des milliers d'espèces animales et végétales, est l'un des écosystèmes les mieux préservés du pays. La partie Nord du parc se trouve au Canada avec comme principale ville Waterton. Cette zone forme, depuis 1932, le parc international de la paix Waterton-Glacier. Cette région composée de deux parcs a été désignée par l'UNESCO réserve de biosphère en 1976 et patrimoine mondial en 1995.
+
+
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>  
 Le parc se traverse en empruntant la Going-to-the-sun road qui va de West glacier à Saint Mary. De Avalanche Creek à the Rising Sun, la route est interdite au RV de plus de 21’ de long et de 12’ de haut car elle est très tortueuse et étroite. Toutefois, les Park Rangers font bien les choses puiseque dès 07h00, des navettes gratuites vous amènent de Apgar à Logan Pass et de Saint Mary à Logan Pas. Vous pouvez donc faire une grande partie du Parc sans véhicule en utilisant les "shuttle".
