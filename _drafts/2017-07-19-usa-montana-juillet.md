@@ -56,6 +56,7 @@ En fin d'après-midi, nous partons pour une longue route en direction du middle 
 
 On roule toute la journée, Corinne arrive à prendre le volant de Thor durant 50 miles sur l’autoroute. Pas de chance beaucoups de travaux sur son tronçon. Nous ne trouvons pas de leiux pours se poser et filons jusqu’au parc des Badlands. Première photos au couché de soleil quelques centaines de mètres après l’entrée. Nous allons jusqu’au camping du parc qui est complet. Nous ressortons du parc et tentons de de bivouaquer au bord de la route, devant le panneau de l’entrée du parc.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35040367224/in/datetaken/" title="Chamberlain - Dakota du Sud - [USA]"><img src="https://farm5.staticflickr.com/4261/35040367224_f513820b59_h.jpg" width="1600" height="900" alt="Chamberlain - Dakota du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 07 juillet
 
@@ -66,24 +67,50 @@ Après avoir fait le plein d’essence et de nourriture, nous nous avançons ver
 
 ## 08 juillet
 
-Départ à 11h00 du camping direction les Black Hills et en premier lieu, le Mont Rushmore. L’entrée coûte 10$ par VL et pour 2 pers. On arrive sur une très belle esplanade qui offre une vue imprenable sur les 4 présidents ( ). Les travaux ont débuté en 1927 pour finir en 1941 et ont demandé  plus de 400 ouvriers. Un petit trail permet de longer la base de la montagne et offre différentes vues.
+Départ à 11h00 du camping direction les Black Hills et en premier lieu, le Mont Rushmore. L’entrée coûte 10$ par VL et pour 2 pers. On arrive sur une très belle esplanade qui offre une vue imprenable sur les 4 présidents ( ). Les travaux ont débuté en 1927 pour finir en 1941 et ont demandé  plus de 400 ouvriers. Un petit trail permet de longer la base de la montagne et offre différentes vues.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35442801174/in/datetaken/" title="Mt Rushmore - Montana - [USA]"><img src="https://farm5.staticflickr.com/4299/35442801174_580e72717f_k.jpg" width="2048" height="1152" alt="Mt Rushmore - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-    
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36275095025/in/datetaken/" title="Mt Rushmore - Montana - [USA]"><img src="https://farm5.staticflickr.com/4297/36275095025_bf9a1d3282_k.jpg" width="2048" height="1152" alt="Mt Rushmore - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>     
     
 Nous faisons quelques kilomètres et arrivons sur le site de Crazy Horse Memorial. Situé dans les Black Hills national forest le décors change radicalement après plus de 1000 Km de champs et de prairies. Le massif forestier est magnifique. Le site de Crazy horze coûte 11$/Pers. Le chantier commencé an 1948 et il est loin d’être terminé. Ce site est la réponse indienne au Mont Rushmore. Ils souhaitent ainsi montrer qu'il y a eu également de grands hommes ches les indiens et notamment le grand chef Sioux "Crazy Horse" qui a battut le général Custer à Litlle BigHorn. 
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35442772164/in/datetaken/" title="Crazy Horse - Montana - [USA]"><img src="https://farm5.staticflickr.com/4311/35442772164_cec6fea0c7_h.jpg" width="1600" height="900" alt="Crazy Horse - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35442689474/in/datetaken/" title="Crazy Horse - Montana - [USA]"><img src="https://farm5.staticflickr.com/4326/35442689474_a9165ea7a1_h.jpg" width="1600" height="900" alt="Crazy Horse - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Beau musée. Nous quittons les Sioux et traverssons la ville de Cluster toujours dans les Black Hills et rentrons dans le Wyoming. Changement de décors, un relief vallonnée, des prairies, des fermes des bois et une terre très rouge. Nous arrivons à Devils Tower et faisons le Trail qui fait le tour de la base de la montagne et direction le campground du Parc.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36234075696/in/datetaken/" title="Custer - Montana - [USA]"><img src="https://farm5.staticflickr.com/4292/36234075696_0545dd6def_h.jpg" width="1600" height="900" alt="Custer - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36234035446/in/datetaken/" title="Devils Tower - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4318/36234035446_8332d8a755_h.jpg" width="1600" height="900" alt="Devils Tower - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 09 Juillet
 
 Ce matin dernier tour à la Devils Tower puis départ vers Cody, Corinne prend un peu le volant de Thor. Malgrè le fait que nous soyons à plus de 1000 mètres d’altitude il fait très chaud. On longe d’immenses prairies avec au final peu de bétail. Nous traverssons Bighorn National Forest et prenons un peu de hauteur, à 2700 mètres la température et fraiche et fait du bien. Nous traaverssons un immense plateau avant de redescendre le long d’un canyon. Le temps n’est pas terrible et nous rencontrons la pluie avant d’arriver à Cody.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36274624765/in/datetaken/" title="BigHorn NF - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4320/36274624765_377d4bcb9c_h.jpg" width="1600" height="900" alt="BigHorn NF - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35881115180/in/datetaken/" title="Devils Tower - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4325/35881115180_b023e6ea15_h.jpg" width="1600" height="1067" alt="Devils Tower - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 10 juillet
 
 La matin on se leve de bonne heure pour trouver un garage, au final, ce Walmart prend les RV jusqu’à 26’. On change également le filtre à air. Dans la matinée nous faisons la visite de la ville de Cody qui est une ville sorite d'un western avec sa rue principale bordée des boutiques aux devantures typique. Nous mangeons dans l’ancien Hôtel de William Frederick Cody dit Buffalo Bill. L’après midi repos, achat d’un DD externe pour doubler les saubvegardes et le soirée Rodéo. 
 
-Nous nous rendons à la sortie de la ville dans un "Rodéodrome" où nous assistons à un super spectacle. En préambule, une parade de fille à cheval au couleur des USA puis une prière et l'hymne national. Les festivités peuvent commencer. Tous d'abord, les hommes puis des enfants de 12 ans pour un rodéo à cheval puis rattrapage de veaux par des hommes puis par des femmes mais sans le ficelage final, ensuite rattrapage de veaux par équipe, à deux lassos, épreuve de vitesse autour de 4 Bidons femmes et enfin rodéos sur taureaux. A l’entracte des clowns font descendre les enfants sur la piste pour des jeux avec de jeunes veaux. L'ambiance est vraiment très bonne, très ludique, on a passé une super soirée et on s'est bien amusé. Nous rencontrons un couple de Strasbourg avec qui nous avons discuté un long moment.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35868143892/in/datetaken/" title="Cody - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4311/35868143892_3169cf75d4_h.jpg" width="1600" height="900" alt="Cody - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36039375065/in/datetaken/" title="Cody - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4320/36039375065_e40b21303a_h.jpg" width="1600" height="900" alt="Cody - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous nous rendons à la sortie de la ville dans un "Rodéodrome" où nous assistons à un super spectacle. En préambule, une parade de fille à cheval au couleur des USA puis une prière et l'hymne national. Les festivités peuvent commencer. Tous d'abord, les hommes puis des enfants de 12 ans pour un rodéo à cheval puis rattrapage de veaux par des hommes puis par des femmes mais sans le ficelage final, ensuite rattrapage de veaux par équipe, à deux lassos, épreuve de vitesse autour de 4 Bidons femmes et enfin rodéos sur taureaux. A l’entracte des clowns font descendre les enfants sur la piste pour des jeux avec de jeunes veaux. L'ambiance est vraiment très bonne, très ludique, on a passé une super soirée et on s'est bien amusé. Nous rencontrons un couple de Strasbourg avec qui nous avons discuté un long moment.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35905307531/in/datetaken/" title="Cody - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4308/35905307531_caa9697060_h.jpg" width="1600" height="1067" alt="Cody - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35997522676/in/datetaken/" title="Cody - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4307/35997522676_5da148d7bb_h.jpg" width="1600" height="900" alt="Cody - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35905236151/in/datetaken/" title="Cody - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4305/35905236151_30a73ccce6_h.jpg" width="1600" height="900" alt="Cody - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36039165725/in/datetaken/" title="Cody - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4303/36039165725_9b6899dcc4_h.jpg" width="1600" height="900" alt="Cody - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
 
 ## 11 au 13 juillet
 
