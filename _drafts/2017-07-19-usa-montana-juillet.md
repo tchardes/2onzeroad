@@ -89,11 +89,12 @@ Beau musée. Nous quittons les Sioux et traverssons la ville de Cluster toujours
 
 ## 09 Juillet
 
-Ce matin dernier tour à la Devils Tower puis départ vers Cody, Corinne prend un peu le volant de Thor. Malgrè le fait que nous soyons à plus de 1000 mètres d’altitude il fait très chaud. On longe d’immenses prairies avec au final peu de bétail. Nous traverssons Bighorn National Forest et prenons un peu de hauteur, à 2700 mètres la température et fraiche et fait du bien. Nous traaverssons un immense plateau avant de redescendre le long d’un canyon. Le temps n’est pas terrible et nous rencontrons la pluie avant d’arriver à Cody.
+Ce matin dernier tour à la Devils Tower puis départ vers Cody, Corinne prend un peu le volant de Thor. Malgrè le fait que nous soyons à plus de 1000 mètres d’altitude il fait très chaud. On longe d’immenses prairies avec au final peu de bétail. Nous traverssons Bighorn National Forest et prenons un peu de hauteur, à 2700 mètres la température et fraiche et fait du bien. Nous traaverssons un immense plateau avant de redescendre le long d’un canyon. Le temps n’est pas terrible et nous rencontrons la pluie avant d’arriver à Cody.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35881115180/in/datetaken/" title="Devils Tower - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4325/35881115180_b023e6ea15_h.jpg" width="1600" height="1067" alt="Devils Tower - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36274624765/in/datetaken/" title="BigHorn NF - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4320/36274624765_377d4bcb9c_h.jpg" width="1600" height="900" alt="BigHorn NF - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35881115180/in/datetaken/" title="Devils Tower - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4325/35881115180_b023e6ea15_h.jpg" width="1600" height="1067" alt="Devils Tower - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 10 juillet
 
