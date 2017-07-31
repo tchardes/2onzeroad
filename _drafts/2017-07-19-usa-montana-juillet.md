@@ -12,7 +12,7 @@ tags: []
 country: USA - Montana
 category: "roadmap"
 flickr-tag: ""
-location: "45.216331, -100.721655"
+location: "43.954466, -100.720835"
 itinary: "usa2.json"
 
 ---
