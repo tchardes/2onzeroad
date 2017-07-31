@@ -20,7 +20,7 @@ Créé en 1872, Yellowstone est le plus ancien parc national au monde et l'un de
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35416579354/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4296/35416579354_fbef1054d4_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Il dispose de 5 entrées selon que l'on arrive de l'Est comme nous c'est à dire de Cody, du Sud depuis le Grand Teton NP, de l'Ouest par West Yellowstone, du Nord depuis Gardiner et enfin du Nord-Est en arrivant à Tower Jonction. Le Parc est ouvert 24 heures sur 24 et gratuit avec le Pass America the beautiful. Il faut compter au moins 3 ou 4 jours pour en faire le tour, bien plus si vous souhaitez faire de nombreux trails.
+Il dispose de 5 entrées selon que l'on arrive de l'Est comme nous, c'est à dire de Cody, du Sud depuis le Grand Teton NP, de l'Ouest par West Yellowstone, du Nord depuis Gardiner et enfin du Nord-Est en arrivant à Tower Jonction. Le Parc est ouvert 24 heures sur 24 et gratuit avec le Pass America the beautiful. Il faut compter au moins 3 ou 4 jours pour en faire le tour, bien plus si vous souhaitez faire de nombreux trails.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35856891360/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4326/35856891360_c4927439fb_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
