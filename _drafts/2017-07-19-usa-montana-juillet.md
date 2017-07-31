@@ -36,6 +36,8 @@ A l'issue de la visite nous avons fait un tour de la ville qui ne semble toujour
 
 Nous visiton la magnifique ville de Chicago. Un vrai coup de coeur tant cette ville et belle et très agréables avec ces gands parcs et cette vue imprenable sur le lac Michigan. (voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-03-usa-Illinois-chicago %}">ici</a>)    
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35648393320/in/datetaken/" title="Chicago - Illinois - [USA]"><img src="https://farm5.staticflickr.com/4312/35648393320_842343d849_h.jpg" width="1600" height="1067" alt="Chicago - Illinois - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 04 et 05 Juillet
 
 DNous décidons de passer le 4 juillet (Independance day) à Milwaukee dans l'état du Wisconsin au nord de Chicago. Depuis un Walmart nous prenons deux bus de ville (Ligne 27 et Gold Line) qui nous laisse deavnt le très beau musée d’art de la ville qui domine le lac Michigan. de là nous nous rendons sur une presqu'ile ou se déroule le Summerfest. Il s'agit d'une immense parc ou se déroule pendant presque deux semaines des concerts de musiques sur 11 scène différentes, de toute taille, avec de nombreuses annimation autour. Nous y passons la journée en passant d'une scène à l'autre et du coup en pasant de la musique Country au Rock, Techno au métal. Toutes les deux heures le groupes changes et cela jusque tard dans la nuit.
@@ -127,6 +129,7 @@ Départ de West Yellowstone en direction du susd pour faire « Biscuit Basin �
 
 Comme nous voyageons au grès de nos envie, nous arrivons dans le parc sans réservation, en plein mois de juillet, donc autant vous dire que ce n'est pas la peine de chercher une place dans un camping ou un Lodge. Il faut s'y prendre au moins un an à l'avance. Il est donc obligatoire de sortir du parc pour trouver une place pour poser Thor. Nous avons donc passé une nuit dans un camping à West Yellowstone où le charme de Corinne a été déterminant puisque tout était complet mais le responsable, haut en couleur, nous a quand même trouvé une petite place ... Une nuit à Gardiner au bord de la route avec une dizaine d'autres RV car tout était complet et nous avons quitté le parc le troisième jour en soirée et rouler en direction de Bozeman pour nous poser.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36113197811/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4318/36113197811_7e06a36bbf_h.jpg" width="1600" height="900" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 départ de Gardiner pour rentre sur le Parc en direction de mamoth Spring puis changement de coté, nous sommes parits vers l’Est jusqu’à Mud Volcano puis demi tour pour rejoindre West Yellowstone en direction de Bozeman en passant par la Gallatin National Forest, une vallée le long de la rivière Gallatin trsè sauvage et réputée pour la pêche à la mouche.
 
@@ -149,6 +152,8 @@ Arrivée au parking petit déjeuné face aux montagnes puis départ pour le Grin
 De retour une bonne douche puis Dump et remplissage de l’aeu au niveau du visitor center et retour à Rising Sun.
 
 Au départ nous étions venus pour faire le Iceberg Lake mais tous les trails de ce coins sont fermés en raison d’une trop grande présence d’Ours. Finalement nous n’en aurons vu aucune mais ils nous auront bien contrariés.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35417375214/in/datetaken/" title="Glacier NP - Montana - [USA]"><img src="https://farm5.staticflickr.com/4325/35417375214_af24e63dee_h.jpg" width="1600" height="900" alt="Glacier NP - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 19 juillet
 
