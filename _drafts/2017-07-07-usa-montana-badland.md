@@ -20,13 +20,13 @@ Nous arrivons au **Badlands National Park** (Mauvaises terres) en fin de journé
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35491645410/in/datetaken/" title="Badlands - Dakota du Sud - [USA]"><img src="https://farm5.staticflickr.com/4238/35491645410_9936217475_k.jpg" width="2048" height="1152" alt="Badlands - Dakota du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-S'agissant d'un parc National, le Pass America the beautiful est accepté. Nous y rentrons au coucher de soleil et les premières images sont très prometteuses. N'ayant pas de réservation et le camping du parc affichant complet, nous le quittons pour y revenir le lendemain aux premières heures. Le lever de soleil sur les formations géologiques est également un très beau spectacle. Les strates allant du jaune clair au rouge foncé s'éclairent petit à petit. Dans ce décor steppique parfois presque désertique, une importante faune y réside. Une bonne journée est suffisante pour en faire le tour.  
+S'agissant d'un parc National, le Pass America the beautiful est accepté. Nous y rentrons au coucher de soleil et les premières images sont très prometteuses. N'ayant pas de réservation et le camping du parc affichant complet, nous le quittons pour y revenir le lendemain aux premières heures. Le lever de soleil sur les formations géologiques est également un très beau spectacle. Les strates allant du jaune clair au rouge foncé s'éclairent petit à petit. Dans ce décor steppique parfois presque désertique, une importante faune est présente. Une bonne journée est suffisante pour en faire le tour.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35040219114/in/datetaken/" title="Badlands - Dakota du Sud - [USA]"><img src="https://farm5.staticflickr.com/4327/35040219114_5a4505af8d_k.jpg" width="2048" height="1152" alt="Badlands - Dakota du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 Nous nous enfonçons dans le parc jusqu'au premier parking, lieu de départ de 4 Trails :   
 * Door Trail (1,2 Km)
-* Window Trail (O,40 Km)
+* Window Trail (0,40 Km)
 * Notch Trail (2,4)
 * Castle Trail (16 Km)
 
