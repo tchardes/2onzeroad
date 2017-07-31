@@ -27,7 +27,7 @@ S'agissant d'un parc National, le Pass America the beautiful est accepté. Nous 
 Nous nous enfonçons dans le parc jusqu'au premier parking, lieu de départ de 4 Trails :   
 * Door Trail (1,2 Km)
 * Window Trail (0,40 Km)
-* Notch Trail (2,4)
+* Notch Trail (2,4 Km)
 * Castle Trail (16 Km)
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35070214923/in/datetaken/" title="Badlands - Dakota du Sud - [USA]"><img src="https://farm5.staticflickr.com/4231/35070214923_9b33d71620_k.jpg" width="2048" height="1152" alt="Badlands - Dakota du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
