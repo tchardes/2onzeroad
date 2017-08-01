@@ -58,6 +58,8 @@ En fin d'après-midi, nous partons pour une longue route vers le middle ouest en
 
 On roule toute la journée, Corinne arrive à prendre le volant de Thor durant 50 miles sur l’autoroute. Pas de chance car il y a beaucoup de travaux sur son tronçon. Nous traversons durant plus de mille kilomètres, d'immenses champs cultivés et prairies et cela à perte de vue. De temps en temps, on voit quelques fermes, quelques troupeaux de vaches généralement noires, certainement de race Angus, mais peu, au vu de l'étendue des prairies. Nous avons également traversé d'importants "champs" d'éoliennes. On se dit que, dans cette zone agricole, on pourrait y mettre la France....
 
+XXXX Aire d'autoroute avec la grande statue femme sioux XXXX
+
 Nous ne trouvons pas de lieux pour se poser et filons jusqu’au parc des Badlands. Nous accédons au parc et faisons nos premières photos au coucher de soleil à quelques centaines de mètres après l’entrée. Nous allons jusqu’au camping du parc qui est complet. Nous ressortons du parc et tentons de bivouaquer au bord de la route, devant le panneau de l’entrée du parc. la nuit sera calme et personne ne viendra nous déranger.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35040367224/in/datetaken/" title="Chamberlain - Dakota du Sud - [USA]"><img src="https://farm5.staticflickr.com/4261/35040367224_f513820b59_h.jpg" width="1600" height="900" alt="Chamberlain - Dakota du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -127,7 +129,7 @@ La visite de Yellowstone n'était pas prévue pour ce premier voyage de 6 mois a
 
 Départ de Cody pour l'entrée Sud-Est du parc. Je me rends compte en route que je n'ai plus de réseau, donc plus de téléphone, c’est le jour de changement de mois de mon forfait et toute la journée je pense que Free a un souci et commence à psycoter. Il faudra attendre le soir que nous sortions du parc pour comprendre que ce dernier est couvert par un autre opérateur qui ne doit pas avoir de contrat de roaming avec Free. Dès l'entrée du parc, nous voyons, près de la route une biche avec son faon et un gros bison mâle bien vieux, ça commence bien.
 
-Comme nous voyageons au grès de nos envies, nous arrivons dans le parc sans réservation, en plein mois de juillet, donc autant vous dire que ce n'est pas la peine de chercher une place dans un camping ou un Lodge. Il faut s'y prendre au moins un an à l'avance pour réserver. Il est donc obligatoire de sortir du parc pour trouver une place pour poser Thor. Nous avons donc passé une nuit dans un camping à West Yellowstone où le charme de Corinne a été déterminant puisque tout était complet mais le responsable, haut en couleur, nous a quand même trouvé une petite place ... Une nuit à Gardiner au bord de la route avec une dizaine d'autres RV car tout était complet et nous avons quitté le parc le troisième jour en soirée et roulé en direction de Bozeman pour nous poser en passant par la Gallatin National Forest, une vallée le long de la rivière Gallatin très sauvage et réputée pour la pêche à la mouche.
+Comme nous voyageons au grès de nos envies, nous arrivons dans le parc sans réservation, en plein mois de juillet, donc autant vous dire que ce n'est pas la peine de chercher une place dans un camping ou un Lodge. Il faut s'y prendre au moins un an à l'avance pour réserver. Il est donc obligatoire de sortir du parc pour trouver une place pour poser Thor. Nous avons donc passé une nuit dans un camping à West Yellowstone où le charme de Corinne a été déterminant puisque tout était complet mais le responsable, haut en couleur, nous a quand même trouvé une petite place ... Une nuit à Gardiner au bord de la route avec une dizaine d'autres RV car tout était complet et nous avons quitté le parc le troisième jour en soirée et roulé en direction de Bozeman en passant par la Gallatin National Forest, une vallée le long de la rivière Gallatin très sauvage et réputée pour la pêche à la mouche.
 
 (voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-13-usa-wyoming-yellowstone %}">ici</a>)  
 
@@ -136,12 +138,12 @@ Comme nous voyageons au grès de nos envies, nous arrivons dans le parc sans ré
 
 ## 14 juillet
 
-Route de Bozeman à Polson. Corinne a conduit une centaine de Miles et commence à bien maitriser Thor. Nous sortons de la route pour visiter Missoula mais, rien de bien terrible dans cette bourgade. Arrivés à Polson en pleine réserve Indienne des Flat Heads, nous nous posons pour la nuit.
+Route de Bozeman à Polson. Corinne a conduit une centaine de Miles et commence à bien maitriser Thor. Nous sortons de la route pour visiter Missoula mais, rien de bien terrible dans cette bourgade. Arrivés à Polson en pleine réserve Indienne des Flat Heads (Têtes plates), nous nous posons pour la nuit. Nous faisons nos courses au Walmart et remarquons de nombreux "indiens", les first nation, et c'est vrai qu'ils ont la face assez plate, entre inuites et mongoles.
 
 ## 15 au 18 juillet
 
 Route vers le visitor center de Glacier National Park où nous allons passer 4 jours sur deux sites différents.
-Le troisième jour, nous partons en direction de Babbe afin de trouver une pharmacie pour Corinne. A l'épicerie, on nous indique que la première pharmacie et par la même occasion les médecins, se trouve à plus de 100 km à Cut Bank. Arrivés à la pharmacie, le praticien refuse de nous donner le médicament sans prescription médicale et nous donne l’adresse d’une clinique après avoir pris soin de leur téléphoner. A la clinique, on nous indique qu’il n’y a pas de place pour aujourd’hui. Nous lui expliquons tant bien que mal notre situation et elle nous demande de revenir à 14h00 où finalement un médecin reçoit Corinne et faxe directement à la pharmacie l’ordonnance. N’acceptant pas les CB étrangères, nous devons retirer de l’argent pour payer la clinique. Retour au camping par une autre route qui nous a permis de traverser la réserve Indienne des Black Feet.
+Le troisième jour, nous partons en direction de Babbe afin de trouver une pharmacie pour Corinne. A l'épicerie, on nous indique que la première pharmacie et par la même occasion les médecins, se trouve à plus de 100 km à Cut Bank. Arrivés à la pharmacie, le praticien refuse de nous donner le médicament sans prescription médicale et nous donne l’adresse d’une clinique après avoir pris soin de leur téléphoner. A la clinique, on nous indique qu’il n’y a pas de place pour aujourd’hui. Nous lui expliquons tant bien que mal notre situation et elle nous demande de revenir à 14h00 où finalement un médecin reçoit Corinne et faxe directement l’ordonnance à la pharmacie. N’acceptant pas les CB étrangères, nous devons retirer de l’argent pour payer la clinique, 110 $ la consultation..... Retour au camping par une autre route qui nous a permis de traverser la réserve Indienne des Black Feet (Pieds noirs). Là, on a pas pu vérifier... .
 
 (voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-19-usa-montana-glacier %}">ici</a>)  
 
@@ -149,5 +151,5 @@ Le troisième jour, nous partons en direction de Babbe afin de trouver une pharm
 
 ## 19 juillet
 
-Départ de Rising Sun pour la partie canadienne du Glacier National Park puis route jusqu'à Calgary dans la province de l'Alberta.
+Départ de Rising Sun pour la partie canadienne du Glacier National Park puis route jusqu'à Calgary dans la province de l'Alberta. Mais c'est une autre histoire, un autre chapitre.
 
