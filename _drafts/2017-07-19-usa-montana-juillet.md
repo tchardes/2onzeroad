@@ -71,23 +71,23 @@ Je bifurque sur Medecine Root Trail puis rebrousse à mi parcours car le décor 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35838989666/in/datetaken/" title="Badlands - Dakota du Sud - [USA]"><img src="https://farm5.staticflickr.com/4233/35838989666_b2737c6a01_h.jpg" width="1600" height="900" alt="Badlands - Dakota du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A la sortie du Parc nous nous dirigeons vers Rapid City où nous faisons le plein d’essence et de nourriture. En route vers le Mt Rushmore, nous nous arrêtons dans une camping "Happy Holydays" ou nous nous posons pour la nuit. Nous faisons les pleins, les vides, les lessives et le traitement des photos et du site. On voit que c’est l’été et que les vacances scolaires ont débutées, il y a énormément de monde sur les routes, RV, motos... .
+A la sortie du Parc nous nous dirigeons vers Rapid City où nous faisons le plein d’essence et de nourriture. En route vers le Mt Rushmore, nous nous arrêtons dans un camping, "Happy Holydays", ou nous nous posons pour la nuit. Nous faisons les pleins, les vides, les lessives et le traitement des photos et du site. On voit que c’est l’été et que les vacances scolaires ont débutées, il y a énormément de monde sur les routes, RV, motos... .
 
 ## 08 juillet
 
-Départ à 11h00 du camping direction les Black Hills et en premier lieu, le Mont Rushmore. L’entrée coûte 10$ par VL et pour 2 pers. On arrive sur une très belle esplanade qui offre une vue imprenable sur les 4 présidents ( ). Les travaux ont débuté en 1927 pour finir en 1941 et ont demandé  plus de 400 ouvriers. Un petit trail permet de longer la base de la montagne et offre différentes vues.  
+Départ à 11h00 du camping direction les Black Hills et en premier lieu, le Mont Rushmore. L’entrée coûte 10$ par VL et pour 2 pers. On arrive sur une très belle esplanade qui offre une vue imprenable sur les 4 présidents (xxxxxxxxxxxxxxxx ). Les travaux ont débuté en 1927 pour finir en 1941 et ont mobilisé plus de 400 ouvriers. Un petit trail permet de longer la base de la montagne et offre différentes vues.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35442801174/in/datetaken/" title="Mt Rushmore - Montana - [USA]"><img src="https://farm5.staticflickr.com/4299/35442801174_580e72717f_k.jpg" width="2048" height="1152" alt="Mt Rushmore - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36275095025/in/datetaken/" title="Mt Rushmore - Montana - [USA]"><img src="https://farm5.staticflickr.com/4297/36275095025_bf9a1d3282_k.jpg" width="2048" height="1152" alt="Mt Rushmore - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>     
     
-Nous faisons quelques kilomètres et arrivons sur le site de Crazy Horse Memorial. Situé dans les Black Hills National Forest le décors change radicalement après plus de 1000 Km de champs et de prairies. Le massif forestier est magnifique. Le site de Crazy horze coûte 11$/Pers. Le chantier commencé an 1948 et il est loin d’être terminé. Ce site est la réponse indienne au Mont Rushmore. Ils souhaitent ainsi montrer qu'il y a eu également de grands hommes chez les indiens et notamment le grand chef Sioux "Crazy Horse" qui a battu le général Custer à Litlle BigHorn. 
+Nous faisons quelques kilomètres et arrivons sur le site de Crazy Horse Memorial. Situé dans les Black Hills National Forest. Le décors change radicalement après plus de 1000 Km de champs et de prairies. Le massif forestier est magnifique. Le site de Crazy horze coûte 11$/Pers. Le chantier commencé an 1948 et il est loin d’être terminé. Ce site est la réponse indienne au Mont Rushmore. Ils souhaitent ainsi montrer qu'il y a eu également de grands hommes chez les indiens et notamment le grand chef Sioux "Crazy Horse" qui a battu le général Custer à Litlle BigHorn. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35442689474/in/datetaken/" title="Crazy Horse - Montana - [USA]"><img src="https://farm5.staticflickr.com/4326/35442689474_a9165ea7a1_h.jpg" width="1600" height="900" alt="Crazy Horse - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35442772164/in/datetaken/" title="Crazy Horse - Montana - [USA]"><img src="https://farm5.staticflickr.com/4311/35442772164_cec6fea0c7_h.jpg" width="1600" height="900" alt="Crazy Horse - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-Beau musée. Nous quittons les Sioux et traversons la ville de Cluster toujours dans les Black Hills et rentrons dans le Wyoming. Changement de décors, un relief vallonnée, des prairies, des fermes des bois et une terre très rouge. Nous arrivons à Devils Tower et faisons le Trail qui fait le tour de la base de la montagne et direction le campground du Parc.
+Beau musée. Nous quittons les Sioux et traversons la ville de Cluster toujours dans les Black Hills et rentrons dans le Wyoming. Changement de décors, un relief vallonnée, des prairies, des fermes des bois et une terre très rouge. Nous arrivons à Devils Tower. toutes les personnes qui ont vu "Rencontre du 3éme type" de Spielberg connaissent cette montagne si particulière. Je fais le trail qui fait le tour de la base de la montagne. Je rencontre une française avec son fils qui fixent les parois, son mari et sa fille étant en train d'escalader une des faces du site. Le soir nous nous posons le campground du Parc, avec une vue imprenable sur la montagne.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36234075696/in/datetaken/" title="Custer - Montana - [USA]"><img src="https://farm5.staticflickr.com/4292/36234075696_0545dd6def_h.jpg" width="1600" height="900" alt="Custer - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -95,7 +95,7 @@ Beau musée. Nous quittons les Sioux et traversons la ville de Cluster toujours 
 
 ## 09 Juillet
 
-Ce matin dernier tour à la Devils Tower puis départ vers Cody, Corinne prend un peu le volant de Thor. Malgré le fait que nous soyons à plus de 1000 mètres d’altitude il fait très chaud. On longe d’immenses prairies avec au final peu de bétail. Nous traversons Bighorn National Forest et prenons un peu de hauteur, à 2700 mètres la température et fraiche et fait du bien. Nous traversons un immense plateau avant de redescendre le long d’un canyon. Le temps n’est pas terrible et nous rencontrons la pluie avant d’arriver à Cody.  
+Ce matin dernier tour à la Devils Tower puis départ vers Cody, Corinne prend un peu le volant de Thor. Malgré le fait que nous soyons à plus de 1000 mètres d’altitude il fait très chaud. On longe d’immenses prairies avec au final peu de bétail. Nous traversons Bighorn National Forest et prenons un peu de hauteur, à 2700 mètres la température et fraiche et fait du bien. Nous traversons un immense plateau avant de redescendre le long d’un canyon. Le temps n’est pas terrible et nous rencontrons la pluie avant d’arriver à Cody ou nous stationnons pour la nuit près d'un Walmart.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35881115180/in/datetaken/" title="Devils Tower - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4325/35881115180_b023e6ea15_h.jpg" width="1600" height="1067" alt="Devils Tower - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -104,13 +104,13 @@ Ce matin dernier tour à la Devils Tower puis départ vers Cody, Corinne prend u
 
 ## 10 juillet
 
-La matin on se lève de bonne heure pour trouver un garage, au final, ce Walmart prend les RV jusqu’à 26’. On change également le filtre à air. Dans la matinée nous faisons la visite de la ville de Cody qui est une ville sorite d'un western avec sa rue principale bordée des boutiques aux devantures typique. Nous mangeons dans l’ancien Hôtel de William Frederick Cody dit Buffalo Bill. L’après midi repos, achat d’un DD externe pour doubler les sauvegardes et le soirée Rodéo. 
+La matin on se lève de bonne heure pour trouver un garage qui puisse nous faire la vidange, au final, le Walmart où nous sommes prend les RV jusqu’à 26’ de long. Dans la matinée nous faisons la visite de la ville de Cody qui est une ville tout droit sortie d'un western avec sa rue principale bordée des boutiques aux devantures typique. Nous déjeunons "The Irma", l’ancien Hôtel de William Frederick Cody dit Buffalo Bill. L’après midi repos, achat d’un DD externe pour doubler les sauvegardes et le soirée Rodéo. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35868143892/in/datetaken/" title="Cody - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4311/35868143892_3169cf75d4_h.jpg" width="1600" height="900" alt="Cody - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36039375065/in/datetaken/" title="Cody - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4320/36039375065_e40b21303a_h.jpg" width="1600" height="900" alt="Cody - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous nous rendons à la sortie de la ville dans un "Rodéodrome" où nous assistons à un super spectacle. En préambule, une parade de fille à cheval au couleur des USA puis une prière et l'hymne national. Les festivités peuvent commencer. Tous d'abord, les hommes puis des enfants de 12 ans pour un rodéo à cheval puis rattrapage de veaux par des hommes puis par des femmes mais sans le ficelage final, ensuite rattrapage de veaux par équipe, à deux lassos, épreuve de vitesse autour de 4 Bidons femmes et enfin rodéos sur taureaux. A l’entracte des clowns font descendre les enfants sur la piste pour des jeux avec de jeunes veaux. L'ambiance est vraiment très bonne, très ludique, on a passé une super soirée et on s'est bien amusé. Nous rencontrons un couple de Strasbourg avec qui nous avons discuté un long moment.  
+Cody se disant la capitale mondiale du rodéo, nous nous rendons à la sortie de la ville au "Stampede Park" sorte de "Rodéodrome" où nous assistons à un super spectacle. En préambule, une parade de filles à cheval aux couleurs des USA suivi d'une prière et l'hymne national. Les festivités peuvent commencer. Tous d'abord, les hommes puis des enfants de 12 ans pour un rodéo à cheval puis rattrapage de veaux par des hommes au lasso puis par des femmes mais sans le ficelage final, ensuite rattrapage de veaux par équipe, à deux lassos, épreuve de vitesse à cheval autour de 4 Bidons réservé aux femmes et enfin rodéos sur taureaux. A l’entracte des clowns font descendre les enfants sur la piste pour des jeux avec de jeunes veaux. L'ambiance est vraiment très bonne, très familiale et ludique, on a passé une super soirée et on s'est bien amusé. Nous rencontrons un couple de Strasbourg avec qui nous avons discuté un long moment. lui aussi avec son samsung rencontre des problèmes avec le forfait Free.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35905307531/in/datetaken/" title="Cody - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4308/35905307531_caa9697060_h.jpg" width="1600" height="1067" alt="Cody - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -123,42 +123,29 @@ Nous nous rendons à la sortie de la ville dans un "Rodéodrome" où nous assist
 
 ## 11 au 13 juillet
 
-La visite de Yellowstone n'était pas prévue pour ce premier voyage de 6 mois aux USA, mais ayant un peu d'avance sur notre programme et ayant décidé ne pas faire un détour pour visiter le champ de bataille de Little BigHorn nous le rajoutons à notre roadtrip
+La visite de Yellowstone n'était pas prévue pour ce premier voyage de 6 mois aux USA, mais ayant un peu d'avance sur notre programme et ayant décidé ne pas faire un détour pour visiter le champ de bataille de Little BigHorn nous le rajoutons à notre roadtrip.
 
-Ce matin plus de réseau, plus de téléphone, c’est le jour de changement de mois de mon forfait et toute la journée je pense que Free à un soucis. Départ vers 6h30 pour Yellowstone, en route on a vu biche et faons, bison, finalement le parc ne ferme pas alors qu’on pensait qu’il ouvrai à 8 heures.
-Nombreux trails et photos, on a vu des wapitis, Old Faithfull, super journée. Le soir on quitte le parc et on trouve un camping à la première ville West Yellowstone. Journée inoubliable.
+Départ de Cody pour l'entrée Sud-Est du parc. Je me rends compte en route que je n'ai plus de réseau, donc plus de téléphone, c’est le jour de changement de mois de mon forfait et toute la journée je pense que Free à un soucis et commence à psycoter. Il faudra attendre le soir que nous sortions du parc pour conprendre que ce dernier est couvert par un autre opérateur qui ne doit pas avoir de contrat de roaming avec Free. Dès l'entrée du parc, nous voyons en route une biche avec son faons et un gros vieux bison mâle, ca commence bien.
 
-Départ de West Yellowstone en direction du Sud pour faire « Biscuit Basin », Grand prismatic Spring, Lower Geyser Basin et Norris Geyser basin avant de remonter vers le Nord. On s’arrête à Gibbon falls. Sur Gardiner tous les camping sont Full on se pose avec d’autres RV à l’entrée de la ville au bord de la route. Dans l’après midi on rencontre une famille de Francais et de hollandais qui parlaient bien français, on a discuté voyages. 
+Comme nous voyageons au grès de nos envie, nous arrivons dans le parc sans réservation, en plein mois de juillet, donc autant vous dire que ce n'est pas la peine de chercher une place dans un camping ou un Lodge. Il faut s'y prendre au moins un an à l'avance pour réserver. Il est donc obligatoire de sortir du parc pour trouver une place pour poser Thor. Nous avons donc passé une nuit dans un camping à West Yellowstone où le charme de Corinne a été déterminant puisque tout était complet mais le responsable, haut en couleur, nous a quand même trouvé une petite place ... Une nuit à Gardiner au bord de la route avec une dizaine d'autres RV car tout était complet et nous avons quitté le parc le troisième jour en soirée et rouler en direction de Bozeman pour nous poser en passant par la Gallatin National Forest, une vallée le long de la rivière Gallatin très sauvage et réputée pour la pêche à la mouche.
 
-
-Comme nous voyageons au grès de nos envie, nous arrivons dans le parc sans réservation, en plein mois de juillet, donc autant vous dire que ce n'est pas la peine de chercher une place dans un camping ou un Lodge. Il faut s'y prendre au moins un an à l'avance. Il est donc obligatoire de sortir du parc pour trouver une place pour poser Thor. Nous avons donc passé une nuit dans un camping à West Yellowstone où le charme de Corinne a été déterminant puisque tout était complet mais le responsable, haut en couleur, nous a quand même trouvé une petite place ... Une nuit à Gardiner au bord de la route avec une dizaine d'autres RV car tout était complet et nous avons quitté le parc le troisième jour en soirée et rouler en direction de Bozeman pour nous poser.
+(voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-13-usa-wyoming-yellowstone %}">ici</a>)  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36113197811/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4318/36113197811_7e06a36bbf_h.jpg" width="1600" height="900" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-départ de Gardiner pour rentre sur le Parc en direction de mammoth Spring puis changement de coté, nous sommes partis vers l’Est jusqu’à Mud Volcano puis demi tour pour rejoindre West Yellowstone en direction de Bozeman en passant par la Gallatin National Forest, une vallée le long de la rivière Gallatin très sauvage et réputée pour la pêche à la mouche.
 
 ## 14 juillet
 
-Route jusqu’à Polson. Corinne à conduit une 100 de Miles. Somme sortis à Missoula pour voir la ville RAS.
+Route de Bozeman à Polson. Corinne à conduit une centaine de Miles et commence à bien maitriser Thor. Nous sortons de la route pour visiter Missoula mais au final rien de bien terrible dans cette bourgade. Arrivé à Polson en pleine réserve Indienne des Flat Heads nous nous posons pour la nuit.
 
 ## 15 au 18 juillet
 
-Route vers le visitor center qui longe le lac Flat Head, puis installation au camping du Parc au bord du Lake Mc Donald.. A 13 heures, je prends le shuttle pour monter à Avalanche point et faire deux trails, Trail of the Cedar (0,7 Miles) et Avalanche Lake (4,6 Miles + 500 Ft) puis retour au camping. 
+Route vers le visitor center de Glacier National Park où nous allons passer 4 jours.
 
-La  Going-to-the-sun road qui va de West glacier à Saint Mary est interdite au RV de plus de 21’ de long ae de 12’ de haute entre Avalanche Creek et the Rising Sun.
-
-Levé 5h45 et départ 6H30 pour prendre le shuttle jusqu’à Logan Pass. Une heure de route direct le visitor center. Départ pour la randonnée Hidden Lake (le plus populaire) (5,2 miles AR +780 Ft). Un tiers du Trail est fermé en raison des ours trop nombreux, puis 500 m après le départ le trail se fait dans la neige, je décide de faire demi tour car pas les bonne chaussures. Photos de marmottes trop rigolotes, une me monte sur la cuisse. Finalement départ pour la Hightline Trail (12,7 Miles AR + 690Ft - 6 heures). très belle randonnée où il ne faut pas avoir le vertige car à flan de montagne. Arrivée à un chalet où j’ai déjeuné puis descente vers la route pour prendre le shuttle retour. 23 Km pour une dénivelé de 30 étages. Magnifiques panoramas, super trail. 
-
-Départ de bonne heure du camping après avoir fait le plein d’eau et le dump. Arrivé à l’entrée du parc côté Saint Mary on nous annonce que le camping et full et qu’il faut faire 6 miles de plus afin d’arriver au campground Rising Sun plus primitif. Nous somme accueilli par une Ranger qui nous donne un emplacement. Nous partons an direction de Babbe afin de trouver une pharmacie pour Corinne. La première pharmacie se trouve à plus de 100 km à Cut Bank. Arrivé à la pharmacie il refuse de nous donner le médoc sans prescription et nous donne l’adresse d’une clinique après avoir téléphoné. A la clinique on nous dit qu’il n’y a pas de place pour aujourd’hui puis en expliquant notre cas, elle nous demande de revenir à 14h00 où finalement un médecin recoit Corinne et faxe directement à la pharmacie l’ordonnance. N’acceptant pas les CB étrangère nous devons retire de l’argent pour payer le docteur. Retour au camping, Corinne est rassurée.
-
-Ce matin départ vers 6h00 pour Many Glacier distant de 16 Km.
-Arrivée au parking petit déjeuné face aux montagnes puis départ pour le Grinnell Glacier Viewpoint (12,2 Miles + 1600 Ft - 6 heures). Magnifique trail qui longe une vallée et quatre lacs « Swiftcurrent Lake », «Lake Joséphine», «Grinnell Lake», et «Upper Grinnel lake» pour arriver au niveau de Grinnell Glacier.
-De retour une bonne douche puis Dump et remplissage de l’eau au niveau du visitor center et retour à Rising Sun.
-
-Au départ nous étions venus pour faire le Iceberg Lake mais tous les trails de ce coins sont fermés en raison d’une trop grande présence d’Ours. Finalement nous n’en aurons vu aucune mais ils nous auront bien contrariés.
+(voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-19-usa-montana-glacier %}">ici</a>)  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35417375214/in/datetaken/" title="Glacier NP - Montana - [USA]"><img src="https://farm5.staticflickr.com/4325/35417375214_af24e63dee_h.jpg" width="1600" height="900" alt="Glacier NP - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 19 juillet
 
-Départ de rising Sun et route vers la frontière.
+Départ de rising Sun pour la partie canadienne du Glacier National Park puis route jusqu'à Calgary dans la province de l'Albert.
