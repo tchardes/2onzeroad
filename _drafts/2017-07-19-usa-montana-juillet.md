@@ -77,7 +77,7 @@ A la sortie du Parc, nous nous dirigeons vers Rapid City où nous faisons le ple
 
 ## 08 juillet
 
-Départ à 11h00 du camping direction les Black Hills et en premier lieu, le Mont Rushmore. L’entrée coûte 10$ par VL et pour 2 pers. On arrive sur une très belle esplanade qui offre une vue imprenable sur les 4 présidents (xxxxxxxxxxxxxxxx ). Les travaux ont débuté en 1927 pour finir en 1941 et ont mobilisé plus de 400 ouvriers. Un petit trail permet de longer la base de la montagne et offre différentes vues.  
+Départ à 11h00 du camping direction les Black Hills et en premier lieu, le Mont Rushmore. L’entrée coûte 10$ par VL et pour 2 pers. On arrive sur une très belle esplanade qui offre une vue imprenable sur les 4 présidents (George Washington (1732-1799), Thomas Jefferson (1743-1826), Theodore Roosevelt (1858-1919) et d'Abraham Lincoln (1809-1865)). Les travaux ont débuté en 1927 pour finir en 1941 et ont mobilisé plus de 400 ouvriers. Un petit trail permet de longer la base de la montagne et offre différentes vues.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35442801174/in/datetaken/" title="Mt Rushmore - Montana - [USA]"><img src="https://farm5.staticflickr.com/4299/35442801174_580e72717f_k.jpg" width="2048" height="1152" alt="Mt Rushmore - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
