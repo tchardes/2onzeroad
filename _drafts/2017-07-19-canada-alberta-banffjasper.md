@@ -16,3 +16,4 @@ category: "blog"
 location: "48.739430, -113.748812"
 ---
 
+Nous quittons Calgary pour les montagnes rocheuses canadienne et plus précisément le Parc National de Banff distant d'une centaine de kilomètres. Il s'agit du plus vieux parc de Canada et le plus visité également.
