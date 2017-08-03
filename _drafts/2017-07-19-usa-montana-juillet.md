@@ -34,9 +34,12 @@ A l'issue de la visite, nous avons fait un tour de la ville qui ne semble toujou
 
 ## 01 au 03 Juillet  
 
-Nous visitons la magnifique ville de Chicago. Un vrai coup de coeur, tant cette ville est belle et très agréable avec son architecture unique, ses grands parcs et cette vue imprenable sur le lac Michigan. (voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-03-usa-Illinois-chicago %}">ici</a>)    
+Nous visitons la magnifique ville de Chicago. Un vrai coup de coeur, tant cette ville est belle et très agréable avec son architecture unique, ses grands parcs et cette vue imprenable sur le lac Michigan. (voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-03-usa-Illinois-chicago %}">ici</a>)   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35648393320/in/datetaken/" title="Chicago - Illinois - [USA]"><img src="https://farm5.staticflickr.com/4312/35648393320_842343d849_h.jpg" width="1600" height="1067" alt="Chicago - Illinois - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Le 2 juillet, on ouvrant Facebook, je vois que des amis, Bruno et Marie sont actuellement bloqués à la gare de Chicago. Ces dernier habitent Bora-Bora et on décidé de passer leurs vacances à New York et Montréal. Ils prennent l'avion jusqu'à Los Angeles puis le train jusqu'à New-York. Arrivés avec 3 heures de retard en gare de Chicago, ils loupent leur correspondance et se retrouvent coincés 24 heures dans l'attente d'un nouveau train. Nous les avons rejoint à la gare où nous avons passés deux heures bien agréables avant qu'ils repartent. Quelles étaient les probabilités pour que l'on se rencontre dans ces circonstances ?? 
+
 
 ## 04 et 05 Juillet  
 
