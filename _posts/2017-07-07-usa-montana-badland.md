@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Badlands NP"
 preview:    "Nous arrivons au Badlands National Park (Mauvaises terres) en fin de journée par l'entrée Nord-Est. Situé au Sud-Ouest du Dakota du Sud, le parc est... "
-parent-id:  2017-06-19-usa-montana-juillet
+parent-id:  2017-07-19-usa-montana-juillet
 
 date:       2017-07-07 12:00:00
 author:     "Thierry"

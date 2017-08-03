@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Chicago"
 preview:    "Nous arrivons à Chicago par le sud en longeant l'immense lac Michigan. Après avoir stationné Thor nous cherchons notre route pour... "
-parent-id:  2017-06-19-usa-montana-juillet
+parent-id:  2017-07-19-usa-montana-juillet
 
 date:       2017-07-03 12:00:00
 author:     "Thierry"

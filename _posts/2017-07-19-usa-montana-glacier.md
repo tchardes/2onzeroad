@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Glacier NP"
 preview:    "Nous longeons le Lac Flathead et arrivons à l'entrée du Glacier national Park du côté Ouest par le village de West Glacier et commençons par... "
-parent-id:  2017-06-19-usa-montana-juillet
+parent-id:  2017-07-19-usa-montana-juillet
 
 date:       2017-07-19 12:00:00
 author:     "Thierry"

@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Yellowstone NP"
 preview:    "Crée en 1872, Yellowstone est le plus ancien parc national au monde et l'un des plus visité des USA. Il est inscrit... "
-parent-id:  2017-06-19-usa-montana-juillet
+parent-id:  2017-07-19-usa-montana-juillet
 
 date:       2017-07-13 12:00:00
 author:     "Thierry"
