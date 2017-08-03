@@ -72,7 +72,7 @@ Nous ne trouvons pas de lieux pour se poser et filons jusqu’au parc des Badlan
 
 A 6h00, on rentre à l’intérieur du parc et on assiste au lever de soleil sur les Badlands, très beau moment… on déjeune et partons sur le point de départ de plusieurs trails. Sur le Castle trail, je croise des Bighorns Sheep (Mouflons) et sors du sentier pour les photographier de plus près. Je reprends le chemin et quelques kilomètres plus loin, j'entends, devant moi, le bruit caractéristique d'un serpent à sonnette. Merci à la dernière séance et aux westerns car en une fraction de seconde, j'ai identifié ce son et mon coeur est monté dans les tours. Il était tranquillement lové sur le sentier et j'ai du le contourner pour poursuivre ma route. Il y a bien des panneaux un peu partout signalant leur éventuelle présence mais je pensais que c'était plus pour inciter les visiteurs à rester sur les chemins. Rétrospectivement, je me suis dit que d'aller photographier les BigHorns aurait pu me coûter cher.  
 
-Je bifurque sur Medecine Root Trail puis rebrousse à mi parcours car le paysage n'améne rien de plus. En route, je croise une jeune fille à contre sens, on échange deux trois mots. A l’arrivée, je me mets sur la route qui traverse le parc pour faire du stop afin que l’on me ramène au point de départ. Je ne sais pas pourquoi, mon pouce magique n‘a pas fonctionné et au bout de 40 minutes où l’on m'a carrément ignoré, j’allais presque refaire le trail dans l’autre sens quand la jeune fille croisée auparavant arrive au parking et accepte finalement de m’embarquer et m'indique que le Stop aux USA n'est pas pas pratique courante. Ce qui m'etonne peu, les étasuniens étant très individualiste.  
+Je bifurque sur Medecine Root Trail puis rebrousse à mi parcours car le paysage n'amène rien de plus. En route, je croise une jeune fille à contre sens, on échange deux trois mots. A l’arrivée, je me mets sur la route qui traverse le parc pour faire du stop afin que l’on me ramène au point de départ. Je ne sais pas pourquoi, mon pouce magique n‘a pas fonctionné et au bout de 40 minutes où l’on m'a carrément ignoré, j’allais presque refaire le trail dans l’autre sens quand la jeune fille croisée auparavant arrive au parking et accepte finalement de m’embarquer et m'indique que le Stop aux USA n'est pas pas pratique courante. Ce qui m'étonne peu, les étasuniens étant très individualiste.  
 (voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-07-usa-montana-badland %}">ici</a>)    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35838989666/in/datetaken/" title="Badlands - Dakota du Sud - [USA]"><img src="https://farm5.staticflickr.com/4233/35838989666_b2737c6a01_h.jpg" width="1600" height="900" alt="Badlands - Dakota du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
@@ -131,7 +131,7 @@ Cody se disant la capitale mondiale du rodéo, nous nous rendons à la sortie de
 
 La visite de Yellowstone n'était pas prévue pour ce premier voyage de 6 mois aux USA, mais ayant un peu d'avance sur notre programme et ayant décidé ne pas faire un détour pour visiter le champ de bataille de Little BigHorn, nous le rajoutons à notre roadtrip.  
 
-Départ de Cody pour l'entrée Sud-Est du parc. Je me rends compte en route que je n'ai plus de réseau, donc plus de téléphone, c’est le jour de changement de mois de mon forfait et toute la journée je pense que Free a un souci et commence à psycoter. Il faudra attendre le soir que nous sortions du parc pour comprendre que ce dernier est couvert par un autre opérateur qui ne doit pas avoir de contrat de roaming avec Free. Dès l'entrée du parc, nous voyons, près de la route une biche avec son faon et un gros bison mâle bien vieux, ça commence bien.  
+Départ de Cody pour l'entrée Sud-Est du parc. Je me rends compte en route que je n'ai plus de réseau, donc plus de téléphone, c’est le jour de changement de mois de mon forfait et toute la journée je pense que Free a un souci et commence à psychoter. Il faudra attendre le soir que nous sortions du parc pour comprendre que ce dernier est couvert par un autre opérateur qui ne doit pas avoir de contrat de roaming avec Free. Dès l'entrée du parc, nous voyons, près de la route une biche avec son faon et un gros bison mâle bien vieux, ça commence bien.  
 
 Comme nous voyageons au grès de nos envies, nous arrivons dans le parc sans réservation, en plein mois de juillet, donc autant vous dire que ce n'est pas la peine de chercher une place dans un camping ou un Lodge. Il faut s'y prendre au moins un an à l'avance pour réserver. Il est donc obligatoire de sortir du parc pour trouver une place pour poser Thor. Nous avons donc passé une nuit dans un camping à West Yellowstone où le charme de Corinne a été déterminant puisque tout était complet mais le responsable, haut en couleur, nous a quand même trouvé une petite place…. Une nuit à Gardiner au bord de la route avec une dizaine d'autres RV car tout était complet et nous avons quitté le parc le troisième jour en soirée et roulé en direction de Bozeman en passant par la Gallatin National Forest, une vallée le long de la rivière Gallatin très sauvage et réputée pour la pêche à la mouche.  
 
@@ -142,7 +142,7 @@ Comme nous voyageons au grès de nos envies, nous arrivons dans le parc sans ré
 
 ## 14 juillet  
 
-Route de Bozeman à Polson. Corinne a conduit une centaine de Miles et commence à bien maitriser Thor. Nous sortons de la route pour visiter Missoula mais, rien de bien terrible dans cette bourgade. Arrivés à Polson en pleine réserve Indienne des Flat Heads (Têtes plates), nous nous posons pour la nuit. Nous faisons nos courses au Walmart et remarquons de nombreux "indiens", les first nation, et c'est vrai qu'ils ont la face assez plate, entre inuites et mongoles.  
+Route de Bozeman à Polson. Corinne a conduit une centaine de Miles et commence à bien maitriser Thor. Nous sortons de la route pour visiter Missoula mais, rien de bien terrible dans cette bourgade. Arrivés à Polson en pleine réserve Indienne des Flat Heads (Têtes plates), nous nous posons pour la nuit. Nous faisons nos courses au Walmart et remarquons de nombreux "indiens", les first nation, et c'est vrai qu'ils ont la face assez plate, entre Inuits et Mongoles.  
 
 ## 15 au 18 juillet  
 
@@ -156,4 +156,7 @@ Le troisième jour, nous partons en direction de Babbe afin de trouver une pharm
 ## 19 juillet  
 
 Départ de Rising Sun pour la partie canadienne du Glacier National Park puis route jusqu'à Calgary dans la province de l'Alberta. Mais c'est une autre histoire, un autre chapitre.  
+
+
+
 
