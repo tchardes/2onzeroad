@@ -61,7 +61,7 @@ En fin d'après-midi, nous partons pour une longue route vers le middle ouest en
 
 On roule toute la journée, Corinne arrive à prendre le volant de Thor durant 50 miles sur l’autoroute. Pas de chance car il y a beaucoup de travaux sur son tronçon. Nous traversons durant plus de mille kilomètres, d'immenses champs cultivés et prairies et cela à perte de vue. De temps en temps, on voit quelques fermes, quelques troupeaux de vaches généralement noires, certainement de race Angus, mais peu, au vu de l'étendue des prairies. Nous avons également traversé d'importants "champs" d'éoliennes. On se dit que, dans cette zone agricole, on pourrait y mettre la France….  
 
-On fait une pose sur une aire de repos à Chamberlain dans le dakota du sud ou trone une immense statue argentée "Dignité" de 16 mètres de haut, représentant une femme Sioux. Elle surplombant la rivière Missouri et proclame que les cultures indigènes du Dakota du Sud sont vivantes, dans une dignité.   
+On fait une pose sur une aire de repos à Chamberlain dans le dakota du sud ou trone une immense statue argentée "Dignity" de 16 mètres de haut, représentant une femme Sioux. Elle surplombant la rivière Missouri et proclame que les cultures indigènes du Dakota du Sud sont vivantes, dans une dignité.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35040367224/in/datetaken/" title="Chamberlain - Dakota du Sud - [USA]"><img src="https://farm5.staticflickr.com/4261/35040367224_f513820b59_h.jpg" width="1600" height="900" alt="Chamberlain - Dakota du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
