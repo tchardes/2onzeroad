@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Banff & Jasper NP"
-preview:    "... "
+preview:    "Nous quittons Calgary pour les montagnes rocheuses canadienne et plus précisément le Parc National de Banff distant d'une centaine de kilomètres. Il s'agit du... "
 parent-id:  2017-08-10-canada-yukon-aout
 
 date:       2017-07-21 12:00:00
@@ -13,7 +13,7 @@ flickr-tag:
 country: Canada - Alberta
 city: Banff & Jasper NP
 category: "blog"
-location: "48.739430, -113.748812"
+location: "52.523102, -117.601297"
 ---
 
 Nous quittons Calgary pour les montagnes rocheuses canadienne et plus précisément le Parc National de Banff distant d'une centaine de kilomètres. Il s'agit du plus vieux parc de Canada et le plus visité également.
