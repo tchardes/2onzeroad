@@ -4,7 +4,7 @@ title:      "Banff & Jasper NP"
 preview:    "... "
 parent-id:  2017-08-10-canada-yukon-aout
 
-date:       2017-07-19 12:00:00
+date:       2017-07-21 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-glacier.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-glacier.jpg
@@ -19,11 +19,10 @@ location: "48.739430, -113.748812"
 Nous quittons Calgary pour les montagnes rocheuses canadienne et plus précisément le Parc National de Banff distant d'une centaine de kilomètres. Il s'agit du plus vieux parc de Canada et le plus visité également.
 
 
-Comme d'habitude nous partons un peu la fleur au fusil sans aucune réservation.
+Comme d'habitude nous partons un peu la fleur au fusil sans aucune réservation. Nous faisons un arrêt au visitor center pour récupérer de la dicumentation et la Park Ranger nous confirme que, veille de week-end, nous allons galérer pour trouver des places de camping dans le parc. Elle nous donne une sit web très bien fait qui permet de réserver en ligne, jusqu'à son emplacement dans tous les campings des parcs nationaux du Canada (https://reservation.pc.gc.ca). Au final, nous trouvons des places pour deux nuits à Lac Louise (43,3 $CA la nuit, avec électricité) et pour une nuit à Jasper (38,4 $CA la nuit), rien sur Banff. On s’en tire quand même bien. 
 
 
-
-Route de Calgary à Banff; Arrêt au visitor center ou nous avons galéré pour trouver des places de camping, nous sommes veille de WE. Au final deux nuits à Lac louise et une nuit à Jasper, on s’en tire bien. L’après-midi trail  Canyon Sundance avec Corinne le long d’une rivière puis sur la route arrêt pour le trail Canyon Johnston, passerelle dans le canyon qui mene à deux fall puis arrivée au camping avec de l’éléctricité.
+Une partie des trails de Bannf est fermée en raison d'un incendie de forêt, c'est malheureusement assez fréquent dans la région. Le temps est gris  et on décide de ne pas trop monter en altitude. L’après-midi nous allons visiter lestrail  Canyon Sundance avec Corinne le long d’une rivière puis sur la route arrêt pour le trail Canyon Johnston, passerelle dans le canyon qui mene à deux fall puis arrivée au camping avec de l’éléctricité.
 
 
 On se lève A 06h45 et on part direct au lac Moraine afin de pouvoir se garer, on fait bien car il y a déjà la queue sur la route et nous prenons l’avant dernière place réservée aux RV. Le temps et couvert. On déjeune tranquille et je pars pour le trail « Sentier de la vallée Larch long de 9 Km +520 mètres où on est sencé avoir une belle vue sur le lac. Finallement je ne vois pas de super point de vue et continu. Arrivé presque au col de « Sentinel Pass à 2600 mètres je trouve que le chemin est étroit et que je n’ai croisé personne en redescendant. Finalement je demande à un couple et j’apprends que je vais vers Lac Louise, bien loin de ma osition de départ, je fais donc demi tour. Au final + de 12 Km sans avoir une vraie vue sur le Lac en Hauteur. Après le repas, on part vers le Lac Louise mais tous les parking sont bondés. On rentre au camping et je profite d’être branché à l’éléctricité pour traiter les photos. 
