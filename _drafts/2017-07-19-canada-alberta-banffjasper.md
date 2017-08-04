@@ -13,7 +13,7 @@ flickr-tag:
 country: Canada - Alberta
 city: Banff & Jasper NP
 category: "blog"
-location: "52.523102, -117.601297"
+location: "52.078308, -116.926403"
 ---
 
 Nous quittons Calgary pour les montagnes rocheuses canadienne et plus précisément le Parc National de Banff distant d'une centaine de kilomètres. Il s'agit du plus vieux parc de Canada et le plus visité également.
