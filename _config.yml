@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "65.052210, -146.052823"
-  name: "Chena Hot Springs, Alaska, USA"
-  date: "04 août 2017"
+  coordinates: "66.556007, -150.810387"
+  name: "Cercle Polaire, Alaska, USA"
+  date: "05 août 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
