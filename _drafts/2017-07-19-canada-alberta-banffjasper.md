@@ -73,8 +73,7 @@ Nous mangeons là avant de repartir en direction de Jasper pour un stop au "Cany
 
 Arrivé à Canyon Maligne, je pars faire le trail éponyme (5km +100 mètres) qui longe un profond canyon où s’écoule la rivière Maligne. Au total six ponts, passerelles, vous font passer d’une côté puis de l’autre. C’est au pont N° 2 que le canyon est le plus profond. Au lieu de faire le retour en sens inverse, je trouve un autre trail qui contourne par le haut pour rejoindre le parking. L’ambiance change car je me retrouve tout seul sur le chemin, au calme. Il faut dire qu’il y a énormément de monde et notamment des asiatiques. Au cours de la balade, je traverse une dizaine de mètres carrés d’arbustes aux baies rouges, autant dire que j’ai rapidement fait un tour sur moi-même pour voir si je ne dérangeais pas un ours. En fin d’après-midi, on regagne le terrain auxiliaire.  
 
-
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35465572583/in/datetaken/" title="Jasper - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4291/35465572583_7c3c5ad22f_k.jpg" width="2048" height="1152" alt="Jasper - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 Départ, ce matin, pour le visitor center afin de prendre une nouvelle nuitée au camping auxiliaire et obtenir un permis journalier pour accéder à Mont Edith Cavell. Le site est en travaux actuellement et l’accés aux véhicules est limité à 180 par jour avec 4 horaires d'entrée (8, 12, 14 et 16 heures). La distribution des "permis" se fait tous les jours de 08h00 à 10h00. A 7h30, il y a déjà la queue et, quand vient mon tour, il ne reste plus que des permis pour 14hOO.  
 
