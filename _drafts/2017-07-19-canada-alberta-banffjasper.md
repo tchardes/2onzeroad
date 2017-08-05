@@ -6,8 +6,8 @@ parent-id:  2017-08-10-canada-yukon-aout
 
 date:       2017-07-21 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-glacier.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-glacier.jpg
+header-img: "assets/owner/blog/header/post-bg-banffjasper.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-banffjasper.jpg
 tags: [nature, parc-naturel, montagne, lac, glace]
 flickr-tag: 
 country: Canada - Alberta
