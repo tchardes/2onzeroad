@@ -2,7 +2,7 @@
 layout:  blog
 title:   "Roadtrip du 19 juillet au 02 août 2017"
 preview:    "..."
-parent-id:  2017-08-31-canada-ouest-bilan
+parent-id:  2017-08-02-canada-ouest-bilan
 
 date:       2017-08-02 13:00:00
 author:     "Thierry"
