@@ -16,7 +16,7 @@ category: "blog"
 location: "52.078308, -116.926403"
 ---
 
-Nous quittons Calgary pour les montagnes rocheuses canadiennes et plus précisément le Parc National de Banff distant d'une centaine de kilomètres. Il s'agit du plus vieux parc du Canada et le plus visité également.  
+Nous quittons Calgary pour les montagnes rocheuses canadiennes et plus précisément le **Parc National de Banff** distant d'une centaine de kilomètres. Il s'agit du plus vieux parc du Canada et le plus visité également.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36137939611/in/datetaken/" title="Banff - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4302/36137939611_a5bc5f3311_k.jpg" width="2048" height="1152" alt="Banff - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -24,11 +24,13 @@ Comme d'habitude, nous partons un peu la fleur au fusil sans aucune réservation
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36104992572/in/datetaken/" title="Banff - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4321/36104992572_700318820e_k.jpg" width="2048" height="1152" alt="Banff - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous faisons un petit tour de la ville, très bien arrangée, avec goût. Une partie des trails de Bannf est fermée en raison d'un incendie de forêt, c'est malheureusement assez fréquent dans la région. Le temps est gris et on décide de ne pas trop monter en altitude. L’après-midi, nous allons visiter les thermes "Cave and Basin" et faisons le trail "Canyon Sundance" avec Corinne le long de la rivière Bow. Dans une clairière, nous observons longuement nos premiers cerfs (Elk), nous sommes quelques peu surpris de sa grande taille. Nous partons en direction de Lac Louise qui fait partie du parc de Banff, distant de 56 Kms. Nous empruntons la Bow Valley parkway, route panoramique et faisons un arrêt pour suivre le trail de Canyon Johnston, très populaire. Cette randonnée de 3 Kms suit un canyon sur des passerelles fixées directement dans la paroi et dans le vide. A la fin, il y a une plateforme permettant d'observer deux belles cascades. En début de soirée, nous arrivons dans la ville de Lac Louise, au camping et à notre emplacement qui bénéficie de l’éléctricité.   
+Nous faisons un petit tour de la ville, très bien arrangée, avec goût. Une partie des trails de Bannf est fermée en raison d'un incendie de forêt, c'est malheureusement assez fréquent dans la région. Le temps est gris et on décide de ne pas trop monter en altitude. L’après-midi, nous allons visiter les thermes "Cave and Basin" et faisons le trail "Canyon Sundance" avec Corinne le long de la rivière Bow. Dans une clairière, nous observons longuement nos premiers cerfs (Elk).  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36105102732/in/datetaken/" title="Banff - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4322/36105102732_0d187a51e6_k.jpg" width="2048" height="1152" alt="Banff - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35467692743/in/datetaken/" title="Banff - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4302/35467692743_59c807724f_k.jpg" width="2048" height="1152" alt="Banff - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous partons en direction de Lac Louise qui fait partie du parc de Banff, distant de 56 Kms. Nous empruntons la Bow Valley Parkway, route panoramique et faisons un arrêt pour suivre le trail de Canyon Johnston, très populaire. Cette randonnée de 3 Kms suit un canyon sur des passerelles fixées directement dans la paroi et dans le vide. A la fin, il y a une plateforme permettant d'observer deux belles cascades. En début de soirée, nous arrivons dans la ville de Lac Louise, au camping et à notre emplacement qui bénéficie de l’éléctricité.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36104957352/in/datetaken/" title="Banff - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4305/36104957352_867cce654e_k.jpg" width="2048" height="1152" alt="Banff - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
