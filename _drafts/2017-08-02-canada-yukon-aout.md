@@ -17,12 +17,12 @@ itinary: "canada2.json"
 
 ---
 
-huitième article de type carnet de route, il couvre la période du 19 juillet au durant laquelle nous avons traversé les Etats de l'Alberta et du Yukon.
+huitième article de type carnet de route, il couvre la période du 19 juillet au durant laquelle nous avons traversé les Etats de l'Alberta, de la Colombie Britanique et du Yukon.
 
 
 ## 19 juillet
 
-Départ de rising Sun et route vers la frontière. Le premier agent me demande si je préfère poursuive la discution en français et me fait venir une Francophone.  Direction waterton la ville du parc national Glacier côté canadien. Très belle petit ville avec son hôtel Prince de Galles sur son promontoir puis route vers Calgary. On longe d’immence prairie avec vaches et ranchs.
+Départ de rising Sun et route vers la frontière. Le premier agent me demande si je préfère poursuive la discution en français et me fait venir une Francophone. Les questions habituelles et direction waterton la ville du parc national Glacier côté canadien. Très belle petite ville avec son hôtel Prince de Galles sur son promontoir puis route vers Calgary. On longe d’immence prairie avec vaches et ranchs.
 
 ## 20 juillet
 
