@@ -8,7 +8,7 @@ date:       2017-07-21 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-banffjasper.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-banffjasper.jpg
-tags: [nature, parc-naturel, montagne, lac, glace]
+tags: [parc-naturel, montagne, lac, glace, unesco]
 flickr-tag: 
 country: Canada - Alberta
 city: Banff & Jasper NP
