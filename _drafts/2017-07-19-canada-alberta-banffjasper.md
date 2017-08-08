@@ -91,8 +91,8 @@ A 13h00, nous partons pour le Mt Cavell. Il est vrai que la route est sinueuse e
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36136302691/in/datetaken/" title="Jasper - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4325/36136302691_f09b94e623_k.jpg" width="2048" height="1152" alt="Jasper - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-De retour vers Jasper, on trouve un Dump public, on fait les vides et le plein d’eau avant de regagner le camping auxiliaire pour notre dernière nuit à Jasper. Nous avons vraiment adoré ces deux parcs qui sont pratiquement indissociables tant ils sont proches. Très différents de Glacier NP, ils offrent de très belles randonnées de tout niveau, le décor avec tous ces glaciers et ces lacs est tout simplement grandiose.  
-
-Au cour de la soirée, j'entends du bruit dans les fourrés autour de Thor et en sortant, nous tombons sur une femelle Wapiti avec son petit qui est venue, nul n'en doute, nous dire au-revoir.  
+De retour vers Jasper, on trouve un Dump public, on fait les vides et le plein d’eau avant de regagner le camping auxiliaire pour notre dernière nuit à Jasper. Au cour de la soirée, j'entends du bruit dans les fourrés autour de Thor et en sortant, nous tombons sur une femelle Wapiti avec son petit qui est venue, nul n'en doute, nous dire au-revoir.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36102749542/in/datetaken/" title="Jasper - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4311/36102749542_8b90f9e228_k.jpg" width="2048" height="1152" alt="Jasper - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+Nous avons vraiment adoré ces deux parcs qui sont pratiquement indissociables tant ils sont proches. Très différents de Glacier NP, ils offrent de très belles randonnées de tout niveau, le décor avec tous ces glaciers et ces lacs est tout simplement grandiose.   
