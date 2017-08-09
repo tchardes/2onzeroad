@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "63.731357, -148.917095"
-  name: "Denali NP, Alaska, USA"
-  date: "06 au 09 août 2017"
+  coordinates: "61.195300, -149.886605"
+  name: "Anchorage, Alaska, USA"
+  date: "10 août 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
