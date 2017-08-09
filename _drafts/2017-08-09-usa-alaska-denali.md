@@ -4,7 +4,7 @@ title:      "Denali NP"
 preview:    "... "
 parent-id:  2017-08-10-canada-yukon-aout
 
-date:       2017-07-21 12:00:00
+date:       2017-08-09 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-denali.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-denali.jpg
