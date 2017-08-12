@@ -16,7 +16,7 @@ category: "blog"
 location: "63.542026, -150.995923"
 ---
 
-Nous arrivons en fin de journée au visitor center du **Parc National et Réserve de Denali**. Nous récupérons la documentations et comprenons le mode de fonctionnement un peu particulier de ce parc. Bien qu'il soit immense, seule une route longue de 92 miles y pénêtre. Sur cette distance, seulement 15 miles peuvent êre parcourus avec son propore véhicule. Pour faire le reste vous devez passer par un "tour opérator", qu'il soit privé ou dépendant du National Park Service.
+Nous arrivons en fin de journée au visitor center du **Parc National et Réserve de Denali**. Nous récupérons la documentations et comprenons le mode de fonctionnement un peu particulier de ce parc. Bien qu'il soit immense, seule une route longue de 148 Kms y pénêtre. Sur cette distance, seulement 25 Kms peuvent êre parcourus avec son propre véhicule. Pour faire le reste vous devez passer par un "tour opérator", qu'il soit privé ou dépendant du National Park Service.
 
 On nous dirige vers une autre structure qui s'occupe de la vente des billets des visites et des réservations des camping se trouvant in situ. Bien sur les campings sont tous overbookés. On se dirige vers le stand des Bus verts du parc pour regarder leurs offres. 
 
