@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "61.195300, -149.886605"
-  name: "Anchorage, Alaska, USA"
-  date: "12 août 2017"
+  coordinates: "59.601689, -151.413849"
+  name: "Homer, Alaska, USA"
+  date: "13 août 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
