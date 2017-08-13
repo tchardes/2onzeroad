@@ -28,7 +28,7 @@ Départ de Rising Sun et route vers la frontière Canadienne. Devant mon pauvre 
 
 ## 20 juillet
 
-Depuis que j'ai fait tomber mon objectif 17-50 à Savannah, il était de plus en plus difficile d'actionner le zoom et c'est carrément bloqué il y a quelques jours. J'ai regretté de ne pas l'avoir changé à New York chez B&H, je pensais qu'il tiendrait le temps du voyage. Je trouve sur Internet un assez grand magasin à Calgary et nous commençons la journée par l'achat d'un 24-105 mm ainsi qu'une carte mémoire et un harnais. Me voilà paré pour couvrir le reste du voyage. Nous poursuivons par la visite de la ville, une très belle rue piétonne très animée,   rue piétonne, tram gratuit, bon resto puis en revenant vers le Walmart plein de gazoline et propane.  
+Depuis que j'ai fait tomber mon objectif 17-50 à Savannah, il était de plus en plus difficile d'actionner le zoom et c'est carrément bloqué il y a quelques jours. J'ai regretté de ne pas l'avoir changé à New York chez B&H, je pensais qu'il tiendrait le temps du voyage. Je trouve sur Internet un assez grand magasin à Calgary et nous commençons la journée par l'achat d'un 24-105 mm ainsi qu'une carte mémoire supplémentaire et un harnais. Me voilà paré pour couvrir le reste du voyage. Nous poursuivons par la visite de la ville, une très belle rue piétonne très animée,   rue piétonne, tram gratuit, bon resto puis en revenant vers le Walmart plein de gazoline et propane.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36211827426/in/datetaken/" title="Calgary - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4296/36211827426_55b1a0500d_k.jpg" width="2048" height="1152" alt="Calgary - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -37,7 +37,7 @@ Depuis que j'ai fait tomber mon objectif 17-50 à Savannah, il était de plus en
 
 ## 21 et 25 Juillet
 
-Nous quittons Calgary pour le Parc National de Banff puis celui de Jasper.
+Nous partons de Calgary pour les Parcs Nationaux de Banff puis celui de Jasper.
 (voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-25-canada-alberta-banffjasper %}">ici</a>)    
 
 ## 26 juillet
