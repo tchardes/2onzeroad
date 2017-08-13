@@ -278,6 +278,8 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 
 Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de notre périple.
 
+[Eric et Muriel - Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)
+
 ## Divers   
 
 ### Côté habitation
