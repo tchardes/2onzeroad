@@ -37,8 +37,10 @@ Depuis que j'ai fait tomber mon objectif 17-50 à Savannah, il était de plus en
 
 ## 21 et 25 Juillet
 
-Nous partons de Calgary pour les Parcs Nationaux de Banff puis celui de Jasper.
+Nous partons de Calgary pour les Parcs Nationaux de Banff puis celui de Jasper.  
 (voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-25-canada-alberta-banffjasper %}">ici</a>)    
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35876531680/in/datetaken/" title="Banff - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4310/35876531680_97f6ddfc5d_k.jpg" width="2048" height="1152" alt="Banff - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 ## 26 juillet
 
@@ -46,13 +48,19 @@ Nous quittons les montagnes rocheuses canadiennes pour attaquer la montée vers 
 
 ## 27 juillet
 
-Départ de Grande Prairie pour Dawson Creek, point de départ de la "Alaska Hightway". Arrivé dans la ville nous faisons un tour au visitor center et prenons en photo le fameux "Mile 0" ainsi qu’un panneau à l’entrée de la ville. Nous poursuivons jusqu’à Fort St John ou nous faisons quelques courses au Walmart et mangeons dans un fast food afin de reprendre la route rapidement. On roule jusqu’à 20h00 et on trouve un bivouac sympa en pleine forêt, on a roulé 420 miles.
+Départ de Grande Prairie pour Dawson Creek, point de départ de la "Alaska Hightway". Arrivé dans la ville nous faisons un tour au visitor center et prenons en photo le fameux "Mile 0" ainsi qu’un panneau à l’entrée de la ville. Nous poursuivons jusqu’à Fort St John ou nous faisons quelques courses au Walmart et mangeons dans un fast food afin de reprendre la route rapidement. On roule jusqu’à 20h00 et on trouve un bivouac sympa en pleine forêt, on a roulé près de 680 Km.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36272775465/in/datetaken/" title="Dawson Creek - Colombie-Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4298/36272775465_abc2ca7b8f_k.jpg" width="2048" height="1152" alt="Dawson Creek - Colombie-Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
 ## 28 juillet
 
-Journée  « Into the Wild » route à travers une fabuleux paysage même si le temps n’a pas été terrible portion montagneuse avec Lacs et très belles forêts. Avons traversé deux parc provinciaux, Stone Mountain PP, Muncho Lake PP.
-Dans la matinée nous avons croisé un renard à la fourrure très foncée tenant une proie dans sa gueule, marchant le long de la route, deux caribous, les premiers, plusieurs ours noirs, quelques vieux mâles bisons solitaires et un troupeau de bisons avec de nombreux veaux. Enormément de RV et poids lourds sur la route, surtout dans l’autre sens, certainement les juilletistes qui rentre chez eux. Enormément de  véhicule avec les canoës sur le toit, c’est les restes des trappeurs.
+Nous poursuivons notre ascension vers le grand Nord à travers une fabuleux paysage, même si le temps n’a pas été terrible portion montagneuse avec Lacs et très belles forêts. Avons traversé deux parc provinciaux, Stone Mountain PP, Muncho Lake PP.
+Dans la matinée nous avons croisé un renard à la fourrure très foncée presque bringé tenant une proie dans sa gueule, marchant le long de la route, deux caribous, les premiers, plusieurs ours noirs, quelques vieux mâles bisons solitaires et un troupeau de bisons avec de nombreux veaux. Enormément de RV et poids lourds sur la route, surtout dans l’autre sens, certainement les juilletistes qui rentre chez eux. Enormément de  véhicule avec les canoës sur le toit, c’est les restes des trappeurs.  770 Kms
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35878244440/in/datetaken/" title="Alaska Hightway - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4295/35878244440_2a44fc65a6_k.jpg" width="2048" height="1152" alt="Alaska Hightway - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36139214871/in/datetaken/" title="Alaska Hightway - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4319/36139214871_2dab1ef2f6_k.jpg" width="2048" height="1152" alt="Alaska Hightway - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 ## 29 au 31 juillet
 
