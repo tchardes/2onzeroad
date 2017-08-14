@@ -48,7 +48,7 @@ Nous quittons les montagnes rocheuses canadiennes pour attaquer la montée vers 
 
 ## 27 juillet
 
-Départ de Grande Prairie pour Dawson Creek, point de départ de la "Alaska Hightway". Arrivé dans la ville nous faisons un tour au visitor center et prenons en photo le fameux "Mile 0" ainsi qu’un panneau à l’entrée de la ville. Nous poursuivons jusqu’à Fort St John ou nous faisons quelques courses au Walmart et mangeons dans un fast food afin de reprendre la route rapidement. On roule jusqu’à 20h00 et on trouve un bivouac sympa en pleine forêt, on a roulé près de 680 Km.  
+Départ de Grande Prairie pour Dawson Creek, point de départ de la "Alaska Hightway". Arrivé dans la ville nous faisons un tour au visitor center et prenons en photo le fameux "Mile 0" ainsi qu’un panneau à l’entrée de la ville. Nous poursuivons jusqu’à Fort St John ou nous faisons quelques courses au Walmart et mangeons dans un fast food afin de reprendre la route rapidement. On roule jusqu’à 20h00 et trouvons un bivouac sympa en pleine forêt, on a roulé près de 680 Km.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36272775465/in/datetaken/" title="Dawson Creek - Colombie-Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4298/36272775465_abc2ca7b8f_k.jpg" width="2048" height="1152" alt="Dawson Creek - Colombie-Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
