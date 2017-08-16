@@ -92,25 +92,9 @@ Départ pour Dawson city où l’on passe la journée. La ville semble figée au
 
 ## 02 Août  
 
-Poursuite de la Top of The World, la piste est bonne et on roule assez bien. Cette route de crêtes dévoile des paysages grandioses, à perte de vue. La forêt boréale est atypique avec ces résineux très fins, très hauts avec les branches très courtes près du tronc. Nous arrivons à la frontière, au poste de douane complètement perdu à des kilomètres, dans un sens comme dans l'autre de toute habitation. La dame de l’immigration nous pose quelques questions, vérifie si je connais la date à laquelle nous devons quitter les USA puis nous laisse partir. Nous reprenons la route sur un superbe enrobé, bienvenue aux USA. Cela ne dure qu'une dizaine de kilomètres puis nous retrouvons la piste à nouveau et de bien moindre qualité que coté Canada.  
+Poursuite de la Top of The World, la piste est bonne et on roule assez bien. Cette route de crêtes dévoile des paysages grandioses, à perte de vue. La forêt boréale est atypique avec ces résineux très fins, très hauts avec les branches très courtes près du tronc. Nous arrivons à la frontière, au poste de douane complètement perdu à des kilomètres, dans un sens comme dans l'autre de toute habitation.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36422482112/in/datetaken/" title="Top of the World Hwy - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4442/36422482112_21110483b5_k.jpg" width="2048" height="1152" alt="Top of the World Hwy - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35755742734/in/datetaken/" title="Top of the World Hwy - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4417/35755742734_987e73404c_k.jpg" width="2048" height="1152" alt="Top of the World Hwy - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
-
-En route, nous nous arrêtons car nous voyons un couple en train de chercher de l’or dans une rivière. On discute un peu, ils ont au moins 70 ans. Lui creuse et remplit des seaux pendant que madame tamise et cherche l’or dans l’eau de la rivière. Il me dit qu’ils en trouvent un peu tous les jours mais que c'est très pénible.  
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35662384093/in/datetaken/" title="Orpailleur - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4338/35662384093_51f9bec1e4_k.jpg" width="2048" height="1152" alt="Orpailleur - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
-
-Nous reprenons la route jusqu’à Chicken, première bourgade côté américain. La route est en plein travaux et on remarque qu'avant de poser la terre de la piste, il dispose au sol  plusieurs épaisseurs de plaques de polystyrène, certainement contre le gel. Il y a juste deux trois boutiques et deux RV park. On y prend un peu d’essence car très chère 3,39$/gallon.  Ils jouent la carte de la poule à fond et plusieurs gallinacés trônent dans le bourg. A côté de la plus grande, il y a un poteau directionnel sur lequel sont inscrits tous les pays ayant une ville de ce nom.   
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35635221964/in/datetaken/" title="Chicken - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4396/35635221964_a63799bf7b_k.jpg" width="2048" height="1152" alt="Chicken - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35635219784/in/datetaken/" title="Chicken - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4400/35635219784_56b0725013_k.jpg" width="2048" height="1152" alt="Chicken - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
-
-La piste finit par être remplacée par du bitume mais en mauvais état avec énormément d’affaissement à en avoir le mal de mer. Un peu avant la ville de Tok, nous reprenons la Alaska Highway. Après une visite au visitor center, on fait le plein de gazoline et on passe un coup de karcher à Thor qui est dans un état lamentable. On reprend la route à la recherche d’un bivouac pour la nuit en direction de Fairbanks et nous nous posons près du lac Jan, très bel endroit où je trouve de nombreux champignons, des Amanites tue mouches, et des genres de Sanguins et de bolets. Ne voulant pas la jouer à "Into the Wild", nous ne les avons pas ramassés…   
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36470480335/in/datetaken/" title="Champignons - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4407/36470480335_5d1488f483_k.jpg" width="2048" height="1152" alt="Champignons - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
-
-
 
