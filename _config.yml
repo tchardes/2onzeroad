@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "60.752494, -137.510153"
   name: "Haines, Yukon, Canada"
-  date: "16 août 2017"
+  date: "17 août 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
