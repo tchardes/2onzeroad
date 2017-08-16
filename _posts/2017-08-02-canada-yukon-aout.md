@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Roadtrip du 19 juillet au 02 août 2017"
-preview:    "..."
+preview:    "Huitième article de type carnet de route, il couvre la période du 19 juillet au 02 août durant laquelle nous avons traversé les Etats de..."
 parent-id:  2017-08-02-canada-ouest-bilan
 
 date:       2017-08-02 13:00:00
