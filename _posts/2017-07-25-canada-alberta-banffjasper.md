@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Banff & Jasper NP"
 preview:    "Nous quittons Calgary pour les montagnes rocheuses canadienne et plus précisément le Parc National de Banff distant d'une centaine de kilomètres. Il s'agit du... "
-parent-id:  2017-08-10-canada-yukon-aout
+parent-id:  2017-08-02-canada-yukon-aout
 
 date:       2017-07-25 12:00:00
 author:     "Thierry"
