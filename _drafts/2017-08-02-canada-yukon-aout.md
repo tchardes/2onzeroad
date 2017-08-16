@@ -55,13 +55,15 @@ Départ de Grande Prairie pour Dawson Creek, point de départ de la "Alaska High
 
 ## 28 juillet
 
-Nous poursuivons notre ascension vers le grand Nord à travers un fabuleux paysage, même si le temps n’a pas été terrible. Nous traversons deux parcs provinciaux, Stone Mountain PP et Muncho Lake PP par une route montagneuse avec Lacs et très belles forêts. 
+Nous poursuivons notre ascension vers le grand Nord à travers un fabuleux paysage, même si le temps n’a pas été terrible. Nous traversons deux parcs provinciaux, Stone Mountain PP et Muncho Lake PP par une route montagneuse avec de nombreux lacs et de très belles forêts.  
 
-Dans la matinée, nous avons croisé un renard à la fourrure très foncée presque bringé, tenant une proie dans sa gueule et marchant le long de la route, deux caribous, les premiers, plusieurs ours noirs, quelques vieux bisons mâles solitaires et un troupeau de bisons avec de nombreux veaux. Nous avons croisé de nombreux campings cars et poids lourds sur la route, surtout dans l’autre sens, certainement les juilletistes qui rentrent chez eux. Les véhicules des locaux sont souvent surmontés d'un ou plusieurs canoës sur le toit, certainement leurs racines de trappeurs qui refont surface. Nous avons parcouru dans la journée 770 Kms et bivouaquons à moins de 100 Km de Whitehorse.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36272769995/in/datetaken/" title="Alaska Hightway - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4325/36272769995_f9f446fc28_k.jpg" width="2048" height="1152" alt="Alaska Hightway - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35878244440/in/datetaken/" title="Alaska Hightway - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4295/35878244440_2a44fc65a6_k.jpg" width="2048" height="1152" alt="Alaska Hightway - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Dans la matinée, nous avons croisé un renard à la fourrure très foncée presque bringé, tenant une proie dans sa gueule et marchant le long de la route, deux caribous, les premiers, plusieurs ours noirs, quelques vieux bisons mâles solitaires et un troupeau de bisons avec de nombreux veaux. Nous avons croisé de nombreux campings cars et poids lourds sur la route, surtout dans l’autre sens, certainement les juilletistes qui rentrent chez eux. Les véhicules des locaux sont souvent surmontés d'un ou plusieurs canoës sur le toit, certainement leurs racines de trappeurs qui refont surface. Nous avons parcouru dans la journée 770 Kms et bivouaquons à moins de 100 Km de Whitehorse.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36139214871/in/datetaken/" title="Alaska Hightway - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4319/36139214871_2dab1ef2f6_k.jpg" width="2048" height="1152" alt="Alaska Hightway - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35878244440/in/datetaken/" title="Alaska Hightway - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4295/35878244440_2a44fc65a6_k.jpg" width="2048" height="1152" alt="Alaska Hightway - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36139214871/in/datetaken/" title="Alaska Hightway - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4319/36139214871_2dab1ef2f6_k.jpg" width="2048" height="1152" alt="Alaska Hightway - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 ## 29 au 31 juillet
 
@@ -72,6 +74,11 @@ Le lendemain, dimanche, direction la laverie pour s'occuper de linge et retour a
 Lundi matin, on cherche désespérément un garage qui accepte de nous prendre, ils ont les mécanos mais pas de place pour nous sur leur planning. Le 5éme garage sera le bon. On y rencontre une couple de Québécois de Montréal très sympathique avec qui on discute un bon moment. Ensuite direction UPS pour régler un problème avec notre adresse en Floride. Nous apprenons à cette occasion que nous avons 5 lettres en attente que nous faisons rapatrier sur un UPS à Anchorage. Je crains qu'il ne s'agisse de contraventions car à plusieurs reprises en Floride, nous nous sommes retrouvés sur des portions de routes payantes mais sans péages, tout se faisant soit avec un boitier soit directement par courrier. On verra bien dans quelques jours. Nous faisons le plein d’essence dans une station qui dispose également d’eau et d’un dump et nous partons pour Dawson City, on quitte rapidement la Alaska Highway pour la Klondike Highway qui est quand même moins belle. On s’arrête en route faire un petit trail **Five Fingers Canyon** au bord de la rivière Klondike où se trouve en plein milieu de rapides d'immenses rochers qui étaient redoutés par les bateaux qui montaient approvisionner les orpailleurs dans le Nord. On rencontre également de nombreux RV qui arrivent dans l'autre sens et dans un état pas possible, on sait qu'ils ont emprunté la piste qui relie Dawson City à Chicken.
 
 En route, Thor fait la course avec un lynx au bord de la route, c’est Thor qui a gagné mais le lynx nous a fait une frayeur en nous coupant la route pour s’enfuir. Très petit mais des pâtes très larges. Le long de la route se trouvent des panneaux qui indiquent la date des différents feux de forêt, on voit qu’ici la nature pousse très lentement car des incendies de 20 ans laissent encore de nombreux stigmates. L'état de la route n'est pas terrible, beaucoup de trous et d’affaissements de la chaussée et de travaux. Nous trouvons un très beau bivouac pour la nuit au bord du lac Grimel.  
+
+
+
+
+
 
 ## 01 Août
 
