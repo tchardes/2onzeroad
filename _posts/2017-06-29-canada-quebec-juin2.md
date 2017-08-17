@@ -99,7 +99,7 @@ Départ pour les chutes, nous allons jusqu’au parking « Rapids View » qui 
 
 ## 30 juin  
 
-Nous quittons Windsor de bonne heure pour passer la frontière. L'agent de l'immigration nous pose de nombreuses questions, je dois lui expliquer notre projet et notre circuit, il nous demande notre date de départ des USA, Qu'allons nous faire de Thor pendant ce temps .... Puis en regardant la date de naissance de Corinne, il nous explique que sa maman est née à la même date, amusé, il nous redonne nos passeports et nous souhaite une bonne journée.    
+Nous quittons Windsor de bonne heure pour passer la frontière. L'agent de l'immigration nous pose de nombreuses questions, je dois lui expliquer notre projet et notre circuit, il nous demande notre date de départ des USA, qu'allons nous faire de Thor pendant ce temps .... Puis en regardant la date de naissance de Corinne, il nous explique que sa maman est née à la même date, amusé, il nous redonne nos passeports et nous souhaite une bonne journée.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35660612862/in/datetaken/" title="Détroit - Michigan - [USA]"><img src="https://farm5.staticflickr.com/4238/35660612862_4200e07a89_k.jpg" width="2048" height="498" alt="Détroit - Michigan - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
