@@ -24,10 +24,10 @@ On nous dirige vers une autre structure qui s'occupe de la vente des billets des
 
 Les autres offres sont :
 
-* Kantishna - 12 heures - 51$ - 2 départs 7h45 et 8h45
-* Wonder Lake - 11 heures - 46,75$ - 5 départs 6h15, 6h45, 7h15, 9h15 et 10h15
-* Eielson vositor center - 8 heures - 34$ - Départs toutes les 30mn de 6h00 à 14h00
-* Toklat River - 6,5 heures - 26,50$ - 3 départs 9h30, 12h15 et 17h00
+* Kantishna - Mile 92 - 12 heures - 51$ - 2 départs 7h45 et 8h45
+* Wonder Lake - Mile 85 - 11 heures - 46,75$ - 5 départs 6h15, 6h45, 7h15, 9h15 et 10h15
+* Eielson vositor center - Mile 66 - 8 heures - 34$ - Départs toutes les 30mn de 6h00 à 14h00
+* Toklat River - Mile 53 - 6,5 heures - 26,50$ - 3 départs 9h30, 12h15 et 17h00
 
 Nous prenons l'option pour la journée compléte pour aller au bout de la route à Kantishna, départ à 8h45. A l'intérieur des 15 premiers miles, la car est gratuit et s'arrête à tous les départs de trail, qui sont au final peu nombreux. Il y a d'autres opérateurs privées qui offrent d'autres prestations pour un prix bien plus élevé.
 
@@ -40,6 +40,19 @@ Le paysage est vraiment magnifique et les deux chaines de montagnes qui
 Au cours de la journée nous auront pu observer de nombreux cariboux, des grizlys mais de très loin et des  
 
 
+
+Ce matin nous quitons notre bivouac et nous nous rendons directement au départ d’escursion. Nous prenons notre petit déjeuné et nous nous rendon au départ à 8h30. Les bus sont un peu veillot mais confortbable. nous partons pour Kantishna à 92 miles, 12 heures de car aller et retour. La piste serpente dans une vallée entourée de montagnes majesteuses. le beau temps et aux rendez-vous et nous avons la chance de voir le Mont Denali sans nuage, ce qui selon la chauffeuse-Guide est très rare. Sur la route nous croisons de nombreux caribou et ours Grizzly mais de loin. Au cours du trajet nous effectuons plusieurs stops, on peu descendre du bus et en prendre un autre plus tard. Aucun intéret d’aller jusqu’à Kantishna, Wonder lake et largement suffisent.
+Nous avions compris que le prix de la journée incluait le repas donc nous n’avion rien amené, au final ce n’était pas le bon tour et nous n’avons rien mangé de la journée à part quelques myrtille que nous avons ceuillis.
+De retour vers 21h00 nous rejoignoins un autre bivouac que j’ai repéré ce matin en nous rendant au parc. Plus silencieux que la veille. Le repas du soir fut fortement apprécié.
+
+ce matin départ pour le parc. Nous faisons directement les 15 miles autorisé et nous nsou garons au départ de deux trails, Savage River Loop Trail (3,2 Kms + 50’) avec Corinne, petit trail qui longe une rivière et retour après passage sur un pont et après le repas je m’attaque au Savage Alpine Trail (6,4 Kms + 1500’) très brau trail qui passe de la forêt à la toudra avecs des passages un peu étroit. très belle vue sur la vallée et chaine de montagnes.
+Puis retour au bivouac.
+
+Ce matin déprt pour le parc pour faire le trai Horsechoe Lake (5,1 Kms  + 250’) qui permet d’accéder à une lac qui abrite plusieurs castors. De nombreux barrages sont présents, veritable chef d’oeuvre d’ingénerie.
+En debut d’après midi direction le visitor center où je peux brancher l’ordinateur et bénéficier de leur Wi-FI pour traiter les photos.
+Vers 16h00 je pars pour le trail Mount Healy Overlook (4,3 Km + 1700’). Le sentier monte direct vers le sommet de Healy d’où on bénéficie d’une très beau panorama.
+De retour sur le parking du visitor center la porte de thor est ouverte tandis que Corinne fait griller du pain. Un petit ecureuil monte les 2 premières marches et me regarde dubitatif avant de ressortir tranquilement. Ils disent de faire attention que la nourriture attire les ours, la cuisine de Corinne attire les écureuils …
+On fait le plein d’eau pour prendre une bonne douche et on regagne notre bivouac.
 
 
 
