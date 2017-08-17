@@ -6,8 +6,8 @@ parent-id:  2017-08-02-canada-ouest-bilan
 
 date:       2017-08-25 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt9.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt9.jpg
+header-img: "assets/owner/blog/header/post-bg-rt10.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt10.jpg
 tags: []
 country: USA - Alaska
 category: "roadmap"
