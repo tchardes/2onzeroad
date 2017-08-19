@@ -48,7 +48,11 @@ Le dernier jour, nous nous rendons à l'entrée de parc pour faire le trai **Hor
 En debut d’après midi direction le visitor center où je peux brancher l’ordinateur et bénéficier de leur Wi-FI pour traiter et diffuser les photos. Vers 16h00 je pars pour le **Mount Healy Overlook Trail** (4,3 Km, + 550 mètres). Le sentier monte directement vers le sommet du mont Healy d’où on bénéficie d’un très beau panorama. Après la fin "officielle" du trail, ce dernier continu sur les crêtes pendant plusieurs kilomètres.
 
 
+<p class="info-box bg-primary"><i class="fa fa-info-circle"></i>  
+Pour les amoureux du film "Into the Wild", le Stampede Trail se trouve au nord du parc denali en face la ville de Healy. On voit sur la carte un rectangle ne faisant pas partie du parc, c'est là que commence la piste devenue célèbre en 1992 à la mort de Christopher McCandless qui a vécu dans l'épave d'un bus stationnée dans une partie proche du parc national et réserve de Denali. En 1961, la piste devait être rénovée dans le cadre du Alaska's Pioneer Road Program mais s'interrompit après la construction de 50 km de route (le bus qui était alors un abri pour les chasseurs et les rangers avait servi de refuge pour les ouvriers. La rivière Toklat qui passe près de la piste et du lieu où se trouve le bus 142. Les conditions sont assez difficile, notament les passages de
 
+qui passe per le bus de    
+</p> 
 
 
 Stampede et Into the Wild
