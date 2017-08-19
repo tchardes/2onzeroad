@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "59.235832, -135.445007"
-  name: "Haines, Alaska, USA"
-  date: "18 et 19 août 2017"
+  coordinates: "59.455000, -135.318807"
+  name: "Skagway, Alaska, USA"
+  date: "19 août 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
