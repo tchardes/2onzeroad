@@ -18,9 +18,11 @@ location: "63.542026, -150.995923"
 
 Situé au centre de l'Alaska, le **Parc National et Réserve de Denali** qui fête ces 100 ans cette année, comprend le Mont Denali qui signifie "celui qui est haut" en koyukon, une langue Athapascane. Il s'agit du plus haut sommet d'Amérique du Nord avec 6 194 mètres. Anciennement nommé Mont McKinley du nom du candidat à la présidence américaine, William McKinley, il devint officiellement le Mt Denali le 30 août 2015. La réserve, une des parties du parc a été reconnue réserve de biosphère par l'Unesco en 1976.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36349921161/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4338/36349921161_f89eae1573_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
 Nous arrivons en fin de journée au visitor center. Nous récupérons la documentation et comprenons le mode de fonctionnement un peu particulier de ce parc. Bien qu'il soit immense, seule une route longue de 148 Kms y pénêtre. Sur cette distance, seulement 25 Kms peuvent êre parcourus avec son propre véhicule. Pour faire le reste, vous devez passer par un "tour opérator", qu'il soit privé ou sous traité par le National Park Service.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36349921161/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4338/36349921161_f89eae1573_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35652320464/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4343/35652320464_a003d92427_k.jpg" width="2048" height="737" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 On nous dirige vers une autre structure qui s'occupe de la vente des billets des visites et des réservations des campings se trouvant in situ. Bien sûr, les campings sont tous overbookés. On se dirige vers le stand des Bus verts du parc pour regarder leurs offres.   
 
