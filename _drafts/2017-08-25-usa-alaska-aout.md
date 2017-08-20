@@ -104,7 +104,7 @@ Départ de Kenai city pour Witthier, on se trompe de route et on se retrouve dan
 ## 15 Août  
 
 
-
+Route en direction de Toc, nous passons devant un immense glacier Matanuska
 
 
 ## 16 Août  
@@ -115,6 +115,32 @@ Nous roulons au couchant le ssoleil dans le dos, les couleurs sont très belles.
 
 
 ## 17 Août  
+
+Départ du bivouac, beaucoup de travaux sur la route, passage de camions citerne pour mouiller la piste. Le paysage et toujours splendide, on longe le Kluane national Park and Reserve et sa chaine de montagne. Entre elles et la route, d’immenses forêts ou zones humides, les grands espaces à l’état pur. Corinne nous trouve un super coin pour déjeuner au bord du lac Kluane. En roulant et s’approchant de la fin de lac on aperçois un immense nuage de poussière à l’horizon. On se dit qu’il doit y avoir encore de sacrés travaux ou bien une carrière. On final, le niveau du lac est assez bas et nous arrivons dans la vallée ou coule une rivière venant directement du glacier Kaskawulch. Un vent froid venant du glacier souffle en direction du lac et soulève des alluvions. Nous nous arrêtons au visitor center et tombons sur une garde française, originaire de Savoie, passionnée de montagne et exilée avec son mari dans le Yukon. Nous parlons un long moment de ce parc un peu spécial qui englope au total 3 parcs situés à cheval enre USA et Canada. Il est entouré de deux chaines de montagne aux sommets de 2500 mètres pour la première et d’une deuxième chaine intérieure avec des sommets à plus de 5000 mètres, dont le Mount St Elias 5489 mètres, deuxième sommet des USA après le Denali. Côté Canadien le plus haut sommet du pays et du parc est le Mount Logan 5959 mètres. En tout, le parc englobe 9 des 16 plus hauts sommets des USA.
+En son centre une immense banquise, la plus grande au monde en dehors de deux cercles polaires, qui donnent naissance à de nombreux glaciers. Il ne se visite qu’en avion. Il y a un trail de 3,4 jours qui mène à point d’observation du glacier Kaskawulch. (Pour info les tours d’avions coutent environ 250$CA l’heure par personne).
+Nous poursuivons notre route jusqu’à Haines Junction qui est le carrefour entre l’ALCAN, Alaska Highway et la route qui mène à Haines. Nous nous arrêtons au visitor center qui est divisé en trois partie, l’une pour les First nation, la deuxième qui est l’office de tourisme de Haines et la dernière attribuée au Canada Parc. Très bien arrangé nous avons vu voir un film magnifique qui nous a donné un aperçu de l’intérieur du parc. Traversée rapide de Haines Junction puis route vers Haines ou nous trouvons un bivouac sympa près d’une rivière.
+ 
+
+## 18 Août  
+
+Cette nuite vers 5h00 du matin je suis réveillé par un bruit de soufflerie et une odeur de chaud. Je me rend compte que le chauffage c’est mis en route tout seul et qu’il y a des vêtements non loin qui sont déjà bien chaud. C’est la première fois qu’il se met en route tout seul et je pense que c’est pour garder Thor hors gel. Il est vrai qu’il fait un peu froid et la température dans l’habitacle à du descendre en dessous de 5°.  Le chauffage s’éteint tout seul au bout de quelques minutes la température étant montée à 10°. On se recouche rassuré et pour le coup bien au chaud. Il se remettra en route deux fois dans le reste de la nuit. Cest pour l’heures notre nuit la plus froide depuis notre départ. Nous avions eu 6° une fois mais il ne s’était pas déclenché. Le matin nous reprenons la route tranquillement pour Haines qui est à un peu plus de 200 Kms. En route nous nous arrêtons faire le ** Rock Glacier Trail**  (3,2 Km +90 mètres) sur le parc Kluane. Il s’agit d’une trail sur un glacier rocheux très intéressant. Après quelques centaines de mètres dans une foret, on grimpe sur un cahos de rochers et de pierres, vestiges d’une ancien glacier qui à pousse de vant lui et broye la roche qui sous la pression et la poussée à formé des vagues.
+Passage de la frontière USA sans problème, les question habituelles, nourritures, alcool, armes à feu, destination et date du départ. Une formalité.
+La route depuis Haines junction est vraiment belle par rapport à l’ALCAN. Juste les 30 derniers Km sont un peu moins bien.
+Arrêt au visitor center et visite rapide de la petit bourgade située en bout de Fjord sur l’océan pacifique. Quelques Totems décorent la ville, nous faisons le plein dans une station qui propose également les dump et le plein d’eau. On quitte l’agglomération de Haines pour nous avancer vers le terminal du ferry et trouvons un bivouac face à l’océan.
+
+
+## 19 Août  
+
+
+Ce matin depart pour le ferry. De la puie est annocée pour toute la journée, pour l’instant le cile est gris mais il ne pleut pas. Nous rentrond dans le bateau par une porte de côté à l’avant ce qui nous oblige à faire demi tour pour se mettre dans la file en position de départ pour la sortie. La traversée est tranquille, la mer est calme, on s’enfons au fond d’un fjord et arrivons à Skagway. Dernier rentré sur le bateau et premier sortis. Nous nous garons dans la ville et faisons un petit tour. Cette ville à eu une importance capitale à la fin de 19éme siècle lors de la rué vers l’or dans Yukon jusqu’à Dawson City. Tous les candidats à la fortume arrivaient ici en bateau avec leur tonne de matériel afin d’emprunter la Klondike Highway, puis après le chemin de fer à voe étroite construit en 26 mois seulement et qui les menaient à Whitehorse, Yukon, Canada.
+Nous prenons la route en direction de Whitehorse ou nous avons déjà passé deux jours. Capitale du Yukon, nous allons en profiter pour s’oocuper de la logistique, lessives, vidange… Nous prenons don la Klondike Highway que nous avion emprunter pour aller de Whitehorse à Dawson City. Peu après Skagway et avoir passé le poste frontière des USA sans nous arrêter, nous arrivons sur un plateau compsé d’un chaos de rochers et de pierres et d’une multitides de lacs, du plus petit au très grands lac Summit Lake et Bernard lake. Le décors est absoluement inhabituel et magnifiques. Nous passons la frontière canadienne à Fraser a 12 Kms du Poste US . Quelques question habituelles et nous pouvons continuer notre route. Arrêt dans un premier temps au Ykon Suspension Bridge, passerelle assez longue qui traverse le Ykon (15$CA/Pers.) puis à la jolie bourgade de Carcross qui a renové son centre avec de nombreuses boutiques autour du visitor center aux couleurs des First Nation. Un grand totem trone en son centre. Arrivé à Whitehorse où nous avons nos repaires nous nous installons pour deux ou trois jours.
+
+## 20 Août  
+
+
+
+
+## 21 Août  
 
 
 
