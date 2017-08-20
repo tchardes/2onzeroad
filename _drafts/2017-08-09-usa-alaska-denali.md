@@ -37,13 +37,12 @@ Après de nombreuses hésitations en raison des prévisions météo, nous prenon
 
 Bien sûr les campings du parc sont tous overbookés voici la liste :
 
-* Riley Creek, Entrée du parc, le plus grand pour RV et tentes, 15 à 30$ ;
+* Riley Creek, entrée du parc, le plus grand pour RV et tentes, 15 à 30$ ;
 * Savage River, mile 13, RV et tentes, 24 à 30$ ;
 * Santuary River, mile 23, tentes, 15$ ;
 * Teklanika River, mile 29, RV et tentes, 25$,  
 * Igllo Creek, mile 34, tentes, 15$ ;
 * Wonder Lake, mile 85, tentes, 22$.
-
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36090246920/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4422/36090246920_f6d98988bb_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
