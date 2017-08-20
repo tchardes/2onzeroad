@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Denali NP"
-preview:    "Situé au centre de l'Alaska, le Parc National et Réserve de Denali qui fête ces 100 ans cette année, comprend le Mont Denali qui signifie... "
+preview:    "Situé au centre de l'Alaska, le Parc National et Réserve de Denali qui fête ces 100 ans cette année, comprend le Mont Denali qui... "
 parent-id:  2017-08-25-usa-alaska-aout
 
 date:       2017-08-09 12:00:00
