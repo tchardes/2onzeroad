@@ -57,6 +57,12 @@ Dans le bus, les passagers sortent leur casse croûte et mangent tranquillement,
 
 La journée est assez longue au final mais le parc est vraiment très beau. Le fait d'aller à Kantishna ne présente aucun intérêt, la dernière partie du trajet se fait en forêt et le bus s'arrête à la fin de la piste d'un petit aérodrome. En dehors d'une panneau indiquant fin des 92 miles, rien à voir. A le refaire, on s'arrêterait à Wonder Lake qui est en pleine toundra pour profiter un peu plus des lieux. Si le parc est vraiment superbe, il est également très frustrant, le fait d'être en groupe et de ne pouvoir s'arrêter quand on veut est vraiment dommage. J'aurais aimé prendre plus de temps devant des panoramas à couper le souffle, des montagnes multicolores, la faune sauvage et également prendre de belles photos. Il est certain que la faune s'est habituée, avec le temps, aux bus qui empruntent cette piste, il n'est pas rare de voir les caribous carément sur la piste. Soit disant par soucis de la préservation du site, quand on pense à l'immensité du parc (23 310 kilomètres carrés), les 92 miles de pistes qui la pénétre semblent bien dérisoires, sans compter que vu le climat le site n'est visitable, de cette façon, que quelques mois dans l'année.
 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35652200994/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4427/35652200994_e7cc9eebb6_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+
 Le deuxième jour nous retournons sur le parc. Nous faisons directement les 15 miles autorisés et nous nous garons au départ de deux trails, **Savage River Loop Trail** (3,2 Kms, + 15 mètres) avec Corinne, petit trail qui longe une rivière et retour après passage sur un pont. Da,s l'après-midi je m’attaque au **Savage Alpine Trail** (6,4 Kms + 500 mètres) très beau trail qui passe de la forêt à la toudra avec des passages un peu étroit. Au sommet, on bénéficie d'une très belle vue sur la vallée et chaines de montagnes.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36487279535/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4411/36487279535_5f84e61c0e_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
