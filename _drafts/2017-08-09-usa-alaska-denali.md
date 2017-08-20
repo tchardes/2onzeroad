@@ -35,7 +35,7 @@ Les autres offres sont les suivantes :
 
 Après de nombreuses hésitations en raison des prévisions météo, nous prenons l'option pour la journée complète pour aller au bout de la route à Kantishna, départ le lendemain à 8h45. A l'intérieur des 15 premiers miles, le car est gratuit et s'arrête à tous les départs de trail, qui sont au final peu nombreux. Il y a d'autres opérateurs privés qui offrent d'autres prestations pour un prix bien plus élevé.  
 
-Bien sûr les campings du parc sont tous overbookés voici la liste :
+Bien sûr les campings du parc sont tous overbookés, voici la liste :
 
 * Riley Creek, entrée du parc, le plus grand pour RV et tentes, 15 à 30$ ;
 * Savage River, mile 13, RV et tentes, 24 à 30$ ;
