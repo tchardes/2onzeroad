@@ -24,7 +24,7 @@ Nous arrivons en fin de journée au visitor center. Nous récupérons la documen
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35652320464/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4343/35652320464_a003d92427_k.jpg" width="2048" height="737" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-On nous dirige vers une autre structure qui s'occupe de la vente des billets des visites et des réservations des campings se trouvant in situ. Bien sûr, les campings sont tous overbookés. On se dirige vers le stand des Bus verts du parc pour regarder leurs offres.   
+On nous dirige vers une autre structure qui s'occupe de la vente des billets des visites et des réservations des campings se trouvant in situ. On se dirige vers le stand des Bus verts du parc pour regarder leurs offres.   
 
 Les autres offres sont les suivantes :  
 
@@ -34,6 +34,16 @@ Les autres offres sont les suivantes :
 * Toklat River - Mile 53 - 6,5 heures - 26,50$ - 3 départs 9h30, 12h15 et 17h00.  
 
 Après de nombreuses hésitations en raison des prévisions météo, nous prenons l'option pour la journée compléte pour aller au bout de la route à Kantishna, départ le lendemain à 8h45. A l'intérieur des 15 premiers miles, le car est gratuit et s'arrête à tous les départs de trail, qui sont au final peu nombreux. Il y a d'autres opérateurs privés qui offrent d'autres prestations pour un prix bien plus élevé.  
+
+Bien sûr les campings du parc sont tous overbookés voici la liste :
+
+* Riley Creek, Entrée du parc, le plus grand pour RV et tentes, 15 à 30$ ;
+* Savage River, mile 13, RV et tentes, 24 à 30$ ;
+* Santuary River, mile 23, tentes, 15$ ;
+* Teklanika River, mile 29, RV et tentes, 25$,  
+* Igllo Creek, mile 34, tentes, 15$ ;
+* Wonder Lake, mile 85, tentes, 22$.
+
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36090246920/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4422/36090246920_f6d98988bb_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -51,7 +61,7 @@ Le paysage est vraiment magnifique et les deux chaines de montagnes, qui entoure
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36318951762/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4364/36318951762_fab4d6ebea_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-La journée est assez longue au final mais le parc est vraiment très beau. Le fait d'aller à Kantishna ne présente aucun intérêt, la dernière partie du trajet se fait en forêt et le bus s'arrête à la fin de la piste d'un petit aérodrome. En dehors d'une panneau indiquant fin des 92 miles, rien à voir. A le refaire, on s'arrêterait à Wonder Lake qui est en pleine toundra pour profiter un peu plus des lieux. Si le parc est vraiment superbe, il est également très frustrant, le fait d'être en groupe et de ne pouvoir s'arrêter quand on veut est vraiment dommage. J'aurais aimé prendre plus de temps devant des panoramas à couper le souffle, des montagnes multicolores, la faune sauvage et également prendre de belles photos. Il est certain que la faune s'est habituée, avec le temps, aux bus qui empruntent cette piste, il n'est pas rare de voir les caribous carrément sur la piste. Soit disant par soucis de la préservation du site, quand on pense à l'immensité du parc (23 310 kilomètres carrés), les 92 miles de pistes qui la pénétrent semblent bien dérisoires, sans compter que vu le climat le site n'est visitable, de cette façon, que quelques mois dans l'année.  
+La journée est assez longue au final mais le parc est vraiment très beau. Le fait d'aller à Kantishna ne présente aucun intérêt, la dernière partie du trajet se fait en forêt et le bus s'arrête à la fin de la piste d'un petit aérodrome. En dehors d'une panneau indiquant fin des 92 miles, rien à voir. A le refaire, on s'arrêterait à Wonder Lake qui est en pleine toundra pour profiter un peu plus des lieux. Si le parc est vraiment superbe, il est également très frustrant, le fait d'être en groupe et de ne pouvoir s'arrêter quand on veut est vraiment dommage. J'aurais aimé prendre plus de temps devant des panoramas à couper le souffle, des montagnes multicolores, la faune sauvage et également prendre de belles photos. Il est certain que la faune s'est habituée, avec le temps, aux bus qui empruntent cette piste, il n'est pas rare de voir les caribous carrément sur la piste. Soit disant par soucis de la préservation du site, quand on pense à l'immensité du parc (23 310 kilomètres carrés), les 92 miles de pistes qui la pénétrent semblent bien dérisoires, sans compter que vu le climat le site n'est visitable, de cette manière, que quelques mois dans l'année.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36090304690/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4364/36090304690_3492cadda7_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
