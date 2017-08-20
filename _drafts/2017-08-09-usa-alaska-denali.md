@@ -41,11 +41,11 @@ Nous lisons, dans une revue distribuée au parc, que le repas est compris dans l
 
 Peu après le départ, nous avons la chance de voir le Mont Denali dégagé, de ce que nous avons compris, vu son altitude, c'est assez rare.
 Sur le trajet, nous effectuons plusieurs arrêts où il est possible de rester un peu plus longtemps et prendre un autre car pour la suite.
-Le paysage est vraiment magnifique et les deux chaines de montagnes qui entoure le parcours magiques. La consigne est que dès qu'un passager voit un animal, il crit "Stop" afin que le bus s'arrête, c'est ainsi que nous pourrons observer au cours de la journée de nombreux caribous  grizzlys et Dall Sheeps (Mouflons), mais de très loin.
+Le paysage est vraiment magnifique et les deux chaines de montagnes qui entoure le parcours magiques. La consigne est que dès qu'un passager voit un animal, il crit "Stop" afin que le bus s'arrête, c'est ainsi que nous pourrons observer au cours de la journée de nombreux caribous  grizzlys et Dall Sheeps (Mouflons), mais de très loin pour les deux derniers.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36487497725/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4399/36487497725_26681fce9f_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35652192194/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4409/35652192194_c6557259c8_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Dans le bus, les passagers sortent leur casse croûte et mangent tranquillement, comme on a l'impression que les américains mangent tout le temps et toute la journée, on ne s'inquiète pas. Vers 13 heures, à l'occasion d'un arrêt on demande à Anna si on peut avoir notre repas et nous comprenons très vite que ce n'est pas sur ce tour que le déjeûner est compris. On a des réserves, on va pouvoir grapiller quelques myrtilles sauvages et ainsi tenir la journée(15 h) sans manger... mais quand même !!!
 
@@ -53,10 +53,14 @@ La journée est assez longue au final mais le parc est vraiment très beau. Le f
 
 Le deuxième jour nous retournons sur le parc. Nous faisons directement les 15 miles autorisés et nous nous garons au départ de deux trails, **Savage River Loop Trail** (3,2 Kms, + 15 mètres) avec Corinne, petit trail qui longe une rivière et retour après passage sur un pont. Da,s l'après-midi je m’attaque au **Savage Alpine Trail** (6,4 Kms + 500 mètres) très beau trail qui passe de la forêt à la toudra avec des passages un peu étroit. Au sommet, on bénéficie d'une très belle vue sur la vallée et chaines de montagnes.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36487279535/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4411/36487279535_5f84e61c0e_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Le dernier jour, nous nous rendons à l'entrée de parc pour faire le trai **Horsechoe Lake** (5,1 Kms, + 80 mètres) qui permet d’accéder à un lac qui abrite plusieurs familles de castors. De nombreux barrages sont présents, veritables chefs d’oeuvres d’ingénerie. Certains long de plusieurs dizaine de mètres sont parfaitement parralléle au niveau de l'eau qu'ils laissent filtrer pour maintenir et réguleur la hauteur sa hauteur dans le lac.
+
+
 
 En debut d’après midi direction le visitor center où je peux brancher l’ordinateur et bénéficier de leur Wi-FI pour traiter et diffuser les photos. Vers 16h00 je pars pour le **Mount Healy Overlook Trail** (4,3 Km, + 550 mètres). Le sentier monte directement vers le sommet du mont Healy d’où on bénéficie d’un très beau panorama. Après la fin "officielle" du trail, ce dernier continu sur les crêtes pendant plusieurs kilomètres.
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>  
-Pour les amoureux du film "Into the Wild", le Stampede Trail se trouve au nord du parc denali en face la ville de Healy. On voit sur la carte un rectangle ne faisant pas partie du parc, c'est là que commence la piste devenue célèbre en 1992 à la mort de Christopher McCandless qui a vécu dans l'épave d'un bus stationnée dans une partie proche du parc national et réserve de Denali. En 1961, la piste devait être rénovée dans le cadre du Alaska's Pioneer Road Program mais s'interrompit après la construction de 50 km de route (le bus qui était alors un abri pour les chasseurs et les rangers avait servi de refuge pour les ouvriers. Les conditions sont assez difficiles selon la saison, notament les passages de la rivière Toklat qui peuvent s'avèrer perilleux et il est conseiller d'avoir recours à un guide par y aller.   
+Pour les amoureux du film "Into the Wild", le Stampede Trail se trouve au nord du parc denali, à l'Ouest de la ville de Healy. On voit sur la carte un rectangle ne faisant pas partie du parc, c'est là que commence la piste devenue célèbre en 1992 à la mort de Christopher McCandless qui a vécu dans l'épave d'un bus stationnée dans une partie proche du parc national et réserve de Denali. En 1961, la piste devait être rénovée dans le cadre du Alaska's Pioneer Road Program mais s'interrompit après la construction de 50 km de route (le bus qui était alors un abri pour les chasseurs et les rangers avait servi de refuge pour les ouvriers. Les conditions sont assez difficiles selon la saison, notament les passages de la rivière Toklat qui peuvent s'avèrer perilleux et il est conseiller d'avoir recours à un guide par y aller.   
 </p> 
