@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Denali NP"
 preview:    "Situé au centre de l'Alaska, le Parc National et Réserve de Denali qui fête ces 100 ans cette année, comprend le Mont Denali qui signifie... "
-parent-id:  2017-08-10-canada-yukon-aout
+parent-id:  2017-08-25-usa-alaska-aout
 
 date:       2017-08-09 12:00:00
 author:     "Thierry"
@@ -24,7 +24,7 @@ Nous arrivons en fin de journée au visitor center. Nous récupérons la documen
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35652320464/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4343/35652320464_a003d92427_k.jpg" width="2048" height="737" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-On nous dirige vers une autre structure qui s'occupe de la vente des billets des visites et des réservations des campings se trouvant in situ. On se dirige vers le stand des Bus verts du parc pour regarder leurs offres.   
+On nous dirige vers une autre structure qui s'occupe de la vente des billets des visites et des réservations des campings se trouvant in situ. On se dirige vers le stand des bus verts du parc pour regarder leurs offres.   
 
 Les autres offres sont les suivantes :  
 
