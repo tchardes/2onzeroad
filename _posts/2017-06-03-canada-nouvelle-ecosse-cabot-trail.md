@@ -10,7 +10,7 @@ header-img: "assets/owner/blog/header/post-bg-cabot.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-cabot.jpg
 tags: [nature, parc-naturel, faune]
 flickr-tag: 
-country: canada_nouvelle_ecosse
+country: Canada - Nouvelle Ecosse
 city: Cap-Breton
 category: "blog"
 location: "46.741334, -60.623223"
