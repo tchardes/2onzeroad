@@ -51,6 +51,7 @@ Route, piste jusqu’à Fairbanks ou nous faisons des courses. Au final on laiss
 Ce matin nous quitons notre bivouac et nous nous rendons directement au départ d’escursion. Nous prenons notre petit déjeuné et nous nous rendon au départ à 8h30. Les bus sont un peu veillot mais confortbable. nous partons pour Kantishna à 92 miles, 12 heures de car aller et retour. La piste serpente dans une vallée entourée de montagnes majesteuses. le beau temps et aux rendez-vous et nous avons la chance de voir le Mont Denali sans nuage, ce qui selon la chauffeuse-Guide est très rare. Sur la route nous croisons de nombreux caribou et ours Grizzly mais de loin. Au cours du trajet nous effectuons plusieurs stops, on peu descendre du bus et en prendre un autre plus tard. Aucun intéret d’aller jusqu’à Kantishna, Wonder lake et largement suffisent.
 
 
+Nous lisons, dans une revue distribuée au parc, que le repas est compris dans la prestation. Toutefois, Corinne va demander confirmation avant notre départ au guichet qui valide. Nous partons donc léger pour cette journée dans la parc. 
 Dans le bus, les passagers sortent leur casse croûte et mangent tranquillement, comme on a l'impression que les américains mangent tout le temps et toute la journée, on ne s'inquiète pas. Vers 13 heures, à l'occasion d'un arrêt on demande à Anna si on peut avoir notre repas et nous comprenons très vite que ce n'est pas sur ce tour que le déjeûner est compris. On a des réserves, on va pouvoir grapiller quelques myrtilles sauvages et ainsi tenir la journée(15 h) sans manger... mais quand même !!
 
 

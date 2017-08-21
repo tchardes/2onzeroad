@@ -46,7 +46,7 @@ Bien sûr les campings du parc sont tous overbookés, voici la liste :
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36090246920/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4422/36090246920_f6d98988bb_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Nous lisons, dans une revue distribuée au parc, que le repas est compris dans la prestation. Toutefois, Corinne va demander confirmation avant notre départ au guichet qui valide. Nous partons donc léger pour cette journée dans la parc. Notre car arrive, assez vieillot mais confortable avec notre chauffeuse/guide, Anna. Le soleil est au rendez-vous et nous embarquons et direction le parc sur route bitumée les 15 premiers Miles et sur piste le reste du parcours. Anna s'avère très très bavarde, bien sûr, on ne comprend pas grand chose et au bout d'une heure d'efforts, on décroche.  
+Notre car arrive, assez vieillot mais confortable avec notre chauffeuse/guide, Anna. Le soleil est au rendez-vous, nous embarquons et direction le parc sur route bitumée les 15 premiers Miles et sur piste le reste du parcours. Anna s'avère très très bavarde, bien sûr, on ne comprend pas grand chose et au bout d'une heure d'efforts, on décroche.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36349860521/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4431/36349860521_565b76610b_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
