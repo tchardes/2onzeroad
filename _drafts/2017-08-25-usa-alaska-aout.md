@@ -19,8 +19,6 @@ itinary: "Alaska.json"
 
 Neuvième article de type carnet de route, il couvre la période du 02 août au  durant laquelle nous avons traversé l'Alaska.  
 
-
-
 ## 02 Août  
 
 Toujours sur la piste de la "Top of the World Highway" nous passons la frontière pour rentrer à nouveau aux USA en fin de matinée. Après les quelques questions habituelles à l’immigration, nous reprenons la route. Un superbe enrobé nous acceuille coté USA pendant une dizaine de kilomètres qui se tranforme en piste à nouveau et de bien moindre qualité que du coté Canada. En route, nous voyons un couple en train de chercher de l’or dans une rivière. On discute un peu, ils ont au moins 70 ans. Lui creuse et rempli des sceaux pendant que madame tamise et cherche l’or dans l’eau de la rivière. Il me dit qu’ils en trouve un peu tous les jours…  
@@ -29,30 +27,41 @@ Toujours sur la piste de la "Top of the World Highway" nous passons la frontièr
 
 Nous arrivons au "hameau" de Chicken où la piste est en plein travaux, les gros engins de BTP soulèvent une poussière pas possible. Nous remarquons à cette occasion qu'ils posent plusieurs couches de panneaux de polystyrène avant de la recouvir de terre, certainement pour isoler la route du gel. Cette ville minière fantôme qui comptait en 2010, 7 habitants, ce compose de quelques boutiques et deux RV park. Jouant la carte à fond du Poulet, plusieurs "Statues" de galinacée sont présentes, à côté, sur un grand poteau indicateur sont mentionnés tout les pays du monde qui abritent un "Chicken".
 
+
+
 On prend un peu d’essence, car très chère dans ce coin perdu (3,39$/Gallon), juste pour arriver jusqu'à Tok. La piste continue puis c’est du bitume mais avec énormément d’affaissement à en avoir le mal de mer. Un peu avant d'arriver à Toc on reprend la Alaska Highway. après une visite au visitor center on fait le plein de gasoline puis on passe un coup de kartcher à Thor qui est dans un état pas possible. On reprend la route à la recherche d’un bivouac pour la nuit en direction de Fairbanks et on prend quelques photos d’un aigle posé au sommet d’une pin. On trouve un coin très sympa pour se poser près du lac Jan, très bel endroit.
+
+
 
 ## 03 Août  
 
-Départ pour Fairbanks par la Alaska Highway. En route nous croisons plusieurs Moose dont l’un dans un lac qui a la gentillesse de se laisser photographier. Passage par Delta Junction fin de l’Alaska Highway. Nous passons le long de la très garnde « Eielson Air Force Base » où l’on peut voir de nombreux bombardier B-52 Superfortress avec ces 8 réacteurs et las ailes à l’arrêt qui touchent presque le sol. Nous passons ensuite au hameau Pole North ou trône un immence père noël. Arrivé à fairbanks, petit tour au visitor center très beau et très bien arrangé avec espace pédagogique et petit théatre où nous nous pouvons vois un grouope folklorique indien se produire. Petite visite de centre ville puis arrêt au Walmart qui dispose de places spéciales pour les RV, une première. Ici comme au canada, tous les véhicules sont équipé d’une prise électrique qui permet l’hiver de chauffer le moteur.
+Départ pour Fairbanks par la Alaska Highway. En route nous croisons plusieurs Elans (Mooses) dont l’un dans un lac en train de mangers des plantes aquatiques et qui a la gentillesse de se laisser photographier. Il s'agit certainement d'une femmelle? c'est animaux sont vraiment bizarres mais parfaitement adaptés à leur environnement.
 
 
-## 04 Août  
+Nous passons ensuite à Delta Junction qui signe la fin de l’Alaska Highway surnommée "l'AlCan". Depuis 1920, les USA désiraient une route reliant l'Alaska au reste du pays. Devant les prix et la réticence des Canadien cela ne se fera qu'en 1942 au moment de l'entrée en guerre avec le Japon et plus largement la guerre dans le Pacifique. Craignant un débarquement Nipon sur ce territoire, un axe routier devient urgent. C'est l'armée américaine qui sera chargée de mener à bien ce chantier pharaonique. En 8 mois, les 2700 Kms reliant Dawson Ceek à Delta Junction sont construits par deux équipes parties des deux points. La route ne fait plus aujourd'hui que 2232 Kms ayant été "redessinée".
 
-Le temps n’est pas terrible avec un peu de pluie. Journée repos
 
-## 05 Août  
-Départ de Fairbanks direction le Nord pour atteindre le cercle polaire, nous prenons la mythIque Route 11 « Dalton Highway » qui va jusqu’à l’océan Arctique et Prudhoe Bay. Cette route est en grande partie une piste, assez bonne avec des portions goudronnées, parfois plus dangereuse que la piste. Nous sommes calé sur la radio locale et sommes surpris d’entendre Foiule sentimentale de Souchon, c’est bien la première fois que l’on entend une chanson française. Au nord de la route on croise un gars a côté de son pick up, couteau en main en train de dépecer une grosse bête, caribou ou orignal, sur une bache bleu. Quelques dizaines de mètres après on voit une grosse tache de sang sur la route, certainement l’endroit où il l’a percutée.
-On suit tout le long le pipeline qui achemine le pétrole de Prudhoe bay à Valdez.
-Si le temps était magnifique au départ de Fairbanks, il se gâte en montant vers le nord et je crain qu’il ne pleuve, ce qui rendrait la psite peu praticable.
-Arrivée au cercle polaire, un couple de Rangers acceuille les gens, lui sous une tente comptabilise les visiteurs et donne un certificat tandis que la femme se charge de prende les appareils photos pour prendre les gens devant le fameux panneau.
-Nous sommes bien tenter de poursuivre la route mais nous ne sommes pas équipé pour, les recommandations sont d’avoir 2 roues de secours, une CB, des outils, de l’eau de l’essence … On n’a pas tout ça et Thor n’est vraiment pas taillé pour ce genre d’aventure, ême s’il se débrouille bien sur les psites. Malgré que nous somme samedi, pas mal de poids lourd qui trace en direction du champ pétroliphère. Nous faisons donc retour sur Fairbanks et le temps de l^ve petit à petit. La fin de journée est très belle et offre une super lumière sur la steppe et forêt boréalues. On se pose près d’une lac à quelques centaines de mètre à l’écard de la route, super bivouac.
-Nous avons été félicté car nous faisons partie des 1% des visiteurs de l’Alaska  qui s’aventure plus au Nord, au delà de Fairbanks.
+Juste avant d'arriver à Fairbanks, nous passons le long de la très garnde "Eielson Air Force Base" où l’on peut voir de nombreux bombardiers B-52 stratofortress avec leurs 8 réacteurs et les ailes à l’arrêt qui semblent presque toucher le sol. L'Alaska touche la Russie en hiver par le détroit de Bering ce qui en fait une zone hautement statégique.
 
-## 06 Août  
 
-Route, piste jusqu’à Fairbanks ou nous faisons des courses. Au final on laisse tomber la visite de Chenal hot springs car trop de route et on par sur Deanli. Arrivés au visitor center on prend la doc et un billet pour le lendemain en car pour la journée visiste du parc dont l’accés est « privé ».Tous les campings sont pleins, on trouve un bivouac pas terrible proche de la route. Le temps se gate.
+Nous passons ensuite au hameau Pole North ou trône un immence père noël. Arrivé à fairbanks, petit tour au visitor center très beau et très bien arrangé avec espaces pédagogiques et petit théatre où nous pouvons voir se produire un groupe folklorique des First Nations. Petite visite de centre ville puis arrêt au Walmart qui dispose de places spéciales pour les RV, une première. Ici comme au canada, tous les véhicules sont équipés d’une prise électrique qui permet l’hiver de chauffer le moteur, du coup les parkings sont équipé de plots pour se brancher.
 
-## 07 Août  
+
+## 05 et 06 Août  
+
+Le temps est pluvieux et nous restons à Fairbanks pour une journée de repos. Nous partons le lendemain direction le Nord pour atteindre le cercle polaire, nous prenons la mythique Route 11 « Dalton Highway » qui va jusqu’à l’océan Arctique et Prudhoe Bay. Cette route est en grande partie une piste, assez bonne avec des portions goudronnées, parfois plus dangereuse que la piste. En route on croise un gars a côté de son pick up, couteau en main en train de dépecer une grosse bête, caribou ou orignal, sur une bache bleu. Quelques dizaines de mètres après on voit une grosse tache de sang sur la route, certainement l’endroit où il l’a percutée. Nous sommes calé sur la radio locale et sommes surpris d’entendre Foule sentimentale de Souchon, c’est bien la première fois que l’on entend une chanson française. 
+
+On suit tout le long le pipeline qui achemine le pétrole de Prudhoe bay à Valdez soit 1288 Kms d'oléoduc. 
+
+Arrivée au cercle polaire, un couple de Rangers acceuille les gens, lui sous une tente comptabilise les visiteurs et donne un certificat tandis que la femme se charge de prende les appareils photos pour shooter les gens devant le fameux panneau. Nous sommes bien tenter de poursuivre la route mais nous ne sommes pas équipé pour, les recommandations sont d’avoir 2 roues de secours, une CB, des outils, de l’eau de l’essence … On n’a pas tout ça et Thor n’est vraiment pas taillé pour ce genre d’aventure, même s’il se débrouille bien sur les pistes. Malgré que nous sommes samedi, nous croisons de nombreux poids lourd qui nous laisserons un petit souvenir, deux impacts sur le parebrise.  
+
+Si le temps était magnifique au départ de Fairbanks, il se gâte en montant vers le nord et je crain qu’il ne pleuve, ce qui rendrait la piste peu praticable pour nous. Nous décidon de faire retour sur Fairbanks quand le temps se lêve petit à petit. On se pose près d’un lac à quelques centaines de mètre à l’écard de la route. La fin de journée est très belle et offre une super lumière sur la Tundra et la forêt boréale. 
+
+Nous faisons partie des 1% des visiteurs de l’Alaska qui s’aventure plus au Nord, au delà de Fairbanks, je n'ose même pas penser le porcenage de ceux qui vont jusqu'à l'océan arctique. 
+
+Le lendemain de reprenons la route pour Fairbanks. On laisse tomber la visite de Chenal hot springs car cela nous prendrai une journée compléte et la météo semble se détériorer les prochains jours. Nous préférons priviligier la visite de Denali où nous arrivons en fin de journée. Une fois au visitor center on prend la doc et un billet pour une escursion le lendemain. Tous les campings du parc sont pleins, on trouve un bivouac pas terrible proche de la route, mais on trouveras mieux dès le lendemain.
+
+## 07 au 10 Août  
 
 Ce matin nous quitons notre bivouac et nous nous rendons directement au départ d’escursion. Nous prenons notre petit déjeuné et nous nous rendon au départ à 8h30. Les bus sont un peu veillot mais confortbable. nous partons pour Kantishna à 92 miles, 12 heures de car aller et retour. La piste serpente dans une vallée entourée de montagnes majesteuses. le beau temps et aux rendez-vous et nous avons la chance de voir le Mont Denali sans nuage, ce qui selon la chauffeuse-Guide est très rare. Sur la route nous croisons de nombreux caribou et ours Grizzly mais de loin. Au cours du trajet nous effectuons plusieurs stops, on peu descendre du bus et en prendre un autre plus tard. Aucun intéret d’aller jusqu’à Kantishna, Wonder lake et largement suffisent.
 
