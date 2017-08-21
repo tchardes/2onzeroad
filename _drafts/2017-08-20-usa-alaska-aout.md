@@ -4,7 +4,7 @@ title:   "Roadtrip du 02 août au   2017"
 preview:    "..."
 parent-id:  2017-08-02-canada-ouest-bilan
 
-date:       2017-08-25 13:00:00
+date:       2017-08-20 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt10.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt10.jpg
