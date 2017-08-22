@@ -186,7 +186,7 @@ Ce matin départ pour le ferry. De la pluie est annoncée pour toute la journée
 
 Nous nous garons dans la ville et faisons un petit tour. Cette ville a eu une importance capitale à la fin de 19éme siècle lors de la ruée vers l’or dans Yukon jusqu’à Dawson City. Tous les candidats à la fortume arrivaient ici en bateau avec leur tonne de matériel afin d’emprunter la Klondike Highway avant l'arrivée du chemin de fer à voie étroite construit en 26 mois seulement et qui les menaient à Whitehorse, Yukon, Canada, les bâteaux à aube prenant la suite.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36585692041/in/datetaken/" title="Skagway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4359/36585692041_32c05fd83b_k.jpg" width="2048" height="1152" alt="Skagway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36554944882/in/datetaken/" title="Skagway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4338/36554944882_2194bf566d_k.jpg" width="2048" height="1152" alt="Skagway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35915257843/in/datetaken/" title="Skagway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4340/35915257843_68c4b2b6c1_k.jpg" width="2048" height="1152" alt="Skagway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
