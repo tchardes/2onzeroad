@@ -1,7 +1,7 @@
 ---
 layout:  blog
-title:   "Roadtrip du 02 au 20 août 2017"
-preview:    "Neuvième article de type carnet de route, il couvre la période du 02 au 20 août durant laquelle nous avons traversé l'Alaska avec quelques incursions au..."
+title:   "Roadtrip du 02 au 19 août 2017"
+preview:    "Neuvième article de type carnet de route, il couvre la période du 02 au 19 août durant laquelle nous avons traversé l'Alaska avec quelques incursions..."
 parent-id:  2017-08-02-canada-ouest-bilan
 
 date:       2017-08-20 13:00:00
