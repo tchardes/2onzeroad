@@ -127,7 +127,7 @@ De retour, on s’arrête à l’église orthodoxe de Ninilchik qui témoigne du
 
 ## 14 Août  
 
-Nous visitons le centre de Kenai city puis nous partons pour Whittier, on décide de ne pas aller jusqu'à Seward. Arrivés au niveau du Lac Portage, on se trompe de route et on se retrouve dans la file pour prendre le tunnel qui mène au port de Whittier. Ce tunnel très étroit est long de 4,5 Kms il est emprunté par les véhicules et le train. Le port et la ville ne présentent aucun intérêt particulier. L’après midi, direction le glacier Byron. Je fais un petit trail qui permet d'arriver pratiquement au pied du glacier qui se trouve à une altitude de… 80 mètres.  
+Nous visitons le centre de Kenai city puis nous partons pour le glacier Portage, on décide de ne pas aller jusqu'à Seward. Arrivés au niveau du Lac Portage, on se trompe de route et on se retrouve dans la file pour prendre le tunnel qui mène au port de Whittier. Ce tunnel très étroit est long de 4,5 Kms il est emprunté par les véhicules et le train. Le port et la ville ne présentent aucun intérêt particulier. L’après midi, direction le glacier Byron. Je fais un petit trail qui permet d'arriver pratiquement au pied du glacier qui se trouve à une altitude de… 80 mètres.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36533859172/in/datetaken/" title="Péninsule de Kenai - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4442/36533859172_0c1c613032_k.jpg" width="2048" height="1152" alt="Péninsule de Kenai - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -139,7 +139,7 @@ Nous faisons route sur Anchorage et nous faisons halte au **Lake Hood Seaplane B
 
 ## 15 Août  
 
-Journée route en direction de Tok. La route n'est pas très bonne, beaucoup d'affaissements et de travaux. Nous passons devant l'immense glacier Matanuska qui est très visible depuis la route. Après 480 Kms, nous trouvons un bivouac au bord d'une belle rivière.  
+Journée route en direction de Tok. La route n'est pas très bonne, beaucoup d'affaissements et de travaux. Nous passons devant l'immense glacier Matanuska qui est bien visible depuis la route. Après 480 Kms, nous trouvons un bivouac au bord d'une belle rivière.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36305868590/in/datetaken/" title="Alaska - [USA]"><img src="https://farm5.staticflickr.com/4332/36305868590_f16721d450_k.jpg" width="2048" height="1152" alt="Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
