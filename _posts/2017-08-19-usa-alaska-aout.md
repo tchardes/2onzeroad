@@ -13,7 +13,7 @@ country: USA - Alaska
 category: "roadmap"
 flickr-tag: ""
 location: "64.951904, -151.066390"
-itinary: "Alaska.json"
+itinary: "alaska.json"
 
 ---
 
