@@ -19,6 +19,8 @@ itinary: "Alaska.json"
 
 Neuvième article de type carnet de route, il couvre la période du 02 au 20 août durant laquelle nous avons traversé l'Alaska avec quelques incursions au Canada, Yukon et Colombie Britannique, une partie de l'Alaska des USA n'étant accéssible que par le Canada ou par bateau. Cet état, le 49éme, est le plus grand et le moins peuplé des USA, grand comme trois fois la France, il ne compte que 732 000 Hbts.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35635227864/in/datetaken/" title="Alaska - [USA]"><img src="https://farm5.staticflickr.com/4408/35635227864_b3cce169eb_k.jpg" width="2048" height="1152" alt="Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
+
 ## 02 Août  
 
 Toujours sur la piste de la "Top of the World Highway", nous passons la frontière pour rentrer à nouveau aux USA en fin de matinée. Après les quelques questions habituelles à l’immigration, nous reprenons la route. Un superbe enrobé nous acceuille côté USA pendant une dizaine de kilomètres qui se tranforme en piste à nouveau et de bien moindre qualité que du côté Canada. En route, nous voyons un couple en train de chercher de l’or dans une rivière. On discute un peu, ils ont au moins 70 ans. Lui creuse et remplit des sceaux pendant que madame tamise et cherche l’or dans l’eau de la rivière. Il me dit qu’ils en trouvent un peu tous les jours…  
