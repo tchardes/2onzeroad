@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "Canada_Manitoba"
-permalink: "/writing/destination/Canada_manitoba/"
+destination: "Canada - Manitoba"
+permalink: "/writing/destination/Canada-manitoba/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

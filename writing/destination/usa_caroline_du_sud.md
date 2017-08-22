@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
 destination: "USA - Caroline du Sud"
-permalink: "/writing/destination/usa-caroline_du_sud/"
+permalink: "/writing/destination/usa-caroline-du-sud/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

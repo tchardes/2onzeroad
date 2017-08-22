@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
 destination: "USA - Virginie Occidentale"
-permalink: "/writing/destination/usa-virginie_occidentale/"
+permalink: "/writing/destination/usa-virginie-occidentale/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

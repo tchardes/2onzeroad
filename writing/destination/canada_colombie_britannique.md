@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "Canada_Colombie Britannique"
-permalink: "/writing/destination/Canada_colombie-britannique/"
+destination: "Canada - Colombie Britannique"
+permalink: "/writing/destination/Canada-colombie-britannique/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

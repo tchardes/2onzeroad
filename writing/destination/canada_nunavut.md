@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "Canada_Nunavut"
-permalink: "/writing/destination/Canada_nunavut/"
+destination: "Canada - Nunavut"
+permalink: "/writing/destination/Canada-nunavut/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

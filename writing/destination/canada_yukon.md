@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "Canada_Yukon"
-permalink: "/writing/destination/Canada_yukon/"
+destination: "Canada - Yukon"
+permalink: "/writing/destination/Canada-yukon/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

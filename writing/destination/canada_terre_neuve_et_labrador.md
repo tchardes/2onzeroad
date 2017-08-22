@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "Canada_Terre-Neuve et Labrador"
-permalink: "/writing/destination/Canada_terre_neuve_et_labrador/"
+destination: "Canada - Terre-Neuve et Labrador"
+permalink: "/writing/destination/Canada-terre-neuve-et-labrador/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

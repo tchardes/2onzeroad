@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "Canada_Québec"
-permalink: "/writing/destination/Canada_quebec/"
+destination: "Canada - Québec"
+permalink: "/writing/destination/Canada-quebec/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

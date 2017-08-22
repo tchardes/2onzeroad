@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "Canada_Nouvelle Écosse"
-permalink: "/writing/destination/Canada_nouvelle_ecosse/"
+destination: "Canada - Nouvelle Écosse"
+permalink: "/writing/destination/Canada-nouvelle-ecosse/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "Canada_Ontario"
-permalink: "/writing/destination/Canada_ontario/"
+destination: "Canada - Ontario"
+permalink: "/writing/destination/Canada-ontario/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 ---
 
