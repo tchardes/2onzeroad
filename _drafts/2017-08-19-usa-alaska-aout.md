@@ -110,7 +110,7 @@ Nous partons, en fin d’après-midi, pour la péninsule de Kenai sous la pluie,
 
 Il a plu toute la nuit et on a très mal dormi mais aujourd'hui le temps semble se lever. Départ du Bivouac pour Homer, petite ville au sud ouest de la péninsule de Kenai et fin de la route. Trajet très agréable, on longe le Golf de Cook et peut voir la chaine de montagne aux monts enneigés en face de ce bras de mer.   
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36308615630/in/datetaken/" title="Péninsule de Kenai - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4428/36308615630_524c5b28fe_k.jpg" width="2048" height="1152" alt="Péninsule de Kenai - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36310955510/in/datetaken/" title="Péninsule de Kenai - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4387/36310955510_3d68a40a7a_k.jpg" width="2048" height="1152" alt="Péninsule de Kenai - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 En chemin, nous observons une femelle moose avec ses deux petits en train de « brouter » puis arrivée à Homer où nous nous arrêtons dans un premier temps au visitor center, très beau et pédagogique comme souvent.  
 
