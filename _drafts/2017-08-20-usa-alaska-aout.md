@@ -88,14 +88,14 @@ Nous partons, en fin d’après-midi, pour la péninsule de Kenai sous la pluie,
 ## 13 Août  
 
 Il a plu toute la nuit et on a très mal dormi mais aujourd'hui le temps semble se lever. Départ du Bivouac pour Homer, petite ville au sud ouest de la péninsule de Kenai et fin de la route.
-Trajet très agréable, on longe le Golf de Cook et peut voir la chaine de montagne aux monts enneigés en face de ce bras de mer. En chemin, nous observons une femelle mouse avec ses deux petits en train de « brouter » puis arrivée à Homer où nous nous arrêtons dans un premier temps au visitor center, très beau et pédagogique comme souvent. Nous rentrons dans la ville et allons directement à la marina au bout d’une langue de terre. La ville se trouve le long d’une bras de mer Kachemak Bay juste en face le Parc Kachemak qui présente une belle chaine de montagne et un magnifique glacier. Vers la marina, il y a de très jolies boutiques construites sur pilotis.
+Trajet très agréable, on longe le Golf de Cook et peut voir la chaine de montagne aux monts enneigés en face de ce bras de mer. En chemin, nous observons une femelle moose avec ses deux petits en train de « brouter » puis arrivée à Homer où nous nous arrêtons dans un premier temps au visitor center, très beau et pédagogique comme souvent. Nous rentrons dans la ville et allons directement à la marina au bout d’une langue de terre. La ville se trouve le long d’une bras de mer Kachemak Bay juste en face le Parc Kachemak qui présente une belle chaine de montagne et un magnifique glacier. Vers la marina, il y a de très jolies boutiques construites sur pilotis.
 De retour, on s’arrête à l’église orthodoxe de Ninilchik qui témoigne du passé russe de l’Alaska.
 
 
 ## 14 Août  
 
 
-Départ de Kenai city pour Withier, on se trompe de route et on se retrouve dans la file pour prendre le tunnel qui mène au port de Whittier, sans intérêt. L’après midi, direction le glacier Byron, puis route sur Anchorage où nous faisons le plein d’eau, de propane et de gasoline. Bivouac à Cabela’s.
+Départ de Kenai city pour Whittier, on se trompe de route et on se retrouve dans la file pour prendre le tunnel qui mène au port de Whittier, sans intérêt. L’après midi, direction le glacier Byron, puis route sur Anchorage où nous faisons le plein d’eau, de propane et de gasoline. Bivouac à Cabela’s.
 
 
 ## 15 Août  
