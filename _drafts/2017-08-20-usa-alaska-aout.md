@@ -187,18 +187,5 @@ Arrêt au visitor center et visite rapide de la petit bourgade située en bout d
 
 
 Ce matin depart pour le ferry. De la puie est annocée pour toute la journée, pour l’instant le cile est gris mais il ne pleut pas. Nous rentrond dans le bateau par une porte de côté à l’avant ce qui nous oblige à faire demi tour pour se mettre dans la file en position de départ pour la sortie. La traversée est tranquille, la mer est calme, on s’enfons au fond d’un fjord et arrivons à Skagway. Dernier rentré sur le bateau et premier sortis. Nous nous garons dans la ville et faisons un petit tour. Cette ville à eu une importance capitale à la fin de 19éme siècle lors de la rué vers l’or dans Yukon jusqu’à Dawson City. Tous les candidats à la fortume arrivaient ici en bateau avec leur tonne de matériel afin d’emprunter la Klondike Highway, puis après le chemin de fer à voe étroite construit en 26 mois seulement et qui les menaient à Whitehorse, Yukon, Canada.
-Nous prenons la route en direction de Whitehorse ou nous avons déjà passé deux jours. Capitale du Yukon, nous allons en profiter pour s’oocuper de la logistique, lessives, vidange… Nous prenons don la Klondike Highway que nous avion emprunter pour aller de Whitehorse à Dawson City. Peu après Skagway et avoir passé le poste frontière des USA sans nous arrêter, nous arrivons sur un plateau compsé d’un chaos de rochers et de pierres et d’une multitides de lacs, du plus petit au très grands lac Summit Lake et Bernard lake. Le décors est absoluement inhabituel et magnifiques. Nous passons la frontière canadienne à Fraser a 12 Kms du Poste US . Quelques question habituelles et nous pouvons continuer notre route. Arrêt dans un premier temps au Ykon Suspension Bridge, passerelle assez longue qui traverse le Ykon (15$CA/Pers.) puis à la jolie bourgade de Carcross qui a renové son centre avec de nombreuses boutiques autour du visitor center aux couleurs des First Nation. Un grand totem trone en son centre. Arrivé à Whitehorse où nous avons nos repaires nous nous installons pour deux ou trois jours.
-
-## 20 Août  
-
-
-
-
-## 21 Août  
-
-
-
-
-
-
+Nous prenons la route en direction de Whitehorse ou nous avons déjà passé deux jours. Capitale du Yukon, nous allons en profiter pour s’oocuper de la logistique, lessives, vidange… Nous prenons don la Klondike Highway que nous avion emprunter pour aller de Whitehorse à Dawson City. Peu après Skagway et avoir passé le poste frontière des USA sans nous arrêter, nous arrivons sur un plateau compsé d’un chaos de rochers et de pierres et d’une multitides de lacs, du plus petit au très grands lac Summit Lake et Bernard lake. Le décors est absoluement inhabituel et magnifiques. Nous passons la frontière canadienne à Fraser a 12 Kms du Poste US . Quelques question habituelles et nous pouvons continuer notre route. Arrêt dans un premier temps au Ykon Suspension Bridge, passerelle assez longue qui traverse le Ykon (15$CA/Pers.) puis à la jolie bourgade de Carcross qui a renové son centre avec de nombreuses boutiques autour du visitor center aux couleurs des First Nation. Un grand totem trone en son centre. Arrivé à Whitehorse où nous avons nos repaires nous nous installons pour deux ou trois jours.  
 
