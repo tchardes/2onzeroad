@@ -118,6 +118,8 @@ En chemin, nous observons une femelle moose avec ses deux petits en train de «�
 
 Nous rentrons dans la ville et allons directement à la marina au bout d’une langue de terre. La ville se trouve le long d’une bras de mer Kachemak Bay juste en face le Parc Kachemak qui présente une belle chaine de montagne et un magnifique glacier. Vers la marina, il y a de très jolies boutiques construites sur pilotis.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36706089105/in/datetaken/" title="Péninsule de Kenai - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4422/36706089105_08dba1b159_k.jpg" width="2048" height="1152" alt="Péninsule de Kenai - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36310629010/in/datetaken/" title="Péninsule de Kenai - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4360/36310629010_39cf1c5657_k.jpg" width="2048" height="1365" alt="Péninsule de Kenai - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 De retour, on s’arrête à l’église orthodoxe de Ninilchik qui témoigne du passé russe de l’Alaska. C'est en effet en 1867 que la Russie vendit le territoire de l’Alaska aux Etats-Unis pour la somme dérisoire de 7.2 millions de dollars.  
