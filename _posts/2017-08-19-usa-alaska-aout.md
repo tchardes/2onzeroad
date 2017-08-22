@@ -6,8 +6,8 @@ parent-id:
 
 date:       2017-08-20 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt10.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt10.jpg
+header-img: "assets/owner/blog/header/post-bg-rt09.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt09.jpg
 tags: []
 country: USA - Alaska
 category: "roadmap"
