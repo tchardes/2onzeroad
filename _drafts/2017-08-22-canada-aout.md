@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Roadtrip du 19 août au  2017"
-preview:    "Dixième article de type carnet de route, il couvre la période du 19 août au durant laquelle nous avons traversé ..."
+preview:    "Dixième article de type carnet de route, il couvre la période du 19 août au        durant laquelle nous avons traversé ..."
 parent-id: 
 
 date:       2017-08-19 13:00:00
@@ -34,3 +34,46 @@ Nous nous garons dans la ville et faisons un petit tour. Cette ville a eu une im
 
 Nous prenons la route en direction de Whitehorse où nous avons déjà passé deux jours. Capitale du Yukon, nous allons en profiter pour s’occuper de la logistique, lessives, vidange… Nous prenons donc la Klondike Highway que nous avions emprunter pour aller de Whitehorse à Dawson City. Peu après Skagway et avoir passé le poste frontière des USA sans nous arrêter, nous arrivons sur un plateau composé d’un chaos de rochers et de pierres et d’une multitide de lacs, du plus petit au très grand lac Summit Lake et Bernard lake. Le décor est absoluement inhabituel et magnifique même si le temps est maussade. Nous passons la frontière canadienne à Fraser en Colombie Britannique, à 12 Kms du Poste US. Quelques questions habituelles et nous pouvons continuer notre route. Arrêt dans un premier temps au Yukon Suspension Bridge, passerelle assez longue qui traverse la rivière Klondike (15$CA/Pers.) puis passage dans le territoire du Yukon et arrêt à la jolie bourgade de Carcross qui a rénové son centre avec de nombreuses boutiques autour du visitor center aux couleurs des First Nations. Un grand totem trône en son centre. Arrivés à Whitehorse où nous avons nos repaires, nous nous installons pour deux ou trois jours.   
 
+## 20 Août   
+
+
+
+## 20 Août  
+
+
+
+
+## 20 Août  
+
+
+
+
+
+## 20 Août  
+
+
+
+
+
+
+## 20 Août  
+
+
+
+
+
+
+## 20 Août  
+
+
+
+
+
+## 20 Août  
+
+
+
+
+
+
+## 20 Août  
