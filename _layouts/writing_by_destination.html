@@ -10,7 +10,7 @@ title: destination archive
     {% endif %}
 {% endfor %}
 
-{% if page.flickr-tag == "" %}
+{% if !page.flickr-tag OR page.flickr-tag == "" %}
     {% assign tagClean = page.destination %}
     {% if tagClean contains " - " %}
         {% assign tagCleanArray = tagClean | split: " - "  %}
