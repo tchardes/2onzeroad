@@ -31,6 +31,7 @@ function gup( name, url ) {
    }
 
    function createPager(element, parameters) {
+       if(element == null) return;
       var pagesToShow = 5;
       var url = '/search/' + parameters.query + '/';
       element.textContent = '';
