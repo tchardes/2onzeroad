@@ -100,36 +100,43 @@ function gup( name, url ) {
       gallery.createThumbnailsGallery(document.getElementsByClassName('js-thumbnails__list')[0]);
    }
 
-   function init() {
+    function init() {
 
-      document.getElementsByClassName('js-form-search')[0].addEventListener('submit', function(event) {
-         event.preventDefault();
+        var formSearch = document.getElementsByClassName('js-form-search')[0];
+        if(formSearch != null) {
+            formSearch.addEventListener('submit', function(event) {
+                event.preventDefault();
 
-         lastSearch = document.getElementById('query').value;
-         if (lastSearch.length > 0) {
-            searchPhotos(lastSearch, 1);
-         }
-      });
+                lastSearch = document.getElementById('query').value;
+                if (lastSearch.length > 0) {
+                    searchPhotos(lastSearch, 1);
+                }
+            });
+        }
 
-      var leftArrow = document.getElementsByClassName('js-gallery__arrow--left')[0];
-      leftArrow.addEventListener('click', function() {
-         gallery.showPrevious.bind(gallery)();
-      });
-      leftArrow.addEventListener('keydown', function(event) {
-         if (event.which === 13) {
-            gallery.showPrevious.bind(gallery)();
-         }
-      });
+        var leftArrow = document.getElementsByClassName('js-gallery__arrow--left')[0];
+        if(leftArrow != null) {
+            leftArrow.addEventListener('click', function() {
+                gallery.showPrevious.bind(gallery)();
+            });
+            leftArrow.addEventListener('keydown', function(event) {
+                if (event.which === 13) {
+                    gallery.showPrevious.bind(gallery)();
+                }
+            });
+        }
 
-      var rightArrow = document.getElementsByClassName('js-gallery__arrow--right')[0];
-      rightArrow.addEventListener('click', function() {
-         gallery.showNext.bind(gallery)();
-      });
-      rightArrow.addEventListener('keydown', function(event) {
-         if (event.which === 13) {
-            gallery.showNext.bind(gallery)()();
-         }
-      });
+        var rightArrow = document.getElementsByClassName('js-gallery__arrow--right')[0];
+        if(rightArrow != null) {
+            rightArrow.addEventListener('click', function() {
+                gallery.showNext.bind(gallery)();
+            });
+            rightArrow.addEventListener('keydown', function(event) {
+                if (event.which === 13) {
+                    gallery.showNext.bind(gallery)()();
+                }
+            });
+        }
 
       document.getElementsByClassName('js-thumbnails__pager')[0].addEventListener('click', function(event) {
          event.preventDefault();
