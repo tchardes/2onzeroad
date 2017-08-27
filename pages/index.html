@@ -115,7 +115,8 @@ permalink: ./index.html
               {% endfor %}
 
               {% for destination in destinations %}
-                <div><a href="{{ site.baseurl }}/writing/destination/{{ destination | slugify }}"/><i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{destination}}</a></div>
+                {% assign cleanCountry = destination | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e'  %}
+                <div><a href="{{ site.baseurl }}/writing/destination/{{ cleanCountry | slugify }}"/><i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{destination}}</a></div>
               {% endfor %}
           </div>
           <hr />
