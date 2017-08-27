@@ -138,21 +138,24 @@ function gup( name, url ) {
             });
         }
 
-      document.getElementsByClassName('js-thumbnails__pager')[0].addEventListener('click', function(event) {
-         event.preventDefault();
-         var page;
-         var currentLink = this.getElementsByClassName('current')[0];
-         if (event.target.nodeName === 'SPAN') {
-            page = event.target.textContent;
-         } else if (event.target.nodeName === 'A') {
-            page = event.target.getElementsByClassName('js-page-number')[0].textContent;
-         }
+        var pager = document.getElementsByClassName('js-thumbnails__pager')[0];
+        if(pager != null) {
+            pager.addEventListener('click', function(event) {
+                event.preventDefault();
+                var page;
+                var currentLink = this.getElementsByClassName('current')[0];
+                if (event.target.nodeName === 'SPAN') {
+                    page = event.target.textContent;
+                } else if (event.target.nodeName === 'A') {
+                    page = event.target.getElementsByClassName('js-page-number')[0].textContent;
+                }
 
-         // Avoid reloading the same page
-         if (page && page !== currentLink.getElementsByClassName('js-page-number')[0].textContent) {
-            searchPhotos(lastSearch, page);
-         }
-      });
+                // Avoid reloading the same page
+                if (page && page !== currentLink.getElementsByClassName('js-page-number')[0].textContent) {
+                    searchPhotos(lastSearch, page);
+                }
+            });
+        }
 
       // Kickstart the page
       searchPhotos(lastSearch, 1);
