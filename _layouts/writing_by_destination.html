@@ -88,27 +88,7 @@ title: destination archive
              <h3>Aperçus de photos taggées <strong>{{tagClean}}</strong>... </h3>
         </div>
 
-        <header class="island" style="display:none">
-            <form class="js-form-search form-search" action="/search" method="get" role="search">
-                <label style="font-size: 17px;" for="query">Search:</label>
-        
-                <div style="position: absolute;top: 80px; left: 90px;" id="outerFilterDiv">
-                    <input name="query" type="text" id="query" tabindex="2" style="height: 18px;color:#333;font-size: 13px;width: 140px;position: absolute; top: 1px; left: 1px; z-index: 2;border:none;" />
-                    <div style="position: absolute;" id="filterDropdownDiv">
-                        <select name="filterDropDown" id="filterDropDown" tabindex="1000" onchange="DropDownTextToBox(this,'query');" style="height: 20px;position: absolute;top: 0px; left: 0px; z-index: 1; width: 165px;">
-                            <optgroup label="Theme">
-                                {% for photoTag in site.data.tags %}
-                                    <option value="{{photoTag.name}}">{{photoTag.displayName}}</option>    
-                                {% endfor %}
-                            </optgroup>
-                        </select>
-                    </div>
-                </div>
-        
-                <input type="submit" value="Search" style="position: absolute;top: 80px; left: 280px;height: 21px;font-size: 13px;color: #333;"/>
-            </form>
-        </header>
-
+  
         <div class="island" style="display:none">
             <h3 id="photoTitle"></h3>
             <div class="js-gallery gallery">
