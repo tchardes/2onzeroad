@@ -13,8 +13,12 @@ function gup( name, url ) {
    var gallery;
 
    var lastSearch = gup("tag");
+   console.log(lastSearch);
+   
    if(!lastSearch || lastSearch === "") { lastSearch = tagClean; }
-
+   console.log(lastSearch);
+   console.log(tagClean);
+   
 
    function searchPhotos(text, page) {
       if (text.length === 0) {
