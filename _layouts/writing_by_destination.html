@@ -16,7 +16,7 @@ title: destination archive
         {% assign tagCleanArray = tagClean | split: " - "  %}
         {% assign tagClean = tagCleanArray | last  %}
     {% endif %}
-{% if else %}
+{% else %}
     {% assign tagClean = post.flickr-tag %}
 {% endif %}
 
