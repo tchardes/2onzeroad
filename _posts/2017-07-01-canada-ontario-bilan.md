@@ -8,7 +8,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-bilan-canada1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-bilan-canada1.jpg
 tags: []
-country: Canada
+country: Canada - Ontario
 category: "bilan"
 flickr-tag: "Canada"
 location: "46.838859, -72.481945"
