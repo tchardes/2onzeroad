@@ -45,15 +45,15 @@ permalink: ./index.html
 
 
           {% assign pendingArticlesCount = 10 %}
-          {% if site.posts.size < 14 %}
-            {% assign pendingArticlesCount = pendingArticlesCount | minus:4 %}
+          {% if site.posts.size < 18 %}
+            {% assign pendingArticlesCount = pendingArticlesCount | minus:8 %}
           {% endif %}
 
           {% assign postCount = 0 %}
-          {% for post in site.posts | limit:14 %}
+          {% for post in site.posts | limit:18 %}
             {% assign postCount = postCount | plus:1 %}
 
-            <div class="cd-timeline-block" {% if postCount > 4 %} style="display:none" {% endif %} >
+            <div class="cd-timeline-block" {% if postCount > 8 %} style="display:none" {% endif %} >
               <div class="cd-timeline-img cd-{{post.category}}">
               </div>
 
