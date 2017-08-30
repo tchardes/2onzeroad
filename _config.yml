@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "49.280323, -123.121452"
-  name: "Vancouver, Colombie Britannique, Canada"
-  date: "28 au 29 août 2017"
+  coordinates: "48.425435, -123.365163"
+  name: "Victoria, Colombie Britannique, Canada"
+  date: "30 août 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
