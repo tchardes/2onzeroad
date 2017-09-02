@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "49.163663, -123.936470"
-  name: "Nanaimo, Colombie Britannique, Canada"
-  date: "31 août 2017"
+  coordinates: "49.152965, -125.906625"
+  name: "Tofino, Colombie Britannique, Canada"
+  date: "01 et 02 septembre 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
