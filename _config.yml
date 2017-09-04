@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "47.612123, -122.335421"
-  name: "Seatle, Washington, USA"
+  name: "Seattle, Washington, USA"
   date: "04 septembre 2017"
 
 # set the encoding to utf-8
