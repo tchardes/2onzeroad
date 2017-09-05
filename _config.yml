@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "47.612123, -122.335421"
-  name: "Seattle, Washington, USA"
-  date: "04 septembre 2017"
+  coordinates: "47.811284, -123.600397"
+  name: "Olimpic NP, Washington, USA"
+  date: "05 au 09 septembre 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
