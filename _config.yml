@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "47.811284, -123.600397"
-  name: "Olimpic NP, Washington, USA"
+  name: "Olympic NP, Washington, USA"
   date: "05 au 09 septembre 2017"
 
 # set the encoding to utf-8
