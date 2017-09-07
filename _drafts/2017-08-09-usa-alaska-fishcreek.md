@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Fish Creek"
-preview:    "... "
+preview:    "Fish creek se trouve à l'extème sud de l'Etat de l'Alaska sur la commune de Hyder. On y accéde depuis le Canada par la ville de... "
 parent-id:  2017-08-19-usa-alaska-aout
 
 date:       2017-08-25 12:00:00
@@ -13,12 +13,11 @@ flickr-tag:
 country: USA - Alaska
 city: Hyder
 category: "blog"
-location: "63.542026, -150.995923"
+location: "55.966042, -130.062446"
 ---
 
 
-Fish creek se trouve à l'extème sud de l'Etat de l'Alaska sur la commune de Hyder. On y accéde depuis le Canada par la ville de Stewart en Colombie Britannique. Cette rivière est fréquentée tous les ans par les saumons qui viennent pondre dans cette rivière où ils sont nés. Gérée par le National Forest de ... Fish creek est le point final pour les saumons.
-
+Fish creek se trouve à l'extème sud de l'Etat de l'Alaska sur la commune de Hyder. On y accéde depuis le Canada par la ville de Stewart en Colombie Britannique. Cette rivière est fréquentée tous les ans par les saumons qui viennent pondre dans cette rivière où ils sont nés. Gérée par The Tongass National Forest, Fish creek est la destination finale pour les saumons.
 
 Ce site est fréquenté par tous les animaux qui viennent y chercher une repas facile, notamment les ours. Les saumons étant en position statique nageant dans le courant pour maintenir leur position, ils attendent tranquillement de mourrir d'épuisement, la ponte ayant été réalisée. Le site est aménangé d'un grand ponton qui longe et domine la rivière, permettant d'observer la faune en relative toute sécurité. 
 
