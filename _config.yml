@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "42.910965, -122.143199"
-  name: "Lassen Volcanic National Park, Californie, USA"
+  name: "Lassen Volcanic NP, Californie, USA"
   date: "12 septembre 2017"
 
 # set the encoding to utf-8
