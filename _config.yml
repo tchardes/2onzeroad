@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "42.910965, -122.143199"
-  name: "Crater Lake, Oregon, USA"
-  date: "09 septembre 2017"
+  name: "Lassen Volcanic National Park, Californie, USA"
+  date: "12 septembre 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
