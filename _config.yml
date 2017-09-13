@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "40.395285, -121.611502"
-  name: "Lassen Volcanic NP, Californie, USA"
-  date: "12 septembre 2017"
+  coordinates: "37.792685, -122.404473"
+  name: "San Francisco, Californie, USA"
+  date: "13 au 20 septembre 2017"
 
 # set the encoding to utf-8
 encoding: utf-8
