@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt6.jpg
 tags: []
 country: Canada - Québec
 category: "roadmap"
-flickr-tag: ""
+flickr-tag: "Québec"
 location: "46.537649, -74.668428"
 itinary: "canada2.json"
 

@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt4.jpg
 tags: []
 country: USA - Maine
 category: "roadmap"
-flickr-tag: ""
+flickr-tag: "Delaware, New Jersey, New York, Rhode Island, Massachusetts, New Hampshire, Maine"
 location: "41.920770, -73.032185"
 itinary: "estusa.json"
 

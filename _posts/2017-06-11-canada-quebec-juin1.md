@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt5.jpg
 tags: []
 country: Canada - Nouveau Brunswick
 category: "roadmap"
-flickr-tag: ""
+flickr-tag: "Québec"
 location: "46.505981, -65.874279"
 itinary: "canada1.json"
 

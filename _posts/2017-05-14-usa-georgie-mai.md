@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt2.jpg
 tags: []
 country: USA - Virginie
 category: "roadmap"
-flickr-tag: ""
+flickr-tag: "Géorgie, Caroline du sud, Caroline du Nord, Virginie, Washington DC, Maryland"
 location: "36.414880, -79.073924"
 itinary: "brpw.json"
 

@@ -9,7 +9,7 @@ date:       2017-04-24 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt-flo2.jpg
-tags: []
+tags: [Floride]
 country: USA - Floride
 category: "roadmap"
 flickr-tag: "Floride"

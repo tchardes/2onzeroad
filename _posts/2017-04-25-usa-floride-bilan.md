@@ -7,7 +7,7 @@ date:       2017-04-25 14:00:00
 author:     "Thierry & Corinne"
 header-img: "assets/owner/blog/header/post-bg-floride.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-floride.jpg
-tags: []
+tags: [Floride]
 country: USA - Floride
 category: "bilan"
 flickr-tag: "Floride"
