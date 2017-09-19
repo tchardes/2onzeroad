@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-boston.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-boston.jpg
 tags: [capitale, histoire, culturel]
-flickr-tag: ""
+flickr-tag: "Boston"
 country: USA - Massachusetts
 city: Boston
 category: "blog"

@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-montreal.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-montreal.jpg
 tags: [ville, culturel, histoire]
-flickr-tag: 
+flickr-tag: "Montréal"
 country: Canada - Québec
 city: Montréal
 category: "blog"

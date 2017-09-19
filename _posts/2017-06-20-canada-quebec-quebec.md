@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-quebec.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-quebec.jpg
 tags: [capitale, histoire, culturel, unesco]
-flickr-tag: 
+flickr-tag: "Québec"
 country: Canada - Québec
 city: 
 category: "blog"
