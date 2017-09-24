@@ -21,6 +21,7 @@ function gup( name, url ) {
     }
 
    function searchPhotos(text, page) {
+       console.log(page);
       if (text.length === 0) {
          //alert('Error: the field is required');
       }
