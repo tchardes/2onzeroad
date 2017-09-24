@@ -157,7 +157,8 @@ function gup( name, url ) {
                     page = event.target.getElementsByClassName('js-page-number')[0].page;
                     console.log(event.target);
                 }
-
+                console.log("page = " + page);
+                console.log("currentPage = " + currentLink.getElementsByClassName('js-page-number')[0].page);
                 // Avoid reloading the same page
                 if (page && page !== currentLink.getElementsByClassName('js-page-number')[0].page) {
                     searchPhotos(lastSearch, page);
