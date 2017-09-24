@@ -49,7 +49,7 @@ function gup( name, url ) {
       for (var key in previousLinks) {
          link = document.createElement('a');
          link.href = url + previousLinks[key];
-         link.innerHTML = '<span class="js-page-number" page="' + nextLinks[key] + '">' + key + '</span>';
+         link.innerHTML = '<span class="js-page-number"' + key + '</span>';
          var listItem = document.createElement('li');
          listItem.appendChild(link);
          element.appendChild(listItem);
@@ -86,7 +86,8 @@ function gup( name, url ) {
       for (key in nextLinks) {
          link = document.createElement('a');
          link.href = url + nextLinks[key];
-         link.innerHTML = '<span class="js-page-number" page="' + nextLinks[key] + '">' + key + '</span>';
+         link.innerHTML = '<span class="js-page-number"' + key + '</span>';
+         //link.innerHTML = '<span class="js-page-number" page="' + nextLinks[key] + '">' + key + '</span>';
          var listItem = document.createElement('li');
          listItem.appendChild(link);
          element.appendChild(listItem);
