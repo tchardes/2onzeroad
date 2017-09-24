@@ -151,16 +151,16 @@ function gup( name, url ) {
                 var page;
                 var currentLink = this.getElementsByClassName('current')[0];
                 if (event.target.nodeName === 'SPAN') {
-                    page = event.target.page;
+                    page = event.target.getAttribute("page");
                     console.log(event.target);
                 } else if (event.target.nodeName === 'A') {
-                    page = event.target.getElementsByClassName('js-page-number')[0].page;
+                    page = event.target.getElementsByClassName('js-page-number')[0].getAttribute("page");
                     console.log(event.target);
                 }
                 console.log("page = " + page);
-                console.log("currentPage = " + currentLink.getElementsByClassName('js-page-number')[0].page);
+                console.log("currentPage = " + currentLink.getElementsByClassName('js-page-number')[0].getAttribute("page"));
                 // Avoid reloading the same page
-                if (page && page !== currentLink.getElementsByClassName('js-page-number')[0].page) {
+                if (page && page !== currentLink.getElementsByClassName('js-page-number')[0].getAttribute("page")) {
                     searchPhotos(lastSearch, page);
                 }
             });
