@@ -28,7 +28,7 @@ function gup( name, url ) {
 
       Flickr.searchText({
          text: text,
-         per_page: 25,
+         per_page: 30,
          jsoncallback: 'Website.Homepage.showPhotos',
          page: page
       });

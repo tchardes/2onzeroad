@@ -21,6 +21,8 @@ title: destination archive
 {% endif %}
 
 
+
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
 <script type="text/javascript">
@@ -83,7 +85,7 @@ title: destination archive
         </div>
 
         <div class="col-md-4" style="text-align: right">
-             <h3><a style="color:white" href="{{ root_url }}/gallery/?tag={{tagClean}}">...vers la galerie</a> </h3>
+             <h3><a style="color:white" href="{{ root_url }}/gallery/?tag={{tagClean | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e'}}">...vers la galerie</a> </h3>
         </div>
     </div>
 
