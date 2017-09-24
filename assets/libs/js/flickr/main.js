@@ -152,8 +152,10 @@ function gup( name, url ) {
                 var currentLink = this.getElementsByClassName('current')[0];
                 if (event.target.nodeName === 'SPAN') {
                     page = event.target.textContent;
+                    console.log(event.target);
                 } else if (event.target.nodeName === 'A') {
                     page = event.target.getElementsByClassName('js-page-number')[0].textContent;
+                    console.log(event.target);
                 }
 
                 // Avoid reloading the same page
