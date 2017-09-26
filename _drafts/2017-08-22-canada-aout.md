@@ -74,30 +74,36 @@ Nous quittons "l'ALCAN" un peu avant Watson Lake pour prendre la British Columbi
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35468271783/in/datetaken/" title="Watson Lake - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4291/35468271783_2c120209df_k.jpg" width="2048" height="1152" alt="Watson Lake - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
-
-
+En fin de journée, nous quittons le Yukon pour la Colombie Britanique et passons en dessous du 60éme parallèle. Corinne nous trouve un super bivouac au bord d'une rivière "French Creek" qui était fait pour nous….
 
 ## 23 Août  
 
-Route plein sud sur la 37 que nous avons rebaptisé le Bears road. 
-Passage dans la capitale mondiale du Jade à Deaser Lake…
-En fin d’après-midi  nous avons croisé 7 oirs noirs à quelques dizaines de kiliomètres d’intervalle dont une maman avec son ourson. 
-J’ai également vu ce que je crois être un loup.
+Nous poursuivons notre descente plein sud et traversons la soit-disant capitale mondiale du Jade, Deaser Lake. Juste avant le village se trouve "Jade City" une très belle boutique qui propose, entre autre, de nombreux articles crées en jade. 
+En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de kiliomètres d’intervalle dont une maman avec son ourson. Pour l'instant la "37" que nous avons renommée la "The bear road" est bien goudronnée.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36823426555/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4407/36823426555_8a0c7f809c_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36426979800/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4367/36426979800_2f8409715f_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+Nous trouvons un bivouac peu avant Meziadin Juction où nous bifurquerons demain sur la 37A pour une nouvelle incursion en Alaska.
 
 ## 24 Août  
 
-Départ du bivouac directerion Fish creek. Un ours noir à traversé la route devant nous. Finalement la 37 et 37A sont gourdronnées tout le long, Passage devant la glacier Bear, passage de la frontiere sans contrôle puis arivée à Fish creek, 6$Cad pour la journée. 10 heures de choufe et seulement trois ours noirs au RDV, des saumons en pagailles. 
+A peine après avoir quitté notre lieu de stationnement, nous croisons un magnifique ours noir qui traverse la route devant nous, la journée commence bien. Nous bifurquons sur la 37A qui s'avèrera être goudronée également tout le long. Sur la route nous passons devant le magnifique "Bear glacier". 
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36657044542/in/datetaken/" title="Stewart - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4340/36657044542_ab23c61313_k.jpg" width="2048" height="1152" alt="Stewart - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+Nous traversons la ville de Stewart et passons la frontière, sans aucun contrôle, pour rentrer en Alaska à Hyder et plus précisément pour nous rendre à Fish Creek où nous passons une super journée malgrè le temps (voir l’article <a href="{{site.baseurl}}{% post_url 2017-08-25-usa-alaska-fishcreek %}">ici</a>). Depuis la fermeture des mines, Hyder ne compte plus qu'une petite centaine d'habitant et c'est autoproclamée "la ville fantôme la plus sympa d'Alaska".
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36939194400/in/datetaken/" title="Stewart - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4372/36939194400_2953fa5025_k.jpg" width="2048" height="1152" alt="Stewart - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
 ## 25 Août  
 
-Depart de Hyder sous la pluie. Poste frontière Canada ouvert, l’agent va chercher la responsable qui parle français, les queqstions habituelles et on discute un peu. Sur la route on voit un jeune ours morts, certainement dans la nuit, percuté par un camion. Plus loin nous voyons un ours sur le bas côté qui attend notre passage pour traverser. Arret à Gitanyow et Gitwangak, deux villages de First Nations qui dispose de très vieux mats totemiques et dans le dernier village le site historique de Battle Hill.
+Ce matin il pleut abondamment et la météo annonce ce même temps pour les jours à venir. Nous abandonons l'idée de nous rendre au "Salmon Glacier" et de passer une autre journée à observer les ours. Le poste frontière pour entrer au Canada est ouvert. L’agent va chercher la responsable du poste qui parle français. Elle nous pose les questions habituelles et on discute quelques minutes, on voit que cela lui fait plaisir de pratiquer un peu notre langue. Sur le bas côté de la route on voit un jeune ours morts, certainement dans la nuit, percuté par un camion. 
+
+
+Arret à Gitanyow et Gitwangak, deux villages de First Nations qui dispose de très vieux mats totemiques et dans le dernier village le site historique de Battle Hill.
 Nous nous arrêtons à Smithers, petite ville aux airs Tyroliens, passage de Thor au karcher, puis visite du centre ville. Un petit concert de rock en plein air, on va chercher une pizza et on mange en musique.  Une patrouille de la Gendarmerie Royale Canadienne arrive et je discute un peu avec eux, échange d’insignes. 
 Corinne nous trouve un bivoac à 30 Kms au bors d’une rivière.
 
