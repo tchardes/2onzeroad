@@ -146,12 +146,14 @@ Nous déjeuner dans un très bon restaurant le "Flying Pig" et je vais chez un b
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37268944731/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4375/37268944731_a636eedde3_k.jpg" width="2048" height="1152" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Retour à Thor, courses au Walmart puis départ ver le port de Tsawwassen distant de 40 Kms pour s’avancer pour lendemain.
+De retour à Thor, nous faisons les courses au Walmart et partons vers le port de Tsawwassen distant de 40 Kms pour s’avancer pour lendemain.
 
 
 ## 30 Août
 
-On arrive au port avec un peu d’avance, du coup on nous propose de prendre le bateau de 9h00 au lieu de 10H00 initialement prévu. Traversée d’1h30 très calme et très agréable. Le bateau se faufille entre les iles avant d’arriver à Vancouver. Route jusqu’à Victoria où nous avons un peu de mal à trouver une place. Visite de la ville très belle et très agréablement bien arrangée.
+Nous nous rendons au départ du Ferry pour l'Isle de Vancouvert qui habrite notamment Victoria, la capitale de la Colombie Brintannique. Nous avons réservé les billets à l'avance sur Internet et avons opté pour un aller Tsawwassen / Swartz Bay et un retour Nanaimo / Horseshoe Bay afin de ne pas passer deux fois par la même route et passez une journée de plus sur Vancouver City. Nous aurions pu également prendre le bateau à Victoria afin de rejoindre directement les USA à Port Angeles.
+
+On arrive au port avec un peu d’avance, du coup on nous propose de prendre le bateau de 9h00 au lieu de 10H00 comme initialement prévu. La traversée qui dure 1h30 est très calme et très agréable. Le bateau se faufile entre de nombreuses iles avant d’arriver à Swartz Bay. Une fois débarqué, nous faisons route jusqu’à Victoria où nous avons un peu de mal à trouver une place pour nous garer. Nous visitons la ville à pied Visite de la ville très belle et très agréablement bien arrangée.
 Nous partons par la scenic drive qui longe le mer vers l’Est. Nous longeons de superbes maisons, aussi bien ancienne que très moderne le tout dans des jardins magnifiques. Su la plage nous voyons deux piano droit mis à disposition, et nous voyons plusieurs jeunes cerf et biches « brouter » l’herbe dans les jardins des villas.
 Ensuite nous prenons la route de Nanaimo. En route Corinne nous trouve un super bivouac au bor de la plage. 
 
