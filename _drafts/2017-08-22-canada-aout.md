@@ -12,8 +12,8 @@ tags: []
 country: Canada - Colombie Britannique
 category: "roadmap"
 flickr-tag: "Yukon, Colombie Britannique"
-location: "64.951904, -151.066390"
-itinary: "Colombie.json"
+location: "54.221882, -125.543593"
+itinary: "colombie.json"
 
 ---
 
