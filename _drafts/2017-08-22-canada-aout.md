@@ -17,7 +17,7 @@ itinary: "Alaska.json"
 
 ---
 
-Dixième article de type carnet de route, il couvre la période du 19 août      durant laquelle nous avons traversé .  
+Dixième article de type carnet de route, il couvre la période du 19 août      durant laquelle nous avons traversé les territoires du Yukon et de la Colombie britannique avec une petit inscursion au sud de l'Alaska.  
 
 
 ## 19 Août   
@@ -26,33 +26,55 @@ Ce matin départ pour le ferry. De la pluie est annoncée pour toute la journée
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36585692041/in/datetaken/" title="Skagway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4359/36585692041_32c05fd83b_k.jpg" width="2048" height="1152" alt="Skagway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous nous garons dans la ville et faisons un petit tour. Cette ville a eu une importance capitale à la fin de 19éme siècle lors de la ruée vers l’or dans Yukon jusqu’à Dawson City. Tous les candidats à la fortume arrivaient ici en bateau avec leur tonne de matériel afin d’emprunter la Klondike Highway avant l'arrivée du chemin de fer à voie étroite construit en 26 mois seulement et qui les menaient à Whitehorse, Yukon, Canada, les bâteaux à aube prenant la suite.  
+Nous nous garons dans la ville et faisons un petit tour. Cette ville a eu une importance capitale à la fin de 19éme siècle lors de la ruée vers l’or dans le Yukon et plus particulièrement dans la région de Dawson City. Tous les candidats à la fortume arrivaient ici en bateau avec leur tonne de matériel afin d’emprunter la Klondike Highway avant l'arrivée du chemin de fer à voie étroite construit en 26 mois seulement et qui les menaient à Whitehorse, capitale du Yukon, les bâteaux à aube prenant ensuite le relais. Skagway a su garder son cachet d'antan même si aujourd'hui les chercheurs d'or ont été remplacé par les croisièristes, les boutiques de fournitures de matériel par les bijouteries, dont l'une affichait : "Nous avons des chaises pour les maris".
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36554944882/in/datetaken/" title="Skagway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4338/36554944882_2194bf566d_k.jpg" width="2048" height="1152" alt="Skagway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35915257843/in/datetaken/" title="Skagway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4340/35915257843_68c4b2b6c1_k.jpg" width="2048" height="1152" alt="Skagway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous prenons la route en direction de Whitehorse où nous avons déjà passé deux jours. Capitale du Yukon, nous allons en profiter pour s’occuper de la logistique, lessives, vidange… Nous prenons donc la Klondike Highway que nous avions emprunter pour aller de Whitehorse à Dawson City. Peu après Skagway et avoir passé le poste frontière des USA sans nous arrêter, nous arrivons sur un plateau composé d’un chaos de rochers et de pierres et d’une multitide de lacs, du plus petit au très grand lac Summit Lake et Bernard lake. Le décor est absoluement inhabituel et magnifique même si le temps est maussade. Nous passons la frontière canadienne à Fraser en Colombie Britannique, à 12 Kms du Poste US. Quelques questions habituelles et nous pouvons continuer notre route. Arrêt dans un premier temps au Yukon Suspension Bridge, passerelle assez longue qui traverse la rivière Klondike (15$CA/Pers.) puis passage dans le territoire du Yukon et arrêt à la jolie bourgade de Carcross qui a rénové son centre avec de nombreuses boutiques autour du visitor center aux couleurs des First Nations. Un grand totem trône en son centre. Arrivés à Whitehorse où nous avons nos repaires, nous nous installons pour deux ou trois jours.   
+Nous prenons la route en direction de Whitehorse où nous avons déjà passé deux jours. Nous allons en profiter pour s’occuper de la logistique, lessives, vidange… Nous prenons donc la Klondike Highway que nous avions déjà emprunter pour aller de Whitehorse à Dawson City. Peu après Skagway et avoir passé le poste frontière des USA sans nous arrêter, nous arrivons sur un plateau composé d’un chaos de rochers et de pierres et d’une multitide de lacs, du plus petit au très grands lacs Summit Lake et Bernard lake. Le décor est absoluement inhabituel et magnifique même si le temps est maussade.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35914319143/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4366/35914319143_9c5b8182dd_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous passons la frontière canadienne à Fraser en Colombie Britannique, à 12 Kms du Poste US. Quelques questions habituelles et nous pouvons continuer notre route. Arrêt dans un premier temps au Yukon Suspension Bridge, passerelle assez longue qui traverse la rivière Klondike (15$CA/Pers.) puis passage dans le territoire du Yukon et arrêt à la jolie bourgade de Carcross qui a rénové son centre avec de nombreuses boutiques autour du visitor center aux couleurs des First Nations et où trône en son centre un grand totem.    
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36552595312/in/datetaken/" title="Carcross - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4435/36552595312_7e6ce2205d_k.jpg" width="2048" height="1152" alt="Carcross - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+A la sortie de la ville nous passons devant le plus desert du monde, si l'on en croit la publicité. Il s'agit en fait d'une succésion de dunes venant de l'ancien lit d'un grand lac. Arrivés à Whitehorse où nous avons nos repaires, nous nous installons pour deux ou trois jours.   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36551841772/in/datetaken/" title="Carcross - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4432/36551841772_d4c526665c_k.jpg" width="2048" height="1152" alt="Carcross - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 20 Août   
 
-Ce matin courses à Walmart puis nous partons visiter le bateau à aube Klondike qui faisait la liaison à Dawson City, en cours de restauration.
-Ensuite départ pour le Miles Canyon où une passerelle permet de passer sur la rivière Yukon, étroite à cet endroit.
-Ensuite Visitor center pour traiter les photos et le site.
-Ce soir repas au Klondike Rib &Salmon. C’est le resto à faire à WhiteHorse, le gens font la queue dehors. Nous avons une table pour 19h20, nous retournons à Thor en attendant et Corinne voit sur la route, en pleine ville, un superbe renard qui déambule. Nous avons très bien mangé Boulettes de cerf, bison et sanglier et pour moi steack de bison pour finir très bons dessert, Bonanza brownie avec une boule de vanille et moi une Berry Pie, tarte chaude au fruits rouges et rubarbe avec une boule de vannile.
+Ce matin courses au Walmart puis nous partons visiter le bateau à aube Klondike qui faisait partie de la flotte qui assurait la liaison avec Dawson City, bien qu'en cours de restauration, la visite est très intéressante. Ces grandes embarcations étaient teruillaient hors du fleuve avant sa prise par les glaces.   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36692927746/in/datetaken/" title="Whitehorse - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4386/36692927746_27df072058_k.jpg" width="2048" height="1152" alt="Whitehorse - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36739906765/in/datetaken/" title="Whitehorse - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4421/36739906765_114b8c6503_k.jpg" width="2048" height="1152" alt="Whitehorse - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous poursuivons par le Miles Canyon, site au bord du fleuve Yukon où une passerelle permet de traverser un canyon creusé dans le basalte.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600670681/in/datetaken/" title="Whitehorse - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4408/36600670681_e127cdd244_k.jpg" width="2048" height="1152" alt="Whitehorse - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Le soir nous testons le Klondike Rib & Salmon. C’est le resto très typique à faire à WhiteHorse. Nous obtenons une table pour 19h30 et nous retournons à Thor en attendant de nous atabler. Sur le trajet, Corinne voit sur la route un superbe renard qui déambule tranquillement en pleine ville, tout juste inquiété par des jeunes qui font du skate board. Nous avons très bien mangé, boulettes de cerf, bison et sanglier et Bonanza brownie avec une boule de vanille pour Corinne et steack de bison et une Berry Pie, tarte chaude au fruits rouges et rubarbe avec une boule de vannile pour moi.
 
 ## 21 Août  
 
-Ce matin nous avions prevu de faire la vidange de Thor mais tous les magasins sont fermés. Après renseignement, le troisième lundi du mois d’août est un jour férié au Yukon, c’est la fête du « jour de la découverte », découverte de l’or dans le ruisseau Bonanza par des pioniers le 16 août 1896 qui va déclencher l’une des plus importante ruée vers l’or, puis l’anée suivante la création du territoire du Yukon.
-La laverie est quand même ouverte nous nous occupons du linge.
-Ensuite retour au visitor center pour profiter de leurs commodités.
+Ce matin nous avions prevu de faire la vidange de Thor mais tous les magasins sont fermés. Après renseignement, le troisième lundi du mois d’août est un jour férié au Yukon, c’est la fête du «jour de la découverte», découverte de l’or dans le ruisseau Bonanza par des pioniers le 16 août 1896 qui va déclencher l’une des plus importante ruée vers l’or, entrainant puis l’année suivante la création du territoire du Yukon.
+La laverie est quand même ouverte nous nous occupons du linge avant de retourner au visitor center pour profiter de leurs commodités.
 
 
 ## 22 Août  
 
-Ce matin vidange de Thor puis complément de courses et départ vers le sud. Pas mal de pluie sur la route.
-Arrêt à Teslin pour visiter un musée des First Nations avec quelques petits Totems.
-Ne pas oublier dans roadtrip de parler de Water Lake et des plaques d’immat.
+Ce matin "changement d'huile" de Thor puis complément des courses et départ vers le sud par l'Alaska Highway. Nous roulons toutes la matinée sous la pluie. Le temps se lêve en début d'après-midi et nous en profitons du coup pour faire un arrêt à Teslin et visiter un musée des First Nations. Très beaux bâtiment dont l'entrée est ornées de Totems et regroupant de nombreux objets traditionnels et stands de produits artisanaux.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36823930025/in/datetaken/" title="Teslin - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4422/36823930025_027176ea2d_k.jpg" width="2048" height="1152" alt="Teslin - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous quittons "l'ALCAN" un peu avant Watson Lake pour prendre la British Columbia Highway 37 que l'on redoute un peu car si l'on en croit notre guide, elle est principalement composée de pistes. Nous sommes passés par Watson Lake lors de notre montée ver l'Alaska et j'ai complétement oublié d'en parler, pourtant cette petite ville de moins de 1000 habitants présente la caractèristique de posséder une "forêt" de panneaux de signalisation. Tout commence en 1942 lorsque les militaires travaillant à la construction de la Route de l'Alaska, avaient pris l'habitude d'y mettre chacun un panneau indiquant la localité d'où ils venaient. La tradition s'est perpétué et tous les voyageurs passant par Watson lake laissent un souvenir, on en compte plus de 76000 aujourd'hui, principalement des plaques d'immatriculation.   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35468271783/in/datetaken/" title="Watson Lake - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4291/35468271783_2c120209df_k.jpg" width="2048" height="1152" alt="Watson Lake - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+
 
 
 
