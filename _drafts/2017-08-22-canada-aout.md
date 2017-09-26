@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Roadtrip du 19 août au  2017"
-preview:    "Dixième article de type carnet de route, il couvre la période du 19 août au        durant laquelle nous avons traversé ..."
+preview:    "Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé ..."
 parent-id: 
 
 date:       2017-08-19 13:00:00
@@ -17,7 +17,7 @@ itinary: "Colombie.json"
 
 ---
 
-Dixième article de type carnet de route, il couvre la période du 19 août      durant laquelle nous avons traversé les territoires du Yukon et de la Colombie britannique avec une petit inscursion au sud de l'Alaska.  
+Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé les territoires du Yukon et de la Colombie britannique avec une petit inscursion au sud de l'Alaska.  
 
 
 ## 19 Août   
