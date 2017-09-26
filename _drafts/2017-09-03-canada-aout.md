@@ -100,41 +100,52 @@ Nous traversons la ville de Stewart et passons la frontière, sans aucun contrô
 
 ## 25 Août  
 
-Ce matin il pleut abondamment et la météo annonce ce même temps pour les jours à venir. Nous abandonons l'idée de nous rendre au "Salmon Glacier" et de passer une autre journée à observer les ours. Le poste frontière pour entrer au Canada est ouvert. L’agent va chercher la responsable du poste qui parle français. Elle nous pose les questions habituelles et on discute quelques minutes, on voit que cela lui fait plaisir de pratiquer un peu notre langue. Sur le bas côté de la route on voit un jeune ours morts, certainement dans la nuit, percuté par un camion. 
+Ce matin il pleut abondamment et la météo annonce ce même temps pour les jours à venir. Nous abandonons l'idée de nous rendre au "Salmon Glacier" et de passer une autre journée à observer les ours. Le poste frontière pour entrer au Canada est ouvert. L’agent va chercher la responsable du poste qui parle français. Elle nous pose les questions habituelles et on discute quelques minutes, on voit que cela lui fait plaisir de pratiquer un peu notre langue. Sur le bas côté de la route on voit un jeune ours morts, certainement dans la nuit, percuté par un camion.   
 
+Arret à Gitanyow et Gitwangak, deux villages de First Nations qui présentent de très vieux mats totemiques et dans le dernier village le site historique de Battle Hill.  
 
-Arret à Gitanyow et Gitwangak, deux villages de First Nations qui dispose de très vieux mats totemiques et dans le dernier village le site historique de Battle Hill.
-Nous nous arrêtons à Smithers, petite ville aux airs Tyroliens, passage de Thor au karcher, puis visite du centre ville. Un petit concert de rock en plein air, on va chercher une pizza et on mange en musique.  Une patrouille de la Gendarmerie Royale Canadienne arrive et je discute un peu avec eux, échange d’insignes. 
-Corinne nous trouve un bivoac à 30 Kms au bors d’une rivière.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36498792504/in/datetaken/" title="Gitanyow - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4439/36498792504_d8e368a90a_k.jpg" width="2048" height="1152" alt="Gitanyow - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+Nous nous arrêtons à Smithers, petite ville aux airs Tyroliens. Nous en avons fini avec les pistes et nous nous arrêtons dans une station de lavage pour "décaper" Thor, heureusement qu'il est de couleur sable. Nous faisons unpetit tour  dans le centre ville et assistons à un petit concert de rock en plein air, on va se chercher une pizza et on mange en musique. Une patrouille de la Gendarmerie Royale Canadienne arrive et je discute un peu avec eux et on s'échange des insignes. On quitte le ville un peu tard et pour une fois nous roulons de nuit une trentaine de kilomètres avant de trouver un bivouac au bort d'une rivière.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36523697253/in/datetaken/" title="Smithers - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4399/36523697253_dcad9b14eb_k.jpg" width="2048" height="1152" alt="Smithers - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 ## 26 Août  
 
-Arrêt à Houston, capitale mondiale de la pêche de la truite de mer. Au visitor center trone une immence canne à pèche à la mouche de 20 mètres de haut.
-Le Wi-Fi est bon et je peux brancher l’ordinateur donc nous y reston une bonn epartie de la journée et j’en profite pour traiter les photos et les envoyer.
-Route jusquà Prince George, retour vers la civilisation. On voit de vache noire dans les près et on pense voir des ours pendant une fraction de seconde.
+Nous nous arrêtons à Houston, capitale mondiale de la pêche de la truite de mer. Au visitor center trône une immense canne à pèche à la mouche de 20 mètres de haut. Le Wi-Fi est bon et je peux brancher l’ordinateur, nous y restons une bonne partie de la journée et j’en profite pour traiter les photos et les envoyer.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37163634242/in/datetaken/" title="Houston - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4411/37163634242_9d7470b14b_k.jpg" width="2048" height="1152" alt="Houston - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
+En fin d'après-midi nous faisons route vers Prince George. Nous quittons avec regret le grand nord et faisons retour petit à petit vers la "civilisation", nous croisons les premières fermes et cultures, on pense voir des ours noirs pendant une fraction de seconde dans les champs mais non, ce ne sont ques des vaches….
 
 ## 27 Août  
 
-Nous partons faire le plein dans une station Esso qui propose également Dump et eau.
-A L’issue depart pour le visitor center pour prendre de la documentation sur le ville et nous partons le Parc Cottonwood Island parc qui prensente la particularité d’avoir une douzaine d’arbes sculptés par Elmer Gunderson, très beau et original.
-Nous partons en suite découvrir le centre ville par un circuit pédestre completement nul. Nous sommes dimacne et la ville est vraiment morte. Départ vers Vancouver, en route nous nous arrêtons à Quesnel ou nous faisons un tour au Pinnacles Provincial Parc, l’orison est enbrumée en raison des feux de forets dans la région. Les températures ont bien augemntée, nous sortons short, tee shirt et tongues.
+Arrivés à Prince George nous faisons le plein dans une station Esso qui propose également Dump et eau. A L’issue nous nous rendons au visitor center pour prendre de la documentation sur la ville et nous partons pour le Parc Cottonwood Island parc qui prensente la particularité d’avoir une douzaine d’arbes sculptés par Elmer Gunderson, un artiste local. Les températures ont bien augmentée, nous sortons short, tee shirt et tongs.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37334738275/in/datetaken/" title="Prince George - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4417/37334738275_b027951132_k.jpg" width="2048" height="1152" alt="Prince George - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37161112202/in/datetaken/" title="Prince George - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4409/37161112202_5a0010ba47_k.jpg" width="2048" height="1152" alt="Prince George - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous partons en suite découvrir le centre ville par un circuit pédestre qui s'avérer complémtement, de plus nous sommes dimanche et la ville est vraiment morte. Nous écourtons notre arrêt et partons en direction de Vancouver City, en route nous nous arrêtons à Quesnel ou nous faisons un trail au Pinnacles Provincial Parc, l’horizon est embrumée en raison des feux de forets dans la région. 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36520553873/in/datetaken/" title="Quesnel - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4371/36520553873_c7d561cf95_k.jpg" width="2048" height="1152" alt="Quesnel - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 
 
+## 28 et 29 Août
 
-## 28 Août
+Nous roulons toutes la journée du 28 pour arriver à Vancouver, la trans-canada Hwy est assez tortueuse et assez impressionnante le long de la rivière Thompson. Nous trouvons à nous poser en plein centre ville non loin d'un Wallmart et proche des transports en commun.
+Le lendemain on prend le métro en direction du centre ville, la journée est très belle. Arrêt au visitor center puis nous suivons un circuit pour voir les différents points d’intérêts. Le quartier de Gastown est très pitoresque avec notamment son horloge à vapeur "La Steam Clock" qui "siffle" tous les quarts d'heure à la façon d'une paquebot, le thème interprété par Big Ben. En se rendant vers le quartier chinois, on traverse des rues sales, squatées par de nombreux SDF et des personnes qui se font des shoots d’héroïne dans la rue.  
 
-Route jusquà Vancouver, beaucoup de routes dans canyon.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37013713770/in/datetaken/" title="IMG_4501"><img src="https://farm5.staticflickr.com/4361/37013713770_1fc126cd6b_k.jpg" width="2048" height="1365" alt="IMG_4501"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37240309042/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4380/37240309042_64dc161e9d_k.jpg" width="2048" height="1365" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Nous déjeuner dans un très bon restaurant le "Flying Pig" et je vais chez un barbier qui me taille très bien la barbe mais me loupe la coupe de cheveux. On fini la journée par le downtown et les quais de Coal Harbour où l'on assiste au balais incéssents des hydravions.  
 
-## 29 Août
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37013490870/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4484/37013490870_e5f5446499_k.jpg" width="2048" height="1152" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Très belle journée. On prend le métro et direction le centre ville. Arrêt au visitor center puis nous suivons un circuit pour voir les points d’interets. Certaines rues sont très bien arrangées et la rue d’après on se retrouve avec des SDF et des personnes qui se font des shoots d’héroine dans la rue. Déjeuner dans un très bon restaurant. Je vais chez un barbier qui me taille très bien les cheveux par contre me loupe la coupe, ne veux pas me couper les cheveux plus court en haut.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37268944731/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4375/37268944731_a636eedde3_k.jpg" width="2048" height="1152" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Retour à Thor, courses au Walmart puis départ ver le port distant de 40 Kms pour s’avancer pour demain matin.
 
 
