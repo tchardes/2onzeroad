@@ -9,11 +9,11 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt10.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt10.jpg
 tags: []
-country: USA - Alaska
+country: Canada - Colombie Britannique
 category: "roadmap"
-flickr-tag: ""
+flickr-tag: "Yukon, Colombie Britannique"
 location: "64.951904, -151.066390"
-itinary: "Alaska.json"
+itinary: "Colombie.json"
 
 ---
 
