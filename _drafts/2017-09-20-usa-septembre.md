@@ -6,14 +6,14 @@ parent-id:
 
 date:       2017-09-20 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt10.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt10.jpg
+header-img: "assets/owner/blog/header/post-bg-rt11.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt11.jpg
 tags: []
-country: USA - Alaska
+country: USA - Orégon
 category: "roadmap"
 flickr-tag: ""
-location: "64.951904, -151.066390"
-itinary: "Alaska.json"
+location: "42.642841, -122.887619"
+itinary: "oregon.json"
 
 ---
 
