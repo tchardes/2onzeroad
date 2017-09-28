@@ -4,7 +4,7 @@ title:      "Vancouver Island"
 preview:    "... "
 parent-id:  2017-09-03-canada-colombie-aout
 
-date:       2017-08-09 12:00:00
+date:       2017-09-03 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-vancouver.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-vancouver.jpg
