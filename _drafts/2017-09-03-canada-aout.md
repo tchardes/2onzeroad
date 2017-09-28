@@ -17,12 +17,12 @@ itinary: "colombie.json"
 
 ---
 
-Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé les territoires du Yukon et de la Colombie britannique avec une petit incursion au sud de l'Alaska.  
+Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé les territoires du Yukon et de la Colombie britannique avec une petite incursion au sud de l'Alaska.  
 
 
 ## 19 Août   
 
-Ce matin départ pour le ferry. De la pluie est annoncée pour toute la journée, pour l’instant le ciel est gris mais il ne pleut pas. Nous rentrons dans le bateau par une porte de côté à l’avant, ce qui nous oblige à faire demi tour pour se mettre dans la file en position de départ pour la sortie. La traversée est tranquille, l'océan est calme, on s’enfonce au fond d’un fjord et arrivons à Skagway. Dernier rentré sur le bateau et premier sorti.  
+Ce matin départ de Haines par le ferry. De la pluie est annoncée pour toute la journée, pour l’instant le ciel est gris mais il ne pleut pas. Nous rentrons dans le bateau par une porte de côté à l’avant, ce qui nous oblige à faire demi tour à l'intérieur pour se mettre dans la file en position de départ pour la sortie. La traversée est tranquille, l'océan est calme, on s’enfonce au fond d’un fjord et arrivons à Skagway. Dernier rentré sur le bateau et premier sorti.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36585692041/in/datetaken/" title="Skagway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4359/36585692041_32c05fd83b_k.jpg" width="2048" height="1152" alt="Skagway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
