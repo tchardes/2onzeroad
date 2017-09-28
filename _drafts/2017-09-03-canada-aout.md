@@ -204,16 +204,3 @@ Nous faisons route vers le centre de Vacouver en passant par le «Lions Gate bri
 Après le repas départ vers les USA. On quitte le Canada avec un petit pincement au coeur tant cette région nous à emballé. L’’agent de l’émigration nous parle directement en Français, assez rare pour un américain, nous discutons 5 minutes en plus des questions habituelles et nous pouvons y aller.
 Nous prenons contact avec Eric et Muriel qui sont toujours en Alaska, tout se passe bien ils profitent eux aussi un max.
 Nous arrivons à Seattle et allons directement au « Gaz Work Parc » un très beau parc où se trouve encore le squelette d’une ancienne usine de gaz et qui se trouve au bord de «Union Lake» juste en face la skyline de Seattle. Séance photos oblige jusqu’à la nuit noire. En, suite nous tentons un bivouac non loin du parc dans un quartier résidentiel, on va se faire discret…
-
-
-
-
-## 04 Septembre
-
-
-
-
-
-
-
-## 01 Septembre
