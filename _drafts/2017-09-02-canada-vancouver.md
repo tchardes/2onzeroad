@@ -8,7 +8,7 @@ date:       2017-09-03 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-vancouver.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-vancouver.jpg
-tags: [parc-naturel, mer / ocean]
+tags: [parc-naturel, mer_ocean]
 flickr-tag: "Victoria, Tofino, Ucluelet, Salish Sea, Duncan, Cobble Hill"
 country: Canada - Colombie Britannique
 city: 
