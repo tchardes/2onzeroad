@@ -37,13 +37,7 @@ Nous quittons la ville par la scenic drive qui longe le mer vers l’Est. Nous t
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36558031214/in/datetaken/" title="Victoria - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4457/36558031214_7ae5b366af_k.jpg" width="2048" height="1152" alt="Victoria - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
-
-Ensuite nous prenons la route de Nanaimo. En route Corinne nous trouve un super bivouac au bor de la plage.   
-
-
-
-
-## 31 Août  
+Le lendemain 
 
 Départ direction Nanaimo. En route arrêt au Cabble Hill Mountain pour faire une trail qui mène au sommet avec une super vue sur les iles au large de Vancouver Island.  (3kms +300 mètres).
 Après déjeuné nous reprenons la route et faisons un stop à Duncan, petit bourgade qui présente de nombreux Totems. Puis route jusqu’à Nanaimo où nous faisons le tour du centre ville et de la marina à pied. Rien d’extraordinaire. Nous arrêtons dans une station pour faire le plein et aussi dump et haut et un backpacker de Toronto vient me demander si nous pouvons l’avancer un peu. On le prend quelques kilomètres et le laissons à un croisement.
