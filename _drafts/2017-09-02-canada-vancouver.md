@@ -16,11 +16,22 @@ category: "blog"
 location: "48.945742, -124.601703"
 ---
 
-## 30 Août  
+Située sur la côte Pacifique du Canada, l'ile de Vancouver longue de 460 Kms abrite la capitale de la Colombie Britannique, Victoria. On y accède soit par avion soit par bateau. Plusieurs ports du continent déservent l'ile via la compagnie BC Ferries (www.bcferries.com). Nous avons réservé les billets à l'avance sur Internet et avons opté pour un aller Tsawwassen / Swartz Bay et un retour Nanaimo / Horseshoe Bay afin de ne pas passer deux fois par la même route et passez une journée de plus sur Vancouver City. Il est également possible de prendre le bateau à Victoria afin de rejoindre directement les USA à Port Angeles.   
 
-Nous nous rendons au départ du Ferry pour l'Isle de Vancouvert qui abrite notamment Victoria, la capitale de la Colombie Britannique. Nous avons réservé les billets à l'avance sur Internet et avons opté pour un aller Tsawwassen / Swartz Bay et un retour Nanaimo / Horseshoe Bay afin de ne pas passer deux fois par la même route et passez une journée de plus sur Vancouver City. Nous aurions pu également prendre le bateau à Victoria afin de rejoindre directement les USA à Port Angeles.  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36558984874/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4506/36558984874_4bb0c15915_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-On arrive au port avec un peu d’avance, du coup on nous propose de prendre le bateau de 9h00 au lieu de 10H00 comme initialement prévu. La traversée qui dure 1h30 est très agréable. Le bateau se faufile entre de nombreuses iles avant d’arriver à Swartz Bay. Une fois débarqué, nous faisons route jusqu’à Victoria où nous avons un peu de mal à trouver une place pour nous garer. Nous visitons la ville à pied Visite de la ville très belle et très agréablement bien arrangée.
+Le 3O août nous embarquons sur Queen of New Westminster. La traversée de la mer de Salish dure une heure et demi, le bateau se faufille entre de nombreuses iles et emprunte un canal assez étroit entre les iles de Galiano et Mayne, qui abritent de très belle maisons et de nombreux phare avant d'arriver à sur l'ile de Vancouver.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37013274100/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4457/37013274100_c4939c0e4c_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Une fois à terre nous faisons route directement vers Victoria. Cette ville crée par la Compagnie de la Baie d'Hudson, nommée ainsi du nom de la reine Victoria, elle devint le centre du commerce des fourrures dans les régions de l'ouest du Canada. Nous avons un peu de mal à trouver une place pour nous garer. Nous visitons le centre ville à pied en commençant par le parlement, batiment très british qui fait face au port et à la ville. Nous poursuivons notre visite jusqu'à Chinatown avant de revenir sur nos pas en passant devant le Royal BC Museum où sont exposés de nombreux totems témoins du passé des tribus Salish. 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37222095386/in/datetaken/" title="Victoria - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4437/37222095386_648f89e12b_k.jpg" width="2048" height="1152" alt="Victoria - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36558791644/in/datetaken/" title="Victoria - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4446/36558791644_8cbe81e773_k.jpg" width="2048" height="1152" alt="Victoria - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36558373814/in/datetaken/" title="Victoria - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4414/36558373814_5e6c88c067_k.jpg" width="2048" height="1152" alt="Victoria - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
 Nous partons par la scenic drive qui longe le mer vers l’Est. Nous longeons de superbes maisons, aussi bien ancienne que très moderne le tout dans des jardins magnifiques. Su la plage nous voyons deux piano droit mis à disposition, et nous voyons plusieurs jeunes cerf et biches « brouter » l’herbe dans les jardins des villas.
 Ensuite nous prenons la route de Nanaimo. En route Corinne nous trouve un super bivouac au bor de la plage.   
 
