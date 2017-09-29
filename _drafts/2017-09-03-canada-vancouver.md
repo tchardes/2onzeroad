@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Vancouver Island"
 preview:    "... "
-parent-id:  2017-09-03-canada-colombie-aout
+parent-id:  2017-09-03-canada-aout
 
 date:       2017-09-03 12:00:00
 author:     "Thierry"
