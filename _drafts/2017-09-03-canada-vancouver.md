@@ -54,24 +54,27 @@ En repartant vers le Nord nous nous arrêtons faire le **Nuu-Chah-Nulth Trail** 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36597381023/in/datetaken/" title="Ucluelet - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4352/36597381023_09f048f705_k.jpg" width="2048" height="1152" alt="Ucluelet - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous passons la ligne du 49ème parallèle et finissons la journée en promenant sur le **Rainforest Trail**, une boucle de 1 Km qui serpente entre les immenses arbres d’une forêt humide sur des passerelles et escaliers en bois, parfois un peu bancales.
+Nous passons la ligne du 49ème parallèle et finissons la journée en promenant sur le **Rainforest Trail**, deux boucles de part et d'autre de la route de 1 Km qui serpentent entre les immenses arbres d’une forêt humide sur des passerelles et escaliers en bois, parfois un peu bancales.
 
 
-## 02 Septembre
+Le 02 septembre, il fait encore très beau et nous partons pour le **Schooner Cove Trail** (2kms +90 mètres) très beau sentier entièrement sur pilotis, de grands escaliers qui serpente entre les arbres pour arriver sur une immense plage, c’est magnifique.
 
-Ce matin il fait encore très beau et nous partons pour le « Schooner Cove Trail » (2kms +90 mètres) très beau sentier entièrement sur pilotis, de grands escaliers qui serpente entre les arbres pour arriver sur une immense plage, c’est magnifique.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37266600291/in/datetaken/" title="Tofino - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4364/37266600291_f90540b143_k.jpg" width="2048" height="1152" alt="Tofino - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous partons ensuite au bout de la presqu’île pour faite le trail « Tonquin Trail » un boucle de 2,6kms qui mène à une petite plage et un très beau point de vue.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37219790336/in/datetaken/" title="Tofino - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4429/37219790336_a61b8760c7_k.jpg" width="2048" height="1152" alt="Tofino - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous nous arrêtons enfin à Tofino où nous trouvons difficilement une place. Il s’agit d’une petit ville balnéaire entièrement tournée vers le tourisme, les commerces sont très beaux et l’ambiance est assez cool avec ces nombreuses boutiques de planches de surf et les jeunes qui vont avec.
-Nous repartons en fin d’après-midi pour Nanaimo afin d’être près de bateau pour demain matin. En route nous nous arrêtons juste après Port Alberti dans une immense forêt qui fait partie du MacMillan provincial park peuplée de Pin Douglas-Fir. Le trail vous conduit sous une cathédrale végétale sombre dont les première branche sont à plusieurs dizaine de mètres, au plus gros arbre du lieu, vieux de 800 ans, haut de 86 mètres et d’un diamètre de 9 m. Nous arrivons ensuite à Parksville dans un state camping mais il est full. Nous décidons de continuer jusqu’à Nanaimo à la station où nous étions déjà allé à l’aller pour faire le plein ainsi que les dump. Il est déjà tard et nous avons un peu de mal à trouver un emplacement, finalement nous finissons dans la rue à quelques centaines de mètres de l’entrée du port, on ne sera pas dérangés.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37408899585/in/datetaken/" title="Tofino - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4478/37408899585_daeca77f0e_k.jpg" width="2048" height="1152" alt="Tofino - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Nous repartons en fin d’après-midi pour Nanaimo afin d’être près de bateau pour demain matin. En route nous nous arrêtons juste après Port Alberti dans une immense forêt qui fait partie du MacMillan provincial park peuplée de Pin Douglas-Fir. Le trail vous conduit sous une cathédrale végétale sombre dont les première branches sont à plusieurs dizaine de mètres de haut, au plus gros arbre du lieu, vieux de 800 ans, haut de 86 mètres et d’un diamètre de 9 m. 
 
+Le 03 septembre nous embarquons sur le "Queen of Oak Bay" pour un trajet d'une heure quarante vers Horseshoe bay le temps est très beau, la mer de Salish très calme et le paysage est à couper le souffle, la vue sur les montagnes environnante et sur Vancouver city au milieu d'une brume bleutée est 
 
-## 03 Septembre
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37237406402/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4373/37237406402_d88cbc89ab_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Embarquement rapide sur le ferry puis départ vers un port situé cette fois au Nord de Vancouver, à Horseshoe bay, la traversée est très calme et très belle, les chaines de montagnes sont bleu et la skyline de Vancouver se dessine peu à peu, un vrai bonheur.
-Nous faisons route vers le centre de Vacouver en passant par le «Lions Gate bridge» et nous trouvons une place de parking près du Charleson Park et faisons une ballade de 2 heures le long de la baie « False Creek », très reposant et superbe vue sur la ville
-Après le repas départ vers les USA. On quitte le Canada avec un petit pincement au coeur tant cette région nous à emballé. L’’agent de l’émigration nous parle directement en Français, assez rare pour un américain, nous discutons 5 minutes en plus des questions habituelles et nous pouvons y aller.
-Nous prenons contact avec Eric et Muriel qui sont toujours en Alaska, tout se passe bien ils profitent eux aussi un max.
-Nous arrivons à Seattle et allons directement au « Gaz Work Parc » un très beau parc où se trouve encore le squelette d’une ancienne usine de gaz et qui se trouve au bord de «Union Lake» juste en face la skyline de Seattle. Séance photos oblige jusqu’à la nuit noire. En, suite nous tentons un bivouac non loin du parc dans un quartier résidentiel, on va se faire discret…
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37010674790/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4343/37010674790_3f3a1dea9c_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+D'une manière générale, la Colombie Britanique est un des plus bau territoire du Canada mais nous avons vraiment aimer parcourir lile de Vancouver du moins sa partie sud.
