@@ -109,7 +109,7 @@ Arrivés à Prince George, nous faisons le plein dans une station Esso qui propo
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37161112202/in/datetaken/" title="Prince George - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4409/37161112202_5a0010ba47_k.jpg" width="2048" height="1152" alt="Prince George - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Nous partons ensuite découvrir le centre ville par un circuit pédestre qui s'avérera complètement nul, de plus nous sommes dimanche et la ville est vraiment morte. Nous écourtons notre arrêt et partons en direction de Vancouver City, en route nous nous arrêtons à Quesnel où nous faisons un trail au Pinnacles Provincial Parc, l’horizon est embrumé en raison de nombreux feux de forêts dans la région.   
+Nous partons ensuite découvrir le centre ville par un circuit pédestre qui s'avérera complètement nul, de plus nous sommes dimanche et la ville est vraiment morte. Nous écourtons notre arrêt et partons en direction de Vancouver City, en route nous nous arrêtons à **Quesnel** où nous faisons un trail au Pinnacles Provincial Parc, l’horizon est embrumé en raison de nombreux feux de forêts dans la région.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36520553873/in/datetaken/" title="Quesnel - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4371/36520553873_c7d561cf95_k.jpg" width="2048" height="1152" alt="Quesnel - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
