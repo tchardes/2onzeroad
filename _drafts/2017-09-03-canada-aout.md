@@ -17,23 +17,9 @@ itinary: "colombie.json"
 
 ---
 
-Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé les territoires du Yukon et de la Colombie britannique avec une petite incursion au sud de l'Alaska.  
+Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé les territoires du Yukon et de la Colombie Britannique avec une petite incursion au sud de l'Alaska.  
 
-## 19 août   
-
-Ce matin, départ de Haines par le ferry. De la pluie est annoncée pour toute la journée, pour l’instant le ciel est gris mais il ne pleut pas. Nous rentrons dans le bateau par une porte de côté à l’avant, ce qui nous oblige à faire demi tour à l'intérieur pour se mettre dans la file en position de départ pour la sortie. La traversée est tranquille, l'océan est calme, on s’enfonce au fond d’un fjord et arrivons à Skagway. Dernier rentré sur le bateau et premier sorti.   
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36585692041/in/datetaken/" title="Skagway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4359/36585692041_32c05fd83b_k.jpg" width="2048" height="1152" alt="Skagway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
-
-Nous nous garons dans la ville et faisons un petit tour. Skagway a eu une importance capitale à la fin de 19ème siècle lors de la ruée vers l’or dans le Yukon et plus particulièrement dans la région de Dawson City. Tous les candidats à la fortune arrivaient ici en bateau avec leur matériels afin d’emprunter la Klondike Highway, avant l'arrivée du chemin de fer à voie étroite construit en 26 mois seulement et qui les menaient à Whitehorse, capitale du Yukon, les bateaux à aube prenant ensuite le relais. Skagway a su garder son cachet d'antan même si aujourd'hui les chercheurs d'or ont été remplacés par les croisiéristes, les boutiques de fournitures de matériel par les bijouteries, dont l'une affichait : "Nous avons des chaises pour les maris".  
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36554944882/in/datetaken/" title="Skagway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4338/36554944882_2194bf566d_k.jpg" width="2048" height="1152" alt="Skagway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35915257843/in/datetaken/" title="Skagway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4340/35915257843_68c4b2b6c1_k.jpg" width="2048" height="1152" alt="Skagway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
-
-Nous prenons la route en direction de Whitehorse où nous avons déjà passé deux jours. Nous allons en profiter pour s’occuper de la logistique, lessives, vidange…. Nous prenons donc la Klondike Highway que nous avions déjà emprunter pour aller de Whitehorse à Dawson City. Peu après Skagway et avoir passé le poste frontière des USA sans nous arrêter, nous arrivons sur un plateau composé d’un chaos de rochers et de pierres et d’une multitude de lacs, du plus petit aux très grands lacs Summit Lake et Bernard lake. Le décor est absolument inhabituel et magnifique même si le temps est maussade.  
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35914319143/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4366/35914319143_9c5b8182dd_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+## 19 août     
 
 Nous passons la frontière canadienne à Fraser en Colombie Britannique, à 12 Kms du Poste US. Quelques questions habituelles et nous pouvons continuer notre route. Arrêt dans un premier temps au Yukon Suspension Bridge, passerelle assez longue qui traverse la rivière Klondike (15$CA/Pers.) puis passage dans le territoire du Yukon et arrêt à la jolie bourgade de Carcross qui a rénové son centre avec de nombreuses boutiques autour du visitor center aux couleurs des First Nations et où trône en son centre un grand totem.    
 
