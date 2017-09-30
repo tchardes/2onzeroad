@@ -149,7 +149,13 @@ Nous déjeuner dans un très bon restaurant le "Flying Pig" et je vais chez un b
 De retour à Thor, nous faisons les courses au Walmart et partons vers le port de Tsawwassen distant de 40 Kms pour s’avancer pour lendemain.  
 
 
-## 30 Août  
+## 30 Août au 03 septembre
+
+
+(voir l’article <a href="{{site.baseurl}}{% post_url 2017-08-09-usa-alaska-denali %}">ici</a>)    
+
+
+ 
 
 Nous nous rendons au départ du Ferry pour l'Isle de Vancouvert qui abrite notamment Victoria, la capitale de la Colombie Britannique. Nous avons réservé les billets à l'avance sur Internet et avons opté pour un aller Tsawwassen / Swartz Bay et un retour Nanaimo / Horseshoe Bay afin de ne pas passer deux fois par la même route et passez une journée de plus sur Vancouver City. Nous aurions pu également prendre le bateau à Victoria afin de rejoindre directement les USA à Port Angeles.  
 
