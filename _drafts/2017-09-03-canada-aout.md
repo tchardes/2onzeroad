@@ -19,7 +19,6 @@ itinary: "colombie.json"
 
 Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé les territoires du Yukon et de la Colombie britannique avec une petite incursion au sud de l'Alaska.  
 
-
 ## 19 août   
 
 Ce matin départ de Haines par le ferry. De la pluie est annoncée pour toute la journée, pour l’instant le ciel est gris mais il ne pleut pas. Nous rentrons dans le bateau par une porte de côté à l’avant, ce qui nous oblige à faire demi tour à l'intérieur pour se mettre dans la file en position de départ pour la sortie. La traversée est tranquille, l'océan est calme, on s’enfonce au fond d’un fjord et arrivons à Skagway. Dernier rentré sur le bateau et premier sorti.   
@@ -131,7 +130,7 @@ Nous partons en suite découvrir le centre ville par un circuit pédestre qui s'
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36520553873/in/datetaken/" title="Quesnel - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4371/36520553873_c7d561cf95_k.jpg" width="2048" height="1152" alt="Quesnel - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 
-## 28 et 29 août  
+## 28 et 29 août   
 
 Nous roulons toutes la journée du 28 pour arriver à Vancouver, la trans-canada Hwy est assez tortueuse et assez impressionnante le long de la rivière Thompson. Nous trouvons à nous poser en plein centre ville non loin d'un Wallmart et proche des transports en commun.
 Le lendemain on prend le métro en direction du centre ville, la journée est très belle. Arrêt au visitor center puis nous suivons un circuit pour voir les différents points d’intérêts. Le quartier de Gastown est très pittoresque avec notamment son horloge à vapeur "La Steam Clock" qui "siffle" tous les quarts d'heure à la façon d'une paquebot, le thème interprété par Big Ben. En se rendant vers le quartier chinois, on traverse des rues sales, squattées par de nombreux SDF et des personnes qui se font des shoots d’héroïne dans la rue.   
@@ -148,38 +147,39 @@ Nous déjeuner dans un très bon restaurant le "Flying Pig" et je vais chez un b
 
 De retour à Thor, nous faisons les courses au Walmart et partons vers le port de Tsawwassen distant de 40 Kms pour s’avancer pour lendemain.  
 
+## 30 août  
 
-## 30 août
-
-Départ pour l'ile de Vancouvert (voir l’article <a href="{{site.baseurl}}{% post_url 2017-08-09-usa-alaska-denali %}">ici</a>). On arrive au port avec un peu d’avance, du coup on nous propose de prendre le bateau de 9h00 au lieu de 10H00 comme initialement prévu. Le bateau est assez imposant et on se gare facilement à l'intérieur avant de monter dans les ponts supérieurs. Corinne à un eu d'apréhension mais finalement la mer est très calme et la traversée se passe sans problème. Une fois à quai le débarquement est rapide et les agents portuaires nous font manoeuvrer afin de ne pas toucher à l'arrière avec notre porte à faux. Le soir nous trouvons un bivouac sur une parking faisant face à une plage à Mill Bay.  
+Départ pour l'ile de Vancouvert (voir l’article <a href="{{site.baseurl}}{% post_url 2017-08-09-usa-alaska-denali %}">ici</a>). On arrive au port avec un peu d’avance, du coup on nous propose de prendre le bateau de 9h00 au lieu de 10H00 comme initialement prévu. Le bateau est assez imposant et on se gare facilement à l'intérieur avant de monter dans les ponts supérieurs. Corinne à un eu d'apréhension mais finalement la mer est très calme et la traversée se passe sans problème. Une fois à quai le débarquement est rapide et les agents portuaires nous font manoeuvrer afin de ne pas toucher à l'arrière avec notre porte à faux. Le soir nous trouvons un bivouac sur une parking faisant face à une plage à Mill Bay.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37221298146/in/datetaken/" title="Mill Bay - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4505/37221298146_cc24ab89f0_k.jpg" width="2048" height="1152" alt="Mill Bay - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-## 31 août
+## 31 août  
 
 Le 31 août, alors que je fais le plein d'essence dans une station vers Nanaimo, un jeune backpacker originaire de Toronto vient me demander si nous pouvons l’avancer un peu. Il monte avec nous dans Thor et on discute un bon moment avant de le laisser à un croisement, n'ayant pas la même destination.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37410500885/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4442/37410500885_45f8700f09_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## 01 septembre
+## 01 septembre  
 
-En montant vers Tofino, nous sommes arrêtés pour des travaux. Un énorme engin à chenille coupe des arbres le long de la route, dans un virage, certainement pour l'agrandir. C’est impressionnant avec quelle facilité la griffe avant entoure l’arbre tandis qu’un immense disque coupe la base.
+En montant vers Tofino, nous sommes arrêtés pour des travaux. Un énorme engin à chenille coupe des arbres le long de la route, dans un virage, certainement pour l'agrandir. C’est impressionnant avec quelle facilité la griffe avant entoure l’arbre tandis qu’un immense disque coupe la base.  
 
 Au cours du Rainforest Trail, je rencontre un monsieur qui marche à sens inverse, on échange quelques mots et on comprend vite que nous sommes français tout deux. C'est ainsi que nous faisons la connaissance de Jean-Paul de Ollioules avec qui nous discutons un long moment. Voyageurs depuis plus de 30 ans et photographe il nous raconte de très belles anecdotes de voyage. Un livre devrait sortir début 2018 regroupant ces plus beaux clichés et il devrait nous adresser un exemplaire. Très belle rencontre.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37266192331/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4473/37266192331_a66e09716a_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 Dans la région de Tofino les lieux pour un bivouac sauvage sont assez rares d'autant plus que presque toute la péninsule est incluse dans un parc national. Vu le nombre de touriste encore présent, nous repérons dans l'après midi un site pour poser Thor le soir même. Le lieu n’est pas très glamour mais il fera l’affaire. Il est à peine 18h00 quand nous rejoignons le bivouac, nous sommes les premiers mais pas pour longtemps, nous sommes rapidement rejoint par une petite dizaine de RV et toute la soirée d’autres viendront pour tenter de trouver une place.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36556723754/in/datetaken/" title="Tofino - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4341/36556723754_f3d4fe6ce3_k.jpg" width="2048" height="1152" alt="Tofino - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
-## 02 Septembre
+## 02 septembre  
 
 Nous repartons en fin d’après-midi pour Nanaimo afin d’être près de bateau pour demain matin. En route nous nous arrêtons juste après Port Alberti dans une immense forêt qui fait partie du MacMillan provincial park peuplée de Pin Douglas-Fir. Le trail vous conduit sous une cathédrale végétale sombre dont les première branche sont à plusieurs dizaine de mètres, au plus gros arbre du lieu, vieux de 800 ans, haut de 86 mètres et d’un diamètre de 9 m. Nous arrivons ensuite à Parksville dans un state camping mais il est full. Nous décidons de continuer jusqu’à Nanaimo à la station où nous étions déjà allé à l’aller pour faire le plein ainsi que les dump. Il est déjà tard et nous avons un peu de mal à trouver un emplacement, finalement nous finissons dans la rue à quelques centaines de mètres de l’entrée du port, on ne sera pas dérangés.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36556506864/in/datetaken/" title="Vancouver Island - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4496/36556506864_6887cc8681_k.jpg" width="2048" height="1152" alt="Vancouver Island - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
-## 03 Septembre
+## 03 septembre  
 
 Embarquement rapide sur le ferry puis départ vers un port situé cette fois au Nord de Vancouver, à Horseshoe bay. Nous faisons route vers le centre de Vacouver en passant par le «Lions Gate bridge» et nous trouvons une place de parking près du Charleson Park et faisons une ballade de 2 heures le long de la baie « False Creek », très reposant et superbe vue sur la ville.   
 
@@ -187,4 +187,4 @@ Embarquement rapide sur le ferry puis départ vers un port situé cette fois au 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36556228124/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4342/36556228124_83c23f402e_k.jpg" width="2048" height="422" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Après le repas départ vers les USA. On quitte le Canada avec un petit pincement au coeur tant cette région nous à emballé. L’’agent de l’émigration nous parle directement en Français, assez rare pour un américain, nous discutons 5 minutes en plus des questions habituelles et nous pouvons y aller...
+Après le repas départ vers les USA. On quitte le Canada avec un petit pincement au coeur tant cette région nous à emballé. L’’agent de l’émigration nous parle directement en Français, assez rare pour un américain, nous discutons 5 minutes en plus des questions habituelles et nous pouvons y aller...  
