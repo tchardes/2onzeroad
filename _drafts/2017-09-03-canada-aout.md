@@ -149,34 +149,15 @@ Nous déjeuner dans un très bon restaurant le "Flying Pig" et je vais chez un b
 De retour à Thor, nous faisons les courses au Walmart et partons vers le port de Tsawwassen distant de 40 Kms pour s’avancer pour lendemain.  
 
 
-## 30 Août au 03 septembre
+## 30 Août au 03 septembre 
 
+Départ pour l'ile de Vancouvert (voir l’article <a href="{{site.baseurl}}{% post_url 2017-08-09-usa-alaska-denali %}">ici</a>). On arrive au port avec un peu d’avance, du coup on nous propose de prendre le bateau de 9h00 au lieu de 10H00 comme initialement prévu. Le bateau est assez imposant et on se gare facilement à l'intérieur avant de monter dans les ponts supérieurs. Corinne à un eu d'apréhension mais finalement la mer est très calme et la traversée se passe sans problème. Une fois à quai le débarquement est rapide et les agents portuaires nous font manoeuvrer afin de ne pas toucher à l'arrière avec notre porte à faux. Le soir nous trouvons un bivouac sur une parking faisant face à une plage à Mill Bay.
 
-(voir l’article <a href="{{site.baseurl}}{% post_url 2017-08-09-usa-alaska-denali %}">ici</a>)    
+Le 31 août, alors que je fais le plein d'essence dans une station, un jeune backpacker originaire de Toronto vient me demander si nous pouvons l’avancer un peu. Il monte avec nous dans Thor et on discute un bon moment avant de le laisser à un croisement, n'ayant pas les même destination.
 
+Le 01 septembre
 
- 
-
-Nous nous rendons au départ du Ferry pour l'Isle de Vancouvert qui abrite notamment Victoria, la capitale de la Colombie Britannique. Nous avons réservé les billets à l'avance sur Internet et avons opté pour un aller Tsawwassen / Swartz Bay et un retour Nanaimo / Horseshoe Bay afin de ne pas passer deux fois par la même route et passez une journée de plus sur Vancouver City. Nous aurions pu également prendre le bateau à Victoria afin de rejoindre directement les USA à Port Angeles.  
-
-On arrive au port avec un peu d’avance, du coup on nous propose de prendre le bateau de 9h00 au lieu de 10H00 comme initialement prévu. La traversée qui dure 1h30 est très agréable. Le bateau se faufile entre de nombreuses iles avant d’arriver à Swartz Bay. Une fois débarqué, nous faisons route jusqu’à Victoria où nous avons un peu de mal à trouver une place pour nous garer. Nous visitons la ville à pied Visite de la ville très belle et très agréablement bien arrangée.
-Nous partons par la scenic drive qui longe le mer vers l’Est. Nous longeons de superbes maisons, aussi bien ancienne que très moderne le tout dans des jardins magnifiques. Su la plage nous voyons deux piano droit mis à disposition, et nous voyons plusieurs jeunes cerf et biches « brouter » l’herbe dans les jardins des villas.
-Ensuite nous prenons la route de Nanaimo. En route Corinne nous trouve un super bivouac au bor de la plage.   
-
-
-
-
-## 31 Août  
-
-Départ direction Nanaimo. En route arrêt au Cabble Hill Mountain pour faire une trail qui mène au sommet avec une super vue sur les iles au large de Vancouver Island.  (3kms +300 mètres).
-Après déjeuné nous reprenons la route et faisons un stop à Duncan, petit bourgade qui présente de nombreux Totems. Puis route jusqu’à Nanaimo où nous faisons le tour du centre ville et de la marina à pied. Rien d’extraordinaire. Nous arrêtons dans une station pour faire le plein et aussi dump et haut et un backpacker de Toronto vient me demander si nous pouvons l’avancer un peu. On le prend quelques kilomètres et le laissons à un croisement.
-Route en direction de Tofino, on traverse de très belle forêts de cèdres et trouvons un bivouac sympa.   
-
-
-## 01 Septembre  
-
-Départ pour Tofino. Nous nous arrêtons au visitor centre pour récupérer de la documentation et commençons par le sud à savoir Ucluelet. Nous faisons le trail « Wild Pacific Trail » (3 km) superbe boucle qui longe la côte à travers une forêt de cèdres. La côte est très découpées avec de nombreux Ilots, lieu de naufrage de voiliers. Deux bouées plus un phare signale la côte la première bouée est équipée d’une cloche tandis que la deuxième d’un genre de corne de brume, activée par le mouvement des vagues.
-En repartant vers le Nord nous nous arrêtons faire le Nuu-Chah-Nulth Trail (5km) qui traverse, la plupart du temps sur des passerelle et pont en bois une forêt de cèdres et mène à deux plages, South Beach et Florencia Beach très prisée par les surfeurs.
+Dans la région de Tofino les lieux pour un bivouac sauvage sont assez rare 
 Nous reprenons  la route et sommes arrêtés par des travaux. Un énorme engin à chenille coupe des arbres le long de la route. C’est impressionnant avec quelle facilité la griffe avant entoure l’arbre tandis qu’un immense disque coupe la base.
 Nous avons repéré un site pour dormir ce soir et nous faisons un détour pour vérifier si Thor peut se poser. Le lieu n’est pas très glamour mais il fera l’affaire. Vu le nombre de touriste encore présent nous viendrons de bonne heure ce soir pour être sur d’avoir une place.
 Nous arrêtons à Rainforest Trail, où nous passons la ligne du 49ème parallèle, une boucle de 1 Km  qui serpente entre les immenses arbres d’une forêt humide sur des ponts et passerelles parfois un peu bancales.
