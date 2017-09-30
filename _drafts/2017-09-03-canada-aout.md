@@ -20,7 +20,7 @@ itinary: "colombie.json"
 Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé les territoires du Yukon et de la Colombie britannique avec une petite incursion au sud de l'Alaska.  
 
 
-## 19 Août   
+## 19 août   
 
 Ce matin départ de Haines par le ferry. De la pluie est annoncée pour toute la journée, pour l’instant le ciel est gris mais il ne pleut pas. Nous rentrons dans le bateau par une porte de côté à l’avant, ce qui nous oblige à faire demi tour à l'intérieur pour se mettre dans la file en position de départ pour la sortie. La traversée est tranquille, l'océan est calme, on s’enfonce au fond d’un fjord et arrivons à Skagway. Dernier rentré sur le bateau et premier sorti.   
 
@@ -44,7 +44,7 @@ A la sortie de la ville nous passons devant le plus désert du monde, si l'on en
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36551841772/in/datetaken/" title="Carcross - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4432/36551841772_d4c526665c_k.jpg" width="2048" height="1152" alt="Carcross - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-## 20 Août   
+## 20 août   
 
 Ce matin courses au Walmart puis nous partons visiter le bateau à aube Klondike qui faisait partie de la flotte qui assurait la liaison avec Dawson City, bien qu'en cours de restauration, la visite est très intéressante. Ces grandes embarcations étaient treuillées hors du fleuve avant sa prise par les glaces.   
 
@@ -58,13 +58,13 @@ Nous poursuivons par le Miles Canyon, site au bord du fleuve Yukon où une passe
 
 Le soir nous testons le Klondike Rib & Salmon. C’est le resto très typique à faire à WhiteHorse. Nous obtenons une table pour 19h30 et nous retournons à Thor en attendant de nous attabler. Sur le trajet, Corinne voit sur la route un superbe renard qui déambule tranquillement en pleine ville, tout juste inquiété par des jeunes qui font du skate board. Nous avons très bien mangé, boulettes de cerf, bison et sanglier et Bonanza brownie avec une boule de vanille pour Corinne et steack de bison et une Berry Pie, tarte chaude au fruits rouges et rubarbe avec une boule de vanille pour moi.  
 
-## 21 Août   
+## 21 août   
 
 Ce matin nous avions prévu de faire la vidange de Thor mais tous les magasins sont fermés. Après renseignement, le troisième lundi du mois d’août est un jour férié au Yukon, c’est la fête du «jour de la découverte», découverte de l’or dans le ruisseau Bonanza par des pionniers le 16 août 1896 qui va déclencher l’une des plus importante ruée vers l’or, entrainant puis l’année suivante la création du territoire du Yukon.
 La laverie est quand même ouverte nous nous occupons du linge avant de retourner au visitor center pour profiter de leurs commodités.  
 
 
-## 22 Août    
+## 22 août    
 
 Ce matin "changement d'huile" de Thor puis complément des courses et départ vers le sud par l'Alaska Highway. Nous roulons toutes la matinée sous la pluie. Le temps se lève en début d'après-midi et nous en profitons du coup pour faire un arrêt à Teslin et visiter un musée des First Nations. Très beaux bâtiment dont l'entrée est ornées de Totems et regroupant de nombreux objets traditionnels et stands de produits artisanaux.    
 
@@ -76,7 +76,7 @@ Nous quittons "l'ALCAN" un peu avant Watson Lake pour prendre la British Columbi
 
 En fin de journée, nous quittons le Yukon pour la Colombie Britannique et passons en dessous du 60ème parallèle. Corinne nous trouve un super bivouac au bord d'une rivière "French Creek" qui était fait pour nous….  
 
-## 23 Août   
+## 23 août   
 
 Nous poursuivons notre descente plein sud et traversons la soit-disant capitale mondiale du Jade, Dease Lake. Juste avant le village se trouve "Jade City" une très belle boutique qui propose, entre autre, de nombreux articles crées en jade. 
 En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de kilomètres d’intervalle dont une maman avec son ourson. Pour l'instant la "37" que nous avons renommée la "The bear road" est bien goudronnée.    
@@ -87,7 +87,7 @@ En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de 
 
 Nous trouvons un bivouac peu avant Meziadin Junction où nous bifurquerons demain sur la 37A pour une nouvelle incursion en Alaska.  
 
-## 24 Août    
+## 24 août    
 
 A peine après avoir quitté notre lieu de stationnement, nous croisons un magnifique ours noir qui traverse la route devant nous, la journée commence bien. Nous bifurquons sur la 37A qui s'avèrera être goudronnée également tout le long. Sur la route nous passons devant le magnifique "Bear glacier".   
 
@@ -98,7 +98,7 @@ Nous traversons la ville de Stewart et passons la frontière, sans aucun contrô
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36939194400/in/datetaken/" title="Stewart - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4372/36939194400_2953fa5025_k.jpg" width="2048" height="1152" alt="Stewart - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 
-## 25 Août    
+## 25 août    
 
 Ce matin il pleut abondamment et la météo annonce ce même temps pour les jours à venir. Nous abandonnons l'idée de nous rendre au "Salmon Glacier" et de passer une autre journée à observer les ours. Le poste frontière pour entrer au Canada est ouvert. L’agent va chercher la responsable du poste qui parle français. Elle nous pose les questions habituelles et on discute quelques minutes, on voit que cela lui fait plaisir de pratiquer un peu notre langue. Sur le bas côté de la route on voit un jeune ours morts, certainement dans la nuit, percuté par un camion.    
 
@@ -110,7 +110,7 @@ Nous nous arrêtons à Smithers, petite ville aux airs Tyroliens. Nous en avons 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36523697253/in/datetaken/" title="Smithers - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4399/36523697253_dcad9b14eb_k.jpg" width="2048" height="1152" alt="Smithers - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-## 26 Août   
+## 26 août   
 
 Nous nous arrêtons à Houston, capitale mondiale de la pêche de la truite de mer. Au visitor center trône une immense canne à pèche à la mouche de 20 mètres de haut. Le Wi-Fi est bon et je peux brancher l’ordinateur, nous y restons une bonne partie de la journée et j’en profite pour traiter les photos et les envoyer.   
 
@@ -118,7 +118,7 @@ Nous nous arrêtons à Houston, capitale mondiale de la pêche de la truite de m
 
 En fin d'après-midi nous faisons route vers Prince George. Nous quittons avec regret le grand nord et faisons retour petit à petit vers la "civilisation", nous croisons les premières fermes et cultures, on pense voir des ours noirs pendant une fraction de seconde dans les champs mais non, ce ne sont que des vaches….  
 
-## 27 Août   
+## 27 août   
 
 Arrivés à Prince George nous faisons le plein dans une station Esso qui propose également Dump et eau. A L’issue nous nous rendons au visitor center pour prendre de la documentation sur la ville et nous partons pour le Parc Cottonwood Island parc qui présente la particularité d’avoir une douzaine d’arbres sculptés par Elmer Gunderson, un artiste local. Les températures ont bien augmentée, nous sortons short, tee shirt et tongs.  
 
@@ -131,7 +131,7 @@ Nous partons en suite découvrir le centre ville par un circuit pédestre qui s'
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36520553873/in/datetaken/" title="Quesnel - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4371/36520553873_c7d561cf95_k.jpg" width="2048" height="1152" alt="Quesnel - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 
-## 28 et 29 Août  
+## 28 et 29 août  
 
 Nous roulons toutes la journée du 28 pour arriver à Vancouver, la trans-canada Hwy est assez tortueuse et assez impressionnante le long de la rivière Thompson. Nous trouvons à nous poser en plein centre ville non loin d'un Wallmart et proche des transports en commun.
 Le lendemain on prend le métro en direction du centre ville, la journée est très belle. Arrêt au visitor center puis nous suivons un circuit pour voir les différents points d’intérêts. Le quartier de Gastown est très pittoresque avec notamment son horloge à vapeur "La Steam Clock" qui "siffle" tous les quarts d'heure à la façon d'une paquebot, le thème interprété par Big Ben. En se rendant vers le quartier chinois, on traverse des rues sales, squattées par de nombreux SDF et des personnes qui se font des shoots d’héroïne dans la rue.   
@@ -149,45 +149,42 @@ Nous déjeuner dans un très bon restaurant le "Flying Pig" et je vais chez un b
 De retour à Thor, nous faisons les courses au Walmart et partons vers le port de Tsawwassen distant de 40 Kms pour s’avancer pour lendemain.  
 
 
-## 30 Août au 03 septembre 
+## 30 août
 
-Départ pour l'ile de Vancouvert (voir l’article <a href="{{site.baseurl}}{% post_url 2017-08-09-usa-alaska-denali %}">ici</a>). On arrive au port avec un peu d’avance, du coup on nous propose de prendre le bateau de 9h00 au lieu de 10H00 comme initialement prévu. Le bateau est assez imposant et on se gare facilement à l'intérieur avant de monter dans les ponts supérieurs. Corinne à un eu d'apréhension mais finalement la mer est très calme et la traversée se passe sans problème. Une fois à quai le débarquement est rapide et les agents portuaires nous font manoeuvrer afin de ne pas toucher à l'arrière avec notre porte à faux. Le soir nous trouvons un bivouac sur une parking faisant face à une plage à Mill Bay.
+Départ pour l'ile de Vancouvert (voir l’article <a href="{{site.baseurl}}{% post_url 2017-08-09-usa-alaska-denali %}">ici</a>). On arrive au port avec un peu d’avance, du coup on nous propose de prendre le bateau de 9h00 au lieu de 10H00 comme initialement prévu. Le bateau est assez imposant et on se gare facilement à l'intérieur avant de monter dans les ponts supérieurs. Corinne à un eu d'apréhension mais finalement la mer est très calme et la traversée se passe sans problème. Une fois à quai le débarquement est rapide et les agents portuaires nous font manoeuvrer afin de ne pas toucher à l'arrière avec notre porte à faux. Le soir nous trouvons un bivouac sur une parking faisant face à une plage à Mill Bay.  
 
-Le 31 août, alors que je fais le plein d'essence dans une station, un jeune backpacker originaire de Toronto vient me demander si nous pouvons l’avancer un peu. Il monte avec nous dans Thor et on discute un bon moment avant de le laisser à un croisement, n'ayant pas les même destination.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37221298146/in/datetaken/" title="Mill Bay - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4505/37221298146_cc24ab89f0_k.jpg" width="2048" height="1152" alt="Mill Bay - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Le 01 septembre
+## 31 août
 
-Dans la région de Tofino les lieux pour un bivouac sauvage sont assez rare 
-Nous reprenons  la route et sommes arrêtés par des travaux. Un énorme engin à chenille coupe des arbres le long de la route. C’est impressionnant avec quelle facilité la griffe avant entoure l’arbre tandis qu’un immense disque coupe la base.
-Nous avons repéré un site pour dormir ce soir et nous faisons un détour pour vérifier si Thor peut se poser. Le lieu n’est pas très glamour mais il fera l’affaire. Vu le nombre de touriste encore présent nous viendrons de bonne heure ce soir pour être sur d’avoir une place.
-Nous arrêtons à Rainforest Trail, où nous passons la ligne du 49ème parallèle, une boucle de 1 Km  qui serpente entre les immenses arbres d’une forêt humide sur des ponts et passerelles parfois un peu bancales.
-Au cours de ce trail je rencontre un français de Toulon avec qui nous discutons un long moment. Voyageurs depuis plus de 30 ans et photographe amateur qui sort un livre en 2018. Très belle rencontre et très belles anecdotes de voyage. 
-Il est 18h00 quand nous rejoignons le bivouac, nous sommes les premiers mais pas pour longtemps, nous sommes rapidement rejoint par une petite dizaine de RV et toute la soirée d’autres viendront pour tenter de trouver une place.
+Le 31 août, alors que je fais le plein d'essence dans une station vers Nanaimo, un jeune backpacker originaire de Toronto vient me demander si nous pouvons l’avancer un peu. Il monte avec nous dans Thor et on discute un bon moment avant de le laisser à un croisement, n'ayant pas la même destination.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37410500885/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4442/37410500885_45f8700f09_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Cabanis Jean-Paul
-La Magali RN8 2400
-83190 Ollioules
-jean-paul.cabanis@live.fr
-06.79.45.18.95
+## 01 septembre
 
-Il nous parle de Spotted Lake à Oyosoos, Comté de Lacombe, Colombie Britannique, Canada
+En montant vers Tofino, nous sommes arrêtés pour des travaux. Un énorme engin à chenille coupe des arbres le long de la route, dans un virage, certainement pour l'agrandir. C’est impressionnant avec quelle facilité la griffe avant entoure l’arbre tandis qu’un immense disque coupe la base.
+
+Au cours du Rainforest Trail, je rencontre un monsieur qui marche à sens inverse, on échange quelques mots et on comprend vite que nous sommes français tout deux. C'est ainsi que nous faisons la connaissance de Jean-Paul de Ollioules avec qui nous discutons un long moment. Voyageurs depuis plus de 30 ans et photographe il nous raconte de très belles anecdotes de voyage. Un livre devrait sortir début 2018 regroupant ces plus beaux clichés et il devrait nous adresser un exemplaire. Très belle rencontre.  
+
+Dans la région de Tofino les lieux pour un bivouac sauvage sont assez rares d'autant plus que presque toute la péninsule est incluse dans un parc national. Vu le nombre de touriste encore présent, nous repérons dans l'après midi un site pour poser Thor le soir même. Le lieu n’est pas très glamour mais il fera l’affaire. Il est à peine 18h00 quand nous rejoignons le bivouac, nous sommes les premiers mais pas pour longtemps, nous sommes rapidement rejoint par une petite dizaine de RV et toute la soirée d’autres viendront pour tenter de trouver une place.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36556723754/in/datetaken/" title="Tofino - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4341/36556723754_f3d4fe6ce3_k.jpg" width="2048" height="1152" alt="Tofino - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
 ## 02 Septembre
 
-Ce matin il fait encore très beau et nous partons pour le « Schooner Cove Trail » (2kms +90 mètres) très beau sentier entièrement sur pilotis, de grands escaliers qui serpente entre les arbres pour arriver sur une immense plage, c’est magnifique.
-Nous partons ensuite au bout de la presqu’île pour faite le trail « Tonquin Trail » un boucle de 2,6kms qui mène à une petite plage et un très beau point de vue.
-Nous nous arrêtons enfin à Tofino où nous trouvons difficilement une place. Il s’agit d’une petit ville balnéaire entièrement tournée vers le tourisme, les commerces sont très beaux et l’ambiance est assez cool avec ces nombreuses boutiques de planches de surf et les jeunes qui vont avec.
-Nous repartons en fin d’après-midi pour Nanaimo afin d’être près de bateau pour demain matin. En route nous nous arrêtons juste après Port Alberti dans une immense forêt qui fait partie du MacMillan provincial park peuplée de Pin Douglas-Fir. Le trail vous conduit sous une cathédrale végétale sombre dont les première branche sont à plusieurs dizaine de mètres, au plus gros arbre du lieu, vieux de 800 ans, haut de 86 mètres et d’un diamètre de 9 m. Nous arrivons ensuite à Parksville dans un state camping mais il est full. Nous décidons de continuer jusqu’à Nanaimo à la station où nous étions déjà allé à l’aller pour faire le plein ainsi que les dump. Il est déjà tard et nous avons un peu de mal à trouver un emplacement, finalement nous finissons dans la rue à quelques centaines de mètres de l’entrée du port, on ne sera pas dérangés.
+Nous repartons en fin d’après-midi pour Nanaimo afin d’être près de bateau pour demain matin. En route nous nous arrêtons juste après Port Alberti dans une immense forêt qui fait partie du MacMillan provincial park peuplée de Pin Douglas-Fir. Le trail vous conduit sous une cathédrale végétale sombre dont les première branche sont à plusieurs dizaine de mètres, au plus gros arbre du lieu, vieux de 800 ans, haut de 86 mètres et d’un diamètre de 9 m. Nous arrivons ensuite à Parksville dans un state camping mais il est full. Nous décidons de continuer jusqu’à Nanaimo à la station où nous étions déjà allé à l’aller pour faire le plein ainsi que les dump. Il est déjà tard et nous avons un peu de mal à trouver un emplacement, finalement nous finissons dans la rue à quelques centaines de mètres de l’entrée du port, on ne sera pas dérangés.  
 
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36556506864/in/datetaken/" title="Vancouver Island - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4496/36556506864_6887cc8681_k.jpg" width="2048" height="1152" alt="Vancouver Island - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
 ## 03 Septembre
 
-Embarquement rapide sur le ferry puis départ vers un port situé cette fois au Nord de Vancouver, à Horseshoe bay, la traversée est très calme et très belle, les chaines de montagnes sont bleu et la skyline de Vancouver se dessine peu à peu, un vrai bonheur.
-Nous faisons route vers le centre de Vacouver en passant par le «Lions Gate bridge» et nous trouvons une place de parking près du Charleson Park et faisons une ballade de 2 heures le long de la baie « False Creek », très reposant et superbe vue sur la ville
-Après le repas départ vers les USA. On quitte le Canada avec un petit pincement au coeur tant cette région nous à emballé. L’’agent de l’émigration nous parle directement en Français, assez rare pour un américain, nous discutons 5 minutes en plus des questions habituelles et nous pouvons y aller.
-Nous prenons contact avec Eric et Muriel qui sont toujours en Alaska, tout se passe bien ils profitent eux aussi un max.
-Nous arrivons à Seattle et allons directement au « Gaz Work Parc » un très beau parc où se trouve encore le squelette d’une ancienne usine de gaz et qui se trouve au bord de «Union Lake» juste en face la skyline de Seattle. Séance photos oblige jusqu’à la nuit noire. En, suite nous tentons un bivouac non loin du parc dans un quartier résidentiel, on va se faire discret…
+Embarquement rapide sur le ferry puis départ vers un port situé cette fois au Nord de Vancouver, à Horseshoe bay. Nous faisons route vers le centre de Vacouver en passant par le «Lions Gate bridge» et nous trouvons une place de parking près du Charleson Park et faisons une ballade de 2 heures le long de la baie « False Creek », très reposant et superbe vue sur la ville.   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36596793373/in/datetaken/" title="Horseshoe Bay - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4358/36596793373_73a543a274_k.jpg" width="2048" height="1152" alt="Horseshoe Bay - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36556228124/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4342/36556228124_83c23f402e_k.jpg" width="2048" height="422" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Après le repas départ vers les USA. On quitte le Canada avec un petit pincement au coeur tant cette région nous à emballé. L’’agent de l’émigration nous parle directement en Français, assez rare pour un américain, nous discutons 5 minutes en plus des questions habituelles et nous pouvons y aller...
