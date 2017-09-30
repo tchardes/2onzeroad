@@ -21,7 +21,7 @@ Dixième article de type carnet de route, il couvre la période du 19 août au 0
 
 ## 19 août     
 
-Nous passons la frontière canadienne à Fraser en Colombie Britannique, à 12 Kms du poste US. Quelques questions habituelles et nous pouvons continuer notre route. Arrêt dans un premier temps au Yukon Suspension Bridge, passerelle assez longue qui traverse la rivière Klondike (15$CA/Pers.) puis passage dans le territoire du Yukon et arrêt à la jolie bourgade de Carcross qui a rénové son centre avec de nombreuses boutiques implantées autour du visitor center, le tout aux couleurs des First Nations et où trône en son centre un grand mât totémique.    
+Nous passons la frontière canadienne à Fraser en Colombie Britannique, à 12 Kms du poste US. Quelques questions habituelles et nous pouvons continuer notre route. Arrêt dans un premier temps au Yukon Suspension Bridge, passerelle assez longue qui traverse la rivière Klondike (15$CA/Pers.) puis passage dans le territoire du Yukon et arrêt à la jolie bourgade de **Carcross** qui a rénové son centre avec de nombreuses boutiques implantées autour du visitor center, le tout aux couleurs des First Nations et où trône en son centre un grand mât totémique.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36552595312/in/datetaken/" title="Carcross - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4435/36552595312_7e6ce2205d_k.jpg" width="2048" height="1152" alt="Carcross - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -45,14 +45,14 @@ Le soir, nous testons le **Klondike Rib & Salmon**. C’est le resto très typiq
 
 ## 21 août   
 
-Ce matin, nous avions prévu de faire la vidange de Thor mais tous les magasins sont fermés. Après renseignement, le troisième lundi du mois d’août est un jour férié au Yukon, c’est la fête du "jour de la découverte", découverte de l’or dans le ruisseau Bonanza par des pionniers, le 16 août 1896 qui va déclencher l’une des plus importantes ruées vers l’or, entrainant l’année suivante la création officielle du territoire du Yukon. La laverie est quand même ouverte, nous nous occupons du linge avant de retourner au visitor center pour profiter de leurs commodités.  
+Ce matin, nous avions prévu de faire la vidange de Thor mais tous les magasins sont fermés. Après renseignement, le troisième lundi du mois d’août est un jour férié au Yukon, c’est la fête du **jour de la découverte**, découverte de l’or dans le ruisseau Bonanza par des pionniers, le 16 août 1896 qui va déclencher l’une des plus importantes ruées vers l’or, entrainant l’année suivante la création officielle du territoire du Yukon. La laverie est quand même ouverte, nous nous occupons du linge avant de retourner au visitor center pour profiter de leurs commodités.  
 
 ## 22 août    
 
-Ce matin "changement d'huile" de Thor puis complément des courses et départ vers le sud par l'Alaska Highway. Nous roulons toute la matinée sous la pluie. Le temps se lève en début d'après-midi et nous en profitons du coup pour faire un arrêt à Teslin et visiter un musée des First Nations. Très beau bâtiment dont l'entrée est ornée de Totems et regroupant de nombreux objets traditionnels et stands de produits artisanaux.    
+Ce matin "changement d'huile" de Thor puis complément des courses et départ vers le sud par l'Alaska Highway. Nous roulons toute la matinée sous la pluie. Le temps se lève en début d'après-midi et nous en profitons du coup pour faire un arrêt à **Teslin** et visiter un musée des First Nations. Très beau bâtiment dont l'entrée est ornée de Totems et regroupant de nombreux objets traditionnels et stands de produits artisanaux.    
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36823930025/in/datetaken/" title="Teslin - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4422/36823930025_027176ea2d_k.jpg" width="2048" height="1152" alt="Teslin - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-Nous quittons "l'ALCAN" un peu avant Watson Lake pour prendre la British Columbia Highway 37 que l'on redoute un peu car si l'on en croit notre guide, elle est principalement composée de pistes. Nous sommes passés par Watson Lake lors de notre montée ver l'Alaska et j'ai complètement oublié d'en parler, pourtant cette petite ville de moins de 1000 habitants présente la caractéristique de posséder une "forêt" de panneaux de signalisation. Tout commence en 1942 lorsque les militaires travaillant à la construction de la route de l'Alaska, avaient pris l'habitude d'y mettre chacun un panneau indiquant la localité d'où ils venaient. La tradition s'est perpétuée et tous les voyageurs passant par Watson Lake laissent un souvenir, on en compte plus de 76000 aujourd'hui, principalement des plaques d'immatriculation.   
+Nous quittons "l'ALCAN" un peu avant Watson Lake pour prendre la British Columbia Highway 37 que l'on redoute un peu car si l'on en croit notre guide, elle est principalement composée de pistes. Nous sommes passés par **Watson Lake** lors de notre montée ver l'Alaska et j'ai complètement oublié d'en parler, pourtant cette petite ville de moins de 1000 habitants présente la caractéristique de posséder une "forêt" de panneaux de signalisation. Tout commence en 1942 lorsque les militaires travaillant à la construction de la route de l'Alaska, avaient pris l'habitude d'y mettre chacun un panneau indiquant la localité d'où ils venaient. La tradition s'est perpétuée et tous les voyageurs passant par Watson Lake laissent un souvenir, on en compte plus de 76000 aujourd'hui, principalement des plaques d'immatriculation.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35468271783/in/datetaken/" title="Watson Lake - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4291/35468271783_2c120209df_k.jpg" width="2048" height="1152" alt="Watson Lake - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -60,7 +60,7 @@ En fin de journée, nous quittons le Yukon pour la Colombie Britannique et passo
 
 ## 23 août   
 
-Nous poursuivons notre descente plein sud et traversons la soit-disant capitale mondiale du Jade, Dease Lake. Juste avant le village se trouve "Jade City" une très belle boutique qui propose, entre autre, de nombreux articles crées en jade. En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de kilomètres d’intervalle dont une maman avec son ourson. Pour l'instant, la "37" que nous avons renommée la "The bear road" est bien goudronnée.    
+Nous poursuivons notre descente plein sud et traversons la soit-disant capitale mondiale du Jade, **Dease Lake**. Juste avant le village se trouve "Jade City" une très belle boutique qui propose, entre autre, de nombreux articles crées en jade. En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de kilomètres d’intervalle dont une maman avec son ourson. Pour l'instant, la "37" que nous avons renommée la "The bear road" est bien goudronnée.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36823426555/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4407/36823426555_8a0c7f809c_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -70,7 +70,7 @@ Nous trouvons un bivouac peu avant Meziadin Junction où nous bifurquerons demai
 
 ## 24 août    
 
-A peine après avoir quitté notre lieu de stationnement, nous croisons un magnifique ours noir qui traverse la route devant nous, la journée commence bien. Nous bifurquons sur la "37A" qui s'avèrera être goudronnée également tout le long. Sur la route, nous passons devant le magnifique "Bear glacier".   
+A peine après avoir quitté notre lieu de stationnement, nous croisons un magnifique ours noir qui traverse la route devant nous, la journée commence bien. Nous bifurquons sur la "37A" qui s'avèrera être goudronnée également tout le long. Sur la route, nous passons devant le magnifique **Bear glacier**.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36657044542/in/datetaken/" title="Stewart - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4340/36657044542_ab23c61313_k.jpg" width="2048" height="1152" alt="Stewart - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -82,21 +82,21 @@ Nous traversons la ville de Stewart et passons la frontière, sans aucun contrô
 
 Ce matin il pleut abondamment et la météo annonce ce même temps pour les jours à venir. Nous abandonnons l'idée de nous rendre au "Salmon Glacier" et de passer une autre journée à observer les ours. Le poste frontière pour entrer au Canada est ouvert. L’agent va chercher la responsable du poste qui parle français. Elle nous pose les questions habituelles et on discute quelques minutes, on voit que cela lui fait plaisir de pratiquer un peu notre langue. Plus tard, sur le bas côté de la route, on voit un jeune ours mort, certainement dans la nuit, percuté par un camion.    
 
-Arrêt à Gitanyow et Gitwangak, deux villages de First Nations qui présentent de très vieux mats totémiques et dans le dernier village, le site historique de Battle Hill.    
+Arrêt à **Gitanyow** et **Gitwangak**, deux villages de First Nations qui présentent de très vieux mats totémiques et dans le dernier village, le site historique de Battle Hill.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36498792504/in/datetaken/" title="Gitanyow - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4439/36498792504_d8e368a90a_k.jpg" width="2048" height="1152" alt="Gitanyow - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Nous nous arrêtons à Smithers, petite ville aux airs Tyroliens. Nous en avons fini avec les pistes et nous nous arrêtons dans une station de lavage pour "décaper" Thor, heureusement qu'il est de couleur sable. Nous faisons un petit tour dans le centre ville et assistons à un petit concert de rock en plein air, on va se chercher une pizza et on mange en musique. Une patrouille de la Gendarmerie Royale Canadienne arrive et je discute un peu avec eux et on s'échange des insignes. On quitte le ville un peu tard et pour une fois, nous roulons de nuit une trentaine de kilomètres avant de trouver un bivouac au bord d'une rivière.   
+Nous nous arrêtons à **Smithers**, petite ville aux airs Tyroliens. Nous en avons fini avec les pistes et nous nous arrêtons dans une station de lavage pour "décaper" Thor, heureusement qu'il est de couleur sable. Nous faisons un petit tour dans le centre ville et assistons à un petit concert de rock en plein air, on va se chercher une pizza et on mange en musique. Une patrouille de la Gendarmerie Royale Canadienne arrive et je discute un peu avec eux et on s'échange des insignes. On quitte le ville un peu tard et pour une fois, nous roulons de nuit une trentaine de kilomètres avant de trouver un bivouac au bord d'une rivière.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36523697253/in/datetaken/" title="Smithers - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4399/36523697253_dcad9b14eb_k.jpg" width="2048" height="1152" alt="Smithers - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 ## 26 août   
 
-Nous nous arrêtons à Houston, capitale mondiale de la pêche de la truite de mer. Devant le visitor center, trône une immense canne à pèche à la mouche de 20 mètres de haut. Le Wi-Fi est bon et je peux brancher l’ordinateur, nous y restons une bonne partie de la journée et j’en profite pour traiter les photos et les envoyer.   
+Nous nous arrêtons à **Houston**, capitale mondiale de la pêche de la truite de mer. Devant le visitor center, trône une immense canne à pèche à la mouche de 20 mètres de haut. Le Wi-Fi est bon et je peux brancher l’ordinateur, nous y restons une bonne partie de la journée et j’en profite pour traiter les photos et les envoyer.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37163634242/in/datetaken/" title="Houston - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4411/37163634242_9d7470b14b_k.jpg" width="2048" height="1152" alt="Houston - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-En fin d'après-midi, nous faisons route vers Prince George. Nous quittons avec regret le grand nord et faisons retour petit à petit vers la "civilisation", nous croisons les premières fermes et cultures, on pense voir des ours noirs pendant une fraction de seconde dans les champs mais non, ce ne sont que des vaches….  
+En fin d'après-midi, nous faisons route vers **Prince George**. Nous quittons avec regret le grand nord et faisons retour petit à petit vers la "civilisation", nous croisons les premières fermes et cultures, on pense voir des ours noirs pendant une fraction de seconde dans les champs mais non, ce ne sont que des vaches….  
 
 ## 27 août   
 
@@ -112,14 +112,14 @@ Nous partons ensuite découvrir le centre ville par un circuit pédestre qui s'a
 
 ## 28 et 29 août   
 
-Nous roulons toute la journée du 28 pour arriver à Vancouver, la trans-canada Hwy est assez tortueuse et assez impressionnante le long de la rivière Thompson. Nous trouvons à nous poser en plein centre ville non loin d'un Wallmart et proche des transports en commun.
+Nous roulons toute la journée du 28 pour arriver à **Vancouver**, la trans-canada Hwy est assez tortueuse et assez impressionnante le long de la rivière Thompson. Nous trouvons à nous poser en plein centre ville non loin d'un Wallmart et proche des transports en commun.
 Le lendemain, on prend le métro en direction du centre ville, la journée est très belle. Arrêt au visitor center puis nous suivons un circuit pour voir les différents points d’intérêts. Le quartier de Gastown est très pittoresque avec notamment son horloge à vapeur "La Steam Clock" qui "siffle" tous les quarts d'heure à la façon d'un paquebot, le thème interprété par Big Ben. En se rendant vers le quartier chinois, on traverse des rues sales, squattées par de nombreux SDF et des personnes qui se font des shoots d’héroïne dans la rue.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37013713770/in/datetaken/" title="IMG_4501"><img src="https://farm5.staticflickr.com/4361/37013713770_1fc126cd6b_k.jpg" width="2048" height="1365" alt="IMG_4501"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37240309042/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4380/37240309042_64dc161e9d_k.jpg" width="2048" height="1365" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Nous déjeunons dans un très bon restaurant le "Flying Pig" et je vais chez un barbier qui me taille très bien la barbe mais me loupe la coupe de cheveux. On finit la journée par le downtown et les quais de Coal Harbour où l'on assiste aux balais incessants des hydravions.   
+Nous déjeunons dans un très bon restaurant le **Flying Pig** et je vais chez un barbier qui me taille très bien la barbe mais me loupe la coupe de cheveux. On finit la journée par le downtown et les quais de Coal Harbour où l'on assiste aux balais incessants des hydravions.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37013490870/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4484/37013490870_e5f5446499_k.jpg" width="2048" height="1152" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -135,13 +135,13 @@ Départ pour l'ile de Vancouvert (voir l’article <a href="{{site.baseurl}}{% p
 
 ## 31 août  
 
-Le 31 août, alors que je fais le plein d'essence dans une station vers Nanaimo, un jeune backpacker originaire de Toronto vient me demander si nous pouvons l’avancer un peu. Il monte avec nous dans Thor et on discute un bon moment avant de le laisser à un croisement, n'ayant pas la même destination.  
+Le 31 août, alors que je fais le plein d'essence dans une station vers **Nanaimo**, un jeune backpacker originaire de Toronto vient me demander si nous pouvons l’avancer un peu. Il monte avec nous dans Thor et on discute un bon moment avant de le laisser à un croisement, n'ayant pas la même destination.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37410500885/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4442/37410500885_45f8700f09_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 ## 01 septembre  
 
-En montant vers Tofino, nous sommes arrêtés pour des travaux. Un énorme engin à chenille coupe de gros arbres le long de la route, dans un virage, certainement pour l'agrandir. C’est impressionnant avec quelle facilité la griffe avant entoure l’arbre tandis qu’un immense disque coupe la base.  
+En montant vers **Tofino**, nous sommes arrêtés pour des travaux. Un énorme engin à chenille coupe de gros arbres le long de la route, dans un virage, certainement pour l'agrandir. C’est impressionnant avec quelle facilité la griffe avant entoure l’arbre tandis qu’un immense disque coupe la base.  
 
 Au cours du Rainforest Trail, je rencontre un monsieur qui marche à sens inverse, on échange quelques mots et on comprend vite que nous sommes français tous deux. C'est ainsi que nous faisons la connaissance de Jean-Paul de Ollioules avec qui nous discutons un long moment. Grand voyageur depuis plus de 30 ans et photographe, il nous raconte de très belles anecdotes de voyage. Un livre devrait sortir début 2018 regroupant ses plus beaux clichés et il devrait nous adresser un exemplaire. Très belle rencontre.  
 
