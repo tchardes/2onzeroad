@@ -16,15 +16,13 @@ category: "blog"
 location: "48.945742, -124.601703"
 ---
 
-Située sur la côte Pacifique du Canada, l'ile de Vancouver longue de 460 Kms abrite la capitale de la Colombie Britannique, Victoria. On y accède soit par avion soit par bateau. Plusieurs ports du continent déservent l'ile via la compagnie BC Ferries (www.bcferries.com). Nous avons réservé les billets à l'avance sur Internet et avons opté pour un aller Tsawwassen / Swartz Bay et un retour Nanaimo / Horseshoe Bay afin de ne pas passer deux fois par la même route et passez une journée de plus sur Vancouver City. Il est également possible de prendre le bateau à Victoria afin de rejoindre directement les USA à Port Angeles.   
+Située sur la côte Pacifique du Canada, l'ile de Vancouver longue de 460 Kms abrite la capitale du territoire de la Colombie Britannique, Victoria. On y accède soit par avion soit par bateau. Plusieurs ports du continent déservent l'ile via la compagnie BC Ferries (www.bcferries.com). Nous avons réservé les billets à l'avance sur Internet et avons opté pour un aller Tsawwassen / Swartz Bay et un retour Nanaimo / Horseshoe Bay afin de ne pas passer deux fois par la même "route" et passez une journée de plus sur Vancouver City. Il est également possible de prendre le bateau à Victoria afin de rejoindre directement les USA à Port Angeles.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36558984874/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4506/36558984874_4bb0c15915_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
-
-Le 3O août nous embarquons sur Queen of New Westminster. La traversée de la mer de Salish dure une heure et demi, le bateau se faufille entre de nombreuses iles et emprunte un canal assez étroit entre les iles de Galiano et Mayne, qui abritent de très belle maisons et de nombreux phare avant d'arriver à sur l'ile de Vancouver.  
+Le 3O août nous embarquons sur Queen of New Westminster. La traversée de la mer de Salish dure une heure et demi, le bateau se faufille entre de nombreuses iles et emprunte un canal assez étroit entre les iles de Galiano et Mayne, qui abritent de très belle maisons et de nombreux phares, avant d'arriver sur l'ile de Vancouver.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37013274100/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4457/37013274100_c4939c0e4c_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
-
-Une fois à terre nous faisons route directement vers Victoria. Cette ville crée par la Compagnie de la Baie d'Hudson, nommée ainsi du nom de la reine Victoria, elle devint le centre du commerce des fourrures dans les régions de l'ouest du Canada. Nous avons un peu de mal à trouver une place pour nous garer. Nous visitons le centre ville à pied en commençant par le parlement, batiment très british qui fait face au port et à la ville. Nous poursuivons notre visite jusqu'à Chinatown avant de revenir sur nos pas en passant devant le Royal BC Museum où sont exposés de nombreux totems témoins du passé des tribus Salish.   
+Une fois à terre nous faisons route directement vers Victoria. Cette ville crée par la Compagnie de la Baie d'Hudson qui lui a donné le nom de la reine Victoria. Elle devint le centre du commerce des fourrures pour l'ouest du Canada. Nous avons un peu de mal à trouver une place pour nous garer. Nous visitons le centre ville à pied en commençant par le parlement, batiment très british de stsyle néo-roman qui fait face au port et à la ville. Nous poursuivons notre visite jusqu'au très beau quartier de Chinatown et pouvons observer de très beaux manoirs et batisses comme l'Impress hôtel sans oublier de nombreuses cathédrales. Nous finissons notre visite en passant devant le Royal BC Museum où sont exposés de nombreux totems témoins du passé des tribus Salish et une balade sur le front de mer sur la David Foster Way.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37222095386/in/datetaken/" title="Victoria - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4437/37222095386_648f89e12b_k.jpg" width="2048" height="1152" alt="Victoria - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -32,36 +30,31 @@ Une fois à terre nous faisons route directement vers Victoria. Cette ville cré
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36558373814/in/datetaken/" title="Victoria - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4414/36558373814_5e6c88c067_k.jpg" width="2048" height="1152" alt="Victoria - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Nous quittons la ville par la scenic drive qui longe le mer vers l’Est. Nous traversons de très beaux quartiers où sont implantés de superbes demeures, aussi bien anciennes que très modernes le tout dans des jardins très British. Sur la plage nous voyons deux piano droit mis à disposition, et nous voyons plusieurs jeunes cerf et biches « brouter » l’herbe dans les jardins des villas.  
+Nous quittons la ville par la scenic drive qui longe le mer vers l’Est. Nous traversons de très beaux quartiers où sont implantés de superbes demeures, aussi bien anciennes que modernes, mise en valeur par des jardins somme toute très British. Sur la plage nous voyons deux pianos droit mis à disposition pour les visiteurds. Nous avons également été très surpris de voir de nombreux jeunes cerf et biches « brouter » l’herbe dans les jardins des villas.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36558031214/in/datetaken/" title="Victoria - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4457/36558031214_7ae5b366af_k.jpg" width="2048" height="1152" alt="Victoria - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+Le lendemain nous montons vers la ville portuaire de Nanaimo. En route arrêt nous nous arrêtons au Cabble Hill Mountain pour faire une trail (3kms +300 mètres) qui mène au sommet d'une colline qui permet d'avoir une super vue sur les iles au large de Vancouver Island.
 
-Le lendemain 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37410321785/in/datetaken/" title="Cobble Hill - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4363/37410321785_cd0beb52c8_k.jpg" width="2048" height="1152" alt="Cobble Hill - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Départ direction Nanaimo. En route arrêt au Cabble Hill Mountain pour faire une trail qui mène au sommet avec une super vue sur les iles au large de Vancouver Island.  (3kms +300 mètres).
-Après déjeuné nous reprenons la route et faisons un stop à Duncan, petit bourgade qui présente de nombreux Totems. Puis route jusqu’à Nanaimo où nous faisons le tour du centre ville et de la marina à pied. Rien d’extraordinaire. Nous arrêtons dans une station pour faire le plein et aussi dump et haut et un backpacker de Toronto vient me demander si nous pouvons l’avancer un peu. On le prend quelques kilomètres et le laissons à un croisement.
-Route en direction de Tofino, on traverse de très belle forêts de cèdres et trouvons un bivouac sympa.   
+Après déjeuné nous reprenons la route et faisons un stop à Duncan, petit bourgade qui présente de nombreux Totems qui peuvent être observés en suivant un parcours pédestre aménagé. Puis route jusqu’à Nanaimo où nous faisons le tour du centre ville et de la marina à pied. Rien d’extraordinaire. Nous reprennons la route et traversons l'ile en direction de la côte Ouest vers Tofino.   
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36557917714/in/datetaken/" title="Duncan - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4377/36557917714_3f206f5ade_k.jpg" width="2048" height="1152" alt="Duncan - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## 01 Septembre  
+Le 01 Septembre, nous nous arrêtons au Pacific Rim Visitor Centre pour récupérer de la documentation et commençons par le sud et la péninsule de Ucluelet. Nous faisons le trail **Wild Pacific Trail** (3 km) superbe boucle qui longe la côte à travers une forêt de cèdres. La côte est très découpées avec de nombreux ilots, lieu de naufrage de voiliers. Deux bouées plus un phare "Amphitrite Point Lighthouse" signale la côte la première bouée est équipée d’une cloche tandis que la deuxième d’un genre de corne de brume, activée par le mouvement des vagues.  
 
-Départ pour Tofino. Nous nous arrêtons au visitor centre pour récupérer de la documentation et commençons par le sud à savoir Ucluelet. Nous faisons le trail « Wild Pacific Trail » (3 km) superbe boucle qui longe la côte à travers une forêt de cèdres. La côte est très découpées avec de nombreux Ilots, lieu de naufrage de voiliers. Deux bouées plus un phare signale la côte la première bouée est équipée d’une cloche tandis que la deuxième d’un genre de corne de brume, activée par le mouvement des vagues.
-En repartant vers le Nord nous nous arrêtons faire le Nuu-Chah-Nulth Trail (5km) qui traverse, la plupart du temps sur des passerelle et pont en bois une forêt de cèdres et mène à deux plages, South Beach et Florencia Beach très prisée par les surfeurs.
-Nous reprenons  la route et sommes arrêtés par des travaux. Un énorme engin à chenille coupe des arbres le long de la route. C’est impressionnant avec quelle facilité la griffe avant entoure l’arbre tandis qu’un immense disque coupe la base.
-Nous avons repéré un site pour dormir ce soir et nous faisons un détour pour vérifier si Thor peut se poser. Le lieu n’est pas très glamour mais il fera l’affaire. Vu le nombre de touriste encore présent nous viendrons de bonne heure ce soir pour être sur d’avoir une place.
-Nous arrêtons à Rainforest Trail, où nous passons la ligne du 49ème parallèle, une boucle de 1 Km  qui serpente entre les immenses arbres d’une forêt humide sur des ponts et passerelles parfois un peu bancales.
-Au cours de ce trail je rencontre un français de Toulon avec qui nous discutons un long moment. Voyageurs depuis plus de 30 ans et photographe amateur qui sort un livre en 2018. Très belle rencontre et très belles anecdotes de voyage. 
-Il est 18h00 quand nous rejoignons le bivouac, nous sommes les premiers mais pas pour longtemps, nous sommes rapidement rejoint par une petite dizaine de RV et toute la soirée d’autres viendront pour tenter de trouver une place.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37238416412/in/datetaken/" title="Ucluelet - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4368/37238416412_c70658a22e_k.jpg" width="2048" height="1152" alt="Ucluelet - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37409559395/in/datetaken/" title="Ucluelet - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4474/37409559395_e09bd19673_k.jpg" width="2048" height="1152" alt="Ucluelet - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Cabanis Jean-Paul
-La Magali RN8 2400
-83190 Ollioules
-jean-paul.cabanis@live.fr
-06.79.45.18.95
+En repartant vers le Nord nous nous arrêtons faire le **Nuu-Chah-Nulth Trail** (5km) qui traverse, la plupart du temps sur des passerelle et pont en bois une forêt de cèdres et mène à deux plages, South Beach et Florencia Beach très prisée par les surfeurs.  
 
-Il nous parle de Spotted Lake à Oyosoos, Comté de Lacombe, Colombie Britannique, Canada
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36557007414/in/datetaken/" title="Ucluelet - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4378/36557007414_f6feed82cb_k.jpg" width="2048" height="1152" alt="Ucluelet - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36597381023/in/datetaken/" title="Ucluelet - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4352/36597381023_09f048f705_k.jpg" width="2048" height="1152" alt="Ucluelet - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous passons la ligne du 49ème parallèle et finissons la journée en promenant sur le **Rainforest Trail**, une boucle de 1 Km qui serpente entre les immenses arbres d’une forêt humide sur des passerelles et escaliers en bois, parfois un peu bancales.
 
 
 ## 02 Septembre
