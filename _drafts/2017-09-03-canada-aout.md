@@ -156,13 +156,12 @@ En route pour Nanaimo, nous nous arrêtons à Parksville dans un state camping m
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36556506864/in/datetaken/" title="Vancouver Island - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4496/36556506864_6887cc8681_k.jpg" width="2048" height="1152" alt="Vancouver Island - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
 ## 03 septembre  
 
-Embarquement rapide sur le ferry puis départ vers un port situé cette fois au Nord de Vancouver, à Horseshoe bay. Nous faisons route vers le centre de Vancouver en passant par le «Lions Gate bridge» et nous trouvons une place de parking près du Charleson Park et faisons une balade de 2 heures le long de la baie « False Creek », très reposante et superbe vue sur la ville.   
+Embarquement rapide sur le ferry puis départ vers un port situé cette fois au Nord de Vancouver, à Horseshoe bay. Nous faisons route vers le centre de Vancouver en passant par le "Lions Gate bridge" et nous trouvons une place de parking près du Charleson Park et faisons une balade de 2 heures le long de la baie "False Creek", très reposante et superbe vue sur la ville.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36596793373/in/datetaken/" title="Horseshoe Bay - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4358/36596793373_73a543a274_k.jpg" width="2048" height="1152" alt="Horseshoe Bay - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36556228124/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4342/36556228124_83c23f402e_k.jpg" width="2048" height="422" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Après le repas, départ pour les USA. On quitte l'Ouest du Canada avec un gros pincement au coeur tant cette région nous a emballé. Nous rentrons aux states pour la 6ème fois. L’agent de l’immigration nous parle directement en Français, assez rare pour un américain, nous discutons 5 minutes en plus des questions habituelles et nous pouvons y aller...  
+Après le repas, départ pour les USA. On quitte l'Ouest du Canada avec un gros pincement au coeur tant cette région nous a émerveillée. Nous rentrons aux states pour la 6ème fois. L’agent de l’immigration nous parle directement en français, assez rare pour un américain, nous discutons 5 minutes en plus des questions habituelles et nous pouvons y aller...  
