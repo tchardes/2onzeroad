@@ -69,7 +69,7 @@ De retour, nous nous arrêtons à Tofino où nous trouvons difficilement une pla
 
 Nous repartons en fin d’après-midi pour Nanaimo afin d’être proche du port pour le lendemain matin. En route, nous nous arrêtons juste après Port Alberti dans une immense forêt qui fait partie du **MacMillan Provincial Park** peuplée de Pin Douglas-Fir. Le trail vous conduit sous une véritable cathédrale végétale, très sombre dont les premières branches sont à plusieurs dizaines de mètres de haut. Le plus gros arbre du lieu, vieux de 800 ans, mesure 86 mètres de haut avec un diamètre de 9 mètres.   
 
-Le 03 septembre, nous embarquons de bonne heure sur le "Queen of Oak Bay" pour un trajet d'une heure quarante vers Horseshoe bay. Le temps est ensoleillé, la mer de Salish très calme et le paysage est à couper le souffle, la vue sur les montagnes environnantes et sur Vancouver city, baignée dans une brume bleutée est inoubliable.  
+Le 03 septembre, nous embarquons de bonne heure sur le "Queen of Oak Bay" pour un trajet d'une heure quarante vers Horseshoe bay. Le temps est ensoleillé, la mer de Salish très calme et le paysage est à couper le souffle, la vue sur les montagnes environnantes, sur Vancouver city et au loin le Mont Rainier, baignée dans une brume bleutée est inoubliable.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37237406402/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4373/37237406402_d88cbc89ab_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
