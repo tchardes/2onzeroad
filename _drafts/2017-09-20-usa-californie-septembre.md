@@ -55,8 +55,7 @@ Arrêt dans un Walmart pour la nuit.
 
 ## 08 septembre
 
-Ce matin le temps et de nouveau gris. Après le plein on décide d’emprunter  la 
-scenic drive, Historic Columbia River Hwy qui permet de voir plus de 90 cascades, certaines sont très belles. Arrivés à quelques centaine de mètres de la première on nous arrête sur la route pour nous dire qu’en raison d’incendies de forêt, la route est fermée. Il est vrai que c’est très sec, l’herbe est toute jaune.
+Ce matin le temps et de nouveau gris. Après le plein on décide d’emprunter  la scenic drive, Historic Columbia River Hwy qui permet de voir plus de 90 cascades, certaines sont très belles. Arrivés à quelques centaine de mètres de la première on nous arrête sur la route pour nous dire qu’en raison d’incendies de forêt, la route est fermée. Il est vrai que c’est très sec, l’herbe est toute jaune.
 Les jours prochains sont annoncés comme pluvieux, on décide donc de poursuivre notre route vers le sud, en espèrant qu’il n’y ait pas de feux.
 On s’arrête à McMinnville pour visiter le 
 Evergreen Aviation & Space Museum. Ce musée est vraiment magnifique et se réparti dans 4 grands batiments, un pour l’aviation, un pour l’espace et le dernier qui abrite un cinéma Imax, le dernier est un parc aquatique. Sur son toit un Boeing 747 depuis lequel partent de tobogans. Ce musée à la particularité d’exposer Spuce Goose, l’énorme hydravion construit en 1947 par le miliardaire Howard Hugues. Cet avion qui n’aura volé qu’un mile et plus haut et plus large qu’un A380 et guere plus court. Très belle visite.
@@ -64,12 +63,12 @@ Nprenons ensuite la direction du sud pour visiter Crater Lake, nous nous posons 
 
 ## 09 et 10 septembre
 
-
+Crater Lake
 
 ## 11 septembre
 
 Départ de Crtater Lake, on s’arrête à Klamath Falls pour faire le plein de Propane et de Gazoline puis courses au Walmart.
-Nous reprenons la direction deLava Bed National Monument.  La route longe d’immense étendue de lave au relief très acéré où malgrè le temps, la nature n’pas repris ces drits, le lieux s’appelle dailleur Hevil Valley. Après une visite au visitor center pour récupérer les informations, nous faisons la Cave Loop Road où de nombreuses caverne dans la lave sont accéssibles, j’en fais deux, Gold Dome et Sunshine Cave. Ce sont des tubes qui se sont formés dans la lave, rien de spécial à voir.
+Nous reprenons la direction de Lava Bed National Monument.  La route longe d’immense étendue de lave au relief très acéré où malgrè le temps, la nature n’pas repris ces drits, le lieux s’appelle dailleur Hevil Valley. Après une visite au visitor center pour récupérer les informations, nous faisons la Cave Loop Road où de nombreuses caverne dans la lave sont accéssibles, j’en fais deux, Gold Dome et Sunshine Cave. Ce sont des tubes qui se sont formés dans la lave, rien de spécial à voir.
 Je fais ensuite un trail de 3,4 Km qui demarre le long de la caldera du « Mammoth crater » puis sillone dnas un plaine au milieu des morceaux de lave et de la végétation avant de revenir sur le volcan.
 Nous partons en suite vers le Lassen Volcanic NP et passons pour l’occasion dan sl’Etat de la Californie, dernier de notre road trip de 2017. Quelques kilomètres à l’intérieur de l’Etat, tous les véhicule passe à un contrôle sanitaire, nous y échapons pas ainsi que deux oranges clandestine qui n’avait pas leur papier pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau….
 Arrivés au parc nous nous dirigeons au Camping du parc où il reste quelques place.
