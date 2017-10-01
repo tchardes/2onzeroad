@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-vancouver.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-vancouver.jpg
 tags: [parc-naturel, mer-ocean, capitale, plage]
-flickr-tag: "Victoria, Tofino, Ucluelet, Salish Sea, Duncan, Cobble Hill"
+flickr-tag: "Vancouver Island"
 country: Canada - Colombie Britannique
 city: 
 category: "blog"
