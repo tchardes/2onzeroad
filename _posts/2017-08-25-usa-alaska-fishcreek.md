@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-fishcreek.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-fishcreek.jpg
 tags: [montagne, riviere, faune, foret]
-flickr-tag: "Fishcreek, Hyder"
+flickr-tag: "Fishcreek"
 country: USA - Alaska
 city: Hyder
 category: "blog"
