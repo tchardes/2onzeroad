@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Vancouver Island"
-preview:    "Située sur la côte Pacifique du Canada, l'ile de Vancouver longue de 460 Kms abrite la capitale de la Colombie Britannique... "
+preview:    "Située sur la côte Pacifique du Canada, l'île de Vancouver longue de 460 Kms abrite la capitale de la Colombie Britannique... "
 parent-id:  2017-09-03-canada-aout
 
 date:       2017-09-03 12:00:00
