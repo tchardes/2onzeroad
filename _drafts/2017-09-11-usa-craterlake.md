@@ -25,20 +25,16 @@ Nous arrivons de Portland donc par le Nord, l'entrée Nord du parc est fermée e
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412907585/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4415/37412907585_7b87828aa1_k.jpg" width="2048" height="1152" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Une fois installée nous passons par le visitor center et récupérons cartes et listes des trails. Nous avons confirmation que l'entrée Nord est fermée pour plusieurs jours, ainsi que la West Rim Drive en raison de travaux sur la route. Cette route fait tout le tour du cratère et offre plsuieurs points de vue sur le lac. Nous accédons ensuite au Rim village construit sur la caldeira et qui offre une vue impressionnante sur le Lac. On voit
-
-
+Une fois installée nous passons par le visitor center et récupérons cartes et listes des trails. Nous avons confirmation que l'entrée Nord est fermée pour plusieurs jours, ainsi que la West Rim Drive en raison de travaux sur la route. Cette route fait tout le tour du cratère et offre plsuieurs points de vue sur le lac. Nous accédons ensuite au Rim village construit sur la caldeira et qui offre une vue impressionnante sur le Lac. Le Sinnot Memorial Overlook est une plateforme contruite à l'applomb de la falaise qui permet d'avoir une vue complète sur le Lac. Nous assistons également à un exposé d'une Park Ranger sur la formation de ce lac. Je fini la journée par le ** Garfield Peak Trail** (5,5 Kms, +308 mètres), assez physique qui permet d’arriver à un point haut offrant une très belle vue sur le lac mais la fumée gâche un peu la vue et rend la respiration un peu difficile. Pendant le trail je rencontre une française installée à New York depuis 8 ans avec un américain, nous parlons quelques minutes de voyage et des différents Parcs des Etats-Unis.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37223740486/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4486/37223740486_835093ef51_k.jpg" width="2048" height="1152" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
-
-
+Après une nuit très fraiche nous partons pour la East Rim Drive. Nous faisons des stops au **Vidae Falls** une cascade et, **Phantom Ship Overlook**, **Cloudcap Overlook** qui offrent de belles vues sur le lac. Je finis la matinée sur le **Mount Scott trail** (8km, + 381mètres) pour accéder au sommet du Mont Scott qui culmine à 2721 mètres. Du sommet nous avons une vue magnifique à 360° et notament sur tout le Crater Lake. Malheureusement il y a toujours cette brûme et cette fumée qui gache un peu la vue.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560634734/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4449/36560634734_16d7106cea_k.jpg" width="2048" height="1152" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+En début d'après-midi nous quittons l'East Rim pour nous rendre au **Pinnacles Overlook** distant d'une dizaine de kilomètres. A l'époque de la forte activité volcanique, des formations géologiques de calcaire se sont formées en raison des fumerolles, autour des volcans créant, après érosion, de véritablement cheminées. Un petit trail permet de longer Wheeler Creek et ainsi observer de nombreux Pinacles.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412904715/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4477/37412904715_97f46828ff_k.jpg" width="2048" height="1152" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412904715/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4477/37412904715_97f46828ff_k.jpg" width="2048" height="1152" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+En fin de journée nous entamons la West Rim sur quelques kilomètres après sa réouverture jusqu'au **Watchman Overlook** pour bénéficier une très belle vue sur l'île Wizard.
