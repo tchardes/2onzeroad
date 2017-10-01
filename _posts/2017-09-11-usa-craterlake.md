@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Crater Lake NP"
-preview:    "Crater Lake s'est créé sur un ancien volcan de la chaine des cascades, arc volcanique qui s'étend de la Californie à la Colombie Britannique... "
+preview:    "Crater Lake s'est créé sur un ancien volcan de la chaine des cascades, arc volcanique qui s'étend de la Californie à la Colombie... "
 parent-id:  2017-09-20-usa-californie-septembre
 
 date:       2017-09-11 12:00:00
