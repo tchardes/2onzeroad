@@ -21,7 +21,7 @@ Crater Lake s'est créé sur un ancien volcan de la chaine des cascades, arc vol
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560645324/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4490/36560645324_7d4f8a9175_k.jpg" width="2048" height="491" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous arrivons de Portland donc par le Nord, l'entrée Nord du parc est fermée en raison des incendies de forêts, décidément, ils nous devancent systématiquement. Nous sommes contraints de faire un grand détour et contourner le parc par l'Ouest. Nous arrivons au niveau de Mazama village et trouvons une place au camping du parc. Seule ombre au tableau, ce dernier n'offre ni eau ni dump en raison de restrictions d'eau décrétées dans la Région.
+Nous arrivons de Portland donc par le Nord, l'entrée Nord du parc est fermée en raison des incendies de forêts, décidément, ils nous devancent systématiquement. Nous sommes contraints de faire un grand détour et contourner le parc par l'Ouest. Nous arrivons au niveau de Mazama village et trouvons une place au camping du parc. Seule ombre au tableau, ce dernier n'offre ni eau ni dump en raison de restrictions d'eau décrétées dans la région.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412907585/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4415/37412907585_7b87828aa1_k.jpg" width="2048" height="1152" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
