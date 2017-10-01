@@ -17,7 +17,7 @@ itinary: "oregon.json"
 
 ---
 
-Onzième article de type carnet de route, il couvre la période du 03 au 20 septembre durant laquelle nous avons traversé les Etats de Washington, de l'Orégon et de la Californie.
+Douzième article de type carnet de route, il couvre la période du 03 au 20 septembre durant laquelle nous avons traversé les Etats de Washington, de l'Orégon et une partie de la Californie.
 
 
 ## 03 septembre
