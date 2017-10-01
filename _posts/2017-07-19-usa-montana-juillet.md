@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt7.jpg
 tags: []
 country: USA - Montana
 category: "roadmap"
-flickr-tag: ""
+flickr-tag: "Montana"
 location: "43.954466, -100.720835"
 itinary: "usa2.json"
 
