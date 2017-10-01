@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt9.jpg
 tags: []
 country: USA - Alaska
 category: "roadmap"
-flickr-tag: ""
+flickr-tag: "Alaska"
 location: "64.951904, -151.066390"
 itinary: "alaska.json"
 
