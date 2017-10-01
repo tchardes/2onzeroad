@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Crater Lake"
+title:      "Crater Lake NP"
 preview:    "... "
 parent-id:  2017-09-20-usa-californie-septembre
 
