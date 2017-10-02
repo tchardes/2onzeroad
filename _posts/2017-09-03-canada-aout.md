@@ -99,7 +99,7 @@ Nous nous arrêtons à **Houston**, capitale mondiale de la pêche de la truite 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37163634242/in/datetaken/" title="Houston - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4411/37163634242_9d7470b14b_k.jpg" width="2048" height="1152" alt="Houston - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-En fin d'après-midi, nous faisons route vers **Prince George**. Nous quittons avec regret le grand nord et faisons retour petit à petit vers la "civilisation", nous croisons les premières fermes et cultures, on pense voir des ours noirs pendant une fraction de seconde dans les champs mais non, ce ne sont que des vaches….  
+En fin d'après-midi, nous faisons route vers **Prince George**. Nous quittons avec regret le grand nord et faisons retour petit à petit vers la "civilisation", nous croisons les premières fermes et cultures, on pense voir des ours noirs pendant une fraction de seconde dans les champs mais non, ce ne sont que des vaches…  
 
 ## 27 août   
 
