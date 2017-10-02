@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Lava Beds NM"
-preview:    "Nous poursuivons notre roadtrip sur la chaîne des cascades par la visite du Lava Beds National Monument. La principale différence... "
+preview:    "Nous poursuivons notre roadtrip sur la chaîne des cascades par la visite du **Lava Beds National Monument** (Lits de lave). La principale différence... "
 parent-id:  2017-09-20-usa-californie-septembre
 
 date:       2017-09-12 12:00:00
