@@ -65,13 +65,13 @@ Nprenons ensuite la direction du sud pour visiter Crater Lake, nous nous posons 
 
 Crater Lake
 
-(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-11-usa-craterlake %}">ici</a>).
+**(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-11-usa-craterlake %}">ici</a>)**.
 
 
 ## 11 septembre
 
 
-(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-12-usa-lavabeds %}">ici</a>).
+**(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-12-usa-lavabeds %}">ici</a>)**.
 
 Départ de Crtater Lake, on s’arrête à Klamath Falls pour faire le plein de Propane et de Gazoline puis courses au Walmart.
 Nous reprenons la direction de Lava Bed National Monument.  La route longe d’immense étendue de lave au relief très acéré où malgrè le temps, la nature n’pas repris ces drits, le lieux s’appelle dailleur Hevil Valley. Après une visite au visitor center pour récupérer les informations, nous faisons la Cave Loop Road où de nombreuses caverne dans la lave sont accéssibles, j’en fais deux, Gold Dome et Sunshine Cave. Ce sont des tubes qui se sont formés dans la lave, rien de spécial à voir.

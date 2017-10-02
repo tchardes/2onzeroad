@@ -32,7 +32,7 @@ Après une nuit très fraiche, nous partons pour la East Rim Drive. Nous faisons
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560634734/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4449/36560634734_16d7106cea_k.jpg" width="2048" height="1152" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-En début d'après-midi, nous quittons l'East Rim pour nous rendre au **Pinnacles Overlook** distant d'une dizaine de kilomètres. A l'époque de la forte activité volcanique, des pics géologiques de calcaire se sont formés en raison des fumerolles créant, après érosion, de véritablement cheminées. Un petit trail qui longe la Wheeler Creek permet d'observer de nombreux Pinacles.  
+En début d'après-midi, nous quittons l'East Rim pour nous rendre au **Pinnacles Overlook** distant d'une dizaine de kilomètres. A l'époque de la forte activité volcanique, des pics géologiques de calcaire se sont formés en raison des fumerolles créant, après érosion, de véritables cheminées. Un petit trail qui longe la Wheeler Creek permet d'observer de nombreux Pinacles.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412904715/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4477/37412904715_97f46828ff_k.jpg" width="2048" height="1152" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
