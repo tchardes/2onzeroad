@@ -4,7 +4,7 @@ title:      "Lava Beds NM"
 preview:    "Nous poursuivons notre roadtrip sur la chaîne des cascades par la visite du Lava Beds National Monument. La principale différence... "
 parent-id:  2017-09-20-usa-californie-septembre
 
-date:       2017-09-12 12:00:00
+date:       2017-09-11 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-lavabeds.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-lavabeds.jpg
