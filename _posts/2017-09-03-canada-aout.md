@@ -63,7 +63,7 @@ En fin de journée, nous quittons le Yukon pour la Colombie Britannique et passo
 
 ## 23 août   
 
-Nous poursuivons notre descente plein sud et traversons la soit-disant capitale mondiale du Jade, **Dease Lake**. Juste avant le village se trouve "Jade City" une très belle boutique qui propose, entre autre, de nombreux articles crées en jade. En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de kilomètres d’intervalle dont une maman avec son ourson. Pour l'instant, la "37" que nous avons renommée la "The bear road" est bien goudronnée.    
+Nous poursuivons notre descente plein sud et traversons la soit-disant capitale mondiale du Jade, **Dease Lake**. Juste avant le village se trouve "Jade City" une très belle boutique qui propose, entre autre, de nombreux articles créés en jade. En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de kilomètres d’intervalle dont une maman avec son ourson. Pour l'instant, la "37" que nous avons renommée la "The bear road" est bien goudronnée.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36823426555/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4407/36823426555_8a0c7f809c_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -132,7 +132,7 @@ De retour à Thor, nous faisons les courses au Walmart et partons vers le port d
 
 ## 30 août  
 
-Départ pour l'île de Vancouvert (voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-03-canada-vancouver %}">ici</a>). On arrive au port avec un peu d’avance, du coup, on nous propose de prendre le bateau de 9h00 au lieu de 10H00 comme initialement prévu. Le bateau est assez imposant et on se gare facilement à l'intérieur avant de monter dans les ponts supérieurs. Corinne a un peu d'appréhension mais finalement la mer est très calme et la traversée se passe sans problème. Une fois à quai, le débarquement est rapide et les agents portuaires nous font manoeuvrer afin de ne pas toucher à l'arrière avec notre porte à faux. Le soir, nous trouvons un super bivouac sur un parking faisant face à une plage à Mill Bay.   
+Départ pour l'île de Vancouver (voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-03-canada-vancouver %}">ici</a>). On arrive au port avec un peu d’avance, du coup, on nous propose de prendre le bateau de 9h00 au lieu de 10H00 comme initialement prévu. Le bateau est assez imposant et on se gare facilement à l'intérieur avant de monter dans les ponts supérieurs. Corinne a un peu d'appréhension mais finalement la mer est très calme et la traversée se passe sans problème. Une fois à quai, le débarquement est rapide et les agents portuaires nous font manoeuvrer afin de ne pas toucher à l'arrière avec notre porte à faux. Le soir, nous trouvons un super bivouac sur un parking faisant face à une plage à Mill Bay.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37221298146/in/datetaken/" title="Mill Bay - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4505/37221298146_cc24ab89f0_k.jpg" width="2048" height="1152" alt="Mill Bay - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
