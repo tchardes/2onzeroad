@@ -37,8 +37,8 @@ Ensuite nous faisons une halte à Summit Lake, puis Kings Creek Area où je fais
 
 Nous poursuivons la route et passons un col à plus de 3000 mètres encore passablement eneigé jusqu’au « Bumpass Hell » pour faire un trail qui mène (4,2 Km, 100 mètres) à une zone de fumerolles et mares bouillonantes, un très petit Yellowstone. 
  
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36667252954/in/datetaken/" title="Lassen Volcanic NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4474/36667252954_63c1588dc4_k.jpg" width="2048" height="705" alt="Lassen Volcanic NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37119363090/in/datetaken/" title="Lassen Volcanic NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4473/37119363090_7971125850_k.jpg" width="2048" height="1152" alt="Lassen Volcanic NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  
- L’orage approche et nous quitons le parc après une arrêt à «Sulphur Works », autre phénomène géothermique.
+L’orage approche et nous quitons le parc après une arrêt à «Sulphur Works », autre phénomène géothermique.
 
- <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37328446536/in/datetaken/" title="Lassen Volcanic NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4433/37328446536_9ef33d9c38_k.jpg" width="2048" height="1152" alt="Lassen Volcanic NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37328446536/in/datetaken/" title="Lassen Volcanic NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4433/37328446536_9ef33d9c38_k.jpg" width="2048" height="1152" alt="Lassen Volcanic NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
