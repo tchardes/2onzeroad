@@ -55,11 +55,11 @@ Ce matin "changement d'huile" de Thor puis complément des courses et départ ve
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36823930025/in/datetaken/" title="Teslin - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4422/36823930025_027176ea2d_k.jpg" width="2048" height="1152" alt="Teslin - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-Nous quittons "l'Alcan" un peu avant Watson Lake pour prendre la British Columbia Highway 37 que l'on redoute un peu car si l'on en croit notre guide, elle est principalement composée de pistes. Nous sommes passés par **Watson Lake** lors de notre montée ver l'Alaska et j'ai complètement oublié d'en parler, pourtant cette petite ville de moins de 1000 habitants présente la caractéristique de posséder une "forêt" de panneaux de signalisation. Tout commence en 1942 lorsque les militaires travaillant à la construction de la route de l'Alaska, avaient pris l'habitude d'y mettre chacun un panneau indiquant la localité d'où ils venaient. La tradition s'est perpétuée et tous les voyageurs passant par Watson Lake laissent un souvenir, on en compte plus de 76000 aujourd'hui, principalement des plaques d'immatriculation.   
+Nous quittons "l'Alcan" un peu avant Watson Lake pour prendre la British Columbia Highway 37 que l'on redoute un peu car si l'on en croit notre guide, elle est principalement composée de pistes. Nous sommes passés par **Watson Lake** lors de notre montée ver l'Alaska et j'ai complètement oublié d'en parler, pourtant cette petite ville de moins de 1000 habitants présente la caractéristique de posséder une "forêt" de panneaux de signalisation. Tout commence en 1942 lorsque les militaires, travaillant à la construction de la route de l'Alaska, avaient pris l'habitude d'y mettre chacun un panneau indiquant la localité d'où ils venaient. La tradition s'est perpétuée et tous les voyageurs passant par Watson Lake laissent un souvenir, on en compte plus de 76000 aujourd'hui, principalement des plaques d'immatriculation.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35468271783/in/datetaken/" title="Watson Lake - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4291/35468271783_2c120209df_k.jpg" width="2048" height="1152" alt="Watson Lake - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-En fin de journée, nous quittons le Yukon pour la Colombie Britannique et passons en dessous du 60ème parallèle. Corinne nous trouve un super bivouac au bord d'une rivière "French Creek" qui était fait pour nous….  
+En fin de journée, nous quittons le Yukon pour la Colombie Britannique et passons en dessous du 60ème parallèle. Corinne nous trouve un super bivouac au bord d'une rivière qui était fait pour nous, "French Creek"….  
 
 ## 23 août   
 
@@ -73,7 +73,7 @@ Nous trouvons un bivouac peu avant Meziadin Junction où nous bifurquerons demai
 
 ## 24 août    
 
-A peine après avoir quitté notre lieu de stationnement, nous croisons un magnifique ours noir qui traverse la route devant nous, la journée commence bien. Nous bifurquons sur la "37A" qui s'avèrera être goudronnée également tout le long. Sur la route, nous passons devant le magnifique **Bear glacier**.   
+A peine après avoir quitté notre lieu de stationnement, nous croisons un magnifique ours noir qui traverse la route devant nous, la journée commence bien. Nous bifurquons sur la "37A" qui s'avèrera être goudronnée également tout le long. Sur la route, nous passons devant **Bear glacier**.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36657044542/in/datetaken/" title="Stewart - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4340/36657044542_ab23c61313_k.jpg" width="2048" height="1152" alt="Stewart - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
