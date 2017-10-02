@@ -161,7 +161,7 @@ En route pour Nanaimo, nous nous arrêtons à Parksville dans un state camping m
 
 ## 03 septembre  
 
-Embarquement rapide sur le ferry puis départ vers un port situé cette fois au Nord de Vancouver, à Horseshoe bay. Nous faisons route vers le centre de Vancouver en passant par le "Lions Gate bridge" et nous trouvons une place de parking près du Charleson Park et faisons une balade de 2 heures le long de la baie "False Creek", très reposante et superbe vue sur la ville.   
+Embarquement rapide sur le ferry puis départ vers un port situé cette fois au Nord de Vancouver, à Horseshoe Bay. Nous faisons route vers le centre de Vancouver en passant par le "Lions Gate bridge" et nous trouvons une place de parking près du Charleson Park et faisons une balade de 2 heures le long de la baie "False Creek", très reposante et qui bénéficie d'une superbe vue sur la ville.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36596793373/in/datetaken/" title="Horseshoe Bay - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4358/36596793373_73a543a274_k.jpg" width="2048" height="1152" alt="Horseshoe Bay - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
