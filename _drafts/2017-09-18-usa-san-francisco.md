@@ -16,12 +16,10 @@ category: "blog"
 location: "37.780006, -122.438828"
 ---
 
+Nous voilà à la fin de notre roadtrip pour cette année et nous finissons en apothéose avec la visite de San Francisco. Celle ville nous fait rêver depuis longtemps et nous avons préparé munitieusement sa visite
 
 
-
-Jour 1 :
-Départ de Vacaville pour Oakland où nous allons nous occuper de la logistique de ces derniers jours. Nous nous rendons sur la presqu’ile d’Alemada où nous allons dans deux storage, le premier est complet tandis que le deuxième à encore des places, Thor va donc passer l’hiver à la Marina d’Alemada, pas très loin de l’aéroport. Nous cherchons ensuite un camping poiur les deux dierners jours afin de préparer à l’hivernage. Ils sont assez rares dans la région. Le seul camping d’oakland ne fait finalement que les longs séjours. Il ne nous reste qu’un régional parc qui est un peu loin, perdu en pleine forêt. Nous nous y rendons  pour au final nous entendre dire par le gardien à l’entrée que les réservations ne se font que par téléphone. Nous faisons demi tour car biensur pas de réseau dans ce coin un peu isolé et  j’arrive à faitre la réservation par téléphone. Le temps est très gris et devrait se lever en milieu d’après-midi, nous decidons donc d’aller à SF. Nous passons par le pont «Bay Bridge »(6$) et arrivons directement en centre ville, pas facile de circuler avec Thor, la tension est palpable dans la cabine…. Corinne a repéré un sationnement possible en plein Présidio, on tente pour cette nuit. Une fois agré on par à pied voir le Palace of fine art et la Organ wave au bout du quai de la marina, juste en face Alcatrz qui est en partie dana la bruma comme le Golden Gate. Les maisons sur le Front de mer sont vraiment très belles est de pur style californien.
-
+Depuis notre bivouac, nous prenons le bus de ville pour nous déplacer. Nous effectuons un changement 
 
 Jour 2 :
 Visite de 
