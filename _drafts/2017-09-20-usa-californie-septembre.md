@@ -85,4 +85,7 @@ Nous sommes le 11/09 tous les drapeaux sont en berne.
 Après une nuit pluivieuse, ce matin grand beau temps. Nous faisons les Dump et plein d’eau et quittons le Camping. Nous faisons le tour du Lac Mirroir et du lac Manzanita avant de prendre la Volcanic Legacy Scenic Byway qui traverse le parc qui se compose de trois zones avec chacune un accés différent. Nous nous arrêtons à « Devastated Aera » qui présente un petit trail pédagogique qui explique les dernières éruptions et montre des monolites énormes de pusieurs dizaines de tonnes provenant directement de volcan dont la dernière eruption date de 1915. Ensuite nous faisons une halte à Summit Lake, puis Kings Creek Area où je fais le trail « Cold Boiling Lake » (2,2 Kms +10 mètres) qui au travers d’une très belle forêt mène à un petit lac où des bulles remontent à la surface témoignant de l’activité Géothermique. Nous poursuivons la route et passons un col à plus de 3000 mètres encore passablement eneigé jusqu’au « Bumpass Hell » pour faire un trail qui mène (4,2 Km, 100 mètres) à une zone de fumerolles et mares bouillonantes, un très petit Yellowstone. L’orage approche et nous quitons le parc après une arrêt à «Sulphur Works », autre phénomène géothermique.
 Puis route vers SF et arrêt pour la nuit à Vacaville.
 
-## 13 au 20 septembre
+## 13 au 18 septembre
+
+
+**(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-18-usa-san-francisco %}">ici</a>)**.
