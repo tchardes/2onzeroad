@@ -18,8 +18,20 @@ location: "37.780006, -122.438828"
 
 Nous voilà à la fin de notre roadtrip pour cette année et nous finissons en apothéose avec la visite de San Francisco. Celle ville nous fait rêver depuis longtemps et nous avons préparé munitieusement sa visite
 
+L'idéal, pour accompagner la lecture de cet article est de le faire en musique. Selon vos goûts et peut-être selon votre âge, vous pouvez cliquer sur un de ces liens pour lancer la musique avant de revenir sur le site :  
 
-Depuis notre bivouac, nous prenons le bus de ville pour nous déplacer. Nous effectuons un changement 
+<ul>
+    <li><a href="https://youtu.be/7I0vkKy504U" target="_blank">Scott McKenzie – If you’re going to San Francisco</a></li>
+    <li><a href="https://youtu.be/0uT87XQrki0" target="_blank">Maxime Le Forestier – Une Maison Bleue</a></li>
+    <li><a href="https://youtu.be/rTVjnBo96Ug" target="_blank">Otis Redding - (Sittin' On) The Dock Of The BayUne</a></li>
+    <li><a href="https://youtu.be/8RZqPq1-1Tw" target="_blank">The Mowgli's - San Francisco </a></li>
+    <li><a href="https://youtu.be/yTmmmG-mzOQ" target="_blank">Brett Dennen - San Francisco </a></li>
+    <li><a href="https://youtu.be/2WrIN7xhEks" target="_blank">Arctic Monkeys - Fake Tales Of San Francisco </a></li>
+</ul>
+
+
+
+Depuis notre bivouac, nous prenons le car de ville pour circuler en ville.
 
 Jour 2 :
 Visite de 
