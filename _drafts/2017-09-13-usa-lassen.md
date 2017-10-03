@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Lassen Volcanic NP"
-preview:    "Après Lava Beds NM nous poursuivons notre descente sur la chaîne des cascades par la découverte du Parc National Volcanique de Lassen qui offre des... "
+preview:    "Après Lava Beds NM nous poursuivons notre descente sur la chaîne des cascades par la découverte du Parc National Volcanique des... "
 parent-id:  2017-09-20-usa-californie-septembre
 
 date:       2017-09-12 12:00:00
