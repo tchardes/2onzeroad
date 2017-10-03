@@ -44,4 +44,4 @@ L’orage approche et nous quitons le parc après une arrêt à **Sulphur Works*
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37328446536/in/datetaken/" title="Lassen Volcanic NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4433/37328446536_9ef33d9c38_k.jpg" width="2048" height="1152" alt="Lassen Volcanic NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous avons adoré ce parc aux paysages de carte postale, très diversifié, où la route et les trails vous conduisent entre lacs, forêts, paysage volcanique, pairies, ruisseau, curiosités géologiques, panoramas… A ne pas rater si vous passez dans le coin.   
+Nous avons adoré ce parc aux paysages de carte postale, très diversifié, où la route et les trails vous conduisent entre, monts, lacs, forêts, paysages volcaniques, pairies, ruisseaux, curiosités géologiques, panoramas… A ne pas rater si vous passez dans le coin.   
