@@ -129,6 +129,27 @@ Visite du « Japonese Tea Garden » puis Alamo Parc et les Painted Ladies, Cas
 Déjeuné dans un Mexicain « Casa Mexicana 180 Church Street, très bons Burritos.
 
 
+## Troisième journée
+
+### Quartier Japonnais
+
+### Hôtel de ville
+
+### Fisherman’s Wharf
+
+
+
+## Quatrième journée
+
+### Golden Gate
+
+### Union Square
+
+
+### SFMoMA
+
+## Cinquième journée
+
 
 Jour 4 :
 - Quartier Japonnais
