@@ -29,19 +29,16 @@ L'idéal, pour accompagner la lecture de cet article est de le faire en musique.
     <li><a href="https://youtu.be/2WrIN7xhEks" target="_blank">Arctic Monkeys - Fake Tales Of San Francisco </a></li>
 </ul>
 
-Pour cette première journée nous nous rendons en centre ville en bus. Nous découvrons Union Square, le coeur de San Francisco, avec ses grandes enseignes et hôtels de luxe comme le Saint Francis et le Sir Francis Drake avec ces portiers habillés en garde de la tour de Londre. Nouqs poursuivons par le quartier de Chinatown en commençant par la Chinatown Gate protégée par deux lions et des dragons. 
+Pour cette première journée nous nous rendons en centre ville en bus. Nous découvrons Union Square, le coeur de San Francisco, avec ses grandes enseignes et hôtels de luxe comme le Saint Francis et le Sir Francis Drake et ces portiers habillés en garde de la tour de Londre. Nous poursuivons par le quartier de Chinatown en commençant par la Chinatown Gate, entrée du quartier protégée par deux lions et des dragons. 
 
-Depuis l'entrée nous avons suivi l'itinéraire suivant nous permettant de relier tous les points intéressants que nous avons listé.
+Depuis l'entrée nous avons suivi l'itinéraire suivant, nous permettant de relier tous les points intéressants que nous avions listé.
 
-	•	Grant Avenue: Grant est particulièrement touristique près de la porte de Chinatown. C'est un bon endroit pour acheter des souvenirs, avec plusieurs grands magasins offrant des t-shirts et autres babioles. Regardez autour de vous et vous verrez que les plaques de rue sont écrits dans les deux lampadaires ornés anglais et en chinois et (mettre en place en 1925) sont pris en charge par des dragons d'or
+	•	Grant Avenue : particulièrement touristique c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles. Le boutiques sont hautes en couleurs, les plaques de rue sont écrites e, anljias et chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue de guirlandes de grosses boules rouges traverse l'artère.
 
-	•	L'église Sainte-Marie: Grant à la Californie. Les pierres de granit utilisés dans les fondations de cette église historique venaient de Chine et ses briques sont venus "autour de la Corne" de l'Amérique du Sud avec les chercheurs d'or.
-	•	
-	•	MARCHE: Lorsque vous traversez les pistes de téléphérique au California Avenue: Écoutez. Non seulement il va vous aider à éviter une voiture qui se rapproche, vous entendrez aussi les câbles qui se déplacent les voitures fredonner sous la rue.
-	•	 
-	•	Wok boutique : 718 Grant Avenue. Cette boutique de Chinatown de longue date commercialise une large sélection de couperets, woks, et des baguettes, qui tous font de grands (et utiles) souvenirs.
-	•	
-	•	Boulangerie-Orient : 720 Grant Avenue. Ouvert en 1924, l'Est est la plus ancienne boulangerie chinoise des États-Unis. Les gâteaux de lune sont leur spécialité, rempli d'une lumière ou melon riche pâte de lotus semences.
+	•	Au croisement Grant Av. à la California street se trouve la Old St. Mary's Cathedral dont les pierres de granit utilisés dans les fondations viennent de Chine et ses briques d'Amérique du Sud. En poursuivant sur Grant se trouve au :
+	
+	718 Grant Avenue, Wok boutique. Cette très ancienne boutique commercialise des couperets, woks, baguettes…
+	720 Grant Avenue, la boulangerie "Eastern Bakery" ouverte en 1924 est la plus ancienne boulangerie chinoise des États-Unis. Les gâteaux de lune sont leur spécialité, on peut y déguster du sucré mais également du salé.
 	•	
 	•	MARCHE: A Clay Street, tournez à droite, puis tournez à gauche pour entrer dans l'un des parcs de la ville d'origine de San Francisco.
 	•	
