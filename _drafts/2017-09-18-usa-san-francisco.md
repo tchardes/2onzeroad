@@ -37,7 +37,7 @@ Pour cette première journée nous nous rendons en centre ville en bus. Nous dé
 
 Depuis l'entrée nous avons suivi l'itinéraire suivant, nous permettant de relier tous les points intéressants que nous avions listé et glané sur différents sites Internet.  
 
-Grant Avenue : particulièrement touristique c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles. Le boutiques sont hautes en couleurs, les plaques de rue sont écrites e, anljias et chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue de guirlandes de grosses lanternes rouges traverse l'artère.  
+Grant Avenue : particulièrement touristique c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles. Les boutiques sont hautes en couleurs, les plaques de rue sont écrites en anglais et en chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue des guirlandes de grosses lanternes rouges traversent l'artère.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281298506/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4346/37281298506_3f584a6c80_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
