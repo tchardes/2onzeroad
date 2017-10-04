@@ -34,7 +34,7 @@ L'idéal, pour accompagner la lecture de cet article est de le faire en musique.
 
 ## Première journée
 
-Nous arrivons en fin d'après-midi au Presidio, parc situé au nord de la péninsule de San Francisco et commençons notre découverte de la ville par le **Palace of Fine Arts** construit à l'occasion de l'exposition internationale de Panama-Pacific organisée en 1915., la marina et à sa pointe le **The Wave Organ** une sculpture accoustique.
+Nous arrivons en fin d'après-midi au Presidio, parc situé au nord de la péninsule de San Francisco et commençons notre découverte de la ville par le **Palace of Fine Arts** construit à l'occasion de l'exposition internationale de Panama-Pacific organisée en 1915., la marina et à sa pointe le **The Wave Organ** une sculpture accoustique et sa vue sur la baie.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37328259731/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4500/37328259731_d20f09c1ef_k.jpg" width="2048" height="753" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
