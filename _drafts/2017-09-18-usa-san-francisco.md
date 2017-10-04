@@ -29,6 +29,13 @@ L'idéal, pour accompagner la lecture de cet article est de le faire en musique.
     <li><a href="https://youtu.be/2WrIN7xhEks" target="_blank">Arctic Monkeys - Fake Tales Of San Francisco </a></li>
 </ul>
 
+
+<div id="toc"></div>
+
+## Première journée
+
+### Chinatown
+
 Pour cette première journée nous nous rendons en centre ville en bus. Nous découvrons **Union Square**, le coeur de San Francisco, avec ses grandes enseignes et hôtels de luxe comme le Saint Francis et le Sir Francis Drake et ces portiers habillés en garde de la tour de Londre. Nous poursuivons par le quartier de **Chinatown** en commençant par la Dragon's Gate, entrée du quartier protégée par deux dragons et deux lions. Il s'agit du plus vieux et plus grand quartier chinois de tout les USA.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618947794/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4411/36618947794_a03e669351_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
@@ -74,6 +81,8 @@ On débouche sur Washington Street que l'on prend sur la droite jusqu'à Columbu
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37072076060/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4467/37072076060_6c9c71dddc_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+### Coit Tower
+
 Nous remontons l'avenue pour nous rendre à la Coit Tower qui met nos mollets à dure épreuve. Cette tour de 64 mètres a été edifiée en 1933 sur la Télégraph Hill pour honorer les pompiers de la ville. Même sans monter au sommet de la tour (400 marches) on bénéficie d'une très belle vue sur la ville et la Baie.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281271546/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4506/37281271546_9babc8a99d_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
@@ -87,6 +96,8 @@ Nous remontons l'avenue pour nous rendre à la Coit Tower qui met nos mollets à
 On descend ensuite vers Embarcadero et les piers en empruntant les escaliers Filbert, **Filbert steps**, successions de marches en bois et ruelles privées qui serpentent entre les maisons et jardins accrochés à la colline. On traverse ainsi dans le calme, un écrin de verdure odorante composé de rosiers, citronniers, chèvrefeuilles, jasmins, hortensias… Il parait que des perroquets y ont élu domicile, nous n'en avons pa vu.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476687008/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4338/23476687008_3f42caa206_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+### Piers 39
 
 Nous promenons le long des quais (Piers) jusqu'au Piers 39 certainement le plus animés avec ces nombreuses boutiques, restaurants, animations. 
 
