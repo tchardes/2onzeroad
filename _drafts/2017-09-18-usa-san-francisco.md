@@ -122,7 +122,7 @@ Ce matin nous descendons au Golden Gate Park, immense espace vert de 410 hectare
 
 ### Alamo Parc
 
-Nous reprenons le bus vers **Alamo Square** qui est un jardin public et un quartier résidentiel, célèbre par sa rangée de maisons de style victorien et édouardien peintes en trois couleurs ou plus afin de réhausser leur détails architecturaux, surnommées les **Painted Ladies**. En montant un peu sur la colline on peu apercevoir, derrière les villas, le centre de San Francisco.
+Nous reprenons le bus vers **Alamo Square** qui est un jardin public et un quartier résidentiel, célèbre par sa rangée de maisons de style victorien et édouardien peintes en plusieurs couleurs afin de réhausser les détails architecturaux, surnommées les **Painted Ladies**. En montant un peu sur la colline on peu apercevoir, derrière les villas, le centre de San Francisco.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37327892931/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4456/37327892931_2bcce48a05_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -132,10 +132,17 @@ En repartant par la Fultron Street, nous bénéficions une très belle vue sur l
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37327889521/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4451/37327889521_4c2aeec235_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
-
-
 ### Castro
+
+
+
+
+
+Castro Street est l'artère qui a donné son nom à ce quartier de la ville. Il représente le cœur de la communauté gay de San Francisco. L'abréviation « The Castro » est parfois aussi utilisée pour désigner le cinéma Castro Theater, sur Castro Street.
+
+Le quartier gay de San Francisco est concentré plus particulièrement dans le quartier commercial que constitue Castro Street entre Market Street et 19th Street. Il s'étend de Market Street vers Church Street et sur 18th Street des deux côtés de Castro Street sur environ deux pâtés de maison. Le concept de Greater Castro désigne les zones résidentielles alentour, bordées par le Mission District, Noe Valley, Twin Peaks et Haight-Ashbury. Certains y incluent également les quartiers de Duboce Triangle et de Dolores Heights, où la communauté gay est également très présente.
+
+Castro Street court vers le sud à travers Noe Valley, traversant la zone commerçante de 24th Street, et se termine quelques blocks plus loin, dans le quartier de Glen Park. La rue tient son nom de Joaquin Isidro de Castro, un soldat espagnol qui prit part à l'expédition de Juan Bautista de Anza en Californie au xviiie siècle.
 
 ### Missions Dolores
 
