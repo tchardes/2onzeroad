@@ -120,8 +120,19 @@ Ce matin nous descendons au Golden Gate Park, immense espace vert de 410 hectare
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658576413/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4436/36658576413_be4623d266_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
 ### Alamo Parc
+
+Nous reprenons le bus vers **Alamo Square** qui est un jardin public et un quartier résidentiel, célèbre par sa rangée de maisons de style victorien et édouardien peintes en trois couleurs ou plus afin de réhausser leur détails architecturaux, surnommées les **Painted Ladies**. En montant un peu sur la colline on peu apercevoir, derrière les villas, le centre de San Francisco.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37327892931/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4456/37327892931_2bcce48a05_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37327890441/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4358/37327890441_aa619cf990_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+En repartant par la Fultron Street, nous bénéficions une rès belle vue sur la coupole de l'hôtel de ville.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37327889521/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4451/37327889521_4c2aeec235_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+
 
 
 ### Castro
