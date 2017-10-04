@@ -106,7 +106,7 @@ Nous promenons le long des quais (Piers) jusqu'au Piers 39 certainement le plus 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281268046/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4507/37281268046_b4526ede08_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
+## Deuxième journée
 
 
 
