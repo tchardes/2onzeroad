@@ -33,37 +33,25 @@ Pour cette première journée nous nous rendons en centre ville en bus. Nous dé
 
 Depuis l'entrée nous avons suivi l'itinéraire suivant, nous permettant de relier tous les points intéressants que nous avions listé.
 
-	•	Grant Avenue : particulièrement touristique c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles. Le boutiques sont hautes en couleurs, les plaques de rue sont écrites e, anljias et chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue de guirlandes de grosses boules rouges traverse l'artère.
+Grant Avenue : particulièrement touristique c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles. Le boutiques sont hautes en couleurs, les plaques de rue sont écrites e, anljias et chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue de guirlandes de grosses boules rouges traverse l'artère.
 
-	•	Au croisement Grant Av. à la California street se trouve la Old St. Mary's Cathedral dont les pierres de granit utilisés dans les fondations viennent de Chine et ses briques d'Amérique du Sud. En poursuivant sur Grant se trouve au :
+Au croisement Grant Av. à la California street se trouve la Old St. Mary's Cathedral dont les pierres de granit utilisés dans les fondations viennent de Chine et ses briques d'Amérique du Sud. En poursuivant sur Grant se trouve au :
 	
-	718 Grant Avenue, Wok boutique. Cette très ancienne boutique commercialise des couperets, woks, baguettes…
-	720 Grant Avenue, la boulangerie "Eastern Bakery" ouverte en 1924 est la plus ancienne boulangerie chinoise des États-Unis. Les gâteaux de lune sont leur spécialité, on peut y déguster du sucré mais également du salé.
-	•	
-	•	MARCHE: A Clay Street, tournez à droite, puis tournez à gauche pour entrer dans l'un des parcs de la ville d'origine de San Francisco.
-	•	
-	•	Place de Portsmouth : L'un des trois parcs de la ville mis de côté par le premier maire de San Francisco, Portsmouth est le centre social de Chinatown, avec les résidents de l'utiliser comme une extension de leur maison, en prenant les enfants y jouer ou rencontrer des amis. Vous trouverez parfois des hommes jouant aux échecs chinois (appelé aussi d'échecs d'éléphant) et des groupes de femmes qui jouent aux cartes. La seule toilette publique sur l'itinéraire de la visite est dans le parc, mais il faut savoir - la propreté peut être un problème.
-	•	
-	•	MARCHE: Traverser le parc de Washington Street et tournez à gauche.
-	•	 
+718 Grant Avenue, Wok boutique. Cette très ancienne boutique commercialise des couperets, woks, baguettes…
+720 Grant Avenue, la boulangerie "Eastern Bakery" ouverte en 1924 est la plus ancienne boulangerie chinoise des États-Unis. Les gâteaux de lune sont leur spécialité, on peut y déguster du sucré mais également du salé.
+	
+On tourne ensuite sur Clay Street puis à gauche pour traverser la Place de Portsmouth centre social de Chinatown. De nombreux hommes et femmes jouent aux cartes et aux échecs chinois "échiquier des éléphants". Il est possible de rejoindre le parc au Chinese Culture Centre de San Francisco, au Hilton Financial, batiment qui a une forme assez particulière.
+	
+Au bout de la place on débouche sur Washington street. Sur la gauche, au niveau du N° 743, on peut admirer un très beau batiment au style oriental, ancien central téléphonique de chinatown, transformé depuis en agence bancaire. Nous rejoignons ensuite Grant Avenue en passant par 
+Wentworth place. Le bloc situé entre Grant avenue, Kearny et Washington street regroupe quelques-uns des restaurants les mieux cotés du quartier chinois. Des personnes distribuent des coupons dans la rue pour vous inciter à choisir leur établissement. Nous testons le **Hunan Homes**, au N°622 Jackson street où nous avons très bien déjeuné.
 
-	•	Old Telephone Exchange: (743 Washington) Ce magnifique bâtiment est maintenant la rive orientale de l'Ouest, mais il a commencé comme le central téléphonique chinois.
-	•	
-	•	MARCHE: A Grant Avenue, tournez à droite - ou de prendre un raccourci à travers Wentworth place à Washington Street.
-	•	
-	•	Chinatown Restaurant Row: Entre Grant et Kearny Street Washington sont quelques-uns des restaurants les mieux cotés dans le quartier chinois.
-	•	
-	•	MARCHE: Après avoir regardé autour ou ayant une bouchée à manger, revenir à l'avenue Grant. Cette route contourne l'un des salons de thé les mieux cotés de Chinatown, Red Blossom. Si vous voulez arrêter de tourner à gauche sur Grant pour y arriver. Sinon, tournez à droite au Grant et continuer.
-	•	 
-	•	Souvenirs uniques: (924 subventions) parler aux gens en dehors de la porte ou entrer dans le hall indéfinissable et vous trouverez un endroit pour obtenir l'un des souvenirs les plus uniques de Chinatown, un, sculpté timbre de Rainbow Sign and Art pierre sur mesure.
-	•	
-	•	Gibier à plumes: Dans le bloc entre Pacifique et Broadway sur le côté droit de la rue est une petite boutique appelée Ming Kee Gibier à plumes. Ils vendent un assortiment intéressant d'oiseaux utilisés dans la cuisine chinoise, y compris un poulet à la peau bleue. FYI: Il ya plusieurs années, beaucoup de controverse est née sur les magasins de Chinatown vendent les propriétaires de volailles et boutique en direct sont toujours sensibles à des badauds et des photographes.
-	•	
-	•	Chinatown murale: Au coin de l'avenue Broadway et Columbus où Chinatown rencontre North Beach, vous trouverez une murale sur le bâtiment d'angle. Un côté commémore racines italiennes de North Beach et la face Broadway est dédié au patrimoine chinois de San Francisco
-	•	
-	•	MARCHE: A Broadway, tourner à gauche. À Stockton, traverser la rue et tourner à gauche, marcher le long de Stockton.
-	•	 
-Stockton marchés et ruelles
+De retour sur l'avenue Grant nous passsons devant le N° 831 qui abrite le salon de thé **Red Blossom Tea Company**, un des plus coté de la ville que nous n'avons pas testé.
+
+Au N° 1136 se trouve une petite boutique appelée **Ming Kee Game Birds**. Cette boutique vend des volailles vivantes utilisés dans la cuisine chinoise, y compris un poulet à la peau bleue, parait-il. Il y a plusieurs années cet établissement à fait l'objet de nombreuses contreverses. Meme si les propriétaires ont changé depuis, ils n'apprécient pas trop les badauds et les photographes.
+
+Le croisement de Grant, Broadway et Columbus avenue signe la fin de Chinatown et le début North Beach qui abrite le quartier italien. Un grand batiment d'angle présente des peintures murales chinoises pour une façade et italienne sur l'autre. A droite sur Columbus avenue on peut avoir une vue très célébre de San Francisco avec au premier plan à droite, le Sentinel Building et en arrière-plan par la Transamerica Pyramid.
+
+En revenant sur nos pas à gauche sur Broadway on prend à gauche sur Stockton street 
 	•	Marchés chinois: Les deux prochains blocs de Stockton sont emballés avec les marchés. Certains vendent les mêmes sortes de légumes et épicerie que vous pouvez trouver dans un magasin de quartier partout, mais d'autres de vendre du poisson frais, des légumes et des aliments de spécialité asiatiques. Pour regarder les gens s'amuser, regarder pour les femmes plus âgées chinoises shopping pour les légumes, qui se disputent les asperges, les querelles sur les radis ou de serrer une aubergine pour voir si il est ferme. A NE PAS MANQUER Sight
 	•	
 	•	MARCHE: A Jackson Street, tournez à gauche, puis tournez à droite dans Ross Alley (qui est à mi-chemin à Grant)
