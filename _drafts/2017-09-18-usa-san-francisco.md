@@ -134,40 +134,22 @@ En repartant par la Fultron Street, nous bénéficions une très belle vue sur l
 
 ### Castro
 
+Nous poursuivons par le quartier de Castro qui représente le coeur de la communauté gay de San Francisco. Ce quartier haut en couleur… de l'arc en ciel, abrite le très beau cinéma Castro Theater, sur Castro Street.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071628010/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4508/37071628010_3e423b6580_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658543983/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4364/36658543983_5a335c8af7_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime Leforestier sur laquelle une plaque comémorative a été placée.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071623290/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4422/37071623290_c906ff4549_k.jpg" width="1365" height="2048" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+### Mission Dolores
 
 
-
-
-Castro Street est l'artère qui a donné son nom à ce quartier de la ville. Il représente le cœur de la communauté gay de San Francisco. L'abréviation « The Castro » est parfois aussi utilisée pour désigner le cinéma Castro Theater, sur Castro Street.
-
-Le quartier gay de San Francisco est concentré plus particulièrement dans le quartier commercial que constitue Castro Street entre Market Street et 19th Street. Il s'étend de Market Street vers Church Street et sur 18th Street des deux côtés de Castro Street sur environ deux pâtés de maison. Le concept de Greater Castro désigne les zones résidentielles alentour, bordées par le Mission District, Noe Valley, Twin Peaks et Haight-Ashbury. Certains y incluent également les quartiers de Duboce Triangle et de Dolores Heights, où la communauté gay est également très présente.
-
-Castro Street court vers le sud à travers Noe Valley, traversant la zone commerçante de 24th Street, et se termine quelques blocks plus loin, dans le quartier de Glen Park. La rue tient son nom de Joaquin Isidro de Castro, un soldat espagnol qui prit part à l'expédition de Juan Bautista de Anza en Californie au xviiie siècle.
-
-### Missions Dolores
-
-### Haight Street
 
 ### Street Art
 
-
-Jour 3 :
-Visite du « Japonese Tea Garden » puis Alamo Parc et les Painted Ladies, Castro Théatre, la maison bleu, Missions Dolores, Tag de la rue Sycomore et Clarion Alley et enfin le quatier hippies de Haight Street.
-
-Déjeuné dans un Mexicain « Casa Mexicana 180 Church Street, très bons Burritos.
-
-
-## Troisième journée
-
-### Quartier Japonnais
-
-### Hôtel de ville
-
-### Fisherman’s Wharf
-
-### Lombart Street
-
-### Cable Car
 
 
 
