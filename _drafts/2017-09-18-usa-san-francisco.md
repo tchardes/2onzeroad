@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "San Francisco"
-preview:    "... "
+preview:    "Nous voilà à la fin de notre roadtrip pour cette année et nous finissons en apothéose avec la visite de San Francisco... "
 parent-id:  2017-09-20-usa-californie-septembre
 
 date:       2017-09-18 12:00:00
