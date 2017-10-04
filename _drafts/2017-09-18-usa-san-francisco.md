@@ -108,7 +108,19 @@ Nous promenons le long des quais (Piers) jusqu'au Piers 39 certainement le plus 
 
 ## Deuxième journée
 
+### Japonese Tea Garden
 
+
+### Alamo Parc
+
+
+### Castro
+
+### Missions Dolores
+
+### Haight Street
+
+### Street Art
 
 
 Jour 3 :
