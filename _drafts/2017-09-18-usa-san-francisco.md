@@ -184,9 +184,6 @@ Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime 
 
 ### SFMoMA
 
-## Cinquième journée
-
-
 ## Sixième journée
 
 Jour 4 :
