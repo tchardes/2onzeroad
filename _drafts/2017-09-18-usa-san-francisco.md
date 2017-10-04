@@ -37,18 +37,15 @@ Pour cette première journée nous nous rendons en centre ville en bus. Nous dé
 
 Depuis l'entrée nous avons suivi l'itinéraire suivant, nous permettant de relier tous les points intéressants que nous avions listé et glané sur différents sites Internet.  
 
-Grant Avenue : particulièrement touristique c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles. Les boutiques sont hautes en couleurs, les plaques de rue sont écrites en anglais et en chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue des guirlandes de grosses lanternes rouges traversent l'artère.  
+Nous remontons l'artère principale, Grant Avenue, particulièrement touristique c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles et gadjets. Les boutiques sont hautes en couleurs, les plaques de rue sont écrites en anglais et en chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue des guirlandes de grosses lanternes rouges traversent la rue.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281298506/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4346/37281298506_3f584a6c80_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Au croisement Grant Av. à la California street se trouve la **Old St. Mary's Cathedral** dont les pierres de granit utilisés dans les fondations viennent de Chine et ses briques d'Amérique du Sud.  
+Au croisement de Grant Av. et de California street se trouve la **Old St. Mary's Cathedral** dont les pierres de granit utilisés dans les fondations viennent de Chine et ses briques d'Amérique du Sud.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618941824/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4332/36618941824_aeb9f8ee19_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-En poursuivant sur Grant se trouve au :
-	
-718 Grant Avenue, **Wok boutique**. Cette très ancienne boutique commercialise des couperets, woks, baguettes…
-720 Grant Avenue, la boulangerie **Eastern Bakery** ouverte en 1924 est la plus ancienne boulangerie chinoise des États-Unis. Les gâteaux de lune sont leur spécialité, on peut y déguster du sucré mais également du salé.  
+En poursuivant sur Grant Av. nous passons devant le N° 718, **Wok boutique**, très ancienne boutique qui commercialise des couperets, woks, baguettes… et le N° 720, la boulangerie **Eastern Bakery** ouverte depuis 1924, plus ancienne boulangerie chinoise des États-Unis. Les gâteaux de lune sont leur spécialité, on peut y déguster du sucré mais également du salé.  
 	
 On tourne ensuite sur Clay Street puis à gauche pour traverser la **Place de Portsmouth** centre social de Chinatown. De nombreux hommes et femmes jouent aux cartes et aux échecs chinois "échiquier des éléphants". Il est possible de rejoindre le parc au Chinese Culture Centre de San Francisco, au Hilton Financial, batiment qui a une forme assez particulière.  
 	
@@ -90,6 +87,18 @@ Nous remontons l'avenue pour nous rendre à la Coit Tower qui met nos mollets à
 On descend ensuite vers Embarcadero et les piers en empruntant les escaliers Filbert, **Filbert steps**, successions de marches en bois et ruelles privées qui serpentent entre les maisons et jardins accrochés à la colline. On traverse ainsi dans le calme, un écrin de verdure odorante composé de rosiers, citronniers, chèvrefeuilles, jasmins, hortensias… Il parait que des perroquets y ont élu domicile, nous n'en avons pa vu.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476687008/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4338/23476687008_3f42caa206_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous promenons le long des quais (Piers) jusqu'au Piers 39 certainement le plus animés avec ces nombreuses boutiques, restaurants, animations. 
+
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618905074/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4437/36618905074_b51514e8f1_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281268046/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4507/37281268046_b4526ede08_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+
+
+
+
 
 Jour 3 :
 Visite du « Japonese Tea Garden » puis Alamo Parc et les Painted Ladies, Castro Théatre, la maison bleu, Missions Dolores, Tag de la rue Sycomore et Clarion Alley et enfin le quatier hippies de Haight Street.
