@@ -16,7 +16,7 @@ category: "blog"
 location: "37.780006, -122.438828"
 ---
 
-Nous voilà à la fin de notre roadtrip pour cette année et nous finissons en apothéose avec la visite de San Francisco. Celle ville nous fait rêver depuis longtemps et nous avons préparé munitieusement sa visite en fonction de nos gouts.
+Nous voilà à la fin de notre roadtrip pour cette année et nous finissons en apothéose avec la visite de San Francisco. Cette ville nous fait rêver depuis longtemps et nous avons préparé munitieusement sa visite en fonction de nos goûts.
 
 L'idéal, pour accompagner la lecture de cet article est de le faire en musique. Selon vos goûts et peut-être selon votre âge, vous pouvez cliquer sur un de ces liens pour lancer la musique avant de revenir sur le site :  
 
@@ -36,7 +36,7 @@ L'idéal, pour accompagner la lecture de cet article est de le faire en musique.
 
 ### Chinatown
 
-Pour cette première journée nous nous rendons en centre ville en bus. Nous découvrons **Union Square**, le coeur de San Francisco, avec ses grandes enseignes et hôtels de luxe comme le Saint Francis et le Sir Francis Drake et ces portiers habillés en garde de la tour de Londre. Nous poursuivons par le quartier de **Chinatown** en commençant par la Dragon's Gate, entrée du quartier protégée par deux dragons et deux lions. Il s'agit du plus vieux et plus grand quartier chinois de tout les USA.  
+Pour cette première journée, nous nous rendons en centre ville en bus. Nous découvrons **Union Square**, le coeur de San Francisco, avec ses grandes enseignes et hôtels de luxe comme le Saint Francis et le Sir Francis Drake et ses portiers habillés en garde de la tour de Londres. Nous poursuivons par le quartier de **Chinatown** en commençant par la Dragon's Gate, entrée du quartier protégée par deux dragons et deux lions. Il s'agit du plus vieux et plus grand quartier chinois de tous les USA.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618947794/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4411/36618947794_a03e669351_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -44,11 +44,11 @@ Pour cette première journée nous nous rendons en centre ville en bus. Nous dé
 
 Depuis l'entrée nous avons suivi l'itinéraire suivant, nous permettant de relier tous les points intéressants que nous avions listé et glané sur différents sites Internet.  
 
-Nous remontons l'artère principale, Grant Avenue, particulièrement touristique c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles et gadjets. Les boutiques sont hautes en couleurs, les plaques de rue sont écrites en anglais et en chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue des guirlandes de grosses lanternes rouges traversent la rue.  
+Nous remontons l'artère principale, Grant Avenue, particulièrement touristique, c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles et gadjets. Les boutiques sont hautes en couleurs, les plaques de rue sont écrites en anglais et en chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue, des guirlandes de grosses lanternes rouges traversent la rue.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281298506/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4346/37281298506_3f584a6c80_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Au croisement de Grant Av. et de California street se trouve la **Old St. Mary's Cathedral** dont les pierres de granit utilisés dans les fondations viennent de Chine et ses briques d'Amérique du Sud.  
+Au croisement de Grant Av. et de California street se trouve la **Old St. Mary's Cathedral** dont les pierres de granit utilisées dans les fondations viennent de Chine et ses briques d'Amérique du Sud.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618941824/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4332/36618941824_aeb9f8ee19_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -109,6 +109,16 @@ Nous promenons le long des quais (Piers) jusqu'au Piers 39 certainement le plus 
 ## Deuxième journée
 
 ### Japonese Tea Garden
+
+Ce matin nous descendons au Golden Gate Park, immense espace vert de 410 hectares en plein coeur de San Francisco. Le parc regroupe plusieurs édifices et jardins, le San Francisco De Young Museum, le conservatoire des fleurs, le National Aids Memorial Grove, la California Academy of Sciences, le Strybing Arboretum sans oublier de nombreuses oeuvres d'arts mais nous sommes là pour voir le jardin de thé japonais **Japonese Tea Garden**. Inauguré en 1894, il est le plus ancien jardin japonais des États-Unis. Nous y passons 2 bonnes heures à flaner entre les pagodes, bassins, bonzaïs, lanternes, statues… Un endroit très beau et reposant, pas pour l'appreil photo.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476583858/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4383/23476583858_cc888aa4fa_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476359208/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4507/23476359208_16e854696e_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281114946/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4377/37281114946_09db3077f9_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658576413/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4436/36658576413_be4623d266_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
 ### Alamo Parc
