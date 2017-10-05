@@ -164,14 +164,19 @@ Nous rejoignons le quartier **Mission District** qui est le plus vieux quartier 
 
 Mission district héberge de nombreux artistes célèbrent pour leurs peintures murales. Il y a près de 600 peintures murales à San Francisco, avec une concentration très grande dans ce quartier.  
 
-Les plus célèbres se trouve sur la façade du **The Women's Building**  centre communautaire construit en 1910 axé sur les arts et l'éducation et qui préconise l'autodétermination, l'égalité entre les sexes et la justice sociale.  
+Les plus célèbres se trouve sur la façade du **The Women's Building** centre communautaire construit en 1910 axé sur les arts et l'éducation et qui préconise l'autodétermination, l'égalité entre les sexes et la justice sociale.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071621240/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4452/37071621240_b4019faef7_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+Nous poursuivons par Balmy Alley et Clarion Alley, deux ruelles où l'on peut découvrir plus de 500 murs peints, support de l’expression artistique de centaines d’artistes, qui manifestent ainsi leurs sentiments et leurs positions sur des sujets sociétaux.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071616100/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4440/37071616100_d7df8ec1c1_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476178678/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4506/23476178678_a6326a36ac_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## Quatrième journée
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476171048/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4499/23476171048_b9dee5c209_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+## Quatrième journée  
 
 
 ### Quartier Japonais
