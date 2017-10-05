@@ -154,6 +154,10 @@ Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071623290/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4422/37071623290_c906ff4549_k.jpg" width="1365" height="2048" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
+La pente de rues dans le quartier est vraiment impressionnante, les automobiliste sont obligés d'orienter leurs roues vers le trottoir lorsqu'ils se stationnent sous pein d'amende.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071625190/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4477/37071625190_d40025069b_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
 ### Mission Dolores  
 
 Nous rejoignons le quartier **Mission District** qui est le plus vieux quartier de San Francisco, construit par les Espagnols. Son nom vient de la mission Saint-François-d'Assise plus connue sous le nom de **Mission Dolores**, première mission espagnole fondée en 1791, centre de l'évangélisation franciscaine dans la région. L'architecture du quartier est distinctive et originale.  
@@ -178,16 +182,13 @@ Nous poursuivons par Balmy Alley et Clarion Alley, deux ruelles où l'on peut d�
 
 ### Haight Street
 
-Nous finissons la journée par le quartier Hippies de **Haight Street**, lieu de naisance du "Summer Of Love" en 1967. Les premiers mètres dans cette artère au croisement de Haight et Ashbury vous replonge dans les années 70, les boutiques sont très colorées avec des fringues et objet d'une autre époque.
+Nous finissons la journée par le quartier Hippies de **Haight Street**, lieu de naisance du "Summer Of Love" en 1967. Les premiers mètres dans cette artère, au croisement de Haight et Ashbury, vous replonge dans les années 70, les boutiques sont très colorées avec des fringues et objet d'une autre époque, tout comme certains habitants. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476165178/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4491/23476165178_7b95fa09a6_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37327843131/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4378/37327843131_84d76e6734_b.jpg" width="1024" height="683" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476162608/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4403/23476162608_134a740547_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
-
-
-
 
 ## Quatrième journée  
 
@@ -236,7 +237,9 @@ Les Cable Cars sont des tramways à traction par câble. Ils sont devenus l'une 
 * La ligne Powell-Hyde ;
 * La ligne California Street.
 
-Nous achetons nos billets au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au changement de direction sur une petit rotonde, à la main. En marchant le long des rails en entend très bin les câbles qui "circulent" en centre.  Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est typique… 
+Nous achetons nos billets au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au changement de direction sur une petit rotonde, à la main. En marchant le long des rails en entend très bin les câbles qui "circulent" en centre.  Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est typique…  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618495734/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4409/36618495734_ba71b670fb_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37298390622/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4493/37298390622_9076a510ff_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
