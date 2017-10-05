@@ -243,7 +243,7 @@ Le bus nous laisse à Union quare où nous commençons par un café dans un star
 
 ### SFMoMA
 
-Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du batiement est vraiment originale avec la façade en briques rouges de l'ancien musée et son immense puit de lumière sur lequel il a été accolé à un nouveau bâtiment tout blanc de 10 étages tout en relief, ce qui en fait l'une des plus grand du monde. Il regroupe 
+Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du batiement est vraiment originale avec la façade en briques rouges de l'ancien musée et son immense puit de lumière sur lequel il a été accolé à un nouveau bâtiment tout blanc de 10 étages tout en relief, ce qui en fait l'une des plus grand du monde. S'il regroupe des sculptures et peintures il expose égalemenr des expérience audio et audio visuelle intéressante, notamment une installation vidéo, "The Visitors" de Ragnar Kjartansson.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658607963/in/datetaken/" title="IMG_6248"><img src="https://farm5.staticflickr.com/4513/36658607963_d765d33174_k.jpg" width="2048" height="1152" alt="IMG_6248"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -251,17 +251,13 @@ Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du ba
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23660416348/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4384/23660416348_0c145059a5_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476134928/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4395/23476134928_fa93866652_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Sixième journée
 
-Jour 5 :
 
-Ce matin on quitte notre bivoauc de bonne heure. nous allons à la base du Golden Gate mais il ne fait pas beau et après quelques photos je décide d’arrêter.
-On trouve une parking gratuit pour la journée au niveau de la Marina et nous partons en ville. Nous nous arrêtons au niveau d’Union Square et faisons quelques magasins et prenons un café au Starbucks, de vrais américains.
-A midi nous montons au 8éme étage du batimnt Macy’s où se trouve un CheeseCake Factory. Une partie du restaurant se trouve en terrase, face à Unions Square, c’est très sympa et on u mange très bien.
-Après le repas, Corinne va faire les boutiques et moi je vais visiter le SFMOMA, très beau, aussi bien au niveau de l’architecture du musée que des exposition, peinture, sculture mais aussi audio et audiovisuel.
-Nous nous retrouvons à Union Parc et partons au sud de SF dans un magasin de sport pour y acheter quelques affaires.
-Retour à Thor en début de soirée, après le repas nous partons en quête de trouver un bivouac pour la nuit, finalement au bout d’une bonne heure nous trouvons une place dans une grande rue. 
+
+
 
 Jour 6 :
 
