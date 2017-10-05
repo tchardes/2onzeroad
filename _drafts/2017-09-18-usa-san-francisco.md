@@ -178,11 +178,25 @@ Nous poursuivons par Balmy Alley et Clarion Alley, deux ruelles où l'on peut d�
 
 ## Quatrième journée  
 
+### Quartier Japonais  
 
-### Quartier Japonais
-### Hôtel de ville
-### Fisherman’s Wharf
-### Lombart Street
+Nous débutons la journée par le quartier Japonais le plus ancien et le plus grand des Etats-Unis qui confirme la diversité culturelle de la ville et particulièrement la culture asiatique en raison de sa facade sur la Pacifique. On repère rapidement la Peace Pagoda, offerte par Osaka implantée sur la Peace Plaza, au milieu des malls du Japan Center. Le contraste avec Chinatown est flagrant, l'ambiance est épurée limite austère.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618500354/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4503/36618500354_62715959e8_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618500754/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4462/36618500754_ffc159a610_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Hôtel de ville  
+
+
+
+
+### Fisherman’s Wharf 
+
+
+### Lombart Street  
+
+
 ### Cable car
 
 
