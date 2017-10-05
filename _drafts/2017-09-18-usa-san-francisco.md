@@ -16,7 +16,7 @@ category: "blog"
 location: "37.780006, -122.438828"
 ---
 
-Nous voilà à la fin de notre roadtrip pour cette année et nous finissons en apothéose avec la visite de San Francisco. Cette ville nous fait rêver depuis longtemps et nous avons préparé munitieusement sa visite en fonction de nos goûts.
+Nous voilà à la fin de notre roadtrip pour cette année et nous finissons en apothéose avec la visite de San Francisco. Cette ville nous fait rêver depuis longtemps et nous avons préparé minutieusement sa visite en fonction de nos goûts.
 
 L'idéal, pour accompagner la lecture de cet article est de le faire en musique. Selon vos goûts et peut-être selon votre âge, vous pouvez cliquer sur un de ces liens pour lancer la musique avant de revenir sur le site :  
 
@@ -33,7 +33,7 @@ L'idéal, pour accompagner la lecture de cet article est de le faire en musique.
 
 ## Première journée  
 
-Nous arrivons en fin d'après-midi au Presidio, parc situé au nord de la péninsule de San Francisco et commençons notre découverte de la ville par le **Palace of Fine Arts** construit à l'occasion de l'exposition internationale de Panama-Pacific organisée en 1915, la marina et à sa pointe le **The Wave Organ** une sculpture accoustique et sa vue sur la baie.
+Nous arrivons en fin d'après-midi au Presidio, parc situé au nord de la péninsule de San Francisco et commençons notre découverte de la ville par le **Palace of Fine Arts** construit à l'occasion de l'exposition internationale de Panama-Pacific organisée en 1915, la marina et à sa pointe le **The Wave Organ** une sculpture acoustique et sa vue sur la baie.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37328259731/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4500/37328259731_d20f09c1ef_k.jpg" width="2048" height="753" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -55,7 +55,7 @@ Pour cette première journée, nous nous rendons en centre ville en bus. Nous d�
 
 Depuis l'entrée nous avons suivi l'itinéraire suivant, nous permettant de relier tous les points intéressants que nous avions listé et glané sur différents sites Internet.  
 
-Nous remontons l'artère principale, Grant Avenue, particulièrement touristique, c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles et gadjets. Les boutiques sont hautes en couleurs, les plaques de rue sont écrites en anglais et en chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue, des guirlandes de grosses lanternes rouges traversent la rue.  
+Nous remontons l'artère principale, Grant Avenue, particulièrement touristique, c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles et gadgets. Les boutiques sont hautes en couleurs, les plaques de rue sont écrites en anglais et en chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue, des guirlandes de grosses lanternes rouges traversent la rue.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281298506/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4346/37281298506_3f584a6c80_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -64,29 +64,29 @@ Au croisement de Grant Av. et de California street se trouve la **Old St. Mary's
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618941824/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4332/36618941824_aeb9f8ee19_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 En poursuivant sur Grant Av. nous passons devant le N° 718, **Wok boutique**, très ancienne boutique qui commercialise des couperets, woks, baguettes… et le N° 720, la boulangerie **Eastern Bakery** ouverte depuis 1924, plus ancienne boulangerie chinoise des États-Unis. Les gâteaux de lune sont leur spécialité, on peut y déguster du sucré mais également du salé.  
-	
-On tourne ensuite sur Clay Street puis à gauche pour traverser la **Place de Portsmouth** centre social de Chinatown. De nombreux hommes et femmes jouent aux cartes et aux échecs chinois "échiquier des éléphants". Il est possible de rejoindre le parc au Chinese Culture Centre de San Francisco, au Hilton Financial, batiment qui a une forme assez particulière.  
-	
-Au bout de la place on débouche sur Washington street. Sur la gauche, au niveau du N° 743, on peut admirer un très beau batiment au style oriental, ancien central téléphonique de chinatown, transformé depuis en agence bancaire. Nous rejoignons ensuite Grant Avenue en passant par 
+    
+On tourne ensuite sur Clay Street puis à gauche pour traverser la **Place de Portsmouth** centre social de Chinatown. De nombreux hommes et femmes jouent aux cartes et aux échecs chinois "échiquier des éléphants". Il est possible de rejoindre le parc au Chinese Culture Centre de San Francisco, au Hilton Financial, bâtiment qui a une forme assez particulière.  
+    
+Au bout de la place on débouche sur Washington street. Sur la gauche, au niveau du N° 743, on peut admirer un très beau bâtiment au style oriental, ancien central téléphonique de Chinatown, transformé depuis en agence bancaire. Nous rejoignons ensuite Grant Avenue en passant par 
 Wentworth place. Le bloc situé entre Grant avenue, Kearny et Washington street regroupe quelques-uns des restaurants les mieux cotés du quartier chinois. Des personnes distribuent des coupons dans la rue pour vous inciter à choisir leur établissement. Nous testons le **Hunan Homes**, au N°622 Jackson street où nous avons très bien déjeuné.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658950833/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4372/36658950833_3e1663de1d_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-De retour sur l'avenue Grant nous passsons devant le N° 831 qui abrite le salon de thé **Red Blossom Tea Company**, un des plus coté de la ville que nous n'avons pas testé.  
+De retour sur l'avenue Grant nous passons devant le N° 831 qui abrite le salon de thé **Red Blossom Tea Company**, un des plus coté de la ville que nous n'avons pas testé.  
 
-Au N° 1136 se trouve une petite boutique appelée **Ming Kee Game Birds**. Cette boutique vend des volailles vivantes utilisés dans la cuisine chinoise, y compris un poulet à la peau bleue, parait-il. Il y a plusieurs années cet établissement à fait l'objet de nombreuses contreverses. Meme si les propriétaires ont changé depuis, ils n'apprécient pas trop les badauds et les photographes.  
+Au N° 1136 se trouve une petite boutique appelée **Ming Kee Game Birds**. Cette boutique vend des volailles vivantes utilisés dans la cuisine chinoise, y compris un poulet à la peau bleue, parait-il. Il y a plusieurs années cet établissement à fait l'objet de nombreuses controverses. Même si les propriétaires ont changé depuis, ils n'apprécient pas trop les badauds et les photographes.  
 
-Le croisement de Grant, Broadway et Columbus avenue signe la fin de Chinatown et le début North Beach qui abrite le quartier italien. Un grand batiment d'angle présente des peintures murales chinoises pour une façade et italienne sur l'autre. A gauche sur Broadway on s'engage sur Stockton street qui est connu pour ces marchés chinois. On y trouve des produits habituels mais aussi les asiatiques parfois très surprenant, ne pas hésiter à rentrer dans les épiceries, vous y verrez des "trucs" bizarres. Nou sommes restés un petit moment à regarder les ménagères chinoises se "disputer" les légumes.  
+Le croisement de Grant, Broadway et Columbus avenue signe la fin de Chinatown et le début North Beach qui abrite le quartier italien. Un grand bâtiment d'angle présente des peintures murales chinoises pour une façade et italienne sur l'autre. A gauche sur Broadway on s'engage sur Stockton street qui est connu pour ces marchés chinois. On y trouve des produits habituels mais aussi les asiatiques parfois très surprenant, ne pas hésiter à rentrer dans les épiceries, vous y verrez des "trucs" bizarres. Nous sommes restés un petit moment à regarder les ménagères chinoises se "disputer" les légumes.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658948223/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4331/36658948223_b46f0bc290_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-A Jackson Street on prend sur la gauche puis à droite sur Ross Alley pour passer devant le N° 56 et le **Golden Gate Fortune Cookie** qui fabrique les fameaux biscuits de fortune dans laquelle est inséré un petit morceau de papier où l’on peut lire une prédiction ou une maxime, parfois humoristique. Vous pouvez jetter un oeil à l'intérieur mais rapidement ils insisteront pour que vous achetiez quelque chose. Nous n'avons pas osé faire de photo. Au N° 50 se trouve New Sam Bo Trading.Ce petit magasin vend des bouddhas, des bougies de cérémonie, de l'encens et des articles en papier intrigants qui doivent être brûlés en l'honneur des ancêtres ou pour demander une faveur des dieux.  
+A Jackson Street on prend sur la gauche puis à droite sur Ross Alley pour passer devant le N° 56 et le **Golden Gate Fortune Cookie** qui fabrique les fameux biscuits de fortune dans laquelle est inséré un petit morceau de papier où l’on peut lire une prédiction ou une maxime, parfois humoristique. Vous pouvez jetter un oeil à l'intérieur mais rapidement ils insisteront pour que vous achetiez quelque chose. Nous n'avons pas osé faire de photo. Au N° 50 se trouve New Sam Bo Trading.Ce petit magasin vend des bouddhas, des bougies de cérémonie, de l'encens et des articles en papier intrigants qui doivent être brûlés en l'honneur des ancêtres ou pour demander une faveur des dieux.  
 
-A la fin de Ross Alley on tourne à droite sur Washington street et puis à gauche dans Spofford street. Rien à voir dans cette ruelle qui abrite de nombreuses salle de jeux, mais si l'on s'arrête et on tend l'oreille on peut entendre les tuiles du mahjong claquer sur les tables. En se mettant sur la pointe des pieds on peut obtenir un aperçu de l'intérieur par dessus les grilles.  
+A la fin de Ross Alley on tourne à droite sur Washington street et puis à gauche dans Spofford street. Rien à voir dans cette ruelle qui abrite de nombreuses salle de jeux, mais si l'on s'arrête et on tend l'oreille on peut entendre les tuiles du mah-jong claquer sur les tables. En se mettant sur la pointe des pieds on peut obtenir un aperçu de l'intérieur par dessus les grilles.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618941414/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4344/36618941414_bee365aa98_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Au bout de Spofford, on tourne à gauche sur Clay street et encore à gauche sur Waverly Place qui est souvent appelée la rue des Balcons peints. Promenade très agréable sur deux blocs qui permet de voir de très belles batisses entièrement peintes  comme au N° 125 le **Tien Hou Temple** temple dédié à la déesse du ciel. Un petit escalier permet d'arriver dans une petite salle décorée de lanternes rouges et or avec plusieurs sanctuaires et une statue de la déesse le tout dans une très forte odeur d'encens. L'entrée est gratuite mais il est recommandé de faire un petit don, les photos sont interdites. On y trouve également plusieurs locaux associatifs de la **Family Benevolent Associations** lieux de rassemblement des Chinois généralement plus âgés qui vivent dans chinatown et le batiment de la **Freemasons de Bing-Tong Kong**.  
+Au bout de Spofford, on tourne à gauche sur Clay street et encore à gauche sur Waverly Place qui est souvent appelée la rue des Balcons peints. Promenade très agréable sur deux blocs qui permet de voir de très belles bâtisses entièrement peintes  comme au N° 125 le **Tien Hou Temple** temple dédié à la déesse du ciel. Un petit escalier permet d'arriver dans une petite salle décorée de lanternes rouges et or avec plusieurs sanctuaires et une statue de la déesse le tout dans une très forte odeur d'encens. L'entrée est gratuite mais il est recommandé de faire un petit don, les photos sont interdites. On y trouve également plusieurs locaux associatifs de la **Family Benevolent Associations** lieux de rassemblement des Chinois généralement plus âgés qui vivent dans Chinatown et le bâtiment de la **Freemasons de Bing-Tong Kong**.  
 
 On débouche sur Washington Street que l'on prend sur la droite jusqu'à Columbus avenue, une des rares avenue oblique de San Francisco, permettant d'avoir une vue très célébre de San Francisco avec au premier plan à droite, le Sentinel Building et en arrière-plan par la Transamerica Pyramid.  
 
@@ -94,7 +94,7 @@ On débouche sur Washington Street que l'on prend sur la droite jusqu'à Columbu
 
 ### Coit Tower  
 
-Nous remontons l'avenue pour nous rendre à la Coit Tower qui met nos mollets à dure épreuve. Cette tour de 64 mètres a été edifiée en 1933 sur la Télégraph Hill pour honorer les pompiers de la ville. Même sans monter au sommet de la tour (400 marches) on bénéficie d'une très belle vue sur la ville et la Baie.   
+Nous remontons l'avenue pour nous rendre à la Coit Tower qui met nos mollets à dure épreuve. Cette tour de 64 mètres a été édifiée en 1933 sur la Télégraph Hill pour honorer les pompiers de la ville. Même sans monter au sommet de la tour (400 marches) on bénéficie d'une très belle vue sur la ville et la Baie.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281271546/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4506/37281271546_9babc8a99d_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -104,7 +104,7 @@ Nous remontons l'avenue pour nous rendre à la Coit Tower qui met nos mollets à
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37328365321/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4465/37328365321_eed16962f0_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-On descend ensuite vers Embarcadero et les piers en empruntant les escaliers Filbert, **Filbert steps**, successions de marches en bois et ruelles privées qui serpentent entre les maisons et jardins accrochés à la colline. On traverse ainsi dans le calme, un écrin de verdure odorante composé de rosiers, citronniers, chèvrefeuilles, jasmins, hortensias… Il parait que des perroquets y ont élu domicile, nous n'en avons pa vu.  
+On descend ensuite vers Embarcadero et les piers en empruntant les escaliers Filbert, **Filbert steps**, successions de marches en bois et ruelles privées qui serpentent entre les maisons et jardins accrochés à la colline. On traverse ainsi dans le calme, un écrin de verdure odorante composé de rosiers, citronniers, chèvrefeuilles, jasmins, hortensias… Il parait que des perroquets y ont élu domicile, nous n'en avons pas vu.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476687008/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4338/23476687008_3f42caa206_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -120,7 +120,7 @@ Nous promenons le long des quais (Piers) jusqu'au Piers 39 certainement le plus 
 
 ### Japonese Tea Garden  
 
-Ce matin nous descendons au Golden Gate Park, immense espace vert de 410 hectares en plein coeur de San Francisco. Le parc regroupe plusieurs édifices et jardins, le San Francisco De Young Museum, le conservatoire des fleurs, le National Aids Memorial Grove, la California Academy of Sciences, le Strybing Arboretum sans oublier de nombreuses oeuvres d'arts mais nous sommes là pour voir le jardin de thé japonais **Japonese Tea Garden**. Inauguré en 1894, il est le plus ancien jardin japonais des États-Unis. Nous y passons 2 bonnes heures à flaner entre les pagodes, bassins, bonzaïs, lanternes, statues… Un endroit très beau et reposant, pas pour l'appreil photo.  
+Ce matin nous descendons au Golden Gate Park, immense espace vert de 410 hectares en plein coeur de San Francisco. Le parc regroupe plusieurs édifices et jardins, le San Francisco De Young Museum, le conservatoire des fleurs, le National Aids Memorial Grove, la California Academy of Sciences, le Strybing Arboretum sans oublier de nombreuses oeuvres d'arts mais nous sommes là pour voir le jardin de thé japonais **Japanese Tea Garden**. Inauguré en 1894, il est le plus ancien jardin japonais des États-Unis. Nous y passons 2 bonnes heures à flâner entre les pagodes, bassins, bonsaïs, lanternes, statues… Un endroit très beau et reposant, pas pour l'appareil photo.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476583858/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4383/23476583858_cc888aa4fa_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -132,7 +132,7 @@ Ce matin nous descendons au Golden Gate Park, immense espace vert de 410 hectare
 
 ### Alamo Parc  
 
-Nous reprenons le bus vers **Alamo Square** qui est un jardin public et un quartier résidentiel, célèbre par sa rangée de maisons de style victorien et édouardien peintes en plusieurs couleurs afin de réhausser les détails architecturaux, surnommées les **Painted Ladies**. En montant un peu sur la colline on peu apercevoir, derrière les villas, le centre de San Francisco. 
+Nous reprenons le bus vers **Alamo Square** qui est un jardin public et un quartier résidentiel, célèbre par sa rangée de maisons de style Victorien et Edouardien peintes en plusieurs couleurs afin de rehausser les détails architecturaux, surnommées les **Painted Ladies**. En montant un peu sur la colline on peu apercevoir, derrière les villas, le centre de San Francisco. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37327892931/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4456/37327892931_2bcce48a05_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -150,7 +150,7 @@ Nous poursuivons par le quartier de Castro qui représente le coeur de la commun
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658543983/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4364/36658543983_5a335c8af7_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime Leforestier sur laquelle une plaque comémorative a été placée.  
+Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime Leforestier sur laquelle une plaque commémorative a été placée.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071623290/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4422/37071623290_c906ff4549_k.jpg" width="1365" height="2048" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -180,7 +180,7 @@ Nous poursuivons par Balmy Alley et Clarion Alley, deux ruelles où l'on peut d�
 
 ### Quartier Japonais  
 
-Nous débutons la journée par le **quartier Japonais** le plus ancien et le plus grand des Etats-Unis qui confirme la diversité culturelle de la ville et particulièrement la culture asiatique en raison de sa facade sur la Pacifique. On repère rapidement la Peace Pagoda, offerte par Osaka implantée sur la Peace Plaza, au milieu des malls du Japan Center. Le contraste avec Chinatown est flagrant, l'ambiance est épurée limite austère.  
+Nous débutons la journée par le **quartier Japonais** le plus ancien et le plus grand des Etats-Unis qui confirme la diversité culturelle de la ville et particulièrement la culture asiatique en raison de sa façade sur la Pacifique. On repère rapidement la Peace Pagoda, offerte par Osaka implantée sur la Peace Plaza, au milieu des malls du Japan Center. Le contraste avec Chinatown est flagrant, l'ambiance est épurée limite austère.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618500354/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4503/36618500354_62715959e8_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -194,7 +194,7 @@ Nous poursuivons notre balade vers **l'hôtel de ville**, construit en 1915 dans
 
 ### Fisherman’s Wharf  
 
-Nous reprennons le bus pour traverser la ville vers le **Fisherman’s Wharf** (Quai des pêcheurs) dont nous avions déjà vu un aperçu lors de notre passage au Pier 39. En passant sur North Point street on s'invite sur le terrain de football de l'université de Galileo où se déroule un match universitaire, on s'installe dans les gradins et passon sun bon moment durant un quart temps.  
+Nous reprenons le bus pour traverser la ville vers le **Fisherman’s Wharf** (Quai des pêcheurs) dont nous avions déjà vu un aperçu lors de notre passage au Pier 39. En passant sur North Point street on s'invite sur le terrain de football de l'université de Galileo où se déroule un match universitaire, on s'installe dans les gradins et passons un bon moment durant un quart temps.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618499184/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4447/36618499184_d52c812ffc_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -202,7 +202,7 @@ Nous rentrons dans ce quartier très animé par le **Ghirardelli Square**, ancie
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476150538/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4347/23476150538_09942e8626_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Pour le déjeuné nous nous arrêtons dans un restaurant pour déguster la spécialité du quartier, le fameux **Clams Chowder**, velouté de palourdes servie dans un bol de pain, c'est excellent. En début d'apèrs-midi nous visitons le **Hyde St Pier Historic Ships**, San Francisco Maritime National Historical Park, dont l'accès est gratuit avec la pass America the Beautiful. Le lond d'un quai on été regroupé de vieux bateaux, témoins historiques de passé maritime de la ville. Sur un des pnts du ferry "Eureka" se trouve de nombreux véhicules anciens. Les petits pontons qui abritent des embarcations plus modeste sont envahis par les otaries qui n'aprécient pas d'être délogés et attendent patiamment que le park ranger quitte les lieux pour ce les réaproprier…  
+Pour le déjeuné nous nous arrêtons dans un restaurant pour déguster la spécialité du quartier, le fameux **Clams Chowder**, velouté de palourdes servie dans un bol de pain, c'est excellent. En début d'après-midi nous visitons le **Hyde St Pier Historic Ships**, San Francisco Maritime National Historical Park, dont l'accès est gratuit avec la pass America the Beautiful. Le long d'un quai on été regroupé de vieux bateaux, témoins historiques de passé maritime de la ville. Sur un des ponts du ferry "Eureka" se trouve de nombreux véhicules anciens. Les petits pontons qui abritent des embarcations plus modeste sont envahis par les otaries qui n'apprécient pas d'être délogés et attendent patiemment que le park ranger quitte les lieux pour ce les réapproprier…  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476149748/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4432/23476149748_d3fd72743d_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -210,7 +210,7 @@ Pour le déjeuné nous nous arrêtons dans un restaurant pour déguster la spéc
 
 ### Lombart Street  
 
-Pour entretenir la galbe de nos mollets, nous gravissons la Russian Hill par la Hyde Street jusqu'à Lombart Street, mondialement connue pour une portion constituée de huit virages très serrés qui lui ont valu l'obtention de la distinction de "la route la plus sinueuse des États-Unis", sa pente est de 16%. Tous les touriste veulent l'emprunter avec leur véhicule dans un balais incessant. Je plein les habitants des maisons qui bordent cette rue.
+Pour entretenir la galbe de nos mollets, nous gravissons la Russian Hill par la Hyde Street jusqu'à Lombard Street, mondialement connue pour une portion constituée de huit virages très serrés qui lui ont valu l'obtention de la distinction de "la route la plus sinueuse des États-Unis", sa pente est de 16%. Tous les touriste veulent l'emprunter avec leur véhicule dans un balais incessant. Je plein les habitants des maisons qui bordent cette rue.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618494424/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4510/36618494424_b08817fb4f_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -223,7 +223,7 @@ Les Cable Cars sont des tramways à traction par câble. Ils sont devenus l'une 
 * La ligne Powell-Hyde ;
 * La ligne California Street.
 
-Nous achetons nos billets au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au changement de direction sur une petit rotonde, à la main. Enmarchant le long des rails en entend très bin les câbles qui "circulent" en centre.  Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est tyique… 
+Nous achetons nos billets au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au changement de direction sur une petit rotonde, à la main. En marchant le long des rails en entend très bin les câbles qui "circulent" en centre.  Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est typique… 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37298390622/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4493/37298390622_9076a510ff_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -231,7 +231,7 @@ Nous achetons nos billets au Hyde and Beach Public Transit Kiosk mais devant l'i
 
 ### Golden Gate  
 
-Ce matin nous nous rendons au Fort Point situé à la base du **Golden Gate**, le temps est maussade et ne se lévera finalement que très tard dans la journée. 
+Ce matin nous nous rendons au Fort Point situé à la base du **Golden Gate**, le temps est maussade et ne se lèvera finalement que très tard dans la journée. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476143288/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4474/23476143288_cb29fa8abd_k.jpg" width="2048" height="1122" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -239,11 +239,11 @@ Ce matin nous nous rendons au Fort Point situé à la base du **Golden Gate**, l
 
 ### Union Square
 
-Le bus nous laisse à Union quare où nous commençons par un café dans un starbuck, comme la pluspart des américains qui se promenent toute la journé avec mug à la main. Nous faisons quelque boutiques avant de monter at 8ème étage du Macy's pour prendre notre déjeuné à The Cheesecake Factory qui bénérficie d'une terrase qui donne sur la place.
+Le bus nous laisse à Union Square où nous commençons par un café dans un Starbuck, comme la plupart des américains qui se promènent toute la journée avec mug à la main. Nous faisons quelque boutiques avant de monter at 8ème étage du Macy's pour prendre notre déjeuné à The Cheesecake Factory qui bénéficie d'une terrasse qui donne sur la place.
 
 ### SFMoMA
 
-Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du batiement est vraiment originale avec la façade en briques rouges de l'ancien musée et son immense puit de lumière sur lequel il a été accolé à un nouveau bâtiment tout blanc de 10 étages tout en relief, ce qui en fait l'une des plus grand du monde. S'il regroupe des sculptures et peintures il expose égalemenr des expérience audio et audio visuelle intéressante, notamment une installation vidéo, "The Visitors" de Ragnar Kjartansson.
+Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du bâtiment est vraiment originale avec la façade en briques rouges de l'ancien musée et son immense puit de lumière sur lequel il a été accolé à un nouveau bâtiment tout blanc de 10 étages tout en relief, ce qui en fait l'une des plus grand du monde. S'il regroupe des sculptures et peintures il expose également des expérience audio et audio visuelle intéressante, notamment une installation vidéo, "The Visitors" de Ragnar Kjartansson.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658607963/in/datetaken/" title="IMG_6248"><img src="https://farm5.staticflickr.com/4513/36658607963_d765d33174_k.jpg" width="2048" height="1152" alt="IMG_6248"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -255,11 +255,15 @@ Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du ba
 
 ## Sixième journée  
 
-Si l'on en croit la météo, la brûme devrait se lever dans la matinée. Pour cette dernière demis journée de visite nous décidons de retourner ver les Golde Gate pour faire quelques photos. Nous nous posons au **Golden Gate Bridge Welcome Center** situé à l'entrée du pont. Une boutique regroupe de nombreux bibelots et livre concernant l'édifice qui fête ces 80 ans. Toutes les heures la météo décalle la venue du soleil et nous quittons San Francisco par le Bay Bridge avec un petit arrêt sur Treasure Island pour photographier la skyline.  
+Si l'on en croit la météo, la brume devrait se lever dans la matinée. Pour cette dernière demis journée de visite nous décidons de retourner ver les Golden Gate pour faire quelques photos. Nous nous posons au **Golden Gate Bridge Welcome Center** situé à l'entrée du pont. Une boutique regroupe de nombreux bibelots et livre concernant l'édifice qui fête ces 80 ans. Toutes les heures la météo décale la venue du soleil et nous quittons San Francisco par le Bay Bridge avec un petit arrêt sur Treasure Island pour photographier la skyline.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658473943/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4331/36658473943_a106ac4f56_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658479423/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4509/36658479423_c097fa944a_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658481043/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4346/36658481043_46c5d1475c_b.jpg" width="1024" height="240" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous avons vraiment apprécié San Francisco qui correspond a ce que nous nous étions imaginé. Il reigne dans cette ville une ambiance et une atmosphère particulière. Nous n'avons pas eu le temps de tout faire mais on espère bien reprendre notre dévouverte lors de notre retour.
 
 
 
