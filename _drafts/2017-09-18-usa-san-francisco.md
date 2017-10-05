@@ -69,8 +69,8 @@ En poursuivant sur Grant Av. nous passons devant le N° 718, **Wok boutique**, t
 On tourne ensuite sur Clay Street puis à gauche pour traverser la **Place de Portsmouth**, centre social de Chinatown. De nombreux hommes et femmes jouent aux cartes et aux échecs chinois "échiquier des éléphants". Il est possible de rejoindre le Chinese Culture Center, au Hilton Financial, bâtiment qui a une forme assez particulière.   
 
     
-Au bout de la place, on débouche sur Washington street. Sur la gauche, au niveau du N° 743, on peut admirer un très beau bâtiment au style oriental, ancien central téléphonique de Chinatown, transformé depuis en agence bancaire. Nous rejoignons ensuite Grant Avenue en passant par 
-Wentworth place. Le bloc situé entre Grant avenue, Kearny et Washington street regroupe quelques-uns des restaurants les mieux côtés du quartier chinois. Des personnes distribuent des coupons dans la rue pour vous inciter à choisir leur établissement. Nous testons le **Hunan Homes**, au N°622 Jackson street où nous avons très bien déjeuné.  
+Au bout de la place, on débouche sur Washington street. Sur la gauche, au niveau du N° 743, on peut admirer un très beau bâtiment au style oriental, ancien central téléphonique de Chinatown, transformé depuis en agence bancaire. Nous rejoignons ensuite Grant Av. en passant par 
+Wentworth place. Le bloc situé entre Grant, Kearny et Washington street regroupe quelques-uns des restaurants les mieux côtés du quartier chinois. Des personnes distribuent des coupons dans la rue pour vous inciter à choisir leur établissement. Nous testons le **Hunan Homes**, au N°622 Jackson street où nous avons très bien déjeuné.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658950833/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4372/36658950833_3e1663de1d_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
