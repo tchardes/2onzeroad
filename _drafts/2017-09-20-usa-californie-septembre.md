@@ -22,13 +22,26 @@ Onzième et dernier article de type carnet de route, il couvre la période du 03
 
 ## 03 septembre
 
-L’’agent de l’émigration nous parle directement en Français, assez rare pour un américain, nous discutons 5 minutes en plus des questions habituelles et nous pouvons y aller.
-Nous prenons contact avec Eric et Muriel qui sont toujours en Alaska, tout se passe bien ills profitent eux aussi un max.
-Nous arrivons à Setle et allons directement au « Gaz Work Parc » un très beau parc où se trouve encore le squelette d’une anvienne usine de gaz et qui se trouve au bord de «Union Lake» juste en face la skyline de Seatle. Séance photos pblige jusqu’à la nuit noire. En, suite nous tentons un bivouac non loin du parc dans un quartier résidentiel, on va se faire discret…
+Après avoir passé la frontière, nous filons sur Seattle et allons directement au **Gaz Work Parc**, un très beau parc où se trouve encore le squelette d’une ancienne usine de gaz. Au bord de "Union Lake", face à la skyline de Seatle. De nombreuse personne profitent des derniers rayons de soleil, pique nique, profitent de la vue. J'en profite pour une petite séance photo jusqu'à la nuit noire. Nous trouvons en suite un bivouac non loin du parc dans un quartier résidentiel, on se fait discret…
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412613695/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4467/37412613695_72fa823a7d_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600702163/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4474/36600702163_64cdf1f31c_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600702053/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4411/36600702053_928581e7b8_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
 
 ## 04 septembre
 
-Départ du bivoac et passage sur la Troll Avenue et visite du Troll des montagnes puis direction centre ville où nous trouvons facilement une place sur un parking vide, normal c’est la fête du travail ici.
+Nous quittons notre bivouac et passons par la **Troll Avenue** pour rendre visite à un troll des montagnes coincé sous un pont, une coccinnele dans la main. En route vers le centre ville de Seattle, nous passons par le quartier de Fremont qui présente la particularité d'exposer en plein rue, aux Etats-Unis, une statue de Lennine. L'histoire de cette "oeuvre" est assez rocanbolesque, pour en savoir plus : https://fr.wikipedia.org/wiki/Statue_de_L%C3%A9nine_(Seattle)  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600700643/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4439/36600700643_b683517e77_b.jpg" width="1024" height="683" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600700143/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4457/36600700143_ae5a1cfd8e_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+puis direction centre ville où nous trouvons facilement une place sur un parking vide, normal c’est la fête du travail ici.
 Promenade en ville, quelques buildings sympa, marche sur le front de mer et »Pike market » très animées, le quartier du Grunge de Nirvana « BellTown » et visite du musée du Pop Art très sympa au milieu d’un beau parc avec la tour Space Needle (185 mètres - 1962 Expo univ) et d’une belle fontaine ou deux nombreux enfants prennet le frais, il fais très chaud.
 De retour à Thor on trouve une amende de 48$ car nous nous sommes garés à cheval sur deux emplacement dans le sens de la longeur. Le parking est toujours vide… puis départ à l’Ouest de Seattle pour observer une autre skyline et une blood Moon, séance photos de nuit. On entend au loin des phoques.
 Nous restons là pour la nuit.
