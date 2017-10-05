@@ -106,13 +106,13 @@ La montée de la Filbet Street pour nous rendre à la **Coit Tower** met nos mol
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37328365321/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4465/37328365321_eed16962f0_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-On descend ensuite vers Embarcadero et les piers en empruntant les **Filbert steps** (escaliers Filbert), successions de marches en bois et ruelles privées qui serpentent entre les maisons et jardins accrochés à la colline. On traverse ainsi dans le calme, ces espaves verts odorants composé de rosiers, chèvrefeuilles, jasmins, hortensias… Il parait que des perroquets y ont élu domicile, nous n'en avons pas vu.  
+On descend ensuite vers Embarcadero et les piers en empruntant les **Filbert steps** (escaliers Filbert), successions de marches en bois et ruelles privées qui serpentent entre les maisons et jardins accrochés à la colline. On traverse ainsi dans le calme, ces espaces verts odorants composé de rosiers, chèvrefeuilles, jasmins, hortensias… Il parait que des perroquets y ont élu domicile, nous n'en avons pas vu.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476687008/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4338/23476687008_3f42caa206_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 ### Piers 39  
 
-Nous promenons le long des quais (Piers) jusqu'au Piers 39, certainement le plus animé avec ses nombreuses boutiques, restaurants et animations en tout genre. Au bout du quai à gauche, les pontons de la marina sont squattés par de nombreux otaries qui se dorent au soleil et se disputent les meilleures places.  
+Nous promenons le long des quais (Piers) jusqu'au Piers 39, certainement le plus animé avec ses nombreuses boutiques, restaurants et animations en tout genre. Au bout du quai à gauche, les pontons de la marina sont squattés par de nombreuses otaries qui se dorent au soleil et se disputent les meilleures places.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618905074/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4437/36618905074_b51514e8f1_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -122,7 +122,7 @@ Nous promenons le long des quais (Piers) jusqu'au Piers 39, certainement le plus
 
 ### Japonese Tea Garden  
 
-Ce matin, nous descendons au Golden Gate Park, immense espace vert de 410 hectares en plein coeur de San Francisco. Le parc regroupe plusieurs édifices et jardins, le San Francisco De Young Museum, le conservatoire des fleurs, le National Aids Memorial Grove, la California Academy of Sciences, le Strybing Arboretum sans oublier de nombreuses oeuvres d'arts mais nous sommes là pour voir le jardin de thé japonais **Japanese Tea Garden**. Inauguré en 1894, il est le plus ancien jardin japonais des États-Unis. Nous y passons 2 bonnes heures à flâner entre les pagodes, bassins, bonsaïs, lanternes, statues… Un endroit très beau et reposant, pas pour l'appareil photo.  
+Ce matin, nous descendons au Golden Gate Park, immense espace vert de 410 hectares en plein coeur de San Francisco. Le parc regroupe plusieurs édifices et jardins, le San Francisco De Young Museum, le conservatoire des fleurs, le National Aids Memorial Grove, la California Academy of Sciences, le Strybing Arboretum sans oublier de nombreuses oeuvres d'arts mais nous sommes là pour voir le jardin de thé japonais **Japanese Tea Garden**. Inauguré en 1894, il est le plus ancien jardin japonais des États-Unis. Nous y passons 2 bonnes heures à flâner entre les pagodes, bassins, bonsaïs, fontaines, lanternes, statues… Un endroit très beau et reposant, pas pour l'appareil photo où l'on peut prendre le thé.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476583858/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4383/23476583858_cc888aa4fa_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
