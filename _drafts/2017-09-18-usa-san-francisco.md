@@ -122,7 +122,7 @@ Nous promenons le long des quais (Piers) jusqu'au Piers 39, certainement le plus
 
 ### Japonese Tea Garden  
 
-Ce matin, nous descendons au Golden Gate Park, immense espace vert de 410 hectares en plein coeur de San Francisco. Le parc regroupe plusieurs édifices et jardins, le San Francisco De Young Museum, le conservatoire des fleurs, le National Aids Memorial Grove, la California Academy of Sciences, le Strybing Arboretum sans oublier de nombreuses oeuvres d'arts mais nous sommes là pour voir le jardin de thé japonais **Japanese Tea Garden**. Inauguré en 1894, il est le plus ancien jardin japonais des États-Unis. Nous y passons 2 bonnes heures à flâner entre les pagodes, bassins, bonsaïs, fontaines, lanternes, statues… Un endroit très beau et reposant, pas pour l'appareil photo où l'on peut prendre le thé.  
+Ce matin, nous descendons au Golden Gate Park, immense espace vert de 410 hectares en plein coeur de San Francisco. Le parc regroupe plusieurs édifices et jardins, le San Francisco De Young Museum, le conservatoire des fleurs, le National Aids Memorial Grove, la California Academy of Sciences, le Strybing Arboretum sans oublier de nombreuses oeuvres d'arts mais nous sommes là pour voir le jardin de thé japonais **Japanese Tea Garden**. Inauguré en 1894, il est le plus ancien jardin japonais des États-Unis. Nous y passons 2 bonnes heures à flâner entre les pagodes, bassins, bonsaïs, fontaines, lanternes, statues… Un endroit très beau et reposant, pas pour l'appareil photo, où l'on peut prendre le thé.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476583858/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4383/23476583858_cc888aa4fa_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -156,7 +156,7 @@ Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071623290/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4422/37071623290_c906ff4549_k.jpg" width="1365" height="2048" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-La pente de rues dans le quartier est vraiment impressionnante, les automobilistes sont obligés d'orienter leurs roues vers le trottoir lorsqu'ils se stationnent sous peine d'amende.  
+La pente des rues dans le quartier est vraiment impressionnante, les automobilistes sont obligés d'orienter leurs roues vers le trottoir lorsqu'ils se stationnent sous peine d'amende.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071625190/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4477/37071625190_d40025069b_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -174,7 +174,7 @@ Les plus célèbres se trouvent sur la façade du **The Women's Building**, cent
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071621240/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4452/37071621240_b4019faef7_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous poursuivons par Balmy Alley et Clarion Alley, deux ruelles où l'on peut découvrir plus de 500 murs peints, support de l’expression artistique de centaines d’artistes, qui manifestent ainsi leurs sentiments et leurs positions sur des sujets sociétaux.  
+Nous poursuivons par **Balmy Alley** et **Clarion Alley**, deux ruelles où l'on peut découvrir plus de 500 murs peints, support de l’expression artistique de centaines d’artistes, qui manifestent ainsi leurs sentiments et leurs positions sur des sujets sociétaux.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071616100/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4440/37071616100_d7df8ec1c1_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -226,7 +226,7 @@ Pour le déjeuner, nous nous arrêtons dans un restaurant pour déguster la spé
 
 ### Lombart Street  
 
-Pour entretenir la galbe de nos mollets, nous gravissons la Russian Hill par la Hyde Street jusqu'à Lombard Street, mondialement connue pour une portion constituée de huit virages très serrés qui lui ont valu l'obtention de la distinction de "la route la plus sinueuse des États-Unis", sa pente est de 16%. Tous les touriste veulent l'emprunter avec leur véhicule dans un balai incessant. Je pleinsles habitants des maisons qui bordent cette rue.
+Pour entretenir la galbe de nos mollets, nous gravissons la Russian Hill par la Hyde Street jusqu'à Lombard Street, mondialement connue pour une portion constituée de huit virages très serrés qui lui ont valu la distinction de "la route la plus sinueuse des États-Unis", sa pente est de 16%. Tous les touriste veulent l'emprunter avec leur véhicule dans un balai incessant. Je pleinsles habitants des maisons qui bordent cette rue.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618494424/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4510/36618494424_b08817fb4f_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
