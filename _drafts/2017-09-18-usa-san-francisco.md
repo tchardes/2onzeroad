@@ -176,6 +176,19 @@ Nous poursuivons par Balmy Alley et Clarion Alley, deux ruelles où l'on peut d�
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476171048/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4499/23476171048_b9dee5c209_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+### Haight Street
+
+Nous finissons la journée par le quartier Hippies de **Haight Street**, lieu de naisance du "Summer Of Love" en 1967. Les premiers mètres dans cette artère au croisement de Haight et Ashbury vous replonge dans les années 70, les boutiques sont très colorées avec des fringues et objet d'une autre époque.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476165178/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4491/23476165178_7b95fa09a6_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37327843131/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4378/37327843131_84d76e6734_b.jpg" width="1024" height="683" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476162608/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4403/23476162608_134a740547_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+
+
+
 ## Quatrième journée  
 
 ### Quartier Japonais  
@@ -263,7 +276,7 @@ Si l'on en croit la météo, la brume devrait se lever dans la matinée. Pour ce
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658481043/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4346/36658481043_46c5d1475c_b.jpg" width="1024" height="240" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous avons vraiment apprécié San Francisco qui correspond a ce que nous nous étions imaginé. Il reigne dans cette ville une ambiance et une atmosphère particulière. Nous n'avons pas eu le temps de tout faire mais on espère bien reprendre notre dévouverte lors de notre retour.
+Nous avons vraiment apprécié San Francisco qui correspond exactement à ce que nous nous étions imaginé. Il reigne dans cette ville une ambiance et une atmosphère particulière. Nous n'avons pas eu le temps de tout faire mais on espère bien reprendre notre dévouverte lors de notre retour.
 
 
 
