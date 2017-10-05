@@ -33,16 +33,15 @@ Après avoir passé la frontière, nous filons sur Seattle et allons directement
 
 ## 04 septembre
 
-Nous quittons notre bivouac et passons par la **Troll Avenue** pour rendre visite à un troll des montagnes coincé sous un pont, une coccinnele dans la main. En route vers le centre ville de Seattle, nous passons par le quartier de Fremont qui présente la particularité d'exposer en plein rue, aux Etats-Unis, une statue de Lennine. L'histoire de cette "oeuvre" est assez rocanbolesque, pour en savoir plus : **[Cliquez ici](https://fr.wikipedia.org/wiki/Statue_de_L%C3%A9nine_(Seattle))**  
+Nous quittons notre bivouac et passons par la **Troll Avenue** pour rendre visite à un troll des montagnes coincé sous un pont, une coccinnele dans la main. En route vers le centre ville de Seattle, nous passons par le quartier de Fremont qui présente la particularité d'exposer en plein rue, aux Etats-Unis, une statue de Lennine. L'histoire de cette "oeuvre" est assez rocanbolesque, pour en savoir plus : **[Cliquez ici](https://fr.wikipedia.org/wiki/Statue_de_L%C3%A9nine_(Seattle))**.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600700643/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4439/36600700643_b683517e77_b.jpg" width="1024" height="683" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600700143/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4457/36600700143_ae5a1cfd8e_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+La circulation en ville est très fluide et nous trouvons facilement une place sur un parking quasiment vide. Nouc comprendrons plus tard qeu nous sommes le 4 septembre, le jour de la fête nationale du travail. Nous promenons en suite en ville où nous voyons quelques buildings sympa, Nous découvrons le front de mer et le marché **Pike market** très animées puis le quartier **BellTown** qui a vu naître le mouvement Grunge et le groupe Nirvana. Nous finissons la journée au Seattle Center, un parc qui regroupe le Pacific Science Center, KeyArena at Seattle Center, la tour Space Needle (185 mètres - 1962 Expo univ), l'International Fountain où de nombreux enfants prennent le frais car il fait très chaud et pour finire le Museum of Pop Culture que je visite 
 
 
-puis direction centre ville où nous trouvons facilement une place sur un parking vide, normal c’est la fête du travail ici.
-Promenade en ville, quelques buildings sympa, marche sur le front de mer et »Pike market » très animées, le quartier du Grunge de Nirvana « BellTown » et visite du musée du Pop Art très sympa au milieu d’un beau parc avec la tour Space Needle (185 mètres - 1962 Expo univ) et d’une belle fontaine ou deux nombreux enfants prennet le frais, il fais très chaud.
 De retour à Thor on trouve une amende de 48$ car nous nous sommes garés à cheval sur deux emplacement dans le sens de la longeur. Le parking est toujours vide… puis départ à l’Ouest de Seattle pour observer une autre skyline et une blood Moon, séance photos de nuit. On entend au loin des phoques.
 Nous restons là pour la nuit.
 
