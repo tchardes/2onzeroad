@@ -180,7 +180,7 @@ Nous poursuivons par Balmy Alley et Clarion Alley, deux ruelles où l'on peut d�
 
 ### Quartier Japonais  
 
-Nous débutons la journée par le quartier Japonais le plus ancien et le plus grand des Etats-Unis qui confirme la diversité culturelle de la ville et particulièrement la culture asiatique en raison de sa facade sur la Pacifique. On repère rapidement la Peace Pagoda, offerte par Osaka implantée sur la Peace Plaza, au milieu des malls du Japan Center. Le contraste avec Chinatown est flagrant, l'ambiance est épurée limite austère.  
+Nous débutons la journée par le **quartier Japonais** le plus ancien et le plus grand des Etats-Unis qui confirme la diversité culturelle de la ville et particulièrement la culture asiatique en raison de sa facade sur la Pacifique. On repère rapidement la Peace Pagoda, offerte par Osaka implantée sur la Peace Plaza, au milieu des malls du Japan Center. Le contraste avec Chinatown est flagrant, l'ambiance est épurée limite austère.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618500354/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4503/36618500354_62715959e8_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -188,14 +188,29 @@ Nous débutons la journée par le quartier Japonais le plus ancien et le plus gr
 
 ### Hôtel de ville  
 
+Nous poursuivons notre balade vers **l'hôtel de ville**, construit en 1915 dans le quartier du Civic Center. Son architecture est de style Beaux-Arts de forme rectangulaire, il est surmonté d'un dôme qui est le cinquième plus grand du monde.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476152238/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4403/23476152238_4088745551_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+### Fisherman’s Wharf  
 
-### Fisherman’s Wharf 
+Nous reprennons le bus pour traverser la ville vers le **Fisherman’s Wharf** (Quai des pêcheurs) dont nous avions déjà vu un aperçu lors de notre passage au Pier 39. En passant sur North Point street on s'invite sur le terrain de football de l'université de Galileo où se déroule un match universitaire, on s'installe dans les gradins et passon sun bon moment durant un quart temps.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618499184/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4447/36618499184_d52c812ffc_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous rentrons dans ce quartier très animé par le **Ghirardelli Square**, ancienne usine de chocolat réhabilitée en restaurants et boutiques.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476150538/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4347/23476150538_09942e8626_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Pour le déjeuné nous nous arrêtons dans un restaurant pour déguster la spécialité du quartier, le fameux **Clams Chowder**, velouté de palourdes servie dans un bol de pain, c'est excellent. En début d'apèrs-midi nous visitons le **Hyde St Pier Historic Ships**, San Francisco Maritime National Historical Park, dont l'accès est gratuit avec la pass America the Beautiful. Le lond d'un quai on été regroupé de vieux bateaux, témoins historiques de passé maritime de la ville. Sur un des pnts du ferry "Eureka" se trouve de nombreux véhicules anciens. Les petits pontons qui abritent des embarcations plus modeste sont envahis par les otaries qui n'aprécient pas d'être délogés et attendent patiamment que le park ranger quitte les lieux pour ce les réaproprier… 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476149748/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4432/23476149748_d3fd72743d_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618496544/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4454/36618496544_8022342889_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Lombart Street  
 
+Pour 
 
 ### Cable car
 
