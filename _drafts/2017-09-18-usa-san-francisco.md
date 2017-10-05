@@ -159,9 +159,24 @@ Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime 
 
 ### Mission Dolores
 
+Nous rejoignons le quartier **Mission District** qui est le plus vieux quartier de San Francisco, construit par les Espagnols. Son nom vient de la mission Saint-François-d'Assise plus connue sous le nom de **Mission Dolores**, première mission espagnole fondée en 1791, centre de l'évangélisation franciscaine dans la région. L'architecture du quartier est distinctive et originale.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476168158/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4401/23476168158_8750eef597_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+#### Street Art
+
+Mission district héberge de nombreux artistes célèbrent pour leurs peintures murales. Il y a près de 600 peintures murales à San Francisco, avec une concentration très grande dans ce quartier.
+
+Les plus célèbres se trouve sur la façade du ***The Women's Building**
 
 
-### Street Art
+
+
+
+bâtiments, toujours une partie de la communauté mexicaine et une longue tradition établie dans notre ville. Il y a près de 600 peintures murales à San Francisco, avec la concentration la plus élevée dans ce quartier.
+
+
+
 
 
 
