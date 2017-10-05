@@ -106,7 +106,7 @@ La montée de la Filbet Street pour nous rendre à la **Coit Tower** met nos mol
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37328365321/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4465/37328365321_eed16962f0_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-On descend ensuite vers Embarcadero et les piers en empruntant les escaliers Filbert, **Filbert steps**, successions de marches en bois et ruelles privées qui serpentent entre les maisons et jardins accrochés à la colline. On traverse ainsi dans le calme, un écrin de verdure odorante composé de rosiers, chèvrefeuilles, jasmins, hortensias… Il parait que des perroquets y ont élu domicile, nous n'en avons pas vu.  
+On descend ensuite vers Embarcadero et les piers en empruntant les **Filbert steps** (escaliers Filbert), successions de marches en bois et ruelles privées qui serpentent entre les maisons et jardins accrochés à la colline. On traverse ainsi dans le calme, un écrin de verdure odorante composé de rosiers, chèvrefeuilles, jasmins, hortensias… Il parait que des perroquets y ont élu domicile, nous n'en avons pas vu.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476687008/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4338/23476687008_3f42caa206_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
