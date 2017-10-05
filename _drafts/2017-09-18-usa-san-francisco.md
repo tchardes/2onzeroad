@@ -271,7 +271,9 @@ Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du b�
 
 ## Sixième journée  
 
-Si l'on en croit la météo, la brume devrait se lever dans la matinée. Pour cette dernière demi-journée de visite nous décidons de retourner vers le Golden Gate pour faire quelques photos. Nous nous posons au **Golden Gate Bridge Welcome Center** situé à l'entrée du pont. Une boutique regroupe de nombreux bibelots et livres concernant l'édifice qui fête ses 80 ans. Toutes les heures, la météo décale la venue du soleil et nous quittons San Francisco par le Bay Bridge avec un petit arrêt sur Treasure Island pour photographier la skyline.  
+Si l'on en croit la météo, la brume devrait se lever dans la matinée. Pour cette dernière demi-journée de visite nous décidons de retourner vers le Golden Gate pour faire quelques photos. Nous nous posons au **Golden Gate Bridge Welcome Center** situé à l'entrée du pont. Une boutique regroupe de nombreux bibelots et livres concernant l'édifice qui fête ses 80 ans cette année. Toutes les heures, la météo décale la venue du soleil. Avant de quitter San Francisco, nous passons devant des batiments appartenant à LucasFilm pour rendre visite à Yoda puis traversons la baie par le Bay Bridge avec un petit arrêt sur Treasure Island pour photographier la skyline.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658481453/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4400/36658481453_033e42096c_b.jpg" width="1024" height="683" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658473943/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4331/36658473943_a106ac4f56_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -279,7 +281,4 @@ Si l'on en croit la météo, la brume devrait se lever dans la matinée. Pour ce
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658481043/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4346/36658481043_46c5d1475c_b.jpg" width="1024" height="240" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous avons vraiment apprécié San Francisco qui correspond exactement à ce que nous nous étions imaginé. Il reigne dans cette ville une ambiance et une atmosphère particulière. Nous n'avons pas eu le temps de tout faire mais on espère bien reprendre notre dévouverte lors de notre retour.
-
-YODA
-
+Nous avons vraiment apprécié San Francisco qui correspond exactement à ce que nous nous étions imaginé. Il reigne dans cette ville une ambiance et une atmosphère particulière. Nous n'avons pas eu le temps de tout faire mais on espère bien reprendre notre dévouverte lors de notre retour.  
