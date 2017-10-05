@@ -194,28 +194,35 @@ Nous poursuivons notre balade vers **l'hôtel de ville**, construit en 1915 dans
 
 ### Fisherman’s Wharf  
 
-Nous reprennons le bus pour traverser la ville vers le **Fisherman’s Wharf** (Quai des pêcheurs) dont nous avions déjà vu un aperçu lors de notre passage au Pier 39. En passant sur North Point street on s'invite sur le terrain de football de l'université de Galileo où se déroule un match universitaire, on s'installe dans les gradins et passon sun bon moment durant un quart temps.
+Nous reprennons le bus pour traverser la ville vers le **Fisherman’s Wharf** (Quai des pêcheurs) dont nous avions déjà vu un aperçu lors de notre passage au Pier 39. En passant sur North Point street on s'invite sur le terrain de football de l'université de Galileo où se déroule un match universitaire, on s'installe dans les gradins et passon sun bon moment durant un quart temps.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618499184/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4447/36618499184_d52c812ffc_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618499184/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4447/36618499184_d52c812ffc_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous rentrons dans ce quartier très animé par le **Ghirardelli Square**, ancienne usine de chocolat réhabilitée en restaurants et boutiques.
+Nous rentrons dans ce quartier très animé par le **Ghirardelli Square**, ancienne usine de chocolat réhabilitée en restaurants et boutiques.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476150538/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4347/23476150538_09942e8626_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Pour le déjeuné nous nous arrêtons dans un restaurant pour déguster la spécialité du quartier, le fameux **Clams Chowder**, velouté de palourdes servie dans un bol de pain, c'est excellent. En début d'apèrs-midi nous visitons le **Hyde St Pier Historic Ships**, San Francisco Maritime National Historical Park, dont l'accès est gratuit avec la pass America the Beautiful. Le lond d'un quai on été regroupé de vieux bateaux, témoins historiques de passé maritime de la ville. Sur un des pnts du ferry "Eureka" se trouve de nombreux véhicules anciens. Les petits pontons qui abritent des embarcations plus modeste sont envahis par les otaries qui n'aprécient pas d'être délogés et attendent patiamment que le park ranger quitte les lieux pour ce les réaproprier… 
+Pour le déjeuné nous nous arrêtons dans un restaurant pour déguster la spécialité du quartier, le fameux **Clams Chowder**, velouté de palourdes servie dans un bol de pain, c'est excellent. En début d'apèrs-midi nous visitons le **Hyde St Pier Historic Ships**, San Francisco Maritime National Historical Park, dont l'accès est gratuit avec la pass America the Beautiful. Le lond d'un quai on été regroupé de vieux bateaux, témoins historiques de passé maritime de la ville. Sur un des pnts du ferry "Eureka" se trouve de nombreux véhicules anciens. Les petits pontons qui abritent des embarcations plus modeste sont envahis par les otaries qui n'aprécient pas d'être délogés et attendent patiamment que le park ranger quitte les lieux pour ce les réaproprier…  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476149748/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4432/23476149748_d3fd72743d_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618496544/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4454/36618496544_8022342889_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618496544/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4454/36618496544_8022342889_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 ### Lombart Street  
 
-Pour 
+Pour entretenir la galbe de nos mollets, nous gravissons la Russian Hill par la Hyde Street jusqu'à Lombart Street, mondialement connue pour une portion constituée de huit virages très serrés qui lui ont valu l'obtention de la distinction de "la route la plus sinueuse des États-Unis", sa pente est de 16%. Tous les touriste veulent l'emprunter avec leur véhicule dans un balais incessant. Je plein les habitants des maisons qui bordent cette rue.
 
-### Cable car
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618494424/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4510/36618494424_b08817fb4f_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618495094/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4375/36618495094_4d9288df28_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+### Cable car  
 
 
-## Cinquième journée
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37298390622/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4493/37298390622_9076a510ff_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+## Cinquième journée  
 
 ### Golden Gate
 
