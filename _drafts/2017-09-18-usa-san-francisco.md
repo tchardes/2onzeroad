@@ -239,7 +239,7 @@ Les Cable Cars sont des tramways à traction par câble. Ils sont devenus l'une 
 * La ligne Powell-Hyde ;
 * La ligne California Street.
 
-Nous achetons nos billets à l'un des terminus, au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente, on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au demie tour du wagon en fin de ligne, sur une petite rotonde, à la main par les emplyés. En marchant le long des rails, en entend très bien les câbles qui "circulent" au centre. Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est typique…  
+Nous achetons nos billets à l'un des terminus, au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente, on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au demi-tour du wagon en fin de ligne, sur une petite rotonde, à la main par les emplyés. En marchant le long des rails, en entend très bien les câbles qui "circulent" au centre. Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est typique…  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618495734/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4409/36618495734_ba71b670fb_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -249,7 +249,7 @@ Nous achetons nos billets à l'un des terminus, au Hyde and Beach Public Transit
 
 ### Golden Gate  
 
-Ce matin, nous nous rendons au Fort Point situé à la base du **Golden Gate**, le temps est maussade et ne se lèvera finalement que très tard dans la journée. 
+Ce matin, nous nous rendons à Fort Point situé à la base du **Golden Gate**, le temps est maussade et ne se lèvera finalement que très tard dans la journée. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476143288/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4474/23476143288_cb29fa8abd_k.jpg" width="2048" height="1122" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -257,11 +257,11 @@ Ce matin, nous nous rendons au Fort Point situé à la base du **Golden Gate**, 
 
 ### Union Square
 
-Le bus nous laisse à Union Square où nous commençons par un café dans un Starbuck, comme la plupart des américains qui se promènent toute la journée avec mug à la main. Nous faisons quelques boutiques avant de monter at 8ème étage du Macy's pour prendre notre déjeuner à The Cheesecake Factory qui bénéficie d'une terrasse qui donne sur la place.
+Le bus nous laisse à Union Square où nous commençons par un café dans un Starbuck, comme la plupart des américains qui se promènent toute la journée avec mug à la main. Nous faisons quelques boutiques avant de monter au 8 ème étage du Macy's pour prendre notre déjeuner à The Cheesecake Factory qui bénéficie d'une terrasse qui donne sur la place.
 
 ### SFMoMA
 
-Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du bâtiment est vraiment originale avec la façade en briques rouges de l'ancien musée et son immense puit de lumière sur lequel il a été accolé à un nouveau bâtiment tout blanc de 10 étages tout en relief, ce qui en fait l'un des plus grands du monde. S'il regroupe des sculptures et peintures, il expose également des expériences audio et audio visuelle intéressantes, notamment une installation vidéo, "The Visitors" de Ragnar Kjartansson.
+Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du bâtiment est vraiment originale avec sa façade en briques rouges de l'ancien musée et son immense puit de lumière sur lequel il a été accolé à un nouveau bâtiment tout blanc de 10 étages tout en relief, ce qui en fait l'un des plus grands musée d'art moderne du monde. S'il regroupe des sculptures et peintures, il expose également des expériences audios et audiovisuelles intéressantes, notamment une installation vidéo, nommée "The Visitors" de Ragnar Kjartansson.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658607963/in/datetaken/" title="IMG_6248"><img src="https://farm5.staticflickr.com/4513/36658607963_d765d33174_k.jpg" width="2048" height="1152" alt="IMG_6248"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
