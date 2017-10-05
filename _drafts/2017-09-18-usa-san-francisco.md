@@ -239,7 +239,7 @@ Les Cable Cars sont des tramways à traction par câble. Ils sont devenus l'une 
 * La ligne Powell-Hyde ;
 * La ligne California Street.
 
-Nous achetons nos billets au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente, on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au changement de direction sur une petite rotonde, à la main. En marchant le long des rails, en entend très bien les câbles qui "circulent" au centre.  Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est typique…  
+Nous achetons nos billets à l'un des terminus, au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente, on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au demie tour du wagon en fin de ligne sur une petite rotonde, à la main. En marchant le long des rails, en entend très bien les câbles qui "circulent" au centre. Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est typique…  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618495734/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4409/36618495734_ba71b670fb_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
