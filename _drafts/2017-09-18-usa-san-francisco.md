@@ -29,10 +29,9 @@ L'idéal, pour accompagner la lecture de cet article est de le faire en musique.
     <li><a href="https://youtu.be/2WrIN7xhEks" target="_blank">Arctic Monkeys - Fake Tales Of San Francisco </a></li>
 </ul>
 
-
 <div id="toc"></div>
 
-## Première journée
+## Première journée  
 
 Nous arrivons en fin d'après-midi au Presidio, parc situé au nord de la péninsule de San Francisco et commençons notre découverte de la ville par le **Palace of Fine Arts** construit à l'occasion de l'exposition internationale de Panama-Pacific organisée en 1915, la marina et à sa pointe le **The Wave Organ** une sculpture accoustique et sa vue sur la baie.
 
@@ -44,10 +43,9 @@ Nous arrivons en fin d'après-midi au Presidio, parc situé au nord de la pénin
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658890413/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4390/36658890413_7f3609d26b_k.jpg" width="2048" height="591" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+## Deuxième journée  
 
-## Deuxième journée
-
-### Chinatown
+### Chinatown  
 
 Pour cette première journée, nous nous rendons en centre ville en bus. Nous découvrons **Union Square**, le coeur de San Francisco, avec ses grandes enseignes et hôtels de luxe comme le Saint Francis et le Sir Francis Drake et ses portiers habillés en garde de la tour de Londres. Nous poursuivons par le quartier de **Chinatown** en commençant par la Dragon's Gate, entrée du quartier protégée par deux dragons et deux lions. Il s'agit du plus vieux et plus grand quartier chinois de tous les USA.  
 
@@ -94,9 +92,9 @@ On débouche sur Washington Street que l'on prend sur la droite jusqu'à Columbu
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37072076060/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4467/37072076060_6c9c71dddc_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-### Coit Tower
+### Coit Tower  
 
-Nous remontons l'avenue pour nous rendre à la Coit Tower qui met nos mollets à dure épreuve. Cette tour de 64 mètres a été edifiée en 1933 sur la Télégraph Hill pour honorer les pompiers de la ville. Même sans monter au sommet de la tour (400 marches) on bénéficie d'une très belle vue sur la ville et la Baie.  
+Nous remontons l'avenue pour nous rendre à la Coit Tower qui met nos mollets à dure épreuve. Cette tour de 64 mètres a été edifiée en 1933 sur la Télégraph Hill pour honorer les pompiers de la ville. Même sans monter au sommet de la tour (400 marches) on bénéficie d'une très belle vue sur la ville et la Baie.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281271546/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4506/37281271546_9babc8a99d_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -110,18 +108,17 @@ On descend ensuite vers Embarcadero et les piers en empruntant les escaliers Fil
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476687008/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4338/23476687008_3f42caa206_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-### Piers 39
+### Piers 39  
 
-Nous promenons le long des quais (Piers) jusqu'au Piers 39 certainement le plus animés avec ces nombreuses boutiques, restaurants, animations. 
-
+Nous promenons le long des quais (Piers) jusqu'au Piers 39 certainement le plus animés avec ces nombreuses boutiques, restaurants, animations.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618905074/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4437/36618905074_b51514e8f1_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281268046/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4507/37281268046_b4526ede08_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## Troisième journée
+## Troisième journée  
 
-### Japonese Tea Garden
+### Japonese Tea Garden  
 
 Ce matin nous descendons au Golden Gate Park, immense espace vert de 410 hectares en plein coeur de San Francisco. Le parc regroupe plusieurs édifices et jardins, le San Francisco De Young Museum, le conservatoire des fleurs, le National Aids Memorial Grove, la California Academy of Sciences, le Strybing Arboretum sans oublier de nombreuses oeuvres d'arts mais nous sommes là pour voir le jardin de thé japonais **Japonese Tea Garden**. Inauguré en 1894, il est le plus ancien jardin japonais des États-Unis. Nous y passons 2 bonnes heures à flaner entre les pagodes, bassins, bonzaïs, lanternes, statues… Un endroit très beau et reposant, pas pour l'appreil photo.  
 
@@ -133,7 +130,7 @@ Ce matin nous descendons au Golden Gate Park, immense espace vert de 410 hectare
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658576413/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4436/36658576413_be4623d266_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-### Alamo Parc
+### Alamo Parc  
 
 Nous reprenons le bus vers **Alamo Square** qui est un jardin public et un quartier résidentiel, célèbre par sa rangée de maisons de style victorien et édouardien peintes en plusieurs couleurs afin de réhausser les détails architecturaux, surnommées les **Painted Ladies**. En montant un peu sur la colline on peu apercevoir, derrière les villas, le centre de San Francisco. 
 
@@ -145,7 +142,7 @@ En repartant par la Fultron Street, nous bénéficions une très belle vue sur l
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37327889521/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4451/37327889521_4c2aeec235_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-### Castro
+### Castro  
 
 Nous poursuivons par le quartier de Castro qui représente le coeur de la communauté gay de San Francisco. Ce quartier haut en couleur… de l'arc en ciel, abrite le très beau cinéma Castro Theater, sur Castro Street.  
 
@@ -157,26 +154,19 @@ Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071623290/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4422/37071623290_c906ff4549_k.jpg" width="1365" height="2048" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-### Mission Dolores
+### Mission Dolores  
 
-Nous rejoignons le quartier **Mission District** qui est le plus vieux quartier de San Francisco, construit par les Espagnols. Son nom vient de la mission Saint-François-d'Assise plus connue sous le nom de **Mission Dolores**, première mission espagnole fondée en 1791, centre de l'évangélisation franciscaine dans la région. L'architecture du quartier est distinctive et originale.
+Nous rejoignons le quartier **Mission District** qui est le plus vieux quartier de San Francisco, construit par les Espagnols. Son nom vient de la mission Saint-François-d'Assise plus connue sous le nom de **Mission Dolores**, première mission espagnole fondée en 1791, centre de l'évangélisation franciscaine dans la région. L'architecture du quartier est distinctive et originale.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476168158/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4401/23476168158_8750eef597_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476168158/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4401/23476168158_8750eef597_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-#### Street Art
+#### Street Art  
 
-Mission district héberge de nombreux artistes célèbrent pour leurs peintures murales. Il y a près de 600 peintures murales à San Francisco, avec une concentration très grande dans ce quartier.
+Mission district héberge de nombreux artistes célèbrent pour leurs peintures murales. Il y a près de 600 peintures murales à San Francisco, avec une concentration très grande dans ce quartier.  
 
-Les plus célèbres se trouve sur la façade du ***The Women's Building**
+Les plus célèbres se trouve sur la façade du **The Women's Building**  centre communautaire construit en 1910 axé sur les arts et l'éducation et qui préconise l'autodétermination, l'égalité entre les sexes et la justice sociale.  
 
-
-
-
-
-bâtiments, toujours une partie de la communauté mexicaine et une longue tradition établie dans notre ville. Il y a près de 600 peintures murales à San Francisco, avec la concentration la plus élevée dans ce quartier.
-
-
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071621240/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4452/37071621240_b4019faef7_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
 
