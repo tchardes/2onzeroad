@@ -239,7 +239,7 @@ Ce matin nous nous rendons au Fort Point situé à la base du **Golden Gate**, l
 
 ### Union Square
 
-Le bus nous laisse à Union quare où nous commençons par un café dans un starbuck, comme la pluspart des américains qui se promenent toute la journé avec mug à la main. Nous faisons quelque boutiques avant de monter at 8ème étage du Macy's pour prendre notre déjeuné à The Cheesecake Factory qui bénérficie d'uen terrase qui donne sur la place.
+Le bus nous laisse à Union quare où nous commençons par un café dans un starbuck, comme la pluspart des américains qui se promenent toute la journé avec mug à la main. Nous faisons quelque boutiques avant de monter at 8ème étage du Macy's pour prendre notre déjeuné à The Cheesecake Factory qui bénérficie d'une terrase qui donne sur la place.
 
 ### SFMoMA
 
@@ -249,7 +249,7 @@ Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du ba
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476138288/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4374/23476138288_6f8b327091_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658607963/in/datetaken/" title="IMG_6248"><img src="https://farm5.staticflickr.com/4513/36658607963_d765d33174_k.jpg" width="2048" height="1152" alt="IMG_6248"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23660416348/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4384/23660416348_0c145059a5_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
 ## Sixième journée
