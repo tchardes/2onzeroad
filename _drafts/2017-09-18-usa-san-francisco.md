@@ -16,7 +16,7 @@ category: "blog"
 location: "37.780006, -122.438828"
 ---
 
-Nous voilà à la fin de notre roadtrip pour cette année et nous finissons en apothéose avec la visite de San Francisco. Cette ville nous fait rêver depuis longtemps et nous avons préparé minutieusement sa visite en fonction de nos goûts.
+Nous voilà à la fin de notre roadtrip pour cette année et nous finissons en apothéose avec la visite de San Francisco. Cette ville nous fait rêver depuis longtemps et nous avons préparé minutieusement sa visite en fonction de nos goûts.  
 
 L'idéal, pour accompagner la lecture de cet article est de le faire en musique. Selon vos goûts et peut-être selon votre âge, vous pouvez cliquer sur un de ces liens pour lancer la musique avant de revenir sur le site :  
 
@@ -31,7 +31,7 @@ L'idéal, pour accompagner la lecture de cet article est de le faire en musique.
 
 <div id="toc"></div>
 
-## Première journée  
+## Première journée   
 
 Nous arrivons en fin d'après-midi au Presidio, parc situé au nord de la péninsule de San Francisco et commençons notre découverte de la ville par le **Palace of Fine Arts** construit à l'occasion de l'exposition internationale de Panama-Pacific organisée en 1915, la marina et à sa pointe le **The Wave Organ** une sculpture acoustique et sa vue sur la baie.
 
