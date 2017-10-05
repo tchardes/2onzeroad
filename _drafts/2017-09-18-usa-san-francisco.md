@@ -64,8 +64,10 @@ Au croisement de Grant Av. et de California street se trouve la **Old St. Mary's
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618941824/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4332/36618941824_aeb9f8ee19_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 En poursuivant sur Grant Av. nous passons devant le N° 718, **Wok boutique**, très ancienne boutique qui commercialise des couperets, woks, baguettes… et le N° 720, la boulangerie **Eastern Bakery** ouverte depuis 1924, plus ancienne boulangerie chinoise des États-Unis. Les gâteaux de lune sont leur spécialité, on peut y déguster du sucré mais également du salé.  
+
     
-On tourne ensuite sur Clay Street puis à gauche pour traverser la **Place de Portsmouth**, centre social de Chinatown. De nombreux hommes et femmes jouent aux cartes et aux échecs chinois "échiquier des éléphants". Il est possible de rejoindre le Chinese Culture Center, au Hilton Financial, bâtiment qui a une forme assez particulière.  
+On tourne ensuite sur Clay Street puis à gauche pour traverser la **Place de Portsmouth**, centre social de Chinatown. De nombreux hommes et femmes jouent aux cartes et aux échecs chinois "échiquier des éléphants". Il est possible de rejoindre le Chinese Culture Center, au Hilton Financial, bâtiment qui a une forme assez particulière.   
+
     
 Au bout de la place, on débouche sur Washington street. Sur la gauche, au niveau du N° 743, on peut admirer un très beau bâtiment au style oriental, ancien central téléphonique de Chinatown, transformé depuis en agence bancaire. Nous rejoignons ensuite Grant Avenue en passant par 
 Wentworth place. Le bloc situé entre Grant avenue, Kearny et Washington street regroupe quelques-uns des restaurants les mieux côtés du quartier chinois. Des personnes distribuent des coupons dans la rue pour vous inciter à choisir leur établissement. Nous testons le **Hunan Homes**, au N°622 Jackson street où nous avons très bien déjeuné.  
