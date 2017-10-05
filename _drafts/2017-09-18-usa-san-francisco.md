@@ -218,27 +218,41 @@ Pour entretenir la galbe de nos mollets, nous gravissons la Russian Hill par la 
 
 ### Cable car  
 
+Les Cable Cars sont des tramways à traction par câble. Ils sont devenus l'une des icônes de San Francisco. Trois lignes ont survécues :
+* La ligne Powell-Mason ;
+* La ligne Powell-Hyde ;
+* La ligne California Street.
 
+Nous achetons nos billets au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au changement de direction sur une petit rotonde, à la main. Enmarchant le long des rails en entend très bin les câbles qui "circulent" en centre.  Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est tyique… 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37298390622/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4493/37298390622_9076a510ff_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 ## Cinquième journée  
 
-### Golden Gate
+### Golden Gate  
+
+Ce matin nous nous rendons au Fort Point situé à la base du **Golden Gate**, le temps est maussade et ne se lévera finalement que très tard dans la journée. 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476143288/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4474/23476143288_cb29fa8abd_k.jpg" width="2048" height="1122" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476142498/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4469/23476142498_c44bbae362_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 ### Union Square
 
+Le bus nous laisse à Union quare où nous commençons par un café dans un starbuck, comme la pluspart des américains qui se promenent toute la journé avec mug à la main. Nous faisons quelque boutiques avant de monter at 8ème étage du Macy's pour prendre notre déjeuné à The Cheesecake Factory qui bénérficie d'uen terrase qui donne sur la place.
+
 ### SFMoMA
 
-## Sixième journée
+Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du batiement est vraiment originale avec la façade en briques rouges de l'ancien musée et son immense puit de lumière sur lequel il a été accolé à un nouveau bâtiment tout blanc de 10 étages tout en relief, ce qui en fait l'une des plus grand du monde. Il regroupe 
 
-Jour 4 :
-- Quartier Japonnais
-- Hotel de ville
-- Fisherman’s Wharf ou nous avons assisté à un match de footbal universitaire puis déjeuner où j’ai gouté au fameux Clams Chowder (soupe de palourdes servie dans un bol de pain, excellent.
-Visite ensuite du Hyde St Pier Historic Ships (San Francisco Maritime National Historical Park) où se trouve de vieux bateaux, lions de mer sur les quais.
-puis nous nous sommes rendus à Lombart Street puis nous avons pris le Cable car pour retourner en centre ville puis nous sommes retournés à Haight Street pour faire des emplettes et manger un crêpe suzette avant de retourner à Thor.
-Dans la soirée, un policier tape à la porte de Thor. Après quelques explications il nous autorise à rester là pour la nuit mais nous demande de partir au levé du jour…
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658607963/in/datetaken/" title="IMG_6248"><img src="https://farm5.staticflickr.com/4513/36658607963_d765d33174_k.jpg" width="2048" height="1152" alt="IMG_6248"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476138288/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4374/23476138288_6f8b327091_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658607963/in/datetaken/" title="IMG_6248"><img src="https://farm5.staticflickr.com/4513/36658607963_d765d33174_k.jpg" width="2048" height="1152" alt="IMG_6248"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+
+## Sixième journée
 
 Jour 5 :
 
