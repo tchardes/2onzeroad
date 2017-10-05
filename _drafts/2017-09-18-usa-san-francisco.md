@@ -253,15 +253,13 @@ Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du ba
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476134928/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4395/23476134928_fa93866652_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## Sixième journée
+## Sixième journée  
 
+Si l'on en croit la météo, la brûme devrait se lever dans la matinée. Pour cette dernière demis journée de visite nous décidons de retourner ver les Golde Gate pour faire quelques photos. Nous nous posons au **Golden Gate Bridge Welcome Center** situé à l'entrée du pont. Une boutique regroupe de nombreux bibelots et livre concernant l'édifice qui fête ces 80 ans. Toutes les heures la météo décalle la venue du soleil et nous quittons San Francisco par le Bay Bridge avec un petit arrêt sur Treasure Island pour photographier la skyline.  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658473943/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4331/36658473943_a106ac4f56_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
-
-Jour 6 :
-
-Finalement nous n’avons pas été dérangé de la nuit. Nous quittons le bivouac pour se rendre au Golden gate. Le temps est brumeux comme souvent à SF, Selon la météo le temps va se lever en fin de matinée, on attend… Toutes les heures la météo recule le moment où le soleil doit pointer son nez. Finalement vers 14h00 on quitte le camp et nous tranversons SF pour nous rendre à Oakland, Anthony Chabot Campground, où nous avons réservé deux jour pour préparer Thor et nos bagages. 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658481043/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4346/36658481043_46c5d1475c_b.jpg" width="1024" height="240" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
 
