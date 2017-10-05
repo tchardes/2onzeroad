@@ -112,7 +112,7 @@ On descend ensuite vers Embarcadero et les piers en empruntant les **Filbert ste
 
 ### Piers 39  
 
-Nous promenons le long des quais (Piers) jusqu'au Piers 39, certainement le plus animé avec ses nombreuses boutiques, restaurants, animations. Au bout du quai à gauche, les pontons de la marina sont squattés par de nombreux otaries qui se dorent au soleil etb se dispitent les meilleures places.  
+Nous promenons le long des quais (Piers) jusqu'au Piers 39, certainement le plus animé avec ses nombreuses boutiques, restaurants et animations en tout genre. Au bout du quai à gauche, les pontons de la marina sont squattés par de nombreux otaries qui se dorent au soleil etb se dispitent les meilleures places.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618905074/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4437/36618905074_b51514e8f1_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
