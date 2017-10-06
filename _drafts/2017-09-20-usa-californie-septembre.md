@@ -60,16 +60,25 @@ De retour à Thor on trouve une amende de 48$ car nous nous sommes garés à che
 
 ## 05 septembre
 
-Départ de Seattle en direction de Olympic Nationa Park sous les nuages.
-Nous nous arrêtons à Port Townsend pour voir une partie des 200 villas de type victorien datant de la fin du 19éme et dont certaines ont été entièrement restaurées. Nous faisons halte devant une maison pour déjeuner. Je vois la propriétaire pour lui demander son aval, elle accepte spontanément. Durant le repas, nous voyons une biche arriver, commencer à brouter puis se coucher dans le jardin… Nous faisons un tour à pied avec le plan récupéré au visitor center, il est vrai que certaines maisons sont belles, ainsi qu ele centre ville dommage que le temps ne soit pas avec nous au niveau de la lumière. Nous assistons à une petite manif de parents d’élèves certainements, Macron leur a peut-etre supprimé egalement les emplois aidées !!!!
-Ensuite nous nous dirigeons vers Dungeness pour voir une bande de sable de 9km de long, soit disant le pus longue au monde si l’on en croit le guide. Il forme en fait une petite lagune, rien d’extraordianire. Sur les petites routes pour y accéder, nous voyons de très belles villas avec de nombreuses biches dans les jardins, jusqu’à 7 dans l’une d’elles. Nous passons à Sequim qui se vante d’être la capitale de la lavande de l’amérique du Nord. Effectivement nous avons vu quelques champs de lavandes. 
-Routre vers Port Angeles ou nous nous posons dans un Walmart après avoir fait le pleins de gazoline.
-Sur le parking nous voyons arriver un RV de 19’ se garer à côté de nous et je vois un drapeau Français sur la fenêtre. Nous faisons ainsi connaissance d’un couple de retraité français du Var qui en sont à leur deuxième séjour de 6 mois en Amérique de Nord et pense déjà au troisième. Nous parlons un bon moment ensemble.
+Départ de Seattle en direction de **Olympic National Park**, sous les nuages. Nous nous arrêtons à **Port Townsend** pour voir une partie des 200 villas de type victorien datant de la fin du 19 ème et dont certaines ont été entièrement restaurées. Nous y arrivons pour le déjeuner et faisons halte dans un quartier résidentiel, devant une propriété. Je vois la propriétaire chercher son courrier et je lui demande son aval, elle accepte spontanément. Durant le repas, nous voyons un jeune cerf arriver, commencer à brouter puis se coucher dans le jardin…   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560149734/in/datetaken/" title="Port Townsend - Washington - [USA]"><img src="https://farm5.staticflickr.com/4341/36560149734_fa7af4eeed_b.jpg" width="1024" height="576" alt="Port Townsend - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous faisons le tour de la ville à pied avec le plan récupéré au visitor center. Il est vrai que certaines maisons sont belles, ainsi que le centre ville, dommage que le temps ne soit pas avec nous au niveau de la lumière. Nous assistons à une petite manif de parents d’élèves certainements, ans une ambiance si British.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37241033272/in/datetaken/" title="Port Townsend - Washington - [USA]"><img src="https://farm5.staticflickr.com/4415/37241033272_2cc9b21610_b.jpg" width="1024" height="576" alt="Port Townsend - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37241028632/in/datetaken/" title="Port Townsend - Washington - [USA]"><img src="https://farm5.staticflickr.com/4466/37241028632_862497a623_b.jpg" width="1024" height="768" alt="Port Townsend - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37269945571/in/datetaken/" title="Port Townsend - Washington - [USA]"><img src="https://farm5.staticflickr.com/4501/37269945571_f54c1319d9_b.jpg" width="1024" height="576" alt="Port Townsend - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
+
+Nous poursuivons notre route vers **Dungeness** pour voir une bande de sable, de 9km de long, soit disant le pus longue au monde si l’on en croit le guide. Il forme en fait une petite lagune, rien d’extraordianire. Sur les petites routes pour y accéder, nous voyons de très belles villas avec de nombreuses biches dans les jardins, jusqu’à 7 dans l’une d’elles. Nous passons à **Sequim** qui se vante d’être la capitale de la lavande de l’amérique du Nord. Effectivement nous avons vu quelques champs de lavandes.
+
+Nous arrivons à **Port Angeles** ou nous nous posons dans un Walmart après avoir fait le pleins de gazoline. Sur le parking nous voyons arriver un RV de 19’ se garer à côté de nous et je vois un drapeau français collé sur la fenêtre. Nous faisons ainsi connaissance d’un couple de retraité varois, qui en sont à leur deuxième séjour de 6 mois en Amérique de Nord et pense déjà au troisième. Nous parlons un bon moment ensemble.
 
 ## 06 septembre
 
-Départ pour le Hurricane Ridge Visitor Center. Arrivé en haut l’ensemble du parc est dans une brume provenant de nombreux feus de foret dans la région. 
-Nous restons la journée là et je profite d’avoir de l’électricité pour traiter les photos.
+Nous nous arrêtons au visitor Center du Olympic National Park qui se situe dans la ville de Port Angeles avant de s'engager sur la Hurricane Ridge road jusqu'au **Hurricane Ridge Visitor Center**. Arrivé au sommet, l’ensemble du parc est noyé dans une épaisse fumée provenant des nombreux feux de foret dans la région. Nous restons là toute la journée dans l'espoir que le soleil perce et j'en profite d’avoir de l’électricité pour traiter les photos. Finalement 
 A partir de demain il pleut, nous décidons de descendre vers le sud au Mont St Helens.
 
 ## 07 septembre
