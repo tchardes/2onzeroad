@@ -119,7 +119,7 @@ Nous reprenons la direction de **Lava Bed National Monument**. **(voir l’artic
 Nous partons ensuite vers le Lassen Volcanic NP et quittons l'Etat de l'Orégon pour celui de la Californie, dernier Etat de notre road trip de 2017. Après quelques kilomètres à l’intérieur de l’Etat, tous les véhicules doivent passer un contrôle sanitaire, les lois de l'Etat étant très sévères. Malheureusement, nous transportons deux oranges clandestines qui n’avaient pas leurs papiers pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau… Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques places. 
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
-Le système des Campground dans les Park est simple, on s'arrête à l'entrée voir les préconisations, le plan, les services et le prix de la nuitée et on récupère dans une boite une enveloppe spécifique. On cherche un emplacement de libre dans le camping, on stationne le camping-car et on renseigne les deux volets de l'enveloppe. On découpe la première partie que l'on accroche à un poteau où figure le N° du site, on met l'argent dans l'enveloppe en fonction du nombre de nuitée que l'on vient déposer à l'entrée dans un emplacement dédié. Il est également possible de payer par CB en renseignant une autre partie de l'enveloppe. Les Parcs Rangers récupèrent les enveloppes et font le tour matin et soir du camping pour vérifier.
+Le système des Campgrounds dans les Parks est simple, on s'arrête à l'entrée voir les préconisations, le plan, les services et le prix de la nuitée et on récupère dans une boite une enveloppe spécifique. On cherche un emplacement de libre dans le camping, on stationne le camping-car et on renseigne les deux volets de l'enveloppe. On découpe la première partie que l'on accroche à un poteau où figure le N° du site, on met l'argent dans l'enveloppe en fonction du nombre de nuitée que l'on vient déposer à l'entrée dans un emplacement dédié. Il est également possible de payer par CB en renseignant une autre partie de l'enveloppe. Les Parcs Rangers récupèrent les enveloppes et font le tour matin et soir du camping pour vérifier.
 </p>
 
 
@@ -132,6 +132,12 @@ Après une nuit pluivieuse, ce matin grand beau temps. Nous faisons les Dump et 
 Nous faisons route, en fin de journée, vers San Francisco. Nous quittons les sentiers battus pour rejoindre les grands axes. Nous allons ainsi longé des centaines de kilomètres de plantations d'arbres fruitiers et à ma grande surprise, des hactares d'oliviers. Nous nous arrêtons pour la nuit à Vaccaville. 
 
 ## 13 au 18 septembre
+
+Nous faisons route jusqu'à Oakland pour trouver une entreprise de stockage (storage) pour Thor et un camping pour nos deux deniers jours sur le sol américain afin de préparer notre retour en France. J'ai déjà pris quelques contacts il y a un mois par mail et la deuxième entreprise est la bonne, Thor passera quelques mois sur l'ile d'Alameda en compagnie de nomnreux camarades. Nous filons ensuite dans le seul camping de la région **Anthony Chabot Regional Park** et réservons pour deux nuités.
+
+La logistique réglée nous traversons la baie par le pont "Bay Bridge" (6$) et arrivons directement en centre ville. Pas facile de circuler avec Thor, la tension est palpable dans la cabine… Corinne a repéré sur IOverlander un sationnement possible en plein parc du Présidio, on tente pour cette nuit. 
+
+Nous passons 
 
 **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-18-usa-san-francisco %}">ici</a>)**.
 

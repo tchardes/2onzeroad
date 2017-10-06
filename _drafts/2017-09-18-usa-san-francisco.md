@@ -146,7 +146,7 @@ En repartant par la Fultron Street, nous bénéficions une très belle vue sur l
 
 ### Castro  
 
-Nous poursuivons par le quartier de Castro qui représente le coeur de la communauté gay de San Francisco. Ce quartier haut en couleur… de l'arc en ciel, abrite le très beau cinéma Castro Theater, sur Castro Street.  
+Pour le déjeuné nous testons un Mexicain, "Casa Mexicana" au 180 Church Street où nous mangeosn de très bons burritos accompagnés d'une Corona. Nous poursuivons par le quartier de Castro qui représente le coeur de la communauté gay de San Francisco. Ce quartier haut en couleur… de l'arc en ciel, abrite le très beau cinéma Castro Theater, sur Castro Street.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071628010/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4508/37071628010_3e423b6580_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
