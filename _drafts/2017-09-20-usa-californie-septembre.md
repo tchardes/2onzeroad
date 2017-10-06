@@ -123,7 +123,11 @@ Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il re
 
 ## 12 septembre
 
-Après une nuit pluivieuse, ce matin grand beau temps. Nous faisons les Dump et plein d’eau et quittons le Camping à la découverte du **Lassen Volcanic National Park**, **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-13-usa-lassen %}">ici</a>)**. Nous passons une très belle journée. Nous faisons route en fin de journée vers San Francisco. Nous quittons les sentiers battus pour rejoindre les grands axes. Nous allons ainsi longés des centaines de kilomètres de plantations d'arbres fruitiers et à ma grande surprise, des hactares d'oliviers. Nous nous arrêtons pour la nuit à Vaccaville. 
+Après une nuit pluivieuse, ce matin grand beau temps. Nous faisons les Dump et plein d’eau et quittons le Camping à la découverte du **Lassen Volcanic National Park**, **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-13-usa-lassen %}">ici</a>)**. Nous passons une très belle journée.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36706071533/in/datetaken/" title="Lassen Volcanic NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4428/36706071533_8fc383cb1d_b.jpg" width="1024" height="576" alt="Lassen Volcanic NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Nous faisons route en fin de journée vers San Francisco. Nous quittons les sentiers battus pour rejoindre les grands axes. Nous allons ainsi longés des centaines de kilomètres de plantations d'arbres fruitiers et à ma grande surprise, des hactares d'oliviers. Nous nous arrêtons pour la nuit à Vaccaville. 
 
 ## 13 au 18 septembre
 
