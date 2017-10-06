@@ -39,11 +39,26 @@ Nous quittons notre bivouac et passons par la **Troll Avenue** pour rendre visit
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600700143/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4457/36600700143_ae5a1cfd8e_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-La circulation en ville est très fluide et nous trouvons facilement une place sur un parking quasiment vide. Nouc comprendrons plus tard qeu nous sommes le 4 septembre, le jour de la fête nationale du travail. Nous promenons en suite en ville où nous voyons quelques buildings sympa, Nous découvrons le front de mer et le marché **Pike market** très animées puis le quartier **BellTown** qui a vu naître le mouvement Grunge et le groupe Nirvana. Nous finissons la journée au Seattle Center, un parc qui regroupe le Pacific Science Center, KeyArena at Seattle Center, la tour Space Needle (185 mètres - 1962 Expo univ), l'International Fountain où de nombreux enfants prennent le frais car il fait très chaud et pour finire le **Museum of Pop Culture** que je visite (25$/Pers.)
+La circulation en ville est très fluide et nous trouvons facilement une place sur un parking quasiment vide. Nouc comprendrons plus tard qeu nous sommes le 4 septembre, le jour de la fête nationale du travail. Nous promenons en suite en ville où nous voyons quelques buildings sympa, Nous découvrons le front de mer et le marché **Pike market** très animées puis le quartier **BellTown** qui a vu naître le mouvement "Grunge" et le groupe Nirvana. Nous finissons la journée au Seattle Center, un parc qui regroupe le Pacific Science Center, KeyArena at Seattle Center, la tour Space Needle (185 mètres - 1962 Expo univ), l'International Fountain où de nombreux enfants prennent le frais car il fait très chaud et pour finir le **Museum of Pop Culture** que je visite (25$/Pers.).
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600689523/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4400/36600689523_3766877a87_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560243444/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4392/36560243444_fbb11c14f8_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412590305/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4344/37412590305_72c7c5ee86_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+De retour à Thor on trouve une amende de 48$ car nous nous sommes garés à cheval sur deux emplacement dans le sens de la longeur. Le parking est toujours aussi vide… On s'acquite de la prune par Internet et on quitte le centre ville pour le quartier North admiral pour une séance de photos de nuit d'une autre vue de la skyline de la ville ainsi qu'une lune toute rouge, peut-être une Blood Moon. On entend au loin des otaries mais je n'en ai vu aucune. Au final on est bien agré est on décide de passer la nuit là.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600675993/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4463/36600675993_c4f4bab1c3_b.jpg" width="1024" height="255" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37270057961/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4439/37270057961_39c4620474_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560232754/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4459/36560232754_54713755d9_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
-De retour à Thor on trouve une amende de 48$ car nous nous sommes garés à cheval sur deux emplacement dans le sens de la longeur. Le parking est toujours vide… puis départ à l’Ouest de Seattle pour observer une autre skyline et une blood Moon, séance photos de nuit. On entend au loin des phoques.
-Nous restons là pour la nuit.
+
+
+
 
 ## 05 septembre
 
