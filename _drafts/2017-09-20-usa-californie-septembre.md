@@ -116,9 +116,11 @@ Malgrè la fumée, nous arrivons quand même à passer deux jours dans le parc n
 Départ de Crater Lake. On s’arrête à Klamath Falls pour faire le plein de Propane et de Gazoline puis les courses au Walmart.
 Nous reprenons la direction de **Lava Bed National Monument**. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-12-usa-lavabeds %}">ici</a>)**. Nous sommes le 11/09, toutes les bannières étoilées sont en berne.  
 
-Nous partons en suite vers le Lassen Volcanic NP et quitons l'Etat de l'Oregon pur celui de la Californie, dernier Etat de notre road trip de 2017. Après quelques kilomètres à l’intérieur de l’Etat, tous les véhicules doivent passer un contrôle sanitaire, les lois de l'Eatat étant très sévères. Malheureusement nous transportons deux oranges clandestine qui n’avaient pas leurs papiers pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau…  
+Nous partons en suite vers le Lassen Volcanic NP et quitons l'Etat de l'Oregon pur celui de la Californie, dernier Etat de notre road trip de 2017. Après quelques kilomètres à l’intérieur de l’Etat, tous les véhicules doivent passer un contrôle sanitaire, les lois de l'Eatat étant très sévères. Malheureusement nous transportons deux oranges clandestine qui n’avaient pas leurs papiers pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau… Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques place. 
 
-Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques place.  
+<p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
+Le système est simple, on s'arrêt à l'entrée voir les préconisations, le plan, les servics et le prix de la nuité et on récupère dans une boite une enveloppe spécifique. On cherche un emplacement de libre dans le camping, on stationne le camping-car et on renseigne les deux volets de l'enveloppe. On découpe la première partie que l'on accroche à un poteau où figure le N° du site, on met l'argent dans l'enveloppe en fonction du nombre de nuitée que l'on vient déposer à l'entrée dans un emplacement dédié. Il est également possible de payer par CB en renseignant uen autre partie de l'enveloppe. Les Parcs Rangers récupèrent les enveloppe et font le tour matin et soir du camping pour vérifier.
+</p>
 
 
 ## 12 septembre
@@ -130,7 +132,6 @@ Après une nuit pluivieuse, ce matin grand beau temps. Nous faisons les Dump et 
 Nous faisons route en fin de journée vers San Francisco. Nous quittons les sentiers battus pour rejoindre les grands axes. Nous allons ainsi longés des centaines de kilomètres de plantations d'arbres fruitiers et à ma grande surprise, des hactares d'oliviers. Nous nous arrêtons pour la nuit à Vaccaville. 
 
 ## 13 au 18 septembre
-
 
 **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-18-usa-san-francisco %}">ici</a>)**.
 
