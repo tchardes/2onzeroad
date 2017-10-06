@@ -139,7 +139,7 @@ La logistique réglée nous traversons la baie par le pont "Bay Bridge" (6$) et 
 
 Nous passons les 5 jours suivants dans la visite de la ville qui nous a vraiment plu **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-18-usa-san-francisco %}">ici</a>)**.   
 
-Dans la soirée du 1§ septembre, un policier vient taper à la porte de Thor. Il nous explique qu'il est interdit de stationner à cet endroit pour la nuit et nous demande de quitter les lieux à la levée du jour. Le lendemain on quitte notre bivouac au milieu des eucalyptus et trouvons une place pour la journée non loin dans la marina. Le soir on tourne un peu dans le quartier et on trouve une place pas trop bruyante pour notre dernière nuit.  
+Dans la soirée du 16 septembre, un policier vient taper à la porte de Thor. Il nous explique qu'il est interdit de stationner à cet endroit pour la nuit et nous demande de quitter les lieux à la levée du jour. Le lendemain on quitte notre bivouac au milieu des eucalyptus et trouvons une place pour la journée non loin dans la marina. Le soir on tourne un peu dans le quartier et on trouve une place pas trop bruyante pour notre dernière nuit.  
 
 ## 19 au 21 septembre  
 
