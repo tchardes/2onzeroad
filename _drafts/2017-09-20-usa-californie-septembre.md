@@ -33,7 +33,7 @@ Après avoir passé la frontière, nous filons sur Seattle et allons directement
 
 ## 04 septembre
 
-Nous quittons notre bivouac et passons par la **Troll Avenue** pour rendre visite à un troll des montagnes coincé sous un pont, une coccinnele dans la main. En route vers le centre ville de Seattle, nous passons par le quartier de Fremont qui présente la particularité d'exposer en plein rue, aux Etats-Unis, une statue de Lennine. L'histoire de cette "oeuvre" est assez rocanbolesque, pour en savoir plus : **[Cliquez ici](https://fr.wikipedia.org/wiki/Statue_de_L%C3%A9nine_(Seattle))**.    
+Nous quittons notre bivouac et passons par la **Troll Avenue** pour rendre visite à un troll des montagnes coincé sous un pont, une coccinnele dans la main. En route vers le centre ville de Seattle, nous passons par le quartier de Fremont qui présente la particularité d'exposer en plein rue, aux Etats-Unis, une statue de Lennine. L'histoire de cette "oeuvre" est assez rocambolesque, pour en savoir plus : **[Cliquez ici](https://fr.wikipedia.org/wiki/Statue_de_L%C3%A9nine_(Seattle))**.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600700643/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4439/36600700643_b683517e77_b.jpg" width="1024" height="683" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
