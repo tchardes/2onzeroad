@@ -103,7 +103,7 @@ Ce musée à la particularité d’exposer **Spuce Goose**, l’énorme hydravio
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412933995/in/datetaken/" title="McMinnville - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4349/37412933995_a1489d4818_b.jpg" width="1024" height="576" alt="McMinnville - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Très belle visite. D'anciens pilotes sont là avec des tenues couvertes d'ecuisson, vous pouvez pendre votre repas avec eux, et répondent à toutes vos question. Encore un bon exemple de l'utilisation de l'expérience des anciens au bénéfice des plus jeunes. Le prix inclu au choix parmi plusieurs, de voir un film sur écran Imax. Nous sommes dans la région de Seattle, donc de Boeing, et j'ai choisi un film sur le sursaut de l'entreprise après la sortie de l'A380 et l'épopée du Dreamliner. Nous partons ensuite en direction de Crater Lake NP, nous nous posons pour la nuit à Cottage Grove.
+Très belle visite. D'anciens pilotes sont là avec des tenues couvertes d'ecuisson, vous pouvez pendre votre repas avec eux, et répondent à toutes vos question. Encore un bon exemple de l'utilisation de l'expérience des anciens au bénéfice des plus jeunes. Le prix inclu au choix parmi plusieurs, de voir un film sur écran Imax. Nous sommes dans la région de Seattle, donc de Boeing, et j'ai choisi un film sur le sursaut de l'entreprise après la sortie de l'A380 et l'épopée du Dreamliner. Nous partons ensuite en direction de Crater Lake NP, nous nous posons pour la nuit à Cottage Grove.  
 
 ## 09 et 10 septembre  
 
@@ -118,7 +118,7 @@ Nous reprenons la direction de **Lava Bed National Monument**. **(voir l’artic
 
 Nous partons en suite vers le Lassen Volcanic NP et quitons l'Etat de l'Oregon pur celui de la Californie, dernier Etat de notre road trip de 2017. Après quelques kilomètres à l’intérieur de l’Etat, tous les véhicules doivent passer un contrôle sanitaire, les lois de l'Eatat étant très sévères. Malheureusement nous transportons deux oranges clandestine qui n’avaient pas leurs papiers pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau…  
 
-Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques place.
+Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques place.  
 
 
 ## 12 septembre
