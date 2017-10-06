@@ -72,52 +72,58 @@ Nous faisons le tour de la ville à pied avec le plan récupéré au visitor cen
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37269945571/in/datetaken/" title="Port Townsend - Washington - [USA]"><img src="https://farm5.staticflickr.com/4501/37269945571_f54c1319d9_b.jpg" width="1024" height="576" alt="Port Townsend - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-Nous poursuivons notre route vers **Dungeness** pour voir une bande de sable, de 9km de long, soit disant le pus longue au monde si l’on en croit le guide. Il forme en fait une petite lagune, rien d’extraordianire. Sur les petites routes pour y accéder, nous voyons de très belles villas avec de nombreuses biches dans les jardins, jusqu’à 7 dans l’une d’elles. Nous passons à **Sequim** qui se vante d’être la capitale de la lavande de l’amérique du Nord. Effectivement nous avons vu quelques champs de lavandes.
+Nous poursuivons notre route vers **Dungeness** pour voir une bande de sable, de 9km de long, soit disant le pus longue au monde si l’on en croit le guide. Il forme en fait une petite lagune, rien d’extraordianire. Sur les petites routes pour y accéder, nous voyons de très belles villas avec de nombreuses biches dans les jardins, jusqu’à 7 dans l’une d’elles. Nous passons à **Sequim** qui se vante d’être la capitale de la lavande de l’amérique du Nord. Effectivement nous avons vu quelques champs de lavandes.  
 
-Nous arrivons à **Port Angeles** ou nous nous posons dans un Walmart après avoir fait le pleins de gazoline. Sur le parking nous voyons arriver un RV de 19’ se garer à côté de nous et je vois un drapeau français collé sur la fenêtre. Nous faisons ainsi connaissance d’un couple de retraité varois, qui en sont à leur deuxième séjour de 6 mois en Amérique de Nord et pense déjà au troisième. Nous parlons un bon moment ensemble.
+Nous arrivons à **Port Angeles** ou nous nous posons dans un Walmart après avoir fait le pleins de gazoline. Sur le parking nous voyons arriver un RV de 19’ se garer à côté de nous et je vois un drapeau français collé sur la fenêtre. Nous faisons ainsi connaissance d’un couple de retraité varois, qui en sont à leur deuxième séjour de 6 mois en Amérique de Nord et pense déjà au troisième. Nous parlons un bon moment ensemble.  
 
-## 06 septembre
+## 06 septembre  
 
-Nous nous arrêtons au visitor Center du Olympic National Park qui se situe dans la ville de Port Angeles avant de s'engager sur la Hurricane Ridge road jusqu'au **Hurricane Ridge Visitor Center**. Arrivé au sommet, l’ensemble du parc est noyé dans une épaisse fumée provenant des nombreux feux de foret dans la région. Nous restons là toute la journée dans l'espoir que le soleil perce et j'en profite d’avoir de l’électricité pour traiter les photos. Finalement 
-A partir de demain il pleut, nous décidons de descendre vers le sud au Mont St Helens.
+Nous nous arrêtons au visitor Center du Olympic National Park qui se situe dans la ville de Port Angeles avant de s'engager sur la Hurricane Ridge road jusqu'au **Hurricane Ridge Visitor Center**. Arrivé au sommet, l’ensemble du parc est noyé dans une épaisse fumée provenant des nombreux feux de foret dans la région. Nous restons là toute la journée dans l'espoir que le soleil perce et j'en profite des commodités pour traiter les photos. Finalement les Park Rangers nous expliquent que les feux ne sont pas pret d'être circoncie et que de toutes les façons, le prochains jours seront plusvieux. Nous décidons donc de quitter la zone et descendre vers le sud.  
 
-## 07 septembre
+## 07 septembre  
 
-Ce matin le temps est couvert on traine au walmart, je m’occupe des papiers pour l’achat d’une de mes photos, puis je me décide à retourner chez le coiffeur pour qu’il m’arrange un peu la tête, bon c’est pas pire mais rien qu’en la voyant faire je savais que le résultat serait moyen, tout juste.
-Départ pour voir le Mont St Helens, volcan qui a explosé dans les années 80 eventrant la montagne. Nous nous arrêtons au visitor center, un web cam filme en continu le mont qui est carrément dans les nuages. De la pliie est annocée pour les prochains jours, on décide donc de descendre sur Portland où la méteo est meilleure. Avant cela on fait un petit trail le tour d’une zone humide histoire de nous dégourdir un peu les jambes.
-Arrêt dans un Walmart pour la nuit.
+Le temps est encore couvert mais il ne pleut pas. On traine au walmart et je m’occupe des papiers pour l’achat d’une de mes photos par un éditeur américain, puis je me décide à retourner chez le coiffeur pour qu’il m’arrange un peu. Départ ensuite pour le **Mont St Helens**, volcan qui a explosé dans les années 80 eventrant la montagne. Nous nous arrêtons au visitor center où une web cam filme en continu le mont qui est carrément dans les nuages et fumées, ça brule ici aussi. De la pluie est annoncée pour les prochains jours, on décide donc de descendre sur Portland où la méteo semble plus clémente. Avant cela on fait un petit trail qui fait le tour d’une zone humide, histoire de nous dégourdir un peu les jambes.  
 
-## 08 septembre
+## 08 septembre  
 
-Ce matin le temps et de nouveau gris. Après le plein on décide d’emprunter  la scenic drive, Historic Columbia River Hwy qui permet de voir plus de 90 cascades, certaines sont très belles. Arrivés à quelques centaine de mètres de la première on nous arrête sur la route pour nous dire qu’en raison d’incendies de forêt, la route est fermée. Il est vrai que c’est très sec, l’herbe est toute jaune.
-Les jours prochains sont annoncés comme pluvieux, on décide donc de poursuivre notre route vers le sud, en espèrant qu’il n’y ait pas de feux.
-On s’arrête à McMinnville pour visiter le 
-Evergreen Aviation & Space Museum. Ce musée est vraiment magnifique et se réparti dans 4 grands batiments, un pour l’aviation, un pour l’espace et le dernier qui abrite un cinéma Imax, le dernier est un parc aquatique. Sur son toit un Boeing 747 depuis lequel partent de tobogans. Ce musée à la particularité d’exposer Spuce Goose, l’énorme hydravion construit en 1947 par le miliardaire Howard Hugues. Cet avion qui n’aura volé qu’un mile et plus haut et plus large qu’un A380 et guere plus court. Très belle visite.
-Nprenons ensuite la direction du sud pour visiter Crater Lake, nous nous posons pour la nuit à Cottage Grove.
+Ce matin le temps est toujours maussade. Après le plein on décide d’emprunter la scenic drive, **Historic Columbia River Hwy** qui permet de voir plus de 90 cascades, dont certaines très belles. Arrivés à quelques centaine de mètres de la première on nous arrête sur la route pour nous dire qu’en raison d’incendies de forêt, la route est fermée pour une durée indéterminée. Il est vrai que nous avons remarqué, depuis notre arrivée aux USA qu'il fait très chaud et la nature est très sèche. Une nouvelle fois nous décidons de poursuivre notre route vers le sud, en espèrant qu’il n’y ait pas de feux. Si cela continu à va se retrouver rapidement au Mexique…  
 
-## 09 et 10 septembre
+Journée pluvieuse journée musée. On s’arrête à McMinnville pour visiter le **Evergreen Aviation & Space Museum**, (27$/Pers.). Ce musée est vraiment magnifique et se réparti dans 4 grands batiments, un pour l’aviation, un pour l’espace, le troisième qui abrite un cinéma Imax et le dernier est un parc aquatique. Sur son toit un Boeing 747 depuis lequel partent des tobogans.  
 
-Crater Lake
-
-**(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-11-usa-craterlake %}">ici</a>)**.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560660054/in/datetaken/" title="McMinnville - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4449/36560660054_04134c90a0_b.jpg" width="1024" height="576" alt="McMinnville - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
-## 11 septembre
+Ce musée à la particularité d’exposer **Spuce Goose**, l’énorme hydravion construit en 1947 par le miliardaire Howard Hugues. Cet avion qui n’aura volé qu’un mile et plus haut et plus large qu’un A380 et guère plus court. 
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600971403/in/datetaken/" title="McMinnville - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4395/36600971403_6e2eee704d_b.jpg" width="1024" height="576" alt="McMinnville - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-**(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-12-usa-lavabeds %}">ici</a>)**.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600976363/in/datetaken/" title="McMinnville - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4399/36600976363_599fd96019_b.jpg" width="1024" height="576" alt="McMinnville - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Départ de Crtater Lake, on s’arrête à Klamath Falls pour faire le plein de Propane et de Gazoline puis courses au Walmart.
-Nous reprenons la direction de Lava Bed National Monument.  La route longe d’immense étendue de lave au relief très acéré où malgrè le temps, la nature n’pas repris ces drits, le lieux s’appelle dailleur Hevil Valley. Après une visite au visitor center pour récupérer les informations, nous faisons la Cave Loop Road où de nombreuses caverne dans la lave sont accéssibles, j’en fais deux, Gold Dome et Sunshine Cave. Ce sont des tubes qui se sont formés dans la lave, rien de spécial à voir.
-Je fais ensuite un trail de 3,4 Km qui demarre le long de la caldera du « Mammoth crater » puis sillone dnas un plaine au milieu des morceaux de lave et de la végétation avant de revenir sur le volcan.
-Nous partons en suite vers le Lassen Volcanic NP et passons pour l’occasion dan sl’Etat de la Californie, dernier de notre road trip de 2017. Quelques kilomètres à l’intérieur de l’Etat, tous les véhicule passe à un contrôle sanitaire, nous y échapons pas ainsi que deux oranges clandestine qui n’avait pas leur papier pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau….
-Arrivés au parc nous nous dirigeons au Camping du parc où il reste quelques place.
-Nous sommes le 11/09 tous les drapeaux sont en berne.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560652604/in/datetaken/" title="McMinnville - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4348/36560652604_b174b27552_b.jpg" width="1024" height="576" alt="McMinnville - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560652604/in/datetaken/" title="McMinnville - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4348/36560652604_b174b27552_b.jpg" width="1024" height="576" alt="McMinnville - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Très belle visite. D'anciens pilotes sont là avec des tenues couvertes d'ecuisson, vous pouvez pendre votre repas avec eux, et répondent à toutes vos question. Encore un bon exemple de l'utilisation de l'expérience des anciens au bénéfice des plus jeunes. Le prix inclu au choix parmi plusieurs, de voir un film sur écran Imax. Nous sommes dans la région de Seattle, donc de Boeing, et j'ai choisi un film sur le sursaut de l'entreprise après la sortie de l'A380 et l'épopée du Dreamliner. Nous partons ensuite en direction de Crater Lake NP, nous nous posons pour la nuit à Cottage Grove.
+
+## 09 et 10 septembre  
+
+Malgrè la fumée, nous arrivons quand même à passer deux jours dans le parc national de Crater Lake que nous avons aprécié **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-11-usa-craterlake %}">ici</a>)**.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37223739326/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4477/37223739326_66dc5dbffa_b.jpg" width="1024" height="576" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+## 11 septembre  
+
+Départ de Crater Lake. On s’arrête à Klamath Falls pour faire le plein de Propane et de Gazoline puis les courses au Walmart.
+Nous reprenons la direction de **Lava Bed National Monument**. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-12-usa-lavabeds %}">ici</a>)**. Nous sommes le 11/09, toutes les bannières étoilées sont en berne.  
+
+Nous partons en suite vers le Lassen Volcanic NP et quitons l'Etat de l'Oregon pur celui de la Californie, dernier Etat de notre road trip de 2017. Après quelques kilomètres à l’intérieur de l’Etat, tous les véhicules doivent passer un contrôle sanitaire, les lois de l'Eatat étant très sévères. Malheureusement nous transportons deux oranges clandestine qui n’avaient pas leurs papiers pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau…  
+
+Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques place.
+
 
 ## 12 septembre
 
-Après une nuit pluivieuse, ce matin grand beau temps. Nous faisons les Dump et plein d’eau et quittons le Camping. Nous faisons le tour du Lac Mirroir et du lac Manzanita avant de prendre la Volcanic Legacy Scenic Byway qui traverse le parc qui se compose de trois zones avec chacune un accés différent. Nous nous arrêtons à « Devastated Aera » qui présente un petit trail pédagogique qui explique les dernières éruptions et montre des monolites énormes de pusieurs dizaines de tonnes provenant directement de volcan dont la dernière eruption date de 1915. Ensuite nous faisons une halte à Summit Lake, puis Kings Creek Area où je fais le trail « Cold Boiling Lake » (2,2 Kms +10 mètres) qui au travers d’une très belle forêt mène à un petit lac où des bulles remontent à la surface témoignant de l’activité Géothermique. Nous poursuivons la route et passons un col à plus de 3000 mètres encore passablement eneigé jusqu’au « Bumpass Hell » pour faire un trail qui mène (4,2 Km, 100 mètres) à une zone de fumerolles et mares bouillonantes, un très petit Yellowstone. L’orage approche et nous quitons le parc après une arrêt à «Sulphur Works », autre phénomène géothermique.
-Puis route vers SF et arrêt pour la nuit à Vacaville.
+Après une nuit pluivieuse, ce matin grand beau temps. Nous faisons les Dump et plein d’eau et quittons le Camping à la découverte du **Lassen Volcanic National Park**, **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-13-usa-lassen %}">ici</a>)**. Nous passons une très belle journée. Nous faisons route en fin de journée vers San Francisco. Nous quittons les sentiers battus pour rejoindre les grands axes. Nous allons ainsi longés des centaines de kilomètres de plantations d'arbres fruitiers et à ma grande surprise, des hactares d'oliviers. Nous nous arrêtons pour la nuit à Vaccaville. 
 
 ## 13 au 18 septembre
 
