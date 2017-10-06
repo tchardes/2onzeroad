@@ -49,7 +49,7 @@ La circulation en ville est très fluide et nous trouvons facilement une place s
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412590305/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4344/37412590305_72c7c5ee86_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-De retour à Thor, on trouve une amende de 48$ car nous nous sommes garés à cheval sur deux emplacements dans le sens de la longueur. Le parking est toujours aussi vide… On s'acquitte de la prune par Internet et on quitte le centre ville pour le quartier North admiral pour une séance de photos de nuit d'une autre vue de la skyline de la ville ainsi qu'une lune toute rouge, peut-être une Blood Moon. On entend au loin des otaries mais je n'en ai vu aucune. Au final, on est bien garé et on décide de passer la nuit là.  
+De retour à Thor, on trouve une amende de 48$ car nous nous sommes garés à cheval sur deux emplacements dans le sens de la longueur. Le parking est toujours aussi vide… On s'acquitte de la prune par Internet et on quitte le centre ville pour le quartier North Admiral pour une séance de photos de nuit d'une autre vue de la skyline de la ville ainsi qu'une lune toute rouge, peut-être une Blood Moon. On entend au loin des otaries mais je n'en ai vu aucune. Au final, on est bien garé et on décide de passer la nuit là.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600675993/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4463/36600675993_c4f4bab1c3_b.jpg" width="1024" height="255" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -144,3 +144,4 @@ Dans la soirée du 16 septembre, un policier vient taper à la porte de Thor. Il
 ## 19 au 21 septembre  
 
 Nous quittons San Francisco pour nous rendre dans le camping que nous avons réservé à Oakland. Nous bénéficions de tous les branchements et préparons Thor pour ces quelques mois de repos. Le 21 nous le déposons et faisons les papiers puis nous prenons un taxi pour nous rendre à l'aéroport de Oakland, décollage en fin de journée pour Paris avec une escale à Stockholm.  
+
