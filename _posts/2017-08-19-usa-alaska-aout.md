@@ -14,7 +14,7 @@ category: "roadmap"
 flickr-tag: "Alaska"
 location: "64.182870, -151.783586"
 itinary: "alaska.json"
-mapZoom: 5
+mapZoom: 4
 
 ---
 
