@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt11.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt11.jpg
 tags: []
-country: USA - Orégon
+country: USA - Oregon
 category: "roadmap"
 flickr-tag: ""
 location: "42.642841, -122.887619"
@@ -57,7 +57,6 @@ De retour à Thor, on trouve une amende de 48$ car nous nous sommes garés à ch
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560232754/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4459/36560232754_54713755d9_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
 ## 05 septembre  
 
 Départ de Seattle en direction de **Olympic National Park**, sous les nuages. Nous nous arrêtons à **Port Townsend** pour voir une partie des 200 villas de type victorien datant de la fin du 19 ème et dont certaines ont été entièrement restaurées. Nous y arrivons pour le déjeuner et faisons halte dans un quartier résidentiel, devant une propriété. Je vois la propriétaire prendre son courrier et je lui demande son aval, elle accepte spontanément. Durant le repas, nous voyons un jeune cerf arriver, commencer à brouter puis se coucher dans le jardin…   
@@ -92,7 +91,6 @@ Journée pluvieuse, journée musée. On s’arrête à McMinnville pour visiter 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560660054/in/datetaken/" title="McMinnville - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4449/36560660054_04134c90a0_b.jpg" width="1024" height="576" alt="McMinnville - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
 Ce musée a la particularité d’exposer **Spuce Goose**, l’énorme hydravion construit en 1947 par le milliardaire Howard Hugues. Cet avion qui n’aura volé qu’un mile est plus haut et plus large qu’un A380 et guère plus court.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600971403/in/datetaken/" title="McMinnville - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4395/36600971403_6e2eee704d_b.jpg" width="1024" height="576" alt="McMinnville - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
@@ -116,14 +114,14 @@ Malgré la fumée, nous arrivons quand même à passer deux jours dans le parc n
 Départ de Crater Lake. On s’arrête à Klamath Falls pour faire le plein de Propane et de Gazoline puis les courses au Walmart.
 Nous reprenons la direction de **Lava Bed National Monument**. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-12-usa-lavabeds %}">ici</a>)**. Nous sommes le 11/09, toutes les bannières étoilées sont en berne.  
 
-Nous partons ensuite vers le Lassen Volcanic NP et quittons l'Etat de l’Oregon pour celui de la Californie, dernier Etat de notre road trip de 2017. Après quelques kilomètres à l’intérieur de l’Etat, tous les véhicules doivent passer un contrôle sanitaire, les lois de l'Etat étant très sévères. Malheureusement, nous transportons deux oranges clandestines qui n’avaient pas leurs papiers pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau… Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques places. 
+Nous partons ensuite vers le Lassen Volcanic NP et quittons l'Etat de l’Oregon pour celui de la Californie, dernier Etat de notre road trip de 2017. Après quelques kilomètres à l’intérieur de l’Etat, tous les véhicules doivent passer un contrôle sanitaire, les lois de l'Etat étant très sévères. Malheureusement, nous transportons deux oranges clandestines qui n’avaient pas leurs papiers pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau… Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques places.  
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>  
 Le système des Campgrounds dans les Parks est simple, on s'arrête à l'entrée voir les préconisations, le plan, les services et le prix de la nuitée et on récupère dans une boite une enveloppe spécifique. On cherche un emplacement de libre dans le camping, on stationne le camping-car et on renseigne les deux volets de l'enveloppe. On découpe la première partie que l'on accroche à un poteau où figure le N° du site, on met l'argent dans l'enveloppe en fonction du nombre de nuitée que l'on vient déposer à l'entrée dans un emplacement dédié. Il est également possible de payer par CB en renseignant une autre partie de l'enveloppe. Les Parcs Rangers récupèrent les enveloppes et font le tour matin et soir du camping pour vérifier.  
-</p>
+</p>  
 
 
-## 12 septembre  
+## 12 septembre   
 
 Après une nuit pluvieuse, ce matin grand beau temps. Nous faisons les Dump et plein d’eau et quittons le Camping à la découverte du **Lassen Volcanic National Park**, **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-13-usa-lassen %}">ici</a>)**. Nous passons une très belle journée.  
 
@@ -141,7 +139,7 @@ Nous passons les 5 jours suivants dans la visite de la ville qui nous a vraiment
 
 Dans la soirée du 16 septembre, un policier vient taper à la porte de Thor. Il nous explique qu'il est interdit de stationner à cet endroit pour la nuit et nous demande de quitter les lieux à la levée du jour. Le lendemain on quitte notre bivouac au milieu des eucalyptus et trouvons une place pour la journée non loin dans la marina. Le soir on tourne un peu dans le quartier et on trouve une place pas trop bruyante pour notre dernière nuit.  
 
-## 19 au 21 septembre  
+## 19 au 21 septembre   
 
-Nous quittons San Francisco pour nous rendre dans le camping que nous avons réservé à Oakland. Nous bénéficions de tous les branchements et préparons Thor pour ces quelques mois de repos. Le 21 nous le déposons et faisons les papiers puis nous prenons un taxi pour nous rendre à l'aéroport de Oakland, décollage en fin de journée pour Paris avec une escale à Stockholm.  
+Nous quittons San Francisco pour nous rendre dans le camping que nous avons réservé à Oakland. Nous bénéficions de tous les branchements et préparons Thor pour ces quelques mois de repos. Le 21 nous le déposons et faisons les papiers puis nous prenons un taxi pour nous rendre à l'aéroport de Oakland, décollage en fin de journée pour Paris avec une escale à Stockholm.   
 
