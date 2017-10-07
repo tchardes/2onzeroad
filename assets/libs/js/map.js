@@ -11,6 +11,7 @@ function initMap() {
     //loop through all the mapping elements
     $(".mapping").each(function() {
       var itinary = $(this).attr('itinary');
+      var zoom = $(this).attr('zoom');
       var hideMarkers = $(this).attr('hideMarkers');
       var mapId = $(this).attr('mapId');
       var mapMarkers = [];
@@ -19,7 +20,7 @@ function initMap() {
 
       // initialize the map canvas
       $(this).find('.map-canvas').each(function() {    
-        map = getMap(this, mapId, googleStyle);
+        map = getMap(this, mapId, googleStyle, zoom);
         bounds = new google.maps.LatLngBounds();
       });
 
@@ -178,15 +179,15 @@ function loadKmlLayer(src, map) {
   });
   }
 
-function getMap(canvas, mapId, googleStyle) {
+function getMap(canvas, mapId, googleStyle, zoom) {
 
   // set a default zoom unless it's specified
-  zoom = parseInt($(canvas).attr('zoom')) || 8;
+  // zoom = parseInt($(canvas).attr('zoom')) || 8;
 
   // center the map and create options
   var latlng = new google.maps.LatLng(0, 0);
   var myOptions = {
-    zoom: zoom,
+    zoom: parseInt(zoom),
     center: latlng,
     scrollwheel: false,
     mapTypeControl: false,

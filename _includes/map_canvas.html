@@ -4,7 +4,12 @@
     {% assign hideMarkers = include.hideMarkers %}
 {% endif %}
 
-<div class="mapping" hideMarkers="{{hideMarkers}}" googleStyle="{{include.googleStyle}}" mapId="{{include.id}}" style="display:none;" {% if page.itinary and include.displayItinary %} itinary="{{ site.baseurl }}/assets/owner/itinaries/{{ page.itinary }}" {% endif %} >
+{% assign mapZoom = 6 %}
+{% if post.mapZoom %}
+    {% assign mapZoom = post.mapZoom %}
+{% endif %}
+
+<div class="mapping" hideMarkers="{{hideMarkers}}" zoom="{{mapZoom}}" googleStyle="{{include.googleStyle}}" mapId="{{include.id}}" style="display:none;" {% if page.itinary and include.displayItinary %} itinary="{{ site.baseurl }}/assets/owner/itinaries/{{ page.itinary }}" {% endif %} >
     <div class="map-canvas" id="map-event"></div>
     {% if include.relatedPosts %}
         {% assign postsToDisplay = include.relatedPosts | push: page %}
