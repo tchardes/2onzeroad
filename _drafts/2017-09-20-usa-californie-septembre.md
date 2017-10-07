@@ -12,8 +12,10 @@ tags: []
 country: USA - Oregon
 category: "roadmap"
 flickr-tag: ""
-location: "42.642841, -122.887619"
+location: "43.950425, -120.660369"
 itinary: "oregon.json"
+mapZoom: 5
+
 
 ---
 

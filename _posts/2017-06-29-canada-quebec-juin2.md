@@ -12,8 +12,9 @@ tags: []
 country: Canada - Québec
 category: "roadmap"
 flickr-tag: "Québec"
-location: "46.537649, -74.668428"
+location: "45.761127, -75.407235"
 itinary: "canada2.json"
+mapZoom: 6
 
 ---
 

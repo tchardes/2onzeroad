@@ -15,6 +15,7 @@ category: "roadmap"
 flickr-tag: "Floride"
 location: "26.656032, -80.580994"
 itinary: "floride1.json"
+mapZoom: 7
 
 ---
 

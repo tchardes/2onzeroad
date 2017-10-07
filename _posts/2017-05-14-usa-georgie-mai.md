@@ -12,8 +12,10 @@ tags: []
 country: USA - Virginie
 category: "roadmap"
 flickr-tag: ""
-location: "36.414880, -79.073924"
+location: "35.293198, -79.317123"
 itinary: "brpw.json"
+mapZoom: 6
+
 
 ---
 

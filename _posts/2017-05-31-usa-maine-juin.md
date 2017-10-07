@@ -12,8 +12,9 @@ tags: []
 country: USA - Maine
 category: "roadmap"
 flickr-tag: ""
-location: "41.920770, -73.032185"
+location: "42.196436, -72.942761"
 itinary: "estusa.json"
+mapZoom: 6
 
 ---
 

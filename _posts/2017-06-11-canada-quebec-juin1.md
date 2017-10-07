@@ -14,6 +14,7 @@ category: "roadmap"
 flickr-tag: "Québec"
 location: "46.505981, -65.874279"
 itinary: "canada1.json"
+mapZoom: 6
 
 ---
 Cinquième article de type carnet de route, il couvre la période 30 mai au 10 juin 2017 durant laquelle nous avons passé la frontière du Canada et traversé les Etats du Nouveau Brunswick, de la Nouvelle Ecosse et de l'Ile du Prince Edouard.  

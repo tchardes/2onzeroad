@@ -12,7 +12,7 @@ tags: []
 country: USA - Alaska
 category: "roadmap"
 flickr-tag: "Alaska"
-location: "63.359299, -151.783586"
+location: "63.008728, -151.326078"
 itinary: "alaska.json"
 mapZoom: 5
 
