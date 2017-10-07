@@ -16,11 +16,9 @@ location: "43.950425, -120.660369"
 itinary: "oregon.json"
 mapZoom: 5
 
-
 ---
 
 Onzième et dernier article de type carnet de route, il couvre la période du 03 au 20 septembre durant laquelle nous avons traversé les Etats de Washington, de l'Oregon et une partie de la Californie.  
-
 
 ## 03 septembre  
 
