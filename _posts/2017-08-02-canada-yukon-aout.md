@@ -13,7 +13,7 @@ country: Canada - Yukon
 category: "roadmap"
 flickr-tag: "Yukon"
 location: "57.591294, -124.099907"
-itinary: "canada2.json"
+itinary: "canada3.json"
 
 ---
 
