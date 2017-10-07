@@ -14,6 +14,7 @@ category: "roadmap"
 flickr-tag: "Yukon, Colombie Britannique"
 location: "54.221882, -125.543593"
 itinary: "colombie.json"
+mapZoom: 5
 
 ---
 
