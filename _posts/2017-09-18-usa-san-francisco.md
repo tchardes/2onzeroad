@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-frisco.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-frisco.jpg
 tags: [capitale, architecture, art, mer-ocean]
-flickr-tag: "Francisco"
+flickr-tag: "San-Francisco"
 country: USA - Californie
 city: San Francisco
 category: "blog"
