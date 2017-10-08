@@ -22,7 +22,7 @@ Onzième et dernier article de type carnet de route, il couvre la période du 03
 
 ## 03 septembre  
 
-Après avoir passé la frontière, nous filons sur Seattle et allons directement au **Gaz Work Parc**, un très beau parc où se trouve encore le squelette d’une ancienne usine de gaz, au bord de "Union Lake", face à la skyline de Seattle. De nombreuses personnes lézardent aux derniers rayons de soleil, pique nique, profitent de la vue. J'en profite pour une petite séance photo jusqu'à la nuit noire. Nous trouvons, ensuite, un bivouac non loin du parc dans un quartier résidentiel, on se fait discret…  
+Après avoir passé la frontière, nous filons sur Seattle et allons directement au **Gaz Work Parc**, un très beau parc où se trouve encore le squelette d’une ancienne usine de gaz, au bord de "Union Lake", face à la skyline de Seattle. De nombreuses personnes lézardent aux derniers rayons de soleil, pique-nique, profitent de la vue. Je me paye une petite séance photo jusqu'à la nuit noire. Nous trouvons, ensuite, un bivouac non loin du parc dans un quartier résidentiel, on se fait discret…  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412613695/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4467/37412613695_72fa823a7d_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -49,7 +49,7 @@ La circulation en ville est très fluide et nous trouvons facilement une place s
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412590305/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4344/37412590305_72c7c5ee86_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-De retour à Thor, on trouve une amende de 48$ car nous nous sommes garés à cheval sur deux emplacements dans le sens de la longueur. Le parking est toujours aussi vide… On s'acquitte de la prune par Internet et on quitte le centre ville pour le quartier North Admiral pour une séance de photos de nuit d'une autre vue de la skyline de la ville ainsi qu'une lune toute rouge, peut-être une Blood Moon. On entend au loin des otaries mais je n'en ai vu aucune. Au final, on est bien garé et on décide de passer la nuit là.  
+De retour à Thor, on trouve une amende de 48$ car nous nous sommes garés à cheval sur deux emplacements dans le sens de la longueur. Le parking est toujours aussi vide… On s'acquitte de la prune par Internet et on se dirige vers le quartier North Admiral pour une séance de photos de nuit d'une autre vue de la skyline de la ville ainsi qu'une lune toute rouge, peut-être une Blood Moon. On entend au loin des otaries mais je n'en ai vu aucune. Au final, on est bien garé et on décide de passer la nuit là.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600675993/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4463/36600675993_c4f4bab1c3_b.jpg" width="1024" height="255" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -77,11 +77,11 @@ Nous arrivons à **Port Angeles** où nous nous posons dans un Walmart après av
 
 ## 06 septembre  
 
-Nous nous arrêtons au visitor Center du Olympic National Park qui se situe dans la ville de Port Angeles avant de s'engager sur la Hurricane Ridge road jusqu'au **Hurricane Ridge Visitor Center**. Arrivés au sommet, l’ensemble du parc est noyé dans une épaisse fumée provenant des nombreux feux de forêt dans la région. Nous restons là toute la journée dans l'espoir que le soleil perce et j'en profite des commodités pour traiter les photos. Finalement, les Park Rangers nous expliquent que les feux ne sont pas prêts d'être circoncis et que, de toute façon, les prochains jours seront pluvieux. Nous décidons donc de quitter la zone et descendre vers le sud.  
+Nous nous arrêtons au visitor Center du Olympic National Park qui se situe dans la ville de Port Angeles avant de s'engager sur la Hurricane Ridge road jusqu'au **Hurricane Ridge Visitor Center**. Arrivés au sommet, l’ensemble du parc est noyé dans une épaisse fumée provenant des nombreux feux de forêt dans la région. Nous restons là toute la journée dans l'espoir que le soleil perce et je profite des commodités pour traiter les photos. Finalement, les Park Rangers nous expliquent que les feux ne sont pas prêts d'être circoncis et que, de toute façon, les prochains jours seront pluvieux. Nous décidons donc de quitter la zone et descendre vers le sud.  
 
 ## 07 septembre  
 
-Le temps est encore couvert mais il ne pleut pas. On traine au walmart et je m’occupe des papiers pour l’achat d’une de mes photos par un éditeur américain, puis je me décide à retourner chez le coiffeur pour qu’il m’arrange un peu. Départ ensuite pour le **Mont St Helens**, volcan qui a explosé dans les années 80 éventrant la montagne. Nous nous arrêtons au visitor center où une web cam filme en continu le mont qui est carrément dans les nuages et fumées, ça brule ici aussi. De la pluie est annoncée pour les prochains jours, on décide donc de descendre sur Portland où la météo semble plus clémente. Avant cela, on fait un petit trail qui fait le tour d’une zone humide, histoire de nous dégourdir un peu les jambes.   
+Le temps est encore couvert mais il ne pleut pas. On traine au walmart et je m’occupe des papiers pour l’achat d’une de mes photos par un éditeur américain, puis je me décide à retourner chez le coiffeur pour qu’il m’arrange un peu. Départ ensuite pour le **Mont St Helens**, volcan qui a explosé dans les années 80 éventrant la montagne. Nous nous arrêtons au visitor center où une web cam filme en continu le mont qui est carrément dans les nuages et fumées, ça brûle ici aussi. De la pluie est annoncée pour les prochains jours, on décide donc de descendre sur Portland où la météo semble plus clémente. Avant cela, on fait un petit trail qui fait le tour d’une zone humide, histoire de nous dégourdir un peu les jambes.   
 
 ## 08 septembre   
 
@@ -131,15 +131,15 @@ Nous faisons route, en fin de journée, vers San Francisco. Nous quittons les se
 
 ## 13 au 18 septembre   
 
-Nous faisons route jusqu'à Oakland pour trouver une entreprise de stockage (storage) pour Thor et un camping pour nos deux deniers jours sur le sol américain afin de préparer notre retour en France. J'ai déjà pris quelques contacts il y a un mois par mail et la deuxième entreprise est la bonne, Thor passera quelques mois sur l'ile d'Alameda en compagnie de nombreux camarades. Nous filons ensuite dans le seul camping de la région **Anthony Chabot Regional Park** et réservons pour deux nuitées.  
+Nous faisons route jusqu'à Oakland pour trouver une entreprise de stockage (storage) pour Thor et un camping pour nos deux derniers jours sur le sol américain afin de préparer notre retour en France. J'ai déjà pris quelques contacts il y a un mois par mail et la deuxième entreprise est la bonne, Thor passera quelques mois sur l'ile d'Alameda en compagnie de nombreux camarades. Nous filons ensuite dans le seul camping de la région **Anthony Chabot Regional Park** et réservons pour deux nuitées.  
 
-La logistique réglée nous traversons la baie par le pont "Bay Bridge" (6$) et arrivons directement en centre ville. Pas facile de circuler avec Thor, la tension est palpable dans la cabine… Corinne a repéré sur IOverlander un stationnement possible en plein parc du Presidio, on tente pour cette nuit.   
+La logistique réglée, nous traversons la baie par le pont "Bay Bridge" (6$) et arrivons directement en centre ville. Pas facile de circuler avec Thor, la tension est palpable dans la cabine… Corinne a repéré, sur IOverlander, un stationnement possible en plein parc du Presidio, on tente pour cette nuit.   
 
 Nous passons les 5 jours suivants dans la visite de la ville qui nous a vraiment plu **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-18-usa-san-francisco %}">ici</a>)**.   
 
-Dans la soirée du 16 septembre, un policier vient taper à la porte de Thor. Il nous explique qu'il est interdit de stationner à cet endroit pour la nuit et nous demande de quitter les lieux à la levée du jour. Le lendemain on quitte notre bivouac au milieu des eucalyptus et trouvons une place pour la journée non loin dans la marina. Le soir on tourne un peu dans le quartier et on trouve une place pas trop bruyante pour notre dernière nuit.  
+Dans la soirée du 16 septembre, un policier vient taper à la porte de Thor. Il nous explique qu'il est interdit de stationner à cet endroit pour la nuit et nous demande de quitter les lieux à la levée du jour. Le lendemain, on quitte notre bivouac au milieu des eucalyptus et trouvons une place pour la journée non loin dans la marina. Le soir, on tourne un peu dans le quartier et on trouve une place pas trop bruyante pour notre dernière nuit.  
 
 ## 19 au 21 septembre   
 
-Nous quittons San Francisco pour nous rendre dans le camping que nous avons réservé à Oakland. Nous bénéficions de tous les branchements et préparons Thor pour ces quelques mois de repos. Le 21 nous le déposons et faisons les papiers puis nous prenons un taxi pour nous rendre à l'aéroport de Oakland, décollage en fin de journée pour Paris avec une escale à Stockholm.   
+Nous quittons San Francisco pour nous rendre dans le camping que nous avons réservé à Oakland. Nous bénéficions de tous les branchements et préparons Thor pour ces quelques mois de repos. Le 20, nous le déposons et faisons les papiers puis nous prenons un taxi pour nous rendre à l'aéroport de Oakland, décollage en fin de journée pour Paris avec une escale à Stockholm.   
 
