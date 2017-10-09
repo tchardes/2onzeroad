@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "road trip du 30 mai au 10 juin 2017"
+title:   "Road trip du 30 mai au 10 juin 2017"
 preview:    "Cinquième article de type carnet de route, il couvre la période 30 mai au 10 juin 2017 durant laquelle nous avons passé la frontière du Canada et traversé..."
 parent-id:  2017-07-01-canada-quebec-bilan
 

@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "road trip du 14 au 30 mai 2017"
+title:   "Road trip du 14 au 30 mai 2017"
 preview:    "Quatrième article de type carnet de route, il couvre la période du 14 mai 31 mai 2017 durant lesquels nous avons traversé les états du..."
 parent-id:  2017-06-01-usa-maine-bilan
 

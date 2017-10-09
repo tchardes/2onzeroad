@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "road trip du 30 juin au 19 juillet 2017"
+title:   "Road trip du 30 juin au 19 juillet 2017"
 preview:    "Septième article de type carnet de route, il couvre la période du 30 juin au 19 juillet durant laquelle nous avons traversé les Etats..."
 parent-id:  2017-07-01-usa-nord-bilan
 
