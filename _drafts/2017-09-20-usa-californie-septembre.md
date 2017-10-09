@@ -43,11 +43,11 @@ La circulation en ville est très fluide et nous trouvons facilement une place s
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412593405/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4501/37412593405_05178b3e53_b.jpg" width="1024" height="322" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412590305/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4344/37412590305_72c7c5ee86_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600689523/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4400/36600689523_3766877a87_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560243444/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4392/36560243444_fbb11c14f8_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412590305/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4344/37412590305_72c7c5ee86_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 De retour à Thor, on trouve une amende de 48$ car nous nous sommes garés à cheval sur deux emplacements dans le sens de la longueur. Le parking est toujours aussi vide… On s'acquitte de la prune par Internet et on se dirige vers le quartier North Admiral pour une séance de photos de nuit d'une autre vue de la skyline de la ville, sous une lune toute rouge, peut-être une Blood Moon. On entend au loin des otaries mais je n'en ai vu aucune. Au final, on est bien garé et on décide de passer la nuit là.  
 
