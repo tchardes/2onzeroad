@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "Roadtrip du 30 juin au 19 juillet 2017"
+title:   "road trip du 30 juin au 19 juillet 2017"
 preview:    "Septième article de type carnet de route, il couvre la période du 30 juin au 19 juillet durant laquelle nous avons traversé les Etats..."
 parent-id:  2017-07-01-usa-nord-bilan
 
@@ -130,7 +130,7 @@ Cody se disant la capitale mondiale du rodéo, nous nous rendons à la sortie de
 
 ## 11 au 13 juillet  
 
-La visite de Yellowstone n'était pas prévue pour ce premier voyage de 6 mois aux USA, mais ayant un peu d'avance sur notre programme et ayant décidé ne pas faire un détour pour visiter le champ de bataille de Little BigHorn, nous le rajoutons à notre roadtrip.  
+La visite de Yellowstone n'était pas prévue pour ce premier voyage de 6 mois aux USA, mais ayant un peu d'avance sur notre programme et ayant décidé ne pas faire un détour pour visiter le champ de bataille de Little BigHorn, nous le rajoutons à notre road trip.  
 
 Départ de Cody pour l'entrée Sud-Est du parc. Je me rends compte en route que je n'ai plus de réseau, donc plus de téléphone, c’est le jour de changement de mois de mon forfait et toute la journée, je pense que Free a un souci et je commence à psychoter. Il faudra attendre le soir que nous sortions du parc pour comprendre que ce dernier est couvert par un autre opérateur qui ne doit pas avoir de contrat de roaming avec Free. Dès l'entrée du parc, nous voyons, près de la route une biche avec son faon et un gros bison mâle bien vieux, ça commence bien.  
 

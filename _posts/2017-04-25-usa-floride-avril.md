@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:   "Roadtrip du 08 au 24 avril 2017"
+title:   "road trip du 08 au 24 avril 2017"
 preview:    "Il retrace nos journées du 7 avril jour de l'autonomie avec Thor au 24 avril, date où nous quittons l'état de la Floride..."
 
 parent-id:  2017-04-25-usa-floride-bilan

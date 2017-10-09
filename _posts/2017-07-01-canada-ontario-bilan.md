@@ -16,7 +16,7 @@ itinary: "canada.json"
 
 ---
 
-Quatrième article de type Bilan (Vert) sur notre roadtrip sur la partie Est du Canada où nous avons traversé les provinces du New Brunswick, de la Nouvelle Ecosse, de l'Ile du Prince Edouard, du Québec et de l'Ontario.
+Quatrième article de type Bilan (Vert) sur notre road trip sur la partie Est du Canada où nous avons traversé les provinces du New Brunswick, de la Nouvelle Ecosse, de l'Ile du Prince Edouard, du Québec et de l'Ontario.
 
 Notre voyage se poursuit avec toujours le même plaisir et la même excitation à l'idée de découvrir un nouveau pays et pas des moindres, l'immense Canada. Que dire si ce n'est que c'est très très grand et les incontournables sont très espacés, nous avons roulé pratiquement autant au Canada en un mois qu'aux USA en 68 jours. Le temps a été moyen même s'il ne nous a pas vraiment empêché de faire ce que l'on voulait (35% de plein soleil, 42 % de journée entre nuages, pluie et soleil et 23 % de pluie), la température la plus basse dans Thor au petit matin a été de 10°. 
 

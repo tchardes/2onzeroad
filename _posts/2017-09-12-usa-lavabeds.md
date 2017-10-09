@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Lava Beds NM"
-preview:    "Nous poursuivons notre roadtrip sur la chaîne des cascades par la visite du Lava Beds National Monument. La principale différence... "
+preview:    "Nous poursuivons notre road trip sur la chaîne des cascades par la visite du Lava Beds National Monument. La principale différence... "
 parent-id:  2017-09-20-usa-californie-septembre
 
 date:       2017-09-11 13:00:00
@@ -16,7 +16,7 @@ category: "blog"
 location: "41.715667, -121.508848"
 ---
 
-Nous poursuivons notre roadtrip sur la chaîne des cascades par la visite du **Lava Beds National Monument** (Lits de lave). La principale différence entre un parc national et un monument national aux USA réside dans la raison de la préservation du site. Les parcs nationaux protègent la valeur pittoresque, inspirante, éducative et récréative tandis que les monuments nationaux préservent les sites présentant un intérêt historique, culturel et / ou scientifique.  
+Nous poursuivons notre road trip sur la chaîne des cascades par la visite du **Lava Beds National Monument** (Lits de lave). La principale différence entre un parc national et un monument national aux USA réside dans la raison de la préservation du site. Les parcs nationaux protègent la valeur pittoresque, inspirante, éducative et récréative tandis que les monuments nationaux préservent les sites présentant un intérêt historique, culturel et / ou scientifique.  
 
 Le parc est situé sur le flan du volcan medecine lake. Il protège principalement les importantes coulées de laves et grottes qui se sont formées. Le parc est entouré de refuges de la vie sauvage et de la Modoc National Forest, et possède quatre entrées. Nous sommes arrivés par le Nord, l'accès est gratuit avec la pass America the Beautiful, il a été créé le 21 novembre 1925.  
 

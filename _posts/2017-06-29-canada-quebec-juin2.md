@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "Roadtrip du 11 au 30 juin 2017"
+title:   "road trip du 11 au 30 juin 2017"
 preview:    "Sixième article de type carnet de route, il couvre la période 11 au 30 juin durant laquelle nous avons traversé au Canada, les ..."
 parent-id:  2017-07-01-canada-ontario-bilan
 

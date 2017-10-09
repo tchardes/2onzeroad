@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "San Francisco"
-preview:    "Nous voilà à la fin de notre roadtrip pour cette année et nous finissons en apothéose avec la visite de San Francisco... "
+preview:    "Nous voilà à la fin de notre road trip pour cette année et nous finissons en apothéose avec la visite de San Francisco... "
 parent-id:  2017-09-20-usa-californie-septembre
 
 date:       2017-09-18 12:00:00
@@ -16,7 +16,7 @@ category: "blog"
 location: "37.780006, -122.438828"
 ---
 
-Nous voilà à la fin de notre roadtrip pour cette année et nous finissons en apothéose avec la visite de San Francisco en Californie. Cette ville nous fait rêver depuis longtemps et nous avons préparé minutieusement sa visite en fonction de nos goûts.  
+Nous voilà à la fin de notre road trip pour cette année et nous finissons en apothéose avec la visite de San Francisco en Californie. Cette ville nous fait rêver depuis longtemps et nous avons préparé minutieusement sa visite en fonction de nos goûts.  
 
 L'idéal, pour accompagner la lecture de cet article est de le faire en musique. Selon vos goûts et peut-être selon votre âge, vous pouvez cliquer sur un de ces liens pour lancer la musique avant de revenir sur le site :  
 

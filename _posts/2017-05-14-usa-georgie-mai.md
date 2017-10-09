@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "Roadtrip du 25 avril 14 mai 2017"
+title:   "road trip du 25 avril 14 mai 2017"
 preview:    "Cet article retrace nos journées du 25 avril au 14 mai 2017. Nous quittons la Floride pour la Géorgie. Arrivé à Savannah..."
 parent-id: 2017-06-01-usa-maine-bilan
 
