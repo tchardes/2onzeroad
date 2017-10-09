@@ -8,7 +8,7 @@ date:       2017-04-11 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-keys.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-keys.jpg
-tags: [nature, architecture, culturel]
+tags: [nature, architecture, culturel, mer-ocean]
 flickr-tag: "Keys"
 country: USA - Floride
 city: Key West
