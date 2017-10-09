@@ -143,5 +143,5 @@ Dans la soirée du 16 septembre, un policier vient taper à la porte de Thor. Il
 
 ## 19 au 21 septembre   
 
-Nous quittons San Francisco pour nous rendre dans le camping que nous avons réservé à Oakland. Nous bénéficions de tous les branchements et préparons Thor pour ces quelques mois de repos. Le 20, nous le déposons et faisons les papiers puis nous prenons un taxi pour nous rendre à l'aéroport de Oakland, décollage en fin de journée pour Paris avec une escale à Stockholm.   
+Nous quittons San Francisco pour nous rendre dans le camping que nous avons réservé à Oakland. Nous bénéficions de tous les branchements et préparons Thor pour ces quelques mois de repos. Le 20, nous le déposons et faisons les papiers puis nous prenons un taxi pour nous rendre à l'aéroport de Oakland, décollage en fin de journée pour Paris avec une escale à Stockholm.   The End…   
 
