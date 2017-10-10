@@ -139,6 +139,8 @@ La logistique réglée, nous traversons la baie par le pont "Bay Bridge" (6$) et
 
 Nous passons les 5 jours suivants dans la visite de la ville qui nous a vraiment plu **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-18-usa-san-francisco %}">ici</a>)**.   
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618908364/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4436/36618908364_cbbeabca6c_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
 Dans la soirée du 16 septembre, un policier vient taper à la porte de Thor. Il nous explique qu'il est interdit de stationner à cet endroit pour la nuit et nous demande de quitter les lieux à la levée du jour. Le lendemain, on quitte notre bivouac au milieu des eucalyptus et trouvons une place pour la journée non loin dans la marina. Le soir, on tourne un peu dans le quartier et on trouve une place pas trop bruyante pour notre dernière nuit.  
 
 ## 19 au 21 septembre   
