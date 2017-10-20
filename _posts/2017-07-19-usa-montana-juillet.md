@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt7.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt7.jpg
 tags: []
-country: USA - Montana
+country: USA - Nord Midwest - Grandes plaines
 category: "roadmap"
 flickr-tag: "Montana"
 location: "45.420698, -100.603461"
