@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt4.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt4.jpg
 tags: []
-country: USA - Maine
+country: USA - Nord côte Est
 category: "roadmap"
 flickr-tag: ""
 location: "42.196436, -72.942761"

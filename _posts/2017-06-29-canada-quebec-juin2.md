@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt6.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt6.jpg
 tags: []
-country: Canada - Québec
+country: Canada - Québec / Ontario
 category: "roadmap"
 flickr-tag: "Québec"
 location: "45.761127, -75.407235"
