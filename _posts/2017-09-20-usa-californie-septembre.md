@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt11.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt11.jpg
 tags: []
-country: USA - Nord côte Est
+country: USA - Nord côte Ouest
 category: "roadmap"
 flickr-tag: ""
 location: "43.950425, -120.660369"
