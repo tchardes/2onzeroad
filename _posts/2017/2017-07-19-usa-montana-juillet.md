@@ -35,7 +35,7 @@ A l'issue de la visite, nous avons fait un tour de la ville qui ne semble toujou
 
 ## 01 au 03 Juillet  
 
-Nous visitons la magnifique ville de Chicago. Un vrai coup de coeur, tant cette ville est belle et très agréable avec son architecture unique, ses grands parcs et cette vue imprenable sur le lac Michigan. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-03-usa-Illinois-chicago %}">ici</a>)**   
+Nous visitons la magnifique ville de Chicago. Un vrai coup de coeur, tant cette ville est belle et très agréable avec son architecture unique, ses grands parcs et cette vue imprenable sur le lac Michigan. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-07-03-usa-Illinois-chicago %}">ici</a>)**   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35648393320/in/datetaken/" title="Chicago - Illinois - [USA]"><img src="https://farm5.staticflickr.com/4312/35648393320_842343d849_h.jpg" width="1600" height="1067" alt="Chicago - Illinois - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -74,7 +74,7 @@ Nous ne trouvons pas d'endroit pour nous poser et filons jusqu’au parc des Bad
 A 6h00, on rentre à l’intérieur du parc et on assiste au lever de soleil sur les Badlands, très beau moment… on déjeune et partons sur le point de départ de plusieurs trails. Sur le Castle trail, je croise des Bighorns Sheep (Mouflons) et sors du sentier pour les photographier de plus près. Je reprends le chemin et quelques kilomètres plus loin, j'entends, devant moi, le bruit caractéristique d'un serpent à sonnette. Merci à la dernière séance et aux westerns car, en une fraction de seconde, j'ai identifié ce son et mon coeur est monté dans les tours. Il était tranquillement lové sur le sentier et j'ai du le contourner pour poursuivre ma route. Il y a bien des panneaux un peu partout signalant leur éventuelle présence mais je pensais que c'était plus pour inciter les visiteurs à rester sur les chemins. Rétrospectivement, je me suis dit que d'aller photographier les BigHorns aurait pu me coûter cher.  
 
 Je bifurque sur Medecine Root Trail puis rebrousse à mi parcours car le paysage n'amène rien de plus. En route, je croise une jeune fille à contre sens, on échange deux, trois mots. A l’arrivée, je me mets sur la route qui traverse le parc pour faire du stop afin que l’on me ramène au point de départ. Je ne sais pas pourquoi, mon pouce magique n‘a pas fonctionné et au bout de 40 minutes où l’on m'a carrément ignoré, j’allais presque refaire le trail dans l’autre sens quand la jeune fille croisée auparavant arrive au parking et accepte finalement de m’embarquer et m'indique que le Stop aux USA n'est pas pas pratique courante. Ce qui m'étonne peu, les étasuniens étant très individualistes.  
-**(voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-07-usa-montana-badland %}">ici</a>)**    
+**(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-07-07-usa-montana-badland %}">ici</a>)**    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35838989666/in/datetaken/" title="Badlands - Dakota du Sud - [USA]"><img src="https://farm5.staticflickr.com/4233/35838989666_b2737c6a01_h.jpg" width="1600" height="900" alt="Badlands - Dakota du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -137,7 +137,7 @@ Départ de Cody pour l'entrée Sud-Est du parc. Je me rends compte en route que 
 Comme nous voyageons au grès de nos envies, nous arrivons dans le parc sans réservation, en plein mois de juillet, donc autant vous dire que ce n'est pas la peine de chercher une place dans un camping ou un Lodge. Il faut s'y prendre au moins un an à l'avance pour réserver. Il est donc obligatoire de sortir du parc pour trouver une place pour poser Thor. Nous avons donc passé une nuit dans un camping à West Yellowstone où le charme de Corinne a été déterminant puisque tout était complet mais le responsable, haut en couleur, nous a quand même trouvé une petite place…. 
 La nuit suivante au bord de la route à Gardiner avec une dizaine d'autres RV car tout était complet et nous avons quitté le parc le troisième jour en soirée et roulé en direction de Bozeman en passant par la Gallatin National Forest, une vallée le long de la rivière Gallatin très sauvage et réputée pour la pêche à la mouche.  
 
-**(voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-13-usa-wyoming-yellowstone %}">ici</a>)**  
+**(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-07-13-usa-wyoming-yellowstone %}">ici</a>)**  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36113197811/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4318/36113197811_7e06a36bbf_h.jpg" width="1600" height="900" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -151,7 +151,7 @@ Route de Bozeman à Polson. Corinne a conduit une centaine de Miles et commence 
 Route vers le visitor center de Glacier National Park où nous allons passer 4 jours sur deux sites différents.
 Le troisième jour, nous partons en direction de Babbe afin de trouver une pharmacie pour Corinne. A l'épicerie, on nous indique que la première pharmacie et par la même occasion les médecins, se trouve à plus de 100 km à Cut Bank. Arrivés à la pharmacie, le praticien refuse de nous donner le médicament sans prescription médicale et nous donne l’adresse d’une clinique après avoir pris soin de leur téléphoner. A la clinique, on nous indique qu’il n’y a pas de place pour aujourd’hui. Nous lui expliquons tant bien que mal notre situation et elle nous demande de revenir à 14h00 où finalement un médecin reçoit Corinne et faxe directement l’ordonnance à la pharmacie. N’acceptant pas les CB étrangères, nous devons retirer de l’argent pour payer la clinique, 110$ la consultation…. Retour au camping par une autre route qui nous a permis de traverser la réserve Indienne des Black Feet (Pieds noirs). Là, on n'a pas pu vérifier….  
 
-**(voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-19-usa-montana-glacier %}">ici</a>)**    
+**(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-07-19-usa-montana-glacier %}">ici</a>)**    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35417375214/in/datetaken/" title="Glacier NP - Montana - [USA]"><img src="https://farm5.staticflickr.com/4325/35417375214_af24e63dee_h.jpg" width="1600" height="900" alt="Glacier NP - Montana - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

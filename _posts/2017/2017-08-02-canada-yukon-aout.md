@@ -39,7 +39,7 @@ Depuis que j'ai fait tomber mon objectif 17-50 à Savannah, il était de plus en
 ## 21 au 25 Juillet  
 
 Nous partons de Calgary pour les Parcs Nationaux de **Banff puis de Jasper**.  
-**(voir l’article <a href="{{site.baseurl}}{% post_url 2017-07-25-canada-alberta-banffjasper %}">ici</a>)**    
+**(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-07-25-canada-alberta-banffjasper %}">ici</a>)**    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35876531680/in/datetaken/" title="Banff - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4310/35876531680_97f6ddfc5d_k.jpg" width="2048" height="1152" alt="Banff - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

@@ -163,7 +163,7 @@ Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à 
 
 * Enfin nous compenserons la consommation excessive de ces engins par un rythme plus lent nous permettant d'étaler et lisser le poste "Carburant" de notre budget dans le temps.
 
-Après 15 jours passés dans la région de Miami, nous avons trouvé le RV que nous cherchions, toutes les info : <a href="{{site.baseurl}}{% post_url 2017-04-02-usa-floride-thor %}">ici</a>.
+Après 15 jours passés dans la région de Miami, nous avons trouvé le RV que nous cherchions, toutes les info : <a href="{{site.baseurl}}{% post_url 2017/2017-04-02-usa-floride-thor %}">ici</a>.
 
 
 

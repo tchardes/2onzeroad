@@ -28,7 +28,7 @@ Après notre dernière nuit à Calais dans le Maine aux USA, nous passons la fro
 
 ## 01 et 02 juin  
 
-Départ de New Glasgow sous une pluie fine en direction de **Cape Breton Highlands NP**. Nous passons dans notre premier village Acadien aux couleurs françaises avec une étoile jaune dans le bleu. On achète du pain dans une boulangerie et on parle en français avec la commerçante. Promenade sur différents trails du Parc national et rencontre avec deux Orignaux. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-06-03-canada-nouvelle-ecosse-cabot-trail %}">ici</a>)**. A la sortie de Cap Breton, nous bivouaquons à Sydney.   
+Départ de New Glasgow sous une pluie fine en direction de **Cape Breton Highlands NP**. Nous passons dans notre premier village Acadien aux couleurs françaises avec une étoile jaune dans le bleu. On achète du pain dans une boulangerie et on parle en français avec la commerçante. Promenade sur différents trails du Parc national et rencontre avec deux Orignaux. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-06-03-canada-nouvelle-ecosse-cabot-trail %}">ici</a>)**. A la sortie de Cap Breton, nous bivouaquons à Sydney.   
  
 ## 03 juin  
 

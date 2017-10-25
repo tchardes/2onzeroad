@@ -87,7 +87,7 @@ Nous lisons, dans une revue distribuée au parc, que le repas est compris dans l
 
 De retour vers 21h00, nous rejoignons un autre bivouac que j’ai repéré ce matin en nous rendant au parc. Plus silencieux que la veille. Le repas du soir fut fortement apprécié.  
 
-**(voir l’article <a href="{{site.baseurl}}{% post_url 2017-08-09-usa-alaska-denali %}">ici</a>)**    
+**(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-08-09-usa-alaska-denali %}">ici</a>)**    
 
 La veille du départ, nous sommes sur le parking du visitor center, la porte de Thor est ouverte tandis que Corinne fait griller du pain. Un petit écureuil monte les 2 premières marches de Thor et me regarde dubitatif avant de ressortir tranquillement. Ils disent de faire attention que la nourriture attire les ours, la cuisine de Corinne attire les écureuils…   
 

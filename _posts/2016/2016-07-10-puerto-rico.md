@@ -29,7 +29,7 @@ Immanquablement, l'évocation de Puerto Rico me fait penser à la comédie music
 
 ### Bilan
 
-Cette semaine passée à Puerto Rico a été vraiment une très belle découverte, très dépaysante. De tout l'arc antillais cette île est unique. Nous y avons rencontré des personnes très sympathiques et, en dehors de la capitale, assez surprises et contentes d'avoir la visite de français. Il est vrai que cette destination n'est pas forcément la plus prisée des Caraïbes en venant de Paris. Pour ce road trip, nous nous sommes plus particulièrement attardés à <a href="{{site.baseurl}}{% post_url 2016-07-10-puerto-rico-arecibo %}">San Juan</a>, à <a href="{{site.baseurl}}{% post_url 2016-07-10-puerto-rico-old-san-juan %}">Arecibo</a> et sa région et <a href="{{site.baseurl}}{% post_url 2016-07-10-puerto-rico-ponce %}">Ponce</a>.  
+Cette semaine passée à Puerto Rico a été vraiment une très belle découverte, très dépaysante. De tout l'arc antillais cette île est unique. Nous y avons rencontré des personnes très sympathiques et, en dehors de la capitale, assez surprises et contentes d'avoir la visite de français. Il est vrai que cette destination n'est pas forcément la plus prisée des Caraïbes en venant de Paris. Pour ce road trip, nous nous sommes plus particulièrement attardés à <a href="{{site.baseurl}}{% post_url 2016/2016-07-10-puerto-rico-arecibo %}">San Juan</a>, à <a href="{{site.baseurl}}{% post_url 2016/2016-07-10-puerto-rico-old-san-juan %}">Arecibo</a> et sa région et <a href="{{site.baseurl}}{% post_url 2016/2016-07-10-puerto-rico-ponce %}">Ponce</a>.  
 
 
 ## Conseils pour se rendre à Puerto Rico :  

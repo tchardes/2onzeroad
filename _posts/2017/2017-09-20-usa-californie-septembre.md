@@ -108,14 +108,14 @@ Très belle visite. D'anciens pilotes sont là avec leurs tenues couvertes d'éc
 
 ## 09 et 10 septembre  
 
-Malgré la fumée, nous arrivons quand même à passer deux jours dans le parc national de Crater Lake que nous avons apprécié **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-11-usa-craterlake %}">ici</a>)**.  
+Malgré la fumée, nous arrivons quand même à passer deux jours dans le parc national de Crater Lake que nous avons apprécié **(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-09-11-usa-craterlake %}">ici</a>)**.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37223739326/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4477/37223739326_66dc5dbffa_b.jpg" width="1024" height="576" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 ## 11 septembre  
 
 Départ de Crater Lake. On s’arrête à Klamath Falls pour faire le plein de propane et de gazoline puis les courses au Walmart.
-Nous reprenons la direction de **Lava Bed National Monument**. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-12-usa-lavabeds %}">ici</a>)**. Nous sommes le 11/09, toutes les bannières étoilées sont en berne dans le pays.  
+Nous reprenons la direction de **Lava Bed National Monument**. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-09-12-usa-lavabeds %}">ici</a>)**. Nous sommes le 11/09, toutes les bannières étoilées sont en berne dans le pays.  
 
 Nous partons ensuite vers le **Lassen Volcanic NP** et quittons l'Etat de l’Oregon pour celui de la Californie, dernier Etat de notre road trip de 2017. Après quelques kilomètres à l’intérieur de l’Etat, tous les véhicules subissent un contrôle sanitaire, les lois de l'Etat étant très sévères. Malheureusement, nous transportons deux oranges clandestines qui n’avaient pas leurs papiers pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau… Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques places.  
 
@@ -126,7 +126,7 @@ Le système des Campgrounds dans les Parks est simple, on s'arrête à l'entrée
 
 ## 12 septembre   
 
-Après une nuit pluvieuse, ce matin grand beau temps. Nous faisons les Dump et plein d’eau et quittons le Camping à la découverte du **Lassen Volcanic National Park**, **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-13-usa-lassen %}">ici</a>)**. Nous passons une très belle journée.  
+Après une nuit pluvieuse, ce matin grand beau temps. Nous faisons les Dump et plein d’eau et quittons le Camping à la découverte du **Lassen Volcanic National Park**, **(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-09-13-usa-lassen %}">ici</a>)**. Nous passons une très belle journée.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36706071533/in/datetaken/" title="Lassen Volcanic NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4428/36706071533_8fc383cb1d_b.jpg" width="1024" height="576" alt="Lassen Volcanic NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -138,7 +138,7 @@ Nous faisons route jusqu'à Oakland pour trouver une entreprise de stockage (sto
 
 La logistique réglée, nous traversons la baie par le pont "Bay Bridge" (6$) et arrivons directement en centre ville. Pas facile de circuler avec Thor, la tension est palpable dans la cabine… Corinne a repéré, sur IOverlander, un stationnement possible en plein parc du Presidio, on tente pour cette nuit.   
 
-Nous passons les 5 jours suivants dans la visite de la ville qui nous a vraiment plu **(voir l’article <a href="{{site.baseurl}}{% post_url 2017-09-18-usa-san-francisco %}">ici</a>)**.   
+Nous passons les 5 jours suivants dans la visite de la ville qui nous a vraiment plu **(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-09-18-usa-san-francisco %}">ici</a>)**.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618908364/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4436/36618908364_cbbeabca6c_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
