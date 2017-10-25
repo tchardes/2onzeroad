@@ -108,10 +108,24 @@ permalink: ./index.html
               <h3>Nos destinations</h3>
               {% assign destinations = "" | split:"|"  %}
               {% for post in site.posts %}
-              {% if destinations contains post.country %}
+
+                {% assign postCountries = "" | split:"|"  %}
+
+                {% if post.countries != null and post.countries.size > 0 %}
+                  {% assign postCountries = post.countries %}
                 {% else %}
-                  {% assign destinations = destinations | push: post.country %}
+                  {% assign postCountries = postCountries | push: post.country  %}
                 {% endif %}
+
+                {% for postCountry in postCountries %}
+
+                  {% if destinations contains postCountry %}
+                  {% else %}
+                    {% assign destinations = destinations | push: postCountry %}
+                  {% endif %}
+
+                {% endfor %}
+
               {% endfor %}
 
               {% for destination in destinations %}

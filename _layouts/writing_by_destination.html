@@ -5,9 +5,18 @@ title: destination archive
 
 {% assign relatedPosts = "" | split:"|"  %}
 {% for post in site.posts %}
-    {% if post.country == page.destination %}
+    
+    {% assign postCountries = "" | split:"|"  %}
+    {% if post.countries != null and post.countries.size > 0 %}
+        {% assign postCountries = post.countries %}
+    {% else %}
+        {% assign postCountries = postCountries | push: post.country  %}
+    {% endif %}
+
+    {% if postCountries contains page.destination %}
         {% assign relatedPosts = relatedPosts | push: post %}
     {% endif %}
+    
 {% endfor %}
 
 {% if page.flickr-tag == "" %}

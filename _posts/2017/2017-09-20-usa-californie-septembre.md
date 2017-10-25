@@ -10,6 +10,7 @@ header-img: "assets/owner/blog/header/post-bg-rt11.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt11.jpg
 tags: []
 country: USA - Nord côte Ouest
+countries: ["USA - Washington", "USA - Oregon", "USA - Californie"]
 category: "roadmap"
 flickr-tag: ""
 location: "43.950425, -120.660369"
