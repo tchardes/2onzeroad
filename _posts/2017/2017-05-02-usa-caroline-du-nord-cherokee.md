@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-cherokee.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-cherokee.jpg
 tags: [histoire, culturel, art]
 flickr-tag: "Cherokee"
-country: USA - Caroline du Nord
+country: USA
+states: ["Caroline du Nord"]
 city: Cherokee
 category: "blog"
 location: "35.4770, -83.3206"

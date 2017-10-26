@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-badlands.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-badlands.jpg
 tags: [nature, parc-naturel, montagne, geologie, faune]
 flickr-tag: "Badland"
-country: USA - Montana
+country: USA
+states: ["Montana"]
 city: Badlands NP
 category: "blog"
 location: "43.854247, -102.337433"

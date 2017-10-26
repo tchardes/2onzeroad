@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-lassen.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-lassen.jpg
 tags: [parc-naturel, montagne, volcan, geologie, lac]
 flickr-tag: "Lassen"
-country: USA - Californie
+country: USA 
+states: ["Californie"]
 city: 
 category: "blog"
 location: "40.436990, -121.497240"

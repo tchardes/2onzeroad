@@ -8,7 +8,8 @@ author:     "Thierry & Corinne"
 header-img: "assets/owner/blog/header/post-bg-floride.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-floride.jpg
 tags: [Floride]
-country: USA - Floride
+country: USA
+states: ["Floride"]
 category: "bilan"
 flickr-tag: "Floride"
 location: "28.185577, -81.661887"

@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-keys.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-keys.jpg
 tags: [nature, architecture, culturel, mer-ocean]
 flickr-tag: "Keys"
-country: USA - Floride
+country: USA
+states: ["Floride"]
 city: Key West
 category: "blog"
 location: "24.5538, -81.8013"

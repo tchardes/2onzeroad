@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-denali.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-denali.jpg
 tags: [parc-naturel, montagne, lac, faune, unesco]
 flickr-tag: "Denali"
-country: USA - Alaska
+country: USA
+states: ["Alaska"]
 city: Denali NP
 category: "blog"
 location: "63.542026, -150.995923"

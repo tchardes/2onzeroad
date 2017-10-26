@@ -10,7 +10,8 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt-flo1.jpg
 tags: [Floride]
-country: USA - Floride
+country: USA
+states: ["Floride"]
 category: "roadmap"
 flickr-tag: "Floride"
 location: "26.656032, -80.580994"

@@ -56,6 +56,18 @@
             {% endfor %}
         {% endif %}
 
+        {% assign fullDestination = page.country | append: " - " %}
+        {% for state in page.states %}
+            {% if forloop.last == true %}
+                {% assign fullDestination = fullDestination | append: state %}
+            {% else %}
+                {% assign fullDestination = fullDestination | append: state | append: "/" %}
+            {% endif %}
+        {% endfor %}
+        {% if page.city %}
+            {% assign fullDestination = fullDestination | append: " - " | append: page.city %}
+        {% endif %}
+
         {% include nav.html %}
         
         {% assign post = page %}
@@ -72,7 +84,7 @@
                                     <hr class="small">
                                     <span class="subheading">
                                         <i class="fa fa-map-marker googleMarker"></i>
-                                        {{ post.country }}{% if post.city and post.country %} - {% endif %}{{ post.city }}
+                                        {{ fullDestination }}
                                     </span>
                                 </div>
                             </div>

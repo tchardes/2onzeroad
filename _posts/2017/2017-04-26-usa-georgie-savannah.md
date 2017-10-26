@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-savannah.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-savannah.jpg
 tags: [histoire, culturel, transport]
 flickr-tag: "Savannah"
-country: USA - Géorgie
+country: USA
+states: ["Géorgie"]
 city: Savannah
 category: "blog"
 location: "32.073177, -81.093111"

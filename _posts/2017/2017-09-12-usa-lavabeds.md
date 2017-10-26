@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-lavabeds.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-lavabeds.jpg
 tags: [parc-naturel, montagne, volcan, geologie]
 flickr-tag: "Lava beds"
-country: USA - Californie
+country: USA 
+states: ["Californie"]
 city: 
 category: "blog"
 location: "41.715667, -121.508848"

@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-boston.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-boston.jpg
 tags: [capitale, histoire, culturel]
 flickr-tag: "Boston"
-country: USA - Massachusetts
+country: USA
+states: ["Massachusetts"]
 city: Boston
 category: "blog"
 location: "42.354313, -71.068408"

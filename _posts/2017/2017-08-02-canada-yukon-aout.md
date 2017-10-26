@@ -9,7 +9,8 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt8.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt8.jpg
 tags: []
-country: Canada - Yukon
+country: Canada 
+states: ["Yukon"]
 category: "roadmap"
 flickr-tag: "Yukon"
 location: "56.765417, -126.460024"

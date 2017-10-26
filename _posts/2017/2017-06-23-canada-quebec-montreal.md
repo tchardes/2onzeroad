@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-montreal.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-montreal.jpg
 tags: [ville, culturel, histoire]
 flickr-tag: "Montréal"
-country: Canada - Québec
+country: Canada 
+states: ["Québec"]
 city: Montréal
 category: "blog"
 location: "45.496597, -73.572321"

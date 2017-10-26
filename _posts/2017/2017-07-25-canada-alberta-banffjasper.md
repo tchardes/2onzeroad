@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-banffjasper.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-banffjasper.jpg
 tags: [parc-naturel, montagne, lac, glace, unesco]
 flickr-tag: "Banff"
-country: Canada - Alberta
+country: Canada 
+states: ["Alberta"]
 city: Banff & Jasper NP
 category: "blog"
 location: "52.078308, -116.926403"

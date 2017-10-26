@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-vancouver.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-vancouver.jpg
 tags: [parc-naturel, mer-ocean, capitale, plage]
 flickr-tag: "Vancouver-Island"
-country: Canada - Colombie Britannique
+country: Canada 
+states: ["Colombie Britannique"]
 city: 
 category: "blog"
 location: "48.945742, -124.601703"

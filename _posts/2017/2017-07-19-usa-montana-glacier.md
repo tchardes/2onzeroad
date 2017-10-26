@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-glacier.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-glacier.jpg
 tags: [parc-naturel, montagne, lac, glace, unesco]
 flickr-tag: "Glacier"
-country: USA - Montana
+country: USA
+states: ["Montana"]
 city: Glacier NP
 category: "blog"
 location: "48.739430, -113.748812"

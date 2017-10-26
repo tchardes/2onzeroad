@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-yellowstone.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-yellowstone.jpg
 tags: [parc-naturel, geologie, volcan, faune, unesco]
 flickr-tag: "Yellowstone"
-country: USA - Wyoming
+country: USA
+states: ["Wyoming"]
 city: Yellowstone
 category: "blog"
 location: "44.704022, -110.603036"

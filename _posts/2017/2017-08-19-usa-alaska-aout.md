@@ -9,7 +9,8 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt9.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt9.jpg
 tags: []
-country: USA - Alaska
+country: USA
+states: ["Alaska"]
 category: "roadmap"
 flickr-tag: "Alaska"
 location: "63.008728, -151.326078"

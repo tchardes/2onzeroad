@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-phila.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-phila.jpg
 tags: [histoire, culturel, ville, architecture]
 flickr-tag: "Philadelphie"
-country: USA - Pennsylvanie
+country: USA
+states: ["Pennsylvanie"]
 city: Philadelphie
 category: "blog"
 location: "39.948313, -75.150144"

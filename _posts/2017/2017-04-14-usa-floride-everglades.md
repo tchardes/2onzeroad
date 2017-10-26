@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-everglades.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-everglades.jpg
 tags: [nature, faune, parc-naturel, unesco]
 flickr-tag: "Everglades"
-country: USA - Floride
+country: USA
+states: ["Floride"]
 city: Everglades
 category: "blog"
 location: "25.510555, -80.873661"

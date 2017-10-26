@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-quebec.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-quebec.jpg
 tags: [capitale, histoire, culturel, unesco]
 flickr-tag: "Québec"
-country: Canada - Québec
+country: Canada 
+states: ["Québec"]
 city: 
 category: "blog"
 location: "46.814477, -71.205808"

@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-ottawa.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-ottawa.jpg
 tags: [ville, capitale, culturel]
 flickr-tag: "Ottawa"
-country: Canada - Ontario
+country: Canada 
+states: ["Ontario"]
 city: Ottawa
 category: "blog"
 location: "45.419712, -75.698897"

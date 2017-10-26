@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-crater.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-crater.jpg
 tags: [parc-naturel, montagne, lac, volcan, geologie]
 flickr-tag: "Crater-Lake"
-country: USA - Oregon
+country: USA 
+states: ["Oregon"]
 city: 
 category: "blog"
 location: "42.944705, -122.105928"

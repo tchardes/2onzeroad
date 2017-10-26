@@ -1,0 +1,51 @@
+---
+layout: page
+title: country archive
+---
+
+{% assign relatedPosts = "" | split:"|"  %}
+{% for post in site.posts %}
+
+    {% if post.country contains page.country %}
+        {% assign relatedPosts = relatedPosts | push: post %}
+    {% endif %}
+    
+{% endfor %}
+
+<div id="post-content">
+
+    <div class="row" style="padding-bottom: 20px;">
+        <div class="col-md-8">
+            <h3>Articles de <strong>{{page.country}}</strong>...</h3>
+            <div class="row">
+            {% for post in relatedPosts %}
+                <div class="col-md-4 col-sm-4 col-xs-6 col-xxs-6">
+                    {% include post_preview.html %}
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h3>Par états...</h3>
+            {% assign states = "" | split:"|"  %}
+            {% for post in relatedPosts %}
+    
+                {% for postState in post.states %}
+    
+                    {% if states contains postState %}
+                    {% else %}
+                        {% assign states = states | push: postState %}
+                    {% endif %}
+    
+                {% endfor %}
+    
+            {% endfor %}
+    
+            {% for state in states %}
+                {% assign cleanState = page.country | append: " - " | append: state %}
+                {% assign cleanState = cleanState | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e'  %}
+                <div><a href="{{ site.baseurl }}/writing/destination/{{ cleanState | slugify }}"/><i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{state}}</a></div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

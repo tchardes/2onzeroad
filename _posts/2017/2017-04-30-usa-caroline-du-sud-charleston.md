@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-charleston.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-charleston.jpg
 tags: [histoire, culturel, architecture]
 flickr-tag: "Charleston"
-country: USA - Caroline du Sud
+country: USA
+states: ["Caroline du Sud"]
 city: Charleston
 category: "blog"
 location: "32.7763, -79.9327"

@@ -10,7 +10,8 @@ header-img: "assets/owner/blog/header/post-bg-frisco.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-frisco.jpg
 tags: [capitale, architecture, art, mer-ocean]
 flickr-tag: "San-Francisco"
-country: USA - Californie
+country: USA 
+states: ["Californie"]
 city: San Francisco
 category: "blog"
 location: "37.780006, -122.438828"

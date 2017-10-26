@@ -6,14 +6,18 @@ title: destination archive
 {% assign relatedPosts = "" | split:"|"  %}
 {% for post in site.posts %}
     
-    {% assign postCountries = "" | split:"|"  %}
-    {% if post.countries != null and post.countries.size > 0 %}
-        {% assign postCountries = post.countries %}
+    {% assign postDestinations = "" | split:"|"  %}
+
+    {% if post.states != null and post.states.size > 0 %}
+        {% for postState in post.states %}
+            {% assign postDestination = post.country | append: " - " | append: postState %}
+            {% assign postDestinations = postDestinations | push: postDestination %}
+        {% endfor %}
     {% else %}
-        {% assign postCountries = postCountries | push: post.country  %}
+        {% assign postDestinations = postDestinations | push: post.country  %}
     {% endif %}
 
-    {% if postCountries contains page.destination %}
+    {% if postDestinations contains page.destination %}
         {% assign relatedPosts = relatedPosts | push: post %}
     {% endif %}
     

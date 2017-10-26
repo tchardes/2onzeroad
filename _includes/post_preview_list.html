@@ -8,7 +8,21 @@
                 </div>
                 <div style="padding: 0px 0px 0px 20px;font-size: 19px;color: #eee;font-weight: 500;">
                     <i class="fa fa-map-marker googleMarker"></i>
-                    {{ post.city }}{% if post.city and post.country %} - {% endif %}{{ post.country }}
+                    {% assign fullDestination = post.country | append: " - " %}
+
+                    {% for state in post.states %}
+                        {% if forloop.last == true %}
+                            {% assign fullDestination = fullDestination | append: state %}
+                        {% else %}
+                            {% assign fullDestination = fullDestination | append: state | append: "/" %}
+                        {% endif %}
+                    {% endfor %}
+
+                    {% if post.city %}
+                        {% assign fullDestination = fullDestination | append: " - " | append: post.city %}
+                    {% endif %}
+
+                    {{ fullDestination }}
                 </div>
             </div>
             <div style="font-size:15px;padding: 0px 10px;color: #eee;">{{ post.preview }}</div>

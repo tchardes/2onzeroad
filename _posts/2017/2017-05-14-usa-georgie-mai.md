@@ -9,7 +9,8 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt2.jpg
 tags: []
-country: USA - Centre côte Est
+country: USA
+states: ["Centre côte Est"]
 category: "roadmap"
 flickr-tag: ""
 location: "35.293198, -79.317123"
