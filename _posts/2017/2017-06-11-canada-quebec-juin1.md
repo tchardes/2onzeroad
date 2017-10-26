@@ -5,8 +5,8 @@ preview:    "Cinquième article de type carnet de route, il couvre la période 3
 parent-id:  2017-07-01-canada-quebec-bilan
 
 date:       2017-06-11 12:00:00
-fromDate:   2017-05-30 13:00:00
-toDate:     2017-06-10 13:00:00
+from-date:   2017-05-30 13:00:00
+to-date:     2017-06-10 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt5.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt5.jpg

@@ -5,8 +5,8 @@ preview:    "Neuvième article de type carnet de route, il couvre la période du
 parent-id: 
 
 date:       2017-08-20 13:00:00
-fromDate:   2017-08-02 13:00:00
-toDate:     2017-09-19 13:00:00
+from-date:   2017-08-02 13:00:00
+to-date:     2017-09-19 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt9.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt9.jpg

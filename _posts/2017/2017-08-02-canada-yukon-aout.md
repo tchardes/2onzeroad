@@ -5,8 +5,8 @@ preview:    "Huitième article de type carnet de route, il couvre la période du
 parent-id:  2017-08-02-canada-ouest-bilan
 
 date:       2017-08-02 13:00:00
-fromDate:   2017-07-19 13:00:00
-toDate:     2017-08-02 13:00:00
+from-date:   2017-07-19 13:00:00
+to-date:     2017-08-02 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt8.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt8.jpg

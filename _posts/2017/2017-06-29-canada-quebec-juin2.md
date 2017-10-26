@@ -5,8 +5,8 @@ preview:    "Sixième article de type carnet de route, il couvre la période 11 
 parent-id:  2017-07-01-canada-ontario-bilan
 
 date:       2017-06-29 12:00:00
-fromDate:   2017-06-11 13:00:00
-toDate:     2017-06-30 13:00:00
+from-date:   2017-06-11 13:00:00
+to-date:     2017-06-30 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt6.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt6.jpg

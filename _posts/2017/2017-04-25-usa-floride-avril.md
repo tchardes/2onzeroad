@@ -6,8 +6,8 @@ preview:    "Il retrace nos journées du 7 avril jour de l'autonomie avec Thor a
 parent-id:  2017-04-25-usa-floride-bilan
 
 date:       2017-04-24 12:00:00
-fromDate:   2017-04-08 13:00:00
-toDate:     2017-04-24 13:00:00
+from-date:   2017-04-08 13:00:00
+to-date:     2017-04-24 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt-flo2.jpg

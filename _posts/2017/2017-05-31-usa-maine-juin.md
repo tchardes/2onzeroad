@@ -5,8 +5,9 @@ preview:    "Quatrième article de type carnet de route, il couvre la période d
 parent-id:  2017-06-01-usa-maine-bilan
 
 date:       2017-05-31 12:00:00
-fromDate:   2017-05-14 13:00:00
-toDate:     2017-05-30 13:00:00
+from-date:   2017-05-14 13:00:00
+to-date:     2017-05-30 13:00:00
+
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt4.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt4.jpg

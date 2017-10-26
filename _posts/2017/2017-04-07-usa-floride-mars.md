@@ -6,8 +6,8 @@ preview:    "Vendredi 24 mars 2017, c’est le jour du grand départ. André nou
 parent-id:  2017-04-25-usa-floride-bilan
 
 date:       2017-04-07 12:00:00
-fromDate:   2017-03-24 13:00:00
-toDate:     2017-04-07 13:00:00
+from-date:   2017-03-24 13:00:00
+to-date:     2017-04-07 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt-flo1.jpg
