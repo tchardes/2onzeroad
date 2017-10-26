@@ -1,0 +1,75 @@
+<script>
+
+var itinaries = new Array();
+var files = [
+    "http://2onzeroad.fr/assets/owner/itinaries/floride1.json",
+    "http://2onzeroad.fr/assets/owner/itinaries/floride2.json",
+    "http://2onzeroad.fr/assets/owner/itinaries/brpw.json",
+    "http://2onzeroad.fr/assets/owner/itinaries/estusa.json",
+    "http://2onzeroad.fr/assets/owner/itinaries/canada1.json",
+    "http://2onzeroad.fr/assets/owner/itinaries/canada2.json",
+    "http://2onzeroad.fr/assets/owner/itinaries/usa2.json",
+    "http://2onzeroad.fr/assets/owner/itinaries/canada3.json",    
+    "http://2onzeroad.fr/assets/owner/itinaries/alaska.json",
+    "http://2onzeroad.fr/assets/owner/itinaries/colombie.json",
+    "http://2onzeroad.fr/assets/owner/itinaries/oregon.json"
+]
+
+var coordinates = new Array();
+
+
+function computeDelta(co1, co2)
+{
+    return (co2[0] - co1[0]) + (co2[1] - co1[1]);
+}
+    
+function loadJSON(callback, file) {   
+    var xobj = new XMLHttpRequest();
+    xobj.overrideMimeType("application/json");
+    xobj.open('GET', file, true); // Replace 'my_data' with the path to your file
+    xobj.onreadystatechange = function () {
+        if (xobj.readyState == 4 && xobj.status == "200") {
+        // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+            callback(xobj.responseText);
+        }
+    };
+    xobj.send(null);  
+}
+
+function addItinary()
+{
+    if(files.length > 0)
+    {
+        file = files[0];
+        loadJSON(function(response) {
+            // Parse JSON string into object
+            var actual_JSON = JSON.parse(response);
+            itinaries.push(actual_JSON);
+            coordinates = coordinates.concat(actual_JSON.features[0].geometry.coordinates);
+            console.log("end" + file);
+            files.shift();
+            addItinary();
+        }, file);
+    } else {
+        displayItinaries();
+    }
+}
+
+function displayItinaries()
+{
+    var total = "";
+    var cursor = coordinates[0];
+    coordinates.forEach(function(coordinate) {
+        total += "[" + coordinate[0] + ", " + coordinate[1] + "], ";
+        var delta = computeDelta(cursor, coordinate);
+        var AB = new Array(delta, cursor, coordinate);
+        if(delta > 1) { console.log(AB); }
+        cursor = coordinate;
+    });
+    document.getElementById("coordinates").innerHTML = total;
+}
+
+addItinary();
+</script>
+
+<div id="coordinates"></div>
