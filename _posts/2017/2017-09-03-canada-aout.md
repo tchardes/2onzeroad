@@ -1,15 +1,17 @@
 ---
 layout:  blog
-title:   "Road trip du 19 août au 03 septembre 2017"
+title:   "Ouest Canada"
 preview:    "Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé ..."
 parent-id: 
 date:       2017-09-03 13:00:00
+fromDate:   2017-08-19 13:00:00
+toDate:     2017-09-03 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt10.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt10.jpg
 tags: []
 country: Canada 
-states: ["Colombie Britannique"]
+states: ["Yukon", "Colombie Britannique"]
 category: "roadmap"
 flickr-tag: "Yukon, Colombie Britannique"
 location: "55.458708, -126.321012"

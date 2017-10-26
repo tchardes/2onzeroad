@@ -1,16 +1,18 @@
 ---
 layout:  blog
-title:   "road trip du 25 avril 14 mai 2017"
+title:   "Centre côte Est"
 preview:    "Cet article retrace nos journées du 25 avril au 14 mai 2017. Nous quittons la Floride pour la Géorgie. Arrivé à Savannah..."
 parent-id: 2017-06-01-usa-maine-bilan
 
 date:       2017-05-14 12:00:00
+fromDate:   2017-04-25 13:00:00
+toDate:     2017-05-14 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt2.jpg
 tags: []
 country: USA
-states: ["Centre côte Est"]
+states: ["Géorgie", "Caroline du sud", "Caroline du Nord", "Virginie", "Washington DC", "Maryland"]
 category: "roadmap"
 flickr-tag: ""
 location: "35.293198, -79.317123"

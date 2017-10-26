@@ -1,16 +1,18 @@
 ---
 layout:  blog
-title:   "Road trip du 30 mai au 10 juin 2017"
+title:   "Sud-Est"
 preview:    "Cinquième article de type carnet de route, il couvre la période 30 mai au 10 juin 2017 durant laquelle nous avons passé la frontière du Canada et traversé..."
 parent-id:  2017-07-01-canada-quebec-bilan
 
 date:       2017-06-11 12:00:00
+fromDate:   2017-05-30 13:00:00
+toDate:     2017-06-10 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt5.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt5.jpg
 tags: []
 country: Canada 
-states: ["Sud-Est"]
+states: ["Nouveau Brunswick", "Nouvelle Ecosse", "Ile du Prince Edouard"]
 category: "roadmap"
 flickr-tag: "Québec"
 location: "46.505981, -65.874279"

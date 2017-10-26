@@ -1,10 +1,12 @@
 ---
 layout:  blog
-title:   "Road trip du 02 au 19 août 2017"
+title:   "Grand Nord"
 preview:    "Neuvième article de type carnet de route, il couvre la période du 02 au 19 août durant laquelle nous avons traversé l'Alaska avec quelques incursions..."
 parent-id: 
 
 date:       2017-08-20 13:00:00
+fromDate:   2017-08-02 13:00:00
+toDate:     2017-09-19 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt9.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt9.jpg

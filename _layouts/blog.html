@@ -61,7 +61,7 @@
             {% if forloop.last == true %}
                 {% assign fullDestination = fullDestination | append: state %}
             {% else %}
-                {% assign fullDestination = fullDestination | append: state | append: "/" %}
+                {% assign fullDestination = fullDestination | append: state | append: " / " %}
             {% endif %}
         {% endfor %}
         {% if page.city %}

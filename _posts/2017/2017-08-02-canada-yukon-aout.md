@@ -1,16 +1,18 @@
 ---
 layout:  blog
-title:   "Road trip du 19 juillet au 02 août 2017"
+title:   "Ouest Canada"
 preview:    "Huitième article de type carnet de route, il couvre la période du 19 juillet au 02 août durant laquelle nous avons traversé les Etats de..."
 parent-id:  2017-08-02-canada-ouest-bilan
 
 date:       2017-08-02 13:00:00
+fromDate:   2017-07-19 13:00:00
+toDate:     2017-08-02 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt8.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt8.jpg
 tags: []
 country: Canada 
-states: ["Yukon"]
+states: ["Alberta", "Colombie Britannique", "Yukon"]
 category: "roadmap"
 flickr-tag: "Yukon"
 location: "56.765417, -126.460024"

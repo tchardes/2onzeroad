@@ -1,16 +1,18 @@
 ---
 layout:  blog
-title:   "Road trip du 30 juin au 19 juillet 2017"
+title:   "Nord Midwest - Grandes plaines"
 preview:    "Septième article de type carnet de route, il couvre la période du 30 juin au 19 juillet durant laquelle nous avons traversé les Etats..."
 parent-id:  2017-07-01-usa-nord-bilan
 
 date:       2017-07-19 13:00:00
+fromDate:   2017-06-30 13:00:00
+toDate:     2017-07-19 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt7.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt7.jpg
 tags: []
 country: USA
-states: ["Nord Midwest - Grandes plaines"]
+states: ["Michigan", "Indiana", "Illinois", "Wisconsin", "Minnesota", "Dakota du Sud", "Wyoming", "Montana"]
 category: "roadmap"
 flickr-tag: "Montana"
 location: "45.420698, -100.603461"

@@ -1,16 +1,18 @@
 ---
 layout:  blog
-title:   "Road trip du 14 au 30 mai 2017"
+title:   "Nord côte Est"
 preview:    "Quatrième article de type carnet de route, il couvre la période du 14 mai 31 mai 2017 durant lesquels nous avons traversé les états du..."
 parent-id:  2017-06-01-usa-maine-bilan
 
 date:       2017-05-31 12:00:00
+fromDate:   2017-05-14 13:00:00
+toDate:     2017-05-30 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt4.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt4.jpg
 tags: []
 country: USA
-states: ["Nord côte Est"]
+states: ["Delaware", "New Jersey", "New York", "Rhode Island", "Massachusetts", "New Hampshire", "Maine"]
 category: "roadmap"
 flickr-tag: ""
 location: "42.196436, -72.942761"
