@@ -1,5 +1,4 @@
 [
-    {"name": "nature", "displayName": "Nature"},
     {"name": "faune", "displayName": "Faune"},
     {"name": "flore", "displayName": "Flore"},
     {"name": "paysage", "displayName": "Paysage"},
@@ -16,7 +15,6 @@
     {"name": "glace", "displayName": "Glace"},
     {"name": "neige", "displayName": "Neige"},
     {"name": "route", "displayName": "Route"},
-    {"name": "randonnee", "displayName": "Randonnée"},
 
     {"name": "separator", "displayName": "separator"},
     

@@ -15,7 +15,7 @@ title: country archive
 <div id="post-content">
 
     <div class="row" style="padding-bottom: 20px;">
-        <div class="col-md-8">
+        <div class="col-md-9">
             <h3>Articles de <strong>{{page.country}}</strong>...</h3>
             <div class="row">
             {% for post in relatedPosts %}
@@ -25,7 +25,7 @@ title: country archive
             {% endfor %}
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
             <h3>Par états...</h3>
             {% assign states = "" | split:"|"  %}
             {% for post in relatedPosts %}
@@ -40,7 +40,8 @@ title: country archive
                 {% endfor %}
     
             {% endfor %}
-    
+
+            {% assign states = states | sort %}
             {% for state in states %}
                 {% assign cleanState = page.country | append: " - " | append: state %}
                 {% assign cleanState = cleanState | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e'  %}

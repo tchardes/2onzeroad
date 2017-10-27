@@ -12,7 +12,7 @@ header-img: "assets/owner/blog/header/post-bg-rt2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt2.jpg
 tags: []
 country: USA
-states: ["Géorgie", "Caroline du sud", "Caroline du Nord", "Virginie", "Washington DC", "Maryland"]
+states: ["Géorgie", "Caroline du Sud", "Caroline du Nord", "Virginie", "Washington DC", "Maryland"]
 category: "roadmap"
 flickr-tag: ""
 location: "35.293198, -79.317123"

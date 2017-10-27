@@ -22,7 +22,7 @@ permalink: ./index.html
     <!-- intro -->
     <div class="row">
 
-      <div class="col-md-8">
+      <div class="col-md-9">
         <section id="cd-timeline" class="cd-container">
 
           <div class="cd-timeline-block">
@@ -103,7 +103,7 @@ permalink: ./index.html
         </section>
       </div>
    
-      <div class="col-md-4" style="padding-left:70px;">
+      <div class="col-md-3" style="padding-left:70px;">
           <div>
               <h3>Nos destinations</h3>
               {% assign destinations = "" | split:"|"  %}
@@ -191,15 +191,16 @@ permalink: ./index.html
           </div>
           <hr />
           <h3>Tags</h3>
-              
-          {% for photoTag in site.data.tags %}
-            {% if photoTag.name == "separator" %}
-              <hr style="border-top: 1px solid #555 !important;" />
-            {% else %}
-              <div class="post-preview-category" style="margin-bottom:0px !important;"><div style="margin-right: 3px !important;"><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag.name | slugify }}">{{photoTag.displayName}}</a></div></div>            
-            {% endif %}
-          {% endfor %}
-
+          
+          <div class="post-preview-category">
+            {% for photoTag in site.data.tags %}
+              {% if photoTag.name == "separator" %}
+                <hr style="border-top: 1px solid #555 !important;width: 100%;" />
+              {% else %}
+                <div><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag.name | slugify }}">{{photoTag.displayName}}</a></div>         
+              {% endif %}
+            {% endfor %}
+          </div>
       </div>
     
     </div>    
