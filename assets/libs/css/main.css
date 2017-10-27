@@ -444,8 +444,6 @@ img::-moz-selection {
 }
 
 
-
-
 .post-preview .post-preview-image	.post-preview-overlay {
   z-index: 1;
   background: rgba(0, 0, 0, .2);
@@ -458,6 +456,7 @@ img::-moz-selection {
 .post-preview-category {
   margin: 6px 0px 15px 0px;
   display: inline-flex;
+  flex-wrap: wrap;
   padding-top: 2px;
   min-height: 25px;
 }
@@ -466,6 +465,7 @@ img::-moz-selection {
   padding:3px;  
   font-weight: 600;
   margin-right: 6px;
+  margin-bottom: 6px;
   background-color: #007F73;
 }
 .post-preview-category div:hover {
