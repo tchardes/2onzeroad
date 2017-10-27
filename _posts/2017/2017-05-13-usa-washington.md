@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-washington.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-washington.jpg
 tags: [capitale, histoire, culturel, architecture]
-flickr-tag: "Washington"
+flickr-tag: "Washington DC"
 country: USA
 states: ["Washington DC"]
 city: 
