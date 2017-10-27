@@ -458,7 +458,7 @@ img::-moz-selection {
   display: inline-flex;
   flex-wrap: wrap;
   padding-top: 2px;
-  min-height: 25px;
+  min-height: 62px;
 }
 .post-preview-category div {
   font-size: 0.7em;
@@ -467,6 +467,7 @@ img::-moz-selection {
   margin-right: 6px;
   margin-bottom: 6px;
   background-color: #007F73;
+  height: 23px;
 }
 .post-preview-category div:hover {
   background-color: #C97750;
