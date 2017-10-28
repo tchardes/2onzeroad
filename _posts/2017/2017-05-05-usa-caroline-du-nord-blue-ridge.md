@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-brpw.jpg
 tags: [nature, parc-naturel, montagne, paysage]
 flickr-tag: "Blue-Ridge"
 country: USA
-states: ["Caroline du Nord"]
+states: ["Caroline du Nord", "Virginie"]
 city: Blue Ridge
 category: "blog"
 location: "37.197105, -80.018274"
