@@ -10,7 +10,7 @@ to-date:     2017-09-20 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt11.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt11.jpg
-tags: []
+tags: [architecture, culturel, transport, glace, mer-ocean]
 country: USA
 states: ["Washington", "Oregon", "Californie"]
 category: "roadmap"
