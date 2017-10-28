@@ -8,7 +8,7 @@ date:       2017-09-18 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-frisco.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-frisco.jpg
-tags: [capitale, architecture, art, mer-ocean]
+tags: [capitale, architecture, art, mer-ocean, flore]
 flickr-tag: "San-Francisco"
 country: USA 
 states: ["Californie"]
