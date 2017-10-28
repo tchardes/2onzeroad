@@ -11,6 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-vinales.jpg
 tags: [ville, unesco, geologie, nature]
 flickr-tag: "Vinales"
 country: Cuba
+states: ["Pinar Del Rio"]
 city: Viñales
 category: "blog"
 location: "22.613590, -83.712819"
