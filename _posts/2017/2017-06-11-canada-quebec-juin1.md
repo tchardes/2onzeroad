@@ -10,7 +10,7 @@ to-date:     2017-06-10 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt5.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt5.jpg
-tags: []
+tags: [lac, histoire, mer-ocean]
 country: Canada 
 states: ["Nouveau Brunswick", "Nouvelle Ecosse", "Ile du Prince Edouard"]
 category: "roadmap"

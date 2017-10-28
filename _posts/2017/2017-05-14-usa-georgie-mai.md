@@ -10,7 +10,7 @@ to-date:     2017-05-14 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt2.jpg
-tags: []
+tags: [histoire, parc-naturel, geologie, faune]
 country: USA
 states: ["Géorgie", "Caroline du Sud", "Caroline du Nord", "Virginie", "Washington DC", "Maryland"]
 category: "roadmap"

@@ -11,7 +11,7 @@ to-date:     2017-04-24 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt-flo2.jpg
-tags: [Floride]
+tags: [parc-naturel, faune, transport]
 country: USA
 states: ["Floride"]
 category: "roadmap"

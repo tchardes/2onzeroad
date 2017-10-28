@@ -11,7 +11,7 @@ to-date:     2017-05-30 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt4.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt4.jpg
-tags: []
+tags: [architecture, mer-ocean]
 country: USA
 states: ["Delaware", "New Jersey", "New York", "Rhode Island", "Massachusetts", "New Hampshire", "Maine"]
 category: "roadmap"

@@ -10,7 +10,7 @@ to-date:     2017-06-30 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt6.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt6.jpg
-tags: []
+tags: [lac, architecture]
 country: Canada 
 states: ["Québec", "Ontario"]
 category: "roadmap"

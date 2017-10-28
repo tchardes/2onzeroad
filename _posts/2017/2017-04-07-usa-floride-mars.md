@@ -11,7 +11,7 @@ to-date:     2017-04-07 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt-flo1.jpg
-tags: [Floride]
+tags: [histoire, plage, transport]
 country: USA
 states: ["Floride"]
 category: "roadmap"
