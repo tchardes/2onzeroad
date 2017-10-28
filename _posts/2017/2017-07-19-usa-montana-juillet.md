@@ -10,7 +10,7 @@ to-date:     2017-07-19 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt7.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt7.jpg
-tags: []
+tags: [architecture, transport, art, culturel, montagne]
 country: USA
 states: ["Michigan", "Indiana", "Illinois", "Wisconsin", "Minnesota", "Dakota du Sud", "Wyoming", "Montana"]
 category: "roadmap"

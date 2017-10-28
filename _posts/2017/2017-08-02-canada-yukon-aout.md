@@ -10,7 +10,7 @@ to-date:     2017-08-02 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt8.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt8.jpg
-tags: []
+tags: [architecture, lac, faune, montagne]
 country: Canada 
 states: ["Alberta", "Colombie Britannique", "Yukon"]
 category: "roadmap"
