@@ -9,7 +9,7 @@ to-date:     2017-09-03 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt10.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt10.jpg
-tags: []
+tags: hHistoire, faune, culturel, ville, desert, glace, mer-océan, architecture]
 country: Canada 
 states: ["Yukon", "Colombie Britannique"]
 category: "roadmap"
