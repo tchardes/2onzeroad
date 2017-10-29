@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-thor.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-thor.jpg
 tags: [transport]
-flickr-tag: ""
+flickr-text: ""
 country: USA
 states: ["Floride"]
 

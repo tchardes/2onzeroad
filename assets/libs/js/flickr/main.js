@@ -10,30 +10,40 @@ function gup( name, url ) {
 (function(document, window) {
    'use strict';
 
-   var gallery;
+    var gallery;
 
-   var lastSearch = gup("tag");
-   console.log(lastSearch);
-   console.log(tagClean);
-    if(!lastSearch || lastSearch === "") {
-        if(tagClean != null && tagClean != undefined) { lastSearch = tagClean; }
-        else { lastSearch = ""; }
+    var lastSearch = gup("text");
+    var fromDate= gup("fromDate");
+    var toDate = gup("toDate");
+    var tags = gup("tags");
+
+    function searchPhotos(text, page) {
+        console.log(page);
+        
+        page = page > 0 ? page : 1;
+
+        var flickrParams = {
+            per_page: 30,
+            jsoncallback: 'Website.Homepage.showPhotos',
+            page: page
+        }
+
+        if(fromDate != null && fromDate != "" && toDate != null && toDate != "")
+        {
+            flickrParams.min_taken_date = fromDate + "00:00:01";
+            flickrParams.max_taken_date = toDate + "23:59:59";
+        }
+        else if(tags != null && tags != "")
+        {
+            flickrParams.tags = tags;
+        }
+        else
+        {
+            flickrParams.text = text;
+        }
+
+        Flickr.searchText(flickrParams);
     }
-
-   function searchPhotos(text, page) {
-       console.log(page);
-      if (text.length === 0) {
-         //alert('Error: the field is required');
-      }
-      page = page > 0 ? page : 1;
-
-      Flickr.searchText({
-         text: text,
-         per_page: 30,
-         jsoncallback: 'Website.Homepage.showPhotos',
-         page: page
-      });
-   }
 
    function createPager(element, parameters) {
        if(element == null) return;

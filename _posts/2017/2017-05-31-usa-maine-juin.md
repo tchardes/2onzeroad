@@ -15,7 +15,7 @@ tags: [architecture, mer-ocean]
 country: USA
 states: ["Delaware", "New Jersey", "New York", "Rhode Island", "Massachusetts", "New Hampshire", "Maine"]
 category: "roadmap"
-flickr-tag: ""
+flickr-text: ""
 location: "42.196436, -72.942761"
 itinary: "estusa.json"
 mapZoom: 6

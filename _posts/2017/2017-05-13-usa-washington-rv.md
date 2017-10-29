@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-greenbelt.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-greenbelt.jpg
 tags: []
-flickr-tag: ""
+flickr-text: ""
 country: USA
 states: ["Maryland"]
 city: Washington DC

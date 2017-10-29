@@ -15,7 +15,7 @@ tags: [histoire, plage, transport]
 country: USA
 states: ["Floride"]
 category: "roadmap"
-flickr-tag: "Floride"
+flickr-text: "Floride"
 location: "26.656032, -80.580994"
 itinary: "floride1.json"
 mapZoom: 7

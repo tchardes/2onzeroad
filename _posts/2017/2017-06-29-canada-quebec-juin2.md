@@ -14,7 +14,7 @@ tags: [lac, architecture]
 country: Canada 
 states: ["Québec", "Ontario"]
 category: "roadmap"
-flickr-tag: "Québec"
+flickr-text: "Québec"
 location: "45.761127, -75.407235"
 itinary: "canada2.json"
 mapZoom: 6

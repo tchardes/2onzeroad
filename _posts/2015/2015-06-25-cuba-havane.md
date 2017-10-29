@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-havane.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-havane.jpg
 tags: [capitale, unesco]
-flickr-tag: "Havane"
+flickr-text: "Havane"
 country: Cuba
 city: la Havane
 category: "blog"

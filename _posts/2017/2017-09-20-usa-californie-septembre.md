@@ -14,7 +14,7 @@ tags: [architecture, culturel, transport, glace, mer-ocean]
 country: USA
 states: ["Washington", "Oregon", "Californie"]
 category: "roadmap"
-flickr-tag: ""
+flickr-text: ""
 location: "43.950425, -120.660369"
 itinary: "oregon.json"
 mapZoom: 5

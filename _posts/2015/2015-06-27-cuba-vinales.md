@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-vinales.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-vinales.jpg
 tags: [ville, unesco, geologie, nature]
-flickr-tag: "Vinales"
+flickr-text: "Vinales"
 country: Cuba
 states: ["Pinar Del Rio"]
 city: Viñales

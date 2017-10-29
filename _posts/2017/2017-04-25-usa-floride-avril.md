@@ -15,7 +15,7 @@ tags: [parc-naturel, faune, transport]
 country: USA
 states: ["Floride"]
 category: "roadmap"
-flickr-tag: "Floride"
+flickr-text: "Floride"
 location: "27.849100, -81.647957"
 itinary: "floride2.json"
 mapZoom: 6

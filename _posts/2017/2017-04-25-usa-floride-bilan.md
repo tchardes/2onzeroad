@@ -11,7 +11,7 @@ tags: [Floride]
 country: USA
 states: ["Floride"]
 category: "bilan"
-flickr-tag: "Floride"
+flickr-text: "Floride"
 location: "28.185577, -81.661887"
 itinary: "floride3.json"
 mapZoom: 6

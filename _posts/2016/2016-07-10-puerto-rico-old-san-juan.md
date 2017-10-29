@@ -10,7 +10,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-old-san-juan.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-osj.jpg
 tags: [capitale, culturel, historique]
-flickr-tag: "Old-San-Juan"
+flickr-text: "Old-San-Juan"
 country: Puerto-Rico
 city: Old San Juan
 category: "blog"

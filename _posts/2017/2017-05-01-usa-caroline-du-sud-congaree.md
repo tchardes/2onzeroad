@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-congaree.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-congaree.jpg
 tags: [nature, parc-naturel, foret]
-flickr-tag: "Congaree"
+flickr-text: "Congaree"
 country: USA
 states: ["Caroline du Sud"]
 city: Congaree NP

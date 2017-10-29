@@ -13,10 +13,6 @@ title: tag archive
     {% endif %}
 {% endfor %}
 
-<script type="text/javascript">
-        var tagClean = "{{tag}}";
-</script>
-
 <div id="post-content">
 
     <div class="row">
@@ -25,7 +21,7 @@ title: tag archive
         </div>
 
         <div class="col-md-4" style="text-align: right">
-             <h3><a style="color:white" href="{{ root_url }}/gallery/?tag={{tag}}">...vers la galerie</a> </h3>
+             <h3><a style="color:white" href="{{ root_url }}/gallery/?tags={{tag}}">...vers la galerie</a> </h3>
         </div>
     </div>
 

@@ -14,7 +14,7 @@ tags: [paysage, faune, glace, mer-ocean, culturel]
 country: USA
 states: ["Alaska"]
 category: "roadmap"
-flickr-tag: "Alaska"
+flickr-text: "Alaska"
 location: "63.008728, -151.326078"
 itinary: "alaska.json"
 mapZoom: 5

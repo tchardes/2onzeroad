@@ -11,7 +11,7 @@ tags: []
 country: USA
 states: ["New Hampshire"]
 category: "bilan"
-flickr-tag: "USA"
+flickr-text: "USA"
 location: "38.119371, -80.052975"
 itinary: "floride4.json"
 mapZoom: 4

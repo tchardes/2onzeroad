@@ -10,7 +10,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico-arecibo.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico-arecibo.jpg
 tags: [architecture, technologie]
-flickr-tag: "Arecibo"
+flickr-text: "Arecibo"
 country: Puerto-Rico
 city: Arecibo
 category: "blog"

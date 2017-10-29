@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-ottawa.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-ottawa.jpg
 tags: [ville, capitale, culturel]
-flickr-tag: "Ottawa"
+flickr-text: "Ottawa"
 country: Canada 
 states: ["Ontario"]
 city: Ottawa

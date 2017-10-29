@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-trinidad.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-trinidad.jpg
 tags: [ville, unesco]
-flickr-tag: "Trinidad"
+flickr-text: "Trinidad"
 country: Cuba
 city: Trinidad
 category: "blog"

@@ -14,7 +14,7 @@ tags: [architecture, transport, art, culturel, montagne]
 country: USA
 states: ["Michigan", "Indiana", "Illinois", "Wisconsin", "Minnesota", "Dakota du Sud", "Wyoming", "Montana"]
 category: "roadmap"
-flickr-tag: "Montana"
+flickr-text: "Montana"
 location: "45.420698, -100.603461"
 itinary: "usa2.json"
 mapZoom: 5

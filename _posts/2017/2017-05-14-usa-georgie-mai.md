@@ -14,7 +14,7 @@ tags: [histoire, parc-naturel, geologie, faune]
 country: USA
 states: ["Géorgie", "Caroline du Sud", "Caroline du Nord", "Virginie", "Washington DC", "Maryland"]
 category: "roadmap"
-flickr-tag: ""
+flickr-text: ""
 location: "35.293198, -79.317123"
 itinary: "brpw.json"
 mapZoom: 6

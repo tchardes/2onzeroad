@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-cherokee.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-cherokee.jpg
 tags: [histoire, culturel, art]
-flickr-tag: "Cherokee"
+flickr-text: "Cherokee"
 country: USA
 states: ["Caroline du Nord"]
 city: Cherokee

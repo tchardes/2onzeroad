@@ -29,24 +29,92 @@ title: country archive
             <h3>Par états...</h3>
             {% assign states = "" | split:"|"  %}
             {% for post in relatedPosts %}
-    
                 {% for postState in post.states %}
-    
                     {% if states contains postState %}
                     {% else %}
                         {% assign states = states | push: postState %}
                     {% endif %}
-    
                 {% endfor %}
-    
             {% endfor %}
 
             {% assign states = states | sort %}
             {% for state in states %}
                 {% assign cleanState = page.country | append: " - " | append: state %}
-                {% assign cleanState = cleanState | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e'  %}
-                <div><a href="{{ site.baseurl }}/writing/destination/{{ cleanState | slugify }}"/><i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{state}}</a></div>
+                {% assign cleanState = cleanState | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e' | slugify %}
+                
+                {% assign fullUrl = site.baseurl | append: "/writing/destination/" | append: cleanState | append: "/" %}
+                
+                {% assign destinationPage = site.pages | where: "url", fullUrl %}
+                {% assign destinationMissing = true %}
+            
+                {% if destinationPage.first %} 
+                    {% assign destinationMissing = false %}
+            
+                    {% if destinationPage.first.flickr-text == "" %}
+                        {% assign tagClean = destinationPage.first.destination %}
+                        {% if tagClean contains " - " %}
+                            {% assign tagCleanArray = tagClean | split: " - "  %}
+                            {% assign tagClean = tagCleanArray | last  %}
+                        {% endif %}
+                    {% else %}
+                        {% assign tagClean = destinationPage.first.flickr-text %}
+                    {% endif %}
+            
+                    {% assign urlParams = "?text=" | append: tagClean %}
+                    {% if destinationPage.first.flickr-tags %}
+                        {% assign urlParams = "?tags=" | append: destinationPage.first.flickr-tags %}                  
+                    {% endif %}
+                {% endif %}
+                
+                {% assign urlParams = urlParams | replace: ' ', '_'  %}
+                
+                <div>
+                    <a href="{{ fullUrl }}{{urlParams}}"/>
+                        <i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{state}}                    
+                        {% if destinationMissing %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}
+                    </a>
+                </div>
+                    
             {% endfor %}
         </div>
     </div>
 </div>
+
+
+
+
+
+{% for destination in destinations %}
+    {% assign cleanCountry = destination | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e' | slugify   %}
+    {% assign fullUrl = site.baseurl | append: "/writing/destination/" | append: cleanCountry | append: "/" %}
+
+    {% assign destinationPage = site.pages | where: "url", fullUrl %}
+    {% assign destinationMissing = true %}
+
+    {% if destinationPage.first %} 
+        {% assign destinationMissing = false %}
+
+        {% if destinationPage.first.flickr-text == "" %}
+            {% assign tagClean = destinationPage.first.destination %}
+            {% if tagClean contains " - " %}
+                {% assign tagCleanArray = tagClean | split: " - "  %}
+                {% assign tagClean = tagCleanArray | last  %}
+            {% endif %}
+        {% else %}
+            {% assign tagClean = destinationPage.first.flickr-text %}
+        {% endif %}
+
+        {% assign urlParams = "?text=" | append: tagClean %}
+        {% if destinationPage.first.flickr-tags %}
+            {% assign urlParams = "?tags=" | append: destinationPage.first.flickr-tags %}                  
+        {% endif %}
+    {% endif %}
+
+    <div>
+    <a href="{{ fullUrl }}{{urlParams}}"/>
+        <i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{destination}}                    
+        {% if destinationMissing %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}
+    </a>
+    </div>
+
+{% endfor %}

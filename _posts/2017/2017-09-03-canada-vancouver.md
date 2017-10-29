@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-vancouver.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-vancouver.jpg
 tags: [parc-naturel, mer-ocean, capitale, plage]
-flickr-tag: "Vancouver-Island"
+flickr-text: "Vancouver-Island"
 country: Canada 
 states: ["Colombie Britannique"]
 city: 

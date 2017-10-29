@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-badlands.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-badlands.jpg
 tags: [nature, parc-naturel, montagne, geologie, faune]
-flickr-tag: "Badland"
+flickr-text: "Badland"
 country: USA
 states: ["Montana"]
 city: Badlands NP

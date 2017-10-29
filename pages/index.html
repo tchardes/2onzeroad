@@ -41,7 +41,7 @@ permalink: ./index.html
                 </span>
             </div>
           </div>
-
+          
 
           {% assign pendingArticlesCount = 10 %}
           {% if site.posts.size < 18 %}
@@ -93,7 +93,7 @@ permalink: ./index.html
                             {% endfor %}
 
                             {% if displayTag != "" %} 
-                                <div><a href="{{ site.baseurl }}/writing/tag/{{ tag  | slugify }}/" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ displayTag }}</a></div>
+                                <div><a href="{{ site.baseurl }}/writing/tag/{{ tag | slugify }}?tags={{tag | slugify}}" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ displayTag }}</a></div>
                             {% endif %}
                         {% endfor %%}
                     </div>
@@ -140,8 +140,40 @@ permalink: ./index.html
               {% endfor %}
 
               {% for destination in destinations %}
-                {% assign cleanCountry = destination | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e'  %}
-                <div><a href="{{ site.baseurl }}/writing/destination/{{ cleanCountry | slugify }}"/><i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{destination}}</a></div>
+                {% assign cleanCountry = destination | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e' | slugify   %}
+                {% assign fullUrl = site.baseurl | append: "/writing/destination/" | append: cleanCountry | append: "/" %}
+
+                {% assign destinationPage = site.pages | where: "url", fullUrl %}
+                {% assign destinationMissing = true %}
+
+                {% if destinationPage.first %}
+                  
+                  {% assign destinationMissing = false %}
+
+                  {% if destinationPage.first.flickr-text == "" %}
+                    {% assign tagClean = destinationPage.first.destination %}
+                    {% if tagClean contains " - " %}
+                      {% assign tagCleanArray = tagClean | split: " - "  %}
+                      {% assign tagClean = tagCleanArray | last  %}
+                      {% assign tagClean = tagClean | replace: ' ', '_'  %}
+                    {% endif %}
+                  {% else %}
+                      {% assign tagClean = destinationPage.first.flickr-text %}
+                  {% endif %}
+            
+                  {% assign urlParams = "?text=" | append: tagClean %}
+                  {% if destinationPage.first.flickr-tags %}
+                    {% assign urlParams = "?tags=" | append: destinationPage.first.flickr-tags %}                  
+                  {% endif %}
+                {% endif %}
+
+                <div>
+                  <a href="{{ fullUrl }}{{urlParams}}"/>
+                      <i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{destination}}                    
+                      {% if destinationMissing %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}
+                  </a>
+                </div>
+              
               {% endfor %}
           </div>
           <hr />
@@ -208,7 +240,7 @@ permalink: ./index.html
               {% if photoTag.name == "separator" %}
                 <hr style="border-top: 1px solid #555 !important;width: 100%;" />
               {% else %}
-                <div><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag.name | slugify }}">{{photoTag.displayName}}</a></div>         
+                <div><a style="color:white" href="{{ site.baseurl }}/writing/tag/{{ photoTag.name | slugify }}?tags={{photoTag.name}}">{{photoTag.displayName}}</a></div>         
               {% endif %}
             {% endfor %}
           </div>

@@ -14,7 +14,7 @@ tags: [architecture, lac, faune, montagne]
 country: Canada 
 states: ["Alberta", "Colombie Britannique", "Yukon"]
 category: "roadmap"
-flickr-tag: "Yukon"
+flickr-text: "Yukon"
 location: "56.765417, -126.460024"
 itinary: "canada3.json"
 mapZoom: 4

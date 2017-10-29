@@ -23,7 +23,7 @@
             {% endfor %}
 
             {% if displayTag != "" %} 
-                <div><a href="{{ site.baseurl }}/writing/tag/{{ tag  | slugify }}/" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ displayTag }}</a></div>
+                <div><a href="{{ site.baseurl }}/writing/tag/{{ tag  | slugify }}?tags={{tag | slugify}}" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ displayTag }}</a></div>
             {% endif %}
             
         {% endfor %%}

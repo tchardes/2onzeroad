@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-cabot.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-cabot.jpg
 tags: [nature, parc-naturel, faune]
-flickr-tag: "Nouvelle Ecosse"
+flickr-text: "Nouvelle Ecosse"
 country: Canada 
 states: ["Nouvelle Ecosse"]
 city: Cap-Breton

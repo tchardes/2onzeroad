@@ -14,7 +14,7 @@ tags: [lac, histoire, mer-ocean]
 country: Canada 
 states: ["Nouveau Brunswick", "Nouvelle Ecosse", "Ile du Prince Edouard"]
 category: "roadmap"
-flickr-tag: "Québec"
+flickr-text: "Québec"
 location: "46.505981, -65.874279"
 itinary: "canada1.json"
 mapZoom: 6

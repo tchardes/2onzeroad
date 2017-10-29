@@ -120,7 +120,7 @@
                                             {% endfor %}
 
                                             {% if displayTag != "" %} 
-                                                <a style="color:white;" href="{{ site.baseurl }}/writing/tag/{{  tag | cgi_encode }}/" data-toggle="tooltip" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ displayTag }}</a>
+                                                <a style="color:white;" href="{{ site.baseurl }}/writing/tag/{{  tag | slugify }}?tags={{tag | slugify}}" data-toggle="tooltip" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ displayTag }}</a>
                                             {% endif %}
 
                                         {% unless forloop.last %}&nbsp;-&nbsp;{% endunless %}{% endfor %}
@@ -160,7 +160,17 @@
                             <div class="col-sm-6" style="padding:15px;">
                                 <div style="font-size:22px;" class="info-box bg-primary">
                                     <i class="fa fa-picture-o"></i>
-                                    <a style="color:white !important;" href="{{ root_url }}/gallery/?tag={{page.flickr-tag}}">La suite en photos...</a>
+                                    {% if page.category == "roadmap" %}
+                                        {% assign shortFormDate = page.from-date | date:"%Y-%m-%d" %}
+                                        {% assign shortToDate = page.to-date | date:"%Y-%m-%d" %}
+                                        <a style="color:white !important;" href="{{ root_url }}/gallery/?fromDate={{shortFormDate}}&toDate={{shortToDate}}">La suite en photos...</a>
+                                    {% else %}
+                                        {% if page.flickr-tags %}
+                                            <a style="color:white !important;" href="{{ root_url }}/gallery/?tags={{page.flickr-tags}}">La suite en photos...</a>
+                                        {% else %}
+                                            <a style="color:white !important;" href="{{ root_url }}/gallery/?text={{page.flickr-text}}">La suite en photos...</a>                                        
+                                        {% endif %}
+                                    {% endif %}
                                 </div>
                             </div>  
 

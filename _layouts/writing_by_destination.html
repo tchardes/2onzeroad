@@ -23,24 +23,27 @@ title: destination archive
     
 {% endfor %}
 
-{% if page.flickr-tag == "" %}
+{% if page.flickr-text == "" %}
     {% assign tagClean = page.destination %}
     {% if tagClean contains " - " %}
         {% assign tagCleanArray = tagClean | split: " - "  %}
         {% assign tagClean = tagCleanArray | last  %}
     {% endif %}
 {% else %}
-    {% assign tagClean = page.flickr-tag %}
+    {% assign tagClean = page.flickr-text %}
 {% endif %}
 
+{% assign urlParams = "?text=" | append: tagClean %}
 
+{% if page.flickr-tags %}
+    {% assign urlParams = "?tags=" | append: page.flickr-tags %}                  
+{% endif %}
 
+{% assign urlParams = urlParams | replace: ' ', '_'  %}
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
 <script type="text/javascript">
-
-    var tagClean = "{{tagClean}}";
 
     function onClientLoad() {
         gapi.client.load("youtube", "v3", onYouTubeApiLoad);
@@ -98,7 +101,7 @@ title: destination archive
         </div>
 
         <div class="col-md-4" style="text-align: right">
-             <h3><a style="color:white" href="{{ root_url }}/gallery/?tag={{tagClean | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e'}}">...vers la galerie</a> </h3>
+             <h3><a style="color:white" href="{{ root_url }}/gallery/{{urlParams}}">...vers la galerie</a></h3>
         </div>
     </div>
 

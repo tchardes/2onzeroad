@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-cienfuegos.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-cienfuegos.jpg
 tags: [ville, histoire, unesco]
-flickr-tag: "cienfuegos"
+flickr-text: "cienfuegos"
 country: Cuba
 city: Cienfuegos
 category: "blog"

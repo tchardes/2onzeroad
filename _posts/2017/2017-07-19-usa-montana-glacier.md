@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-glacier.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-glacier.jpg
 tags: [parc-naturel, montagne, lac, glace, unesco]
-flickr-tag: "Glacier"
+flickr-text: "Glacier"
 country: USA
 states: ["Montana"]
 city: Glacier NP
