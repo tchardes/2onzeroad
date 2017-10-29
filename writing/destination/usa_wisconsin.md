@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "USA - Visconsin"
-permalink: "/writing/destination/usa-visconsin/"
+destination: "USA - Wisconsin"
+permalink: "/writing/destination/usa-wisconsin/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 flickr-text: ""
 ---

@@ -41,15 +41,14 @@ permalink: ./index.html
                 </span>
             </div>
           </div>
-          
 
-          {% assign pendingArticlesCount = 10 %}
-          {% if site.posts.size < 18 %}
+          {% assign pendingArticlesCount = 30 %}
+          {% if site.posts.size < 38 %}
             {% assign pendingArticlesCount = pendingArticlesCount | minus:8 %}
           {% endif %}
 
           {% assign postCount = 0 %}
-          {% for post in site.posts | limit:18 %}
+          {% for post in site.posts | limit:38 %}
             {% assign postCount = postCount | plus:1 %}
 
             {% assign fullDestination = post.country | append: " - " %}

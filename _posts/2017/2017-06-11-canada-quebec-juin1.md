@@ -12,7 +12,7 @@ header-img: "assets/owner/blog/header/post-bg-rt5.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt5.jpg
 tags: [lac, histoire, mer-ocean]
 country: Canada 
-states: ["Nouveau Brunswick", "Nouvelle Ecosse", "Ile du Prince Edouard"]
+states: ["Nouveau Brunswick", "Nouvelle Ecosse", "Ile Du Prince Edouard"]
 category: "roadmap"
 flickr-text: "Québec"
 location: "46.505981, -65.874279"

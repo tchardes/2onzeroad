@@ -66,7 +66,7 @@ title: country archive
                     {% endif %}
                 {% endif %}
                 
-                {% assign urlParams = urlParams | replace: ' ', '_'  %}
+                {% assign urlParams = urlParams | replace: ' ', '_' | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e'  %}                
                 
                 <div>
                     <a href="{{ fullUrl }}{{urlParams}}"/>

@@ -39,7 +39,7 @@ title: destination archive
     {% assign urlParams = "?tags=" | append: page.flickr-tags %}                  
 {% endif %}
 
-{% assign urlParams = urlParams | replace: ' ', '_'  %}
+{% assign urlParams = urlParams | replace: ' ', '_' | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e'  %}
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
@@ -97,7 +97,7 @@ title: destination archive
 <div id="post-content">
     <div class="row">
         <div class="col-md-8" style="text-align: left;padding-bottom: 20px;">
-             <h3>Aperçus de photos taggées <strong>{{tagClean}}</strong>... </h3>
+             <h3>Aperçus de photos taggées <strong>{{page.destination}}</strong>... </h3>
         </div>
 
         <div class="col-md-4" style="text-align: right">
