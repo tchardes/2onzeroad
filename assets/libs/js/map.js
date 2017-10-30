@@ -18,6 +18,8 @@ function initMap() {
       var googleStyle = $(this).attr('googleStyle');
       var bounds;
 
+      console.log(zoom);
+
       // initialize the map canvas
       $(this).find('.map-canvas').each(function() {    
         map = getMap(this, mapId, googleStyle, zoom);

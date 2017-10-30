@@ -53,6 +53,7 @@
                 </div>
             </div>
             <div>
+                {% assign post = page %}
                 {% include map_canvas.html id="map" relatedPosts=relatedPosts isRecusrive="false" googleStyle="false" %}                    
             </div>
         </header>
