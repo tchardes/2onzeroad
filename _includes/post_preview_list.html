@@ -1,38 +1,46 @@
 <a href="{{ post.url }}" class="post_preview_list">
     <div style="display: inline-flex;width: 100%">
         <img src="{{ post.thumbnail }}" style="width: 80px;height: 60px;" alt="Image" class="img-responsive"/>
-        <div class="post-preview-image-{{post.category}}" style="width: 100%" >
-            <div style="display: inline-flex;padding: 5px 5px 0px 10px;">
-                <div>
+        <div class="post-preview-image-{{post.category}}" style="width: 100%;overflow: overlay;" >
+            <div style="display: inline-flex;padding: 5px 5px 3px 10px;">
+                <div style="white-space: nowrap;">
                     <h3 style="margin: 0;color: #00C4ED;" class="list-group-item-heading">{{ post.title }}</h3>
                 </div>
-                <div style="padding: 0px 0px 0px 20px;font-size: 18px;color: #eee;font-weight: 500;">
-                    {% if page.category == "roadmap" %}
+                <div style="white-space: nowrap;padding: 0px 0px 0px 20px;font-size: 19px;color: #eee;font-weight: 500;">
+
+                    <i class="fa fa-map-marker googleMarker"></i>
+                    {% assign fullDestination = post.country | append: " - " %}
+
+                    {% for state in post.states %}
+                        {% if forloop.last == true %}
+                            {% assign fullDestination = fullDestination | append: state %}
+                        {% else %}
+                            {% assign fullDestination = fullDestination | append: state | append: " / " %}
+                        {% endif %}
+                    {% endfor %}
+
+                    {% if post.city %}
+                        {% assign fullDestination = fullDestination | append: " - " | append: post.city %}
+                    {% endif %}
+
+                    {{ fullDestination }}
+                </div>
+            </div>
+            <div style="font-size:15px;padding: 0px 10px;color: #eee;">
+                <span style="margin:0px 10px 0px 0px;">
+                    {% if post.category == "roadmap" %}
                         <i class="fa fa-calendar color-blog"></i>
                         {{ post.from-date | date: "%-d %-b %Y"  }}
                         <i style="padding: 0px 10px" class="fa fa-long-arrow-right"></i>
                         <i class="fa fa-calendar color-blog"></i>
                         {{ post.to-date | date: "%-d %-b %Y"  }}
-                    {% endif %}
-                </div>
-            </div>
-            <div style="font-size:18px;padding: 0px 10px;color: #eee;">
-                <i class="fa fa-map-marker googleMarker"></i>
-                {% assign fullDestination = post.country | append: " - " %}
-
-                {% for state in post.states %}
-                    {% if forloop.last == true %}
-                        {% assign fullDestination = fullDestination | append: state %}
                     {% else %}
-                        {% assign fullDestination = fullDestination | append: state | append: " / " %}
+                        <i class="fa fa-calendar color-blog"></i>
+                        {{ post.date | date: "%-d %-b %Y"  }}
                     {% endif %}
-                {% endfor %}
-
-                {% if post.city %}
-                    {% assign fullDestination = fullDestination | append: " - " | append: post.city %}
-                {% endif %}
-
-                {{ fullDestination }}
+                </span>
+                <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                {{ post.preview }}
             </div>
         </div>
     </div>
