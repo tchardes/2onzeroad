@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: tag archive
 ---
-
 
 {% assign tag = page.url | split:'/' | last %}
 {% assign tagClean = tag | replace: '-', ''  %}
@@ -13,64 +12,68 @@ title: tag archive
     {% endif %}
 {% endfor %}
 
-<div id="post-content">
+{% include basic_header.html title=displayTag subTitle="" %}
 
-    <div class="row">
-        <div class="col-md-8" style="text-align: left;padding-bottom: 20px;">
-             <h3>Aperçus de photos taggées <strong>{{displayTag}}</strong>... </h3>
-        </div>
+<div class="container">
+    <div id="post-content">
 
-        <div class="col-md-4" style="text-align: right">
-             <h3><a style="color:white" href="{{ root_url }}/gallery/?tags={{tag}}">...vers la galerie</a> </h3>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-12">
-            <div class="js-gallery gallery" style="display:none">
-                <h3 id="photoTitle"></h3>
-                <img src="" class="js-gallery__image" />
+        <div class="row">
+            <div class="col-md-8" style="text-align: left;padding-bottom: 20px;">
+                <h3>Aperçus de photos</h3>
             </div>
-            <div class="island thumbnails" style="margin-bottom: -20px;">
-                <ul class="js-thumbnails__list thumbnails__list"></ul>
+
+            <div class="col-md-4" style="text-align: right">
+                <h3><a style="color:white" href="{{ root_url }}/gallery/?tags={{tag}}">...vers la galerie</a> </h3>
             </div>
         </div>
-    </div>
 
-    <br/>
-    <br/>
-
-    <div class="row" style="padding-bottom: 20px;">
-        <div class="col-md-12">
-            <h3>Articles taggés <strong>{{displayTag}}</strong>...</h3>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="js-gallery gallery" style="display:none">
+                    <h3 id="photoTitle"></h3>
+                    <img src="" class="js-gallery__image" />
+                </div>
+                <div class="island thumbnails" style="margin-bottom: -20px;">
+                    <ul class="js-thumbnails__list thumbnails__list"></ul>
+                </div>
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12">
-        {% if site.tags[tag] %}
-            {% for post in site.tags[tag] %}
-                {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
-                {% if forloop.first %}
-                    <h3>{{ post_year }}</h3><div class="list-group">
-                {% endif %}
-                
-                {% if forloop.first == false %}
-                    {% assign previous_index = forloop.index0 | minus: 1 %}
-                    {% capture previous_post_year %}{{ site.tags[tag][previous_index].date | date: '%Y' }}{% endcapture %}
-                    {% if post_year != previous_post_year %}
-                        </div><h3>{{ post_year }}</h3><div class="list-group">
+
+        <br/>
+        <br/>
+
+        <div class="row" style="padding-bottom: 20px;">
+            <div class="col-md-12">
+                <h3>Articles</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+            {% if site.tags[tag] %}
+                {% for post in site.tags[tag] %}
+                    {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
+                    {% if forloop.first %}
+                        <h3>{{ post_year }}</h3><div class="list-group">
                     {% endif %}
-                {% endif %}
+                    
+                    {% if forloop.first == false %}
+                        {% assign previous_index = forloop.index0 | minus: 1 %}
+                        {% capture previous_post_year %}{{ site.tags[tag][previous_index].date | date: '%Y' }}{% endcapture %}
+                        {% if post_year != previous_post_year %}
+                            </div><h3>{{ post_year }}</h3><div class="list-group">
+                        {% endif %}
+                    {% endif %}
 
-                    {% include post_preview_list.html %}
+                        {% include post_preview_list.html %}
 
-                {% if forloop.last %}
-                    </div>
-                {% endif %}
-            {% endfor %}
-        {% else %}
-            <p>Aucun article contenant ce tag.</p>
-        {% endif %}
+                    {% if forloop.last %}
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            {% else %}
+                <p>Aucun article contenant ce tag.</p>
+            {% endif %}
+            </div>
         </div>
     </div>
 </div>

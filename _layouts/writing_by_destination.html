@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: destination archive
 ---
 
@@ -93,54 +93,56 @@ title: destination archive
 
 <script src="https://apis.google.com/js/client.js?onload=onClientLoad" type="text/javascript"></script>
 
+{% include basic_header.html title=page.destination subTitle="" %}
 
-<div id="post-content">
-    <div class="row">
-        <div class="col-md-8" style="text-align: left;padding-bottom: 20px;">
-             <h3>Aperçus de photos taggées <strong>{{page.destination}}</strong>... </h3>
-        </div>
-
-        <div class="col-md-4" style="text-align: right">
-             <h3><a style="color:white" href="{{ root_url }}/gallery/{{urlParams}}">...vers la galerie</a></h3>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-12">
-            <div class="js-gallery gallery" style="display:none">
-                <h3 id="photoTitle"></h3>
-                <img src="" class="js-gallery__image" />
+<div class="container">
+    <div id="post-content">
+        <div class="row">
+            <div class="col-md-8" style="text-align: left;padding-bottom: 20px;">
+                <h3>Aperçus de photos</h3>
             </div>
-            <div class="island thumbnails" style="margin-bottom: -20px;">
-                <ul class="js-thumbnails__list thumbnails__list"></ul>
+
+            <div class="col-md-4" style="text-align: right">
+                <h3><a style="color:white" href="{{ root_url }}/gallery/{{urlParams}}">...vers la galerie</a></h3>
             </div>
         </div>
-    </div>
 
-    <div class="row" style="padding-bottom: 20px;">
-        <div class="col-md-12">
-            <h3>Vidéos de <strong>{{page.destination}}</strong>...</h3>
-        </div>
-    </div>
-
-    <div class="row" style="padding: 0px 15px;">
-        <div id="iVideo"></div>
-    </div>
-
-    <div class="row" style="padding-bottom: 20px;">
-        <div class="col-md-12">
-            <h3>Articles de <strong>{{page.destination}}</strong>...</h3>
-        </div>
-    </div>
-    <div class="row">
-        {% for post in relatedPosts %}
-            <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
-                {% include post_preview.html %}
+        <div class="row">
+            <div class="col-md-12">
+                <div class="js-gallery gallery" style="display:none">
+                    <h3 id="photoTitle"></h3>
+                    <img src="" class="js-gallery__image" />
+                </div>
+                <div class="island thumbnails" style="margin-bottom: -20px;">
+                    <ul class="js-thumbnails__list thumbnails__list"></ul>
+                </div>
             </div>
-        {% endfor %}
+        </div>
+
+        <div class="row" style="padding-bottom: 20px;">
+            <div class="col-md-12">
+                <h3>Vidéos</h3>
+            </div>
+        </div>
+
+        <div class="row" style="padding: 0px 15px;">
+            <div id="iVideo"></div>
+        </div>
+
+        <div class="row" style="padding-bottom: 20px;">
+            <div class="col-md-12">
+                <h3>Articles</h3>
+            </div>
+        </div>
+        <div class="row">
+            {% for post in relatedPosts %}
+                <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
+                    {% include post_preview.html %}
+                </div>
+            {% endfor %}
+        </div>
     </div>
 </div>
-
         
 <!-- include the Flickr client -->
 <script src="{{ site.url }}/assets/libs/js/flickr/utility.js"></script>

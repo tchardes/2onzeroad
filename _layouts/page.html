@@ -20,6 +20,18 @@ layout: default
                             </div>
                         </div>
                     {% endif %}
+
+                    {% if page.category %}
+                        <span class="subheading">
+                            {{ page.category | capitalize }}
+                        </span>
+                    {% endif %}
+
+                    {% if page.destination %}
+                        <span class="subheading">
+                            {{ page.destination }}
+                        </span>
+                    {% endif %}
                 </div>
             </div>
         </div>

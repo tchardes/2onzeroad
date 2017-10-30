@@ -41,6 +41,7 @@ blockquote {
   font-style: italic;
 }
 hr.small {
+  width: 100%;
   max-width: 300px;
   margin: 15px auto;
   border-width: 2px;
@@ -157,10 +158,6 @@ hr.small {
 }
 
 .long-description {
-    position: absolute;
-    padding: 5px;
-    left: 0px;
-    right: 0px;
     margin-top: 15px;
     font-size: 18px;
     font-style: italic;
@@ -176,26 +173,25 @@ hr.small {
   -o-background-size: cover;
   margin-bottom: 30px;
 }
-.intro-header .site-heading,
-.intro-header .post-heading,
-.intro-header .page-heading {
-  padding: 100px 0 0;
-  color: white;
-}
+
+
 @media only screen and (min-width: 768px) {
-  .intro-header .site-heading,
-  .intro-header .post-heading,
-  .intro-header .page-heading {
-    padding: 110px 0 0 0;
-  }
   .long-description {
     display: block;
   }
 }
+
 .intro-header .site-heading,
+.intro-header .post-heading,
 .intro-header .page-heading {
+  flex-direction: column;
+  padding-top:50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
   min-height: 400px;
+  color: white;
 }
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {

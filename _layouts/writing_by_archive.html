@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: destination archive
 ---
 
@@ -25,17 +25,16 @@ title: destination archive
 | replace: 'November', 'Novembre' 
 | replace: 'December', 'Décembre' %}
 
-<div id="post-content">
-    <div class="row" style="padding-bottom: 20px;">
-        <div class="col-md-12">
-            <h3>Articles archivés du mois de <strong>{{displayDate}}</strong>...</h3>
+{% include basic_header.html title=displayDate subTitle="" %}
+
+<div class="container">
+    <div id="post-content">
+        <div class="row">
+            {% for post in relatedPosts %}
+                <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
+                    {% include post_preview.html %}
+                </div>
+            {% endfor %}
         </div>
-    </div>
-    <div class="row">
-        {% for post in relatedPosts %}
-            <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
-                {% include post_preview.html %}
-            </div>
-        {% endfor %}
     </div>
 </div>
