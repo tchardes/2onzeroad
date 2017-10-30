@@ -1,9 +1,11 @@
 ---
 layout:     blog
-title:   "road trip du 30 juin au 07 juillet 2016"
+title:   "Road trip du 30 juin au 07 juillet 2016"
 preview:    "Puerto ou Porto Rico, selon que l'on soit portoricain hispanophone ou anglophone..."
 
 date:       2016-07-10 12:00:00
+from-date:  2016-06-30 13:00:00
+to-date:    2016-07-07 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-puerto-rico.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-puerto-rico.jpg
