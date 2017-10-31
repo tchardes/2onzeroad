@@ -50,6 +50,7 @@
          image.className = 'thumbnail';
          image.alt = this.photos[i].title;
          image.title = this.photos[i].title;
+         image.style = "margin-bottom: 5px"
 
          link = document.createElement('a');
          link.href = image.src;

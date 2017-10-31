@@ -82,7 +82,7 @@ kramdown:
     input:          GFM
 sass:
     style:          :compressed
-paginate: 8
+paginate: 20
 paginate_path: "/writing/page:num/"
 permalink: "/writing/:title/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

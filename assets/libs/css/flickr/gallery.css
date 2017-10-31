@@ -1,6 +1,7 @@
 .gallery
 {
    position: relative;
+   padding-bottom:20px;
    /*border: 1px solid #333;*/
 }
 
