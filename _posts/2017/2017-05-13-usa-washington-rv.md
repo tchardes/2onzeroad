@@ -12,7 +12,7 @@ tags: []
 flickr-text: ""
 country: USA
 states: ["Maryland", "Washington DC"]
-city: 
+city:
 category: "blog"
 location: "38.979650, -76.906927"
 ---
