@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Ouest Canada"
+title: "Ouest Canada 2"
 preview: "Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé ..."
 parent-id: 
 date:   2017-09-03 13:00:00
@@ -19,7 +19,7 @@ itinary: "colombie.json"
 mapZoom: 4
 ---
 
-Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé les territoires du Yukon et de la Colombie Britannique avec une petite incursion au sud de l'Alaska.  
+Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé les territoires du Yukon et de la Colombie Britannique avec une petite incursion au sud de l'Alaska.   
 
 ## 19 août     
 
@@ -39,7 +39,7 @@ Ce matin, courses au Walmart puis nous partons visiter le bateau à aube **Klond
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36739906765/in/datetaken/" title="Whitehorse - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4421/36739906765_114b8c6503_k.jpg" width="2048" height="1152" alt="Whitehorse - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous poursuivons par le **Miles Canyon**, site au bord du fleuve Yukon où une passerelle permet de traverser un canyon creusé dans le basalte et accéder à plusieurs trails.  
+Nous poursuivons par le **Miles Canyon**, site au bord du fleuve Yukon où une passerelle permet de traverser un canyon creusé dans le basalte et accéder à plusieurs trails.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600670681/in/datetaken/" title="Whitehorse - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4408/36600670681_e127cdd244_k.jpg" width="2048" height="1152" alt="Whitehorse - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -47,9 +47,9 @@ Le soir, nous testons le **Klondike Rib & Salmon**. C’est le resto très typiq
 
 ## 21 août   
 
-Ce matin, nous avions prévu de faire la vidange de Thor mais tous les magasins sont fermés. Après renseignement, le troisième lundi du mois d’août est un jour férié au Yukon, c’est la fête du **jour de la découverte**, découverte de l’or dans le ruisseau Bonanza par des pionniers, le 16 août 1896 qui va déclencher l’une des plus importantes ruées vers l’or, entrainant l’année suivante la création officielle du territoire du Yukon. La laverie est quand même ouverte, nous nous occupons du linge avant de retourner au visitor center pour profiter de leurs commodités.  
+Ce matin, nous avions prévu de faire la vidange de Thor mais tous les magasins sont fermés. Après renseignement, le troisième lundi du mois d’août est un jour férié au Yukon, c’est la fête du **jour de la découverte**, découverte de l’or dans le ruisseau Bonanza par des pionniers, le 16 août 1896 qui va déclencher l’une des plus importantes ruées vers l’or, entrainant l’année suivante la création officielle du territoire du Yukon. La laverie est quand même ouverte, nous nous occupons du linge avant de retourner au visitor center pour profiter de leurs commodités.   
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36343444420/in/datetaken/" title="Whitehorse - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4404/36343444420_eb740f4ecf_k.jpg" width="2048" height="1152" alt="Whitehorse - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36343444420/in/datetaken/" title="Whitehorse - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4404/36343444420_eb740f4ecf_k.jpg" width="2048" height="1152" alt="Whitehorse - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 ## 22 août    
 
@@ -61,21 +61,21 @@ Nous quittons "l'Alcan" un peu avant Watson Lake pour prendre la British Columbi
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35468271783/in/datetaken/" title="Watson Lake - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4291/35468271783_2c120209df_k.jpg" width="2048" height="1152" alt="Watson Lake - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-En fin de journée, nous quittons le Yukon pour la Colombie Britannique et passons en dessous du 60ème parallèle. Corinne nous trouve un super bivouac au bord d'une rivière qui était fait pour nous, "French Creek"….  
+En fin de journée, nous quittons le Yukon pour la Colombie Britannique et passons en dessous du 60ème parallèle. Corinne nous trouve un super bivouac au bord d'une rivière qui était fait pour nous, "French Creek"….   
 
 ## 23 août   
 
 Nous poursuivons notre descente plein sud et traversons la soit-disant capitale mondiale du Jade, **Dease Lake**. Juste avant le village se trouve "Jade City" une très belle boutique qui propose, entre autre, de nombreux articles créés en jade. En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de kilomètres d’intervalle dont une maman avec son ourson. Pour l'instant, la "37" que nous avons renommée la "The bear road" est bien goudronnée.    
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36823426555/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4407/36823426555_8a0c7f809c_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36823426555/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4407/36823426555_8a0c7f809c_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36426979800/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4367/36426979800_2f8409715f_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Nous trouvons un bivouac peu avant Meziadin Junction où nous bifurquerons demain sur la "37A" pour une nouvelle incursion en Alaska.  
+Nous trouvons un bivouac peu avant Meziadin Junction où nous bifurquerons demain sur la "37A" pour une nouvelle incursion en Alaska.   
 
 ## 24 août    
 
-A peine après avoir quitté notre lieu de stationnement, nous croisons un magnifique ours noir qui traverse la route devant nous, la journée commence bien. Nous bifurquons sur la "37A" qui s'avèrera être goudronnée également tout le long. Sur la route, nous passons devant **Bear glacier**.   
+A peine après avoir quitté notre lieu de stationnement, nous croisons un magnifique ours noir qui traverse la route devant nous, la journée commence bien. Nous bifurquons sur la "37A" qui s'avèrera être goudronnée également tout le long. Sur la route, nous passons devant **Bear glacier**.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36657044542/in/datetaken/" title="Stewart - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4340/36657044542_ab23c61313_k.jpg" width="2048" height="1152" alt="Stewart - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -108,9 +108,7 @@ En fin d'après-midi, nous faisons route vers **Prince George**. Nous quittons a
 Arrivés à Prince George, nous faisons le plein dans une station Esso qui propose également dump et eau. A L’issue, nous nous rendons au visitor center pour prendre de la documentation sur la ville et nous partons pour le **Parc Cottonwood Island Parc** qui présente la particularité d’avoir une douzaine d’arbres sculptés par Elmer Gunderson, un artiste local. Les températures ont bien augmentées, nous ressortons short, tee shirt et tongs.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37334738275/in/datetaken/" title="Prince George - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4417/37334738275_b027951132_k.jpg" width="2048" height="1152" alt="Prince George - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
-
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37161112202/in/datetaken/" title="Prince George - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4409/37161112202_5a0010ba47_k.jpg" width="2048" height="1152" alt="Prince George - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
-
 Nous partons ensuite découvrir le centre ville par un circuit pédestre qui s'avérera complètement nul, de plus nous sommes dimanche et la ville est vraiment morte. Nous écourtons notre arrêt et partons en direction de Vancouver City, en route, nous nous arrêtons à **Quesnel** où nous faisons un trail au Pinnacles Provincial Parc, l’horizon est embrumé en raison de nombreux feux de forêts dans la région.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36520553873/in/datetaken/" title="Quesnel - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4371/36520553873_c7d561cf95_k.jpg" width="2048" height="1152" alt="Quesnel - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
@@ -123,7 +121,6 @@ Le lendemain, on prend le métro en direction du centre ville, la journée est t
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37013713770/in/datetaken/" title="IMG_4501"><img src="https://farm5.staticflickr.com/4361/37013713770_1fc126cd6b_k.jpg" width="2048" height="1365" alt="IMG_4501"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37240309042/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4380/37240309042_64dc161e9d_k.jpg" width="2048" height="1365" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
-
 Nous déjeunons dans un très bon restaurant le **Flying Pig** et je vais chez un barbier qui me taille très bien la barbe mais me loupe la coupe de cheveux. On finit la journée par le downtown et les quais de Coal Harbour où l'on assiste aux balais incessants des hydravions.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37013490870/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4484/37013490870_e5f5446499_k.jpg" width="2048" height="1152" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
@@ -138,13 +135,13 @@ Départ pour l'île de Vancouver **(voir l’article <a href="{{site.baseurl}}{%
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37221298146/in/datetaken/" title="Mill Bay - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4505/37221298146_cc24ab89f0_k.jpg" width="2048" height="1152" alt="Mill Bay - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-## 31 août  
+## 31 août   
 
-Le 31 août, alors que je fais le plein d'essence dans une station vers **Nanaimo**, un jeune backpacker originaire de Toronto vient me demander si nous pouvons l’avancer un peu. Il monte avec nous dans Thor et on discute un bon moment avant de le laisser à un croisement, n'ayant pas la même destination.  
+Le 31 août, alors que je fais le plein d'essence dans une station vers **Nanaimo**, un jeune backpacker originaire de Toronto vient me demander si nous pouvons l’avancer un peu. Il monte avec nous dans Thor et on discute un bon moment avant de le laisser à un croisement, n'ayant pas la même destination.   
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37410500885/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4442/37410500885_45f8700f09_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37410500885/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4442/37410500885_45f8700f09_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-## 01 septembre  
+## 01 septembre   
 
 En montant vers **Tofino**, nous sommes arrêtés pour des travaux. Un énorme engin à chenille coupe de gros arbres le long de la route, dans un virage, certainement pour l'agrandir. C’est impressionnant avec quelle facilité la griffe avant entoure l’arbre tandis qu’un immense disque coupe la base.  
 
@@ -152,18 +149,19 @@ Au cours du Rainforest Trail, je rencontre un monsieur qui marche à sens invers
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37266192331/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4473/37266192331_a66e09716a_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Dans la région de Tofino, les lieux pour un bivouac sauvage sont assez rares d'autant plus que presque toute la péninsule est incluse dans un parc national. Vu le nombre de touristes encore présents, nous repérons dans l'après midi un site pour poser Thor le soir même. Le lieu n’est pas très glamour mais il fera l’affaire. Il est à peine 18h00 quand nous rejoignons le bivouac, nous sommes les premiers mais pas pour longtemps, nous sommes rapidement rejoints par une petite dizaine de RV et toute la soirée d’autres viendront pour tenter de trouver une place.  
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36556723754/in/datetaken/" title="Tofino - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4341/36556723754_f3d4fe6ce3_k.jpg" width="2048" height="1152" alt="Tofino - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+Dans la région de Tofino, les lieux pour un bivouac sauvage sont assez rares d'autant plus que presque toute la péninsule est incluse dans un parc national. Vu le nombre de touristes encore présents, nous repérons dans l'après midi un site pour poser Thor le soir même. Le lieu n’est pas très glamour mais il fera l’affaire. Il est à peine 18h00 quand nous rejoignons le bivouac, nous sommes les premiers mais pas pour longtemps, nous sommes rapidement rejoints par une petite dizaine de RV et toute la soirée d’autres viendront pour tenter de trouver une place.   
 
-## 02 septembre  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36556723754/in/datetaken/" title="Tofino - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4341/36556723754_f3d4fe6ce3_k.jpg" width="2048" height="1152" alt="Tofino - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+## 02 septembre   
 
 En route pour Nanaimo, nous nous arrêtons à Parksville dans un state camping mais ce dernier est plein. Nous décidons de continuer jusqu’à Nanaimo à la station où nous étions déjà allés à l’aller pour faire le plein ainsi que les dump. Il est déjà tard et nous avons un peu de mal à trouver un emplacement. Nous tentons le parking du port au ferry mais ce dernier est interdit pour y rester la nuit. Finalement, nous finissons dans la rue à quelques centaines de mètres de l’entrée du port, on ne sera pas dérangés.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36556506864/in/datetaken/" title="Vancouver Island - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4496/36556506864_6887cc8681_k.jpg" width="2048" height="1152" alt="Vancouver Island - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## 03 septembre  
+## 03 septembre   
 
-Embarquement rapide sur le ferry puis départ vers un port situé cette fois au Nord de Vancouver, à Horseshoe Bay. Nous faisons route vers le centre de Vancouver en passant par le "Lions Gate bridge" et nous trouvons une place de parking près du Charleson Park et faisons une balade de 2 heures le long de la baie "False Creek", très reposante et qui bénéficie d'une superbe vue sur la ville.   
+Embarquement rapide sur le ferry puis départ vers un port situé cette fois au Nord de Vancouver, à Horseshoe Bay. Nous faisons route vers le centre de Vancouver en passant par le "Lions Gate bridge" et nous trouvons une place de parking près du Charleson Park et faisons une balade de 2 heures le long de la baie "False Creek", très reposante et qui bénéficie d'une superbe vue sur la ville.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36596793373/in/datetaken/" title="Horseshoe Bay - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4358/36596793373_73a543a274_k.jpg" width="2048" height="1152" alt="Horseshoe Bay - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
