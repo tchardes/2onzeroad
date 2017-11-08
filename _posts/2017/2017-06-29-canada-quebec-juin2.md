@@ -11,6 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt6.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt6.jpg
 tags: [lac, architecture]
+pois: [parc-des-monts-valins#14-juin, niagara#29-juin]
 country: Canada 
 states: ["Québec", "Ontario"]
 category: "roadmap"
