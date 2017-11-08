@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-everglades.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-everglades.jpg
 tags: [nature, faune, parc-naturel, unesco]
+pois: [everglades-np]
 flickr-text: "Everglades"
 country: USA
 states: ["Floride"]

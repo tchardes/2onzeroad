@@ -9,10 +9,10 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-miami.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-miami.png
 tags: [capitale, art, architecture, culturel]
+pois: [miami]
 flickr-text: "miami"
 country: USA
 states: ["Floride"]
-pois: [miami]
 city: Miami
 category: "blog"
 location: "25.778121, -80.131167"

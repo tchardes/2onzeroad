@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-keys.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-keys.jpg
 tags: [nature, architecture, culturel, mer-ocean]
+pois: [key-west]
 flickr-text: "Keys"
 country: USA
 states: ["Floride"]
