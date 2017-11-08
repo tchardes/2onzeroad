@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-banffjasper.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-banffjasper.jpg
 tags: [parc-naturel, montagne, lac, glace, unesco]
-pois: []
+pois: [banff-jasper-np]
 flickr-text: "Banff"
 country: Canada 
 states: ["Alberta"]

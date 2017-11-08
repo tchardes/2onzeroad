@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-ny.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-ny.jpg
 tags: [capitale, culturel, art, architecture]
-pois: []
+pois: [new-york]
 flickr-text: "New York"
 country: USA
 states: ["New York"]

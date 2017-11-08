@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-cabot.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-cabot.jpg
 tags: [nature, parc-naturel, faune]
-pois: []
+pois: [cabot-trail]
 flickr-text: "Nouvelle Ecosse"
 country: Canada 
 states: ["Nouvelle Ecosse"]

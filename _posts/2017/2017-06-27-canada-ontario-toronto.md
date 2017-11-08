@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-toronto.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-toronto.jpg
 tags: [ville, culture]
-pois: []
+pois: [toronto]
 flickr-text: "Toronto"
 country: Canada 
 states: ["Ontario"]

@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-denali.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-denali.jpg
 tags: [parc-naturel, montagne, lac, faune, unesco]
-pois: []
+pois: [denali-np]
 flickr-text: "Denali"
 country: USA
 states: ["Alaska"]

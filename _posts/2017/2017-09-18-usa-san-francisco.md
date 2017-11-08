@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-frisco.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-frisco.jpg
 tags: [capitale, architecture, art, mer-ocean, flore]
-pois: []
+pois: [san-francisco]
 flickr-text: "San-Francisco"
 country: USA 
 states: ["Californie"]
