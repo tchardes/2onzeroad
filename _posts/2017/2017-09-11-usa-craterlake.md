@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-crater.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-crater.jpg
 tags: [parc-naturel, montagne, lac, volcan, geologie]
+pois: []
 flickr-text: "Crater-Lake"
 country: USA 
 states: ["Oregon"]

@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-brpw.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-brpw.jpg
 tags: [nature, parc-naturel, montagne, paysage]
+pois: [blue-ridge-pw]
 flickr-text: "Blue-Ridge"
 country: USA
 states: ["Caroline du Nord", "Virginie"]

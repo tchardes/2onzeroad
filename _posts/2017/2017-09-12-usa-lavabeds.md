@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-lavabeds.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-lavabeds.jpg
 tags: [parc-naturel, montagne, volcan, geologie]
+pois: []
 flickr-text: "Lava beds"
 country: USA 
 states: ["Californie"]

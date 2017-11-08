@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-chicago.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-chicago.jpg
 tags: [ville, capitale, architecture]
+pois: []
 flickr-text: "Chicago"
 country: USA
 states: ["Illinois"]

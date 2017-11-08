@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-yellowstone.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-yellowstone.jpg
 tags: [parc-naturel, geologie, volcan, faune, unesco]
+pois: []
 flickr-text: "Yellowstone"
 country: USA
 states: ["Wyoming"]

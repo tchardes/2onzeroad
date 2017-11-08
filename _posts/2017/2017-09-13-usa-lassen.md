@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-lassen.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-lassen.jpg
 tags: [parc-naturel, montagne, volcan, geologie, lac]
+pois: []
 flickr-text: "Lassen"
 country: USA 
 states: ["Californie"]
