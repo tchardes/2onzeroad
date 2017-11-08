@@ -8,7 +8,7 @@ date:       2017-06-03 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-cabot.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-cabot.jpg
-tags: [nature, parc-naturel, faune]
+tags: [parc-naturel, faune]
 pois: [cap-breton]
 flickr-text: "Nouvelle Ecosse"
 country: Canada 
