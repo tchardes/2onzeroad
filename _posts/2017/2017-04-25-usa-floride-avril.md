@@ -12,7 +12,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt-flo1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt-flo2.jpg
 tags: [parc-naturel, faune, transport]
-pois: [saint-augustine#23-avril]
+pois: [saint-augustine#23-avril, fort-caroline#24-avril]
 country: USA
 states: ["Floride"]
 category: "roadmap"

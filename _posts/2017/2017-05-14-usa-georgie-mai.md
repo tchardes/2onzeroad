@@ -11,6 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt2.jpg
 tags: [histoire, parc-naturel, geologie, faune]
+pois: [grotte-luray#08-mai]
 country: USA
 states: ["Géorgie", "Caroline du Sud", "Caroline du Nord", "Virginie", "Washington DC", "Maryland"]
 category: "roadmap"

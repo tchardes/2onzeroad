@@ -31,7 +31,10 @@
     {"name": "san-francisco", "displayName": "San Francisco"},
 
     {"name": "navy-seal", "displayName": "Navy Seal (Musée National)"}, 
-    {"name": "saint-augustine", "displayName": "Saint Augustine)"},
-    {"name": "fort-caroline", "displayName": "Fort Caroline National Park)"}
+    {"name": "saint-augustine", "displayName": "Saint Augustine"},
+    {"name": "fort-caroline", "displayName": "Fort Caroline National Park"},
+    {"name": "grotte-luray", "displayName": "Grotte de Luray"},
+    {"name": "salem", "displayName": "Salem"},
+    {"name": "newport", "displayName": "Newport"}
 
 ]

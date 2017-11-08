@@ -12,6 +12,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt4.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt4.jpg
 tags: [architecture, mer-ocean]
+pois: [salem#28-mai, newport#24-au-26-mai]
 country: USA
 states: ["Delaware", "New Jersey", "New York", "Rhode Island", "Massachusetts", "New Hampshire", "Maine"]
 category: "roadmap"
