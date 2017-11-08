@@ -28,4 +28,6 @@
     {"name": "crater-lake-np", "displayName": "Crater Lake NP"},
     {"name": "lava-beds-nm", "displayName": "Lava Beds NM"},
     {"name": "lassen-volcanic-np", "displayName": "Lassen Volcanic NP"},
-    {"name": "san-francisco", "displayName": "San Francisco"},
+    {"name": "san-francisco", "displayName": "San Francisco"}
+
+]
