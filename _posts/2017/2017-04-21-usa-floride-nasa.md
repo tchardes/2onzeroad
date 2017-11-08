@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-nasa.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-nasa.jpg
 tags: [histoire, technologie, culturel, transport]
+pois: [nasa]
 flickr-text: "NASA"
 country: USA
 states: ["Floride"]

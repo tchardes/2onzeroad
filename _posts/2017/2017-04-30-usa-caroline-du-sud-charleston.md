@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-charleston.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-charleston.jpg
 tags: [histoire, culturel, architecture]
+pois: [charleston]
 flickr-text: "Charleston"
 country: USA
 states: ["Caroline du Sud"]

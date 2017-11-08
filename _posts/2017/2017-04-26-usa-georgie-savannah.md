@@ -9,6 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-savannah.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-savannah.jpg
 tags: [histoire, culturel, transport]
+pois: [savannah]
 flickr-text: "Savannah"
 country: USA
 states: ["Géorgie"]
