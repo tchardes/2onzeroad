@@ -35,6 +35,12 @@
     {"name": "fort-caroline", "displayName": "Fort Caroline National Park"},
     {"name": "grotte-luray", "displayName": "Grotte de Luray"},
     {"name": "salem", "displayName": "Salem"},
-    {"name": "newport", "displayName": "Newport"}
+    {"name": "newport", "displayName": "Newport"},
+    {"name": "louisbourg", "displayName": "Louisbourg"},
+    {"name": "halifax", "displayName": "Halifax"},
+    {"name": "grand-pre", "displayName": "Grand Prè"},
+    {"name": "halifax", "displayName": "Halifax"},
+    {"name": "ile-du-prince-edouard", "displayName": "Ile Du Prince Edouard"},
+    {"name": "shediac", "displayName": "Shediac"},
 
 ]
