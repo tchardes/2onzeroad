@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt7.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt7.jpg
 tags: [architecture, transport, art, culturel, montagne]
-pois: []
+pois: [detroit#30-juin, mottown#30-juin, milwaukee#04-et-05-juillet, summerfest#04-et-05-juillet, harley-davidson#04-et-05-juillet, mont-rushmore#08-juillet, crazy-horse#08-juillet, devils-tower#08-juillet, cody#10-juillet]
 country: USA
 states: ["Michigan", "Indiana", "Illinois", "Wisconsin", "Minnesota", "Dakota du Sud", "Wyoming", "Montana"]
 category: "roadmap"
