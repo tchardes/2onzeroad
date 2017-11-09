@@ -11,6 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt8.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt8.jpg
 tags: [architecture, lac, faune, montagne]
+pois: [Waterton, Calgary, ]
 country: Canada 
 states: ["Alberta", "Colombie Britannique", "Yukon"]
 category: "roadmap"
