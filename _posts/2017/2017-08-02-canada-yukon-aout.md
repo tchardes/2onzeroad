@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt8.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt8.jpg
 tags: [architecture, lac, faune, montagne]
-pois: [Waterton, Calgary, ]
+pois: [waterton#19-juillet, calgary#20-juillet, dawson-city#01-août, top-world#01-août]
 country: Canada 
 states: ["Alberta", "Colombie Britannique", "Yukon"]
 category: "roadmap"
@@ -33,7 +33,7 @@ Départ de Rising Sun et route vers la frontière Canadienne. Devant mon pauvre 
 
 ## 20 juillet  
 
-Depuis que j'ai fait tomber mon objectif 17-50 à Savannah, il était de plus en plus difficile d'actionner le zoom et s'est carrément bloqué il y a quelques jours. J'ai regretté de ne pas l'avoir changé à New York chez B&H, je pensais qu'il tiendrait le temps du voyage. Je trouve sur Internet un assez grand magasin à Calgary et nous commençons la journée par l'achat d'un 24-105 mm ainsi qu'une carte mémoire supplémentaire et un harnais. Me voilà paré pour couvrir le reste du voyage. Nous poursuivons par la visite de la ville. Si Montreal a choisi de faire des passages souterrains pour se rendre d'un bâtiment à l'autre en hiver, Calgary a opté pour des passerelles qu'ils nomment "15", en raison de leur hauteur de 15 pieds (4,60 mètres) par rapport au sol. Nous déambulons dans une rue piétonne très animée, traversons "Prince's Island Park" qui nous permet d'avoir une belle vue sur la ville dont le centre est parcouru par un tram gratuit. A midi, nous déjeunons dans un restaurant typique d'Amérique du Nord avec ses écrans accrochés sur tous les murs et diffusant chaines d'info et retransmission des matchs de Baseball et parties de golf. Le soir, nous retournons au Walmart, on s'occupe en route de faire les pleins de gazoline et propane.  
+Depuis que j'ai fait tomber mon objectif 17-50 à Savannah, il était de plus en plus difficile d'actionner le zoom et s'est carrément bloqué il y a quelques jours. J'ai regretté de ne pas l'avoir changé à New York chez B&H, je pensais qu'il tiendrait le temps du voyage. Je trouve sur Internet un assez grand magasin à Calgary et nous commençons la journée par l'achat d'un 24-105 mm ainsi qu'une carte mémoire supplémentaire et un harnais. Me voilà paré pour couvrir le reste du voyage. Nous poursuivons par la visite de la ville. Si Montréal a choisi de faire des passages souterrains pour se rendre d'un bâtiment à l'autre en hiver, Calgary a opté pour des passerelles qu'ils nomment "15", en raison de leur hauteur de 15 pieds (4,60 mètres) par rapport au sol. Nous déambulons dans une rue piétonne très animée, traversons "Prince's Island Park" qui nous permet d'avoir une belle vue sur la ville dont le centre est parcouru par un tram gratuit. A midi, nous déjeunons dans un restaurant typique d'Amérique du Nord avec ses écrans accrochés sur tous les murs et diffusant chaines d'info et retransmission des matchs de Baseball et parties de golf. Le soir, nous retournons au Walmart, on s'occupe en route de faire les pleins de gazoline et propane.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36211827426/in/datetaken/" title="Calgary - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4296/36211827426_55b1a0500d_k.jpg" width="2048" height="1152" alt="Calgary - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -42,7 +42,7 @@ Depuis que j'ai fait tomber mon objectif 17-50 à Savannah, il était de plus en
 
 ## 21 au 25 Juillet  
 
-Nous partons de Calgary pour les Parcs Nationaux de **Banff puis de Jasper**.  
+Nous partons de Calgary pour les Parcs Nationaux de **Banff** puis de **Jasper**.  
 **(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-07-25-canada-alberta-banffjasper %}">ici</a>)**    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35876531680/in/datetaken/" title="Banff - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4310/35876531680_97f6ddfc5d_k.jpg" width="2048" height="1152" alt="Banff - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
