@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt5.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt5.jpg
 tags: [lac, histoire, mer-ocean]
-pois: [louisbourg#03-juin, halifax#04-juin, grand-pre#05-juin, ile-du-prince-edouard#06-et-07-juin, shediac#10-juin]
+pois: [louisbourg#03-juin, halifax#04-juin, peggyscove#04-juin, lunenburg#04-juin, grand-pre#05-juin, ile-du-prince-edouard#06-et-07-juin, shediac#10-juin]
 country: Canada 
 states: ["Nouveau Brunswick", "Nouvelle Ecosse", "Ile Du Prince Edouard"]
 category: "roadmap"
