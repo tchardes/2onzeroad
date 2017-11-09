@@ -11,6 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt9.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt9.jpg
 tags: [paysage, faune, glace, mer-ocean, culturel]
+pois: [chicken#02-août, fairbanks#, dalton#05-et-06-août, ]
 country: USA
 states: ["Alaska"]
 category: "roadmap"
@@ -25,11 +26,11 @@ Neuvième article de type carnet de route, il couvre la période du 02 au 19 ao�
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35635227864/in/datetaken/" title="Alaska - [USA]"><img src="https://farm5.staticflickr.com/4408/35635227864_b3cce169eb_k.jpg" width="2048" height="1152" alt="Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-## 02 Août  
+## 02 août  
 
-Toujours sur la piste de la**Top of the World Highway**, nous passons la frontière pour rentrer à nouveau aux USA en fin de matinée. Après les quelques questions habituelles à l’immigration, nous reprenons la route. Un superbe enrobé nous accueille côté USA pendant une dizaine de kilomètres qui se transforme en piste à nouveau et de bien moindre qualité que du côté Canada. En route, nous voyons un couple en train de chercher de l’or dans une rivière. On discute un peu, ils ont au moins 70 ans. Lui creuse et remplit des sceaux pendant que madame tamise et cherche l’or dans l’eau de la rivière. Il me dit qu’ils en trouvent un peu tous les jours….  
+Toujours sur la piste de la **Top of the World Highway**, nous passons la frontière pour rentrer à nouveau aux USA en fin de matinée. Après les quelques questions habituelles à l’immigration, nous reprenons la route. Un superbe enrobé nous accueille côté USA pendant une dizaine de kilomètres qui se transforme en piste à nouveau et de bien moindre qualité que du côté Canada. En route, nous voyons un couple en train de chercher de l’or dans une rivière. On discute un peu, ils ont au moins 70 ans. Lui creuse et remplit des sceaux pendant que madame tamise et cherche l’or dans l’eau de la rivière. Il me dit qu’ils en trouvent un peu tous les jours….  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35662384093/in/datetaken/" title="Orpailleur - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4338/35662384093_51f9bec1e4_k.jpg" width="2048" height="1152" alt="Orpailleur - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35662384093/in/datetaken/" title="Orpailleur - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4338/35662384093_51f9bec1e4_k.jpg" width="2048" height="1152" alt="Orpailleur - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 Nous arrivons au "hameau" de **Chicken** où la piste est en plein travaux, les gros engins de BTP soulèvent une poussière pas possible. Nous remarquons à cette occasion qu'ils posent plusieurs couches de panneaux de polystyrène avant de la recouvrir de terre, certainement pour isoler la route du gel. Cette ville minière fantôme qui comptait en 2010, 7 habitants, se compose de quelques boutiques et deux RV parks. Jouant à fond la carte du Poulet, plusieurs "Statues" de gallinacés sont présentes, à côté, sur un grand poteau indicateur, sont mentionnés tous les pays du monde qui abritent un "Chicken".  
 
@@ -43,13 +44,13 @@ On ne prend qu'un peu d’essence, car très chère dans ce coin perdu (3,39$/Ga
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36470480335/in/datetaken/" title="Champignons - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4407/36470480335_5d1488f483_k.jpg" width="2048" height="1152" alt="Champignons - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## 03 Août  
+## 03 août  
 
 Départ pour Fairbanks par la Alaska Highway. En route, nous croisons plusieurs Elans (Mooses) dont l’un dans un lac en train de manger des plantes aquatiques et qui a la gentillesse de se laisser photographier. Il s'agit certainement d'une femelle. Ces animaux sont vraiment bizarres mais parfaitement adaptés à leur environnement.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36333301561/in/datetaken/" title="Elan - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4337/36333301561_f6b64b5cee_k.jpg" width="2048" height="1152" alt="Elan - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36333301561/in/datetaken/" title="Elan - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4337/36333301561_f6b64b5cee_k.jpg" width="2048" height="1152" alt="Elan - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Nous passons ensuite à **Delta Junction** qui signe la fin de l’Alaska Highway surnommée "l'AlCan". Depuis 1920, les USA désiraient une route reliant l'Alaska au reste du pays. Devant les prix et la réticence des Canadiens, cela ne se fera qu'en 1942 au moment de l'entrée en guerre avec le Japon et plus largement la guerre dans le Pacifique. Craignant un débarquement Nippon sur ce territoire, un axe routier devient urgent. C'est l'armée américaine qui sera chargée de mener à bien ce chantier pharaonique. En 8 mois, les 2700 Kms reliant Dawson Creek à Delta Junction sont construits par deux équipes parties des deux points. La route ne fait plus aujourd'hui que 2232 Kms, ayant été "redessinée".  
+Nous passons ensuite à **Delta Junction** qui signe la fin de l’Alaska Highway surnommée "l'AlCan". Depuis 1920, les USA désiraient une route reliant l'Alaska au reste du pays. Devant les prix et la réticence des Canadiens, cela ne se fera qu'en 1942 au moment de l'entrée en guerre avec le Japon et plus largement la guerre dans le Pacifique. Craignant un débarquement Nippon sur ce territoire, un axe routier devient urgent. C'est l'armée américaine qui sera chargée de mener à bien ce chantier pharaonique. En 8 mois, les 2700 Kms reliant Dawson Creek à Delta Junction sont construits par deux équipes parties des deux points. La route ne fait plus aujourd'hui que 2232 Kms, ayant été "redessinée".   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36333309571/in/datetaken/" title="Alaska Highway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4331/36333309571_bdc47dd668_k.jpg" width="2048" height="1152" alt="Alaska Highway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -58,7 +59,7 @@ Juste avant d'arriver à Fairbanks, nous passons le long de la très grande "Eie
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36302425292/in/datetaken/" title="Fairbanks - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4372/36302425292_991ba9bec6_k.jpg" width="2048" height="1152" alt="Fairbanks - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 
-## 05 et 06 Août   
+## 04 et 05 août   
 
 Le temps est pluvieux et nous restons à **Fairbanks** pour une journée de repos. Nous partons le lendemain direction le Nord pour atteindre le cercle polaire, nous prenons la mythique Route 11 **Dalton Highway** qui va jusqu’à l’océan Arctique et Prudhoe Bay. Cette route est en grande partie une piste, assez bonne avec des portions goudronnées, parfois plus dangereuses que la piste. En route, on croise un gars à côté de son pick up, couteau en main en train de dépecer une grosse bête, caribou ou orignal, sur une bâche bleue. Quelques dizaines de mètres après on voit une grosse tâche de sang sur la route, certainement l’endroit où il l’a percutée. Nous sommes calés sur la radio locale et sommes surpris d’entendre Foule sentimentale de Souchon, c’est bien la première fois que l’on entend une chanson française.   
 
@@ -82,7 +83,7 @@ Nous faisons partie des 1% des visiteurs de l’Alaska qui s’aventurent plus a
 
 Le lendemain, nous reprenons la route pour Fairbanks. On laisse tomber la visite de Chenal hot springs car cela nous prendrait une journée complète et la météo semble se détériorer les prochains jours. Nous préférons privilégier la visite de **Denali** où nous arrivons en fin de journée. Une fois au visitor center, on prend la doc et un billet pour une excursion le lendemain. Tous les campings du parc sont pleins, on trouve un bivouac pas terrible proche de la route, mais on trouvera mieux dès le lendemain.  
 
-## 07 au 10 Août   
+## 06 au 10 août   
 
 Nous lisons, dans une revue distribuée au parc, que le repas est compris dans la prestation. Toutefois, Corinne va demander confirmation avant notre départ au guichet qui valide. Nous partons donc léger pour cette journée dans la parc. Dans le bus, les passagers sortent leur casse-croûte et mangent tranquillement, comme on a l'impression que les américains mangent tout le temps et toute la journée, on ne s'inquiète pas. Vers 13 heures, à l'occasion d'un arrêt, on demande à Anna si on peut avoir notre repas et nous comprenons très vite que ce n'est pas sur ce tour que le déjeuner est compris. On a des réserves, on va pouvoir grappiller quelques myrtilles sauvages et ainsi tenir la journée (15 h) sans manger… mais quand même !.  
 
@@ -98,7 +99,7 @@ La veille du départ, nous sommes sur le parking du visitor center, la porte de 
 
 Départ du Bivouac, on repasse une dernière fois au parc pour faire le plein et les dumps et pour bénéficier du Wi-Fi pour transférer les photos. Nous en profitons pour prendre nos billets d‘avion pour le retour, départ donc le 20 septembre depuis l’aéroport de San Francisco. Nous prenons le voyage en direction d'Anchorage. La route est très belle, au fond d’une large vallée entourée de très belles chaines de montagne, alternant forêts et grandes zones humides. Arrivés à **Anchorage**, nous trouvons un bivouac à une dizaine de kilomètres du centre ville sur le parking du magasin Cabela’s, nous ne sommes pas les seuls…   
 
-## 11 et 12 Août  
+## 11 et 12 août  
 
 Pluie annoncée pour toute la journée et le week-end certainement. Départ pour UPS où théoriquement notre courrier a du arriver de Floride. Je récupère une enveloppe avec les 5 courriers, un du concessionnaire où nous avons acheté Thor et 4 « factures » provenant des tronçons de routes payantes sur lesquels nous nous sommes engagés par erreur. Il faut savoir que très souvent il n’y a pas de péage, tout fonctionne soit avec un boitier dans le véhicule comme en France ou soit directement par lecture de la plaque d’immatriculation. De plus, si l’on ne paye pas, il est impossible d’obtenir la prorogation de son immatriculation. J'avais peur que cela se soit transformé en amendes mais au final tout se fait en ligne, nous payons moins de 10 euros. On verra en octobre si l’on peut obtenir une nouvelle plaque d’immatriculation.  
 
@@ -110,7 +111,7 @@ Nous partons, en fin d’après-midi, pour la péninsule de **Kenai** sous la pl
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36311000890/in/datetaken/" title="Péninsule de Kenai - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4367/36311000890_73a522839e_k.jpg" width="2048" height="1152" alt="Péninsule de Kenai - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-## 13 Août   
+## 13 août   
 
 Il a plu toute la nuit et on a très mal dormi mais aujourd'hui le temps semble se lever. Départ du Bivouac pour **Homer**, petite ville au sud ouest de la péninsule de Kenai et fin de la route. Trajet très agréable, on longe le Golf de Cook et peut voir la chaine de montagne aux monts enneigés en face de ce bras de mer.   
 
@@ -130,7 +131,7 @@ De retour, on s’arrête à l’église orthodoxe de Ninilchik qui témoigne du
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35868555974/in/datetaken/" title="Péninsule de Kenai - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4421/35868555974_8b99b0d298_k.jpg" width="2048" height="1152" alt="Péninsule de Kenai - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## 14 Août  
+## 14 août  
 
 Nous visitons le centre de **Kenai City** puis nous partons pour le glacier Portage, on décide de ne pas aller jusqu'à Seward. Arrivés au niveau du Lac Portage, on se trompe de route et on se retrouve dans la file pour prendre le tunnel qui mène au port de **Whittier**. Ce tunnel très étroit est long de 4,5 Kms il est emprunté par les véhicules et le train. Le port et la ville ne présentent aucun intérêt particulier. L’après midi, direction le glacier Byron. Je fais un petit trail qui permet d'arriver pratiquement au pied du glacier qui se trouve à une altitude de… 80 mètres.  
 
@@ -142,13 +143,13 @@ Nous faisons route sur Anchorage et nous faisons halte au **Lake Hood Seaplane B
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36655183816/in/datetaken/" title="Anchorage - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4408/36655183816_131e38ffe1_k.jpg" width="2048" height="1152" alt="Anchorage - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## 15 Août  
+## 15 août  
 
 Journée route en direction de Tok. La route n'est pas très bonne, beaucoup d'affaissements et de travaux. Nous passons devant l'immense glacier Matanuska qui est bien visible depuis la route. Après 480 Kms, nous trouvons un bivouac au bord d'une belle rivière.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36305868590/in/datetaken/" title="Alaska - [USA]"><img src="https://farm5.staticflickr.com/4332/36305868590_f16721d450_k.jpg" width="2048" height="1152" alt="Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-## 16 Août   
+## 16 août   
 
 Départ du bivouac et arrêt à Tok pour faire le plein. On profite du Wi-Fi pour prendre des billets pour le ferry qui nous mènera de Haines à Skagway. Nous reprenons la Alaska Highway et passons la frontière avec le Canada et rentrons dans le territoire du Yukon. 30 Kms sépare les postes frontières des USA et du Canada. Deux trois questions et on poursuis le voyage. La route est en mauvais état mais le décor est splendide. On observe enfin notre premier moose mâle, jeune, mais avec quand même de beaux bois. Un peu plus loin, on voit un ours noir traverser la route tranquillement devant nous. Ce dernier sort d'un camping où il a du faire un tour du côté des poubelles pour voir s’il y avait quelque chose à grignoter. Je ne sais pas si les occupants du camping se sont rendus compte de cette visite… Nous roulons au couchant, le soleil dans le dos, les couleurs sont magnifiques et nous nous posons près d'une rivière.   
 
@@ -156,7 +157,7 @@ Départ du bivouac et arrêt à Tok pour faire le plein. On profite du Wi-Fi pou
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35915885043/in/datetaken/" title="Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4360/35915885043_2602f8a8d2_k.jpg" width="2048" height="1152" alt="Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-## 17 Août  
+## 17 août  
 
 Départ du bivouac et encore beaucoup de travaux sur la route. Des camions citerne passent pour mouiller la piste, nous avons donc toujours de la poussière mais aussi de la boue, heureusement que Thor est couleur sable… Le paysage est toujours splendide, on longe le **Kluane National Park and Reserve** et sa chaine de montagne. Entre elles et nous, d’immenses forêts ou zones humides, les grands espaces à l’état pur. La navigatrice nous trouve un super coin pour déjeuner au bord du lac Kluane.   
 
@@ -172,7 +173,7 @@ Nous poursuivons notre route jusqu’à Haines Junction qui est le carrefour ent
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36678566986/in/datetaken/" title="Haines Junction - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4346/36678566986_ff709456d5_k.jpg" width="2048" height="1152" alt="Haines Junction - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-## 18 Août  
+## 18 août  
 
 Cette nuit vers 5h00 du matin, je suis réveillé par un bruit de soufflerie et une odeur de chaud. Je me rends compte que le chauffage s’est mis en route tout seul et qu’il y a des vêtements non loin qui sont déjà bien chauds. C’est la première fois qu’il se met en route tout seul et je pense que c’est pour garder Thor hors gel. Il est vrai qu’il fait un peu froid et la température dans l’habitacle a du descendre en dessous de 5°.  Le chauffage s’éteint tout seul au bout de quelques minutes, la température étant montée à 10°. On se recouche rassurés et pour le coup bien au chaud. Il se remettra en route deux fois dans le reste de la nuit. C'est pour l’heure, notre nuit la plus froide depuis notre départ. Nous avions eu 6° une fois sur le Blue Ridge mais il ne s’était pas déclenché. Le matin, nous reprenons la route tranquillement pour Haines qui est à un peu plus de 200 Kms. Nous passons en Colombie Britannique et nous nous arrêtons faire le **Rock Glacier Trail**  (3,2 Km +90 mètres) sur le parc Kluane. Il s’agit d’une trail sur un glacier rocheux très intéressant. Après quelques centaines de mètres dans une forêt, on grimpe sur un chaos de rochers et de pierres, vestiges d’une ancien glacier qui a poussé devant lui et broyé la roche qui sous la pression et la poussée a formé des vagues.  
 
@@ -186,7 +187,7 @@ Arrêt au visitor center et visite rapide de la petite bourgade de **Haines** si
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36585474361/in/datetaken/" title="Haines - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4381/36585474361_c59de6f0c0_k.jpg" width="2048" height="1152" alt="Haines - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## 19 Août   
+## 19 août   
 
 Ce matin départ pour le ferry. De la pluie est annoncée pour toute la journée, pour l’instant le ciel est gris mais il ne pleut pas. Nous rentrons dans le bateau par une porte de côté à l’avant, ce qui nous oblige à faire demi tour pour se mettre dans la file en position de départ pour la sortie. La traversée est tranquille, l'océan est calme, on s’enfonce au fond d’un fjord et arrivons à **Skagway**. Dernier rentré sur le bateau et premier sorti.  
 
