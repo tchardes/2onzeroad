@@ -10,6 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt10.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt10.jpg
 tags: [faune, culturel, ville, desert, glace, mer-océan, architecture]
+pois: [carcross#19-août, whitehorse#]
 country: Canada 
 states: ["Yukon", "Colombie Britannique"]
 category: "roadmap"
@@ -31,7 +32,7 @@ A la sortie de la ville, nous passons devant le plus petit désert du monde, si 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36551841772/in/datetaken/" title="Carcross - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4432/36551841772_d4c526665c_k.jpg" width="2048" height="1152" alt="Carcross - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-## 20 août   
+## 20 et 21 août   
 
 Ce matin, courses au Walmart puis nous partons visiter le bateau à aube **Klondike** qui faisait partie de la flotte qui assurait la liaison avec Dawson City, bien qu'en cours de restauration, la visite est très intéressante. Ces grandes embarcations étaient treuillées hors du fleuve avant sa prise par les glaces.   
 
@@ -43,9 +44,7 @@ Nous poursuivons par le **Miles Canyon**, site au bord du fleuve Yukon où une p
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600670681/in/datetaken/" title="Whitehorse - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4408/36600670681_e127cdd244_k.jpg" width="2048" height="1152" alt="Whitehorse - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Le soir, nous testons le **Klondike Rib & Salmon**. C’est le resto très typique à faire à WhiteHorse. Nous obtenons une table pour 19h30 et nous retournons à Thor en attendant de nous attabler. Sur le trajet, Corinne voit, sur la route, un superbe renard qui déambule tranquillement en pleine ville, tout juste inquiété par des jeunes qui font du skate board. Nous avons très bien mangé, boulettes de cerf, bison et sanglier et Bonanza brownie avec une boule de vanille pour Corinne et steak de bison et une Berry Pie, tarte chaude aux fruits rouges et rhubarbe avec une boule de vanille pour moi.  
-
-## 21 août   
+Le soir, nous testons le **Klondike Rib & Salmon**. C’est le resto très typique à faire à WhiteHorse. Nous obtenons une table pour 19h30 et nous retournons à Thor en attendant de nous attabler. Sur le trajet, Corinne voit, sur la route, un superbe renard qui déambule tranquillement en pleine ville, tout juste inquiété par des jeunes qui font du skate board. Nous avons très bien mangé, boulettes de cerf, bison et sanglier et Bonanza brownie avec une boule de vanille pour Corinne et steak de bison et une Berry Pie, tarte chaude aux fruits rouges et rhubarbe avec une boule de vanille pour moi.    
 
 Ce matin, nous avions prévu de faire la vidange de Thor mais tous les magasins sont fermés. Après renseignement, le troisième lundi du mois d’août est un jour férié au Yukon, c’est la fête du **jour de la découverte**, découverte de l’or dans le ruisseau Bonanza par des pionniers, le 16 août 1896 qui va déclencher l’une des plus importantes ruées vers l’or, entrainant l’année suivante la création officielle du territoire du Yukon. La laverie est quand même ouverte, nous nous occupons du linge avant de retourner au visitor center pour profiter de leurs commodités.   
 

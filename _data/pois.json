@@ -57,10 +57,31 @@
     {"name": "calgary", "displayName": "Calgary"},
     {"name": "dawson-city", "displayName": "Dawson City"},
     {"name": "top-world", "displayName": "Top of the World Highway"},
+    {"name": "chicken", "displayName": "Chicken"},
+    {"name": "fairbanks", "displayName": "Fairbanks"},
+    {"name": "dalton", "displayName": "Dalton Highway"},
+    {"name": "cercle-polaire", "displayName": "Cercle Polaire"},
+    {"name": "kenai", "displayName": "Kenaï (penninsule)"},
+    {"name": "homer", "displayName": "Homer"},
+    {"name": "whitthier", "displayName": "Whitthier"},
+    {"name": "anchorage", "displayName": "Anchorage"},
+    {"name": "kluane", "displayName": "Kluane National Park and Reserve"},
+    {"name": "haines", "displayName": "Haines"},
+    {"name": "skagway", "displayName": "Skagway"},
     {"name": "", "displayName": ""},
     {"name": "", "displayName": ""},
     {"name": "", "displayName": ""},
     {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+
+    
     {"name": "", "displayName": ""}
 
 ]

@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt9.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt9.jpg
 tags: [paysage, faune, glace, mer-ocean, culturel]
-pois: [chicken#02-août, fairbanks#, dalton#05-et-06-août, ]
+pois: [chicken#02-août, fairbanks#03-août, dalton#04-et-05-août, cercle-polaire#04-et-05-août, kenai#13-août, homer#13-août, whitthier#14-août, anchorage#14-août, kluane#17-août, haines#18-août, skagway#19-août]
 country: USA
 states: ["Alaska"]
 category: "roadmap"
