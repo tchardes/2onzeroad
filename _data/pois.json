@@ -68,20 +68,19 @@
     {"name": "kluane", "displayName": "Kluane National Park and Reserve"},
     {"name": "haines", "displayName": "Haines"},
     {"name": "skagway", "displayName": "Skagway"},
-    {"name": "", "displayName": ""},
-    {"name": "", "displayName": ""},
-    {"name": "", "displayName": ""},
-    {"name": "", "displayName": ""},
-    {"name": "", "displayName": ""},
-    {"name": "", "displayName": ""},
-    {"name": "", "displayName": ""},
-    {"name": "", "displayName": ""},
-    {"name": "", "displayName": ""},
-    {"name": "", "displayName": ""},
-    {"name": "", "displayName": ""},
-    {"name": "", "displayName": ""},
-
-    
-    {"name": "", "displayName": ""}
+    {"name": "carcross", "displayName": "Carcross"},
+    {"name": "whitehorse", "displayName": "Whitehorse"},
+    {"name": "teslin", "displayName": "Teslin"},
+    {"name": "watson-lake", "displayName": "Watson Lake"},
+    {"name": "stewart", "displayName": "Stewart"},
+    {"name": "gitanyow", "displayName": "Gitanyow"},
+    {"name": "gitwangak", "displayName": "Gitwangak"},
+    {"name": "smithers", "displayName": "Smithers"},
+    {"name": "houston", "displayName": "Houston"},
+    {"name": "prince-george", "displayName": "Prince George"},
+    {"name": "vancouver-city", "displayName": "Vancouver City"},
+    {"name": "seattle", "displayName": "seattle"},
+    {"name": "port-townsend", "displayName": "port-townsend"},
+    {"name": "evergreen", "displayName": "Evergreen Aviation & Space Museum"}
 
 ]

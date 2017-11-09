@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt10.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt10.jpg
 tags: [faune, culturel, ville, desert, glace, mer-océan, architecture]
-pois: [carcross#19-août, whitehorse#]
+pois: [carcross#19-août, whitehorse#20-et-21-août, teslin#22-août, watson-lake#22-août, stewart#24-août, gitanyow#25-août,gitwangak#25-août, smithers#25-août, houston#26-août, prince-george#26-août, vancouver-city#28-et-29-août]
 country: Canada 
 states: ["Yukon", "Colombie Britannique"]
 category: "roadmap"

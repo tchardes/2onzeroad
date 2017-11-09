@@ -11,6 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt11.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt11.jpg
 tags: [architecture, culturel, transport, glace, mer-ocean]
+pois: [seattle#03-et-04-septembre, port-townsend#05-septembre, evergreen#08-septembre]
 country: USA
 states: ["Washington", "Oregon", "Californie"]
 category: "roadmap"
@@ -23,7 +24,7 @@ mapZoom: 5
 
 Onzième et dernier article de type carnet de route, il couvre la période du 03 au 20 septembre durant laquelle nous avons traversé les Etats de Washington, de l'Oregon et une partie de la Californie.  
 
-## 03 septembre  
+## 03 et 04 septembre  
 
 Après avoir passé la frontière des Etats-Unis, nous roulons vers Seattle et allons directement au **Gaz Work Parc**, un très beau parc où se trouve encore le squelette d’une ancienne usine de gaz, au bord de "Union Lake", face à la skyline de Seattle. C'est dimanche et de nombreuses personnes profitent des derniers rayons de soleil de la journée, pique-niquent, lézardent, profitent de la vue. J'improvise une petite séance photo jusqu'à la nuit noire. Nous trouvons, ensuite, un bivouac non loin du parc dans un quartier résidentiel, on se fait discret…  
 
@@ -33,10 +34,7 @@ Après avoir passé la frontière des Etats-Unis, nous roulons vers Seattle et a
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600702053/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4411/36600702053_928581e7b8_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-
-## 04 septembre  
-
-Nous quittons notre bivouac et passons par la **Troll Avenue** pour rendre visite à un troll des montagnes coincé sous un pont, une coccinelle dans la main. En route vers le centre ville de Seattle, nous passons par le quartier de Fremont qui présente la particularité d'exposer en pleine rue, aux Etats-Unis, une statue de Vladimir Ilitch Lénine. L'histoire de cette "oeuvre" est assez rocambolesque, pour en savoir plus : **[Cliquez ici](https://fr.wikipedia.org/wiki/Statue_de_L%C3%A9nine_(Seattle))**.    
+Le lendemain nous quittons notre bivouac et passons par la **Troll Avenue** pour rendre visite à un troll des montagnes coincé sous un pont, une coccinelle dans la main. En route vers le centre ville de Seattle, nous passons par le quartier de Fremont qui présente la particularité d'exposer en pleine rue, aux Etats-Unis, une statue de Vladimir Ilitch Lénine. L'histoire de cette "oeuvre" est assez rocambolesque, pour en savoir plus : **[Cliquez ici](https://fr.wikipedia.org/wiki/Statue_de_L%C3%A9nine_(Seattle))**.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600700643/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4439/36600700643_b683517e77_b.jpg" width="1024" height="683" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
