@@ -11,6 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt7.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt7.jpg
 tags: [architecture, transport, art, culturel, montagne]
+pois: []
 country: USA
 states: ["Michigan", "Indiana", "Illinois", "Wisconsin", "Minnesota", "Dakota du Sud", "Wyoming", "Montana"]
 category: "roadmap"

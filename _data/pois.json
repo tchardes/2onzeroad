@@ -43,6 +43,24 @@
     {"name": "ile-du-prince-edouard", "displayName": "Ile Du Prince Edouard"},
     {"name": "shediac", "displayName": "Shediac"},
     {"name": "parc-des-monts-valins", "displayName": "Parc des Monts Valins"},
-    {"name": "niagara", "displayName": "Chutes du Niagara"}
+    {"name": "detroit", "displayName": "Detroit"},
+    {"name": "motown", "displayName": "Tamla Motown (Studio A)"},
+    {"name": "milwaukee", "displayName": "Milwaukee"},
+    {"name": "summerfest", "displayName": "Summerfest"},
+    {"name": "harley-davidson", "displayName": "Harley Davidson Museum"},
+    {"name": "mont-rushmore", "displayName": "Mont Rushmore National Memorial"},
+    {"name": "crazy-horse", "displayName": "Crazy Horse Memorial"},
+    {"name": "devils-tower", "displayName": "Devils Tower National Monument"},
+    {"name": "cody", "displayName": "Cody"},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""},
+    {"name": "", "displayName": ""}
 
 ]
