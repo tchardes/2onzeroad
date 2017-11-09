@@ -30,7 +30,7 @@ Nous passons la frontière canadienne à Fraser en Colombie Britannique, à 12 K
 
 A la sortie de la ville, nous passons devant le plus petit désert du monde, si l'on en croit la publicité. Il s'agit en fait d'une succession de dunes provenant de l'ancien lit d'un grand lac. Arrivés à Whitehorse où nous avons nos repaires, nous nous installons pour deux ou trois jours.    
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36551841772/in/datetaken/" title="Carcross - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4432/36551841772_d4c526665c_k.jpg" width="2048" height="1152" alt="Carcross - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36551841772/in/datetaken/" title="Carcross - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4432/36551841772_d4c526665c_k.jpg" width="2048" height="1152" alt="Carcross - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
 ## 20 et 21 août   
 
