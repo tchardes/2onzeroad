@@ -80,8 +80,8 @@
     {"name": "houston", "displayName": "Houston"},
     {"name": "prince-george", "displayName": "Prince George"},
     {"name": "vancouver-city", "displayName": "Vancouver City"},
-    {"name": "seattle", "displayName": "seattle"},
-    {"name": "port-townsend", "displayName": "port-townsend"},
+    {"name": "seattle", "displayName": "Seattle"},
+    {"name": "port-townsend", "displayName": "Port Townsend"},
     {"name": "evergreen", "displayName": "Evergreen Aviation & Space Museum"}
 
 ]
