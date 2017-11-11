@@ -14,7 +14,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt4.jpg
 tags: [architecture, mer-ocean]
 pois: [salem#28-mai, newport#24-au-26-mai]
 country: USA
-states: ["Delaware", "New Jersey", "New York", "Rhode Island", "Massachusetts", "New Hampshire", "Maine"]
+states: ["Delaware", "New Jersey", "New York", "Connecticut", "Rhode Island", "Massachusetts", "New Hampshire", "Maine"]
 category: "roadmap"
 flickr-text: ""
 location: "42.196436, -72.942761"
@@ -24,7 +24,7 @@ mapZoom: 6
 ---
 
 
-Quatrième article de type carnet de route, il couvre la période du 14 au 31 mai 2017 durant laquelle nous avons traversé les Etats du Delaware, New Jersey, New York, Rhode Island, Massachusetts, New Hampshire et enfin du Maine, dernier état de la côte Est des Etats-Unis avant notre entrée au Canada.
+Quatrième article de type carnet de route, il couvre la période du 14 au 31 mai 2017 durant laquelle nous avons traversé les Etats du Delaware, New Jersey, New York, Connecticut, Rhode Island, Massachusetts, New Hampshire et enfin du Maine, dernier état de la côte Est des Etats-Unis avant notre entrée au Canada.
 
 
 ## 14 au 17 mai
