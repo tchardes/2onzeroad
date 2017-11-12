@@ -9,7 +9,7 @@ header-img: "assets/owner/blog/header/post-bg-bilan-canada1.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-bilan-canada1.jpg
 tags: []
 country: Canada 
-states: [""]
+states: ["Ontario"]
 category: "bilan"
 flickr-text: "Canada"
 location: "45.941931, -73.4614915"
