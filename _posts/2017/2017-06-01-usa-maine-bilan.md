@@ -13,7 +13,7 @@ states: ["New Hampshire"]
 category: "bilan"
 flickr-text: "USA"
 location: "38.119371, -80.052975"
-itinary: "floride4.json"
+itinary: "totalest.json"
 mapZoom: 4
 
 ---
