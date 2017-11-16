@@ -24,6 +24,7 @@ permalink: /video/
         var request = gapi.client.youtube.search.list({
             part: "id, snippet",
             channelId: "UCOwPyMvDSTzLNLP8xoDLe2g",
+            maxResults: 50,
             type: "video",
             q: query
         });
