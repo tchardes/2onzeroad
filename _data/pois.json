@@ -9,6 +9,8 @@
     {"name": "cherokee", "displayName": "Cherokee"},
     {"name": "blue-ridge-pw", "displayName": "Blue Ridge ParkWay"},
     {"name": "shenandoah", "displayName": "Shenandoah National Park"},
+    {"name": "appalaches", "displayName": "Appalaches"},
+    {"name": "great-smoky-mountains", "displayName": "Great Smoky Mountains National Park"},
     {"name": "washington-dc", "displayName": "Washington DC"},
     {"name": "philadelphie", "displayName": "Philadelphie"},
     {"name": "new-york", "displayName": "New York"},
