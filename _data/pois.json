@@ -86,6 +86,8 @@
     {"name": "vancouver-city", "displayName": "Vancouver City"},
     {"name": "seattle", "displayName": "Seattle"},
     {"name": "port-townsend", "displayName": "Port Townsend"},
-    {"name": "evergreen", "displayName": "Evergreen Aviation & Space Museum"}
+    {"name": "evergreen", "displayName": "Evergreen Aviation & Space Museum"},
+    {"name": "olympic", "displayName": "Olympic National Park"},
+    {"name": "helens", "displayName": "Mont St Helens"}
 
 ]

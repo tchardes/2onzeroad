@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt11.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt11.jpg
 tags: [architecture, culturel, transport, glace, mer-ocean]
-pois: [seattle#03-et-04-septembre, port-townsend#05-septembre, evergreen#08-septembre]
+pois: [seattle#03-et-04-septembre, port-townsend#05-septembre, evergreen#08-septembre, olympic#06-septembre, helens#07-septembre]
 country: USA
 states: ["Washington", "Oregon", "Californie"]
 category: "roadmap"
@@ -80,7 +80,7 @@ Nous arrivons à **Port Angeles** où nous nous posons dans un Walmart après av
 
 ## 06 septembre  
 
-Nous nous arrêtons au visitor Center du Olympic National Park qui se situe dans la ville de Port Angeles avant de s'engager sur la **Hurricane Ridge road**. Arrivés au sommet, l’ensemble du parc est noyé sous une épaisse fumée provenant des nombreux feux de forêt dans la région. Nous restons là toute la journée dans l'espoir que le soleil perce et je profite des commodités du lieu pour traiter les photos. Finalement, les Park Rangers nous expliquent que les feux ne sont pas prêts d'être circoncis et que, de toute façon, les prochains jours seront très pluvieux. Nous décidons donc de quitter la zone et descendre vers le sud.  
+Nous nous arrêtons au visitor Center du **Olympic National Park** qui se situe dans la ville de Port Angeles avant de s'engager sur la **Hurricane Ridge road**. Arrivés au sommet, l’ensemble du parc est noyé sous une épaisse fumée provenant des nombreux feux de forêt dans la région. Nous restons là toute la journée dans l'espoir que le soleil perce et je profite des commodités du lieu pour traiter les photos. Finalement, les Park Rangers nous expliquent que les feux ne sont pas prêts d'être circoncis et que, de toute façon, les prochains jours seront très pluvieux. Nous décidons donc de quitter la zone et descendre vers le sud.  
 
 ## 07 septembre  
 
