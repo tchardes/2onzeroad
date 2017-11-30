@@ -25,7 +25,7 @@ L'idéal, pour accompagner la lecture de cet article est de le faire en musique.
 <ul>
     <li><a href="https://youtu.be/7I0vkKy504U" target="_blank">Scott McKenzie – If you’re going to San Francisco</a></li>
     <li><a href="https://youtu.be/0uT87XQrki0" target="_blank">Maxime Le Forestier – Une Maison Bleue</a></li>
-    <li><a href="https://youtu.be/rTVjnBo96Ug" target="_blank">Otis Redding - (Sittin' On) The Dock Of The BayUne</a></li>
+    <li><a href="https://youtu.be/rTVjnBo96Ug" target="_blank">Otis Redding - (Sittin' On) The Dock Of The Bay</a></li>
     <li><a href="https://youtu.be/8RZqPq1-1Tw" target="_blank">The Mowgli's - San Francisco </a></li>
     <li><a href="https://youtu.be/yTmmmG-mzOQ" target="_blank">Brett Dennen - San Francisco </a></li>
     <li><a href="https://youtu.be/2WrIN7xhEks" target="_blank">Arctic Monkeys - Fake Tales Of San Francisco </a></li>
