@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "San Francisco"
-preview:    "Nous voilà à la fin de notre road trip pour cette année et nous finissons en apothéose avec la visite de San Francisco... "
+preview:    "Nous voilà à la fin de notre road trip pour cette année et nous finissons en apothéose avec la visite de San Francisco…"
 parent-id:  2017-09-20-usa-californie-septembre
 
 date:       2017-09-18 12:00:00
@@ -154,7 +154,7 @@ Pour le déjeuné nous testons un Mexicain, "Casa Mexicana" au 180 Church Street
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658543983/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4364/36658543983_5a335c8af7_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime Leforestier sur laquelle une plaque commémorative a été placée.  
+Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime Leforestier sur laquelle une plaque commémorative a été apposée.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071623290/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4422/37071623290_c906ff4549_k.jpg" width="1365" height="2048" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
