@@ -212,7 +212,7 @@ Nous poursuivons notre balade vers **l'hôtel de ville**, construit en 1915 dans
 
 ### Fisherman’s Wharf  
 
-Nous reprenons le bus pour traverser la ville vers le **Fisherman’s Wharf** (Quai des pêcheurs) dont nous avions déjà vu un aperçu lors de notre passage au Pier 39. En passant sur North Point street, on s'invite sur le terrain de football de l'université de Galileo où se déroule un match universitaire, on s'installe dans les gradins et passons un bon moment durant un quart temps.  
+Nous reprenons le bus pour traverser la ville vers le **Fisherman’s Wharf** (Quai des pêcheurs) dont nous avions déjà vu un aperçu lors de notre passage au Pier 39. En passant sur North Point street, on s'invite sur le terrain de football américain de l'université de Galileo où se déroule un match universitaire, on s'installe dans les gradins et passons un bon moment durant un quart temps.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618499184/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4447/36618499184_d52c812ffc_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
