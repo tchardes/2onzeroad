@@ -115,7 +115,7 @@ Malgré la fumée, nous arrivons quand même à passer deux jours dans le parc n
 ## 11 septembre  
 
 Départ de Crater Lake. On s’arrête à Klamath Falls pour faire le plein de propane et de gazoline puis les courses au Walmart.
-Nous reprenons la direction de **Lava Bed National Monument**. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-09-12-usa-lavabeds %}">ici</a>)**. Nous sommes le 11/09, toutes les bannières étoilées sont en berne dans le pays.  
+Nous reprenons la direction de **Lava Beds National Monument**. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-09-12-usa-lavabeds %}">ici</a>)**. Nous sommes le 11/09, toutes les bannières étoilées sont en berne dans le pays.  
 
 Nous partons ensuite vers le **Lassen Volcanic NP** et quittons l'Etat de l’Oregon pour celui de la Californie, dernier Etat de notre road trip de 2017. Après quelques kilomètres à l’intérieur de l’Etat, tous les véhicules subissent un contrôle sanitaire, les lois de l'Etat étant très sévères. Malheureusement, nous transportons deux oranges clandestines qui n’avaient pas leurs papiers pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau… Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques places.  
 
