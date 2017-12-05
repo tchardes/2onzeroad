@@ -226,7 +226,7 @@ Pour le déjeuner, nous nous arrêtons dans un restaurant pour déguster la spé
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618496544/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4454/36618496544_8022342889_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-### Lombart Street  
+### Lombard Street  
 
 Pour entretenir la galbe de nos mollets, nous gravissons la Russian Hill par la Hyde Street jusqu'à Lombard Street, mondialement connue pour une portion constituée de huit virages très serrés qui lui ont valu la distinction de "la route la plus sinueuse des États-Unis", sa pente est de 16%. Tous les touristes veulent l'emprunter avec leur véhicule dans un balai incessant. Je pleins les habitants des maisons qui bordent cette rue.
 
