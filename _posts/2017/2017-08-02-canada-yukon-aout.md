@@ -16,7 +16,7 @@ country: Canada
 states: ["Alberta", "Colombie Britannique", "Yukon"]
 category: "roadmap"
 flickr-text: "Yukon"
-location: "64.085671, -139.587106"
+location: "58.069706, -128.495301"
 itinary: "canada3.json"
 mapZoom: 4
 
