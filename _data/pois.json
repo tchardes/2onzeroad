@@ -88,6 +88,7 @@
     {"name": "port-townsend", "displayName": "Port Townsend"},
     {"name": "evergreen", "displayName": "Evergreen Aviation & Space Museum"},
     {"name": "olympic", "displayName": "Olympic National Park"},
+    {"name": "galatin", "displayName": "Galatin National Forest"},
     {"name": "helens", "displayName": "Mont St Helens"}
 
 ]

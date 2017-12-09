@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "San Francisco"
-preview:    "Nous voilà à la fin de notre road trip pour cette année et nous finissons en apothéose avec la visite de San Francisco... "
+preview:    "Nous voilà à la fin de notre road trip pour cette année et nous finissons en apothéose avec la visite de San Francisco…"
 parent-id:  2017-09-20-usa-californie-septembre
 
 date:       2017-09-18 12:00:00
@@ -25,7 +25,7 @@ L'idéal, pour accompagner la lecture de cet article est de le faire en musique.
 <ul>
     <li><a href="https://youtu.be/7I0vkKy504U" target="_blank">Scott McKenzie – If you’re going to San Francisco</a></li>
     <li><a href="https://youtu.be/0uT87XQrki0" target="_blank">Maxime Le Forestier – Une Maison Bleue</a></li>
-    <li><a href="https://youtu.be/rTVjnBo96Ug" target="_blank">Otis Redding - (Sittin' On) The Dock Of The BayUne</a></li>
+    <li><a href="https://youtu.be/rTVjnBo96Ug" target="_blank">Otis Redding - (Sittin' On) The Dock Of The Bay</a></li>
     <li><a href="https://youtu.be/8RZqPq1-1Tw" target="_blank">The Mowgli's - San Francisco </a></li>
     <li><a href="https://youtu.be/yTmmmG-mzOQ" target="_blank">Brett Dennen - San Francisco </a></li>
     <li><a href="https://youtu.be/2WrIN7xhEks" target="_blank">Arctic Monkeys - Fake Tales Of San Francisco </a></li>
@@ -154,7 +154,7 @@ Pour le déjeuné nous testons un Mexicain, "Casa Mexicana" au 180 Church Street
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658543983/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4364/36658543983_5a335c8af7_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime Leforestier sur laquelle une plaque commémorative a été placée.  
+Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime Leforestier sur laquelle une plaque commémorative a été apposée.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071623290/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4422/37071623290_c906ff4549_k.jpg" width="1365" height="2048" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -212,7 +212,7 @@ Nous poursuivons notre balade vers **l'hôtel de ville**, construit en 1915 dans
 
 ### Fisherman’s Wharf  
 
-Nous reprenons le bus pour traverser la ville vers le **Fisherman’s Wharf** (Quai des pêcheurs) dont nous avions déjà vu un aperçu lors de notre passage au Pier 39. En passant sur North Point street, on s'invite sur le terrain de football de l'université de Galileo où se déroule un match universitaire, on s'installe dans les gradins et passons un bon moment durant un quart temps.  
+Nous reprenons le bus pour traverser la ville vers le **Fisherman’s Wharf** (Quai des pêcheurs) dont nous avions déjà vu un aperçu lors de notre passage au Pier 39. En passant sur North Point street, on s'invite sur le terrain de football américain de l'université de Galileo où se déroule un match universitaire, on s'installe dans les gradins et passons un bon moment durant un quart temps.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618499184/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4447/36618499184_d52c812ffc_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -226,7 +226,7 @@ Pour le déjeuner, nous nous arrêtons dans un restaurant pour déguster la spé
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618496544/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4454/36618496544_8022342889_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-### Lombart Street  
+### Lombard Street  
 
 Pour entretenir la galbe de nos mollets, nous gravissons la Russian Hill par la Hyde Street jusqu'à Lombard Street, mondialement connue pour une portion constituée de huit virages très serrés qui lui ont valu la distinction de "la route la plus sinueuse des États-Unis", sa pente est de 16%. Tous les touristes veulent l'emprunter avec leur véhicule dans un balai incessant. Je pleins les habitants des maisons qui bordent cette rue.
 
