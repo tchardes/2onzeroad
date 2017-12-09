@@ -22,11 +22,6 @@ mapZoom: 5
 
 ---
 
-<img 
-    src="{{root_url}}/assets/owner/photos/2017/chart.svg" 
-    style="height:300px!important; width:800px!important" />
-
-
 Onzième et dernier article de type carnet de route, il couvre la période du 03 au 20 septembre durant laquelle nous avons traversé les Etats de Washington, de l'Oregon et une partie de la Californie.  
 
 ## 03 et 04 septembre  
