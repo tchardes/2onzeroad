@@ -7,5 +7,6 @@ flickr-text: ""
 distance: 18200
 days: 119
 photos: 2063
+videos: 4
 mapZoom: 8
 ---

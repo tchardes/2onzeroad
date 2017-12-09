@@ -166,9 +166,9 @@
                                         <a style="color:white !important;" href="{{ root_url }}/gallery/?fromDate={{shortFormDate}}&toDate={{shortToDate}}">La suite en photos...</a>
                                     {% else %}
                                         {% if page.flickr-tags %}
-                                            <a style="color:white !important;" href="{{ root_url }}/gallery/?tags={{page.flickr-tags | replace: ' ', '_'}}">La suite en photos...</a>
+                                            <a style="color:white !important;" href="{{ root_url }}/gallery/?tags={{page.flickr-tags | replace: ' ', '_' | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e'}}">La suite en photos...</a>
                                         {% else %}
-                                            <a style="color:white !important;" href="{{ root_url }}/gallery/?text={{page.flickr-text | replace: ' ', '_'}}">La suite en photos...</a>                                        
+                                            <a style="color:white !important;" href="{{ root_url }}/gallery/?text={{page.flickr-text | replace: ' ', '_' | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e'}}">La suite en photos...</a>                                        
                                         {% endif %}
                                     {% endif %}
                                 </div>
