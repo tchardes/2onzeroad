@@ -74,7 +74,7 @@ title: destination archive
             videoContainer.empty();
 
             if(response.items){
-                for(var i = 0; i < Math.min(response.items.length, 10); i++){
+                for(var i = 0; i < response.items.length; i++){
                     if (response.items[i].id.kind === "youtube#video" && response.items[i].id.videoId && response.items[i].snippet.title.toLowerCase().includes(keyWord.toLowerCase()))
                     { 
                         link = "http://www.youtube.com/embed/" + response.items[i].id.videoId + "?HD=1;rel=0;showinfo=1"; 
