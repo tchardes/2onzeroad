@@ -18,8 +18,6 @@ function gup( name, url ) {
     var tags = gup("tags");
 
     function searchPhotos(text, page) {
-        console.log(page);
-        
         page = page > 0 ? page : 1;
 
         var flickrParams = {

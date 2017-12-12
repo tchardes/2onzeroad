@@ -48,7 +48,7 @@ permalink: ./index.html
           {% endif %}
 
           {% assign postCount = 0 %}
-          {% for post in site.posts | limit:38 %}
+          {% for post in site.posts limit:38 %}
             {% assign postCount = postCount | plus:1 %}
 
             {% assign fullDestination = post.country | append: " - " %}
@@ -215,7 +215,8 @@ permalink: ./index.html
                   {% endif %}
                 {% endfor %}
 
-                <div><a href="{{ site.baseurl }}/writing/archive/{{ archive | slugify }}"/><i style="width:26px;color:#E88439;" class="fa fa-archive"></i> {{archive 
+                <div><a href="{{ site.baseurl }}/writing/archive/{{ archive | slugify }}"/><i style="width:26px;color:#E88439;" class="fa fa-archive"></i> 
+                  {{archive 
                     | replace: 'January', 'Janvier' 
                     | replace: 'February', 'Février' 
                     | replace: 'March', 'Mars' 
@@ -227,7 +228,7 @@ permalink: ./index.html
                     | replace: 'September', 'Septembre' 
                     | replace: 'October', 'Octobre' 
                     | replace: 'November', 'Novembre' 
-                    | replace: 'December', 'Décembre' %}}
+                    | replace: 'December', 'Décembre'}}
                     ({{numberOfArchive}})</a></div>
               {% endfor %}
           </div>

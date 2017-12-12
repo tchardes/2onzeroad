@@ -59,7 +59,8 @@ title: destination archive
             part: "id, snippet",
             channelId: "UCOwPyMvDSTzLNLP8xoDLe2g",
             type: "video",
-            maxResults = 50,
+            order: "date",
+            maxResults: 50,
             q: query
         });
 
@@ -91,8 +92,6 @@ title: destination archive
         });
     }
 </script>
-
-<script src="https://apis.google.com/js/client.js?onload=onClientLoad" type="text/javascript"></script>
 
 {% include basic_header.html title=page.destination subTitle="" %}
 
@@ -127,13 +126,17 @@ title: destination archive
         </div>
     </div>
 </div>
-        
+
+<script src="https://apis.google.com/js/client.js?onload=onClientLoad" type="text/javascript"></script>
+
 <!-- include the Flickr client -->
 <script src="{{ site.url }}/assets/libs/js/flickr/utility.js"></script>
 <script src="{{ site.url }}/assets/libs/js/flickr/gallery.js"></script>
 <script src="{{ site.url }}/assets/libs/js/flickr/flickr.js"></script>
 <script src="{{ site.url }}/assets/libs/js/flickr/main.js"></script>
 <script src="{{ site.url }}/assets/libs/js/flickr/script.js"></script>
+
+
 <script>
 
 Website.Homepage.init();
