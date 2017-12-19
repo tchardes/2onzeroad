@@ -331,7 +331,8 @@ function compile(data){
   }
 
   function registerInput(){
-    options.searchInput.addEventListener('keyup', function(e){
+    options.searchInput.addEventListener('input', function(e){
+      console.log("plop");
       var key = e.which
       if( isWhitelistedKey(key) ) {
         emptyResultsContainer();

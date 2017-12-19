@@ -1,0 +1,12 @@
+
+{% assign pois = "" | split:"|"  %}
+
+{% for post in include.relatedPosts %}
+    {% for postPoi in post.pois %}
+        {% assign cleanPoi = postPoi | split:'#' | first %}
+        {% if pois contains cleanPoi %}
+        {% else %}
+            {% assign pois = pois | push: cleanPoi %}
+        {% endif %}
+    {% endfor %}  
+{% endfor %}

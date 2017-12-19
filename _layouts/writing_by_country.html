@@ -119,6 +119,40 @@
                                 {% endfor %}
                             </div>
 
+                            <div class="col-md-3 col-sm-4 col-xs-4 col-xxs-6" style="padding:0px 25px 25px 25px">
+
+                                    <h3 style="margin-top:0;">Par POI...</h3>
+    
+
+                                    {% assign pois = "" | split:"|"  %}
+
+                                    {% for post in relatedPosts %}
+                                        {% for postPoi in post.pois %}
+                                            {% assign cleanPoi = postPoi | split:'#' | first %}
+                                            {% if pois contains cleanPoi %}
+                                            {% else %}
+                                                {% assign pois = pois | push: cleanPoi %}
+                                            {% endif %}
+                                        {% endfor %}  
+                                    {% endfor %}
+                        
+                                    {% for poi in pois %}
+
+                                        {% for dataPoi in site.data.pois %}
+                                            {% if dataPoi.name == poi %}
+                                                {% assign displayPoi = dataPoi.displayName %}
+                                            {% endif %}
+                                        {% endfor %}
+
+                                        <div>
+                                            <a href="{{ site.baseurl }}/writing/poi/{{poi}}"/>
+                                                <i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{displayPoi}}                    
+                                            </a>
+                                        </div>
+                            
+                                    {% endfor %}
+                                </div>
+
                         {% for post in relatedPosts %}
                             <div class="col-md-3 col-sm-4 col-xs-4 col-xxs-6">
                                 {% include post_preview.html %}

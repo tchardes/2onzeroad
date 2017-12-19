@@ -1,0 +1,42 @@
+---
+layout: page
+title: POINTS OF INTERESTS
+description: ""
+header-img: "assets/owner/hero/search-bg.jpg"
+permalink: /pois/
+---
+
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="Search...">
+    <ul style="min-height: 200px;margin-top:20px;" id="results-container"></ul>
+</div>  
+
+<!-- Script pointing to jekyll-search.js -->
+<script src="{{ site.baseurl }}/assets/libs/js/jekyll-search.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    function gup( name, url ) {
+        if (!url) url = location.href;
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( url );
+        return results == null ? null : results[1];
+    };
+
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        searchResultTemplate: '<li><a href="{url}" title="{preview}">{title}</a></li>',
+        json: '{{ site.baseurl }}/pages/pois/search.json',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+    });
+
+
+    console.log(gup("poi"));
+    document.getElementById("search-input").setAttribute("value", gup("poi"));
+    document.getElementById("search-input").dispatchEvent(new Event('input'));
+</script>

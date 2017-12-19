@@ -1,4 +1,9 @@
-<a href="{{ post.url }}" class="post_preview_list">
+{% assign targetUrl = post.url %}
+{% if include.urlAnchor %}
+    {% assign targetUrl = targetUrl | append: "#" | append: include.urlAnchor %}
+{% endif %}
+
+<a href="{{ targetUrl }}" class="post_preview_list">
     <div style="display: inline-flex;width: 100%">
         <img src="{{ post.thumbnail }}" style="width: 80px;height: 60px;" alt="Image" class="img-responsive"/>
         <div class="post-preview-image-{{post.category}}" style="width: 100%;overflow: overlay;" >

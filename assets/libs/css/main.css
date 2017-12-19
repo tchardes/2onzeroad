@@ -617,3 +617,25 @@ img::-moz-selection {
 .googleMarker {
   color: rgb(220, 72, 60);
 }
+
+#search-input {
+  display: inline-block;
+  color: #008989;
+  background-color: #30292b;
+  border-color: #223333;
+  padding: .5em;
+  width: 100%;
+  font-size: 1em;
+}
+  
+#search-input:focus {
+  display: inline-block;
+  color: #008989;
+  background-color: #30292b;
+  border-color: #223333;
+  border-width: 1px;
+  border-style: outset;
+  outline: 0;
+  width: 100%;
+  font-size: 1em;
+}
