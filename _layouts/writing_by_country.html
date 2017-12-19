@@ -137,7 +137,8 @@
                                     {% endfor %}
                         
                                     {% for poi in pois %}
-
+                                        {% assign displayPoi = "NotFound" %}
+                                        
                                         {% for dataPoi in site.data.pois %}
                                             {% if dataPoi.name == poi %}
                                                 {% assign displayPoi = dataPoi.displayName %}
@@ -146,7 +147,8 @@
 
                                         <div>
                                             <a href="{{ site.baseurl }}/writing/poi/{{poi}}"/>
-                                                <i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{displayPoi}}                    
+                                                <i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{% if displayPoi == "NotFound" %}{{poi}}{% else %} {{displayPoi}} {% endif %}
+                                                {% if displayPoi == "NotFound" %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}                 
                                             </a>
                                         </div>
                             
