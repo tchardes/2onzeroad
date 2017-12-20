@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Fish Creek"
-preview:    "Fish Creek se trouve à l'extème sud de l'Etat de l'Alaska sur la commune de Hyder. On y accéde depuis le Canada par la ville de... "
+preview:    "Fish Creek se trouve à l'extrême sud de l'Etat de l'Alaska sur la commune de Hyder. On y accéde depuis le Canada par la ville de... "
 parent-id:  2017-08-19-usa-alaska-aout
 
 date:       2017-08-25 12:00:00
