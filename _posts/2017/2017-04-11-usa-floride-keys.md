@@ -22,7 +22,7 @@ J’ai toujours été très impressionné dans les films comme True Lie ou Lice
 
 En partant de Homestead au Sud de Miami par la US1, nous sommes assez vite sur les premiers ponts qui relient le continent à Key Largo, la première grande île. C’est samedi et rapidement nous roulons au pas. On se dit que ce n’était peut-être pas le bon jour pour cette destination très prisée. On mettra plus de 4 heures pour arriver jusqu’à la sortie de Key Largo, au final en raison d’un grave accident de la circulation routière. On commence un peu à s’inquiéter pour le bivouac du soir car tout est privé et il existe très peu d’accès vers la mer.   
 
-La route est magnifique, **"l’Overseas Highway"** est une succession de ponts et d’ilots dont certains abritent des villas et marinas assez incroyables. Le plus long pont, le "Seven Mile Bridge", se trouve à la sortie de l’île de Marathon et relie Duck Key. Il était en 1982, lors de sa construction, l’un des plus longs du monde. Il vient doubler l’ancien pont des chemins de fer qui n’est plus en service.  
+La route est magnifique, **"l’Overseas Highway"** est une succession de ponts et d’îlots dont certains abritent des villas et marinas assez incroyables. Le plus long pont, le "Seven Mile Bridge", se trouve à la sortie de l’île de Marathon et relie Duck Key. Il était en 1982, lors de sa construction, l’un des plus longs du monde. Il vient doubler l’ancien pont des chemins de fer qui n’est plus en service.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33697299220/in/datetaken/" title="Bahia Honda SP - Floride - [USA]"><img src="https://c1.staticflickr.com/4/3946/33697299220_b10ef98de4_k.jpg" width="2048" height="1280" alt="Bahia Honda SP - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -35,7 +35,7 @@ On passe notre dimanche dans un State Park « Honda Bahia » d’où l’on pe
 
 ### Key West 
 
-Si l’on regarde notre guide, Key West est à voir mais bon... sans plus. En dehors de l’ancienne villa d’Ernest Hemingway et la fameuse balise Southernmost Point, rien de plus. Nous, nous avons adoré. Nous avons trouvé un parking payant (24.555817, -81.804742) en plein centre ville qui nous a couté 40$ pour la journée et une partie de la nuit si on avait voulu. De ce point, nous avons parcouru toute l’île à pied, cela se fait très bien. Il existe néanmoins des voiturettes électriques en location ou un vieux Troley, au fianl très récent.  
+Si l’on regarde notre guide, Key West est à voir mais bon... sans plus. En dehors de l’ancienne villa d’Ernest Hemingway et la fameuse balise Southernmost Point, rien de plus. Nous, nous avons adoré. Nous avons trouvé un parking payant (24.555817, -81.804742) en plein centre ville qui nous a couté 40$ pour la journée et une partie de la nuit si on avait voulu. De ce point, nous avons parcouru toute l’île à pied, cela se fait très bien. Il existe néanmoins des voiturettes électriques en location ou un vieux Trolley, au final très récent.  
 
 #### Musées
 
@@ -65,7 +65,7 @@ La photo devant la borne est un passage obligé pour qui va à Key West. Souther
 
 #### Fin de la route
 
-Key West est également la fin de la US 1 Hightway South et du coup, le point de départ au mile O de la US 1 Hightway North. Cette route monte jusqu’à Fort Kent dans le Maine sur une distance de 3813 Kms.
+Key West est également la fin de la US 1 Highway South et du coup, le point de départ au mile O de la US 1 Hightway North. Cette route monte jusqu’à Fort Kent dans le Maine sur une distance de 3813 Kms.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33951454481/in/datetaken/" title="Key West - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2924/33951454481_0f8aa8a031_k.jpg" width="2048" height="1152" alt="Key West - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

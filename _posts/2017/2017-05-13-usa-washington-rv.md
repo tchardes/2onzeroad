@@ -20,7 +20,7 @@ location: "38.979650, -76.906927"
 Visiter Washington en RV n'est pas forcément très facile. En préparant notre voyage, nous avions retenu 3 options glanées sur certains carnets de route et sur les forums à savoir :
 
 * Se rendre à la gare d'Alexandria qui se trouve au sud de Washington dans l'Etat de Virginie, stationner son véhicule et prendre le train pour la gare de Washington.
-* Se rendre au Grennbelt National Park (6565 Greenbelt Rd, Greenbelt) dans l'Etat du Maryland où un chemin mènerait au Metro. Tarif : 20$/jour.
+* Se rendre au Greenbelt National Park (6565 Greenbelt Rd, Greenbelt) dans l'Etat du Maryland où un chemin mènerait au Metro. Tarif : 20$/jour.
 * Se rendre au camping Cherry Hill Park (9800 Cherry Hill Rd, College Park) dans l'Etat du Maryland, très pratique car le car menant au métro passe directement dans le camping, tout confort mais 70$/jour. (Pas testée)
 
 **Première solution :**
@@ -49,7 +49,7 @@ Pour rejoindre le métro :
 **Solution 1**
 
 * Prendre sur votre droite vers le carrefour et prenez la rue sur votre droite "Kenilworth Av" sur environ 300 mètres en tout et vous avez un arrêt du Metro Bus "N° 3004093" de la ligne R12. Le bus est censé passer toutes les demi-heures à partir de 05h32 puis toutes les heures à partir de 10h00.
-* Ce car de ville vous conduira, après une dizaine d'arrêts, comptez bien 30 minutes, à "Greenbelt Station" qui est le terminus de la Ligne verte du métro de Washington. Le trajet vous coutera 1,75$/Pers. (il faut avoir l'appoint, la machine ne rend pas la monnaie).
+* Ce car de ville vous conduira, après une dizaine d'arrêts, comptez bien 30 minutes, à "Greenbelt Station" qui est le terminus de la Ligne verte du métro de Washington. Le trajet vous coûtera 1,75$/Pers. (il faut avoir l'appoint, la machine ne rend pas la monnaie).
 
 **Solution 2**
 

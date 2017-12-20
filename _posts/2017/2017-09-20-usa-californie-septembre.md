@@ -84,7 +84,7 @@ Nous nous arrêtons au visitor center du **Olympic National Park** qui se situe 
 
 ## 07 septembre  
 
-Le temps est encore couvert mais il ne pleut pas. On traine au walmart et je m’occupe des papiers pour l’achat d’une de mes photos par un éditeur américain, puis je me décide à retourner chez le coiffeur pour qu’il m’arrange un peu. Départ ensuite pour le **Mont St Helens**, volcan qui a explosé dans les années 80 éventrant la montagne. Nous nous arrêtons au visitor center où une web cam filme en continu le mont qui est carrément dans les nuages et fumées, ça brûle ici aussi. De la pluie est également annoncée pour les prochains jours, on décide donc de descendre sur Portland où la météo semble plus clémente. Avant cela, on fait un petit trail qui fait le tour d’une zone humide, histoire de nous dégourdir un peu les jambes.   
+Le temps est encore couvert mais il ne pleut pas. On traîne au walmart et je m’occupe des papiers pour l’achat d’une de mes photos par un éditeur américain, puis je me décide à retourner chez le coiffeur pour qu’il m’arrange un peu. Départ ensuite pour le **Mont St Helens**, volcan qui a explosé dans les années 80 éventrant la montagne. Nous nous arrêtons au visitor center où une web cam filme en continu le mont qui est carrément dans les nuages et fumées, ça brûle ici aussi. De la pluie est également annoncée pour les prochains jours, on décide donc de descendre sur Portland où la météo semble plus clémente. Avant cela, on fait un petit trail qui fait le tour d’une zone humide, histoire de nous dégourdir un peu les jambes.   
 
 ## 08 septembre   
 

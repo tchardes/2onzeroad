@@ -19,7 +19,7 @@ location: "35.4770, -83.3206"
 ---
 
 
-Point de départ de la route **Blue Ridge ParkWay** située dans le **Great Smoky National Park** que nous allons emprunter, nous faisons halte dans la montagne des Appalaches, au milieu de la réserve (Land Trust) des Indiens Cherokee, et sa ville principale, Qualla Boundary. Rien que de le dire, cela nous renvoit aux vieux westerns que l'on regardait dans la dernière séance...   
+Point de départ de la route **Blue Ridge ParkWay** située dans le **Great Smoky National Park** que nous allons emprunter, nous faisons halte dans la montagne des Appalaches, au milieu de la réserve (Land Trust) des Indiens Cherokee, et sa ville principale, Qualla Boundary. Rien que de le dire, cela nous renvoie aux vieux westerns que l'on regardait dans la dernière séance...   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34342968941/in/datetaken/" title="Cherokee - Caroline du Nord - [USA]"><img src="https://c1.staticflickr.com/5/4173/34342968941_b495c80d12_k.jpg" width="2048" height="1152" alt="Cherokee - Caroline du Nord - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

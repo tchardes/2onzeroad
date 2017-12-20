@@ -59,7 +59,7 @@ Elle a ici ses propres règles, parfois surprenantes et parfois, on se demande p
 * Sur les routes à plusieurs voies, on roule où l’on veut mais surtout au milieu car même sur les grandes routes, il y a des sorties à droite… comme à gauche. Certainement par économie, on trouve des stations essence au milieu des 2 X 4 ou 6 voies. De toutes les façons, on se double copieusement par la droite ou par la gauche ;
 * Je comprends pourquoi il y a des boussoles intégrées dans tous les véhicules. C’est très pratique pour se repérer car souvent les rues portent le même N° mais Sud ou Nord…, on voit très peu de panneau donnant la direction générale.
 * A certains carrefours de route de même importance, chacun a un stop et c’est le premier arrivé qui repart et ainsi de suite, en parfait gentlemen ;
-* Ici, on ne plaisante pas avec les enfants. Les tronçons de route devant les écoles sont identifiés par des panneaux qui obligent les automobilistes à ralentir à une certaine vitesse si les feux clignotent. Les fameux bus scolaires jaunes s’illuminent comme un sapin de Noël et des panneaux « Stop » se déplient sur le côté du bus lorsqu’ils embarquent ou débarquent des enfants. Tous les véhicules venant dans les deux sens doivent alors faire stop au niveau du bus et attendre que le chauffeur replit ses panneaux avant de pouvoir reprendre la route ;
+* Ici, on ne plaisante pas avec les enfants. Les tronçons de route devant les écoles sont identifiés par des panneaux qui obligent les automobilistes à ralentir à une certaine vitesse si les feux clignotent. Les fameux bus scolaires jaunes s’illuminent comme un sapin de Noël et des panneaux « Stop » se déplient sur le côté du bus lorsqu’ils embarquent ou débarquent des enfants. Tous les véhicules venant dans les deux sens doivent alors faire stop au niveau du bus et attendre que le chauffeur repli ses panneaux avant de pouvoir reprendre la route ;
 * Apparemment, il n’y a pas de règles de base comme chez nous concernant la limitation de vitesse en fonction du type d’axe. Cela oblige à porter une attention constante aux panneaux car même sur l’Interstate (autoroute), la vitesse passe de 50 à 70 miles sans trop de raisons. Idem pour les autres routes ;
 * Les bus ont à l'avant un porte vélo. Si une personne à vélo veut monter dans le car elle déplie le porte vélo et le fixe. Quand elle descend, elle reprend son vélo sous l'oeil du chauffeur. 
 
@@ -67,7 +67,7 @@ En règle générale, si on conduit comme en France, tout se passe bien, les rou
 
 ### Navigation  
 
-Après un mois de circulation, la navigatrice a trouvé ces marques et maitrise parfaitement google maps et plans. Les débuts ont été parfois rocambolesques quand au milieu d’une 2X4 voies avec des échangeurs sur 4 niveaux, elle vous annonce :   
+Après un mois de circulation, la navigatrice a trouvé ces marques et maîtrise parfaitement google maps et plans. Les débuts ont été parfois rocambolesques quand au milieu d’une 2X4 voies avec des échangeurs sur 4 niveaux, elle vous annonce :   
 
 * c’est là … où là ??? … ben là !!!   
 
@@ -118,7 +118,7 @@ Les américains sont férus de chasse et de pêche et par conséquent, ces deux 
 Avant de visiter les Everglades et ses marécages, pour ne pas se faire piquer par des nuées de moustiques, nous nous sommes arrêtés au rayon répulsif et là, oh surprise, du répulsif à ... Alligators.  
 
 Le côté alimentation vaut le détour également. Tous les produits sont conditionnés en grosse, même très grosse quantité. Impossible ne serait-ce que d'acheter, par exemple, 1 litre de lait ou de jus d'orange. D'ailleurs, les rayons jus de fruits et sodas sont énormissimes ainsi que le rayon bombons, du choix, du choix à n'en plus finir. A côté du thon en boite, on peut aussi trouver des dés de poulet en conserve.
-Les pâtisseries sont très colorées, peu raffinées et ne donnent pas trop envie. Par contre, les cheesecakes, donuts et coockies sont extras, parole de gourmande!  
+Les pâtisseries sont très colorées, peu raffinées et ne donnent pas trop envie. Par contre, les cheesecakes, donuts et cookies sont extras, parole de gourmande!  
 
 Il est rare de trouver, en rayon, des produits tels quels: tout est prédécoupé comme les fruits et les légumes et tout est cuisiné ou préparé même les pâtes, le riz et la purée au bacon, cheese, herbes ...
 Encore un point surprenant: quelquefois, un médecin s'installe dans un coin du magasin entre les torchons et les serviettes, et peut contrôler, à qui veut, l'audition, la vue, la tension...

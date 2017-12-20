@@ -31,7 +31,7 @@ Ce « parc » retrace les grandes heures de la conquête spatiale américaine.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33498420673/in/datetaken/" title="Kennedy Space Center - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2851/33498420673_810c973c79_k.jpg" width="2048" height="1152" alt="Kennedy Space Center - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Les anciens astronautes sont toujours très présents pour la NASA, ils animent des discussions à "l'Astronaut Encounter” et “Mission Status Briefing” et on peut même, moyennant un supplément, prendre son déjeuner avec l’un d’entre eux. Mieux vaut maitriser parfaitement l’anglais.  
+Les anciens astronautes sont toujours très présents pour la NASA, ils animent des discussions à "l'Astronaut Encounter” et “Mission Status Briefing” et on peut même, moyennant un supplément, prendre son déjeuner avec l’un d’entre eux. Mieux vaut maîtriser parfaitement l’anglais.  
 
 Le site regroupe différentes zones à visiter comme :  
 
