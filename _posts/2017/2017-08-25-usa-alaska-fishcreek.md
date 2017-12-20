@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Fish Creek"
-preview:    "Fish Creek se trouve à l'extrême sud de l'Etat de l'Alaska sur la commune de Hyder. On y accède depuis le Canada par la ville de... "
+preview:    "Fish Creek se trouve à l'extrême sud de l'État de l'Alaska sur la commune de Hyder. On y accède depuis le Canada par la ville de... "
 parent-id:  2017-08-19-usa-alaska-aout
 
 date:       2017-08-25 12:00:00
@@ -19,7 +19,7 @@ location: "55.966042, -130.062446"
 ---
 
 
-Fish Creek se trouve à l'extrême sud de l'Etat de l'Alaska sur la commune de Hyder. On y accède depuis le Canada par la ville de Stewart en Colombie Britannique. Depuis peu, la route est entièrement goudronnée. Cette rivière est la destination finale pour des milliers de saumons qui viennent pondre dans cette rivière où ils sont nés. Gérée par The Tongass National Forest, l'entrée coûte 5$/jour.  
+Fish Creek se trouve à l'extrême sud de l'État de l'Alaska sur la commune de Hyder. On y accède depuis le Canada par la ville de Stewart en Colombie Britannique. Depuis peu, la route est entièrement goudronnée. Cette rivière est la destination finale pour des milliers de saumons qui viennent pondre dans cette rivière où ils sont nés. Gérée par The Tongass National Forest, l'entrée coûte 5$/jour.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36018015873/in/datetaken/" title="Hyder - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4341/36018015873_fcc1ddd0a6_k.jpg" width="2048" height="1152" alt="Hyder - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

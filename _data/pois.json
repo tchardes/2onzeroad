@@ -45,7 +45,7 @@
     {"name": "peggyscove", "displayName": "Peggy’s Cove", "type": "ville"},
     {"name": "lunenburg", "displayName": "Lunenburg", "type": "ville"},
     {"name": "grand-pre", "displayName": "Grand Prè", "type": "nature"},
-    {"name": "ile-du-prince-edouard", "displayName": "Ile Du Prince Edouard", "type": "nature"},
+    {"name": "ile-du-prince-edouard", "displayName": "Ile Du Prince Édouard", "type": "nature"},
     {"name": "shediac", "displayName": "Shediac", "type": "ville"},
     {"name": "parc-des-monts-valins", "displayName": "Parc des Monts Valins", "type": "nature"},
     {"name": "detroit", "displayName": "Detroit", "type": "ville"},

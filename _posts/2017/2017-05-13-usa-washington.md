@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Washington (District of Columbia)"
-preview:    "Nous voilà enfin dans la capitale des Etats-Unis où nous allons passer 4 journées entières. Un chose importante à savoir, à Washington... "
+preview:    "Nous voilà enfin dans la capitale des États-Unis où nous allons passer 4 journées entières. Un chose importante à savoir, à Washington... "
 parent-id:  2017-05-14-usa-georgie-mai
 
 date:       2017-05-13 13:00:00
@@ -18,7 +18,7 @@ category: "blog"
 location: "38.898254, -77.036473"
 ---
 
-Nous voilà enfin dans la capitale des Etats-Unis où nous allons passer 4 journées entières. Une chose importante à savoir, à Washington, tous les musées sont gratuits, c'est loin d'être négligeable quand on sait qu'une entrée coûte en moyenne 25$/Pers.  
+Nous voilà enfin dans la capitale des États-Unis où nous allons passer 4 journées entières. Une chose importante à savoir, à Washington, tous les musées sont gratuits, c'est loin d'être négligeable quand on sait qu'une entrée coûte en moyenne 25$/Pers.  
 
 Au départ d'Alexandria pour Washington et avant de traverser le fleuve Potomac, nous passons devant le **Cimetière National d'Arlington** et décidons de tenter notre chance avec Thor. Nous passons devant le Pentagone que l'on ne peut plus visiter en tant qu'étranger depuis les attentats du 11 septembre. Nous effectuons notre premier arrêt au mémorial des Marines. Il s'agit d'une immense sculpture représentant les Marines plantant la bannière étoilée au sommet du mont Suribachi sur l'île d'IWO JIMA, avant poste japonais.
 Nous arrivons juste au bon moment et assistons à une petite cérémonie de quelques marines au comportement étonnement très ... décontracté.  
@@ -54,7 +54,7 @@ Le deuxième jour, nous commençons la journée par la visite de la **Bibliothè
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34043759464/in/datetaken/" title="Washington DC - [USA]"><img src="https://c1.staticflickr.com/5/4249/34043759464_61750467fe_k.jpg" width="2048" height="1365" alt="Washington DC - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Depuis un tunnel, nous accédons directement au **Capitole** avec son immense dôme sur lequel trône une statue de la liberté, mais pas celle de Bartholdi. Le bâtiment abrite à la fois le Sénat et la Chambre des Représentants (notre Assemblée Nationale). La prise en charge des touristes est comme partout aux USA, très bien huilée. On se retrouve rapidement étiqueté, groupé pour accéder à un cinéma et voir un film sur l'histoire du Capitole, puis à la sortie divisé en petits groupes et pris en compte par un guide, équipé en écouteur pour entendre ses commentaires, plus une doc en français et c'est parti pour une bonne heure de visite. Après l'immense coupole qui dispose de nombreuses peintures et fresques qui relatent l'histoire des Etats-Unis, on accède à la salle des statues, très bel écrin en forme de demi-lune qui contient 102 statues (2 par états) représentant des personnages célèbres.  
+Depuis un tunnel, nous accédons directement au **Capitole** avec son immense dôme sur lequel trône une statue de la liberté, mais pas celle de Bartholdi. Le bâtiment abrite à la fois le Sénat et la Chambre des Représentants (notre Assemblée Nationale). La prise en charge des touristes est comme partout aux USA, très bien huilée. On se retrouve rapidement étiqueté, groupé pour accéder à un cinéma et voir un film sur l'histoire du Capitole, puis à la sortie divisé en petits groupes et pris en compte par un guide, équipé en écouteur pour entendre ses commentaires, plus une doc en français et c'est parti pour une bonne heure de visite. Après l'immense coupole qui dispose de nombreuses peintures et fresques qui relatent l'histoire des États-Unis, on accède à la salle des statues, très bel écrin en forme de demi-lune qui contient 102 statues (2 par états) représentant des personnages célèbres.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34075937923/in/datetaken/" title="Washington DC - [USA]"><img src="https://c1.staticflickr.com/5/4272/34075937923_c6ca7fa0b4_k.jpg" width="2048" height="1152" alt="Washington DC - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -107,4 +107,4 @@ Tous ces lieux sont empreints d'une grande solennité et d'un grand respect. Bea
 
 Nous n'avons pas fait le tour de tous les musées même si au final beaucoup sont fermés. De l'extérieur, l'architecture des musées de l'histoire et la culture des africains américains et celui des indiens américains sont splendides. Une chose que nous avions déjà remarqué mais plus ici encore est le nombre impressionnant de groupes d'élèves présents sur tous les sites. C'est dès le plus jeune âge qu'ils inculquent aux enfants, la culture, l'histoire, la fierté et l'amour de leur patrie, des exemples à certainement méditer.  
 
-Très belle visite de cette "petite" capitale au final, qui compte seulement 650.000 habitants. On sent que c'est une ville un peu à part, qui n'appartient à aucun Etat, occupée principalement par des fonctionnaires venus de tout le pays pour travailler dans les grandes administrations fédérales. Rien que le Pentagone compte environ 30.000 agents, autant dire que l'on voit des uniformes un peu partout dans toute la ville.  
+Très belle visite de cette "petite" capitale au final, qui compte seulement 650.000 habitants. On sent que c'est une ville un peu à part, qui n'appartient à aucun État, occupée principalement par des fonctionnaires venus de tout le pays pour travailler dans les grandes administrations fédérales. Rien que le Pentagone compte environ 30.000 agents, autant dire que l'on voit des uniformes un peu partout dans toute la ville.  

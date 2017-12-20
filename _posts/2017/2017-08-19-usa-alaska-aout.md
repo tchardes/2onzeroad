@@ -101,7 +101,7 @@ Départ du Bivouac, on repasse une dernière fois au parc pour faire le plein et
 
 ## 11 et 12 août  
 
-Pluie annoncée pour toute la journée et le week-end certainement. Départ pour UPS où théoriquement notre courrier a du arriver de Floride. Je récupère une enveloppe avec les 5 courriers, un du concessionnaire où nous avons acheté Thor et 4 « factures » provenant des tronçons de routes payantes sur lesquels nous nous sommes engagés par erreur. Il faut savoir que très souvent il n’y a pas de péage, tout fonctionne soit avec un boitier dans le véhicule comme en France ou soit directement par lecture de la plaque d’immatriculation. De plus, si l’on ne paye pas, il est impossible d’obtenir la prorogation de son immatriculation. J'avais peur que cela se soit transformé en amendes mais au final tout se fait en ligne, nous payons moins de 10 euros. On verra en octobre si l’on peut obtenir une nouvelle plaque d’immatriculation.  
+Pluie annoncée pour toute la journée et le week-end certainement. Départ pour UPS où théoriquement notre courrier a du arriver de Floride. Je récupère une enveloppe avec les 5 courriers, un du concessionnaire où nous avons acheté Thor et 4 « factures » provenant des tronçons de routes payantes sur lesquels nous nous sommes engagés par erreur. Il faut savoir que très souvent il n’y a pas de péage, tout fonctionne soit avec un boîtier dans le véhicule comme en France ou soit directement par lecture de la plaque d’immatriculation. De plus, si l’on ne paye pas, il est impossible d’obtenir la prorogation de son immatriculation. J'avais peur que cela se soit transformé en amendes mais au final tout se fait en ligne, nous payons moins de 10 euros. On verra en octobre si l’on peut obtenir une nouvelle plaque d’immatriculation.  
 
 Ensuite direction Safety Glass, un genre de CarGlass afin de faire réparer notre pare-brise. Je contacte notre assurance qui prend les réparations en compte, nous n’avons rien à débourser. On finit par les courses pour faire le plein de provisions pour les prochains jours.   
 
@@ -127,7 +127,7 @@ Nous rentrons dans la ville et allons directement à la marina au bout d’une l
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36310629010/in/datetaken/" title="Péninsule de Kenai - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4360/36310629010_39cf1c5657_k.jpg" width="2048" height="1365" alt="Péninsule de Kenai - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-De retour, on s’arrête à l’église orthodoxe de Ninilchik qui témoigne du passé russe de l’Alaska. C'est en effet en 1867 que la Russie vendit le territoire de l’Alaska aux Etats-Unis pour la somme dérisoire de 7.2 millions de dollars.  
+De retour, on s’arrête à l’église orthodoxe de Ninilchik qui témoigne du passé russe de l’Alaska. C'est en effet en 1867 que la Russie vendit le territoire de l’Alaska aux États-Unis pour la somme dérisoire de 7.2 millions de dollars.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35868555974/in/datetaken/" title="Péninsule de Kenai - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4421/35868555974_8b99b0d298_k.jpg" width="2048" height="1152" alt="Péninsule de Kenai - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

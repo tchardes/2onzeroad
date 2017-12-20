@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_destination"
-destination: "Canada - Ile Du Prince Edouard"
+destination: "Canada - Ile Du Prince Édouard"
 permalink: "/writing/destination/canada-ile-du-prince-edouard/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 flickr-text: "isle du prince edouard"

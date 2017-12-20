@@ -46,7 +46,7 @@ Nous poursuivons par le **Miles Canyon**, site au bord du fleuve Yukon où une p
 
 Le soir, nous testons le **Klondike Rib & Salmon**. C’est le resto très typique à faire à WhiteHorse. Nous obtenons une table pour 19h30 et nous retournons à Thor en attendant de nous attabler. Sur le trajet, Corinne voit, sur la route, un superbe renard qui déambule tranquillement en pleine ville, tout juste inquiété par des jeunes qui font du skate board. Nous avons très bien mangé, boulettes de cerf, bison et sanglier et Bonanza brownie avec une boule de vanille pour Corinne et steak de bison et une Berry Pie, tarte chaude aux fruits rouges et rhubarbe avec une boule de vanille pour moi.    
 
-Ce matin, nous avions prévu de faire la vidange de Thor mais tous les magasins sont fermés. Après renseignement, le troisième lundi du mois d’août est un jour férié au Yukon, c’est la fête du **jour de la découverte**, découverte de l’or dans le ruisseau Bonanza par des pionniers, le 16 août 1896 qui va déclencher l’une des plus importantes ruées vers l’or, entrainant l’année suivante la création officielle du territoire du Yukon. La laverie est quand même ouverte, nous nous occupons du linge avant de retourner au visitor center pour profiter de leurs commodités.   
+Ce matin, nous avions prévu de faire la vidange de Thor mais tous les magasins sont fermés. Après renseignement, le troisième lundi du mois d’août est un jour férié au Yukon, c’est la fête du **jour de la découverte**, découverte de l’or dans le ruisseau Bonanza par des pionniers, le 16 août 1896 qui va déclencher l’une des plus importantes ruées vers l’or, entraînant l’année suivante la création officielle du territoire du Yukon. La laverie est quand même ouverte, nous nous occupons du linge avant de retourner au visitor center pour profiter de leurs commodités.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36343444420/in/datetaken/" title="Whitehorse - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4404/36343444420_eb740f4ecf_k.jpg" width="2048" height="1152" alt="Whitehorse - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -74,7 +74,7 @@ Nous trouvons un bivouac peu avant Meziadin Junction où nous bifurquerons demai
 
 ## 24 août    
 
-A peine après avoir quitté notre lieu de stationnement, nous croisons un magnifique ours noir qui traverse la route devant nous, la journée commence bien. Nous bifurquons sur la "37A" qui s'avèrera être goudronnée également tout le long. Sur la route, nous passons devant **Bear glacier**.    
+A peine après avoir quitté notre lieu de stationnement, nous croisons un magnifique ours noir qui traverse la route devant nous, la journée commence bien. Nous bifurquons sur la "37A" qui s'avérera être goudronnée également tout le long. Sur la route, nous passons devant **Bear glacier**.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36657044542/in/datetaken/" title="Stewart - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4340/36657044542_ab23c61313_k.jpg" width="2048" height="1152" alt="Stewart - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 

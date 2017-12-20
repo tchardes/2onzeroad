@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Charleston"
-preview:    "Charleston est la deuxième plus grande ville de l'Etat. Ville du sud, on y retrouve la même ambiance qu'à... "
+preview:    "Charleston est la deuxième plus grande ville de l'État. Ville du sud, on y retrouve la même ambiance qu'à... "
 parent-id:  2017-05-14-usa-georgie-mai
 
 date:       2017-04-30 12:00:00
@@ -18,7 +18,7 @@ category: "blog"
 location: "32.7763, -79.9327"
 ---
 
-Charleston est la deuxième plus grande ville de l'Etat. Ville du sud, on y retrouve la même ambiance qu'à Savannah, même si Charleston est beaucoup plus grand et a été certainement une ville beaucoup plus riche.  
+Charleston est la deuxième plus grande ville de l'État. Ville du sud, on y retrouve la même ambiance qu'à Savannah, même si Charleston est beaucoup plus grand et a été certainement une ville beaucoup plus riche.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34313037672/in/datetaken/" title="Charleston - Caroline du Sud - [USA]"><img src="https://c1.staticflickr.com/5/4193/34313037672_eada93a8ed_k.jpg" width="2048" height="1152" alt="Charleston - Caroline du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 

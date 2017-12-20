@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Ouest Canada"
-preview:    "Huitième article de type carnet de route, il couvre la période du 19 juillet au 02 août durant laquelle nous avons traversé les Etats de..."
+preview:    "Huitième article de type carnet de route, il couvre la période du 19 juillet au 02 août durant laquelle nous avons traversé les États de..."
 parent-id:  2017-08-02-canada-ouest-bilan
 
 date:       2017-08-02 13:00:00
@@ -22,7 +22,7 @@ mapZoom: 4
 
 ---
 
-Huitième article de type carnet de route, il couvre la période du 19 juillet au 02 août durant laquelle nous avons traversé les Etats de l'Alberta, de la Colombie Britannique et du Yukon.  
+Huitième article de type carnet de route, il couvre la période du 19 juillet au 02 août durant laquelle nous avons traversé les États de l'Alberta, de la Colombie Britannique et du Yukon.  
 
 
 ## 19 juillet  
@@ -76,7 +76,7 @@ Nous arrivons à **Whitehorse** et nous nous mettons en quête de trouver un gar
 
 Le lendemain, dimanche, direction la laverie pour s'occuper de linge et retour au visitor center. Le soir, nous prenons notre repas dans une Pizzeria avant de regagner le parking Walmart pour la nuit. Il doit y avoir, au bas mot, 30 RV garés. De la journée, nous n'avons pas vérifié le niveau de la batterie de service et ce soir elle est trop faible pour pouvoir démarrer la génératrice. Je tente avec mes câbles de relier les deux batteries mais je suis trop court. Je fais le tour des autres RV et trouve un couple d'allemand qui était avec nous toute la journée, mettant eux aussi leur site à niveau. Il me prête gentiment les siens et je peux enfin lancer le groupe. Le magasin fermant à 23h00, je suis allé acheter un autre câble….  
 
-Lundi matin, on cherche désespérément un garage qui accepte de nous prendre, ils ont les mécanos mais pas de place pour nous sur leur planning. Le 5éme garage sera le bon. On y rencontre un couple de Québécois de Montréal très sympathique avec qui on discute un bon moment. Ensuite direction UPS pour régler un problème avec notre adresse en Floride. Nous apprenons à cette occasion que nous avons 5 lettres en attente que nous faisons rapatrier sur un UPS à Anchorage. Je crains qu'il ne s'agisse de contraventions car à plusieurs reprises en Floride, nous nous sommes retrouvés sur des portions de routes payantes mais sans péages, tout se faisant soit avec un boitier soit directement par courrier. On verra bien dans quelques jours. Nous faisons le plein d’essence dans une station qui dispose également d’eau et d’un dump et nous partons pour Dawson City, on quitte rapidement la "Alaska Highway" pour la **"Klondike Highway"** qui est quand même moins belle. On s’arrête en route faire un petit trail **"Five Fingers Canyon"** au bord de la rivière Klondike où se trouve en plein milieu de rapides d'immenses rochers qui étaient redoutés par les bateaux qui montaient approvisionner les orpailleurs dans le Nord. On rencontre également de nombreux RV qui arrivent dans l'autre sens et dans un état pas possible, on sait qu'ils ont emprunté la piste qui relie Dawson City à Chicken.  
+Lundi matin, on cherche désespérément un garage qui accepte de nous prendre, ils ont les mécanos mais pas de place pour nous sur leur planning. Le 5éme garage sera le bon. On y rencontre un couple de Québécois de Montréal très sympathique avec qui on discute un bon moment. Ensuite direction UPS pour régler un problème avec notre adresse en Floride. Nous apprenons à cette occasion que nous avons 5 lettres en attente que nous faisons rapatrier sur un UPS à Anchorage. Je crains qu'il ne s'agisse de contraventions car à plusieurs reprises en Floride, nous nous sommes retrouvés sur des portions de routes payantes mais sans péages, tout se faisant soit avec un boîtier soit directement par courrier. On verra bien dans quelques jours. Nous faisons le plein d’essence dans une station qui dispose également d’eau et d’un dump et nous partons pour Dawson City, on quitte rapidement la "Alaska Highway" pour la **"Klondike Highway"** qui est quand même moins belle. On s’arrête en route faire un petit trail **"Five Fingers Canyon"** au bord de la rivière Klondike où se trouve en plein milieu de rapides d'immenses rochers qui étaient redoutés par les bateaux qui montaient approvisionner les orpailleurs dans le Nord. On rencontre également de nombreux RV qui arrivent dans l'autre sens et dans un état pas possible, on sait qu'ils ont emprunté la piste qui relie Dawson City à Chicken.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36194848350/in/datetaken/" title="Klondike - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4397/36194848350_071803661d_k.jpg" width="2048" height="1152" alt="Klondike - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

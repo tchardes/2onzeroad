@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Côte Nord-Ouest"
-preview:    "Onzième article de type carnet de route, il couvre la période du 03 au 20 septembre durant laquelle nous avons traversé les Etats de Washington, de..."
+preview:    "Onzième article de type carnet de route, il couvre la période du 03 au 20 septembre durant laquelle nous avons traversé les États de Washington, de..."
 parent-id: 
 
 date:       2017-09-20 13:00:00
@@ -22,11 +22,11 @@ mapZoom: 5
 
 ---
 
-Onzième et dernier article de type carnet de route, il couvre la période du 03 au 20 septembre durant laquelle nous avons traversé les Etats de Washington, de l'Oregon et une partie de la Californie.  
+Onzième et dernier article de type carnet de route, il couvre la période du 03 au 20 septembre durant laquelle nous avons traversé les États de Washington, de l'Oregon et une partie de la Californie.  
 
 ## 03 et 04 septembre  
 
-Après avoir passé la frontière des Etats-Unis, nous roulons vers Seattle et allons directement au **Gaz Work Parc**, un très beau parc où se trouve encore le squelette d’une ancienne usine de gaz, au bord de "Union Lake", face à la skyline de Seattle. C'est dimanche et de nombreuses personnes profitent des derniers rayons de soleil de la journée, pique-niquent, lézardent, profitent de la vue. J'improvise une petite séance photo jusqu'à la nuit noire. Nous trouvons, ensuite, un bivouac non loin du parc dans un quartier résidentiel, on se fait discret…  
+Après avoir passé la frontière des États-Unis, nous roulons vers Seattle et allons directement au **Gaz Work Parc**, un très beau parc où se trouve encore le squelette d’une ancienne usine de gaz, au bord de "Union Lake", face à la skyline de Seattle. C'est dimanche et de nombreuses personnes profitent des derniers rayons de soleil de la journée, pique-niquent, lézardent, profitent de la vue. J'improvise une petite séance photo jusqu'à la nuit noire. Nous trouvons, ensuite, un bivouac non loin du parc dans un quartier résidentiel, on se fait discret…  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37412613695/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4467/37412613695_72fa823a7d_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -34,7 +34,7 @@ Après avoir passé la frontière des Etats-Unis, nous roulons vers Seattle et a
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600702053/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4411/36600702053_928581e7b8_b.jpg" width="1024" height="576" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Le lendemain nous quittons notre bivouac et passons par la **Troll Avenue** pour rendre visite à un troll des montagnes coincé sous un pont, une coccinelle dans la main. En route vers le centre ville de Seattle, nous passons par le quartier de Fremont qui présente la particularité d'exposer en pleine rue, aux Etats-Unis, une statue de Vladimir Ilitch Lénine. L'histoire de cette "oeuvre" est assez rocambolesque, pour en savoir plus : **[Cliquez ici](https://fr.wikipedia.org/wiki/Statue_de_L%C3%A9nine_(Seattle))**.    
+Le lendemain nous quittons notre bivouac et passons par la **Troll Avenue** pour rendre visite à un troll des montagnes coincé sous un pont, une coccinelle dans la main. En route vers le centre ville de Seattle, nous passons par le quartier de Fremont qui présente la particularité d'exposer en pleine rue, aux États-Unis, une statue de Vladimir Ilitch Lénine. L'histoire de cette "oeuvre" est assez rocambolesque, pour en savoir plus : **[Cliquez ici](https://fr.wikipedia.org/wiki/Statue_de_L%C3%A9nine_(Seattle))**.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36600700643/in/datetaken/" title="Seattle - Washington - [USA]"><img src="https://farm5.staticflickr.com/4439/36600700643_b683517e77_b.jpg" width="1024" height="683" alt="Seattle - Washington - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -117,7 +117,7 @@ Malgré la fumée, nous arrivons quand même à passer deux jours dans le parc n
 Départ de Crater Lake. On s’arrête à Klamath Falls pour faire le plein de propane et de gazoline puis les courses au Walmart.
 Nous reprenons la direction de **Lava Beds National Monument**. **(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-09-12-usa-lavabeds %}">ici</a>)**. Nous sommes le 11/09, toutes les bannières étoilées sont en berne dans le pays.  
 
-Nous partons ensuite vers le **Lassen Volcanic NP** et quittons l'Etat de l’Oregon pour celui de la Californie, dernier Etat de notre road trip de 2017. Après quelques kilomètres à l’intérieur de l’Etat, tous les véhicules subissent un contrôle sanitaire, les lois de l'Etat étant très sévères. Malheureusement, nous transportons deux oranges clandestines qui n’avaient pas leurs papiers pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau… Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques places.  
+Nous partons ensuite vers le **Lassen Volcanic NP** et quittons l'État de l’Oregon pour celui de la Californie, dernier État de notre road trip de 2017. Après quelques kilomètres à l’intérieur de l’État, tous les véhicules subissent un contrôle sanitaire, les lois de l'État étant très sévères. Malheureusement, nous transportons deux oranges clandestines qui n’avaient pas leurs papiers pour passer cette frontière. L’agent nous a demandé si nous voulions les manger là, nous lui en avons fait cadeau… Arrivés au Lassen Volcanic NP, nous nous dirigeons au Camping du parc où il reste quelques places.  
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>  
 Le système des Campgrounds dans les Parks est simple, on s'arrête à l'entrée voir les préconisations, le plan, les services et le prix de la nuitée et on récupère dans une boite une enveloppe spécifique. On cherche un emplacement de libre dans le camping, on stationne le camping-car et on renseigne les deux volets de l'enveloppe. On découpe la première partie que l'on accroche à un poteau où figure le N° du site, on met l'argent dans l'enveloppe en fonction du nombre de nuitée que l'on vient déposer à l'entrée. Il est également possible de payer par CB en renseignant une autre partie de l'enveloppe. Les Parcs Rangers récupèrent les enveloppes et font le tour matin et soir du camping pour vérifier.  

@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Nord Midwest - Grandes plaines"
-preview:    "Septième article de type carnet de route, il couvre la période du 30 juin au 19 juillet durant laquelle nous avons traversé les Etats..."
+preview:    "Septième article de type carnet de route, il couvre la période du 30 juin au 19 juillet durant laquelle nous avons traversé les États..."
 parent-id:  2017-07-01-usa-nord-bilan
 
 date:       2017-07-19 13:00:00
@@ -22,7 +22,7 @@ mapZoom: 5
 
 ---
 
-Septième article de type carnet de route, il couvre la période du 30 juin au 19 juillet durant laquelle nous avons traversé les Etats du Michigan, de l'Indiana, de l'Illinois, du Wisconsin, du Minnesota, du Dakota du Sud, du Wyoming et du Montana.  
+Septième article de type carnet de route, il couvre la période du 30 juin au 19 juillet durant laquelle nous avons traversé les États du Michigan, de l'Indiana, de l'Illinois, du Wisconsin, du Minnesota, du Dakota du Sud, du Wyoming et du Montana.  
 
 ## 30 Juin  
 
@@ -106,7 +106,7 @@ Beau musée. Nous quittons les Sioux et traversons la ville de Custer et sa diza
 
 ## 09 Juillet  
 
-Ce matin, dernier tour à la Devils Tower puis départ vers Cody, Corinne prend un peu le volant de Thor. Malgré le fait que nous soyons à plus de 1000 mètres d’altitude, il fait très chaud. On longe d’immenses prairies avec, paradoxalement, peu de bétail. Nous traversons Bighorn National Forest et prenons un peu de hauteur, à 2700 mètres, la température est fraiche et ça fait du bien. Nous traversons un immense plateau avant de redescendre le long d’un canyon. Le temps n’est pas terrible et nous rencontrons la pluie avant d’arriver à Cody où nous stationnons pour la nuit près d'un Walmart.  
+Ce matin, dernier tour à la Devils Tower puis départ vers Cody, Corinne prend un peu le volant de Thor. Malgré le fait que nous soyons à plus de 1000 mètres d’altitude, il fait très chaud. On longe d’immenses prairies avec, paradoxalement, peu de bétail. Nous traversons Bighorn National Forest et prenons un peu de hauteur, à 2700 mètres, la température est fraîche et ça fait du bien. Nous traversons un immense plateau avant de redescendre le long d’un canyon. Le temps n’est pas terrible et nous rencontrons la pluie avant d’arriver à Cody où nous stationnons pour la nuit près d'un Walmart.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35881115180/in/datetaken/" title="Devils Tower - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4325/35881115180_b023e6ea15_h.jpg" width="1600" height="1067" alt="Devils Tower - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -148,7 +148,7 @@ La nuit suivante au bord de la route à Gardiner avec une dizaine d'autres RV ca
 
 ## 14 juillet  
 
-Route de Bozeman à Polson. Corinne a conduit une centaine de miles et commence à bien maitriser Thor. Nous sortons de la route pour visiter Missoula mais, rien de bien terrible dans cette bourgade. Arrivés à Polson en pleine réserve Indienne des Flat Heads (Têtes plates), nous nous posons pour la nuit. Nous faisons nos courses au Walmart et remarquons de nombreux "indiens", les firsts nation, et c'est vrai qu'ils ont la face assez plate, entre Inuits et Mongoles.  
+Route de Bozeman à Polson. Corinne a conduit une centaine de miles et commence à bien maîtriser Thor. Nous sortons de la route pour visiter Missoula mais, rien de bien terrible dans cette bourgade. Arrivés à Polson en pleine réserve Indienne des Flat Heads (Têtes plates), nous nous posons pour la nuit. Nous faisons nos courses au Walmart et remarquons de nombreux "indiens", les firsts nation, et c'est vrai qu'ils ont la face assez plate, entre Inuits et Mongoles.  
 
 ## 15 au 18 juillet  
 

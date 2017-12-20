@@ -18,7 +18,7 @@ category: "blog"
 location: "24.5538, -81.8013"
 ---
 
-J’ai toujours été très impressionné dans les films comme True Lie ou Licence to kill, par ces kilomètres de ponts qui relient toutes ces îles et îlots. Il fallait que cet archipel, qui finit les Etats-Unis au Sud-Est en fermant le golfe du Mexique et la Caraïbe, ait une importance hautement stratégique pour y investir autant en milliards de dollars en infrastructures, c’est tout bonnement hallucinant, quand on sait que cela fait 190 kilomètres de long.  
+J’ai toujours été très impressionné dans les films comme True Lie ou Licence to kill, par ces kilomètres de ponts qui relient toutes ces îles et îlots. Il fallait que cet archipel, qui finit les États-Unis au Sud-Est en fermant le golfe du Mexique et la Caraïbe, ait une importance hautement stratégique pour y investir autant en milliards de dollars en infrastructures, c’est tout bonnement hallucinant, quand on sait que cela fait 190 kilomètres de long.  
 
 En partant de Homestead au Sud de Miami par la US1, nous sommes assez vite sur les premiers ponts qui relient le continent à Key Largo, la première grande île. C’est samedi et rapidement nous roulons au pas. On se dit que ce n’était peut-être pas le bon jour pour cette destination très prisée. On mettra plus de 4 heures pour arriver jusqu’à la sortie de Key Largo, au final en raison d’un grave accident de la circulation routière. On commence un peu à s’inquiéter pour le bivouac du soir car tout est privé et il existe très peu d’accès vers la mer.   
 
@@ -53,7 +53,7 @@ Plusieurs autres musées sont à visiter dont le « Custom House Museum ». De
 
 Dans le centre ville, se trouve le musée des trésors, surmontée d’une tour d’observation qui permet d’avoir une vue sur toute l’île. On dirait un bâtiment tout droit sorti de DisneyLand.  
 
-The Little White House, c’est ainsi le nom donné à la demeure d’Etat, utilisée par grand nombre de Présidents américains. C’est certainement le Président Truman qui y a séjourné le plus. De grandes choses y ont été décidées et signées.  
+The Little White House, c’est ainsi le nom donné à la demeure d’État, utilisée par grand nombre de Présidents américains. C’est certainement le Président Truman qui y a séjourné le plus. De grandes choses y ont été décidées et signées.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33269824723/in/datetaken/" title="Key West - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2810/33269824723_b5d8c2c2ce_k.jpg" width="2048" height="1152" alt="Key West - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

@@ -34,9 +34,9 @@ Nous avons profité de l'occasion pour faire refaire nos permis de conduire et p
 
 ### Visa USA de type B2  
 
-Plusieurs types de visa sont délivrés par les Etats-Unis en fonction du type de voyage que vous souhaitez réaliser. Le visa le plus commun est l'ESTA qui permet de séjourner aux USA pour une période de 90 jours.  
+Plusieurs types de visa sont délivrés par les États-Unis en fonction du type de voyage que vous souhaitez réaliser. Le visa le plus commun est l'ESTA qui permet de séjourner aux USA pour une période de 90 jours.  
 
-Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des Etats-Unis à Paris aux personnes désirant se rendre au USA pour des raisons touristiques ou médicales. En général, le demandeur se voit délivrer un visa pour une durée de un, trois ou dix ans l'autorisant à séjourner aux Etats-Unis six mois par an. Il est possible d’obtenir une extension allant jusqu’à six mois additionnels. Toutefois, ce visa n'est pas un droit. Au final c'est l'agent de l'immigration qui vous accueillera à votre arrivée sur le sol américain qui décidera seul et sans appel possible, le temps qu'il vous accordera.  
+Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des États-Unis à Paris aux personnes désirant se rendre au USA pour des raisons touristiques ou médicales. En général, le demandeur se voit délivrer un visa pour une durée de un, trois ou dix ans l'autorisant à séjourner aux États-Unis six mois par an. Il est possible d’obtenir une extension allant jusqu’à six mois additionnels. Toutefois, ce visa n'est pas un droit. Au final c'est l'agent de l'immigration qui vous accueillera à votre arrivée sur le sol américain qui décidera seul et sans appel possible, le temps qu'il vous accordera.  
 
 #### Procédure pas à pas 
 
@@ -47,7 +47,7 @@ Nous avons opté pour un visa de type B2. Il est délivré par l'ambassade des E
 * Se connecter à son compte, indiquer l'adresse de livraison des passeports qui seront enrichis ou pas du visa.
 * Effectuer un virement en ligne (144€ - 160$/Pers. en 2016), vous avez 8 jours pour payer sous peine de devoir tout recommencer.
 * Attendre un mail confirmant que l'argent a bien été reçu (entre 1 et 3 jours)
-* Se reconnecter à votre compte et choisir sur un calendrier la date et heure de votre rendez-vous à l'ambassade des Etats-Unis à Paris.
+* Se reconnecter à votre compte et choisir sur un calendrier la date et heure de votre rendez-vous à l'ambassade des États-Unis à Paris.
 
 #### Composition du dossier complet 
 
@@ -67,7 +67,7 @@ Et éventuellement :
 
 #### But de l'entretien 
 
-Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement, de manière illégale aux Etats-Unis et que vous avez les moyens financiers suffisants pour vivre sur place et surtout pour rentrer en France.   
+Le but de l'entretien est de convaincre et prouver à l'agent que vous n'avez pas l'intention d'immigrer ni de vous installer définitivement, de manière illégale aux États-Unis et que vous avez les moyens financiers suffisants pour vivre sur place et surtout pour rentrer en France.   
 
 Dans cette optique, munissez-vous de tout document pouvant établir une solide attache à la France, tout ce qui pourra supposer que vous ne pouvez quitter longtemps votre pays, que vous avez tout intérêt à y revenir et que vous avez les moyens de votre projet.
 
@@ -143,7 +143,7 @@ Lors de la préparation de notre voyage au long cours, le camping-car s'est rapi
 
 Dès l'instant où la décision a été prise, nous avons connu les mêmes interrogations que tous les voyageurs ayant choisi ce mode de locomotion, lequel choisir ?…. De type intégral (US = Class A), profilé (US = Class B+), fourgon (US = Class B), capucine (US = Class C), 4x4 avec cellule (US = Camper), fabriqué sur mesure, de quelle marque, motorisation, avec quelles options…. Bref de quoi alimenter de nombreuses nuits blanches, la lecture de kilomètres de commentaires, arguments, certitudes, sans parler du coût pouvant aller du simple au….  
 
-A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motorhome " de Class B+ ou C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux Etats-Unis et que nous devions l'acquérir au Quebec. 
+A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motorhome " de Class B+ ou C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux États-Unis et que nous devions l'acquérir au Quebec. 
 
 Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à notre vision des choses**. 
 
@@ -151,7 +151,7 @@ Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à 
 
 * Il est de plus en plus difficile aux voyageurs équipés de leur CC immatriculé en Europe de trouver une assurance qui veuille bien les prendre en compte que cela soit aux USA ou au Canada. S'il y a bien un endroit où il ne faut pas plaisanter avec les assurances c'est bien dans ces deux pays.
 
-* Au niveau motorisation, les RVs sont équipés le plus souvent de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class B+ ou C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro 5, Euro 6... et donc avec moins d'électronique embarquée et moins regardantes sur la qualité des carburants assez inégale, même entre les différents états des Etats-Unis. 
+* Au niveau motorisation, les RVs sont équipés le plus souvent de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class B+ ou C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro 5, Euro 6... et donc avec moins d'électronique embarquée et moins regardantes sur la qualité des carburants assez inégale, même entre les différents états des États-Unis. 
 
 * Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord-américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur. Au pire nous le revendrons avant de nous aventurer plus au sud si nous nous rendons compte qu'il est peu adapté.  
 

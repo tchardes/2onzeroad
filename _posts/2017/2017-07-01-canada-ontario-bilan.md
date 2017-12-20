@@ -17,11 +17,11 @@ itinary: "canada.json"
 
 ---
 
-Quatrième article de type Bilan (Vert) sur notre road trip sur la partie Est du Canada où nous avons traversé les provinces du New Brunswick, de la Nouvelle Ecosse, de l'Ile du Prince Edouard, du Québec et de l'Ontario.
+Quatrième article de type Bilan (Vert) sur notre road trip sur la partie Est du Canada où nous avons traversé les provinces du New Brunswick, de la Nouvelle Écosse, de l'Ile du Prince Édouard, du Québec et de l'Ontario.
 
 Notre voyage se poursuit avec toujours le même plaisir et la même excitation à l'idée de découvrir un nouveau pays et pas des moindres, l'immense Canada. Que dire si ce n'est que c'est très très grand et les incontournables sont très espacés, nous avons roulé pratiquement autant au Canada en un mois qu'aux USA en 68 jours. Le temps a été moyen même s'il ne nous a pas vraiment empêché de faire ce que l'on voulait (35% de plein soleil, 42 % de journée entre nuages, pluie et soleil et 23 % de pluie), la température la plus basse dans Thor au petit matin a été de 10°. 
 
-Nous avons particulièrement aimé les iles de La Nouvelle Ecosse (Ex Nouvelle France) avec ses paysages côtiers et forestiers à couper le souffle, ses villages acadiens, ses ports et sans oublier le Parc National de Cap Breton et ses orignaux. La forêt canadienne est vraiment très belle et pas du tout monotone en raison de la diversité de ces essences, ce qui lui donne des dégradés de verts surtout sous le soleil.
+Nous avons particulièrement aimé les iles de La Nouvelle Écosse (Ex Nouvelle France) avec ses paysages côtiers et forestiers à couper le souffle, ses villages acadiens, ses ports et sans oublier le Parc National de Cap Breton et ses orignaux. La forêt canadienne est vraiment très belle et pas du tout monotone en raison de la diversité de ces essences, ce qui lui donne des dégradés de verts surtout sous le soleil.
 
 Les gens rencontrés ont tous été très charmants, surtout au Québec où on a eu plaisir à reparler français. On a été très surpris de leur connaissance de l'actualité française et britannique. Communiquer sans effort et surtout être sûr d'avoir tout compris est, quand même, bien agréable. On a noté, malgré tout, quelques différences dans certaines expressions comme :
 
@@ -53,11 +53,11 @@ Dans quelques jours, nous allons rentrer à nouveau au Canada pour rejoindre Cal
 ### Quelques chiffres :    
 
 * Nombre de jours           : 32
-* Nombre d'Etats traversés  : 5
+* Nombre d'États traversés  : 5
 * Monnaie                   : 1 Dollar Cad = 0,70 €
 * Prix moyen de l'essence   : 1,10$ le litre (entre 0,98 à 1,12$) soit 0,75€ le litre
 * Gaz                       : Disponible un peu partout, le remplissage de notre réservoir de 20Kg a coûté environ 13$ 
-* Eau - Vidanges - Electricité    : Dans les campings et states parks et certaines communes
+* Eau - Vidanges - Électricité    : Dans les campings et states parks et certaines communes
 * Stationnements             : Pas évident de trouver des stationnements "sauvages" intéressants à moins de perdre beaucoup de temps
 * Communications             : Forfait Free à 19,99€ - Aucun problème  
 * Distance parcourue          : 3917 Miles - 6304 Km     

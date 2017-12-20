@@ -92,13 +92,13 @@ A la fin de Ross Alley, on tourne à droite sur Washington street et puis à gau
 
 Au bout de Spofford, on tourne à gauche sur Clay street et encore à gauche sur Waverly Place qui est souvent appelée la rue des Balcons peints. Promenade très agréable sur deux blocs qui permet de voir de très belles bâtisses entièrement peintes  comme au N° 125 le **Tien Hou Temple** temple dédié à la déesse du ciel. Un petit escalier permet d'arriver dans une petite salle décorée de lanternes rouges et or avec plusieurs sanctuaires et une statue de la déesse, le tout dans une très forte odeur d'encens. L'entrée est gratuite mais il est recommandé de faire un petit don, les photos sont interdites. On y trouve également plusieurs locaux associatifs de la **Family Benevolent Associations**, lieux de rassemblement des Chinois généralement plus âgés qui vivent dans Chinatown et le bâtiment de la **Freemasons de Bing-Tong Kong**.  
 
-On débouche sur Washington Street que l'on prend sur la droite jusqu'à Columbus avenue, une des rares avenue oblique de San Francisco, permettant d'avoir une vue très célébre de San Francisco avec au premier plan à droite, le **Sentinel Building** et en arrière-plan par la **Transamerica Pyramid**.  
+On débouche sur Washington Street que l'on prend sur la droite jusqu'à Columbus avenue, une des rares avenue oblique de San Francisco, permettant d'avoir une vue très célèbre de San Francisco avec au premier plan à droite, le **Sentinel Building** et en arrière-plan par la **Transamerica Pyramid**.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37072076060/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4467/37072076060_6c9c71dddc_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 ### Coit Tower  
 
-La montée de la Filbet Street pour nous rendre à la **Coit Tower** met nos mollets à dure épreuve. Cette tour de 64 mètres a été édifiée en 1933 sur la Télégraph Hill pour honorer les pompiers de la ville. Même sans monter au sommet de la tour (400 marches), on bénéficie d'une très belle vue sur la ville et la Baie.   
+La montée de la Filbet Street pour nous rendre à la **Coit Tower** met nos mollets à dure épreuve. Cette tour de 64 mètres a été édifiée en 1933 sur la Telegraph Hill pour honorer les pompiers de la ville. Même sans monter au sommet de la tour (400 marches), on bénéficie d'une très belle vue sur la ville et la Baie.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281271546/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4506/37281271546_9babc8a99d_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -136,7 +136,7 @@ Ce matin, nous descendons au Golden Gate Park, immense espace vert de 410 hectar
 
 ### Alamo Parc  
 
-Nous reprenons le bus vers **Alamo Square** qui est un jardin public et un quartier résidentiel, célèbre par sa rangée de maisons de style Victorien et Edouardien peintes en plusieurs couleurs afin de rehausser les détails architecturaux, surnommées les **Painted Ladies**. En montant un peu sur la colline, on peut apercevoir, derrière les villas, le centre de San Francisco. 
+Nous reprenons le bus vers **Alamo Square** qui est un jardin public et un quartier résidentiel, célèbre par sa rangée de maisons de style Victorien et Édouardien peintes en plusieurs couleurs afin de rehausser les détails architecturaux, surnommées les **Painted Ladies**. En montant un peu sur la colline, on peut apercevoir, derrière les villas, le centre de San Francisco. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37327892931/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4456/37327892931_2bcce48a05_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -148,7 +148,7 @@ En repartant par la Fultron Street, nous bénéficions une très belle vue sur l
 
 ### Castro  
 
-Pour le déjeuné nous testons un Mexicain, "Casa Mexicana" au 180 Church Street où nous mangeosn de très bons burritos accompagnés d'une Corona. Nous poursuivons par le quartier de Castro qui représente le coeur de la communauté gay de San Francisco. Ce quartier haut en couleur… de l'arc en ciel, abrite le très beau cinéma Castro Theater, sur Castro Street.  
+Pour le déjeuné nous testons un Mexicain, "Casa Mexicana" au 180 Church Street où nous mangeons de très bons burritos accompagnés d'une Corona. Nous poursuivons par le quartier de Castro qui représente le coeur de la communauté gay de San Francisco. Ce quartier haut en couleur… de l'arc en ciel, abrite le très beau cinéma Castro Theater, sur Castro Street.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071628010/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4508/37071628010_3e423b6580_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -198,7 +198,7 @@ Nous finissons la journée par le quartier Hippies de **Haight Street**, lieu de
 
 ### Quartier Japonais  
 
-Nous débutons la journée par le **quartier Japonais**, le plus ancien et le plus grand des Etats-Unis qui confirme la diversité culturelle de la ville et particulièrement la culture asiatique en raison de sa façade sur la Pacifique. On repère rapidement la Peace Pagoda, offerte par Osaka implantée sur la Peace Plaza, au milieu des malls du Japan Center. Le contraste avec Chinatown est flagrant, l'ambiance est épurée, limite austère.  
+Nous débutons la journée par le **quartier Japonais**, le plus ancien et le plus grand des États-Unis qui confirme la diversité culturelle de la ville et particulièrement la culture asiatique en raison de sa façade sur la Pacifique. On repère rapidement la Peace Pagoda, offerte par Osaka implantée sur la Peace Plaza, au milieu des malls du Japan Center. Le contraste avec Chinatown est flagrant, l'ambiance est épurée, limite austère.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618500354/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4503/36618500354_62715959e8_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -241,7 +241,7 @@ Les Cable Cars sont des tramways à traction par câble. Ils sont devenus l'une 
 * La ligne Powell-Hyde ;
 * La ligne California Street.
 
-Nous achetons nos billets à l'un des terminus, au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente, on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au demi-tour du wagon en fin de ligne, sur une petite rotonde, à la main par les emplyés. En marchant le long des rails, en entend très bien les câbles qui "circulent" au centre. Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est typique…  
+Nous achetons nos billets à l'un des terminus, au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente, on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au demi-tour du wagon en fin de ligne, sur une petite rotonde, à la main par les employés. En marchant le long des rails, en entend très bien les câbles qui "circulent" au centre. Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est typique…  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618495734/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4409/36618495734_ba71b670fb_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -285,4 +285,4 @@ Si l'on en croit la météo, la brume devrait se lever dans la matinée. Pour ce
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658481043/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4346/36658481043_46c5d1475c_b.jpg" width="1024" height="240" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous avons vraiment apprécié San Francisco qui correspond exactement à ce que nous nous étions imaginé. Il reigne dans cette ville une ambiance et une atmosphère particulière. Nous n'avons pas eu le temps de tout faire mais on espère bien reprendre notre dévouverte lors de notre retour.  
+Nous avons vraiment apprécié San Francisco qui correspond exactement à ce que nous nous étions imaginé. Il régne dans cette ville une ambiance et une atmosphère particulière. Nous n'avons pas eu le temps de tout faire mais on espère bien reprendre notre découverte lors de notre retour.  
