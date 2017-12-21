@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "INFOS PRATIQUES"
-description: "Véhicule, Santé, Banque, Visa..."
+description: "Véhicule, Santé, Banque, Visa…"
 header-img: "assets/owner/hero/about-bg.jpg"
 permalink: /info/
 ---
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
 
-Si vous vous intéressez à ce type de voyage et recherchez des informations, vous êtes sur la bonne page. Ne soyez ni effrayés ni inquiets par toutes les démarches à entreprendre, tout cela se réalise petit à petit. La préparation d’un voyage au long cours ou d'un tour du monde fait déjà partie du voyage. Ce sont plusieurs mois d'interrogations, d'évasions, de planification, de préparation, de budgétisation... en fait plein de mots en « ion ». On devient rapidement des pros en géographie, géopolitique, climat et saisons, histoire et immanquablement... en démarches bureaucratiques.<br /><br />
+Si vous vous intéressez à ce type de voyage et recherchez des informations, vous êtes sur la bonne page. Ne soyez ni effrayés ni inquiets par toutes les démarches à entreprendre, tout cela se réalise petit à petit. La préparation d’un voyage au long cours ou d'un tour du monde fait déjà partie du voyage. Ce sont plusieurs mois d'interrogations, d'évasions, de planification, de préparation, de budgétisation… en fait plein de mots en « ion ». On devient rapidement des pros en géographie, géopolitique, climat et saisons, histoire et immanquablement… en démarches bureaucratiques.<br /><br />
 
 Ce type d'aventure se prépare et ce n'est pas en une semaine que l'on passe de la prise de décision au départ effectif. Consultez plusieurs sites et forums de voyageurs afin d'emmagasiner le plus d'informations possibles pour ne retenir que les idées et options qui correspondent à votre cas de figure. Au final rien de bien compliqué.<br /><br />
 
@@ -29,7 +29,7 @@ Il faut bien évidemment penser à emporter les documents nécessaires pour rens
 
 ### Permis de conduire 
 
-Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poids lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus ... actuelle. Enfin nous nous sommes fait faire pour chacun, en Préfecture un permis de conduire international valable 3 ans.  
+Nous avons profité de l'occasion pour faire refaire nos permis de conduire et pour moi, faire proroger mon permis poids lourd, on ne sait jamais. Notre expérience chez le loueur de véhicules Alamo à Puerto Rico nous a motivé à opter pour les nouveaux permis type carte bancaire avec une photo plus… actuelle. Enfin nous nous sommes fait faire pour chacun, en Préfecture un permis de conduire international valable 3 ans.  
 
 
 ### Visa USA de type B2  
@@ -75,7 +75,7 @@ Dans cette optique, munissez-vous de tout document pouvant établir une solide a
 
 Une fois dans l'ambassade au service des Visas vous faites la queue dans une première file d'attente, oui parce-qu'en fait, au jour J et l'heure H se sont plusieurs dizaines de personnes qui ont rendez-vous en même temps, l'agent au premier guichet filtre et vérifie les documents, les passeports et prend vos empreintes. Si c'est OK, vous faites une deuxième queue pour rencontrer un autre agent, toujours derrière une vitre qui va vous poser de nombreuses questions. 
 
-Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel. J'ai pu lire sur Internet, sans en avoir confirmation, que cette démarche n'est pas anodine car en cas de refus, vous ne pouvez même plus demander une ESTA. A vérifier... .  
+Entre 3 et 5 jours après l'entrevue vous recevez par la poste vos passeports avec ou pas, le précieux sésame. La décision est sans appel. J'ai pu lire sur Internet, sans en avoir confirmation, que cette démarche n'est pas anodine car en cas de refus, vous ne pouvez même plus demander une ESTA. A vérifier….  
 
 Personnellement nous lui avons raconté notre projet avec à l'appui des copies d'écrans de Google Maps retraçant notre futur parcours, ainsi qu'un courrier de notre banque attestant de nos actifs. Après un bon quart d'heure d'entretien il nous a indiqué émettre un avis positif à notre demande.  
 
@@ -92,7 +92,7 @@ Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé n
 
 Si vous quittez votre emploi et envisagez de partir plusieurs années vous ne serez plus couverts par la sécurité sociale au bout d'une année et vous devrez alors opter pour la souscription d'une assurance voyage longue durée de type Marco Polo ou Chapka. Toutes les infos **[ici](http://www.tourdumondiste.com/comparatifs-assurances-voyage)**.  
 
-Bilan de santé complet réalisé avant le départ, prise de sang, dentiste, ophtalmo... .  
+Bilan de santé complet réalisé avant le départ, prise de sang, dentiste, ophtalmo….  
  
 
 ### Vaccins 
@@ -116,7 +116,7 @@ Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui 
 
 ### Validation achats par Internet 
 
-Certains achats par internet demandent une authentification forte via un code envoyé par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual SIM afin de pouvoir l'équiper, le moment venu, simultanément d'une SIM de mon opérateur français, Free, et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base ... Oui je ne me suis jamais fait à l’environnement d'Androïd non plus.  
+Certains achats par internet demandent une authentification forte via un code envoyé par SMS sur votre téléphone. J'ai testé durant quelques mois un smartphone dual SIM afin de pouvoir l'équiper, le moment venu, simultanément d'une SIM de mon opérateur français, Free, et d'une SIM d'un opérateur local. Impossible de me faire à l'ergonomie de ce téléphone de marque Windows phone et qui n'a jamais bien fonctionné, étonnant non ? Je suis donc revenu vers un Iphone, la base… Oui je ne me suis jamais fait à l’environnement d'Androïd non plus.  
 
 Du coup, nous avons obtenu de notre banque, non sans mal d'ailleurs, de remplacer l'envoi du code par SMS, par Mail. On part du principe que si nous effectuons un achat par Internet c'est que nous sommes connectés et donc en capacité de recevoir le code par mail.  
 
@@ -151,7 +151,7 @@ Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à 
 
 * Il est de plus en plus difficile aux voyageurs équipés de leur CC immatriculé en Europe de trouver une assurance qui veuille bien les prendre en compte que cela soit aux USA ou au Canada. S'il y a bien un endroit où il ne faut pas plaisanter avec les assurances c'est bien dans ces deux pays.
 
-* Au niveau motorisation, les RVs sont équipés le plus souvent de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class B+ ou C d'un moteur turbo diésel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro 5, Euro 6... et donc avec moins d'électronique embarquée et moins regardantes sur la qualité des carburants assez inégale, même entre les différents états des États-Unis. 
+* Au niveau motorisation, les RVs sont équipés le plus souvent de moteurs Ford V10 6.8l pour 310 Ch à Gaz (essence) ou, de plus en plus, de moteurs Mercedes V6 3l pour 188 Ch, Diesel sur châssis Sprinter. Les moteurs Ford sont très gourmands et devant l'augmentation du prix de l'or noir, ils équipent également leurs derniers modèles de Class B+ ou C d'un moteur turbo diesel de 6l pour 325 Ch. Ces motorisations ont l'avantage d'être moins pointues que les moteurs européens avec leurs normes Euro 5, Euro 6... et donc avec moins d'électronique embarquée et moins regardantes sur la qualité des carburants assez inégale, même entre les différents états des États-Unis. 
 
 * Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord-américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur. Au pire nous le revendrons avant de nous aventurer plus au sud si nous nous rendons compte qu'il est peu adapté.  
 
@@ -171,7 +171,7 @@ Après 15 jours passés dans la région de Miami, nous avons trouvé le RV que n
 
 ### Carnet de passage en douane (CPD)
 
-Certains pays dans le monde veulent être sûrs qu'une fois sur leur sol, vous le quitterez avec votre véhicule sans essayer de le vendre sur place. C'est le cas par exemple de l'Australie, l'Inde, l'Iran, l'Egypte... . Les services des douanes de ces pays demandent donc une garantie qui peut vite coûter très cher, le ***Carnet de Passage en Douane***. Le CPD est délivré en France par l'Automobile Club de France. Pour l'obtenir, il ne faut pas moins qu'un dépôt équivalent à la valeur vénale (côte Argus) de votre véhicule... . Ce carnet est tamponné par les douanes à chaque entrée et sortie des territoires et de retour en France vous devez le présenter à l'Automobile Club de France pour prouver que le véhicule est bien revenu en France, afin d'être remboursé ou afin que l'argent soit débloqué.
+Certains pays dans le monde veulent être sûrs qu'une fois sur leur sol, vous le quitterez avec votre véhicule sans essayer de le vendre sur place. C'est le cas par exemple de l'Australie, l'Inde, l'Iran, l'Egypte…. Les services des douanes de ces pays demandent donc une garantie qui peut vite coûter très cher, le ***Carnet de Passage en Douane***. Le CPD est délivré en France par l'Automobile Club de France. Pour l'obtenir, il ne faut pas moins qu'un dépôt équivalent à la valeur vénale (côte Argus) de votre véhicule…. Ce carnet est tamponné par les douanes à chaque entrée et sortie des territoires et de retour en France vous devez le présenter à l'Automobile Club de France pour prouver que le véhicule est bien revenu en France, afin d'être remboursé ou afin que l'argent soit débloqué.
 
 Pour tout le continent Américain, ce document n'est pas obligatoire et n'est pas demandé aux frontières par les douaniers. 
 
@@ -192,7 +192,7 @@ Suivi en fonction de vos mouvements : SPOT envoi des points de géolocalisation 
 
 La dernière génération des balises de géolocalisation "satellite" dédiées aux personnes.
 Plusieurs fonctions dont l'envoi et la réception de message texte, le secours et le suivi.
-Posséder une balise DeLorme, c'est aussi accorder à vos amis et à votre famille une certaine tranquillité d'esprit lorsque vous partez.
+Posséder une balise Delorme, c'est aussi accorder à vos amis et à votre famille une certaine tranquillité d'esprit lorsque vous partez.
 Réseau satellitaire Iridium : couverture mondiale.
 
 
@@ -214,7 +214,7 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **Skype** - *Pour communiquer avec les proches* ;
 * **GasBuddy** - *Uniquement sur le store Amérique du Nord - Vous indique le prix de l'essence le moins cher autour de vous* ;
 * **Allstays** - *Application participative qui liste tous les endroits utiles aux voyageurs, Campings, Walmarts, States Park, Propanes ...)* ;
-* **AroundMe** - *Vous liste automatiquement les lieux qui peuvent être utilies aurout de vous, Hôpitaux, Banques, Parkings ...* ;
+* **AroundMe** - *Vous liste automatiquement les lieux qui peuvent être utiles autour de vous, Hôpitaux, Banques, Parkings…* ;
 * **Sites de nos banques**.
 
 
@@ -273,7 +273,7 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 * [Ushulaska](http://ushulaska.be/) - Le voyage d'Ushuaia à l'Alaska de Monique et André ;
 * [El caracol](http://www.el-caracol.fr/) ;
 * [Sous les étoiles du monde](http://souslesetoilesdumonde.wifeo.com/) ;
-* ... et bien d'autres ...
+* … et bien d'autres…
 
 
 #### Sites de voyageurs croisés 
@@ -288,8 +288,8 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 
 Le cas échéant :
 
-- Suspendre les compteurs d'eau, électricité, Gaz... ;
-- Résilier tous ses abonnements (téléphone, Internet, télépéage, journaux, revues...) ;
+- Suspendre les compteurs d'eau, électricité, Gaz… ;
+- Résilier tous ses abonnements (téléphone, Internet, télépéage, journaux, revues…) ;
 - Faire rediriger son courrier vers une personne qui pourra transmettra par mail les infos importantes ;
 - Souscrire gratuitement à l'opération "tranquillité vacances" proposée par la Gendarmerie et peut-être la police qui vont, même pour une longue période, passer de temps en temps durant leurs patrouilles faire un tour de la maison ;
 - Réduire au minimum l'assurance du ou des véhicules restant au garage.
@@ -305,14 +305,14 @@ Il peut être utile d'établir une procuration auprès de la Gendarmerie ou de l
 
 ### Langues   
 
-Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné ...   
+Certainement le point le plus difficile pour nous. Nos bases sont lointaines et même si nous sommes toujours arrivés à nous faire comprendre lors de nos voyages, nous voulons profiter de ce voyage pour faire des rencontres et ne pas avoir peur d'aller au contact uniquement car on ne se sent pas capable d'aligner une phrase et surtout de comprendre nos interlocuteurs. Corinne y travaille depuis plusieurs mois et je ne m'y suis mis que depuis peu avec la méthode Assimil. C'est pas gagné…   
 
 En cours de voyage, quand nous serons plus à l'aise avec l'anglais, et que nous frôlerons la frontière mexicaine, nous attaquerons l'espagnol dans le même état d'esprit. Quelques soirées d'études "calientes" en perspective.  
 
 
-### Photo, Vidéo, Plongée...   
+### Photo, Vidéo, Plongée…   
 
-Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe (merci Louis, Eddy, Bruno et Marie,...) afin de profiter des spots réputés que nous allons croiser, je pense notemment aux cénotes mexicains.   
+Afin de profiter au mieux de notre voyage et d'en ramener plein de souvenirs, nous nous sommes équipés en matériel photo et vidéo, j'ai également passé plusieurs niveaux de plongée dans un super club associatif de la Guadeloupe (merci Louis, Eddy, Bruno et Marie,…) afin de profiter des spots réputés que nous allons croiser, je pense notamment aux cénotes mexicains.   
 
 Ne pas oublier de s'équiper d'adaptateur de prises de courant pour brancher tous vos appareils électriques.
 
@@ -320,6 +320,6 @@ Ne pas oublier de s'équiper d'adaptateur de prises de courant pour brancher tou
 
 Un grand merci à notre fille qui a depuis peu une nouvelle pensionnaire à la maison, notre chatte "Shaïna" qui a quitté la chaleur des Antilles pour le climat moins clément du centre de la France.  
 
-### Famille... fromages et charcuterie  
+### Famille… fromages et charcuterie  
 
-Avant le départ, profiter des bons moments avec ses enfants, sa famille et ses amis autour d'une bonne table pour déguster de la charcuterie, du fromage, du vrai pain, le tout arrosé d'un bon vin... c'est ce qui manque le plus aux voyageurs généralement.   
+Avant le départ, profiter des bons moments avec ses enfants, sa famille et ses amis autour d'une bonne table pour déguster de la charcuterie, du fromage, du vrai pain, le tout arrosé d'un bon vin… c'est ce qui manque le plus aux voyageurs généralement.   
