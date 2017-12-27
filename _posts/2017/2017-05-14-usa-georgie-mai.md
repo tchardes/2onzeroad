@@ -17,7 +17,7 @@ states: ["Géorgie", "Caroline du Sud", "Caroline du Nord", "Virginie", "Washing
 category: "roadmap"
 flickr-text: ""
 location: "35.293198, -79.317123"
-itinary: "brpw.json"
+itinary: "2017/brpw.json"
 mapZoom: 6
 
 

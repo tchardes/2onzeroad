@@ -17,7 +17,7 @@ states: ["Alberta", "Colombie Britannique", "Yukon"]
 category: "roadmap"
 flickr-text: "Yukon"
 location: "57.310478, -127.480650"
-itinary: "canada3.json"
+itinary: "2017/canada3.json"
 mapZoom: 4
 
 ---

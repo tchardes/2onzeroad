@@ -11,6 +11,7 @@ function initMap() {
     //loop through all the mapping elements
     $(".mapping").each(function() {
       var itinary = $(this).attr('itinary');
+      var year = $(this).attr('year');
       var zoom = $(this).attr('zoom');
       var hideMarkers = $(this).attr('hideMarkers');
       var mapId = $(this).attr('mapId');
@@ -142,7 +143,16 @@ function initMap() {
       });
 
       map.data.loadGeoJson(itinary);
-      map.data.setStyle({strokeColor: '#2D7CA6', strokeWeight:3});
+      map.data.setStyle(function(feature) {
+        //var ascii = feature.getProperty('ascii');
+        var color = feature.getProperty('color');
+        if(color == undefined) { color = '#982D2D' }
+        return {
+          strokeColor: color,
+          strokeWeight: 3
+        };
+    });
+      //map.data.setStyle({strokeColor: '#2D7CA6', strokeWeight:3});
 
       if(mapMarkers.length > 2 && hideMarkers != "true")
       {

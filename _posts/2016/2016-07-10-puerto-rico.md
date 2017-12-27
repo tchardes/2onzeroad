@@ -14,7 +14,7 @@ country: Puerto-Rico
 category: "roadmap"
 flickr-text: "Puerto-Rico"
 location: "18.242404, -66.452262"
-itinary: "porto-rico.json"
+itinary: "2017/porto-rico.json"
 mapZoom: 9
 
 ---

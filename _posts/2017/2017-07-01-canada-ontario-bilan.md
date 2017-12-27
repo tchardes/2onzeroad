@@ -13,7 +13,7 @@ states: ["Ontario"]
 category: "bilan"
 flickr-text: "Canada"
 location: "45.941931, -73.4614915"
-itinary: "canada.json"
+itinary: "2017/canada.json"
 
 ---
 

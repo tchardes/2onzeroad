@@ -1,5 +1,6 @@
 [
     {"name": "miami", "displayName": "Miami", "type": "ville"},
+    {"name": "niagara", "displayName": "Chutes du Niagara", "type": "nature"},
     {"name": "key-west", "displayName": "Key West", "type": "ville"},
     {"name": "everglades-np", "displayName": "Everglades National Park", "type": "nature"},
     {"name": "nasa", "displayName": "NASA - Kennedy Space Center - Cap Canaveral", "type": "autre"},
@@ -49,7 +50,7 @@
     {"name": "shediac", "displayName": "Shediac", "type": "ville"},
     {"name": "parc-des-monts-valins", "displayName": "Parc des Monts Valins", "type": "nature"},
     {"name": "detroit", "displayName": "Detroit", "type": "ville"},
-    {"name": "motown", "displayName": "Tamla Motown (Studio A)"},
+    {"name": "motown", "displayName": "Tamla Motown (Studio A)", "type": "autre"},
     {"name": "milwaukee", "displayName": "Milwaukee", "type": "ville"},
     {"name": "summerfest", "displayName": "Summerfest", "type": "autre"},
     {"name": "harley-davidson", "displayName": "Harley Davidson Museum", "type": "autre"},

@@ -13,7 +13,7 @@ states: ["Maine"]
 category: "bilan"
 flickr-text: "USA"
 location: "38.119371, -80.052975"
-itinary: "totalest.json"
+itinary: "2017/totalest.json"
 mapZoom: 4
 
 ---

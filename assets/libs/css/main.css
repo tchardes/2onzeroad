@@ -465,6 +465,32 @@ img::-moz-selection {
   background-color: #007F73;
   height: 23px;
 }
+
+.post-preview-category div.nature {
+  background-color: rgb(104, 104, 104);
+}
+
+.post-preview-category div.ville {
+  background-color: rgb(104, 104, 104);
+}
+
+.post-preview-category div.autre {
+  background-color: rgb(104, 104, 104);
+}
+
+.post-preview-category div.nature a i {
+  color: rgb(30, 211, 69);
+}
+
+.post-preview-category div.ville a i {
+  color: rgb(0, 174, 255);
+}
+
+.post-preview-category div.autre a i {
+  color: rgb(204, 204, 204);
+}
+
+
 .post-preview-category div:hover {
   background-color: #C97750;
 }
