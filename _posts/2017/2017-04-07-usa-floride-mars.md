@@ -18,7 +18,7 @@ states: ["Floride"]
 category: "roadmap"
 flickr-text: "Floride"
 location: "26.656032, -80.580994"
-itinary: "floride1.json"
+itinary: "2017/floride1.json"
 mapZoom: 7
 
 ---

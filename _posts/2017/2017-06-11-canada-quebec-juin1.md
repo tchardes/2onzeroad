@@ -17,7 +17,7 @@ states: ["Nouveau Brunswick", "Nouvelle Écosse", "Ile Du Prince Édouard"]
 category: "roadmap"
 flickr-text: "Québec"
 location: "46.505981, -65.874279"
-itinary: "canada1.json"
+itinary: "2017/canada1.json"
 mapZoom: 6
 
 ---

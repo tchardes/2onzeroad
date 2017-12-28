@@ -70,4 +70,20 @@ title: poi
 
 Website.Homepage.init();
 
+var simulateClick = function (elem) {
+    // Create our event (with options)
+    var evt = new MouseEvent('click', {
+        bubbles: true,
+        cancelable: true,
+        view: window
+    });
+    // If cancelled, don't dispatch our event
+    var canceled = !elem.dispatchEvent(evt);
+};
+
+var links = document.getElementsByName('linkToPost');
+if(links.length === 1){
+    simulateClick(links[0]);
+}
+
 </script>

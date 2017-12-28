@@ -16,7 +16,7 @@ states: ["Yukon", "Colombie Britannique"]
 category: "roadmap"
 flickr-text: "Yukon, Colombie Britannique"
 location: "55.458708, -126.321012"
-itinary: "colombie.json"
+itinary: "2017/colombie.json"
 mapZoom: 4
 ---
 

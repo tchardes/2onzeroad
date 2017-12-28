@@ -18,7 +18,7 @@ states: ["Delaware", "New Jersey", "New York", "Connecticut", "Rhode Island", "M
 category: "roadmap"
 flickr-text: ""
 location: "42.196436, -72.942761"
-itinary: "estusa.json"
+itinary: "2017/estusa.json"
 mapZoom: 6
 
 ---

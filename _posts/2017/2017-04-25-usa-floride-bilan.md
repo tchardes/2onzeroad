@@ -13,7 +13,7 @@ states: ["Floride"]
 category: "bilan"
 flickr-text: "Floride"
 location: "28.185577, -81.661887"
-itinary: "floride3.json"
+itinary: "2017/floride3.json"
 mapZoom: 6
 
 ---

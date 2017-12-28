@@ -17,7 +17,7 @@ states: ["Michigan", "Indiana", "Illinois", "Wisconsin", "Minnesota", "Dakota du
 category: "roadmap"
 flickr-text: "Montana"
 location: "45.420698, -100.603461"
-itinary: "usa2.json"
+itinary: "2017/usa2.json"
 mapZoom: 5
 
 ---

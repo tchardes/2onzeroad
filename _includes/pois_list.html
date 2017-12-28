@@ -1,12 +1,43 @@
+<div class="post-preview-category">      
+                    
+    {% assign pois = "" | split:"|"  %}
 
-{% assign pois = "" | split:"|"  %}
-
-{% for post in include.relatedPosts %}
-    {% for postPoi in post.pois %}
-        {% assign cleanPoi = postPoi | split:'#' | first %}
-        {% if pois contains cleanPoi %}
-        {% else %}
-            {% assign pois = pois | push: cleanPoi %}
+    {% for post in site.posts %}
+        {% if post.country == include.country %}
+            {% for postPoi in post.pois %}
+                {% assign cleanPoi = postPoi | split:'#' | first %}
+                {% if pois contains cleanPoi %}
+                {% else %}
+                    {% assign pois = pois | push: cleanPoi %}
+                {% endif %}
+            {% endfor %}  
         {% endif %}
-    {% endfor %}  
-{% endfor %}
+    {% endfor %}
+
+    {% assign pois = pois | sort %}
+
+    {% for poi in pois %}
+        {% assign displayPoi = "NotFound" %}
+        {% assign typePoi = "NotFound" %}
+        {% assign iconPoi = "globe" %}
+        
+        {% for dataPoi in site.data.pois %}
+            {% if dataPoi.name == poi %}
+                {% assign displayPoi = dataPoi.displayName %}
+                {% assign typePoi = dataPoi.type %}
+                {% if typePoi == "ville" %}{% assign iconPoi = "building" %}{% endif %}
+                {% if typePoi == "nature" %}{% assign iconPoi = "tree" %}{% endif %}
+            {% endif %}
+        {% endfor %}
+
+        <div class="{{typePoi}}">
+            <a href="{{ site.baseurl }}/writing/poi/{{poi}}"/>
+                <i style="width:13px;" class="fa fa-{{iconPoi}}"></i>{% if displayPoi == "NotFound" %}{{poi}}{% else %} {{displayPoi}} {% endif %}
+                {% if displayPoi == "NotFound" %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}                 
+            </a>
+        </div>
+
+        
+    {% endfor %}
+
+</div>     

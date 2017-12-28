@@ -17,7 +17,7 @@ states: ["Alaska"]
 category: "roadmap"
 flickr-text: "Alaska"
 location: "63.008728, -151.326078"
-itinary: "alaska.json"
+itinary: "2017/alaska.json"
 mapZoom: 5
 
 ---

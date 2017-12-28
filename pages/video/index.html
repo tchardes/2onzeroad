@@ -17,7 +17,7 @@ permalink: /video/
 
     function onYouTubeApiLoad() {
         gapi.client.setApiKey("AIzaSyBouHmvjOZCF3-_wbMlNKK_A9XTb8NCS0s");
-        search("");
+        search('');
     }
 
     function search(query) {
@@ -33,15 +33,17 @@ permalink: /video/
         request.execute(function (response) {
             /* sort through the list until a video comes up, then set the URL link */
             var link = "";
-            console.log(response);
-            
-            var videoContainer = $("#iVideo");
-            videoContainer.empty();
 
             if(response.items){
                 for(var i = 0; i < response.items.length; i++){
                     if (response.items[i].id.kind === "youtube#video" && response.items[i].id.videoId)
                     { 
+                        var videoContainer = $("#iVideo2015");
+                        if(response.items[i].snippet.description.includes('2015')) { videoContainer = $("#iVideo2015"); }
+                        if(response.items[i].snippet.description.includes('2016')) { videoContainer = $("#iVideo2016"); }
+                        if(response.items[i].snippet.description.includes('2017')) { videoContainer = $("#iVideo2017"); }
+                        if(response.items[i].snippet.description.includes('2018')) { videoContainer = $("#iVideo2018"); }
+
                         link = "http://www.youtube.com/embed/" + response.items[i].id.videoId + "?HD=1;rel=0;showinfo=1"; 
 
                         var iframe = document.createElement('iframe');
@@ -60,4 +62,10 @@ permalink: /video/
 
 <script src="https://apis.google.com/js/client.js?onload=onClientLoad" type="text/javascript"></script>
 
-<div id="iVideo"></div>
+<h3>2018</h3>
+<div id="iVideo2018"></div>
+<h3>2017</h3>
+<div id="iVideo2017"></div>
+<h3>2015</h3>
+<div id="iVideo2015"></div>
+
