@@ -56,16 +56,22 @@
             {% endfor %}
         {% endif %}
 
-        {% assign fullDestination = page.country | append: " - " %}
-        {% for state in page.states %}
-            {% if forloop.last == true %}
-                {% assign fullDestination = fullDestination | append: state %}
-            {% else %}
-                {% assign fullDestination = fullDestination | append: state | append: " / " %}
+        {% if page.country == null %}
+            {% assign fullDestination = page.countries | join: " - " %}
+        {% else %}
+            {% assign fullDestination = page.country | append: " - " %}
+
+            {% for state in page.states %}
+                {% if forloop.last == true %}
+                    {% assign fullDestination = fullDestination | append: state %}
+                {% else %}
+                    {% assign fullDestination = fullDestination | append: state | append: " / " %}
+                {% endif %}
+            {% endfor %}
+
+            {% if page.city %}
+                {% assign fullDestination = fullDestination | append: " - " | append: page.city %}
             {% endif %}
-        {% endfor %}
-        {% if page.city %}
-            {% assign fullDestination = fullDestination | append: " - " | append: page.city %}
         {% endif %}
 
         {% include nav.html %}

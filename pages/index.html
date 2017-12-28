@@ -51,16 +51,22 @@ permalink: ./index.html
           {% for post in site.posts limit:38 %}
             {% assign postCount = postCount | plus:1 %}
 
-            {% assign fullDestination = post.country | append: " - " %}
-            {% for state in post.states %}
-                {% if forloop.last == true %}
-                    {% assign fullDestination = fullDestination | append: state %}
-                {% else %}
-                    {% assign fullDestination = fullDestination | append: state | append: " / " %}
-                {% endif %}
-            {% endfor %}
-            {% if post.city %}
-                {% assign fullDestination = fullDestination | append: " - " | append: post.city %}
+            {% if post.country == null %}
+              {% assign fullDestination = post.countries | join: " - " %}
+            {% else %}
+              {% assign fullDestination = post.country | append: " - " %}
+
+              {% for state in post.states %}
+                  {% if forloop.last == true %}
+                      {% assign fullDestination = fullDestination | append: state %}
+                  {% else %}
+                      {% assign fullDestination = fullDestination | append: state | append: " / " %}
+                  {% endif %}
+              {% endfor %}
+
+              {% if post.city %}
+                  {% assign fullDestination = fullDestination | append: " - " | append: post.city %}
+              {% endif %}
             {% endif %}
 
             <div class="cd-timeline-block" {% if postCount > 8 %} style="display:none" {% endif %} >
@@ -106,7 +112,7 @@ permalink: ./index.html
             </div>
 
             <div class="cd-timeline-content displayMoreArticles bg-primary" onclick="displayAllBlock();" style="height: 41px;">
-               <div style="padding: 8px 12px;"  >Afficher les {{pendingArticlesCount}} articles suivants...</div>
+               <div style="padding: 8px 12px;">Afficher les {{pendingArticlesCount}} articles suivants...</div>
             </div>
           </div>
 
@@ -118,23 +124,12 @@ permalink: ./index.html
               <h3>Nos destinations</h3>
               {% assign destinations = "" | split:"|"  %}
               {% for post in site.posts %}
-
-                {% assign postCountries = "" | split:"|"  %}
-
-                {% if post.countries != null and post.countries.size > 0 %}
-                  {% assign postCountries = post.countries %}
-                {% else %}
-                  {% assign postCountries = postCountries | push: post.country  %}
-                {% endif %}
-
-                {% for postCountry in postCountries %}
-
-                  {% if destinations contains postCountry %}
+                {% if post.country != null %}
+                  {% if destinations contains post.country %}
                   {% else %}
-                    {% assign destinations = destinations | push: postCountry %}
+                    {% assign destinations = destinations | push: post.country %}
                   {% endif %}
-
-                {% endfor %}
+                {% endif %}
 
               {% endfor %}
 

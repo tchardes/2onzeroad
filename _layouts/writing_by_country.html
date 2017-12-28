@@ -1,6 +1,6 @@
 {% assign relatedPosts = "" | split:"|"  %}
 {% for post in site.posts %}
-    {% if post.country contains page.country %}
+    {% if post.country contains page.country or post.countries contains page.country %}
         {% assign relatedPosts = relatedPosts | push: post %}
     {% endif %}
 {% endfor %}
@@ -61,70 +61,68 @@
             <div id="post-content">
             
                 <div class="row" style="padding-bottom: 20px;">
-                    <div class="col-md-12">
-                        <div class="row">
-                            <div class="col-md-3 col-sm-4 col-xs-4 col-xxs-6" style="padding:0px 25px 25px 25px">
 
-                                <h3 style="margin-top:0;">Par états...</h3>
+                    <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12" style="padding:0px 25px 25px 25px">
 
-                                {% assign states = "" | split:"|"  %}
-                                {% for post in relatedPosts %}
-                                    {% for postState in post.states %}
-                                        {% if states contains postState %}
-                                        {% else %}
-                                            {% assign states = states | push: postState %}
-                                        {% endif %}
-                                    {% endfor %}
-                                {% endfor %}
-                    
-                                {% assign states = states | sort %}
-                                {% for state in states %}
-                                    {% assign cleanState = page.country | append: " - " | append: state %}
-                                    {% assign cleanState = cleanState | downcase | replace: 'é', 'e' | replace: 'É', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e' | slugify %}
-                                    
-                                    {% assign fullUrl = site.baseurl | append: "/writing/destination/" | append: cleanState | append: "/" %}
-                                    
-                                    {% assign destinationPage = site.pages | where: "url", fullUrl %}
-                                    {% assign destinationMissing = true %}
-                                
-                                    {% if destinationPage.first %} 
-                                        {% assign destinationMissing = false %}
-                                
-                                        {% if destinationPage.first.flickr-text == "" %}
-                                            {% assign tagClean = destinationPage.first.destination %}
-                                            {% if tagClean contains " - " %}
-                                                {% assign tagCleanArray = tagClean | split: " - "  %}
-                                                {% assign tagClean = tagCleanArray | last  %}
-                                            {% endif %}
-                                        {% else %}
-                                            {% assign tagClean = destinationPage.first.flickr-text %}
-                                        {% endif %}
-                                
-                                        {% assign urlParams = "?text=" | append: tagClean %}
-                                        {% if destinationPage.first.flickr-tags %}
-                                            {% assign urlParams = "?tags=" | append: destinationPage.first.flickr-tags %}                  
-                                        {% endif %}
-                                    {% endif %}
-                                    
-                                    {% assign urlParams = urlParams | downcase | replace: ' ', '_' | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e'  %}                
-                                    
-                                    <div>
-                                        <a href="{{ fullUrl }}{{urlParams}}"/>
-                                            <i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{state}}                    
-                                            {% if destinationMissing %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}
-                                        </a>
-                                    </div>
-                        
-                                {% endfor %}
-                            </div>
+                        <h3 style="margin-top:0;">Par états...</h3>
 
+                        {% assign states = "" | split:"|"  %}
                         {% for post in relatedPosts %}
-                            <div class="col-md-3 col-sm-4 col-xs-4 col-xxs-6">
-                                {% include post_preview.html %}
-                            </div>
+                            {% for postState in post.states %}
+                                {% if states contains postState %}
+                                {% else %}
+                                    {% assign states = states | push: postState %}
+                                {% endif %}
+                            {% endfor %}
                         {% endfor %}
-                        </div>
+            
+                        {% assign states = states | sort %}
+                        {% for state in states %}
+                            {% assign cleanState = page.country | append: " - " | append: state %}
+                            {% assign cleanState = cleanState | downcase | replace: 'é', 'e' | replace: 'É', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e' | slugify %}
+                            
+                            {% assign fullUrl = site.baseurl | append: "/writing/destination/" | append: cleanState | append: "/" %}
+                            
+                            {% assign destinationPage = site.pages | where: "url", fullUrl %}
+                            {% assign destinationMissing = true %}
+                        
+                            {% if destinationPage.first %} 
+                                {% assign destinationMissing = false %}
+                        
+                                {% if destinationPage.first.flickr-text == "" %}
+                                    {% assign tagClean = destinationPage.first.destination %}
+                                    {% if tagClean contains " - " %}
+                                        {% assign tagCleanArray = tagClean | split: " - "  %}
+                                        {% assign tagClean = tagCleanArray | last  %}
+                                    {% endif %}
+                                {% else %}
+                                    {% assign tagClean = destinationPage.first.flickr-text %}
+                                {% endif %}
+                        
+                                {% assign urlParams = "?text=" | append: tagClean %}
+                                {% if destinationPage.first.flickr-tags %}
+                                    {% assign urlParams = "?tags=" | append: destinationPage.first.flickr-tags %}                  
+                                {% endif %}
+                            {% endif %}
+                            
+                            {% assign urlParams = urlParams | downcase | replace: ' ', '_' | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e' | replace: 'ë', 'e'  %}                
+                            
+                            <div>
+                                <a href="{{ fullUrl }}{{urlParams}}"/>
+                                    <i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{state}}                    
+                                    {% if destinationMissing %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}
+                                </a>
+                            </div>
+                
+                        {% endfor %}
                     </div>
+
+                    {% for post in relatedPosts %}
+                        <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
+                            {% include post_preview.html %}
+                        </div>
+                    {% endfor %}
+
                 </div>
 
                 <div class="row" style="padding-bottom: 20px;">
