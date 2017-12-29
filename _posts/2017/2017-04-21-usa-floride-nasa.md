@@ -76,7 +76,7 @@ Une armada de bus vous embarque, toutes les 15 minutes, pour une visite des site
 Toutefois, on passe devant le grand bâtiment **“Vehicle Assembly Building”** que l’on voit souvent à la télé qui arbore un immense drapeau américain et le sigle de la NASA où les fusées sont assemblées. Le **“Crawler-Transporter"** véhicule à chenille construit à deux exemplaires, gigantesque de 2700 tonnes, permet d'acheminer très lentement, grâce à un long chemin en gravier, les fusées en position verticale jusqu'à leur pas de tir. Ces 16 moteurs électriques alimentés par 6 moteurs de 2750Cv consomment 600 L. d'essence à l'heure. Thor est battu !!!. Etant en plein biotope typique de la Floride, on peut apercevoir, durant le parcours, de nombreux alligators prendre le soleil.   
 
 
-* Appolo - Saturn V Center  
+* Apollo - Saturn V Center  
 
 En cours de route, nous faisons un arrêt à **l'Apollo/Saturn V Center**. Immense hall très pédagogique, où l’on nous montre la course entre les américains et les russes pour la conquête spatiale et le premier pas sur la lune. Une reconstitution du centre de contrôle fait revivre une simulation du décollage d’Apollo 8, avant de découvrir dans une grande salle d’exposition la fusée Saturn V, lanceur du programme Apollo, et enfin le Lunar Theater, qui reconstitue les premiers pas de l’homme sur la Lune. Un rover lunaire et le module lunaire sont présents, tous les écussons des différentes missions Apollo sont accrochés au plafond. 
 
@@ -88,8 +88,8 @@ A l’issue de la visite, on remonte dans un autre bus qui nous ramène au Space
 
 ### Les chiffres en 2017  
 
-* Parking VL : 10$ 
-* Parking RV : 15$ 
-* Entrée + Taxe = 53,50$ par personne 
-* Repas dans un des fast food 10$ par personne environ. Pas très bon il faut l’avouer.
-* Durée visite : Compter une journée complète (8 heures)
+* Parking VL : 10$ ;
+* Parking RV : 15$ ;
+* Entrée + Taxe = 53,50$ par personne ;
+* Repas dans un des fast food 10$ par personne environ. Pas très bon il faut l’avouer ;
+* Durée visite : Compter une journée complète (8 heures).
