@@ -91,6 +91,10 @@
     {"name": "olympic", "displayName": "Olympic National Park", "type": "nature"},
     {"name": "galatin", "displayName": "Galatin National Forest", "type": "nature"},
     {"name": "helens", "displayName": "Mont St Helens", "type": "nature"},
+    {"name": "victoria", "displayName": "Victoria", "type": "ville"},
+    {"name": "tofino", "displayName": "Tofino", "type": "nature"},
+    {"name": "ucluelet", "displayName": "Ucluelet", "type": "nature"},
+    {"name": "saguenay", "displayName": "Fjord Saguenay Parc d'état", "type": "nature"},
     {"name": "hautes-terres", "displayName": "Parc National des Hautes Terres", "type": "nature"}
 
 ]

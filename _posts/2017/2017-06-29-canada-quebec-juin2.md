@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt6.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt6.jpg
 tags: [lac, architecture]
-pois: [parc-des-monts-valins#14-juin, niagara#29-juin]
+pois: [parc-des-monts-valins#14-juin, niagara#29-juin, saguenay@saguenay]
 country: Canada 
 states: ["Québec", "Ontario"]
 category: "roadmap"
@@ -39,7 +39,10 @@ Le lendemain à 7h00, nous sommes dans la file d'attente pour prendre le travers
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35365918431/in/datetaken/" title="Parc du Saguenay - Québec - [Canada]"><img src="https://farm5.staticflickr.com/4260/35365918431_10dbb86bc6_k.jpg" width="2048" height="1152" alt="Parc du Saguenay - Québec - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
+<p id="Saguenay"> 
+
 Depuis St Siméon, nous attaquons la remontée de la rivière Saguenay en direction de Saguenay justement. Nous visitons le Parc d'État Fjord Saguenay, où nous effectuons deux trails agréables, le sentier des Méandres-à-Falaises et Sentier de la Rivière. S'agissant d'un parc du Québec et non un parc national du Canada, ce dernier est payant et coûte 8,50$/pers. Nous reprenons la route pour faire une autre partie du parc et passons par Anse-St-Jean où nous nous sommes arrêtés à la pâtisserie "Louise", une institution dans la région depuis plusieurs décennies. Ses tourtes et tartes sont renommées. Pour accéder à notre dernier trail de la journée, nous passons sous le pont Faubourg, un pont couvert dédié à l'art, à l'intérieur, plusieurs artistes y ont accroché des toiles. Ce pont-là figure ou a figuré sur les billets de 1000 dollars Canadiens. On n'a pas vu les billets mais on a vu le pont... Le sentier de l'Anse-de-Tabatière est une petite boucle qui donne un point de vue sur le fjord d’Est en Ouest, au sommet d’un cap vertigineux.   
+</p> 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35329457162/in/datetaken/" title="Anse Saint-Jean - Québec - [Canada]"><img src="https://farm5.staticflickr.com/4285/35329457162_9248d82bd4_k.jpg" width="2048" height="1152" alt="Anse Saint-Jean - Québec - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
