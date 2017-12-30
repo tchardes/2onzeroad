@@ -1,4 +1,8 @@
 // Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut et les paramètres utilisateur.
 {
-    "editor.wordWrapColumn": 170
+    "editor.wordWrapColumn": 170,
+    "cSpell.words": [
+        "m'être",
+        "être"
+    ]
 }
