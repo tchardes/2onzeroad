@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Côte Nord-Ouest"
-preview:    "Onzième article de type carnet de route, il couvre la période du 03 au 20 septembre durant laquelle nous avons traversé les États de Washington, de..."
+preview:    "Onzième article ..."
 parent-id: 
 
 date:        2018-01-19 13:00:00
