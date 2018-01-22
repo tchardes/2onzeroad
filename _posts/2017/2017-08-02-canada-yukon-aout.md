@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Ouest Canada"
-preview:    "Huitième article de type carnet de route, il couvre la période du 19 juillet au 02 août durant laquelle nous avons traversé les États de..."
+preview:    "Huitième article de type carnet de route, il couvre la période du 19 juillet au 02 août durant laquelle nous avons traversé les provinces de..."
 parent-id:  2017-08-02-canada-ouest-bilan
 
 date:       2017-08-02 13:00:00
@@ -22,7 +22,7 @@ mapZoom: 4
 
 ---
 
-Huitième article de type carnet de route, il couvre la période du 19 juillet au 02 août durant laquelle nous avons traversé les États de l'Alberta, de la Colombie Britannique et du Yukon.  
+Huitième article de type carnet de route, il couvre la période du 19 juillet au 02 août durant laquelle nous avons traversé les provinces de l'Alberta, de la Colombie Britannique et le territoire du Yukon.  
 
 
 ## 19 juillet  
@@ -72,7 +72,7 @@ Dans la matinée, nous avons croisé un renard à la fourrure très foncée pres
 
 ## 29 au 31 juillet  
 
-Nous arrivons à **Whitehorse** et nous nous mettons en quête de trouver un garagiste qui veuille bien nous faire la vidange de Thor. Au final, impossible d'en trouver un, de nombreux établissements changent les pneus mais tous les mécanos sont en repos donc pas vidanges le WE. Comme les prochaines villes sont assez éloignées, on décide d'attendre lundi pour changer notre huile. En entrant au visitor center pour prendre de la documentation et des renseignements, on voit que des tables avec prises électriques et Wi-Fi sont mises à la disposition des visiteurs, du coup nous y passons la journée et j'en profite pour traiter les photos et avancer le site. Nous nous posons le soir au Walmart.  
+Nous arrivons à **Whitehorse**, capitale du territoire du Yukon et nous nous mettons en quête de trouver un garagiste qui veuille bien nous faire la vidange de Thor. Au final, impossible d'en trouver un, de nombreux établissements changent les pneus mais tous les mécanos sont en repos donc pas vidanges le WE. Comme les prochaines villes sont assez éloignées, on décide d'attendre lundi pour changer notre huile. En entrant au visitor center pour prendre de la documentation et des renseignements, on voit que des tables avec prises électriques et Wi-Fi sont mises à la disposition des visiteurs, du coup nous y passons la journée et j'en profite pour traiter les photos et avancer le site. Nous nous posons le soir au Walmart.  
 
 Le lendemain, dimanche, direction la laverie pour s'occuper de linge et retour au visitor center. Le soir, nous prenons notre repas dans une Pizzeria avant de regagner le parking Walmart pour la nuit. Il doit y avoir, au bas mot, 30 RV garés. De la journée, nous n'avons pas vérifié le niveau de la batterie de service et ce soir elle est trop faible pour pouvoir démarrer la génératrice. Je tente avec mes câbles de relier les deux batteries mais je suis trop court. Je fais le tour des autres RV et trouve un couple d'allemand qui était avec nous toute la journée, mettant eux aussi leur site à niveau. Il me prête gentiment les siens et je peux enfin lancer le groupe. Le magasin fermant à 23h00, je suis allé acheter un autre câble….  
 

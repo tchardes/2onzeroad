@@ -19,7 +19,7 @@ location: "48.945742, -124.601703"
 
 ---
 
-Située sur la côte Pacifique du Canada, l'île de Vancouver longue de 460 Kms abrite la capitale du territoire de la Colombie Britannique, Victoria. On y accède soit par avion soit par bateau. Plusieurs ports du continent desservent l'île via la compagnie BC Ferries (www.bcferries.com). Nous avons réservé les billets à l'avance sur Internet et avons opté pour un aller Tsawwassen / Swartz Bay et un retour Nanaimo / Horseshoe Bay afin de ne pas passer deux fois par la même "route" et de profiter d'une journée de plus sur Vancouver City, lors de notre retour. Il est également possible de prendre le bateau à Victoria afin de rejoindre directement les USA à Port Angeles, évitant ainsi Seattle.   
+Située sur la côte Pacifique du Canada, l'île de Vancouver longue de 460 Kms abrite la capitale de la province de la Colombie Britannique, Victoria. On y accède soit par avion soit par bateau. Plusieurs ports du continent desservent l'île via la compagnie BC Ferries (www.bcferries.com). Nous avons réservé les billets à l'avance sur Internet et avons opté pour un aller Tsawwassen / Swartz Bay et un retour Nanaimo / Horseshoe Bay afin de ne pas passer deux fois par la même "route" et de profiter d'une journée de plus sur Vancouver City, lors de notre retour. Il est également possible de prendre le bateau à Victoria afin de rejoindre directement les USA à Port Angeles, évitant ainsi Seattle.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36558984874/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4506/36558984874_4bb0c15915_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 Le 30 août, nous embarquons sur le "Queen of New Westminster". La traversée de la mer de Salish dure une heure et demie, le bateau se faufile entre de nombreuses îles et emprunte un canal assez étroit entre les îles de Galiano et Mayne, qui abritent de très belles maisons et de nombreux phares, avant d'arriver sur l'île de Vancouver.  
@@ -83,6 +83,6 @@ Le 03 septembre, nous embarquons de bonne heure sur le "Queen of Oak Bay" pour u
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37010674790/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4343/37010674790_3f3a1dea9c_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-D'une manière générale, la Colombie Britannique est un des plus beaux territoires du Canada, et surtout l'île de Vancouver qui nous a fasciné par sa beauté, du moins dans sa moitié sud.  
+D'une manière générale, la Colombie Britannique est une des plus belles provinces du Canada, et surtout l'île de Vancouver qui nous a fasciné par sa beauté, du moins dans sa moitié sud.  
 
 

@@ -53,7 +53,7 @@ Dans quelques jours, nous allons rentrer à nouveau au Canada pour rejoindre Cal
 ### Quelques chiffres :    
 
 * Nombre de jours           : 32
-* Nombre d'États traversés  : 5
+* Nombre de provinces traversées  : 5
 * Monnaie                   : 1 Dollar Cad = 0,70 €
 * Prix moyen de l'essence   : 1,10$ le litre (entre 0,98 à 1,12$) soit 0,75€ le litre
 * Gaz                       : Disponible un peu partout, le remplissage de notre réservoir de 20Kg a coûté environ 13$ 

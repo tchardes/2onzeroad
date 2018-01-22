@@ -20,7 +20,7 @@ itinary: "2017/colombie.json"
 mapZoom: 4
 ---
 
-Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé les territoires du Yukon et de la Colombie Britannique avec une petite incursion au sud de l'Alaska.   
+Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé le territoire du Yukon et la province de la Colombie Britannique avec une petite incursion au sud de l'Alaska.   
 
 ## 19 août     
 
