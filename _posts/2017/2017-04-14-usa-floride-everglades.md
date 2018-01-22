@@ -72,7 +72,7 @@ Dernière balade en forêt et le long d’un grand lac, très agréable même si
 
 Voilà la fin de la route qui nous a conduite plein Sud au bord de la mer, où l'eau est quand même très saumâtre. Après le Visitor Center, nous faisons un petit tour dans le complexe qui est relativement désert et en manque d’activité. On est bien hors saison.  
 
-De retour sur Homestead, nous croisons la route, ce qui nous semble être un boa constrictor qui tient pratiquement une voie. Etant dans la circulation, nous n’avons pu nous arrêter.  
+De retour sur Homestead, nous croisons la route, ce qui nous semble être un boa constrictor qui tient pratiquement une voie. Étant dans la circulation, nous n’avons pu nous arrêter.  
 
 Le 14 avril, nous quittons définitivement la région de Miami pour la côte Ouest de la Floride. En route, nous nous arrêtons au deuxième point d’entrée du Parc située au Nord des Everglades.  
 

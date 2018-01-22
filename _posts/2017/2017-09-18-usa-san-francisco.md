@@ -259,7 +259,7 @@ Ce matin, nous nous rendons à Fort Point situé à la base du **Golden Gate**, 
 
 ### Union Square
 
-Le bus nous laisse à Union Square où nous commençons par un café dans un Starbuck, comme la plupart des américains qui se promènent toute la journée avec mug à la main. Nous faisons quelques boutiques avant de monter au 8 ème étage du Macy's pour prendre notre déjeuner à The Cheesecake Factory qui bénéficie d'une terrasse qui donne sur la place.
+Le bus nous laisse à Union Square où nous commençons par un café dans un Starbucks, comme la plupart des américains qui se promènent toute la journée avec mug à la main. Nous faisons quelques boutiques avant de monter au 8 ème étage du Macy's pour prendre notre déjeuner à The Cheesecake Factory qui bénéficie d'une terrasse qui donne sur la place.
 
 ### SFMoMA
 
