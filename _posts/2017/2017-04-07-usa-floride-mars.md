@@ -33,7 +33,7 @@ Il y a moins de trois mois on changeait radicalement de vie, on quittait la Guad
 
 <img src="{{baseurl}}/assets/owner/photos/norvegian.jpg" style="width:100%" />  
 
-Tout remonte à trois ans en arrière où nous avons fait le pari de changer de vie et de voyager à travers les Amériques. Après deux années de préparatifs et malgré tout, des questions plein la tête, nous sommes assis dans un Boeing dreamliner 787 de la Norvegian Airline qui nous amène à Fort Lauderdale, au nord de Miami, début de notre aventure étasunienne. A la sortie de l'avion, nous passons tous devant des bornes afin de scanner le passeport ou pour nous, le visa. On répond à quelques questions, prise d'empreintes et nous faisons la queue pour passer devant un agent de l'immigration. Re scan des empreintes, des fois que ... Il nous pose de nombreuses questions sur notre venue, notre projet, nos moyens... et nous accorde au final nos 6 mois d'affilé. Nous sommes trop contents, c'était vraiment un gros point d'interrogation qui devait déterminer toute l'organisation de notre voyage.  
+Tout remonte à trois ans en arrière où nous avons fait le pari de changer de vie et de voyager à travers les Amériques. Après deux années de préparatifs et malgré tout, des questions plein la tête, nous sommes assis dans un Boeing dreamliner 787 de la Norwegian Airline qui nous amène à Fort Lauderdale, au nord de Miami, début de notre aventure étasunienne. A la sortie de l'avion, nous passons tous devant des bornes afin de scanner le passeport ou pour nous, le visa. On répond à quelques questions, prise d'empreintes et nous faisons la queue pour passer devant un agent de l'immigration. Re scan des empreintes, des fois que ... Il nous pose de nombreuses questions sur notre venue, notre projet, nos moyens... et nous accorde au final nos 6 mois d'affilé. Nous sommes trop contents, c'était vraiment un gros point d'interrogation qui devait déterminer toute l'organisation de notre voyage.  
 
 <img src="{{baseurl}}/assets/owner/photos/ecran.jpg" style="width:100%" />   
 
@@ -55,7 +55,7 @@ En attendant la finalisation de l’achat et de la livraison, nous gravitons aut
 
 Mention particulière pour deux chaines : 
 * Draft House où l'ambiance est typique américaine avec des écrans plats partout, beaucoup de bois et des plats très bons et très goûteux, si on fait l'effort d'éviter les burgers. Les toilettes arborent un panneau "Clams" pour les filles et "Shrimp" pour les garçons ;
-* Denny's où nous avons mangé plusieurs sortes de poëlées de légumes et viande servies dans des plats en fonte.  
+* Denny's où nous avons mangé plusieurs sortes de poêlées de légumes et viande servies dans des plats en fonte.  
 
 ### Visites  
 

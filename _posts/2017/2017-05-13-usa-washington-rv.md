@@ -44,7 +44,7 @@ Si vous réservez à l'avance demander :
 
 Pour rejoindre le métro :
 
-* Emprunter le sentier (très agréable et pratiquable) sur 1,200 Km puis vous arrivez sur la rue "Good Luck Rd".
+* Emprunter le sentier (très agréable et praticable) sur 1,200 Km puis vous arrivez sur la rue "Good Luck Rd".
 
 **Solution 1**
 

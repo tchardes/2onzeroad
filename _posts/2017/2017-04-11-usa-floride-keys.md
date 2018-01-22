@@ -35,7 +35,7 @@ On passe notre dimanche dans un State Park « Honda Bahia » d’où l’on pe
 
 ### Key West 
 
-Si l’on regarde notre guide, Key West est à voir mais bon... sans plus. En dehors de l’ancienne villa d’Ernest Hemingway et la fameuse balise Southernmost Point, rien de plus. Nous, nous avons adoré. Nous avons trouvé un parking payant (24.555817, -81.804742) en plein centre ville qui nous a couté 40$ pour la journée et une partie de la nuit si on avait voulu. De ce point, nous avons parcouru toute l’île à pied, cela se fait très bien. Il existe néanmoins des voiturettes électriques en location ou un vieux Trolley, au final très récent.  
+Si l’on regarde notre guide, Key West est à voir mais bon... sans plus. En dehors de l’ancienne villa d’Ernest Hemingway et la fameuse balise Southernmost Point, rien de plus. Nous, nous avons adoré. Nous avons trouvé un parking payant (24.555817, -81.804742) en plein centre ville qui nous a coûté 40$ pour la journée et une partie de la nuit si on avait voulu. De ce point, nous avons parcouru toute l’île à pied, cela se fait très bien. Il existe néanmoins des voiturettes électriques en location ou un vieux Trolley, au final très récent.  
 
 #### Musées
 
@@ -65,7 +65,7 @@ La photo devant la borne est un passage obligé pour qui va à Key West. Souther
 
 #### Fin de la route
 
-Key West est également la fin de la US 1 Highway South et du coup, le point de départ au mile O de la US 1 Hightway North. Cette route monte jusqu’à Fort Kent dans le Maine sur une distance de 3813 Kms.
+Key West est également la fin de la US 1 Highway South et du coup, le point de départ au mile O de la US 1 Highway North. Cette route monte jusqu’à Fort Kent dans le Maine sur une distance de 3813 Kms.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33951454481/in/datetaken/" title="Key West - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2924/33951454481_0f8aa8a031_k.jpg" width="2048" height="1152" alt="Key West - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

@@ -28,7 +28,7 @@ La Liberty Bell ou "Cloche de la Liberté" est un des symboles de l'indépendanc
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34500876790/in/datetaken/" title="Philadelphie - Pennsylvanie - [USA]"><img src="https://c1.staticflickr.com/5/4227/34500876790_b4a8c66bb0_k.jpg" width="2048" height="1365" alt="Philadelphie - Pennsylvanie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous poursuivons la visite par le **Old City Hall** devenu **Independance Hall**, dont le clocher abritait la fameuse cloche félée et tous les bâtiments et parcs autour de celui-ci dont le Carpenter's Hall où s'est rassemblé le premier Congrès Américain. Tous ces lieux historiques concentrés sur 3Km carré environ ont été construits en brique rouge et sont parfaitement conservés.  
+Nous poursuivons la visite par le **Old City Hall** devenu **Independance Hall**, dont le clocher abritait la fameuse cloche fêlée et tous les bâtiments et parcs autour de celui-ci dont le Carpenter's Hall où s'est rassemblé le premier Congrès Américain. Tous ces lieux historiques concentrés sur 3Km carré environ ont été construits en brique rouge et sont parfaitement conservés.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34044562764/in/datetaken/" title="Philadelphie - Pennsylvanie - [USA]"><img src="https://c1.staticflickr.com/5/4224/34044562764_fabab31a80_k.jpg" width="2048" height="1152" alt="Philadelphie - Pennsylvanie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

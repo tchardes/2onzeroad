@@ -87,7 +87,7 @@ On prend nos marques tout doucement, il nous arrive encore de tomber à court d'
 
 ### Les bivouacs  
 
-Pour l'instant, nous passons nos nuits souvent sur les parkings de Home Dépôt mais surtout de Walmart, immense magasin type carrefour ouvert 24/24. Le fondateur de cette chaine était camping-cariste et a toujours fait en sorte que les RV's puissent stationner pour la nuit sur les parkings de ses enseignes. Certes, ce n'est pas toujours très glamour mais terriblement pratique quand on bouge constamment. On arrive le soir, on va faire les courses et on aménage Thor petit à petit, on profite du Wi-FI et le lendemain matin, on repart. Les lieux sont sécurisés et assez tranquilles quand on sait où se positionner. Nous avons fait quelques bivouacs sauvages mais ce n'est pas très évident de trouver un endroit accessible où cela est autorisé, surtout en bord de mer.  
+Pour l'instant, nous passons nos nuits souvent sur les parkings de Home Dépôt mais surtout de Walmart, immense magasin type carrefour ouvert 24/24. Le fondateur de cette chaîne était camping-cariste et a toujours fait en sorte que les RV's puissent stationner pour la nuit sur les parkings de ses enseignes. Certes, ce n'est pas toujours très glamour mais terriblement pratique quand on bouge constamment. On arrive le soir, on va faire les courses et on aménage Thor petit à petit, on profite du Wi-FI et le lendemain matin, on repart. Les lieux sont sécurisés et assez tranquilles quand on sait où se positionner. Nous avons fait quelques bivouacs sauvages mais ce n'est pas très évident de trouver un endroit accessible où cela est autorisé, surtout en bord de mer.  
 
 ### A voir, à faire   
 

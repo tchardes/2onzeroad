@@ -19,7 +19,7 @@ location: "28.524458, -80.681116"
 ---
 
 
-Allo Houston... ici Thor !!!!  
+Allô Houston... ici Thor !!!!  
 
 Direction Cap Canaveral, non pas pour un décollage de Thor vers l’au-delà et l’infini, on n’a même pas fini le tour de la Floride, mais pour visiter le **Kennedy Space Center**, la NASA. Ce site est géré pour le compte de la NASA par une société dont les revenus proviennent uniquement de la billetterie, c’est pour rassurer les contribuables américains….  
 
