@@ -46,7 +46,7 @@ Les grandes villes sont très belles, nous avons particulièrement aimé Québec
 
 Nous avons appris que le drapeau officiel du Canada date de 1965 suite à un concours de dessin. Celui retenu représente une feuille d'érable mais pas de n'importe lequel, puisqu'il s'agit d'une feuille de l'érable à sucre qui fournit le fameux sirop d'érable. Les québécois ont été ravis de ce choix car 80% de ce type d'arbre pousse dans la province du Québec. Même si l'unité du Canada fait de moins en moins débat, on sent toujours cette rivalité, dualité entre les francophones et les anglophones.
 
-Dans quelques jours, nous allons rentrer à nouveau au Canada pour rejoindre Calgary, certainement d'autres paysages et d'autres rencontres  feront l'objet d'un autre bilan.
+Dans quelques jours, nous allons rentrer à nouveau au Canada pour rejoindre Calgary, certainement d'autres paysages et d'autres rencontres qui feront l'objet d'un autre bilan.
 
 
 
