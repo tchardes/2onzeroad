@@ -48,7 +48,7 @@ La partie Virginie est plus vallonnée avec quelques hauts plateaux, le décor c
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33663520983/in/datetaken/" title="Blue Ridge ParkWay - Caroline du Nord - Virginie - [USA]"><img src="https://c1.staticflickr.com/5/4171/33663520983_65ff82e979_k.jpg" width="2048" height="1152" alt="Blue Ridge ParkWay - Caroline du Nord - Virginie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-La dernière partie se trouve dans le Shenandoah NP, la Skyline Drive (105 Miles) est payante, 25$ par véhicule et gratuite avec le pass América the Beautiful. Il existe de nombreux campgrounds qui permettent de passer la nuit. Pour notre part, étant en début de saison avec peu de monde, nous n'avons fait que du camping sauvage, ce qui est en théorie formellement interdit.    
+La dernière partie se trouve dans le Shenandoah NP, la Skyline Drive (105 Miles) est payante, 25$ par véhicule et gratuite avec le pass America the Beautiful. Il existe de nombreux campgrounds qui permettent de passer la nuit. Pour notre part, étant en début de saison avec peu de monde, nous n'avons fait que du camping sauvage, ce qui est en théorie formellement interdit.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34722934162/in/datetaken/" title="Blue Ridge - Skyline - Virginie - [USA]"><img src="https://c1.staticflickr.com/5/4269/34722934162_680426e6e5_k.jpg" width="2048" height="1365" alt="Blue Ridge - Skyline - Virginie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

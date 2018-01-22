@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Kennedy Space Center"
-preview:    "Allo Houston ici Thor !!!! Direction Cap Canaveral, non pas pour un décollage de Thor vers l’au-delà et l’infini, on n’a même pas fini le tour de... "
+preview:    "Allô Houston ici Thor !!!! Direction Cap Canaveral, non pas pour un décollage de Thor vers l’au-delà et l’infini, on n’a même pas fini le tour de... "
 parent-id:  2017-04-25-usa-floride-avril
 
 date:       2017-04-21 12:00:00
