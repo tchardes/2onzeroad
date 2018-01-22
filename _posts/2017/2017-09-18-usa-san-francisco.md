@@ -263,7 +263,7 @@ Le bus nous laisse à Union Square où nous commençons par un café dans un Sta
 
 ### SFMoMA
 
-Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du bâtiment est vraiment originale avec sa façade en briques rouges de l'ancien musée et son immense puit de lumière sur lequel il a été accolé à un nouveau bâtiment tout blanc de 10 étages tout en relief, ce qui en fait l'un des plus grands musée d'art moderne du monde. S'il regroupe des sculptures et peintures, il expose également des expériences audios et audiovisuelles intéressantes, notamment une installation vidéo, nommée "The Visitors" de Ragnar Kjartansson.
+Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du bâtiment est vraiment originale avec sa façade en briques rouges de l'ancien musée et son immense puits de lumière sur lequel il a été accolé à un nouveau bâtiment tout blanc de 10 étages tout en relief, ce qui en fait l'un des plus grands musée d'art moderne du monde. S'il regroupe des sculptures et peintures, il expose également des expériences audios et audiovisuelles intéressantes, notamment une installation vidéo, nommée "The Visitors" de Ragnar Kjartansson.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658607963/in/datetaken/" title="IMG_6248"><img src="https://farm5.staticflickr.com/4513/36658607963_d765d33174_k.jpg" width="2048" height="1152" alt="IMG_6248"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -285,4 +285,4 @@ Si l'on en croit la météo, la brume devrait se lever dans la matinée. Pour ce
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658481043/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4346/36658481043_46c5d1475c_b.jpg" width="1024" height="240" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous avons vraiment apprécié San Francisco qui correspond exactement à ce que nous nous étions imaginé. Il régne dans cette ville une ambiance et une atmosphère particulière. Nous n'avons pas eu le temps de tout faire mais on espère bien reprendre notre découverte lors de notre retour.  
+Nous avons vraiment apprécié San Francisco qui correspond exactement à ce que nous nous étions imaginé. Il règne dans cette ville une ambiance et une atmosphère particulière. Nous n'avons pas eu le temps de tout faire mais on espère bien reprendre notre découverte lors de notre retour.  

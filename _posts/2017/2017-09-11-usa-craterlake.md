@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Crater Lake NP"
-preview:    "Crater Lake s'est créé sur un ancien volcan de la chaine des cascades, arc volcanique qui s'étend de la Californie à la Colombie... "
+preview:    "Crater Lake s'est créé sur un ancien volcan de la î des cascades, arc volcanique qui s'étend de la Californie à la Colombie... "
 parent-id:  2017-09-20-usa-californie-septembre
 
 date:       2017-09-10 12:00:00
@@ -18,7 +18,7 @@ category: "blog"
 location: "42.944705, -122.105928"
 ---
 
-Crater Lake s'est créé sur un ancien volcan de la chaine des cascades, arc volcanique qui s'étend de la Californie à la Colombie Britannique au Canada. L'ancien volcan Mazama qui culminait aux alentours de 3600 mètres ne permettait plus au magma de s'évacuer, augmentant la pression dans la chambre magmatique. De nombreux volcans se sont créés autour de la base évacuant tout le magma et entraînant un affaissement du volcan sur lui-même après son explosion. Les fortes précipitations dans la région se chargeront de remplir la caldeira au fil des siècles, pour au final former un lac de 10Kms sur 8Kms à une altitude de 2100 mètres et en faire le plus profond des USA, presque 600 mètres. D'autres volcans se formeront par la suite en son centre mais un seul est visible aujourd'hui n'ayant pas été recouvert par l'eau, formant l'île Wizard. Unique parc de l'Oregon, l'accès est gratuit avec la pass America the Beautiful. Le parc national de Crater Lake a été créé en 1902.
+Crater Lake s'est créé sur un ancien volcan de la chaîne des cascades, arc volcanique qui s'étend de la Californie à la Colombie Britannique au Canada. L'ancien volcan Mazama qui culminait aux alentours de 3600 mètres ne permettait plus au magma de s'évacuer, augmentant la pression dans la chambre magmatique. De nombreux volcans se sont créés autour de la base évacuant tout le magma et entraînant un affaissement du volcan sur lui-même après son explosion. Les fortes précipitations dans la région se chargeront de remplir la caldeira au fil des siècles, pour au final former un lac de 10Kms sur 8Kms à une altitude de 2100 mètres et en faire le plus profond des USA, presque 600 mètres. D'autres volcans se formeront par la suite en son centre mais un seul est visible aujourd'hui n'ayant pas été recouvert par l'eau, formant l'île Wizard. Unique parc de l'Oregon, l'accès est gratuit avec la pass America the Beautiful. Le parc national de Crater Lake a été créé en 1902.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36560645324/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4490/36560645324_7d4f8a9175_k.jpg" width="2048" height="491" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

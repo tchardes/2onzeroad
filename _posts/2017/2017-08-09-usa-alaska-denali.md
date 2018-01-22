@@ -22,7 +22,7 @@ Situé au centre de l'Alaska, le **Parc National et Réserve de Denali** qui fê
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36349921161/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4338/36349921161_f89eae1573_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Nous arrivons en fin de journée au visitor center. Nous récupérons la documentation et comprenons le mode de fonctionnement un peu particulier de ce parc. Bien qu'il soit immense, seule une route longue de 148 Kms y pénètre. Sur cette distance, seulement 25 Kms peuvent êre parcourus avec son propre véhicule. Pour faire le reste, vous devez passer par un "tour opérator", qu'il soit privé ou sous traité par le National Park Service.  
+Nous arrivons en fin de journée au visitor center. Nous récupérons la documentation et comprenons le mode de fonctionnement un peu particulier de ce parc. Bien qu'il soit immense, seule une route longue de 148 Kms y pénètre. Sur cette distance, seulement 25 Kms peuvent êre parcourus avec son propre véhicule. Pour faire le reste, vous devez passer par un "tour operator", qu'il soit privé ou sous traité par le National Park Service.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35652320464/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4343/35652320464_a003d92427_k.jpg" width="2048" height="737" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
