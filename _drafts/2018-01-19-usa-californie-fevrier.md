@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "Côte Nord-Ouest"
+title:   "Côte Ouest"
 preview:    "Onzième article ..."
 parent-id: 
 
@@ -10,7 +10,7 @@ to-date:     2018-01-19 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt11.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt11.jpg
-tags: [architecture, culturel, transport, glace, mer-ocean]
+tags: [architecture, culturel, transport, mer-ocean]
 pois: []
 country: USA
 states: ["Californie"]
