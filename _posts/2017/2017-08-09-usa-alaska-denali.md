@@ -72,7 +72,7 @@ Le deuxième jour nous retournons sur le parc. Nous faisons directement les 15 m
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36487279535/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4411/36487279535_5f84e61c0e_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Le dernier jour, nous nous rendons à l'entrée de parc pour faire le trail  **Horsechoe Lake** (5,1 Kms, + 80 mètres) qui permet d’accéder à un lac qui abrite plusieurs familles de castors. De nombreux barrages sont présents, véritables chefs d’oeuvres d’ingénierie. Certains longs de plusieurs dizaines de mètres sont parfaitement parallèles au niveau de l'eau qu'ils laissent filtrer pour maintenir et réguler sa hauteur dans le lac.  
+Le dernier jour, nous nous rendons à l'entrée de parc pour faire le trail  **Horsechoe Lake** (5,1 Kms, + 80 mètres) qui permet d’accéder à un lac qui abrite plusieurs familles de castors. De nombreux barrages sont présents, véritables chefs d’œuvres d’ingénierie. Certains longs de plusieurs dizaines de mètres sont parfaitement parallèles au niveau de l'eau qu'ils laissent filtrer pour maintenir et réguler sa hauteur dans le lac.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36318905622/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4387/36318905622_082b84a9e0_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 

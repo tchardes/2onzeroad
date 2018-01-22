@@ -61,7 +61,7 @@ Elle a ici ses propres règles, parfois surprenantes et parfois, on se demande p
 * A certains carrefours de route de même importance, chacun a un stop et c’est le premier arrivé qui repart et ainsi de suite, en parfait gentlemen ;
 * Ici, on ne plaisante pas avec les enfants. Les tronçons de route devant les écoles sont identifiés par des panneaux qui obligent les automobilistes à ralentir à une certaine vitesse si les feux clignotent. Les fameux bus scolaires jaunes s’illuminent comme un sapin de Noël et des panneaux « Stop » se déplient sur le côté du bus lorsqu’ils embarquent ou débarquent des enfants. Tous les véhicules venant dans les deux sens doivent alors faire stop au niveau du bus et attendre que le chauffeur repli ses panneaux avant de pouvoir reprendre la route ;
 * Apparemment, il n’y a pas de règles de base comme chez nous concernant la limitation de vitesse en fonction du type d’axe. Cela oblige à porter une attention constante aux panneaux car même sur l’Interstate (autoroute), la vitesse passe de 50 à 70 miles sans trop de raisons. Idem pour les autres routes ;
-* Les bus ont à l'avant un porte vélo. Si une personne à vélo veut monter dans le car elle déplie le porte vélo et le fixe. Quand elle descend, elle reprend son vélo sous l'oeil du chauffeur. 
+* Les bus ont à l'avant un porte vélo. Si une personne à vélo veut monter dans le car elle déplie le porte vélo et le fixe. Quand elle descend, elle reprend son vélo sous l'œil du chauffeur. 
 
 En règle générale, si on conduit comme en France, tout se passe bien, les routes sont belles, les voies sont très larges et la signalisation bien faite.  
 

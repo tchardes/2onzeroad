@@ -44,7 +44,7 @@ A midi, nous déjeunons dans un restaurant Italien dans un centre commercial et 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35495572495/in/datetaken/" title="Montréal - Québec - [Canada]"><img src="https://c1.staticflickr.com/5/4253/35495572495_a303527e1b_k.jpg" width="2048" height="1536" alt="Montréal - Québec - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-Passant devant le Vieux port, nous pouvons admirer **L'Amerigo Vespucci**, voilier école de la Marine nationale italienne. Nous regardons un long moment les marins à la manoeuvre pour hisser et fixer un espar sur le mât de misaine.   
+Passant devant le Vieux port, nous pouvons admirer **L'Amerigo Vespucci**, voilier école de la Marine nationale italienne. Nous regardons un long moment les marins à la manœuvre pour hisser et fixer un espar sur le mât de misaine.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35455914796/in/datetaken/" title="Montréal - Québec - [Canada]"><img src="https://c1.staticflickr.com/5/4265/35455914796_92ca138fe0_k.jpg" width="2048" height="1152" alt="Montréal - Québec - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
   

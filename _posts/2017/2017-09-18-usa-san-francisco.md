@@ -49,7 +49,7 @@ Nous arrivons en fin d'après-midi au Presidio, parc situé au nord de la pénin
 
 ### Chinatown  
 
-Pour cette journée, nous nous rendons en centre ville en bus. Nous découvrons **Union Square**, le coeur de San Francisco, avec ses grandes enseignes et hôtels de luxe comme le Saint Francis et le Sir Francis Drake et ses portiers habillés en garde de la tour de Londres. Nous poursuivons par le quartier de **Chinatown** en commençant par la Dragon's Gate, entrée du quartier protégée par deux dragons et deux lions. Il s'agit du plus vieux et plus grand quartier chinois de tous les USA.  
+Pour cette journée, nous nous rendons en centre ville en bus. Nous découvrons **Union Square**, le cœur de San Francisco, avec ses grandes enseignes et hôtels de luxe comme le Saint Francis et le Sir Francis Drake et ses portiers habillés en garde de la tour de Londres. Nous poursuivons par le quartier de **Chinatown** en commençant par la Dragon's Gate, entrée du quartier protégée par deux dragons et deux lions. Il s'agit du plus vieux et plus grand quartier chinois de tous les USA.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618947794/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4411/36618947794_a03e669351_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -84,7 +84,7 @@ Le croisement de Grant, Broadway et Columbus avenue signe la fin de Chinatown et
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658948223/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4331/36658948223_b46f0bc290_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-A Jackson Street, on prend sur la gauche puis à droite sur Ross Alley pour passer devant le N° 56 et le **Golden Gate Fortune Cookie** qui fabrique les fameux biscuits de fortune dans laquelle est inséré un petit morceau de papier où l’on peut lire une prédiction ou une maxime. Vous pouvez jeter un oeil à l'intérieur mais rapidement, ils insisteront pour que vous achetiez quelque chose. Nous n'avons pas osé faire de photo. Au N° 50, se trouve **New Sam Bo Trading**. Ce petit magasin vend des bouddhas, des bougies de cérémonie, de l'encens et des articles en papier intrigants qui doivent être brûlés en l'honneur des ancêtres ou pour demander une faveur des dieux.  
+A Jackson Street, on prend sur la gauche puis à droite sur Ross Alley pour passer devant le N° 56 et le **Golden Gate Fortune Cookie** qui fabrique les fameux biscuits de fortune dans laquelle est inséré un petit morceau de papier où l’on peut lire une prédiction ou une maxime. Vous pouvez jeter un œil à l'intérieur mais rapidement, ils insisteront pour que vous achetiez quelque chose. Nous n'avons pas osé faire de photo. Au N° 50, se trouve **New Sam Bo Trading**. Ce petit magasin vend des bouddhas, des bougies de cérémonie, de l'encens et des articles en papier intrigants qui doivent être brûlés en l'honneur des ancêtres ou pour demander une faveur des dieux.  
 
 A la fin de Ross Alley, on tourne à droite sur Washington street et puis à gauche dans Spofford street. Rien à voir dans cette ruelle qui abrite de nombreuses salles de jeux, mais si l'on s'arrête et on tend l'oreille, on peut entendre les tuiles du mah-jong claquer sur les tables. En se mettant sur la pointe des pieds, on peut obtenir un aperçu de l'intérieur par dessus les grilles.  
 
@@ -124,7 +124,7 @@ Nous promenons le long des quais (Piers) jusqu'au Piers 39, certainement le plus
 
 ### Japonese Tea Garden  
 
-Ce matin, nous descendons au Golden Gate Park, immense espace vert de 410 hectares en plein coeur de San Francisco. Le parc regroupe plusieurs édifices et jardins, le San Francisco De Young Museum, le conservatoire des fleurs, le National Aids Memorial Grove, la California Academy of Sciences, le Strybing Arboretum sans oublier de nombreuses oeuvres d'arts mais nous sommes là pour voir le jardin de thé japonais **Japanese Tea Garden**. Inauguré en 1894, il est le plus ancien jardin japonais des États-Unis. Nous y passons 2 bonnes heures à flâner entre les pagodes, bassins, bonsaïs, fontaines, lanternes, statues… Un endroit très beau et reposant, pas pour l'appareil photo, où l'on peut prendre le thé.  
+Ce matin, nous descendons au Golden Gate Park, immense espace vert de 410 hectares en plein cœur de San Francisco. Le parc regroupe plusieurs édifices et jardins, le San Francisco De Young Museum, le conservatoire des fleurs, le National Aids Memorial Grove, la California Academy of Sciences, le Strybing Arboretum sans oublier de nombreuses œuvres d'arts mais nous sommes là pour voir le jardin de thé japonais **Japanese Tea Garden**. Inauguré en 1894, il est le plus ancien jardin japonais des États-Unis. Nous y passons 2 bonnes heures à flâner entre les pagodes, bassins, bonsaïs, fontaines, lanternes, statues… Un endroit très beau et reposant, pas pour l'appareil photo, où l'on peut prendre le thé.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476583858/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4383/23476583858_cc888aa4fa_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -148,7 +148,7 @@ En repartant par la Fultron Street, nous bénéficions une très belle vue sur l
 
 ### Castro  
 
-Pour le déjeuné nous testons un Mexicain, "Casa Mexicana" au 180 Church Street où nous mangeons de très bons burritos accompagnés d'une Corona. Nous poursuivons par le quartier de Castro qui représente le coeur de la communauté gay de San Francisco. Ce quartier haut en couleur… de l'arc en ciel, abrite le très beau cinéma Castro Theater, sur Castro Street.  
+Pour le déjeuné nous testons un Mexicain, "Casa Mexicana" au 180 Church Street où nous mangeons de très bons burritos accompagnés d'une Corona. Nous poursuivons par le quartier de Castro qui représente le cœur de la communauté gay de San Francisco. Ce quartier haut en couleur… de l'arc en ciel, abrite le très beau cinéma Castro Theater, sur Castro Street.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071628010/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4508/37071628010_3e423b6580_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

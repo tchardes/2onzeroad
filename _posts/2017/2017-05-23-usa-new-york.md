@@ -111,5 +111,5 @@ Le dernier jour est pluvieux. Nous commençons par une visite au magasin **B&H**
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34518732440/in/datetaken/" title="New York - État de New York - [USA]"><img src="https://c1.staticflickr.com/5/4273/34518732440_8c5a16945b_k.jpg" width="2048" height="1365" alt="New York - État de New York - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Gros coup de coeur pour New York. Il y a bien évidemment de nombreuses autres choses et quartiers à découvrir, nous y reviendrons, c'est sûr dans d'autres circonstances.  
+Gros coup de cœur pour New York. Il y a bien évidemment de nombreuses autres choses et quartiers à découvrir, nous y reviendrons, c'est sûr dans d'autres circonstances.  
 
