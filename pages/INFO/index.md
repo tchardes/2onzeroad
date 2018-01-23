@@ -88,7 +88,7 @@ Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription es
 
 ### Sécu, complémentaire et plus 
 
-Etant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous avons fait une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement. Pour ne pas avoir de soucis avec les douanes, nous avons emballé les boites dans du film transparent avec l'ordonnance bien visible. Les emballages doivent rester clos d'origine, pas de regroupement même si cela prend beaucoup de place.
+Étant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous avons fait une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement. Pour ne pas avoir de soucis avec les douanes, nous avons emballé les boites dans du film transparent avec l'ordonnance bien visible. Les emballages doivent rester clos d'origine, pas de regroupement même si cela prend beaucoup de place.
 
 Si vous quittez votre emploi et envisagez de partir plusieurs années vous ne serez plus couverts par la sécurité sociale au bout d'une année et vous devrez alors opter pour la souscription d'une assurance voyage longue durée de type Marco Polo ou Chapka. Toutes les infos **[ici](http://www.tourdumondiste.com/comparatifs-assurances-voyage)**.  
 
@@ -143,7 +143,7 @@ Lors de la préparation de notre voyage au long cours, le camping-car s'est rapi
 
 Dès l'instant où la décision a été prise, nous avons connu les mêmes interrogations que tous les voyageurs ayant choisi ce mode de locomotion, lequel choisir ?…. De type intégral (US = Class A), profilé (US = Class B+), fourgon (US = Class B), capucine (US = Class C), 4x4 avec cellule (US = Camper), fabriqué sur mesure, de quelle marque, motorisation, avec quelles options…. Bref de quoi alimenter de nombreuses nuits blanches, la lecture de kilomètres de commentaires, arguments, certitudes, sans parler du coût pouvant aller du simple au….  
 
-A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motorhome " de Class B+ ou C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux États-Unis et que nous devions l'acquérir au Quebec. 
+A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motor-Home " de Class B+ ou C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux États-Unis et que nous devions l'acquérir au Quebec. 
 
 Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à notre vision des choses**. 
 
@@ -171,7 +171,7 @@ Après 15 jours passés dans la région de Miami, nous avons trouvé le RV que n
 
 ### Carnet de passage en douane (CPD)
 
-Certains pays dans le monde veulent être sûrs qu'une fois sur leur sol, vous le quitterez avec votre véhicule sans essayer de le vendre sur place. C'est le cas par exemple de l'Australie, l'Inde, l'Iran, l'Egypte…. Les services des douanes de ces pays demandent donc une garantie qui peut vite coûter très cher, le ***Carnet de Passage en Douane***. Le CPD est délivré en France par l'Automobile Club de France. Pour l'obtenir, il ne faut pas moins qu'un dépôt équivalent à la valeur vénale (côte Argus) de votre véhicule…. Ce carnet est tamponné par les douanes à chaque entrée et sortie des territoires et de retour en France vous devez le présenter à l'Automobile Club de France pour prouver que le véhicule est bien revenu en France, afin d'être remboursé ou afin que l'argent soit débloqué.
+Certains pays dans le monde veulent être sûrs qu'une fois sur leur sol, vous le quitterez avec votre véhicule sans essayer de le vendre sur place. C'est le cas par exemple de l'Australie, l'Inde, l'Iran, l'Égypte…. Les services des douanes de ces pays demandent donc une garantie qui peut vite coûter très cher, le ***Carnet de Passage en Douane***. Le CPD est délivré en France par l'Automobile Club de France. Pour l'obtenir, il ne faut pas moins qu'un dépôt équivalent à la valeur vénale (côte Argus) de votre véhicule…. Ce carnet est tamponné par les douanes à chaque entrée et sortie des territoires et de retour en France vous devez le présenter à l'Automobile Club de France pour prouver que le véhicule est bien revenu en France, afin d'être remboursé ou afin que l'argent soit débloqué.
 
 Pour tout le continent Américain, ce document n'est pas obligatoire et n'est pas demandé aux frontières par les douaniers. 
 
