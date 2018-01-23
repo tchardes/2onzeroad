@@ -41,7 +41,7 @@ Bien sûr les campings du parc sont tous overbookés, voici la liste :
 
 * Riley Creek, entrée du parc, le plus grand pour RV et tentes, 15 à 30$ ;
 * Savage River, mile 13, RV et tentes, 24 à 30$ ;
-* Santuary River, mile 23, tentes, 15$ ;
+* Sanctuary River, mile 23, tentes, 15$ ;
 * Teklanika River, mile 29, RV et tentes, 25$,  
 * Igllo Creek, mile 34, tentes, 15$ ;
 * Wonder Lake, mile 85, tentes, 22$.
