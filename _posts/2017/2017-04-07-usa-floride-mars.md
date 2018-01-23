@@ -53,7 +53,7 @@ Lundi 27 mars, nous partons plein Nord en direction Port Sainte Lucie où se tro
 
 En attendant la finalisation de l’achat et de la livraison, nous gravitons autour de Port Sainte Lucie et Fort Pierce en testant plusieurs Hôtels/Motels (Motel 6, America Best Value Inn, Day Inn) et restaurants. Les hôtels dans la même gamme de prix sont toujours de même standing, on apprécie les grands lits, la machine à glaçons toujours disponible à l'accueil et nous avons testé pour la première fois la machine à gaufres pour le petit déjeuner. Nous avons essayé de tester un peu toutes les enseignes de restauration qui se trouvaient autour de nous, typique américain, fast food, italien, chinois, mexicain. On a toujours bien mangé même si parfois c’était surprenant. On se languit quand même de se faire à manger pour retrouver une nourriture plus saine.  
 
-Mention particulière pour deux chaines : 
+Mention particulière pour deux chaînes : 
 * Draft House où l'ambiance est typique américaine avec des écrans plats partout, beaucoup de bois et des plats très bons et très goûteux, si on fait l'effort d'éviter les burgers. Les toilettes arborent un panneau "Clams" pour les filles et "Shrimp" pour les garçons ;
 * Denny's où nous avons mangé plusieurs sortes de poêlées de légumes et viande servies dans des plats en fonte.  
 

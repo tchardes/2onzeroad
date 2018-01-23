@@ -51,7 +51,7 @@ San Juan est surtout connu par les caribéens pour ces Malls et outlets, immense
 
 ### Format XXL
 
-A la pause, après quelques achats, nous prenons notre déjeuner dans un **Cheesecake Factory**, chaine de restaurants célèbre au USA dont la spécialité est un dessert, le Cheesecake. Au final, le plat principal était tellement copieux, énorme, que nous n'avions plus de place pour goûter cette spécialité. On s'est rattrapé en fin de séjour...
+A la pause, après quelques achats, nous prenons notre déjeuner dans un **Cheesecake Factory**, chaîne de restaurants célèbre au USA dont la spécialité est un dessert, le Cheesecake. Au final, le plat principal était tellement copieux, énorme, que nous n'avions plus de place pour goûter cette spécialité. On s'est rattrapé en fin de séjour...
 
 ### Vigipirate ?
 

@@ -54,7 +54,7 @@ Notre car arrive, assez vieillot mais confortable avec notre chauffeuse/guide, A
 
 Peu après le départ, nous avons la chance de voir le Mont Denali dégagé, de ce que nous avons compris, vu son altitude, c'est assez rare.
 Sur le trajet, nous effectuons plusieurs arrêts où il est possible de rester un peu plus longtemps et prendre un autre car pour la suite.
-Le paysage est vraiment magnifique et les deux chaines de montagnes, qui entoure le parcours, magiques. La consigne est que dès qu'un passager voit un animal, il crie "Stop" afin que le bus s'arrête, c'est ainsi que nous pourrons observer au cours de la journée de nombreux caribous, Lagopèdes, grizzlys et Dall Sheeps (Mouflons), mais de très loin pour les deux derniers.  
+Le paysage est vraiment magnifique et les deux chaînes de montagnes, qui entoure le parcours, magiques. La consigne est que dès qu'un passager voit un animal, il crie "Stop" afin que le bus s'arrête, c'est ainsi que nous pourrons observer au cours de la journée de nombreux caribous, Lagopèdes, grizzlys et Dall Sheeps (Mouflons), mais de très loin pour les deux derniers.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36487497725/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4399/36487497725_26681fce9f_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -68,7 +68,7 @@ La journée est assez longue au final mais le parc est vraiment très beau. Le f
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35652200994/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4427/35652200994_e7cc9eebb6_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Le deuxième jour nous retournons sur le parc. Nous faisons directement les 15 miles autorisés et nous nous garons au départ de deux trails, **Savage River Loop Trail** (3,2 Kms, + 15 mètres) avec Corinne, petite promenade qui longe une rivière et retour après passage sur un pont. Dans l'après-midi je m’attaque au **Savage Alpine Trail** (6,4 Kms + 500 mètres) très beau sentier qui passe de la forêt à la toundra avec des passages un peu étroit. Au sommet, on bénéficie d'une très belle vue sur la vallée et chaines de montagnes.  
+Le deuxième jour nous retournons sur le parc. Nous faisons directement les 15 miles autorisés et nous nous garons au départ de deux trails, **Savage River Loop Trail** (3,2 Kms, + 15 mètres) avec Corinne, petite promenade qui longe une rivière et retour après passage sur un pont. Dans l'après-midi je m’attaque au **Savage Alpine Trail** (6,4 Kms + 500 mètres) très beau sentier qui passe de la forêt à la toundra avec des passages un peu étroit. Au sommet, on bénéficie d'une très belle vue sur la vallée et chaînes de montagnes.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36487279535/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4411/36487279535_5f84e61c0e_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

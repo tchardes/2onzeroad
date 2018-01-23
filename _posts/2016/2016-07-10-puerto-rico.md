@@ -52,7 +52,7 @@ Payer par carte bancaire est un peu fastidieux. Le commerçant vous présente un
 
 ### Nourriture
 
-Les restaurants sont à l'image du pays, la gastronomie est à la fois traditionnelle caribéenne, espagnole avec de nombreux bars à tapas et américaine avec toutes ses chaines de restauration rapide. Demeurant en Guadeloupe, nous avons retrouvé le même type de plats locaux. Nous avons toutefois découvert et particulièrement apprécié le "Mofongo", accompagnement composée d'une écrasée de bananes plantain frites et de Yuca frit, servi dans un plat traditionnel en bois en forme de Mortier. Le Yuca frit comme des french fries est également excellent. Les portions sont à l'américaine, énormes.
+Les restaurants sont à l'image du pays, la gastronomie est à la fois traditionnelle caribéenne, espagnole avec de nombreux bars à tapas et américaine avec toutes ses chaînes de restauration rapide. Demeurant en Guadeloupe, nous avons retrouvé le même type de plats locaux. Nous avons toutefois découvert et particulièrement apprécié le "Mofongo", accompagnement composée d'une écrasée de bananes plantain frites et de Yuca frit, servi dans un plat traditionnel en bois en forme de Mortier. Le Yuca frit comme des french fries est également excellent. Les portions sont à l'américaine, énormes.
 
 ### Hôtels
 

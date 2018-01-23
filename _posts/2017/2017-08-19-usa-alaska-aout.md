@@ -97,7 +97,7 @@ La veille du départ, nous sommes sur le parking du visitor center, la porte de 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35652131244/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4433/35652131244_f837ef55d4_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Départ du Bivouac, on repasse une dernière fois au parc pour faire le plein et les dumps et pour bénéficier du Wi-Fi pour transférer les photos. Nous en profitons pour prendre nos billets d‘avion pour le retour, départ donc le 20 septembre depuis l’aéroport de San Francisco. Nous prenons le voyage en direction d'Anchorage. La route est très belle, au fond d’une large vallée entourée de très belles chaines de montagne, alternant forêts et grandes zones humides. Arrivés à **Anchorage**, nous trouvons un bivouac à une dizaine de kilomètres du centre ville sur le parking du magasin Cabela’s, nous ne sommes pas les seuls…   
+Départ du Bivouac, on repasse une dernière fois au parc pour faire le plein et les dumps et pour bénéficier du Wi-Fi pour transférer les photos. Nous en profitons pour prendre nos billets d‘avion pour le retour, départ donc le 20 septembre depuis l’aéroport de San Francisco. Nous prenons le voyage en direction d'Anchorage. La route est très belle, au fond d’une large vallée entourée de très belles chaînes de montagne, alternant forêts et grandes zones humides. Arrivés à **Anchorage**, nous trouvons un bivouac à une dizaine de kilomètres du centre ville sur le parking du magasin Cabela’s, nous ne sommes pas les seuls…   
 
 ## 11 et 12 août  
 
