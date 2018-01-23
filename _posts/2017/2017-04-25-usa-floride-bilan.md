@@ -148,7 +148,7 @@ Pour l'instant peu de chiffres, nous verrons plus tard avec un peu plus de recul
 - En voiture de location    : 1139 Miles - 1833 Km  
 - Avec Thor                 : 1486 Miles - 2391 Km  
 
-* Nuit camping sauvage  : 4
-* Nuit en Camping       : 1
-* Nuit parking          : 13
-* Nuit Hôtel            : 13
+* Nuits camping sauvage  : 4
+* Nuit Camping           : 1
+* Nuits parking          : 13
+* Nuits Hôtel            : 13
