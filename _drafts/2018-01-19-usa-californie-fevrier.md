@@ -24,5 +24,5 @@ mapZoom: 5
 
 Onzième et dernier article de type carnet de route, il couvre la période du 03 au 20 septembre durant laquelle nous avons traversé les États de Washington, de l'Oregon et une partie de la Californie.  
 
-## 03 et 04 septembre  
+## 31 janvier au  février 
 
