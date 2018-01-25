@@ -30,7 +30,7 @@ Les formalités aéroportuaires terminées, notre guide nous prend en compte et 
 
 Notre hôtel, l'**Occidental Miramar** est situé dans un quartier très riche, au milieu d'imposantes bâtisses, témoignage d'une grande puissance et richesse avant la "révolution" et transformées aujourd'hui principalement en ambassades.
 
-Nous trouvons beaucoup de charme à la vieille ville même si les façades sont en piteux état. On peut s'en rendre compte en empruntant le « Malecon » route qui longe le bord de mer. L'absence de politique d'entretien et de rénovation depuis la fin des années 50 est criarde. Toutefois, sous l'impulsion de l'Unesco un gros chantier de restauration est en cours. Ils n'hésitent pas à ne garder que la façade et détruire tout le reste du bâtiment pour partir sur du neuf. La ville abrite une très belle architecture, qu'elle soit militaire, baroque, néoclassique, art nouveau et moins belle, révolutionnaire.  
+Nous trouvons beaucoup de charme à la vieille ville même si les façades sont en piteux état. On peut s'en rendre compte en empruntant le " Malecon " route qui longe le bord de mer. L'absence de politique d'entretien et de rénovation depuis la fin des années 50 est criarde. Toutefois, sous l'impulsion de l'Unesco un gros chantier de restauration est en cours. Ils n'hésitent pas à ne garder que la façade et détruire tout le reste du bâtiment pour partir sur du neuf. La ville abrite une très belle architecture, qu'elle soit militaire, baroque, néoclassique, art nouveau et moins belle, révolutionnaire.  
 
 Bien que notre programme soit bien chargé, nous avons pu prendre un taxi devant l'hôtel le soir pour nous déplacer dans la ville. 
 

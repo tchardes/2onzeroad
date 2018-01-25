@@ -43,10 +43,10 @@ La très belle maison d’Ernest Hemingway a été transformée en musée. On vi
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34041242886/in/photolist-TFNuTj-TFNbbE-TFNezd-TS6Cb5-TVDqTx-TVDja2-TkGztS-TS6VHQ-SDfoU1-TS7gwN-TFNzpd-RVz1vj-RNhFQ2-RNhFMB-RVz1iL-RZaSNg-RVz11S-QKdZKB" title="Key West - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2849/34041242886_d893e247ee_k.jpg" width="2048" height="1365" alt="Key West - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Plusieurs autres musées sont à visiter dont le « Custom House Museum ». Devant l’entrée du bâtiment, se trouve une immense statue d’un marin embrassant une infirmière.  
+Plusieurs autres musées sont à visiter dont le "Custom House Museum". Devant l’entrée du bâtiment, se trouve une immense statue d’un marin embrassant une infirmière.  
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
-    Pour les amoureux de photos, je pense que cette statue a été faite à partir de la photo « Baiser de Times Square » de Alfred Eisenstaed, photos qui a fait polémique plusieurs années après sa publication.  
+    Pour les amoureux de photos, je pense que cette statue a été faite à partir de la photo "Baiser de Times Square" de Alfred Eisenstaed, photos qui a fait polémique plusieurs années après sa publication.  
 </p>   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33239132214/in/datetaken/" title="Key West - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2861/33239132214_33a75c6de8_k.jpg" width="2048" height="1152" alt="Key West - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -77,7 +77,7 @@ Nous avons adoré le style architectural de Key West. C’est un mélange entre 
 
 Nous avons fait une pose au **Sloppy Joe’s Bar** pour écouter quelques morceaux de blues tout en dégustant une vraie limonade et la spécialité d’ici, la Key Lime Pie, une sorte de cheesecake au citron, excellent.   
 
-Certes, c’est une ville très touristique où les bateaux de croisière font escale mais malgré ces nombreuses boutiques de souvenirs, nous y avons trouvé beaucoup de charme, les rues sont d’une extrême propreté. La culture cubaine y est également très présente, boutiques, restaurants sans oublier la fameuse « El Meson de Pepe », à voir.  
+Certes, c’est une ville très touristique où les bateaux de croisière font escale mais malgré ces nombreuses boutiques de souvenirs, nous y avons trouvé beaucoup de charme, les rues sont d’une extrême propreté. La culture cubaine y est également très présente, boutiques, restaurants sans oublier la fameuse " El Meson de Pepe ", à voir.  
 
 
 ### Islamorada
@@ -88,7 +88,7 @@ En repartant vers le Nord, nous nous sommes arrêtés dans un petit port, Robbie
 
 ### Key Largo
 
-Nous avons fait une halte à la marina pour voir le bateau datant de 1912, vedette du film « The African Queen » avec Humphrey Bogart et Katherine Hepburn. Tout petit, il faut vraiment le voir au milieu des Yachts et bateaux de pêche. Arborant fièrement l’Union Jack, le capitaine organise une petit sortie en mer pour quelques personnes, au sifflet de la vieille machine à vapeur qui fonctionne toujours.  
+Nous avons fait une halte à la marina pour voir le bateau datant de 1912, vedette du film " The African Queen " avec Humphrey Bogart et Katherine Hepburn. Tout petit, il faut vraiment le voir au milieu des Yachts et bateaux de pêche. Arborant fièrement l’Union Jack, le capitaine organise une petit sortie en mer pour quelques personnes, au sifflet de la vieille machine à vapeur qui fonctionne toujours.  
  
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33951253761/in/datetaken/" title="African Queen - Key Largo - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2940/33951253761_c3e02e8f57_k.jpg" width="2048" height="1152" alt="African Queen - Key Largo - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

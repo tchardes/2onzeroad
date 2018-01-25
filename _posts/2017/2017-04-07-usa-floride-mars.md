@@ -43,11 +43,11 @@ Notre hôtel "Lafayette Motel" est basique, mais bien placé et ce n’est que p
 
 ### La chasse est ouverte   
 
-Le lendemain, nous partons à la chasse au Camping car. Si vous avez lu les autres articles, vous savez que l’on appelle ça RV ici pour « Recreativ Vehicle ». J'avais sélectionné au préalable quelques concessionnaires de Fort Lauderdale à Tampa. Dès notre arrivée, on constate qu’ils ont très peu de Class C, type de véhicule que nous cherchons et le vendeur tentera malgré tout de nous vendre tout et n’importe quoi. 
+Le lendemain, nous partons à la chasse au Camping car. Si vous avez lu les autres articles, vous savez que l’on appelle ça RV ici pour " Recreativ Vehicle ". J'avais sélectionné au préalable quelques concessionnaires de Fort Lauderdale à Tampa. Dès notre arrivée, on constate qu’ils ont très peu de Class C, type de véhicule que nous cherchons et le vendeur tentera malgré tout de nous vendre tout et n’importe quoi. 
 
 Dimanche 26 mars, nous passons la journée sur Miami. Nous y passerons également le Week-end suivant, vous pouvez consulter la page blog <a href="{{site.baseurl}}{% post_url 2017/2017-04-02-usa-floride-miami %}">ici</a>.  
 
-Lundi 27 mars, nous partons plein Nord en direction Port Sainte Lucie où se trouve un concessionnaire, « La Mesa RV », avec qui j’ai beaucoup communiqué par mail durant ces derniers mois. Au final, c’est là que nous achèterons notre RV que nous baptiserons Thor. Pour toutes les infos c’est <a href="{{site.baseurl}}{% post_url 2017/2017-04-02-usa-floride-thor %}">ici</a>.   
+Lundi 27 mars, nous partons plein Nord en direction Port Sainte Lucie où se trouve un concessionnaire, " La Mesa RV ", avec qui j’ai beaucoup communiqué par mail durant ces derniers mois. Au final, c’est là que nous achèterons notre RV que nous baptiserons Thor. Pour toutes les infos c’est <a href="{{site.baseurl}}{% post_url 2017/2017-04-02-usa-floride-thor %}">ici</a>.   
 
 ### Logistique  
 

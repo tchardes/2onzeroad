@@ -26,7 +26,7 @@ Depuis Fort Lauderdale, nous arrivons directement au sud de Miami par l'Intersta
 
 **L'Art Deco District :**
 
-Ce quartier aux influences Art Deco date de la fin des années 20. Architecture futuriste initiée à Paris en 1925, son style s’est diversifié au gré des cultures. En Floride, il s’agit du style « Tropical Art Deco », qui se caractérise par une multitude de couleurs pastels, héritées d'un programme des années 80 de rénovation. Aucune ville au monde ne regroupe autant de bâtiments de ce style. La ville en a classé plus de 700 dont les plus beaux, transformés principalement en hôtels et commerces, se trouvent sur Ocean Drive et Collins Avenue (South et North Miami Beach).
+Ce quartier aux influences Art Deco date de la fin des années 20. Architecture futuriste initiée à Paris en 1925, son style s’est diversifié au gré des cultures. En Floride, il s’agit du style " Tropical Art Deco ", qui se caractérise par une multitude de couleurs pastels, héritées d'un programme des années 80 de rénovation. Aucune ville au monde ne regroupe autant de bâtiments de ce style. La ville en a classé plus de 700 dont les plus beaux, transformés principalement en hôtels et commerces, se trouvent sur Ocean Drive et Collins Avenue (South et North Miami Beach).
 
 Les principales façades à admirer se trouvent entre la 9th et la 17th Street, une bonne ballade d’au moins deux heures entre front de mer et plage avec ses postes de secouristes caractéristiques des lifeguards. C’est bien évidemment le lieu où se montrer, les terrasses sont pleines et sur la route c’est un défilé de Maserati, Lamborghini, Porsche, Bentley, Harley, vieilles voitures tunées…. Les Mustang et Camaro font figure ici de simples Renault Clio.
 
