@@ -18,7 +18,7 @@ category: "blog"
 location: "24.5538, -81.8013"
 ---
 
-J’ai toujours été très impressionné dans les films comme True Lie ou Licence to kill, par ces kilomètres de ponts qui relient toutes ces îles et îlots. Il fallait que cet archipel, qui finit les États-Unis au Sud-Est en fermant le golfe du Mexique et la Caraïbe, ait une importance hautement stratégique pour y investir autant en milliards de dollars en infrastructures, c’est tout bonnement hallucinant, quand on sait que cela fait 190 kilomètres de long.  
+J’ai toujours été très impressionné dans les films comme "True Lie" ou "Licence to kill", par ces kilomètres de ponts qui relient toutes ces îles et îlots. Il fallait que cet archipel, qui finit les États-Unis au Sud-Est en fermant le golfe du Mexique et la Caraïbe, ait une importance hautement stratégique pour y investir autant en milliards de dollars en infrastructures, c’est tout bonnement hallucinant, quand on sait que cela fait 190 kilomètres de long.  
 
 En partant de Homestead au Sud de Miami par la US1, nous sommes assez vite sur les premiers ponts qui relient le continent à Key Largo, la première grande île. C’est samedi et rapidement nous roulons au pas. On se dit que ce n’était peut-être pas le bon jour pour cette destination très prisée. On mettra plus de 4 heures pour arriver jusqu’à la sortie de Key Largo, au final en raison d’un grave accident de la circulation routière. On commence un peu à s’inquiéter pour le bivouac du soir car tout est privé et il existe très peu d’accès vers la mer.   
 
@@ -28,7 +28,7 @@ La route est magnifique, **"l’Overseas Highway"** est une succession de ponts 
 
 On roule plein Sud et à une cinquantaine de kilomètres avant Key West, juste après un pont, on trouve un chemin en contre-bas, assez caché de la route principale qui sera parfait pour notre bivouac du soir. Au final nous y reviendrons 3 nuits, sans y être dérangés.  
 
-On passe notre dimanche dans un State Park « Honda Bahia » d’où l’on peut « admirer » un ancien pont très endommagé par le temps et une belle plage avec toutes les commodités des States Park. Un bon WiFi couvre le parking, ce qui nous permet de contacter la famille par Skype, relever notre courrier et mettre le site à jour. L’entrée de ce parc coûte 10 $ pour le véhicule et nous deux.  
+On passe notre dimanche dans un State Park "Honda Bahia" d’où l’on peut "admirer" un ancien pont très endommagé par le temps et une belle plage avec toutes les commodités des States Park. Un bon WiFi couvre le parking, ce qui nous permet de contacter la famille par Skype, relever notre courrier et mettre le site à jour. L’entrée de ce parc coûte 10 $ pour le véhicule et nous deux.  
 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33924853012/in/datetaken/" title="Bahia Honda SP - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2860/33924853012_90122b3ceb_k.jpg" width="2048" height="1365" alt="Bahia Honda SP - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -39,7 +39,7 @@ Si l’on regarde notre guide, Key West est à voir mais bon... sans plus. En de
 
 #### Musées
 
-La très belle maison d’Ernest Hemingway a été transformée en musée. On visite toutes les pièces qui conservent encore son mobilier d'origine, le tout agrémenté de souvenirs et objets personnels. Il y a beaucoup de photos de lui, notamment en France pendant la deuxième guerre mondiale qu’il a couverte en tant que correspondant de guerre et par la suite pour y avoir vécu. Cette maison abrite une soixantaine de chats dont la particularité génétique est d’avoir six griffes. On les appelle « Polydactyl » ou « Hemingway cat ».  
+La très belle maison d’Ernest Hemingway a été transformée en musée. On visite toutes les pièces qui conservent encore son mobilier d'origine, le tout agrémenté de souvenirs et objets personnels. Il y a beaucoup de photos de lui, notamment en France durant la deuxième guerre mondiale qu’il a couverte en tant que correspondant de guerre et par la suite pour y avoir vécu. Cette maison abrite une soixantaine de chats dont la particularité génétique est d’avoir six griffes. On les appelle "Polydactyl" ou "Hemingway cat".  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34041242886/in/photolist-TFNuTj-TFNbbE-TFNezd-TS6Cb5-TVDqTx-TVDja2-TkGztS-TS6VHQ-SDfoU1-TS7gwN-TFNzpd-RVz1vj-RNhFQ2-RNhFMB-RVz1iL-RZaSNg-RVz11S-QKdZKB" title="Key West - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2849/34041242886_d893e247ee_k.jpg" width="2048" height="1365" alt="Key West - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
