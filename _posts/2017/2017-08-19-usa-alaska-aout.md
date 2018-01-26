@@ -159,7 +159,7 @@ Départ du bivouac et arrêt à Tok pour faire le plein. On profite du Wi-Fi pou
 
 ## 17 août  
 
-Départ du bivouac et encore beaucoup de travaux sur la route. Des camions citerne passent pour mouiller la piste, nous avons donc toujours de la poussière mais aussi de la boue, heureusement que Thor est couleur sable… Le paysage est toujours splendide, on longe le **Kluane National Park and Reserve** et sa chaîne de montagne. Entre elles et nous, d’immenses forêts ou zones humides, les grands espaces à l’état pur. La navigatrice nous trouve un super coin pour déjeuner au bord du lac Kluane.   
+Départ du bivouac et encore beaucoup de travaux sur la route. Des camions-citernes passent pour mouiller la piste, nous avons donc toujours de la poussière mais aussi de la boue, heureusement que Thor est couleur sable… Le paysage est toujours splendide, on longe le **Kluane National Park and Reserve** et sa chaîne de montagne. Entre elles et nous, d’immenses forêts ou zones humides, les grands espaces à l’état pur. La navigatrice nous trouve un super coin pour déjeuner au bord du lac Kluane.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36586184381/in/datetaken/" title="Kluane Lake - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4372/36586184381_45163247cf_k.jpg" width="2048" height="466" alt="Kluane Lake - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
