@@ -22,7 +22,7 @@ mapZoom: 5
 
 ---
 
-Neuvième article de type carnet de route, il couvre la période du 02 au 19 août durant laquelle nous avons traversé l'Alaska avec quelques incursions au Canada, Yukon et Colombie Britannique, une partie de l'Alaska n'étant accessible que par le Canada ou par bateau. Cet état, le 49ème, est le plus grand et le moins peuplé des USA, grand comme trois fois la France, il ne compte que 732 000 Hbts.  
+Neuvième article de type carnet de route, il couvre la période du 02 au 19 août durant laquelle nous avons traversé l'Alaska avec quelques incursions au Canada, Yukon et Colombie Britannique, la partie Sud de l'Alaska n'étant accessible que par le Canada ou par bateau. Cet état, le 49ème, est le plus grand et le moins peuplé des USA, grand comme trois fois la France, il ne compte que 732 000 Hbts.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35635227864/in/datetaken/" title="Alaska - [USA]"><img src="https://farm5.staticflickr.com/4408/35635227864_b3cce169eb_k.jpg" width="2048" height="1152" alt="Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
