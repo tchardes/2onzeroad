@@ -32,7 +32,7 @@ Nous passons l’après-midi avec Todd à contacter une assurance, condition pre
 
 Les papiers de réservation signés, nous prenons contact avec notre banquier, le mercredi en raison du décalage horaire, pour valider le virement de banque à banque, ce qui a pris environ 4 jours.  
 
-Lundi 3 avril, de retour de Miami, nous nous arrêtons chez La Mesa RV. Todd nous confirme que l’argent est bien sur leur compte et nous donne rendez-vous jeudi à 14h30 pour 4 heures de cours intensif sur le fonctionnement du RV et finaliser le dossier pour partir avec, le soir même.  
+Lundi 3 avril, de retour de Miami, nous nous arrêtons chez La Mesa RV. Todd nous confirme que l’argent est bien sûr leur compte et nous donne rendez-vous jeudi à 14h30 pour 4 heures de cours intensif sur le fonctionnement du RV et finaliser le dossier pour partir avec, le soir même.  
 
 Arrivés un peu en avance, on traîne dans le magasin pour choisir les articles à acheter avec le coupon de 100 $ que l’on avait négocié. On rencontre ainsi un couple de canadiens, des "snowbirds" comme on les appelle ici. Ce sont les retraités qui fuient le froid du Québec et viennent passer l’hiver au soleil. On passe un long moment à discuter sur les choses à faire en Floride puis il me parle de politique et des élections qui se préparent en France. Il était au courant de tout, Macron, les affaires Fillon et Le Pen , je suis resté un peu sur le cul, étant bien incapable de sortir le moindre nom d’homme politique canadien ou même québécois.  
 
