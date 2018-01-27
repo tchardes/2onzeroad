@@ -148,7 +148,7 @@ La nuit suivante au bord de la route à Gardiner avec une dizaine d'autres RV ca
 
 ## 14 juillet  
 
-Route de Bozeman à Polson. Corinne a conduit une centaine de miles et commence à bien maîtriser Thor. Nous sortons de la route pour visiter Missoula mais, rien de bien terrible dans cette bourgade. Arrivés à Polson en pleine réserve Indienne des Flat Heads (Têtes plates), nous nous posons pour la nuit. Nous faisons nos courses au Walmart et remarquons de nombreux "indiens", les firsts nation, et c'est vrai qu'ils ont la face assez plate, entre Inuits et Mongoles.  
+Route de Bozeman à Polson. Corinne a conduit une centaine de miles et commence à bien maîtriser Thor. Nous sortons de la route pour visiter Missoula mais, rien de bien terrible dans cette bourgade. Arrivés à Polson en pleine réserve Indienne des Flat Heads (Têtes plates), nous nous posons pour la nuit. Nous faisons nos courses au Walmart et remarquons de nombreux "indiens", les First Nations, et c'est vrai qu'ils ont la face assez plate, entre Inuits et Mongoles.  
 
 ## 15 au 18 juillet  
 
