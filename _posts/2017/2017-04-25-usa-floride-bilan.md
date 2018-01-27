@@ -28,7 +28,7 @@ Voilà nos premières impressions sur la Floride et de facto sur les USA. Ce n'e
 
 ### Changement d'échelle  
 
-On se croirait être Gulliver arrivant à Brobdingrag. Tout est plus grand, tout est au format XXL, les routes, les bâtiments, les magasins, les conditionnements des produits et un peu les américains aussi. En caricaturant, ils sont soit très sportifs et bien taillés, soit en surpoids. Concernant les véhicules, un peu de tout les modèles, mais ils affectionnent quand même beaucoup les pick-up avec des cylindrés et des pots d'échappement hors normes. Quand un vous double, on commence à sentir les vibrations puis le bruit sourd bien grave et enfin le véhicule. On en arrive à se demander si on n'est pas en train de se faire doubler par un croiseur interstellaire de l'empire....   
+On se croirait être Gulliver arrivant à Brobdingrag. Tout est plus grand, tout est au format XXL, les routes, les bâtiments, les magasins, les conditionnements des produits et un peu les américains aussi. En caricaturant, ils sont soit très sportifs et bien taillés, soit en surpoids. Concernant les véhicules, un peu de tout les modèles, mais ils affectionnent quand même beaucoup les pick-up avec des cylindrés et des pots d'échappement hors normes. Quand un vous double, on commence à sentir les vibrations puis le bruit sourd bien grave et enfin le véhicule. On en arrive à se demander si on n'est pas en train de se faire doubler par un croiseur interstellaire de l'empire...   
 
 ### Les Américains   
 
@@ -44,7 +44,7 @@ Nous avons également souvent longé d'immenses résidences privées, véritable
 
 On ne parle même pas des quartiers huppés que nous avons pu voir à Miami, Venice, Napples... Ici, on montre son argent, souvent dans la démesure, c'est normal.
 
-Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter sur les casquettes, tee-shirt.... De nombreuses maisons ont carrément un mât des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau. Certains véhicules, souvent des Pick-up, ont un immense drapeau , voire deux avec celui de l'état ou sudiste, accroché, planté à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
+Il n'y a pas de doute, on ne peut pas oublier que nous sommes aux USA vu les milliers de bannières étoilées qui flottent un peu partout, sans compter sur les casquettes, tee-shirt... De nombreuses maisons ont carrément un mât des couleurs dans le jardin. Les grandes enseignes rivalisent à celles qui aura le plus grand drapeau. Certains véhicules, souvent des Pick-up, ont un immense drapeau , voire deux avec celui de l'état ou sudiste, accroché, planté à l'arrière, c'est limite dangereux. La fierté d'être américain est une valeur nationale incontestable. 
 
 Des églises de partout, parfois les unes à côté des autres, toujours très bien entretenues, des vieilles comme des modernes, bref chacun doit trouver sa paroisse qu'elle soit, Méthodiste, Luthérienne, Pentecôtiste, Épiscopalienne, Presbytérienne, Unitarienne, Congrégationniste, Évangélique, Adventiste, Baptiste... . Une grande majorité (50%) des chrétiens sont protestants. Nous avons remarqué que les églises Épiscopales ont souvent une grande croix devant l'entrée sur laquelle est enroulé, toujours de la même façon, un linge blanc. Je n'en connais pas la signification.
 
