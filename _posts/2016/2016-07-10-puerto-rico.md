@@ -22,7 +22,7 @@ mapZoom: 9
 
 **Puerto Rico** ou **Porto Rico**, selon que l'on soit portoricain hispanophone ou anglophone, cela traduit toute la complexité de la plus petite île des grandes Antilles dans les Caraïbes composées de Cuba, La Jamaïque et Hispaniola (Haïti et la République dominicaine).
 
-### Maria ....
+### Maria...
 
 Immanquablement, l'évocation de Puerto Rico me fait penser à la comédie musicale West Side Story (oui je sais ça date ...) et l'opposition entre les *Sharks* et les *Jets* dans un New York du milieu des années 50. Près de 80 ans plus tard, cette île, territoire non incorporé des États-Unis au statut d'État libre associé, est toujours tiraillée entre vouloir obtenir son indépendance ou devenir le 51éme état des États-Unis. C'est ce qui lui donne tout son charme, une île historiquement et profondément latine vivant à l'américaine où tous les drapeaux sont systématiquement binômés. Les drapeaux, cubain et puertoricain, sont très ressemblants, les couleurs  rouge et le bleu ont simplement été inversées.
 
