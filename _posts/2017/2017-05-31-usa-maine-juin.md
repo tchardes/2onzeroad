@@ -54,7 +54,7 @@ Nous quittons le New Jersey et nous sommes bien obligés de traverser New York p
 
 ## 24 au 26 mai
 
-Matinée un peu pluvieuse puis le soleil est apparu en fin de journée. Nous passons par **Newport**, très jolie petite ville côtière. Nous faisons une belle balade autour du Fort Adams où nous avons mangé puis nous nous sommes promenés dans la vieille ville connue pour abriter de somptueux manoirs datant du début du XIXéme siècle, le long de la route Bellevue, dont celui qui a été utilisé dans le film "Gasby le Magnifique" avec Di Caprio. Peu sont réellement visibles, souvent cachés par une abondante végétation, voir carrément au fond d'un parc. Toutefois, la visite est très agréable.
+Matinée un peu pluvieuse puis le soleil est apparu en fin de journée. Nous passons par **Newport**, très jolie petite ville côtière. Nous faisons une belle balade autour du Fort Adams où nous avons mangé puis nous nous sommes promenés dans la vieille ville connue pour abriter de somptueux manoirs datant du début du XIXème siècle, le long de la route Bellevue, dont celui qui a été utilisé dans le film "Gasby le Magnifique" avec Di Caprio. Peu sont réellement visibles, souvent cachés par une abondante végétation, voir carrément au fond d'un parc. Toutefois, la visite est très agréable.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35185426675/in/datetaken/" title="Newport - Massachusetts - [USA]"><img src="https://c1.staticflickr.com/5/4240/35185426675_19f294665e_k.jpg" width="2048" height="1152" alt="Newport - Massachusetts - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
