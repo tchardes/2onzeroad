@@ -18,7 +18,7 @@ category: "roadmap"
 flickr-text: "Québec"
 location: "45.761127, -75.407235"
 itinary: "2017/canada2.json"
-mapZoom: 5
+mapZoom: 4
 
 ---
 
