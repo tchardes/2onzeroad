@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Vancouver Island"
-preview:    "Située sur la côte Pacifique du Canada, l'île de Vancouver longue de 460 Kms abrite la capitale de la Colombie Britannique... "
+preview:    "Située sur la côte Pacifique du Canada, l'île de Vancouver longue de 460 Km abrite la capitale de la Colombie Britannique... "
 parent-id:  2017-09-03-canada-aout
 
 date:       2017-09-03 12:00:00
@@ -19,7 +19,7 @@ location: "48.945742, -124.601703"
 
 ---
 
-Située sur la côte Pacifique du Canada, l'île de Vancouver longue de 460 Kms abrite la capitale de la province de la Colombie Britannique, Victoria. On y accède soit par avion soit par bateau. Plusieurs ports du continent desservent l'île via la compagnie BC Ferries (www.bcferries.com). Nous avons réservé les billets à l'avance sur Internet et avons opté pour un aller Tsawwassen / Swartz Bay et un retour Nanaimo / Horseshoe Bay afin de ne pas passer deux fois par la même "route" et de profiter d'une journée de plus sur Vancouver City, lors de notre retour. Il est également possible de prendre le bateau à Victoria afin de rejoindre directement les USA à Port Angeles, évitant ainsi Seattle.   
+Située sur la côte Pacifique du Canada, l'île de Vancouver longue de 460 Km abrite la capitale de la province de la Colombie Britannique, Victoria. On y accède soit par avion soit par bateau. Plusieurs ports du continent desservent l'île via la compagnie BC Ferries (www.bcferries.com). Nous avons réservé les billets à l'avance sur Internet et avons opté pour un aller Tsawwassen / Swartz Bay et un retour Nanaimo / Horseshoe Bay afin de ne pas passer deux fois par la même "route" et de profiter d'une journée de plus sur Vancouver City, lors de notre retour. Il est également possible de prendre le bateau à Victoria afin de rejoindre directement les USA à Port Angeles, évitant ainsi Seattle.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36558984874/in/datetaken/" title="Salish Sea - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4506/36558984874_4bb0c15915_k.jpg" width="2048" height="1152" alt="Salish Sea - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 Le 30 août, nous embarquons sur le "Queen of New Westminster". La traversée de la mer de Salish dure une heure et demie, le bateau se faufile entre de nombreuses îles et emprunte un canal assez étroit entre les îles de Galiano et Mayne, qui abritent de très belles maisons et de nombreux phares, avant d'arriver sur l'île de Vancouver.  
@@ -40,7 +40,7 @@ Nous quittons la ville par la scenic drive qui longe la mer vers l’Est. Nous t
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36558031214/in/datetaken/" title="Victoria - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4457/36558031214_7ae5b366af_k.jpg" width="2048" height="1152" alt="Victoria - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Le lendemain, nous montons vers la ville portuaire de Nanaimo. En route, nous nous arrêtons au Cabble Hill Mountain pour faire un trail (3kms +300 mètres) qui mène au sommet d'une colline et permet d'avoir une superbe vue vers l'Est et ses nombreuses îles au large.  
+Le lendemain, nous montons vers la ville portuaire de Nanaimo. En route, nous nous arrêtons au Cabble Hill Mountain pour faire un trail (3 km +300 mètres) qui mène au sommet d'une colline et permet d'avoir une superbe vue vers l'Est et ses nombreuses îles au large.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37410321785/in/datetaken/" title="Cobble Hill - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4363/37410321785_cd0beb52c8_k.jpg" width="2048" height="1152" alt="Cobble Hill - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 Après déjeuner, nous reprenons la route et faisons un stop à Duncan, petite bourgade avec de nombreux totems qui peuvent être observés en suivant un parcours pédestre aménagé. Puis route jusqu’à Nanaimo où nous faisons le tour du centre ville et de la marina à pied. Rien d’extraordinaire. Nous reprenons la route et traversons l'île en direction de la côte Ouest vers Tofino.   
@@ -48,7 +48,7 @@ Après déjeuner, nous reprenons la route et faisons un stop à Duncan, petite b
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36557917714/in/datetaken/" title="Duncan - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4377/36557917714_3f206f5ade_k.jpg" width="2048" height="1152" alt="Duncan - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <p id="ucluelet"> 
-Le 01 septembre, nous nous arrêtons au Pacific Rim Visitor Centre pour récupérer de la documentation et commençons par le sud et la péninsule à Ucluelet. Nous faisons le trail <b>Wild Pacific Trail</b> (3 kms) superbe boucle qui longe la côte à travers une forêt de cèdres centenaires. La côte est très découpée avec un grand nombre d'îlots, lieu de naufrages de voiliers. Deux bouées ainsi qu'un phare "Amphitrite Point Lighthouse" signalent les dangers de la côte aux marins, la première bouée est équipée d’une cloche tandis que la deuxième d’un genre de corne de brume, activée par le mouvement perpétuel des vagues, donnant ainsi aux lieux une ambiance très mélancolique.   
+Le 01 septembre, nous nous arrêtons au Pacific Rim Visitor Centre pour récupérer de la documentation et commençons par le sud et la péninsule à Ucluelet. Nous faisons le trail <b>Wild Pacific Trail</b> (3 km) superbe boucle qui longe la côte à travers une forêt de cèdres centenaires. La côte est très découpée avec un grand nombre d'îlots, lieu de naufrages de voiliers. Deux bouées ainsi qu'un phare "Amphitrite Point Lighthouse" signalent les dangers de la côte aux marins, la première bouée est équipée d’une cloche tandis que la deuxième d’un genre de corne de brume, activée par le mouvement perpétuel des vagues, donnant ainsi aux lieux une ambiance très mélancolique.   
 </p> 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37238416412/in/datetaken/" title="Ucluelet - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4368/37238416412_c70658a22e_k.jpg" width="2048" height="1152" alt="Ucluelet - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
@@ -61,11 +61,11 @@ En repartant vers le Nord, nous nous arrêtons faire le **Nuu-Chah-Nulth Trail**
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36597381023/in/datetaken/" title="Ucluelet - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4352/36597381023_09f048f705_k.jpg" width="2048" height="1152" alt="Ucluelet - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous passons la ligne du 49ème parallèle et finissons la journée en promenant sur le **Rainforest Trail**, deux boucles de part et d'autre de la route de 1 Km de long qui serpentent entre les immenses arbres d’une forêt humide sur des passerelles et escaliers en bois, parfois un peu bancals. Le 02 septembre, il fait encore très beau et nous partons pour le **Schooner Cove Trail** (2 kms, +90 mètres) très beau sentier entièrement sur pilotis avec de grands escaliers qui serpentent entre les arbres pour arriver sur une immense plage déserte à cette heure là, c’est magnifique.  
+Nous passons la ligne du 49ème parallèle et finissons la journée en promenant sur le **Rainforest Trail**, deux boucles de part et d'autre de la route de 1 Km de long qui serpentent entre les immenses arbres d’une forêt humide sur des passerelles et escaliers en bois, parfois un peu bancals. Le 02 septembre, il fait encore très beau et nous partons pour le **Schooner Cove Trail** (2 km, +90 mètres) très beau sentier entièrement sur pilotis avec de grands escaliers qui serpentent entre les arbres pour arriver sur une immense plage déserte à cette heure là, c’est magnifique.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37266600291/in/datetaken/" title="Tofino - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4364/37266600291_f90540b143_k.jpg" width="2048" height="1152" alt="Tofino - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous partons ensuite plein Nord, tout au bout de la presqu’île pour faire le trail **Tonquin Trail**, une boucle de 2,6 Kms qui mène à une petite plage et un très beau point de vue.  
+Nous partons ensuite plein Nord, tout au bout de la presqu’île pour faire le trail **Tonquin Trail**, une boucle de 2,6 Km qui mène à une petite plage et un très beau point de vue.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37219790336/in/datetaken/" title="Tofino - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4429/37219790336_a61b8760c7_k.jpg" width="2048" height="1152" alt="Tofino - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

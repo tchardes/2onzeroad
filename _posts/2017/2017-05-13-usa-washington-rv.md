@@ -63,7 +63,7 @@ Pour rejoindre le métro :
 
 * Une fois à la station de votre choix, il faut acheter sa place à un distributeur (cash ou CB). Elle vous donne en fait une carte de débit que vous alimentez de la somme que vous voulez et qui vous permet de payer vos trajets. Cette carte vous servira également par la suite à payer le bus. Il y a des tarifs heures de pointe et heures creuses qui sont indiquées sur le distributeur. Il propose également un pass journalier de 14$.
 
-Pour le retour, il est préférable de sortir à "College Park-U of MD station" et soit rentrer à pied (3 kms), soit prendre le bus R12 dans le sens "Greenbelt station" et non "Deanwood station" (sinon vous êtes partis pour 1h00 de bus, on l'a fait !!) et descendez au premier arrêt qui est celui de la solution 1. 
+Pour le retour, il est préférable de sortir à "College Park-U of MD station" et soit rentrer à pied (3 km), soit prendre le bus R12 dans le sens "Greenbelt station" et non "Deanwood station" (sinon vous êtes partis pour 1h00 de bus, on l'a fait !!) et descendez au premier arrêt qui est celui de la solution 1. 
 
 Un petit dessin valant mieux qu'un long discours :
 

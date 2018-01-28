@@ -65,7 +65,7 @@ La photo devant la borne est un passage obligé pour qui va à Key West. Souther
 
 #### Fin de la route
 
-Key West est également la fin de la US 1 Highway South et du coup, le point de départ au mile O de la US 1 Highway North. Cette route monte jusqu’à Fort Kent dans le Maine sur une distance de 3813 Kms.
+Key West est également la fin de la US 1 Highway South et du coup, le point de départ au mile O de la US 1 Highway North. Cette route monte jusqu’à Fort Kent dans le Maine sur une distance de 3813 Km.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33951454481/in/datetaken/" title="Key West - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2924/33951454481_0f8aa8a031_k.jpg" width="2048" height="1152" alt="Key West - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

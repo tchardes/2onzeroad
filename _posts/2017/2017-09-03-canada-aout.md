@@ -24,7 +24,7 @@ Dixième article de type carnet de route, il couvre la période du 19 août au 0
 
 ## 19 août     
 
-Nous passons la frontière canadienne à Fraser en Colombie Britannique, à 12 Kms du poste US. Quelques questions habituelles et nous pouvons continuer notre route. Arrêt dans un premier temps au **Yukon Suspension Bridge**, passerelle assez longue qui traverse la rivière Klondike (15$CA/Pers.) puis passage dans le territoire du Yukon et arrêt à la jolie bourgade de **Carcross** qui a rénové son centre avec de nombreuses boutiques implantées autour du visitor center, le tout aux couleurs des First Nations et où trône en son centre un grand mât totémique.    
+Nous passons la frontière canadienne à Fraser en Colombie Britannique, à 12 Km du poste US. Quelques questions habituelles et nous pouvons continuer notre route. Arrêt dans un premier temps au **Yukon Suspension Bridge**, passerelle assez longue qui traverse la rivière Klondike (15$CA/Pers.) puis passage dans le territoire du Yukon et arrêt à la jolie bourgade de **Carcross** qui a rénové son centre avec de nombreuses boutiques implantées autour du visitor center, le tout aux couleurs des First Nations et où trône en son centre un grand mât totémique.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36552595312/in/datetaken/" title="Carcross - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4435/36552595312_7e6ce2205d_k.jpg" width="2048" height="1152" alt="Carcross - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -128,7 +128,7 @@ Nous déjeunons dans un très bon restaurant le **Flying Pig** et je vais chez u
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37268944731/in/datetaken/" title="Vancouver City - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4375/37268944731_a636eedde3_k.jpg" width="2048" height="1152" alt="Vancouver City - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-De retour à Thor, nous faisons les courses au Walmart et partons vers le port de Tsawwassen distant de 40 Kms pour s’avancer pour le lendemain.  
+De retour à Thor, nous faisons les courses au Walmart et partons vers le port de Tsawwassen distant de 40 Km pour s’avancer pour le lendemain.  
 
 ## 30 août  
 

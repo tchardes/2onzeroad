@@ -32,7 +32,7 @@ Bon… à moins d'être géologue ou spéléologue, les sites présentent peu d'
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36706081793/in/datetaken/" title="Lava Beds - Californie - [USA]"><img src="https://farm5.staticflickr.com/4355/36706081793_094630a24e_k.jpg" width="2048" height="1152" alt="Lava Beds - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
-Nous revenons un peu sur nos pas pour faire le **Big Nasty Trail** (3,4 Kms), une boucle très agréable qui démarre le long de la caldeira du "Mammoth crater" puis sillonne une plaine au milieu de pics de lave solidifiés et végétation avant de revenir sur le volcan.    
+Nous revenons un peu sur nos pas pour faire le **Big Nasty Trail** (3,4 Km), une boucle très agréable qui démarre le long de la caldeira du "Mammoth crater" puis sillonne une plaine au milieu de pics de lave solidifiés et végétation avant de revenir sur le volcan.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37345829592/in/datetaken/" title="Lava Beds - Californie - [USA]"><img src="https://farm5.staticflickr.com/4368/37345829592_e22b713cd9_k.jpg" width="2048" height="1152" alt="Lava Beds - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
   
