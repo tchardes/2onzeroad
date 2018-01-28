@@ -86,7 +86,7 @@ Ce sont les photos du site vendeur, plus parlantes sans toutes nos affaires.
 
 ### Cérémonie du fanion et baptême :  
 
-Nous avons organisé, en toute simplicité, une cérémonie non protocolaire de plantage de fanion sur l'antenne de notre nouveau territoire. Il est quand même important d’indiquer qu’ici, afin du moins à l’intérieur… c’est la France !!!! Cette "carte de visite" permettra peut-être à des français en exil ou en vacances ou bien à des autochtones de venir au contact et bavarder un peu.  
+Nous avons organisé, en toute simplicité, une cérémonie non protocolaire de plantage de fanion sur l'antenne de notre nouveau territoire. Il est quand même important d’indiquer qu’ici, afin du moins à l’intérieur… c’est la France !!!! Cette "carte de visite" permettra peut-être à des Français en exil ou en vacances ou bien à des autochtones de venir au contact et bavarder un peu.  
 
 Comme il est de coutume, dans le monde des voyageurs, de donner un nom à leur camping car, nous n’allons pas déroger à la règle et Corinne a choisi le nom de " THOR " s’il lui faut un prénom ce sera Hervé (RV - Recreativ Vehicle) espérons qu’il ne nous rende pas complètement marteau.  
 
