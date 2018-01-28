@@ -18,7 +18,7 @@ category: "blog"
 location: "41.873139, -87.620446"
 ---
 
-Nous arrivons à Chicago, troisième ville des USA, par le sud en longeant l'immense Lac Michigan. Après avoir stationné Thor, nous cherchons notre chemin pour arriver jusqu'à la station de métro. Pour cela, nous devons traverser un immense complexe, le "McCormick Place" (Hôtel, salles de conférences, restaurants ...). Arrivés au métro, nous prenons un pass de 7 jours pour le prix de 28$/Pers. valable sur tous les transports. Il s'agit d'un vieux métro aérien qui sillonne la ville entre les buildings. Des vieilles stations, sous le soleil, émane des odeurs de goudron chaud provenant de toutes les traverses encore en bois.  
+Nous arrivons à Chicago, troisième ville des USA, par le sud en longeant l'immense Lac Michigan. Après avoir stationné Thor, nous cherchons notre chemin pour arriver jusqu'à la station de métro. Pour cela, nous devons traverser un immense complexe, le "McCormick Place" (Hôtel, salles de conférences, restaurants ...). Arrivés au métro, nous prenons un pass de 7 jours pour le prix de 28$/Pers. valable sur tous les transports. Il s'agit d'un vieux métro aérien qui sillonne la ville entre les buildings. Sous le soleil, des odeurs de goudron chaud émanent des traverses encore en bois de ces vieilles stations.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35866717572/in/datetaken/" title="Chicago - Illinois - [USA]"><img src="https://farm5.staticflickr.com/4294/35866717572_fa1017011f_k.jpg" width="2048" height="1365" alt="Chicago - Illinois - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
