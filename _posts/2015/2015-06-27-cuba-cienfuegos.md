@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Cienfuegos, la perle du sud"
+title:      "Cienfuegos, la perle du Sud"
 preview:    "Nous quittons la Havane en direction du Sud-Est par par l'Autopista A1 en direction de..."
 parent-id:  2015-07-03-cuba
 
@@ -42,7 +42,7 @@ Roulant en direction de Cienfuegos, nous remarquons au bord de la route, tout du
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/18797201814/in/album-72157653125169544/" title="Séchage du riz - [Cuba]"><img src="https://c7.staticflickr.com/1/476/18797201814_1ecd4c7621_b.jpg" width="1024" height="683" alt="Séchage du riz - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-### Cienfuegos... la perle du sud !!!
+### Cienfuegos... la perle du Sud !!!
 
 Avant de poser nos valises à l'hôtel **"Jagua"** nous passons par le centre ville historique, classé site du patrimoine mondial en 2005, une petite halte sur la plaza de Armas permet de découvrir un ensemble d’édifices qui offrent un très bon témoignage de l’architecture néocoloniale. L'hôtel est très correct avec une belle piscine. Situé le long de la magnifique Punta Gorda, il fait face à l'immense Baie de Cienfuegos qui est presque une mer intérieure. A côté se trouve le **Palacio de Valle**, une magnifique bâtisse du XXᵉ siècle, style mauresque, roman, gothique et vénitien, rien que ça. Transformé en hôtel restaurant nous y mangerons le soir, dans un décor très dépaysant.
 

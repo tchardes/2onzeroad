@@ -80,7 +80,7 @@ Nous arrivons à **Port Angeles** où nous nous posons dans un Walmart après av
 
 ## 06 septembre  
 
-Nous nous arrêtons au visitor center du **Olympic National Park** qui se situe dans la ville de Port Angeles avant de s'engager sur la **Hurricane Ridge road**. Arrivés au sommet, l’ensemble du parc est noyé sous une épaisse fumée provenant des nombreux feux de forêt dans la région. Nous restons là toute la journée dans l'espoir que le soleil perce et je profite des commodités du lieu pour traiter les photos. Finalement, les Park Rangers nous expliquent que les feux ne sont pas prêts d'être circoncis et que, de toute façon, les prochains jours seront très pluvieux. Nous décidons donc de quitter la zone et descendre vers le sud.  
+Nous nous arrêtons au visitor center du **Olympic National Park** qui se situe dans la ville de Port Angeles avant de s'engager sur la **Hurricane Ridge road**. Arrivés au sommet, l’ensemble du parc est noyé sous une épaisse fumée provenant des nombreux feux de forêt dans la région. Nous restons là toute la journée dans l'espoir que le soleil perce et je profite des commodités du lieu pour traiter les photos. Finalement, les Park Rangers nous expliquent que les feux ne sont pas prêts d'être circoncis et que, de toute façon, les prochains jours seront très pluvieux. Nous décidons donc de quitter la zone et descendre vers le Sud.  
 
 ## 07 septembre  
 
@@ -88,7 +88,7 @@ Le temps est encore couvert mais il ne pleut pas. On traîne au walmart et je m�
 
 ## 08 septembre   
 
-Ce matin, le temps est toujours maussade. Après le plein, on décide d’emprunter la scenic drive, **Historic Columbia River Hwy** qui permet de voir plus de 90 cascades, dont certaines très belles. Arrivés à quelques centaines de mètres de la première, on nous arrête sur la route pour nous dire qu’en raison d’incendies de forêt, la route est fermée pour une durée indéterminée. Il est vrai que nous avons remarqué, depuis notre arrivée aux USA qu'il fait très chaud et que la nature est très sèche. Une nouvelle fois, nous décidons de poursuivre notre route vers le sud, en espérant qu’il n’y ait pas de nouveaux feux. Si cela continue, on va se retrouver rapidement au Mexique…   
+Ce matin, le temps est toujours maussade. Après le plein, on décide d’emprunter la scenic drive, **Historic Columbia River Hwy** qui permet de voir plus de 90 cascades, dont certaines très belles. Arrivés à quelques centaines de mètres de la première, on nous arrête sur la route pour nous dire qu’en raison d’incendies de forêt, la route est fermée pour une durée indéterminée. Il est vrai que nous avons remarqué, depuis notre arrivée aux USA qu'il fait très chaud et que la nature est très sèche. Une nouvelle fois, nous décidons de poursuivre notre route vers le Sud, en espérant qu’il n’y ait pas de nouveaux feux. Si cela continue, on va se retrouver rapidement au Mexique…   
 
 Journée pluvieuse, journée musée. On s’arrête à McMinnville pour visiter le **Evergreen Aviation & Space Museum** (27$/Pers.). Ce musée est vraiment magnifique et se répartit dans 4 grands bâtiments, un pour l’aviation, un pour l’espace, le troisième qui abrite un cinéma Imax et le dernier, un parc aquatique. Sur son toit, il y a un Boeing 747 depuis lequel partent des toboggans.  
 

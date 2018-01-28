@@ -27,7 +27,7 @@ Voilà notre deuxième et dernier article de type carnet de route (couleur rouge
 
 ### 07 avril 2017  
 
-Après avoir déposé notre voiture de location, nous repartons vers le Sud par l’US 1 Highway. Il est déjà tard et nous décidons de nous poser sur le parking d’un Walmart du quartier nord de Miami. Aucun autre RV n’est stationné, je demande à un ramasseur de chariots si nous pouvons rester là pour la nuit et il acquiesce. Je fais un petit tour de sécurité dans le coin et en dehors de quelques homeless, ça à l’air calme.  
+Après avoir déposé notre voiture de location, nous repartons vers le Sud par l’US 1 Highway. Il est déjà tard et nous décidons de nous poser sur le parking d’un Walmart du quartier Nord de Miami. Aucun autre RV n’est stationné, je demande à un ramasseur de chariots si nous pouvons rester là pour la nuit et il acquiesce. Je fais un petit tour de sécurité dans le coin et en dehors de quelques homeless, ça à l’air calme.  
 
 ### 08 au 11 avril  
 
@@ -94,7 +94,7 @@ Nous arrivons à Daytona, la ville de la voiture de course (NASCAR) mais aussi d
 
 ### 23 avril  
 
-Poursuivant vers le nord, nous faisons halte à St Augustine. Son port particulièrement protégé est situé non loin du gulf stream, ce courant utilisé par les bateaux espagnols au XVI s. qui regagnaient l’Europe. La ville abrite le Fort " Castillo de San Marcos " construit en coquina et qui, au cours de ces 300 années de service, n’a jamais été vaincu. Espagnols, Français et Anglais se sont battus sur ces côtes afin de conquérir cette ville. Finalement, en 1821, les USA rachètent la Floride aux espagnols et durent mener trois guerres coûteuses face aux indiens Séminoles. La vieille ville a été entièrement restaurée.  
+Poursuivant vers le Nord, nous faisons halte à St Augustine. Son port particulièrement protégé est situé non loin du gulf stream, ce courant utilisé par les bateaux espagnols au XVI s. qui regagnaient l’Europe. La ville abrite le Fort " Castillo de San Marcos " construit en coquina et qui, au cours de ces 300 années de service, n’a jamais été vaincu. Espagnols, Français et Anglais se sont battus sur ces côtes afin de conquérir cette ville. Finalement, en 1821, les USA rachètent la Floride aux espagnols et durent mener trois guerres coûteuses face aux indiens Séminoles. La vieille ville a été entièrement restaurée.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33924910480/in/datetaken/" title="Saint Augustine - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2863/33924910480_27141bb0e0_k.jpg" width="2048" height="1152" alt="Saint Augustine - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

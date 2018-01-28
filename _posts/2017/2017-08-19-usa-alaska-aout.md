@@ -73,7 +73,7 @@ Arrivés au **cercle polaire**, un couple de Rangers accueille les gens, lui sou
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36424711326/in/datetaken/" title="Dalton Highway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4420/36424711326_c00f487ddf_k.jpg" width="2048" height="1152" alt="Dalton Highway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Si le temps était magnifique au départ de Fairbanks, il se gâte en montant vers le nord et je crains qu’il ne pleuve, ce qui rendrait la piste peu praticable pour nous. Nous décidons de faire retour sur Fairbanks quand le temps se lève petit à petit. On se pose près d’un lac à quelques centaines de mètres à l’écart de la route. La fin de journée est très belle et offre une super lumière sur la toundra et la forêt boréale.   
+Si le temps était magnifique au départ de Fairbanks, il se gâte en montant vers le Nord et je crains qu’il ne pleuve, ce qui rendrait la piste peu praticable pour nous. Nous décidons de faire retour sur Fairbanks quand le temps se lève petit à petit. On se pose près d’un lac à quelques centaines de mètres à l’écart de la route. La fin de journée est très belle et offre une super lumière sur la toundra et la forêt boréale.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36424697296/in/datetaken/" title="Dalton Highway - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4421/36424697296_64598bb5ca_k.jpg" width="2048" height="1152" alt="Dalton Highway - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -113,7 +113,7 @@ Nous partons, en fin d’après-midi, pour la péninsule de **Kenai ou Kenaï** 
 
 ## 13 août   
 
-Il a plu toute la nuit et on a très mal dormi mais aujourd'hui le temps semble se lever. Départ du Bivouac pour **Homer**, petite ville au sud ouest de la péninsule de Kenai et fin de la route. Trajet très agréable, on longe le Golf de Cook et on peut voir, en face de ce bras de mer, une très belle chaîne de montagne aux monts enneigés.   
+Il a plu toute la nuit et on a très mal dormi mais aujourd'hui le temps semble se lever. Départ du Bivouac pour **Homer**, petite ville au Sud-Ouest de la péninsule de Kenai et fin de la route. Trajet très agréable, on longe le Golf de Cook et on peut voir, en face de ce bras de mer, une très belle chaîne de montagne aux monts enneigés.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36310955510/in/datetaken/" title="Péninsule de Kenai - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4387/36310955510_3d68a40a7a_k.jpg" width="2048" height="1152" alt="Péninsule de Kenai - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 

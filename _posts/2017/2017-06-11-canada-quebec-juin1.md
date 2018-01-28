@@ -92,12 +92,12 @@ En route vers le l'île du Prince Édouard que nous atteignons en traversant un 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35329823412/in/datetaken/" title="Isle du Prince Édouard- [Canada]"><img src="https://farm5.staticflickr.com/4254/35329823412_298708807c_k.jpg" width="2048" height="1152" alt="Isle du Prince Édouard- [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-Un couple de retraités québécois s'installe à coté de nous et nous entamons une discussion. Une fois de plus, je suis surpris par leur connaissance de la politique française et anglaise. Il est vrai que dans les deux cas l'actualité est assez chargée avec les élections législatives. J'en profite pour lui demander conseil sur la plus belle route à prendre pour rejoindre le Québec. Il confirme ma première idée de ne pas faire tout le tour de la Gaspésie et couper à travers jusqu'à Sainte Flavie, l'ouest étant plus intéressant.   
+Un couple de retraités québécois s'installe à coté de nous et nous entamons une discussion. Une fois de plus, je suis surpris par leur connaissance de la politique française et anglaise. Il est vrai que dans les deux cas l'actualité est assez chargée avec les élections législatives. J'en profite pour lui demander conseil sur la plus belle route à prendre pour rejoindre le Québec. Il confirme ma première idée de ne pas faire tout le tour de la Gaspésie et couper à travers jusqu'à Sainte Flavie, l'Ouest étant plus intéressant.   
 
 
 ## 08 juin   
 
-On quite le camping ce matin en direction du nord de l'île. A part quelques villages acadiens à la décoration amusante, il n'y a pas grand chose à voir. L'île est tournée vers la pêche, généralement le homard, et l'agriculture. La terre de l'île est tellement chargée en fer que sa couleur est rouge. Le front de mer n'est pas très urbanisé et de nombreux champs fraîchement labourés d'un rouge profond se terminent à l'horizon par l'océan, ce qui est particulièrement photogénique.   
+On quite le camping ce matin en direction du Nord de l'île. A part quelques villages acadiens à la décoration amusante, il n'y a pas grand chose à voir. L'île est tournée vers la pêche, généralement le homard, et l'agriculture. La terre de l'île est tellement chargée en fer que sa couleur est rouge. Le front de mer n'est pas très urbanisé et de nombreux champs fraîchement labourés d'un rouge profond se terminent à l'horizon par l'océan, ce qui est particulièrement photogénique.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34655720544/in/datetaken/" title="Musée Acadien - Isle du Prince Édouard- [Canada]"><img src="https://farm5.staticflickr.com/4209/34655720544_925426942a_k.jpg" width="2048" height="1152" alt="Musée Acadien - Isle du Prince Édouard- [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 

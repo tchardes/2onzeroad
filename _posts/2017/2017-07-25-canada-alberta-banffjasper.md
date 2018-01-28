@@ -83,7 +83,7 @@ Départ, ce matin, pour le visitor center afin de prendre une nouvelle nuitée a
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36228898696/in/datetaken/" title="Jasper - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4308/36228898696_825dc50bec_k.jpg" width="2048" height="1152" alt="Jasper - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous filons vers le sud pour **la vallée des 5 lacs** où je fais le trail qui porte le même nom (8,4 Km +66 mètres). Il s’agit d’une boucle avec un faible dénivelé qui passe à l'allée le long de 5 lacs très beaux et au retour, à travers la forêt et de belles clairières.  
+Nous filons vers le Sud pour **la vallée des 5 lacs** où je fais le trail qui porte le même nom (8,4 Km +66 mètres). Il s’agit d’une boucle avec un faible dénivelé qui passe à l'allée le long de 5 lacs très beaux et au retour, à travers la forêt et de belles clairières.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36228801526/in/datetaken/" title="Jasper - Alberta - [Canada]"><img src="https://farm5.staticflickr.com/4308/36228801526_c9796cab6e_k.jpg" width="2048" height="901" alt="Jasper - Alberta - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

@@ -20,7 +20,7 @@ itinary: "2017/colombie.json"
 mapZoom: 4
 ---
 
-Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé le territoire du Yukon et la province de la Colombie Britannique avec une petite incursion au sud de l'Alaska.   
+Dixième article de type carnet de route, il couvre la période du 19 août au 03 septembre durant laquelle nous avons traversé le territoire du Yukon et la province de la Colombie Britannique avec une petite incursion au Sud de l'Alaska.   
 
 ## 19 août     
 
@@ -52,7 +52,7 @@ Ce matin, nous avions prévu de faire la vidange de Thor mais tous les magasins 
 
 ## 22 août    
 
-Ce matin "changement d'huile" de Thor puis complément des courses et départ vers le sud par l'Alaska Highway. Nous roulons toute la matinée sous la pluie. Le temps se lève en début d'après-midi et nous en profitons du coup pour faire un arrêt à **Teslin** et visiter un musée des First Nations. Très beau bâtiment dont l'entrée est ornée de totems et regroupant de nombreux objets traditionnels et stands de produits artisanaux.   
+Ce matin "changement d'huile" de Thor puis complément des courses et départ vers le Sud par l'Alaska Highway. Nous roulons toute la matinée sous la pluie. Le temps se lève en début d'après-midi et nous en profitons du coup pour faire un arrêt à **Teslin** et visiter un musée des First Nations. Très beau bâtiment dont l'entrée est ornée de totems et regroupant de nombreux objets traditionnels et stands de produits artisanaux.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36823930025/in/datetaken/" title="Teslin - Yukon - [Canada]"><img src="https://farm5.staticflickr.com/4422/36823930025_027176ea2d_k.jpg" width="2048" height="1152" alt="Teslin - Yukon - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
@@ -64,7 +64,7 @@ En fin de journée, nous quittons le Yukon pour la Colombie Britannique et passo
 
 ## 23 août   
 
-Nous poursuivons notre descente plein sud et traversons la soit-disant capitale mondiale du Jade, **Dease Lake**. Juste avant le village se trouve "Jade City" une très belle boutique qui propose, entre autre, de nombreux articles créés en jade. En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de kilomètres d’intervalle dont une maman avec son ourson. Pour l'instant, la "37" que nous avons renommée la "The bear road" est bien goudronnée.    
+Nous poursuivons notre descente plein Sud et traversons la soit-disant capitale mondiale du Jade, **Dease Lake**. Juste avant le village se trouve "Jade City" une très belle boutique qui propose, entre autre, de nombreux articles créés en jade. En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de kilomètres d’intervalle dont une maman avec son ourson. Pour l'instant, la "37" que nous avons renommée la "The bear road" est bien goudronnée.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36823426555/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4407/36823426555_8a0c7f809c_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
@@ -100,7 +100,7 @@ Nous nous arrêtons à **Houston**, capitale mondiale de la pêche de la truite 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37163634242/in/datetaken/" title="Houston - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4411/37163634242_9d7470b14b_k.jpg" width="2048" height="1152" alt="Houston - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-En fin d'après-midi, nous faisons route vers **Prince George**. Nous quittons avec regret le grand nord et faisons retour petit à petit vers la "civilisation", nous croisons les premières fermes et cultures, on pense voir des ours noirs pendant une fraction de seconde dans les champs mais non, ce ne sont que des vaches…  
+En fin d'après-midi, nous faisons route vers **Prince George**. Nous quittons avec regret le grand Nord et faisons retour petit à petit vers la "civilisation", nous croisons les premières fermes et cultures, on pense voir des ours noirs pendant une fraction de seconde dans les champs mais non, ce ne sont que des vaches…  
 
 ## 27 août   
 
