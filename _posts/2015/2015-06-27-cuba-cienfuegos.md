@@ -16,7 +16,7 @@ category: "blog"
 location: "22.122271, -80.451987"
 ---
 
-Nous quittons la Havane en direction du Sud-Est par l'Autopista "A1" en direction de Cienfuegos. Pour notre premier arrêt, nous faisons une pause café à Australia Township. Cette ville tire son nom de son ancienne sucrerie dont il reste encore une grande cheminée. A l'époque, Cuba donnait des noms de continent à ses usines sucrières, Australie pour celle là. Elle est également connue car Fidel Castro y avait positionné sa base arrière des opérations en 1961 lors de la crise de la Baie des Cochons. A l'entrée de la ville un grand panneau rappelle ce point historique.
+Nous quittons la Havane en direction du Sud-Est par l'Autopista "A1" en direction de Cienfuegos. Pour notre premier arrêt, nous faisons une pause café à Australia Township. Cette ville tire son nom de son ancienne sucrerie dont il reste encore une grande cheminée. A l'époque, Cuba donnait des noms de continent à ses usines sucrières, Australie pour celle-là. Elle est également connue car Fidel Castro y avait positionné sa base arrière des opérations en 1961 lors de la crise de la Baie des Cochons. A l'entrée de la ville un grand panneau rappelle ce point historique.
 
  <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/19393948656/in/album-72157653125169544/" title="Lieu du QG de Fidel lors de la Baie des Cochons - [Cuba]"><img src="https://c1.staticflickr.com/1/478/19393948656_0b45d27d55_b.jpg" width="1024" height="683" alt="Lieu du QG de Fidel lors de la Baie des Cochons - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

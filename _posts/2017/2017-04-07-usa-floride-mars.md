@@ -63,7 +63,7 @@ La région en soit n’est pas exceptionnelle mais nous nous baladons, faisons l
 
 #### Musée National des Navy SEAL  
 
-Sur la baie de Fort Pierce, nous visitons le musée national des Navy Seal. Très bel établissement tenu et géré par des anciens, encore très bien conservés, droits comme des i dans leur chemise aux couleurs de la Navy, les avant bras couverts de tatouages, bref respect.  
+Sur la baie de Fort Pierce, nous visitons le musée national des Navy Seal. Très bel établissement tenu et géré par des anciens, encore très bien conservés, droits comme des i dans leur chemise aux couleurs de la Navy, les avant-bras couverts de tatouages, bref respect.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33591910012/in/datetaken/" title="Musée Navy SEAL - Floride - [USA]"><img src="https://c1.staticflickr.com/3/2894/33591910012_2b183a055b_k.jpg" width="2048" height="1152" alt="Musée Navy SEAL - Floride - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
