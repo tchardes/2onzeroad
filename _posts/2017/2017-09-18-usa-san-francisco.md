@@ -55,7 +55,7 @@ Pour cette journée, nous nous rendons en centre ville en bus. Nous découvrons 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476733798/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4353/23476733798_50c785c15d_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Depuis l'entrée, nous avons suivi l'itinéraire suivant, nous permettant de relier tous les points intéressants que nous avions listé et glané sur différents sites Internet.  
+Depuis l'entrée, nous avons suivi l'itinéraire suivant, nous permettant de relier tous les points intéressants que nous avions listés et glanés sur différents sites Internet.  
 
 Nous remontons l'artère principale, Grant Avenue, particulièrement touristique, c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles et gadgets. Les boutiques sont hautes en couleurs, les plaques de rue sont écrites en anglais et en chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue, des guirlandes de grosses lanternes rouges traversent la rue.  
 
@@ -76,7 +76,7 @@ Wentworth place. Le bloc situé entre Grant, Kearny et Washington street regroup
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658950833/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4372/36658950833_3e1663de1d_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-De retour sur l'avenue Grant, nous passons devant le N° 831 qui abrite le salon de thé **Red Blossom Tea Company**, un des plus côté de la ville que nous n'avons pas testé.  
+De retour sur l'avenue Grant, nous passons devant le N° 831 qui abrite le salon de thé **Red Blossom Tea Company**, un des plus côtés de la ville que nous n'avons pas testé.  
 
 Au N° 1136 se trouve une petite boutique appelée **Ming Kee Game Birds**. Cette boutique vend des volailles vivantes utilisées dans la cuisine chinoise, y compris un poulet à la peau bleue, parait-il. Il y a plusieurs années cet établissement a fait l'objet de nombreuses controverses. Même si les propriétaires ont changé depuis, ils n'apprécient pas trop les badauds et les photographes.  
 
@@ -90,15 +90,15 @@ A la fin de Ross Alley, on tourne à droite sur Washington street et puis à gau
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618941414/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4344/36618941414_bee365aa98_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Au bout de Spofford, on tourne à gauche sur Clay street et encore à gauche sur Waverly Place qui est souvent appelée la rue des Balcons peints. Promenade très agréable sur deux blocs qui permet de voir de très belles bâtisses entièrement peintes  comme au N° 125 le **Tien Hou Temple** temple dédié à la déesse du ciel. Un petit escalier permet d'arriver dans une petite salle décorée de lanternes rouges et or avec plusieurs sanctuaires et une statue de la déesse, le tout dans une très forte odeur d'encens. L'entrée est gratuite mais il est recommandé de faire un petit don, les photos sont interdites. On y trouve également plusieurs locaux associatifs de la **Family Benevolent Associations**, lieux de rassemblement des Chinois généralement plus âgés qui vivent dans Chinatown et le bâtiment de la **Freemasons de Bing-Tong Kong**.  
+Au bout de Spofford, on tourne à gauche sur Clay street et encore à gauche sur Waverly Place qui est souvent appelée la rue des Balcons peints. Promenade très agréable sur deux blocs qui permet de voir de très belles bâtisses entièrement peintes  comme au N° 125 le **Tien Hou Temple** temple dédié à la déesse du ciel. Un petit escalier permet d'arriver dans une petite salle décorée de lanternes rouge et or avec plusieurs sanctuaires et une statue de la déesse, le tout dans une très forte odeur d'encens. L'entrée est gratuite mais il est recommandé de faire un petit don, les photos sont interdites. On y trouve également plusieurs locaux associatifs de la **Family Benevolent Associations**, lieux de rassemblement des Chinois généralement plus âgés qui vivent dans Chinatown et le bâtiment de la **Freemasons de Bing-Tong Kong**.  
 
-On débouche sur Washington Street que l'on prend sur la droite jusqu'à Columbus avenue, une des rares avenue oblique de San Francisco, permettant d'avoir une vue très célèbre de San Francisco avec au premier plan à droite, le **Sentinel Building** et en arrière-plan par la **Transamerica Pyramid**.  
+On débouche sur Washington Street que l'on prend sur la droite jusqu'à Columbus avenue, une des rares avenues obliques de San Francisco, permettant d'avoir une vue très célèbre de San Francisco avec au premier plan à droite, le **Sentinel Building** et en arrière-plan par la **Transamerica Pyramid**.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37072076060/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4467/37072076060_6c9c71dddc_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 ### Coit Tower  
 
-La montée de la Filbet Street pour nous rendre à la **Coit Tower** met nos mollets à dure épreuve. Cette tour de 64 mètres a été édifiée en 1933 sur la Telegraph Hill pour honorer les pompiers de la ville. Même sans monter au sommet de la tour (400 marches), on bénéficie d'une très belle vue sur la ville et la Baie.   
+La montée de la Filbert Street pour nous rendre à la **Coit Tower** met nos mollets à rude épreuve. Cette tour de 64 mètres a été édifiée en 1933 sur la Telegraph Hill pour honorer les pompiers de la ville. Même sans monter au sommet de la tour (400 marches), on bénéficie d'une très belle vue sur la ville et la Baie.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281271546/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4506/37281271546_9babc8a99d_k.jpg" width="2048" height="1365" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -112,9 +112,9 @@ On descend ensuite vers Embarcadero et les piers en empruntant les **Filbert ste
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476687008/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4338/23476687008_3f42caa206_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-### Piers 39  
+### Pier 39  
 
-Nous promenons le long des quais (Piers) jusqu'au Piers 39, certainement le plus animé avec ses nombreuses boutiques, restaurants et animations en tout genre. Au bout du quai à gauche, les pontons de la marina sont squattés par de nombreuses otaries qui se dorent au soleil et se disputent les meilleures places.  
+Nous promenons le long des quais (Piers) jusqu'au Pier 39, certainement le plus animé avec ses nombreuses boutiques, restaurants et animations en tout genre. Au bout du quai à gauche, les pontons de la marina sont squattés par de nombreuses otaries qui se dorent au soleil et se disputent les meilleures places.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618905074/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4437/36618905074_b51514e8f1_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
