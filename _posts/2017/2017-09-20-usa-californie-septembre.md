@@ -76,7 +76,7 @@ Nous faisons le tour de la ville à pied avec le plan récupéré au visitor cen
 
 Nous poursuivons notre route vers **Dungeness** pour voir une bande de sable, de 9km de long, soit disant la plus longue au monde si l’on en croit le guide. Elle forme en fait une petite lagune, rien d’extraordinaire. Sur les petites routes pour y accéder, nous voyons de très belles résidences avec de nombreuses biches dans les jardins, jusqu’à 7 dans l’une d’elles. Nous passons à **Sequim** qui se vante d’être la capitale de la lavande de l’Amérique du Nord. Effectivement, nous avons vu quelques champs de lavandes.  
 
-Nous arrivons à **Port Angeles** où nous nous posons dans un Walmart après avoir fait le plein de gazoline. Sur le parking, nous voyons un RV de 19’ se garer à-côté de nous et je vois un drapeau français collé sur la fenêtre. Nous faisons ainsi connaissance d’un couple de retraités varois, qui en sont à leur deuxième séjour de 6 mois en Amérique de Nord et pensent déjà au troisième. Nous parlons un bon moment ensemble.   
+Nous arrivons à **Port Angeles** où nous nous posons dans un Walmart après avoir fait le plein de gazoline. Sur le parking, nous voyons un RV de 19’ se garer à côté de nous et je vois un drapeau français collé sur la fenêtre. Nous faisons ainsi connaissance d’un couple de retraités varois, qui en sont à leur deuxième séjour de 6 mois en Amérique de Nord et pensent déjà au troisième. Nous parlons un bon moment ensemble.   
 
 ## 06 septembre  
 
