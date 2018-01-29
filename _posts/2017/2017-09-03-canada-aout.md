@@ -64,7 +64,7 @@ En fin de journée, nous quittons le Yukon pour la Colombie Britannique et passo
 
 ## 23 août   
 
-Nous poursuivons notre descente plein Sud et traversons la soit-disant capitale mondiale du Jade, **Dease Lake**. Juste avant le village se trouve "Jade City" une très belle boutique qui propose, entre autre, de nombreux articles créés en jade. En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de kilomètres d’intervalle dont une maman avec son ourson. Pour l'instant, la "37" que nous avons renommée la "The bear road" est bien goudronnée.    
+Nous poursuivons notre descente plein Sud et traversons la soit-disant capitale mondiale du Jade, **Dease Lake**. Juste avant le village se trouve "Jade City" une très belle boutique qui propose, entre autres, de nombreux articles créés en jade. En fin d’après-midi, nous avons croisé 7 ours noirs à quelques dizaines de kilomètres d’intervalle dont une maman avec son ourson. Pour l'instant, la "37" que nous avons renommée la "The bear road" est bien goudronnée.    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36823426555/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4407/36823426555_8a0c7f809c_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 

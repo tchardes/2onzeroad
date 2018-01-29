@@ -21,7 +21,7 @@ Cette idée nous est venue en 2013 en préparant un road trip pour la côte Oues
 
 ### Notre itinéraire  
 
-Des nombreuses lectures de carnet de route et forums de voyageurs nous avons, entre autre, retenu une chose. Ne pas préparer de circuit trop précis car au final, il est pratiquement impossible de le respecter. Nous nous sommes donc contentés de lister les endroits que nous aimerions voir, traverser, séjourner et nous essayerons d'en relier le plus possible, sans oublier ceux qui viendront s'ajouter au fur et à mesure de nos rencontres et nos envies.  
+Des nombreuses lectures de carnet de route et forums de voyageurs nous avons, entre autres, retenu une chose. Ne pas préparer de circuit trop précis car au final, il est pratiquement impossible de le respecter. Nous nous sommes donc contentés de lister les endroits que nous aimerions voir, traverser, séjourner et nous essayerons d'en relier le plus possible, sans oublier ceux qui viendront s'ajouter au fur et à mesure de nos rencontres et nos envies.  
 
 Nous savons d'ores et déjà que nous allons commencer notre voyage en Floride pour monter en Alaska et puis redescendre plein Sud. Même si un trajet idéal a été imaginé en fonction des saisons, visas, nous ne voulons pas nous mettre une pression ou nous sentir obligés de respecter un quelconque programme ou listing prédéfini. Donc vous l'aurez compris, pas de carte disponible de notre itinéraire prévisionnel, juste celui réalisé, mis à jour au fur et à mesure.
 
