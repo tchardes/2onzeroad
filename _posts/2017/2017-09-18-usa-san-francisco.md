@@ -57,7 +57,7 @@ Pour cette journée, nous nous rendons en centre ville en bus. Nous découvrons 
 
 Depuis l'entrée, nous avons suivi l'itinéraire suivant, nous permettant de relier tous les points intéressants que nous avions listés et glanés sur différents sites Internet.  
 
-Nous remontons l'artère principale, Grant Avenue, particulièrement touristique, c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles et gadgets. Les boutiques sont hautes en couleurs, les plaques de rue sont écrites en anglais et en chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue, des guirlandes de grosses lanternes rouges traversent la rue.  
+Nous remontons l'artère principale, Grant Avenue, particulièrement touristique, c'est l'endroit idéal pour acheter des souvenirs, t-shirts et autres babioles et gadgets. Les boutiques sont hautes en couleur, les plaques de rue sont écrites en anglais et en chinois et les lampadaires sont ornés depuis 1925 par des dragons d'or. Plus haut dans cette avenue, des guirlandes de grosses lanternes rouges traversent la rue.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37281298506/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4346/37281298506_3f584a6c80_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -148,13 +148,13 @@ En repartant par la Fultron Street, nous bénéficions une très belle vue sur l
 
 ### Castro  
 
-Pour le déjeuné nous testons un Mexicain, "Casa Mexicana" au 180 Church Street où nous mangeons de très bons burritos accompagnés d'une Corona. Nous poursuivons par le quartier de Castro qui représente le cœur de la communauté gay de San Francisco. Ce quartier haut en couleur… de l'arc en ciel, abrite le très beau cinéma Castro Theater, sur Castro Street.  
+Pour le déjeuner nous testons un Mexicain, "Casa Mexicana" au 180 Church Street où nous mangeons de très bons burritos accompagnés d'une Corona. Nous poursuivons par le quartier de Castro qui représente le cœur de la communauté gay de San Francisco. Ce quartier haut en couleur… de l'arc en ciel, abrite le très beau cinéma Castro Theater, sur Castro Street.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071628010/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4508/37071628010_3e423b6580_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658543983/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4364/36658543983_5a335c8af7_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous poursuivons sur la 18 ème rue pour voir la fameuse maison bleue de Maxime Leforestier sur laquelle une plaque commémorative a été apposée.  
+Nous poursuivons sur la 18ème rue pour voir la fameuse maison bleue de Maxime Leforestier sur laquelle une plaque commémorative a été apposée.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37071623290/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4422/37071623290_c906ff4549_k.jpg" width="1365" height="2048" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -170,7 +170,7 @@ Nous rejoignons le quartier **Mission District** qui est le plus vieux quartier 
 
 #### Street Art  
 
-Mission district héberge de nombreux artistes célèbrent pour leurs peintures murales. Il y a près de 600 peintures murales à San Francisco, avec une concentration très grande dans ce quartier.  
+Mission district héberge de nombreux artistes célèbres pour leurs peintures murales. Il y a près de 600 peintures murales à San Francisco, avec une concentration très grande dans ce quartier.  
 
 Les plus célèbres se trouvent sur la façade du **The Women's Building**, centre communautaire construit en 1910 axé sur les arts et l'éducation et qui préconise l'autodétermination, l'égalité entre les sexes et la justice sociale.  
 

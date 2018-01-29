@@ -18,7 +18,7 @@ category: "blog"
 location: "43.854247, -102.337433"
 ---
 
-Nous arrivons au **Badlands National Park** (Mauvaises terres) en fin de journée par l'entrée Nord-Est. Se trouvant au Sud-Ouest du Dakota du Sud, le parc est situé sur un plateau érodé dont la formation remonte à 75 millions d'années. Riche en fossiles, certaines zones sont toujours étudiées par des scientifiques. L'érosion a sculpté le paysage donnant un relief particulièrement escarpé et riche en couleurs. Il est ouvert toute l'année mais l'hiver peut y être très rude.  
+Nous arrivons au **Badlands National Park** (Mauvaises terres) en fin de journée par l'entrée Nord-Est. Se trouvant au Sud-Ouest du Dakota du Sud, le parc est situé sur un plateau érodé dont la formation remonte à 75 millions d'années. Riche en fossiles, certaines zones sont toujours étudiées par des scientifiques. L'érosion a sculpté le paysage donnant un relief particulièrement escarpé et riche en couleur. Il est ouvert toute l'année mais l'hiver peut y être très rude.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35491645410/in/datetaken/" title="Badlands - Dakota du Sud - [USA]"><img src="https://farm5.staticflickr.com/4238/35491645410_9936217475_k.jpg" width="2048" height="1152" alt="Badlands - Dakota du Sud - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
