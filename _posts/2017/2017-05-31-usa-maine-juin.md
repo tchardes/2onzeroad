@@ -40,7 +40,7 @@ Le lendemain, je pars seul pour visiter la **Fondation Barnes** qui regroupe une
 
 ## 18 au 23 mai
 
-Nous partons pour New York et nous nous arrêtons à Bayonne pour passer la nuit sur le parking d'un Walmart. Il est gardé jour et nuit par une société de sécurité et le responsable nous autorise à bivouaquer pour la nuit et nous indique un lieu de stationnement. Nous passons une très mauvaise nuit, il fait très très chaud et le camion garé à coté de nous laisse tourner son compresseur toute la nuit.  
+Nous partons pour New York et nous nous arrêtons à Bayonne pour passer la nuit sur le parking d'un Walmart. Il est gardé jour et nuit par une société de sécurité et le responsable nous autorise à bivouaquer pour la nuit et nous indique un lieu de stationnement. Nous passons une très mauvaise nuit, il fait très très chaud et le camion garé à côté de nous laisse tourner son compresseur toute la nuit.  
 
 Le lendemain matin, nous partons pour le **Liberty Harbor RV** distant de quelques kilomètres. Ce RV Park est idéalement placé pour visiter New York, même si en soit, son prix n'est pas du tout justifié. Nous n'avons pas réservé et les emplacements "conventionnels" sont complets, du coup, nous nous retrouvons sur le chantier naval, qui fait partie également du même site, entre deux bateaux. Nous n'avons aucun branchement et devons nous déplacer pour faire le plein d'eau et le dump des réservoirs d'eaux noires et grises. Tout cela pour la somme de 65$/jour eu lieu des 100$ pour les emplacements branchés.  
 
