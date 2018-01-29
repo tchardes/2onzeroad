@@ -18,7 +18,7 @@ category: "blog"
 location: "45.419712, -75.698897"
 ---
 
-**Ottawa** (ils prononcent Outaouais) est la capitale du Canada. La ville est située dans l'est de l'Ontario, sur la rive Sud de la rivière des Outaouais, face à la ville québécoise de Gatineau. La ville est fondée en 1826 lors de la construction du canal Rideau et porte d'abord le nom de Bytown. Le 31 décembre 1857, l'emplacement est choisi pour accueillir la nouvelle capitale de la province du Canada. Devenue capitale de la Confédération canadienne, Ottawa accueille aujourd'hui les institutions fédérales du pays, tels que le Parlement et les résidences du gouverneur général et du Premier ministre.   
+**Ottawa** (ils prononcent Outaouais) est la capitale du Canada. La ville est située dans l'Est de l'Ontario, sur la rive Sud de la rivière des Outaouais, face à la ville québécoise de Gatineau. La ville est fondée en 1826 lors de la construction du canal Rideau et porte d'abord le nom de Bytown. Le 31 décembre 1857, l'emplacement est choisi pour accueillir la nouvelle capitale de la province du Canada. Devenue capitale de la Confédération canadienne, Ottawa accueille aujourd'hui les institutions fédérales du pays, tels que le Parlement et les résidences du gouverneur général et du Premier ministre.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34746989503/in/datetaken/" title="Ottawa - Ontario - [Canada]"><img src="https://c1.staticflickr.com/5/4208/34746989503_69dbb1ead8_k.jpg" width="2048" height="1152" alt="Ottawa - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -32,7 +32,7 @@ Une cérémonie officielle s'est tenue devant le monument aux morts gardé par d
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34712315514/in/datetaken/" title="Ottawa - Ontario - [Canada]"><img src="https://c1.staticflickr.com/5/4236/34712315514_5bb1795859_k.jpg" width="2048" height="1152" alt="Ottawa - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-A midi, nous nous dirigeons dans le quartier très animé du **Marché By** qui concentre de nombreux bars, restaurants, boutiques. De nombreux artistes de rue animent les lieux. Nous nous arrêtons dans un restaurant Irlandais où nous passons un très bon moment autour d'une bière locale.   
+A midi, nous nous dirigeons dans le quartier très animé du **Marché By** qui concentre de nombreux bars, restaurants, boutiques. De nombreux artistes de rue animent les lieux. Nous nous arrêtons dans un restaurant irlandais où nous passons un très bon moment autour d'une bière locale.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35385388192/in/datetaken/" title="Ottawa - Ontario - [Canada]"><img src="https://c1.staticflickr.com/5/4214/35385388192_68ca7ab739_k.jpg" width="2048" height="1152" alt="Ottawa - Ontario - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

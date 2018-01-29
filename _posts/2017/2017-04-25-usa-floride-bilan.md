@@ -30,7 +30,7 @@ Voilà nos premières impressions sur la Floride et de facto sur les USA. Ce n'e
 
 On se croirait être Gulliver arrivant à Brobdingrag. Tout est plus grand, tout est au format XXL, les routes, les bâtiments, les magasins, les conditionnements des produits et un peu les américains aussi. En caricaturant, ils sont soit très sportifs et bien taillés, soit en surpoids. Concernant les véhicules, un peu de tout les modèles, mais ils affectionnent quand même beaucoup les pick-up avec des cylindrés et des pots d'échappement hors normes. Quand un vous double, on commence à sentir les vibrations puis le bruit sourd bien grave et enfin le véhicule. On en arrive à se demander si on n'est pas en train de se faire doubler par un croiseur interstellaire de l'empire...   
 
-### Les Américains   
+### Les américains   
 
 Pour l’instant, nous n’avons rencontré que des gens charmants, toujours prêts à vous aider ou vous rendre service, faisant l’effort de se faire comprendre et de vous déchiffrer. Par contre, nous les avons trouvés très peu curieux. Peu nous ont demandé d’où nous venions, voyant très vite que nous n’étions pas du cru. C’est peut-être la Floride où les gens sont habitués et un peu blasés de voir des touristes arriver de la terre entière, toute l’année. Nous verrons par la suite.  
 
