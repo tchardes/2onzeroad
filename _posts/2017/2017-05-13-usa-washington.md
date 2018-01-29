@@ -21,7 +21,7 @@ location: "38.898254, -77.036473"
 Nous voilà enfin dans la capitale des États-Unis où nous allons passer 4 journées entières. Une chose importante à savoir, à Washington, tous les musées sont gratuits, c'est loin d'être négligeable quand on sait qu'une entrée coûte en moyenne 25$/Pers.  
 
 Au départ d'Alexandria pour Washington et avant de traverser le fleuve Potomac, nous passons devant le **Cimetière National d'Arlington** et décidons de tenter notre chance avec Thor. Nous passons devant le Pentagone que l'on ne peut plus visiter en tant qu'étranger depuis les attentats du 11 septembre. Nous effectuons notre premier arrêt au mémorial des Marines. Il s'agit d'une immense sculpture représentant les Marines plantant la bannière étoilée au sommet du mont Suribachi sur l'île d'IWO JIMA, avant-poste japonais.
-Nous arrivons juste au bon moment et assistons à une petite cérémonie de quelques marines au comportement étonnement très ... décontracté.  
+Nous arrivons juste au bon moment et assistons à une petite cérémonie de quelques marines au comportement étonnement très… décontracté.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34723684112/in/datetaken/" title="Washington DC - [USA]"><img src="https://c1.staticflickr.com/5/4225/34723684112_126ca001f3_k.jpg" width="2048" height="1365" alt="Washington DC - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

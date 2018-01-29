@@ -32,7 +32,7 @@ C'est aussi là que le Che a été inhumé en 1997 (trente ans après sa mort), 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/127048817@N07/30517481380/in/photostream/" title="Photos blog - Santa Clara - [Cuba]"><img src="https://c5.staticflickr.com/6/5668/30517481380_bc2b53f97f_k.jpg" width="2048" height="1152" alt="Photos blog - Santa Clara - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Après cette salle, l'on arrive dans un musée où se trouve de nombreuses photos, documents, uniformes ... J'ai été attiré par une photo prise au moment de la révolution où l'on voit Fidel et le Che discuter sous le regard admiratif de Raoul pour son frère. (La photo n'est pas de très bonne qualité prise derrière un Plexiglas)
+Après cette salle, l'on arrive dans un musée où se trouve de nombreuses photos, documents, uniformes… J'ai été attiré par une photo prise au moment de la révolution où l'on voit Fidel et le Che discuter sous le regard admiratif de Raoul pour son frère. (La photo n'est pas de très bonne qualité prise derrière un Plexiglas)
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/127048817@N07/30783865376/in/dateposted/" title="Santa Clara - [Cuba]"><img src="https://c1.staticflickr.com/6/5498/30783865376_36327e8aff_k.jpg" width="2048" height="1152" alt="Santa Clara - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

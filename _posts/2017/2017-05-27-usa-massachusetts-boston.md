@@ -32,7 +32,7 @@ Au centre d'information, nous récupérons un plan de la ville qui propose deux 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34281702764/in/datetaken/" title="Boston - Massachusetts - [USA]"><img src="https://c1.staticflickr.com/5/4268/34281702764_5949aed814_k.jpg" width="2048" height="1365" alt="Boston - Massachusetts - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-De nombreuses personnes, jeunes et moins jeunes, sont déguisées en habits d'époque, militaire, riche commerçant, nobles, servantes ... et soit accompagne un groupe de touristes, soit commentent un lieu ou déambulent dans la ville, certains ne sont pas contre un petit billet vert pour une photo à leur côté.  
+De nombreuses personnes, jeunes et moins jeunes, sont déguisées en habits d'époque, militaire, riche commerçant, nobles, servantes… et soit accompagne un groupe de touristes, soit commentent un lieu ou déambulent dans la ville, certains ne sont pas contre un petit billet vert pour une photo à leur côté.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/34316068003/in/datetaken/" title="Boston - Massachusetts - [USA]"><img src="https://c1.staticflickr.com/5/4214/34316068003_6a7f0c5728_k.jpg" width="2048" height="1152" alt="Boston - Massachusetts - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

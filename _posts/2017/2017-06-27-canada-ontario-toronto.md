@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Toronto"
-preview:    "Direction la capitale de l'Ontarion et plus grande ville du Canada. Avec ces 2 731 571 habitants, elle est la cinquième ville la ... "
+preview:    "Direction la capitale de l'Ontarion et plus grande ville du Canada. Avec ces 2 731 571 habitants, elle est la cinquième ville la… "
 parent-id:  2017-06-29-canada-quebec-juin2
 
 date:       2017-06-27 12:00:00

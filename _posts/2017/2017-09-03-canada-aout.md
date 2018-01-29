@@ -104,7 +104,7 @@ En fin d'après-midi, nous faisons route vers **Prince George**. Nous quittons a
 
 ## 27 août   
 
-Arrivés à Prince George, nous faisons le plein dans une station Esso qui propose également dump et eau. A L’issue, nous nous rendons au visitor center pour prendre de la documentation sur la ville et nous partons pour le **Parc Cottonwood Island Parc** qui présente la particularité d’avoir une douzaine d’arbres sculptés par Elmer Gunderson, un artiste local. Les températures ont bien augmentées, nous ressortons short, tee shirt et tongs.  
+Arrivés à Prince George, nous faisons le plein dans une station Esso qui propose également dump et eau. A L’issue, nous nous rendons au visitor center pour prendre de la documentation sur la ville et nous partons pour le **Parc Cottonwood Island Parc** qui présente la particularité d’avoir une douzaine d’arbres sculptés par Elmer Gunderson, un artiste local. Les températures ont bien augmentées, nous ressortons short, tee-shirt et tongs.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37334738275/in/datetaken/" title="Prince George - Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4417/37334738275_b027951132_k.jpg" width="2048" height="1152" alt="Prince George - Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>     
 
@@ -138,7 +138,7 @@ Départ pour l'île de Vancouver **(voir l’article <a href="{{site.baseurl}}{%
 
 ## 31 août   
 
-Le 31 août, alors que je fais le plein d'essence dans une station vers **Nanaimo**, un jeune backpacker originaire de Toronto vient me demander si nous pouvons l’avancer un peu. Il monte avec nous dans Thor et on discute un bon moment avant de le laisser à un croisement, n'ayant pas la même destination.   
+Le 31 août, alors que je fais le plein d'essence dans une station vers **Nanaimo**, un jeune backpacker anglophone originaire de Toronto vient me demander si nous pouvons l’avancer un peu. Il monte avec nous dans Thor et on discute un bon moment avant de le laisser à un croisement, n'ayant pas la même destination.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37410500885/in/datetaken/" title="Colombie Britannique - [Canada]"><img src="https://farm5.staticflickr.com/4442/37410500885_45f8700f09_k.jpg" width="2048" height="1152" alt="Colombie Britannique - [Canada]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
