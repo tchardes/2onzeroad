@@ -34,7 +34,7 @@ Il y a énormément de visiteurs mais au final, comme les points d'intérêts so
 
 Le parc peut se découper en quatre grandes zones, ce qui donne en images :  
 
-* Sud Est : Yellowstone Lake, Mud Volcano, West Thumb  
+* Sud-Est : Yellowstone Lake, Mud Volcano, West Thumb  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36082472212/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4317/36082472212_0488206594_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
@@ -42,7 +42,7 @@ Le parc peut se découper en quatre grandes zones, ce qui donne en images :
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35854348730/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4314/35854348730_19f3314eb9_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-* Sud Ouest : Old Faithful, Fountain Paint Pot, Biscuit Basin, Grand Prismatic Spring  
+* Sud-Ouest : Old Faithful, Fountain Paint Pot, Biscuit Basin, Grand Prismatic Spring  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36082145432/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4304/36082145432_8ee0a8e71c_k.jpg" width="2048" height="1365" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
@@ -52,7 +52,7 @@ Le parc peut se découper en quatre grandes zones, ce qui donne en images :
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36249603255/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4309/36249603255_a39eea2d57_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-* Nord Ouest : Iron Spring, Norris et Mammoth Hot Springs  
+* Nord-Ouest : Iron Spring, Norris et Mammoth Hot Springs  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36249296715/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4301/36249296715_4f3b5d44cb_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>     
 
@@ -64,7 +64,7 @@ Le parc peut se découper en quatre grandes zones, ce qui donne en images :
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36113067431/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4301/36113067431_8a6bbe98a4_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-* Nord Est : Canyons et prairies    
+* Nord-Est : Canyons et prairies    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36112765591/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4323/36112765591_311775ec53_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
