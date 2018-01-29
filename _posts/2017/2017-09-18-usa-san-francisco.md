@@ -69,7 +69,6 @@ En poursuivant sur Grant Av. nous passons devant le N° 718, **Wok boutique**, t
 
     
 On tourne ensuite sur Clay Street puis à gauche pour traverser la **Place de Portsmouth**, centre social de Chinatown. De nombreux hommes et femmes jouent aux cartes et aux échecs chinois "échiquier des éléphants". Il est possible de rejoindre le Chinese Culture Center, au Hilton Financial, bâtiment qui a une forme assez particulière.   
-
     
 Au bout de la place, on débouche sur Washington street. Sur la gauche, au niveau du N° 743, on peut admirer un très beau bâtiment au style oriental, ancien central téléphonique de Chinatown, transformé depuis en agence bancaire. Nous rejoignons ensuite Grant Av. en passant par 
 Wentworth place. Le bloc situé entre Grant, Kearny et Washington street regroupe quelques-uns des restaurants les mieux côtés du quartier chinois. Des personnes distribuent des coupons dans la rue pour vous inciter à choisir leur établissement. Nous testons le **Hunan Homes**, au N°622 Jackson street où nous avons très bien déjeuné.  
@@ -186,7 +185,7 @@ Nous poursuivons par **Balmy Alley** et **Clarion Alley**, deux ruelles où l'on
 
 ### Haight Street
 
-Nous finissons la journée par le quartier Hippies de **Haight Street**, lieu de naissance du "Summer Of Love" en 1967. Les premiers mètres dans cette artère, au croisement de Haight et Ashbury, vous replonge dans les années 70, les boutiques sont très colorées avec des fringues et objets d'une autre époque, tout comme certains habitants. 
+Nous finissons la journée par le quartier Hippies de **Haight Street**, lieu de naissance du "Summer Of Love" en 1967. Les premiers mètres dans cette artère, au croisement de Haight et Ashbury, vous replongent dans les années 70, les boutiques sont très colorées avec des fringues et objets d'une autre époque, tout comme certains habitants. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476165178/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4491/23476165178_7b95fa09a6_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -220,7 +219,7 @@ Nous rentrons dans ce quartier très animé par le **Ghirardelli Square**, ancie
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476150538/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4347/23476150538_09942e8626_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Pour le déjeuner, nous nous arrêtons dans un restaurant pour déguster la spécialité du quartier, le fameux **Clams Chowder**, velouté de palourdes servi dans un bol de pain, c'est excellent. En début d'après-midi, nous visitons le **Hyde St Pier Historic Ships**, San Francisco Maritime National Historical Park, dont l'accès est gratuit avec la pass America the Beautiful. Le long d'un quai ont été regroupés de vieux bateaux, témoins historiques du passé maritime de la ville. Sur un des ponts du ferry "Eureka" se trouve de nombreux véhicules anciens. Les petits pontons qui abritent des embarcations plus modestes sont envahis par les otaries qui n'apprécient pas d'être délogées et attendent patiemment que le park ranger quitte les lieux pour se les réapproprier…  
+Pour le déjeuner, nous nous arrêtons dans un restaurant pour déguster la spécialité du quartier, le fameux **Clams Chowder**, velouté de palourdes servi dans un bol de pain, c'est excellent. En début d'après-midi, nous visitons le **Hyde St Pier Historic Ships**, San Francisco Maritime National Historical Park, dont l'accès est gratuit avec la pass America the Beautiful. Le long d'un quai ont été regroupés de vieux bateaux, témoins historiques du passé maritime de la ville. Sur un des ponts du ferry "Eureka" se trouvent de nombreux véhicules anciens. Les petits pontons qui abritent des embarcations plus modestes sont envahis par les otaries qui n'apprécient pas d'être délogées et attendent patiemment que le park ranger quitte les lieux pour se les réapproprier…  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/23476149748/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4432/23476149748_d3fd72743d_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -228,7 +227,7 @@ Pour le déjeuner, nous nous arrêtons dans un restaurant pour déguster la spé
 
 ### Lombard Street  
 
-Pour entretenir la galbe de nos mollets, nous gravissons la Russian Hill par la Hyde Street jusqu'à Lombard Street, mondialement connue pour une portion constituée de huit virages très serrés qui lui ont valu la distinction de "la route la plus sinueuse des États-Unis", sa pente est de 16%. Tous les touristes veulent l'emprunter avec leur véhicule dans un balai incessant. Je pleins les habitants des maisons qui bordent cette rue.
+Pour entretenir le galbe de nos mollets, nous gravissons la Russian Hill par la Hyde Street jusqu'à Lombard Street, mondialement connue pour une portion constituée de huit virages très serrés qui lui ont valu la distinction de "la route la plus sinueuse des États-Unis", sa pente est de 16%. Tous les touristes veulent l'emprunter avec leur véhicule dans un balai incessant. Je pleins les habitants des maisons qui bordent cette rue.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618494424/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4510/36618494424_b08817fb4f_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -241,7 +240,7 @@ Les Cable Cars sont des tramways à traction par câble. Ils sont devenus l'une 
 * La ligne Powell-Hyde ;
 * La ligne California Street.
 
-Nous achetons nos billets à l'un des terminus, au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente, on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au demi-tour du wagon en fin de ligne, sur une petite rotonde, à la main par les employés. En marchant le long des rails, en entend très bien les câbles qui "circulent" au centre. Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est typique…  
+Nous achetons nos billets à l'un des terminus, au Hyde and Beach Public Transit Kiosk mais devant l'immense file d'attente, on renonce de le prendre à ce niveau. On assiste quand même une fois de plus au demi-tour du wagon en fin de ligne, sur une petite rotonde, à la main par les employés. En marchant le long des rails, on entend très bien les câbles qui "circulent" au centre. Nous le prenons finalement sur Columbus avenue jusqu'au terminal à Powell. C'est typique…  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36618495734/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4409/36618495734_ba71b670fb_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -259,11 +258,11 @@ Ce matin, nous nous rendons à Fort Point situé à la base du **Golden Gate**, 
 
 ### Union Square
 
-Le bus nous laisse à Union Square où nous commençons par un café dans un Starbucks, comme la plupart des américains qui se promènent toute la journée avec mug à la main. Nous faisons quelques boutiques avant de monter au 8 ème étage du Macy's pour prendre notre déjeuner à The Cheesecake Factory qui bénéficie d'une terrasse qui donne sur la place.
+Le bus nous laisse à Union Square où nous commençons par un café dans un Starbucks, comme la plupart des américains qui se promènent toute la journée avec un mug à la main. Nous faisons quelques boutiques avant de monter au 8ème étage du Macy's pour prendre notre déjeuner à The Cheesecake Factory qui bénéficie d'une terrasse qui donne sur la place.
 
 ### SFMoMA
 
-Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du bâtiment est vraiment originale avec sa façade en briques rouges de l'ancien musée et son immense puits de lumière sur lequel il a été accolé à un nouveau bâtiment tout blanc de 10 étages tout en relief, ce qui en fait l'un des plus grands musée d'art moderne du monde. S'il regroupe des sculptures et peintures, il expose également des expériences audios et audiovisuelles intéressantes, notamment une installation vidéo, nommée "The Visitors" de Ragnar Kjartansson.
+Je passe l'après-midi au musée d'art moderne de la ville. l'architecture du bâtiment est vraiment originale avec sa façade en briques rouges de l'ancien musée et son immense puits de lumière sur lequel il a été accolé à un nouveau bâtiment tout blanc de 10 étages tout en relief, ce qui en fait l'un des plus grands musées d'art moderne du monde. S'il regroupe des sculptures et peintures, il expose également des expériences audios et audiovisuelles intéressantes, notamment une installation vidéo, nommée "The Visitors" de Ragnar Kjartansson.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36658607963/in/datetaken/" title="IMG_6248"><img src="https://farm5.staticflickr.com/4513/36658607963_d765d33174_k.jpg" width="2048" height="1152" alt="IMG_6248"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
