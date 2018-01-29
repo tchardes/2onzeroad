@@ -84,7 +84,7 @@ Nous traversons la ville de Stewart et passons la frontière, sans aucun contrô
 
 ## 25 août    
 
-Ce matin, il pleut abondamment et la météo annonce ce même temps pour les jours à venir. Nous abandonnons l'idée de nous rendre au "Salmon Glacier" et de passer une autre journée à observer les ours. Le poste frontière pour entrer au Canada est ouvert. L’agent va chercher la responsable du poste qui parle français. Elle nous pose les questions habituelles et on discute quelques minutes, on voit que cela lui fait plaisir de pratiquer un peu notre langue. Plus tard, sur le bas côté de la route, on voit un jeune ours mort, certainement dans la nuit, percuté par un camion.    
+Ce matin, il pleut abondamment et la météo annonce ce même temps pour les jours à venir. Nous abandonnons l'idée de nous rendre au "Salmon Glacier" et de passer une autre journée à observer les ours. Le poste frontière pour entrer au Canada est ouvert. L’agent va chercher la responsable du poste qui parle français. Elle nous pose les questions habituelles et on discute quelques minutes, on voit que cela lui fait plaisir de pratiquer un peu notre langue. Plus tard, sur le bas-côté de la route, on voit un jeune ours mort, certainement dans la nuit, percuté par un camion.    
 
 Arrêt à **Gitanyow** et **Gitwangak**, deux villages de First Nations qui présentent de très vieux mâts totémiques et dans le dernier village, le site historique de Battle Hill.    
 
