@@ -38,7 +38,7 @@ Nous nous arrêtons à quelques kilomètres avant d'arriver à Charleston en Car
 
 ## 30 Avril  
 
-En arrivant au USA et voyant un peu toutes les marques de voiture circuler, on s'était dit le premier qui voit une voiture française gagne quelque chose. Et bien, c'est moi qui ait remporté la coupe et cela en rentrant dans charleston. On croise, à contre sens, une Citroën 2CV et devinez de quel modèle ... une Charleston avec sa peinture d'origine, bordeaux et noire. Sûrement un expatrié avec beaucoup d'humour...  
+En arrivant au USA et voyant un peu toutes les marques de voiture circuler, on s'était dit le premier qui voit une voiture française gagne quelque chose. Et bien, c'est moi qui ait remporté la coupe et cela en rentrant dans charleston. On croise, à contresens, une Citroën 2CV et devinez de quel modèle ... une Charleston avec sa peinture d'origine, bordeaux et noire. Sûrement un expatrié avec beaucoup d'humour...  
 
 Après la visite de ville qui nous a bien plus **(voir l’article <a href="{{site.baseurl}}{% post_url 2017/2017-04-30-usa-caroline-du-sud-charleston %}">ici</a>)** on se pose la question entre poursuivre vers le Nord par la côte en direction de Washington ou rentrer dans les terres plein Ouest et traverser las Appalaches par la Blue Ridge ParkWay. On sait qu'il est encore tôt dans la saison et que l'on risque de voir chuter le thermomètre, pire de faire la route dans le brouillard mais nous décidons de prendre un peu d'altitude. Nous serons toujours à temps de bifurquer si les conditions météorologiques ne sont pas avec nous.  
 
