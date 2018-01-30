@@ -48,7 +48,7 @@ Notre programme a été respecté, aussi bien en terme de lieux visités que de 
 * Monnaie                   : 1 Dollar US = 0,90 €
 * Prix moyen de l'essence   : 2,40 $ le gallon (entre 1,95$ à 2,60$) soit 0,56€ le litre
 * Gaz                       : Disponible un peu partout, le remplissage de notre réservoir de 20Kg coûte environ 25$ 
-* Eau - Vidanges - Électricité    : Dans les campings et states parks
+* Eau - Vidanges - Électricité    : Dans les campings et state parkss
 * Stationnements             : Pas évident de trouver des stationnements "sauvages" intéressants à moins de perdre beaucoup de temps
 * Communications             : Forfait Free à 19,99€ - Aucun problème  
 

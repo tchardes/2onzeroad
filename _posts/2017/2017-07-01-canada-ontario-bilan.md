@@ -57,7 +57,7 @@ Dans quelques jours, nous allons rentrer à nouveau au Canada pour rejoindre Cal
 * Monnaie                   : 1 Dollar Cad = 0,70 €
 * Prix moyen de l'essence   : 1,10$ le litre (entre 0,98 à 1,12$) soit 0,75€ le litre
 * Gaz                       : Disponible un peu partout, le remplissage de notre réservoir de 20Kg a coûté environ 13$ 
-* Eau - Vidanges - Électricité    : Dans les campings et states parks et certaines communes
+* Eau - Vidanges - Électricité    : Dans les campings et state parkss et certaines communes
 * Stationnements             : Pas évident de trouver des stationnements "sauvages" intéressants à moins de perdre beaucoup de temps
 * Communications             : Forfait Free à 19,99€ - Aucun problème  
 * Distance parcourue          : 3917 Miles - 6304 Km     
