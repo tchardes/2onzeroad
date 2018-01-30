@@ -32,13 +32,13 @@ Nous passons l’après-midi avec Todd à contacter une assurance, condition pre
 
 Les papiers de réservation signés, nous prenons contact avec notre banquier, le mercredi en raison du décalage horaire, pour valider le virement de banque à banque, ce qui a pris environ 4 jours.  
 
-Lundi 3 avril, de retour de Miami, nous nous arrêtons chez La Mesa RV. Todd nous confirme que l’argent est bien sûr leur compte et nous donne rendez-vous jeudi à 14h30 pour 4 heures de cours intensif sur le fonctionnement du RV et finaliser le dossier pour partir avec, le soir même.  
+Lundi 3 avril, de retour de Miami, nous nous arrêtons chez La Mesa RV. Todd nous confirme que l’argent est bien sur leur compte et nous donne rendez-vous jeudi à 14h30 pour 4 heures de cours intensif sur le fonctionnement du RV et finaliser le dossier pour partir avec, le soir même.  
 
 Arrivés un peu en avance, on traîne dans le magasin pour choisir les articles à acheter avec le coupon de 100 $ que l’on avait négocié. On rencontre ainsi un couple de canadiens, des "snowbirds" comme on les appelle ici. Ce sont les retraités qui fuient le froid du Québec et viennent passer l’hiver au soleil. On passe un long moment à discuter sur les choses à faire en Floride puis il me parle de politique et des élections qui se préparent en France. Il était au courant de tout, Macron, les affaires Fillon et Le Pen , je suis resté un peu sur le cul, étant bien incapable de sortir le moindre nom d’homme politique canadien ou même québécois.  
 
-Enfin, une dame nous prend en compte et nous présente un des employés du service technique qui parle très bien français puisque haïtien et installé aux USA depuis 30 ans. Nous passons toute l’après-midi à vérifier et à apprendre le mode de fonctionnement de tous les organes. Nous faisons réparer ce qui ne nous convient pas. Après d’âpres discussions, conforté par notre interprète, nous reviendrons dans 15 jours pour qu’il nous fixe un cache de l’extension qui est manquant. Ce sera également l'occasion de récupérer notre vraie plaque d'immatriculation.   
+Enfin, une dame nous prend en compte et nous présente un des employés du service technique qui parle très bien français puisque haïtien et installé aux USA depuis 30 ans. Nous passons tout l’après-midi à vérifier et à apprendre le mode de fonctionnement de tous les organes. Nous faisons réparer ce qui ne nous convient pas. Après d’âpres discussions, conforté par notre interprète, nous reviendrons dans 15 jours pour qu’il nous fixe un cache de l’extension qui est manquant. Ce sera également l'occasion de récupérer notre vraie plaque d'immatriculation.   
 
-En revenant de la signature du contrat, tout a été " fixé ", comme ils disent, et je pars au volant de notre Homezeroad tandis que Corinne suit avec la voiture de location. Le soir même, nous nous posons à quelques kilomètres, sur le parking d’un Walmart (Auchan, Carrefour) dont certains acceptent les CC pour la nuit. C’est aussi très pratique car ils sont ouverts 24/24. De là, nous avons pu commencer l’aménagement et l'approvisionnement de Thor.  
+En revenant de la signature du contrat, tout a été "fixé", comme ils disent, et je pars au volant de notre Homezeroad tandis que Corinne suit avec la voiture de location. Le soir même, nous nous posons à quelques kilomètres, sur le parking d’un Walmart (Auchan, Carrefour) dont certains acceptent les CC pour la nuit. C’est aussi très pratique car ils sont ouverts 24/24. De là, nous avons pu commencer l’aménagement et l'approvisionnement de Thor.  
 
 L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte aspirante, un micro-onde, un frigo, un congélateur, un climatiseur, un chauffage, un chauffe-eau, une TV écran plat avec lecteur DVD, une génératrice, une caméra de recul, une échelle de toit, une bonbonne de Gaz (Propane) et une fosse septique.  
 
@@ -51,7 +51,7 @@ L’équipement est de base pour ce type de RV, une cuisine 3 feux, une hotte as
 
 ### Spécifications
 * Capacité de couchage maximum : 6
-* Nombre de slideouts : 1
+* Nombre de slideout : 1
 * Longueur (ft-in / m): 24' 11 '' / 7,6
 * Hauteur intérieure (mm / po): 82 / 2082,8
 * Climatisation (BTU) : 13500
@@ -88,7 +88,7 @@ Ce sont les photos du site vendeur, plus parlantes sans toutes nos affaires.
 
 Nous avons organisé, en toute simplicité, une cérémonie non protocolaire de plantage de fanion sur l'antenne de notre nouveau territoire. Il est quand même important d’indiquer qu’ici, afin du moins à l’intérieur… c’est la France !!!! Cette "carte de visite" permettra peut-être à des Français en exil ou en vacances ou bien à des autochtones de venir au contact et bavarder un peu.  
 
-Comme il est de coutume, dans le monde des voyageurs, de donner un nom à leur camping-car, nous n’allons pas déroger à la règle et Corinne a choisi le nom de " THOR " s’il lui faut un prénom ce sera Hervé (RV - Recreativ Vehicle) espérons qu’il ne nous rende pas complètement marteau.  
+Comme il est de coutume, dans le monde des voyageurs, de donner un nom à leur camping-car, nous n’allons pas déroger à la règle et Corinne a choisi le nom de "THOR" s’il lui faut un prénom ce sera Hervé (RV - Recreativ Vehicle) espérons qu’il ne nous rende pas complètement marteau.  
 
 <img src="{{baseurl}}/assets/owner/photos/Thor4.jpg" style="width:100%" />  
 
