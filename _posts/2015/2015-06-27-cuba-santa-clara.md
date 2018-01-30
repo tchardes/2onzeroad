@@ -24,7 +24,7 @@ En route vers Santa-Clara, dernière visite avant notre retour sur la Havane, no
 
 ### Memorial Comandante Ernesto Che Guevara
 
-Santa Clara est un passage obligé, un pèlerinage pour tous les cubains. En 1958, pendant la révolution, **Ernesto "Che" Guevara** à la tête de 300 hommes prend la ville et met en déroute les 3000 soldats du dictateur **Batista** qui la défendaient. Les jours suivants, il inflige une nouvelle défaite aux troupes gouvernementales en faisant dérailler un train militaire transportant soldats et matériels, qui devaient bloquer la progression des rebelles vers la capitale. Cette défaite est à l'origine de la fuite de Batista vers Saint-Domingue et accéléra la chute du régime.
+Santa Clara est un passage obligé, un pèlerinage pour tous les Cubains. En 1958, pendant la révolution, **Ernesto "Che" Guevara** à la tête de 300 hommes prend la ville et met en déroute les 3000 soldats du dictateur **Batista** qui la défendaient. Les jours suivants, il inflige une nouvelle défaite aux troupes gouvernementales en faisant dérailler un train militaire transportant soldats et matériels, qui devaient bloquer la progression des rebelles vers la capitale. Cette défaite est à l'origine de la fuite de Batista vers Saint-Domingue et accéléra la chute du régime.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/127048817@N07/30730372891/in/photostream/" title="Photos Blog - Santa Clara - [Cuba]"><img src="https://c4.staticflickr.com/6/5723/30730372891_2826b3ff72_k.jpg" width="2048" height="1152" alt="Photos Blog - Santa Clara - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -38,7 +38,7 @@ Après cette salle, l'on arrive dans un musée où se trouve de nombreuses photo
 
 ### Pourquoi le "Che" ?
 
-Comment **Ernesto Guevara** est devenu le **"Che"** ? Il s'agit en fait d’un tic de langage. En effet, Ernesto avait l’habitude de terminer toutes ses phrases par " che ". Une exclamation utilisée par les argentins, oui il est argentin et non cubain, qui pourrait se traduire grosso modo par " hé toi ", " hé mec ". Un terme qui ne sert en fait à rien d’autre qu’à fermer les guillemets. Il n’en faudra pas plus pour que les cubains le rebaptisent en Ernesto Che Guevara dit le "Che".
+Comment **Ernesto Guevara** est devenu le **"Che"** ? Il s'agit en fait d’un tic de langage. En effet, Ernesto avait l’habitude de terminer toutes ses phrases par " che ". Une exclamation utilisée par les argentins, oui il est argentin et non cubain, qui pourrait se traduire grosso modo par " hé toi ", " hé mec ". Un terme qui ne sert en fait à rien d’autre qu’à fermer les guillemets. Il n’en faudra pas plus pour que les Cubains le rebaptisent en Ernesto Che Guevara dit le "Che".
 
 A midi nous déjeunons dans un très bel hôtel-restaurant "Los Caneyes", magnifiquement aménagé et qui rappelle un village indigène. Il est orné de nombreuses sculptures et cabanes aux toits de chaume.
 

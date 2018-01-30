@@ -49,11 +49,11 @@ Une journée ne suffit pas pour tout voir. Ancien quartier mal famé, Tony Goldm
 
 **Little Havana**
 
-A la fin des années 50, de nombreux cubains fuyant le régime castriste viennent s’installer à Miami dans ce quartier qui deviendra au fil du temps la Petite Havane. La principale rue à voir est la "Calle Ocho", SW 8th entre la SW 17th et la SW 13th avenue. 
+A la fin des années 50, de nombreux Cubains fuyant le régime castriste viennent s’installer à Miami dans ce quartier qui deviendra au fil du temps la Petite Havane. La principale rue à voir est la "Calle Ocho", SW 8th entre la SW 17th et la SW 13th avenue. 
 
-Les cubains ont transformé cette rue en un Walk of Fame comme à Hollywood. Les principales stars d’origine cubaine y ont leur étoile et leur nom gravé dans le sol. Les principales choses à voir en descendant cette rue sont :
+Les Cubains ont transformé cette rue en un Walk of Fame comme à Hollywood. Les principales stars d’origine cubaine y ont leur étoile et leur nom gravé dans le sol. Les principales choses à voir en descendant cette rue sont :
 
-- Domino Park : lieu où les cubains viennent jouer au Domino ;
+- Domino Park : lieu où les Cubains viennent jouer au Domino ;
 - Little Havana Cigar Factory : boutiques de cigares cubains où l’on peut observer leur fabrication et en déguster ;
 - Tower Theater : Salle de spectacle de 1926 à l’architecture art deco ;
 - Pedestrian Walk : petite rue piétonne décorée de mosaïques cubaines ;

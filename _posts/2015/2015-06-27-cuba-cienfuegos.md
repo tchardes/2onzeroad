@@ -31,7 +31,7 @@ Nous poursuivons notre route en direction de **Guama** et sa ferme aux crocodile
 
 Nous reprenons la route en direction de la **"Baya de cochinos"**, Playa Larga et Playa Giron. A l'entrée de la ville, un panneau indique " Playa Giron, la première défaite impérialiste en Amérique Latine ", le décor est planté. Nous nous arrêtons au **Museo de la Intervención**. Le musée retrace la journée du 17 avril 1961 au cours de laquelle 1500 "mercenaires" et exilés cubains entraînés par la CIA, débarquèrent pour renverser Fidel Castro. Ils ne s'attendaient pas à ce que des chars russes T-34 et des avions de chasse T-33 les accueillent. Après deux jours de combats aériens et terrestres incessants, les mercenaires se rendirent.
 
-Devant le musée, le visiteur est accueilli par des vestiges de chars américains et un bombardier B-26 abattu par les cubains. Cette visite a été l'occasion avec Ana de parler longuement de cet épisode dont je ne connaissais pas vraiment l'histoire et les réelles manœuvres étasuniennes. 
+Devant le musée, le visiteur est accueilli par des vestiges de chars américains et un bombardier B-26 abattu par les Cubains. Cette visite a été l'occasion avec Ana de parler longuement de cet épisode dont je ne connaissais pas vraiment l'histoire et les réelles manœuvres étasuniennes. 
 
 Pour approfondir le sujet : <https://fr.wikipedia.org/wiki/D%C3%A9barquement_de_la_baie_des_Cochons>
 
@@ -58,5 +58,5 @@ Ce n'est pas le seul témoignage français à Cienfuegos. Sur le **Palacio de Go
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/127048817@N07/29841211554/in/dateposted/" title="Drapeaux - Cienfuegos - [Cuba]"><img src="https://c3.staticflickr.com/6/5777/29841211554_c42f1bb17b_b.jpg" width="1024" height="576" alt="Drapeaux - Cienfuegos - [Cuba]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Sur la place et pour la première fois, nous sommes abordés gentiment par des locaux qui nous demandent toutes sortes de choses comme du savon, des stylos, du maquillage... du luxe pour eux quand on sait que les magasins d'état sont vides de tous ces produits que nous appelons nous de consommation courante. Même si les cubains sont les rois de la débrouille, l'embargo ne leur permet pas d'accéder au "superflue". Même si Ana n'est pas intervenue auprès de ces personnes, on la sentait gênée par la situation.   
+Sur la place et pour la première fois, nous sommes abordés gentiment par des locaux qui nous demandent toutes sortes de choses comme du savon, des stylos, du maquillage... du luxe pour eux quand on sait que les magasins d'état sont vides de tous ces produits que nous appelons nous de consommation courante. Même si les Cubains sont les rois de la débrouille, l'embargo ne leur permet pas d'accéder au "superflue". Même si Ana n'est pas intervenue auprès de ces personnes, on la sentait gênée par la situation.   
 
