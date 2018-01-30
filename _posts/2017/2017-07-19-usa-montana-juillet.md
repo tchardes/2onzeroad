@@ -115,7 +115,7 @@ Ce matin, dernier tour à la Devils Tower puis départ vers Cody, Corinne prend 
 
 ## 10 juillet  
 
-La matin, on se lève de bonne heure pour trouver un garage qui puisse nous faire la vidange. Ce sera le Walmart où nous sommes qui prend les RV jusqu’à 26’ de long. Dans la matinée, nous faisons la visite de la ville de Cody qui est une ville tout droit sortie d'un western avec sa rue principale bordée de boutiques aux devantures typiques. Nous déjeunons chez "The Irma", l’ancien Hôtel de William Frederick Cody dit Buffalo Bill. L’après midi repos, achat d’un DD externe pour doubler les sauvegardes et… Rodéo en soirée.  
+La matin, on se lève de bonne heure pour trouver un garage qui puisse nous faire la vidange. Ce sera le Walmart où nous sommes qui prend les RV jusqu’à 26’ de long. Dans la matinée, nous faisons la visite de la ville de Cody qui est une ville tout droit sortie d'un western avec sa rue principale bordée de boutiques aux devantures typiques. Nous déjeunons chez "The Irma", l’ancien Hôtel de William Frederick Cody dit Buffalo Bill. L’après-midi repos, achat d’un DD externe pour doubler les sauvegardes et… Rodéo en soirée.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/35868143892/in/datetaken/" title="Cody - Wyoming - [USA]"><img src="https://farm5.staticflickr.com/4311/35868143892_3169cf75d4_h.jpg" width="1600" height="900" alt="Cody - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
