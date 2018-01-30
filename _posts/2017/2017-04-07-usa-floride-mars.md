@@ -59,7 +59,7 @@ Mention particulière pour deux chaînes :
 
 ### Visites  
 
-La région en soit n’est pas exceptionnelle mais nous nous baladons, faisons les magasins pour commencer à voir quel type de nourriture peut nous convenir et commencer virtuellement à aménager notre futur HomeZeRoad.  
+La région en soi n’est pas exceptionnelle mais nous nous baladons, faisons les magasins pour commencer à voir quel type de nourriture peut nous convenir et commencer virtuellement à aménager notre futur HomeZeRoad.  
 
 #### Musée National des Navy SEAL  
 
