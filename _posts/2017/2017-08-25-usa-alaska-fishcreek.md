@@ -27,7 +27,7 @@ Ce site est fréquenté par tous les animaux qui viennent y chercher un repas fa
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36430829480/in/datetaken/" title="Hyder - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4414/36430829480_21aeb406eb_k.jpg" width="2048" height="1152" alt="Hyder - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Des gardes forestiers "patrouillent", sur le ponton long de plusieurs dizaines de mètres, "armés" comme la plupart des visiteurs dont une majorité de photographes, de bombes anti ours. Devant l'entrée, sont exposées de nombreuses photos dont une série qui montre deux ours noirs tentant de monter sur le ponton, nécessitant l'usage de gaz pour les faire renoncer et déguerpir. Cela rappelle que tous mignons qu'ils sont, cela reste des animaux sauvages très dangereux.  
+Des gardes forestiers "patrouillent", sur le ponton long de plusieurs dizaines de mètres, "armés" comme la plupart des visiteurs dont une majorité de photographes, de bombes anti-ours. Devant l'entrée, sont exposées de nombreuses photos dont une série qui montre deux ours noirs tentant de monter sur le ponton, nécessitant l'usage de gaz pour les faire renoncer et déguerpir. Cela rappelle que tous mignons qu'ils sont, cela reste des animaux sauvages très dangereux.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36429542130/in/datetaken/" title="Hyder - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4393/36429542130_5d342346c0_k.jpg" width="2048" height="1152" alt="Hyder - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 

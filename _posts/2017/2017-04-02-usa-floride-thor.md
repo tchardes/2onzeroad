@@ -18,7 +18,7 @@ category: "blog"
 location: "27.361876, -80.408413"
 ---
 
-Après de nombreuses heures, voire journées et même nuits à se poser des questions sur le type de camping car à acheter et éplucher les sites américains, nous y voilà… on les voit en vrai, en grand.  
+Après de nombreuses heures, voire journées et même nuits à se poser des questions sur le type de camping-car à acheter et éplucher les sites américains, nous y voilà… on les voit en vrai, en grand.  
 
 La visite chez le premier concessionnaire de notre liste " North Trail RV Center " à Fort Lauderdale ne nous a pas convaincu, aussi bien au niveau du parc occasion que du vendeur. Le lundi 27 mars, nous nous rendons sur le deuxième à savoir " La Mesa RV " à Port Sainte Lucie. Immense concessionnaire avec une bonne centaine d’unités sur leur parc, nous tombons sur un vendeur très sympathique, Todd, qui est un peu surpris de nous voir arriver comme ça de France avec notre projet. Il comprend très bien nos difficultés, aussi bien au niveau de la langue que des formalités administratives à venir et nous propose de nous assister tout au long du processus d’immatriculation.  
 
@@ -88,7 +88,7 @@ Ce sont les photos du site vendeur, plus parlantes sans toutes nos affaires.
 
 Nous avons organisé, en toute simplicité, une cérémonie non protocolaire de plantage de fanion sur l'antenne de notre nouveau territoire. Il est quand même important d’indiquer qu’ici, afin du moins à l’intérieur… c’est la France !!!! Cette "carte de visite" permettra peut-être à des Français en exil ou en vacances ou bien à des autochtones de venir au contact et bavarder un peu.  
 
-Comme il est de coutume, dans le monde des voyageurs, de donner un nom à leur camping car, nous n’allons pas déroger à la règle et Corinne a choisi le nom de " THOR " s’il lui faut un prénom ce sera Hervé (RV - Recreativ Vehicle) espérons qu’il ne nous rende pas complètement marteau.  
+Comme il est de coutume, dans le monde des voyageurs, de donner un nom à leur camping-car, nous n’allons pas déroger à la règle et Corinne a choisi le nom de " THOR " s’il lui faut un prénom ce sera Hervé (RV - Recreativ Vehicle) espérons qu’il ne nous rende pas complètement marteau.  
 
 <img src="{{baseurl}}/assets/owner/photos/Thor4.jpg" style="width:100%" />  
 
