@@ -1,7 +1,7 @@
 ---
 layout:  blog
-title:   "Côte Ouest"
-preview:    "Onzième article ..."
+title:   "Californie"
+preview:    "Cet article couvre la période du 31 janvier au..."
 parent-id: 
 
 date:        2018-02-02 13:00:00
@@ -16,7 +16,7 @@ country: USA
 states: ["Californie"]
 category: "roadmap"
 flickr-text: ""
-location: "43.950425, -120.660369"
+location: "35.466022, -117.636969"
 itinary: "2018/oregon.json"
 mapZoom: 5
 
