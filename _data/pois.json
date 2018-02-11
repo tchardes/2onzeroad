@@ -96,6 +96,7 @@
     {"name": "ucluelet", "displayName": "Ucluelet", "type": "nature"},
     {"name": "saguenay", "displayName": "Fjord Saguenay Parc d'état", "type": "nature"},
     {"name": "yoda", "displayName": "Yoda", "type": "autre"},
-    {"name": "hautes-terres", "displayName": "Parc National des Hautes Terres", "type": "nature"}
+    {"name": "hautes-terres", "displayName": "Parc National des Hautes Terres", "type": "nature"},
+    {"name": "point-reyes", "displayName": "Point Reyes National Seashore", "type": "nature"}
 
 ]
