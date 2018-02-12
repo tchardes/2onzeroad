@@ -4,7 +4,7 @@ title:      "The Golden Gate"
 preview:    "... "
 parent-id:  2018-02-20-usa-californie-fevrier
 
-date:       2017-09-12 12:00:00
+date:       2018-02-07 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-lassen.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-lassen.jpg
