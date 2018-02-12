@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "36.591905, -121.894623"
-  name: "Monterey, Californie, USA"
-  date: "07 février 2018"
+  coordinates: "34.105517, -118.283608"
+  name: "Los Angeles, Californie, USA"
+  date: "10 au 13 février 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
