@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "The Golden Gate Bridge"
-preview:    "Le pont du Golden Gate, "pont de la porte d'or", est un pont suspendu traversant le détroit du Golden Gate par lequel la baie de San Francisco débouche sur l’océan Pacifique... "
+preview:    "Le pont du Golden Gate, (pont de la porte d'or), est un pont suspendu traversant le détroit du Golden Gate par lequel la baie de San Francisco débouche sur l’océan Pacifique... "
 parent-id:  2018-02-20-usa-californie-fevrier
 
 date:       2018-02-08 12:00:00
