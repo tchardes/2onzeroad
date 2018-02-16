@@ -17,7 +17,7 @@ states: ["Californie"]
 category: "roadmap"
 flickr-text: ""
 location: "35.466022, -117.636969"
-itinary: "2018/oregon.json"
+itinary: "2018/californie.json"
 mapZoom: 5
 
 ---
