@@ -4,7 +4,7 @@ title:   "Californie"
 preview:    "Cet article couvre la période du 31 janvier au..."
 parent-id: 
 
-date:        2018-02-02 13:00:00
+date:        2018-02-20 13:00:00
 from-date:   2018-01-31 13:00:00
 to-date:     2018-02-19 13:00:00
 author:     "Thierry"
