@@ -8,8 +8,8 @@ date:        2018-02-02 13:00:00
 from-date:   2018-01-31 13:00:00
 to-date:     2018-02-19 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt11.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt11.jpg
+header-img: "assets/owner/blog/header/post-bg-rt12.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt12.jpg
 tags: [architecture, culturel, transport, mer-ocean]
 pois: []
 country: USA
