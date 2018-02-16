@@ -4,11 +4,11 @@ title:      "The Golden Gate Bridge"
 preview:    "Le pont du Golden Gate, "pont de la porte d'or", est un pont suspendu traversant le détroit du Golden Gate par lequel la baie de San Francisco débouche sur l’océan Pacifique... "
 parent-id:  2018-02-20-usa-californie-fevrier
 
-date:       2018-02-07 12:00:00
+date:       2018-02-08 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-golden.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-golden.jpg
-tags: [architecture, technologie, mer-ocean]
+tags: [architecture, technologie, mer-ocean, monument]
 pois: [golden-gate, san-francisco]
 flickr-text: "Golden Gate"
 country: USA 
