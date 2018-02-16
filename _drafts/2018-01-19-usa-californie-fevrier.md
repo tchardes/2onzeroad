@@ -35,28 +35,40 @@ Ce matin on se réveille vers 7h00 on prend notre petit déjeuner à l’hôtel,
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40047289451/in/datetaken/" title="Anthony Chabot Regional Park - Californie - [USA]"><img src="https://farm5.staticflickr.com/4611/40047289451_4ff4fe4bdd_b.jpg" width="1024" height="576" alt="Anthony Chabot Regional Park - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
-## 03 février 
+## 03 février  
+
 Départ du camping pour la région viticole de Napa la plus grande zone de production de vin aux USA.  
-Nous longeons le Parc Redwood RP qui offre une vue magnifique sur la baie de SF, le downtown jusqu’au Golden Gate. Le parc abrite de nombreux mimosas tous en fleurs. La ville de Napa de vaut pas le détour mais les environs sont agréable, même si en cette saison on taille la vigne. Le relief est très vallonée et comme les vignobles ne sont pas entièrement labourés entre les vignes, l’ensemble reste vert et parfois entièrement. jaune en raison des fleurs (bouton d’or?). Nous poursuivons notre route au milieu des vignobles et pâturages pour arriver à Somona, jolie petite ville qui a su garder son âme Mexicaine avec sa mission (San Francisco ……) et ces vieux bâtiments d’époque. C’est ici que pour la première fois les américains se sont rebellés contre les Mexicains qui ne voulaient leur octroyer des terres. La « California Republica » fut ainsi décrété avec son drapeau à l’étoile rouge et son ours (oui à l’époque il y avait encore une race d’ours endémique à la Californie). peut de temps après cette République a été incorporée dans l’Union. Nous y passons deux bonne heures à flâner et au detour de notre visite nous voyons dans une allée une Citroën 2CV camionnette avec encore son immatriculation française, dans le 49.
-Nous nous arrêtons faire des courses à Petaluna dans un magasin «Target », c’est la première fois que nous faisons des infidelitée à Walmart…. On s’achète une bouteille de vin rouge du coin, il faut quand gouter, même si nous avons toujours la crainte de tomber sur du vin « Soft » c’est  dire sucré.. et oui !!!.
-La route pour arriver à Point Reys Station est très belle, sinueuse entre des vallons qui abritent principalement des prairies. Je me demande si la photo du fond d’écran de Windows XP na pas été prise dans le coin. Arrivés à destination on tourne un peu dans le village et on se fait discret en se garant dans une rue qui offre même du WIFI libre d’accès.
+Nous longeons le Parc Redwood RP qui offre une vue magnifique sur la baie de SF, le downtown jusqu’au Golden Gate. Le parc abrite de nombreux mimosas tous en fleurs.
+
+
+
+La ville de Napa de vaut pas le détour mais les environs sont agréable, même si en cette saison on taille la vigne. Le relief est très vallonnée et comme les vignobles ne sont pas entièrement labourés entre les rangées de vigne, l’ensemble reste vert et parfois entièrement jaune en raison des fleurs (bouton d’or?). Nous poursuivons notre route au milieu des vignobles et pâturages pour arriver à Somona, jolie petite ville qui a su garder son âme Mexicaine avec sa mission San Francisco Solano et ces vieux bâtiments d’époque.
+
+
+
+C’est ici que pour la première fois les américains se sont rebellés contre les Mexicains qui ne voulaient leur octroyer des terres. La "California Republica" fut ainsi décrété avec son drapeau à l’étoile rouge et son ours (oui à l’époque il y avait encore une race d’ours endémique à la Californie). Peut de temps après, cette République a été incorporée dans l’Union. Nous y passons deux bonne heures à flâner et au detour de notre visite nous voyons dans une allée une Citroën 2CV camionnette avec encore son immatriculation française, dans le 49.
+
+
+
+Nous nous arrêtons faire des courses à Petaluna dans un magasin «Target», c’est la première fois que nous faisons des infidélités à Walmart… On s’achète une bouteille de vin rouge du coin, il faut quand goûter, même si nous avons toujours la crainte de tomber sur du vin "Soft" c’est  dire sucré... La route pour arriver à Point Reys Station est très belle, sinueuse entre des vallons qui abritent principalement des prairies. Je me demande si la photo du fond d’écran de Windows XP na pas été prise dans le coin. Arrivés à destination on tourne un peu dans le village et on se fait discret en se garant dans une rue qui offre même du WIFI libre d’accès.
 
 
 ## 04 février 
 
-La nuit c’est bien passée, nous n’avons pas été dérangé, quartier très calme. On part vers 09h00 en direction du visitor Center du Point Reyes Seashore National Parc qui est fermé à notre arrivée. Nous pouvons récupérer quand même de la doc qui est mise à disposition et nous comprenons que le WE, la route pour aller au phare est fermée en raison du trafic et des routes étroites mais que des navettes sont mises en place à partir du Kenneth C. Patrick Visitor Center pour le prix de 7$/Pers. L’entrée du parc est gratuite. Nous arrivons juste pour l’ouverture à 10h00. Nous achetons nos ticket au Park ranger qui parle bien le français. Nous montons dans le car direction le The Point Reyes Lighthouse. 308 marches pour y descendre, Corinne reste en haut sur une plateforme où se trouve de nombreux volontaires qui comptent les cétacés qui croisent le Cap. Nous sommes sur la route des baleines du Pacifique qui depuis l’Alaska où elles ont passées l’été, redescendent maintenant vers le Mexique et la mer de Valdes pour se reproduire. Du temps que je visite phare Corinne voit 2 baleines faire surface avant de replonger. Sur le chemin de retour nous en verrons une autre souffler puis reprendre sa respiration avant de disparaître. Nous reprenons la navette pour un autre site à visiter « Elephant Seal Overlook » une plage sur laquelle se prélasse une colonie d’éléphants de mer très bruyante puis la Chimney Rock Trail Head, un trail de 2 miles qui nous conduit à une autre extrémité de cette bande de terre. Le décor est splendide, prairies très vallonnées au bord de falaises plongeant dans le pacifique. Les vaches ont vraiment une vue imprenable.
+La nuit c’est bien passée, nous n’avons pas été dérangé, quartier très calme. On part vers 09h00 en direction du visitor Center du Point Reyes Seashore National Parc qui est fermé à notre arrivée. Nous pouvons récupérer quand même de la doc qui est mise à disposition. Nous roulons jusqu'au Kenneth C. Patrick Visitor Center et achetons notre ticket pour la navette 
+à un Park ranger qui parle très bien le français. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018-02-02-usa-reyes %}">ici</a>)**.
+
 Nous sommes de retour à Thor vers 15h30 et après un bon repas arrosé d’un vin rouge de Napa (pas inoubliable mais pas sucré, une chance) nous décidons de partir vers SF. Sur Ioverlander, nous trouvons un bivouac au pied du Golden Gate à Sausalito, nous tentons notre chance. Une fois arrivés sur place, la vue et à couper le souffle, je prend le matériel pour faire quelques photos de nuit. Ca tombe bien il fait nuit noire vers 18h00.
 
-## 05 février 
 
-Ce matin on a mis le réveil à 7h00 pour voir le levé de soleil sur le Golden Gate, pas de mot. Nous avons passé la nuit tranquille, trop sympas les Park Rangers. Nous partons ensuite sur pour le Golden Gate View point et de là, je fais plusieurs spots photos. Nous partons ensuite pour le Mont Tamalpais qui domine toute la baie. Il s’agit d’un State Park dont l’entrée est gratuite mais le parking final et lui payant, 8$ par véhicule que l’on place dans une enveloppe. Je fais un trail jusqu’au sommet et effectivement la vue vaut les efforts pour grimper jusque là, la baie et toutefois noyée sous fine brume bleutée. Nous mangeons là avant de revenir sur nos pas en direction de Sausalito. 
+## 05 et 06 février 
+
+Ce matin on a mis le réveil à 7h00 pour voir le levé de soleil sur le Golden Gate, pas de mot... Nous avons passé la nuit tranquille, trop sympas les Park Rangers. Nous partons ensuite sur pour le Golden Gate View point et de là, je fais plusieurs spots photos. Nous partons ensuite pour le Mont Tamalpais qui domine toute la baie. Il s’agit d’un State Park dont l’entrée est gratuite mais le parking final et lui payant, 8$ par véhicule que l’on place dans une enveloppe. Je fais un trail jusqu’au sommet et effectivement la vue vaut les efforts pour grimper jusque là, la baie et toutefois noyée sous fine brume bleutée. Nous mangeons là avant de revenir sur nos pas en direction de Sausalito. 
 On finit la journée sur les différents points de vues pour faire des photos de nuit du Golden Gate.
 
+Ce matin départ de notre super bivouac où nous n’avons pas été dérangés. Nous traversons le golden Gate et nous nous arrêtons à un point de vue pour prendre quelques photos. En repartant je me trompe de route et nous retraversons le pont dans l’autre sens avant de revenir une nouvelle fois sur San Francisco. Nous nous arrêtons à un parking gratuit la journée et partons à pied le long de la baie jusqu’au Fischerman's Wharf où nous déjeunons. Je reprend la spécialité locale «Clams Shoulders» servi dans une boule de pain. Ensuite nous prenons le bus et allons plein centre du coté de l’hôtel de ville. En fin d’après-midi nous retournons au camping et partons vers notre bivouac. Super journée sous un soleil éclatant.
 
-## 06 février 
-
-Ce matin départ de notre super bivouac où nous n’avons pas été dérangés. Nous traversons le golden Gate et nous nous arrêtons à un point de vue pour prendre quelques photos. En repartant je me trompe de route et nous retraversons le pont dans l’autre sens avant de revenir une nouvelle fois sur San Francisco. Nous nous arrêtons à un parking gratuit la journée et partons à pied le long de la baie jusqu’au Fischerman's Wharf où nous déjeunons. Je reprend la spécialité locale «Clams Sholders» servi dans une boule de pain. Ensuite nous prenons le bus et allons plein centre du coté de l’hôtel de ville. En fin d’après-midi nous retournons au camping et partons vers notre bivouac. Super journée sous un soleil éclatant.
-
+**(voir l’article <a href="{{site.baseurl}}{% post_url 2018-02-06-usa-goldengate %}">ici</a>)**.
 
 ## 07 février 
 
