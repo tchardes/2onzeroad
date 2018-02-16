@@ -37,8 +37,7 @@ Ce matin on se réveille vers 7h00 on prend notre petit déjeuner à l’hôtel,
 
 ## 03 février  
 
-Départ du camping pour la région viticole de Napa la plus grande zone de production de vin aux USA.  
-Nous longeons le Parc Redwood RP qui offre une vue magnifique sur la baie de SF, le downtown jusqu’au Golden Gate. Le parc abrite de nombreux mimosas tous en fleurs.
+Départ du camping pour la région viticole de Napa la plus grande zone de production de vin aux USA. Nous longeons le Parc Redwood RP qui offre une vue magnifique sur la Baie de "Frisco", du downtown jusqu’au Golden Gate. Le parc abrite de nombreux mimosas tous en fleurs.
 
 
 
