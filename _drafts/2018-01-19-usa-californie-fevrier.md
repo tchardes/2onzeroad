@@ -133,7 +133,7 @@ Le Presidio, caserne construite par l'Espagne en 1782 dans le but de défendre l
 
 ## 11 février 
 
-Nuit assez calme malgré le traffic. Nous partons en direction de Getty Villa à Pacific Palisades, nous y restons presque 2 heures, c’est gratuit juste le parking. Nous poursuivons ensuite pour le Getty center et plus particulièrement son musée. Très belle visite. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018-02-11-usa-getti %}">ici</a>)**. Ensuite direction le seul Walmart qui semble accepter les RV, nous faisons les courses et de retour à Thor on vient nous dire que l’on ne peu rester là. On trouve en emplacement pas très loin dans impasse d’un quartier résidentiel.
+Nuit assez calme malgré le traffic. Nous partons en direction de Getty Villa à Pacific Palisades, nous y restons presque 2 heures, c’est gratuit juste le parking. Nous poursuivons ensuite pour le Getty center et plus particulièrement son musée. Très belle visite. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018-02-11-usa-getty %}">ici</a>)**. Ensuite direction le seul Walmart qui semble accepter les RV, nous faisons les courses et de retour à Thor on vient nous dire que l’on ne peu rester là. On trouve en emplacement pas très loin dans impasse d’un quartier résidentiel.
 
 
 
