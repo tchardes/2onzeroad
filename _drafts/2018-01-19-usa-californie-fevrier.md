@@ -56,7 +56,7 @@ Nous nous arrêtons faire des courses à Petaluna dans un magasin «Target», c�
 ## 04 février 
 
 La nuit c’est bien passée, nous n’avons pas été dérangé, quartier très calme. On part vers 09h00 en direction du visitor Center du Point Reyes Seashore National Parc qui est fermé à notre arrivée. Nous pouvons récupérer quand même de la doc qui est mise à disposition. Nous roulons jusqu'au Kenneth C. Patrick Visitor Center et achetons notre ticket pour la navette 
-à un Park ranger qui parle très bien le français. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018-02-02-usa-reyes %}">ici</a>)**.
+à un Park ranger qui parle très bien le français. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-02-02-usa-reyes %}">ici</a>)**.
 
 Nous sommes de retour à Thor vers 15h30 et après un bon repas arrosé d’un vin rouge de Napa (pas inoubliable mais pas sucré, une chance) nous décidons de partir vers SF. Sur Ioverlander, nous trouvons un bivouac au pied du Golden Gate à Sausalito, nous tentons notre chance. Une fois arrivés sur place, la vue et à couper le souffle, je prend le matériel pour faire quelques photos de nuit. Ca tombe bien il fait nuit noire vers 18h00.
 
@@ -71,7 +71,7 @@ Ce matin on a mis le réveil à 7h00 pour voir le levé de soleil sur le Golden 
 Nous nous intéressons plus particulièrement aux Houses Boats. Dans les années 1960-1970, les hippies investissent les lieux et résident dans des bateaux-maison (house boats). Péniches rafistolées et house-boats sophistiqués composent ce village flottants aux superstructures les plus excentriques. Autrefois haut lieu de la contre-culture, Sausalito est désormais un des sites préférés des Bourgeois-bohème qui ont fait fortune dans la Silicon Valley. Il parait que c’est là qu’Otis Redding a composée "Sittin’on the dock of the bay". 
 
 
-On finit la journée sur les différents points de vues pour faire des photos de nuit du Golden Gate. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018-02-06-usa-goldengate %}">ici</a>)**.
+On finit la journée sur les différents points de vues pour faire des photos de nuit du Golden Gate. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-02-06-usa-goldengate %}">ici</a>)**.
 
 Ce matin départ de notre super bivouac où nous n’avons pas été dérangés. Nous traversons le golden Gate et nous nous arrêtons à un point de vue pour prendre quelques photos. En repartant je me trompe de route et nous retraversons le pont dans l’autre sens avant de revenir une nouvelle fois sur San Francisco. Nous nous arrêtons à un parking gratuit la journée et partons à pied le long de la baie jusqu’au Fischerman's Wharf où nous déjeunons. Je reprend la spécialité locale «Clams Shoulders» servi dans une boule de pain. Ensuite nous prenons le bus et allons plein centre du coté de l’hôtel de ville. En fin d’après-midi nous retournons au parking et prenons le soleil au bort de la baie avant de partir vers notre bivouac. Super journée sous un soleil éclatant.
 
@@ -133,7 +133,7 @@ Le Presidio, caserne construite par l'Espagne en 1782 dans le but de défendre l
 
 ## 11 février 
 
-Nuit assez calme malgré le traffic. Nous partons en direction de Getty Villa à Pacific Palisades, nous y restons presque 2 heures, c’est gratuit juste le parking. Nous poursuivons ensuite pour le Getty center et plus particulièrement son musée. Très belle visite. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018-02-11-usa-getty %}">ici</a>)**. Ensuite direction le seul Walmart qui semble accepter les RV, nous faisons les courses et de retour à Thor on vient nous dire que l’on ne peu rester là. On trouve en emplacement pas très loin dans impasse d’un quartier résidentiel.
+Nuit assez calme malgré le traffic. Nous partons en direction de Getty Villa à Pacific Palisades, nous y restons presque 2 heures, c’est gratuit juste le parking. Nous poursuivons ensuite pour le Getty center et plus particulièrement son musée. Très belle visite. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-02-11-usa-getty %}">ici</a>)**. Ensuite direction le seul Walmart qui semble accepter les RV, nous faisons les courses et de retour à Thor on vient nous dire que l’on ne peu rester là. On trouve en emplacement pas très loin dans impasse d’un quartier résidentiel.
 
 
 
