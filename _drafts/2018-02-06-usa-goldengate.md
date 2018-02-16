@@ -18,8 +18,23 @@ category: "blog"
 location: "37.820621, -122.478258"
 ---
 
-Le pont du Golden Gate, "pont de la porte d'or", est un pont suspendu traversant le détroit du Golden Gate par lequel la baie de San Francisco débouche sur l’océan Pacifique permettant ainsi de relier San Francisco à la ville de Sausalito. Sa construction, qui se heurte à de nombreuses difficultés, débute en 1933 et s’étale sur une durée de quatre ans, pour s’achever en 1937. Il reste jusqu’en 1964 le pont suspendu le plus long du monde. Il est en outre aisément reconnaissable à sa couleur nommée "orange international" et à l’architecture de ses deux pylônes. Selon un classement de l’American Society of Civil Engineers, l'ouvrage d'art fait partie des sept merveilles du monde moderne.
+Le pont du Golden Gate, "pont de la porte d'or", est un pont suspendu traversant le détroit du Golden Gate par lequel la baie de San Francisco débouche sur l’océan Pacifique, permettant ainsi de relier San Francisco à la ville de Sausalito. Sa construction, qui se heurte à de nombreuses difficultés, débute en 1933 et s’étale sur une durée de quatre ans, pour s’achever en 1937.  
 
-Lors de notre dernier voyage nous avons été un peu déçu car le temps brumeux, courant à San Francisco, ne nous avait pas permis de ne le voir sous son meilleur jour... Il constitue aujourd’hui le monument le plus célèbre de San Francisco et un des plus célèbre des USA, qui ne l'a pas vue dans une série ou dans un film ? Il est vrai qu'il en impose et se voit d'un peu partout que l'on soit dans la Baie. Il méritait bien une page lui étant entièrement dédiée.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39574052884/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4707/39574052884_a118267427_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Bénéficiant de temps et d'un temps remarquable nous nous sommes rattrapé et l'avons arpenté et photographié sous tous les angles, de jour comme de nuit. Nous nous sommes même payé le luxe de passer deux nuits pratiquement à son pied. N'hésitez à faire une tour dans la galerie pour voir toutes les photos
+ Il reste jusqu’en 1964 le pont suspendu le plus long du monde. Il est en outre aisément reconnaissable à sa couleur nommée "orange international" et à l’architecture de ses deux pylônes. Selon un classement de l’American Society of Civil Engineers, l'ouvrage d'art fait partie des sept merveilles du monde moderne.  
+
+ <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40284708701/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4694/40284708701_0586588138_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Lors de notre dernier voyage au mois de septembre nous avons été un peu déçu car le temps brumeux, courant à San Francisco, ne nous avait pas permis de ne le voir sous son meilleur jour... Il constitue aujourd’hui le monument le plus célèbre de San Francisco et un des plus célèbre des USA, qui ne l'a pas vue dans une série ou dans un film ? Il est vrai qu'il en impose et se voit d'un peu partout, où que l'on soit dans la Baie. Long de 2737 mètres et haut de 230 il a fêté ses 80 ans le 27 Mai 2017. Il méritait bien une page lui étant entièrement dédiée.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39573641064/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4676/39573641064_88eb340349_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Bénéficiant de temps et de conditions atmosphériques remarquables nous nous sommes rattrapés et l'avons arpenté et photographié sous tous les angles, de jour comme de nuit. Nous nous sommes même payé le luxe de passer deux nuits pratiquement à son pied. N'hésitez à faire une tour dans la galerie pour voir toutes les photos.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40285225561/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4617/40285225561_e469bf9a47_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40285273971/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4767/40285273971_5c2ae13e58_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+
+
