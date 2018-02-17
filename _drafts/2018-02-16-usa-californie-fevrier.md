@@ -10,13 +10,13 @@ to-date:     2018-02-19 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt12.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt12.jpg
-tags: [architecture, culturel, transport, mer-ocean]
+tags: [architecture, culturel, paysages, mer-ocean]
 pois: []
 country: USA
 states: ["Californie"]
 category: "roadmap"
 flickr-text: ""
-location: "35.466022, -117.636969"
+location: "37.184085, -119.981605"
 itinary: "2018/californie.json"
 mapZoom: 5
 
