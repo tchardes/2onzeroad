@@ -190,11 +190,17 @@ Nous mangeons dans Thor puis nous partons en direction de l’observatoire Griff
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/40306833751/in/datetaken/" title="Los Angeles - Californie - [USA]"><img src="https://farm5.staticflickr.com/4756/40306833751_a8ea408c34_b.jpg" width="1024" height="576" alt="Los Angeles - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 
-## 14 au 16 février 
+## 14 au 17 février 
 
 Départ du bivouac et route vers le Nord-Est en direction de Death Valley NP. Nous nous arrêtons à Inyokern où nous espérons pouvoir rester quelques jours en camping pour traiter les photos, le site et s'occuper de la logistique. Après être sorite de LA, le décor change radicalement, nous traversons la Golden Valley puis traversons Red Rock Canyon et d’immenses plaines désertiques où nous voyons nos premiers Joshua Tree. Nous longeons de grandes fermes de panneaux solaires et éoliennes, plusieurs dizaines d’hectares. Nous arrivons au camping assez sommaire, en pleine zone désertique, avec principalement des sédentaires, très sympas qui nous aident bien pour payer, trouver le WIFI et la laverie car l’office est fermée. On sent que l’on est en altitude, environ 800 mètres, car l’air c’est vraiment rafraîchi. Dans la nuit du 15 au 16, le chauffage se déclenche à plusieurs reprises à partir de 3h30 du matin, indiquant qu'il fait moins de 5° dans Thor alors que nous avions près de 30° au meilleur de la journée..
 
 Je commence à traiter les photos tandis que Corinne s’occupe de la laverie.
+
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26447237898/in/datetaken/" title="Inyokern - Californie - [USA]"><img src="https://farm5.staticflickr.com/4669/26447237898_208cb7d47f_b.jpg" width="1024" height="576" alt="Inyokern - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39607880514/in/datetaken/" title="Inyokern - Californie - [USA]"><img src="https://farm5.staticflickr.com/4768/39607880514_2d512a7277_b.jpg" width="1024" height="576" alt="Inyokern - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 12 février 
 
