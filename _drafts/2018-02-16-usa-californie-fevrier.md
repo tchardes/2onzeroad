@@ -170,7 +170,7 @@ Nuit assez calme malgré le traffic. Nous partons en direction de Getty Villa à
 
 Nuit calme, quartier très tranquille. Nous partons pour les studios Universal. Au final j’ai réservé les billets hier soir et je ne les ai reçu que ce matin vers 8h00. Superbe journée dans ce parc à thème même s’il faisait un peu froid. Le tour des studios en petit train, puis toutes les animations est vraiment.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/38496586410/in/datetaken/" title="Los Angeles - Californie - [USA]"><img src="https://farm5.staticflickr.com/4670/38496586410_1b87c4bd29_b.jpg" width="1024" height="576" alt="Los Angeles - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39409849985/in/datetaken/" title="Los Angeles - Californie - [USA]"><img src="https://farm5.staticflickr.com/4651/39409849985_c89000be6c_b.jpg" width="1024" height="683" alt="Los Angeles - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>     
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40262342342/in/datetaken/" title="Los Angeles - Californie - [USA]"><img src="https://farm5.staticflickr.com/4614/40262342342_1288d23542_b.jpg" width="1024" height="576" alt="Los Angeles - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
