@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "35.651658, -117.814899"
-  name: "Inyokern, Californie, USA"
-  date: "14 au 16 février 2018"
+  coordinates: "36.165950, -115.161276"
+  name: "Las Vegas, Nevada, USA"
+  date: "20 au 23 février 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
