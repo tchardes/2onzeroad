@@ -99,6 +99,7 @@
     {"name": "golden-gate", "displayName": "Golden Gate Bridge", "type": "autre"},
     {"name": "hautes-terres", "displayName": "Parc National des Hautes Terres", "type": "nature"},
     {"name": "getty", "displayName": "Getty villa et musée", "type": "autre"},
-    {"name": "point-reyes", "displayName": "Point Reyes National Seashore", "type": "nature"}
+    {"name": "point-reyes", "displayName": "Point Reyes National Seashore", "type": "nature"},
+    {"name": "death-valley", "displayName": "Death Valley National Park", "type": "nature"}
 
 ]
