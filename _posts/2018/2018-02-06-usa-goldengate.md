@@ -10,7 +10,7 @@ header-img: "assets/owner/blog/header/post-bg-golden.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-golden.jpg
 tags: [architecture, technologie, mer-ocean, monument]
 pois: [golden-gate, san-francisco]
-flickr-text: "Golden Gate"
+flickr-text: "Golden Gate Bridge"
 country: USA 
 states: ["Californie"]
 city: San Francisco
