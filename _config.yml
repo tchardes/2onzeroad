@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "35.191616, -114.067628"
-  name: "Kingman, Arizona, USA"
-  date: "25 février 2018"
+  coordinates: "33.244895, -113.989347"
+  name: "Kofa National Widlife Refuge, Arizona, USA"
+  date: "26 février 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
