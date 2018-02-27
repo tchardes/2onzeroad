@@ -38,11 +38,11 @@ Ce matin, on se réveille vers 7h00, on prend notre petit déjeuner à l’hôte
 
 ## 03 février  
 
-Départ du camping pour la région viticole de Napa, la plus grande zone de production de vin aux USA. Nous longeons le Parc Redwood RP qui offre une vue magnifique sur la Baie de "Frisco", du downtown jusqu’au Golden Gate. Le parc abrite de nombreux mimosas tous en fleur.  
+Départ du camping pour la région viticole de **Napa**, la plus grande zone de production de vin aux USA. Nous longeons le Parc Redwood RP qui offre une vue magnifique sur la Baie de "Frisco", du downtown jusqu’au Golden Gate. Le parc abrite de nombreux mimosas tous en fleur.  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/25400639687/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4626/25400639687_c678e97ca9_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-La ville de Napa ne vaut pas le détour mais les environs sont agréables, même si, en cette saison, on taille la vigne. Le relief est très vallonné et comme les vignobles ne sont pas entièrement labourés entre les rangées de vigne, l’ensemble reste vert et parfois entièrement jaune en raison des fleurs (bouton d’or?). Nous poursuivons notre route au milieu des vignobles et pâturages pour arriver à Sonoma, jolie petite ville qui a su garder son âme mexicaine avec sa mission San Francisco Solano et ses vieux bâtiments d’époque.  
+La ville de Napa ne vaut pas le détour mais les environs sont agréables, même si, en cette saison, on taille la vigne. Le relief est très vallonné et comme les vignobles ne sont pas entièrement labourés entre les rangées de vigne, l’ensemble reste vert et parfois entièrement jaune en raison des fleurs (bouton d’or?). Nous poursuivons notre route au milieu des vignobles et pâturages pour arriver à **Sonoma**, jolie petite ville qui a su garder son âme mexicaine avec sa mission San Francisco Solano et ses vieux bâtiments d’époque.  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/26399414488/in/datetaken/" title="Sonoma - Californie - [USA]"><img src="https://farm5.staticflickr.com/4662/26399414488_b037944c14_b.jpg" width="1024" height="576" alt="Sonoma - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -56,7 +56,7 @@ Nous nous arrêtons faire des courses à Petaluna dans un magasin «Target», c�
 
 ## 04 février   
 
-La nuit s’est bien passée, nous n’avons pas été dérangés, quartier très calme. On part vers 09h00 en direction du visitor center du Point Reyes Seashore National Park qui est fermé à notre arrivée. Nous pouvons récupérer quand même de la doc qui est mise à disposition. Nous roulons jusqu'au Kenneth C. Patrick Visitor Center et achetons notre ticket pour la navette à un Park ranger qui parle très bien le français. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-02-02-usa-reyes %}">ici</a>)**.  
+La nuit s’est bien passée, nous n’avons pas été dérangés, quartier très calme. On part vers 09h00 en direction du visitor center du **Point Reyes Seashore National Park** qui est fermé à notre arrivée. Nous pouvons récupérer quand même de la doc qui est mise à disposition. Nous roulons jusqu'au Kenneth C. Patrick Visitor Center et achetons notre ticket pour la navette à un Park ranger qui parle très bien le français. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-02-02-usa-reyes %}">ici</a>)**.  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/26399905198/in/datetaken/" title="Point Reyes National Seashore- Californie - [USA]"><img src="https://farm5.staticflickr.com/4742/26399905198_092361be0d_b.jpg" width="1024" height="408" alt="Point Reyes National Seashore- Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -68,7 +68,7 @@ Nous sommes de retour à Thor vers 15h30 et après un bon repas arrosé d’un v
 
 ## 05 et 06 février  
 
-Ce matin, on a mis le réveil à 7h00 pour voir le lever de soleil sur le Golden Gate, pas de mot... Nous avons passé la nuit tranquille, trop sympas les Park Rangers. Nous partons ensuite pour le Golden Gate View point et de là, je fais plusieurs spots photos. Nous repartons pour le Mont Tamalpais qui domine toute la baie. Il s’agit d’un State Park dont l’entrée est gratuite mais le parking final est lui payant, 8$ par véhicule que l’on place dans une enveloppe. Je fais un trail jusqu’au sommet et effectivement la vue vaut les efforts pour grimper jusque-là, la baie est toutefois noyée dans une fine brume bleutée. Nous mangeons là avant de revenir sur nos pas en direction de Sausalito. 
+Ce matin, on a mis le réveil à 7h00 pour voir le lever de soleil sur le **Golden Gate**, pas de mot... Nous avons passé la nuit tranquille, trop sympas les Park Rangers. Nous partons ensuite pour le Golden Gate View point et de là, je fais plusieurs spots photos. Nous repartons pour le Mont Tamalpais qui domine toute la baie. Il s’agit d’un State Park dont l’entrée est gratuite mais le parking final est lui payant, 8$ par véhicule que l’on place dans une enveloppe. Je fais un trail jusqu’au sommet et effectivement la vue vaut les efforts pour grimper jusque-là, la baie est toutefois noyée dans une fine brume bleutée. Nous mangeons là avant de revenir sur nos pas en direction de **Sausalito**. 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/40240513172/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4761/40240513172_421ca90f73_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -89,7 +89,7 @@ Ce matin, départ de notre super bivouac où nous n’avons pas été dérangés
 ## 07 février  
 
 Nuit calme au bivouac. Comme le parking redevient payant à 7h00, nous levons le camp et allons au parking gratuit en front de Baie pour prendre notre petit déjeuner et nous préparer tranquillement. Nous partons en direction de Monterey par la côte Ouest. Nous longeons de très belles et longues plages, le long du pacifique où de nombreux surfeurs s’affairent. 
-La route sur la Highway 1 South, le long de la côte, est vraiment très belle. A midi, nous mangeons en bord de mer vers Sand City avant d’attaquer la visite de l’aquarium de Monterey.  
+La route sur la **Highway 1 South**, le long de la côte, est vraiment très belle. A midi, nous mangeons en bord de mer vers Sand City avant d’attaquer la visite de l’aquarium de **Monterey**.  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/26432144658/in/datetaken/" title="Monterey - Californie - [USA]"><img src="https://farm5.staticflickr.com/4753/26432144658_9f307679ff_b.jpg" width="1024" height="576" alt="Monterey - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -99,7 +99,7 @@ Le prix est assez élevé, presque 100 $ pour nous deux. Dans l’ensemble, il e
 
 ## 08 février  
 
-Ce matin, départ du bivouac au final assez calme, direction le "Monarch Butterfly Sanctuary" à Pacific Grove. Il s’agit d’un parc préservé où les papillons monarques viennent passer l’hiver avant de migrer vers le Mexique. Nous sommes en fin de saison mais il en reste encore quelques uns qui traînent. On arrive un peu tôt et le soleil ne les a pas encore réveillés. Au bout d’un bonne demi-heure, nous pouvons en voir plusieurs dizaines.  
+Ce matin, départ du bivouac au final assez calme, direction le **"Monarch Butterfly Sanctuary"** à Pacific Grove. Il s’agit d’un parc préservé où les papillons monarques viennent passer l’hiver avant de migrer vers le Mexique. Nous sommes en fin de saison mais il en reste encore quelques uns qui traînent. On arrive un peu tôt et le soleil ne les a pas encore réveillés. Au bout d’un bonne demi-heure, nous pouvons en voir plusieurs dizaines.  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/38495050310/in/datetaken/" title="Monterey - Californie - [USA]"><img src="https://farm5.staticflickr.com/4756/38495050310_49be2f70be_b.jpg" width="1024" height="576" alt="Monterey - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -107,13 +107,13 @@ Nous partons ensuite vers le nord de la péninsule de Monterey voir le phare de 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/40304282421/in/datetaken/" title="Monterey - Californie - [USA]"><img src="https://farm5.staticflickr.com/4624/40304282421_c62fb7a6cf_b.jpg" width="1024" height="576" alt="Monterey - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous repartons direction Carmel by the Sea, dont Clint Eastwood a été le maire, et trouvons un super emplacement au bord de la plage pour déjeuner. Le quartier est magnifique et les villas plus belles les unes que les autres. Nous sommes juste garés devant une qui est à vendre au modique prix de 11 millions de dollars… On décide finalement de poursuivre l'aventure avec Thor !!  
+Nous repartons direction **Carmel by the Sea**, dont Clint Eastwood a été le maire, et trouvons un super emplacement au bord de la plage pour déjeuner. Le quartier est magnifique et les villas plus belles les unes que les autres. Nous sommes juste garés devant une qui est à vendre au modique prix de 11 millions de dollars… On décide finalement de poursuivre l'aventure avec Thor !!  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/40258972392/in/datetaken/" title="Carmel - Californie - [USA]"><img src="https://farm5.staticflickr.com/4704/40258972392_807d97f45b_b.jpg" width="1024" height="576" alt="Carmel - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/40259014112/in/datetaken/" title="Carmel - Californie - [USA]"><img src="https://farm5.staticflickr.com/4609/40259014112_61b5fba1b3_b.jpg" width="1024" height="576" alt="Carmel - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous faisons un arrêt ensuite à la Mission Carmel construite en 1770, nous ne faisons pas la visite juste le tour depuis l’extérieur. Nous continuons en direction de la « Big Sur », la Highway 1 dite Cabrillo Hwy. Nous roulons le long de la côte Pacifique jusqu’à Lucia et faisons demi-tour car la route est coupée et il n’y a aucune possibilité de contourner. Nous nous arrêtons en fin d’après-midi, juste avant Carmel, sur un très beau post qui domine le Pacifique. Après un petit trail, nous admirons un superbe coucher de soleil.  
+Nous faisons un arrêt ensuite à la **Mission Carmel** construite en 1770, nous ne faisons pas la visite juste le tour depuis l’extérieur. Nous continuons en direction de la « Big Sur », la Highway 1 dite Cabrillo Hwy. Nous roulons le long de la côte Pacifique jusqu’à Lucia et faisons demi-tour car la route est coupée et il n’y a aucune possibilité de contourner. Nous nous arrêtons en fin d’après-midi, juste avant Carmel, sur un très beau post qui domine le Pacifique. Après un petit trail, nous admirons un superbe coucher de soleil.  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/39592361554/in/datetaken/" title="Carmel - Californie - [USA]"><img src="https://farm5.staticflickr.com/4715/39592361554_67d3b743d5_b.jpg" width="1024" height="576" alt="Carmel - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -123,7 +123,7 @@ Nous faisons un arrêt ensuite à la Mission Carmel construite en 1770, nous ne 
 
 ## 09 février   
 
-Ce matin, réveil avec vue sur le Pacifique, petit déjeuner sympa. Nous partons en direction du Sud. En raison de la route coupée, nous repassons par Monterey pour prendre la Highway 101 qui nous mêne dans un premier temps à Saint Andrews où nous trouvons un super coin pour diner dans un très beau quartier résidentiel au bord de l’océan. Après un petit bain de soleil en short et tongs, nous repartons en direction de Solvang, village « danois » très typique connu pour son architecture et sa pâtisserie danoise.  
+Ce matin, réveil avec vue sur le Pacifique, petit déjeuner sympa. Nous partons en direction du Sud. En raison de la route coupée, nous repassons par Monterey pour prendre la Highway 101 qui nous mêne dans un premier temps à Saint Andrews où nous trouvons un super coin pour diner dans un très beau quartier résidentiel au bord de l’océan. Après un petit bain de soleil en short et tongs, nous repartons en direction de **Solvang**, village « danois » très typique connu pour son architecture et sa pâtisserie danoise.  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/39594041764/in/datetaken/" title="Solvang - Californie - [USA]"><img src="https://farm5.staticflickr.com/4753/39594041764_3e74021271_b.jpg" width="1024" height="576" alt="Solvang - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -137,7 +137,7 @@ Il fait un temps magnifique, il est 17h00 et le soleil commence tout doucement �
 
 ## 10 février  
 
-Ce matin, nous partons du bivouac après une nuit calme si ce n’est des poids lourds qui ont démarré vers 3h30. Nous nous sommes couchés en plein brouillard et ce matin le temps est très gris mais il ne devrait pas pleuvoir. Direction Santa Barbara et sa Old Mission que nous visitons.  
+Ce matin, nous partons du bivouac après une nuit calme si ce n’est des poids lourds qui ont démarré vers 3h30. Nous nous sommes couchés en plein brouillard et ce matin le temps est très gris mais il ne devrait pas pleuvoir. Direction **Santa Barbara** et sa Old Mission que nous visitons.  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/39408200325/in/datetaken/" title="Santa Barbara - Californie - [USA]"><img src="https://farm5.staticflickr.com/4662/39408200325_1180269d9f_b.jpg" width="1024" height="576" alt="Santa Barbara - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -159,7 +159,7 @@ Avant de quitter Santa Barbara, nous nous arrêtons dans une usine de traitement
 
 ## 11 février  
 
-Nuit assez calme malgré le trafic. Nous partons en direction de Getty Villa à Pacific Palisades, nous y restons presque 2 heures. Nous poursuivons ensuite pour le Getty center et plus particulièrement son musée. Très belle visite. Nous continuons pour le seul Walmart qui semble accepter les RV, nous faisons les courses et de retour à Thor, on vient nous dire que l’on ne peut pas rester là. On trouve un emplacement pas très loin dans une impasse d’un quartier résidentiel.  
+Nuit assez calme malgré le trafic. Nous partons en direction de **Getty Villa** à Pacific Palisades, nous y restons presque 2 heures. Nous poursuivons ensuite pour le **Getty center** et plus particulièrement son musée. Très belle visite. Nous continuons pour le seul Walmart qui semble accepter les RV, nous faisons les courses et de retour à Thor, on vient nous dire que l’on ne peut pas rester là. On trouve un emplacement pas très loin dans une impasse d’un quartier résidentiel.  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/39408933325/in/datetaken/" title="Pacific Palisades - Californie - [USA]"><img src="https://farm5.staticflickr.com/4649/39408933325_2922ca8354_b.jpg" width="1024" height="576" alt="Pacific Palisades - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -167,17 +167,17 @@ Nuit assez calme malgré le trafic. Nous partons en direction de Getty Villa à 
 
 ## 12 février  
 
-Nuit calme, quartier très tranquille. Nous partons pour les studios Universal. Au final, j’ai réservé les billets hier soir et je ne les ai reçu que ce matin vers 8h00. Superbe journée dans ce parc à thème même s’il faisait un peu froid. Le tour des studios en petit train agrémenté d'animations nous a bien plu.  
+Nuit calme, quartier très tranquille. Nous partons pour les **studios Universal**. Au final, j’ai réservé les billets hier soir et je ne les ai reçu que ce matin vers 8h00. Superbe journée dans ce parc à thème même s’il faisait un peu froid. Le tour des studios en petit train agrémenté d'animations nous a bien plu.  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/39409849985/in/datetaken/" title="Los Angeles - Californie - [USA]"><img src="https://farm5.staticflickr.com/4651/39409849985_c89000be6c_b.jpg" width="1024" height="683" alt="Los Angeles - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/40262342342/in/datetaken/" title="Los Angeles - Californie - [USA]"><img src="https://farm5.staticflickr.com/4614/40262342342_1288d23542_b.jpg" width="1024" height="576" alt="Los Angeles - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous quittons le parc vers 19h00, direction l’observatoire Griffith pour faire quelques photos de nuit. En route, la pluie se met à tomber. Nous montons quand même jusqu’à l’observatoire, mangeons dans Thor mais la pluie ne fait qu’empirer et comme le parc ferme de toute façon à 22h30, nous décidons de regagner notre bivouac. C’est la première pluie depuis notre arrivée.  
+Nous quittons le parc vers 19h00, direction **l’observatoire Griffith** pour faire quelques photos de nuit. En route, la pluie se met à tomber. Nous montons quand même jusqu’à l’observatoire, mangeons dans Thor mais la pluie ne fait qu’empirer et comme le parc ferme de toute façon à 22h30, nous décidons de regagner notre bivouac. C’est la première pluie depuis notre arrivée.  
 
 ## 13 février  
 
-Après une nuit encore très calme, nous partons garer Thor sur un parking public près des studios Universal et d’une bouche de métro de la ligne rouge qui nous mène directement sur Hollywood Bd. Nous la faisons en large et en travers, on passe en revue les «étoiles». Nous y restons deux bonnes heures avant de reprendre le Métro. 
+Après une nuit encore très calme, nous partons garer Thor sur un parking public près des studios Universal et d’une bouche de métro de la ligne rouge qui nous mène directement sur **Hollywood Boulevard**. Nous la faisons en large et en travers, on passe en revue les «étoiles». Nous y restons deux bonnes heures avant de reprendre le Métro. 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/26434927798/in/datetaken/" title="Los Angeles - Californie - [USA]"><img src="https://farm5.staticflickr.com/4613/26434927798_7f76d2d2db_b.jpg" width="1024" height="576" alt="Los Angeles - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 
@@ -202,7 +202,7 @@ Départ du bivouac et route vers le Nord-Est en direction de Death Valley NP. No
 
 ## 17 au 20 février  
 
-Nuit froide une nouvelle fois, le chauffage s’est mis en route à plusieurs reprises à partir de 3h30. Nous faisons tous les pleins et les vides puis départ pour la Death Valley, nous nous arrêtons à Ridgecrest pour faire le plein au Walmart où nous rencontrons un monsieur très sympa avec qui nous discutons un long moment, puis le plein d’essence et nous reprenons la route. Nous traversons un immense desert sur plus de 100 Km, un avant goût du parc. En route, nous croisons un coyote qui marche au bord de la route, nous nous arrêtons et visiblement il a les crocs. Corinne lui lance des os de poulet qu’il s’empresse de dévorer.  
+Nuit froide une nouvelle fois, le chauffage s’est mis en route à plusieurs reprises à partir de 3h30. Nous faisons tous les pleins et les vides puis départ pour la **Death Valley**, nous nous arrêtons à Ridgecrest pour faire le plein au Walmart où nous rencontrons un monsieur très sympa avec qui nous discutons un long moment, puis le plein d’essence et nous reprenons la route. Nous traversons un immense désert sur plus de 100 Km, un avant goût du parc. En route, nous croisons un coyote qui marche au bord de la route, nous nous arrêtons et visiblement il a les crocs. Corinne lui lance des os de poulet qu’il s’empresse de dévorer.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26570155808/in/datetaken/" title="Death Valley NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4663/26570155808_1bf26faa37_b.jpg" width="1024" height="576" alt="Death Valley NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -213,9 +213,6 @@ Arrivés à l’entrée du parc, nous allons jusqu’au point de vue "Father Cro
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/25569926427/in/datetaken/" title="Death Valley NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4744/25569926427_60e59a0a4a_b.jpg" width="1024" height="683" alt="Death Valley NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
-Nuit calme au bivouac. Au lever de soleil, les températures ont du tomber car le chauffage s’est mis en route vers 6h45. Nous rentrons dans le parc où nous allons passer 3 jours à le visiter. 
-
-
- Nous passons deux nuits au Sunset Camping qui se trouve au niveau de Furnace Creek. Il est très sommaire mais suffisant pour nous. Nous levons le camps le 20 février vers 11h00 en direction de Las Vegas dans le Nevada après avoir fait les dump. La route est belle et nous faisons quelques arrêts pour prendre des photos. Un peu avant d’arriver à Pahrump, nous traversons une plaine blanche de sel tandis qu’en fond se dresse le Mont Charleston recouvert de neige, il culmine à 3 633 mètres d'altitude. Nous remarquons, en route, de drôles d’arbres, très grands avec des branches un peu éparses. Il s’agit, en fait, de grands pylônes supportant des antennes déguisées en arbre par passer inaperçues. Sur la route, nous n'avons pas vu de panneau indiquant notre sortie de la Californie et l'entrée dans le Nevada mais vers Mountain Springs, nous nous arrêtons prendre de la gazoline et en rentrant dans la station, je vois qu'il y a une bonne vingtaine de machine à sous, pas de doute, nous sommes bien au Nevada...  
+Nuit calme au bivouac. Au lever de soleil, les températures ont du tomber car le chauffage s’est mis en route vers 6h45. Nous rentrons dans le parc où nous allons passer 3 jours à le visiter. Nous passons deux nuits au Sunset Camping qui se trouve au niveau de Furnace Creek. Il est très sommaire mais suffisant pour nous. Nous levons le camps le 20 février vers 11h00 en direction de Las Vegas dans le Nevada après avoir fait les dump. La route est belle et nous faisons quelques arrêts pour prendre des photos. Un peu avant d’arriver à Pahrump, nous traversons une plaine blanche de sel tandis qu’en fond se dresse le Mont Charleston recouvert de neige, il culmine à 3 633 mètres d'altitude. Nous remarquons, en route, de drôles d’arbres, très grands avec des branches un peu éparses. Il s’agit, en fait, de grands pylônes supportant des antennes déguisées en arbre par passer inaperçues. Sur la route, nous n'avons pas vu de panneau indiquant notre sortie de la Californie et l'entrée dans le Nevada mais vers Mountain Springs, nous nous arrêtons prendre de la gazoline et en rentrant dans la station, je vois qu'il y a une bonne vingtaine de machine à sous, pas de doute, nous sommes bien au Nevada...  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40441151081/in/datetaken/" title="Death Valley NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4652/40441151081_4c911edd6d_b.jpg" width="1024" height="576" alt="Death Valley NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
