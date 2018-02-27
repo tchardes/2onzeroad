@@ -1,12 +1,12 @@
 ---
 layout:  blog
-title:   "Californie"
-preview: "Cet article couvre la période du 31 janvier au 20 février..."
+title:   "Nevada - Arizona - Mexique"
+preview: "Cet article couvre la période du 20 février au ..."
 parent-id: 
 
-date:        2018-02-20 13:00:00
-from-date:   2018-01-31 13:00:00
-to-date:     2018-02-20 13:00:00
+date:        2018-02-26 13:00:00
+from-date:   2018-02-20 13:00:00
+to-date:     2018-02-26 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt12.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt12.jpg
