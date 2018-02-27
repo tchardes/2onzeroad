@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "33.244895, -113.989347"
-  name: "Kofa National Widlife Refuge, Arizona, USA"
-  date: "26 février 2018"
+  coordinates: "31.690857, -114.502308"
+  name: "Golfo de Santa Clara, Sonora, Mexique"
+  date: "27 février 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
