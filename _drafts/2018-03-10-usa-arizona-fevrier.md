@@ -13,10 +13,10 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt12.jpg
 tags: [architecture, culturel, paysages, mer-ocean]
 pois: []
 country: USA
-states: ["Californie"]
+states: ["Nevada, Arizona"]
 category: "roadmap"
 flickr-text: ""
-location: "36.605685, -119.758734"
+location: "33.544907, -110.311326"
 itinary: "2018/nevada.json"
 mapZoom: 6
 
