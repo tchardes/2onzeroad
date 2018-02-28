@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt12.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt12.jpg
 tags: [architecture, culturel, paysages, mer-ocean]
-pois: []
+pois: [napa#03-février]
 country: USA
 states: ["Californie"]
 category: "roadmap"

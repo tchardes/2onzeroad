@@ -100,6 +100,14 @@
     {"name": "hautes-terres", "displayName": "Parc National des Hautes Terres", "type": "nature"},
     {"name": "getty", "displayName": "Getty villa et musée", "type": "autre"},
     {"name": "point-reyes", "displayName": "Point Reyes National Seashore", "type": "nature"},
-    {"name": "death-valley", "displayName": "Death Valley National Park", "type": "nature"}
+    {"name": "death-valley", "displayName": "Death Valley National Park", "type": "nature"},
+    
+    {"name": "napa", "displayName": "Napa", "type": "ville"},
+    {"name": "napa", "displayName": "Napa", "type": "ville"},
+    {"name": "napa", "displayName": "Napa", "type": "ville"},
+    {"name": "napa", "displayName": "Napa", "type": "ville"},
+    {"name": "napa", "displayName": "Napa", "type": "ville"},
+    {"name": "napa", "displayName": "Napa", "type": "ville"},
+    {"name": "napa", "displayName": "Napa", "type": "ville"}
 
 ]
