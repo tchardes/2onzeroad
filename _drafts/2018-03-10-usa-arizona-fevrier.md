@@ -22,13 +22,13 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 31 janvier au 20 février 2018 durant laquelle nous avons traversé une partie de la Californie. 
+Cet article couvre la période du 20 février au  2018 durant laquelle nous avons traversé une petite partie du Nevada, l'Arizona avec une petite escapade au Mexique dans la région de Sonora. 
 
 ## Du 20 au 24 février 
 
-Ce matin d épart à 6h00 pour "Zabriskie Point" où cette fois j’arrive au bon moment. Il est vrai que le lever de soleil à cet endroit est magnifique. Après quelques photos, nous retournons au camping d’où nous levons le camps vers 11h00 en direction de SinCity, après avoir fait les dump. Nous sortons rapidement de la Californie pour entrer dans le Nevada. La route est belle et nous faisons quelques arrêts pour prendre des photos. Un peu avant d’arriver à Pahrump nous traversons une plaine blanvhe de sel tandis qu’en fond se dresse le Mont Charleston recouvert de neige, il culmine à 3 633 mètres d'altitude. Nous remarquons en route de drôles d’arbres, très grands avec des branches un peu éparses. Il s’agit en fait de grand pylones supportant des antennes déguisés en arbre par passer plus inaperçu.Nous arrivons à Las vegas par le sud et nous nous arrêtons à un Walmart pour faire quelques courses car se soir nous allons chercher nos amis Eric et Muriel qui arrivent de Montpelier pour poursuivre leur aventure vers l’amèrique latine. Nous nous arrêtons ensuite dans un Outlet pour faire les boutique avant de nous rendre à l’aéroport où nous récupérons nos amis. nous les conduisons à leur réservation et passons la soirée dans Thor autour d’un petit repas arrosé d’un vin rouge californien.
+Nous arrivons à Las vegas par le sud et nous nous arrêtons à un Walmart pour faire quelques courses car ce soir nous allons chercher nos amis Eric et Muriel qui arrivent de Montpelier pour poursuivre leur aventure vers l’Amérique latine (leur blog : [Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)). Comme Eric m'a informé qu'ils avaient 3 heures de retard, nous nous arrêtons ensuite dans un Outlet pour faire les boutiques avant de nous rendre à l’aéroport les récupérer. Nous les conduisons à leur réservation et passons la soirée dans Thor autour d’un petit repas arrosé d’un bon vin rouge californien.
 
-Recuperation eric et muriel puis storage, on reste avec eux jusqu’à 11h00 puis on part Outlet acheter 4 jean. On mange dans Thor puis direction Escalibur pour prendre notre chambre. On visite un peu le Strip puis on se donne RDV avec Eric et Muriel au Ny NY où on passe soirée ensemble.
+Le lendemain matin on les conduits jusqu'à leur storage afin qu'il récupère "ChouChou"? On reste avec eux jusqu’à 11h00 puis on part au Nord dans un Outlet acheter des Jeans. En début d'après-midi nous nous rendons dans l'hôtel que nous avons réservé pour deux nuits, l'Excalibur pour prendre notre chambre. On fini l'après-midi sur le Strip qui est en pleine ébullition en raison d'un match de hockey puis nous rejoignons Eric et Muriel au "New york - New York" où nous passons la soirée ensemble. On fini la soirée dans notres immense Hôtel où Corinne tente sa chance aux machines à sous.
 
 On se lève et on va déjeuner dans Thor pour faire tourner un peu la génératrice.
 Visite de la ville, Rat Pack et Fremont
