@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt12.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt12.jpg
 tags: [architecture, culturel, paysages, mer-ocean]
-pois: [napa#03-février, sonoma#03-février, sausalito#05-et-06-février, tamalpai#05-et-06-février, monterey#07-février, monarch#08-février, carmel#08-février, mission-carmel#08-février, solvang#09-février, santa#10-février, old#10-février, getty#11-février]
+pois: [napa#03-février, sonoma#03-février, sausalito#05-et-06-février, tamalpai#05-et-06-février, monterey#07-février, monarch#08-février, carmel#08-février, mission-carmel#08-février, solvang#09-février, santa#10-février, old#10-février, getty#11-février, san-francisco#05-et-06-février, golden-gate#05-et-06-février, studio#12-février, holywood#13-février, griffith#13-février, death-valley##17-au-20-février]
 country: USA
 states: ["Californie"]
 category: "roadmap"
@@ -211,7 +211,6 @@ Arrivés à l’entrée du parc, nous allons jusqu’au point de vue "Father Cro
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/25569927587/in/datetaken/" title="Death Valley NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4672/25569927587_771be10eec_b.jpg" width="1024" height="768" alt="Death Valley NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/25569926427/in/datetaken/" title="Death Valley NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4744/25569926427_60e59a0a4a_b.jpg" width="1024" height="683" alt="Death Valley NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
-
 
 Nuit calme au bivouac. Au lever de soleil, les températures ont du tomber car le chauffage s’est mis en route vers 6h45. Nous rentrons dans le parc où nous allons passer 3 jours à le visiter. Nous passons deux nuits au Sunset Camping qui se trouve au niveau de Furnace Creek. Il est très sommaire mais suffisant pour nous. Nous levons le camps le 20 février vers 11h00 en direction de Las Vegas dans le Nevada après avoir fait les dump. La route est belle et nous faisons quelques arrêts pour prendre des photos. Un peu avant d’arriver à Pahrump, nous traversons une plaine blanche de sel tandis qu’en fond se dresse le Mont Charleston recouvert de neige, il culmine à 3 633 mètres d'altitude. Nous remarquons, en route, de drôles d’arbres, très grands avec des branches un peu éparses. Il s’agit, en fait, de grands pylônes supportant des antennes déguisées en arbre par passer inaperçues. Sur la route, nous n'avons pas vu de panneau indiquant notre sortie de la Californie et l'entrée dans le Nevada mais vers Mountain Springs, nous nous arrêtons prendre de la gazoline et en rentrant dans la station, je vois qu'il y a une bonne vingtaine de machine à sous, pas de doute, nous sommes bien au Nevada...  
 
