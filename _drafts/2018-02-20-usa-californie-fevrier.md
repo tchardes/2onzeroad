@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt12.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt12.jpg
 tags: [architecture, culturel, paysages, mer-ocean]
-pois: [napa#03-février]
+pois: [napa#03-février, sonoma#03-février, sausalito#05-et-06-février, tamalpai#05-et-06-février, monterey#07-février, monarch#08-février, carmel#08-février, mission-carmel#08-février, solvang#09-février, santa#10-février, old#10-février, getty#11-février]
 country: USA
 states: ["Californie"]
 category: "roadmap"
@@ -68,7 +68,7 @@ Nous sommes de retour à Thor vers 15h30 et après un bon repas arrosé d’un v
 
 ## 05 et 06 février  
 
-Ce matin, on a mis le réveil à 7h00 pour voir le lever de soleil sur le **Golden Gate**, pas de mot... Nous avons passé la nuit tranquille, trop sympas les Park Rangers. Nous partons ensuite pour le Golden Gate View point et de là, je fais plusieurs spots photos. Nous repartons pour le Mont Tamalpais qui domine toute la baie. Il s’agit d’un State Park dont l’entrée est gratuite mais le parking final est lui payant, 8$ par véhicule que l’on place dans une enveloppe. Je fais un trail jusqu’au sommet et effectivement la vue vaut les efforts pour grimper jusque-là, la baie est toutefois noyée dans une fine brume bleutée. Nous mangeons là avant de revenir sur nos pas en direction de **Sausalito**. 
+Ce matin, on a mis le réveil à 7h00 pour voir le lever de soleil sur le **Golden Gate**, pas de mot... Nous avons passé la nuit tranquille, trop sympas les Park Rangers. Nous partons ensuite pour le Golden Gate View point et de là, je fais plusieurs spots photos. Nous repartons pour le **Mont Tamalpais** qui domine toute la baie. Il s’agit d’un State Park dont l’entrée est gratuite mais le parking final est lui payant, 8$ par véhicule que l’on place dans une enveloppe. Je fais un trail jusqu’au sommet et effectivement la vue vaut les efforts pour grimper jusque-là, la baie est toutefois noyée dans une fine brume bleutée. Nous mangeons là avant de revenir sur nos pas en direction de **Sausalito**. 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/40240513172/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4761/40240513172_421ca90f73_b.jpg" width="1024" height="576" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
