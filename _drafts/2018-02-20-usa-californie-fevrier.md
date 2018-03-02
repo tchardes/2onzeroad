@@ -10,7 +10,7 @@ to-date:     2018-02-20 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt12.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt12.jpg
-tags: [architecture, culturel, paysages, mer-ocean]
+tags: [architecture, culturel, paysage, mer-ocean]
 pois: [napa#03-février, sonoma#03-février, sausalito#05-et-06-février, tamalpais#05-et-06-février, monterey#07-février, monarch#08-février, carmel#08-février, mission-carmel#08-février, solvang#09-février, santa#10-février, old#10-février, getty#11-février, san-francisco#05-et-06-février, golden-gate#05-et-06-février, studio#12-février, holywood#13-février, griffith#13-février, death-valley##17-au-20-février]
 country: USA
 states: ["Californie"]
