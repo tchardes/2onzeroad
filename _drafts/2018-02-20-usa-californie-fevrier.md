@@ -4,8 +4,8 @@ title:   "Californie - Le centre"
 preview: "Cet article couvre la période du 31 janvier au 20 février 2018 durant laquelle nous avons traversé la partie centrale de la Californie...."
 parent-id: 
 
-date:        2018-02-20 13:00:00
-from-date:   2018-01-31 13:00:00
+date:        2018-02-20 16:00:00
+from-date:   2018-01-31 12:00:00
 to-date:     2018-02-20 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt12.jpg"
