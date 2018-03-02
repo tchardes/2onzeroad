@@ -75,3 +75,18 @@ La piste nous ramène ensuite vers notre point de départ. T out le long on peut
 A part un aigle qui a élu domicile dans un arbre juste à l’entrée du parc, et les coyotes que nous avons entendu toute la nuit, la faune est très discrète, pourtant l’emblème du parc est une antilope «El Berrendo» qui peut courrir à la vitesse de 96 Km/h et cela durant plusieurs heures, contrairement Guépard. C’est peut-être pour cela que l’on ne l’a pas vu…
 Au final c’est un très beau parc mais à faire en voiture ou 4X4, nous avons mis 9 heures pour faire la loop, nous nous sommes présenté à la sortie bien après la fermeture, Corinne à ouvert la grille et nous sommes sortis tout seul…
 Ensuite route jusqu’à la frontière où nous sommes repassés aux USA, contrôle et question de routine, puis contrôle sanitaire ou on a dit au revoir à une orange et une barquette de viande congelée car entamée. Comme aussitôt la frontière passée nous sommes dans un parc national et qu’en plus il y a de nombreuses «Patrol Frontier» nous décidons de nous poser au camping «Twin Peaks» qui fait partie du «Organ Pipe Cactus NM» 
+
+
+## 01 mars
+
+Nuit tranquille, nous sommes à 8h00 sur un trail, une boucle, dont le départ se trouve non loin du camping «Desert View Nature Trail» (1.2 miles) qui est très beau au lever du soleil. Sur le parcours, des panneau présentent la faune et la flore des lieux, très sympa. Ensuite nous partons au visitor center pour récupérer de la doc puis à l’entrée du camping pour reserver pour une nouvelle nuit. Il y a beaucoup de chose à faire et le camping est vraiment très bien. On retourne à notre emplacement poser l’affiche sur le poteau, on se boit un café puis nous voulà partis pour boucle qui se fait en véhicule «Ajo Mountain Drive» il s’agit d’une piste caillouteuse longue de 34 Km, qui se fait doucement. Au niveau des endroit les plus soumis à érosion, la piste est goudronnée. Pas trop de tôle ondulée mais pas mal de cailloux. Nous faisons notre premier arrêt à «Arch Canyon». depuis le parking on peut apercevoir dans la montagne deux arches naturelles, l’une sur l’autre. Nous faisons le trail (1.2 miles - 1.9 Km) qui est sympa mais sans plus. On ne voit pas mieux les arches. nous reprenons la piste jusqu’à «Bull Pasture» et « «Estes Canyon » il s’agit d’une boucle plus un petit trail qui mène à un point haut (+1000 mètres) qui offre une vue magnifique. L’ensemble du trail est à faire (3.6 miles 5,8 Km +300) selon le sens que l’on choisi on grimpe jusqu’à un oic rocheux en traversant d’immenses cactus et le retour se fait le long du lit d’une rivière asséchée. Très beau.
+On fini la piste, repassons devant le visitor center pour nous diriger vers «Puerto Blanco Mountains Hills» encore une piste, mais de meilleure qualité avec quelques parties goudronnées. Nous nous arrêtons un peu avant Pinkley Peak au départ d’un trail «Senita Bassin Loop» (2.9 miles - 4.6 Km). Un peu déçu par ce trail dont la plus garde partie ce fait dans le lit gravildonneux d’une rivière asséchée, pas très pratique pour marché sans compter la vue. Arrivée au « Bassin » rien d’extraordinaire, on fait demi tour. Peut faut-il y accéder par une des autres pistes qui mènent à ce point. Arrivé sur le parking pour récupérer Thor, le soleil est déjà couché et nous assistons à un lever de lune absolument magnifique sur ce décor désertique où les cactus se dessine dans le ciel. De retour au camping nous passons faire le plein d'
+
+
+## 02 mars
+
+
+
+
+
+## 03 mars
