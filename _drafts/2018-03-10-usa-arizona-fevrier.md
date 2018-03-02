@@ -4,9 +4,9 @@ title:   "Nevada - Arizona - Mexique"
 preview: "Cet article couvre la période du 20 février au ..."
 parent-id: 
 
-date:        2018-02-28 13:00:00
+date:        2018-03-02 13:00:00
 from-date:   2018-02-20 13:00:00
-to-date:     2018-03-01 13:00:00
+to-date:     2018-03-02 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt12.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt12.jpg
