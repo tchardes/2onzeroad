@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "31.690857, -114.502308"
-  name: "Golfo de Santa Clara, Sonora, Mexique"
-  date: "27 février 2018"
+  coordinates: "32.375070, -112.874164"
+  name: "Ajo, Arizona, USA"
+  date: "02 et 03 mars 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
