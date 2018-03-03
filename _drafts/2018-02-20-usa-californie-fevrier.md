@@ -78,7 +78,7 @@ La ville est très huppée avec ces galeries d'art et ces magnifiques maisons ac
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/26413527828/in/datetaken/" title="Sausalito - Californie - [USA]"><img src="https://farm5.staticflickr.com/4630/26413527828_e479a2c77d_b.jpg" width="1024" height="683" alt="Sausalito - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-On finit la journée sur les différents points de vues pour faire des photos de nuit du Golden Gate.  
+On finit la journée sur les différents points de vues pour faire des photos de nuit du Golden Gate. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018-02-06-usa-goldengate %}">ici</a>)**.  
 
 Ce matin, départ de notre super bivouac où nous n’avons pas été dérangés, trop sympas les Park Rangers. Nous traversons le Golden Gate et nous nous arrêtons à un point de vue pour prendre quelques photos. En repartant, je me trompe de route et nous retraversons le pont dans l’autre sens avant de revenir une nouvelle fois sur San Francisco. Nous nous arrêtons à un parking gratuit la journée et partons à pied le long de la baie jusqu’au Fischerman's Wharf où nous déjeunons. Je reprends la spécialité locale "Clams Shoulders" servie dans une boule de pain. Ensuite, nous prenons le bus et allons plein centre du côté de l’hôtel de ville. En fin d’après-midi, nous retournons au parking et prenons le soleil au port de la baie avant de partir vers notre bivouac en plein Presidio. Super journée sous un soleil éclatant.  
 
@@ -204,7 +204,7 @@ Nuit froide une nouvelle fois, le chauffage s’est mis en route à plusieurs re
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26570155808/in/datetaken/" title="Death Valley NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4663/26570155808_1bf26faa37_b.jpg" width="1024" height="576" alt="Death Valley NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Arrivés à l’entrée du parc, nous allons jusqu’au point de vue "Father Crowley Overlook", qui après un petit trail, offre un beau panoramique sur la partie Nord de la vallée de la mort. On ressort du parc à la nuit tombée pour un bivouac sauvage et j'en profite pour faire quelques photos de nuit.  
+Arrivés à l’entrée du parc, nous allons jusqu’au point de vue "Father Crowley Overlook", qui après un petit trail, offre un beau panoramique sur la partie Nord de la vallée de la mort. On ressort du parc à la nuit tombée pour un bivouac sauvage et j'en profite pour faire quelques photos de nuit. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018-02-20-usa-death %}">ici</a>)**.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/25569927587/in/datetaken/" title="Death Valley NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4672/25569927587_771be10eec_b.jpg" width="1024" height="768" alt="Death Valley NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
