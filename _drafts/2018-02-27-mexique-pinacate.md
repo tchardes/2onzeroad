@@ -6,8 +6,8 @@ parent-id:  2018-03-10-usa-arizona-fevrier
 
 date:       2018-02-26 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-death.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-death.jpg
+header-img: "assets/owner/blog/header/post-bg-pinacate.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-pinacate.jpg
 tags: [parc-naturel, volcan, montagne, desert, unesco]
 pois: [pinacate, altar]
 flickr-text: "Pinacate"
