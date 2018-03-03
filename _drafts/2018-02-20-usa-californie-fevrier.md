@@ -158,7 +158,7 @@ Avant de quitter Santa Barbara, nous nous arrêtons dans une usine de traitement
 
 ## 11 février  
 
-Nuit assez calme malgré le trafic. Nous partons en direction de **Getty Villa** à Pacific Palisades, nous y restons presque 2 heures. Nous poursuivons ensuite pour le **Getty center** et plus particulièrement son musée. Très belle visite. Nous continuons pour le seul Walmart qui semble accepter les RV, nous faisons les courses et de retour à Thor, on vient nous dire que l’on ne peut pas rester là. On trouve finallement un emplacement pas très loin dans une impasse d’un quartier résidentiel. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018-02-11-usa-getty %}">ici</a>)**.     
+Nuit assez calme malgré le trafic. Nous partons en direction de **Getty Villa** à Pacific Palisades, nous y restons presque 2 heures. Nous poursuivons ensuite pour le **Getty center** et plus particulièrement son musée. Très belle visite. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018-02-11-usa-getty %}">ici</a>)**. Nous continuons pour le seul Walmart qui semble accepter les RV, nous faisons les courses et de retour à Thor, on vient nous dire que l’on ne peut pas rester là. On trouve finallement un emplacement pas très loin dans une impasse d’un quartier résidentiel.     
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/39408933325/in/datetaken/" title="Pacific Palisades - Californie - [USA]"><img src="https://farm5.staticflickr.com/4649/39408933325_2922ca8354_b.jpg" width="1024" height="576" alt="Pacific Palisades - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
