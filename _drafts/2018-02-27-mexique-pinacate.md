@@ -15,7 +15,7 @@ country: Mexique
 states: ["Sonora"]
 city: 
 category: "blog"
-location: "36.340715, -117.066702"
+location: "31.836584, -113.801754"
 ---
 
 Réserve de biosphère El Pinacate et le Grand désert d’Altar
