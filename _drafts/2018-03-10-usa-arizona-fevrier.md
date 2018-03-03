@@ -8,8 +8,8 @@ date:        2018-03-02 13:00:00
 from-date:   2018-02-20 13:00:00
 to-date:     2018-03-02 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt12.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt12.jpg
+header-img: "assets/owner/blog/header/post-bg-rt13.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
 tags: [architecture, culturel, paysages, mer-ocean]
 pois: []
 country: USA
