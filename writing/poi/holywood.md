@@ -1,5 +1,5 @@
 ---
 layout: "writing_by_poi"
-permalink: "/writing/poi/holywood"
+permalink: "/writing/poi/hollywood"
 header-img: "assets/owner/hero/pois-bg.jpg"
 ---

@@ -113,7 +113,7 @@
     {"name": "santa", "displayName": "Santa Barbara", "type": "ville"},
     {"name": "old", "displayName": "Old Mission Santa Barbara", "type": "autre"},
     {"name": "studio", "displayName": "Universal Studios", "type": "autre"},
-    {"name": "holywood", "displayName": "Holywood Boulevard", "type": "ville"},
+    {"name": "hollywood", "displayName": "Hollywood Boulevard", "type": "ville"},
     {"name": "griffith", "displayName": "Observatoire Griffith", "type": "autre"},
     {"name": "las-vegas", "displayName": "Las Vegas", "type": "ville"},
     {"name": "pinacate", "displayName": "Réserve de la Biosphère El Pinacate", "type": "nature"},
