@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-death.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-death.jpg
 tags: [parc-naturel, volcan, montagne, desert]
-pois: [pinacate]
+pois: [pinacate, altar]
 flickr-text: "Pinacate"
 country: Mexique 
 states: ["Sonora"]

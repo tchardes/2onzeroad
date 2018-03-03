@@ -117,7 +117,7 @@
     {"name": "griffith", "displayName": "Observatoire Griffith", "type": "autre"},
     {"name": "las-vegas", "displayName": "Las Vegas", "type": "ville"},
     {"name": "pinacate", "displayName": "Réserve de la Biosphère El Pinacate", "type": "nature"},
-    {"name": "", "displayName": "", "type": ""},
+    {"name": "altar", "displayName": "Grand désert d'Altar", "type": "nature"},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""}
 
