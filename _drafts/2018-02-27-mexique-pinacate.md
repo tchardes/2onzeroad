@@ -8,7 +8,7 @@ date:       2018-02-26 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-death.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-death.jpg
-tags: [parc-naturel, volcan, montagne, desert]
+tags: [parc-naturel, volcan, montagne, desert, unesco]
 pois: [pinacate, altar]
 flickr-text: "Pinacate"
 country: Mexique 
