@@ -10,7 +10,7 @@ to-date:     2018-03-02 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt13.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
-tags: [architecture, culturel, paysages, mer-ocean]
+tags: [architecture, desert, geologie, flore]
 pois: []
 country: USA
 states: ["Nevada, Arizona"]
