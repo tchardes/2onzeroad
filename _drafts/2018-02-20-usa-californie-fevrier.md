@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "Californie - Le centre"
+title:   "France à Californie"
 preview: "Cet article couvre la période du 31 janvier au 20 février 2018 durant laquelle nous avons traversé la partie centrale de la Californie...."
 parent-id: 
 
