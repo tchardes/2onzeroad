@@ -2,11 +2,11 @@
 layout: "writing_by_country"
 country: "Mexique"
 permalink: "/writing/destination/mexique/"
-header-img: "assets/owner/hero/canada-bg.jpg"
-flickr-text: ""
-distance: 0
-days: 0
-photos: 0
+header-img: "assets/owner/hero/mexique-bg.jpg"
+flickr-text: "Mexique"
+distance: 455
+days: 2
+photos: 36
 videos: 0
 walk: 0
 ---
