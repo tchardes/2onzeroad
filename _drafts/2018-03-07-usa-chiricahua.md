@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-organ.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-organ.jpg
 tags: [parc naturel, volcan, montagne]
-pois: [Chiricahua]
+pois: [chiricahua]
 flickr-text: "Chiricahua"
 country: USA 
 states: ["Arizona"]

@@ -119,6 +119,18 @@
     {"name": "pinacate", "displayName": "Réserve de la Biosphère El Pinacate", "type": "nature"},
     {"name": "altar", "displayName": "Grand désert d'Altar", "type": "nature"},
     {"name": "organ-pipe", "displayName": "Organ Pipe Cactus NM", "type": "nature"},
+    {"name": "chiricahua", "displayName": "Chiricahua National Monument", "type": "nature"},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""}
 
 ]
