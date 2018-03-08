@@ -83,10 +83,39 @@ Nuit tranquille, nous sommes à 8h00 sur un trail, une boucle, dont le départ s
 On fini la piste, repassons devant le visitor center pour nous diriger vers «Puerto Blanco Mountains Hills» encore une piste, mais de meilleure qualité avec quelques parties goudronnées. Nous nous arrêtons un peu avant Pinkley Peak au départ d’un trail «Senita Bassin Loop» (2.9 miles - 4.6 Km). Un peu déçu par ce trail dont la plus garde partie ce fait dans le lit gravildonneux d’une rivière asséchée, pas très pratique pour marché sans compter la vue. Arrivée au « Bassin » rien d’extraordinaire, on fait demi tour. Peut faut-il y accéder par une des autres pistes qui mènent à ce point. Arrivé sur le parking pour récupérer Thor, le soleil est déjà couché et nous assistons à un lever de lune absolument magnifique sur ce décor désertique où les cactus se dessine dans le ciel. De retour au camping nous passons faire le plein d'
 
 
-## 02 mars
+## 02 et 03 mars
+
+Arrêt au RV parc à AJO
+
+## 04 et 05 mars
+
+Départ du camping direction Tucson. Nous longeons la frontière Mexicaine à une bonne cinquantaine de kilomètres à l’intérieur des USA et nous sommes impressionné par le nombre de patrouille des «Border Patriol» 4X4, moto tout terrain, quad, chien, contrôle à des check point avec des systèmes électroniques de oufff, tout alimenté avec des panneaux solaires donc très mobile.
+Arrivés à Tucson nous visitons le vieille ville avec ces maisons hispaniques très colorés puis nous sortons de la ville pour visiter la très belle Mission San Xavier del Bac. En fin de journée nous nous posons dans un walmart pour faire les courses et bivouaquer.
+
+Ce matinnouqs faisons le tour des 4 plus gros RV center de Tucson pour faire quelues révisions sur Thor mais ils sont tous overbookés pour plusieurs semaines. Finalement ches Camping World, je prends un RDV à la même enseigne mais à San Antonio le 21 mars. On mange et on prend la route en direction du parc Chiricahua NM en passant par Tombstone, Elle est restée célèbre pour être le lieu où s'est déroulée la fusillade d'OK Corral en 1881 et Bisbee.
+
+
+## 06 et 07 mars
+
+Ce matin nous prenons la route vers le Parc Chiricahua NM où nous allons passser deux jours. La route traverse toujours cette imense plaine, prairie de hautes herbes jaunes où de nombreux troupeaux paissent. Nous empruntons ces interminables ligne droite de plusieurs dizaines de kilomètres.
+Arrivés au visitor center, nous réservons la dernière place du petit camping du Parc pour la taille de Thor (25 places). Les américains sont vraiment très nature et même en hiver on est surpris de voir tant de monde. On prend les renseignements et partons en direction de Massai Point un parking qui culmine à 2094 mètres. La route, interdite au plus de 29’, est très belle et donne déjà un avant gout du décor dans lequel nous allons évoluer. En route on voit pas mal de neige dans les endroits les plus protégés du soleil, il va faire firsquet d’autant que le temps est couvert. Nous commençons par Massai Nature Trail, un eptite boucle de moins d’un kilomètre qui permet de bénféficier d’un magnifique panorama sur l’Echo Canyon. Ces formations géologiques d’origine volcanique sont impressionantes, un dirait un Tetris grandeur nature avec tous ces bloc empillés les uns sur les autres, parfois en équilibres. Après le déjeuner, je pars  depuis Massai Point faire une boucle formée par 3 trails, «Echo Canyon Trail» (2,1 Miles - 3,4 Km) suivi de «Halistone Trail» (0,8 Miles 1,3 km) et enfin «Ed Riggs Trail» (1,1 miles , 1,8 Km) pour un dénivelé de +120 mètres environ. Ce trail est vraiment à faire, les décors sont à couper le souffle, le trail circule au milieu d’immenses empilements de blocs de pierres, dans des « tunnels », failles… On arrive à Echo Parc, sorte de petit cirque où l’on a le droit de pousser son petit cris pour l’entendre se repeter. On poursuit en longeant un petit ruisseau (je doute qu’il y ait de l’eau en plein été) avant d’attaquer une lente remontée vers le point de départ. En fin d’après-midi nous repassons par le visitor center pour bénéficier de leur Wi-Fi et allons au camping à notre emplacement. En théorie nous ne bénéficions d’aucune commodité, juste des point d’eau mais arrivé à notre place nous constatons qu’il y a un compteur et une prise de courant pour se brancher.. on en profite. On va pouvoir tout recharger et utiliser les ordis pour traiter les photos et vidéos.
+
+
+
+Ce matin on quitte le camping pour le parking de Massai Point pour se garer puis départ pour plusieurs trail qui s’enchaînent, «Mushroom Rock trail» (1.2 miles - 1,9 KM) puis Inspiration Point trail (1 miles, 1,6 km), Big Balanced Rock Trail (1 miles, 1,6 Km) et enfin Heart of Rock Loop, une boucle de 1,1 miles - 1.8 Km puis retour à la case départ, soit au total un peu plus de 13 Km. Le trail culmine entre 2000 et 2137 mètres. Je n’ai trouvé aucune indication sur le dénivellé mais ca monte et ca descend tout du long…
+Le long du trail de nombreux rochers ont été nommés en fonction de leur forme, c’est ainsi que l’on passe devant un champignon, la tête d’un chameau, le marteau de Thor, un baiser de rochers ….
+On quitte le parc en fin d’après midi et on trouve un bivouac au bord d’une prairie, lumière magnifique au couchant.
+
+## 08 mars
+
+
+
+
+## 09 mars
 
 
 
 
 
-## 03 mars
+
+## 10 mars
