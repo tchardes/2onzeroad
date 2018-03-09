@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt13.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
 tags: [architecture, desert, geologie, flore]
-pois: []
+pois: [las-vegas#, red-rock-canyon#, hoover#, oatman#,   ]
 country: USA
 states: ["Nevada, Arizona"]
 category: "roadmap"
@@ -22,24 +22,25 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 20 février au 08 mars 2018 durant laquelle nous avons traversé une petite partie du Nevada, l'Arizona avec une petite escapade au Mexique dans la région de Sonora. 
+Cet article couvre la période du 20 février au 08 mars 2018 durant laquelle nous avons traversé une petite partie du Nevada, l'Arizona avec une petite escapade au Mexique dans la région de Sonora.  
 
-## Du 20 au 24 février 
+## Du 20 au 23 février 
 
-Nous arrivons à Las vegas par le sud et nous nous arrêtons à un Walmart pour faire quelques courses car ce soir nous allons chercher nos amis Eric et Muriel qui arrivent de Montpelier pour poursuivre leur aventure vers l’Amérique latine (leur blog : [Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)). Comme Eric m'a informé qu'ils avaient 3 heures de retard, nous nous arrêtons ensuite dans un Outlet pour faire les boutiques avant de nous rendre à l’aéroport les récupérer. Nous les conduisons à leur réservation et passons la soirée dans Thor autour d’un petit repas arrosé d’un bon vin rouge californien.
+Nous arrivons à Las Vegas par le sud et nous nous arrêtons à un Walmart pour faire quelques courses car ce soir nous allons chercher nos amis Eric et Muriel qui arrivent de Montpelier pour poursuivre leur aventure vers l’Amérique latine (leur blog : [Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)). Comme Eric m'a informé qu'ils avaient 3 heures de retard, nous nous arrêtons ensuite dans un Outlet pour faire les boutiques avant de nous rendre à l’aéroport les récupérer. Nous les conduisons à leur réservation et passons la soirée dans Thor autour d’un petit repas arrosé d’un bon vin rouge californien. On passe la nuit non loin d'eux sur un parking après avoir demandé l'aval au service de sécurité qui patrouille toute la nuit.  
 
-Le lendemain matin on les conduits jusqu'à leur storage afin qu'il récupère "ChouChou". On reste avec eux jusqu’à 11h00 puis on part au Nord dans un Outlet acheter des Jeans. En début d'après-midi nous nous rendons dans l'hôtel que nous avons réservé pour deux nuits, l'Excalibur pour prendre notre chambre. On fini l'après-midi sur le Strip qui est en pleine ébullition en raison d'un match de hockey puis nous rejoignons Eric et Muriel au "New york - New York" où nous passons la soirée ensemble. On fini la soirée dans notres immense Hôtel où Corinne tente sa chance aux machines à sous.
+Le lendemain matin on les conduits jusqu'à leur storage afin qu'il récupère "ChouChou" leur Defender 110. On reste avec eux jusqu’à 11h00 puis on part au Nord dans un Outlet acheter des Jeans. En début d'après-midi nous nous rendons dans l'hôtel que nous avons réservé pour deux nuits, l'Excalibur pour prendre notre chambre. On fini l'après-midi sur le Strip qui est en pleine ébullition en raison d'un match de hockey puis nous rejoignons Eric et Muriel au "New york - New York" où nous passons la soirée ensemble. On fini la soirée dans notre immense Hôtel où Corinne tente sa chance aux machines à sous.  
 
-On se lève et on va déjeuner dans Thor pour faire tourner un peu la génératrice.
-Visite de la ville, Rat Pack et Fremont
+Le lendemain On se lève et on va déjeuner dans Thor qui est tout seul sur un immense parking et on en profite pour faire tourner un peu la génératrice et maintenir ainsi la batterie de service à niveau. On passe ensuite toute la journée et la soirée à visiter le "Strip". **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-02-20-usa-death %}">ici</a>)**. 
 
-Départ de l’hôtel à 11h00 après avoir profité un max de la chambre pour recherher toutes les batteries et Internet. Nous partons au Nord vers Downtown pour passer à la boutique de Rick de Pawn Shop. Cela fait drôle de voir la boutique en vrai. Non loin nous nous arrêtons prendre une photo d’un trés beau bâtiment du "Keep Memory Alive Event Center".
-Nous allons faire les courses dans un walmart. Vers 13h00 la neige s’est mise à tomber durenat une bonne heure sans qu’elle tienne, heureusement, il ne fait pas si froid… et allons rester là le reste de l’après-midi et faire quelques magasins pour trouver des filtre à air pour la génératrice, sans succès.
+Départ de l’hôtel à 11h00 après avoir profité un max de la chambre pour recharger toutes les batteries et d'un très bon Internet. Nous partons au Nord vers Downtown pour passer à la boutique de Rick de Pawn Shop. Cela fait drôle de voir la boutique en vrai. Non loin nous nous arrêtons prendre une photo d’un très beau bâtiment du "Keep Memory Alive Event Center". A VERIFIER
+Nous allons faire les courses dans un walmart. Vers 13h00 la neige se met à tomber durant une bonne heure sans qu’elle tienne, heureusement, il ne fait pas si froid… Nous restons toute l'après-midi dans le coin à à la recherche de filtres à air pour la génératrice, sans succès. Nous retournons au Walmart pour passez la nuit qui sera très froide, les températures sont descendue en dessous de 0, nous avons apprécié le chauffage. C'est toujours dur de se dire qu'en plein désert il puisse faire froid...
 
-Nuit très froide, les températures sont descendue en dessous de 0, nous avons apprécié le chauffage.
-Depart ce matin pour faire le plein de gaz, si il y a bien quelque chose dont on a besoin vu les températures c’est bien du gaz pour le chauffage. Nous partons ensuite en direction de Red Rock Canyon NP qui se situe à une trentaine de kilomètres de Las Vegas. 
+## 24 février 
+
+Avant de quitter Vegas nous faisons le plein de gaz. s'il y a bien quelque chose dont on a besoin vu les températures c’est bien du gaz pour le chauffage. Nous partons ensuite en direction de **Red Rock Canyon NP**  qui se situe à une trentaine de kilomètres de Las Vegas. 
+
 Nous sommes debut du WE et il y a énormément de monde. Nous faisons la queue un bon moment à l’entrée du park afin de présenter notre pas america the beautiful. Le décors est splendides, ces roches rouges qui sortes au milieu de rien sont impressionnantes. Corinne a recupéré un plan au visitor center ainsi que les trail à ne pas rater. Nous nous engageons sur la scenic drive, une boucle 21 km qui ne se fait que dans un sens. En plus il y a une course d’organisée et seulement une voie n’est pratiquable. Peu de place sur le parking et au final impossible de se stationner. Nous arrivons à nous poser à la fin de la boucle au niveau "Pine Creek Canyon" j’en profite pour faire un petit rail en plein desert au milieu des cactus et de la neige qui est restée par endroit. Nous mangeons sur place puis nous sortons du park avec l’espoir d’y rerentrer. C’est peine perdue il y a une file d’attente encore plus grande ue ce matin. On laisse tomber, on le fera lors de notre prochaine venue à LV. Avant de quitter Vegas, nous partons en direction du fameux panneaux Welcome in Las Vegas, Il doit y avoir une file d’au mois 200 personnes qui fait la queue pour "la" photo. On ne s’arrête pas et on décide de quitter Vegas direction le barrage Hoover.
-Nous arrivons au niveau du barrage qui (1932-35) est très impressionnant ainsi que le pont "Le pont Mike O'Callaghan-Pat Tillman" qui a été condtruit (2010). Avant d’approcher le barrage, nous passons par un poste de contrôle. Je descend de Thor et ouvre tous les coffres à un agent, pendant que Corinne fait contrôler l’intérieur à une autre agent. Un attentat sur cette immense retenue d’eau serait une catastrophe. Nous quittons le Navada pour l’Arizona et nous changeons de fuseau horaire, 1 heure en plus. Nous faisons route pour Kingman au couchant en traversant un décor magnifique.
+Nous arrivons au niveau du barrage qui (1932-35) est très impressionnant ainsi que le pont "Le pont Mike O'Callaghan-Pat Tillman" qui a été construit (2010). Avant d’approcher le barrage, nous passons par un poste de contrôle. Je descend de Thor et ouvre tous les coffres à un agent, pendant que Corinne fait contrôler l’intérieur à une autre agent. Un attentat sur cette immense retenue d’eau serait une catastrophe. Nous quittons le Navada pour l’Arizona et nous changeons de fuseau horaire, 1 heure en plus. Nous faisons route pour Kingman au couchant en traversant un décor magnifique.
 
 
 ## 25 février 
@@ -51,7 +52,7 @@ Nous avons profité du coucher de soleil pour faire quelques photos.
 
 
 ## 26 février 
-Nuit un peu fraîche, surtout sur le matin où les chauffage c’est mis en route à plusieurs reprises. Ce matin départ pour le parking pour le trail palm canyon, trail de 1 miles, c’est étonnat dans un canyon de voir une quarantaine de palmiers alors qu’il n’y en a aucun autour. L’environnement est toujours aussi beau. Les autres pistes étant réservées au 4X4 nous décidons de descendre vers la frontière du mexique. La route est toujours aussi droite, désertique, juste entouré des massifs rocheux. Les cactus caldelabres se rariefient au fur et à mesure que nous descendons vers Yuna dont la régions est très agricole. Nous troucons un point pour faire les dump dans cette localité mais pas d’aeu potable. Nous faisons le plein d’essence et continuons jusqu’à San Luis, dernière ville avant le Mexique.
+Nuit un peu fraîche, surtout sur le matin où les chauffage c’est mis en route à plusieurs reprises. Ce matin départ pour le parking pour le trail palm canyon, trail de 1 miles, c’est étonnant dans un canyon de voir une quarantaine de palmiers alors qu’il n’y en a aucun autour. L’environnement est toujours aussi beau. Les autres pistes étant réservées au 4X4 nous décidons de descendre vers la frontière du mexique. La route est toujours aussi droite, désertique, juste entouré des massifs rocheux. Les cactus caldelabres se rariefient au fur et à mesure que nous descendons vers Yuna dont la régions est très agricole. Nous trouvons un point pour faire les dump dans cette localité mais pas d’eau potable. Nous faisons le plein d’essence et continuons jusqu’à San Luis, dernière ville avant le Mexique.
 Les températures sont bien meilleures car nous sommes seulement à 26 mètres.
 En route nous avons remarqué un grand dirigeable en position fixe dans les airs, peut-etre un système électronique de surveillance de la frontière…
 
