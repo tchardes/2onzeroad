@@ -41,4 +41,4 @@ A part un aigle qui a élu domicile dans un arbre juste à l’entrée du parc, 
 Au final c’est un très beau parc mais à faire en voiture ou 4X4, nous avons mis 9 heures pour faire la boucle, nous nous sommes présenté à la sortie bien après la fermeture, Corinne à ouvert la grille et nous sommes sortis tout seul…   
 
 
-Pour un complément d'informations sur ce parc, historique, trails, réservation camping, cartes, n'hésitez pas à faire une tour sur le [site officiel](http://www.visitaelpinacate.org/).
+Pour un complément d'informations sur ce parc, historique, trails, réservation camping, cartes détaillées, n'hésitez pas à faire un tour sur le [site officiel](http://www.visitaelpinacate.org/).
