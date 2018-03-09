@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Nevada - Arizona - Mexique"
-preview: "Cet article couvre la période du 20 février au ..."
+preview: "Cet article couvre la période du 20 février au 08 mars 2018 durant laquelle nous avons traversé une petite partie du Nevada, l'Arizona avec une petite escapade au..."
 parent-id: 
 
 date:        2018-03-08 13:00:00
@@ -22,7 +22,7 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 20 février au  2018 durant laquelle nous avons traversé une petite partie du Nevada, l'Arizona avec une petite escapade au Mexique dans la région de Sonora. 
+Cet article couvre la période du 20 février au 08 mars 2018 durant laquelle nous avons traversé une petite partie du Nevada, l'Arizona avec une petite escapade au Mexique dans la région de Sonora. 
 
 ## Du 20 au 24 février 
 
