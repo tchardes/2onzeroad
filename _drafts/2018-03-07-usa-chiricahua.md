@@ -30,4 +30,4 @@ On quitte le parc en fin d’après midi et on trouve un bivouac au bord d’une
 
 
 www.nps.gouv
-Pour un complément d'informations sur ce parc, historique, trails, réservation camping, cartes, n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gouv/).
+Pour un complément d'informations sur ce parc, historique, trails, réservation camping, cartes, n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/).
