@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt13.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
 tags: [architecture, desert, geologie, flore]
-pois: [las-vegas#, red-rock-canyon#, hoover#, oatman#, kofa#, pinacate#, altar#, organ-pipe#  ]
+pois: [las-vegas#, red-rock-canyon#, hoover#, 66#, oatman#, kofa#, pinacate#, altar#, organ-pipe#  ]
 country: USA
 states: ["Nevada, Arizona"]
 category: "roadmap"
