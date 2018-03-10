@@ -10,15 +10,17 @@ permalink: /pois/
 <div class="row" style="padding-bottom: 20px;">
     <div class="col-md-12" style="padding:0px 25px 25px 25px">
 
-        {% assign countries = "" | split:"|"  %}
+        <!-- {% assign countries = "" | split:"|"  %}
 
         {% for post in site.posts %}
             {% if countries contains post.country %}
             {% else %}
                 {% assign countries = countries | push: post.country %}
             {% endif %}
-        {% endfor %}
+        {% endfor %} -->
     
+
+        {% assign countries = "USA, Canada, Mexique, Puerto-Rico, Cuba" | split: ", " %}
         {% for country in countries %}
     
             {% if country != "Puerto-Rico" and country != "Cuba" %}
