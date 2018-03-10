@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt13.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
 tags: [architecture, desert, geologie, flore]
-pois: [las-vegas#20-au-23-février, red-rock-canyon#24-fevrier, hoover#24-fevrier, 66#25-fevrier, oatman#25-fevrier, kofa#26-fevrier, pinacate#27-et-28-février, altar#27-et-28-février, organ-pipe#01-mars, ajo#02-et-03-mars , tombstone#04-et-05-mars, tucson#04-et-05-mars, chiricahua#06-et-07-mars  ]
+pois: [las-vegas#20-au-23-février, red-rock-canyon#24-fevrier, hoover#24-fevrier, route-66#25-fevrier, oatman#25-fevrier, kofa#26-fevrier, pinacate#27-et-28-février, altar#27-et-28-février, organ-pipe#01-mars, ajo#02-et-03-mars , tombstone#04-et-05-mars, tucson#04-et-05-mars, chiricahua#06-et-07-mars  ]
 country: USA
 states: ["Nevada, Arizona"]
 category: "roadmap"
