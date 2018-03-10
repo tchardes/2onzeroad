@@ -128,8 +128,8 @@
     {"name": "ajo", "displayName": "Ajo", "type": "ville"},
     {"name": "tucson", "displayName": "Tucson", "type": "ville"},
     {"name": "tombstone", "displayName": "Tombstone", "type": "ville"},
-    {"name": "", "displayName": "", "type": ""},
-    {"name": "", "displayName": "", "type": ""},
+    {"name": "city-of-rock", "displayName": "City Of Rock State park", "type": "nature"},
+    {"name": "gila-cliff", "displayName": "Gila Cliff Dwellings National Monument", "type": "nature"},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""}
 
