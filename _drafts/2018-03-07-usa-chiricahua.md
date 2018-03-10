@@ -6,8 +6,8 @@ parent-id:  2018-03-10-usa-arizona-fevrier
 
 date:       2018-03-07 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-organ.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-organ.jpg
+header-img: "assets/owner/blog/header/post-bg-chiricahua.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-chiricahua.jpg
 tags: [parc naturel, volcan, montagne]
 pois: [chiricahua]
 flickr-text: "Chiricahua"
