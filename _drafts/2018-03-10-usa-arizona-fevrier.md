@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt13.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
 tags: [architecture, desert, geologie, flore]
-pois: [las-vegas, red-rock-canyon#, hoover#, 66#, oatman#, kofa#, pinacate#, altar#, organ-pipe#  ]
+pois: [las-vegas#20-au-23-février, red-rock-canyon#, hoover#, 66#, oatman#, kofa#, pinacate#, altar#, organ-pipe#  ]
 country: USA
 states: ["Nevada, Arizona"]
 category: "roadmap"
@@ -24,7 +24,7 @@ mapZoom: 6
 
 Cet article couvre la période du 20 février au 08 mars 2018 durant laquelle nous avons traversé une petite partie du Nevada, l'Arizona avec une petite escapade au Mexique dans la région de Sonora.  
 
-## Du 20 au 23 février 
+## 20 au 23 février 
 
 Nous arrivons à Las Vegas par le sud et nous nous arrêtons à un Walmart pour faire quelques courses car ce soir nous allons chercher nos amis Eric et Muriel qui arrivent de Montpelier pour poursuivre leur aventure vers l’Amérique latine (leur blog : [Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)). Comme Eric m'a informé qu'ils avaient 3 heures de retard, nous nous arrêtons ensuite dans un Outlet pour faire les boutiques avant de nous rendre à l’aéroport les récupérer. Nous les conduisons à leur réservation et passons la soirée dans Thor autour d’un petit repas arrosé d’un bon vin rouge californien. On passe la nuit non loin d'eux sur un parking après avoir demandé l'aval au service de sécurité qui patrouille toute la nuit.  
 
