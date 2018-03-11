@@ -18,7 +18,12 @@ category: "blog"
 location: "33.232638, -108.266363"
 ---
 
-Gila Cliff Dwellings National Monument est un parc situé dans le sud-ouest du Nouveau-Mexique, à l'ouest des États-Unis. Il date du 16 novembre 1907. Il couvre environ 2,2 km2. Il protège les restes archéologiques du peuple Mogollon qui a vécu sur ce site au xiiie siècle.
+Gila Cliff Dwellings National Monument est un parc situé dans le sud-ouest du Nouveau-Mexique dans le Gila Cliff National Forest. Crée le  16 novembre 1907 et couvrant environ 2,2 km2, il protège les restes archéologiques du peuple Mogollon qui a vécu sur ce site au XIIIe siècle.
+
+
+
+
+
 
 
 Pour un complément d'informations sur ce parc, historique, trails, réservation camping, cartes, n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/gicl/index.htm).
