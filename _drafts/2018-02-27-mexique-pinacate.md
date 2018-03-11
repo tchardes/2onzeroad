@@ -4,7 +4,7 @@ title:      "El Pinacate"
 preview:    "Reconnu depuis 2013 réserve de biosphère par l'Unesco, El Pinacate et le Grand désert d’Altar se trouve dans le désert de Sonora qui est l’un des..."
 parent-id:  2018-03-10-usa-arizona-fevrier
 
-date:       2018-02-26 12:00:00
+date:       2018-02-27 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-pinacate.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-pinacate.jpg

@@ -29,4 +29,4 @@ Le long du trail de nombreux rochers ont été nommés en fonction de leur forme
 On quitte le parc en fin d’après midi et on trouve un bivouac au bord d’une prairie, lumière magnifique au couchant.
 
 
-Pour un complément d'informations sur ce parc, historique, trails, réservation camping, cartes, n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/).
+Pour un complément d'informations sur ce parc, historique, trails, réservation camping, cartes, n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/chir/index.htm).
