@@ -1,7 +1,9 @@
 <div class="post-preview-category">      
                     
     {% assign pois = "" | split:"|"  %}
+    {% assign poisDisplayName = "" | split:"|"  %}
 
+    <!-- Retrieve all the used POI -->
     {% for post in site.posts %}
         {% if post.country == include.country %}
             {% for postPoi in post.pois %}
@@ -14,16 +16,27 @@
         {% endif %}
     {% endfor %}
 
-    {% assign pois = pois | sort %}
-
+    <!-- Get all their display name -->
     {% for poi in pois %}
+        {% for dataPoi in site.data.pois %}
+            {% if dataPoi.name == poi %}
+                {% assign poisDisplayName = poisDisplayName | push: dataPoi.displayName %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+
+    <!-- Sort them -->
+    {% assign poisDisplayName = poisDisplayName | sort %}
+
+    <!-- Get all the other related information -->
+    {% for poiDisplayName in poisDisplayName %}
         {% assign displayPoi = "NotFound" %}
         {% assign typePoi = "NotFound" %}
         {% assign iconPoi = "globe" %}
         
         {% for dataPoi in site.data.pois %}
-            {% if dataPoi.name == poi %}
-                {% assign displayPoi = dataPoi.displayName %}
+            {% if dataPoi.displayName == poiDisplayName %}
+                {% assign poiName = dataPoi.name %}
                 {% assign typePoi = dataPoi.type %}
                 {% if typePoi == "ville" %}{% assign iconPoi = "building" %}{% endif %}
                 {% if typePoi == "nature" %}{% assign iconPoi = "tree" %}{% endif %}
@@ -31,13 +44,12 @@
         {% endfor %}
 
         <div class="{{typePoi}}">
-            <a href="{{ site.baseurl }}/writing/poi/{{poi}}"/>
-                <i style="width:13px;" class="fa fa-{{iconPoi}}"></i>{% if displayPoi == "NotFound" %}{{poi}}{% else %} {{displayPoi}} {% endif %}
-                {% if displayPoi == "NotFound" %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}                 
+            <a href="{{ site.baseurl }}/writing/poi/{{poiName}}"/>
+                <i style="width:13px;" class="fa fa-{{iconPoi}}"></i>{% if poiDisplayName == "NotFound" %}{{poiName}}{% else %} {{poiDisplayName}} {% endif %}
+                {% if poiDisplayName == "NotFound" %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}                 
             </a>
         </div>
 
-        
     {% endfor %}
 
 </div>     
