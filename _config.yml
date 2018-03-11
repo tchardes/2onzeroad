@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "32.013430, -109.316512"
-  name: "Chiricahua NM, Arizona, USA"
-  date: "06 et 07 mars 2018"
+  coordinates: "32.787127, -106.325260"
+  name: "White Sands NM, Arizona, USA"
+  date: "10 et 11 mars 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
