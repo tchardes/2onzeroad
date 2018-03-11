@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Chiricahua National Monument"
 preview:    "..."
-parent-id:  2018-03-10-usa-arizona-fevrier
+parent-id:  2018-03-08-usa-arizona-fevrier
 
 date:       2018-03-07 12:00:00
 author:     "Thierry"
@@ -17,6 +17,10 @@ city:
 category: "blog"
 location: "32.010275, -112.899836"
 ---
+
+Le Chiricahua National Monument est un site faisant partie du National Park Service. Il est inscrit sur les listes de l'Union internationale pour la conservation de la nature (UICN) en tant que "monument naturel" (catégorie III). Il est situé dans les montagnes Chiricahua, à environ 60 kilomètres au sud-ouest de Willcox, Arizona. On y trouve les traces de l'énorme éruption volcanique qui secoua la région il y plus ou moins 27 millions d'années. Cette éruption, connue sous le nom de l'éruption de Turkey Creek Caldera, a déposé de la cendre et de la pierre ponce, de nature hautement silicieuse, sur une hauteur de 640 mètres. Ces dépôts se solidifièrent en tuf rhyolitique. L'érosion modela les formes et caractéristiques naturelles que l'on peut désormais découvrir au Chiricuahua National Monument.
+
+
 
 
 Ce matin nous prenons la route vers le Parc Chiricahua NM où nous allons passser deux jours. La route traverse toujours cette imense plaine, prairie de hautes herbes jaunes où de nombreux troupeaux paissent. Nous empruntons ces interminables ligne droite de plusieurs dizaines de kilomètres.
