@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "Nevada - Arizona - Mexique"
+title:   "Nevada - Arizona - Sonora"
 preview: "Cet article couvre la période du 20 février au 08 mars 2018 durant laquelle nous avons traversé une petite partie du Nevada, l'Arizona avec une petite escapade au..."
 parent-id: 
 
