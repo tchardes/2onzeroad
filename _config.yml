@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "32.787127, -106.325260"
-  name: "White Sands NM, Arizona, USA"
+  name: "White Sands NM, Nouveau Mexique, USA"
   date: "10 et 11 mars 2018"
 
 # set the encoding to utf-8
