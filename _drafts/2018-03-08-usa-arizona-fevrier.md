@@ -30,6 +30,8 @@ Nous arrivons à Las Vegas par le sud et nous nous arrêtons à un Walmart pour 
 
 Le lendemain matin on les conduits jusqu'à leur storage afin qu'il récupère "ChouChou" leur Defender 110. On reste avec eux jusqu’à 11h00 puis on part au Nord dans un Outlet acheter des Jeans. En début d'après-midi nous nous rendons dans l'hôtel que nous avons réservé pour deux nuits, l'Excalibur pour prendre notre chambre. On fini l'après-midi sur le Strip qui est en pleine ébullition en raison d'un match de hockey puis nous rejoignons Eric et Muriel au "New york - New York" où nous passons la soirée ensemble. On fini la soirée dans notre immense Hôtel où Corinne tente sa chance aux machines à sous.  
 
+<img src="{{baseurl}}/assets/owner/photos/Eric-Mu.jpg" style="width:100%"/>  
+
 Le lendemain On se lève et on va déjeuner dans Thor qui est tout seul sur un immense parking et on en profite pour faire tourner un peu la génératrice et maintenir ainsi la batterie de service à niveau. On passe ensuite toute la journée et la soirée à visiter le "Strip". **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-02-20-usa-death %}">ici</a>)**. 
 
 Départ de l’hôtel à 11h00 après avoir profité un max de la chambre pour recharger toutes les batteries et utiliser leur très bon Wi-Fi. Nous partons au Nord vers Downtown pour passer à la boutique de Rick de Pawn Shop. Cela fait drôle de voir la boutique en vrai. Non loin nous nous arrêtons prendre une photo d’un très beau bâtiment du "Keep Memory Alive Event Center". A VERIFIER
