@@ -43,3 +43,5 @@ En fin de journée, nous entamons la West Rim sur quelques kilomètres après sa
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/37241461232/in/datetaken/" title="Crater Lake NP - Oregon - [USA]"><img src="https://farm5.staticflickr.com/4350/37241461232_09b15fb31a_k.jpg" width="2048" height="1365" alt="Crater Lake NP - Oregon - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 Nous avons passé deux belles journées dans ce parc malgré la fumée provenant des incendies de forêts alentour et les inconvénients du camping. Même si, au final, ce n'est qu'un lac, l'environnement est vraiment impressionnant et inhabituel.
+
+Pour un complément d'information sur ce parc, historique, trails, réservation camping, cartes détaillées, n'hésitez pas à faire un tour sur le [site officiel](http://www.nps.gov/crla/index.htm).

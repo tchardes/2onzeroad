@@ -87,3 +87,5 @@ Pour les amoureux du film "Into the Wild", le Stampede Trail se trouve au Nord d
 </p>   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/36319023992/in/datetaken/" title="Denali - Alaska - [USA]"><img src="https://farm5.staticflickr.com/4435/36319023992_c9d17a1614_k.jpg" width="2048" height="1152" alt="Denali - Alaska - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+Pour un complément d'information sur ce parc, historique, trails, réservation camping, cartes détaillées, n'hésitez pas à faire un tour sur le [site officiel](http://www.nps.gov/dena/index.htm).
