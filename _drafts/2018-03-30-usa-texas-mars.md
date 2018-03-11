@@ -13,7 +13,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
 tags: [architecture, desert, geologie, flore]
 pois: []
 country: USA
-states: ["Nouveau-Mexique, Texas, Louisiane"]
+states: ["Nouveau-Mexique", "Texas", "Louisiane"]
 category: "roadmap"
 flickr-text: ""
 location: "31.494773, -97.589139"
