@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Chiricahua National Monument"
-preview:    "..."
+preview:    "Arrivés au visitor center, nous réservons la dernière place du petit camping du parc (25 places). Les américains sont vraiment très..."
 parent-id:  2018-03-08-usa-arizona-fevrier
 
 date:       2018-03-07 12:00:00
