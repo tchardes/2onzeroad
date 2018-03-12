@@ -6,8 +6,8 @@ parent-id:  2018-03-30-usa-texas-mars
 
 date:       2018-03-09 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-chiricahua.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-chiricahua.jpg
+header-img: "assets/owner/blog/header/post-bg-gila-cliff.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-gila-cliff.jpg
 tags: [parc naturel, culturel, montagne, geologie]
 pois: [gila-cliff]
 flickr-text: "Gila Cliff"
