@@ -18,7 +18,7 @@ category: "blog"
 location: "31.836584, -113.801754"
 ---
 
-Reconnus, depuis 2013, réserve de biosphère par l'Unesco, El Pinacate et le Grand désert d’Altar se trouvent dans le désert de Sonora qui est l’un des quatre grands déserts nord-américains avec le désert de Chihuahua, le Great Basin Desert et le désert de Mojave. Elle présente deux types de paysages :  
+Reconnue, depuis 2013, réserve de biosphère par l'Unesco, El Pinacate et le Grand désert d’Altar se trouvent dans le désert de Sonora qui est l’un des quatre grands déserts nord-américains avec le désert de Chihuahua, le Great Basin Desert et le désert de Mojave. Elle présente deux types de paysages :  
 
 A L'Ouest, Grand Désert de l’Altar, le plus grand champ de dunes de sable actives et le seul erg actif d’Amérique du Nord avec ses dunes pouvant atteindre deux cents mètres de haut, que nous faisons que traverser en empruntant les carreteras Federals 3 et 8.  
 
@@ -26,9 +26,9 @@ A L'Ouest, Grand Désert de l’Altar, le plus grand champ de dunes de sable act
 
 A l'Est, El Pinacate, zone volcanique dormante composée du bouclier du Pinacate, de vastes coulées de lave noires et rouges et de dix cratères volcaniques d’explosion, énormes, profonds et presque parfaitement circulaires. Ils seraient nés d’une association d’éruptions et d’effondrements et contribuent à la beauté tragique de ce site. Chaque paysage propose une communauté distincte de plantes et d’animaux, notamment des espèces endémiques de poissons d’eau douce et l’antilope (pronghorn ou Berrendo) de Sonora (emblème de la réserve).  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26718785778/in/datetaken/" title="El Pinacate - Sonora - [Mexique]"><img src="https://farm5.staticflickr.com/4794/26718785778_8e064a1843_k.jpg" width="2048" height="1152" alt="El Pinacate - Sonora - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39879611194/in/datetaken/" title="El Pinacate - Sonora - [Mexique]"><img src="https://farm5.staticflickr.com/4744/39879611194_1b8adedeaa_k.jpg" width="2048" height="1152" alt="El Pinacate - Sonora - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39879611194/in/datetaken/" title="El Pinacate - Sonora - [Mexique]"><img src="https://farm5.staticflickr.com/4744/39879611194_1b8adedeaa_k.jpg" width="2048" height="1152" alt="El Pinacate - Sonora - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26718785778/in/datetaken/" title="El Pinacate - Sonora - [Mexique]"><img src="https://farm5.staticflickr.com/4794/26718785778_8e064a1843_k.jpg" width="2048" height="1152" alt="El Pinacate - Sonora - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 Deux sites peuvent être visités, le "Museo y Centro de Visitantes Schuk Toak" situé au sud au kilomètre 72 sur la CF 8 et la "Estacion Biologica" située au sud au kilomètre 52, tous deux sur la carretera Federal 8. Le premier est un très beau bâtiment construit sur d'immenses plaques de coulées de lave noire avec circuit d'interprétation extérieur et une belle exposition à l'intérieur. Le deuxième site est l'entrée de la zone visitable, ouvert de 08h00 ou 09h00 à 17h00 selon la saison, une boucle de 80 km de piste. L'entrée est payante 30 pesos/pers. pour les locaux et 60 pesos pour les autres (~3€). C'est la première fois que nous remarquons cette "différence de traitement". Un site Internet est disponible www.visitaelpinacate.org.   
 
