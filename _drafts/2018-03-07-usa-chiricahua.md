@@ -18,7 +18,7 @@ category: "blog"
 location: "32.010275, -112.899836"
 ---
 
-Le Chiricahua National Monument est situé dans les montagnes Chiricahua en Arizona. On y trouve les traces d'une énorme éruption volcanique qui secoua la région il y a environ 27 millions d'années. Cette éruption, connue sous le nom de l'éruption de Turkey Creek Caldera, a déposé de la cendre et de la pierre ponce sur une hauteur de 640 mètres. Une fois ces dépôts solidifiés, l'érosion modela le relief, aujourd'hui si particulier.
+Le **Chiricahua National Monument** est situé dans les montagnes Chiricahua en Arizona. On y trouve les traces d'une énorme éruption volcanique qui secoua la région il y a environ 27 millions d'années. Cette éruption, connue sous le nom de l'éruption de Turkey Creek Caldera, a déposé de la cendre et de la pierre ponce sur une hauteur de 640 mètres. Une fois ces dépôts solidifiés, l'érosion modela le relief, aujourd'hui si particulier.
 
 Arrivés au visitor center, nous réservons la dernière place du petit camping du parc (25 places). Les américains sont vraiment très nature et même en hiver, on est surpris de voir tant de monde et parfois des personnes âgées qui s'engagent sur des trails un peu techniques, je trouve. On prend les renseignements et partons en direction de **Massai Point**, un parking qui culmine à 2094 mètres. La route, interdite au plus de 29’ (8,84 mètres), est très belle et donne déjà un avant-goût du décor dans lequel nous allons évoluer.
 
