@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Gila Cliff Dwellings National Monument"
-preview:    "..."
+preview:    "La route qui, depuis Silver City, mène au parc est très montagneuse et très belle, de nombreux campings sont disponibles et certains emplacements..."
 parent-id:  2018-03-30-usa-texas-mars
 
 date:       2018-03-09 12:00:00
