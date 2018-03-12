@@ -27,8 +27,8 @@ Cet article couvre la période du 20 février au 08 mars 2018 durant laquelle no
 
 ## 08 mars 
 
-Nous roulons jusqu’à Lordsburg où nous trouvons de l’essence pas trop chère pour faire le plein. Nous venons de rentrer dans l’état du Nouveau Mexique par une immense plaine à moitè désertique qui doit être un couloir de tempête de sable. tous les 50 mètres un panneau jaune vous donne des consignes du genres «Garez-vous sur le bas coté», «Gardez le plied sur le frein», «Restez attachés», «La visibilité peut-etre nulle», … devant autant de risques, on s’est demandé s’il ne valait pas mieux retourner dans l’Arizona…
-Nous prenons ensuite la direction de Silver City où nous faisons les courses au Walmart après avoir déjeuner ches « Deny’s », on aime bien cette enseigne. On fini la journée sur la très route montagneuse qui va nous conduire à Gila Cliff Dwellings national Monument. Un peu avant d’arriver au visitor center, nous trouvons une aire où nous pouvons passer la nuit.
+Nous roulons jusqu’à Lordsburg où nous trouvons de l’essence pas trop chère pour faire le plein. Nous venons de rentrer dans l’état du Nouveau Mexique par une immense plaine à moitiè désertique qui doit être un couloir de tempête de sable. tous les 50 mètres un panneau jaune vous donne des consignes du genres «Garez-vous sur le bas coté», «Gardez le plied sur le frein», «Restez attachés», «La visibilité peut-être nulle», … devant autant de risques, on s’est demandé s’il ne valait pas mieux retourner dans l’Arizona…
+Nous prenons ensuite la direction de Silver City où nous faisons les courses au Walmart après avoir déjeuner chez « Denny’s », on aime bien cette enseigne. On fini la journée sur la très route montagneuse qui va nous conduire à Gila Cliff Dwellings national Monument. Un peu avant d’arriver au visitor center, nous trouvons une aire où nous pouvons passer la nuit.
 
 ## 09 mars 
 
@@ -40,7 +40,7 @@ Peu après Faywood, on arrive dans une immense plaine pas désertique mais avec 
 
 ## 10 mars 
 
-Ce matin trail autour de City of Rocks pour faire quelques photos avec la lumière du matin, douche puis nous repartons en direction de White Sands NM. Cela fait plusiuers jour que nous n’avons aucune connectivité et dès que nous approchon de Deming, nous faisons une halte au Walmart pur téléphoner à toute la famille et prendre des nouvelles, nous profitons du Wi-Fi du magasin pour nos mises à jours et gérer nos mail. Nous reprenons la route en direction de Las Cruses où nous faisons le plein d’essence car c’ets la moins chère dans le coin puis nous poursuivons vers le visitor center de White Sands NM, il est trop tard et le temps n’est vraiment pas beau.
+Ce matin trail autour de City of Rocks pour faire quelques photos avec la lumière du matin, douche puis nous repartons en direction de White Sands NM. Cela fait plusiuers jour que nous n’avons aucune connectivité et dès que nous approchons de Deming, nous faisons une halte au Walmart pur téléphoner à toute la famille et prendre des nouvelles, nous profitons du Wi-Fi du magasin pour nos mises à jours et gérer nos mail. Nous reprenons la route en direction de Las Cruses où nous faisons le plein d’essence car c’ets la moins chère dans le coin puis nous poursuivons vers le visitor center de White Sands NM, il est trop tard et le temps n’est vraiment pas beau.
 On est dans une zone ou se trouve de nombreuses bases de l’air force et où on réalise des essais de missiles. Des test de l’arme nucléaire ont été réalise dans les années 60 dans le région. Croisons les doigts.
 On récupère la doc et on se pose dans un walmart à Alamogordo pour la nuit.
 
