@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Nevada - Arizona - Sonora"
-preview: "Cet article couvre la période du 20 février au 08 mars 2018 durant laquelle nous avons traversé une petite partie du Nevada, l'Arizona avec une petite..."
+preview: "Cet article couvre la période du 20 février au 08 mars 2018 durant laquelle nous avons traversé une petite partie du Nevada, l'Arizona avec une..."
 parent-id: 
 
 date:        2018-03-08 13:00:00
