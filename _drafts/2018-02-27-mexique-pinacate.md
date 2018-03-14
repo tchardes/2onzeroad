@@ -34,7 +34,7 @@ Deux sites peuvent être visités, le "Museo y Centro de Visitantes Schuk Toak" 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26718746588/in/datetaken/" title="El Pinacate - Sonora - [Mexique]"><img src="https://farm5.staticflickr.com/4608/26718746588_2935e78045_k.jpg" width="2048" height="1152" alt="El Pinacate - Sonora - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous demandons aux gardes si la piste ne pose pas de problème pour les RV, il regarde Thor et nous indique que pour cette taille de RV, cela ne pose aucun problème. Il s'agit bien d'une piste, plutôt sablonneuse, avec pas mal de tôle ondulée (rupio) mais ça se fait gentiment et surtout doucement, 10 Km/h environ. On ne peut pas dire que les RV soient le moyen de locomotion idéal.  
+Nous demandons aux gardes si la piste ne pose pas de problème pour les RV, il regarde Thor et nous indique que pour cette taille de RV, tout est OK. Il s'agit bien d'une piste, plutôt sablonneuse, avec pas mal de tôle ondulée (rupio) mais ça se fait gentiment et surtout doucement, 10 Km/h environ. On ne peut pas dire que les RV soient le moyen de locomotion idéal.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39879665064/in/datetaken/" title="El Pinacate - Sonora - [Mexique]"><img src="https://farm5.staticflickr.com/4790/39879665064_89741dde52_k.jpg" width="2048" height="1152" alt="El Pinacate - Sonora - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
