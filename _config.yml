@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "31.807861, -106.422195"
-  name: "El Paso Texas, USA"
-  date: "13 mars 2018"
+  coordinates: "31.89616, -104.82799"
+  name: "Guadalupe Mountains NP, Texas, USA"
+  date: "14 mars 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
