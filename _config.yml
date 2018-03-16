@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "32.182846, -104.418669"
-  name: "Carlsbad Caverns NP, Nouveau-Mexique, USA"
-  date: "15 mars 2018"
+  coordinates: "30.607405, -103.950605"
+  name: "Fort Davis, Texas, USA"
+  date: "16 et 17 mars 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
