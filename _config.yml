@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "29.228545, -103.228373"
   name: "Big Bend NP, Texas, USA"
-  date: "18 et 19 mars 2018"
+  date: "17 au 19 mars 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
