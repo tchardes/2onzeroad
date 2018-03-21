@@ -46,4 +46,4 @@ Après une bonne nuit au camping, nous repartons à Massai Point pour se garer. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40061052084/in/datetaken/" title="Chiricahua - Arizona - [USA]"><img src="https://farm5.staticflickr.com/4772/40061052084_2b3ae5f805_k.jpg" width="2048" height="1365" alt="Chiricahua - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Très beau parc, très bien aménagé comme toujours et vraiment très original et dépaysant. Pour un complément d'informations sur ce parc, historique, trails, réservation camping, cartes détaillées, n'hésitez pas à faire un tour sur le [site officiel](http://www.www.nps.gov/chir/index.htm).
+Très beau parc, très bien aménagé comme toujours et vraiment très original et dépaysant. Pour un complément d'information sur ce parc, historique, trails, réservation camping, cartes détaillées, n'hésitez pas à faire un tour sur le [site officiel](http://www.www.nps.gov/chir/index.htm).
