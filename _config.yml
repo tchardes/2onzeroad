@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "29.425188, -98.494615"
-  name: "San Antonio, Texas, USA"
-  date: "20 au 22 mars 2018"
+  coordinates: "30.224659, -92.010016"
+  name: "Lafayette, Louisiane, USA"
+  date: "24 mars 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
