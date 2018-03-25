@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "30.224659, -92.010016"
-  name: "Lafayette, Louisiane, USA"
-  date: "24 mars 2018"
+  coordinates: "29.955803, -90.072712"
+  name: "La Nouvelle Orleans, Louisiane, USA"
+  date: "25 au 27 mars 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
