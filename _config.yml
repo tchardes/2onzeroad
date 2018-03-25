@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "29.955803, -90.072712"
-  name: "La Nouvelle Orleans, Louisiane, USA"
+  name: "La Nouvelle-Orleans, Louisiane, USA"
   date: "25 au 27 mars 2018"
 
 # set the encoding to utf-8
