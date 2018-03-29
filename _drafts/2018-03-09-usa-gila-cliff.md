@@ -30,10 +30,10 @@ La route conduit ensuite au départ de plusieurs trail dont **Cliff Dwellings** 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26901427648/in/datetaken/" title="Gila Cliff - Nouveau-Mexique - [USA]"><img src="https://farm5.staticflickr.com/4800/26901427648_26fb250f09_h.jpg" width="1600" height="900" alt="Gila Cliff - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-De retour, je demande à un ranger «volontaire» s’il y a un moyen d’aller sur l’autre partie du canyon pour avoir une vue d’ensemble des cavernes. Il m’indique qu’il y a plus de 600 miles de trails dans la région et qu’il suffit de faire une partie du «Woody’s trail» pour voir le site. Je fais plus de 6 Km sur ce trail mais, de toute évidence, je m’écarte et m’éloigne du site. Impossible de partir hors des pistes sans carte ni GPS. Néanmoins, c'est une jolie balade. 
+De retour, je demande à un ranger «volontaire» s’il y a un moyen d’aller sur l’autre partie du canyon pour avoir une vue d’ensemble des cavernes. Il m’indique qu’il y a plus de 600 miles de trails dans la région et qu’il suffit de faire une partie du **Woody’s trail** pour voir le site. Je fais plus de 6 Km sur ce trail mais, de toute évidence, je m’écarte et m’éloigne du site. Impossible de partir hors des pistes sans carte ni GPS. Néanmoins, c'est une jolie balade. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40771371581/in/datetaken/" title="Gila Cliff - Nouveau-Mexique - [USA]"><img src="https://farm5.staticflickr.com/4800/40771371581_7fc4276164_h.jpg" width="1600" height="900" alt="Gila Cliff - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Certes, il n'y a pas de commune mesure entre ce site et Mesa Verde NP dans le colorado, toutefois, si on passe dans le coin, cela reste une belle découverte.
+Certes, il n'y a pas de commune mesure entre ce site et Mesa Verde NP dans le Colorado, toutefois, si on passe dans le coin, cela reste une belle découverte.
 
-Pour un complément d'informations sur ce parc, historique, trails, réservation camping, cartes, n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/gicl/index.htm).
+Pour un complément d'information sur ce parc, historique, trails, réservation camping, cartes, n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/gicl/index.htm).
