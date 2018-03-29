@@ -86,15 +86,103 @@ On s’arrête à Pecos pour la nuit.
 
 ## 16 mars 
 
-Départ de Pécos pour le sud, Nous traversons encore un long moment ce champ pétrolifère puis commençons à voir les première culture puis un peu de relief, c’est quand même plus agréable. Après Toyavale nous traversons un massus montagneux très jolie avec des formations rocheuses en forme d’orgue, nous traverssons Fort Davis et nous arrêtons dans un RV park pour 24 heures.
+Départ de Pécos pour le sud, Nous traversons encore un long moment ce champ pétrolifère puis commençons à voir les première culture puis un peu de relief, c’est quand même plus agréable. Après Toyavale nous traversons un massif montagneux très jolie avec des formations rocheuses en forme d’orgue, nous traverssons Fort Davis et nous arrêtons dans un RV park pour 24 heures.
 
 
 
 ## 17 mars 
 
-
-
-
+ce matin nous quittons le camping en direction du Sud. Nous traversons Alpine et entrons dans Bib Bend National Parc par l’entrée ouest. Le Park Rangers contrôle notre Pas America tghe Beautiful avec mon permis et aussitôt nous parle en français, c’est cool.
+Nous prenons une piste « Old maverick Road » de 21 km pour rejoindre Santa Helena Canyon ou nous faisons un trail (1,6 mile - 2,6 Km) qui rentre dans le canyon où coule le rio grande. Belle ballade sous une forte chaleur. Nous voyons nos premiers cactus en fleurs. 
+Nous prenons ensuite la « Ross Maxwell scenic Drive» et nous nous arrêtons au Camping «CottonWood » où nous payons par le système des enveloppes, 14 $. 
+Nous repartons sur un overlook pour le coucher de sleil sur les montagnes mais jamis il ne sortire des nuages. Pendant que nous attendons, une petite famille de « Javelina » passe tranquille à une dizaine de mètres.
+Puis retour au camping.
 
 
 ## 18 mars 
+
+Départ du camping pour Rio Grand Village, nous laissons tomber Chisos car la route est deconseillée au RV de 24 pieds. Nous avons confirmation après au visitor center que la route nest difficile et qu’il faut y aller de bonne heure pour pouvoir garer.
+Nous faisons tous les overlook et les petits trails le long de la route.
+Arrivé à Rio grande Village nous reservons notre emplacement de camping pour cette nuit et partons faire un trail le long du rio grande. Il y. quelque mexicain qui traversent le rio grande pour vendre un peu d’artisanat local aux promeneurs.
+Nous avons vu nos preniers roadrunner ou «bip-bip» c’est vrai qu’ils sont rigolos et qu’ils courent trèc vite.
+Au final ce parc est surtout fait pour les gens qui randonnent plusiuers jours, certains trails font plus de 100 km et il y a de nombreux campings primitifs dans tout le parc.
+
+
+
+## 19 mars 
+
+Trajet de Big Bend à Del Rio, on a vu un troupeau d’antilopes près de Marathon. 2 fois le plein et courses à walmart.
+
+
+## 20 mars 
+
+Route jusqu’à San Antonio, visite de Fort Alamo où c’est illustré David Crockett lors de la bataille de 6/3/1836 puis de la cathédrale San Fernando et de la maison du gouverneur. Promenade le long de la ricière très bien aménagé avec de nombreux commerces et tour en bateau pui depart vers «San Antonio Missions national Historic Park» qui regroupe 4 missions espagnoles établies par des Franciscains, Concepcion (1775), San José (1777), San Juan (1731) et San Francisco de la Espada (1740).
+Puis route vers New Braunfels pour e^tre sur place demain matin pour notre RDV chez Camping World.
+
+## 21 mars 
+
+Ce matin RDV chez Camping world, très décu par leur prestations.
+Route jusqu’à Houston dont la traversé a été longue.
+
+## 22 mars 
+
+Visite du Space center.
+
+
+## 23 mars 
+
+Nous décidon de rejoindre la Louisinae par les petite routes du bord du golfe du mexique. Nous traversons la belle ville Galveston où nous prenons le ferry (gratuit) pour traverser la baie. Nous nous trouvons sur le péninsule de Bolivar où toutes les constructions sont sur pilotis en raison certainement des Ouragans. Nous passons en Louisiane au niveau de Port Arthur qui abrite d’immense raffinerie de pétrole, le décor et vraiment moche. Très vite ous arrivons dans une zone plus sauvage, entre prairies à gauche et zone marécageuse à droite. Au niveau de Cameron nous reprenons un petit ferry (gratuit) qui nous permet de traverser un canal d’alimentatyion d’un lac.
+Le payasage est vraiment très beaun toujours avec ces maisons surélevées.
+Nous décidons de filer jusqu’à la Lafayette, capitale gastronomique du pays Cajun et décidons de tester cela dans un très bon retstaurant figurant sur tout les guide le « Bon Temps Grill »
+Nous prenons une spécialité qui nous permet de gouter un peu à tous et qui se compose de Deux saucisses, boudin, aloyau, Ribs, crevettes et thon avec deux accompagnements, au final une repas très léger pour le soir, on s’est régalé tout était très bon.
+A la sortie on se pose dans un walmart  pour digérer et passer la nuit. Parler des Sites historiques au bord de la route
+
+
+## 24 mars 
+
+Ce matin direction le visitor center. Sur la porte il y a la devise de Lafayette «ici on est fier de parler Français» . Nous sommes reçus par deux dames qui ne parlent pas un mot de notre langue…
+Une fois la documentation récupérée, nous partons visiter la Cathédrale St Jean, très beau édifice en briques rouge, sur la droite un immense arbre dont la branches les plus basses sont étayées tellement l’arbre est gros. Je fais un tour au cimetière et effectivement il y a de nombreux noms à consonnance française, Lacoste, Leblanc, Barrillot, Doiron…
+Nous rejoignons ensuite le «Acadian Cultural Center». Nous visualisons un film sur les acadiens et leur génocide par les Britaniques. Le fils est sous-titré en Français mais avec de très nombreuses fautes. Un musée retrace également leur histoire et surtout leur installation en Louisiane avec de nombreuses photos et objets. Les deux park rangers présents ne parle pas non plus un mot de français.
+Direction en suite Saint Martinville, sans grand intérêt. Il y a une belle église ainsi qu’un opéra théatre qui a été construit par les revolutionnaires ayant fuit la France. Le batiment fini, la première représentation fut le Barbier de Seville.
+Nous remonton en suite vers le Lac Martin pour faire un tour de bateau dans le Bayou. Notre choix se porte sur  «Champagne's Cajun Swamp Tours». Nous payons 55$ et partons pour 2 heures sur le lac au milieu du bayou et marécage avec un guide qui parle très bien le Français. Au final nous nous retrouvons 11 francophones à bord. Le décors et magique et la faune très présente, alligators, tortues, oiseaux. Très beau moment. Nous roulons ensuite jusqu’au «Atchafalaya » et le «Henderson Levee Road » mais le chemin pour grimper sur les digue n’était pas fait pour Thor.
+N’ayant plus rien à voir sur Lafayette nous nous avançons vers NOLA.
+
+
+## 25 mars 
+
+Départ du bicouac en direction de Nola en passant par la route sud des Plantations. Le niveau général de l’eau est très élevé et de nombreuses terres sont inondées ainsi que de nombreux terrains où se trouve des maisons heureusement sur élévée.
+Nous nous arrêtons à Oak Alley Plantation. Magnifique batisse de type colonial avec le quartier dédié aux esclaves reconstitué, beau parc et belle visite guidée de la maison des maitres.
+Nous passons ensuite devant les principales plantations jusqu’à Nola à savoir : St Joseph, Laura, Whitney, Evergreen pour la rive sud du Mississipi pui après l’avoir traversé, Ormond, Destrhan et LaBranche. Nous faisons un tour du quartier Français avec Thor avant de regagner un Walmart pour la nuit. En route nous avons croisé un défilé avec des chars style Carnaval.
+
+
+## 26 mars 
+
+On commence la journée par payer l’assurance, je tombe sur une dame charmente qui perle un peu français et est super contente de pratiquer un peu, elle prend les choses en main et c’est rapidement réglé. Nous partons ensuite au quartier français, un trouve un parking pour 5$/10 heures et on passe la journée et la soirée à déhambuler dans le quartier. A midi on mage à «Court of two sisters» super cadre et buffet de cuisine locale. Plusieurs personnes m’ont interpellé au sujet de mes chaussures, de banales basket noire, grand mystère, on n’a pas compris ce qu’ils nous disaient mais il y a un truc là…
+Le soir on a du mal a choisir un bar tellement il y en a qui donne de la bonne musique Live. Il y a une ambiance énorme dans cette rue, et dire que c’est tous les soirs comme cela, durant mardi gras ce doit être quelque chose. Grande statue de Jeanne d’Arc offerte par la ville d’Orleans. Passage obligé au «Café du Monde» café mytiquie de Nola ouverts 24/24 ou l’on doit faire la queue toute la journée pour pouvoir déguster leur spécialité les «beignets», tous chauds servis sous une épaisse couche de sucre glace. On tente «Preservation hall Jazz » salle mytique du Jazz de Nola mais il y a une queue d’au moins 50 mètres, on laisse tomber. On fini au «Fat Catz» sur Bourbon Street et on passe la soirée avec 9 musiciens de haut vols qui nous font voyager des année 70 à aujourd’hui. Quel Groove ….
+On retourne au walmart pour passer la nuit.
+
+## 27 mars 
+
+Ce matin n ous avons décidé de changer les 4 pneus arrières des roue jumelés. C’est un peu galère de trouver un garage qui prenne en compte les RV en raison de la hauteurs de leur atelier. Finalement je tombe sur un responsable de magasin qui prend son téléphone et après plusieurs coups de fil me trouve un garage. Pas de Michelin se ser donc des Firestone. Après le repas réunion autour de la table pour décider du programmes des prochains jours. In milieu d’après midi nous quittons Nola sous un ciel voilé et remontons le Mississipi rive Nord afin de reprendre la route des Plantations. Nous voyons ainsi San Francisco et Houmas. En début de soiré on se pose dans un Walmart à Gonzales.
+
+
+
+## 28 mars 
+
+Départ de Gonzales pour baton Rouge, visite très rapide car il n’y a pas grand chose à voir si ce n’est le Capitole de l’état de la Louisiane, capitole l eplus haut des US 34 étages. le batiment est très moche et en travaux.
+Nous reprenons la route en direction de Natchez et empruntons la mythique route du Blues, la 61, petite soeur de la 66.
+A Natchez nous nous garons au visitor center pour prendre des renseignements. Un homme qui m’a entendu parler m’apostrophe, me demande si je suis bien francais … de France… puis m’explique qur son arrière grand-père est originaire de Paou !!! il m’a fallut quelque seconde pour conprendre qu’il était originaore de Pau, impossible de lui faire prononcer le mot « PO », on a bien rit. Ensuite nous avons parcouru à pied un trail dans la ville qui montre les plus belles demeures ante bellum de la ville, qui surplombe la Mississipi qui est bien en crue.
+De retour au visitor center nous voyons arriver un RV qui vient se brancher sur des prises électrique mises à disposition. Du coup nous partons faire des courses au Walmart et retournons au visitor pour nous brancher électriquement et passer la nuit qui s’annonce orageuse.
+ 
+
+
+
+
+## 29 mars 
+
+
+
+
+
+## 30 mars 
+
