@@ -181,7 +181,7 @@ De retour au visitor center nous voyons arriver un RV qui vient se brancher sur 
 ## 29 mars 
 
 
-
+Ce matin il pleut, comme toute la nuit, nous partons en directions de Vidalie, de l’autre côté du Mississipi en Louisiane pour passer 24 heures dans un camping et s’occuper de la logistique. En début d’après midi le temps se lève et le reste de la journée est ensolelillée.
 
 
 ## 30 mars 
