@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "30.455296, -91.141571"
-  name: "Bâton-Rouge, Louisiane, USA"
-  date: "28 mars 2018"
+  coordinates: "31.552139, -91.392091"
+  name: "Natchez, Mississipi, USA"
+  date: "28 au 30 mars 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
