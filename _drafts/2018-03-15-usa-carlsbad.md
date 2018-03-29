@@ -18,14 +18,10 @@ category: "blog"
 location: "32.175515, -104.444261"
 ---
 
+Le parc national de Carlsbad Caverns ou parc national des grottes de Carlsbad (en anglais : Carlsbad Caverns National Park ou CCNP) est un parc national aux États-Unis, situé dans les montagnes Guadalupe au sud-est du Nouveau-Mexique dans le comté d'Eddy. Le parc s'étend sur 189 km2 et comprend 83 grottes séparées dont les plus célèbres sont celles de Carlsbad Caverns. Elles représentent les grottes les plus profondes du pays (486,8 mètres). Dans Carlsbad Caverns se trouve l'une des plus grandes chambres souterraines. Le parc est inscrit sur la liste du patrimoine mondial depuis le 6 décembre 1995. Les grottes abritent des milliers de chauve-souris.
 
-White Sands est un désert de sable blanc située dans le bassin de Tularosa, entourée de montagnes, la cuvette de White Sands abrite le plus grand désert de gypse du monde. Le sable poussé par le vent forme des dunes brillantes. Le gypse qui forme le désert de White Sands a été déposé au fond d'une lagune peu profonde qui couvrait cette surface il y a 250 millions d'années. Avec la formation des montagnes rocheuses, les dépôts de gypse ont été surélevés en un dôme qui s’affaissa pour former le Bassin de Tularosa (en). Les pentes du dôme d’origine forment à présent les chaînes de montagnes San Andres (Pic Salinas (en), 2 700 mètres) et de Sacramento (plus de 3 600 mètres d’altitude, station de ski) qui entourent le bassin.
-
-L'armée américaine a établi une présence permanente dans le bassin de Tularosa pendant la Seconde Guerre mondiale, créant White Sands Proving Grounds, maintenant appelée White Sands Missile Range, ainsi que Alamogordo Bombing and Gunnery Range, connue aujourd'hui sous le nom de Holloman Air Force Base.
-
-White Sands Missile Range était également l'un des endroits clés du projet Manhattan, qui a développé la première bombe atomique pendant la Seconde Guerre mondiale. Les essais de la première bombe atomique ont eu lieu en 1945 sur le site de Trinity à WSMR, à 65 miles au nord du White Sands National Monument.
+Il y a plus de 1 000 ans, les Indiens ont occupé les grottes et ont laissé des dessins sur les parois. Au xixe siècle, les pionniers utilisèrent le guano des chauves-souris (Tadarida brasiliensis) pour fertiliser leurs champs. Un cow-boy nommé Jim White, passa son temps à explorer le réseau de voies souterraines. Il prit des photographies de la grotte avec Ray V. Davis. Elles furent exposées à Carlsbad en 1915 et firent sensation. L'exploration continua dans la deuxième moitié du xxe siècle avec la découverte de la Guadalupe Room en 1966, de la Bifrost Room, en 1982 et de la Chocolate High, en 1993. La colonne naturelle du Bicentenaire mesure 32 mètres de hauteur.
 
 
 
-
-Pour un complément d'informations sur ce parc, historique, trails, réservation camping, cartes, n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/wasa/index.htm).
+Pour un complément d'informations sur ce parc, historique, trails, réservation camping, cartes, n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/cave/index.htm).
