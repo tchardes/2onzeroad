@@ -221,6 +221,10 @@ Pour les marqueurs allez sur www.msbluestrail.org. Nous passons la soirée "Grou
 
 ## 01 avril
 
+Ce matin nous retournons dans dans le district de l’art et de la cultsure de Clarksdale, car il y a de nombreux marqueur à cet endroit. Nous faisons le tour du quartier qui est très pauvre, limite abandonné. Nous retournons au ground zero et la je discute avec un allemand qui fait partie d’une groupe. Il me dit qu’ils ont ouvert spécialement le Delta blues Museum pour eux et que je peux en profiter pour le visiter gratuitement. Alors même si les Alemands se mettent à la truande !!!! où va t-on ? bon je vais quand même y faire un tour…
+Je demande à plusieurs personnes s-il est possible d’assister à une messe Gospel, mais personne ne peux me renseigner. Nous nous arrêtons dans une église baptiste dont le parking est bien plein. Nous tombons sur le parking sur un messieur très gentil en costume trois pièce qui nous conduite jusque dans la salle, oui ce n’est pas vraiment un église comme on l’entend chez nous. Nous sommes les seuls blancs à l’intérieur et les plus mal fagotés, toutes les personnes sont endimanchés, on fait misérable avec notre tenue décntractée et nos basquets. Il y a bien un personne qu clavier mais pas de gospel, en fait on arrive pratiquement à la fin de la messe, plusieurs personnes se succédent au pupitre pour «precher» je pense et tout le monde répéte « Yeah man » à chaque fin de prhase. A la fin plusieurs personnes viennent nous saluer et discuter un peu avec nous. Sur le parking la même personne qui nous a acceuilli nous indique q u’il y a une autre messe à 11h00. C’est gentil mais on va en rester là. Nous quittons Clarksdale pour Tupelo où nous arrivon en milieu d’après-midi. Le décors est un peu plus valonné et boisé. Passage obligé sur le site où « The King » est né et où la modeste maison 3 pièces de ses parents a été restauré et «sanctifié» autour se trouve un visitor center, un musée, la chapelle où il allez …
+Nous nous posons pour la nuit dans un Walmart.
+
 
 
 
