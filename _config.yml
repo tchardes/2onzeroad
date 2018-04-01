@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "34.194891, -90.564186"
-  name: "Carlsdale, Mississipi, USA"
+  name: "Carlsdale, Mississippi, USA"
   date: "01 avril 2018"
 
 # set the encoding to utf-8
