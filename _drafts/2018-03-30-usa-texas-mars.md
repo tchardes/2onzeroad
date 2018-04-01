@@ -176,8 +176,6 @@ De retour au visitor center nous voyons arriver un RV qui vient se brancher sur 
  
 
 
-
-
 ## 29 mars 
 
 
@@ -186,3 +184,59 @@ Ce matin il pleut, comme toute la nuit, nous partons en directions de Vidalie, d
 
 ## 30 mars 
 
+Ce matin départ du camping. Nous repassons dans l’état du Mississipi et empruntons la Natchez trace Parkway jsuqu’à Port Gibson. Nous nous arrêtons à plusiuers endroits le long de la Trace, notamment dans une ancienne plantation. A partir de Port Gigson nous reprenons la 61, la route du Blues et nous nous arrêtons à Vicksburg, et plus précisément au «Vicksburg National Military Park» (Parc militaire national de Vicksburg
+Registre national des lieux historiques des États-Unis
+Parc militaire national américain
+Vicksburg-illinois-memorial.jpg
+Le mémorial de l'état de l'Illinois dans le parc militaire national de Vicksburg. La structure a été modelée sur le temple de Minerve Medica et le Panthéon de Rome. Le mémorial a été dédié le 26 octobre 1906.
+Emplacement dans le Mississippi Location within Mississippi
+ Show map of MississippiAfficher la carte de Mississippi
+Show map of the USAfficher la carte des États-Unis
+Show all
+Emplacement	Vicksburg, Mississippi & Delta, Louisiane , États - Unis
+Coordonnées	32 ° 20'38 "N 90 ° 51'5" W Coordonnées : 32 ° 20'38 "N 90 ° 51'5" O
+Région	1 852,75 acres (749,78 ha)
+Construit	21 février 1899
+Style architectural	Renaissance grecque
+Visitation	532 444 (2015)
+Site Internet	Parc militaire national de Vicksburg
+NRHP référence #	66000100
+Ajouté au PNRS	15 octobre 1966
+Le parc militaire national de Vicksburg préserve le site de la bataille américaine de Vicksburg , du 29 mars au 4 juillet 1863. Le parc, situé à Vicksburg, Mississippi (flanquant le fleuve Mississippi ), commémore également la grande campagne de Vicksburg qui a conduit jusqu'à la bataille. Des forts et des tranchées reconstruits évoquent le souvenir du siège de 47 jours qui a pris fin à la reddition de la ville. La victoire ici et à Port Hudson , plus au sud en Louisiane, a donné le contrôle de l' Union du Mississippi. Le parc comprend 1 325 monuments et bornes historiques, 32 km de tranchées et de terrassements historiques, une route d'excursion de 26 km, un sentier pédestre de 20 km, deux maisons antebellum , 144 canons mis en place , la canonnière restaurée USS Cairo (coulée le 12 décembre 1862 sur la rivière Yazoo ), et le site du canal de Grant , où l' armée de l' Union tenta de construire un canal pour permettre à ses navires de contourner l' artillerie confédérée.
+
+Le Caire , également connu sous le nom de «Hardluck Ironclad», fut le premier navire américain de l'histoire à être coulé par une torpille / mine. Il a été récupéré du Yazoo en 1964.
+
+Le Mémorial de l'État de l'Illinois compte 47 marches, une pour chaque jour où Vicksburg est assiégée.)
+
+Nous faisons un tour dans la ville qui compte quelques beaux batiments, la première boutique d’embouteillage de Coca Cola et un mur de fresques qui racontent l’histoire de la ville.
+
+Nous reprenons la route et rentrons dans ce que l’on appelle le Delta, une vaste zone plate, la seule du Mississipi qui compte des kilomètres de champs cultivés qui s’étendent jusqu’à Menphis, encadrée par le fleuve Mississippi à l'ouest et la Yazoo River à l'est, à l’époque du coton, et qui est le berceau du Blues.
+
+Nous nosu arrêtons à Greenville pour la nuit.
+
+## 31 mars
+
+Nuit calme au Walmart, ce matin nous partons en direction de Leland? lieu de naissance de Johonny Winter en autre. Deux peinture murales sont présentes en ville ainsi q’un des nombreux musée du Blues de la Région. Nous poursuivons vers Indianola où nous visitons le très beau musée dédié à BB King, très belle visite. Nousrepartons en direction shaw où nous reprenons la 61. Nous suivons la pluspart des marqueur positionnée dans la région et qui rapelle l’histoire du Blues. A Cleveland, nous visitons le Grammy muséum, ouvert depuis 3 ans, très moderne et qui rapelle l’histoire du Delta et des Grammy. Une exposition non permanent est dédiée aus «Suprêmes». Nous finissons au fameux « Devil’s Crossroad » très connu de tout les gens qui s’intéresse au blues et ceux de la série «Supernatural».
+Pour les marqueurs allez sur www.msbluestrail.org. Nous passons la soirée "Ground Zero", célébre club de Blues de la Ville situé dans le district des arts et de la culture. Cet établissement occupe un ancien entrepôt, la déco est... naturelle, les murs entiers sont recouverts de signatures, slogans, ... et de guitares signées également. Il appartient à 3 co-propriétaires dont Morgan Freeman qui a été élevé non loin de là par sa grand-mère à Greenville. Nous passons un très bon moment avec un groupe qui fait de bonnes reprises, les gens dansent, il y a vraiment une très bonne ambiance. L'entrée coûte 10$/Pers, on peut y manger et boire. Je dois dire que j'avais un mauvais apriori sur la bière américaine que l'on réduit souvent à la "Bud" mais en fait il y a énormément de bières différentes, je prends souvent des bières ambrées qui sont excellentes.
+
+## 01 avril
+
+
+
+
+## 02 avril
+
+## 03 avril
+
+
+## 04 avril
+
+
+## 05 avril
+
+
+
+## 06 avril
+
+
+## 06 avril
