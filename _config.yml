@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "31.552139, -91.392091"
-  name: "Natchez, Mississipi, USA"
-  date: "28 au 30 mars 2018"
+  coordinates: "34.194891, -90.564186"
+  name: "Carlsdale, Mississipi, USA"
+  date: "01 avril 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
