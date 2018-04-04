@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "36.166964, -86.784266"
   name: "Nashville, Tennessee, USA"
-  date: "02 et 03 avril 2018"
+  date: "02 au 05 avril 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
