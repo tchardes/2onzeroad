@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "36.166964, -86.784266"
-  name: "Nashville, Tennessee, USA"
-  date: "02 au 05 avril 2018"
+  coordinates: "35.149527, -90.048929"
+  name: "Memphis, Tennessee, USA"
+  date: "05 au 09 avril 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
