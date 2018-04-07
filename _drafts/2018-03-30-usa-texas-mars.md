@@ -207,29 +207,47 @@ Ce matin nous retournons dans dans le district de l’art et de la culture de Cl
 Je demande à plusieurs personnes s-il est possible d’assister à une messe Gospel, mais personne ne peux me renseigner. Nous nous arrêtons dans une église baptiste dont le parking est bien plein. Nous tombons sur le parking sur un monsieur très gentil en costume trois pièce qui nous conduite jusque dans la salle, oui ce n’est pas vraiment un église comme on l’entend chez nous. Nous sommes les seuls blancs à l’intérieur et les plus mal fagotés, toutes les personnes sont endimanchés, on fait misérable avec notre tenue décontractée et nos baskets. Il y a bien un personne qu clavier mais pas de gospel, en fait on arrive pratiquement à la fin de la messe, plusieurs personnes se succèdent au pupitre pour «prêcher» je pense et tout le monde répète « Yeah man » à chaque fin de phrase. A la fin plusieurs personnes viennent nous saluer et discuter un peu avec nous. Sur le parking la même personne qui nous a accueilli nous indique qu’il y a une autre messe à 11h00. C’est gentil mais on va en rester là. Nous quittons Clarksdale pour Tupelo où nous arrivons en milieu d’après-midi. Le décors est un peu plus vallonné et boisé. Passage obligé sur le site où « The King » est né et où la modeste maison 3 pièces de ses parents a été restauré et «sanctifié» autour se trouve un visitor center, un musée, la chapelle où il allez …
 Nous nous posons pour la nuit dans un Walmart.
 
-
-
 ## 02 avril
+
+Route sur la Natchez trace sous un ciel couvert, avons pas mal de faune, Dindons, Coyotte, Bivhes écureuil, marmottes…
+Arrivé à Nasville nous nous arrêtons à Gruhn Guitars, une institution à Nasville qui présente de guitares Vintage restaurées à tous les prix, nous avons vu une Les Paul Custom shop Black beauty à 52000 $…
+En voulant prendre une photo du magasin, je fais tomber mon Iphone et au bruit j’ai compris que javais cassé l’écan. Nous avons donc passé le reste de l’après-midi dans un magasin de réparation où j’ai rencontré une dame avec qui nous avons longuement parlé.
+
 
 ## 03 avril
 
+Ce matin le temps est gris, on part au magasin Guitar Center qui est tout proche puis je retroune au magasin pour faire changer ma batterrie de l’Iphone, il n’avait pas eu le temps hier soir. On perd la matinée. Après le repas on part en direction du parthénon construit pour le centenaire de la ville en 1897 puis nous allns en cntre ville où nbous trouvons rapidement un parking pour Thor. N ous nous promenons sur broadway, Walk of fame et le Hall of fame de la country music, nous passons devant tous les bars où se produisent des groupes en live, principalement de la counytry et du bluegrass. Nous troucons finalement, un peu à l’ecart, le Bourbon Street Blues, un bar restaurant où l’on peut écouter du Blues, on n’est pas trop country… On écoute 2 groupes différents, d’un super niveau, on passe une très bonne soirée, en sortant il pleut fort et on sprinte pour rejoindre Thor avant de regagner le Walmart.
+
 ## 04 avril
+
+Départ de Nasville pour le Kentuky et le Parc National de Mammoth Cave. Un peu moins de 2 heures de route pour arriver à vet immense parc qui est bondé. Il n’y a plus de place dans les quelques tours organisé par les Park Rangers, uniquement des billets disponible pour la visite libre d’une petite portion. On va commencer par cela. A l’entrée naturelle de la grotte je me fais refoulé car les trépied ne sont pas acceptés dans la grotte. Comme quoi d’un parc à l’autre les régles changes. Je me tape un allez-retour à Thor pour poser le matériel et j’y retourne. Après les consigne de sécurité d’un autre parc Rangers je penètre dans la Cave… C’est vrai que c’est immense aussi bien en hauteur qu’en largeur mais c’est juste des parois de roche grise sans aucune concrétion. Il y a des vestiges archéologiques d’une ancienne exploitation des lieux pour le salpêtre mais rien de plus. Le tour est fait 30 minutes, c’est très decevant. Il est vrai qu’il s’agit du réseau souterrain le plus important au monde 560 Km de galerie explorée et peut-être encore 1000 km à découvrit selon les spéléos mais ce qu’il en montre est bof. Peut-être garde t-il le meilleur pour les tours organisés et payants… on est passé un peu à côté de ce Parc…
+Retour sur Nasville en fin d’après-midi où l’on se gare au même parking qu’hier en centre ville pour assister au concert de ce soir. La fin de Broadway est rendu pieton et au bout une grande scène a été installé, nous assistons à ce concert Country qui est vraiment très bon avec un immense feu d’artifice à la fin. Il y a une ambiance folle et dans chaque bar un groupe en live. Nous retournons au Bourbon Street Blues ou nous assistons à un concert de «Stacy Mitchhart» blues man qui se produit 2 fois par semaine depuis plus de 20 ans dans cet établissement. Ce qui est génial aux USA c’est que les gens engage systématiquement la conversation. Hier soir c’était avec deux couples de Ohio et ce soir avec un couple de nashville. En discutant, on apprend qu’il était retraité de chez Epiphone et ami proche du chanteur qui joue avec une guitare fabriqué par lui-même. Le groupe entame une chanson nommé 2 dollars et là le monsieur me sort un billet de 2 dollars !!!! en fin de soirée il me donne un de ces billet de 2 dollar et nous passons un moment à discuter avec le chanteur. Ambiance de folie, un musicien rentre dans le bar, le groupe le fait monter sur scène, c’est ainsi qu’un célèbre joueur d’armonica de Clevland c’est retrouvé sur scène. Et c’est comme cela tous les soirs. Je veux rester à Nasville !!!!!
+
 
 ## 05 avril
 
+Ce matin visite d’un magasin de guitares vintage « Carter’s» où j’ai bien failli prendre une Standart de 2016.
+Puis route jusqu’à l’entrer de Memphis où nous nous sommes arrêtés au Guitar center, mais pas terrible.
+Courses au Walmart
+
 
 ## 06 avril
 
-## 06 avril
+Ce matin départ sous la pluie au visitor center où n ous récupérons plein de doc. Nous tombons sur une dame très sympa qui nous renseigne et téléphone pour nous au l’usine Gibson pour me réserver un place pour la visite.
+Nous nous rendons à l’usine qui se trouve en pleine ville, non loin de Beale street. Comme il pleut et que le toit de l’usine fuit, les ouvriers sont rentrés chez eux… Nous faisons donc la visite dans le calme et sans poussière. Le guide nous présente tous les ateliers et stade de la fabricatuion des Gibson de type ES, les seules fabriquées ici, les Les Paul étant frabriquée à Nasville et les accoustique dans le Montana. Seule celle de Memphis se visite. 0A l’issue de la visite on arrive dans un grand show room où de très nombreuses guitares sont exposées et vendues.. très chères.
+Après mangé on trouve une biblothèque publique où je passe l’après-midi pour traiter et enkvoyer les photos.
+Le soir nous nous garons près de l’usine Gibson et passon la soirée sur Beale Street, moins impressionnante que Broadway à Nashville, et passons la soirée au B.B. King Club. Nous écoutons deux groupes.
+
+## 07 avril
 
 
 
-## 02 avril
+## 08 avril
 
-## 03 avril
+## 09 avril
 
 
-## 04 avril
+## 10 avril
 
 
 ## 05 avril
