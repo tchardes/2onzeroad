@@ -8,7 +8,7 @@ date:       2018-03-15 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-carlsbad.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-carlsbad.jpg
-tags: [parc-naturel, montagne, geologie]
+tags: [parc-naturel, montagne, geologie, unesco]
 pois: [carlsbad]
 flickr-text: "Carlsbad Cavern"
 country: USA 
