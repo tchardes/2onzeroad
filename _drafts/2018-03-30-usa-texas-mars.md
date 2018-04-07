@@ -22,12 +22,11 @@ mapZoom: 6
 
 ---
 
-
-Cet article couvre la période du 20 février au 08 mars 2018 durant laquelle nous avons traversé une petite partie du Nevada, l'Arizona avec une petite escapade au Mexique dans la région de Sonora. 
+Cet article couvre la période du 08 mars au     2018 durant laquelle nous avons traversé le sud du Nouveau-Mexique, le Texas et la Louisiane. 
 
 ## 08 mars 
 
-Nous roulons jusqu’à Lordsburg où nous trouvons de l’essence pas trop chère pour faire le plein. Nous venons de rentrer dans l’état du Nouveau Mexique par une immense plaine à moitié désertique qui doit être un couloir de tempête de sable. tous les 50 mètres un panneau jaune vous donne des consignes du genres «Garez-vous sur le bas coté», «Gardez le pied sur le frein», «Restez attachés», «La visibilité peut-être nulle», … devant autant de risques, on s’est demandé s’il ne valait pas mieux retourner dans l’Arizona…
+Nous roulons jusqu’à Lordsburg où nous trouvons de l’essence pas trop chère pour faire le plein. Nous venons de rentrer dans l’état du Nouveau Mexique par une immense plaine à moitié désertique qui doit être un couloir de tempête de sable. tous les 50 mètres un panneau jaune vous donne des consignes du genres en cas de tempêtes «Garez-vous sur le bas coté», «Gardez le pied sur le frein», «Restez attachés», «La visibilité peut-être nulle», … devant autant de risques, on s’est demandé s’il ne valait pas mieux retourner dans l’Arizona…
 Nous prenons ensuite la direction de Silver City où nous faisons les courses au Walmart après avoir déjeuner chez « Denny’s », on aime bien cette enseigne. On fini la journée sur la très route montagneuse qui va nous conduire à Gila Cliff Dwellings national Monument. Un peu avant d’arriver au visitor center, nous trouvons une aire où nous pouvons passer la nuit.
 
 ## 09 mars 
