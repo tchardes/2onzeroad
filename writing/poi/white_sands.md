@@ -1,5 +1,5 @@
 ---
 layout: "writing_by_poi"
-permalink: "/writing/poi/White-Sands"
+permalink: "/writing/poi/white-sands"
 header-img: "assets/owner/hero/pois-bg.jpg"
 ---
