@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "White Sands National Monument"
-preview:    "..."
+preview:    "White Sands est le plus grand désert de gypse du monde. Le sable blanc, poussé par le vent, forme de très belles dunes brillantes aux..."
 parent-id:  2018-03-30-usa-texas-mars
 
 date:       2018-03-12 12:00:00
