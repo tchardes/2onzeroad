@@ -7,8 +7,8 @@ parent-id:  2018-03-30-usa-texas-mars
 date:       2018-03-12 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-white.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-gila-cliff.jpg
-tags: [parc naturel, desert, montagne, geologie]
+thumbnail: /assets/owner/blog/thumbs/post-thumb-white.jpg
+tags: [parc-naturel, desert, montagne, geologie]
 pois: [white-sands]
 flickr-text: "White Sands"
 country: USA 
