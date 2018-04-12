@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "35.082818, -106.637404"
-  name: "Albulquerque, Nouveau-Mexique, USA"
+  name: "Albuquerque, Nouveau-Mexique, USA"
   date: "13 avril 2018"
 
 # set the encoding to utf-8
