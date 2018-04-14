@@ -10,7 +10,7 @@ header-img: "assets/owner/blog/header/post-bg-carlsbad.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-carlsbad.jpg
 tags: [parc-naturel, montagne, geologie, unesco]
 pois: [carlsbad]
-flickr-text: "Carlsbad Cavern"
+flickr-text: "Carlsbad Caverns"
 country: USA 
 states: ["Nouveau-Mexique"]
 city: 
