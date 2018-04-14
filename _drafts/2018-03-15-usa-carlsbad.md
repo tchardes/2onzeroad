@@ -18,11 +18,11 @@ category: "blog"
 location: "32.175613, -104.444243"
 ---
 
-Le parc national des grottes de Carlsbad est situé dans les montagnes Guadalupe au sud-est du Nouveau-Mexique. Le parc comprend 83 grottes séparées dont les plus célèbres sont celles de Carlsbad Caverns, les plus profondes du pays (486,8 mètres). Les grottes abritent des milliers de chauves-souris.  
+Le parc national des grottes de Carlsbad est situé dans les montagnes Guadalupe au sud-est du Nouveau-Mexique. Le parc comprend 83 grottes séparées dont les plus célèbres sont celles de **Carlsbad Caverns**, les plus profondes du pays (486,8 mètres). Les grottes abritent des milliers de chauves-souris.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26979764198/in/datetaken/" title="Carlsbad Caverns - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/811/26979764198_a2b8a874e2_h.jpg" width="1600" height="900" alt="Carlsbad Caverns - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous arrivons de bonne heure au visitor center et il y a déjà énormément de monde, renseignements pris, nous sommes en pleines vacances de printemps. L’entrée est gratuite avec le Pass America The Beautiful. On vous délivre un billet valable trois jours sur le site.  
+Nous arrivons de bonne heure au visitor center et il y a déjà énormément de monde, renseignements pris, nous sommes en pleines vacances scolaires de printemps. L’entrée est gratuite avec le Pass America The Beautiful. On vous délivre un billet valable trois jours sur le site.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40141236254/in/datetaken/" title="Carlsbad Caverns - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/805/40141236254_8b6838918c_h.jpg" width="1600" height="900" alt="Carlsbad Caverns - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
