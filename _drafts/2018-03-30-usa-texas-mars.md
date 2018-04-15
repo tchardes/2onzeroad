@@ -29,6 +29,8 @@ Cet article couvre la période du 08 mars au     2018 durant laquelle nous avons
 Nous roulons jusqu’à Lordsburg où nous trouvons de l’essence pas trop chère pour faire le plein. Nous venons de rentrer dans l’état du Nouveau Mexique par une immense plaine à moitié désertique qui doit être un couloir de tempête de sable. Tous les 50 mètres un panneau jaune vous donne des consignes du genres en cas de tempêtes «Garez-vous sur le bas coté», «Gardez le pied sur le frein», «Restez attachés», «La visibilité peut-être nulle», … devant autant de risques, on s’est demandé s’il ne valait pas mieux retourner dans l’Arizona…
 Nous prenons ensuite la direction de Silver City où nous faisons les courses au Walmart après avoir déjeuner chez "Denny’s", on aime bien cette enseigne. On fini la journée sur la route très montagneuse qui nous conduit à **Gila Cliff Dwellings National Monument**. Un peu avant d’arriver au visitor center, nous trouvons une aire où nous pouvons passer la nuit.
 
+
+
 ## 09 mars 
 
 Nuit froide au bivouac, le chauffage c’est allumé à plusieurs reprises, il faut dire que nous sommes à plus de 1700 mètres. Départ pour le Visitor Center où la Park Ranger fait des pieds et des mains pur nous trouver une doc en français et nous lance un petit film sur l’histoire du site. Nous faisons le plein de l’eau qui est mise à disposition pour les RV parcontre les dumps sont fermés, et nous partons pour la partie la plus intéressante du parc à savoir **Cliff Dwelling** un vieux village troglodyte des indiens Mogollons qui ont bâtis, à l’intérieur de 7 grottes. (voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-03-09-usa-gila-cliff %}">ici</a>)**.    
