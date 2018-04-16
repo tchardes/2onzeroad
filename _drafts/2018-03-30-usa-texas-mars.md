@@ -79,7 +79,7 @@ On repars vers le sud pour nous avancer sur la route de **Big Bend National Park
 
 ## 16 mars 
 
-Départ de Pécos pour le Sud, Nous traversons encore un long moment ce champ pétrolifère puis commençons à voir les première cultures puis un peu de relief, c’est quand même plus agréable. Après **Toyavale** nous traversons un massif montagneux très jolie avec des formations rocheuses en forme d’orgues, nous traversons Fort Davis et nous arrêtons dans un RV park "Historic Prude Ranch" pour 24 heures. 
+Départ de Pecos pour le Sud, Nous traversons encore un long moment ce champ pétrolifère puis commençons à voir les première cultures puis un peu de relief, c’est quand même plus agréable. Après **Toyavale** nous traversons un massif montagneux très jolie avec des formations rocheuses en forme d’orgues, nous traversons Fort Davis et nous arrêtons dans un RV park "Historic Prude Ranch" pour 24 heures. 
 
 ## 17 et 18 mars 
 
