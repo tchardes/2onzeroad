@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "35.082818, -106.637404"
-  name: "Albuquerque, Nouveau-Mexique, USA"
-  date: "14 avril 2018"
+  coordinates: "35.687306, -105.944080"
+  name: "Santa Fe, Nouveau-Mexique, USA"
+  date: "16 avril 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
