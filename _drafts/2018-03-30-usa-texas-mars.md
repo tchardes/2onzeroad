@@ -119,7 +119,7 @@ Nous remontons en suite vers le **Lac Martin** pour faire un tour de bateau dans
 
 ## 25 mars 
 
-Nous prenons la route des Plantations qui passe au Sud du Mississippi. Le niveau général de l’eau dans la région est très élevé et de nombreuses terres sont inondées ainsi que de nombreux terrains où se trouve des maisons heureusement surélevées. Nous nous arrêtons à **Oak Alley Plantation**. Magnifique bâtisse de type colonial avec le quartier dédié aux esclaves reconstitué, beau parc et belle visite guidée de la maison de maîtres, meublées d'époque. La visite coûte 25$/Pers et il n'est pas possible de toute les visiter. Nous passons ensuite devant les principales plantations jusqu’à Nola à savoir : **St Joseph**, **Laura**, **Whitney**, **Evergreen** pour la rive sud du Mississippi puis après l’avoir traversé, **Ormond**, **Destrhan** et **LaBranche**. Nous faisons un tour du quartier Français, le "Vieux carré" avec Thor avant de regagner un Walmart pour la nuit. En route nous avons croisé un défilé avec des chars style Carnaval.
+Nous prenons la route des Plantations qui passe au Sud du Mississippi. Le niveau général de l’eau dans la région est très élevé et de nombreuses terres sont inondées ainsi que de nombreux terrains où se trouve des maisons heureusement surélevées. Nous nous arrêtons à **Oak Alley Plantation**. Magnifique bâtisse de type colonial avec le quartier dédié aux esclaves reconstitué, beau parc et belle visite guidée de la maison de maîtres, meublées d'époque. La visite coûte 25$/Pers et il n'est pas possible de toute les visiter. Nous passons ensuite devant les principales plantations jusqu’à Nola à savoir : **St Joseph**, **Laura**, **Whitney**, **Evergreen** pour la rive sud du Mississippi puis après l’avoir traversé, **Ormond**, **Destrhan** et **LaBranche**. Arrivés dans la ville du Jazz, nous faisons un tour du quartier Français, le "Vieux carré" avec Thor avant de regagner un Walmart pour la nuit. En route nous avons croisé un défilé avec des chars style Carnaval.
 
 ## 26 et 27 mars 
 
@@ -133,9 +133,4 @@ Ce matin nous avons décidé de changer les 4 pneus arrières des roue jumelés 
 
 ## 28 mars   
 
-Départ de Gonzales pour Bâton Rouge, visite très rapide car il n’y a pas grand chose à voir si ce n’est le Capitole de l’état de la Louisiane, capitole le plus haut des Etats-Unis avec ces 34 étages. le bâtiment est très moche et en travaux.  
-
-
-Nous reprenons la route en direction de Natchez et empruntons la mythique route du Blues, la 61, petite soeur de la 66. A Natchez nous nous garons au visitor center pour prendre des renseignements. Un homme qui m’a entendu parler m’apostrophe, me demande si je suis bien français … de France… puis m’explique que son arrière grand-père est originaire de Paou !!! il m’a fallut quelque seconde pour comprendre qu’il était originaire de Pau, impossible de lui faire prononcer le mot " PO ", on a bien rit. Ensuite nous avons parcouru à pied un trail dans la ville qui montre les plus belles demeures ante bellum de la ville, qui surplombe la Mississippi qui est bien en crue.
-De retour au visitor center nous voyons arriver un RV qui vient se brancher sur des prises électrique mises à disposition. Du coup nous partons faire des courses au Walmart et retournons au visitor pour nous brancher électriquement et passer la nuit qui s’annonce orageuse.
-
+Départ de Gonzales pour Bâton Rouge, visite très rapide car il n’y a pas grand chose à voir si ce n’est le Capitole de l’état de la Louisiane, capitole le plus haut des Etats-Unis avec ces 34 étages. le bâtiment est très moche et en travaux. Nous reprenons la route en direction de Natchez et empruntons la mythique route du Blues, la 61, petite soeur de la 66 et passons dans l'Etat du Mississippi.
