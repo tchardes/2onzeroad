@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "35.687306, -105.944080"
-  name: "Santa Fe, Nouveau-Mexique, USA"
-  date: "16 avril 2018"
+  coordinates: "35.778319, -106.270126"
+  name: "Bandelier National Monument, Nouveau-Mexique, USA"
+  date: "17 avril 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
