@@ -108,25 +108,77 @@ Courses au Walmart
 Ce matin départ sous la pluie au visitor center où n ous récupérons plein de doc. Nous tombons sur une dame très sympa qui nous renseigne et téléphone pour nous au l’usine Gibson pour me réserver un place pour la visite.
 Nous nous rendons à l’usine qui se trouve en pleine ville, non loin de Beale street. Comme il pleut et que le toit de l’usine fuit, les ouvriers sont rentrés chez eux… Nous faisons donc la visite dans le calme et sans poussière. Le guide nous présente tous les ateliers et stade de la fabricatuion des Gibson de type ES, les seules fabriquées ici, les Les Paul étant frabriquée à Nasville et les accoustique dans le Montana. Seule celle de Memphis se visite. 0A l’issue de la visite on arrive dans un grand show room où de très nombreuses guitares sont exposées et vendues.. très chères.
 Après mangé on trouve une biblothèque publique où je passe l’après-midi pour traiter et enkvoyer les photos.
-Le soir nous nous garons près de l’usine Gibson et passon la soirée sur Beale Street, moins impressionnante que Broadway à Nashville, et passons la soirée au B.B. King Club. Nous écoutons deux groupes.
+Le soir nous nous garons près de l’usine Gibson et passons la soirée sur Beale Street, moins impressionnante que Broadway à Nashville, et passons la soirée au B.B. King Club. Nous écoutons deux groupes.
 
 ## 07 avril
 
-
+Nuit froide mais le chauffage ne c’est pas déclenché. Nous partons pour les Studio Sun où Elvis à enregistré son premier dique. Il y a plusieurs car de touristes devant et un monde fou à l’intérieur, je reste un petit moment dans le café puis abandonne l’idée de faire le tour commenté.
+Un peu plus loin se trouve un frabiquant de guitare «Saint James Blues». Devant la boutique on peut lire qu’ils ont déménagé il y a plus d’un an. On trouve la nouvelle adresse qui se trouve à Bartlett à une vingtaine de kilomètres, finalement on ne trouve pas, parrament le nouveau magasin n’est pas encore ouvert. On en profite pour faire la vidange de Thor, et oui déjà 3000 miles depuis la dernière. Les temps ne s’arrange pas et non du garage se trouve une bibliothèque municipale, nous y passons l’après-midi.
+Nous rejoingnons notre bivouac en centre ville près de Gibson et passons la soirée dans Beale Street, il y a de nombreux grouype qui jouent mais rien ne nous accroche vraiment. Il fait très froid, à peine 1°.
 
 ## 08 avril
 
+La nuit à été très froide, le chauffage c’est mis en route plusieurs fois. Ce matin nous commençons par Lorraine Motel où Martin Luther King a été assassiné le 4 avril 1968. La ville a célébré le 50 éme anniverssaire il y a quelques joures. C’est aussi là que se trouve le Le National Civil Rights Museum, musée consacré au Mouvement afro-américain des droits civiques. L’endroit est resté intact, le deux cadillac de Martin Luther King et ses proches sont toujours garées en dessous de la chambre 306. A l’époque, c’est le seul Motel de Memphis qui acceuillait blancs et noirs.
+Si la personne du visitor center ne s’est pas trompée, on avait l’impression que c’est la première fois qu’on lui posait la question, ne devrions assister à une messe «Gospel». Nous arrivons devant  Mississipi Blvd Christian Chruch. Un grand parking se trouve devant et on peu facilement se garer. Un homme se trouve sur les passage coutés et nous fait traverser comme devant une école et au passage il nous donne des oeufs en chocolat. Nous sommes acceuillis très chaleureusement à l’intérieur, on nous propose même des bombons et monte au premier étage, au balcon. L’église est magnifique, on se croirait presque dans une salle de concert avec une régie Vidéo et lumière et au rez de chaussée une régie son pour l’orchestre. Des caméras filment et l’image est retransmise sur deux écrans géants. On assiste à la messe en entier qui va durer 2h00, 2h00 de pur bonheur. Quel plaisir de propager la parole de Dieu dans ces conditions. Les gens sont tous endimanchés, plusieurs personnes viennet nous voir pour discuter avec nous, c’est très chaleureux. Le Choeur sont au nombre de 6 et ils envoient du lourd, les gens chantent, s’embressent, applaudissent, interpellent le Pasteur, bref c’est gaie et sa vie. Sous la croix (qui change de couleur de temps en temps) se trouve un genre d’aquarium, à un moment donnée on voit deux adultes et ado dans l’eau qui leur arrive au niveau de la hanche et on assiste à un baptème.
+Plusieurs pasteurs (en tenue civile) se relayent, on ne comprend pas tout puis arrive le pasteur en chef qui nous fait un prêche d’une heure style « One Man Show» sur : Corinthians 15:10 New International Version (NIV)
+10 But by the grace of God I am what I am, and his grace to me was not without effect. No, I worked harder than all of them—yet not I, but the grace of God that was with me. Du grand spectacle, une femme arrive même à rentrer en trance. Les chants sont magnifiques et super bien interpretés, aussi bien par les musiciens qu epar les chanteurs. Au moment de la communion des gens sont passé avec un plateau qui comporté plein de petit récipient style lait dans le hôtel avec son café et une ostie. Au cours de la messe il c’est passé plein de chose que l’on a pas compris, ce n’est pas du tout dans le même format que nous.
+On sort de là avec la patate…
+Nous avons profité pour manger sur le parking puis nous sommes partis pour Graceland, n’étant pas fan inconditionnel d’Elvis, nous n’avons pas fait le tour complet qui coute relativement cher mais nous avons vu sa maison et ces deux avions. Le mur d’enceinte de la proprièté en pierre apprente est couvert de signatures, petits mots… On repart en centre ville de Memphis, on repasse à Sun record, toujours autant de monde? je laisse tombé et on fini notre visite par le magasin Bass Sho Pro (Le dechatlon américain) qui est dans un immense batiment en forme de piramide, un peu comme à Las Vegas. Ces magasins sont impressionnants, la décoration est très soignée et la faune est toujours présente, emplaillé et remise en situation dans d’immenses décors, dans celui-ci se trouve même un plan d’eau avec poissons, alligators…
+Après notre visite nous décidons de prendre la route. Nous traverssons pour la dernière fois le Mississippi en rentrons dans l’Arkansas, direction Little rock où nous nous arrêtons dans un walmart. Nous avons voulu acheter du vin, il y a bien un gar qui m’a dit dans le rayon un trux du genre le dimanche c’est bière et pas vin, mais je n’y ai pas preté plus attention. En caisse par contre la caissière à pris la bouteille et l’a mise de côté en nous disant que les lois de l’Arkansas interdisaient le vente d’acool (hors bières) le Dimanche. Tampis ….. on boira de la bière !!!
+
+
 ## 09 avril
 
+Nuit froide et bruyante, le chauffage s’est décleché plusieurs fois. En me levant je constate que l’Iphone déconne à plein tuble, il rboote sans arrêt, la charge affiche 80% puis 1% puis reboote. La batterie, neuve,  a un défaud. Je rgarde sur Internet et bien sur aucun magasin de la chaine où j’ai fait changer la vitre et la batterie. Je décide d’aller directement à l’Apple Store proche de Little Rock. On y allant on fait un détour par le Capitole de l’Arkansas qui est une repoduction de celui de washington, en plus petit. On effet très beau batiment? je tombe le jour où les pompier font leur photo, surement pour leur calendrier.
+On arrive tant bien que mal au store où je suis très bien pris en compte. Je reçois un SMS 2 heures plus tard pour voir un technicien. Il m’écoute et me dit d’entrée que si la batterie n’est pas Apple il peut rien faire, il part regarder dans l’atelier et revient en me disant, ce que je subodorais, qu’il s’agit dune batterie générique que leur protocole de sécurité interdit de toucher, enlever, stocker, recycler… bon je fais quoi ? ben vous pouvez changer d’Iphone…. a ma tête qui a du passer au rouge, il a compris qu’il avais fait la mauvaise réponse et est allé chercher direct un responsable. Je lui fait pas de mon désapointement, et je lui dit s’il n’y a plus de batterie dedans c’est OK ? il hésite et me dis que c’est bon. Comme je n’est pas d’outil, reste plus qu’à trouver un réparateur qui veuille bien m’enlever la batterie et me refermer l’Iphone. Avec le téléphone qui rebbote toute les 10 secondes on arrive quand même à trouver un réparateur qui après de long palabre me change la batterie? une journée de perdue…
+Finalement nous quittons Little Rock avec une batterie neuve mais toujours pas d’apple en croisant les doigts.
+On s’arrête à Hot Springs et son national park, jolie petite ville thermale qui est resté dans son jus, avec des hôtels de luxes et thermes qui datent du 17éme siècle. L’endroit étaity très prisè d’Al Capone et Lucky Luciano. Sur la montagne se dresse une immense tour de 216 pieds qui permet d’avoir une très belle vue à 360 sur la région, ainsi qu’un petit musée.
+Nous décidons de rester là poiur la nuit.
 
 ## 10 avril
 
-
-## 05 avril
-
-
-
-## 06 avril
+Depart pour l’Oklahoma. Nous choisissons de prendre la route des écolier par le sud qui nous fait traverser de très belles forêts et lacs.
+Un peu de mal à trouver un endroit pour se poser, finalement nous finissons sur le parking d’un Cracker barrel pour la première fois, sachant qu’ils acceptent les RV.. espérons.
 
 
-## 06 avril
+## 11 avril
+
+Ce matin visite de Oklaoma, ville très propre, rien de spécial à voir, très peu de vie en ville.
+Après mangé, nous partons en direction de Amarillo et repassons dans le Texas. Route assez plate, région composée uniquement de vastes prairies à l’herbe bien jaune avec ça et là des troupeaux de vaches.
+Nous sommes passés par Elk City pour rouler un peu sur la 66 et s’arrêter un musée dédiée à celle ville à l’époque de la 66. 
+Nous nous arrêtons pour la nuit au visitor center.
+
+## 12 avril
+
+Ce matin après avoir récupéré de la doc au Visitor center nous partons vers le sus en direction de Palo Duro Canyon State Park, plus grand canyon du Texas et deuxième des USA après bien sur Grand canyon.
+S’agissant d’un State PArk, le Pass America the Beautiful ne fonctionne pas et il faut s’acquitter la somme de 5$/Pers. Malheureusement les camping sont tous pleins, nous n’ys resterons que la journée. La chaleur est accablante, plus de 40° alors qu’il y a quelques jours à Memphis les température étaient proche du Zero et de la neige était annocée pour cette semaine.
+Une route penetre dans le parc et se fini par une boucle. De nombreux trails sont proposés aussi bien à pied, qu’en VTT ou cheval. Je fais la Lighthouse trail (5,44 miles - 9,3 Km) Qui mène une très belle formation rocheuse nommé le Phare et qui est l’emblème du Parc.
+On fait tout la route et nous en profitons pour faire les Dump, malheuseusement il n’y a pas d’eau potable. Nous rentrons dans un camping et nous nous installons à un emplacement de libre, les campeurs sont encore sur le circuit, et nous en profitonsd pour faire le plein d’eau après une bonne douche.
+Retour sur Amarillo où nous nous posons à un Walmart pour faire quelques courses et nous poser pour la nuit, qui s’annonce chaude…
+
+
+## 13 avril
+
+Départ d’Amarillo en empruntant l’I40 qui n’est autre que le nouveau tracé de la 66, Seule dans les villages qu’elle contourne on retrouve le tracé original. Peu après le départ on s’arrête au Cadillac Ranch, sculture de plusieurs Cadillac plantées en terre et taguées. Nous quittons le texas pour le nouveau-Mexique, les paysage ne change guère, des prairies à perte de vue, nous avons eu tous les temps aujourd’hui et les température ne sont plus le même, nous avons même eu une temête de neige durant une bonne heure. Il faisait entre 8 et 9° dehors, pas de soucis pour rouler. On rigole a chaque fois que l’on voit ces petites boules - qui ne sont par ailleurs pas toujours de forme sphérique - sont des Virevoltants. En anglais Tumbleweed ("herbe qui tourne"), elles colonisent essentiellement les déserts des États-Unis
+
+## 14 avril
+
+Nuit calme et froide au bivouac.
+Nous partons pour le centre historique d’Albuquerque qui se situe autour de la tès belle église San Felipe de Neri. Nous faisons un tour dans le quartier où les vieille maison si caractériqtique du nouveau mexique ont été transformés en boutiques de souvenirs et d’art local. Il ne faut pas hésiter à rentrée dans les petites ruelles qui débouchent souvent sur de petits patios bien jolies et hauts en couleurs, comme toute la région. On se croirait un peu à Espelatte avec toutes ces grappes de piments (forts eux) pendues un peu partout. Albuquerque est également la ville où a été tourné la serie «Breaking Bad». De nombreux Tour propose une visite des principaux lieux de tournage. L’art des Natifs et de toute manière très haut en couleur, le drapeau de l’Etat jaune avec un soleil orange en est l’exemple.
+L’art n’est pas nouveau pour les Natifs et il y a quelques miliers d’années ils dessinaient déjà sur les grosblocs de laves, n ous allons donc ensuite visiter le Petroglyph NM où nous faisons plusieurs petit trails au niveau de Boca Negra Canyon. Au sommet du point le plus haut donne une bonne vue sur Albuquerque et les quelques volcans a l’origine de cette zone volcanique et de ces blocs de basalte noir. le long du parcours on peut voir ainsi quelques Petroglyphs encoe en bon état. Le parc dans son ensemble en compte plusieurs centaines. On part ensuite sur un deuxième site mais comme je suis en vrac, je ne me sens pas de faire un trail de plusieurs Km.
+En fin d’après midi on fait le plein de Thor et on regagne le Walmart. 
+
+
+## 15 avril
+
+Départ d’Albuquerque sous un beau soleil en direction du Nors. On passe devant de nombreuses résidences avec cette dualité dans l’architecture, entre maison traditionnelle en dur ou bien des maison de type mexicain avec toit terrasse, tout en arrondi et de très belle couleur.
+Nous arrivons à Hasha-Katuwe Tent Rocks national Monument. Après le repas et après 	avoir téléphné aux enfants, je pars faire les deux trails, Slot Canyon et Cave loop soit 2,5 miles. le premier chemine dans un étroit canyonoù devait couler une rivière il y a très longtemps. Par endroit une seule personne peu passer à la fois. le rail fini par une longue montée pour arriver sur un overlook d’’où l’on peu observer ces Tent Rocks qui sont en fait des cones de pierre formés par l’érosion, un genre de capadosse en turquie mais en tout petit. Très belle randonnée et très beaux paysages.
+Nous trouvons un camping non loin du park pour passr la nuit près d’un lac artificiel.
+
+
+## 16 avril
+
+
+
+
+## 17 avril
