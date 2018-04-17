@@ -136,8 +136,25 @@
     {"name": "chamizal", "displayName": "Chamizal National Memorial", "type": "autre"},
     {"name": "fort-bliss", "displayName": "Fort Bliss Museum", "type": "autre"},
     {"name": "guadalupe", "displayName": "Guadalupe Mountains National Park", "type": "nature"},
+    {"name": "big-bend", "displayName": "Big Bend National Park", "type": "nature"},
+    {"name": "san-antonio", "displayName": "San Antonio", "type": "ville"},
+    {"name": "lafayette", "displayName": "Lafayette", "type": "ville"},
+    {"name": "acadian", "displayName": "Acadian Cultural Center", "type": "autre"},
+    {"name": "oak", "displayName": "Oak Alley Plantation", "type": "autre"},
+    {"name": "nola", "displayName": "Nouvelle Orleans", "type": "ville"},
+    {"name": "baton", "displayName": "Bâton Rouge", "type": "ville"},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+
+
 
     {"name": "", "displayName": "", "type": ""}
 
