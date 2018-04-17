@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt13.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
 tags: [architecture, desert, geologie, flore]
-pois: [gila-cliff#09-mars, city-of-rocks#10-mars, white-sands#11-et-12-mars, el-paso#13-mars, guadalupe#14-mars, carlsbad#15-mars ]
+pois: [gila-cliff#09-mars, city-of-rocks#10-mars, white-sands#11-et-12-mars, el-paso#13-mars, guadalupe#14-mars, carlsbad#15-mars, big-bend#17-et-18-mars,san-antonio#19-et-20-mars,nasa#22-mars, lafayette#23-mars, acadian#24-mars, oak#25-mars, nola#26-et-27-mars,baton#28-mars]
 country: USA
 states: ["Nouveau-Mexique", "Texas", "Louisiane"]
 category: "roadmap"
@@ -92,7 +92,7 @@ Au final ce parc est surtout fait pour les gens qui randonnent plusieurs jours, 
 
 ## 19 et 20 mars 
 
-Nous quittons Big Bend NP en direction de San Antonio. Sur la route nous longeons d'immenses prairies et près de la ville de marathon, nous observons un troupeau d’antilopes américaines. Nous passons la nuit à Del Rio et le lendemain nous arrivons à San Antonio en fin de matinée. Nous commençons par la visite de **Fort Alamo** où c’est illustré **David Crockett** lors de la bataille du 6 mars 1836 contre les mexicains puis de la cathédrale **San Fernando** et de la maison du gouverneur. Promenade le long de la rivière très bien aménagé avec de nombreux commerces et tour en bateau puis départ vers **San Antonio Missions National Historic Park** qui regroupe 4 missions espagnoles établies par les Franciscains, Concepcion (1775), San José (1777), San Juan (1731) et San Francisco de la Espada (1740).
+Nous quittons Big Bend NP en direction de **San Antonio**. Sur la route nous longeons d'immenses prairies et près de la ville de marathon, nous observons un troupeau d’antilopes américaines. Nous passons la nuit à Del Rio et le lendemain nous arrivons à San Antonio en fin de matinée. Nous commençons par la visite de **Fort Alamo** où c’est illustré **David Crockett** lors de la bataille du 6 mars 1836 contre les mexicains puis de la cathédrale **San Fernando** et de la maison du gouverneur. Promenade le long de la rivière très bien aménagé avec de nombreux commerces et tour en bateau puis départ vers **San Antonio Missions National Historic Park** qui regroupe 4 missions espagnoles établies par les Franciscains, Concepcion (1775), San José (1777), San Juan (1731) et San Francisco de la Espada (1740).
 Puis route vers New Braunfels pour être sur place demain matin pour notre rendez-vous chez un concessionnaire de RV, Camping World.
 
 ## 21 mars 
