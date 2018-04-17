@@ -27,8 +27,9 @@ Cet article couvre la période du 08 mars au     2018 durant laquelle nous avons
 
 ## 28 mars 
 
-Départ de Gonzales pour bâton Rouge, visite très rapide car il n’y a pas grand chose à voir si ce n’est le Capitole de l’état de la Louisiane, capitole le plus haut des US 34 étages. le bâtiment est très moche et en travaux.
+Départ de Gonzales pour Bâton Rouge, visite très rapide car il n’y a pas grand chose à voir si ce n’est le Capitole de l’état de la Louisiane, capitole le plus haut des US 34 étages. le bâtiment est très moche et en travaux. 
 Nous reprenons la route en direction de Natchez et empruntons la mythique route du Blues, la 61, petite soeur de la 66.
+Nous nous arrêtons à une dernière plantation en Louisiane, "The Myrtles Plantation" à Saint Francisville qui passe pour la maison la plus hantée des USA, 10 meurtres auraient eu lieux et 10 fantômes la hanterait... Entouré de chênes centenaires, le manoir dispose d'une véranda de 125 pieds, d'une ferronnerie d'art exquise, de vitraux peints à la main, de moulures en frise percée à ciel ouvert, de tapisseries d'Aubusson, de lustres en marbre de Carrare et de feuilles d'or. Mobilier français et GHOSTS. Au premier coup d'œil, la maison et son environnement en enveloppe une avec un sentiment complet de paix et de tranquillité.
 A Natchez nous nous garons au visitor center pour prendre des renseignements. Un homme qui m’a entendu parler m’apostrophe, me demande si je suis bien français … de France… puis m’explique qur son arrière grand-père est originaire de Paou !!! il m’a fallut quelque seconde pour comprendre qu’il était originaire de Pau, impossible de lui faire prononcer le mot " PO ", on a bien rit. Ensuite nous avons parcouru à pied un trail dans la ville qui montre les plus belles demeures ante bellum de la ville, qui surplombe la Mississippi qui est bien en crue.
 De retour au visitor center nous voyons arriver un RV qui vient se brancher sur des prises électrique mises à disposition. Du coup nous partons faire des courses au Walmart et retournons au visitor pour nous brancher électriquement et passer la nuit qui s’annonce orageuse.
 
