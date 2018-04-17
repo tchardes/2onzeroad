@@ -135,4 +135,4 @@ Ce matin, nous avons décidé de changer les 4 pneus arrière des roues jumelés
 
 ## 28 mars   
 
-Départ de Gonzales pour Bâton Rouge, visite très rapide car il n’y a pas grand chose à voir si ce n’est le Capitole de l’état de la Louisiane, capitole le plus haut des Etats-Unis avec ses 34 étages. le bâtiment est plutôt moche et en travaux. Nous reprenons la route en direction de Natchez et empruntons la mythique route du Blues, la 61, petite soeur de la 66 et passons dans l'Etat du Mississippi.
+Départ de Gonzales pour Bâton Rouge, visite très rapide car il n’y a pas grand chose à voir si ce n’est le Capitole de l’état de la Louisiane, capitole le plus haut des Etats-Unis avec ses 34 étages. Le bâtiment est plutôt moche et en travaux. Nous reprenons la route en direction de Natchez et empruntons la mythique route du Blues, la 61, petite soeur de la 66 et passons dans l'Etat du Mississippi.
