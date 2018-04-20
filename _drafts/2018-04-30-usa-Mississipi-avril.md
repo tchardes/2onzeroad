@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "Mississippi - Alabama - Tennessee"
+title:   "Du Mississippi au Nouveau Mexique"
 preview: "Cet article couvre la période du ..."
 parent-id: 
 
@@ -13,7 +13,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
 tags: [architecture, desert, geologie, flore]
 pois: [gila-cliff#09-mars, city-of-rocks#10-mars, white-sands#11-et-12-mars, el-paso#13-mars, guadalupe#14-mars, carlsbad#15-mars ]
 country: USA
-states: ["Mississippi", "Tennessee", "Arkansas", "Oklahoma", "Nouveau Mexique", "Colorado"]
+states: ["Mississippi", "Tennessee", "Kentucky", "Arkansas", "Oklahoma", "Nouveau Mexique"]
 category: "roadmap"
 flickr-text: ""
 location: "34.528734, -97.636121"
