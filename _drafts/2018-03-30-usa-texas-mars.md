@@ -1,16 +1,16 @@
 ---
 layout:  blog
 title:   "Nouveau-Mexique - Texas - Louisiane"
-preview: "Cet article couvre la période du ..."
+preview: "Cet article couvre la période du 08 au 28 mars 2018 durant laquelle nous avons traversé le sud du Nouveau-Mexique, le Texas et la Louisiane. ..."
 parent-id: 
 
 date:        2018-03-30 13:00:00
 from-date:   2018-03-08 13:00:00
-to-date:     2018-03-29 13:00:00
+to-date:     2018-03-28 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt13.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
-tags: [architecture, desert, geologie, flore]
+tags: [histoire, desert, geologie, culturel]
 pois: [gila-cliff#09-mars, city-of-rocks#10-mars, white-sands#11-et-12-mars, el-paso#13-mars, guadalupe#14-mars, carlsbad#15-mars, big-bend#17-et-18-mars,san-antonio#19-et-20-mars,nasa#22-mars, lafayette#23-mars, acadian#24-mars, oak#25-mars, nola#26-et-27-mars,baton#28-mars]
 country: USA
 states: ["Nouveau-Mexique", "Texas", "Louisiane"]
