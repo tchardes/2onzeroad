@@ -17,7 +17,7 @@ states: ["Mississippi", "Tennessee", "Kentucky", "Arkansas", "Oklahoma", "Nouvea
 category: "roadmap"
 flickr-text: ""
 location: "34.528734, -97.636121"
-itinary: "2018/colorado.json"
+itinary: "2018/tennessee.json"
 mapZoom: 6
 
 ---
