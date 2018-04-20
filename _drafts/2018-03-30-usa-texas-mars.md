@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt14.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt14.jpg
 tags: [histoire, desert, geologie, culturel]
-pois: [gila-cliff#09-mars, city-of-rocks#10-mars, white-sands#11-et-12-mars, el-paso#13-mars, guadalupe#14-mars, carlsbad#15-mars, big-bend#17-et-18-mars,san-antonio#19-et-20-mars, samnhp#19-et-20-mars,nasa#22-mars, lafayette#23-mars, acadian#24-mars, oak#25-mars, nola#26-et-27-mars,baton#28-mars]
+pois: [gila-cliff#09-mars, city-of-rocks#10-mars, white-sands#11-et-12-mars, el-paso#13-mars, guadalupe#14-mars, carlsbad#15-mars, big-bend#17-et-18-mars,san-antonio#19-et-20-mars, samnhp#19-et-20-mars,nasa1#22-mars, lafayette#23-mars, acadian#24-mars, oak#25-mars, nola#26-et-27-mars,baton#28-mars]
 country: USA
 states: ["Nouveau-Mexique", "Texas", "Louisiane"]
 category: "roadmap"
