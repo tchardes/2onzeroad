@@ -8,8 +8,8 @@ date:        2018-03-30 13:00:00
 from-date:   2018-03-08 13:00:00
 to-date:     2018-03-28 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt13.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
+header-img: "assets/owner/blog/header/post-bg-rt14.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt14.jpg
 tags: [histoire, desert, geologie, culturel]
 pois: [gila-cliff#09-mars, city-of-rocks#10-mars, white-sands#11-et-12-mars, el-paso#13-mars, guadalupe#14-mars, carlsbad#15-mars, big-bend#17-et-18-mars,san-antonio#19-et-20-mars, samnhp#19-et-20-mars,nasa#22-mars, lafayette#23-mars, acadian#24-mars, oak#25-mars, nola#26-et-27-mars,baton#28-mars]
 country: USA
@@ -51,7 +51,7 @@ Ce matin, trail autour de **City of Rocks** pour faire quelques photos avec la l
 
 On est Dimanche, il pleut et tout est fermé. On reste donc dans Thor et on en profite pour s'occuper un peu de la logistique. La journée passe assez vite. Ce matin, le temps est encore gris mais devrait se lever dans l'après-midi. Nous partons à la bibliothèque municipale de la ville où je vais pouvoir utiliser leur Wi-Fi pour poster mes photos. Il est 13h00 quand nous partons pour **White Sands NM** où nous restons jusqu'au coucher de soleil. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-03-12-usa-white-sands %}">ici</a>)**. Nous retournons ensuite à Alamogordo, on trouve une station essence qui propose les dumps mais pas d’eau potable puis nous nous posons à nouveau au walmart pour la nuit.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40061768444/in/datetaken/" title="City of Rocks - Nouveau-Mexique - [USA]"><img src="https://farm5.staticflickr.com/4791/40061768444_e9b20540e0_h.jpg" width="1600" height="900" alt="City of Rocks - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40138284834/in/datetaken/" title="White Sands NM - Nouveau-Mexique - [USA]"><img src="https://farm5.staticflickr.com/4779/40138284834_2ca50a375b_h.jpg" width="1600" height="900" alt="White Sands NM - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40805414522/in/datetaken/" title="White Sands NM - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/789/40805414522_61b6066bc2_h.jpg" width="1600" height="900" alt="White Sands NM - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -122,7 +122,7 @@ Nous prenons ensuite la **Ross Maxwell Scenic Drive** et nous nous arrêtons au 
 
 Départ du camping pour **Rio Grande Village**, nous laissons tomber le site de **Chisos**, pourtant réputé, car la route est déconseillée au RV de 24 pieds et plus. Nous avons confirmation auprès au Visitor Center que la route est difficile et qu’il faut y aller de très bonne heure pour pouvoir se garer. Nous faisons tous les overlooks et les petits trails le long de la route. Arrivés à Rio Grande Village, nous réservons notre emplacement de camping pour la nuit et partons faire un trail le long du Rio Grande. Il y a quelques mexicains sur le trajet qui traversent le rio pour vendre un peu d’artisanat local aux promeneurs. Nous avons vu nos premiers roadrunners ou "bip-bip", c’est vrai qu’ils sont rigolos et qu’ils courent très vite.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27108228938/in/datetaken/" title="Big Bend NP - Texas - [USA]"><img src="https://farm1.staticflickr.com/790/27108228938_c89f4c99fe_h.jpg" width="1600" height="900" alt="Big Bend NP - Texas - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39170268960/in/datetaken/" title="Big Bend NP - Texas - [USA]"><img src="https://farm1.staticflickr.com/802/39170268960_6ef0b1f44c_h.jpg" width="1600" height="900" alt="Big Bend NP - Texas - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 Au final, ce parc est surtout fait pour les gens qui randonnent plusieurs jours, certains trails font plus de 100 km et il y a de nombreux campings primitifs dans tout le parc. Nous restons un peu sur notre faim mais peut-être car nous n'avons pas pu voir "Chisos".   
 
@@ -131,6 +131,8 @@ Au final, ce parc est surtout fait pour les gens qui randonnent plusieurs jours,
 ## 19 et 20 mars   
 
 Nous quittons Big Bend NP en direction de **San Antonio** toujours dans le Texas. Sur la route, nous longeons d'immenses prairies et près de la ville de Marathon, nous observons un troupeau d’antilopes américaines. Nous passons la nuit à Del Rio et le lendemain nous arrivons à San Antonio en fin de matinée. Nous commençons par la visite de **Fort Alamo** où s’est illustré **David Crockett** lors de la bataille du 6 mars 1836 contre les mexicains. Nous poursuivons par la cathédrale **San Fernando** et l'ancienne maison du gouverneur.   
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40937312522/in/datetaken/" title="Marathon - Texas - [USA]"><img src="https://farm1.staticflickr.com/822/40937312522_52de49aa3b_h.jpg" width="1600" height="900" alt="Marathon - Texas - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40269587014/in/datetaken/" title="San Antonio - Texas - [USA]"><img src="https://farm1.staticflickr.com/795/40269587014_f5ea0840c8_h.jpg" width="1600" height="900" alt="San Antonio - Texas - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
