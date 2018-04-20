@@ -141,7 +141,7 @@
     {"name": "lafayette", "displayName": "Lafayette", "type": "ville"},
     {"name": "acadian", "displayName": "Acadian Cultural Center", "type": "autre"},
     {"name": "oak", "displayName": "Oak Alley Plantation", "type": "autre"},
-    {"name": "nola", "displayName": "Nouvelle Orleans", "type": "ville"},
+    {"name": "nola", "displayName": "Nouvelle-Orléans", "type": "ville"},
     {"name": "baton", "displayName": "Bâton Rouge", "type": "ville"},
     {"name": "samnhp", "displayName": "San Antonio Missions National Historic Park", "type": "autre"},
     {"name": "", "displayName": "", "type": ""},
