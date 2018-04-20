@@ -16,7 +16,7 @@ country: USA
 states: ["Mississippi", "Tennessee", "Kentucky", "Arkansas", "Oklahoma", "Nouveau Mexique"]
 category: "roadmap"
 flickr-text: ""
-location: "34.528734, -97.636121"
+location: "34.196728, -96.737099"
 itinary: "2018/tennessee.json"
 mapZoom: 6
 
