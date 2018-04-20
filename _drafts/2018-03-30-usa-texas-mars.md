@@ -16,7 +16,7 @@ country: USA
 states: ["Nouveau-Mexique", "Texas", "Louisiane"]
 category: "roadmap"
 flickr-text: ""
-location: "31.494773, -97.589139"
+location: "30.986232, -98.674604"
 itinary: "2018/texas.json"
 mapZoom: 6
 
