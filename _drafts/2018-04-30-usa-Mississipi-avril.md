@@ -13,11 +13,11 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
 tags: [architecture, desert, geologie, flore]
 pois: [gila-cliff#09-mars, city-of-rocks#10-mars, white-sands#11-et-12-mars, el-paso#13-mars, guadalupe#14-mars, carlsbad#15-mars ]
 country: USA
-states: ["Nouveau-Mexique", "Texas", "Louisiane"]
+states: ["Mississippi", "Tennessee", "Arkansas", "Oklahoma", "Nouveau Mexique", "Colorado"]
 category: "roadmap"
 flickr-text: ""
-location: "31.494773, -97.589139"
-itinary: "2018/texas.json"
+location: "36.408199, -96.854412"
+itinary: "2018/colorado.json"
 mapZoom: 6
 
 ---
