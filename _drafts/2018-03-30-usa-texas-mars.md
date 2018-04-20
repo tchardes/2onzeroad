@@ -22,15 +22,15 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 08 au 28 mars 2018 durant laquelle nous avons traversé le sud du Nouveau-Mexique, le Texas et la Louisiane. 
+Cet article couvre la période du 08 au 28 mars 2018 durant laquelle nous avons traversé le sud du Nouveau-Mexique, le Texas et la Louisiane.  
 
-## 08 mars 
+## 08 mars  
 
-Nous roulons jusqu’à Lordsburg où nous trouvons de l’essence pas trop chère pour faire le plein. Nous venons de rentrer dans l’état du Nouveau-Mexique par une immense plaine semi-désertique qui doit être un couloir de tempête de sable. Plusieurs fois sur le parcours, une série de panneaux jaunes donnent des consignes, en cas de tempête, du genre "Garez-vous sur le bas-côté", "Gardez le pied sur le frein", "Restez attachés", "La visibilité peut-être nulle"… devant autant de risques, on s’est demandé s’il ne vaut pas mieux retourner dans l’Arizona!!! Nous prenons ensuite la direction de Silver City où nous faisons les courses au Walmart après avoir déjeuner chez "Denny’s", on aime bien cette enseigne. On finit la journée sur la route très montagneuse qui nous conduit à **Gila Cliff Dwellings National Monument**. Un peu avant d’arriver au visitor center, nous trouvons une aire où nous pouvons passer la nuit. 
+Nous roulons jusqu’à Lordsburg où nous trouvons de l’essence pas trop chère pour faire le plein. Nous venons de rentrer dans l’état du Nouveau-Mexique par une immense plaine semi-désertique qui doit être un couloir de tempête de sable. Plusieurs fois sur le parcours, une série de panneaux jaunes donnent des consignes, en cas de tempête, du genre "Garez-vous sur le bas-côté", "Gardez le pied sur le frein", "Restez attachés", "La visibilité peut-être nulle"… devant autant de risques, on s’est demandé s’il ne vaut pas mieux retourner dans l’Arizona!!! Nous prenons ensuite la direction de Silver City où nous faisons les courses au Walmart après avoir déjeuner chez "Denny’s", on aime bien cette enseigne. On finit la journée sur la route très montagneuse qui nous conduit à **Gila Cliff Dwellings National Monument**. Un peu avant d’arriver au visitor center, nous trouvons une aire où nous pouvons passer la nuit.  
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/39876677935/in/photolist-257PWjr-2548VjQ-GZbMU1-257PXS6-GZbVa3-2549RMY-GZbRd5-GZbZgu-2549XKj-23KLp4V" title="Gila Cliff - Nouveau-Mexique - [USA]"><img src="https://farm5.staticflickr.com/4785/39876677935_3fe87b78b6_h.jpg" width="1600" height="900" alt="Gila Cliff - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/39876677935/in/photolist-257PWjr-2548VjQ-GZbMU1-257PXS6-GZbVa3-2549RMY-GZbRd5-GZbZgu-2549XKj-23KLp4V" title="Gila Cliff - Nouveau-Mexique - [USA]"><img src="https://farm5.staticflickr.com/4785/39876677935_3fe87b78b6_h.jpg" width="1600" height="900" alt="Gila Cliff - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## 09 mars 
+## 09 mars  
 
 Nuit froide au bivouac, le chauffage s’est allumé à plusieurs reprises, il faut dire que nous sommes à plus de 1700 mètres d'altitude. Départ pour le Visitor Center où la Park Ranger fait des pieds et des mains pour nous trouver une doc en français et en attendant, nous lance un petit film sur l’histoire du site. Nous faisons le plein de l’eau qui est mise à disposition pour les RV, les dumps eux sont fermés, et nous partons pour la partie la plus intéressante du parc à savoir **Cliff Dwelling** un vieux village troglodyte des indiens Mogollons, qui ont bâtis leur habitat à l’intérieur de 7 grottes. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-03-09-usa-gila-cliff %}">ici</a>)**. 
 
@@ -40,14 +40,14 @@ Peu après Faywood, changement de décor, on arrive dans une immense plaine semi
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39876576675/in/datetaken/" title="City of Rocks - Nouveau-Mexique - [USA]"><img src="https://farm5.staticflickr.com/4777/39876576675_34aab0c56b_h.jpg" width="1600" height="900" alt="City of Rocks - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## 10 mars 
+## 10 mars  
 
 Ce matin, trail autour de **City of Rocks** pour faire quelques photos avec la lumière du matin, puis nous repartons en direction de **White Sands National Monument**. Cela fait plusieurs jours que nous n’avons aucune connectivité et dès que nous approchons de Deming, nous faisons une halte au Walmart pour téléphoner à toute la famille et prendre des nouvelles, nous profitons du Wi-Fi du magasin pour gérer nos mises à jour et nos mails. Nous reprenons la route en direction de Las Cruses où nous faisons le plein d’essence car c’est la moins chère dans le coin puis nous poursuivons vers le Visitor Center de White Sands NM, il est trop tard pour commencer la visite et le temps n’est vraiment pas au rendez-vous. On récupère la doc et on se pose dans un walmart à Alamogordo, la ville la plus proche, pour la nuit.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40061768444/in/datetaken/" title="City of Rocks - Nouveau-Mexique - [USA]"><img src="https://farm5.staticflickr.com/4791/40061768444_e9b20540e0_h.jpg" width="1600" height="900" alt="City of Rocks - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
-## 11 au 12 mars 
+## 11 au 12 mars  
 
 On est Dimanche, il pleut et tout est fermé. On reste donc dans Thor et on en profite pour s'occuper un peu de la logistique. La journée passe assez vite. Ce matin, le temps est encore gris mais devrait se lever dans l'après-midi. Nous partons à la bibliothèque municipale de la ville où je vais pouvoir utiliser leur Wi-Fi pour poster mes photos. Il est 13h00 quand nous partons pour **White Sands NM** où nous restons jusqu'au coucher de soleil. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-03-12-usa-white-sands %}">ici</a>)**. Nous retournons ensuite à Alamogordo, on trouve une station essence qui propose les dumps mais pas d’eau potable puis nous nous posons à nouveau au walmart pour la nuit.  
 
@@ -56,13 +56,13 @@ On est Dimanche, il pleut et tout est fermé. On reste donc dans Thor et on en p
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40805414522/in/datetaken/" title="White Sands NM - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/789/40805414522_61b6066bc2_h.jpg" width="1600" height="900" alt="White Sands NM - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
-## 13 mars 
+## 13 mars   
 
-Ce matin, départ d’Alamogordo pour l'Etat du Texas et plus précisément **El Paso**, la ville qui se revendique être la plus mexicaine des USA. La route est toute droite et traverse une immense zone désertique. On est toujours amusé de voir des micros tornades arriver du désert, traverser la route puis continuer leur progression ainsi que de gros buissons, souvent en forme de boule, "les virevoltants" qui eux aussi traversent la route sans prévenir, comme dans les westerns. 
+Ce matin, départ d’Alamogordo pour l'Etat du Texas et plus précisément **El Paso**, la ville qui se revendique être la plus mexicaine des USA. La route est toute droite et traverse une immense zone désertique. On est toujours amusé de voir des micros tornades arriver du désert, traverser la route puis continuer leur progression ainsi que de gros buissons, souvent en forme de boule, "les virevoltants" qui eux aussi traversent la route sans prévenir, comme dans les westerns.  
 
-Arrivés à El Paso, nous allons directement à la base militaire **Fort Bliss** qui possède un beau musée. Le fort est la seconde plus grande base et le plus grand champ de manœuvre des USA, c’est une véritable ville. Toutes les bases de la région sont tournées vers les missiles, notamment les "Patriots". Cette base faisait partie des "SafeGuard" entre 1946 et 1976 au moment de la guerre froide. Ce matin, le long de la route, nous avons longé "White Sands Base" et vu de nombreux blindés en manoeuvre car la base abrite maintenant la 1re division blindée US. 
+Arrivés à El Paso, nous allons directement à la base militaire **Fort Bliss** qui possède un beau musée. Le fort est la seconde plus grande base et le plus grand champ de manœuvre des USA, c’est une véritable ville. Toutes les bases de la région sont tournées vers les missiles, notamment les "Patriots". Cette base faisait partie des "SafeGuard" entre 1946 et 1976 au moment de la guerre froide. Ce matin, le long de la route, nous avons longé "White Sands Base" et vu de nombreux blindés en manoeuvre car la base abrite maintenant la 1re division blindée US.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/25975810777/in/datetaken/" title="El Paso - Texas - [USA]"><img src="https://farm1.staticflickr.com/792/25975810777_07c42ebe3e_h.jpg" width="1600" height="900" alt="El Paso - Texas - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/25975810777/in/datetaken/" title="El Paso - Texas - [USA]"><img src="https://farm1.staticflickr.com/792/25975810777_07c42ebe3e_h.jpg" width="1600" height="900" alt="El Paso - Texas - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40138848354/in/datetaken/" title="El Paso - Texas - [USA]"><img src="https://farm5.staticflickr.com/4773/40138848354_0751179f61_h.jpg" width="1600" height="900" alt="El Paso - Texas - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -84,7 +84,7 @@ Nuit calme et pas froide au bivouac. On se prépare pour faire le **Guadalupe Pe
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40849185651/in/datetaken/" title="Guadalupe Mountains NP - Texas - [USA]"><img src="https://farm5.staticflickr.com/4779/40849185651_324914edd3_h.jpg" width="1600" height="900" alt="Guadalupe Mountains NP - Texas - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Au sommet, on domine largement **El Capitan**, éperon rocheux qui culmine à 2464 mètres et on bénéficie d’un super panorama sur toute la plaine désertique qui mène à El Paso. On remarque au loin ces drôles de cultures en forme de cercle. Les américains ne manquent pas de place mais plutôt d’eau, du moins dans ces régions du sud. Ils amènent donc l’eau puis, autour de cette arrivée d’eau, ils mettent un système d’arrosage qui tourne comme les aiguilles d’une montre autour de cet axe et vous obtenez ainsi un champ circulaire. Au sommet se trouve un monument en forme de pyramide à aluminium qui concerne l’aéropostale, je crois. On a passé une très belle journée et on décide de rester une nuit de plus au camping.  
+Au sommet, on domine largement **El Capitan**, éperon rocheux qui culmine à 2464 mètres et on bénéficie d’un super panorama sur toute la plaine désertique qui mène à El Paso. On remarque au loin ces drôles de cultures en forme de cercle. Les américains ne manquent pas de place mais plutôt d’eau, du moins dans ces régions du sud. Ils amènent donc l’eau puis, autour de cette arrivée d’eau, ils mettent un système d’arrosage qui tourne comme les aiguilles d’une montre autour de cet axe et vous obtenez ainsi un champ circulaire. Au sommet se trouve un monument en forme de pyramide à aluminium qui concerne l’aéropostale, je crois. On a passé une très belle journée et on décide de rester une nuit de plus au camping.   
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40807838412/in/datetaken/" title="Guadalupe Mountains NP - Texas - [USA]"><img src="https://farm5.staticflickr.com/4780/40807838412_1408fe5b96_h.jpg" width="1600" height="900" alt="Guadalupe Mountains NP - Texas - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -235,8 +235,8 @@ Ce matin, nous avons décidé de changer les 4 pneus arrière des roues jumelée
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40566616014/in/datetaken/" title="Plantations - Louisiane - [USA]"><img src="https://farm1.staticflickr.com/891/40566616014_f498a81e8f_h.jpg" width="1600" height="900" alt="Plantations - Louisiane - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-## 28 mars 
+## 28 mars  
 
 Départ de Gonzales pour **Bâton Rouge**, visite très rapide car il n’y a pas grand chose à voir si ce n’est le Capitole de l’état de la Louisiane, capitole le plus haut des Etats-Unis avec ses 34 étages. Le bâtiment est plutôt moche et en travaux. L'origine du nom de Bâton Rouge viendrait d'un bâton en cyprès couvert de sang sur lequel les indiens plantaient des têtes d'animaux en offrande... Nous reprenons la route en direction de Natchez et empruntons la mythique route du Blues, la 61, petite soeur de la 66 et passons dans l'Etat du Mississippi.  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40566615534/in/datetaken/" title="Bâton-Rouge - Louisiane - [USA]"><img src="https://farm1.staticflickr.com/795/40566615534_5ac248d005_h.jpg" width="1600" height="900" alt="Bâton-Rouge - Louisiane - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40566615534/in/datetaken/" title="Bâton-Rouge - Louisiane - [USA]"><img src="https://farm1.staticflickr.com/795/40566615534_5ac248d005_h.jpg" width="1600" height="900" alt="Bâton-Rouge - Louisiane - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
