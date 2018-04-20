@@ -8,8 +8,8 @@ date:        2018-04-19 13:00:00
 from-date:   2018-03-28 13:00:00
 to-date:     2018-04-15 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt13.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
+header-img: "assets/owner/blog/header/post-bg-rt15.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt15.jpg
 tags: [architecture, desert, geologie, flore]
 pois: [gila-cliff#09-mars, city-of-rocks#10-mars, white-sands#11-et-12-mars, el-paso#13-mars, guadalupe#14-mars, carlsbad#15-mars ]
 country: USA
