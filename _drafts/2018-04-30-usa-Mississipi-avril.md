@@ -4,9 +4,9 @@ title:   "Mississippi - Alabama - Tennessee"
 preview: "Cet article couvre la période du ..."
 parent-id: 
 
-date:        2018-03-11 13:00:00
-from-date:   2018-03-08 13:00:00
-to-date:     2018-03-29 13:00:00
+date:        2018-04-19 13:00:00
+from-date:   2018-03-28 13:00:00
+to-date:     2018-04-15 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt13.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt13.jpg
@@ -16,7 +16,7 @@ country: USA
 states: ["Mississippi", "Tennessee", "Arkansas", "Oklahoma", "Nouveau Mexique", "Colorado"]
 category: "roadmap"
 flickr-text: ""
-location: "36.408199, -96.854412"
+location: "34.528734, -97.636121"
 itinary: "2018/colorado.json"
 mapZoom: 6
 
