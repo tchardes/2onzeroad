@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Du Mississippi au Nouveau Mexique"
-preview: "Cet article couvre la période du ..."
+preview: "Cet article couvre la période du 28 mars au 20 avril 2018 durant laquelle nous avons traversé le centre des Etat-Unis du Mississippi au au Nouveau-Mexique ..."
 parent-id: 
 
 date:        2018-04-19 13:00:00
