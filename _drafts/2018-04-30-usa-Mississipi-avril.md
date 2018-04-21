@@ -13,7 +13,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt15.jpg
 tags: [architecture, desert, geologie, flore]
 pois: [gila-cliff#09-mars, city-of-rocks#10-mars, white-sands#11-et-12-mars, el-paso#13-mars, guadalupe#14-mars, carlsbad#15-mars ]
 country: USA
-states: ["Mississippi", "Tennessee", "Kentucky", "Arkansas", "Oklahoma", "Nouveau-Mexique"]
+states: ["Mississippi", "Alabama", "Tennessee", "Kentucky", "Arkansas", "Oklahoma", "Nouveau-Mexique"]
 category: "roadmap"
 flickr-text: ""
 location: "34.196728, -96.737099"
@@ -22,7 +22,7 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 28 mars au     2018 durant laquelle nous avons traversé le sud du Nouveau-Mexique, le Texas et la Louisiane. 
+Cet article couvre la période du 28 mars au 20 avril 2018 durant laquelle nous avons traversé le centre des Etat-Unis du Mississippi au au Nouveau-Mexique. 
 
 
 ## 28 mars 
