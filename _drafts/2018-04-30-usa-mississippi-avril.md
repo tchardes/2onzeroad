@@ -27,11 +27,13 @@ Cet article couvre la période du 28 mars au 20 avril 2018 durant laquelle nous 
 
 ## 28 mars 
 
-Départ de Gonzales pour Bâton Rouge, visite très rapide car il n’y a pas grand chose à voir si ce n’est le Capitole de l’état de la Louisiane, capitole le plus haut des US 34 étages. le bâtiment est très moche et en travaux. 
-Nous reprenons la route en direction de Natchez et empruntons la mythique route du Blues, la 61, petite sœur de la 66.
-Nous nous arrêtons à une dernière plantation en Louisiane, "The Myrtles Plantation" à Saint Francisville qui passe pour la maison la plus hantée des USA, 10 meurtres auraient eu lieux et 10 fantômes la hanterait... Entouré de chênes centenaires, le manoir dispose d'une véranda de 125 pieds, d'une ferronnerie d'art exquise, de vitraux peints à la main, de moulures en frise percée à ciel ouvert, de tapisseries d'Aubusson, de lustres en marbre de Carrare et de feuilles d'or. Mobilier français et GHOSTS. Au premier coup d'œil, la maison et son environnement en enveloppe une avec un sentiment complet de paix et de tranquillité.
-A Natchez nous nous garons au visitor center pour prendre des renseignements. Un homme qui m’a entendu parler m’apostrophe, me demande si je suis bien français … de France… puis m’explique qur son arrière grand-père est originaire de Paou !!! il m’a fallut quelque seconde pour comprendre qu’il était originaire de Pau, impossible de lui faire prononcer le mot " PO ", on a bien rit. Ensuite nous avons parcouru à pied un trail dans la ville qui montre les plus belles demeures ante bellum de la ville, qui surplombe la Mississippi qui est bien en crue.
-De retour au visitor center nous voyons arriver un RV qui vient se brancher sur des prises électrique mises à disposition. Du coup nous partons faire des courses au Walmart et retournons au visitor pour nous brancher électriquement et passer la nuit qui s’annonce orageuse.
+Nous quittons la Louisiane et poursuivons sur la US 61 et entrons dans le Mississippi. A Natchez nous nous garons au Visitor Center pour prendre les renseignements habituels. Un "client" qui m’a entendu parler m’apostrophe, me demande si je suis bien français… de France… puis m’explique qur son arrière grand-père est originaire de Paou !!! il m’a fallut quelque seconde pour comprendre qu’il était originaire de Pau, impossible de lui faire prononcer le mot " PO ", on a bien rit. En ville, nous avons parcouru à pied un trail relie  les plus belles demeures "antebellum" (« avant la guerre » qui fait référence à la guerre civile) de la ville, qui surplombe la Mississippi qui est bien en crue.  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40384077555/in/photolist-HLbuCs-24NXw9C-GeSs4x-GeSs6M-24NJuj1-24NJuE1-24NJuQb-238VuXG-24wAX7n-24NJuWy-24NJvgG-24wAXie" title="Natchez - Mississippi - [USA]"><img src="https://farm1.staticflickr.com/884/40384077555_a808a8239c_h.jpg" width="1600" height="900" alt="Natchez - Mississippi - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40566611604/in/photolist-HLbuCs-24NXw9C-GeSs4x-GeSs6M-24NJuj1-24NJuE1-24NJuQb-238VuXG-24wAX7n-24NJuWy-24NJvgG-24wAXie" title="Natchez - Mississippi - [USA]"><img src="https://farm1.staticflickr.com/874/40566611604_0f93aa96a9_h.jpg" width="1600" height="1067" alt="Natchez - Mississippi - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+De retour au visitor center nous voyons arriver un RV qui vient se brancher sur des prises électriques mises à disposition. Du coup nous partons faire des courses au Walmart et retournons au visitor pour nous brancher électriquement et passer la nuit qui s’annonce très orageuse.
 
 ## 29 mars 
 
@@ -39,29 +41,8 @@ Ce matin il pleut, comme toute la nuit, nous partons en directions de Vidalie, d
 
 ## 30 mars 
 
-Ce matin départ du camping. Nous repassons dans l’état du Mississippi et empruntons la Natchez trace Parkway jusqu’à Port Gibson. Nous nous arrêtons à plusieurs endroits le long de la Trace, notamment dans une ancienne plantation. A partir de Port Gibson nous reprenons la 61, la route du Blues et nous nous arrêtons à Vicksburg, et plus précisément au "Vicksburg National Military Park" (Parc militaire national de Vicksburg
-Registre national des lieux historiques des États-Unis
-Parc militaire national américain
-Vicksburg-illinois-memorial.jpg
-Le mémorial de l'état de l'Illinois dans le parc militaire national de Vicksburg. La structure a été modelée sur le temple de Minerve Medica et le Panthéon de Rome. Le mémorial a été dédié le 26 octobre 1906.
-Emplacement dans le Mississippi Location within Mississippi
-Show map of MississippiAfficher la carte de Mississippi
-Show map of the USAfficher la carte des États-Unis
-Show all
-Emplacement Vicksburg, Mississippi & Delta, Louisiane , États - Unis
-Coordonnées 32 ° 20'38 "N 90 ° 51'5" W Coordonnées : 32 ° 20'38 "N 90 ° 51'5" O
-Région  1 852,75 acres (749,78 ha)
-Construit   21 février 1899
-Style architectural Renaissance grecque
-Visitation  532 444 (2015)
-Site Internet   Parc militaire national de Vicksburg
-NRHP référence #    66000100
-Ajouté au PNRS  15 octobre 1966
-Le parc militaire national de Vicksburg préserve le site de la bataille américaine de Vicksburg , du 29 mars au 4 juillet 1863. Le parc, situé à Vicksburg, Mississippi (flanquant le fleuve Mississippi ), commémore également la grande campagne de Vicksburg qui a conduit jusqu'à la bataille. Des forts et des tranchées reconstruits évoquent le souvenir du siège de 47 jours qui a pris fin à la reddition de la ville. La victoire ici et à Port Hudson , plus au sud en Louisiane, a donné le contrôle de l' Union du Mississippi. Le parc comprend 1 325 monuments et bornes historiques, 32 km de tranchées et de terrassements historiques, une route d'excursion de 26 km, un sentier pédestre de 20 km, deux maisons antebellum , 144 canons mis en place , la canonnière restaurée USS Cairo (coulée le 12 décembre 1862 sur la rivière Yazoo ), et le site du canal de Grant , où l' armée de l' Union tenta de construire un canal pour permettre à ses navires de contourner l' artillerie confédérée.
+Ce matin départ du camping. Nous repassons dans l’état du Mississippi et empruntons une portion de la **Natchez trace Parkway** jusqu’à Port Gibson. Il s'agit d'une route qui est gérée par le National Park Service et qui commémore le tracé historique du vieux Natchez et préserve des sections entières du sentier original. Elle s'étend sur une distance de 444 milles (715 km) de Natchez (Mississippi) à Nashville (Tennessee) en passant par l'Alabama. Une cinquantaine de point d'intérêts racontent l'histoire de cette voie d'accès ouverte par les pionniers. Nous nous arrêtons à plusieurs reprises le long de la Trace, notamment dans une ancienne plantation. A partir de Port Gibson nous reprenons la 61, et nous nous arrêtons à **Vicksburg**, et plus précisément au **Vicksburg National Military Park**. Le site préserve les lieux de la bataille américaine de Vicksburg qui se déroula du 29 mars au 4 juillet 1863. Des forts et des tranchées reconstruits évoquent le souvenir du siège de 47 jours qui a pris fin à la reddition de la ville. Le parc comprend 1 325 monuments et bornes historiques, 32 km de tranchées et de terrassements historiques, une route d'excursion de 26 km, un sentier pédestre de 20 km, deux maisons antebellum, 144 canons mis en place, la canonnière restaurée USS Cairo coulée le 12 décembre 1862 sur la rivière Yazoo.
 
-Le Caire , également connu sous le nom de "Hardluck Ironclad", fut le premier navire américain de l'histoire à être coulé par une torpille / mine. Il a été récupéré du Yazoo en 1964.
-
-Le Mémorial de l'État de l'Illinois compte 47 marches, une pour chaque jour où Vicksburg est assiégée.)
 
 Nous faisons un tour dans la ville qui compte quelques beaux bâtiments, la première boutique d’embouteillage de Coca Cola et un mur de fresques qui racontent l’histoire de la ville.
 
