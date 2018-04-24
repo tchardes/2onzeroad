@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "37.749718, -105.610684"
-  name: "Great Sand Dunes NP, Colorado, USA"
-  date: "21 au 22 avril 2018"
+  name: "Colorado Springs, Colorado, USA"
+  date: "23 au 25 avril 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
