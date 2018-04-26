@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "38.829635, -104.820857"
-  name: "Colorado Springs, Colorado, USA"
-  date: "23 au 25 avril 2018"
+  coordinates: "39.750292, -104.989118"
+  name: "Denver, Colorado, USA"
+  date: "25 au 27 avril 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
