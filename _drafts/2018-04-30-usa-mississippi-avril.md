@@ -191,13 +191,12 @@ Ce matin après avoir récupéré de la doc au Visitor center nous partons vers 
 
 
 Une route pénètre dans le parc et se fini par une boucle. De nombreux trails sont proposés aussi bien à pied, qu’en VTT ou cheval. Je fais la Lighthouse trail (5,44 miles - 9,3 Km) qui mène à une très belle formation rocheuse nommé le Phare et qui est l’emblème du Parc.
-On fait tout la route et nous en profitons pour faire les Dump, malheuseusement il n’y a pas d’eau potable. Nous rentrons dans un camping et nous nous installons à un emplacement de libre, les campeurs sont encore sur le circuit, et nous en profitonsd pour faire le plein d’eau après une bonne douche.
-Retour sur Amarillo où nous nous posons à un Walmart pour faire quelques courses et nous poser pour la nuit, qui s’annonce chaude…
+On fait toute la route et nous en profitons pour faire les Dump, malheureusement il n’y a pas d’eau potable. Nous rentrons dans un camping et nous nous installons à un emplacement de libre, les campeurs sont encore sur le circuit, et nous en profitons pour faire le plein d’eau après une bonne douche. Retour sur Amarillo où nous nous posons à un Walmart pour faire quelques courses et nous poser pour la nuit, qui s’annonce chaude…
 
 
 ## 13 avril
 
-Départ d’Amarillo en empruntant l’I40 qui n’est autre que le nouveau tracé de la 66, Seule dans les villages qu’elle contourne on retrouve le tracé original. Peu après le départ on s’arrête au Cadillac Ranch, sculture de plusieurs Cadillac plantées en terre et taguées. Nous quittons le texas pour le nouveau-Mexique, les paysage ne change guère, des prairies à perte de vue, nous avons eu tous les temps aujourd’hui et les température ne sont plus le même, nous avons même eu une temête de neige durant une bonne heure. Il faisait entre 8 et 9° dehors, pas de soucis pour rouler. On rigole a chaque fois que l’on voit ces petites boules - qui ne sont par ailleurs pas toujours de forme sphérique - sont des Virevoltants. En anglais Tumbleweed ("herbe qui tourne"), elles colonisent essentiellement les déserts des États-Unis
+Départ d’Amarillo en empruntant l’I40 qui n’est autre que le nouveau tracé de la 66, Seule dans les villages qu’elle contourne on retrouve le tracé original. Peu après le départ on s’arrête au **Cadillac Ranch**, sculture de plusieurs Cadillac plantées en terre et copieusement taguées. Nous quittons le texas pour le nouveau-Mexique, les paysages ne changent guère, des prairies à perte de vue, nous avons eu tous les temps aujourd’hui et les températures ne sont plus les mêmes, nous avons même eu une tempête de neige durant une bonne heure. Il faisait entre 8 et 9° dehors, pas de soucis pour rouler. On rigole a chaque fois que l’on voit ces petites boules - qui ne sont par ailleurs pas toujours de forme sphérique - sont des Virevoltants. En anglais Tumbleweed ("herbe qui tourne"), elles colonisent essentiellement les déserts des États-Unis
 
 ## 14 avril
 
