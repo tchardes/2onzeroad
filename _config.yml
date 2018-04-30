@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "37.229953, -108.464718"
-  name: "Mesa Verde NP, Colorado, USA"
-  date: "29 avril 2018"
+  coordinates: "37.349418, -108.573992"
+  name: "Cortez, Colorado, USA"
+  date: "30 avril au 01 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
