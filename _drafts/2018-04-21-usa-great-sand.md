@@ -6,8 +6,8 @@ parent-id:  2018-04-30-usa-mississippi-avril
 
 date:       2018-04-21 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-white.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-white.jpg
+header-img: "assets/owner/blog/header/post-bg-gs.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-gs.jpg
 tags: [parc-naturel, desert, montagne, geologie]
 pois: [great-sand]
 flickr-text: "Great Sand Dunes"
