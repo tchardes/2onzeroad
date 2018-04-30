@@ -1,7 +1,7 @@
 ---
 layout:     blog
-title:      "Bandelier National monument"
-preview:    "..."
+title:      "Bandelier National Monument"
+preview:    "Le monument national Bandelier est situé au Nouveau-Mexique, à 70 Km à l'Ouest de Santa Fe. Il protège les ruines de l'ancienne civilisation amérindienne Anasazi..."
 parent-id:  2018-04-30-usa-mississippi-avril
 
 date:       2018-04-17 12:00:00
@@ -18,11 +18,11 @@ category: "blog"
 location: "35.763964, -106.304778"
 ---
 
-Le monument national Bandelier est situé au Nouveau-Mexique, à 70 Km à l'Ouest de Santa Fe. Il protége les ruines de l'ancienne civilisation amérindienne Anasazi, ancêtre des Indiens Pueblos. Le site créé en 1916 porte le nom de l'ethnologue américain Adolph Francis Alphonse Bandelier.  
+Le **monument national Bandelier** est situé au Nouveau-Mexique, à 70 Km à l'Ouest de Santa Fe. Il protège les ruines de l'ancienne civilisation amérindienne Anasazi, ancêtre des Indiens Pueblos. Le site créé en 1916 porte le nom de l'ethnologue américain Adolph Francis Alphonse Bandelier.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41608437661/in/photolist-JgfSLd-26oN7Ue-GJYQj8-JgfU5f-JgfTA9-26kfRSb-2531nw4-JgfV4u-23D49Vs-JgfWPJ-JgfWY1-JgfXxC-23D4aKo-JgfZ79-GJYW9e-Jgg2sm-2531rX8-GJYVNK-26kfUqN-GJYWQp-GJYXuR-GJYUGM-GJYXXV" title="Bandelier - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/888/41608437661_d2a91dc732_h.jpg" width="1600" height="900" alt="Bandelier - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-Nous rejoignons le visiteur center où nous recevons une doc en français, visitons un petit musée et visualisons un petit film de 20mn qui explique la vie des habitants de l’époque. Si la partie visitable n’est pas très grande le parc lui est immense et présente une particularité géologique. A 26 km de là, il y a plus d’un million d’années, le volcan Jemez a connu deux eruptions 600 fois plus puissantes que celle du Mt St Helens en 1981. Toute la région a été recouverte d'une épaisse couche de cendres (300 mètres) qui en se compactant s'est transformé en tuf. De nombreuses poches de gaz se sont retrouvées piègées puis avec l’érosion sont apparus donnant un aspect de gruyère à toute la montagne.  
+Nous rejoignons le visiteur center où nous recevons une doc en français, visitons un petit musée et visualisons un petit film de 20mn qui explique la vie des habitants de l’époque. Si la partie visitable n’est pas très grande le parc lui est immense et présente une particularité géologique. A 26 km de là, il y a plus d’un million d’années, le volcan **Jemez** a connu deux eruptions 600 fois plus puissantes que celle du Mt St Helens en 1981. Toute la région a été recouverte d'une épaisse couche de cendres (300 mètres) qui en se compactant s'est transformé en tuf. De nombreuses poches de gaz se sont retrouvées piégées puis avec l’érosion sont apparus donnant un aspect de gruyère à toute la montagne.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26740678087/in/photolist-JgfSLd-26oN7Ue-GJYQj8-JgfU5f-JgfTA9-26kfRSb-2531nw4-JgfV4u-23D49Vs-JgfWPJ-JgfWY1-JgfXxC-23D4aKo-JgfZ79-GJYW9e-Jgg2sm-2531rX8-GJYVNK-26kfUqN-GJYWQp-GJYXuR-GJYUGM-GJYXXV" title="Bandelier - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/799/26740678087_d365872b6c_h.jpg" width="1600" height="900" alt="Bandelier - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
