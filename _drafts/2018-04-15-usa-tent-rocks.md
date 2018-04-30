@@ -1,14 +1,14 @@
 ---
 layout:     blog
-title:      "Kasha-Katuwe Tent Rocks National Monument"
+title:      "Tent Rocks National Monument"
 preview:    "..."
 parent-id:  2018-04-30-usa-mississippi-avril
 
 date:       2018-04-15 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-white.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-white.jpg
-tags: [parc-naturel, histoire, montagne, geologie]
+header-img: "assets/owner/blog/header/post-bg-tent.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-tent.jpg
+tags: [parc-naturel, montagne, geologie]
 pois: [tent-rocks]
 flickr-text: "Kasha-Katuwe Tent Rocks"
 country: USA 
