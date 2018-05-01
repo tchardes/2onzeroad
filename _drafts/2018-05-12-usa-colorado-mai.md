@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt15.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt15.jpg
 tags: [architecture, desert, geologie, flore]
-pois: [natchez#28-mars, natchez-trace#30-mars, vicksburg#30-mars, vicksburg-military#30-mars, leland#31-mars, indianola#31-mars, grammy- museum#31-mars, devil#31-mars, clarksdale#1-avril, tupelo#01-avril, nashville#02-et-03-avril, mammoth#04-avril, memphis#06-avril, hot-springs#09-avril, oklahoma#11-avril, palo-duro#12-avril, cadillac#13-avril, albuquerque#14-avril, petroglyph#14-avril, pecos#17-avril, bandelier#17-avril, los-alamos#18-avril, manhattan-project#18-avril, white-place#18-avril, ghost-ranch#18-avril, pecos#17-avril, pecos#17-avril   ]
+pois: [natchez#28-mars, natchez-trace#30-mars, vicksburg#30-mars, vicksburg-military#30-mars, leland#31-mars, indianola#31-mars, grammy-museum#31-mars, devil#31-mars, clarksdale#1-avril, tupelo#01-avril, nashville#02-et-03-avril, mammoth#04-avril, memphis#06-avril, hot-springs#09-avril, oklahoma#11-avril, palo-duro#12-avril, cadillac#13-avril, albuquerque#14-avril, petroglyph#14-avril, pecos#17-avril, bandelier#17-avril, los-alamos#18-avril, manhattan-project#18-avril, white-place#18-avril, ghost-ranch#18-avril, pecos#17-avril, pecos#17-avril   ]
 country: USA
 states: ["Colorado", "Nouveau-Mexique", "Arizona", "Nevada"]
 category: "roadmap"
