@@ -4,7 +4,7 @@ title:   "Du Mississippi au Nouveau Mexique"
 preview: "Cet article couvre la période du 28 mars au 20 avril 2018 durant laquelle nous avons traversé le centre des Etat-Unis du Mississippi au Nouveau-Mexique ..."
 parent-id: 
 
-date:        2018-04-21 13:00:00
+date:        2018-04-21 12:00:00
 from-date:   2018-03-28 13:00:00
 to-date:     2018-04-20 13:00:00
 author:     "Thierry"
