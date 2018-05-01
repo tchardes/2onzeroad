@@ -1,7 +1,7 @@
 ---
 layout:     blog
-title:      "Tent Rocks National Monument"
-preview:    "..."
+title:      "Kasha-Katuwe Tent Rocks N.M."
+preview:    "Le Kasha-Katuwe Tent Rocks National Monument est situé sur le plateau de Pajarito dans le centre-nord du Nouveau-Mexique, à 90 Km d'Albuquerque..."
 parent-id:  2018-04-30-usa-mississippi-avril
 
 date:       2018-04-15 12:00:00
@@ -18,7 +18,7 @@ category: "blog"
 location: "35.660189, -106.407482"
 ---
 
-Le **monument national de Kasha-Katuwe Tent Rocks** est situé sur le plateau de Pajarito dans le centre-nord du Nouveau-Mexique, à 90 Km d'Albuquerque. Les formations rocheuses en forme de cône sont le produit d'éruptions volcaniques survenues il y a 7 millions d'années et ont laissé des dépôts de pierre ponce, de cendres et de tuffs sur plus de 300 mètres de haut. Des blocs de pierre forment des chapeaux qui protègent la pierre ponce et le tuff plus fragile en-dessous, formant ainsi des "Hoodoos". Certains ayant perdu leur "protection" se désintègrent doucement et se transforment en "tentes" coniques qui varient en hauteur de quelques mètres jusqu'à 30 mètres.  
+Le **Kasha-Katuwe Tent Rocks National Monument** est situé sur le plateau de Pajarito dans le centre-nord du Nouveau-Mexique, à 90 Km d'Albuquerque. Les formations rocheuses en forme de cône sont le produit d'éruptions volcaniques survenues il y a 7 millions d'années et ont laissé des dépôts de pierre ponce, de cendres et de tuffs sur plus de 300 mètres de haut. Des blocs de pierre forment des chapeaux qui protègent la pierre ponce et le tuff plus fragile en-dessous, formant ainsi des "Hoodoos". Certains ayant perdu leur "protection" se désintègrent doucement et se transforment en "tentes" coniques qui varient en hauteur de quelques mètres jusqu'à 30 mètres.  
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41568489412/in/photolist-26oNpPX-26kg5DJ-26oNqBi-Jgg9Kh-26oNs1R-2531STa-2531ULi-26kgg2C-2531Tk2-26oNzak-2531V6r-Jggjj7-26kgit1-26oNA4e-JggjZq-26kgj2f-25j1RkJ-25j1SaQ-GJZpnn-JggmCA-25j1Txu-26kgkLh-GJYy9H-JggoN7-26kgnFj-25322Gc-25j1HM7-JggaU1-25j1GhU-Jggby7-Jggdn7-23D4kNQ-Jggc19-JggcfN-2531Rgc-2531Q16-2531QMX-2531S6t" title="Tent Rocks - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/934/41568489412_a6784f245b_h.jpg" width="1600" height="1067" alt="Tent Rocks - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
