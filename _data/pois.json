@@ -148,8 +148,6 @@
     {"name": "great-sand", "displayName": "Great Sand Dunes National Park & Preserve", "type": "nature"},
     {"name": "bandelier", "displayName": "Bandelier National Monument", "type": "nature"},
     {"name": "tent-rocks", "displayName": "Kasha-Katuwe Tent Rocks National Monument", "type": "nature"},
-    
-
     {"name": "natchez", "displayName": "natchez", "type": "ville"},
     {"name": "natchez-trace", "displayName": "Natchez trace Parkway", "type": "nature"},
     {"name": "vicksburg", "displayName": "vicksburg", "type": "ville"},
@@ -161,11 +159,11 @@
     {"name": "clarksdale", "displayName": "Clarksdale", "type": "ville"},
     {"name": "tupelo", "displayName": "Tupelo", "type": "ville"},
     {"name": "nashville", "displayName": "Nashville", "type": "ville"},
-    {"name": "mammoth", "displayName": "Mammoth Cave national Park", "type": "nature"},
+    {"name": "mammoth", "displayName": "Mammoth Cave National Park", "type": "nature"},
     {"name": "memphis", "displayName": "Memphis", "type": "ville"},
     {"name": "graceland", "displayName": "Graceland", "type": "autre"},
     {"name": "civil-right", "displayName": "National Civil Rights Museum", "type": "autre"},
-    {"name": "hot-springs", "displayName": "Hot-Springs National Park", "type": "ville"},
+    {"name": "hot-springs", "displayName": "Hot Springs National Park", "type": "ville"},
     {"name": "oklahoma", "displayName": "Oklahoma City", "type": "ville"},
     {"name": "palo-duro", "displayName": "Palo Duro Canyon State Park", "type": "nature"},
     {"name": "cadillac", "displayName": "Cadillac Ranch", "type": "autre"},
