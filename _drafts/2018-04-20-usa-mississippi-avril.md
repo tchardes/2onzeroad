@@ -127,11 +127,9 @@ A la fin du spectacle, les gens s'éparpillent dans tous les bars, il y a une am
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40712579265/in/photolist-252CBpP-25U4o1v-HLbsBy-25U4o72-24NXutd-24NXuid-24NXuqh-24NXuDy-24NXuKW-25U4pzT-HLbupG-24NXvZE-25U4oyz-25U4oBk-25U4oGv-25U4oMF-24NXv77-24NXvhh-25U4oUz-25U4nBe-24NXvqd-25U4pg6-24NXvGq-25U4p7D-24NXvwf-25U4pvz-24NXvLy-HLbuhN-HLbscL" title="Nashville - Tennessee - [USA]"><img src="https://farm1.staticflickr.com/910/40712579265_8657209d48_b.jpg" width="1024" height="768" alt="Nashville - Tennessee - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
 ## 05 avril
 
 Ce matin visite du magasin de guitares vintage "Carter’s" indiqué par "Stacy" où j’ai bien failli prendre une Les Paul standard de 2016. Nous faisons route ensuite jusqu'à Memphis ou nous nous arrêtons à une trentaine de kilomètres et nous nous posons dans un Walmart après avoir fait quelques courses.
-
 
 ## 06 au 08 avril
 
