@@ -19,7 +19,7 @@ location: "37.257597, -108.442457"
 ---
 
 
-Le parc national de Mesa Verde (Mesa Verde signifie « Plateau vert » en espagnol) est un parc national des États-Unis d'Amérique, situé dans le sud-ouest de l’État du Colorado. Il couvre une superficie de 211 km2. L'entrée se trouve à quinze kilomètres à l'est de la ville de Cortez.
+Le parc national de Mesa Verde (Mesa Verde signifie " Plateau vert " en espagnol) est un parc national des États-Unis d'Amérique, situé dans le sud-ouest de l’État du Colorado. Il couvre une superficie de 211 km2. L'entrée se trouve à quinze kilomètres à l'est de la ville de Cortez.
 
 4400 sites ont été répertoriés. Ils ont été occupés entre les vie et xive siècles par des Amérindiens Anasazis, ancêtres des Pueblos1, qui y construisaient des bâtiments troglodytiques sous les falaises du canyon. Il est donc l'un des rares exemples persistants à ce jour de la culture amérindienne. Les bâtiments ont entre 700 et 1400 ans. Les villages avaient leurs fonctions propres, qui pouvaient être soit agricole, artisanale ou religieuse1.
 
