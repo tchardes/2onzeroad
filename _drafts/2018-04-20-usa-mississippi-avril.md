@@ -343,8 +343,8 @@ Ce matin on se lève avec de la grêle et de la neige. Il devait pleuvoir toute 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26742035097/in/datetaken/" title="Taos - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/858/26742035097_5fb2df91f2_b.jpg" width="1024" height="576" alt="Taos - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En fin d’après-midi nous décidons de quitter la ville en direction d’Alamosa ce qui nous permettra d’être près de notre prochaine visite Great Sand Dunes NP. Peu après la sortie de Taos, nous passons sur un très beau pont qui enjambe le Rio Grande. Je ne sais plus combien de fois nous l’avons traversé. 
+En fin d’après-midi nous décidons de quitter la ville en direction d’Alamosa ce qui nous permettra d’être près de notre prochaine visite Great Sand Dunes NP. Peu après la sortie de Taos, nous passons sur un très beau pont qui enjambe le Rio Grande. Je ne sais plus combien de fois nous l’avons traversé.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26742032027/in/datetaken/" title="Taos - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/933/26742032027_7645b1c4b3_b.jpg" width="1024" height="576" alt="Taos - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous parcourons un très beau plateau où s’étendent d’immenses prairies. C’est sur ce décor que nous quittons le Nouveau-Mexique pour entrer dans le Colorado.
+Nous parcourons un très beau haut plateau où s’étendent d’immenses prairies. C’est sur ce décor que nous quittons une nouvelle fois le Nouveau-Mexique pour entrer dans le Colorado cette fois.
