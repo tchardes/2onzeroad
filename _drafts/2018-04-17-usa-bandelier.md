@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Bandelier National Monument"
 preview:    "Le monument national Bandelier est situé au Nouveau-Mexique, à 70 Km à l'Ouest de Santa Fe. Il protège les ruines de l'ancienne civilisation amérindienne Anasazi..."
-parent-id:  2018-04-30-usa-mississippi-avril
+parent-id:  2018-04-20-usa-mississippi-avril
 
 date:       2018-04-17 12:00:00
 author:     "Thierry"

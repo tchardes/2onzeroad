@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Kasha-Katuwe Tent Rocks N.M."
 preview:    "Le Kasha-Katuwe Tent Rocks National Monument est situé sur le plateau de Pajarito dans le centre-nord du Nouveau-Mexique, à 90 Km d'Albuquerque..."
-parent-id:  2018-04-20-usa-mississippi-avril
+parent-id:  2018-04-30-usa-mississippi-avril
 
 date:       2018-04-15 12:00:00
 author:     "Thierry"
