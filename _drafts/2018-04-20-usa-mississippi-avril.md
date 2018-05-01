@@ -324,11 +324,11 @@ A Espagnola nous faisons le plein des courses, de Thor et nous mangeons à Mc Do
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39802117310/in/datetaken/" title="Chimayo - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/939/39802117310_b67bb0b204_b.jpg" width="1024" height="683" alt="Chimayo - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
- Nous reprnons la route et nous nous arrêtons à plusieurs missions, Las Trampas **San Jose de Gracia De Las Trampas**, Talpa **Chapel of Nuestra Señora de San Juan de los Lagos** et enfin Ranchos de Taos et sa célèbre **Mission Church de San Francisco de Assis**. En fin de journée on se pose au Walmart de Taos.
+Nous reprnons la route et nous nous arrêtons à plusieurs missions, Las Trampas **San Jose de Gracia De Las Trampas**, Talpa **Chapel of Nuestra Señora de San Juan de los Lagos** et enfin Ranchos de Taos et sa célèbre **Mission Church de San Francisco de Assis**. En fin de journée on se pose au Walmart de Taos.
 
- <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39802106130/in/datetaken/" title="Talpa - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/913/39802106130_cae7e05f99_b.jpg" width="1024" height="576" alt="Talpa - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39802106130/in/datetaken/" title="Talpa - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/913/39802106130_cae7e05f99_b.jpg" width="1024" height="576" alt="Talpa - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
- <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41609831941/in/datetaken/" title="Taos - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/890/41609831941_37a14e4886_b.jpg" width="1024" height="576" alt="Taos - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41609831941/in/datetaken/" title="Taos - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/890/41609831941_37a14e4886_b.jpg" width="1024" height="576" alt="Taos - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 20 avril
 
