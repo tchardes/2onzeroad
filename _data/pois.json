@@ -149,7 +149,7 @@
     {"name": "bandelier", "displayName": "Bandelier National Monument", "type": "nature"},
     {"name": "tent-rocks", "displayName": "Kasha-Katuwe Tent Rocks National Monument", "type": "nature"},
     {"name": "natchez", "displayName": "natchez", "type": "ville"},
-    {"name": "natchez-trace", "displayName": "Natchez trace Parkway", "type": "nature"},
+    {"name": "natchez-trace", "displayName": "Natchez Trace Parkway", "type": "nature"},
     {"name": "vicksburg", "displayName": "vicksburg", "type": "ville"},
     {"name": "vicksburg-military", "displayName": "Vicksburg National Military Park", "type": "autre"},
     {"name": "leland", "displayName": "Leland", "type": "ville"},
