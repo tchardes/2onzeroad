@@ -259,21 +259,7 @@ On passe toute la matinée au camping et nous partons après le repas de midi. R
 
 De nombreuses boutiques d’art sont présentes et rendent le centre ville très haut en couleur. Ensuite départ pour Pecos National Historical Park qui se trouve à une 50 Km à Pecos. Nous arrivons peu avant la fermeture (16h30) et décidons de nous poser pour la nuit dans le coin sur un parking «Park & Ride», on verra bien… 
 
-
-
-
-
-En route, on voit notre premier train de voyageurs, 3 wagons… 
-
-
-
-
-
-
-
-
-
-
+En route, on voit notre premier train de voyageurs avec...3 wagons. Cela fait 9 mois que nous sommes sur le continent américain à parcourir les routes qui longes souvent les voies ferrées. Nous avons vu de nombreux trains de marchandises mais une seule fois de voyageurs. Les rames de trains ici sont énormes, très lents mais énormes, souvent long de plusieurs kilomètres, nous avons compté une fois une rame de plus de 130 wagons, et souvent des wagons porte conteneurs avec 2 conteneur par wagon. Les conducteurs klaxonent pratiquement à tous les passages à niveaux. Depuis que nous sommes ici, on entend pratiquement klaxonner tous les jours et autant dire que ce n'est pas un klaxon de twingo...
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26740696857/in/photolist-26kg1c7-GJZ3QF-GJZ5dv-GJZ4xx-26oNnmR-GJZ6cp-26oNo7P-23D4htU-26oNoYD" title="Santa Fe - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/913/26740696857_33926d1abe_b.jpg" width="1024" height="576" alt="Santa Fe - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
