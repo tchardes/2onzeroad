@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "36.261924, -108.250292"
   name: "Bisti Badlands, Colorado, USA"
-  date: "02 mai 2018"
+  date: "03 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
