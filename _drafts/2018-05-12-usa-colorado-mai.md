@@ -4,7 +4,7 @@ title:   "Du Colorado au Nevada"
 preview: "Cet article couvre la période du 21 avril au 12 mai 2018 durant laquelle nous avons traversé le centre des Etat-Unis du Mississippi au Nouveau-Mexique ..."
 parent-id: 
 
-date:        2018-05-12 13:00:00
+date:        2018-05-02 13:00:00
 from-date:   2018-04-21 13:00:00
 to-date:     2018-05-12 13:00:00
 author:     "Thierry"

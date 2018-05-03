@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Great Sand Dunes N.P. & Preserve"
 preview:    "..."
-parent-id:  2018-04-30-usa-mississippi-avril
+parent-id:  2018-05-12-usa-colorado-mai
 
 date:       2018-04-21 12:00:00
 author:     "Thierry"
