@@ -22,7 +22,7 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 28 mars au 20 avril 2018 durant laquelle nous avons traversé le centre des Etat-Unis du Mississippi au au Nouveau-Mexique.
+Cet article couvre la période du 28 mars au 20 avril 2018 durant laquelle nous avons traversé le centre des Etat-Unis du Mississippi au Nouveau-Mexique.
 
 ## 28 mars
 
@@ -133,7 +133,7 @@ Ce matin visite du magasin de guitares vintage "Carter’s" indiqué par "Stacy"
 
 Ce matin départ sous la pluie pour le Visitor Center de **Memphis** où nous récupérons plein de doc. Nous tombons sur une dame très sympa qui nous renseigne et téléphone pour nous à l’usine Gibson pour me réserver une place pour la visite de 11h00. A l'entrée du visitor trône deux statues grandeur nature d'Elvis et de B.B. KING.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26736514667/in/photolist-26jTu5W-26orKCB-26orKwz-26orKJi-26orKNM-26jTwbQ-26jTwkY-26orM6X-25iD4kE-25iD4yL-25iD4Fj-26orMg6-23CGtMh-26orMjx-25iD4Xm-25iD4N3-26orMV2-26jTuKo-26orKZD-26jTvUN-26jTvfm-26jTv37-26orLwk-26jTvuu-26orLNx-GJBCkv-26oqxbV-GJBCg2-26orN4t-23CGukm-JfTNuE-252CB62-26oqxkx-26oqxrz-25iBMTu-GJBCjP-25iBN7q" title="Memphis - Tennessee - [USA]"><img src="https://farm1.staticflickr.com/791/26736514667_30bd0c0406_b.jpg" width="768" height="1024" alt="Memphis - Tennessee - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26736514667/in/photolist-26jTu5W-26orKCB-26orKwz-26orKJi-26orKNM-26jTwbQ-26jTwkY-26orM6X-25iD4kE-25iD4yL-25iD4Fj-26orMg6-23CGtMh-26orMjx-25iD4Xm-25iD4N3-26orMV2-26jTuKo-26orKZD-26jTvUN-26jTvfm-26jTv37-26orLwk-26jTvuu-26orLNx-GJBCkv-26oqxbV-GJBCg2-26orN4t-23CGukm-JfTNuE-252CB62-26oqxkx-26oqxrz-25iBMTu-GJBCjP-25iBN7q" title="Memphis - Tennessee - [USA]"><img src="https://farm1.staticflickr.com/791/26736514667_30bd0c0406_b.jpg" width="500" height="800" alt="Memphis - Tennessee - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous nous rendons à l’usine **Gibson Factory** qui se trouve en pleine ville, non loin de Beale Street, la rue où se trouves tous les bars musicaux. Comme il pleut et que le toit de l’usine fuit, les ouvriers sont rentrés chez eux… Nous faisons donc la visite dans le calme et sans poussière. Le guide nous présente tous les ateliers et stade de la fabrication des Gibson de type ES, les seules fabriquées ici, les "Les Paul" étant fabriquées à Nashville et les acoustiques à Bozeman dans le Montana. Seule celle de Memphis se visite. A l’issue de la visite on arrive dans un grand show room où de très nombreuses guitares sont exposées et vendues... très chères... trop chères.
 

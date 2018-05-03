@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Great Sand Dunes N.P. And Preserve"
+title:      "Great Sand Dunes N.P. & Preserve"
 preview:    "..."
 parent-id:  2018-04-30-usa-mississippi-avril
 
