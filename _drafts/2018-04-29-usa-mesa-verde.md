@@ -8,7 +8,7 @@ date:       2018-04-29 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-mesaverde.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-mesaverde.jpg
-tags: [parc-naturel, histoire, montagne, geologie, unesco]
+tags: [parc-naturel, histoire, montagne, architecture, unesco]
 pois: [mesa-verde]
 flickr-text: "Mesa verde"
 country: USA 
