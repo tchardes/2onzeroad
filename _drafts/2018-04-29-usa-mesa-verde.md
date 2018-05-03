@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Mesa Verde National Park"
-preview:    "Le parc national de Mesa Verde "Plateau vert" est situé dans le sud-ouest de l’État du Colorado. Il couvre une superficie de 211 km2. Plus de 4000..."
+preview:    "Le parc national de Mesa Verde est situé dans le sud-ouest de l’État du Colorado. Il couvre une superficie de 211 km2. Plus de 4000..."
 parent-id:  2018-05-12-usa-colorado-mai
 
 date:       2018-04-29 12:00:00
@@ -32,7 +32,7 @@ Cliff Palace est le plus beau lieu du parc. Les constructions ont été bâties 
 
 >Une kiva est une pièce, en général de plan circulaire et semi-enterrée, utilisée par les Pueblos pour des rituels religieux.
 
-Balcony House est le second site sur la boucle. AU niveau du parking on trouve l'entrée de la visite guidée mais aucune vue directe le site qui se trouve en dessous. Pour le voir il faut continuer la route et s'arrêter faire une petit trail "Soda Canyon Overlook Trail" (1,2 miles - 1,9 km) qui mène à plusieurs points de vue, dont l'un juste en face de Balcony House. Le site, occupé jusqu'en 1300, compte 38 pièces, 3 places ouvertes et 2 kivas. Il a été construit dans une alcôve de 80 mètres de long situé à 183 mètres de haut. 
+Balcony House est le second site sur la boucle. AU niveau du parking on trouve l'entrée de la visite guidée mais aucune vue directe le site qui se trouve en dessous. Pour le voir il faut continuer la route et s'arrêter faire une petit trail "Soda Canyon Overlook Trail" (1,2 miles - 1,9 km) qui mène à plusieurs points de vue, dont l'un juste en face de Balcony House. Le site, occupé jusqu'en 1300, compte 38 pièces, 3 places ouvertes et 2 kivas. Il a été construit dans une alcôve de 80 mètres de long situé à 183 mètres de haut.
 
 A la fin de la boucle nous nous engageons sur la deuxième "Mesa Top Loop" (6 miles - 10 Km également). Ce parcours permet de voir les habitations antérieures des Indiens Pueblos, construites entre 600 et 950, les Pithouses, parfois regroupées en pueblo, faites de bois et de torchis. Sur le parcours se trouve également un petit trail qui conduit à un point de vue qui permet de voir "Square Tower House" très belles constructions construites entre 1200 et 1300 avec notamment une grande tour. Au bout de la boucle, un point de vue "Sun Point View" permet de voir en opposition d'autres sites comme "Sunset House", Mummy House", "Oak Tree House", "Fire Temple", "New Fire House" qui se trouvent dans Fewkes Canyon. La fin de la boucle nous propose une vue sur le bout de Cliff Canyon avec sur le plateau les ruines de "Sun Temple" et une magnifique vue en opposition de "Cliff palace".
 
@@ -42,4 +42,4 @@ Je n'ai fait que le second trail, qui est vraiment très beau, bien qu'un peu te
 
 En quittant le parc nous faisons deux derniers arrêts qui présentent moins d'intérêt, "Cedar Tree Tower" et "Far View Sites" où un petit trail permet de relier plusieurs ruines.
 
-Pour un complément d'informations sur ce parc, historique, trails, réservation camping, [cartes](https://www.nps.gov/meve/planyourvisit/maps.htm), n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/meve/index.htm). 
+Pour un complément d'informations sur ce parc, historique, trails, réservation camping, [cartes](https://www.nps.gov/meve/planyourvisit/maps.htm), n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/meve/index.htm).
