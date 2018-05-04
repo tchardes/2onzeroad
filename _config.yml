@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "36.261924, -108.250292"
-  name: "Bisti Badlands, Colorado, USA"
-  date: "03 mai 2018"
+  coordinates: "34.911778, -107.997276"
+  name: "El Malpais National Monument, Nouveau-Mexique, USA"
+  date: "04 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
