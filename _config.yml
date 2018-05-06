@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "34.911778, -107.997276"
-  name: "El Malpais National Monument, Nouveau-Mexique, USA"
-  date: "04 mai 2018"
+  coordinates: "36.134110, -109.469417"
+  name: "Canyon de Chelly Naional Monument, Arizona, USA"
+  date: "05 et 06 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
