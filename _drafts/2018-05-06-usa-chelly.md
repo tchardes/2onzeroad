@@ -1,18 +1,18 @@
 ---
 layout:     blog
-title:      "El Moro National Monument"
+title:      "Canyon de Chelly National Monument"
 preview:    "..."
 parent-id:  2018-05-12-usa-colorado-mai
 
-date:       2018-05-05 12:00:00
+date:       2018-05-06 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-mesaverde.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-mesaverde.jpg
-tags: [parc-naturel, histoire, montagne, geologie]
-pois: [moro]
-flickr-text: "El Moro"
+tags: [parc-naturel, montagne, geologie, histoire]
+pois: [Chelly]
+flickr-text: "Canyon de Chelly"
 country: USA 
-states: ["Nouveau-Mexique"]
+states: ["Arizona"]
 city: 
 category: "blog"
 location: ""
