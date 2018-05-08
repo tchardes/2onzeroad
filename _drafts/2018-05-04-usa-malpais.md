@@ -15,7 +15,7 @@ country: USA
 states: ["Nouveau-Mexique"]
 city: 
 category: "blog"
-location: ""
+location: "34.908560, -107.978324"
 ---
 
 Le parc national de Mesa Verde "Plateau vert" est situé dans le sud-ouest de l’État du Colorado. Il couvre une superficie de 211 km2. Plus de 4000 bâtiments troglodytiques construits sous les falaises de canyons ont été occupés entre les VIéme et XIVéme siècles par des Amérindiens Anasazis, ancêtres des Pueblos. Les villages avaient leurs fonctions propres, qui pouvaient être soit agricole, artisanale ou religieuse. La Zone est devenue Parc National le 29 juin 1906 et site du patrimoine mondial de l'Unesco le 6 septembre 1978. Les principaux sites à visiter dans le parc sont Balcony House et Cliff Palace qui sont les principales maisons troglodytiques du parc. Elles se visitent uniquement en été (ouverture au printemps, fermeture le 9 octobre. L'entrée est gratuite avec la Pass America The Beautiful, il faut compter au moins une journée de visite. Si vous souhaitez faire une visite guidée par un Parc Ranger il faut s'acquitter de la somme de 4$/Pers. et par site (4 sites au total). N'étant pas à nos premières visites de "Cliff Dwellings" et ayant du mal à appréhender toutes les explications en anglais, nous n'en prenons aucun.
