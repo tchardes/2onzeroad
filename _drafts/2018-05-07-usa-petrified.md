@@ -19,4 +19,4 @@ location: "34.949301, -109.773192"
 ---
 
 
-Pour un complément d'informations sur ce parc, historique, trails, réservation camping, [cartes](https://www.nps.gov/meve/planyourvisit/maps.htm), n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/meve/index.htm).
+Pour un complément d'informations sur ce parc, historique, trails, réservation camping, [cartes](https://www.nps.gov/pefo/planyourvisit/maps.htm), n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/pefo/index.htm).
