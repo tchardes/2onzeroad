@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "36.134110, -109.469417"
-  name: "Petrified forest Naional Monument, Arizona, USA"
-  date: "07 mai 2018"
+  coordinates: "35.028036, -111.021839"
+  name: "Meteor Crater Natural Landmark, Arizona, USA"
+  date: "08 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
