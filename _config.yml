@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "36.134110, -109.469417"
-  name: "Canyon de Chelly Naional Monument, Arizona, USA"
-  date: "05 et 06 mai 2018"
+  name: "Petrified forest Naional Monument, Arizona, USA"
+  date: "07 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
