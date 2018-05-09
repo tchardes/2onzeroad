@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "35.028036, -111.021839"
-  name: "Meteor Crater Natural Landmark, Arizona, USA"
-  date: "08 mai 2018"
+  coordinates: "35.167843, -111.517996"
+  name: "Walnut Canyon National Monument, Arizona, USA"
+  date: "09 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
