@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "34.866060, -111.763557"
-  name: "Sedona, Arizona, USA"
-  date: "10 mai 2018"
+  coordinates: "35.188936, -114.055913"
+  name: "Kingman, Arizona, USA"
+  date: "111 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
