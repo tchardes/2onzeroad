@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "35.188936, -114.055913"
   name: "Kingman, Arizona, USA"
-  date: "11 mai 2018"
+  date: "11 au 14 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
