@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Petrified Forest National Park"
 preview:    "..."
-parent-id:  2018-05-12-usa-colorado-mai
+parent-id:  2018-05-14-usa-colorado-mai
 
 date:       2018-05-07 12:00:00
 author:     "Thierry"

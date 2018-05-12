@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Mesa Verde National Park"
 preview:    "Le parc national de Mesa Verde est situé dans le Sud-Ouest de l’État du Colorado. Il couvre une superficie de 211 km2. Plus de 4000..."
-parent-id:  2018-05-12-usa-colorado-mai
+parent-id:  2018-05-14-usa-colorado-mai
 
 date:       2018-04-29 12:00:00
 author:     "Thierry"
