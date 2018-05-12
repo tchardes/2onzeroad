@@ -4,7 +4,7 @@ title:      "Great Sand Dunes N.P. & Preserve"
 preview:    "Le parc national et réserve de Great Sand Dunes conserve une zone de grandes dunes de sable atteignant 229 mètres à l'extrémité Est de..."
 parent-id:  2018-05-12-usa-colorado-mai
 
-date:       2018-04-21 12:00:00
+date:       2018-04-22 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-gs.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-gs.jpg
