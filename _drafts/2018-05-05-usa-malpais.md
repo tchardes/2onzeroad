@@ -40,4 +40,6 @@ Nous nous arrêtons à **El calderon Area** d’où part un trail du même nom (
 
 Nous reprenons la route et passons devant des grottes privées dont nous avons vu beaucoup de pub sur la route, "Bandera Crater Ice caves", mais la saisons d’ouverture n’a pas encore commencés.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27179057557/in/photolist-HpHLUD-JVMWqh-24iZUQA-25GcJo4-JVN7Y1-274Ku5c-25GcWRk-24j1r41-25Gd2g2-JVNkJ1-HpJsd8-JVNy3j-26ZQzXQ" title="El Malpais - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/944/27179057557_91b9134ed7_k.jpg" width="2048" height="1152" alt="El Malpais - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Pour un complément d'informations sur ce parc, historique, trails, réservation camping, [cartes](https://www.nps.gov/elmo/planyourvisit/maps.htm), n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/elmo/index.htm).
