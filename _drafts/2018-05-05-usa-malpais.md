@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "El Malpais National Monument"
-preview:    "l Malpais National Monument est une grand champ volcanique protégée, El Malpais (Badlands) voulant dire mauvaises terres en espagnol..."
+preview:    "El Malpais National Monument est une grand champ volcanique protégée, El Malpais (Badlands) voulant dire mauvaises terres en espagnol..."
 parent-id:  2018-05-14-usa-colorado-mai
 
 date:       2018-05-04 12:00:00
@@ -15,7 +15,7 @@ country: USA
 states: ["Nouveau-Mexique"]
 city: 
 category: "blog"
-location: "35.040287, -108.347819"
+location: "34.900275, -107.994258"
 ---
 
 El Malpais National Monument est une grand champ volcanique protégée, El Malpais (Badlands) voulant dire mauvaises terres en espagnol. Le Visitor Center se trouve très près de la ville de Grants et deux axes permettent de le longer vers le Sud et vers l'Ouest et quelques trails permettent de pénétrer vers l'intérieur. Nous récupérons la documentation, visionnons le film d’une vingtaine de minutes sur le parc puis petit tour au centre pédagogique. Le parc est gratuit. 
@@ -42,4 +42,4 @@ Nous reprenons la route et passons devant des grottes privées dont nous avons v
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27179057557/in/photolist-HpHLUD-JVMWqh-24iZUQA-25GcJo4-JVN7Y1-274Ku5c-25GcWRk-24j1r41-25Gd2g2-JVNkJ1-HpJsd8-JVNy3j-26ZQzXQ" title="El Malpais - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/944/27179057557_91b9134ed7_k.jpg" width="2048" height="1152" alt="El Malpais - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Pour un complément d'informations sur ce parc, historique, trails, réservation camping, [cartes](https://www.nps.gov/elmo/planyourvisit/maps.htm), n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/elmo/index.htm).
+Pour un complément d'informations sur ce parc, historique, trails, réservation camping, [cartes](https://www.nps.gov/elma/planyourvisit/maps.htm), n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/elma/index.htm).
