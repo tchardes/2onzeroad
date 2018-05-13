@@ -4,7 +4,7 @@ title:   "Du Colorado au Nevada"
 preview: "Cet article couvre la période du 21 avril au 14 mai 2018 durant laquelle nous avons traversé le Colorado, le Nouveau-Mexique, l'Arizona pour finir à Las Vegas au Nevada..."
 parent-id: 
 
-date:        2018-05-14 13:00:00
+date:        2018-05-13 13:00:00
 from-date:   2018-04-21 13:00:00
 to-date:     2018-05-14 13:00:00
 author:     "Thierry"
