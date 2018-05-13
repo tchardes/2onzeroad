@@ -32,8 +32,7 @@ Première nuit au Colorado plutôt froide, les température à Alamosa ont été
 
 ## 22 avril
 
-Malgrè une nuit encore froide, le soleil est au rendez-vous ce matin. Nous partons ce matin pour **Great Sand Dunes National park & Preserve** Le paysage est magnifique nous sommes sur un immense plateau composé de steppe et tout autour sure 360° nous somme entourés de monts enneigés.  Je suis redescendu avec quelques kilos de sable sur moi, j’ai même du marcher pieds nus car je ne pouvez plus bouger tant mes chaussures étaient pleine de sable. Sur la parcour j’ai vu de nombreuses personnes se promener avec leur appareil autour du coup, je pense qu’ils vont bien moins marcher.
-Une fois débarassé du sable nous partons faire les Dump et le plein d’eau et nous quittons le parc ou nous nous posons en pleine nature.
+Nuit encore très froide cette nuit mais le soleil est au rendez-vous ce matin. Nous partons ce matin pour **Great Sand Dunes National park & Preserve** Le paysage est magnifique nous sommes sur un immense haut plateau composé de steppe et tout autour sur 360° nous sommes entourés de monts enneigés. Nous avons passé une très belle journée dans ce décor inhabituel. Bien qu'un camping soit présent dans le parc nous décidons de bivouaquer à l'extérieur car le prix est un peu élevé pour un camping primitif. Nous faisons les Dump et le plein d’eau qui sont disponibles pour tout le monde et en dehors du camping et quittons le parc pour se poser en pleine nature. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-04-22-usa-great-sand %}">ici</a>)**
 
 
 
