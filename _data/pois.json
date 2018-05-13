@@ -180,7 +180,7 @@
     {"name": "mesa-verde", "displayName": "Mesa Verde National Park", "type": "nature"},
     {"name": "bisti", "displayName": "Bisti Badlands/ De-Na-Zin Wilderness", "type": "nature"},
     {"name": "malpais", "displayName": "El Malpais National Monument", "type": "nature"},
-    {"name": "moro", "displayName": "El Moro National Monument", "type": "nature"},
+    {"name": "morro", "displayName": "El Morro National Monument", "type": "nature"},
     {"name": "chelly", "displayName": "Canyon de Chelly National Monument", "type": "nature"},
     {"name": "petrified", "displayName": "Petrified Forest National Park", "type": "nature"},
     {"name": "", "displayName": "", "type": ""},
