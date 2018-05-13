@@ -48,7 +48,9 @@ Arrivés à Colorado Spring, Nous avons pris la directions de **Garden of the Go
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41678840961/in/datetaken/" title="Colorado Springs - Colorado - [USA]"><img src="https://farm1.staticflickr.com/904/41678840961_13d99ce5a2_k.jpg" width="2048" height="1152" alt="Colorado Springs - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27810964828/in/photolist-JnysVA-JnysiU-26v24ie-Jnyun3-JnyvbC-GK6W3t-25j8bWA-GJZ5dv-26jV1q3-JfVtJj-25U4rtn-238VuXG-24NJuE1-24wAXie-24NJvgG-24NJvrG-24NJvC3-24wAYV2-24NJxcA-24NJxtN-24wB1qr-25Q1aVE-24wB39B-24wB5DB-24wB3xT-FM4hvp-245fzot-Gf5XnE-24hJoVy-XMRiTG-BLvwFL-XRxBNv-YSxcDH-BLvHeQ-YSxfpn-XRoh48-YSxfE2-YSxgcK-YSxgqk-YSxfZv-YSxfPF-YSxgDM-YSxgQ8-YSxh4K-BLvMBh-BLvMQ3-BLvNq1-BLvN4u-HisoVA-HisrK3" title="Colorado Springs - Colorado - [USA]"><img src="https://farm1.staticflickr.com/963/27810964828_779b9d9042_k.jpg" width="2048" height="1152" alt="Colorado Springs - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39872700840/in/photolist-26ryZm7-259mVDp-23KpYWm-26v1TJK-23KpYcL-JnyfVo-GRhdn6-GRhc4K-23Kq1Pj-26v1VPB-GRhe6F-GRhfuH-26v1Xme-JnykQJ-Jnyma1-Jnyn21-JnyoJj-JnynYG-JnyqbY-JnypBm-Jnyros-JnysVA-JnysiU-26v24ie-Jnyun3-JnyvbC" title="Colorado Springs - Colorado - [USA]"><img src="https://farm1.staticflickr.com/825/39872700840_cc2cc3b239_k.jpg" width="2048" height="1365" alt="Colorado Springs - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 
