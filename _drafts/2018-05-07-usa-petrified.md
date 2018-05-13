@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Petrified Forest National Park"
-preview:    "..."
+preview:    "Le **Petrified Forest National Park** se situe au nord-est de l'Arizona, il est traversé par l'Interstate 40, ancienne route 66. Ce parc immense..."
 parent-id:  2018-05-14-usa-colorado-mai
 
 date:       2018-05-07 12:00:00
