@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Canyon de Chelly National Monument"
-preview:    "..."
+preview:    "Le Canyon de Chelly National Monument se trouve au milieu d'une grande réserve Navajo près du Four Corners. Le mot "Chelly" est une déformation anglaise..."
 parent-id:  2018-05-14-usa-colorado-mai
 
 date:       2018-05-06 12:00:00
