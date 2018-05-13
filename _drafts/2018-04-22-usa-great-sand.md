@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Great Sand Dunes N.P. & Preserve"
-preview:    "Le parc national et réserve de Great Sand Dunes conserve une zone de grandes dunes de sable atteignant 229 mètres à l'extrémité Est de..."
+preview:    "Le parc national et réserve de Great Sand Dunes conserve une zone de grandes dunes de sable atteignant 229 mètres à l'extrémité Est de la vallée de San Luis..."
 parent-id:  2018-05-14-usa-colorado-mai
 
 date:       2018-04-22 12:00:00
@@ -18,7 +18,7 @@ category: "blog"
 location: "37.732885, -105.618924"
 ---
 
-Le parc national et réserve de **Great Sand Dunes** conserve une zone de grandes dunes de sable atteignant 229 mètres à l'extrémité est de la vallée de San Luis et une réserve nationale adjacente située dans le **Sangre de Cristo Range**. Le parc contient les plus hautes dunes de sable en Amérique du Nord. Les dunes couvrent une superficie d'environ 30 km2 et sont estimées contenir plus de 5 milliards de mètres cubes de sable. Les sédiments des montagnes se sont répandues dans la vallée au cours des millénaires et les vents dominants ont poussé le sable vers le Sangre de Cristos, formant ainsi ce champ de dunes.
+Le parc national et réserve de **Great Sand Dunes** conserve une zone de grandes dunes de sable atteignant 229 mètres à l'extrémité Est de la vallée de San Luis et une réserve nationale adjacente située dans le **Sangre de Cristo Range**. Le parc contient les plus hautes dunes de sable en Amérique du Nord. Les dunes couvrent une superficie d'environ 30 km2 et sont estimées contenir plus de 5 milliards de mètres cubes de sable. Les sédiments des montagnes se sont répandues dans la vallée au cours des millénaires et les vents dominants ont poussé le sable vers le Sangre de Cristos, formant ainsi ce champ de dunes.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26810682037/in/photolist-259fXhr-259fXM4-GRaDnR-259fYxx-GRaCM2-259fY9r-23Kigqh-23Kig5s-259fYRP-GRaEax-26uTwQz-26uTyCn-GRaJ32-25qdu2b-23KikTL-23Kif8h-GRaKdZ-GRaKGz-GRaLxT-23Kimjf-26uTBkg-GRaMBX-GRaNfv-259g4Q6-23Kikwy-GRaJtx-GRaFdV-26uTxac-25qdtDh-259fZV2-GRaFRi-26uTxXz-GRaHcz-259g5kz-GRaGrX-GRaJNR-26uTyhx" title="Great Sand Dunes - Colorado - [USA]"><img src="https://farm1.staticflickr.com/968/26810682037_876f2664c6_k.jpg" width="2048" height="1152" alt="Great Sand Dunes - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
