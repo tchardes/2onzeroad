@@ -24,23 +24,34 @@ mapZoom: 6
 
 Cet article couvre la période du 21 avril au 14 mai 2018 durant laquelle nous avons traversé le Colorado, le Nouveau-Mexique, l'Arizona pour finir à Las Vegas au Nevada.
 
-
 ## 21 avril
 
 Première nuit au Colorado plutôt froide, les température à Alamosa ont été négatives toutes la nuit. Ce matin le temps n’est pas terrible et les montagnes aux alentours sont toutes dans le nuages. On décide de passer la journée à la bibliothèque municipale où nous passons la journée pour traiter les photos et videos et les poster avant de regagner notre bivouac.
-
 
 ## 22 avril
 
 Nuit encore très froide cette nuit mais le soleil est au rendez-vous ce matin. Nous partons ce matin pour **Great Sand Dunes National park & Preserve** Le paysage est magnifique nous sommes sur un immense haut plateau composé de steppe et tout autour sur 360° nous sommes entourés de monts enneigés. Nous avons passé une très belle journée dans ce décor inhabituel. Bien qu'un camping soit présent dans le parc nous décidons de bivouaquer à l'extérieur car le prix est un peu élevé pour un camping primitif. Nous faisons les Dump et le plein d’eau qui sont disponibles pour tout le monde et en dehors du camping et quittons le parc pour se poser en pleine nature. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-04-22-usa-great-sand %}">ici</a>)**
 
-
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26810671097/in/photolist-259fXM4-259fXhr-23Kigqh-23Kig5s-GRaCM2-GRaDnR-259fYxx-259fY9r-259fYRP-26uTwQz-GRaEax-GRaJ32-26uTyCn-25qdu2b-23Kif8h-23KikTL-GRaKdZ-GRaKGz-23Kimjf-GRaLxT-GRaNfv-259g4Q6-26uTBkg-GRaMBX-23Kikwy-GRaJtx-GRaFdV-26uTxac-25qdtDh-GRaFRi-259fZV2-26uTxXz-GRaHcz-259g5kz-GRaGrX-GRaJNR-26uTyhx" title="Great Sand Dunes - Colorado - [USA]"><img src="https://farm1.staticflickr.com/911/26810671097_b6b141f839_k.jpg" width="2048" height="1152" alt="Great Sand Dunes - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 23 avril
 
-Ce matin nous retournons à l’entrée de Great Sabd Dunes pour faire des photos au soleil levant puis nous partons en direction de Colorado Springs. Nous faisons un petit crochet pour enprunter une Scenic ByWay " Highway Of legends " rien que ça… qui nous conduit à La Veta puis Cuchara où nous faisons demi tour. La route nous conduit dans un décor très alpin, rien d’extraordinaire mais il est vrai qu’au milieu de cette région de steppe, un peu de vert et de chalets change un peu. Cela nous donne l’occasion de voir un brau troupeau de biches.
-Nous reprenons la route et nous faisons un court arrêt à Pueblo. Nous allons au visitor center de la ville et somme reçu par un monsieur et son chien. Il est assis dans une "arrière boutique" en train de regarder la télévision. Il nous pose deux questions, même pas il se lève, heureusement que le chien lui vient nous accueillir, il a du sentir que son maitre était un peu limite. Ona fait notre vie, pris les prospectus que nous avions besoin et nous sommes partis après avoir pris en photos quelques Tags. Arrivés à Colorado Spring, Nous avons pris la directions de " Garden of the Gods ", très beau parc gratuit qui présentes de formations geologiques surprenantes, rouges, blanches avec une loop à faire en voiture et de nombreux trail.
+Ce matin nous retournons à l’entrée de Great Sabd Dunes pour faire des photos au soleil levant puis nous partons en direction de **Colorado Springs**. Nous faisons un petit crochet pour emprunter une Scenic ByWay **Highway Of legends**, rien que ça… qui nous conduit à La Veta puis Cuchara où nous faisons demi tour. La route serpente dans un décor très alpin, rien d’extraordinaire pour nous mais il est vrai qu’au milieu de cette région de steppe, un peu de vert et de chalets change un peu. Cela nous donne l’occasion de voir un beau troupeau de biches.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27809601918/in/datetaken/" title="La Veta - Colorado - [USA]"><img src="https://farm1.staticflickr.com/825/27809601918_55992b635d_k.jpg" width="2048" height="1152" alt="La Veta - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous reprenons la route et nous faisons un court arrêt à Pueblo. Nous allons au visitor center de la ville et somme reçu par un monsieur et son chien. Il est assis dans une "arrière boutique" en train de regarder la télévision. Il nous pose deux questions, même pas il se lève, heureusement que le chien lui vient nous accueillir, il a du sentir que son maitre était un peu limite. On a fait notre vie, pris les prospectus que nous avions besoin et nous sommes partis après avoir pris en photos les quelques Tags qui se trouvaient dans le quartier.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41678870231/in/datetaken/" title="Pueblo - Colorado - [USA]"><img src="https://farm1.staticflickr.com/827/41678870231_5d46f9f51c_k.jpg" width="2048" height="1152" alt="Pueblo - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Arrivés à Colorado Spring, Nous avons pris la directions de **Garden of the Gods**, très beau State Parc gratuit qui présente de formations géologiques surprenantes, rouges, blanches avec une loop à faire en voiture et de nombreux trails.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41678840961/in/datetaken/" title="Colorado Springs - Colorado - [USA]"><img src="https://farm1.staticflickr.com/904/41678840961_13d99ce5a2_k.jpg" width="2048" height="1152" alt="Colorado Springs - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+
+
 En fin de soirée on décide de partir vers l’Ouest en direction de Florissant où se trouve le " Florissant Fossil Beds National Monument ". On trouve difficilement un bivouac sauvage. La météo annonce de la neige pour demain, on verra bien.  
 
 
