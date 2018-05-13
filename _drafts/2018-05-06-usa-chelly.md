@@ -46,5 +46,4 @@ En fin de matinée, nous partons sur le North Rim Drive qui fait 34 miles aller 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41330385254/in/photolist-25YdLNL-24j8A6f-25GksbZ-26ZYaXE-25YdWSo-25Ye2Bd-274Tsrg-274TwLi-25GkLbB-26ZYrCN-HpSrYK-25GkVft-24j92NY-JVXvUd-26ZYASj-25GmhAV-24j9nB5-HpSLYD-HpSB5v-26ZYKe9-25YeNoY-25YeRHy-24j9BDy-274Ujtk-25YeYth-HpT3GH-24j9KJw-25YfcCd-24j9WtY-JVY7o3-26ZZpxJ" title="Canyon de Chelly - Arizona -  [USA]"><img src="https://farm1.staticflickr.com/830/41330385254_cb7dc1a9f2_k.jpg" width="2048" height="1152" alt="Canyon de Chelly - Arizona -  [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
 Pour un complément d'informations sur ce parc, historique, trails, réservation camping, [cartes](https://www.nps.gov/cache/planyourvisit/maps.htm), n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/cache/index.htm).
