@@ -6,8 +6,8 @@ parent-id:  2018-05-14-usa-colorado-mai
 
 date:       2018-05-06 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-mesaverde.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-mesaverde.jpg
+header-img: "assets/owner/blog/header/post-bg-chelly.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-chelly.jpg
 tags: [parc-naturel, montagne, geologie, histoire]
 pois: [Chelly]
 flickr-text: "Canyon de Chelly"
