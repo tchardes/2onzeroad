@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Du Colorado au Nevada"
-preview: "Cet article couvre la période du 21 avril au 12 mai 2018 durant laquelle nous avons traversé le centre des Etat-Unis du Mississippi au Nouveau-Mexique ..."
+preview: "Cet article couvre la période du 21 avril au 14 mai 2018 durant laquelle nous avons traversé le Colorado, le Nouveau-Mexique, l'Arizona pour finir à Las Vegas au Nevada..."
 parent-id: 
 
 date:        2018-05-14 13:00:00
@@ -22,18 +22,17 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 28 mars au 20 avril 2018 durant laquelle nous avons traversé le centre des Etat-Unis du Mississippi au au Nouveau-Mexique.
-
+Cet article couvre la période du 21 avril au 14 mai 2018 durant laquelle nous avons traversé le Colorado, le Nouveau-Mexique, l'Arizona pour finir à Las Vegas au Nevada.
 
 
 ## 21 avril
 
-Nuit froide, température négatives toutes la nuit. Ce matin le temps n’est pas terrible et les montagnes aux alentours sont toutes dans le nuages. On décide de passer la journée à la bibliothèque municipale qui est ouverte… elle et nous y passons la journée pour traiter les photos et videos et les poster. Retour au walmart.
+Première nuit au Colorado plutôt froide, les température à Alamosa ont été négatives toutes la nuit. Ce matin le temps n’est pas terrible et les montagnes aux alentours sont toutes dans le nuages. On décide de passer la journée à la bibliothèque municipale où nous passons la journée pour traiter les photos et videos et les poster avant de regagner notre bivouac.
 
 
 ## 22 avril
 
-Nuit froide au bivouac. Nous partons ce matin pour **Great Sand Dunes National park & Preserve** Le paysage est magnifique nous sommes sur un immense plateau composé de steppe et tout autour sure 360° nous somme entourés de monts eneigés. Nous arrivons au Visitor Center pour récupérer la doc et nous le premier point " Dunes " qui donne un accès direct aux dunes qui sont libres d’accés, on fait un petit tour mais le soleil est trop haut et la lumière trop dure. Nous faisons un autre Trail "Wellington Ditch trai" (1mile, 1,6 Km) qui longe la route dans la forêt et permet d’avoir une belle vue sur les dunes. Ce trail n’étant pas une boucle nous faisons demi tour à mi parcours. Nous nous posons sur le parking de Dunes. Vers 16h00 je pars en direction de la plus haute dune " Star Dune" haute de 230 mètres, une bonne heure d’ascension dans le sable. A 200 mètres du sommet, le vent a commencé à souffler et soulevant des Kilos de sables. J’ai pu voir de près comment les dunes se déplacent. En l’espace d’une demi-heure, toutes nos traces de pas avez disparues. Je reste au sommet ue bonne heure en espérant que cela se calme mais en vain. J’ai pu sortir mon appareil photo une seule fois lors d’une alcamie. heureusement que j’avais mon téléphone et la Gopro. Je suis redescendu avec quelques kilos de sable sur moi, j’ai même du marcher pieds nus car je ne pouvez plus bouger tant mes chaussures étaient pleine de sable. Sur la parcour j’ai vu de nombreuses personnes se promener avec leur appareil autour du coup, je pense qu’ils vont bien moins marcher.
+Malgrè une nuit encore froide, le soleil est au rendez-vous ce matin. Nous partons ce matin pour **Great Sand Dunes National park & Preserve** Le paysage est magnifique nous sommes sur un immense plateau composé de steppe et tout autour sure 360° nous somme entourés de monts enneigés.  Je suis redescendu avec quelques kilos de sable sur moi, j’ai même du marcher pieds nus car je ne pouvez plus bouger tant mes chaussures étaient pleine de sable. Sur la parcour j’ai vu de nombreuses personnes se promener avec leur appareil autour du coup, je pense qu’ils vont bien moins marcher.
 Une fois débarassé du sable nous partons faire les Dump et le plein d’eau et nous quittons le parc ou nous nous posons en pleine nature.
 
 
