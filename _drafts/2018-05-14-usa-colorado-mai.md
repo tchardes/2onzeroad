@@ -16,7 +16,7 @@ country: USA
 states: ["Colorado", "Nouveau-Mexique", "Arizona", "Nevada"]
 category: "roadmap"
 flickr-text: ""
-location: "37.127780, -109.435716"
+location: "37.426409, -110.420463"
 itinary: "2018/colorado.json"
 mapZoom: 6
 
