@@ -1,16 +1,16 @@
 ---
 layout:     blog
 title:      "El Malpais National Monument"
-preview:    "..."
+preview:    "l Malpais National Monument est une grand champ volcanique protégée, El Malpais (Badlands) voulant dire mauvaises terres en espagnol..."
 parent-id:  2018-05-14-usa-colorado-mai
 
 date:       2018-05-04 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-mesaverde.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-mesaverde.jpg
-tags: [parc-naturel, histoire, montagne, geologie]
-pois: [moro]
-flickr-text: "El Moro"
+header-img: "assets/owner/blog/header/post-bg-malpais.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-malpais.jpg
+tags: [parc-naturel, volcan, montagne, geologie]
+pois: [malpais]
+flickr-text: "El Malpais"
 country: USA 
 states: ["Nouveau-Mexique"]
 city: 
