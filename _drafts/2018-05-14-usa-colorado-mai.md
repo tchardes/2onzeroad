@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt16.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt16.jpg
 tags: [architecture, desert, histoire, geologie]
-pois: [great-sand#22-avril,    ]
+pois: [great-sand#22-avril, garden#23-avril, florissant#24-avril, usafa#25-et-26-avril, denvers#25-et-26-avril, black-canyon#27-avril, mesa-verde#29-avril, ancients#01-mai, bisti#02-mai, malpais#04-mai, morro#05-mai, chelly#05-mai,   ]
 country: USA
 states: ["Colorado", "Nouveau-Mexique", "Arizona", "Nevada"]
 category: "roadmap"
@@ -36,11 +36,11 @@ Nuit encore très froide cette nuit mais le soleil est au rendez-vous ce matin. 
 
 ## 23 avril
 
-Ce matin nous retournons à l’entrée de Great Sabd Dunes pour faire des photos au soleil levant puis nous partons en direction de **Colorado Springs**. Nous faisons un petit crochet pour emprunter une Scenic ByWay **Highway Of legends**, rien que ça… qui nous conduit à La Veta puis Cuchara où nous faisons demi tour. La route serpente dans un décor très alpin, rien d’extraordinaire pour nous mais il est vrai qu’au milieu de cette région de steppe, un peu de vert et de chalets change un peu. Cela nous donne l’occasion de voir un beau troupeau de biches.
+Ce matin nous retournons à l’entrée de Great Sand Dunes pour faire des photos au soleil levant puis nous partons en direction de **Colorado Springs**. Nous faisons un petit crochet pour emprunter une Scenic ByWay **Highway Of legends**, rien que ça… qui nous conduit à La Veta puis à Cuchara où nous faisons demi tour. La route serpente dans un décor très alpin, rien d’extraordinaire pour nous mais il est vrai qu’au milieu de cette région de steppe, un peu de vert et de chalets change un peu. Cela nous donne l’occasion de voir un beau troupeau de biches.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27809601918/in/datetaken/" title="La Veta - Colorado - [USA]"><img src="https://farm1.staticflickr.com/825/27809601918_55992b635d_k.jpg" width="2048" height="1152" alt="La Veta - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous reprenons la route et nous faisons un court arrêt à Pueblo. Nous allons au visitor center de la ville et somme reçu par un monsieur et son chien. Il est assis dans une "arrière boutique" en train de regarder la télévision. Il nous pose deux questions, même pas il se lève, heureusement que le chien lui vient nous accueillir, il a du sentir que son maitre était un peu limite. On a fait notre vie, pris les prospectus que nous avions besoin et nous sommes partis après avoir pris en photos les quelques Tags qui se trouvaient dans le quartier.
+Nous reprenons la route et nous faisons un court arrêt à **Pueblo**. Nous allons au visitor center de la ville et somme reçu par un monsieur et son chien. Il est assis dans une "arrière boutique" en train de regarder la télévision. Il nous pose deux questions, même pas il se lève, heureusement que le chien lui vient nous accueillir, il a du sentir que son maitre était un peu limite. On a fait notre vie, pris les prospectus que nous avions besoin et nous sommes partis après avoir pris en photos les quelques Tags qui se trouvaient dans le quartier.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41678870231/in/datetaken/" title="Pueblo - Colorado - [USA]"><img src="https://farm1.staticflickr.com/827/41678870231_5d46f9f51c_k.jpg" width="2048" height="1152" alt="Pueblo - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -67,7 +67,7 @@ La nuit a été très froide mais c’est depuis le levé du soleil que les temp
 
 Nous quittons le parc vers le sud par la scenic ByWay **Gold belt scenic** qui va nous mener à **Cripple Creek** et **Victor**, deux anciennes villes minières que les habitants ont su préserver dans leur jus. A quelques kilomètres de notre premier arrêt, nous nous retrouvons dans un épais brouillard avec une faible visibilité. Autant dire que nous n’avons rien et ne sommes même pas allés jusqu’à Victor préférant faire retour sur Colorado Spring. En route nous avons traversé Woodland Park qui est vraiment une très belle bourgade très bien aménagé. Arrivé à destination, dans la Old Town, nous trouvons une station de propane pour faire le plein de gaz et nous nous calfeutrons dans une bibliothèque publique où nous traitons nos photos et vidéos. Nous partons en début de soirée pour notre bivouac distant d’une vingtaine de kilomètres sous une tempête de neige… mais nous arrivons à bon port.
 
-## 25 avril
+## 25 et 26 avril
 
 Après une nuit très froide et beaucoup de neige tombée, la matinée s'annonce très belle et les températures ont bien remontées. Nous partons pour la porte Nord de l’Académie de l’Air Force **U.S. Air Force Academy**, la plus grande école de l’AF des USA. Cette base abrite une très belle église, la **chapelle des cadets**. Nous arrivons à la base et sommes reçus à l’entrée par un jeune cadet de garde qui parle un peu français. Nous lui indiquons le but de notre visite et il nous donne la direction du visitor center, nous laissant entrer sans autre formalité. Du coup je lui donne un écusson France et une tour eiffel en porte clé il est super content.
 
@@ -87,7 +87,7 @@ A 11h35 nous assistons au rassemblement des 4000 cadets sur une immense place d�
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41047409954/in/photolist-25xdFsW-23SVQKQ-GYPkaa-26z1YHE-25gcScv-26CFfUc-25xdFWw-25xdGxw-25xdHjw-25xdGUJ-GYPpgX-25xdL9u-26CFtpc-23SW149-26CFuKD-Jv7EZE-26z29SC-25gcTTB-Jv7H5G-Jv7K1W-25gcVzH-25gcVJk-26CFxP4-25gcX1P-26ryZm7-259mVDp-23KpYWm-26v1TJK-23KpYcL-JnyfVo-23Kq1Pj-GRhdn6-GRhc4K-GRhe6F-26v1VPB-GRhfuH-26v1Xme-JnykQJ-Jnyma1-JnynYG-Jnyn21-JnyoJj-JnyqbY-Jnyros-JnypBm-JnysVA-JnysiU-26v24ie-Jnyun3-JnyvbC" title="Colorado Springs - Colorado - [USA]"><img src="https://farm1.staticflickr.com/957/41047409954_7bb61a287d_k.jpg" width="2048" height="1152" alt="Colorado Springs - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous partons ensuite pour Denvers où nous commençons par la visite du Capitole de l’Etat du Colorado, petite réplique du capitole de Washington, mais en gris et avec un dome doré.
+Nous partons ensuite pour **Denvers** où nous commençons par la visite du Capitole de l’Etat du Colorado, petite réplique du capitole de Washington, mais en gris et avec un dome doré.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41089671374/in/photolist-25AX4oY-26CBotj-26CBoRU-25AX4By-26CBpbG-26CBpww-25AX87j-26CBsS9-26CBs3o-26CBqM7-26GiDqK-25AX8TE-26GiDE2-26GiDxZ-26CBrRS-25AX7fQ-26CBu4s-25AX9J7-26CBuRj-26CBwxL-25AXaas-25AXaFh-26CBvCj-25AXbaU-H3sDAM-H3sD3n-26CBxu5-H3sCig-H3sAPp-25AXbuS-23WBCCW-23WBEem-23WBDcb-23WBE6A-25AXep9-25AXh2y-23WBFuY-26CBDe1-25AXi7E-23WBFdW-25AXgqJ-25AXfDU-25AXiKU" title="Denver - Colorado - [USA]"><img src="https://farm1.staticflickr.com/953/41089671374_fe973557b5_k.jpg" width="2048" height="1152" alt="Denver - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -99,10 +99,7 @@ Nous faisons ensuite un long arrêt au **River North Art District** surnommé "R
 
 En fin d’après-midi nous trouvons un Walmart pour faire les courses puis nous retournons en centre ville pour passer la soirée au **El Chapultepec** un très vieux et très petit bar restaurant de la ville ou tous les grands noms du Jazz américains se sont produits. Super soirée devant des enchiladas, burritos et une bonne Corona avec un quartet qui finalement seront 5 !!! et qui nous ont interprété de grands standards de Jazz américains. Le leader, un vieux saxophoniste (aux alentours de 80 ans) ayant du mal à se déplacer, redevenait un vrai jeune homme dès qu'il posait la anche sur ces lèvres. En vrai groupe de Jazz, pour chaque morceau, chacun des musiciens avait sa partie d'improvisation, un régal. A la pose le saxo et le trombone sont venus à notre table et nous avons un peu discuté. Le saxophoniste est allé nous chercher une photo de lui en souvenir... Tard dans la soirée, nous repartons dans le quartier des artistes pour y bivouaquer.
 
-
-## 26 avril
-
-Mauvais calcul pour le bivouac, nous nous sommes garés à une dizaine de mètres d’un entrepôt et dès 5 heures du mat les va-et-vient du clark et des camions nous ont vite réveillé. A 6h00 je déplace Thor dans une autre rue et on fini notre nuit tranquillement. Ce matin le temps et gris et on décide de profiter d’être dans une grande ville pour trouver quelques pièces pour Thor. On fait plusieurs magasin et on trouve a peu près ce que l’on cherche et avons une idée plus précise de ce qui nous manque. Nous préparons petit à petit notre départ pour l'Amérique Latine et il faut adapter Thor. En milieu d’après-midi le temps se lève sur Denver. La ville est entourée à l’Ouest par les **Rocky Montain** qui sont toutes enneigées. Nous avions décidé d’y passer quelques jours dans un Parc National mais finalement on abandonne pour l’instant, il est trop tôt dans la saison et la neige trop présente sans compter des températures sibériennes… pour nous.
+Mauvais calcul pour le bivouac, nous nous sommes garés à une dizaine de mètres d’un entrepôt et dès 5 heures du mat les va-et-vient du clark et des camions nous ont vite réveillé. A 6h00 je déplace Thor dans une autre rue et on fini notre nuit tranquillement. Ce matin le temps et gris et on décide de profiter d’être dans une grande ville pour trouver quelques pièces pour Thor. On fait plusieurs magasin et on trouve a peu près ce que l’on cherche et avons une idée plus précise de ce qui nous manque. Nous préparons petit à petit notre départ pour l'Amérique Latine et il faut adapter Thor. En milieu d’après-midi le temps se lève sur Denver. La ville est entourée à l’Ouest par les **Rocky Mountain** qui sont toutes enneigées. Nous avions décidé d’y passer quelques jours dans un Parc National mais finalement on abandonne pour l’instant, il est trop tôt dans la saison et la neige trop présente sans compter des températures sibériennes… pour nous.
 
 Nous quittons donc Denver en fin d’après-midi en direction du sud. Après une lente ascension à plus de 3000 mètres, avec encore beaucoup de neige présente dans les sous bois. nous descendons un peu et arrivons sur un immense haut plateau qui culmine entre 2800 et 2900 mètres, et que nous allons traverser sur 150 Km, le même haut plateau traversé au niveau de Alamosa et Colorado Springs. Le paysage au couchant et magnifique, cette immense zone et couverte de prairie, lacs, tourbières et de nombreux animaux sont présents, on verra ainsi des lamas, biches, beaucoup de chevaux, des vaches classiques et même des "Highland", aux poils longs et avec une paire de longues cornes dressées, race bovine écossaise originaire de la région des Highlands et même des Antilopes (pronghorn). Il y a plus de 26 "Scenic ByWay" au colorado. Aujourd’hui nous en avons emprunté 3 différentes : **Collegiate Peaks**, **Guanella Pass** et **Lariat Loop**.
 
@@ -142,7 +139,7 @@ La route nous fait passer par trois cols qui culminent à plus de 3000 mètres, 
 
 ## 29 avril
 
-Nous partons de bonne heure de Cortez pour arriver à l'ouverture de **Mesa Verde National Parc** où nous passons une super journées à la découverte de ce parc qui conserve les plus beaux habitats des Indiens Anasazis et Pueblos de USA. La region des "Four Corners" était très peuplées est a su préserver ce riche patrimoine des "Natifs". **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-04-22-usa-great-sand %}">ici</a>)**
+Nous partons de bonne heure de Cortez pour arriver à l'ouverture de **Mesa Verde National Park** où nous passons une super journées à la découverte de ce parc qui conserve les plus beaux habitats des Indiens Anasazis et Pueblos de USA. La region des "Four Corners" était très peuplées est a su préserver ce riche patrimoine des "Natifs". **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-04-22-usa-great-sand %}">ici</a>)**
 
 
 ## 30 avril
@@ -209,9 +206,8 @@ Nous reprenons la route et passons devant des grottes privées dont nous avons v
 Ce matin en partant du bivouac j’allume la radio et la seule station que l’on capte est une radio Navajo, cela fait drôle d’entendre parler cette langue. Par contre pour la musique c’est de la country… Visite de **El Moro National MonumentM** puis courses et plein à Gallup en faisant un  petit détour par Zuni Pueblo puis et route vers Canyon de Chelly, passage au visitor Center, camping et Rim Sud au couchant.
 
 **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-04-22-usa-great-sand %}">ici</a>)**
+
 ## 06 mai
-
-
 
 Ce matin retour sur la Rim Sud où nous avons refais le même circuit que hier soir afin de voir les points de vue avec un luimère différente. Puis nous allons sur la Rim Nord jusqu’à Massacre cave et faisons les 3 points d’intérêts avec un ciel couvert.
 Nous quittons ensuite Canyon Chelly pour le sud et Petrified Forest NM où nous arrivons vers 15h30 le parc fermant à 17 (les entrées) il faut un peut se bouger pour faire les 26 miles du parc. Nous avons racheté un Pas America The Beautiful, nous avions acheté le premier à l’occasion de la visite de notre premier parc nation, les Everglades il y a un peu plus d’un an.
