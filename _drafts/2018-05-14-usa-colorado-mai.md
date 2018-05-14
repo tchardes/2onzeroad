@@ -8,8 +8,8 @@ date:        2018-05-13 13:00:00
 from-date:   2018-04-21 13:00:00
 to-date:     2018-05-14 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt15.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt15.jpg
+header-img: "assets/owner/blog/header/post-bg-rt16.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt16.jpg
 tags: [architecture, desert, histoire, geologie]
 pois: [great-sand#22-avril,    ]
 country: USA
