@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "37.593430, -112.176949"
   name: "Bryce Canyon NP, Utah, USA"
-  date: "22 mai 2018"
+  date: "22 au 24 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
