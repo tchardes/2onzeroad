@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "37.593430, -112.176949"
-  name: "Bryce Canyon NP, Utah, USA"
-  date: "22 au 24 mai 2018"
+  coordinates: "37.296887, -113.027451"
+  name: "BZion NP, Utah, USA"
+  date: "25 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
