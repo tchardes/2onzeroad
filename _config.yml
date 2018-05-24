@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "37.296887, -113.027451"
-  name: "BZion NP, Utah, USA"
+  name: "Zion NP, Utah, USA"
   date: "25 mai 2018"
 
 # set the encoding to utf-8
