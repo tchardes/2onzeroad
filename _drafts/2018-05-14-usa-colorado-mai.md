@@ -52,7 +52,7 @@ Arrivés à **Colorado Spring**, nous prenons la direction de **Garden of the Go
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/39872700840/in/photolist-26ryZm7-259mVDp-23KpYWm-26v1TJK-23KpYcL-JnyfVo-GRhdn6-GRhc4K-23Kq1Pj-26v1VPB-GRhe6F-GRhfuH-26v1Xme-JnykQJ-Jnyma1-Jnyn21-JnyoJj-JnynYG-JnyqbY-JnypBm-Jnyros-JnysVA-JnysiU-26v24ie-Jnyun3-JnyvbC" title="Colorado Springs - Colorado - [USA]"><img src="https://farm1.staticflickr.com/825/39872700840_cc2cc3b239_k.jpg" width="2048" height="1365" alt="Colorado Springs - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En fin de soirée, on décide de partir vers l’Ouest en direction de Florissant où se trouve le **Florissant Fossil Beds National Monument**. On trouve difficilement un bivouac sauvage. Nous sommes à 2600 mètres d'altitude et le temps se couvre. La météo annonce de la neige pour demain, on verra bien.  
+En fin de soirée, on décide de partir vers l’Ouest en direction de Florissant. On trouve difficilement un bivouac sauvage. Nous sommes à 2600 mètres d'altitude et le temps se couvre. La météo annonce de la neige pour demain, on verra bien.
 
 ## 24 avril
 
