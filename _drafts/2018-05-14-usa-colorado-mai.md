@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt16.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt16.jpg
 tags: [architecture, desert, histoire, geologie]
-pois: [great-sand#22-avril, garden#23-avril, florissant#24-avril, usafa#25-et-26-avril, denvers#25-et-26-avril, black-canyon#27-avril, mesa-verde#29-avril, ancients#01-mai, bisti#02-mai, malpais#04-mai, morro#05-mai, chelly#05-mai, meteor#05-mai, sunset-crater#08-mai, wupatki#08-mai, sedona#09-mai, montezuma#10-mai, tuzigot#10-mai, watson-lake#10-mai]
+pois: [great-sand#22-avril, garden#23-avril, florissant#24-avril, usafa#25-et-26-avril, denvers#25-et-26-avril, black-canyon#27-avril, silverton#28-avril, million#28-avril, mesa-verde#29-avril, ancients#01-mai, four-corners#01-mai, shiprock#01-mai, bisti#02-mai, malpais#04-mai, morro#05-mai, chelly#05-mai, meteor#05-mai, sunset-crater#08-mai, wupatki#08-mai, sedona#09-mai, montezuma#10-mai, tuzigot#10-mai, watson-lake#10-mai]
 country: USA
 states: ["Colorado", "Nouveau-Mexique", "Arizona", "Nevada"]
 category: "roadmap"
@@ -125,7 +125,7 @@ En fin de journée, nous faisons un petit bout de route et nous nous posons à M
 
 Départ de Montrose pour Durango vers le sud en traversant la **San Juan National Forest** et en empruntant la célèbre **Million Dollars Highway**. Construite à l'origine en 1883 depuis Ouray jusqu'à la ville maintenant abandonnée d'Ironton, cette route à deux voies offre des vues spectaculaires sur la chaîne de montagnes San Juan et les gorges d'Uncompaghre. La route a été prolongée par la suite pour relier Silverton. Quand elle a été reconstruite, elle est devenue une partie de l'actuelle US Highway 550. Il existe plusieurs origines à ce nom, une légende affirme que la terre de remplissage utilisée pour construire la route contient plus d'un million de dollars de minerai d'or...
 
-Nous faisons un arrêt à Silverton, ancienne ville minière qui a su garder son cachet d’antan et où seule la route principale qui traverse la ville est goudronnée. 
+Nous faisons un arrêt à **Silverton**, ancienne ville minière qui a su garder son cachet d’antan et où seule la route principale qui traverse la ville est goudronnée. 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41804571481/in/datetaken/" title="Silverton - Colorado - [USA]"><img src="https://farm1.staticflickr.com/968/41804571481_05e681c8f4_k.jpg" width="2048" height="1152" alt="Silverton - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
