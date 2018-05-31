@@ -139,10 +139,11 @@ La route nous fait passer par trois cols qui culminent à plus de 3000 mètres, 
 
 Nous partons de bonne heure de Cortez pour arriver à l'ouverture de **Mesa Verde National Park** où nous passons une super journée à la découverte de ce parc qui conserve les plus beaux habitats des Indiens Anasazis et Pueblos de USA. La région des "Four Corners" était très peuplée et a su préserver ce riche patrimoine des "Natifs". **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-04-22-usa-great-sand %}">ici</a>)**
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41767469662/in/photolist-25Bdj9Q-25BdjKQ-26Gxvpr-26CRczh-H3H47g-26CRd9U-H3H1u2-H3H3xR-H3H4Tr-25BdpGU-H3H5A8-25BdspN-25BdqJd-25k8xKe-Jz4Jmm-25k8ynX-26GxE7X-Jz4K8m-Jz4JTU-Jz4Khu-Jz4Lcq-Jz4LF1-Jz4MFC-Jz4NXq-Jz4Pu7-25BdD6h-26GxKPt-26GxM1X-25BdG27-26GxNTz-H3Hf8e-H3Hg54-25BdGXL-25BdJ4U-25k8JfT-25BdK8Y-25BdLGu-25BdNk9-26GxuwV-26CRxSS-25k8KAP-23WSnf1-25BdnG1-H3H2xK-26CRemy" title="Mesa Verde - Colorado - [USA]"><img src="https://farm1.staticflickr.com/976/41767469662_b822489be5_k.jpg" width="2048" height="1152" alt="Mesa Verde - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 30 avril
 
-Comme le camping du parc n'est pas opérationnel, nous nous rabattons sur un RV Park de Cortez, un peu cher, mais nous devons faire une halte logistique...
-
+Comme le camping du parc n'est pas opérationnel, nous nous rabattons sur un RV Park de Cortez, un peu cher, mais nous devons faire une halte de 24 heures pour s'occuper de la logistique...
 
 ## 01 mai
 
