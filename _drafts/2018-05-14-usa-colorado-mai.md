@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt16.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt16.jpg
 tags: [architecture, desert, histoire, geologie]
-pois: [great-sand#22-avril, garden#23-avril, florissant#24-avril, usafa#25-et-26-avril, denvers#25-et-26-avril, black-canyon#27-avril, mesa-verde#29-avril, ancients#01-mai, bisti#02-mai, malpais#04-mai, morro#05-mai, chelly#05-mai, meteor#05-mai, sunset-crater#08-mai, wupatki#08-mai, sedona#09-mai,  ]
+pois: [great-sand#22-avril, garden#23-avril, florissant#24-avril, usafa#25-et-26-avril, denvers#25-et-26-avril, black-canyon#27-avril, mesa-verde#29-avril, ancients#01-mai, bisti#02-mai, malpais#04-mai, morro#05-mai, chelly#05-mai, meteor#05-mai, sunset-crater#08-mai, wupatki#08-mai, sedona#09-mai, montezuma#10-mai, tuzigot#10-mai, watson-lake#10-mai]
 country: USA
 states: ["Colorado", "Nouveau-Mexique", "Arizona", "Nevada"]
 category: "roadmap"
@@ -259,7 +259,7 @@ Nous poursuivons vers le nord et rentrons dans un deuxième parc contigu **Wupat
 
 ## 09 mai
 
-Départ de notre bivouac forestier pour Flagstaff, où nous faisons les pleins, courses et essence et arrêt au visitor center pour prendre des infos sur la visite de Sedona, notre destination d’aujourd’hui. Nous reprenons la route plein Sud. Nous descendons de près de 1000 mètres dans **Oak Creek canyon** par la "Sedona-Oak Creek Canyon Scenic Road" pour arriver dans un décor époustouflant de roches rouges et de nombreux arbres bien verts. Au fond de la vallée, coule une rivière… avec de l’eau, de la vraie. Cela fait plusieurs semaine que l’on traverse des zones semi-désertiques où, en guise de rivière, nous n’avons qu’un lit de sable, enfin du vert !!! du vert qui tranche réellement avec la couleur des montagnes environnantes. Sedona est la deuxième destination touristique de l’Arizona après le Grand Canyon. C’est la ville New-Age des USA depuis que l’on y a découvert des Vortex…
+Départ de notre bivouac forestier pour Flagstaff, où nous faisons les pleins, courses et essence et arrêt au visitor center pour prendre des infos sur la visite de **Sedona**, notre destination d’aujourd’hui. Nous reprenons la route plein Sud. Nous descendons de près de 1000 mètres dans **Oak Creek canyon** par la "Sedona-Oak Creek Canyon Scenic Road" pour arriver dans un décor époustouflant de roches rouges et de nombreux arbres bien verts. Au fond de la vallée, coule une rivière… avec de l’eau, de la vraie. Cela fait plusieurs semaine que l’on traverse des zones semi-désertiques où, en guise de rivière, nous n’avons qu’un lit de sable, enfin du vert !!! du vert qui tranche réellement avec la couleur des montagnes environnantes. Sedona est la deuxième destination touristique de l’Arizona après le Grand Canyon. C’est la ville New-Age des USA depuis que l’on y a découvert des Vortex…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/27196202787/in/photolist-25ZDWAA-272jqb3-24kxkzY-25ZEc1h-HreBLx-HreDA4-272jSKq-276hbo2-272keG5-Hrf7Vp" title="Sedona - Arizona - [USA]"><img src="https://farm1.staticflickr.com/824/27196202787_0fd18c5114_k.jpg" width="2048" height="1152" alt="Sedona - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
