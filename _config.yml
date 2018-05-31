@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "36.167059, -115.153723"
   name: "Las Vegas, Nevada, USA"
-  date: "26 au 30 mai 2018"
+  date: "26 au 31 mai 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
