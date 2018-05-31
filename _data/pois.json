@@ -203,7 +203,7 @@
     {"name": "sunset-crater", "displayName": "Sunset Crater Volcano National Monument", "type": "nature"},
     {"name": "wupatki", "displayName": "Wupatki National Monument", "type": "autre"},
     {"name": "sedona", "displayName": "Sedona", "type": "ville"},
-    {"name": "meteor", "displayName": "Meteor Crater Natural Landmark", "type": ""},
+    {"name": "meteor", "displayName": "Meteor Crater Natural Landmark", "type": "nature"},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
