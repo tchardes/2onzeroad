@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt16.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt16.jpg
 tags: [architecture, desert, histoire, geologie]
-pois: [great-sand#22-avril, garden#23-avril, florissant#24-avril, usafa#25-et-26-avril, denvers#25-et-26-avril, black-canyon#27-avril, silverton#28-avril, million#28-avril, mesa-verde#29-avril, ancients#01-mai, four-corners#01-mai, shiprock#01-mai, bisti#02-mai, malpais#04-mai, morro#05-mai, chelly#05-mai, meteor#05-mai, sunset-crater#08-mai, wupatki#08-mai, sedona#09-mai, montezuma#10-mai, tuzigot#10-mai, watson-lake#10-mai]
+pois: [great-sand#22-avril, garden#23-avril, florissant#24-avril, usafa#25-et-26-avril, denvers#25-et-26-avril, black-canyon#27-avril, silverton#28-avril, million#28-avril, mesa-verde#29-avril, ancients#01-mai, anasazi#01-mai, hovenweep#01-mai, four-corners#01-mai, shiprock#01-mai, bisti#02-mai, malpais#04-mai, morro#05-mai, chelly#05-mai, meteor#05-mai, sunset-crater#08-mai, wupatki#08-mai, sedona#09-mai, montezuma#10-mai, tuzigot#10-mai, watson-lake#10-mai]
 country: USA
 states: ["Colorado", "Nouveau-Mexique", "Arizona", "Nevada"]
 category: "roadmap"
@@ -155,7 +155,7 @@ La visite est gratuite avec le Pass America The Beautiful. Il s'agit à la fois 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41810887932/in/datetaken/" title="Anasazi Heritage Center - Colorado - [USA]"><img src="https://farm1.staticflickr.com/831/41810887932_bb7d8d6dd9_k.jpg" width="2048" height="1152" alt="Anasazi Heritage Center - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous partons ensuite pour **Lowry Pueblo**. Ce site est typique des pueblos de taille moyenne qui ont jadis parsemé la vallée de Montezuma. Lowry Pueblo comptait au total environ 40 chambres et 8 kivas à son apogée au début du XIe siècle et abritait une centaine de personnes. Le pueblo a été arrangé dans un bloc à peu près rectangulaire, avec certaines parties atteignant jusqu'à trois étages. Un grand kiva, a été construit à l'extérieur des limites du village.
+Nous partons ensuite pour **Lowry Pueblo Ruin**. Ce site est typique des pueblos de taille moyenne qui ont jadis parsemé la vallée de Montezuma. Lowry Pueblo comptait au total environ 40 chambres et 8 kivas à son apogée au début du XIe siècle et abritait une centaine de personnes. Le pueblo a été arrangé dans un bloc à peu près rectangulaire, avec certaines parties atteignant jusqu'à trois étages. Un grand kiva, a été construit à l'extérieur des limites du village.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41810863082/in/datetaken/" title="Lowry Pueblo - Colorado - [USA]"><img src="https://farm1.staticflickr.com/908/41810863082_398e165f21_k.jpg" width="2048" height="1152" alt="Lowry Pueblo - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
