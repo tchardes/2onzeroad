@@ -196,14 +196,19 @@
     {"name": "lowri", "displayName": "Lowry Pueblo Ruin", "type": "autre"},
     {"name": "hovenweep", "displayName": "Hovenweep National Monument", "type": "autre"},
     {"name": "garden", "displayName": "Garden Of The Gods", "type": "nature"},
+    {"name": "florissant", "displayName": "Florissant Fossil Beds National Monument", "type": "autre"},
+    {"name": "usafa", "displayName": "U.S. Air Force Academy", "type": "autre"},
+    {"name": "denver", "displayName": "Denver", "type": "ville"},
+    {"name": "little-painted", "displayName": "Little Painted Desert County Park", "type": "nature"},
+    {"name": "sunset-crater", "displayName": "Sunset Crater Volcano National Monument", "type": "nature"},
+    {"name": "wupatki", "displayName": "Wupatki National Monument", "type": "autre"},
+    {"name": "sedona", "displayName": "Sedona", "type": "ville"},
+    {"name": "meteor", "displayName": "Meteor Crater Natural Landmark", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
-    {"name": "", "displayName": "", "type": ""},
-    {"name": "", "displayName": "", "type": ""},
-
 
     
     {"name": "", "displayName": "", "type": ""}
