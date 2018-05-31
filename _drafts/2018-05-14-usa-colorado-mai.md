@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt16.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt16.jpg
 tags: [architecture, desert, histoire, geologie]
-pois: [great-sand#22-avril, garden#23-avril, florissant#24-avril, usafa#25-et-26-avril, denver#25-et-26-avril, black-canyon#27-avril, silverton#28-avril, million#28-avril, mesa-verde#29-avril, ancients#01-mai, anasazi#01-mai, hovenweep#01-mai, lowri#01-mai,four-corners#01-mai, shiprock#01-mai, bisti#02-mai, malpais#04-mai, morro#05-mai, chelly#05-mai, meteor#08-mai, little-painted#07-mai, sunset-crater#08-mai, wupatki#08-mai, sedona#09-mai, montezuma#10-mai, tuzigot#10-mai, watson-lake#10-mai]
+pois: [great-sand#22-avril, garden#23-avril, florissant#24-avril, usafa#25-et-26-avril, denver#25-et-26-avril, black-canyon#27-avril, silverton#28-avril, million#28-avril, mesa-verde#29-avril, ancients#01-mai, anasazi#01-mai, hovenweep#01-mai, lowri#01-mai, four-corners#01-mai, shiprock#01-mai, bisti#02-mai, malpais#04-mai, morro#05-mai, chelly#05-mai, petrified#06-mai, little-painted#07-mai, meteor#08-mai,  sunset-crater#08-mai, wupatki#08-mai, sedona#09-mai, montezuma#10-mai, tuzigot#10-mai, watson-lake#10-mai]
 country: USA
 states: ["Colorado", "Nouveau-Mexique", "Arizona", "Nevada"]
 category: "roadmap"
