@@ -22,7 +22,7 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 14 au 28 mai 2018 durant laquelle les 2onzeroad se sont transformés, à notre plus grand bonheur en 4onzeroad afin de visiter les grands park américains.
+Cet article couvre la période du 14 au 28 mai 2018 durant laquelle les 2onzeroad se sont transformés, à notre plus grand bonheur en 4onzeroad afin de visiter les grands parcs américains.
 
 ## 14 mai
 
