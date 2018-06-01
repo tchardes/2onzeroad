@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Du Nevada au... Nevada"
-preview: "Cet article couvre la période du 14 au 28 mai 2018 durant laquelle les 2onzeroad se sont transformés, à notre plus grand bonheur en 4onzeroad afin de visiter les grands park américains..."
+preview: "Cet article couvre la période du 14 au 28 mai 2018 durant laquelle les 2onzeroad se sont transformés, à notre plus grand bonheur en 4onzeroad afin de..."
 parent-id: 
 
 date:        2018-05-29 13:00:00
