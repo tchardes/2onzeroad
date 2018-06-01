@@ -16,8 +16,8 @@ country: USA
 states: ["Nevada", "Arizona", "Utah"]
 category: "roadmap"
 flickr-text: ""
-location: "37.426409, -110.420463"
-itinary: "2018/colorado.json"
+location: "36.469495, -112.275060"
+itinary: "2018/utah.json"
 mapZoom: 6
 
 ---
