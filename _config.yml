@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "37.202584, -112.985837"
   name: "Zion NP, Utah, USA"
-  date: "01 et 02 juin mai 2018"
+  date: "01 et 02 juin 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
