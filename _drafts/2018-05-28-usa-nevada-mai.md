@@ -26,11 +26,11 @@ Cet article couvre la période du 14 au 28 mai 2018 durant laquelle les 2onzeroa
 
 ## 14 mai
 
-Départ du camping pour Las Vegas où nous récupérons nos enfants et après quelques courses retour sur Kigman.
+Départ du camping pour Las Vegas et le terminal 3 du McMarran international airport où nous récupérons nos enfants à l'heure. Grand moment d'émotion de voir nos "petits" nous rejoindre pour un bout de route. Les présentations sont faites avec Thor, tout le monde à l'air content... D'un commun accord et vu la fatigue du voyage, nous décidons de ne pas rester sur Sin City que nous auront le temps de visiter à la fin du séjour et après quelques courses nous décidons de nous avancer un peu sur notre programme et partons pour Kingman. En route, nous passons par le barrage Hoover mais nous arrivons un peu tard et nous ne pouvons y accéder. Nous trouvons finalement un bivouac en pleine nature à quelques kilomètres de notre destination. Chacun trouve sa place dans Thor, qui avec l'extension ouverte, permet de circuler facilement. Les enfants découvrent leur chambre au "premier" étage qu'ils testent sans tarder...
 
 ## 15 mai
 
-Nuit calme au bivouac, les enfants ont bien dormis. Cyrielle me coupe les cheveux avec Coco puis départ pour Kingman où nous faisons les courses plus le plein d’essence, puis ont emprunte le 66 jusqu’à Selligman avec plusieurs arrtes puis route jusqu’au Grand Canyon. Tout les camping sont fulls. Après passage au visitor center, nous prenons la navette ligne rouge jusqu’à Hermits Rest et faisons les différents points de vues jusqu’au coucher de soleil.
+Nuit calme pour se premier bivouac, les enfants ont bien dormis. Cyrielle me coupe les cheveux avec Coco puis départ pour Kingman où nous faisons les courses plus le plein d’essence, puis ont emprunte le 66 jusqu’à Selligman avec plusieurs arrtes puis route jusqu’au Grand Canyon. Tout les camping sont fulls. Après passage au visitor center, nous prenons la navette ligne rouge jusqu’à Hermits Rest et faisons les différents points de vues jusqu’au coucher de soleil.
 Nous quittons le parc en pleine nuit et trouvons un bivouac en pleine forêt.
 
 
