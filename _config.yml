@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "36.853450, -111.612071"
-  name: "Marble Canyon, Arizona, USA"
-  date: "04 juin 2018"
+  coordinates: "37.047470, -112.526401"
+  name: "Kanab, Utah, USA"
+  date: "05 juin 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
