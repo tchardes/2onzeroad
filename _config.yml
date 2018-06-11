@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "39.040157, -107.950133"
-  name: "Grand Mesa, Colorado, USA"
-  date: "09 juin 2018"
+  coordinates: "39.753659, -105.000236"
+  name: "Denver, Colorado, USA"
+  date: "10 au 12 juin 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
