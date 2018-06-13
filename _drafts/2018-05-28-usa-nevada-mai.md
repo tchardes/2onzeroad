@@ -36,29 +36,26 @@ Nous bifurquons plein Nord en direction du Grand Canyon, rive Sud, où nous arri
 
 ## 16 mai
 
-Nuit très calme au milieu des chênes, le temps est magnifique. Retour au Visitor Center ou nous laissons Thor pour prendre la navette "Orange" jusqu’à South Kaibab, point de départ du Rim Trail qui permet de rejoindre Yavapai Point (environ 5km) en logeant le bord du canyon. On en prend plein la vue.
-
-Nous retournons à Thor et partons vers Desert View qui se trouve à la sortie Est du parc. Nous nous arrêtons sur une aire de picnic et profitons du beau temps pour déjeuner en plein air. Visite de Desert View Watchtower puis route vers Page. Noud cherchons plusieurs tour pour visiter Antelope Canyon pais les heures libres ne sont pas top et finalement nous trouvons par hasard «Horseshoe bend Slot Canyon» et pre’nons un tours à la bonne heure, 11 heures pour Secret Canyon.
-On se pose au Walmart pour les courses et la nuit. 
-
+Nuit très calme au milieu des chênes, le temps est magnifique. Retour au Visitor Center ou nous laissons Thor pour prendre la navette "Orange" jusqu’à South Kaibab, point de départ du Rim Trail qui permet de rejoindre Yavapai Point (environ 5km) en logeant le bord du canyon. On en prend plein la vue. Nous retournons en fin de matinée à Thor et partons vers Desert View qui se trouve à la sortie Est du parc. Nous nous arrêtons sur une aire de picnic et profitons du beau temps pour déjeuner en plein air. Nous visitons "Desert View Watchtower" qui offre un super point de vue sur le canyon et le Colorado. Nous roulons ensuite vers Page où nous cherchons auprès de plusieurs tours operator, la possibilité de visiter Antelope Canyon (Lower ou Upper) mais les heures libres ne sont pas top. Dès que nous avons su que les enfants venaient on a essayé de reserver par Internet un tour mais tout était déjà complet. Finalement nous trouvons par hasard un tour operator assez recent "Horseshoe Bend Slot Canyon" qui nous propose un tours à la bonne heure, 11 heures, mais pour une canyon moins connu **Secret Slot Canyon**. Rassuré pour l'emploi du temps du lendemain, on se pose au Walmart pour les courses et la nuit.
 
 ## 17 mai
 
+Ce matin départ du Walmart pour le **Barrage du Lac Powell**, nous faisons plusieurs points de vue et passons un moment au Visitor Center du barrage, super intéressant et toujours aussi bien aménagé. A 10 heures 30 nous arrivons à notre rendez-vous. Dans le même bâtiment se trouve un stand de tir couvert "Gunfighter Canyon". Alexandre est vraiment surpris de l'arsenal proposé par le stand de tir, on peut pratiquement tirer avec tout.... Une commerciale nous donne une tablette qui présente tous les packages d'armes avec lesquelles on peut s'amuser pour un montant de 50$ pour les enfants à presque 800$...
 
-Ce matin départ du Walmart pour le Barrage du Lac Powell, plusieurs points de vues, puis départ pour la visite de Secret Canyon avec «Horseshoe Bend Secret canyon» en 4x4. Super visite où on a pu pendre notre temps pour la visite avec très peu de monde.
-De retour repas sur le parking puis départ pour **Horseshoe bend**, super point de vues très belle lumière. Ensuite un peu de route vers le Sud et arrêt  au bord de l’US89 pour **The Little Cut** où nous avons fais un trail en pleine nature au milieu de formes géologiques sympa. Retour sur Page où nous allons au camping Powel, complet, mais nous prenons une bonne douche et faisons les Dump. Retour ensuite au Walmart Pour la nuit.
-
+A 11 heures notre guide nous prend en compte, un indien Navajo, qui nous donne les première recommandations. Nous montons dans des 4x4 aménagés tout neuf et partons en plein désert en direction du canyon. Effectivement, un 4X4 est primordial, la piste est vraiment technique. A l'arrivée on marche une vingtaine de minutes avant d'arriver proprement dit à l'entrée du canyon. Notre guide nous donne quelques conseils, notamment photographiques et nous donne pratiquement 2 heures pour aller et venir dans le canyon en toute liberté. Ce n'est pas l'usine comme à Antelope. Nous y passons une très bon moment, c'est une très belle expérience et faisons de très belles photos. De retour, corinne nous a préparé un super repas que nous prenons sur le parking avant de partir pour **Horseshoe Bend**, super point de vues sur ce méandre du Colorado avec une très belle lumière. Ensuite un peu de route vers le Sud et arrêt au bord de l’US89 pour un endroit peu connu, **The Little Cut** où nous avons fais un trail en pleine nature au milieu de formes géologiques sympa. Nous faisons retour sur Page où nous allons au camping Powel, complet, mais nous y prenons quand même une bonne douche et faisons les Dump avant de retourner au Walmart pour la nuit.
 
 ## 18 mai
 
-
-Départ de Page après avoir fait le plein puis route en direction de Monument Valley puis Mexican Hat, Goosnekc puis piste de 17 miles de Valley of The gods, par l’entrée Ouest, magnifique et piste particable en faisant attention.
-Ensuite route jusqu’à Blanding où nous trouvons un bivouac au bord d’un lac.
-
+Nous quittons Page après avoir fait le plein et prenons la route en direction de **Monument Valley**. Il s'agit d'un lieu géré par les Indiens Navajo, l'entrée coûte 20$. Nous passons un bon moment au niveau du Visitor Center d'où l'on bénéficie d'une vue magnifique sur ce lieu mythique pour nous, plus que pour nos enfants, on s'attend à tout moment de voir arriver John Wayne à cheval poursuivi par les "méchants" Indiens. A l'entrée on nous signifie que les Rv ne sont pas autorisés à s'aventurer sur la piste qui permet de faire un tour autour des "monuments". Nous nous renseignons auprès des tours operator mais on trouve les prix très prohibitifs et je préfère ne pas trop perdre de temps ici afin de voir d'autre paysages moins connus. Nous reprenons la route et passons dans l'Utah tout en traversant Monument valley. Nous nous arrêtons à **Mexican Hat** et faisons un petit trail qui permet de faire un tour au pied de bizarrerie géologique. Nous quittons la route principale pour nous arrêter à **Goosenecks State Park** qui comme Horseshoe Bend présente un point de vue sur un superbe méandre du Colorado. On continue ensuite la route vers l'entrée Ouest de **Valley of The Gods** et parcourons les 17 miles de piste praticable en RV tout en faisant attention et qui est plus petit que Monument Valley mais pas exploité par le tourisme et donc très calme. On circule au pied d'immense buttes et rochers aux couleurs magnifiques. On reprend la route principale en direction de Moab et trouvons un super bivouac à Blanding au bord d’un lac.
 
 ## 19 mai
 
-Départ du bivouac et route jusqu’à Moab, et visite de arches NP, et piste pour sortir du parc et bivouaquer.
+Départ du bivouac et route jusqu’à Moab que nous traversons rapidement pour entrer dans le parc national d'Arches.
+
+
+
+
+ , et visite de arches NP, et piste pour sortir du parc et bivouaquer.
 
 
 
