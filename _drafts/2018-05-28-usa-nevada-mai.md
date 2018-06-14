@@ -50,7 +50,7 @@ Nous quittons Page après avoir fait le plein et prenons la route en direction d
 
 ## 19 mai
 
-Départ du bivouac et route jusqu’à Moab que nous traversons rapidement pour entrer dans le parc national d'Arches.
+Départ du bivouac et route jusqu’à Moab que nous traversons rapidement pour entrer dans le parc national d'Arches. 
 
 
 
@@ -90,7 +90,7 @@ Ce matin dpart du camping après avoir fait les dump et route jusqu’à Zion en
 
 Ce matin levé 6h00 pour être de bonne heure sur le trail. Il y a beaucuop de monde à 7h00 au départ du Shuttle que nous attendons 30 mn. Nous nous arrêtons au niveau de Zion Lodge, et partons faire **Lower, medium et Upper Emerald PoolsTrail** pour finir par **Kayenta Trail** où nous reprenons le shuttle au niveau de The Grotto. Très beau trail cascades…
 de retour au camping nous prenons une bonne douche et faisons les dump et le plein d’aeu et partons pour St. Georges où nous faisons le plein d’essence, de Gaz, de vivres, la vidange et passons un bon moment dans un restaurent «Five Guys».
-En milieu d’après-midi nous prenons la route pour Valley Of Fire dans le Navada et nous trouvons un bivouac en plein désert. Cyrielle me rafraichie ma coupe.
+En milieu d’après-midi nous prenons la route pour Valley Of Fire dans le Nevada et nous trouvons un bivouac en plein désert. Cyrielle me rafraîchie ma coupe.
 
 ## 26 mai
 
