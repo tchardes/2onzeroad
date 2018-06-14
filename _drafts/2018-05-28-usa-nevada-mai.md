@@ -102,35 +102,123 @@ On continue ensuite la route vers l'entrée Ouest de **Valley of The Gods** et p
 
 ## 19 mai
 
-Départ du bivouac et route jusqu’à Moab que nous traversons rapidement pour entrer dans le parc national d'Arches. Nous nous arrêtons à tous les points de vue et commençons petit à petit à découvrir ce parc très particulier. Nous faisons un petit tour de Balanced Rock, il y en a beaucoup dans les parcs mais celui là est vraiment très sympa. On rencontre à nouveau le jeune couple avec les deux garçons rencontrés la veille à Monument Valley et parlons un petit moment ensemble. Ils habitent sur Marseille et voyagent, sac à dos, et arrivent tout droit d'Amérique du Sud. Nous poursuivons par le secteur "The windows Section" où nous faisons un trail qui nous permet de passer devant, sous, plusieurs arches naturelles, North Window, South Window, Turret Arch et Double Arch.
+Départ du bivouac et route jusqu’à Moab que nous traversons rapidement pour entrer dans le **Parc National d'Arches**, en commençant par le Visitor Center où nous visionnons une très beau film qui nous explique l'histoire de la région. Nous nous arrêtons à tous les points de vue et commençons petit à petit à découvrir ce parc très particulier. Nous faisons le tour de Balanced Rock, il y en a beaucoup dans les parcs mais celui là est vraiment très sympa. On rencontre à nouveau le jeune couple avec les deux garçons rencontrés la veille à Monument Valley et parlons un petit moment ensemble. Ils habitent sur Marseille et voyagent, sac à dos, et arrivent tout droit d'Amérique du Sud.
 
-Nous nous enfonçons dans le parc 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40655844780/in/photolist-24WBQe3-24WBVpd-26jEKzx-27BXtLb-26jEK4H-26jEKmB-26jEKJv-26jELbn-27GrtJr-27GrtVi-26jELCK-24WBScS-25k8KAP-KyyMY1-25BdjKQ-26Gxvpr-26CRczh-H3H3xR-25BdpGU-Jz4Pu7-26GxKPt-25BdK8Y-25BdLGu-25BdNk9-26GxuwV-26CRxSS-H3gDte-26G8kca-23WqTiu-26G8jJ6-26G8mDP-26G8kTk-25AX9J7-25AXiKU-23SVQ3h-26z1YHE-GYPkaa-25gcScv-26z1ZRw-GYPr4e-26CFhL8-26CFfUc-25xdFWw-25xdFsW-25xdGxw-25xdL9u-Jv7EZE-Jv7H5G-25gcTTB-GK6Tdk" title="Moab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1755/40655844780_799738a9a5_k.jpg" width="2048" height="1365" alt="Moab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Nous poursuivons par le secteur "The windows Section" où nous faisons un trail qui nous permet de passer devant, sous, plusieurs arches naturelles, North Window, South Window, Turret Arch et Double Arch. Cette concentration d'arches naturelles dans cette région est vraiment incroyable.
 
- , et visite de arches NP, et piste pour sortir du parc et bivouaquer.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42413735062/in/photolist-27BXtLb-26jEK4H-26jEKmB-26jEKJv-26jELbn-27GrtJr-27GrtVi-26jELCK-24WBScS-25k8KAP-KyyMY1-25BdjKQ-26Gxvpr-26CRczh-H3H3xR-25BdpGU-Jz4Pu7-26GxKPt-25BdK8Y-25BdLGu-25BdNk9-26GxuwV-26CRxSS-H3gDte-26G8kca-23WqTiu-26G8jJ6-26G8mDP-26G8kTk-25AX9J7-25AXiKU-23SVQ3h-26z1YHE-GYPkaa-25gcScv-26z1ZRw-GYPr4e-26CFhL8-26CFfUc-25xdFWw-25xdFsW-25xdGxw-25xdL9u-Jv7EZE-Jv7H5G-25gcTTB-GK6Tdk-GK6URv-GK6V9e-GK6VmD" title="Moab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1742/42413735062_10149d8614_k.jpg" width="2048" height="1152" alt="Moab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41561725345/in/photolist-26jEGXt-KyyNM5-KyyPf9-26jEHxX-26jEHan-26jEJpg-KyyPKN-26jEHXK-KyyPtq-24WBV8G-26jEJN2-24WBQe3-24WBVpd-26jEKzx-27BXtLb-26jEK4H-26jEKmB-26jEKJv-26jELbn-27GrtJr-27GrtVi-26jELCK-24WBScS-25k8KAP-KyyMY1-25BdjKQ-26Gxvpr-26CRczh-H3H3xR-25BdpGU-Jz4Pu7-26GxKPt-25BdK8Y-25BdLGu-25BdNk9-26GxuwV-26CRxSS-H3gDte-26G8kca-23WqTiu-26G8jJ6-26G8mDP-26G8kTk-25AX9J7-25AXiKU-23SVQ3h-26z1YHE-GYPkaa-25gcScv-26z1ZRw" title="Moab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1741/41561725345_b112874152_k.jpg" width="2048" height="1152" alt="Moab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28591868128/in/photolist-KyyNgA-KyyN6L-27Grrai-KyyNrW-KyyNzw-KyyNUj-26jEGCF-26jEGXt-KyyNM5-KyyPf9-26jEHxX-26jEHan-26jEJpg-KyyPKN-26jEHXK-KyyPtq-24WBV8G-26jEJN2-24WBQe3-24WBVpd-26jEKzx-27BXtLb-26jEK4H-26jEKmB-26jEKJv-26jELbn-27GrtJr-27GrtVi-26jELCK-24WBScS-25k8KAP-KyyMY1-25BdjKQ-26Gxvpr-26CRczh-H3H3xR-25BdpGU-Jz4Pu7-26GxKPt-25BdK8Y-25BdLGu-25BdNk9-26GxuwV-26CRxSS-H3gDte-26G8kca-23WqTiu-26G8jJ6-26G8mDP-26G8kTk" title="Moab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1738/28591868128_83e176b676_k.jpg" width="2048" height="1365" alt="Moab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous nous enfonçons dans le parc au niveau **Devils Graden** (7,2 miles - 11,6 km) pour faire le trail éponyme. Ce trail est une boucle, la première partie très bien balisée qui permet de voir plusieurs arches, notamment **Landscape Arch** et **Double O Arch** et la deuxième partie de la boucle qui est un primitive trail ce qui veut dire qu'il faut un peu chercher son chemin. Considéré comme difficile il présente des corniches étroites, de la marche sur un sol irrégulier et des passages rocheux accidentés. Cette dernière partie est magnifique, très sauvage et nous la faisons seuls au monde, ce qui est assez incroyable dans ce parc très populaire. Cyrielle a des ampoules aux pieds et elle souffre pas mal pour le finir.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42464452391/in/photolist-27GrqfT-KyyMzq-J3okFi-KyyNgA-KyyN6L-27Grrai-KyyNrW-KyyNzw-KyyNUj-26jEGCF-26jEGXt-KyyNM5-KyyPf9-26jEHxX-26jEHan-26jEJpg-KyyPKN-26jEHXK-KyyPtq-24WBV8G-26jEJN2-24WBQe3-24WBVpd-26jEKzx-27BXtLb-26jEK4H-26jEKmB-26jEKJv-26jELbn-27GrtJr-27GrtVi-26jELCK-24WBScS-25k8KAP-KyyMY1-25BdjKQ-26Gxvpr-26CRczh-H3H3xR-25BdpGU-Jz4Pu7-26GxKPt-25BdK8Y-25BdLGu-25BdNk9-26GxuwV-26CRxSS-H3gDte-26G8kca-23WqTiu" title="Moab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1756/42464452391_2e9e8a0230_k.jpg" width="2048" height="1152" alt="Moab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27593975297/in/photolist-J3okuM-27GrqfT-KyyMzq-J3okFi-KyyNgA-KyyN6L-27Grrai-KyyNrW-KyyNzw-KyyNUj-26jEGCF-26jEGXt-KyyNM5-KyyPf9-26jEHxX-26jEHan-26jEJpg-KyyPKN-26jEHXK-KyyPtq-24WBV8G-26jEJN2-24WBQe3-24WBVpd-26jEKzx-27BXtLb-26jEK4H-26jEKmB-26jEKJv-26jELbn-27GrtJr-27GrtVi-26jELCK-24WBScS-25k8KAP-KyyMY1-25BdjKQ-26Gxvpr-26CRczh-H3H3xR-25BdpGU-Jz4Pu7-26GxKPt-25BdK8Y-25BdLGu-25BdNk9-26GxuwV-26CRxSS-H3gDte-26G8kca" title="Moab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1745/27593975297_5df45155a0_k.jpg" width="2048" height="1152" alt="Moab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27593970147/in/photolist-J3oiXZ-J3okuM-27GrqfT-KyyMzq-J3okFi-KyyNgA-KyyN6L-27Grrai-KyyNrW-KyyNzw-KyyNUj-26jEGCF-26jEGXt-KyyNM5-KyyPf9-26jEHxX-26jEHan-26jEJpg-KyyPKN-26jEHXK-KyyPtq-24WBV8G-26jEJN2-24WBQe3-24WBVpd-26jEKzx-27BXtLb-26jEK4H-26jEKmB-26jEKJv-26jELbn-27GrtJr-27GrtVi-26jELCK-24WBScS-25k8KAP-KyyMY1-25BdjKQ-26Gxvpr-26CRczh-H3H3xR-25BdpGU-Jz4Pu7-26GxKPt-25BdK8Y-25BdLGu-25BdNk9-26GxuwV-26CRxSS-H3gDte" title="Moab - Utah - [USA]"><img src="https://farm1.staticflickr.com/881/27593970147_9ce3768c0d_k.jpg" width="2048" height="1152" alt="Moab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+En fin d'après-midi nous retournons au centre du parc pour voir le coucher de soleil sur **Delicat Arch**. Le trail est assez difficile (3 miles - 4,8 km) et permet d'arriver à un bel "amphithéâtre" où trône cette arche que l'on dirai avoir été posée là, tellement on a du mal à comprendre comment la nature à pu la créer. Cyrielle ne vient pas avec nous, elle s'économise pour la suite du voyage. Encore un trail où il ne faut pas souffrir du vertige. Il y a énormément de monde au sommet et chacun se fait photographier sous l'arche, avec plus ou moins d'assurance. Certains (es) n'hésite pas à faire des figures acrobatiques. Le coucher de soleil n'est pas exceptionnel car ce n'est pas la bonne saison mais le moment est quand même magique. En redescendant, nous faisons un petit détour par une falaise qui présente des pétroglyphes.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40655847940/in/photolist-24WBRaw-J3ok84-J3okkD-27GrpTa-27Grq76-J3oiXZ-J3okuM-27GrqfT-KyyMzq-J3okFi-KyyNgA-KyyN6L-27Grrai-KyyNrW-KyyNzw-KyyNUj-26jEGCF-26jEGXt-KyyNM5-KyyPf9-26jEHxX-26jEHan-26jEJpg-KyyPKN-26jEHXK-KyyPtq-24WBV8G-26jEJN2-24WBQe3-24WBVpd-26jEKzx-27BXtLb-26jEK4H-26jEKmB-26jEKJv-26jELbn-27GrtJr-27GrtVi-26jELCK-24WBScS-25k8KAP-KyyMY1-25BdjKQ-26Gxvpr-26CRczh-H3H3xR-25BdpGU-Jz4Pu7-26GxKPt-25BdK8Y" title="Moab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1749/40655847940_ad95938c04_k.jpg" width="2048" height="1152" alt="Moab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40655847350/in/photolist-24WBQZm-J3ojXp-24WBQKd-J3ojFH-24WBRaw-J3ok84-J3okkD-27GrpTa-27Grq76-J3oiXZ-J3okuM-27GrqfT-KyyMzq-J3okFi-KyyNgA-KyyN6L-27Grrai-KyyNrW-KyyNzw-KyyNUj-26jEGCF-26jEGXt-KyyNM5-KyyPf9-26jEHxX-26jEHan-26jEJpg-KyyPKN-26jEHXK-KyyPtq-24WBV8G-26jEJN2-24WBQe3-24WBVpd-26jEKzx-27BXtLb-26jEK4H-26jEKmB-26jEKJv-26jELbn-27GrtJr-27GrtVi-26jELCK-24WBScS-25k8KAP-KyyMY1-25BdjKQ-26Gxvpr-26CRczh-H3H3xR" title="Moab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1739/40655847350_9647df1603_k.jpg" width="2048" height="1365" alt="Moab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28612836538/in/datetaken/" title="Moab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1723/28612836538_42e22f3e07_b.jpg" width="1024" height="768" alt="Moab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40655844090/in/photolist-24WBQ29-J3oj9a-J3ojiP-J3ojuF-24WBQnu-24WBQwC-24WBQZm-J3ojXp-24WBQKd-J3ojFH-24WBRaw-J3ok84-J3okkD-27GrpTa-27Grq76-J3oiXZ-J3okuM-27GrqfT-KyyMzq-J3okFi-KyyNgA-KyyN6L-27Grrai-KyyNrW-KyyNzw-KyyNUj-26jEGCF-26jEGXt-KyyNM5-KyyPf9-26jEHxX-26jEHan-26jEJpg-KyyPKN-26jEHXK-KyyPtq-24WBV8G-26jEJN2-24WBQe3-24WBVpd-26jEKzx-27BXtLb-26jEK4H-26jEKmB-26jEKJv-26jELbn-27GrtJr-27GrtVi-26jELCK-24WBScS" title="Moab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1747/40655844090_a3847a0fcb_k.jpg" width="2048" height="1152" alt="Moab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Bien sur tous les campings son pleins et il y a très peu d'emplacement de bivouac sauvage autour de Moab. J'ai gardé de coté les coordonnées GPS d'un bivouac (38.816189, -109.687317) que j'ai trouvé sur un forum de voyageurs. Effectivement, au bout d'une piste de 15 kilomètres, pas trop mauvaise, nous arrivons à la sortie des limites du parc et nous nous posons pour la nuit.
 
 ## 20 mai
 
+Départ de notre bivouac où la nuit a été très calme. Nous retraversons tout le parc et nous nous arrêtons à Moab pour faire les pleins et partons en directions du Parc national de Canyonlands. Ce parc comporte plusieurs sites à visiter, on privilégie la zone "Island in the sky". Arrêt au Visitor Center pour prendre les informations et nous filons directement au camping du parc "Willow Flat" où selon les Park Rangers il peut rester quelques places. Nous faisons les tour des emplacements et tombons sur un couple d'américains qui nous interpelle et nous indique partir en avance et il nous propose de profiter de leur emplacement qui est payé pour une nuit encore. Trop sympas les amerlocs, ils refusent même qu'on leur rembourse les frais. Nous quittons donc le camping rassuré quand à notre bivouac du soir et commençons notre visite.
 
-Départ de notre bivouac où la nuit a été très calme, piste puis traversée de Arches jusqu’à Moab où nous faisons les courses pui départ pour canyonland. Après le Visitor Center nous allons au seul cmaping qui accueille les VR et nous tombons sur des gens qui partent un jour plus tôt et nous laisse leur emplacement. Ensuite nous faisons plsueirus trails, c’est superbe…
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28592172608/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm2.staticflickr.com/1722/28592172608_b80725eed3_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous commençons par **Green river Overlook**, tous proche du camping et qui offre une magnifique vue sur le colorado, le White Rim et son canyon.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41741532254/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm2.staticflickr.com/1722/41741532254_265e4b8753_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous poursuivons la visite par **Upheaval Dome** qui est un cratère dont on ne connaît pas encore l'origine, bien que la théorie de l'impact soit la plus plausible.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41561969255/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm1.staticflickr.com/890/41561969255_8691bd35d7_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Arrêt ensuite à **Mesa Arch** véritable fenêtre qui donne sur le canyon.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28592171728/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm2.staticflickr.com/1723/28592171728_15f5180b06_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous finissons l'après-midi au bout du "White Rim" au niveau de **Grand View Point Overlook** et **White Rim Overlook** ou nous faisons deux Trails qui nous permet de bénéficier de vues absolument fantastique sur le canyon.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40656037200/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm2.staticflickr.com/1754/40656037200_79b852b31a_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42464637371/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm2.staticflickr.com/1725/42464637371_2328b1beb6_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40656033500/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm1.staticflickr.com/902/40656033500_7f87713c6d_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40656035670/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm2.staticflickr.com/1726/40656035670_74fb61d8a2_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous finissons la journée en retournant au **Green river Overlook** pour profiter du coucher de soleil sur ce magnifique paysage.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42464632601/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm1.staticflickr.com/890/42464632601_067f740bd8_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42464632321/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm1.staticflickr.com/901/42464632321_cf915bccb6_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Arrivés au camping, une voiture se trouve sur notre emplacement, je descends de Thor et me porte à la hauteur du conducteur pour lui demander de libérer la place, il obtempère promptement...
 
 ## 21 mai
 
-Départ du camping de Canyon land et route vers Capitol Reef. Visite du parc sous un temps maussade qui ne met pas en valeur les couleurs, on fait deux trails un canyon et le long d’une rivière. Dump au camping du parc qui est full.
+On se lève de bonne heure afin de voir le lever de soleil au niveau de Mesa Arch. Nous sommes sur place avant 6 heures et il y a déjà énormément de monde, impossible de poser son pied au niveau de l'arche. Je prend l'option de prendre un peu de hauteur pour assister au spectacle.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42413964632/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm2.staticflickr.com/1741/42413964632_2251b9991e_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42413963942/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm1.staticflickr.com/894/42413963942_514957c282_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Départ de Canyonland et route vers un autre parc : **Capitol Reef National Park**. Le temps est un peu maussade, ce qui ne met pas en valeur les couleurs magnifiques des falaises de ce parc. On longe la Fremont river le long de "Fruita" qui poste se nom car les mormons y avait planté de nombreux arbres fruitiers et nous faisons halte ua Visitor Center. Nantis de nos renseignements sur les choses à faire nous empruntons la Scenic Drive qui nous   , on fait deux trails un canyon et le long d’une rivière.
+
+
+
+
+
+
+
+Nous passons au camping qui est complet mais nous faisons néanmoins les dumps et le plein de l'eau avant de quitter le parc où nous trouvons un terrain où le camping est autorisé. Il y a déjà beaucoup de monde mais nous trouvons une place pour Thor. Toujours pour entretenir le dextérité de Cyrielle, Corinne se fait rafraîchir sa coupe de cheveux.
+
+
 
 ## 22 mai
 
-Départ de notre bivouac, nous retournons au camping pour refaire les dumps et l’eau puis nous pattons en direction de Torrey pour nous arrêter à la laverie. En fin de matinée, nous empruntons la Highway 12 Scenic Byway. Malgrès le temps les décours sont très changeant et très beau. En route on s’arrête fait les courses à Escalante et on fait également le plein de Thor.
-On arrive en fin d’après-midi à Bryce canyon NP et nous allons directement au camping où nous prenons la dernière place. On paret ensuite au Visitor center et on prend le car shuttle pour aller voir Bryce Point, magnifique avec des orages autour puis retour au camping.
+Départ de notre bivouac, nous rentrons à nouveau dans le parc et retournons au camping pour refaire les dumps et le plein de l’eau après notre douche de hier soir. Nous partons en direction de Torrey pour nous arrêter dans une laverie et s'occuper un peu de la logistique. En fin de matinée, nous empruntons la fameuse Highway 12 Scenic Byway. Malgré le temps, les décours sont très changeant et très beau. En route on s’arrête faire les courses à Escalante et on fait également le plein de gazoline de Thor.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42465021001/in/datetaken/" title="Scenic Byway 12 - Utah - [USA]"><img src="https://farm2.staticflickr.com/1727/42465021001_ab6e9a7d1d_b.jpg" width="1024" height="576" alt="Scenic Byway 12 - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On arrive en fin d’après-midi à **Bryce Canyon National Park** et nous allons directement au camping où nous prenons la dernière place disponible au niveau des RV pour deux nuits. On part ensuite au Visitor Center récupérer la documentation et on prend le Bus mis a disposition gratuitement par le parc pour nous rendre à Bryce Point et assister au coucher de soleil. L'endroit est magnifique, les hoodoos sont très bien éclairés par le soleil couchant alors qu'en arrière plan plusieurs orages sévices.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41562381235/in/datetaken/" title="Bryce Canyon - Utah - [USA]"><img src="https://farm2.staticflickr.com/1742/41562381235_7f8bd9029d_b.jpg" width="1024" height="318" alt="Bryce Canyon - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42465017551/in/datetaken/" title="Bryce Canyon - Utah - [USA]"><img src="https://farm2.staticflickr.com/1734/42465017551_2ffc439f4b_b.jpg" width="1024" height="683" alt="Bryce Canyon - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42465015511/in/datetaken/" title="Bryce Canyon - Utah - [USA]"><img src="https://farm1.staticflickr.com/882/42465015511_c8a50e2025_b.jpg" width="1024" height="576" alt="Bryce Canyon - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 23 mai
 
+Nuit très froide, on est quand même à 2430 mètres d'altitude. Réveil à 6 heures pour un départ à 7 heures depuis le camping en empruntant le **Rim Trail** Jusqu’au **Sunrise Point** puis le **Queen’s Garden Trail**, **Navajo Loop**, **Pee a Boo Loop Trail** puis retour vers Sunset Point et enfin camping dans un décor absolument irréel, aux couleurs pastels dégradée. Soit au total 12 kilomètres.
 
-Nuit froide. Réveil à 6 heures pour un départ à 7 heures depuis le camping en empruntant le Rim Trail Jusqu’au Sunrise Point puis le Queen’s garden Trail, Navajo Loop, Pee a Boo Loop Trail puis retour vers Sunset Point puis Camping (12 Km) dans un décor irréel.
-L’après-midi nous roulons jusqu’à Raimbow Point en nous arrêtons à tous les overllok, bien moins beau que ce matin, et nous faisons un trail « Bristlecone Loop Trail » et retour au camping.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42414286922/in/datetaken/" title="Bryce Canyon - Utah - [USA]"><img src="https://farm2.staticflickr.com/1751/42414286922_588b539f23_b.jpg" width="1024" height="683" alt="Bryce Canyon - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42465006471/in/datetaken/" title="Bryce Canyon - Utah - [USA]"><img src="https://farm1.staticflickr.com/889/42465006471_6fb61bd285_b.jpg" width="1024" height="576" alt="Bryce Canyon - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41741851824/in/datetaken/" title="Bryce Canyon - Utah - [USA]"><img src="https://farm1.staticflickr.com/894/41741851824_5c739c477a_b.jpg" width="1024" height="576" alt="Bryce Canyon - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41741850534/in/datetaken/" title="Bryce Canyon - Utah - [USA]"><img src="https://farm2.staticflickr.com/1722/41741850534_d47b84aa03_b.jpg" width="1024" height="576" alt="Bryce Canyon - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+L’après-midi nous partons avec Thor sur une partie du parc ouverte à la circulation des véhicules privés et roulons jusqu’à **Raimbow Point** en nous arrêtons à tous les overlooks, bien moins beau que ce matin, et nous faisons un trail **Bristlecone Loop Trail** et retour au camping. Une fois de plus des personnes se sont mises sur notre emplacement, le problème est rapidement réglé.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40656347180/in/datetaken/" title="Bryce Canyon - Utah - [USA]"><img src="https://farm2.staticflickr.com/1733/40656347180_c230ab9161_b.jpg" width="1024" height="576" alt="Bryce Canyon - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ## 24 mai
