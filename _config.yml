@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "39.753659, -105.000236"
   name: "Denver, Colorado, USA"
-  date: "10 au 14 juin 2018"
+  date: "10 au 15 juin 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
