@@ -44,7 +44,7 @@ Nous bifurquons plein Nord en direction du Grand Canyon, rive Sud, où nous arri
 
 ## 16 mai
 
-Nuit très calme au milieu des chênes, le temps est magnifique. Retour au Visitor Center où nous laissons Thor pour prendre la navette "Orange" jusqu’à South Kaibab, point de départ du Rim Trail qui permet de rejoindre Yavapai Point (environ 5km) en logeant le bord du canyon. On en prend plein la vue. Nous retournons en fin de matinée à Thor et partons vers Desert View qui se trouve à la sortie Est du parc. Nous nous arrêtons sur une aire de picnic et profitons du beau temps pour déjeuner en plein air. Nous visitons "Desert View Watchtower" qui offre un super point de vue sur le canyon et le Colorado. Nous roulons ensuite vers Page où nous cherchons auprès de plusieurs tours operator, la possibilité de visiter Antelope Canyon (Lower ou Upper) mais les heures libres ne sont pas top. Dès que nous avons su que les enfants venaient, on a essayé de réserver par Internet un tour mais tout était déjà complet. Finalement, nous trouvons par hasard un tour operator assez récent "Horseshoe Bend Slot Canyon" qui nous propose un tour à la bonne heure, 11 heures, mais pour un canyon moins connu **Secret Slot Canyon**. Rassurés pour l'emploi du temps du lendemain, on se pose au Walmart pour les courses et la nuit.
+Nuit très calme au milieu des chênes, le temps est magnifique. Retour au Visitor Center où nous laissons Thor pour prendre la navette "Orange" jusqu’à South Kaibab, point de départ du Rim Trail qui permet de rejoindre Yavapai Point (environ 5km) en logeant le bord du canyon. On en prend plein la vue. Nous retournons en fin de matinée à Thor et partons vers Desert View qui se trouve à la sortie Est du parc. Nous nous arrêtons sur une aire de picnic et profitons du beau temps pour déjeuner en plein air. Nous visitons "Desert View Watchtower" qui offre un super point de vue sur le canyon et le Colorado. Nous roulons ensuite vers Page où nous cherchons auprès de plusieurs tours operator, la possibilité de visiter Antelope Canyon (Lower ou Upper) mais les heures libres ne sont pas top. Dès que nous avons su que les enfants venaient, on a essayé de réserver par Internet un tour mais tout était déjà complet. Finalement, nous trouvons par hasard un tour operator assez récent "Horseshoe Bend Slot Canyon" qui nous propose un tour à la bonne heure, 11 heures, mais pour un canyon moins connu **Secret Slot Canyon** que j'avais dans mes tablettes. Rassurés pour l'emploi du temps du lendemain, on se pose au Walmart pour les courses et la nuit. Les enfants profite des courses pour tester des produits purement américains que ce soit des bières, cheesecake, biscuits au beurre de cacauettes, M&M'S... sans oublier les fameux Donuts.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42441689061/in/datetaken/" title="Grand Canyon - Arizona - [USA]"><img src="https://farm1.staticflickr.com/889/42441689061_7619865b8c_k.jpg" width="2048" height="976" alt="Grand Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -178,21 +178,17 @@ On se lève de bonne heure afin de voir le lever de soleil au niveau de Mesa Arc
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42413963942/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm1.staticflickr.com/894/42413963942_514957c282_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Départ de Canyonlands et route vers un autre parc : **Capitol Reef National Park**. Le temps est un peu maussade, ce qui ne met pas en valeur les couleurs magnifiques des falaises de ce parc. On longe la Fremont river, le long de "Fruita", qui porte ce nom car les mormons y avait planté de nombreux arbres fruitiers. Nous faisons halte au Visitor Center. Nantis de nos renseignements sur les choses à faire, nous empruntons la Scenic Drive qui nous   , on fait deux trails un canyon et le long d’une rivière.
+Départ de Canyonlands et route vers un autre parc : **Capitol Reef National Park**. Le temps est un peu maussade, ce qui ne met pas en valeur les couleurs magnifiques des falaises de ce parc. On longe la Fremont river, le long de "Fruita", qui porte ce nom car les mormons y avait planté de nombreux arbres fruitiers. Nous faisons halte au Visitor Center. Nantis de nos renseignements sur les choses à faire, nous empruntons la Scenic Drive qui nous mène à Capitol Gorge Road d'où nous faisons un premier trail "Capitol Gorge" (2 miles - 3,2 Km) qui serpente dans un canyon, ancien lit de rivière, où des pioneers ont laissé une trace de leur passage sur les parois verticales des falaises. De retour, nous nous arrêtons au niveau du camping d'où part un trail "Cohab Canyon" (3,4 Miles - 5,4 km) qui longe la rivière Fremont et monte à flan de montagne et offre une trè belle vue sur les falaises du parc.
 
 
 
-
-
-
-
-Nous passons au camping qui est complet cependant nous faisons néanmoins les dumps et le plein de l'eau avant de quitter le parc et de trouver un terrain où le camping est autorisé. Il y a déjà beaucoup de monde mais nous trouvons une place pour Thor. Toujours pour entretenir la dextérité de Cyrielle, Corinne se fait rafraîchir sa coupe de cheveux.
+De retour au camping, qui est complet, nous faisons les dumps et le plein de l'eau avant de quitter le parc et de trouver un terrain où le camping est autorisé. Il y a déjà beaucoup de monde mais nous trouvons une place pour Thor. Toujours pour entretenir la dextérité de Cyrielle, Corinne se fait rafraîchir sa coupe de cheveux.
 
 
 
 ## 22 mai
 
-Départ de notre bivouac, nous rentrons à nouveau dans le parc et retournons au camping pour refaire les dumps et le plein de l’eau après notre douche de hier soir. Nous partons en direction de Torrey pour nous arrêter dans une laverie et s'occuper un peu de la logistique. En fin de matinée, nous empruntons la fameuse Highway 12 Scenic Byway. Malgré le temps, les décors sont très changeants et très beaux. En route, on s’arrête faire les courses à Escalante et on fait également le plein de gazoline de Thor.
+Départ de notre bivouac, nous rentrons à nouveau dans le parc et retournons au camping pour refaire les dumps et le plein de l’eau après notre douche de hier soir. Nous partons en direction de Torrey pour nous arrêter dans une laverie et s'occuper un peu de la logistique. En fin de matinée, nous empruntons la fameuse **Highway 12 Scenic Byway**. Malgré le temps, les décors sont très changeants et très beaux. En route, on s’arrête faire les courses à Escalante et on fait également le plein de gazoline de Thor.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42465021001/in/datetaken/" title="Scenic Byway 12 - Utah - [USA]"><img src="https://farm2.staticflickr.com/1727/42465021001_ab6e9a7d1d_b.jpg" width="1024" height="576" alt="Scenic Byway 12 - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -223,7 +219,7 @@ L’après-midi, nous partons avec Thor sur une partie du parc ouverte à la cir
 
 ## 24 mai
 
-Ce matin, départ du camping après avoir fait les vides et les pleins et route jusqu’à **Zion National Park**. en passant par la 9 et son tunnel. Arrivés au parc, nous allons directement au camping et avons la chance de récupérer une place suite à un désistement, tout est Full. Nous allons ensuite faire quelques courses à Springdale et retournons au camping. Après mangé, nous prenons la navette pour faire **The Narrows** un trail de 8 miles - 13 Km, ce trail se trouve dans le lit de la rivière Virgin en s’enfonçant de plus en plus dans un canyon très étroit et très haut, l’eau est à 13°, c’est très sympa. Puis retour au Camping.
+Ce matin, départ du camping après avoir fait les vides et les pleins et route jusqu’à **Zion National Park** en passant par la US 9 et son tunnel. Arrivés au parc, nous allons directement au camping et avons la chance de récupérer une place suite à un désistement, tout est Full. Nous allons ensuite faire quelques courses à Springdale et retournons au camping. Après manger, nous prenons la navette pour faire le Trail **The Narrows** (8 miles - 13 Km) qui se trouve dans le lit de la rivière Virgin en s’enfonçant de plus en plus dans un canyon très étroit et très haut, l’eau est à 13°, c’est très sympa. Puis retour au Camping.
 
 
 ## 25 mai
