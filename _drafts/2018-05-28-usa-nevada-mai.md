@@ -224,9 +224,11 @@ Ce matin, départ du camping après avoir fait les vides et les pleins et route 
 
 ## 25 mai
 
-Ce matin, lever 6h00 pour être de bonne heure sur le trail. Il y a beaucoup de monde à 7h00 au départ du Shuttle que nous attendons 30 mn. Nous nous arrêtons au niveau de Zion Lodge, et partons faire **Lower, medium et Upper Emerald PoolsTrail** pour finir par **Kayenta Trail** où nous reprenons le shuttle au niveau de The Grotto. Très beau trail cascades…
+Ce matin, lever 6h00 pour être de bonne heure sur le terrain. Il y a beaucoup de monde à 7h00 au départ du Shuttle que nous attendons 30 mn. Nous nous arrêtons au niveau de Zion Lodge, et partons faire **Lower, medium et Upper Emerald PoolsTrail** pour finir par **Kayenta Trail** où nous reprenons le shuttle au niveau de The Grotto. Très beau trail cascades…
+
+
 de retour au camping nous prenons une bonne douche et faisons les dump et le plein d’aeu et partons pour St. Georges où nous faisons le plein d’essence, de gaz, de vivres, la vidange et passons un bon moment dans un restaurent «Five Guys».
-En milieu d’après-midi, nous prenons la route pour Valley Of Fire dans le Nevada et nous trouvons un bivouac en plein désert. Cyrielle me rafraîchit ma coupe.
+En milieu d’après-midi, nous prenons la route pour Valley Of Fire dans le Nevada et nous trouvons un bivouac en plein désert. Le départ approche et Cyrielle me rafraîchit ma coupe de cheveux.
 
 ## 26 mai
 
@@ -234,11 +236,11 @@ Ce matin, départ pour le Parc, on paye l’entrée 10$ et on visite tous les po
 
 ## 27 mai
 
-Le 27, départ pour l’Excalibur, on fait la surprise aux enfants. Trop tôt pour le check In, on gare Thor et on part sur le strip. A midi, on fête la fête des mères et l’anniversaire de Corinne tous les 4 au Buffet Bachanal au caesar palace, on y passe un très bon moement, les enfants se régale et nous aussi. l’après-midi on fini la visite de tous les hôtels puis nous retournons à notre hôtel pour prendre notre chambre. pendant que l’on se raffraichis, les enfants prennent le tram pour voir le Mandalay Bay et le Louxor. En debut de soirée on part manger au New York et on repart sur le strip de nuite cette fois pour voir les Spectacles gratuits qu’offrent les Hôtels, grosses journées, plus de 23 Km.
+Le 27, départ pour l’Excalibur, on fait la surprise aux enfants. Trop tôt pour le check In, on gare Thor et on part sur le strip. A midi, on fête la fête des mères et l’anniversaire de Corinne tous les 4 au Buffet Bachanal au caesar palace, on y passe un très bon moement, les enfants se régale et nous aussi. l’après-midi on fini la visite de tous les hôtels puis nous retournons à notre hôtel pour prendre notre chambre. pendant que l’on se raffraichis, les enfants prennent le tram pour voir le Mandalay Bay et le Louxor. En debut de soirée on part manger au New York et on repart sur le strip de nuit cette fois pour voir les Spectacles gratuits qu’offrent les Hôtels, grosses journées, plus de 23 Km.
 
 ## 28 mai
 
-Ce matin on traine un peu à l’hôtel puis on par faire quelques magasins avec les enfant, on tenait à leur montrer un Bass Pro Shop, c’est grand magasin outdoor où Alex a été surprix de voir autant d’armes. On mande dans Thor et on prend notre dessert dans The CheeseCake Factory et en fin de journée nous les accompagnons à l’aéroport? les vacances sont malheureusement finies…
+Ce matin on traine un peu à l’hôtel puis on par faire quelques magasins avec les enfant, on tenait à leur montrer un Bass Pro Shop, c’est grand magasin outdoor où Alex a été surpris de voir autant d’armes en vente et de toute sorte. On mange dans Thor et on prend notre dessert dans The CheeseCake Factory et en fin de journée nous les accompagnons à l’aéroport? les vacances sont malheureusement finies…
 
 
 
