@@ -1,17 +1,17 @@
 ---
 layout:  blog
-title:   "Du Nevada au... Nevada"
-preview: "Cet article couvre la période du 14 au 28 mai 2018 durant laquelle les 2onzeroad se sont transformés, à notre plus grand bonheur en 4onzeroad afin de..."
+title:   "Du Nevada au wyoming"
+preview: "..."
 parent-id: 
 
-date:        2018-05-29 13:00:00
-from-date:   2018-05-14 13:00:00
-to-date:     2018-05-28 13:00:00
+date:        2018-06-16 13:00:00
+from-date:   2018-05-28 13:00:00
+to-date:     2018-06-28 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt17.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt17.jpg
 tags: [desert, parc-naturel, geologie, montagne]
-pois: [route-66#15-mai, grand-canyon#15-mai, grand-canyon#16-mai, barrage-powel#17-mai, secret#17-mai, Horseshoe#17-mai, little-cut#17-mai, monument-valley#18-mai, mexican-hat#18-mai, goosenecks#18-mai, valley-gods#18-mai, arches#19-mai, canyonlands#20-mai, capitol-reef#21-mai, scenic12#22-mai, bryce#22-mai, bryce#23-mai, zion#24-mai, zion#25-mai, valley-fire#26-mai, las-vegas#27-mai, ]
+pois: [tuzigot#10-mai, watson-lake#10-mai]
 country: USA
 states: ["Nevada", "Arizona", "Utah"]
 category: "roadmap"
@@ -36,7 +36,7 @@ Nuit calme pour ce premier bivouac en famille, les enfants ont bien dormi. Aprè
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40633769870/in/datetaken/" title="Seligman - Arizona - [USA]"><img src="https://farm1.staticflickr.com/885/40633769870_6b8c89f0e8_k.jpg" width="2048" height="1152" alt="Seligman - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous bifurquons plein Nord en direction du **Grand Canyon National Park**, rive Sud, où nous arrivons en fin d'après-midi. En traversant le parc depuis l'entrée Sud en direction du Visitor Center, on constate que tous les campings sont pleins, on trouvera bien un bivouac sauvage en dehors du parc. Le parc est desservi par 4 navettes gratuites des Park Rangers. Les infos en main, nous prenons la navette, bleue pour sortir du "village" puis rouge pour visiter le Rim Sud côté Ouest. Le shuttle nous permet de nous arrêter aux points de vue les plus remarquables du Grand Canyon jusqu’à Hermits Rest où nous arrivons pour le coucher de soleil. La vue est tout simplement grandiose, on a du mal à se rendre compte de l'immensité des lieux. Nous retournons à Thor et quittons le parc de nuit et trouvons un bivouac en pleine forêt.
+Nous bifurquons plein Nord en direction du Grand Canyon, rive Sud, où nous arrivons en fin d'après-midi. En traversant le parc depuis l'entrée Sud en direction du Visitor Center, on constate que tous les campings sont pleins, on trouvera bien un bivouac sauvage en dehors du parc. Le parc est desservi par 4 navettes gratuites des Park Rangers. Les infos en main, nous prenons la navette, bleue pour sortir du "village" puis rouge pour visiter le Rim Sud côté Ouest. Le shuttle nous permet de nous arrêter aux points de vue les plus remarquables du Grand Canyon jusqu’à Hermits Rest où nous arrivons pour le coucher de soleil. La vue est tout simplement grandiose, on a du mal à se rendre compte de l'immensité des lieux. Nous retournons à Thor et quittons le parc de nuit et trouvons un bivouac en pleine forêt.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28568672708/in/datetaken/" title="Grand Canyon - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1736/28568672708_380c652a65_k.jpg" width="2048" height="1152" alt="Grand Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -136,7 +136,7 @@ Bien sûr tous les campings sont pleins et il y a très peu d'emplacement de biv
 
 ## 20 mai
 
-Départ de notre bivouac où la nuit a été très calme. Nous retraversons tout le parc et nous nous arrêtons à Moab pour faire les pleins et partons en direction de **Canyonlands National Park**. Ce parc comporte plusieurs sites à visiter, on privilégie la zone **Island in the sky**. Arrêt au Visitor Center pour prendre les informations et nous filons directement au camping du parc "Willow Flat" où selon les Park Rangers, il peut rester quelques places. Nous faisons le tour des emplacements et tombons sur un couple d'américains qui nous interpelle et nous indique partir en avance et il nous propose de profiter de leur emplacement qui est payé pour une nuit encore. Trop sympas les amerlocs, ils refusent même qu'on leur rembourse les frais. Nous quittons donc le camping rassurés quant à notre bivouac du soir et commençons notre visite.
+Départ de notre bivouac où la nuit a été très calme. Nous retraversons tout le parc et nous nous arrêtons à Moab pour faire les pleins et partons en direction du Parc national de Canyonlands. Ce parc comporte plusieurs sites à visiter, on privilégie la zone "Island in the sky". Arrêt au Visitor Center pour prendre les informations et nous filons directement au camping du parc "Willow Flat" où selon les Park Rangers, il peut rester quelques places. Nous faisons le tour des emplacements et tombons sur un couple d'américains qui nous interpelle et nous indique partir en avance et il nous propose de profiter de leur emplacement qui est payé pour une nuit encore. Trop sympas les amerlocs, ils refusent même qu'on leur rembourse les frais. Nous quittons donc le camping rassurés quant à notre bivouac du soir et commençons notre visite.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28592172608/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm2.staticflickr.com/1722/28592172608_b80725eed3_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

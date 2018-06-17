@@ -33,7 +33,6 @@
     {"name": "lava-beds-nm", "displayName": "Lava Beds National Monument", "type": "nature"},
     {"name": "lassen-volcanic-np", "displayName": "Lassen Volcanic National Park", "type": "nature"},
     {"name": "san-francisco", "displayName": "San Francisco", "type": "ville"},
-
     {"name": "navy-seal", "displayName": "Navy Seal National Museum", "type": "autre"}, 
     {"name": "saint-augustine", "displayName": "Saint Augustine", "type": "ville"},
     {"name": "fort-caroline", "displayName": "Fort Caroline National Park", "type": "nature"},
@@ -204,11 +203,24 @@
     {"name": "wupatki", "displayName": "Wupatki National Monument", "type": "autre"},
     {"name": "sedona", "displayName": "Sedona", "type": "ville"},
     {"name": "meteor", "displayName": "Meteor Crater Natural Landmark", "type": "nature"},
+    {"name": "grand-canyon", "displayName": "Grand Canyon National Park", "type": "nature"},
+    {"name": "barrage-powel", "displayName": "Barrage du Lac Powell", "type": "autre"},
+    {"name": "secret", "displayName": "Secret Slot Canyon", "type": "nature"},
+    {"name": "Horseshoe", "displayName": "Horseshoe Bend", "type": "nature"},
+    {"name": "little-cut", "displayName": "The Little Cut", "type": "nature"},
+    {"name": "monument-valley", "displayName": "", "type": "nature"},
+    {"name": "mexican-hat", "displayName": "Mexican Hat", "type": "nature"},
+    {"name": "goosenecks", "displayName": "Goosenecks State Park", "type": "nature"},
+    {"name": "valley-gods", "displayName": "Valley Of The Gods", "type": "nature"},
+    {"name": "arches", "displayName": "Arches National Park", "type": "nature"},
+    {"name": "canyonlands", "displayName": "Canyonlands National Park - Island In The Sky", "type": "nature"},
+    {"name": "capitol-reef", "displayName": "Capitol Reef National Park ", "type": "nature"},
+    {"name": "scenic12", "displayName": "Highway 12 Scenic ByWay", "type": "nature"},
+    {"name": "bryce", "displayName": "Bryce National Park", "type": "nature"},
+    {"name": "zion", "displayName": "Zion National Park", "type": "nature"},
+    {"name": "valley-fire", "displayName": "Valley Of Fire State Park", "type": "nature"},
     {"name": "", "displayName": "", "type": ""},
-    {"name": "", "displayName": "", "type": ""},
-    {"name": "", "displayName": "", "type": ""},
-    {"name": "", "displayName": "", "type": ""},
-    {"name": "", "displayName": "", "type": ""},
+
 
     
     {"name": "", "displayName": "", "type": ""}
