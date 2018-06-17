@@ -208,7 +208,7 @@
     {"name": "secret", "displayName": "Secret Slot Canyon", "type": "nature"},
     {"name": "Horseshoe", "displayName": "Horseshoe Bend", "type": "nature"},
     {"name": "little-cut", "displayName": "The Little Cut", "type": "nature"},
-    {"name": "monument-valley", "displayName": "", "type": "nature"},
+    {"name": "monument-valley", "displayName": "Monument Valley", "type": "nature"},
     {"name": "mexican-hat", "displayName": "Mexican Hat", "type": "nature"},
     {"name": "goosenecks", "displayName": "Goosenecks State Park", "type": "nature"},
     {"name": "valley-gods", "displayName": "Valley Of The Gods", "type": "nature"},
