@@ -189,7 +189,7 @@
     {"name": "four-corners", "displayName": "Four Corners Monument", "type": "autre"},
     {"name": "silverton", "displayName": "Silverton", "type": "ville"},
     {"name": "million", "displayName": "Million Dollars Highway", "type": "autre"},
-    {"name": "shiprock", "displayName": "Shiprock Rock Formation", "type": "nature"},
+    {"name": "shiprock", "displayName": "Shiprock National Monument", "type": "nature"},
     {"name": "black-canyon", "displayName": "Black Canyon of the Gunnison National Park", "type": "nature"},
     {"name": "anasazi", "displayName": "Anasazi Heritage Center", "type": "autre"},
     {"name": "lowri", "displayName": "Lowry Pueblo Ruin", "type": "autre"},
