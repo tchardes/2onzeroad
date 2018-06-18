@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "40.343980, -105.654758"
-  name: "Rocky Mountain NP, Colorado, USA"
-  date: "16 juin 2018"
+  coordinates: "40.493254, -108.948132"
+  name: "Dinosaur National Monument, Colorado, USA"
+  date: "18 juin 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
