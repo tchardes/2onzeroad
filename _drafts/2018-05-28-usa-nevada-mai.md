@@ -219,7 +219,7 @@ L’après-midi, nous partons avec Thor sur une partie du parc ouverte à la cir
 
 ## 24 mai
 
-Ce matin, départ du camping après avoir fait les vides et les pleins et route jusqu’à **Zion National Park** en passant par la US 9 et son tunnel. Arrivés au parc, nous allons directement au camping et avons la chance de récupérer une place suite à un désistement, tout est Full. Nous allons ensuite faire quelques courses à Springdale et retournons au camping. Après manger, nous prenons la navette pour faire le Trail **The Narrows** (8 miles - 13 Km) qui se trouve dans le lit de la rivière Virgin en s’enfonçant de plus en plus dans un canyon très étroit et très haut, l’eau est à 13°, c’est très sympa. Puis retour au Camping.
+Ce matin, départ du camping après avoir fait les vides et les pleins et route jusqu’à **Zion National Park**. Après étude des différents avis, nous décidons de passer par l'US 9 qui est le chemin le plus court, mais qui la particularité de devoir traverser un tunnel, payant pour les RV (15$). . Arrivés au parc, nous allons directement au camping et avons la chance de récupérer une place suite à un désistement, tout est Full. Nous allons ensuite faire quelques courses à Springdale et retournons au camping. Après manger, nous prenons la navette pour faire le Trail **The Narrows** (8 miles - 13 Km) qui se trouve dans le lit de la rivière Virgin en s’enfonçant de plus en plus dans un canyon très étroit et très haut, l’eau est à 13°, c’est très sympa. Puis retour au Camping.
 
 
 ## 25 mai
