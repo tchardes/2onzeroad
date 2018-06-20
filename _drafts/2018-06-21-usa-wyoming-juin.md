@@ -4,7 +4,7 @@ title:   "Du Nevada au wyoming"
 preview: "..."
 parent-id: 
 
-date:        2018-06-16 13:00:00
+date:        2018-06-21 13:00:00
 from-date:   2018-05-28 13:00:00
 to-date:     2018-06-28 13:00:00
 author:     "Thierry"
@@ -22,44 +22,56 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 14 au 28 mai 2018 durant laquelle les 2onzeroad se sont transformés, pour notre plus grand bonheur en 4onzeroad afin de visiter les grands parcs américains.
+Cet article couvre la période du 28 mai au  2018 durant laquelle 
 
 ## 28 mai
 
-Le 27 départ pour l’Excalibur, on fait la surptise aux enfants. Trop tôt pour le chack In, on gare Thor et on part sur le strip. A midi on fête la fête des mères et l’anniversaire de Corinne tous les 4 au Bufet Bachanal au caesar palace, on y passe un très bon moement, les enfants se régale et nous aussi. l’après-midi on fini la visite de tous les hôtels puis nous retournons à notre hôtel pour prendre notre chambre. pendant que l’on se raffraichis, les enfants prennent le tram pour voir le Mandalay Bay et le Louxor. En debut de soirée on part manger au New York et on repart sur le strip de nuite cette fois pour voir les Spectacles gratuits qu’offrent les Hôtels, grosses journées, plus de 23 Km.
+Après avoir raccompagné les enfants à l'aéroport nous regagnons le walmart pour la nuit. Nous nous retrouvons tous les deux dan Thor qui est bien calme...
 
-Ce matin on traine un peu à l’hôtel puis on par faire quelques magasins avec les enfant, on tenait à leur montrer un Bass Pro Shop, c’est grand magasin outdoor où Alex a été surprix de voir autant d’armes. On mande dans Thor et on prend notre dessert dans The CheeseCake Factory et en fin de journée nous les accompagnons à l’aéroport? les vacances sont malheureusement finies…
+## 29 au 31 mai
 
+Les températures ont vraiment augmentée et la nuit a été très chaude dans Thor. Ce matin on se rend CampingWorld (Spécialiste des RV) et on obtient un rendez-vous pour demain matin pour la révision générale de notre générateur et notre problème électrique. On passe le reste de la matinée à courir les magasins spécialisés à la recherche d'un porte roue de secours mais en vain. A midi à s'octroie un repas au Mc Donald et on fini la journée dans une très belle bibliothèque du Sud de Las vegas afin de traiter les photos et vidéos. On nous "met à la porte" à 20H00, fini la clim et retour à la chaleur.
 
+Ce matin départ du Walmart, on s’est rendu compte que l’on s’était garé hier soir juste devant un panneau « No Overnight »... Nous allons à notre rendez-vous et nous s y restons jusqu’à 16h30. Une fois de plus ils ne veulent pas s'occuper de mon problème électrique et m'affirment que le problème vient de la batterie de service, ce qui n'a rien à voir avec la charge de celle-ci par l'alternateur. Nous finissons la journée à la bibliothèque, continuer nos photos et vidéo. On aimerai reprendre la route en étant à jour. Une fois au bivouac je contrôle quand même le travail effectuée sur le générateur et je m'aperçois qu'il on bien fait la vidange mais n'ont pas changé le filtre à aire...
 
-## 29 mai
-
-Nuit très chaude dans Thor. Ce matin on va campingWorld et on obtient un RDV pour demain matin pour le generator et les feux arrière. On passe le reste de la matinée à chercher un porte roue de secours mais en vain. 
-On se fait un Mc Do puis on trouve une bibliothèque où on passe l’après-midi à traiter les photos et vidéos. On nous fout deehors à 20H00, on mange sur le parking puis nous partons pour la nuit sur un Walmart, un plus au sud.
-
-## 30 mai
-
-Ce matin départ du Walmart, on s’est rendu compte que l’on s’était garé hier soir juste devant un panneau « No Overnight », c’est raté puis nous allons à notre rendez-vous chez camping World où nous y restons jusqu’à 16h30 pour ensuite nous rendre à la bibliothèque continuer nos photos et vidéo. On aimerai reprendre la route en étant à jour.
-
-## 31 mai
-
-Ce matin on retourne à Camping World où je pousse un coup de gueule, en anglais s’il vous plait. Finalement une responsable vient et finalement il convient que le service fournit n’était pas celui attendu. Il me reprenne Thor pour faire une vrai maintenance sur le générateur à savoir changement de filtre à air et essence et nettoyage du carburateur. Il nous le rende à 16 heures… Il ne me font payer que les pièces.
+Ce matin on retourne à Camping World où je pousse un coup de gueule, en anglais s’il vous plait. Finalement une responsable vient et  convient que le service fournit n’était pas celui attendu. Il me reprenne Thor pour faire une vrai maintenance sur le générateur à savoir changement de filtre à air et essence et nettoyage du carburateur. Il nous le rende à 16 heures… Il ne me font payer que les pièces.
 Du coups on retourne à la bibliothèque pour finir l’envoi des photos puis retour au Walmart.
-Depuis le départ de enfants il fait une chaleur étouffante sur Las Vegas où ils annonces pas mois de 37°. Heureusement nous passons nos journées entre Camping Wolrd et la Bibliothèque où nous sommes obligés de prendre un gillet tellement la clim est forte.
+
+Depuis le départ de enfants il fait une chaleur étouffante sur Las Vegas où ils annoncent pas mois de 37°. Heureusement nous passons nos journées entre Camping World et la Bibliothèque où nous sommes obligés de prendre un gilet tellement la clim est forte.
 
 
 ## 01 juin
 
-Ce matin départ de Las Vegas, enfin…
-Nous repassons par Red Rock Canyon que nous avions déjà fait au mois de février mais où nous n’avions pas pu faire les trails que nous souhaitions car tous les parkings étaient pleins, nous étions un WE le parc était blindé.
-Ce matin il y a du monde mais nous trouvons ou nous garer. Je commence par Calico Tank, (2,5 Miles - 4 km +140 mètres ) qui suit le lit d’une rivière asséchée et même jusqu’à un bassin, réservoir (Tank) qui est vide. Le trail est très facile au départ puis il faut rapidement grimper sur des roches rouges et jaunes entemélées. Très beau trail qui fine par une super vue sur la vallée. J’enchaine enssuite par un petit bout de Calico II, un trail qui longe le petit canyon qui se trouve à la base de l’ommense Red Rock. Le trail mène jusqu’au visitor Center soit près de 10 Km, je n’en fais qu’une partie avant de revenir sur mes pas vers le parking. Après déjeuné nous partons plein Nord en direction de St George où nous faisons le plein d’essence et de courses et nous nous avançons vers Zion où nous nous arrêtons à une vingtaine de kilomètres et trouvons un bivouac en pleine nature. Journée encore très chaude.
+Ce matin départ de Las Vegas, enfin… Nous repassons par **Red Rock Canyon** que nous avions déjà fait au mois de février mais où nous n’avions pas pu faire les trails que nous souhaitions car tous les parkings étaient pleins, nous étions un week-end et le parc était blindé. Ce matin il y a du monde mais nous trouvons ou nous garer. Je commence par **Calico Tank** (2,5 Miles - 4 km, +140 mètres) qui suit le lit d’une rivière asséchée et même jusqu’à un bassin, réservoir (Tank) qui est vide en ce moment. Le trail est très facile au départ puis il faut rapidement grimper sur des roches rouges et jaunes entremêlées. Très beau trail qui fini par une super vue sur toute la vallée.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41964353904/in/datetaken/" title="Red Rock Canyon - Nevada - [USA]"><img src="https://farm2.staticflickr.com/1760/41964353904_b561030a33_b.jpg" width="1024" height="576" alt="Red Rock Canyon - Nevada - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+J’enchaîne ensuite par un petit bout de **Calico II**, un trail qui longe le petit canyon qui se trouve à la base de l’immense Red Rock. Le trail mène jusqu’au visitor Center soit près de 10 Km, je n’en fais qu’une partie avant de revenir sur mes pas.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41964346904/in/datetaken/" title="Red Rock Canyon - Nevada - [USA]"><img src="https://farm2.staticflickr.com/1750/41964346904_5649a3464b_b.jpg" width="1024" height="576" alt="Red Rock Canyon - Nevada - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Après déjeuner nous partons plein Nord en direction de St George où nous faisons le plein d’essence et de courses et nous nous avançons vers Zion où nous nous arrêtons à une vingtaine de kilomètres et trouvons un bivouac en pleine nature. Journée encore très chaude.
 
 ## 02 juin
 
-Ce matin réveil à 5h30 et départ pour Zion diqtant d’une vingtaine de kilomètres. Nous sommes samedi et il va y avoir beaucoups de monde pour peu de place de parking pour le RV. Nous arrivons vers 6h00, je vais directement au camping du parc qui est ouvert pour faire les Dump et le plein de l’eau et nous nous posons au parking, il y a déjà 4 RV. On prend le temps de déjeuner puis départ par le shuttle pour le trail du jour. Il y a déjà pas mal de monde à l’arrêt N°6 «The Grotto», tous pour la même destination, «Angels landing» (5,4 Miles - 8,7Km + 453 mètres). Le trail commence doucement puis rapidement on se trouve devant une falaise, un vrai mur et on devine au loin des silouhettes le long des lacets. La montée est vraiment raide et arrivé au sommet le trail serpente dans un canyon avant de remonter encore une fois à la verticale, en lacets serrés. Sur la plateau se trouve l’embrachement pour Angels Landing et comment alors la montée sur se promontoir qui se trouve au milieu d’une immense canyon. Le traget se fait le plus souvent sur une crête très étroite avec quand m^me une chaine pour s’assurer un peu. C’est très vrtigineux, de chaque coté plusieurs centaines de mètres de vide. Il y a beaucoup de monde et la vue sur la plateforme et magnifique. Le retour est tout aussi périlleux voir plus.
-De retour au parking  la chaleur est étouffante, la queue monstrueuse pour prendre le shuttle, y aller de bonne heur et la bonne solution.
-Dans l’aprè-midi nous traversons le parc puis le famaux tunnel et faisons route pour Kanab et son fameux visitor center où tous les matins se déroule le tirage au sort pour «The Wave». Le ranger nous démoralise un peu car toutes les belle choses à voir dans la région nécessite d’avoir un 4x4. Pour The Wave il le déconseille sans pour autant y apposer son vétau. On verra bien… Rdv pris pour demain matin 8h30.
+Ce matin réveil à 5h30 et départ pour Zion distant d’une vingtaine de kilomètres. Nous sommes samedi et il va y avoir beaucoup de monde pour peu de place de parking pour les RV. Nous arrivons vers 6h00, je vais directement au camping du parc qui est ouvert pour faire les Dump et le plein de l’eau et nous nous posons au parking, il y a déjà 4 autres RV. On prend le temps de déjeuner puis départ par le shuttle pour le trail du jour. Il y a déjà pas mal de monde à l’arrêt N°6 **The Grotto**, tous pour la même destination, **Angels Landing** (5,4 Miles - 8,7Km + 453 mètres), le trail phare de Zion. Il commence doucement puis rapidement on se trouve devant une falaise, un vrai mur et on devine au loin des silhouettes le long des lacets. La montée est vraiment raide et arrivé au sommet le trail serpente dans un canyon avant de remonter encore une fois à la verticale, en lacets serrés.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27813805847/in/datetaken/" title="Zion NP - Utah - [USA]"><img src="https://farm2.staticflickr.com/1735/27813805847_fb6b597bca_b.jpg" width="1024" height="576" alt="Zion NP - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41782571025/in/datetaken/" title="Zion NP - Utah - [USA]"><img src="https://farm2.staticflickr.com/1724/41782571025_2910aaf031_b.jpg" width="1024" height="576" alt="Zion NP - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Sur le plateau se trouve l’embranchement pour Angels Landing et commence alors la montée sur ce promontoire qui se trouve au milieu de la vallée del rivière Virgin. Le trajet se fait le plus souvent sur une crête très étroite avec le plus souvent une chaîne pour s’assurer un peu. C’est très vertigineux, de chaque coté plusieurs centaines de mètres de vide. Il y a beaucoup de monde et la vue sur la plateforme et magnifique. Le retour est tout aussi périlleux voir plus.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28809052698/in/datetaken/" title="Zion NP - Utah - [USA]"><img src="https://farm2.staticflickr.com/1735/28809052698_78d2c863a8_b.jpg" width="1024" height="683" alt="Zion NP - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27813801007/in/datetaken/" title="Zion NP - Utah - [USA]"><img src="https://farm2.staticflickr.com/1756/27813801007_c7d417f966_b.jpg" width="1024" height="683" alt="Zion NP - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41964280224/in/datetaken/" title="Zion NP - Utah - [USA]"><img src="https://farm2.staticflickr.com/1745/41964280224_b6fca4292e_b.jpg" width="1024" height="683" alt="Zion NP - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+De retour au parking la chaleur est étouffante, la queue monstrueuse pour prendre le shuttle, y aller de bonne heure et la bonne solution.
+Dans l’après-midi nous traversons le parc puis le fameux tunnel et faisons route pour Kanab et son fameux visitor center où tous les matins se déroule le tirage au sort pour «The Wave». Le ranger nous démoralise un peu car toutes les belle choses à voir dans la région nécessite d’avoir un 4x4. Pour The Wave il le déconseille sans pour autant y apposer son vétau. On verra bien… Rdv pris pour demain matin 8h30.
+
+
 Nous traversons la vilkle pour nous poser près d’une parc pour la nuit. A notre arrivée, on se retrouve en plein tournois de Base-Ball des gamins d’une dizaine d’année. Nous passons le reste de la journée à regarder les match jusqu’à la finale. J’ai beau fair des efforts, il y a beaucoup de règles que je ne comprend pas, c’est vraiment un sport bizarre. Cela fait plaisir de partager un peu le quotidien des américains, l’ambiance est bon enfants, il passe leur temps à boire et manger…
 
 
