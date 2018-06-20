@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-chelly.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-chelly.jpg
 tags: [parc-naturel, montagne, geologie, histoire]
-pois: [Chelly]
+pois: [chelly]
 flickr-text: "Canyon de Chelly"
 country: USA 
 states: ["Arizona"]
