@@ -178,12 +178,15 @@ On se lève de bonne heure afin de voir le lever de soleil au niveau de Mesa Arc
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42413963942/in/datetaken/" title="Canyonlands - Utah - [USA]"><img src="https://farm1.staticflickr.com/894/42413963942_514957c282_b.jpg" width="1024" height="576" alt="Canyonlands - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Départ de Canyonlands et route vers un autre parc : **Capitol Reef National Park**. Le temps est un peu maussade, ce qui ne met pas en valeur les couleurs magnifiques des falaises de ce parc. On longe la Fremont river, le long de "Fruita", qui porte ce nom car les mormons y avait planté de nombreux arbres fruitiers. Nous faisons halte au Visitor Center. Nantis de nos renseignements sur les choses à faire, nous empruntons la Scenic Drive qui nous mène à Capitol Gorge Road d'où nous faisons un premier trail "Capitol Gorge" (2 miles - 3,2 Km) qui serpente dans un canyon, ancien lit de rivière, où des pioneers ont laissé une trace de leur passage sur les parois verticales des falaises. De retour, nous nous arrêtons au niveau du camping d'où part un trail "Cohab Canyon" (3,4 Miles - 5,4 km) qui longe la rivière Fremont et monte à flan de montagne et offre une très belle vue sur les falaises du parc.
+Départ de Canyonlands et route vers un autre parc : **Capitol Reef National Park**. Le temps est un peu maussade, ce qui ne met pas en valeur les couleurs magnifiques des falaises de ce parc. On longe la Fremont river, le long de "Fruita", qui porte ce nom car les mormons y avait planté de nombreux arbres fruitiers. Nous faisons halte au Visitor Center. Nantis de nos renseignements sur les choses à faire, nous empruntons la Scenic Drive qui nous mène à Capitol Gorge Road d'où nous faisons un premier trail **Capitol Gorge** (2 miles - 3,2 Km) qui serpente dans un canyon, ancien lit de rivière, où des pioneers ont laissé une trace de leur passage sur les parois verticales des falaises. De retour, nous nous arrêtons au niveau du camping d'où part un trail **Cohab Canyon** (3,4 Miles - 5,4 km) qui longe la rivière Fremont et monte à flan de montagne et offre une très belle vue sur les falaises du parc.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41562049785/in/datetaken/" title="Capitol Reef - Utah - [USA]"><img src="https://farm2.staticflickr.com/1739/41562049785_1066c689d6_b.jpg" width="1024" height="576" alt="Capitol Reef - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41741589774/in/datetaken/" title="Capitol Reef - Utah - [USA]"><img src="https://farm2.staticflickr.com/1734/41741589774_7ca0e84b96_b.jpg" width="1024" height="576" alt="Capitol Reef - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 De retour au camping, qui est complet, nous faisons les dumps et le plein de l'eau avant de quitter le parc et de trouver un terrain où le camping est autorisé. Il y a déjà beaucoup de monde mais nous trouvons une place pour Thor. Toujours pour entretenir la dextérité de Cyrielle, Corinne se fait rafraîchir sa coupe de cheveux.
 
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41741592784/in/datetaken/" title="Capitol Reef - Utah - [USA]"><img src="https://farm2.staticflickr.com/1737/41741592784_bc0edc528e_b.jpg" width="1024" height="576" alt="Capitol Reef - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 22 mai
 
@@ -215,26 +218,47 @@ L’après-midi, nous partons avec Thor sur une partie du parc ouverte à la cir
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40656347180/in/datetaken/" title="Bryce Canyon - Utah - [USA]"><img src="https://farm2.staticflickr.com/1733/40656347180_c230ab9161_b.jpg" width="1024" height="576" alt="Bryce Canyon - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
 ## 24 mai
 
 Ce matin, départ du camping après avoir fait les vides et les pleins et route jusqu’à **Zion National Park**. Après étude des différents avis, nous décidons de passer par l'US 9 qui est le chemin le plus court, mais qui a la particularité de devoir traverser un tunnel, payant pour les RV (15$). Arrivés au parc, nous allons directement au camping et avons la chance de récupérer une place suite à un désistement, tout est Full. Nous allons ensuite faire quelques courses à Springdale et retournons au camping. Après manger, nous prenons la navette pour faire le Trail **The Narrows** (8 miles - 13 Km) qui se trouve dans le lit de la rivière Virgin en s’enfonçant de plus en plus dans un canyon très étroit et très haut, l’eau est à 13°, c’est très sympa. Puis retour au Camping.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42432986342/in/datetaken/" title="Zion - Utah - [USA]"><img src="https://farm2.staticflickr.com/1737/42432986342_42d4829927_b.jpg" width="1024" height="576" alt="Zion - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 25 mai
 
 Ce matin, lever 6h00 pour être de bonne heure sur le terrain. Il y a beaucoup de monde à 7h00 au départ du Shuttle que nous attendons 30 mn. Nous nous arrêtons au niveau de Zion Lodge, et partons faire **Lower, medium et Upper Emerald Pools Trail** pour finir par **Kayenta Trail** où nous reprenons le shuttle au niveau de The Grotto. Très belle promenade à flan de falaise où nous remontons un ruisseau avec plusieurs cascades et piscines naturelles et qui offre une trs belle vue sur la vallée de Zion.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42484009551/in/datetaken/" title="Zion - Utah - [USA]"><img src="https://farm1.staticflickr.com/898/42484009551_1c6028d5a9_b.jpg" width="1024" height="576" alt="Zion - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-De retour au camping nous prenons une bonne douche et faisons les dump et le plein d’aeu et partons pour la ville de St. Georges où nous faisons les pleins d’essence, de gaz, de vivres et faisons faire la vidange de Thor. A midi nous passons un très bon moment dans "Five Guys", restaurant qui propose de très bonnes french fries. En milieu d’après-midi, nous prenons la route pour Valley Of Fire State Park dans le Nevada. Nous trouvons un bivouac en plein désert à une dizaine de kilomètres de l'entrée du parc. Le départ des enfants, approche et Cyrielle me rafraîchit une dernière fois ma coupe de cheveux.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28611689938/in/datetaken/" title="Zion - Utah - [USA]"><img src="https://farm1.staticflickr.com/894/28611689938_d358526e35_b.jpg" width="1024" height="576" alt="Zion - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+De retour au camping nous prenons une bonne douche et faisons les dump et le plein d’eau et partons pour la ville de St. Georges où nous faisons les pleins d’essence, de gaz, de vivres et faisons faire la vidange de Thor. A midi nous passons un très bon moment dans "Five Guys", restaurant qui propose de très bonnes french fries. En milieu d’après-midi, nous prenons la route pour Valley Of Fire State Park dans le Nevada. Nous trouvons un bivouac en plein désert à une dizaine de kilomètres de l'entrée du parc. Le départ des enfants, approche et Cyrielle me rafraîchit une dernière fois ma coupe de cheveux.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41582968645/in/datetaken/" title="Valley Of Fire - Nevada - [USA]"><img src="https://farm2.staticflickr.com/1731/41582968645_f195cfd57c_b.jpg" width="1024" height="768" alt="Valley Of Fire - Nevada - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 26 mai
 
-Ce matin, départ pour notre dernier site naturel. On paye l’entrée 10$ par le système des enveloppes et on visite tous les points d’intérêt. Encore une bizarreries de la nature, en plein milieu d'un désert aux dominantes géologiques plutôt jaune se dresse des roches d'un rouge très foncé. On passe devant des rochers aux formes amusantes, une arches, des pétroglyphes et une réplique de "The Wave". On prend une douche, on fait les dump au niveau du camping du parc et nous prenons la route pour Las Vegas où nous nous arrêtons au Nord de la ville dans un Outlet pour faire quelques achats. En debut de soirée nous partons à pied dans le vieux Vegas à "Fremont Street" où nous passons la soirée à arpenter cette avenue très animées et profiter de l'ambiance et des animations. 
+Ce matin, départ pour notre dernier site naturel. On paye l’entrée 10$ par le système des enveloppes et on visite tous les points d’intérêt. Encore une bizarreries de la nature, en plein milieu d'un désert aux dominantes géologiques plutôt jaune se dresse des roches d'un rouge très foncé. 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27613637507/in/datetaken/" title="Valley Of Fire - Nevada - [USA]"><img src="https://farm2.staticflickr.com/1754/27613637507_f90c37f3d7_b.jpg" width="1024" height="576" alt="Valley Of Fire - Nevada - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42432980892/in/datetaken/" title="Valley Of Fire - Nevada - [USA]"><img src="https://farm1.staticflickr.com/885/42432980892_c0038554c0_b.jpg" width="1024" height="576" alt="Valley Of Fire - Nevada - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40676218010/in/datetaken/" title="Valley Of Fire - Nevada - [USA]"><img src="https://farm1.staticflickr.com/878/40676218010_2c04c1bcbc_b.jpg" width="1024" height="576" alt="Valley Of Fire - Nevada - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/27613639177/in/datetaken/" title="Valley Of Fire - Nevada - [USA]"><img src="https://farm1.staticflickr.com/881/27613639177_444a838804_b.jpg" width="1024" height="683" alt="Valley Of Fire - Nevada - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On passe devant des rochers aux formes amusantes, une arches, des pétroglyphes et une réplique de "The Wave". On prend une douche, on fait les dump au niveau du camping du parc et nous prenons la route pour Las Vegas où nous nous arrêtons au Nord de la ville dans un Outlet pour faire quelques achats. En debut de soirée nous partons à pied dans le vieux Vegas à "Fremont Street" où nous passons la soirée à arpenter cette avenue très animées et profiter de l'ambiance et des animations.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41582968755/in/datetaken/" title="Las Vegas - Nevada - [USA]"><img src="https://farm1.staticflickr.com/877/41582968755_1e4b1c4725_b.jpg" width="1024" height="768" alt="Las Vegas - Nevada - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 27 mai
 
 Histoire de finir ce séjour en beauté, nous faisons la surprise aux enfant et partons nous installer à l'hôtel "Excalibur". Nous arrivons trop tôt pour le check in mais cela nous permet de pouvoir garer Thor sur le parking de l'hôtel et pouvoir partir promener sur le Strip. Nous commençons la découverte des hôtels et les enfants on l'air impressionné par la démesure des lieux. Aujourd'hui est une journée exceptionnelle puisque c'est anniversaire de Corinne et la fête des mères. Pour marquer l'événement, on s'arrête à midi au Caesar Palace où on prend place au "Bacchanal" et son grand buffet. On y passe un très bon moment, les enfants se régale et nous aussi. l’après-midi on fini la "visite" de tous les hôtels puis nous retournons à notre hôtel pour prendre notre chambre. Pendant que l’on se rafraîchis, les enfants prennent le tram pour voir le Mandalay Bay et le Louxor. En debut de soirée on part manger au New York - New York et on repart sur le strip de nuit cette fois-ci pour voir les spectacles gratuits qu’offrent les Hôtels. On rente épuisé de cette grosses journées où on aura parcourue plus de 23 Km.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28612838068/in/datetaken/" title="Las Vegas - Nevada - [USA]"><img src="https://farm2.staticflickr.com/1756/28612838068_42ea44c106_b.jpg" width="1024" height="768" alt="Las Vegas - Nevada - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41582968455/in/datetaken/" title="Las Vegas - Nevada - [USA]"><img src="https://farm2.staticflickr.com/1739/41582968455_a79c2e1407_b.jpg" width="1024" height="768" alt="Las Vegas - Nevada - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 28 mai
 
