@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "40.493254, -108.948132"
-  name: "Dinosaur National Monument, Colorado, USA"
-  date: "18 juin 2018"
+  coordinates: "43.795483, -110.678153"
+  name: "Grand Teton NP, Wyoming, USA"
+  date: "21 juin 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
