@@ -280,7 +280,8 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 
 Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de notre périple.
 
-[Eric et Muriel - Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)
+* [Eric et Muriel - Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)- Rencontrées à Anchorage - Alaska le 12 août 2017 ;
+* [Famille Laclefa - Laclefa4](https://laclefa4.wordpress.com/)- Rencontrées à Grand Teton - Wyoming le 12 juin 2018
 
 ## Divers   
 
