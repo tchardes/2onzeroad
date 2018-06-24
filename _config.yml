@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "43.795483, -110.678153"
-  name: "Grand Teton NP, Wyoming, USA"
-  date: "21 juin 2018"
+  coordinates: "44.704699, -110.598971"
+  name: "Yellowstone NP, Wyoming, USA"
+  date: "25 au 28 juin 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
