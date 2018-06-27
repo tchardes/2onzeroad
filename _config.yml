@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "44.704699, -110.598971"
-  name: "Yellowstone NP, Wyoming, USA"
-  date: "25 au 28 juin 2018"
+  coordinates: "43.490128, -112.037840"
+  name: "Idaho Falls, Idaho, USA"
+  date: "27 juin 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
