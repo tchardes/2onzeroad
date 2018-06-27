@@ -219,6 +219,14 @@
     {"name": "bryce", "displayName": "Bryce National Park", "type": "nature"},
     {"name": "zion", "displayName": "Zion National Park", "type": "nature"},
     {"name": "valley-fire", "displayName": "Valley Of Fire State Park", "type": "nature"},
+    {"name": "teton", "displayName": "Grand Teton National Park", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
 
 
