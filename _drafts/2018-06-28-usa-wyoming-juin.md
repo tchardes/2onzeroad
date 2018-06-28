@@ -87,18 +87,26 @@ On commence par l’extrême Sud du parc pour faire le trail **Bright Angel Poin
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28886786188/in/datetaken/" title="Grand Canyon - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1748/28886786188_e2b57b8a2f_b.jpg" width="1024" height="576" alt="Grand Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous quittons le parc en direction de l’Est. Rapidement nous arrivons sur la US 89A avec ces grandes lignes droites dans une plaine à l’herbe bien jaune et avec sur le coté gauche, une immense falaise de couleur rouge vermillon, "Vermilion Cliffs". Nous nous posons pour la nuit à Cliff Dwellers - Stone House.
+Nous quittons le parc en direction de l’Est. Rapidement nous arrivons sur la US 89A avec ces grandes lignes droites dans une plaine à l’herbe bien jaune et avec sur le coté gauche, une immense falaise de couleur rouge... vermillon, nourmal car nous sommes à "Vermilion Cliffs National Monument". Nous nous posons pour la nuit à Cliff Dwellers - Stone House.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28886634868/in/datetaken/" title="Vermillion Cliffs - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1732/28886634868_6f54eb108c_b.jpg" width="1024" height="576" alt="Vermillion Cliffs - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41867514095/in/photolist-25pdkud-Jvkn8v-L2iRTd-26MFXii-26MGg86-274Swqo-26MGuSk-285TSGh-289yhXg-2749jAA-285djRw-289yQ5M" title="Marble Canyon - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1737/41867514095_85250725ae_k.jpg" width="2048" height="1152" alt="Marble Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ## 04 juin
 
-Ce matin départ du bivouac pour **Marble Canyon** et son "Navajo Bridge" et Visitor Center. Nous rentrons ensuite sur "Recreational Aera Lees Ferry" on nous faisons on super trail **Cathedral Wash** qui serpente dans le lit d’un Wash et se fini dans le Colorado.
+Ce matin départ du bivouac pour **Marble Canyon** et son "Navajo Bridge" et Visitor Center. Nous rentrons ensuite sur "Recreational Aera Lees Ferry" on nous faisons on super trail **Cathedral Wash** qui serpente dans le lit d’un Wash et qui se fini dans le Colorado.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42042406094/in/photolist-25pdkud-Jvkn8v-L2iRTd-26MFXii-26MGg86-274Swqo-26MGuSk-285TSGh-289yhXg-2749jAA-285djRw-289yQ5M" title="Marble Canyon - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1740/42042406094_877865c92c_k.jpg" width="2048" height="1152" alt="Marble Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42050640574/in/photolist-25pdkud-Jvkn8v-L2iRTd-26MFXii-26MGg86-274Swqo-26MGuSk-285TSGh-289yhXg-2749jAA-285djRw-289yQ5M" title="Marble Canyon - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1729/42050640574_4b63e0866e_k.jpg" width="2048" height="1152" alt="Marble Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Puis nous roulons jusqu'à Page pour une courte escale. Nous déjeunons dans un "Denny’s" avant de faire plein de gasoline et du frigo et reprendre la route en direction de Kanad. En route nous nous arrêtons à Paria Rimrocks pour faire **Toadstool Hoodoos Trail** (1,5 Mile - 2,4 Km) très beau trail dans un décors "vanille - chocolat" avec de très beaux Hoodoos. Arrivés à Kanad nous retournons à notre bivouac d’avant hier.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28893869038/in/datetaken/" title="Grand Staircase-Escalante - Utah - [USA]"><img src="https://farm1.staticflickr.com/895/28893869038_6e428e1449_k.jpg" width="2048" height="1152" alt="Grand Staircase-Escalante - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-
-Puis nous roulons pour Page ou nous déjeunons dans un "Denny’s", on y mange très bien, ensuite plein de gasoline et du frigo et nous quittons Page pour un retour sur Kanad. En route nous nous arrêtons à **Toadstool Hoodoos** très beau trail de 1,6 km dans un décors "vanille - chocolat" avec de très beaux Hoodoos. Arrivés à Kanad nous retournons à notre bivouac d’avant hier.
 
 ## 05 juin
 
