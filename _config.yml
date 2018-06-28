@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "43.490128, -112.037840"
-  name: "Idaho Falls, Idaho, USA"
-  date: "28 juin 2018"
+  coordinates: "43.206386, -113.429984"
+  name: "Crater Of The Moon NM, Idaho, USA"
+  date: "29 juin 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
