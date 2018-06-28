@@ -13,11 +13,11 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt17.jpg
 tags: [desert, parc-naturel, geologie, montagne]
 pois: [red-rock-canyon#01-juin, zion#02-juin, ]
 country: USA
-states: ["Nevada", "Colorado", "Utah", "Wyoming"]
+states: ["Nevada", "Colorado", "Utah", "Wyoming", "Idaho"]
 category: "roadmap"
 flickr-text: ""
 location: "36.469495, -112.275060"
-itinary: "2018/utah.json"
+itinary: "2018/wyoming.json"
 mapZoom: 6
 
 ---
