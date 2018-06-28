@@ -67,19 +67,29 @@ Sur le plateau se trouve l’embranchement pour Angels Landing et commence alors
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41964280224/in/datetaken/" title="Zion NP - Utah - [USA]"><img src="https://farm2.staticflickr.com/1745/41964280224_b6fca4292e_b.jpg" width="1024" height="683" alt="Zion NP - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-De retour au niveau di Visitor Center, il fait déjà très chaud. La queue pour prendre le shuttle est très longue, y aller de bonne heure et la bonne solution. Dans l’après-midi nous traversons le parc et repassons par le tunnel et faisons route pour Kanab et son fameux Visitor Center où tous les matins se déroule le tirage au sort pour **The Wave**. Le ranger nous démoralise un peu car toutes les belles choses à voir dans la région nécessitent d’avoir un 4x4. Pour The Wave il le déconseille sans pour autant y apposer son vétau. On verra bien… Rdv pris pour demain matin 8h30.
+De retour au niveau du Visitor Center, il fait déjà très chaud, la queue pour prendre le shuttle est très longue, y aller de bonne heure est la bonne solution. Dans l’après-midi nous traversons le parc et repassons par le tunnel et faisons route pour Kanab et son fameux Visitor Center où tous les matins se déroule le tirage au sort pour **The Wave**. Le ranger nous démoralise un peu car toutes les belles choses à voir dans la région nécessitent d’avoir un 4x4. Pour The Wave il le déconseille sans pour autant y opposer son veto. On verra bien… Rdv pris pour demain matin 8h30.
 
-Nous traversons la ville pour nous poser près d’une parc pour la nuit. A notre arrivée, on se retrouve en plein tournois de Base-Ball des gamins d’une dizaine d’année. Nous passons le reste de la journée à regarder les matchs jusqu’à la finale. J’ai beau faire des efforts, il y a beaucoup de règles que je ne comprends pas, c’est vraiment un sport bizarre. Cela fait plaisir de partager un peu le quotidien des américains, l’ambiance est bon enfant, il passe leur temps à boire et manger…
+Nous traversons la ville pour nous poser près d’un parc pour la nuit. A notre arrivée, on se retrouve en plein tournois de Base-Ball des gamins d’une dizaine d’année. Nous passons le reste de la journée à regarder les matchs jusqu’à la finale. J’ai beau faire des efforts, il y a beaucoup de règles que je ne comprends pas, c’est vraiment un sport bizarre. Cela fait plaisir de partager un peu le quotidien des américains, l’ambiance est bon enfant, il passe leur temps à boire et manger…
 
 ## 03 juin
 
 Ce matin départ du bivouac pour être à 8h30 au Visitor Center pour la loterie "The Wave". Il s’agit d’un lieu mythique qui fait partie du "Paria Canyon-Vermilion Cliffs Wilderness" et qui se trouve plus exactement à "Coyotes Buttes North". Seulement 20 personnes peuvent y acceder avec un permis par jour. 10 par une loterie sur Internet, il faut s’y prendre plus de 6 mois à l’avance et savoir la date précise à laquelle on veut venir ou bien alors pour les 10 autres, venir à Kanab et participer en direct. Une seule incription par groupe. Ce matin nous étions 28 inscrits. Le parc ranger fait tourner les billes et sort le premier N°, un groupe d’asiatiques au nombre de 6… reste plus que 4 places, deuxième boule un groupe d’américains, ils sont 5. Un d’eux devra rester à la maison, les 10 personnes sont désignées, au revoir et à demain pour un nouveau tirage…
 
-On décide donc d’aller voir Grand Canyon mais par le Rim Nord cette fois car nous sommes du bon côté du Colorado. A peine le parc franchi nous sommes accueillis par un gros troupeau de bisons. L'altitude est aux allentour de 2700 mètres, il fait bon, on respire. Ce parc est un peu excentré par rapport à son voisin d’en face, Rim Sud, du coup ce versant, qui aussi beau que l’autre, est moins visité, c’est un peu plus sauvage.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42043705394/in/photolist-274fYQj-YPW1bq-XKZ9kZ-YJzfBb-YGZU7Q-YJAows-VESgy8" title="Kanab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1749/42043705394_e40c203ab6_b.jpg" width="1024" height="576" alt="Kanab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On commence par l’extrême Sud du parc pour faire le trail **Bright Angel Point** 800 mètres assez déclicats mais qui offrent une vue magnifique du canyon. Nous reprenons Thor pour accéder à Cape Royal Road et nous nous arrêtons dans un premier temps à **Point Impérial** puis prenons une autre branche de la route pour accéder à **Cape Royal** en s’arrêtant en route à 3 overlooks avec chaque fois un petit trail. Sur tous ces points la vue est grandiose.
+On décide donc d’aller voir Grand Canyon mais par le versant (Rim) Nord cette fois car nous sommes du bon côté du Colorado. A peine le parc franchi nous sommes accueillis par un gros troupeau de bisons. L'altitude est aux allentour de 2700 mètres, il fait bon, on respire. Ce parc est un peu excentré par rapport à son voisin d’en face, Rim Sud, du coup ce versant, qui aussi beau que l’autre, est moins visité, c’est un peu plus sauvage.
 
-Nous quittons le parc en direction de l’Est. Rapidement nous arrivons sur la US 89A avec ces grandes lignes droites dans une plaine à l’herbe bien jaune et avec sur le coté gauche, une immense fallaise de couleur rouge vermillon, "Vermilion Cliffs". Nous nous posons pour la nuit à Cliff Dwellers - Stone House.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42761170451/in/datetaken/" title="Grand Canyon - Arizona - [USA]"><img src="https://farm1.staticflickr.com/880/42761170451_705e2f90bf_b.jpg" width="1024" height="576" alt="Grand Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On commence par l’extrême Sud du parc pour faire le trail **Bright Angel Point** 800 mètres assez délicats mais qui offrent une vue magnifique du canyon. Nous reprenons Thor pour accéder à Cape Royal Road et nous nous arrêtons dans un premier temps à **Point Impérial** puis prenons une autre branche de la route pour accéder à **Cape Royal** en s’arrêtant en route à 3 overlooks avec chaque fois un petit trail. Sur tous ces points la vue est grandiose.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41860688325/in/datetaken/" title="Grand Canyon - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1738/41860688325_386691f0fe_b.jpg" width="1024" height="576" alt="Grand Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28886786188/in/datetaken/" title="Grand Canyon - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1748/28886786188_e2b57b8a2f_b.jpg" width="1024" height="576" alt="Grand Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous quittons le parc en direction de l’Est. Rapidement nous arrivons sur la US 89A avec ces grandes lignes droites dans une plaine à l’herbe bien jaune et avec sur le coté gauche, une immense falaise de couleur rouge vermillon, "Vermilion Cliffs". Nous nous posons pour la nuit à Cliff Dwellers - Stone House.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28886634868/in/datetaken/" title="Vermillion Cliffs - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1732/28886634868_6f54eb108c_b.jpg" width="1024" height="576" alt="Vermillion Cliffs - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ## 04 juin
@@ -186,27 +196,63 @@ Nous quitons la ville en direction de Grand Teton, rapidement la chaine de monta
 
 ## 20 juin
 
-
+Nuit pluvieuse, ce matin toutes les montagnes sont dans les nuages, nous allons au visitor center récupérer de la doc et voir le film et nous passons la journée dans une librairie.
+En fin d’après-midi le temps se lêve un peu et nous traversons le parc pour rejoirndre le bivouac et faisons quelques arrêts photos.
 
 ## 21 juin
 
 
-
+Ce matin le temps est au beau et les montagnes sont magnifiques. Nous rentrons par le Nord du Parc et faisons plusieurs arrêts **Oxbow Bend**, **Jackson lake Dam** et arrivé au niveau de **Chapel of Sacred Heart** on voit de l’agitation et plusieurs Park rangers qui délimite une zone. Nous nous garons et voyons une oursonne avec ces trois petits en train de s’en prendre à un tronc, posé par les rangers our délimiter une zone. Ce dernier doit être entièrement pourri et plein de « protéines ». Toujours est-il mieux vaut ne pas être à sa place. Le temps de prendre quelques photos à la volée et la belle famille s’en va dans la forêt. Nous faisons la boucle autour de **Jenny lake** et nous nous posons au visitor center. Je pars faire **Moose Ponds Trail** (2 miles - ) petit trail qui contourne un prtit lac, malheureusement sans moose à l’horizon mais une marmotes qui a pris la pose pour moi puis retourne à Thor. Après déjeuner, je prends la bateau pour traverser le lac (9$ l’aller et 15$ l’aller et retour) et je monte jusqu’à **Hiden Falls**,  **Inspiration point lower** puis retour au visitor center par le **Jenny Lake Loop**.
+Nous reprenons Thor allons à Jackson lake pour trouver du WIFI, car je ici je n’ai que la 2G, et vu le pemps de ces prochains jours, nous décidons de rester ici pour le WE. Nous faisons les courses à Albertsons pour tenir quelque jour et repartons au bivouac en faisant un arrêt en route à **Snake River Overlook** qui offre une très belle vue sur Teton. De retour au bivouac nous voyons à nouveau le Layka sur porteur Iveco immetriclé dans le 56. je vais taper à leur porte et nous faisons connaissance de X et Y avec leur deux enfants qui arrive d’amérique du Sud après 1 an et demi de voyage (http://laclefa4.wordpress.com/). Nous discutons un long moment autour d’une bière en nous faisons dévorer par les moutiques et échangeons nos expériences sur ce fabuleux voyage.
 
 
 ## 22 juin
 
-
+Journée au camp de base. Le temps ne c’est pas levé.
 
 
 
 ## 23 juin
 
-
-
+Ce matin les temps est gris comme annoncé. Nous partons à Jackson pour faire la vidange de Thor, passer à la laverie et nons finissons à la bibliothèque qui ferme à 14h30 le samedi. Retour au bivouac où nous prenons un peu de hauteur, avec la vue directe sur Teton. Petite sénace Timelapse avant la tombée de la nuit. Je discute un long moment avec lla dame du RV à coté de moi, photographe eslle aussis, venant de l’Arizona.
 
 ## 24 juin
 
+Ce matin le beau temps est au rendez-vous même si quelques nuages este accrochés aux cîmes des montagnes.
+Ce matin nous avons décidé de faire les Points de vues qui se trouvent sur la route qui mène à Jackson. Après «Snake River Overlook » nous quittons la route pour une petite piste qui nous à «Schwabacher Landing» au bord de la rivière. Un petit trail longe le cours d’eau au bord du quel nous rencontrons une jeune femelle Orignal avec qui nous partgéons un bout de trail, chacun sur une rive. Nous finissons sur une point de vue célèbre, sur « Antelope Flats road » où de vieille fermes de Mormons ont été conservées.
+Nous passons le reste de l’après-midi à la bibliothèque s’occuper des papiers et photos avant de faire retour au bivouac.
 
+
+
+## 25 juin
+
+Ce matin départ de notre bivouac avec encore une vue superbe sur Grand Teton avec un grand soleil. Nous prenons la route plein Nord en direction de Yellowstone. Nous sortons du parc pour renter dans **John D. Rockefeller, Jr. Memorial Parkway** avant d’enter à Yellowstone. C’est notre deuxième visite de cet incroyable parC. Nous décidons cette année de le visiter dans le sens inverse des aiguilles d’une montre. Le paysage est toujours aussi beau, nous croisons une faune importante, cerf, bisons et une oursonne avec son petit. Nous en profitons également pour prendre la direction de la sortie Nord Est du parc afin de traverser « Lamar Valley », lieu où le parc à réintroduit le loup en 1995. Le long de la rivière s’étend une très belle prairie où pesce plusieurs centaines de Bisons. nous en profitons pour fair un trail qui nous mène « Trout Lake ».  Nous montons jusqu’à Mammoth Hot Spring et sortons du parc pour retrouver le même bivouac que l’année dernière à la sortie de la ville. En route, un abruti en gros pick-up qui regardait le paysage plustôt que la route m’a explosé la vitre de mon rétro et a continué sa route comme si de rien n’était.
+
+
+## 26 juin
+
+
+Départ de Gardiner après avoir pris un peu d’essence puis on rerentre dans le parc et dans le Wyoming. Premier arrêt à Mammoth Hor Springs ouù nous refaisons le tour. On reprned la route et voyons de nombreuses personnes arrêtées n’importe comment, cela signifie animal en vue et effectivement il y a un bel ours noir qui «broute» de l’herbe bien verte. Cette route est toujours en travaux depuis au moin l’année dernière et la circulation est alternée. Nous nous arrêtons ensuite à niveau de «Fairy Falls» pour voir Grand Prismatic avec une peu de hauteur, tout simplement magnifique. Nus sontinuons vers le Sud et nous nous arrêtons à «Old Faithful», sur le parking de l’hôtel, contruit entre 1903 et 1904 et qui se déclare être le plus grand batiment au monde construit en rondin. C’est vrai que l’intérieur et magnifique. Nous faisons le tour de tous les jeysers de la zone et nous rencontrons de couples d’expat avec des enfants qui vivent à Houston au Texas et qui rentre cet été après 3 années passée aux USA. Pas vraiment ravis de leur séjour ils ont hâte de revenir en france. Il faut dire que Houston et le Texas en général ce n’est pas le top mais tout deux travaillent dans le pétrochimique.
+Nous remontons un peu pour prende la sortie Ouest du Parc et nous faisons un dernier arrêt à Grand Prismatic, juste pour le plaisir des yeux. Au niveau de Madison non rentrons dans le camping du parc qui est naturellement full et nous faisons les dumps et le plein d’eau avant de ressortir ni vue ni connu.. Quelques courses à West Yellostone avant de prendre la route en direction de l’Idaho où nous trouvons un bivoac bien sympa en pleine forêt.
+
+## 27 juin
+
+Départ du bivouac pour un camping. En route nous faisons un petit détour par la « Mesa Falls Scenic Byway » reès belle route dans une forêt avec en arrière plan Grand Téton, côté Ouest du massif. Arrivée à Rexburg où nous aovns repéré un camping qui prens le Pass America. après midi logistique et traitement des photos et vidéos.
+
+
+## 28 juin
+
+
+
+
+
+## 29 juin
+
+
+
+
+
+
+## 30 juin
 
 
