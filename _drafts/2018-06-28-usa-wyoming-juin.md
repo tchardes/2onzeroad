@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "Du Nevada au wyoming"
+title:   "Du Nevada à l'Idaho"
 preview: "..."
 parent-id: 
 
@@ -13,7 +13,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-wyoming.jpg
 tags: [desert, parc-naturel, geologie, montagne]
 pois: [red-rock-canyon#01-juin, zion#02-juin, ]
 country: USA
-states: ["Nevada", "Colorado", "Utah", "Wyoming", "Idaho"]
+states: ["Nevada", "Utah", "Colorado", "Wyoming", "Idaho"]
 category: "roadmap"
 flickr-text: ""
 location: "40.738536, -114.023937"
@@ -22,7 +22,7 @@ mapZoom: 5
 
 ---
 
-Cet article couvre la période du 28 mai au  2018 durant laquelle 
+Cet article couvre la période du 28 mai au  2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado, du Wyoming et de l'Idaho.  
 
 ## 28 mai
 
@@ -32,8 +32,7 @@ Après avoir raccompagné les enfants à l'aéroport nous regagnons le walmart p
 
 Les températures ont vraiment augmenté et la nuit a été très chaude dans Thor. Ce matin on se rend CampingWorld (Spécialiste des RV) et on obtient un rendez-vous pour demain matin pour la révision générale de notre générateur et notre problème électrique. On passe le reste de la matinée à courir les magasins spécialisés à la recherche d'un porte roue de secours mais en vain. A midi à s'octroie un repas au Mc Donald et on fini la journée dans une très belle bibliothèque du Sud de Las Vegas afin de traiter les photos et vidéos. On nous "met à la porte" à 20H00, fini la clim et retour à la chaleur.
 
-Ce matin départ du Walmart, on se rend compte que l’on s’était garé hier soir juste devant un panneau "No Overnight", oupsss… Nous allons à notre rendez-vous et nous y restons jusqu’à 16h30. Une fois de plus ils ne veulent pas s'occuper de mon problème électrique et m'aff
-irment que le problème vient de la batterie de service, ce qui n'a rien à voir avec la charge de celle-ci par l'alternateur. Nous finissons la journée au frais à la bibliothèque. On aimerai reprendre la route en étant à jour. Une fois au bivouac je contrôle quand même le travail effectuée sur le générateur et je m'aperçois qu'il on bien fait la vidange mais n'ont pas changé le filtre à air…
+Ce matin départ du Walmart, on se rend compte que l’on s’était garé hier soir juste devant un panneau "No Overnight", oupsss… Nous allons à notre rendez-vous et nous y restons jusqu’à 16h30. Une fois de plus ils ne veulent pas s'occuper de mon problème électrique et m'affirment que le problème vient de la batterie de service, ce qui n'a rien à voir avec la charge de celle-ci par l'alternateur. Nous finissons la journée au frais à la bibliothèque. On aimerai reprendre la route en étant à jour. Une fois au bivouac je contrôle quand même le travail effectuée sur le générateur et je m'aperçois qu'il on bien fait la vidange mais n'ont pas changé le filtre à air…
 
 Ce matin on retourne à Camping World où je pousse un coup de gueule, en anglais s’il vous plait. Finalement une responsable vient et  convient que le service fournit n’était pas celui attendu. Ils me reprennent Thor pour faire une vrai maintenance sur le générateur à savoir changement de filtre à air et essence et nettoyage du carburateur. Il nous le rende à 16 heures… Ils ne me font payer que les pièces. Du coups on retourne à la bibliothèque pour finir l’envoi des photos puis retour au Walmart.
 
