@@ -4,12 +4,12 @@ title:   "Du Nevada au wyoming"
 preview: "..."
 parent-id: 
 
-date:        2018-06-21 13:00:00
+date:        2018-06-28 13:00:00
 from-date:   2018-05-28 13:00:00
 to-date:     2018-06-28 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt17.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt17.jpg
+header-img: "assets/owner/blog/header/post-bg-wyoming.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-wyoming.jpg
 tags: [desert, parc-naturel, geologie, montagne]
 pois: [red-rock-canyon#01-juin, zion#02-juin, ]
 country: USA
