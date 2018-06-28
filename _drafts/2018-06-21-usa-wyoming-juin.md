@@ -16,9 +16,9 @@ country: USA
 states: ["Nevada", "Colorado", "Utah", "Wyoming", "Idaho"]
 category: "roadmap"
 flickr-text: ""
-location: "36.469495, -112.275060"
+location: "40.738536, -114.023937"
 itinary: "2018/wyoming.json"
-mapZoom: 6
+mapZoom: 5
 
 ---
 
