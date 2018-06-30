@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "42.595415, -114.400533"
-  name: "Shosho Falls Park, Idaho, USA"
+  name: "Shoshone Falls Park, Idaho, USA"
   date: "30 juin 2018"
 
 # set the encoding to utf-8
