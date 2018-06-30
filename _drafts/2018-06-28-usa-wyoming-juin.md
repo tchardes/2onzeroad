@@ -325,15 +325,15 @@ Départ du bivouac pour un camping. En route nous faisons un petit détour par l
 
 ## 28 juin
 
-
+Départ du camping en fin de matinée et route vers Idaho Falls. Nous passons un bon moment à faire le tour des garages Ford, venderue et réparatuers de RV pour trouver un mirroir pour le rétroviseur extérieur mais en vain. On déjeune dans un Denny’s puis nous passons le reste de l’après-midi à la bibliothèque de la ville avant de ragagner un walmamrt pour la nuit après avoir fait le plein de gasoline et du frigo.
 
 
 
 ## 29 juin
 
-
-
-
+Ce matin départ d’Idaho Falls direction plein Ouest. Notre premier arrêt et visite est pour le **EBR-1 Atomic Museum** qui fait partie du National Historic Landmark. Il s’agit du premier réacteur nucléaire américain qui a fourni pour la première fois de l’électricté « nucléaire » le 20.12.1951. Le réacteur est resté en fonction de 1951 à 1964 puis a été transformé en musée. La visite est gratuite et des tours sont organisés en Anglais. Nous avons opté pour une auto visite. Un extension du site permet de découvrir un peu la générations suivante des reacteurs avec l’EBR-2 qui est resté en service jusqu’en 1994. Ce dernier se trouve dans le desert de l’Idaho où a été créé sur 2300 Km2, l’ INL (Idaho National Laboratory) dédié au nucleaire. Dans cette zone sont en fonction 52 réacteurs, la plus grande concentration au monde (la France en compte 56). La ville la plus proche ce nome « Atomic City ». La visite est très intéressante, très bien aménagé et pédagogique, comme toujours aux states.
+Nous partons ensuite pour **Craters Of The Moon**. Nous réservons une place au camping pour cette nuit, allons visiter le visitor Center, voir le film de présentation et récupérer la Doc avant de nous engager sur la scenic Drive de 11 Km. Ce parc protège une zone qui s’étend sur 215 Km2 qui est une vaste étendue de lave avec des ilots de cônes de cendre. Ce paysage est le résultat d’éruptions périodiques le long du « Great Riff », une chaîne de fentes et de fissures de près de 100 Km de long. Son vient du fait que l’on se croirait vraiment sur une autre planete, d’ailleur la NASA y a envoye les astronaute qui sont allés sur la Lune pour entrainement dont Alan shepard et où les scientifiques qui travaillent sur le voyage habité pour mars viennent tester technique et équipement. 
+L’entrée est gratuite avec le Pass America The Beautiful, Il faut compter une grosse dem-journée si l’on veut tout faire. Nous nous arrêtons à tous les overlook et effectuons les trails, «North Crater Trail» (0,5 Km) qui traverse une des plus récentes coulées de lave qui a charié des fragments de cratères, «Devils Orchard Nature Trail» (0,8 km) où des fragments de lave se dressent sur une étendue de cendre, « Inferno Cone» (0,7 Km) au sommet duquel on bénéficie d’une très belle vue sur le Great Rift et plusiuers cône de cendrres, «Snow Cone et Spatter Cones» des volcans miniatures, « Tree Molds Trail » (3 Km) qui permet de voir des empruntes d’arbres dans la lave et enfin « Broken Top Trail » (3 Km) qui fait le tour d’une cône de cendre avec des grotes «Buffalo Caves» et un overlook « Big Sink ». Comme le temps se couvre de plus en plus et que la pluie commence à tomber nous rentrons au camping. 
 
 
 ## 30 juin
