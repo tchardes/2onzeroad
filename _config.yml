@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "42.781689, -114.952278"
-  name: "Hagerman Fossil Beds NM, Idaho, USA"
-  date: "30 juin 2018"
+  coordinates: "40.763125, -111.905708"
+  name: "Salt Lake City, Utah, USA"
+  date: "01 juillet 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
