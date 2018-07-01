@@ -170,13 +170,6 @@ A La sortie du parc il est encore bonne heure, on roule jusqu’à Grand Junctio
 
 Départ du Walmart où la nuit a été très chaude. Nous retournons un peu sur nos pas pour aller jusqu’au Visitor Center du Colorado où nous faisons les dumps et le plein d’eau et nous partons en direction, de **Grand Mesa** qui se trouve à une heure de route de Grand Junction par la "Grand Mesa Scenic ByWay". La route monte jusqu’à un plateau qui culmine aux alentours des 2800 mètres. Nous passons un col à plus de 3400 mètres. En une heure de route on passe d’une décors désertique très minéral à la savoie… Sur le plateau de nombreux lacs s’auto-alimentent. Nous faisons une très belle ballade autour de "Alexandre Lake" et "Baron Lake". De nombreux pêcheurs à la ligne et surtout à la mouche s’affèrent.
 
-
-
-
-
-
-
-
 En milieu d’après midi on reprend la route en direction de l’Est pour emprunter une partie de la "West Elk Loop Scenic Byway". Nous faisons un petit détour pour voir le village de Marble dont les montagnes alentours offrent un marbre très blanc qui a servi à la construction de nombreux édifices publics aux USA. De nombreux artistes, sculpteurs s’y sont installés et la route est jalonnée de blocs de marbre et d’oeuvres en tous genres. Nous nous arrêtons au camping du National Forest qui est complet. Nous reprenons un peu la route et trouvons un bivouac le long de la rivière Gunisson.
 
 ## 10 juin
