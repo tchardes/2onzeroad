@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "40.763125, -111.905708"
   name: "Salt Lake City, Utah, USA"
-  date: "01 juillet 2018"
+  date: "02 au 05 juillet 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
