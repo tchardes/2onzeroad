@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Craters Of The Moon National Monument & Preserv"
+title:      "Craters Of The Moon National Monument & Preserve"
 preview:    "..."
 parent-id:  2018-07-01-usa-wyoming-juin
 
