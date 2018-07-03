@@ -174,7 +174,7 @@ En milieu d’après midi on reprend la route en direction de l’Est pour empru
 
 ## 10 juin
 
-Ce matin départ du bivouac, nuit calme mais froide, nous avons ressorti la couette. Départ pour Aspen pour voir les fameux **Marron Bells** où se trouve, soit disant, le lac et les montagnes les plus photographiée d’Amérique du Nord. Nous traversons Aspen qui est une très belle ville, station de ski huppée. Nous ne pouvons y aller avec Thor mais un système de Navette est mis en place à partir du Visitor Center pour le prix de 8$ aller-retour. Nous prenons la navette et arrivons au pied du lac Marron d’où on bénéficie d’une très belle vue les montagnes en fond, un peu comme à Lac Moraine et Louise au Canada.
+Ce matin départ du bivouac, nuit calme mais froide, nous avons ressorti une fois de plus la couette. Départ pour Aspen pour voir les fameux **Marron Bells** où se trouve, soit disant, le lac et les montagnes les plus photographiés d’Amérique du Nord. Nous traversons Aspen qui est une très belle ville, station de ski huppée. Nous ne pouvons y aller avec Thor mais un système de Navette est mis en place à partir du Visitor Center pour le prix de 8$ aller-retour. Nous prenons la navette et arrivons au pied du lac Marron d’où on bénéficie d’une très belle vue les montagnes en fond, un peu comme à Lac Moraine et Louise au Canada.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40970122100/in/datetaken/" title="Maroon Bells - Colorado - [USA]"><img src="https://farm2.staticflickr.com/1747/40970122100_4fdbb06d4f_k.jpg" width="2048" height="1152" alt="Maroon Bells - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
