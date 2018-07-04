@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "40.763125, -111.905708"
-  name: "Salt Lake City, Utah, USA"
-  date: "02 au 05 juillet 2018"
+  coordinates: "40.440928, -111.708836"
+  name: "Timpanogos Cave National Monument, Utah, USA"
+  date: "05 juillet 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
