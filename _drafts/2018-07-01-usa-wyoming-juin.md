@@ -22,7 +22,7 @@ mapZoom: 5
 
 ---
 
-Cet article couvre la période du 28 mai au 2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du Wyoming. 
+Cet article couvre la période du 28 mai au 2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du Wyoming.
 
 ## 28 mai
 
