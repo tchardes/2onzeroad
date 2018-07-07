@@ -1,19 +1,19 @@
 ---
 layout:  blog
-title:   "Du Nevada à l'Idaho"
-preview: "..."
+title:   "Du Nevada au Wyoming"
+preview: "Cet article couvre la période du 28 mai au  2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du Wyoming..."
 parent-id: 
 
 date:        2018-06-28 13:00:00
 from-date:   2018-05-28 13:00:00
-to-date:     2018-06-28 13:00:00
+to-date:     2018-06-26 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-wyoming.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-wyoming.jpg
 tags: [desert, parc-naturel, geologie, montagne]
 pois: [red-rock-canyon#01-juin, zion#02-juin, ]
 country: USA
-states: ["Nevada", "Utah", "Colorado", "Wyoming", "Idaho"]
+states: ["Nevada", "Utah", "Colorado", "Wyoming"]
 category: "roadmap"
 flickr-text: ""
 location: "40.738536, -114.023937"
@@ -22,7 +22,7 @@ mapZoom: 5
 
 ---
 
-Cet article couvre la période du 28 mai au  2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado, du Wyoming et de l'Idaho.  
+Cet article couvre la période du 28 mai au  2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du Wyoming.  
 
 ## 28 mai
 
@@ -102,7 +102,7 @@ Ce matin départ du bivouac pour **Marble Canyon** et son "Navajo Bridge" et Vis
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42050640574/in/photolist-25pdkud-Jvkn8v-L2iRTd-26MFXii-26MGg86-274Swqo-26MGuSk-285TSGh-289yhXg-2749jAA-285djRw-289yQ5M" title="Marble Canyon - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1729/42050640574_4b63e0866e_k.jpg" width="2048" height="1152" alt="Marble Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Puis nous roulons jusqu'à Page pour une courte escale. Nous déjeunons dans un "Denny’s" avant de faire plein de gasoline et du frigo et reprendre la route en direction de Kanad. En route nous nous arrêtons à Paria Rimrocks pour faire **Toadstool Hoodoos Trail** (1,5 Mile - 2,4 Km) très beau trail dans un décors "vanille - chocolat" avec de très beaux Hoodoos. Arrivés à Kanad nous retournons à notre bivouac d’avant hier.
+Puis nous roulons jusqu'à Page pour une courte escale. Nous déjeunons dans un "Denny’s" avant de faire plein de gasoline et du frigo et reprendre la route en direction de Kanab. En route nous nous arrêtons à Paria Rimrocks pour faire **Toadstool Hoodoos Trail** (1,5 Mile - 2,4 Km) très beau trail dans un décors "vanille - chocolat" avec de très beaux Hoodoos. Arrivés à Kanab nous retournons à notre bivouac d’avant hier.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/28893869038/in/datetaken/" title="Grand Staircase-Escalante - Utah - [USA]"><img src="https://farm1.staticflickr.com/895/28893869038_6e428e1449_k.jpg" width="2048" height="1152" alt="Grand Staircase-Escalante - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -140,7 +140,7 @@ Nous faisons dans un premier une ballade au milieu de Goblins, ces petites forma
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41875505125/in/datetaken/" title="Goblin Valley - Utah - [USA]"><img src="https://farm2.staticflickr.com/1752/41875505125_d4f3632db4_k.jpg" width="2048" height="1365" alt="Goblin Valley - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
- Comme le parc ferme à 22 heures 00, on assiste au coucher de soleil, mangeons sur place avant de quitter les lieux et trouvons un super bivouac en pleine nature à une dizaine de kilomètres.
+Comme le parc ferme à 22 heures 00, on assiste au coucher de soleil, mangeons sur place avant de quitter les lieux et trouvons un super bivouac en pleine nature à une dizaine de kilomètres.
 
 
 ## 07 juin
@@ -191,7 +191,7 @@ Ce matin départ pour l’électricien auto que nous avions rencontré au mois d
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41880223785/in/datetaken/" title="Denver - Colorado - [USA]"><img src="https://farm1.staticflickr.com/888/41880223785_cb1a0d73d1_k.jpg" width="2048" height="1152" alt="Denver - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Je dépose Corinne à l’hôtel avec les bagages et je file à "Lakewood Auto Electric" où je laisse Thor en réexpliquant mon problème de charge de batterie. Je rentre à l’hôtel en bus et nous passons la journée à traiter photos et vidéos. Le lendemain je reprends le bus et retourne au garage pour voir l’avancée des travaux et être sûr qu’ils m’ont bien compris. Tout à l'air OK, ils sont confiants. A midi on mange dans un resto sympa "Brothers BBQ" qui propose une cuisine américaine et le soir nous pour changer un peu on trouve un restaurant italien "Olive Gerden" qui nous propose en amuse bouche une soupe minestrone digne de nos grand-mére.
+Je dépose Corinne à l’hôtel avec les bagages et je file à "Lakewood Auto Electric" où je laisse Thor en réexpliquant mon problème de charge de batterie. Je rentre à l’hôtel en bus et nous passons la journée à traiter photos et vidéos. Le lendemain je reprends le bus et retourne au garage pour voir l’avancée des travaux et être sûr qu’ils m’ont bien compris. Tout à l'air OK, ils sont confiants. A midi on mange dans un resto sympa "Brothers BBQ" qui propose une cuisine américaine et le soir nous pour changer un peu on trouve un restaurant italien "Olive Gerden" qui nous propose en amuse bouche une soupe minestrone digne de nos grand-mère.
 
 Ce Matin récupération de Thor chez le garagiste puis courses chez CampingWorld, on mange a midi dans une pizzeria puis on passe l’après-midi à la bibliothèque publique. Retour au Walmart pour les courses et la nuit.
 
@@ -231,7 +231,6 @@ A partir de Grand Lake nous empruntons une autre scenic ByWay "Colorado River He
 
 Hier soir nous avons du descendre une piste assez raide pour trouver notre bivouac. Cette nuit il a pas mal plu et au réveil il pleuviote encore. Au moment du départ on est un peu inquiet de savoir si Thor va arriver à remonter cette piste détrempée mais c’était sans compter sa propulsion arrière sur roues jumelées alimentées par un V10, il a grimpé comme si de rien n’était. On pouvait lire le soulagement sur le visage de la co-pilote.
 
-
 On reprend la scenic ByWay "Colorado River Headwaters" sous une pluie intermittente. Le paysage malgré le temps est magnifique, on se croirait sur un haut plateau écossais. A une moyenne de 2500 mètres d’altitude le paysage se décompose en prairies, tourbières, lacs, forêts avec des nuages bas qui s’accroche à la cime des résineux. Ne manque que la silhouette fantomatique d’une vieux château et un air de cornemuse… On passe le col de Muddy Pass qui culmine à 2700 mètres avant de redescendre sur Steamboat Springs, petit bourgade qui abrite une station de ski. Comme c’est la fête des pères nous faisons une halte à Mc Donald à midi et j’ai même droit à un Milkshake !!!!!!. Après cette pose nous reprenons la route vers l’Ouest et le décor change radicalement pour une steppe aride que l’on va traverser jusqu’à Dinosaur où nous nous posons au Visitor Center du Colorado pour la nuit.
 
 
@@ -253,7 +252,7 @@ Nous quittons le parc en début d’après-midi et faisons escale au Walmart de 
 
 ## 19 juin
 
-Ce matin on se lève sous la pluie. La météo annonce une accalmie en milieu de matinée du coup on traîne un peu. Avant de quitter la ville nous faisons le plein de Propane puis nous partons en direction de **Grang Teton National Park**. Nous traversons une immense pleine verdoyante composée essentiellement de prairies. Vers l’ouest, le temps est très chargé et rapidement des orages éclates au loin avec quelques éclairs. Je trouve un endroit pour me stationner et sors le matériel pour tenter d’en prendre un ou deux en photo. Pas évident de les capter de jour.
+Ce matin on se lève sous la pluie. La météo annonce une accalmie en milieu de matinée du coup on traîne un peu. Avant de quitter la ville nous faisons le plein de Propane puis nous partons en direction de **Grang Teton National Park**. Nous traversons une immense plaine verdoyante composée essentiellement de prairies. Vers l’ouest, le temps est très chargé et rapidement des orages éclates au loin avec quelques éclairs. Je trouve un endroit pour me stationner et sors le matériel pour tenter d’en prendre un ou deux en photo. Pas évident de les capter de jour.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/29052882918/in/datetaken/" title="Boulder - Wyoming - [USA]"><img src="https://farm1.staticflickr.com/884/29052882918_fd8d06055a_k.jpg" width="2048" height="1152" alt="Boulder - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -266,31 +265,25 @@ Il existe une grande réserve de ces animaux à Jackson et chaque année les sco
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/29052881038/in/datetaken/" title="Jackson - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1784/29052881038_91b2b11a85_k.jpg" width="2048" height="1152" alt="Jackson - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous quittons la ville en direction de Grand Teton, rapidement la chaîne de montagne se découvre sur notre gauche, un peu dans les nuages. C’est vraiment très beau. Comme la pluie est annoncée début de soirée, nous longeons le parc sans y entrer et nous trouvons un bivouac au Nord du parc dans la National Forest avec une vue superbe sur les montagnes.
+Nous quittons la ville en direction de Grand Teton, rapidement la chaîne de montagne se découvre sur notre gauche, un peu dans les nuages. C’est vraiment très beau. Comme la pluie est annoncée en début de soirée, nous longeons le parc sans y entrer et nous trouvons un bivouac au Nord du parc dans la National Forest avec une vue superbe sur les montagnes.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42925386701/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1829/42925386701_3d92d9f433_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## 20 juin
+## 20 au 24 juin
 
-Nuit pluvieuse, ce matin toutes les montagnes sont dans les nuages, nous allons au visitor center récupérer de la doc et voir le film et nous passons la journée dans une librairie.
-En fin d’après-midi le temps se lève un peu et nous traversons le parc pour rejoindre le bivouac et faisons quelques arrêts photos.
+Nuit pluvieuse, ce matin toutes les montagnes sont dans les nuages, nous allons au visitor center récupérer de la doc et voir le film et nous passons la journée dans une librairie. En fin d’après-midi le temps se lève un peu et nous traversons le parc pour rejoindre le bivouac et faisons quelques arrêts photos.
 
-## 21 juin
+Ce matin le soleil est revenu et les montagnes sont magnifiques. Nous rentrons par l'éntrée Nord du Parc et faisons plusieurs arrêts à des overlooks **Oxbow Bend**, **Jackson lake Dam** et arrivé au niveau de **Chapel of Sacred Heart** on voit de l’agitation et plusieurs Park Rangers qui délimitent une zone. Nous nous garons et voyons une oursonne avec ces trois petits en train de s’en prendre à un tronc, posé par les rangers pour délimiter une zone. Ce dernier doit être entièrement pourri et plein de "protéines". Toujours est-il mieux vaut ne pas être à sa place. Le temps de prendre quelques photos à la volée et la belle famille repart dans la forêt.
 
+Nous faisons la boucle autour de **Jenny lake** et nous nous posons au visitor center. Je pars faire **Moose Ponds Trail** (2 miles - ) petit trail qui contourne un petit lac, malheureusement sans moose à l’horizon mais une marmotte qui a pris la pose pour moi. Après déjeuner, je prends la bateau pour traverser le lac (9$ l’aller et 15$ l’aller et retour) et je monte jusqu’à **Hiden Falls**,  **Inspiration Point Lower** puis retour au visitor center par le **Jenny Lake Loop**.
 
-Ce matin le temps est au beau et les montagnes sont magnifiques. Nous rentrons par le Nord du Parc et faisons plusieurs arrêts **Oxbow Bend**, **Jackson lake Dam** et arrivé au niveau de **Chapel of Sacred Heart** on voit de l’agitation et plusieurs Park rangers qui délimite une zone. Nous nous garons et voyons une oursonne avec ces trois petits en train de s’en prendre à un tronc, posé par les rangers our délimiter une zone. Ce dernier doit être entièrement pourri et plein de « protéines ». Toujours est-il mieux vaut ne pas être à sa place. Le temps de prendre quelques photos à la volée et la belle famille s’en va dans la forêt. Nous faisons la boucle autour de **Jenny lake** et nous nous posons au visitor center. Je pars faire **Moose Ponds Trail** (2 miles - ) petit trail qui contourne un prtit lac, malheureusement sans moose à l’horizon mais une marmotes qui a pris la pose pour moi puis retourne à Thor. Après déjeuner, je prends la bateau pour traverser le lac (9$ l’aller et 15$ l’aller et retour) et je monte jusqu’à **Hiden Falls**,  **Inspiration point lower** puis retour au visitor center par le **Jenny Lake Loop**.
-Nous reprenons Thor allons à Jackson lake pour trouver du WIFI, car je ici je n’ai que la 2G, et vu le pemps de ces prochains jours, nous décidons de rester ici pour le WE. Nous faisons les courses à Albertsons pour tenir quelque jour et repartons au bivouac en faisant un arrêt en route à **Snake River Overlook** qui offre une très belle vue sur Teton. De retour au bivouac nous voyons à nouveau le Layka sur porteur Iveco immetriclé dans le 56. je vais taper à leur porte et nous faisons connaissance de X et Y avec leur deux enfants qui arrive d’amérique du Sud après 1 an et demi de voyage (http://laclefa4.wordpress.com/). Nous discutons un long moment autour d’une bière en nous faisons dévorer par les moutiques et échangeons nos expériences sur ce fabuleux voyage.
-
-
-## 22 juin
-
-Journée au camp de base. Le temps ne c’est pas levé.
+Nous reprenons Thor allons jusqu'à Jackson Lake pour trouver du WIFI, car je ici je n’ai que la 2G, et vu le temps de ces prochains jours, nous décidons de rester ici pour le WE. Nous faisons les courses à Albertsons pour tenir quelque jour et repartons au bivouac en faisant un arrêt en route à **Snake River Overlook** qui offre une très belle vue sur Teton. De retour au bivouac nous voyons à nouveau le Layka sur porteur Iveco immatriculé dans le 56. Je vais taper à leur porte et nous faisons connaissance d'une jeune coule avec leurs deux enfants qui arrivent d’Amérique du Sud après 1 an et demi de voyage (http://laclefa4.wordpress.com/). Nous discutons un long moment autour d’une bière en nous faisons dévorer par les moustiques et échangeons nos expériences sur ce fabuleux voyage.
 
 
+Le 22 juin le temps ne c'est pas levé et nous avons passé la journée au camp de base. Le lendemain le temps est gris comme annoncé. Nous partons à Jackson pour faire la vidange de Thor, passer à la laverie et nous finissons à la bibliothèque qui ferme à 14h30 le samedi. Retour au bivouac où nous prenons un peu de hauteur, avec la vue directe sur Teton. Petite séance Timelapse avant la tombée de la nuit. Je discute un long moment avec notre "voisine", photographe elle aussi, venant de l’Arizona.
 
-## 23 juin
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pYRSR0WPqkU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Ce matin les temps est gris comme annoncé. Nous partons à Jackson pour faire la vidange de Thor, passer à la laverie et nons finissons à la bibliothèque qui ferme à 14h30 le samedi. Retour au bivouac où nous prenons un peu de hauteur, avec la vue directe sur Teton. Petite sénace Timelapse avant la tombée de la nuit. Je discute un long moment avec lla dame du RV à coté de moi, photographe eslle aussis, venant de l’Arizona.
 
 ## 24 juin
 
@@ -310,25 +303,4 @@ Ce matin départ de notre bivouac avec encore une vue superbe sur Grand Teton av
 
 Départ de Gardiner après avoir pris un peu d’essence puis on rerentre dans le parc et dans le Wyoming. Premier arrêt à Mammoth Hor Springs ouù nous refaisons le tour. On reprned la route et voyons de nombreuses personnes arrêtées n’importe comment, cela signifie animal en vue et effectivement il y a un bel ours noir qui «broute» de l’herbe bien verte. Cette route est toujours en travaux depuis au moin l’année dernière et la circulation est alternée. Nous nous arrêtons ensuite à niveau de «Fairy Falls» pour voir Grand Prismatic avec une peu de hauteur, tout simplement magnifique. Nus sontinuons vers le Sud et nous nous arrêtons à «Old Faithful», sur le parking de l’hôtel, contruit entre 1903 et 1904 et qui se déclare être le plus grand batiment au monde construit en rondin. C’est vrai que l’intérieur et magnifique. Nous faisons le tour de tous les jeysers de la zone et nous rencontrons de couples d’expat avec des enfants qui vivent à Houston au Texas et qui rentre cet été après 3 années passée aux USA. Pas vraiment ravis de leur séjour ils ont hâte de revenir en france. Il faut dire que Houston et le Texas en général ce n’est pas le top mais tout deux travaillent dans le pétrochimique.
 Nous remontons un peu pour prende la sortie Ouest du Parc et nous faisons un dernier arrêt à Grand Prismatic, juste pour le plaisir des yeux. Au niveau de Madison non rentrons dans le camping du parc qui est naturellement full et nous faisons les dumps et le plein d’eau avant de ressortir ni vue ni connu.. Quelques courses à West Yellostone avant de prendre la route en direction de l’Idaho où nous trouvons un bivoac bien sympa en pleine forêt.
-
-## 27 juin
-
-Départ du bivouac pour un camping. En route nous faisons un petit détour par la « Mesa Falls Scenic Byway » reès belle route dans une forêt avec en arrière plan Grand Téton, côté Ouest du massif. Arrivée à Rexburg où nous aovns repéré un camping qui prens le Pass America. après midi logistique et traitement des photos et vidéos.
-
-
-## 28 juin
-
-Départ du camping en fin de matinée et route vers Idaho Falls. Nous passons un bon moment à faire le tour des garages Ford, venderue et réparatuers de RV pour trouver un mirroir pour le rétroviseur extérieur mais en vain. On déjeune dans un Denny’s puis nous passons le reste de l’après-midi à la bibliothèque de la ville avant de ragagner un walmamrt pour la nuit après avoir fait le plein de gasoline et du frigo.
-
-
-
-## 29 juin
-
-Ce matin départ d’Idaho Falls direction plein Ouest. Notre premier arrêt et visite est pour le **EBR-1 Atomic Museum** qui fait partie du National Historic Landmark. Il s’agit du premier réacteur nucléaire américain qui a fourni pour la première fois de l’électricté « nucléaire » le 20.12.1951. Le réacteur est resté en fonction de 1951 à 1964 puis a été transformé en musée. La visite est gratuite et des tours sont organisés en Anglais. Nous avons opté pour une auto visite. Un extension du site permet de découvrir un peu la générations suivante des reacteurs avec l’EBR-2 qui est resté en service jusqu’en 1994. Ce dernier se trouve dans le desert de l’Idaho où a été créé sur 2300 Km2, l’ INL (Idaho National Laboratory) dédié au nucleaire. Dans cette zone sont en fonction 52 réacteurs, la plus grande concentration au monde (la France en compte 56). La ville la plus proche ce nome « Atomic City ». La visite est très intéressante, très bien aménagé et pédagogique, comme toujours aux states.
-Nous partons ensuite pour **Craters Of The Moon**. Nous réservons une place au camping pour cette nuit, allons visiter le visitor Center, voir le film de présentation et récupérer la Doc avant de nous engager sur la scenic Drive de 11 Km. Ce parc protège une zone qui s’étend sur 215 Km2 qui est une vaste étendue de lave avec des ilots de cônes de cendre. Ce paysage est le résultat d’éruptions périodiques le long du « Great Riff », une chaîne de fentes et de fissures de près de 100 Km de long. Son vient du fait que l’on se croirait vraiment sur une autre planete, d’ailleur la NASA y a envoye les astronaute qui sont allés sur la Lune pour entrainement dont Alan shepard et où les scientifiques qui travaillent sur le voyage habité pour mars viennent tester technique et équipement. 
-L’entrée est gratuite avec le Pass America The Beautiful, Il faut compter une grosse dem-journée si l’on veut tout faire. Nous nous arrêtons à tous les overlook et effectuons les trails, «North Crater Trail» (0,5 Km) qui traverse une des plus récentes coulées de lave qui a charié des fragments de cratères, «Devils Orchard Nature Trail» (0,8 km) où des fragments de lave se dressent sur une étendue de cendre, « Inferno Cone» (0,7 Km) au sommet duquel on bénéficie d’une très belle vue sur le Great Rift et plusiuers cône de cendrres, «Snow Cone et Spatter Cones» des volcans miniatures, « Tree Molds Trail » (3 Km) qui permet de voir des empruntes d’arbres dans la lave et enfin « Broken Top Trail » (3 Km) qui fait le tour d’une cône de cendre avec des grotes «Buffalo Caves» et un overlook « Big Sink ». Comme le temps se couvre de plus en plus et que la pluie commence à tomber nous rentrons au camping. 
-
-
-## 30 juin
-
 
