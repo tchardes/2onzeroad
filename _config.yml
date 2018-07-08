@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "40.859562, -119.331578"
-  name: "Fly Geyser, Nevada, USA"
-  date: "08 juillet 2018"
+  coordinates: "39.586658, -119.238343"
+  name: "Fernley, Nevada, USA"
+  date: "08 et 09 juillet 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
