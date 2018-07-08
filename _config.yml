@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "40.859562, -119.331578"
   name: "Fly Geyser, Nevada, USA"
-  date: "06 juillet 2018"
+  date: "08 juillet 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
