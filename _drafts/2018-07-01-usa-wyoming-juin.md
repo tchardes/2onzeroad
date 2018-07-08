@@ -266,23 +266,10 @@ Nuit pluvieuse, ce matin toutes les montagnes sont dans les nuages, nous allons 
 
 Ce matin le soleil est revenu et les montagnes sont magnifiques. Nous rentrons par l'entrée Nord du Parc et faisons plusieurs arrêts à des overlooks **Oxbow Bend**, **Jackson Lake Dam** et arrivé au niveau de **Chapel of Sacred Heart** on voit de l’agitation et plusieurs Park Rangers qui délimitent une zone. Nous nous garons et voyons une oursonne avec ces trois petits en train de s’en prendre à un tronc, posé par les rangers pour délimiter une zone. Ce dernier doit être entièrement pourri et plein de "protéines". Toujours est-il mieux vaut ne pas être à sa place. Le temps de prendre quelques photos à la volée et la belle famille repart dans la forêt.
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41179878130/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1770/41179878130_c1de250695_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41179874620/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1764/41179874620_012cb3ea22_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41179874230/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1801/41179874230_11b7b0bb07_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41179873450/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1807/41179873450_14a405736a_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous faisons la boucle autour de **Jenny lake** et nous nous posons au Visitor Center. Je pars faire **Moose Ponds Trail** (2 miles - ) petit trail qui contourne un petit lac, malheureusement sans moose à l’horizon mais une marmotte qui a pris la pose pour moi. Après déjeuner, je prends le bateau pour traverser le lac (9$ l’aller et 15$ l’aller et retour) et je monte jusqu’à **Hiden Falls**, **Inspiration Point Lower** puis retour au Visitor Center par le **Jenny Lake Loop**.
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41179872010/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1774/41179872010_5d843a2f37_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42088419985/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1774/42088419985_8e5403e92f_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 Nous reprenons Thor allons jusqu'à Jackson Lake pour trouver du WIFI, car je ici je n’ai que la 2G, et vu le temps de ces prochains jours, nous décidons de rester ici pour le WE. Nous faisons les courses à Albertsons pour tenir quelque jour et repartons au bivouac en faisant un arrêt en route à **Snake River Overlook** qui offre une très belle vue sur Teton. 
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41179868520/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1807/41179868520_4473bf0da1_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 De retour au bivouac nous voyons à nouveau le Layka sur porteur Iveco immatriculé dans le 56. Je vais taper à leur porte et nous faisons connaissance d'une jeune coule avec leurs deux enfants qui arrivent d’Amérique du Sud après 1 an et demi de voyage (http://laclefa4.wordpress.com/). Nous discutons un long moment autour d’une bière en nous faisons dévorer par les moustiques et échangeons nos expériences sur ce fabuleux voyage.
 

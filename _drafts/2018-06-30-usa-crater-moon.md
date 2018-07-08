@@ -10,7 +10,7 @@ header-img: "assets/owner/blog/header/post-bg-teton.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-teton.jpg
 tags: [parc-naturel, montagne, geologie, volcan]
 pois: [crater-moon]
-flickr-text: "Crater Of The Moon"
+flickr-text: "Crater of the Moon"
 country: USA 
 states: ["Idaho"]
 city: 
