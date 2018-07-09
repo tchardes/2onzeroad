@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Du Nevada au Wyoming"
-preview: "Cet article couvre la période du 28 mai au 26 juin 2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du Wyoming..."
+preview: "Cet article couvre la période du 28 mai au 26 juin 2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du Wyoming avec deux petites incursions dans le Montana..."
 parent-id: 
 
 date:        2018-06-28 13:00:00
@@ -13,7 +13,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-wyoming.jpg
 tags: [desert, parc-naturel, geologie, montagne]
 pois: [red-rock-canyon#01-juin, zion#02-juin, grand-canyon-nord#03-juin, marble-canyon#04-juin, kodachrome#05-juin, capitol-reef#06-juin, goblin#06-juin, colorado#08-juin, grand-mesa#09-juin, marron-bells#10-juin, denver#11-au-14-juin, red#15-juin, roxborough#15-juin, rocky-mountain#16-juin, dinosaur#18-juin, teton#20-au-24-juin, yellowstone#25-et-26-juin]
 country: USA
-states: ["Nevada", "Utah", "Colorado", "Wyoming"]
+states: ["Nevada", "Utah", "Colorado", "Wyoming", "Montana"]
 category: "roadmap"
 flickr-text: ""
 location: "40.738536, -114.023937"
