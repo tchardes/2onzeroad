@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Du Nevada au Wyoming"
-preview: "Cet article couvre la période du 28 mai au 26 juin 2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et..."
+preview: "Cet article couvre la période du 28 mai au 26 juin 2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du..."
 parent-id: 
 
 date:        2018-06-28 13:00:00
@@ -248,7 +248,7 @@ Ce matin, on se lève sous la pluie. La météo annonce une accalmie en milieu d
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/29052882918/in/datetaken/" title="Boulder - Wyoming - [USA]"><img src="https://farm1.staticflickr.com/884/29052882918_fd8d06055a_k.jpg" width="2048" height="1152" alt="Boulder - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Les nuages viennent vers nous et nous voyons un début de tornade qui descend puis file à l’horizontale avant même de toucher le sol puis disparaît. Je commence à recevoir quelques gouttes et plie rapidement le matos, les éclairs devant être devant l’objectif et non directement sur l’appareil photo. A peine rentrés, nous essuyons un déluge de grêle, de petite taille fort heureusement, durant presque une heure. On en profite pour manger sur place et dès que le soleil revient, nous reprenons la route. A 70 kilomètres de Jackson, nous arrivons dans une vallée très alpine au fond de laquelle coule l’Hoback River, pas en crue mais bien haute. Le paysage est splendide avec encore beaucoup de neige sur les sommets et nous donne un avant-goût de Grand Teton. Nous faisons une halte à Jackson très belle petit ville touristique de type Western avec sa place "Jackson Town Square" dont les 4 accès se font sous des arches composées de bois de Wapiti et de Cerf.
+Les nuages viennent vers nous et nous voyons un début de tornade qui descend puis file à l’horizontale avant même de toucher le sol puis disparaît. Je commence à recevoir quelques gouttes et plie rapidement le matos, les éclairs devant être devant l’objectif et non directement sur l’appareil photo. A peine rentrés, nous essuyons un déluge de grêle, de petite taille fort heureusement, durant presque une heure. On en profite pour manger sur place et dès que le soleil revient, nous reprenons la route. A 70 kilomètres de Jackson, nous arrivons dans une vallée très alpine au fond de laquelle coule l’Hoback River, pas en crue mais bien haute. Le paysage est splendide avec encore beaucoup de neige sur les sommets et nous donne un avant-goût de Grand Teton. Nous faisons une halte à Jackson très belle petite ville touristique de type Western avec sa place "Jackson Town Square" dont les 4 accès se font sous des arches composées de bois de Wapiti et de Cerf.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/29052881998/in/datetaken/" title="Jackson - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1767/29052881998_7ace380a1b_k.jpg" width="2048" height="1152" alt="Jackson - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -266,17 +266,17 @@ Nuit pluvieuse, ce matin toutes les montagnes sont dans les nuages, nous allons 
 
 Ce matin, le soleil est revenu et les montagnes sont magnifiques. Nous visitons le parc depuis l'entrée Nord puis nous allons jusqu'à Jackson Lake pour trouver du Wi-Fi, car ici je n’ai que la 2G. Vu le temps annoncé ces prochains jours, nous décidons de rester ici pour le week-end. Nous faisons les courses à AlbertSons pour tenir quelques jours et repartons au bivouac où nous voyons un camping-car Laika sur porteur Iveco immatriculé en France dans dans le 56. Je vais taper à leur porte et nous faisons connaissance d'une jeune couple avec leurs deux enfants en plein tour du monde et qui arrivent d’Amérique du Sud après un an et demi de voyage (http://laclefa4.wordpress.com/). Nous discutons un long moment autour d’une bière en nous faisant dévorer par les moustiques et échangeons nos expériences sur ce fabuleux voyage.
 
-Le 22 juin, le temps ne s'est pas levé et nous avons passé la journée au camp de base. Le lendemain, le temps est gris comme annoncé. Nous partons à Jackson pour faire la vidange de Thor, passer à la laverie et nous finissons à la bibliothèque qui ferme à 14h30 le samedi. Retour au bivouac où nous prenons un peu de hauteur, avec la vue directe sur Teton. Petite séance Timelapse avant la tombée de la nuit. Je discute un long moment avec notre "voisine", photographe elle aussi, venant de l’Arizona.
+Le 22 juin, le temps ne s'est pas levé et nous avons passé la journée au camp de base. Le lendemain, le temps est gris comme annoncé. Nous partons à Jackson pour faire la vidange de Thor, passer à la laverie et nous finissons à la bibliothèque qui ferme à 14h30 le samedi. Retour au bivouac où nous prenons un peu de hauteur, avec la vue directe sur Teton. Petite séance Timelapse avec l'appareil photos avant la tombée de la nuit. Je discute un long moment avec notre "voisine", photographe elle aussi, venant de l’Arizona.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pYRSR0WPqkU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Ce matin, le beau temps est au rendez-vous même si quelques nuages restent accrochés aux cimes des montagnes. Pour cette journée, nous avons décidé de faire les points de vues qui se trouvent sur la route (US 91) qui mène à Jackson et nous passons le reste de l’après-midi à la bibliothèque s’occuper des papiers et photos avant de faire retour au bivouac.
+Ce matin, le beau temps est au rendez-vous même si quelques nuages restent accrochés aux cimes des montagnes. Pour cette journée, nous avons décidé de faire les points de vues qui se trouvent sur la route (US 91) qui mène à Jackson et nous passons le reste de l’après-midi à la bibliothèque s’occuper des papiers et photos avant de faire retour au bivouac.  
 
-**(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-06-25-usa-teton %}">ici</a>)**
+ 
 
 ## 25 et 26 juin
 
-Ce matin, départ de notre bivouac avec encore une vue superbe sur Grand Teton avec un grand soleil. Nous prenons la route plein Nord en direction de Yellowstone. Nous sortons du parc pour rentrer dans **John D. Rockefeller, Jr. Memorial Parkway** avant d’enter à Yellowstone. C’est notre deuxième visite de cet incroyable parc. Nous décidons cette année de le visiter dans le sens inverse des aiguilles d’une montre. Le paysage est toujours aussi beau, nous croisons une faune importante, cerf, bisons et une ourse avec son petit.
+Ce matin, départ de notre bivouac avec encore une vue superbe sur Grand Teton avec un grand soleil. **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2018/2018-06-25-usa-teton %}">ici</a>)**. Nous prenons la route plein Nord en direction de Yellowstone. Nous sortons du parc pour rentrer dans **John D. Rockefeller, Jr. Memorial Parkway** avant d’enter à Yellowstone. C’est notre deuxième visite de cet incroyable parc. Nous décidons cette année de le visiter dans le sens inverse des aiguilles d’une montre. Le paysage est toujours aussi beau, nous croisons une faune importante, cerf, bisons et une ourse avec son petit.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42170340745/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm1.staticflickr.com/839/42170340745_45117a41f6_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
