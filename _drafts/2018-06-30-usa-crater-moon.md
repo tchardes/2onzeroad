@@ -2,9 +2,9 @@
 layout:     blog
 title:      "Craters Of The Moon National Monument & Preserve"
 preview:    "..."
-parent-id:  2018-07-01-usa-wyoming-juin
+parent-id:  2018-07-00-usa-californir-juillet
 
-date:       2018-06-25 12:00:00
+date:       2018-06-30 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-teton.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-teton.jpg
@@ -18,7 +18,7 @@ category: "blog"
 location: "43.219207, -113.503443"
 ---
 
-Le monument national et la réserve de cratères de la lune est un monument national des États - Unis et une réserve nationale dans la plaine de Snake River dans le centre de l' Idaho . C'est le long de l' US 20 ( concurremment avec US 93 et US 26 ), entre les petites villes d' Arco et de Carey , à une altitude moyenne de 5 900 pieds (1 800 m) au-dessus du niveau de la mer . Les caractéristiques de l' aire protégée sont volcaniques et représentent l'une des zones de basaltes inondables les mieux préservées des États-Unis continentaux.
+**Craters Of The Moon National Monument & Preserve** est un monument national des États - Unis et une réserve nationale dans la plaine de Snake River dans le centre de l' Idaho . C'est le long de l' US 20 ( concurremment avec US 93 et US 26 ), entre les petites villes d' Arco et de Carey , à une altitude moyenne de 5 900 pieds (1 800 m) au-dessus du niveau de la mer . Les caractéristiques de l' aire protégée sont volcaniques et représentent l'une des zones de basaltes inondables les mieux préservées des États-Unis continentaux.
 
 Le Monument a été établi le 2 mai 1924. [3] En novembre 2000, une proclamation présidentielle par le Président Clinton a considérablement augmenté la zone de Monument. Les portions du parc national du parc national ont été désignées réserve nationale des cratères de la lune en août 2002. Elles se trouvent dans certaines parties des comtés de Blaine , Butte , Lincoln , Minidoka et Power . La zone est gérée en coopération par le Service des parcs nationaux et le Bureau of Land Management (BLM). [4]
 
