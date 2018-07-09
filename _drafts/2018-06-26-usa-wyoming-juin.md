@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Du Nevada au Wyoming"
-preview: "Cet article couvre la période du 28 mai au  2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du Wyoming..."
+preview: "Cet article couvre la période du 28 mai au 26 juin 2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du Wyoming..."
 parent-id: 
 
 date:        2018-06-28 13:00:00
@@ -178,7 +178,7 @@ Après un petit tour du lac nous reprenons la navette car les nuages arrivent au
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/40970073710/in/datetaken/" title="Aspen - Colorado - [USA]"><img src="https://farm2.staticflickr.com/1734/40970073710_6bc6597256_k.jpg" width="2048" height="1152" alt="Aspen - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous la quittons pour remonter sur Denver par une route que nous avions déjà prise au mois d’avril, sur les hauts plateaux, préférant celle-ci à l’Interstate 70. Peu avant d'arriver sur Denver, nous avons vu notre premier Orignal des USA qui semblait un peu perdu. Arrivé à la capitale du Colorado nous tentons le camping d’un state park mais étant complet, nous finissons dans l’un des seuls Walmart qui accepte les RV dans la Région.
+Nous la quittons pour remonter sur Denver par une route que nous avions déjà prise au mois d’avril, sur les hauts plateaux, préférant celle-ci à l’Interstate 70. Peu avant d'arriver sur Denver, nous avons vu notre premier Orignal des USA qui semblait un peu perdu. Arrivé à la capitale du Colorado nous tentons le camping d’un State Park mais étant complet, nous finissons dans l’un des seuls Walmart qui accepte les RV dans la Région.
 
 ## 11 au 14 juin
 
@@ -186,7 +186,7 @@ Ce matin départ pour l’électricien auto que nous avions rencontré au mois d
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41880223785/in/datetaken/" title="Denver - Colorado - [USA]"><img src="https://farm1.staticflickr.com/888/41880223785_cb1a0d73d1_k.jpg" width="2048" height="1152" alt="Denver - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Je dépose Corinne à l’hôtel avec les bagages et je file à "Lakewood Auto Electric" où je laisse Thor en réexpliquant mon problème de charge de batterie. Je rentre à l’hôtel en bus et nous passons la journée à traiter photos et vidéos. Le lendemain je reprends le bus et retourne au garage pour voir l’avancée des travaux et être sûr qu’ils m’ont bien compris. Tout à l'air OK, ils sont confiants. A midi on mange dans un resto sympa "Brothers BBQ" qui propose une cuisine américaine et le soir nous pour changer un peu on trouve un restaurant italien "Olive Gerden" qui nous propose en amuse bouche une soupe minestrone digne de nos grand-mères.
+Je dépose Corinne à l’hôtel avec les bagages et je file à "Lakewood Auto Electric" où je laisse Thor en réexpliquant mon problème de charge de batterie. Je rentre à l’hôtel en bus et nous passons la journée à traiter photos et vidéos. Le lendemain je reprends le bus et retourne au garage pour voir l’avancée des travaux et être sûr qu’ils m’ont bien compris. Tout à l'air OK, ils sont confiants. A midi on mange dans un resto sympa "Brothers BBQ" qui propose une cuisine américaine et le soir nous pour changer un peu on trouve un restaurant italien "Olive Garden" qui nous propose en amuse bouche une soupe minestrone digne de nos grand-mères.
 
 Ce Matin récupération de Thor chez le garagiste puis courses chez CampingWorld, on mange a midi dans une pizzeria puis on passe l’après-midi à la bibliothèque publique. Retour au Walmart pour les courses et la nuit.
 
@@ -218,13 +218,13 @@ Nous passons le col à 3713 mètres qui offre un très beau panorama. Cela doit 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/28054183937/in/datetaken/" title="Rocky Mountain - Colorado - [USA]"><img src="https://farm2.staticflickr.com/1770/28054183937_1af743745e_k.jpg" width="2048" height="1152" alt="Rocky Mountain - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A partir de Grand Lake nous empruntons une autre scenic ByWay "Colorado River Headwaters" qui va jusqu’à State Bridge (80 miles au total) mais nous nous arrêtons à "Hot Sulphur Springs" où nous trouvons un bivouac au bord du Colorado.
+A partir de Grand Lake nous empruntons une autre Scenic ByWay "Colorado River Headwaters" qui va jusqu’à State Bridge (80 miles au total) mais nous nous arrêtons à "Hot Sulphur Springs" où nous trouvons un bivouac au bord du Colorado.
 
 ## 17 juin
 
 Hier soir nous avons du descendre une piste assez raide pour trouver notre bivouac. Cette nuit il a pas mal plu et au réveil il pleuviote encore. Au moment du départ on est un peu inquiet de savoir si Thor va arriver à remonter cette piste détrempée mais c’était sans compter sa propulsion arrière sur roues jumelées alimentées par un V10, il a grimpé comme si de rien n’était. On pouvait lire le soulagement sur le visage de la co-pilote.
 
-On reprend la scenic ByWay "Colorado River Headwaters" sous une pluie intermittente. Le paysage malgré le temps est magnifique, on se croirait sur un haut plateau écossais. A une moyenne de 2500 mètres d’altitude le paysage se décompose en prairies, tourbières, lacs, forêts avec des nuages bas qui s’accroche à la cime des résineux. Ne manque que la silhouette fantomatique d’une vieux château et un air de cornemuse… On passe le col de Muddy Pass qui culmine à 2700 mètres avant de redescendre sur Steamboat Springs, petit bourgade qui abrite une station de ski. Comme c’est la fête des pères nous faisons une halte à Mc Donald à midi et j’ai même droit à un Milkshake !!!!!!. Après cette pose nous reprenons la route vers l’Ouest et le décor change radicalement pour une steppe aride que l’on va traverser jusqu’à Dinosaur où nous nous posons au Visitor Center du Colorado pour la nuit.
+On reprend la Scenic ByWay "Colorado River Headwaters" sous une pluie intermittente. Le paysage malgré le temps est magnifique, on se croirait sur un haut plateau écossais. A une moyenne de 2500 mètres d’altitude le paysage se décompose en prairies, tourbières, lacs, forêts avec des nuages bas qui s’accroche à la cime des résineux. Ne manque que la silhouette fantomatique d’une vieux château et un air de cornemuse… On passe le col de Muddy Pass qui culmine à 2700 mètres avant de redescendre sur Steamboat Springs, petit bourgade qui abrite une station de ski. Comme c’est la fête des pères nous faisons une halte à Mc Donald à midi et j’ai même droit à un Milkshake !!!!!!. Après cette pose nous reprenons la route vers l’Ouest et le décor change radicalement pour une steppe aride que l’on va traverser jusqu’à Dinosaur où nous nous posons au Visitor Center du Colorado pour la nuit.
 
 ## 18 juin
 
@@ -264,7 +264,7 @@ Nous quittons la ville en direction de Grand Teton, rapidement la chaîne de mon
 
 Nuit pluvieuse, ce matin toutes les montagnes sont dans les nuages, nous allons au Visitor Center récupérer de la doc et voir le film et nous passons la journée dans une librairie. En fin d’après-midi le temps se lève un peu et nous traversons le parc pour rejoindre le bivouac et faisons quelques arrêts photos.
 
-Ce matin le soleil est revenu et les montagnes sont magnifiques. Nous visitons le parc depuis l'entrée Nord puis nous allons jusqu'à Jackson Lake pour trouver du Wi-Fi, car je ici je n’ai que la 2G. Vu le temps annoncé ces prochains jours, nous décidons de rester ici pour le week-end. Nous faisons les courses à Albertsons pour tenir quelques jours et repartons au bivouac où nous voyons à nouveau le camping-car Layka sur porteur Iveco immatriculé dans le 56. Je vais taper à leur porte et nous faisons connaissance d'une jeune coule avec leurs deux enfants qui arrivent d’Amérique du Sud après 1 an et demi de voyage (http://laclefa4.wordpress.com/). Nous discutons un long moment autour d’une bière en nous faisant dévorer par les moustiques et échangeons nos expériences sur ce fabuleux voyage.
+Ce matin le soleil est revenu et les montagnes sont magnifiques. Nous visitons le parc depuis l'entrée Nord puis nous allons jusqu'à Jackson Lake pour trouver du Wi-Fi, car je ici je n’ai que la 2G. Vu le temps annoncé ces prochains jours, nous décidons de rester ici pour le week-end. Nous faisons les courses à AlbertSons pour tenir quelques jours et repartons au bivouac où nous voyons à nouveau le camping-car Laika sur porteur Iveco immatriculé dans le 56. Je vais taper à leur porte et nous faisons connaissance d'une jeune couple avec leurs deux enfants en plein tour du monde et qui arrivent d’Amérique du Sud après un an et demi de voyage (http://laclefa4.wordpress.com/). Nous discutons un long moment autour d’une bière en nous faisant dévorer par les moustiques et échangeons nos expériences sur ce fabuleux voyage.
 
 Le 22 juin le temps ne c'est pas levé et nous avons passé la journée au camp de base. Le lendemain le temps est gris comme annoncé. Nous partons à Jackson pour faire la vidange de Thor, passer à la laverie et nous finissons à la bibliothèque qui ferme à 14h30 le samedi. Retour au bivouac où nous prenons un peu de hauteur, avec la vue directe sur Teton. Petite séance Timelapse avant la tombée de la nuit. Je discute un long moment avec notre "voisine", photographe elle aussi, venant de l’Arizona.
 
@@ -273,7 +273,6 @@ Le 22 juin le temps ne c'est pas levé et nous avons passé la journée au camp 
 Ce matin le beau temps est au rendez-vous même si quelques nuages restent accrochés aux cimes des montagnes. Pour cette journée, nous avons décidé de faire les points de vues qui se trouvent sur la route qui mène à Jackson et nous passons le reste de l’après-midi à la bibliothèque s’occuper des papiers et photos avant de faire retour au bivouac.
 
 **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-06-25-usa-teton %}">ici</a>)**
-
 
 ## 25 et 26 juin
 
@@ -285,11 +284,11 @@ Ce matin départ de notre bivouac avec encore une vue superbe sur Grand Teton av
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42170349905/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm1.staticflickr.com/927/42170349905_4680e10ccd_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous en profitons également pour prendre la direction de la sortie Nord-Est du parc afin de traverser "Lamar Valley", lieu où le parc à réintroduit le loup en 1995. Le long de la rivière s’étend une très belle prairie où paissent plusieurs centaines de Bisons. nous en profitons pour fair un trail qui nous mène "Trout Lake". Nous montons jusqu’à Mammoth Hot Spring et sortons du parc pour retrouver le même bivouac que l’année dernière à la sortie de la ville. En route, un abruti en gros pick-up qui regardait le paysage plutôt que la route m’a explosé le miroir de mon rétro et a continué sa route comme si de rien n’était.
+Nous en profitons également pour prendre la direction de la sortie Nord-Est du parc afin de traverser "Lamar Valley", lieu où le parc à réintroduit le loup en 1995. Le long de la rivière s’étend une très belle prairie où paissent plusieurs centaines de Bisons. nous en profitons pour fair un trail qui nous mène "Trout Lake". Nous montons jusqu’à "Mammoth Hot Spring" et sortons du parc pour retrouver le même bivouac que l’année dernière à la sortie de la ville. En route, un abruti en gros pick-up qui regardait le paysage plutôt que la route m’a explosé le miroir de mon rétro et a continué sa route comme si de rien n’était.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42170316915/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm1.staticflickr.com/836/42170316915_6616c46462_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Départ de Gardiner après avoir pris un peu d’essence puis on rentre dans le parc et dans le Wyoming. Premier arrêt à Mammoth Hor Springs où nous refaisons le tour.
+Départ de Gardiner après avoir pris un peu d’essence puis on rentre dans le parc et dans le Wyoming. Premier arrêt à Mammoth Hot Springs où nous refaisons le tour.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42356431444/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1828/42356431444_8925350fdd_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -297,10 +296,11 @@ On reprend la route et voyons de nombreuses personnes arrêtées n’importe com
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42170284105/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm1.staticflickr.com/841/42170284105_af1948fab7_k.jpg" width="2048" height="441" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous continuons vers le Sud et nous nous arrêtons à "Old Faithful", sur le parking de l’hôtel, construit entre 1903 et 1904 et qui se déclare être le plus grand bâtiment au monde construit en rondin. C’est vrai que l’intérieur et magnifique. Nous faisons le tour de tous les geysers de la zone et nous rencontrons de couples d’expat avec des enfants qui vivent à Houston au Texas et qui rentre cet été après 3 années passée aux USA. Pas vraiment ravis de leur séjour ils ont hâte de revenir en France. Il faut dire que Houston et le Texas en général ce n’est pas le top mais tout deux travaillent dans le pétrochimique.
+Nous continuons vers le Sud et nous nous arrêtons à "Old Faithful", sur le parking de l’hôtel, construit entre 1903 et 1904 et qui se déclare être le plus grand bâtiment au monde construit en rondin. C’est vrai que l’intérieur et magnifique. Nous faisons le tour de tous les geysers de la zone et nous rencontrons deux couples d’expatrier avec des enfants qui vivent à Houston au Texas et qui rentrent cet été après 3 années passée aux USA. Pas vraiment ravis de leur séjour ils ont hâte de revenir en France. Il faut dire que Houston et le Texas en général ce n’est pas le top mais tout deux travaillent dans le pétrochimique.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42356426544/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1808/42356426544_955c8b0d20_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/43075477331/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1827/43075477331_3750cf9691_k.jpg" width="2048" height="1365" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous remontons un peu pour prendre la sortie Ouest du Parc et nous faisons un dernier arrêt à Grand Prismatic, juste pour le plaisir des yeux. Au niveau de Madison non rentrons dans le camping du parc qui est naturellement full et nous faisons les dumps et le plein d’eau avant de ressortir ni vue ni connu.. Quelques courses à West Yellowstone avant de prendre la route en direction de l’Idaho où nous trouvons un bivouac bien sympa en pleine forêt.
+
