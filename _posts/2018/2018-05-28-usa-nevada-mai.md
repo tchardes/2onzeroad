@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt17.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt17.jpg
 tags: [desert, parc-naturel, geologie, montagne]
-pois: [route-66#15-mai, grand-canyon#15-mai, grand-canyon#16-mai, barrage-powel#17-mai, secret#17-mai, Horseshoe#17-mai, little-cut#17-mai, monument-valley#18-mai, mexican-hat#18-mai, goosenecks#18-mai, valley-gods#18-mai, arches#19-mai, canyonlands#20-mai, capitol-reef#21-mai, scenic12#22-mai, bryce#22-mai, bryce#23-mai, zion#24-mai, zion#25-mai, valley-fire#26-mai, las-vegas#27-mai, ]
+pois: [route-66#15-mai, grand-canyon-sud#15-mai, barrage-powel#17-mai, secret#17-mai, Horseshoe#17-mai, little-cut#17-mai, monument-valley#18-mai, mexican-hat#18-mai, goosenecks#18-mai, valley-gods#18-mai, arches#19-mai, canyonlands#20-mai, capitol-reef#21-mai, scenic12#22-mai, bryce#22-mai, bryce#23-mai, zion#24-mai, zion#25-mai, valley-fire#26-mai, las-vegas#27-mai, ]
 country: USA
 states: ["Nevada", "Arizona", "Utah"]
 category: "roadmap"

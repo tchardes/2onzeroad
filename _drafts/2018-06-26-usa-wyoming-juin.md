@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-wyoming.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-wyoming.jpg
 tags: [desert, parc-naturel, geologie, montagne]
-pois: [red-rock-canyon#01-juin, zion#02-juin, grand-canyon#03-juin, marble-canyon#04-juin, kodachrome#05-juin, capitol-reef#06-juin, goblin#06-juin, colorado#08-juin, grand-mesa#09-juin, marron-bells#10-juin, denver#11-au-14-juin, red#15-juin, roxborough#15-juin, rocky-mountain#16-juin, dinosaur#18-juin, teton#20-au-24-juin, yellowstone#25-et-26-juin]
+pois: [red-rock-canyon#01-juin, zion#02-juin, grand-canyon-nord#03-juin, marble-canyon#04-juin, kodachrome#05-juin, capitol-reef#06-juin, goblin#06-juin, colorado#08-juin, grand-mesa#09-juin, marron-bells#10-juin, denver#11-au-14-juin, red#15-juin, roxborough#15-juin, rocky-mountain#16-juin, dinosaur#18-juin, teton#20-au-24-juin, yellowstone#25-et-26-juin]
 country: USA
 states: ["Nevada", "Utah", "Colorado", "Wyoming"]
 category: "roadmap"
