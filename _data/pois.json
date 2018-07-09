@@ -221,6 +221,16 @@
     {"name": "valley-fire", "displayName": "Valley Of Fire State Park", "type": "nature"},
     {"name": "teton", "displayName": "Grand Teton National Park", "type": "nature"},
     {"name": "grand-canyon-nord", "displayName": "Grand Canyon National Park - Rim Nord", "type": "nature"},
+    {"name": "marble-canyon", "displayName": "Marble Canyon", "type": "nature"},
+    {"name": "kodachrome", "displayName": "Kodachrome Basin State Park", "type": "nature"},
+    {"name": "goblin", "displayName": "Goblin’s Valley State Park", "type": "nature"},
+    {"name": "colorado", "displayName": "Colorado National Monument", "type": "nature"},
+    {"name": "grand-mesa", "displayName": "Grand Mesa National Forest", "type": "nature"},
+    {"name": "marron-bells", "displayName": "Marron Bells", "type": "nature"},
+    {"name": "red", "displayName": "Red Rocks Amphitheatre", "type": "nature"},
+    {"name": "roxborough", "displayName": "Roxborough State Park", "type": "nature"},
+    {"name": "rocky-mountain", "displayName": "Rocky Mountain National Park", "type": "nature"},
+    {"name": "dinosaur", "displayName": "Dinosaur National Monument", "type": "nature"},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
@@ -229,6 +239,11 @@
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+
 
 
     
