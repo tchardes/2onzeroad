@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-wyoming.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-wyoming.jpg
 tags: [desert, parc-naturel, geologie, montagne]
-pois: [red-rock-canyon#01-juin, zion#02-juin, ]
+pois: [red-rock-canyon#01-juin, zion#02-juin, grand-canyon#03-juin, marble-canyon#04-juin, kodachrome#05-juin, capitol-reef#06-juin, goblin#06-juin, colorado#08-juin, grand-mesa#09-juin, marron-bells#10-juin, denver#11-au-14-juin, red#15-juin, roxborough#15-juin, rocky-mountain#16-juin, dinosaur#18-juin, teton#20-au-24-juin, yellowstone#25-et-26-juin]
 country: USA
 states: ["Nevada", "Utah", "Colorado", "Wyoming"]
 category: "roadmap"
@@ -22,7 +22,7 @@ mapZoom: 5
 
 ---
 
-Cet article couvre la période du 28 mai au 2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du Wyoming.
+Cet article couvre la période du 28 mai au 26 juin 2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du Wyoming.
 
 ## 28 mai
 
@@ -76,7 +76,7 @@ Ce matin départ du bivouac pour être à 8h30 au Visitor Center pour la loterie
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42043705394/in/photolist-274fYQj-YPW1bq-XKZ9kZ-YJzfBb-YGZU7Q-YJAows-VESgy8" title="Kanab - Utah - [USA]"><img src="https://farm2.staticflickr.com/1749/42043705394_e40c203ab6_b.jpg" width="1024" height="576" alt="Kanab - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On décide donc d’aller voir Grand Canyon mais par le versant (Rim) Nord cette fois car nous sommes du bon côté du Colorado. A peine le parc franchi nous sommes accueillis par un gros troupeau de bisons. L'altitude est aux alentour de 2700 mètres, il fait bon, on respire. Ce parc est un peu excentré par rapport à son voisin d’en face, Rim Sud, du coup ce versant, qui aussi beau que l’autre, est moins visité, c’est un peu plus sauvage.
+On décide donc d’aller voir **Grand Canyon National Park** mais par le versant (Rim) Nord cette fois car nous sommes du bon côté du Colorado. A peine le parc franchi nous sommes accueillis par un gros troupeau de bisons. L'altitude est aux alentour de 2700 mètres, il fait bon, on respire. Ce parc est un peu excentré par rapport à son voisin d’en face, Rim Sud, du coup ce versant, qui aussi beau que l’autre, est moins visité, c’est un peu plus sauvage.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42761170451/in/datetaken/" title="Grand Canyon - Arizona - [USA]"><img src="https://farm1.staticflickr.com/880/42761170451_705e2f90bf_b.jpg" width="1024" height="576" alt="Grand Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -186,7 +186,7 @@ Ce matin départ pour l’électricien auto que nous avions rencontré au mois d
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41880223785/in/datetaken/" title="Denver - Colorado - [USA]"><img src="https://farm1.staticflickr.com/888/41880223785_cb1a0d73d1_k.jpg" width="2048" height="1152" alt="Denver - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Je dépose Corinne à l’hôtel avec les bagages et je file à "Lakewood Auto Electric" où je laisse Thor en réexpliquant mon problème de charge de batterie. Je rentre à l’hôtel en bus et nous passons la journée à traiter photos et vidéos. Le lendemain je reprends le bus et retourne au garage pour voir l’avancée des travaux et être sûr qu’ils m’ont bien compris. Tout à l'air OK, ils sont confiants. A midi on mange dans un resto sympa "Brothers BBQ" qui propose une cuisine américaine et le soir nous pour changer un peu on trouve un restaurant italien "Olive Gerden" qui nous propose en amuse bouche une soupe minestrone digne de nos grand-mère.
+Je dépose Corinne à l’hôtel avec les bagages et je file à "Lakewood Auto Electric" où je laisse Thor en réexpliquant mon problème de charge de batterie. Je rentre à l’hôtel en bus et nous passons la journée à traiter photos et vidéos. Le lendemain je reprends le bus et retourne au garage pour voir l’avancée des travaux et être sûr qu’ils m’ont bien compris. Tout à l'air OK, ils sont confiants. A midi on mange dans un resto sympa "Brothers BBQ" qui propose une cuisine américaine et le soir nous pour changer un peu on trouve un restaurant italien "Olive Gerden" qui nous propose en amuse bouche une soupe minestrone digne de nos grand-mères.
 
 Ce Matin récupération de Thor chez le garagiste puis courses chez CampingWorld, on mange a midi dans une pizzeria puis on passe l’après-midi à la bibliothèque publique. Retour au Walmart pour les courses et la nuit.
 
@@ -264,34 +264,18 @@ Nous quittons la ville en direction de Grand Teton, rapidement la chaîne de mon
 
 Nuit pluvieuse, ce matin toutes les montagnes sont dans les nuages, nous allons au Visitor Center récupérer de la doc et voir le film et nous passons la journée dans une librairie. En fin d’après-midi le temps se lève un peu et nous traversons le parc pour rejoindre le bivouac et faisons quelques arrêts photos.
 
-Ce matin le soleil est revenu et les montagnes sont magnifiques. Nous rentrons par l'entrée Nord du Parc et faisons plusieurs arrêts à des overlooks **Oxbow Bend**, **Jackson Lake Dam** et arrivé au niveau de **Chapel of Sacred Heart** on voit de l’agitation et plusieurs Park Rangers qui délimitent une zone. Nous nous garons et voyons une oursonne avec ces trois petits en train de s’en prendre à un tronc, posé par les rangers pour délimiter une zone. Ce dernier doit être entièrement pourri et plein de "protéines". Toujours est-il mieux vaut ne pas être à sa place. Le temps de prendre quelques photos à la volée et la belle famille repart dans la forêt.
-
-
-Nous faisons la boucle autour de **Jenny lake** et nous nous posons au Visitor Center. Je pars faire **Moose Ponds Trail** (2 miles - ) petit trail qui contourne un petit lac, malheureusement sans moose à l’horizon mais une marmotte qui a pris la pose pour moi. Après déjeuner, je prends le bateau pour traverser le lac (9$ l’aller et 15$ l’aller et retour) et je monte jusqu’à **Hiden Falls**, **Inspiration Point Lower** puis retour au Visitor Center par le **Jenny Lake Loop**.
-
-Nous reprenons Thor allons jusqu'à Jackson Lake pour trouver du WIFI, car je ici je n’ai que la 2G, et vu le temps de ces prochains jours, nous décidons de rester ici pour le WE. Nous faisons les courses à Albertsons pour tenir quelque jour et repartons au bivouac en faisant un arrêt en route à **Snake River Overlook** qui offre une très belle vue sur Teton. 
-
-De retour au bivouac nous voyons à nouveau le Layka sur porteur Iveco immatriculé dans le 56. Je vais taper à leur porte et nous faisons connaissance d'une jeune coule avec leurs deux enfants qui arrivent d’Amérique du Sud après 1 an et demi de voyage (http://laclefa4.wordpress.com/). Nous discutons un long moment autour d’une bière en nous faisons dévorer par les moustiques et échangeons nos expériences sur ce fabuleux voyage.
+Ce matin le soleil est revenu et les montagnes sont magnifiques. Nous visitons le parc depuis l'entrée Nord puis nous allons jusqu'à Jackson Lake pour trouver du Wi-Fi, car je ici je n’ai que la 2G. Vu le temps annoncé ces prochains jours, nous décidons de rester ici pour le week-end. Nous faisons les courses à Albertsons pour tenir quelques jours et repartons au bivouac où nous voyons à nouveau le camping-car Layka sur porteur Iveco immatriculé dans le 56. Je vais taper à leur porte et nous faisons connaissance d'une jeune coule avec leurs deux enfants qui arrivent d’Amérique du Sud après 1 an et demi de voyage (http://laclefa4.wordpress.com/). Nous discutons un long moment autour d’une bière en nous faisant dévorer par les moustiques et échangeons nos expériences sur ce fabuleux voyage.
 
 Le 22 juin le temps ne c'est pas levé et nous avons passé la journée au camp de base. Le lendemain le temps est gris comme annoncé. Nous partons à Jackson pour faire la vidange de Thor, passer à la laverie et nous finissons à la bibliothèque qui ferme à 14h30 le samedi. Retour au bivouac où nous prenons un peu de hauteur, avec la vue directe sur Teton. Petite séance Timelapse avant la tombée de la nuit. Je discute un long moment avec notre "voisine", photographe elle aussi, venant de l’Arizona.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pYRSR0WPqkU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## 24 juin
+Ce matin le beau temps est au rendez-vous même si quelques nuages restent accrochés aux cimes des montagnes. Pour cette journée, nous avons décidé de faire les points de vues qui se trouvent sur la route qui mène à Jackson et nous passons le reste de l’après-midi à la bibliothèque s’occuper des papiers et photos avant de faire retour au bivouac.
 
-Ce matin le beau temps est au rendez-vous même si quelques nuages restent accrochés aux cimes des montagnes. Pour cette journée, nous avons décidé de faire les points de vues qui se trouvent sur la route qui mène à Jackson. 
+**(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-06-25-usa-teton %}">ici</a>)**
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42170451015/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1764/42170451015_8b00a66254_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Après "Snake River Overlook" nous quittons la route pour une petite piste qui nous à "Schwabacher Landing" au bord de la rivière. Un petit trail longe le cours d’eau au bord duquel nous rencontrons une jeune femelle Orignal avec qui nous partageons un bout de trail, chacun sur une rive. Nous finissons sur une point de vue célèbre, sur "Antelope Flats road" où de vieilles fermes de Mormons ont été conservées. Nous passons le reste de l’après-midi à la bibliothèque s’occuper des papiers et photos avant de faire retour au bivouac.
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42170422305/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1808/42170422305_aab2d2e58f_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41264379820/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1827/41264379820_24c1cb95ca_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42170374215/in/datetaken/" title="Grand Teton - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1769/42170374215_401c82e519_k.jpg" width="2048" height="1152" alt="Grand Teton - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-## 25 juin
+## 25 et 26 juin
 
 Ce matin départ de notre bivouac avec encore une vue superbe sur Grand Teton avec un grand soleil. Nous prenons la route plein Nord en direction de Yellowstone. Nous sortons du parc pour renter dans **John D. Rockefeller, Jr. Memorial Parkway** avant d’enter à Yellowstone. C’est notre deuxième visite de cet incroyable parc. Nous décidons cette année de le visiter dans le sens inverse des aiguilles d’une montre. Le paysage est toujours aussi beau, nous croisons une faune importante, cerf, bisons et une oursonne avec son petit.
 
@@ -304,8 +288,6 @@ Ce matin départ de notre bivouac avec encore une vue superbe sur Grand Teton av
 Nous en profitons également pour prendre la direction de la sortie Nord-Est du parc afin de traverser "Lamar Valley", lieu où le parc à réintroduit le loup en 1995. Le long de la rivière s’étend une très belle prairie où paissent plusieurs centaines de Bisons. nous en profitons pour fair un trail qui nous mène "Trout Lake". Nous montons jusqu’à Mammoth Hot Spring et sortons du parc pour retrouver le même bivouac que l’année dernière à la sortie de la ville. En route, un abruti en gros pick-up qui regardait le paysage plutôt que la route m’a explosé le miroir de mon rétro et a continué sa route comme si de rien n’était.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42170316915/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm1.staticflickr.com/836/42170316915_6616c46462_k.jpg" width="2048" height="1152" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-## 26 juin
 
 Départ de Gardiner après avoir pris un peu d’essence puis on rentre dans le parc et dans le Wyoming. Premier arrêt à Mammoth Hor Springs où nous refaisons le tour.
 
