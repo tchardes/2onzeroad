@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Du Nevada au Wyoming"
-preview: "Cet article couvre la période du 28 mai au 26 juin 2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et du Wyoming avec deux petites incursions dans le Montana..."
+preview: "Cet article couvre la période du 28 mai au 26 juin 2018 durant laquelle nous avons traversés les états du Nevada de l'Utah, du Colorado et..."
 parent-id: 
 
 date:        2018-06-28 13:00:00
