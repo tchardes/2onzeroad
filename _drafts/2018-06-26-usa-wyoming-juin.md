@@ -86,9 +86,9 @@ On commence par l’extrême Sud du parc pour faire le trail **Bright Angel Poin
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/28886786188/in/datetaken/" title="Grand Canyon - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1748/28886786188_e2b57b8a2f_b.jpg" width="1024" height="576" alt="Grand Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous quittons le parc en direction de l’Est. Rapidement nous arrivons sur la US 89A avec ces grandes lignes droites dans une plaine à l’herbe bien jaune et avec sur le coté gauche, une immense falaise de couleur rouge... vermillon, normal car nous sommes à "Vermilion Cliffs National Monument". Nous nous posons pour la nuit à Cliff Dwellers - Stone House.
+Nous quittons le parc en direction de l’Est. Rapidement nous arrivons sur la US 89A avec ces grandes lignes droites dans une plaine à l’herbe bien jaune et avec sur le coté gauche, une immense falaise de couleur rouge... vermilion, normal car nous sommes à "Vermilion Cliffs National Monument". Nous nous posons pour la nuit à Cliff Dwellers - Stone House.
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/28886634868/in/datetaken/" title="Vermillion Cliffs - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1732/28886634868_6f54eb108c_b.jpg" width="1024" height="576" alt="Vermillion Cliffs - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/28886634868/in/datetaken/" title="Vermilion Cliffs - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1732/28886634868_6f54eb108c_b.jpg" width="1024" height="576" alt="Vermilion Cliffs - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41867514095/in/photolist-25pdkud-Jvkn8v-L2iRTd-26MFXii-26MGg86-274Swqo-26MGuSk-285TSGh-289yhXg-2749jAA-285djRw-289yQ5M" title="Marble Canyon - Arizona - [USA]"><img src="https://farm2.staticflickr.com/1737/41867514095_85250725ae_k.jpg" width="2048" height="1152" alt="Marble Canyon - Arizona - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -154,7 +154,7 @@ On peut se contenter de faire un aller-retour dans celui-là. Nous quittons Gobl
 
 ## 08 juin
 
-Départ pour la ville de Fruita où nous rentrons au **Colorado National Monument**. Le parc est assez petit, 83 Km2, on y découvre de profonds canyons et pitons rocheux. Une demi-journée est suffisante pour le traverser si on ne souhaite pas faire de longs trails. Le Pass america The Beautiful est accepté. Après un arrêt au seul Visitor Center, nous empruntons la Rim Rock Drive, route panoramique de 37 Km qui traverse le parc d'Est en Ouest ou inversement. Nous nous arrêtons à chaque overlook et faisons quelques trails. 
+Départ pour la ville de Fruita où nous rentrons au **Colorado National Monument**. Le parc est assez petit, 83 Km2, on y découvre de profonds canyons et pitons rocheux. Une demi-journée est suffisante pour le traverser si on ne souhaite pas faire de longs trails. Le Pass america The Beautiful est accepté. Après un arrêt au seul Visitor Center, nous empruntons la Rim Rock Drive, route panoramique de 37 Km qui traverse le parc d'Est en Ouest ou inversement. Nous nous arrêtons à chaque overlook et faisons quelques trails.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42781602421/in/datetaken/" title="Grand Junction - Colorado - [USA]"><img src="https://farm1.staticflickr.com/887/42781602421_296493313f_k.jpg" width="2048" height="1152" alt="Grand Junction - Colorado - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -272,8 +272,6 @@ Le 22 juin, le temps ne s'est pas levé et nous avons passé la journée au camp
 
 Ce matin, le beau temps est au rendez-vous même si quelques nuages restent accrochés aux cimes des montagnes. Pour cette journée, nous avons décidé de faire les points de vues qui se trouvent sur la route (US 91) qui mène à Jackson et nous passons le reste de l’après-midi à la bibliothèque s’occuper des papiers et photos avant de faire retour au bivouac.  
 
- 
-
 ## 25 et 26 juin
 
 Ce matin, départ de notre bivouac avec encore une vue superbe sur Grand Teton avec un grand soleil. **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2018/2018-06-25-usa-teton %}">ici</a>)**. Nous prenons la route plein Nord en direction de Yellowstone. Nous sortons du parc pour rentrer dans **John D. Rockefeller, Jr. Memorial Parkway** avant d’enter à Yellowstone. C’est notre deuxième visite de cet incroyable parc. Nous décidons cette année de le visiter dans le sens inverse des aiguilles d’une montre. Le paysage est toujours aussi beau, nous croisons une faune importante, cerf, bisons et une ourse avec son petit.
@@ -303,4 +301,3 @@ Nous continuons vers le Sud et nous nous arrêtons à "Old Faithful", sur le par
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/43075477331/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1827/43075477331_3750cf9691_k.jpg" width="2048" height="1365" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous remontons un peu pour prendre la sortie Ouest du Parc et nous faisons un dernier arrêt à Grand Prismatic, juste pour le plaisir des yeux. **(voir l’article de 2017 <a href="{{site.baseurl}}{% post_url 2017/2017-07-13-usa-wyoming-yellowstone %}">ici</a>)**.Au niveau de Madison, nous rentrons dans le camping du parc qui est naturellement full et nous faisons les dumps et le plein d’eau avant de ressortir ni vu ni connu... Quelques courses à West Yellowstone dans le Montana avant de prendre la route en direction de l’Idaho où nous trouvons un bivouac bien sympa en pleine forêt.
-
