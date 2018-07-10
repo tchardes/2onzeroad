@@ -32,7 +32,7 @@ Après avoir réservé une place au camping où les emplacements sont dans un d�
 
 Le lendemain matin, nous retournons sur la Scenic Drive sous un beau soleil pour faire la dernière partie du parc, la **Cave Aera**. Les dômes de cendre sont recouverts de minuscules fleurs roses et jaunes qui amènent un peu de couleur dans cette noirceur. Arrivés sur zone, le paysage est impressionnant avec une immense plaine de lave où les coulées font penser à une mer qui se serait figée.
 
-Dans cette zone, se visitent 4 «Caves» : **Dewdrop Cave**, **Boy Scout Cave**, **Beauty Cave** et **Indian Cave**, la plus grande. Ce sont en fait des tunnels de lave.
+Dans cette zone, se visitent 4 "Caves" : **Dewdrop Cave**, **Boy Scout Cave**, **Beauty Cave** et **Indian Cave**, la plus grande. Ce sont en fait des tunnels de lave.
 
 > Un tunnel de lave est formé par une coulée volcanique qui s'est refroidie en surface en formant une croûte solide mais dont le cœur est resté fluide, permettant à la lave de continuer à s'écouler. Lorsque la coulée cesse d'être alimentée par la lave en fusion, elle se vide et laisse une cavité en forme de galerie. Les dimensions sont très variables ; les plus longs tunnels peuvent atteindre plusieurs kilomètres de développement.
 
