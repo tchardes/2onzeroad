@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Craters Of The Moon N.M. & Preserve"
 preview:    "Craters Of The Moon National Monument & Preserve est un monument national et une réserve nationale dans la plaine de la rivière Snake de..."
-parent-id:  2018-07-00-usa-californie-juillet
+parent-id:  2018-07-09-usa-californie-juillet
 
 date:       2018-06-30 12:00:00
 author:     "Thierry"
