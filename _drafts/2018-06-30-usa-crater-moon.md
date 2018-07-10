@@ -18,7 +18,7 @@ category: "blog"
 location: "43.219207, -113.503443"
 ---
 
-**Craters Of The Moon National Monument & Preserve** est un monument national et une réserve nationale qui se situe dans la plaine de la rivière Snake dans l'Idaho. A une altitude moyenne de 1800 mètres, le parc protégé l'une des zones de basaltes inondables les mieux préservées des États-Unis. Le Monument et la Réserve englobent trois grands champs de lave, avec quelques-uns des meilleurs exemples de fissures ouvertes dans le monde, y compris le plus profond connu sur Terre à 800 pieds (240 m).
+**Craters Of The Moon National Monument & Preserve** est un monument national et une réserve nationale qui se situe dans la plaine de la rivière Snake dans l'Idaho. A une altitude moyenne de 1800 mètres, le parc protège l'une des zones de basaltes inondables les mieux préservées des États-Unis. Le Monument et la Réserve englobent trois grands champs de lave, avec quelques-uns des meilleurs exemples de fissures ouvertes dans le monde, y compris le plus profond connu sur Terre à 800 pieds (240 m).
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42612816584/in/datetaken/" title="Craters of the Moon - Idaho - [USA]"><img src="https://farm1.staticflickr.com/914/42612816584_256e6bc062_k.jpg" width="2048" height="1152" alt="Craters of the Moon - Idaho - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -28,7 +28,7 @@ Il contient plus de 25 cônes volcaniques, y compris des exemples de cônes de p
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42426739515/in/datetaken/" title="Craters of the Moon - Idaho - [USA]"><img src="https://farm2.staticflickr.com/1802/42426739515_846b6b369f_k.jpg" width="2048" height="1152" alt="Craters of the Moon - Idaho - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous n'en sommes pas à notre première expérience "volcanique", surtout depuis notre arrivée sur le continent Nord Américain. Entre Crater Lake NP, Lava Beds NM, Lassen Volcanic NP, El Pinacate, El Malpais NM, Sunset Crater Volcano NM..., nous sommes devenus des spécialistes des choses de vulcain, limite apprentis volcanologues. Toutefois, ce lieu, un peu à l'écart des grands parcs, mérite le détour car l'origine de ce dépôt basaltique n'est pas habituel puisque formé par des remontés *mantelliques* à la surface par des fissures et des bouches. C'est ce que l'on appelle un volcanisme *Tholéite*, un *Trapp*. Les Trapps les plus connus dans le monde se trouvent en Ethiopie et en Sibérie.
+Nous n'en sommes pas à notre première expérience "volcanique", surtout depuis notre arrivée sur le continent Nord Américain. Entre Crater Lake NP, Lava Beds NM, Lassen Volcanic NP, El Pinacate, El Malpais NM, Sunset Crater Volcano NM..., nous sommes devenus des spécialistes des choses de Vulcain, limite apprentis volcanologues. Toutefois, ce lieu, un peu à l'écart des grands parcs, mérite le détour car l'origine de ce dépôt basaltique n'est pas habituel puisque formé par des remontés *mantelliques* à la surface par des fissures et des bouches. C'est ce que l'on appelle un volcanisme *Tholéite*, un *Trapp*. Les Trapps les plus connus dans le monde se trouvent en Ethiopie et en Sibérie.
 
 Après la visite du Visitor Center où nous visionnons le film de présentation et récupérons la documentation, nous passons dans le petit musée qui présente toutes les sortes de lave que l'on rencontre ici. Elle portent souvent des noms Hawaïens comme "Pahoehoe" et "Aa" car la lave qui a coulé ici est de même type. L’entrée est gratuite avec le Pass America The Beautiful, il faut compter une grosse demi-journée si l’on veut tout faire.
 
@@ -66,7 +66,7 @@ Dans cette zone, se visitent 4 "Caves" : **Dewdrop Cave**, **Boy Scout Cave**, *
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42612839994/in/datetaken/" title="Craters of the Moon - Idaho - [USA]"><img src="https://farm1.staticflickr.com/917/42612839994_cc2e36abb8_k.jpg" width="2048" height="1152" alt="Craters of the Moon - Idaho - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Pour les visiter, il faut un permis délivré par les Parc Rangers au Visitor Center. Rien de bien exceptionnel à l’intérieur mais c’est à faire, avec une frontale ou une torche et surtout une bonne paire de chaussure. Je n’ai pas vu de chauve souris, juste des pigeons dans Indian Cave.
+Pour les visiter, il faut un permis délivré par les Parc Rangers au Visitor Center. Rien de bien exceptionnel à l’intérieur mais c’est à faire, avec une frontale ou une torche et surtout une bonne paire de chaussures. Je n’ai pas vu de chauve souris, juste des pigeons dans Indian Cave.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/43280481932/in/datetaken/" title="Craters of the Moon - Idaho - [USA]"><img src="https://farm2.staticflickr.com/1764/43280481932_f13c7ef775_k.jpg" width="2048" height="1152" alt="Craters of the Moon - Idaho - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
