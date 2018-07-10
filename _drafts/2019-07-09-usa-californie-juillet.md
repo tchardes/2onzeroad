@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "De l'Idaho à la Californie"
-preview: "Cet article couvre la période du 26 juin au 28 juillet durant laquelle nous avons traversés les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant notre..."
+preview: "Cet article couvre la période du 26 juin au 28 juillet durant laquelle nous avons traversés les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant..."
 parent-id: 
 
 date:        2018-07-09 13:00:00
