@@ -1,7 +1,7 @@
 ---
 layout:     blog
-title:      "Craters Of The Moon National Monument & Preserve"
-preview:    "..."
+title:      "Craters Of The Moon N.M. & Preserve"
+preview:    "Craters Of The Moon National Monument & Preserve est un monument national et une réserve nationale dans la plaine de la rivière Snake de..."
 parent-id:  2018-07-00-usa-californie-juillet
 
 date:       2018-06-30 12:00:00
@@ -18,7 +18,7 @@ category: "blog"
 location: "43.219207, -113.503443"
 ---
 
-**Craters Of The Moon National Monument & Preserve** est un monument national et une réserve nationale dans la plaine de la rivière Snake de l' Idaho. A une altitude moyenne de 1800 mètres, le parc protégé l'une des zones de basaltes inondables les mieux préservées des États-Unis. Le Monument et la Réserve englobent trois grands champs de lave, avec quelques-uns des meilleurs exemples de fissures ouvertes dans le monde, y compris le plus profond connu sur Terre à 800 pieds (240 m).
+**Craters Of The Moon National Monument & Preserve** est un monument national et une réserve nationale dans la plaine de la rivière Snake de l'Idaho. A une altitude moyenne de 1800 mètres, le parc protégé l'une des zones de basaltes inondables les mieux préservées des États-Unis. Le Monument et la Réserve englobent trois grands champs de lave, avec quelques-uns des meilleurs exemples de fissures ouvertes dans le monde, y compris le plus profond connu sur Terre à 800 pieds (240 m).
 
 Ce parc protège une zone qui s’étend sur 215 Km2 qui est une vaste étendue de lave avec des îlots de cônes de cendre. Ce paysage est le résultat d’éruptions périodiques le long du "Great Riff", une chaîne de fentes et de fissures de près de 100 Km de long. Son nom vient du fait que l’on se croirait vraiment sur une autre planète, d’ailleurs la NASA y a envoyé des astronautes comme Alan Shepard qui sont allés sur la Lune pour qu'ils s'entraînent. Les scientifiques qui travaillent sur le voyage habité pour mars viennent ici tester techniques et équipements.
 
