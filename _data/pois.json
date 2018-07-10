@@ -116,7 +116,7 @@
     {"name": "griffith", "displayName": "Observatoire Griffith", "type": "autre"},
     {"name": "las-vegas", "displayName": "Las Vegas", "type": "ville"},
     {"name": "pinacate", "displayName": "Réserve de la Biosphère El Pinacate", "type": "nature"},
-    {"name": "altar", "displayName": "Grand désert d'Altar", "type": "nature"},
+    {"name": "altar", "displayName": "Grand Désert d'Altar", "type": "nature"},
     {"name": "organ-pipe", "displayName": "Organ Pipe Cactus National Monument", "type": "nature"},
     {"name": "chiricahua", "displayName": "Chiricahua National Monument", "type": "nature"},
     {"name": "red-rock-canyon", "displayName": "Red Rock Canyon National Conservation Area", "type": "nature"},

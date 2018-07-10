@@ -270,7 +270,7 @@ Le 22 juin, le temps ne s'est pas levé et nous avons passé la journée au camp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pYRSR0WPqkU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Ce matin, le beau temps est au rendez-vous même si quelques nuages restent accrochés aux cimes des montagnes. Pour cette journée, nous avons décidé de faire les points de vues qui se trouvent sur la route (US 91) qui mène à Jackson et nous passons le reste de l’après-midi à la bibliothèque s’occuper des papiers et photos avant de faire retour au bivouac.  
+Ce matin, le beau temps est au rendez-vous même si quelques nuages restent accrochés aux cimes des montagnes. Pour cette journée, nous avons décidé de faire les points de vues qui se trouvent sur la route (US 91) qui mène à Jackson et nous passons le reste de l’après-midi à la bibliothèque pour s’occuper des papiers et photos avant de faire retour au bivouac.  
 
 ## 25 et 26 juin
 
