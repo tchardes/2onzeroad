@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "38.006918, -119.008311"
   name: "Mono Lake, Californie, USA"
-  date: "12 juillet 2018"
+  date: "13 juillet 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
