@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "36.021989, -118.403181"
-  name: "Sequoia National Forest, Californie, USA"
-  date: "18 au 21 juillet 2018"
+  coordinates: "36.488769, -118.571395"
+  name: "Sequoia National Park, Californie, USA"
+  date: "20 et 21 juillet 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
