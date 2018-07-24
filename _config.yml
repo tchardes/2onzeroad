@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "37.739654, -119.573175"
-  name: "Yosemite National Park, Californie, USA"
-  date: "23 au 25 juillet 2018"
+  coordinates: "37.059702, -120.854202"
+  name: "Los Banos, Californie, USA"
+  date: "24 et 25 juillet 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
