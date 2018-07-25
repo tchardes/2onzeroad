@@ -153,20 +153,22 @@ Départ de Poterville où la nuit à été très chaude et où nous avons mal do
 Nous arrivons par l’entrée Nord du parc car la route qui conduit à l’entrée Sud du parc depuis « Three Rivers » est interdite aux RV de plus de 22 pieds à partir de «Potwisha».
 Comme il est un peu tard dans la matinée nous commençons par la visite de Kings Canyon et partons à la recherche d’une place de camping poiur passer la nuit en altitude, au frais, et surtout pour ne pas avoir à ressortie du parc pour la suite de la visite. Au niveau de Grabd Groove Village tous les campgrounds sont Full. On prend la route et on descend dans le canyon jusqu’à arriver au. niveau de la « South Fork Kings River » qui coule en son fond. Arrivés à Cedar Grove on fait les 4 campgrounds et on trouve enfin une place de libre à Moraine Campground. Une fois les démarches administratives on repart pour aller jusqu’à la fin de la route. Le temps se couvre et les premières goutes ne tardent pas à tomber. Le temps pour moi d’aller voir les départ de Trails qu’un gros orage éclate. Retour au camping après avoir fait un court arrêt au Visitor Center de Cedar Grove. Il annonce de la pluie pour demain également. On verra bien. Arrivé à notre emplacement, une voiture s’y trouve avec deux personne. On discute… ils s’en vont…
 
-
-
 ## 21 juillet
 
-
+Nuit fraiche, calme, obscure… le pied.
+Ce matin il fait très beau mais de la pluie est annoncée. C’est l’anniversaire de jakie mais ici pas de réseau, il faut plus de 50 km de route montagneuse pour arriver au co et au grand visitor Center pour avoir un peu de réseau.
+Comme hier nous n’avons pas vue grand chose, nous décidons de reprendre une journée au camping et ainsi nous laisser le temps de faire quelques Trails.
+Départ donc vers 8H30 pour la fin de la route en espérant trouver de la place au parking. Un park Ranger est là pour délivrer les « permis » qui pemrmettent aux randonneurs de passer plusieurs jours et nuit sur le circuit qui est immense. Pour ma part la matinée suffira, pas de permis nécessaire. Je pars et enchaîne plusieurs trails pour passer devant «Mist Falls» très belle cascade, il faut dire qu’avec la pluie d’hiers la rivière est grosse, puis je poursuit en direction de « Paradise Valley » avant de faire demi tour soit au total 24 Km + 450 mètres. A la fin du trail quleques gouttes tombent. Après un petit bain de jambe dans la rivière dnas une eau glacial on déjeune, un peu trad, et on fait retour au camping. Il ne nous reste plus qu’un tiers d’eau dans le réservoir on décide avec notre bidon de 7 galons de remplir un pleu notre réservoir. Il s’agit d’un campgroung de parc et souvent il n’y a pas de Dump juste des robinets pour l’eau des campeurs. On s’adapte toujours…
+A partir de 15h30 le temps se couvre vraiment et à 16h00 gros orage. On vois tous les gens autour de nous au camping courir à droite à gauche pour rafistolet leur tente, on est quand même bien dans Thor….
 
 ## 22 juillet
 
-
-
+Départ du camping de bnne pour remonter vers l’entrée du parc. Avnt d’aller au visitor Center, nous rendons visite au Général Grant puis nous allons visionner le film ayant trait aux deux parcs. Nous entreprennons notre decsente en suite vers Sequoia NP où nous laissons Thor au niveau du parking du Général Sherman. Nous faisons le trail pour ces immenses sequoia dont le général puis nous prenons la navette qui nous mène au Museum du Parc. Nous faisons ensuite une boucle de 1Km «Big Trees trail» qui serpente au milieu de très beau sequoia. Nous reprenons la navette pour retourner à Thor et déjeuner. Nous reprenons la navette pour aller à «Moro Rock » où l’on escalade un Dôme qui propose au final un très beau panoramique sur tout le parc. Toujours avec la navette gratuite nous faisons un stop à «Tunel Log » puis retour à Thor. Nous avons rencontré énorméent de français, nous avons longuement discuté avec une famille de Montpellier qui est là depuis un mois. Ils nous inquiètent un peu en nous disons qu’ils avaient réservés à Yosemite mais que l’hôtel à annulé la réservation en raison de l’incendie. Nous sommes resté 2 jours sans avoir accés aux informations, on risque de ne pas pouvoir y aller…
+ON quitte le parc en fin d’après-midi en ayant fait au préalable les dumps et le plein d’eau dans un camping du parc. Arrivé à Sanger, nous faisons les courses au walmart et passons la soirée dans un « Panda Express », chaine de resto asiatique que l’on aime bien. On a retrouvé une chaleur étouffante, on regrette déjà nos montagnes et nos deux orages qui nous ont bien raffraîchis.  
 
 ## 23 juillet
 
-
+Nuit horible avec une putain d’allergie alimentaire, jamais vu ça, on aurait dit Coluche dans « Banzaï ». Ce matin départ bon grè mal grè vers Yosemite par l’entrée Sud, de ce que j’ai vu sur le site hier quelques routes sont toujours bloquées, notemment pour aller à glacier Point, mais faut voir si l’air est respirable ailleur. Peu après avoir dépassé « Yosemite Forks » on commence à ressentir l’odeur de la fumée et l’horizon est embrumé. A l’entrée du parc on est carément dans la fumée pas très épaisse mais on y voit rien à 100 mètres. Pourtant le feu est quand même loin d’ici. On monte jusqu’au visitor center et le park rangers nous confirme que par là, la route est bien ouverte mais toute la zone est recouverte de fumée. On fait demi tour et on s’arrêt au niveau du parking de Mariposa Groove où nous prenons la navette pour faire un trail autour de « Grizzly Giant » et quelques autres Sequoias. Du coup changement de plan nous partons vers l’ouest et Corinne nous trouve un camping au bord d’un lac pour passer la nuit…
 
 ## 24 juillet
 
