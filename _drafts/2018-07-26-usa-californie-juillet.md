@@ -9,7 +9,7 @@ from-date:  2018-06-27 13:00:00
 to-date:    2018-07-26 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt18.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-wyoming.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt18.jpg
 tags: [desert, parc-naturel, geologie, montagne]
 pois: [ebr#29-juin, crater-moon#30-juin, hagerman#30-juin, shoshone#30-juin, golden-spike#01-juillet, antelope-islan#02-juillet, salt-lake#03-juillet]
 country: USA
