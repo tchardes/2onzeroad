@@ -16,7 +16,7 @@ country: USA
 states: ["Idaho", "Utah", "Nevada", "Californie"]
 category: "roadmap"
 flickr-text: ""
-location: "39.186809, -116.789620"
+location: "40.117247, -119.602120"
 itinary: "2018/idaho.json"
 mapZoom: 5
 
