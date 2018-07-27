@@ -4,9 +4,9 @@ title:   "De l'Idaho à la Californie"
 preview: "Cet article couvre la période du 27 juin au 28 juillet durant laquelle nous avons traversés les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant..."
 parent-id: 
 
-date:        2018-07-09 13:00:00
-from-date:   2018-06-27 13:00:00
-to-date:     2018-07-28 13:00:00
+date:       2018-07-26 13:00:00
+from-date:  2018-06-27 13:00:00
+to-date:    2018-07-28 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-wyoming.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-wyoming.jpg
