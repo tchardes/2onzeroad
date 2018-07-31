@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "37.354926, -120.980650"
-  name: "Newman, Californie, USA"
-  date: "26 au 28 juillet 2018"
+  coordinates: "46.500262, 2.595755"
+  name: "France"
+  date: ""
 
 # set the encoding to utf-8
 encoding: utf-8
