@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "46.500262, 2.595755"
   name: "France"
-  date: ""
+  date: "Depuis le 29 juillet"
 
 # set the encoding to utf-8
 encoding: utf-8
