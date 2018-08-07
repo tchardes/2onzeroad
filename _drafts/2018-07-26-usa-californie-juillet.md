@@ -296,6 +296,10 @@ Il fait tourjours très chaud…
 
 Route jusqu’à Camping World pour préparer une commande pour notre retour puis arrêt dans un Outlet pour acheter des Jeans et route pour la silicon Valley où nous nous arêtons à Google puis retour à Los Banos
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42841772775/in/datetaken/" title="Mountain View - Californie - [USA]"><img src="https://farm2.staticflickr.com/1775/42841772775_bc31539fd4_k.jpg" width="2048" height="1152" alt="Mountain View - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41937859090/in/datetaken/" title="Mountain View - Californie - [USA]"><img src="https://farm2.staticflickr.com/1791/41937859090_c65d5cc2e6_k.jpg" width="2048" height="1152" alt="Mountain View - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 26 au 28 juillet
 
 
