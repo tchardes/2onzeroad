@@ -289,7 +289,7 @@ Nuit étouffante. Ce matin départ vers **Yosemite National Park** par l’entr�
 
 ## 24 juillet
 
-Depart du camping en direction de Los Banos. Arrivés sur plas arrêt chez un vendeur de RV où je trouve enfin des cables d’alimentation de l’allumeur de la gazinière ainsi qu’une pompe à eau. Ensuite arrêt à home dépot pour achaht des visserie puis reste de l’après-midi dans la biblioyèque de la ville au wifi merdique. Courses et nuit au Walmart
+Depart du camping en direction de Los Banos. Arrivés sur place arrêt chez un vendeur de RV où je trouve enfin des cables d’alimentation de l’allumeur de la gazinière ainsi qu’une pompe à eau. Ensuite arrêt à home dépot pour achaht des visserie puis reste de l’après-midi dans la biblioyèque de la ville au wifi merdique. Courses et nuit au Walmart
 Il fait tourjours très chaud…
 
 ## 25 juillet
