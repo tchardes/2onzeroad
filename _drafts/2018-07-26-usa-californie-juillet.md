@@ -286,10 +286,9 @@ Nuit étouffante. Ce matin départ vers **Yosemite National Park** par l’entr�
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/43573003232/in/datetaken/" title="Mariposa Groove - Californie - [USA]"><img src="https://farm1.staticflickr.com/856/43573003232_71ee31d59a_k.jpg" width="2048" height="1152" alt="Mariposa Groove - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
 ## 24 juillet
 
-Depart du camping en direction de Los Banos. Arrivés sur place arrêt chez un vendeur de RV où je trouve enfin des cables d’alimentation de l’allumeur de la gazinière ainsi qu’une pompe à eau. Ensuite arrêt à home dépot pour achaht des visserie puis reste de l’après-midi dans la biblioyèque de la ville au wifi merdique. Courses et nuit au Walmart
+Depart du camping en direction de Los Banos. Arrivés sur place arrêt chez un vendeur de RV où je trouve enfin des cables d’alimentation de l’allumeur de la gazinière ainsi qu’une pompe à eau. Ensuite arrêt à The Home Depot pour achat des visserie puis reste de l’après-midi dans la biblioyèque de la ville au wifi merdique. Courses et nuit au Walmart
 Il fait tourjours très chaud…
 
 ## 25 juillet
