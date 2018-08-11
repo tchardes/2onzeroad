@@ -253,7 +253,7 @@
     {"name": "sequoia", "displayName": "Sequoia National Parks", "type": "nature"},
     {"name": "yosemite", "displayName": "Yosemite National Park", "type": "nature"},
     {"name": "mariposa", "displayName": "Mariposa Groove", "type": "nature"},
-    {"name": "google", "displayName": "Googlplex Campus", "type": "autre"},
+    {"name": "google", "displayName": "Googleplex Campus", "type": "autre"},
     {"name": "bonneville", "displayName": "Bonneville Salt Flats International Speedway", "type": "autre"},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
