@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "De l'Idaho à la Californie"
-preview: "Cet article couvre la période du 27 juin au 28 juillet durant laquelle nous avons traversés les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant..."
+preview: "Cet article couvre la période du 27 juin au 28 juillet durant laquelle nous avons traversés les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant…"
 parent-id: 
 
 date:       2018-07-26 13:00:00
@@ -36,7 +36,7 @@ Départ du camping en fin de matinée et route vers Idaho Falls. Nous passons un
 
 ## 29 juin
 
-Ce matin, départ d’Idaho Falls direction plein Ouest. Notre premier arrêt se trouve en plein désert, pour visiter le **EBR-1 Atomic Museum** qui fait partie du National Historic Landmark. EBR pour "Experimental Breeder Reactor". Il s’agit du premier réacteur nucléaire américain qui a fourni, pour la première fois, de l’électricité "nucléaire" le 20.12.1951 et a permis d'alimenter... 4 ampoules de 200W. Il n'avait pas pour but de produire de l'électricité, mais plutôt de valider la théorie de la physique nucléaire qui suggérait qu'un réacteur surrégénérateur devrait être possible. Le réacteur est resté en fonction de 1951 à 1964 puis a été transformé en musée. Ici, pas de grande cheminée, car refroidi par un alliage eutectique sodium-potassium, échangeant avec un circuit secondaire véhiculant aussi du métal liquide et cédant ces calories à un circuit tertiaire d'eau par l'intermédiaire d'un générateur de vapeur. La vapeur produite, qui alimentait une turbine, était condensée et renvoyée au générateur de vapeur par des pompes.
+Ce matin, départ d’Idaho Falls direction plein Ouest. Notre premier arrêt se trouve en plein désert, pour visiter le **EBR-1 Atomic Museum** qui fait partie du National Historic Landmark. EBR pour "Experimental Breeder Reactor". Il s’agit du premier réacteur nucléaire américain qui a fourni, pour la première fois, de l’électricité "nucléaire" le 20.12.1951 et a permis d'alimenter… 4 ampoules de 200W. Il n'avait pas pour but de produire de l'électricité, mais plutôt de valider la théorie de la physique nucléaire qui suggérait qu'un réacteur surrégénérateur devrait être possible. Le réacteur est resté en fonction de 1951 à 1964 puis a été transformé en musée. Ici, pas de grande cheminée, car refroidi par un alliage eutectique sodium-potassium, échangeant avec un circuit secondaire véhiculant aussi du métal liquide et cédant ces calories à un circuit tertiaire d'eau par l'intermédiaire d'un générateur de vapeur. La vapeur produite, qui alimentait une turbine, était condensée et renvoyée au générateur de vapeur par des pompes.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42426748755/in/datetaken/" title="Arco - Idaho - [USA]"><img src="https://farm1.staticflickr.com/917/42426748755_a0801588a4_k.jpg" width="2048" height="1152" alt="Arco - Idaho - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -59,7 +59,7 @@ Nous poursuivons la route vers Twin Falls et voyons de très nombreuses cascades
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42612807384/in/datetaken/" title="Twin Falls - Idaho - [USA]"><img src="https://farm2.staticflickr.com/1769/42612807384_3e3aac1954_k.jpg" width="2048" height="1152" alt="Twin Falls - Idaho - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous quittons le parc et faisons un passage sur le "Perrine Memorial Bridge", long de 460 mètres et qui domine de 148 mètres le Snake River. Il a la plus longue portée de l’ouest américain. Pendant qu’on le prenait en photo, nous avons vu des gens sauter du pont... en parachute, cette activité est populaire à Twin Falls. Après courses au Walmart où on s’est posé pour la nuit.
+Nous quittons le parc et faisons un passage sur le "Perrine Memorial Bridge", long de 460 mètres et qui domine de 148 mètres le Snake River. Il a la plus longue portée de l’ouest américain. Pendant qu’on le prenait en photo, nous avons vu des gens sauter du pont… en parachute, cette activité est populaire à Twin Falls. Après courses au Walmart où on s’est posé pour la nuit.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/43280445422/in/datetaken/" title="Twin Falls - Idaho - [USA]"><img src="https://farm1.staticflickr.com/917/43280445422_02e211b599_k.jpg" width="2048" height="1152" alt="Twin Falls - Idaho - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -130,7 +130,7 @@ Nous quittons ensuite l’Utah pour rentrer à nouveau dans le Nevada et faisons
 
 ## 07 juillet
 
-Grosse partie de la journée à la bibliothèque de Elko avant de prendre la route en direction de Reno. Nous nous arrêtons pour la nuit à Winnemucca dans un BLM "Water Canyon" où il est permis de passer la nuit. En route, on remarque des bestioles sur la piste, de plus en plus,des milliers... En fait, la région est envahie de crickets Mormon, on passe la nuit là, sans sortir de Thor!
+Grosse partie de la journée à la bibliothèque de Elko avant de prendre la route en direction de Reno. Nous nous arrêtons pour la nuit à Winnemucca dans un BLM "Water Canyon" où il est permis de passer la nuit. En route, on remarque des bestioles sur la piste, de plus en plus,des milliers… En fait, la région est envahie de crickets Mormon, on passe la nuit là, sans sortir de Thor!
 
 ## 08 et 09 juillet
 
@@ -146,7 +146,7 @@ Je ne suis pas amateur de foot du tout, je crois que le dernier match que j’ai
 
 ## 11 juillet
 
-Ce matin, direction le **Lac Tahoe**, magnifique lac d’altitude (1900 mètres). Alimenté par près de 60 rivières, il est un des lacs les plus profonds du monde avec 500 mètres. L’eau y est particulièrement claire, propre et... froide! A Stateline, nous trouvons une plage publique "LakeSide Beach", payante, et nous y passons la journée. En fin d’après-midi, nous longeons le lac jusqu’au point de vue de Emerald Bay et en face se trouve un camping géré par la national Forest, il reste une place, on décide d’y passer la nuit… au frais! nous sommes à 2144 mètres d’altitude.
+Ce matin, direction le **Lac Tahoe**, magnifique lac d’altitude (1900 mètres). Alimenté par près de 60 rivières, il est un des lacs les plus profonds du monde avec 500 mètres. L’eau y est particulièrement claire, propre et… froide! A Stateline, nous trouvons une plage publique "LakeSide Beach", payante, et nous y passons la journée. En fin d’après-midi, nous longeons le lac jusqu’au point de vue de Emerald Bay et en face se trouve un camping géré par la national Forest, il reste une place, on décide d’y passer la nuit… au frais! nous sommes à 2144 mètres d’altitude.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42592792515/in/datetaken/" title="Tahoe - Californie - [USA]"><img src="https://farm1.staticflickr.com/849/42592792515_305b25c88f_k.jpg" width="2048" height="1152" alt="Tahoe - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -292,7 +292,7 @@ Départ du camping en direction de Los Banos. Arrivés sur place arrêt chez un 
 
 ## 25 juillet
 
-Route jusqu’à Camping World pour préparer une commande pour notre retour puis arrêt dans un Outlet où nous faisons quelques achats. Comme nous avons l'après-midi devant nous, nous prenons la direction Palo Alto et la Silicon Valley pour faire le tour du "GAFAM". Nous nous arrêtons longuement au **Googleplex**, immense campus de Google où nous arrivons devant le siège social... en camping-car, on a peur de rien !!! Un jeune homme en tee-shirt bleu flanqué du fameux logo vient vers nous, un peu dubitatif. A ma demande, il nous indique la route vers le "Google Android Lawn Statues" et le "Google Store". Le campus grouille de jeunes gens qui ont à disposition des vélos aux couleurs de la firme pour se déplacer sur le site. Si la selle est dans le panier de devant, cela veut dire que le vélo est "en panne". Il n'est pas possible d'en voir plus si l'on est pas invité et accompagné d'un employé.
+Route jusqu’à Camping World pour préparer une commande pour notre retour puis arrêt dans un Outlet où nous faisons quelques achats. Comme nous avons l'après-midi devant nous, nous prenons la direction Palo Alto et la Silicon Valley pour faire le tour du "GAFAM". Nous nous arrêtons longuement au **Googleplex**, immense campus de Google où nous arrivons devant le siège social… en camping-car, on a peur de rien !!! Un jeune homme en tee-shirt bleu flanqué du fameux logo vient vers nous, un peu dubitatif. A ma demande, il nous indique la route vers le "Google Android Lawn Statues" et le "Google Store". Le campus grouille de jeunes gens qui ont à disposition des vélos aux couleurs de la firme pour se déplacer sur le site. Si la selle est dans le panier de devant, cela veut dire que le vélo est "en panne". Il n'est pas possible d'en voir plus si l'on est pas invité et accompagné d'un employé.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42841772775/in/datetaken/" title="Mountain View - Californie - [USA]"><img src="https://farm2.staticflickr.com/1775/42841772775_bc31539fd4_k.jpg" width="2048" height="1152" alt="Mountain View - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
