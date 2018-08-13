@@ -1,12 +1,12 @@
 ---
 layout:  blog
 title:   "De l'Idaho à la Californie"
-preview: "Cet article couvre la période du 27 juin au 28 juillet durant laquelle nous avons traversés les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant…"
+preview: "Cet article couvre la période du 27 juin au 28 juillet durant laquelle nous avons traversé les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant…"
 parent-id: 
 
-date:       2018-07-26 13:00:00
+date:       2018-07-30 13:00:00
 from-date:  2018-06-27 13:00:00
-to-date:    2018-07-26 13:00:00
+to-date:    2018-07-28 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt18.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt18.jpg
@@ -22,7 +22,7 @@ mapZoom: 5
 
 ---
 
-Cet article couvre la période du 27 juin au 28 juillet durant laquelle nous avons traversés les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant notre retour en France.
+Cet article couvre la période du 27 juin au 28 juillet durant laquelle nous avons traversé les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant notre retour en France.
 
 ## 27 juin
 
@@ -42,7 +42,7 @@ Ce matin, départ d’Idaho Falls direction plein Ouest. Notre premier arrêt se
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/28461654937/in/datetaken/" title="Arco - Idaho - [USA]"><img src="https://farm1.staticflickr.com/915/28461654937_01f8a75ec6_k.jpg" width="2048" height="1152" alt="Arco - Idaho - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Sur le parking se trouvent deux réacteurs du projet de propulsion nucléaire d'aéronefs. La visite est gratuite et des tours sont organisés en Anglais. Nous avons opté pour une auto-visite. Une extension du site permet de découvrir un peu la génération suivante des réacteurs avec l’EBR-2 qui est resté en service jusqu’en 1994. Ce dernier se trouve dans le désert de l’Idaho où a été créé, sur 2300 Km2, l’INL (Idaho National Laboratory) dédié au nucléaire. Dans cette zone, sont en fonction 52 réacteurs, la plus grande concentration au monde (la France en compte 56). La ville la plus proche se nomme "Atomic City". La visite est très intéressante, très bien aménagée et pédagogique, comme toujours aux states.
+Sur le parking se trouvent deux réacteurs du projet de propulsion nucléaire d'aéronefs. La visite est gratuite et des tours sont organisés en Anglais. Nous avons opté pour une auto-visite. Une extension du site permet de découvrir un peu la génération suivante des réacteurs avec l’EBR-2 qui est resté en service jusqu’en 1994. Ce dernier se trouve dans le désert de l’Idaho où a été créé, sur 2300 Km², l’INL (Idaho National Laboratory) dédié au nucléaire. Dans cette zone, sont en fonction 52 réacteurs, la plus grande concentration au monde (la France en compte 56). La ville la plus proche se nomme "Atomic City". La visite est très intéressante, très bien aménagée et pédagogique, comme toujours aux states.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41520832060/in/datetaken/" title="Arco - Idaho - [USA]"><img src="https://farm1.staticflickr.com/835/41520832060_e242665474_k.jpg" width="2048" height="1152" alt="Arco - Idaho - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -107,7 +107,7 @@ Après un déjeuner dans un restaurant du coin, JB’S Restaurant, nous quittons
 
 ## 05 juillet
 
-Ce matin, on remonte vers Salt Lake City pour passer dans un Camping World. Ils n’ont pas mon miroir pour le retro mais me donne les références, on avance. Ils m’indiquent un magasin pour ma roue de secours, on y va sans conviction mais au final et après plusieurs coups de téléphone, il me dit que c’est OK, ma roue complète sera là à 15h00. Je n’ose y croire. Nous passons le reste de la matinée dans un outlet où nous mangeons asiatique dans un "Panda Express". A 15 heures, retour au garage, la roue est là mais ils n’ont pas de quoi la fixer… Retour au camping World et trois autres magasins pour trouver 3 vis et 3 boulons, impossible de trouver un anti-vol…. Bon gré mal gré, nous sommes remontés tout doucement sur SLC. Nous nous garons près du temple et allons assister à la répétition de la Chorale des mormons "Mormon Tabernacle Choir" dans la très belle salle des congrès du Centre de Conférence de l’église. L’entrée est gratuite et nous assistons durant une grosse heure à la répétition, très beau moment de douceur et de sérénité.
+Ce matin, on remonte vers Salt Lake City pour passer dans un Camping World. Ils n’ont pas mon miroir pour le retro mais me donne les références, on avance. Ils m’indiquent un magasin pour ma roue de secours, on y va sans conviction mais au final et après plusieurs coups de téléphone, il me dit que c’est OK, ma roue complète sera là à 15h00. Je n’ose y croire. Nous passons le reste de la matinée dans un outlet où nous mangeons asiatique dans un "Panda Express". A 15 heures, retour au garage, la roue est là mais ils n’ont pas de quoi la fixer… Retour au camping World et trois autres magasins pour trouver 3 vis et 3 boulons, impossible de trouver un anti-vol… Bon gré mal gré, nous sommes remontés tout doucement sur SLC. Nous nous garons près du temple et allons assister à la répétition de la Chorale des mormons "Mormon Tabernacle Choir" dans la très belle salle des congrès du Centre de Conférence de l’église. L’entrée est gratuite et nous assistons durant une grosse heure à la répétition, très beau moment de douceur et de sérénité.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42359506375/in/datetaken/" title="Salt Lake City - Utah - [USA]"><img src="https://farm2.staticflickr.com/1802/42359506375_20e5fa9ed4_k.jpg" width="2048" height="1152" alt="Salt Lake City - Utah - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -203,7 +203,7 @@ Nous quittons le coin en fin d’après-midi et repartons vers Mono Lake où nou
 
 ## 17 juillet
 
-Ce matin, on quitte le bivouac après une nuit très chaude, on sent bien que l’on descend en altitude et vers le sud. En route, on voit un petit panneau marron, caractéristique du National Park Service. On sort à la première sortie, faisons demi-tour et arrivons au **Manzanar National Historic Site**. Nous n’en avons entendu parler sur aucun guide ou site.
+Ce matin, on quitte le bivouac après une nuit très chaude, on sent bien que l’on descend en altitude et vers le sud. En route, on voit un petit panneau marron, caractéristique du National Park Service. On sort à la première sortie, faisons demi-tour et arrivons au **Manzanar National Historic Site**. Nous n’en avons entendu parler sur aucun guide ou site.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/43518586471/in/datetaken/" title="Manzanar - Californie - [USA]"><img src="https://farm1.staticflickr.com/929/43518586471_dc5963769d_k.jpg" width="2048" height="1152" alt="Manzanar - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -262,7 +262,7 @@ Nous entreprenons notre descente ensuite vers **Sequoia National Park** où nous
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/29751094458/in/datetaken/" title="Sequoia NP- Californie - [USA]"><img src="https://farm1.staticflickr.com/925/29751094458_4ace2ff396_k.jpg" width="2048" height="1152" alt="Sequoia NP- Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous prenons ensuite la navette qui nous mène au Museum du Parc et au départ d'une boucle de 1Km "Big Trees Trail" qui serpente au milieu de très beaux sequoias.
+Nous prenons ensuite la navette qui nous mène au Museum du Parc que nous visitons et au départ d'une boucle de 1Km "Big Trees Trail" qui serpente au milieu de très beaux sequoias.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42903282534/in/datetaken/" title="Sequoia NP- Californie - [USA]"><img src="https://farm1.staticflickr.com/925/42903282534_2095e82aed_k.jpg" width="2048" height="1365" alt="Sequoia NP- Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -288,15 +288,15 @@ Nuit étouffante. Ce matin, départ vers **Yosemite National Park** par l’entr
 
 ## 24 juillet
 
-Départ du camping en direction de Los Banos. Arrivés sur place, arrêt chez un vendeur de RV où je trouve enfin des câbles d’alimentation des allumeurs de la gazinière ainsi qu’une pompe à eau. En effet, notre pompe à eau fait un drôle de bruit et je me rends compte que plusieurs vis sont tombées certainement en raison des vibrations. Je pense pouvoir la réparer mais il s'agit d'un élément primordial de notre HomeZeRoad et même pour la suite de l'aventure, je préfère en avoir une de secours. Ensuite, arrêt à The Home Depot pour l'achat de petit matériel avant de passer le reste de l’après-midi, au frais, dans la bibliothèque de la ville au wifi merdique. Nous finissons la journée au Walmart pour faire les courses et y restons pour la nuit. Il fait toujours très chaud…
+Départ du camping en direction de Los Banos. Arrivés sur place, arrêt chez un vendeur de RV où je trouve enfin des câbles d’alimentation des allumeurs de la gazinière ainsi qu’une pompe à eau. En effet, notre pompe à eau fait un drôle de bruit et je me rends compte que plusieurs vis sont tombées certainement en raison des vibrations. Je pense pouvoir la réparer mais il s'agit d'un élément primordial de notre HomeZeRoad et même pour la suite de l'aventure, je préfère en avoir une de secours. Ensuite, arrêt à The Home Depot pour l'achat de petit matériel avant de passer le reste de l’après-midi, au frais, dans la bibliothèque de la ville au Wi-Fi vraiment faible. Nous finissons la journée au Walmart pour faire les courses et y restons pour la nuit. Il fait toujours très chaud…
 
 ## 25 juillet
 
 Route jusqu’à Camping World pour préparer une commande pour notre retour puis arrêt dans un Outlet où nous faisons quelques achats. Comme nous avons l'après-midi devant nous, nous prenons la direction Palo Alto et la Silicon Valley pour faire le tour du "GAFAM". Nous nous arrêtons longuement au **Googleplex**, immense campus de Google où nous arrivons devant le siège social… en camping-car, on a peur de rien !!! Un jeune homme en tee-shirt bleu flanqué du fameux logo vient vers nous, un peu dubitatif. A ma demande, il nous indique la route vers le "Google Android Lawn Statues" et le "Google Store". Le campus grouille de jeunes gens qui ont à disposition des vélos aux couleurs de la firme pour se déplacer sur le site. Si la selle est dans le panier de devant, cela veut dire que le vélo est "en panne". Il n'est pas possible d'en voir plus si l'on est pas invité et accompagné d'un employé.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/42841772775/in/datetaken/" title="Mountain View - Californie - [USA]"><img src="https://farm2.staticflickr.com/1775/42841772775_bc31539fd4_k.jpg" width="2048" height="1152" alt="Mountain View - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42841772775/in/datetaken/" title="Mountain View - Californie - [USA]"><img src="https://farm2.staticflickr.com/1775/42841772775_bc31539fd4_k.jpg" width="2048" height="1152" alt="Mountain View - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/41937859090/in/datetaken/" title="Mountain View - Californie - [USA]"><img src="https://farm2.staticflickr.com/1791/41937859090_c65d5cc2e6_k.jpg" width="2048" height="1152" alt="Mountain View - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41937859090/in/datetaken/" title="Mountain View - Californie - [USA]"><img src="https://farm2.staticflickr.com/1791/41937859090_c65d5cc2e6_k.jpg" width="2048" height="1152" alt="Mountain View - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 26 au 28 juillet
 
