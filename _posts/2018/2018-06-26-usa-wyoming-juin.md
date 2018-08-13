@@ -301,3 +301,7 @@ Nous continuons vers le Sud et nous nous arrêtons à "Old Faithful", sur le par
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/43075477331/in/datetaken/" title="Yellowstone - Wyoming - [USA]"><img src="https://farm2.staticflickr.com/1827/43075477331_3750cf9691_k.jpg" width="2048" height="1365" alt="Yellowstone - Wyoming - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous remontons un peu pour prendre la sortie Ouest du Parc et nous faisons un dernier arrêt à Grand Prismatic, juste pour le plaisir des yeux. **(voir l’article de 2017 <a href="{{site.baseurl}}{% post_url 2017/2017-07-13-usa-wyoming-yellowstone %}">ici</a>)**. Au niveau de Madison, nous rentrons dans le camping du parc qui est naturellement full et nous faisons les dumps et le plein d’eau avant de ressortir ni vu ni connu... Quelques courses à West Yellowstone dans le Montana avant de prendre la route en direction de l’Idaho où nous trouvons un bivouac bien sympa en pleine forêt.
+
+Un résumé de cette partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NF2ZGpJSr44" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
