@@ -326,3 +326,7 @@ En fin d’après-midi, nous décidons de quitter la ville en direction d’Alam
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26742032027/in/datetaken/" title="Taos - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/933/26742032027_7645b1c4b3_b.jpg" width="1024" height="576" alt="Taos - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous parcourons un très beau haut plateau où s’étendent d’immenses prairies encerclées par une chaîne de montagne enneigées. C’est sur ce décor que nous quittons une nouvelle fois le Nouveau-Mexique pour entrer cette fois dans le Colorado (The Centennial State).
+
+Un résumé de cette partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AFXtqEWb2SY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
