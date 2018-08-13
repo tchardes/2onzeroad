@@ -301,3 +301,7 @@ Route jusqu’à Camping World pour préparer une commande pour notre retour pui
 ## 26 au 28 juillet
 
 Nous passons les deux derniers jours dans un petit camping très agreste, près de Newman, que nous avons repéré grâce au Passport America. Nous préparons Thor pour ces quelques mois de vacances bien mérités à Oakland. La pompe à eau est réparée, elle tiendra encore quelques temps. Le dernier jour, nous faisons route jusqu'au storage où nous déposons Thor et prenons un taxi jusqu'à l'aéroport. Nous sommes à la fois excités et heureux de rentrer en France et à la fois tristes d'avoir fini ce séjour qui a été absolument fantastique.
+
+Un résumé de cette dernière partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://youtu.be/8arFwQyuIpM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
