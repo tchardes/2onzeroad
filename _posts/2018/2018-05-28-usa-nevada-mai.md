@@ -264,5 +264,7 @@ Histoire de finir ce séjour en beauté, nous faisons la surprise aux enfants et
 
 Ce matin, on traîne un peu à l’hôtel puis on part faire quelques magasins. On tenait à leur montrer un Bass Pro Shop, ces grands magasins outdoor à la déco toujours impressionnante et où Alex a été surpris de voir autant d’armes en vente et de toute sorte. A midi, on prend notre dernier repas tous ensemble dans Thor et on prend notre dessert dans "The CheeseCake Factory" afin de faire découvrir aux enfants les vrais CheeseCake américains. Le choix est tellement vaste qu'ils ont du mal à faire leur choix. On part ensuite direction l'aéroport et faisons une dernière halte dans un mall pour faire les derniers achats de souvenirs. Les vacances sont malheureusement finies, nous leur faisons un dernier coucou derrière les vitres de la salle d'embarquement...
 
+Un résumé de cette partie de notre voyage en vidéo :
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uk19ehTZeKw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
