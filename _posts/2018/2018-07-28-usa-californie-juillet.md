@@ -304,4 +304,4 @@ Nous passons les deux derniers jours dans un petit camping très agreste, près 
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
-<iframe width="560" height="315" src="https://youtu.be/8arFwQyuIpM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8arFwQyuIpM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
