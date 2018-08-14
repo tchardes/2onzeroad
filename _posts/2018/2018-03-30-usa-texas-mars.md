@@ -241,4 +241,8 @@ Départ de Gonzales pour **Bâton Rouge**, visite très rapide car il n’y a pa
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40566615534/in/datetaken/" title="Bâton-Rouge - Louisiane - [USA]"><img src="https://farm1.staticflickr.com/795/40566615534_5ac248d005_h.jpg" width="1600" height="900" alt="Bâton-Rouge - Louisiane - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40566615414/in/photolist-24NJvrG" title="Plantations - Louisiane - [USA]"><img src="https://farm1.staticflickr.com/802/40566615414_bef9e2d6f5_h.jpg" width="1600" height="900" alt="Plantations - Louisiane - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40566615414/in/photolist-24NJvrG" title="Plantations - Louisiane - [USA]"><img src="https://farm1.staticflickr.com/802/40566615414_bef9e2d6f5_h.jpg" width="1600" height="900" alt="Plantations - Louisiane - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Un résumé de cette partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hJioHnSxJOM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
