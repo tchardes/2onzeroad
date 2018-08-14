@@ -15,7 +15,7 @@ country: USA
 states: ["Arizona"]
 city: 
 category: "blog"
-location: "32.010275, -112.899836"
+location: "32.081939, -109.240020"
 ---
 
 Le **Chiricahua National Monument** est situé dans les montagnes Chiricahua en Arizona. On y trouve les traces d'une énorme éruption volcanique qui secoua la région il y a environ 27 millions d'années. Cette éruption, connue sous le nom de l'éruption de Turkey Creek Caldera, a déposé de la cendre et de la pierre ponce sur une hauteur de 640 mètres. Une fois ces dépôts solidifiés, l'érosion modela le relief, aujourd'hui si particulier.  
