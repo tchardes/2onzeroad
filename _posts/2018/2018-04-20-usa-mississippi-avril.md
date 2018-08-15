@@ -182,7 +182,6 @@ On repart en centre ville de Memphis, on repasse à "Sun record", toujours autan
 
 Après notre visite, nous décidons de prendre la route. Nous traversons pour la dernière fois le Mississippi et rentrons dans l’Arkansas, direction **Little rock** où nous nous arrêtons dans un Walmart. Nous avons voulu acheter du vin, il y a bien un gars qui m’a dit dans le rayon un truc du genre le dimanche c’est bière et pas vin, mais je n’y ai pas trop prêté attention. Par contre la caissière a pris la bouteille et l’a mise de côté en nous disant que les lois de l’Arkansas interdisaient la vente d’alcool (hors bières) le dimanche. Tant pis… on boira de la bière !!!
 
-
 ## 09 avril
 
 Nuit froide et bruyante, le chauffage s’est déclenché plusieurs fois. En me levant, je constate que l’Iphone déconne à plein tube, il reboote sans arrêt, la charge affiche 80% puis 1% puis il reboote. la batterie, neuve, a un défaut. Je regarde sur Internet et bien sûr, aucun magasin de la chaîne où j’ai fait changer la vitre et la batterie. Je décide d’aller directement à l’Apple Store, proche de Little Rock. En s'y rendant, on fait un détour par le Capitole de l’Arkansas, qui est une reproduction de celui de Washington, en plus petit. En effet, très beau bâtiment, je tombe le jour où les pompiers font leur photo, sûrement pour leur calendrier.
