@@ -1,0 +1,75 @@
+<html>
+    <body>
+            <h3>COUCOU</h3>
+    </body>
+
+    <script type="text/javascript" src="data_clean.js"></script>
+
+    <script>
+
+        function isEmptyOrSpaces(str){
+            return str === null || str.match(/^ *$/) !== null;
+        }
+
+        var data_2018 = [];
+        var data_2017 = [];
+
+
+        data.forEach(element => {
+            var date = new Date(element.fromDateTime.$date)
+            if(date.getFullYear() === 2018) { data_2018.push(element); }
+            if(date.getFullYear() === 2017) { data_2017.push(element); }
+        });
+
+        var FuelPrices = [];
+        var FuelQuantity = 0;
+
+        data_2017.forEach(element => {
+            var log = element.fromDateTime.$date;
+            var events = element.events;
+            var spendings = element.spendings;
+            events.forEach(event => {
+                if(isEmptyOrSpaces(event.type)) { console.log("Bad event type", log) }
+            });
+
+            spendings.forEach(spending => {
+                if(isEmptyOrSpaces(spending.type)) { console.log("Bad expense type", log) }
+                if(spending.price === 0) { console.log("Bad price value", log) }
+                if(spending.euro === 0) { console.log("Bad euro value", log) }
+                if(spending.type === "Véhicule: Carburant") {
+                    if(spending.unitaryPrice === 0) { console.log("Bad fuel unitaryPrice value", log) }
+                    if(spending.quantity === 0) { console.log("Bad fuel quantity value", log) }
+                    FuelPrices.push({ "price": spending.unitaryPrice, "date": log })
+                    FuelQuantity += spending.quantity;
+                }
+            });
+        });
+
+        var FuelPricesSum = 0;
+        FuelPrices.forEach(price => {FuelPricesSum += price.price })
+
+        console.log("Total fuel quantity", FuelQuantity)
+        console.log("Sum fuel price", FuelPricesSum)
+        console.log("Average fuel price", (FuelPricesSum/FuelPrices.length))
+
+        var max = FuelPrices.reduce(function (prev, current) {
+            return (prev.price > current.price) ? prev : current
+        });
+
+        console.log("Max fuel price", max)
+
+        var min = FuelPrices.reduce(function (prev, current) {
+            return (prev.price < current.price) ? prev : current
+        });
+
+        console.log("Min fuel price", min)
+
+        console.log("Number of elements", data_2018.length)
+
+
+
+    </script>
+
+</html>
+
+
