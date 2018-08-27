@@ -17,7 +17,12 @@
                     {% if post.country == null %}
                         {% assign fullDestination = post.countries | join: " - " %}
                     {% else %}
-                        {% assign fullDestination = post.country | append: " - " %}
+                        {% assign fullDestination = post.country %}
+
+                        {% if post.states == null %}
+                        {% else %}
+                            {% assign fullDestination = fullDestination | append: " - " %}
+                        {% endif %}
 
                         {% for state in post.states %}
                             {% if forloop.last == true %}

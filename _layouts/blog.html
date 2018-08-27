@@ -59,7 +59,12 @@
         {% if page.country == null %}
             {% assign fullDestination = page.countries | join: " - " %}
         {% else %}
-            {% assign fullDestination = page.country | append: " - " %}
+            {% assign fullDestination = page.country %}
+
+            {% if page.states == null %}
+            {% else %}
+                {% assign fullDestination = fullDestination | append: " - " %}
+            {% endif %}
 
             {% for state in page.states %}
                 {% if forloop.last == true %}
