@@ -9,5 +9,5 @@ days: 298
 photos: 4719
 videos: 16
 mapZoom: 2
-walk: 1391
+walk: 1401
 ---
