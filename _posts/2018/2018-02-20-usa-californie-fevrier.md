@@ -138,7 +138,7 @@ Il fait un temps magnifique, il est 17h00 et le soleil commence tout doucement �
 
 Ce matin, nous partons du bivouac après une nuit calme si ce n’est des poids lourds qui ont démarré vers 3h30. Nous nous sommes couchés en plein brouillard et ce matin le temps est très gris mais il ne devrait pas pleuvoir. Direction **Santa Barbara** et sa Old Mission que nous visitons.
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/39408200325/in/datetaken/" title="Santa Barbara - Californie - [USA]"><img src="https://farm5.staticflickr.com/4662/39408200325_1180269d9f_b.jpg" width="1024" height="576" alt="Santa Barbara - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/39408200325/in/datetaken/" title="Santa Barbara - Californie - [USA]"><img src="https://farm5.staticflickr.com/4662/39408200325_1180269d9f_b.jpg" width="1024" height="576" alt="Santa Barbara - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 L’ensemble est très beau est bien arrangé, on a accès au jardin, cloître, église, musée, cimetière… On en profite pour acheter et équipé Thor d’une médaille de St Christophe. Dans ce type d'aventure, il ne faut rien laisser au hasard et toute aide est la bien venue !!!
 
