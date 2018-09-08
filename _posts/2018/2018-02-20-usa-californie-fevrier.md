@@ -56,7 +56,7 @@ Nous nous arrêtons faire des courses à Petaluna dans un magasin "Target", c’
 
 ## 04 février
 
-La nuit s’est bien passée, nous n’avons pas été dérangés, quartier très calme. On part vers 09h00 en direction du visitor center du **Point Reyes Seashore National Park** qui est fermé à notre arrivée. Nous pouvons récupérer quand même de la doc qui est mise à disposition. Nous roulons jusqu'au Kenneth C. Patrick Visitor Center et achetons notre ticket pour la navette à un Park ranger qui parle très bien le français. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-02-02-usa-reyes %}">ici</a>)**.
+La nuit s’est bien passée, nous n’avons pas été dérangés, quartier très calme. On part vers 09h00 en direction du visitor center du **Point Reyes Seashore National Park** qui est fermé à notre arrivée. Nous pouvons récupérer quand même de la doc qui est mise à disposition. Nous roulons jusqu'au Kenneth C. Patrick Visitor Center et achetons notre ticket pour la navette à un Park Ranger qui parle très bien le français. **(voir l’article <a href="{{site.baseurl}}{% post_url 2018/2018-02-02-usa-reyes %}">ici</a>)**.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/26399905198/in/datetaken/" title="Point Reyes National Seashore- Californie - [USA]"><img src="https://farm5.staticflickr.com/4742/26399905198_092361be0d_b.jpg" width="1024" height="408" alt="Point Reyes National Seashore- Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
