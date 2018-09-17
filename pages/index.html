@@ -52,21 +52,26 @@ permalink: ./index.html
             {% assign postCount = postCount | plus:1 %}
 
             {% if post.country == null %}
-              {% assign fullDestination = post.countries | join: " - " %}
+                {% assign fullDestination = post.countries | join: " - " %}
             {% else %}
-              {% assign fullDestination = post.country | append: " - " %}
+                {% assign fullDestination = post.country %}
 
-              {% for state in post.states %}
-                  {% if forloop.last == true %}
-                      {% assign fullDestination = fullDestination | append: state %}
-                  {% else %}
-                      {% assign fullDestination = fullDestination | append: state | append: " / " %}
-                  {% endif %}
-              {% endfor %}
+                {% if post.states == null %}
+                {% else %}
+                    {% assign fullDestination = fullDestination | append: " - " %}
+                {% endif %}
 
-              {% if post.city %}
-                  {% assign fullDestination = fullDestination | append: " - " | append: post.city %}
-              {% endif %}
+                {% for state in post.states %}
+                    {% if forloop.last == true %}
+                        {% assign fullDestination = fullDestination | append: state %}
+                    {% else %}
+                        {% assign fullDestination = fullDestination | append: state | append: " / " %}
+                    {% endif %}
+                {% endfor %}
+
+                {% if post.city %}
+                    {% assign fullDestination = fullDestination | append: " - " | append: post.city %}
+                {% endif %}
             {% endif %}
 
             <div class="cd-timeline-block" {% if postCount > 8 %} style="display:none" {% endif %} >
