@@ -17,7 +17,7 @@
     {"name": "new-york", "displayName": "New York", "type": "ville"},
     {"name": "boston", "displayName": "Boston", "type": "ville"},
     {"name": "cap-breton", "displayName": "Cap Breton", "type": "nature"},
-    {"name": "haute-terre", "displayName": "Cape Breton Highlands National Park", "type": "nature"},
+    {"name": "hautes-terres", "displayName": "Cape Breton Highlands National Park", "type": "nature"},
     {"name": "quebec", "displayName": "Québec", "type": "ville"},
     {"name": "montreal", "displayName": "Montréal", "type": "ville"},
     {"name": "ottawa", "displayName": "Ottawa", "type": "ville"},
