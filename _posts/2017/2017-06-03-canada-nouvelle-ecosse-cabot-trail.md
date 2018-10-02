@@ -9,7 +9,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-cabot.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-cabot.jpg
 tags: [parc-naturel, faune]
-pois: [cap-breton, hautes-terres]
+pois: [cap-breton, hautes-terres, cheticamp, cabot-trail]
 flickr-text: "Nouvelle Écosse"
 country: Canada 
 states: ["Nouvelle Écosse"]
