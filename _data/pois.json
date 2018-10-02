@@ -20,9 +20,6 @@
     {"name": "hautes-terres", "displayName": "Cape Breton Highlands National Park", "type": "nature"},
     {"name": "cheticamp", "displayName": "Chéticamp", "type": "ville"},
     {"name": "cabot-trail", "displayName": "Cabot Trail", "type": "nature"},
-    {"name": "", "displayName": "", "type": ""},
-
-
     {"name": "quebec", "displayName": "Québec", "type": "ville"},
     {"name": "montreal", "displayName": "Montréal", "type": "ville"},
     {"name": "ottawa", "displayName": "Ottawa", "type": "ville"},
