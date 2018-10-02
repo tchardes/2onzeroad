@@ -185,7 +185,7 @@
     {"name": "montezuma", "displayName": "Montezuna Castle National Monument", "type": "autre"},
     {"name": "montezuma", "displayName": "Montezuna Well National Monument", "type": "autre"},
     {"name": "tuzigot", "displayName": "Tuzigot National Monument", "type": "autre"},
-    {"name": "watson-lake", "displayName": "Watson Lake Park", "type": "nature"},
+    {"name": "watson-lake-park", "displayName": "Watson Lake Park", "type": "nature"},
     {"name": "four-corners", "displayName": "Four Corners Monument", "type": "autre"},
     {"name": "silverton", "displayName": "Silverton", "type": "ville"},
     {"name": "million", "displayName": "Million Dollars Highway", "type": "autre"},
