@@ -19,7 +19,7 @@ itinary: "2017/canada.json"
 
 Quatrième article de type Bilan (Vert) sur notre road trip sur la partie Est du Canada où nous avons traversé les provinces du New Brunswick, de la Nouvelle Écosse, de l'Ile du Prince Édouard, du Québec et de l'Ontario.
 
-Notre voyage se poursuit avec toujours le même plaisir et la même excitation à l'idée de découvrir un nouveau pays et pas des moindres, l'immense Canada. Que dire si ce n'est que c'est très très grand et les incontournables sont très espacés, nous avons roulé pratiquement autant au Canada en un mois qu'aux USA en 68 jours. Le temps a été moyen même s'il ne nous a pas vraiment empêché de faire ce que l'on voulait (35% de plein soleil, 42 % de journée entre nuages, pluie et soleil et 23 % de pluie), la température la plus basse dans Thor au petit matin a été de 10°. 
+Notre voyage se poursuit avec toujours le même plaisir et la même excitation à l'idée de découvrir un nouveau pays et pas des moindres, l'immense Canada. Que dire si ce n'est que c'est très très grand et les incontournables sont très espacés, nous avons roulé pratiquement autant au Canada en un mois qu'aux USA en 68 jours. Le temps a été moyen même s'il ne nous a pas vraiment empêché de faire ce que l'on voulait (35% de plein soleil, 42 % de journée entre nuages, pluie et soleil et 23 % de pluie), la température la plus basse dans Thor au petit matin a été de 10°.
 
 Nous avons particulièrement aimé les îles de La Nouvelle Écosse (Ex Nouvelle France) avec ses paysages côtiers et forestiers à couper le souffle, ses villages acadiens, ses ports et sans oublier le Parc National de Cap Breton et ses orignaux. La forêt canadienne est vraiment très belle et pas du tout monotone en raison de la diversité de ces essences, ce qui lui donne des dégradés de verts surtout sous le soleil.
 
@@ -37,8 +37,7 @@ Les gens rencontrés ont tous été très charmants, surtout au Québec où on a
 * Moustique = Maringouin
 * Un titre de musique = Une piste
 
-Et bien d'autres... .
-
+Et bien d'autres...
 
 On voit que c'est un pays qui vit la plupart du temps sous la neige, les maisons, souvent très colorées, sont très belles mais les extérieurs sont réduits à leur plus simple expression, souvent deux chaises en bois (toutes les mêmes) de préférence de couleur rouge. Question nourriture, on retrouve, peu ou prou, les mêmes produits qu'aux USA.
 
@@ -48,9 +47,7 @@ Nous avons appris que le drapeau officiel du Canada date de 1965 suite à un con
 
 Dans quelques jours, nous allons rentrer à nouveau au Canada pour rejoindre Calgary, certainement d'autres paysages et d'autres rencontres qui feront l'objet d'un autre bilan.
 
-
-
-### Quelques chiffres :    
+### Quelques chiffres :
 
 * Nombre de jours           : 32
 * Nombre de provinces traversées  : 5
@@ -59,8 +56,8 @@ Dans quelques jours, nous allons rentrer à nouveau au Canada pour rejoindre Cal
 * Gaz                       : Disponible un peu partout, le remplissage de notre réservoir de 20Kg a coûté environ 13$ 
 * Eau - Vidanges - Électricité    : Dans les campings et state parkss et certaines communes
 * Stationnements             : Pas évident de trouver des stationnements "sauvages" intéressants à moins de perdre beaucoup de temps
-* Communications             : Forfait Free à 19,99€ - Aucun problème  
-* Distance parcourue          : 3917 Miles - 6304 Km     
+* Communications             : Forfait Free à 19,99€ - Aucun problème
+* Distance parcourue          : 3917 Miles - 6304 Km
  
 
 
