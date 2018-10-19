@@ -1,0 +1,14 @@
+{
+    "type":"FeatureCollection",
+    "features":[
+        
+        {"type":"Feature", "properties": { "color": "#2D6298" }, "geometry":{"type":"LineString","coordinates":[
+           
+
+            // remplacer par les coordonnées
+
+
+        ]}}
+
+    ]
+}
