@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Californie"
-preview: "Cet article couvre la période du 27 juin au 28 juillet durant laquelle nous avons traversé les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant…"
+preview: "Cet article couvre la période du 01 au      décembre durant laquelle nous avons fini la visite de la californie avant d'entrée en Amérique Latine, au Mexique…"
 parent-id: 
 
 date:       2018-12-28 13:00:00
@@ -22,7 +22,7 @@ mapZoom: 5
 
 ---
 
-Cet article couvre la période du 27 juin au 28 juillet durant laquelle nous avons traversé les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant notre retour en France.
+Cet article couvre la période du 01 au      décembre durant laquelle nous avons fini la visite de la californie avant d'entrée en Amérique Latine, au Mexique.
 
 ## 01 décembre
 
