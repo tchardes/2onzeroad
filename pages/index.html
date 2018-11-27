@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "2 OnZeRoad"
 description: "Carnet de voyages"
 long-description: "Ils sont 2 sur les routes pour un voyage au long cours,
@@ -16,6 +16,45 @@ permalink: ./index.html
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
   </head>
+
+
+  <header class="intro-header" >
+      <div style="background-position:center;background-size: cover;background-image: url('{{root_url}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+          <div class="container" >
+              <div class="row">
+                  <div class="col-lg-10 col-lg-offset-1">
+                      <div class="page-heading">
+                          <h1>{{ page.title }}</h1>
+                          <hr class="small">
+                          <span class="subheading">{{ page.description }}</span>
+                          <div class="long-description">
+                              <div style="max-width: 540px;margin:auto;">
+                                  <i class="fa fa-quote-left" aria-hidden="true"></i> 
+                                  {{ page.long-description }} 
+                                  <i class="fa fa-quote-right" aria-hidden="true"></i>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="time-tag-categ">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1" style="padding:20px 5px 5px 5px;text-align: center;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;">
+                          <i class="fa fa-calendar" style="padding:0 5px 0 10px"></i> 1 jours 
+                          <i class="fa fa-thumb-tack" style="padding:0 5px 0 10px"></i> 2 états
+                          <i class="fa fa-truck" style="padding:0 5px 0 10px"></i> 3kms                                
+                          <i class="fa fa-male" style="padding:0 5px 0 10px"></i> 4 kms                                
+                          <i class="fa fa-folder-open" style="padding:0 5px 0 10px"></i> 5 articles
+                          <i class="fa fa-camera" style="padding:0 5px 0 10px"></i> 6 photos publiées
+                          <i class="fa fa-youtube-play" style="padding:0 5px 0 10px"></i> 7 videos
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </header>
 
   <body>
     <!-- intro -->
