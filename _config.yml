@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "46.500262, 2.595755"
-  name: "France"
-  date: "Depuis le 29 juillet 2018"
+  coordinates: "37.755758, -122.437602"
+  name: "San Francisco - USA"
+  date: "01 au 04 décembre 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
