@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "34.894656, -117.015554"
-  name: "Barstow - Californie - USA"
-  date: "05 et 06 décembre 2018"
+  coordinates: "33.869967, -116.536071"
+  name: "Palm Spring - Californie - USA"
+  date: "07 décembre 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
