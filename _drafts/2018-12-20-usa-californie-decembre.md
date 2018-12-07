@@ -26,6 +26,32 @@ Cet article couvre la période du 01 au      décembre durant laquelle nous avon
 
 ## 01 décembre
 
+## 02 décembre
+
+
+
+## 03 décembre
+
+
+## 04 décembre
+
+
+
+## 05 décembre
+
+
+
+## 06 décembre
+
+Ce matin le temps est tout gris mais il ne pleut pas pour l'instant mais il est annocé des averses pour toute la journée. Nous quittons Barstow et empruntons rapidement une portion de la Mother road, la 66 pour boire un café au célèbre Bagdad Café.
+
+
+## 07 décembre
+
+
+
+## 08 décembre
+
 
 
 
