@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "32.697329, -117.210913"
-  name: "San Diego - Californie - USA"
-  date: "09 au 13 décembre 2018"
+  coordinates: "33.262029, -115.464665"
+  name: "Slab City - Californie - USA"
+  date: "09 et 10 décembre 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
