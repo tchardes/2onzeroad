@@ -202,13 +202,14 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * **iOverlander** - *Base de données des endroits pour des overlanders et des voyageurs. Il inclut camper, hôtels, restaurants, mécanique, l'eau, remplissage de propane et plein d'autres catégories* ;
 * **OsmAnd Maps** -  *Application cartographique et de navigation avec accès aux données libres OpenStreetMap (OSM), à la couverture mondiale de haute qualité. Toutes les données cartographiques peuvent être stockées sur la carte mémoire de votre appareil pour une utilisation hors-ligne* ;
 * **Maps.Me** - *Application de cartographie permettant de télécharger localement les cartes du monde entier pour une consultation hors-ligne. Maps.me dispose d'un mode itinéraire utilisable partout dans le monde* ;
-* **Google Maps** - *On ne présente plus* ;
+* **Google Maps** - *On ne présente plus - On peut télécharger à l'avance des zones qui seront disponibles hors connexion* ;
 * **Conseils aux voyageurs** - *Site du MAE - Conseils par pays · Dernières minutes · Fiches Réflexes · Infos pratiques · Foire aux questions · Services aux citoyens · Préparer son voyage* ;
-* **Walmart Overnight Parking locator** - *Toutes les informations sur Walmart qui acceptent les RV la nuit* ;
+* **Walmart Overnight Parking locator** - *Toutes les informations sur Walmart qui acceptent les RV la nuit. Aux USA et Canada* ;
 * **Dropbox** - *Héberge tous vos fichiers (documents, photos, vidéos, etc.). Les fichiers que vous stockez dans Dropbox sont conservés en lieu sûr et accessibles sur tous vos appareils. L'envoi de fichiers volumineux se fait en toute simplicité, même si le destinataire n'a pas de compte Dropbox* ;
 * **Skype** - *Pour communiquer avec les proches* ;
-* **GasBuddy** - *Uniquement sur le store Amérique du Nord - Vous indique le prix de l'essence le moins cher autour de vous* ;
-* **Allstays** - *Application participative qui liste tous les endroits utiles aux voyageurs, Campings, Walmarts, state parks, Propanes ...)* ;
+* **GasBuddy** - *Uniquement sur le store Amérique du Nord - Vous indique le prix de l'essence le moins cher autour de vous. Aux USA et Canada* ;
+* **Allstays** - *Application participative qui liste tous les endroits utiles aux voyageurs, Campings, Walmarts, state parks, Propanes ... Aux USA et Canada)* ;
+* **Campendium** - *Application participative qui liste tous les bivouacs et dump station utiles aux voyageurs, Campings, Walmarts, state parks, Parkings... Aux USA et Canada)* ;
 * **AroundMe** - *Vous liste automatiquement les lieux qui peuvent être utiles autour de vous, Hôpitaux, Banques, Parkings…* ;
 * **Sites de nos banques**.
 
@@ -233,7 +234,8 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * [Boondockerswelcome](https://www.boondockerswelcome.com/) - Overnight boondocking on fellow RVers' property ;
 * [Forum Tourdumondiste](http://www.tourdumondiste.com/) - Le blog de voyage de François : une mine d'info pour préparer votre tour du monde ;
 * [Forum VR Camping](http://www.vrcamping.com/) - Forum québecois donc francophone qui traite des véhicules récréatifs ;
-* [Flyonward](https://flyonward.com/fr/) - Location de billet retour.
+* [Bestonwardticket](https://Bestonwardticket.com/) - Location de billet retour.
+* [Onwardflights](https://Onwardflights.com/fr/) - Location de billet retour.
 
 #### Sites de voyageurs 
 
