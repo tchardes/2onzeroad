@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "32.736951, -117.139932"
   name: "San Diego - Californie - USA"
-  date: "11 au 13 décembre 2018"
+  date: "11 au 15 décembre 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
