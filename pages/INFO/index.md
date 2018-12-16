@@ -85,7 +85,9 @@ Il s'agit d'un service du Ministère des Affaires Étrangères, l'inscription es
 
 ### Sécu, complémentaire et plus
 
-Étant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Concernant notre traitement de fond, nous avons fait une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement. Pour ne pas avoir de soucis avec les douanes, nous avons emballé les boites dans du film transparent avec l'ordonnance bien visible. Les emballages doivent rester clos d'origine, pas de regroupement même si cela prend beaucoup de place. Pour notre deuxième départ, la CNMSS nous a refusé la délivrance en une fois de 6 mois de traitement, cette démarche ne pouvant, selon eux, être accordée qu'une fois sur 12 mois glissant. Je leur ai demandé plusieurs fois la référence du texte qui prévoit cette limitation, je n'ai jamais eu de réponse... Heureusement notre pharmacien est sympa on c'est arrangé autrement.
+Étant retraité, je reste affilié à la sécurité sociale, nous avons gardé notre complémentaire à laquelle nous avons pris une extension à IMA (Inter Mutuelle Assistance) pour couvrir les problèmes que nous pourrions rencontrer à l'étranger. Si vous avez plusieurs assurances (assureurs différents habitation - véhicule...) qui sont affiliées à IMA, les aides peuvent s'additionner.
+
+Concernant notre traitement de fond, nous avons fait une demande à la sécurité sociale afin d'autoriser le pharmacien à nous délivrer en une seule fois, 6 mois de traitement. Pour ne pas avoir de soucis avec les douanes, nous avons emballé les boites dans du film transparent avec l'ordonnance bien visible. Les emballages doivent rester clos d'origine, pas de regroupement même si cela prend beaucoup de place. Pour notre deuxième départ, la CNMSS nous a refusé la délivrance en une fois de 6 mois de traitement, cette démarche ne pouvant, selon eux, être accordée qu'une fois sur 12 mois glissant. Je leur ai demandé plusieurs fois la référence du texte qui prévoit cette limitation, je n'ai jamais eu de réponse... Heureusement notre pharmacien est sympa on c'est arrangé autrement. Pour notre troisième départ, le médecin "conseil" de la sécu nous a fait des coupes franches dans l'ordonnance de notre médecin : ca OK pour 6 mois, ce médicament qu'un seul pour les 6 mois, et ainsi de suite. Du coup on c'est arrangé une fois de plus avec notre pharmacien.
 
 Si vous quittez votre emploi et envisagez de partir plusieurs années vous ne serez plus couverts par la sécurité sociale au bout d'une année et vous devrez alors opter pour la souscription d'une assurance voyage longue durée de type Marco Polo ou Chapka. Toutes les infos **[ici](http://www.tourdumondiste.com/comparatifs-assurances-voyage)**.
 
@@ -109,7 +111,7 @@ Nous gardons notre compte dans notre banque traditionnelle avec une Visa Premium
 
 Nous avons ouvert gratuitement un compte auprès de la banque allemande N26 qui fournit une Mastercard. Cette carte permet des achats à l'étranger sans frais et des retraits aux DAB avec des frais à 1,7%, hors zone euro. Depuis le 01.12.16, la Mastercard n'est plus gratuite (29€/an) mais reste plus abordable que les banques classiques. L'application fournie est très pratique et réactive.
 
-Nous avons utilisé cette carte durant un an de voyage aux USA et Canada sans aucun problème. Pour aborder l'Amérique latine nous avons changé notre carte pour une "Black", payante, qui permet de n'avoir aucun frais sur les achats mais aussi sur les retraits de numéraire. Toutefois les banques propriétaires des disributeurs (ATM) peuvent elles prendre des frais.
+Nous avons utilisé cette carte durant un an de voyage aux USA et Canada sans aucun problème. Pour aborder l'Amérique latine nous avons changé notre carte pour une "Black", payante, qui permet de n'avoir aucun frais sur les achats mais aussi sur les retraits de numéraire. Toutefois les banques propriétaires des distributeurs (ATM) peuvent elles prendre des frais.
 
 Pour plus de renseignements cliquez **[ici](https://n26.com/fr)**.  
 
@@ -234,8 +236,9 @@ Nous avons recensé et installé quelques applications sous IOS qui nous seront 
 * [Boondockerswelcome](https://www.boondockerswelcome.com/) - Overnight boondocking on fellow RVers' property ;
 * [Forum Tourdumondiste](http://www.tourdumondiste.com/) - Le blog de voyage de François : une mine d'info pour préparer votre tour du monde ;
 * [Forum VR Camping](http://www.vrcamping.com/) - Forum québecois donc francophone qui traite des véhicules récréatifs ;
-* [Bestonwardticket](https://Bestonwardticket.com/) - Location de billet retour.
-* [Onwardflights](https://Onwardflights.com/fr/) - Location de billet retour.
+* [Onewayfly](https://Onewayfly.com/) - Location de billet retour (site Français - merci Sabrina).
+* [Bestonwardticket](https://bestonwardticket.com/) - Location de billet retour.
+* [Onwardflights](https://onwardflights.com/fr/) - Location de billet retour.
 
 #### Sites de voyageurs 
 
@@ -270,7 +273,7 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 
 Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de notre périple.
 
-* [Eric et Muriel - Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)- Rencontrées à Anchorage - Alaska le 12 août 2017 ;
+* [Eric et Muriel - Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)- Rencontrées pour la première fois à Anchorage - Alaska le 12 août 2017 ;
 * [Famille Laclefa - Laclefa4](https://laclefa4.wordpress.com/)- Rencontrées à Grand Teton - Wyoming le 12 juin 2018
 
 ## Divers
