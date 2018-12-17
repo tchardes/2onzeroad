@@ -17,7 +17,7 @@ states: ["Californie"]
 category: "roadmap"
 flickr-text: ""
 location: "40.117247, -119.602120"
-itinary: "2019/califsud.json"
+itinary: "2019/californie.json"
 mapZoom: 5
 
 ---
