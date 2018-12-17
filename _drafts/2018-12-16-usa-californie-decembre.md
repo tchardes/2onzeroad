@@ -16,7 +16,7 @@ country: USA
 states: ["Californie"]
 category: "roadmap"
 flickr-text: ""
-location: "36.619714, -118.133552"
+location: "35.742539, -117.734214"
 itinary: "2019/californie.json"
 mapZoom: 4
 
