@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Joshua Tree National Parc"
 preview:    "Le parc national de Joshua Tree se trouve au Sud-Est de la Californie. Il protège l'habitat de "l'arbre de Josué", une espèce de... "
-parent-id:  2018-12-20-usa-californie-decembre
+parent-id:  2018-12-16-usa-californie-decembre
 
 date:       2018-12-08 12:00:00
 author:     "Thierry"
