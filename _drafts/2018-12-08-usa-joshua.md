@@ -48,4 +48,4 @@ Ce parc a été un haut lieu de retraite spirituelle du milieu musical et hippie
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/45595426224/in/datetaken/" title="Joshue Tree NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4826/45595426224_cfee0a144b_k.jpg" width="2048" height="1152" alt="Joshue Tree NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Pour un complément d'information sur ce parc, historique, trails, réservation camping, cartes détaillées, n'hésitez pas à faire un tour sur le [site officiel](http://www.nps.gov/jotr/index.htm).
+Pour un complément d'informations sur ce parc, historique, trails, réservation camping, [cartes](https://www.nps.gov/jotr/planyourvisit/maps.htm), n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/jotr/index.htm).
