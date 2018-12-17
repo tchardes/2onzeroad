@@ -8,8 +8,8 @@ date:       2018-12-16 13:00:00
 from-date:  2018-12-01 13:00:00
 to-date:    2018-12-16 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt18.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt18.jpg
+header-img: "assets/owner/blog/header/post-bg-rt19.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt19.jpg
 tags: [parc-naturel, geologie, montagne, culturel]
 pois: [ebr#29-juin, ]
 country: USA
