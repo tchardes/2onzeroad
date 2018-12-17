@@ -18,7 +18,7 @@ category: "blog"
 location: "33.903069, -116.079070"
 ---
 
-Le parc national de Joshua Tree se trouve au Sud-Est de la Californie. Il protège l'habitat de "l'arbre de Josué", une espèce de mi-cactus mi-yucca, typique du Sud-Ouest des États-Unis. Le parc dispose de trois entrées différentes avec un visitor center à chaque entrée. 
+Le parc national de Joshua Tree se trouve au Sud-Est de la Californie. Il protège l'habitat de "l'arbre de Josué", une espèce de mi-cactus mi-yucca, typique du Sud-Ouest des États-Unis. Le parc dispose de trois entrées différentes avec un visitor center à chaque entrée.
 
 Venant de Palm Springs, nous entrons par l’entrée Ouest qui se trouve dans la ville de Joshua Tree qui compte de magnifiques exemplaires, souvent plus beau et gros que ceux présents dans le parc. Nous passons au visitor center récupérer un plan. C’est Samedi et il y a énormément de monde, tous les camping du parc sont Full. Les choses les plus intéressantes se trouvent au Nord du Parc. On peu s’arrêter à " Cholla Cactus Garden " et faire demi tour pour sortie par l’entrée Nord à Twentynine Palms si on à rien à faire au Sud du parc.
 
