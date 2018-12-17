@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "Californie"
+title:   "Retour en Californie"
 preview: "Cet article couvre la période du 01 au      décembre durant laquelle nous avons fini la visite de la californie avant d'entrée en Amérique Latine, au Mexique…"
 parent-id: 
 
