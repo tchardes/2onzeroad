@@ -4,9 +4,9 @@ title:   "Californie"
 preview: "Cet article couvre la période du 01 au      décembre durant laquelle nous avons fini la visite de la californie avant d'entrée en Amérique Latine, au Mexique…"
 parent-id: 
 
-date:       2018-12-28 13:00:00
+date:       2018-12-16 13:00:00
 from-date:  2018-12-01 13:00:00
-to-date:    2018-12-28 13:00:00
+to-date:    2018-12-16 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt18.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt18.jpg
