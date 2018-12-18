@@ -22,7 +22,7 @@ Le parc national de Joshua Tree se trouve au Sud-Est de la Californie. Il protè
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/44502154150/in/datetaken/" title="Joshue Tree NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4888/44502154150_04483331e7_k.jpg" width="2048" height="1152" alt="Joshue Tree NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Venant de Palm Springs, nous entrons par l’entrée Ouest qui se trouve dans la ville de Joshua Tree qui compte de magnifiques exemplaires, souvent plus beau et gros que ceux présents dans le parc. Nous passons au visitor center récupérer un plan. C’est Samedi et il y a énormément de monde, tous les camping du parc sont Full. Les choses les plus intéressantes se trouvent au Nord du Parc. On peu s’arrêter à "Cholla Cactus Garden" et faire demi tour pour sortie par l’entrée Nord à Twentynine Palms si on à rien à faire au Sud du parc.
+Venant de Palm Springs, nous entrons par l’entrée Ouest qui se trouve dans la ville de Joshua Tree qui compte de magnifiques exemplaires, souvent plus beau et gros que ceux présents dans le parc. Nous passons au visitor center récupérer un plan. C’est Samedi et il y a énormément de monde, tous les camping du parc sont Full. Les choses les plus intéressantes se trouvent au Nord du Parc. On peu s’arrêter à "Cholla Cactus Garden" et faire demi tour pour sortir par l’entrée Nord à Twentynine Palms, si on à rien à faire au Sud du parc.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46268469192/in/datetaken/" title="Joshue Tree NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4839/46268469192_9fa9e9c787_k.jpg" width="2048" height="1152" alt="Joshue Tree NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -30,7 +30,7 @@ Notre premier arrêt se fait à **Hidden Valley** où nous faisons un petit trai
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32446764768/in/datetaken/" title="Joshue Tree NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4810/32446764768_51eb91a3a9_k.jpg" width="2048" height="1152" alt="Joshue Tree NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Notre deuxième arrêt se fait à **Barker Dam** également une boucle de 1,3 mile (2 km) qui nous conduit à un vieux barrage fait par les anciens fermier de " Key Ranch " Le petit lac formé par la retenue est très beau. Le décor en général est à voir.
+Notre deuxième arrêt se fait à **Barker Dam** également une boucle de 1,3 mile (2 km) qui nous conduit à un vieux barrage fait par les anciens fermiers de "Key Ranch". Le petit lac formé par la retenue est très beau. Le décor en général est à voir.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/45595482094/in/datetaken/" title="Joshue Tree NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4833/45595482094_e6871da455_k.jpg" width="2048" height="752" alt="Joshue Tree NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
