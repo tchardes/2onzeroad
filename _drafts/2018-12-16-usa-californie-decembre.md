@@ -26,13 +26,13 @@ Cet article couvre la période du 01 au      décembre durant laquelle nous avon
 
 ## 01 et 02 décembre
 
-Notre chauffeur habituel nous conduit à la gare de bonne heure et nous voilà une nouvelle en route pour de nouvelles aventures. Nous quittons une fois de plus nos proches et notre zone de confort pour aborder l’amérique latine. Pour une fois le TGV arrive à l’heure à Roissy et nous avons largement le temps d’effectuer les démarches et nous restaurer avant d’embarquer dans le 777 Dreamliner de la Norwegian. Après 11 heures de vol nous atterrissons à Oakland en Californie, le deuxième aéroport de San Francisco. Le passage auprès de l’agent de l’immigration se passe bien, on commence à être rodés, nous lui demandons un mois, il nous en donne 6… On perd presque une heure pour récupérer notre valise en raison d’une panne du système d'acheminement des bagages et nous pouvons quitter l’aéroport, prendre un taxi et récupérer Thor. Aucune mauvaise odeur, pratiquement pas de poussière ni dégâts. Il démarre au quart de tour et nos batterie de service sont toujours pleines. J’ouvre le gaz, le frigo se met en route automatiquement, on peu y aller. La conduite "automatique" revient hyper vite à peine quelques centaines de mètres et on est dans le bain… il vaut mieux car la circulation est très dense. Arrêt au Walmart pour remplir le frigo et route jusqu’à notre point de chute désormais habituel au camping Anthony Chabot. Personne à l’entrée mais nous connaissons notre emplacement habituel qui n’attend plus que nous. Une fois les branchements réalisés on souffle un peu après ces 24 heures de voyage.
+Notre chauffeur habituel nous conduit à la gare de bonne heure et nous voilà une nouvelle fois en route pour de nouvelles aventures. Nous quittons une fois de plus nos proches, nos amis et notre zone de confort pour aborder l’amérique latine. Pour une fois le TGV arrive à l’heure à Roissy et nous avons largement le temps d’effectuer les démarches et nous restaurer avant d’embarquer dans le 777 dreamliner de la Norwegian. Après 11 heures de vol nous atterrissons à Oakland en Californie, le deuxième aéroport de San Francisco. Le passage auprès de l’agent de l’immigration se passe bien, on commence à être rodés, nous lui demandons un mois, il nous en donne… 6. On perd presque une heure pour récupérer notre valise en raison d’une panne du système d'acheminement des bagages et nous pouvons quitter l’aéroport, prendre un taxi et récupérer Thor. Aucune mauvaise odeur, pratiquement pas de poussière. Il démarre au quart de tour et nos batterie de service sont toujours pleines. J’ouvre le gaz, le frigo se met en route automatiquement, on peu y aller. La conduite "automatique" revient hyper vite à peine quelques centaines de mètres et on est dans le bain… Il vaut mieux car la circulation est très dense. Arrêt au Walmart pour remplir le frigo et route jusqu’à notre point de chute désormais habituel au camping Anthony Chabot. Personne à l’entrée mais nous connaissons notre emplacement habituel qui n’attend plus que nous. Une fois les branchements réalisés on souffle un peu après ces 24 heures de voyage.
 
-Ce matin on se lève sous un très beau soleil. Il fait un peu frais, à peine 9° dans Thor mais le soleil nous réchauffe très vite. Dans la matinée nous faisons une petite ballade à pied dans ce park d’eucaliptus qui, même s’il ne fait pas très chaud, dégage une odeur suave qui nous rappelle nos années passées à Ajaccio. On passe la journée à tout ranger et nettoyer... l’aventure peu commencer.
+Ce matin on se lève sous un très beau soleil. Il fait un peu frais, à peine 9° dans Thor mais le soleil nous réchauffe très vite. Dans la matinée nous faisons une petite ballade à pied dans ce park d’eucalyptus qui, même s’il ne fait pas très chaud, dégage une odeur suave qui nous rappelle nos années passées à Ajaccio. On passe la journée à tout ranger et nettoyer. Je teste le compresseur que j'ai acheté lors de notre dernier séjour et il me lâche au deuxième pneu qui du coup est un peu à plat...
 
 ## 03 décembre
 
-Ce matin un troupeau de dindon vient nous dire bonjour, comme le compresseur m’a laché hier je pense qu’un des pneu est a plat. On va donc commencé par ca. Je trouve un garage Ford pour la vidange mais Thor est tros gros pour eux, Je trouve un garage qui me rectifi la pression des pneus, effectivement il était bien à plat. Nous partons en suite au storage récupérer notre chèque de caution puis allons à leur banque pour récupérer du cash. On mange à 5 Guys, supers frites, puis direction San Francisco on travers la ville pour se stationné à notre parking habituel puis nous partons en centre ville en bus, passage à Apple Store puis retour. Nous retraversons la ville pour nous poser à Treasure island pour faire des photos de nuit de la Skyline et nous décidons de rester sur place pour la nuit.
+Ce matin un gros "troupeau" de dindons vient nous dire bonjour, leur plumage irisé est magnifique. On quitte le camping et nous commençons par un garage Ford pour la vidange mais Thor est tros gros pour eux. Je me rabat sur un garage qui me rectifie la pression des pneus, effectivement il était bien à plat. Nous partons ensuite au storage récupérer notre chèque de caution puis allons à leur banque pour récupérer du cash. On mange à 5 Guys, supers frites, puis direction San Francisco on travers la ville pour se stationné à notre parking habituel puis nous partons en centre ville en bus, passage à Apple Store puis retour. Nous retraversons la ville pour nous poser à Treasure Island pour faire des photos de nuit de la Skyline et nous décidons de rester sur place pour la nuit.
 
 ## 04 décembre
 
@@ -73,17 +73,59 @@ Comme nos pièces ne sont pas toutes arrivées chez le concessionnaire, nous dé
 Finbalement au bout de quelques mails on apprend que finalement toutes les pièces commandées à La Mesa RV sont bien arrivées donc rendez-vous pris pour demain matin 8h00 à EL Cajon, la banlieu de San Diego. En quitte Slab City sous un ciel nuageux qui va pas nous quitter de la journée. A midi on s’arrête dans un state Park en plein désert surtout utilisé par des fans d’ATV et nous en profitons également pour prendfe une bonne douche, les locaux sont nickel, nous sommes seuls au monde… On s’arrête non loin de la ville d’Alpine dans un grand complexe qui fait Casino et Outlet et qui accepte les RV sur leur immense parking, bien vide en cette saison.
 
 
-## 08 décembre
+## 11 décembre
+
+Ce matin départ de bonne heure de notre bivouac pour arriver à l’heures à notre rendez-vous chez un concessionnaire de RV à El Cajon avec qui nous sommes en contact, avec mon fils, depuis plusieurs mois pour commander des pièces. Je ne sais pas si c’est la fait que l’économie américaine est en forme mais ce n’est pas aisé de faire affaire avec eux. Nous rencontrons enfin Bryan qui nous prend rapidement en charge. On liste les travaux à réaliser et puis nous allons nous installer dans leur « lounge » avec tout le confort. 3 heures plus tard Brian revient en me disant qu’il y a un problème. En effet la bâche du store que j’ai commandé a bien été montée mais deux gros trous sont visibles… Après quelques tergiversations et quelques coup de fil il m’en trouve une qui devrait être là dans 2 ou 3 jours… On repart malgrè tout avec un mirroir de rétrovieur neuf, mon feu de recul arrangé et le chauffe-eau réglè, ce n’est pas si mal…
+On fait un arrêt au visitor centrer de la ville puis nous essayons de nous garer près du centre historique mais on ne trouve pas de place pour Thor. Comme in est déjà tard, 15h00 … nous allons faire quelques courses au Walmat puis nous nous mettons en quête d’un bivouac pour la nuit. Pas chose facile en ville, finalement nous trouvons un coin près de sea world. Il est 17h00 est la nuit est tombée…
+
+
+## 12 décembre
+
+Ce matin nous partons en direction de la vieille ville de San Diego qui a été entièrement conservé et restauré. On y retrouve les ancien batiment officiels et commerces autour d’une grande Plaza de las Armas. Il y a surtout de nombreuses boutiques de souvenirs arrivées tout droit du mexique. Toutefois nous sommes rentrés dans un Tabac / Fumoir (Racine & Laramie Tobacconist) qui pour une fois aurait pu être un vrai. Le monsieur était habillé en costume d’époque, le chapeau, la belle moustache, le tout dans un décors chargés aux fortes odeurs de tabac froid mais un peu sucré comme si de l’amsterdamer y avait été consommé récement. Il s’agit aussi bien d’un lieu où l’on peu acheté mais également un musée avec un grand nombre d’objets, pipes en tout genre, boite à cigarettes, cigares….  Les restaurants comme « Fiesta Del Reyes » sont vraiment très colorés et décorés avec en plus pour l’occasion les décos de Noël.
+Nous partons en suite nous stationner près du stade de baseball « Petco Park » pour visiter le centre ville actuel, Historic Gaslamp Quarter, Horton Plaza park, Littles Italie, l’Embarcardero et Seaport Village. La ville n’a rien d’exceptionnel en soi  mais elle est somme toute bien agréable. Ce qui est impressionnant c’est aéroport qui se trouve au fond de la bay et le couloir aérien qui survole le centre ville. Les avions volent très bas et l’architecture c’est adaptée aux passages des avions de ligne. San Diego est la ville de la trotinnette, électrique ou pas. Il ya en a de partout à disposition des habitants. Elle sont toutes géolocalisées sur une application et il suffit d’1 dollar pour demarrer. Par contre je n’ai pas compris comment s’effectuée la recharge car contrairement aux vélos, elles se laissent n’importe où. On a vu de nombreux « Sapins de Noêl » composés de dizaines de pots de « Roses de Noël » empilés sur une armature métallique, c’est très original.
+San diégo c’est surtout un ville qui troune autour de Navale et l’aéro navale. Si l’USS Midway est à quai, transformé en musée, on voit au loin, sur l’ile de Coronado, les silhouettes imposantes de plusieurs porte avion eu autres batiments toujours en service. De retour à Thor nous repartons vers le nord de la ville pour trouver un bivouac au bord de la Baie. Dans la journée on reçoit un email du concessionnaire qui nous indique que le store de nesa pas là avant le 19, du coup on va trainer un peu ici et certainement remonter vers LA, comme dit Jhonny « I want Back to LA).
+
+
+## 13 décembre
+
+Super bivouac, très belle vue ce matin sur la baie, le temps est magnifique.
+Nous traversons San Diego pour faire un tour sur la presqu’île de Coronado. Nous longeons une immense base navale où plueirus batiement sont en construcyion ou rénovation.  Nous longeons un long cordon lagunaire avant d’arriver sur l’ile qui est pratiquement réservée à une Base Navale. Nous trouvons un endroit sympa pour nous poser et faire des photos de la Skyline de SD. En debut d’après-midi retour en centre vlle en passant cette fois par le Coronado Bridge qui est très impressionnant, très haut en raison des bateaux et tournant.
+Je fini le reste de la journée à la visite de l’USS MidWay. A la billeterie, le caissier me pose plein de question et au final sans rien demander m’accorde le tarif « Veteran » 10 $ au lieu des 23. Il faut bien une demi-journée pour le visiter. Même si on voit bien que la technologie est vieille, on dirait q’uil est toujour actif tans il est bien entretenu et cque poste mis en situation avec des manequin et tout les appareillage en fonction. De nombreuses « casquette jaunes » anciens de la Navy pour la pluspart ayant servi sur ce batiment sont là pour repondre à toutes les questions. Un audioguide en français est fourni gratuitement.
+Puis retour à notre bivouac sauvage à Mission Bay. 
+
+
+## 14 décembre
+
+Ce matin le temps est gris. On va tenter un camping qui prend le Passport America. A notre arrivée on nous annonce que cela ne fonctionne pas les vendredis et samedis soir, on est vendredi c’est ballot. Hors de question de payer 90$ pour ce type de camping. On demande à faire les Dump, 5 $, mais au moins on repart tranquille pour un moment. On fait le plein de propane dans un U-Haul et du frigo dans un Walmart, on a profite pour manger ens un King Burger puis on termine la journée dans une librairie au Wi-Fi poussif pour traiter les photos puis retour à notre bivouac à Mission Bay.
+
+
+## 15 décembre
+
+Ce matin le soleil est de retour, on prend notre temps, l’environement est vraiment sympathique. On passe la matinée à la laverie puis on passe toute l’après-midi au Parc Balboa
+
+Le parc Balboa (anglais : Balboa Park) est un parc public de 4,9 km2 situé à San Diego, en Californie, aux États-Unis. Le parc est nommé en l'honneur de l'explorateur espagnol Vasco Núñez de Balboa. Il a été le lieu de la Panama-California Exposition de 1915 et de la California Pacific International Exposition de 1935, lesquelles ont chacune établi des sites d'intérêt architectural dans le parc. Le site a été préservé dès 1835, et est donc un des plus anciens sites aux États-Unis destinés à des fins récréatives. Outre des espaces ouverts de la végétation naturelle, il contient une variété d'attractions culturelles, y compris de nombreux musées, théâtres, magasins et restaurants, ainsi que le zoo de San Diego.
+
+Balboa Park, et ses bâtiments historiques, ont été déclarés National Historic Landmark en 1977 et placés sous l'autorité du Registre national des lieux historiques. Le parc Balboa est géré et entretenu par l'intendance des parcs et loisirs de la ville de San Diego.
+
+Retour au bivouac à Mission Bay.
+
+
+
+## 16 décembre
+
+
+Ce matin route vers Los Angeles, Nous longeons le brod de l’océan pour profiter un maximum des bords du pacifique. C’est dimanche et de nombreuses personnes marchent, courent,, pédalent et surtout surffent, il y a des planches partout sur les voitures, vélos sur les mythiques Combi VW. Nous traversons de très belles villes balnéaires comme Carlbad avec son immense Pier qui s’avance dans l’océan. La région est riche, on ne compte plus les ferraris, lamborghini, porsche… sans compter les vieilles américaines.
+
+
+
+## 17 décembre
 
 
 
 
-## 08 décembre
 
 
-
-
-## 08 décembre
+## 13 décembre
 
 
 
