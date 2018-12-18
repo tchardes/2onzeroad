@@ -46,6 +46,6 @@ En début d’après midi on fait un trail à **Skull Rock** une promenade entre
 
 Ce parc a été un haut lieu de retraite spirituelle du milieu musical et hippie californien dans les années 1070. En 1987, U2 donne son nom à son 5éme album, certainement le plus américain dans son style. Si on est dans le coin il ne faut pas hésiter à y passer une journée même si le parc en lui même ne fait pas partie de notre top 10.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/45595426224/in/datetaken/" title="Joshue Tree NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4826/45595426224_cfee0a144b_k.jpg" width="2048" height="1152" alt="Joshue Tree NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/45595445844/in/datetaken/" title="Joshue Tree NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4850/45595445844_60882ae44d_k.jpg" width="2048" height="1152" alt="Joshue Tree NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Pour un complément d'informations sur ce parc, historique, trails, réservation camping, [cartes](https://www.nps.gov/jotr/planyourvisit/maps.htm), n'hésitez pas à faire une tour sur le [site officiel](http://www.www.nps.gov/jotr/index.htm).
