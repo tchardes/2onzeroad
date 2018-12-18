@@ -18,7 +18,7 @@ category: "blog"
 location: "33.903069, -116.079070"
 ---
 
-Le parc national de Joshua Tree se trouve au Sud-Est de la Californie. Il protège "l'arbre de Josué", une espèce de mi-cactus mi-yucca, typique du Sud-Ouest des États-Unis. Le parc est a cheval entre les déserts des Mojaves et celui du plateau du Colorado, il dispose de trois entrées différentes avec un Visitor Center à chaque entrée. L'entrée est gratuite avec le Pass America the Beautiful.
+Le parc national de Joshua Tree se trouve au Sud-Est de la Californie. Il protège "l'arbre de Josué" nom donné par des mormons, à cette espèce de mi-cactus mi-yucca (Yucca brevifolia), typique du Sud-Ouest des États-Unis. Le parc est a cheval entre les déserts des Mojaves et celui du plateau du Colorado, il dispose de trois entrées différentes avec un Visitor Center à chaque entrée. L'entrée est gratuite avec le Pass America the Beautiful.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/44502154150/in/datetaken/" title="Joshue Tree NP - Californie - [USA]"><img src="https://farm5.staticflickr.com/4888/44502154150_04483331e7_k.jpg" width="2048" height="1152" alt="Joshue Tree NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
