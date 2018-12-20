@@ -98,7 +98,7 @@ Ce matin le soleil est de retour, on prend notre temps, l’environnement est vr
 
 ## 16 décembre
 
-Ce matin route vers Los Angeles, Nous longeons le bord de l’océan pour profiter un maximum de la vue sur le Pacifique. C’est dimanche et de nombreuses personnes marchent, courent, pédalent et surtout surffent, il y a des planches partout sur les voitures, vélos sur les mythiques Combi VW. Nous traversons de très belles villes balnéaires comme Carlsbad avec son immense Pier qui s’avance dans l’océan. La région est riche, on ne compte pas les Ferraris, Lamborghinis, Porsches… sans compter les vieilles américaines. On se pose pour la nuit sur le parking d'un The Home Depot à Signal Hill pas très loin de Los Angeles.
+Ce matin route vers Los Angeles, Nous longeons le bord de l’océan pour profiter un maximum de la vue sur le Pacifique. C’est dimanche et de nombreuses personnes marchent, courent, pédalent et surtout surfent, il y a des planches partout, sur les voitures, les vélos sur les mythiques Combi VW et bien sur dans l'eau. Nous traversons de très belles villes balnéaires comme Carlsbad avec son immense Pier qui s’avance dans l’océan. La région est riche, on ne compte pas les Ferraris, Lamborghinis, Porsches… sans compter les vieilles américaines. On se pose pour la nuit sur le parking d'un The Home Depot à Signal Hill pas très loin de Los Angeles.
 
 ## 17 décembre
 
