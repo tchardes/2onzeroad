@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "34.012592, -118.247624"
-  name: "Los Angeles - Californie - USA"
-  date: "16 au 18 décembre 2018"
+  coordinates: "33.546260, -117.553796"
+  name: "San Juan Capistrano - Californie - USA"
+  date: "20 décembre 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
