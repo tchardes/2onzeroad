@@ -107,26 +107,22 @@ Ce matin route vers Los Angeles, Nous longeons le bord de l’océan pour profit
 
 ## 17 décembre
 
-Journée maussade, on fait quelques magasins et on trouve une librairie où on s’occupe du blog et profitons du Wi-Fi pour faire les mises à jour. En route, autour d’une université, on croise un coyote qui traverse la route devant nous puis poursuit son chemin, tranquille… En fin d’après- midi on regagne notre bivouac de la veille. Non loin se trouve un resto "In'n Out" qui nous interpelle car de 17 à 01 heure du matin, heure de sa fermeture, il y a une queue de plusieurs dizaines de voitures qui attendent au drive. On n’a jamais testé cette enseigne du coup on décide d'y aller... à pied. Il ne propose que 3 types de Burgers avec des frittes fraîches et une boisson. Pour deux menus on s’en tire à 12€ et en plus les burgers sont excellents et les frittes plutôt bonnes.
+Journée maussade, on fait quelques magasins et on trouve une librairie où on s’occupe du blog et profitons du Wi-Fi pour faire les mises à jour. En route, autour d’une université, on croise un coyote qui traverse la route devant nous puis poursuit son chemin, tranquille… En fin d’après- midi on regagne notre bivouac de la veille. Non loin se trouve un resto "In'n Out" qui nous interpelle car de 17 à 01 heure du matin, heure de sa fermeture, il y a une queue de plusieurs dizaines de voitures qui attendent au drive. On n’a jamais testé cette enseigne du coup on décide d'y aller... à pied. Il ne propose que 3 types de Burgers avec des frittes fraîches et une boisson. Pour deux menus on s’en tire à 12€ et en plus les burgers sont excellents et les frittes plutôt bonnes. 
 
 ## 18 décembre
 
-Ce matin le beau temps est revenu départ pour Venice Beach ou nous faisons une promenade sur la plage, beaucoup de boutiques de souvenirs et très peu de monde à "Muscle Beach" puis nous allons jusqu'à Santa Monica. Pas facile de circuler et se garer avec Thor dans le coin. Finalement on trouve une rue où le stationnement est autorisé pour 2 heures. En voulant me serrer, j'explose le cache en plastique du sommet du store. Décidemment pas de chance avec ce store... nouvel email à Ryan... On est pas prêt de quitter les USA. Nous nous baladons au bord de la plage et sur le Pier qui est également la fin de la route 66. Ne trouvant pas de bivouac aux alentours nous décidons de retourner à Signal Hill. Le retour est stressant, la circulation est très très dense avec par endroits une interstate à 16 voies, 2 X 8 voies, des entrées, des sorties des ponts les uns sur les autres. Beaucoups de décos de Noël, les maison voitures et les gens qui arborent des pulls de circonstance ou même de bonnets de Noël. Retour au In’n out ce soir…
-
+Ce matin le beau temps est revenu départ pour Venice Beach ou nous faisons une promenade sur la plage, beaucoup de boutiques de souvenirs et très peu de monde à "Muscle Beach" puis nous allons jusqu'à Santa Monica. Pas facile de circuler et se garer avec Thor dans le coin. Finalement on trouve une rue où le stationnement est autorisé pour 2 heures. En voulant me serrer, j'explose le cache en plastique du sommet du store. Décidemment pas de chance avec ce store... nouvel email à Ryan... On est pas prêt de quitter les USA. Nous nous baladons au bord de la plage et sur le Pier qui est également la fin de la route 66. Ne trouvant pas de bivouac aux alentours nous décidons de retourner à Signal Hill. Le retour est stressant, la circulation est très très dense avec par endroits une interstate à 16 voies, 2 X 8 voies, des entrées, des sorties des ponts les uns sur les autres.
 
 ## 19 décembre
 
-Ce matin nous quittons LA sous un beau Soleil nous faisons deux vendeurs de RV pour acheter des pièces de rechange et nous nous arrêtons à un Walmart pour remplir le frigo pour quelques jours. Nous garons à côté d’une voiture de police, j’engage la conversation et je lui donne un écusson de la france et une petit tour Eiffel pour son fils puis il s’en va. De retour des courses, je vois la voiture de police garée à nouveau à côté de Thor,  il sort et me donne un écussons de la Police de « La Habra » super sumpa.
-Comme nous n’avons pas de nouvelle de notre store, on décide de descendre tout doucement vers San Diego. En route on repère un State Park qui a l’air sympa et pas très cher pour passer la nuit, au calme en pleine nature.
-
-
+Ce matin nous quittons Los Angeles sous un beau Soleil, nous faisons deux vendeurs de RV pour acheter des pièces de rechange et nous nous arrêtons à un Walmart pour remplir le frigo pour quelques jours. Nous garons à côté d’une voiture de police, j’engage la conversation et je lui donne un écusson de la france et une petite tour Eiffel pour son fils puis il s’en va. De retour des courses, je vois la voiture de police garée à nouveau à côté de Thor, il sort et me remet un super écussons de la Police de "La Habra", vraiment très sympa. Comme nous n’avons pas de nouvelle de notre store, on décide de descendre tout doucement vers San Diego. En route on repère un State Park qui a l’air sympa et pas très cher pour passer la nuit, au calme en pleine nature.
 
 ## 20 et 21 décembre
 
 
 
 
-
+Beaucoups de décos de Noël, les maison voitures et les gens qui arborent des pulls de circonstance ou même de bonnets de Noël. 
 
 
 
