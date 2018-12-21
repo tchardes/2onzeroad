@@ -10,8 +10,8 @@ to-date:    2018-12-16 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt19.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt19.jpg
-tags: [parc-naturel, geologie, montagne, culturel]
-pois: [ebr#29-juin, ]
+tags: [parc-naturel, ocean, flore, culturel]
+pois: [san-francisco#03-decembre, mosaic-steps#04-decembre, route-66#06-decembre, bagdad#06-decembre, calico#06-decembre, elmer#06-decembre, palm-springs#07-decembre, indian-canyon#07-decembre, joshua#08-decembre, salvation#09-decembre, slab#09-decembre, san-diego#11-decembre, venice-beach#18-decembre, santa-monica#18-decembre, los-angeles#18-decembre, #04-decembre, #04-decembre, #04-decembre]
 country: USA
 states: ["Californie"]
 category: "roadmap"
@@ -98,11 +98,11 @@ Ce matin le soleil est de retour, on prend notre temps, l’environnement est vr
 
 ## 16 décembre
 
-Ce matin route vers Los Angeles, Nous longeons le bord de l’océan pour profiter un maximum de la vue sur le Pacifique. C’est dimanche et de nombreuses personnes marchent, courent, pédalent et surtout surfent, il y a des planches partout, sur les voitures, les vélos sur les mythiques Combi VW et bien sur dans l'eau. Nous traversons de très belles villes balnéaires comme Carlsbad avec son immense Pier qui s’avance dans l’océan. La région est riche, on ne compte pas les Ferraris, Lamborghinis, Porsches… sans compter les vieilles américaines. On se pose pour la nuit sur le parking d'un The Home Depot à Signal Hill pas très loin de Los Angeles.
+Ce matin route vers Los Angeles, Nous longeons le bord de l’océan pour profiter un maximum de la vue sur le Pacifique. C’est dimanche et de nombreuses personnes marchent, courent, pédalent et surtout surfent, il y a des planches partout, sur les voitures, les vélos sur les mythiques Combi VW et bien sur dans l'eau. Nous traversons de très belles villes balnéaires comme Carlsbad, Oceanside avec son immense Pier qui s’avance dans l’océan. La région est riche, on ne compte pas les Ferraris, Lamborghinis, Porsches… sans compter les vieilles américaines. On se pose pour la nuit sur le parking d'un The Home Depot à Signal Hill pas très loin de Los Angeles.
 
 ## 17 décembre
 
-Journée maussade, on fait quelques magasins et on trouve une librairie où on s’occupe du blog et profitons du Wi-Fi pour faire les mises à jour. En route, autour d’une université, on croise un coyote qui traverse la route devant nous puis poursuit son chemin, tranquille… En fin d’après- midi on regagne notre bivouac de la veille. Non loin se trouve un resto "In'n Out" qui nous interpelle car de 17 à 01 heure du matin, heure de sa fermeture, il y a une queue de plusieurs dizaines de voitures qui attendent au drive. On n’a jamais testé cette enseigne du coup on décide d'y aller... à pied. Il ne propose que 3 types de Burgers avec des frittes fraîches et une boisson. Pour deux menus on s’en tire à 12€ et en plus les burgers sont excellents et les frittes plutôt bonnes. 
+Journée maussade, on fait quelques magasins et on trouve une librairie où on s’occupe du blog et profitons du Wi-Fi pour faire les mises à jour. En route, autour d’une université, on croise un coyote qui traverse la route devant nous puis poursuit son chemin, tranquille… En fin d’après- midi on regagne notre bivouac de la veille. Non loin se trouve un resto "In-N-Out Burger" qui nous interpelle car de 17 à 01 heure du matin, heure de sa fermeture, il y a une queue de plusieurs dizaines de voitures qui attendent au drive. On n’a jamais testé cette enseigne du coup on décide d'y aller... à pied. Il ne propose que 3 types de Burgers avec des frittes fraîches et une boisson. Pour deux menus on s’en tire à 12€ et en plus les burgers sont excellents et les frittes plutôt bonnes.
 
 ## 18 décembre
 
