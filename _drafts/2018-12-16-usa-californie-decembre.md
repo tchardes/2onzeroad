@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt19.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt19.jpg
 tags: [parc-naturel, ocean, flore, culturel]
-pois: [san-francisco#03-decembre, mosaic-steps#04-decembre, route-66#06-decembre, bagdad#06-decembre, calico#06-decembre, elmer#06-decembre, palm-springs#07-decembre, indian-canyon#07-decembre, joshua#08-decembre, salvation#09-decembre, slab#09-decembre, san-diego#11-decembre, venice-beach#18-decembre, santa-monica#18-décembre, los-angeles#18-decembre]
+pois: [san-francisco#03-décembre, mosaic-steps#04-décembre, route-66#06-décembre, bagdad#06-décembre, calico#06-décembre, elmer#06-décembre, palm-springs#07-décembre, indian-canyon#07-décembre, joshua#08-décembre, salvation#09-décembre, slab#09-décembre, san-diego#11-décembre, venice-beach#18-décembre, santa-monica#18-décembre, route-66#18-décembre,los-angeles#18-décembre]
 country: USA
 states: ["Californie"]
 category: "roadmap"
