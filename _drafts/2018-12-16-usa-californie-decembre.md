@@ -18,7 +18,7 @@ category: "roadmap"
 flickr-text: ""
 location: "35.213452, -117.720835"
 itinary: "2019/californie.json"
-mapZoom: 4
+mapZoom: 6
 
 ---
 
