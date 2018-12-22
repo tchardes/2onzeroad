@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "33.546260, -117.553796"
-  name: "San Juan Capistrano - Californie - USA"
-  date: "20 et 21 décembre 2018"
+  coordinates: "33.494423, -117.148755"
+  name: "Temecula - Californie - USA"
+  date: "21 décembre 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
