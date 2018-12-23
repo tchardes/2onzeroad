@@ -168,13 +168,32 @@ Ce matin, le beau temps est revenu départ pour Venice Beach où nous faisons un
 
 Ce matin, nous quittons Los Angeles sous un beau Soleil, nous faisons deux vendeurs de RV pour acheter des pièces de rechange et nous nous arrêtons à un Walmart pour remplir le frigo pour quelques jours. Nous garons à côté d’une voiture de police, j’engage la conversation et je lui donne un écusson de la France et une petite tour Eiffel pour son fils puis il s’en va. De retour des courses, je vois la voiture de police garée à nouveau à côté de Thor, il sort et me remet un super écusson de la Police de "La Habra", vraiment très sympa. Comme nous n’avons pas de nouvelle de notre store, on décide de descendre tout doucement vers San Diego. En route, on repère un State Park qui a l’air sympa et pas très cher pour passer la nuit, au calme en pleine nature.
 
-
 ## 20 et 21 décembre
-
 
 Nuit très calme au camping, juste amusés par les cris des coyotes dans la soirée. Nous faisons les dumps avant de quitter le camping direction la ville de Temecula. Nous traversons un massif montagneux avant d’arriver au dessus d’une très belle vallée de Temecula avec son lac « Lake Elsinore ». La région est connue pour son vignoble et son vin qui fait concurence à celui de la Nappa valley, il y a même une «French Valley». Nous roulons jusqu’à la ville de Temecula où nous trouvons facilement à nous garer afin de visiter la veille ville. Nous arpentons la Old Town Front Street où s’enchaîne de nombreuses boutiques dans des batiments qui ont su garder ou recréer l’esprit western, le tout avec les décoration de Noêl. Nous sommes atirés par une boutique au N°28657 qui arbore un drapeau français et qui se nomme « French Soap - Au savon de provence ». Nous rentrons et faisons ainsi la connaissance de Lydia et François-Xavier, un couple de Marseille qui a tout laché pour vivire le rêve américain et ouvrir, il y a à peine un an, une boutique de savons de Marseille et autres produits provencaux. Nous parlons un très long moment au sujet de leur installation et leur intégration dans cette région qui compte près de 3500 français expatriés, pas tous dans le vin mais aussi l’industrie aéronautique et l’informatique. Les Californiens qui sont très attachés au Bio et produits naturels en général on rapidement adopté les frnchy et leurs produits naturels. Si vous passez par là, n’hésitez pas à faire un tour dans leur boutique qui sent bon le pays… Leur site www.ausavondeprovence.com. En poursuivant notre balade de je suis atiré par un solo d’harmonica très blusy et nous passons le début de soirée au « OTBC » pour Old Town Blues Club où nous ecoutons un super groupe de Blues devant une Blue Moon. Toujours aussi impressionné par le niveau de ces musiciens, c’est carré, ça groove, comme on dit… ça tourne, ils font le show et ont une super interaction avec les clients. L’ambiance est vraiment très sympa. On quitte finalement cette ville qui aura été pleine de surprises et trouvons un bivouac non loin à Pechanga.
 
 Beaucoup de décos de Noël, les maison voitures et les gens qui arborent des pulls de circonstance ou même de bonnets de Noël. 
+
+## 22 décembre
+
+
+
+## 24 décembre
+
+
+
+
+## 25 décembre
+
+
+
+## 26 décembre
+
+
+
+
+## 27 décembre
+
 
 
 
