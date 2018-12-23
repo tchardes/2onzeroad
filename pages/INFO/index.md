@@ -275,6 +275,7 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 
 * [Eric et Muriel - Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)- Rencontrées pour la première fois à Anchorage - Alaska le 12 août 2017 ;
 * [Famille Laclefa - Laclefa4](https://laclefa4.wordpress.com/)- Rencontrées à Grand Teton - Wyoming le 12 juin 2018
+* [Fabrice, Isabelle, Léa et  - ltdv](https://ltdv.fr/)- Rencontrées à Torrey Pines - Californie le 22 décembre 2018
 
 ## Divers
 
