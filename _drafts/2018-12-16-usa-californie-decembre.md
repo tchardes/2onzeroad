@@ -176,7 +176,10 @@ Beaucoup de décos de Noël, les maison voitures et les gens qui arborent des pu
 
 ## 22 décembre
 
-
+Ce matin on se lève un peu tard et on traine avant de reprendre la route. On quitte l’intérieur de terre pour se rendre sur la côte Pacifique.
+Nous arrivons au parc national de torrey Pines qui est une reserve d’Etat, de superbes falaises qui domine les plage et l’océan. Le spot abrite un club de parapentiste et de modelisme.
+On voit au loin quelques RV et nous décidons de nous avancer vers eux, certains ont loin d’être carrément installé, on va voir pour y passer la nuit.
+On part faire une promenade à pied et de retour, nous croisons une famille de Français en voyage comme nous, à bord d’un super Class A immatriculé au Québec et son yoyo.  Il s’agit de Fabrice, Isabelle et leur deux filles Léa et  Laura. Au bout d’une demi de discussion, ils sortent des chaises et nous les bières et nous echangeons nos expériences de nos aventures respectives. Nous finissons l’après-midi à balader, admirer le paysage et les vols de parapentistes. Ayant acceoté l’invitation de Fabrice, nous nous retrouvons le soir dans leur grand chez-eux, autour d’un rhum de Tahaa puis autour d’un très bon repas préparé par Isabelle autour d’un excellent vin rouge et fromages dignent de ce nom. Excellente soirée passée en leur compagnie où nous avons beaucoup échangé. 
 
 ## 24 décembre
 
