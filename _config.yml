@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "32.891397, -117.250104"
-  name: "Torrey Pines- Californie - USA"
-  date: "22 décembre 2018"
+  coordinates: "32.732482, -117.141110"
+  name: "San Diego- Californie - USA"
+  date: "23 au ... décembre 2018"
 
 # set the encoding to utf-8
 encoding: utf-8
