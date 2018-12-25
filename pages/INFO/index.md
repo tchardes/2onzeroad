@@ -273,10 +273,10 @@ Ci-dessous, quelques sites de voyageurs (Voyage en cours ou terminé) qui sont d
 
 Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de notre périple.
 
-* [Eric et Muriel - Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)- Rencontrées pour la première fois à Anchorage - Alaska le 12 août 2017 ;
+* [Eric et Muriel - Alaskaterredefeu](https://alaskaterredefeu.jimdo.com/)- Rencontrés pour la première fois à Anchorage - Alaska le 12 août 2017 ;
 * [Famille Laclefa - Laclefa4](https://laclefa4.wordpress.com/)- Rencontrées à Grand Teton - Wyoming le 12 juin 2018
-* [Fabrice, Isabelle, Léa et Laura - Le temps d'un voyage](https://ltdv.fr/)- Rencontrées à Torrey Pines - Californie le 22 décembre 2018
-* [François et Yumi](https://www.facebook.com/yumie.miura.7?lst=100004432210906%3A687754820%3A1545768275/)- Rencontrées à San Giego - Californie le 23 décembre 2018
+* [Fabrice, Isabelle, Léa et Laura - Le temps d'un voyage](https://ltdv.fr/)- Rencontrés à Torrey Pines - Californie le 22 décembre 2018
+* [François et Yumi](https://www.facebook.com/yumie.miura.7?lst=100004432210906%3A687754820%3A1545768275/)- Rencontrés à San Giego - Californie le 23 décembre 2018
 
 ## Divers
 
