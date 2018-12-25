@@ -67,7 +67,7 @@ Au croisement de Grant Av. et de California street se trouve la **Old St. Mary's
 
 En poursuivant sur Grant Av. nous passons devant le N° 718, **Wok boutique**, très ancienne boutique qui commercialise des couperets, woks, baguettes… et le N° 720, la boulangerie **Eastern Bakery** ouverte depuis 1924, plus ancienne boulangerie chinoise des États-Unis. Les gâteaux de lune sont leur spécialité, on peut y déguster du sucré mais également du salé.  
 
-    
+
 On tourne ensuite sur Clay Street puis à gauche pour traverser la **Place de Portsmouth**, centre social de Chinatown. De nombreux hommes et femmes jouent aux cartes et aux échecs chinois "échiquier des éléphants". Il est possible de rejoindre le Chinese Culture Center, au Hilton Financial, bâtiment qui a une forme assez particulière.   
     
 Au bout de la place, on débouche sur Washington street. Sur la gauche, au niveau du N° 743, on peut admirer un très beau bâtiment au style oriental, ancien central téléphonique de Chinatown, transformé depuis en agence bancaire. Nous rejoignons ensuite Grant Av. en passant par 
