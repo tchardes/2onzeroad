@@ -268,7 +268,7 @@ Ce matin, on profite de cette belle journée pour trainer un peu au bivouac. En 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/31539141407/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm8.staticflickr.com/7848/31539141407_c763635987_k.jpg" width="2048" height="1152" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous choisissons un SteakHouse, le Greystone Prime qui à l’air très sympa, en fait, il ressemble à un restaurant tel que nous l’entendons, très belle décoration, des nappes et serviettes en tissu, de beaux verres, des serveurs habillés en pantalon noir, chemise blanche et tablier. Ils proposent tout plein de style de viandes affinées 21 jours provenant des USA, du Japon et d’Australie. C’est un pur régal, la viande  un goût particulier et d’une très grande tendreté. On se choisit un vin rouge argentin excellent et nous passons une super réveillon en tête à tête et… à l’américaine. En sortant, nous nous rendons dans un bar clandestin, héritage de l’époque de la prohibition dans les années 20, il se trouve sur la 5th au 548, une simple porte en fer dans un renfoncement dont les inscriptions laissent à penser qu’il s’agit d’un cabinet d’avocat.
+Nous choisissons un SteakHouse, le Greystone Prime qui à l’air très sympa, en fait, il ressemble à un restaurant tel que nous l’entendons, très belle décoration, des nappes et serviettes en tissu, de beaux verres, des serveurs habillés en pantalon noir, chemise blanche et tablier. Le notre est né à Albi et il parle très bien Français ce qui nous à facilité la compréhention de la carte. Ils proposent tout plein de style de viandes affinées 21 jours provenant des USA, du Japon et d’Australie. C’est un pur régal, la viande  un goût particulier et d’une très grande tendreté. On se choisit un vin rouge argentin excellent et nous passons une super réveillon en tête à tête et… à l’américaine. En sortant, nous nous rendons dans un bar clandestin, héritage de l’époque de la prohibition dans les années 20, il se trouve sur la 5th au 548, une simple porte en fer dans un renfoncement dont les inscriptions laissent à penser qu’il s’agit d’un cabinet d’avocat.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46478993051/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm8.staticflickr.com/7862/46478993051_9ce94c5657_k.jpg" width="2048" height="1152" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -279,11 +279,14 @@ Il faut attendre devant qu’une personne vous introduise. On voit arriver un bl
 
 ## 25 décembre
 
+Il a plu une partie de la nuit ainsi que la matinée. A midi Corine nous prépare un super repas de réveillon, foie gras, que l’on a ramené de France, tournedo Rossini avec accompagnements et pour finir un gâteau… américain.
+En début d’après-midi le temps se lève et nous partons faire une longue promenade le long de la baie, très agréable. Le coucher de soleil est très beau, je prends quelques photos.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/44661893650/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm5.staticflickr.com/4900/44661893650_c23d13bf58_k.jpg" width="2048" height="1152" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 26 décembre
 
+Matinée au bivouac sous un beau soleil. J’ai envoyé un email à UPS et Rayn, pas de nouvelle. Après manger direction une librairie pour traiter les photos, vidéos et blog. Retour au bivouac ou nous passons une bonne partie de la soirée avec François et Miyu pour un apéro dans leur CC, très bien aménagé.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32606308268/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm8.staticflickr.com/7852/32606308268_e3c56c22dd_k.jpg" width="2048" height="978" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
