@@ -10,7 +10,7 @@ to-date:    2018-12-16 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt19.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt19.jpg
-tags: [parc-naturel, ocean, flore, culturel]
+tags: [parc-naturel, mer-ocean, flore, culturel]
 pois: [san-francisco#03-décembre, mosaic-steps#04-décembre, route-66#06-décembre, bagdad#06-décembre, calico#06-décembre, elmer#06-décembre, palm-springs#07-décembre, indian-canyon#07-décembre, joshua#08-décembre, salvation#09-décembre, slab#09-décembre, san-diego#11-décembre, venice-beach#18-décembre, santa-monica#18-décembre, route-66#18-décembre,los-angeles#18-décembre]
 country: USA
 states: ["Californie"]
