@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "San Diego"
-preview:    "…"
+preview:    "Nous voilà à la fin de notre road trip aux USA, nous finissons par la visite de la ville de San Diego en Californie. Nous devions…"
 parent-id:  2018-12-27-usa-californie-decembre
 
 date:       2018-12-26 12:00:00
