@@ -123,11 +123,11 @@ Nous poursuivons vers le sud jusqu’à la péninsule de Point Loma pour visiter
 ## Sorties
 
 Sur la 5th avenue, nous avons testé principalement deux restaurants et un bar musical:
-* **UNION Kitchen & Tap Gaslamp** bar-restaurant, cuisine américaine, hamburgers très bons et copieux
+* **UNION Kitchen & Tap Gaslamp** : bar-restaurant, cuisine américaine, hamburgers très bons et copieux
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46427864522/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm8.staticflickr.com/7855/46427864522_1c5ce555b0_k.jpg" width="2048" height="1536" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-* **Greystone Prime Steakhouse**, restaurant un peu cher où l'on sert du bœuf affiné en provenance des USA, du Japon et de l'Australie. Très bel établissement avec une très belle carte de vins.
+* **Greystone Prime Steakhouse** : restaurant un peu cher où l'on sert du bœuf affiné en provenance des USA, du Japon et de l'Australie. Très bel établissement avec une très belle carte de vins.
 * **Prohibition Lounge**, bar clandestin, héritage de l’époque de la prohibition dans les années 20, une simple porte en fer dans un renfoncement dont les inscriptions laissent à penser qu’il s’agit d’un cabinet d’avocat.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46478993051/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm8.staticflickr.com/7862/46478993051_9ce94c5657_k.jpg" width="2048" height="1152" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
