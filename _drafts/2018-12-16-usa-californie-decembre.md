@@ -182,7 +182,7 @@ Journée maussade, on fait quelques magasins et on trouve une librairie où on s
 
 ## 18 décembre
 
-Ce matin, le beau temps est revenu, départ pour Venice Beach où nous faisons une promenade sur la plage, beaucoup de boutiques de souvenirs et très peu de monde à "Muscle Beach" puis nous allons jusqu'à Santa Monica. Pas facile de circuler et se garer avec Thor dans le coin. Finalement, on trouve une rue où le stationnement est autorisé pour 2 heures. 
+Ce matin, le beau temps est revenu, départ pour Venice Beach où nous faisons une promenade sur la plage, beaucoup de boutiques de souvenirs et très peu de monde à "Muscle Beach" puis nous allons jusqu'à Santa Monica. Pas facile de circuler et se garer avec Thor dans le coin. Finalement, on trouve une rue où le stationnement est autorisé pour 2 heures.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/31538041197/in/datetaken/" title="Venice Beach - Californie - [USA]"><img src="https://farm5.staticflickr.com/4880/31538041197_2791ea07a3_k.jpg" width="2048" height="1152" alt="Venice Beach - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -208,7 +208,6 @@ Nuit très calme au camping, juste amusés par les cris des coyotes dans la soir
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46427363592/in/datetaken/" title="Temecula - Californie - [USA]"><img src="https://farm5.staticflickr.com/4918/46427363592_2e04751392_k.jpg" width="2048" height="1365" alt="Temecula - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
 Nous sommes attirés par une boutique au N°28657 qui arbore un drapeau français et qui se nomme "French Soap - Au savon de provence". Nous rentrons et faisons ainsi la connaissance de Lydia et François-Xavier, un couple de Marseille qui a tout lâché pour vivre le rêve américain et ouvrir, il y a à peine un an, une boutique de savons de Marseille et autres produits provençaux.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32606286188/in/datetaken/" title="Temecula - Californie - [USA]"><img src="https://farm8.staticflickr.com/7866/32606286188_8a0675127b_k.jpg" width="2048" height="1152" alt="Temecula - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -219,11 +218,11 @@ Nous parlons un très long moment au sujet de leur installation et leur intégra
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46427814962/in/datetaken/" title="Temecula - Californie - [USA]"><img src="https://farm8.staticflickr.com/7884/46427814962_c30ff84bfa_k.jpg" width="2048" height="1152" alt="Temecula - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En poursuivant notre balade, je suis attiré par un solo d’harmonica très blusy et nous passons le début de soirée au "OTBC" pour Old Town Blues Club où nous écoutons un super groupe de Blues devant une Blue Moon White (bière). Toujours aussi impressionné par le niveau de ces musiciens, c’est carré, ça groove, comme on dit… ça tourne. Ils font le show et ont une super interaction avec les clients. L’ambiance est vraiment très sympa. 
+En poursuivant notre balade, je suis attiré par un solo d’harmonica très blusy et nous passons le début de soirée au "OTBC" pour Old Town Blues Club où nous écoutons un super groupe de Blues devant une Blue Moon White (bière). Toujours aussi impressionné par le niveau de ces musiciens, c’est carré, ça groove, comme on dit… ça tourne. Ils font le show et ont une super interaction avec les clients. L’ambiance est vraiment très sympa.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/44661551510/in/datetaken/" title="Temecula - Californie - [USA]"><img src="https://farm5.staticflickr.com/4813/44661551510_0e910eaab5_k.jpg" width="2048" height="1152" alt="Temecula - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On quitte finalement cette ville qui aura été pleine de surprises et trouvons un bivouac non loin à Pechanga.
+On quitte finalement cette ville qui aura été pleine de surprises et trouvons un bivouac non loin, à Pechanga.
 
 Beaucoup de décos de Noël, les maison voitures et les gens qui arborent des pulls de circonstance ou même de bonnets de Noël. 
 
@@ -246,7 +245,6 @@ Ayant accepté l’invitation de Fabrice, nous nous retrouvons le soir dans leur
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46478684891/in/datetaken/" title="Torrey Pines - Californie - [USA]"><img src="https://farm8.staticflickr.com/7817/46478684891_b451b802b8_k.jpg" width="2048" height="1152" alt="Torrey Pines - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 23 décembre
-
 
 Ce matin, nous quittons notre bivouac pour promener le long du Pacifique. Premier arrêt au village de la Jolla où nous nous promenons le long de l’océan de la Jolla Cove à Children’s Pool La Jolla, où l’on peut observer plusieurs colonies de "Sea Lions" et d’oiseaux.
 
@@ -274,7 +272,7 @@ Nous choisissons un SteakHouse, le Greystone Prime qui à l’air très sympa, e
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46478993051/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm8.staticflickr.com/7862/46478993051_9ce94c5657_k.jpg" width="2048" height="1152" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Il faut attendre devant qu’une personne vous introduise. On voit arriver un black immense, une vraie armoire à glace avec une cravatte à Leds. Il s’approche de nous, nous regarde  est dit " Are you ready ? " of course… Il appuie sur un bouton dérobé, on entend un clic et la porte s’entrouve laissant apparaître un escalier. On arrive dans une cave toute en longueur abritant un bar et une salle. Ce soir, pas de live music, mais un DJ habillé dans un costume de noël rouge avec des décos et des pantoufles en léopard !!! On boit un cocktail en écoutant de la bonne musique avant de retourner à notre bivouac.
+Il faut attendre devant qu’une personne vous introduise. On voit arriver un black immense, une vraie armoire à glace avec une cravate à leds. Il s’approche de nous, nous regarde  est dit " Are you ready ? " of course… Il appuie sur un bouton dérobé, on entend un clic et la porte s’entrouve laissant apparaître un escalier. On arrive dans une cave toute en longueur abritant un bar et une salle. Ce soir, pas de live music, mais un DJ habillé dans un costume de noël rouge avec des décos et des pantoufles en léopard !!! On boit un cocktail en écoutant de la bonne musique avant de retourner à notre bivouac.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/45565889515/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm5.staticflickr.com/4876/45565889515_8c66ef9955_k.jpg" width="2048" height="1536" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
