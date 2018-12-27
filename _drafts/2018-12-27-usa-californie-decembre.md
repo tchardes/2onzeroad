@@ -4,7 +4,7 @@ title:   "Retour en Californie"
 preview: "Cet article couvre la période du 01 au      décembre durant laquelle nous avons fini la visite de la californie avant d'entrée en Amérique Latine…"
 parent-id: 
 
-date:       2018-12-16 13:00:00
+date:       2018-12-27 13:00:00
 from-date:  2018-12-01 13:00:00
 to-date:    2018-12-27 13:00:00
 author:     "Thierry"
