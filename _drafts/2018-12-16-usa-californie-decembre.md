@@ -241,6 +241,7 @@ On voit au loin quelques RV et nous décidons de nous avancer vers eux, certains
 
 Ayant accepté l’invitation de Fabrice, nous nous retrouvons le soir dans leur grand chez-eux, autour d’un rhum de Tahaa puis d’un très bon repas préparé par Isabelle, accompagné d’un excellent vin rouge du Languedoc et fromages, dignes de ce nom. Excellente soirée passée en leur compagnie où nous avons beaucoup échangé. Pour suivre leur aventure : [Le temps d'un voyage](https://ltdv.fr/).
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46478684891/in/datetaken/" title="Torrey Pines - Californie - [USA]"><img src="https://farm8.staticflickr.com/7817/46478684891_b451b802b8_k.jpg" width="2048" height="1152" alt="Torrey Pines - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 23 décembre
 
@@ -279,8 +280,7 @@ Il faut attendre devant qu’une personne vous introduise. On voit arriver un bl
 ## 25 décembre
 
 
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/45565889515/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm5.staticflickr.com/4876/45565889515_8c66ef9955_k.jpg" width="2048" height="1536" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/44661893650/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm5.staticflickr.com/4900/44661893650_c23d13bf58_k.jpg" width="2048" height="1152" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 26 décembre
 
