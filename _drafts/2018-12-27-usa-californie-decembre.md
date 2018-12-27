@@ -142,7 +142,7 @@ Ce matin, le temps est gris. On va tenter un camping qui prend le Passport Ameri
 
 ## 15 décembre
 
-Ce matin, le soleil est de retour, on prend notre temps, l’environnement est vraiment sympathique. Non loin de nous se trouve un camping-car Allemand et un Québécois. On quitte notre emplacement et passons la matinée à la laverie puis le reste de la journée au Parc Balboa. Nous y passons une agréable après-midi. Avant la nuit, nous retournons à notre bivouac au bord de la baie.
+Le soleil est de retour, on prend notre temps, l’environnement est vraiment sympathique. Non loin de nous se trouve un camping-car Allemand et un Québécois. On quitte notre emplacement et passons la matinée à la laverie puis le reste de la journée au Parc Balboa. Nous y passons une agréable après-midi. Avant la nuit, nous retournons à notre bivouac au bord de la baie.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/45564193485/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm8.staticflickr.com/7868/45564193485_b6ec14bfd7_k.jpg" width="2048" height="1365" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -150,7 +150,7 @@ Ce matin, le soleil est de retour, on prend notre temps, l’environnement est v
 
 ## 16 décembre
 
-Ce matin, route vers Los Angeles, Nous longeons le bord de l’océan pour profiter un maximum de la vue sur le Pacifique. C’est dimanche et de nombreuses personnes marchent, courent, pédalent et surtout surfent, il y a des planches partout, sur les voitures, les vélos sur les mythiques Combi VW et bien sur dans l'eau. Nous traversons de très belles villes balnéaires comme Carlsbad, Oceanside avec son immense Pier qui s’avance dans l’océan. La région est riche, on ne compte pas les Ferraris, Lamborghinis, Porsches… ainsi que les vieilles américaines. On se pose pour la nuit sur le parking d'un The Home Depot à Signal Hill pas très loin de Los Angeles.
+Aujourd'hui route vers Los Angeles, Nous longeons le bord de l’océan pour profiter un maximum de la vue sur le Pacifique. C’est dimanche et de nombreuses personnes marchent, courent, pédalent et surtout surfent, il y a des planches partout, sur les voitures, les vélos sur les mythiques Combi VW et bien sur dans l'eau. Nous traversons de très belles villes balnéaires comme Carlsbad, Oceanside avec son immense Pier qui s’avance dans l’océan. La région est riche, on ne compte pas les Ferraris, Lamborghinis, Porsches… ainsi que les vieilles américaines. On se pose pour la nuit sur le parking d'un The Home Depot à Signal Hill pas très loin de Los Angeles.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32604913868/in/datetaken/" title="Oceanside - Californie - [USA]"><img src="https://farm5.staticflickr.com/4905/32604913868_1c2cae2ccb_k.jpg" width="2048" height="1152" alt="Oceanside - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -164,7 +164,7 @@ Journée maussade, on fait quelques magasins et on trouve une librairie où on s
 
 ## 18 décembre
 
-Ce matin, le beau temps est revenu, départ pour Venice Beach où nous faisons une promenade sur la plage, beaucoup de boutiques de souvenirs et très peu de monde à "Muscle Beach" puis nous allons jusqu'à Santa Monica. Pas facile de circuler et se garer avec Thor dans le coin. Finalement, on trouve une rue où le stationnement est autorisé pour 2 heures.
+On se lève avec le beau temps qui est revenu, départ pour Venice Beach où nous faisons une promenade sur la plage, beaucoup de boutiques de souvenirs et très peu de monde à "Muscle Beach" puis nous allons jusqu'à Santa Monica. Pas facile de circuler et se garer avec Thor dans le coin. Finalement, on trouve une rue où le stationnement est autorisé pour 2 heures.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/31538041197/in/datetaken/" title="Venice Beach - Californie - [USA]"><img src="https://farm5.staticflickr.com/4880/31538041197_2791ea07a3_k.jpg" width="2048" height="1152" alt="Venice Beach - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -222,7 +222,7 @@ Ayant accepté l’invitation de Fabrice, nous nous retrouvons le soir dans leur
 
 ## 23 décembre
 
-Ce matin, nous quittons notre bivouac pour une belle balade le long du Pacifique qui nous mènera jusqu'à la péninsule de Point Luma pour visiter le "Parc Cabrillo National Monument", mais s'était sans compter sur les tensions qui existent en ce moment entre le Sénat et Trump. En raison du non financement de son mur, le "shutdown" a été décrété et près de 800 000 fonctionnaires gouvernementaux se retrouvent au chômage technique ce qui implique que tous les parcs nationaux sont fermés. 
+Nous quittons notre bivouac pour une belle balade le long du Pacifique qui nous mènera jusqu'à la péninsule de Point Luma pour visiter le "Parc Cabrillo National Monument", mais s'était sans compter sur les tensions qui existent en ce moment entre le Sénat et Trump. En raison du non financement de son mur, le "shutdown" a été décrété et près de 800 000 fonctionnaires gouvernementaux se retrouvent au chômage technique ce qui implique que tous les parcs nationaux sont fermés. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46427712682/in/datetaken/" title="Point Loma - Californie - [USA]"><img src="https://farm8.staticflickr.com/7886/46427712682_fd09665033_k.jpg" width="2048" height="1152" alt="Point Loma - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
