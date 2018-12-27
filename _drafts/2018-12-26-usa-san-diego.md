@@ -7,8 +7,8 @@ parent-id:  2018-12-27-usa-californie-decembre
 date:       2018-12-26 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-sandiego.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-frisco.jpg
-tags: [capitale, architecture, art, mer-ocean, flore]
+thumbnail: /assets/owner/blog/thumbs/post-thumb-sandiego.jpg
+tags: [ville, architecture, mer-ocean, flaune]
 pois: [san-diego]
 flickr-text: "San-Diego"
 country: USA 
