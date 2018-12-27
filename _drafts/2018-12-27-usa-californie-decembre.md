@@ -6,7 +6,7 @@ parent-id:
 
 date:       2018-12-16 13:00:00
 from-date:  2018-12-01 13:00:00
-to-date:    2018-12-16 13:00:00
+to-date:    2018-12-27 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt19.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt19.jpg
