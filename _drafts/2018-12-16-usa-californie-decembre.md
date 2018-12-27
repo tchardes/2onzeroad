@@ -246,7 +246,7 @@ Ayant accepté l’invitation de Fabrice, nous nous retrouvons le soir dans leur
 
 ## 23 décembre
 
-Ce matin, nous quittons notre bivouac pour promener le long du Pacifique. Premier arrêt au village de la Jolla où nous nous promenons le long de l’océan de la Jolla Cove à Children’s Pool La Jolla, où l’on peut observer plusieurs colonies de "Sea Lions" et d’oiseaux.
+Ce matin, nous quittons notre bivouac pour promener le long du Pacifique. Premier arrêt au village de La Jolla où nous nous promenons le long de l’océan de la Jolla Cove à Children’s Pool La Jolla, où l’on peut observer plusieurs colonies de "Sea Lions" et d’oiseaux.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32606278708/in/datetaken/" title="La Jolla - Californie - [USA]"><img src="https://farm8.staticflickr.com/7899/32606278708_9952473e94_k.jpg" width="2048" height="1152" alt="La Jolla - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
