@@ -278,7 +278,7 @@ Il faut attendre devant qu’une personne vous introduise. On voit arriver un bl
 
 ## 25 décembre
 
-Il a plu une bonne partie de la nuit ainsi que la matinée. A midi Corine nous prépare un super repas de fête, foie gras, que l’on a ramené de France, tournedo Rossini avec accompagnements et pour finir un gâteau… américain.
+Il a plu une bonne partie de la nuit ainsi que la matinée. On passe des coups de fil à toute la famille pour leur souhaiter une joyeux Noël, tout le monde a été gâté. A midi Corine nous prépare un super repas de fête, foie gras, que l’on a ramené de France, tournedo Rossini avec accompagnements et pour finir un gâteau… américain.
 En début d’après-midi le temps se lève et nous partons faire une longue promenade à pied le long de la baie, très agréable. A la tombée de la nuit, le coucher de soleil est très beau, je prends quelques photos.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/44661893650/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm5.staticflickr.com/4900/44661893650_c23d13bf58_k.jpg" width="2048" height="1152" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
