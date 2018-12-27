@@ -170,7 +170,7 @@ On se lève avec le beau temps qui est revenu, départ pour Venice Beach où nou
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/31538026117/in/datetaken/" title="Venice Beach - Californie - [USA]"><img src="https://farm8.staticflickr.com/7876/31538026117_96b9757c65_k.jpg" width="2048" height="1152" alt="Venice Beach - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En voulant me serrer, j'explose le cache en plastique du sommet du store. Décidément, pas de chance avec ce store... nouvel email à Ryan... On est pas prêt de quitter les USA. Nous nous baladons au bord de la plage et sur le Pier qui est également la fin de la route 66.
+En voulant me serrer, j'explose le cache en plastique du sommet du store contre un poteau. Décidément, pas de chance avec ce store... nouvel email à Ryan... On est pas prêt de quitter les USA. Nous nous baladons au bord de la plage et sur le Pier qui est également la fin de la route 66.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/45754258984/in/datetaken/" title="Santa Monica - Californie - [USA]"><img src="https://farm8.staticflickr.com/7846/45754258984_fb08b95e68_k.jpg" width="2048" height="1152" alt="Santa Monica - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
