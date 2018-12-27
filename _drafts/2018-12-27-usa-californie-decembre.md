@@ -128,11 +128,15 @@ Nous commençons par la vieille ville de San Diego. On trouve une place rapideme
 
 San Diego, c’est surtout une ville qui tourne autour de Navale et l’Aéro Navale. Si l’USS Midway est à quai, transformé en musée, on voit au loin, sur la presqu'île de Coronado, les silhouettes imposantes de plusieurs porte-avions (Les Etats-Unis en possède 11) et autres bâtiments toujours en service. De retour à Thor, nous repartons vers le nord de la ville pour trouver un bivouac à Mission Bay, au bord de la baie. Dans la journée, on reçoit un email du concessionnaire qui nous indique que le store de ne sera pas là avant le 19, du coup, on va trainer un peu ici et certainement remonter vers Los Angeles, comme dit le taulier "I want to back in LA".
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32487667378/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm5.staticflickr.com/4855/32487667378_2bce9ed0da_k.jpg" width="2048" height="1152" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46308549072/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm5.staticflickr.com/4875/46308549072_a7ce3ee960_k.jpg" width="2048" height="1365" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 13 décembre
 
 Super bivouac, très belle vue ce matin sur la baie, le temps est magnifique. Nous traversons San Diego pour faire un tour sur la presqu’île de Coronado puis retour en centre-ville pour visiter le porte-avions USS MidWay. A la billetterie, le caissier me pose plein de question et au final sans rien demander de plus m’accorde le tarif "Veteran" 10$ au lieu des 23$. Ils sont vraiment trop cool les américains.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46308614042/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm5.staticflickr.com/4864/46308614042_2b2fe4efd5_k.jpg" width="2048" height="1365" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/31420166587/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm5.staticflickr.com/4845/31420166587_88d5a01158_k.jpg" width="2048" height="1152" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -204,9 +208,7 @@ En poursuivant notre balade, je suis attiré par un solo d’harmonica très blu
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/44661551510/in/datetaken/" title="Temecula - Californie - [USA]"><img src="https://farm5.staticflickr.com/4813/44661551510_0e910eaab5_k.jpg" width="2048" height="1152" alt="Temecula - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On quitte finalement cette ville qui aura été pleine de surprises et trouvons un bivouac non loin, à Pechanga.
-
-Beaucoup de décos de Noël, les maison voitures et les gens qui arborent des pulls de circonstance ou même de bonnets de Noël. 
+On quitte finalement cette ville qui aura été pleine de surprises et trouvons un bivouac non loin, à Pechanga. 
 
 ## 22 décembre
 
