@@ -18,7 +18,7 @@ category: "blog"
 location: "32.733708, -117.124052"
 ---
 
-Nous voilà à la fin de notre road trip aux USA, nous finissons par la visite de San Diego en Californie. Nous devions y passer juste quelques jours mais finalement en raison des longueurs des délais de livraison des pièces pour RV aux USA, nous y avons passé au total X jours en deux séjours, et avons un peu élargie nos visites.
+Nous voilà à la fin de notre road trip aux USA, nous finissons par la visite de la ville de San Diego en Californie. Nous devions y passer juste quelques jours mais finalement en raison des longueurs des délais de livraison des pièces pour RV aux USA, nous y avons passé au total X jours en deux séquences.
 
 San Diego "Saint-Didace" est une ville côtière du sud de l'État de Californie, près de la frontière avec le Mexique. Avec près d'un milion et demi d'habitants, elle est la huitième ville du pays et la deuxième de l'État de californie. Berceau historique de la Californie, San Diego est connue pour son climat agréable et ses plages ainsi que son port en eaux profondes et son histoire militaire avec la marine des États-Unis qui y dispose de plusieurs bases navales et y stationne l'une des plus grandes flottes navales du monde.
 
