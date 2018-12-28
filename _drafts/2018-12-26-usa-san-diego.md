@@ -28,7 +28,7 @@ San Diego est le premier site visité par les Européens sur la côte ouest des 
 
 ## Parc historique de la vieille ville de San Diego
 
-La vieille ville est le cœur historique de San Diego. Créée en 1769, la vieille ville de San Diego a été la première colonie californienne à se doter d’une mission et d’un fort. Transformé en parc historique, les bâtiments ont été entièrement conservés et restaurés. Sa visite est gratuite.
+La vieille ville est le cœur historique de San Diego. Créée en 1769, elle est la première colonie californienne à se doter d’une mission et d’un fort. Transformé en parc historique, les bâtiments ont été entièrement conservés et restaurés. Sa visite est gratuite.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/45595754644/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm5.staticflickr.com/4911/45595754644_fe27e32131_k.jpg" width="2048" height="1152" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
