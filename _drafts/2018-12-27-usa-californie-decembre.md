@@ -255,11 +255,17 @@ En début d’après-midi, le temps se lève et nous partons faire une longue pr
 
 ## 26 décembre
 
-Matinée au bivouac sous un beau soleil. J’ai envoyé un email à UPS et Rayan, pas de nouvelles. Après manger, direction une librairie pour traiter les photos, vidéos et blog. Retour au bivouac où nous passons une bonne partie de la soirée avec François et Yumie pour un apéro dans leur CC, très bien aménagé.
+Matinée au bivouac sous un beau soleil. J’ai envoyé un email à UPS et Ryan, pas de nouvelles. Après manger, direction une librairie pour traiter les photos, vidéos et blog. Retour au bivouac où nous passons une bonne partie de la soirée avec François et Yumie pour un apéro dans leur CC, très bien aménagé. Super soirée.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32606308268/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm8.staticflickr.com/7852/32606308268_e3c56c22dd_k.jpg" width="2048" height="978" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 27 décembre
+
+En fin de matinée je téléphone à la Mesa RV mais Ryan ne travaille pas il reprend demain, on va donc attendre une journée de plus. Nous repartons à la library pour profiter du Wifi et recharger à fond tous nos appareils. Je commence à regarder pour une assurance et la route que nous allons emprunter pour nos premiers jours au mexique. En fin de journée je reçois enfin une réponde de Ryan, les pièces sont arrivés et il a une place pour nous demain matin Youpppi. Nous regagnons Mission Bay.
+
+
+## 28 décembre
+
 
 
 
