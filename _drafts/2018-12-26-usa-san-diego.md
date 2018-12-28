@@ -122,7 +122,7 @@ Nous poursuivons vers le sud jusqu’à la péninsule de Point Loma pour visiter
 ## Sorties
 
 Sur la 5th avenue, nous avons testé principalement deux restaurants et un bar musical:
-* **UNION Kitchen & Tap Gaslamp** : bar-restaurant, cuisine américaine, hamburgers très bons et copieux ;
+* **Union Kitchen & Tap Gaslamp** : bar-restaurant, cuisine américaine, hamburgers très bons et copieux ;
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46427864522/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm8.staticflickr.com/7855/46427864522_1c5ce555b0_k.jpg" width="2048" height="1536" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -132,4 +132,4 @@ Sur la 5th avenue, nous avons testé principalement deux restaurants et un bar m
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46478993051/in/datetaken/" title="San Diego - Californie - [USA]"><img src="https://farm8.staticflickr.com/7862/46478993051_9ce94c5657_k.jpg" width="2048" height="1152" alt="San Diego - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Avec près de 85 brasseries et micro-brasseries, la région de San Diego est réputée aux USA pour sa bière. Pour ceux qui pensent qu'ici on ne boit que de la Bud ou de la Corrs, c'est comme dire qu'en France on ne boit que de la Krau. Il y a de très bonnes bières ici, j'ai pu goûter notamment la "Pacific Drift", amber et IPA, la Lagunitas IPA, la Karl Strauss Red Trolley Ale et la Tower 10 et la Rough Draft brewing South Triangle IPA. Toutes différentes et très bonnes.
+Avec près de 85 brasseries et micro-brasseries, la région de San Diego est réputée aux USA pour sa bière. Pour ceux qui pensent qu'ici on ne boit que de la Bud ou de la Coors, c'est comme dire qu'en France on ne boit que de la Krau. Il y a de très bonnes bières ici, j'ai pu goûter notamment la "Pacific Drift", amber et IPA, la Lagunitas IPA, la Karl Strauss Red Trolley Ale et la Tower 10 et la Rough Draft brewing South Triangle IPA. Toutes différentes et très bonnes.
