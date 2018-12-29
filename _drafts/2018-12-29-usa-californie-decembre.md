@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Retour en Californie"
-preview: "Cet article couvre la période du 01 au      décembre durant laquelle nous avons fini la visite de la californie avant d'entrer en Amérique Latine…"
+preview: "Cet article couvre la période du 01 au 29 décembre durant laquelle nous avons fini la visite de la californie avant d'entrer en Amérique Latine…"
 parent-id: 
 
 date:       2018-12-29 13:00:00
@@ -22,7 +22,7 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 01 au décembre durant laquelle nous avons fini la visite de la Californie avant d'entrer en Amérique Latine, au Mexique.
+Cet article couvre la période du 01 au 29 décembre durant laquelle nous avons fini la visite de la Californie avant d'entrer en Amérique Latine, au Mexique.
 
 ## 01 et 02 décembre
 
