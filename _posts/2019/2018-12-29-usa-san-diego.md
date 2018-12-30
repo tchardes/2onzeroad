@@ -4,7 +4,7 @@ title:      "San Diego"
 preview:    "Nous voilà à la fin de notre road trip aux USA, nous finissons par la visite de la ville de San Diego en Californie. Nous devions y passer juste…"
 parent-id:  2018-12-29-usa-californie-decembre
 
-date:       2018-12-28 12:00:00
+date:       2018-12-29 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-sandiego.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-sandiego.jpg
