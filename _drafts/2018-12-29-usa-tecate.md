@@ -32,54 +32,25 @@ Il faut donc rerentrer à pied sur le côté gauche du poste frontière, puis tr
 
 Le premier bureau et celui de la "Aduana Tecate"
 
-Je tombe sur un douanier très sympathique qui contrôle nos deux passeports et me donne deux fiches à remplir, une par personne. 
+Personnellement, je suis tombé sur un douanier très sympathique qui contrôle nos deux passeports et me donne deux fiches à remplir, une par personne. 
 Une fois le document rempli et contrôlé, il me demande d'aller payer la taxe.
 
-Il faut donc sortir et changer de bureau pour s'acquitter de la somme de . Une fois que c'est fait retour auprès du premier bureau où l'agent verifie que vous avez bien payé et il procéde à l'enregistrement de votre passeport, il me demande quel sera notre trajet et tampone le document avec 180 jours. Il garde une moitiè du document et vous remt la dernière partie qu'il faut garder et remetrre le jour de la sortie définitive du pays.
+Il faut donc sortir et changer de bureau pour s'acquitter de la somme de (Cash US$, Mex$ ou par CB). Une fois que c'est fait retour auprès du premier bureau où l'agent vérifie que vous avez bien payé et il procéde à l'enregistrement de votre passeport, il me demande quel sera notre trajet et tampone le document avec 180 jours. Il garde une moitiè du document et vous remet la dernière partie qu'il faut garder et remettre le jour de la sortie définitive du pays.
 
 ## Importation du RV
 
+Pour l'importation du véhicule vous avez besoin des photocopies suivantes (et originaux pour contrôle) :
+
+* du certificat d'immatriculation
+* Du ou des passeports du ou des propriétaires
+* Du visa que vous vez d'obtenir à l'instant
+
+Comme nous n'avons pas d'imprimante, le douanier nous indique une Pharmacie, très proche du poste frontière qui a une photocopieuse et qui contre 15 cents vous fait la photocopie.
+
+Il faut donc rerentrer côté gauche et retourner au guichet pour donner tous les documents. Après contrôle et enregistrement vous devez vous acquitter de la somme de (Cash US$, Mex$ ou par CB). Au bout de longues minutes, il revient avec le document d'importation du véhicule valable pour 10 ans. Une partie du document est autocollante et se colle sur la parebrise à gauche du retroviseur quand on est assis au volant.
 
 
 
-Il est interdit de prendre des photos dans les postes frontières.....donc je n'en abuserai pas !
-
-Les pièces à avoir en votre possession pour les VISA touristes de 180 Jours :
-
-Passeport de chaque personne uniquement , rien d'autre !
-
-On passe dans un premier bureau ou le douanier fort sympathique nous a littéralement enchanté.
-
-Ce bureau se situe derrière le bureau qui se situe à droite quand vous entrez dans le bâtiments dont la porte est en photo ci dessous :
-
-On repart au précédent bureau pour valider les paiements et recevoir le Visa sur le passeport : Cette fois c'est fait ! on peut rentrer au Mexique....facile non ?
-
-Mais ....il reste le camping car à "importer temporairement...pour 10 ans"
-
-Vous aurez besoin des pièces suivantes :
-
-- Copie + original du certificat d'immatriculation
-
-- Copie du passeport du propriétaire
-
-- Copie du papier de VISA que vous venez de faire précédement
-
-c'est là que ça se complique.....ou faire la photocopie ?
-
-Je vous donne 2 pistes :
-
- 1  - Vous avez (comme nous) une imprimante photocopieur dans votre camping car et vous n'avez qu'a repartir coté américain pour faire la copie et revenir avec ou...
-
-
- La seconde solution : aller faire une photocopie et pour vous aider voici là ou nous sommes allés :
-
-FARMACIA SAN PABLO
-
-Une pharmacie juste en face du passage en douane , coté Mexicain.
-
-La Gentille Dame vous fera votre(ou vos !) photocopies contre 15 cents de dollard.
-
-Et voici une copie du plan de la localisation de la pharmacie :
 
 Cette fois ci ca semble se terminer : On lui donne les 3 documents.
 
