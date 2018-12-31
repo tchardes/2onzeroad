@@ -7,7 +7,7 @@ parent-id:  2019-01-29-mexique-basse-californie-janvier
 date:       2018-12-29 14:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-sandiego.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-sandiego.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-mexique.png
 tags: []
 pois: [tecate]
 flickr-text: ""
@@ -57,9 +57,11 @@ Pour l'importation du véhicule vous avez besoin des photocopies suivantes (et o
 
 Comme nous n'avons pas d'imprimante, le douanier nous indique une Pharmacie, très proche du poste frontière qui a une photocopieuse et qui contre 15 cents vous fait la photocopie.
 
+<img src="{{baseurl}}/assets/owner/photos/Tecate5.jpg" style="width:100%" />  
+
 Il faut donc rentrer à nouveau côté gauche et retourner au guichet pour donner tous les documents. Après contrôle et enregistrement vous devez vous acquitter de la somme de (Cash US$, Mex$ ou par CB). Vous devez également remplir le document d'importation de matériel indiquer les objet qui se trouve dans le RV et il vous fourni une liste d'objet (Espagnol et Anglias) où il faut cocher le OUI ou NON et indiquer le nombre. AU dos de cette feuille il vous demande d'incrire votre numéro de téléphone et votre adresse mail.
 
 Au bout de longues minutes, il revient avec le document d'importation du véhicule valable 10 ans. Une partie du document est autocollante et se colle sur la pare-brise à gauche du rétroviseur central quand on est assis au volant.
 
-<img src="{{baseurl}}/assets/owner/photos/Tecate1.jpg" style="width:100%" />  
+<img src="{{baseurl}}/assets/owner/photos/Tecate6.jpg" style="width:100%" />  
 
