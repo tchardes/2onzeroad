@@ -20,22 +20,32 @@ location: "32.576283, -116.627466"
 
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car à la frontière USA - Mexique au poste de Tecate.
 
+<img src="{{baseurl}}/assets/owner/photos/Tecate1.jpg" style="width:100%" />  
+
 A notre arrivée au poste frontière, côté entrée au Mexique uniquement, un agent nous demande la "carte grise" de notre RV et vérifie juste que le numéro de série soit bien conforme. Elle nous demande d'inspecter l'intérieur, elle rentre, nous pose quelques questions, ouvre la porte de notre armoire, regarde rapidement et ressort. On peut y aller, nous rentrons au Mexique.
 
 On pourrait ce contenter de cela si nous restions quelques jours en Basse Californie. Comme nous souhaitons passer sur le "continent" depuis La Paz pour visiter le reste du Mexique, nous décidons de faire toutes les démarches pour nous et Thor ici. Toutefois cela est possible au poste de la douane de La Paz.
 
 Nous rentrons donc à Tecate et cherchons une place pour Thor, pas évident. Corine reste dans Thor et pars tout seul avec les deux passeports et mes photocopies (J'y reviendrai en détail).
 
-Il faut donc rerentrer à pied sur le côté gauche du poste frontière, puis traversé la route car toutes les démarches se font à droite, dans le sens USA/Mexique.
+Il faut donc rerentrer à pied sur le côté droit (sens Mexique - USA) du poste frontière, puis traversé la route car toutes les démarches se font à droite, dans le sens USA/Mexique.
 
 ## Visa touristique
 
 Le premier bureau et celui de la "Aduana Tecate"
 
+<img src="{{baseurl}}/assets/owner/photos/Tecate2.jpg" style="width:100%" />  
+
 Personnellement, je suis tombé sur un douanier très sympathique qui contrôle nos deux passeports et me donne deux fiches à remplir, une par personne. 
 Une fois le document rempli et contrôlé, il me demande d'aller payer la taxe.
 
-Il faut donc sortir et changer de bureau pour s'acquitter de la somme de (Cash US$, Mex$ ou par CB). Une fois que c'est fait retour auprès du premier bureau où l'agent vérifie que vous avez bien payé et il procéde à l'enregistrement de votre passeport, il me demande quel sera notre trajet et tampone le document avec 180 jours. Il garde une moitiè du document et vous remet la dernière partie qu'il faut garder et remettre le jour de la sortie définitive du pays.
+Il faut donc sortir et changer de bureau pour s'acquitter de la somme de (Cash US$, Mex$ ou par CB).
+
+<img src="{{baseurl}}/assets/owner/photos/Tecate3.jpg" style="width:100%" />  
+
+Une fois que c'est fait retour auprès du premier bureau où l'agent vérifie que vous avez bien payé et il procéde à l'enregistrement de votre passeport, il me demande quel sera notre trajet et tampone le document avec 180 jours. Il garde une moitiè du document et vous remet la dernière partie qu'il faut garder et remettre le jour de la sortie définitive du pays.
+
+<img src="{{baseurl}}/assets/owner/photos/Tecate4.jpg" style="width:100%" />  
 
 ## Importation du RV
 
@@ -47,37 +57,9 @@ Pour l'importation du véhicule vous avez besoin des photocopies suivantes (et o
 
 Comme nous n'avons pas d'imprimante, le douanier nous indique une Pharmacie, très proche du poste frontière qui a une photocopieuse et qui contre 15 cents vous fait la photocopie.
 
-Il faut donc rerentrer côté gauche et retourner au guichet pour donner tous les documents. Après contrôle et enregistrement vous devez vous acquitter de la somme de (Cash US$, Mex$ ou par CB). Au bout de longues minutes, il revient avec le document d'importation du véhicule valable pour 10 ans. Une partie du document est autocollante et se colle sur la parebrise à gauche du retroviseur quand on est assis au volant.
+Il faut donc rentrer à nouveau côté gauche et retourner au guichet pour donner tous les documents. Après contrôle et enregistrement vous devez vous acquitter de la somme de (Cash US$, Mex$ ou par CB). Vous devez également remplir le document d'importation de matériel indiquer les objet qui se trouve dans le RV et il vous fourni une liste d'objet (Espagnol et Anglias) où il faut cocher le OUI ou NON et indiquer le nombre. AU dos de cette feuille il vous demande d'incrire votre numéro de téléphone et votre adresse mail.
 
+Au bout de longues minutes, il revient avec le document d'importation du véhicule valable 10 ans. Une partie du document est autocollante et se colle sur la pare-brise à gauche du rétroviseur central quand on est assis au volant.
 
+<img src="{{baseurl}}/assets/owner/photos/Tecate1.jpg" style="width:100%" />  
 
-
-Cette fois ci ca semble se terminer : On lui donne les 3 documents.
-
-Elle vous demandera de lui donner aussi :
-
-- Un numéro de téléphone
-
-- Un email
-
-Puis vous remplirez le document d'importation de matériel : Vous devez lister les choses de valeurs que vous avez dans le camping car.
-
-Une liste est là pour vous y aider.
-
-Une fois ce document rempli et après avoir été soulagé une nouvelle fois d'un petit billet de 61$US , vous heritez de ce document à coller sur votre Pare Brise :
-
-Et maintenant ?
-
-Et bien on en fini une fois pour toute....
-
-On repasse côté américain et on leur rend le document agrafé dans le passeport , validant les 3 mois d'accès aux USA.
-
-On prend son camping car
-
-et on passe la frontière avec encore un gentil sourir du douanier qui n'est même pas rentré fouiller le véhicule (ni aucun autre du reste)
-
-Elle est pas belle la vie !
-
-Bonne route à tous , le Mexique semble être un pays Magnifique et nous vous le ferons visiter souvent par le biais de nos articles !
-
-Au revoir !
