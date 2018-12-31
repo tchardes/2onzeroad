@@ -7,7 +7,7 @@ parent-id:  2019-01-29-mexique-basse-californie-janvier
 date:       2018-12-29 14:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-sandiego.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-mexique.png
+thumbnail: /assets/owner/blog/thumbs/post-thumb-mexique.jpg
 tags: []
 pois: [tecate]
 flickr-text: ""
