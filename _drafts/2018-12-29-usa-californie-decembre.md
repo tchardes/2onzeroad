@@ -266,24 +266,14 @@ En fin de matinée je téléphone à la Mesa RV pour avoir des nouvelles de notr
 
 ## 28 décembre
 
-Ce matin nous partons pour notre rendez-vous à La Mesa RV à El Cajon. A notre arrivée Ryan nous prend en compte rapidement et le travaux commencent. Vers 13h00 il nous indique que la tête du store compte deux partie et qu’il n’a commandé que la façade avant… Heureusement dans la magasin, Corinne à remarqué qu'il y a un store en présentation de la même marque que le notre. On lui montre et bingo c’est le même. On repart vers 14h00 après avoir fait le plein d’eau, tout est ok. Enfin… On se rend dans une agence Progressive pour faire stopper notre assurance mais il ne s’agit en fait que d’un bureau pour les sinistres. L’agent nous indique qu’il faut tout faire par téléphone. On s'y colle en demandant l'aide d'un interprète, tout se passe bien, il nous rembourse la différence. On retraverse la ville pour nous rendre à l’agence de la "Baja Bound Mexican Insurance" où je prend une assurance pour le mexique et pour un an. On passe au walmart faire quelques courses puis le plein de gazoline… Journée bien remplie, on fini la soirée au bivouac, dans Thor, devant un apéro avec François et Yumie. Il parte pour le Mexique eux aussi demain matin.
+Ce matin nous partons pour notre rendez-vous à La Mesa RV à El Cajon. A notre arrivée Ryan nous prend en compte rapidement et le travaux commencent. Vers 13h00 il nous indique que la tête du store compte deux partie et qu’il n’a commandé que la façade avant… Heureusement dans la magasin, Corinne a remarqué qu'il y a un store en présentation de la même marque que le notre. On lui montre et bingo c’est le même. On repart vers 14h00 après avoir fait le plein d’eau, tout est ok. Enfin… On se rend dans une agence Progressive pour faire stopper notre assurance mais il ne s’agit en fait que d’un bureau pour les sinistres. L’agent nous indique qu’il faut tout faire par téléphone. On s'y colle en demandant l'aide d'un interprète, tout se passe bien, ils nous remboursent la différence. On retraverse la ville pour nous rendre à l’agence de la "Baja Bound Mexican Insurance" où je prend une assurance pour le mexique et pour un an. On passe au walmart faire quelques courses puis le plein de gazoline… Journée bien remplie, on fini la soirée au bivouac, dans Thor, devant un apéro avec François et Yumie. Il parte pour le Mexique eux aussi demain matin.
 
 ## 29 décembre
 
 Ce matin nous décollons de bonne heure, pour être à l’ouverture de la laverie afin de partir au Mexique à jour de tout. En route nous faisons les dumps et après la laverie on passe à la Bank Of America pour retirer des dollars pour avoir au cas ou.
 Nous faisons le choix de ne pas passer au Mexique par Tijuana mais par Tecate qui est un petit poste frontière moins fréquenté et où on aura plus le temps pour s'occuper de l'administratif. C’est à moins d'une heure de route de San diego, on traverse une petite chaîne de montagne, la route est agréable. C’est un peu le silence dans Thor, on quitte les USA, non sans tristesse et déjà avec une certaine nostalgie, bref on a le blues…
 Nous avons passée en tout une année extraordinaire, au delà de toutes nos attentes.
-Bye Bye USA ... et Viva el Mexico.
-
-
-
-
-
-
-
-
-
-
+Bye Bye USA ... E Viva el Mexico !!!.
 
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
