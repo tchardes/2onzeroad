@@ -18,7 +18,7 @@ category: "blog"
 location: "32.576283, -116.627466"
 ---
 
-Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car USA - Mexique à Tecate.
+Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière des USA avec le Mexique, en camping-car, depuis Tecate.
 
 <img src="{{baseurl}}/assets/owner/photos/Tecate1.jpg" style="width:100%" />  
 
