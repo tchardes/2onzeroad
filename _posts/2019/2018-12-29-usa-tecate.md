@@ -4,7 +4,7 @@ title:      "Passage frontière Tecate"
 preview:    "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
 parent-id:  2018-12-29-usa-californie-decembre
 
-date:       2018-12-29 14:00:00
+date:       2018-12-29 16:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-sandiego.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-mexique.jpg
