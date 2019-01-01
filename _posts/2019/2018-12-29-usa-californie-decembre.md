@@ -4,9 +4,9 @@ title:   "Retour en Californie"
 preview: "Cet article couvre la période du 01 au 29 décembre durant laquelle nous avons fini la visite de la californie avant d'entrer en Amérique Latine…"
 parent-id: 
 
-date:       2018-12-29 13:00:00
-from-date:  2018-12-01 13:00:00
-to-date:    2018-12-29 13:00:00
+date:       2018-12-29 16:00:00
+from-date:  2018-12-01 12:00:00
+to-date:    2018-12-29 16:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt19.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt19.jpg
