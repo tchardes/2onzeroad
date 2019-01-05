@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "31.878153, -116.589303"
-  name: "Ensenada - Basse Californie - Mexique"
-  date: "29 au 31 décembre 2018"
+  coordinates: "27.960149, -114.048390"
+  name: "Guerrero Negro - Basse Californie du Sud - Mexique"
+  date: "06 et 07 janvier 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
