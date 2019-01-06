@@ -4,7 +4,7 @@ title:   "Basse Californie"
 preview: "Cet article couvre la période du 29 décembre 2018 au janvier 2019 durant laquelle nous avons traversé la péninsule de la Basse Californie…"
 parent-id: 
 
-date:       2018-01-05 13:00:00
+date:       2019-01-05 13:00:00
 from-date:  2018-12-29 13:00:00
 to-date:    2019-01-29 13:00:00
 author:     "Thierry"
