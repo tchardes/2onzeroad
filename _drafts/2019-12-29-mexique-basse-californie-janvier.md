@@ -26,7 +26,12 @@ Cet article couvre la période du 29 décembre 2018 au janvier 2019 durant laque
 
 ## 29 décembre
 
-Ca y est?
+On passe côté Mexicain et trouve une place pour Thor, Corinne reste à l’intérieur et je reparts au poste frontière. La procédure complète est expliquée **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2019/2018-12-29-usa-tecate %}">ici</a>)**.
+Une fois en règle, tampons et taxes acquittés Thor peu rester 10 ans sur le sol Mexicain et nous 180 jours renouvelables. Je m’arrête dans une banque retirer des Pesos méxicain, qui s’apelle aussi dollars mexicain et dont le sigle est «  $ ». Les premiers prix que l’on voit affichés nous font sursauter avant que l’on réalise qu’il s’agit de pesos. Actuelement le change est de 21 $ pour 1€.
+Nous quittons ensuite la ville direction Ensenada, notre direction du jour et bivouac pour la nuit. Cette route est « La ruta del Vino » il y a en effet de nombreuses caves à vins et des vignobles sur les coteaux.
+Nous arrivons en ville et nous nous occupons en priorité des courses. Nous avions fait en sorte de n’avoir aucun produit frais dans le cas où nous passions un contrôle sanitaire, mais rien de tout cela. Histoire de faire une transiotion en douceur nous allons dans un Walmart… Nous trouvons de Nopal, feuille de cactus que nous avions déjà gouté lors de notre derier voyage au Mexique chez nos amis Felx et Nathalie. On demande à une personne comment les préparer au mieux et plusieurs personnes se mêllent à la conversation. Donc se sera blanchi ou poellé… En ville nous croisons une renault Kadjar et une peugeot 3008.
+On trouve notre bivouac, Fabrice et Yumie sont déjà arrivés, on se gar et nous partons faire une tour en ville. En passant sur le malecon, on tombe sur un grand marché, certainement pour les fêtes, produits artisanaux, nourritures, animations, l’ambiance est très sympa. On reste un bon moment à regarder un spectacle de clowns, on ne capte pas tout mais on rigole quand même bien. 
+En fin d’après-midi on fait retour au bivouac, nous avons passé notre première journée au Mexique.
 
 
 ## 30 décembre
