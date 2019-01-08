@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "27.960149, -114.048390"
-  name: "Guerrero Negro - Basse-Californie du Sud - Mexique"
-  date: "06 et 07 janvier 2019"
+  coordinates: "27.749930, -114.013793"
+  name: "Ojo de Liebre - Basse-Californie du Sud - Mexique"
+  date: "08 et 09 janvier 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
