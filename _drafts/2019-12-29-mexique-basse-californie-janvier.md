@@ -139,20 +139,35 @@ En fin d’après-midi on repart au fond du camping au niveau du chenal pour la 
 
 ## 10 janvier
 
+Cette nuit il a tombé quelques goutes et le temps est couvert ce matin, Nous passons la matinée à Ojo de Liebre, on profite de pouvoir se brancher pour traiter photos et video. J epasse un long moment au niveau de l’escalier en bois qui monte au toilette homme, seul endroit où l’on capte un peu, pour prendre des nouvelles de la famille.
+Après midi nous prenon la route pour passer la nuit près d’un salar. Je trouve une piste qui passe sur les digues et qui tombe directement sur le point. On voit bien un grand panneau qui dit en gros propriété de l’Etat Fédéral ne pas entrer, mais en tente quand même le coup. A pein un kilomètre après le panneau on tombe sur un garde dans sa guitoune qui nous fait faire demi tour, selon lui la route est coupée. On reprend la Ruta 1 et contournons la Lagune par le sud pour accéder au Salar où nous passons la nuit.
+
 
 ## 11 janvier
 
-
+nuit très calme au bivouac, le soleil se lève sous un épas brouillard, décidement les déserts nous réservent toujours des reprises. Nous décidon finalement de ne pas continuer vers Bahia de Tortuga et préférons partir plein Est vers le villade de Saint Ingnacio. La route traverse la réserve de la biosphère de Vizcaino, le décor est très beau et c’est plutôt inattendu de voir des grands seguaros sous le brouillard. Le temps se lève peu à peu et nous arrivons à destination sous un beau soleil. Nous nous garons sur la place centrale juste devant la Misión San Ignacio Kadakaamán, troujours en activité, non loin se trouve un petit musée de la région, nous y voyons notemment des représentations de peinture ruprestres très présentes dans la région. Ce village est un véritable oasis avec un beau lac entouré de palmier datiers qui’ils exploitent. Nous achetons dailleurs des patisseries très bonne faite à partir de ce fruit. A midi nous mangeons dans un petit restaurant, pour Corinne et Combinacion mexicana pour mois, un petit assortiment des spécialités locales dont un poivron farcie avec du fromage puis pané et servie avec une sauce tomate, très très bon.
+En debut d’après-midi nous croisons François et Yumie qui arrivent de Guerro Negro. Quant à nous nous partons vers la lagune San Ingnacio pour un camping mais la piste est vraiment trop mauvaise pour Thor et nous décidons de faire demi-tour.
+De retour à au village nous allons visiter la « Casa Nereé » un très belle maison tenue par des américains qui ont transformé cette maison construite par un imigrant Français en bibliothèque/musée sur la ville et sa région et qui vous fais visiter toute sa maison et sont très beau jardin. 
+Nous finisson la journée au bord du lac avant de rejoindre François et Yumie  sur la parking de l’hôtel La Huerta, qui comme souvent ici, accueille les RV moyennant quelques pesos. On fini dans Thor devant un petit apéro et spécialités locales.
 
 
 ## 12 janvier
 
+Nuit calme sur le parking de l’hôtel. Nous partons en fin de matinée en direction de la mer de Cortes. Nous reprenons la Ruta 1 qui est relativement belle. Nous arrivons sur la côte et sommes acueillis par une immense décharge à ciel ouvert et ensuite la Mine de Boleo. La route est défoncée, c’est sale, bref la région n’est pas très accueillante. Nous arrivons à Santa Rosalia, trouvons facilement une place pour Thor près d’une parc et de la bibliothèque et partons à la découverte de la ville. Les maisons sont en bois pour la plupart, très colorée, on secroirait un peu dans la caraïbe. Nous allons jusqu’au musée de la mine mais il est fermé tout le WE. sur la route nous nous arrêtons à l’église de Santa Barbara
 
+est une église en fer préfabriquée située à Santa Rosalía , dans la Basse-Californie du Sud , au Mexique. Il a été conçu par Alexandre-Gustave Eiffel en 1884 [1] et construit en 1887. [2] Présenté pour la première fois à l' Exposition Universelle de Paris en 1889 , il a été transféré à Bruxelles , où il a été acquis par la société Boleo Mining l'a installé à Santa Rosalia à la fin de 1897.
+
+Nous arrêtons ensuite à la Bakery "El Boleo" ouverte depuis 1901, et qui fait encore soit disant la baguette française, il y a pas mal de choix mais il est un peu trop tard, on verra demain matin pour s’acheter du pain et gâteaux.
+
+On poursuit notre tour de la ville avnt de revenir à Thor. On s’installe ensuiite sur un par dans le parc pour travailler un peu notre espagnol… La bibliothèque est fermeé mais le WiFi est disponible, Corinne demande à une jeune fille qui nous donne le mot de passe Libros2018**, c’est bon on est connecté. En fin d’après-midi nous somes rejoint par François et Yumie.
 
 
 ## 13 janvier
 
-
+Nuit difficile, François et Yumie ont été inspirés de lever le camp pour un bivouac plus sauvage. Le vendredi soir et même la nuit sont très agités et bruyantes à Sant Rosalia.
+Ce matin nous passons à la panaderia pour prendre quelques gâteaux et une baguette puis nous levons le camp.
+Nous arrivons à Mulegé en milieu de matinée, nous allons directement à la Mission de Santa Rosalia de Mulége. Nous y retrouvons François et Yumie. Très belle mission qui est encore active. Elle a été contruite un peu comme un fortin au sommet d’une coline qui domine le fleuve et une immense palmeraie, c’est un véritable oasis, on comprend pourquoi les moines ont choisis ce lieu, on se croirait un peu dans l’atlas. Avec François on entend de la musique et des chants au loin, on décide d’aller voir et on tombe près d’une maison où une vingtaine de personne chantent sur une bande son, certainement une messe mais de quelle obédiences ???, on repart sans le déranger.
+Nous mangeons sur place et goutons la fameuse baguette qui est en fait un genre de sandwich avec du fromage certainement du chorizo et d’autres choses, ce n’est pas mauvais même si un peu fort, mon gâteau ressemble un peu à un cheesecake et le donutau choculat de Corinne a un peu le goût de la muscade. Nous dégageons un peu vite car la mission est ouverte et les croyants arrivent pour la messe du dimanche qui se déroule à 12h30. Nous quittons la mission pour le centre ville qui commence par une immense porte. Ona repéré un bivouac près du phare qui se situe à l’embouchure du fleuve mais les deux routes qui y donnent accés sont barrées par de policiers municipaux, on ne peut pas entre en ville, comme c’est dimanche, il y a peut-être des annimations. On reprend la route à la recherche d’un bel endroit pour la nuit et on arrive rapidement dans la baie « Baja Conception » qui est magnifique, on passe davant un RV park qui se trouve sur la plage, face à la mer, on s’y arrête pour la journée et la nuit. Il ya pratiquement que des Snowbirds hyper équipé. On se pose près d’un palapas (cabanne de plage) et en fin d’après-midi une dame vient collecter le prix de la place, 200 pesos.
 
 
 
