@@ -4,10 +4,10 @@ country: "USA"
 permalink: "/writing/destination/usa/"
 header-img: "assets/owner/hero/usa-bg.jpg"
 flickr-text: ""
-distance: 48702
-days: 298
-photos: 4719
-videos: 16
+distance: 51880
+days: 327
+photos: 4904
+videos: 17
 mapZoom: 2
-walk: 1401
+walk: 1457
 ---
