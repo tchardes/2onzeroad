@@ -179,7 +179,7 @@ Nous mangeons sur place et goutons la fameuse baguette qui est en fait un genre 
 
 ## 15 janvier
 
-
+Ce matin on profite au max du camping et de son Wi-Fi pour prendre des nouvelles de toute la famille. Avant de quitter la ville on fait le plein d'essence et on prend la direction de San Javier et sa mission. Situé à l'intérieur des terres en pleine montagne, on ne sait pas si la route est entièrement goudronée, les avis son contraire. En entame une très belles route de montagne qui longe une vallée avec au fond ce qui doit être de temp en temps une rivière. On passe plusieurs gué dont un avec encore beaucoup d'eau. Au final la route est belle et Thor n'a aucun problème avec cette route qui au final ne compte aucune piste. Nous arrivons dans ce petit village qui a été très bien aménagé et où trône au bout de la route princiale la mission San Francisco Javier de Viggé-Biaundó qui est encore active et très bien entretenue. De gros orangers couverts de fruits jalonnent la route, au niveau de clocher, Corine voit une ruche d'abeilles flanqué entre deux pieres. A midi nous mangeons chez Papala San Javier, des Quesadillas au boeuf et mois des Buritos au Chorizo, le tout accompagné d'une purée de haricots rouges, vrament très bon, le tout avec une Coronna 200$Mex soit environ 9€... Après un petit tour dans le village nous rentrons à Loreto où nous faisons le plein du réservoir d'eau, passons chercher du pain dans une panaderia et alllon visiter la mission
 
 
 
