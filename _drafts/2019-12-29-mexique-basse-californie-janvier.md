@@ -179,7 +179,8 @@ Ce matin on profite au max du camping et de son Wi-Fi pour prendre des nouvelles
 
 ## 16 janvier
 
-Nuit super calme au bivouac après un début de soirée assez bruyant
+Nuit super calme au bivouac après un début de soirée assez bruyant. Ce matin il fait assez beau avec un peu de vent. Nous partons en fin de matinée pour faire des courses dans une grande surface, j’ai du mal à trouver une place et je me gare en face sur l’autre voie de circulation, Corinne me signale cette infraction au code de la route mais bon, quend on voit comment il roule ici… On fait nos courses et quand on revient j’ai une amende pour sationnement dans le mauvais sens de circulation. On trouve le commissariat de la police municipale et je m’acquitte de l’amende soit .
+On passe le reste de l’après -midi garée sur le Malecon, Corinne va sur la plage et moi je refait un tour de la ville à pied pour faire quelques photos. En fin d’après-midi on quitte la ville pour un bivouac sauvage en bord de mer et nous sommes rejoint par Christophe et Jean-Pierre que nous invitons dans Thor pour passer un bon moment. François et Yumie devaient nous rejoindre lais ils jouent les prolongations dans la Bahia conception. A l’heure de l’apèro Christophe nous prépare des margaritas avec la Tequila d’ici, très bon. Nous passons une excellente soirée à parler de tout et de rien mais surtout de voyage.
 
 
 
