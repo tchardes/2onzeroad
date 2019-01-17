@@ -179,7 +179,7 @@ Ce matin on profite au max du camping et de son Wi-Fi pour prendre des nouvelles
 
 ## 16 janvier
 
-
+Nuit super calme au bivouac après un début de soirée assez bruyant
 
 
 
