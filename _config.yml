@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "25.193662, -112.123011"
-  name: "Adolpho Lopez Mateos - Basse-Californie du Sud - Mexique"
-  date: "17 au 18 janvier 2019"
+  coordinates: "24.139905, -110.307123"
+  name: "La Paz - Basse-Californie du Sud - Mexique"
+  date: "18 au 22 janvier 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
