@@ -189,7 +189,44 @@ Nuit super calme au bivouac après un début de soirée assez bruyant. Ce matin,
 
 On passe le reste de l’après-midi garé sur le malecon, Corinne va sur la plage et moi je refais un tour de la ville à pied pour faire quelques photos. En fin d’après-midi, on quitte la ville pour un bivouac sauvage en bord de mer et nous sommes rejoints par Christophe et Jean-Pierre que nous invitons dans Thor pour passer un bon moment. François et Yumie devaient nous rejoindre mais ils jouent les prolongations dans la Bahia conception. A l’heure de l’apéro, Christophe nous prépare des margaritas avec la Tequila d’ici, très bon. Nous passons une excellente soirée à parler de tout et de rien mais surtout de voyage.
 
+## 18 janvier
+
+Nuit très calme, ce matin on se lève dans un épais brouillard, comme souvent au bord du Pacifique. On traine une partie de la matinée et nous partons en direction de la première ville pour trouver du Wi-Fi afin de prendre des nouvelles de la famille. On roule ensuite jusqu’à La Paz. On voulait également s’arrêter à Puerto San Carlos mais comme les baleines ne sont pas là on décide de tracer directement à La Paz. La première partie du trajet n’est pas terrible, plat et désertique et la dernière partie est un peu plus montagneuse et agréable. Une fois sur place on s’arrête faire des courses au Walmart puis on se pose à la nuit tombé non loin sur le parking d’une the home depôt
+
+
+## 19 au  janvier
+
+Nuit calme sur le parking. Ce matin il fait très beau, on part directement au siège de la TMC (Transportation Maritima de California) pour avoir les tarifs et détails du ferry qui nous aménera sur le continent. Comme il faut réserver sur place au moins deux jours avant le départ on décide de quitter La Paz pour une plage au nord, on aura le temps de visiter la ville avant le départ.
+La route longe la côte qui est vraiment très belle. Nous arrivons en fin de matinée à « Playa Tecolote » une immense plage avec des restaurant de la place pour de nombreux RV. Je me gare non loin d’un d’un immense Class A, je vais voir le propriétaire pour pour lui demander si je ne le gêne pas, il me reçoit super bien et nous invite dans son « goupe » ils sont en effet plusieurs ranger un peu comme les caravanes de pionners.
+On passe le reste de la journée à profiter de la plage qui est assez venteuse aujourd’hui.
+
+
+
 ## 17 janvier
+
+
+
+
+
+## 17 janvier
+
+
+
+
+
+## 17 janvier
+
+
+
+
+## 17 janvier
+
+
+
+
+
+## 17 janvier
+
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
