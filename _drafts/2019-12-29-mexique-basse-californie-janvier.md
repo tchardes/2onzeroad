@@ -194,21 +194,37 @@ On passe le reste de l’après-midi garé sur le malecon, Corinne va sur la pla
 Nuit très calme, ce matin on se lève dans un épais brouillard, comme souvent au bord du Pacifique. On traine une partie de la matinée et nous partons en direction de la première ville pour trouver du Wi-Fi afin de prendre des nouvelles de la famille. On roule ensuite jusqu’à La Paz. On voulait également s’arrêter à Puerto San Carlos mais comme les baleines ne sont pas là on décide de tracer directement à La Paz. La première partie du trajet n’est pas terrible, plat et désertique et la dernière partie est un peu plus montagneuse et agréable. Une fois sur place on s’arrête faire des courses au Walmart puis on se pose à la nuit tombé non loin sur le parking d’une the home depôt
 
 
-## 19 au  janvier
+## 19 au 22 janvier
 
 Nuit calme sur le parking. Ce matin il fait très beau, on part directement au siège de la TMC (Transportation Maritima de California) pour avoir les tarifs et détails du ferry qui nous aménera sur le continent. Comme il faut réserver sur place au moins deux jours avant le départ on décide de quitter La Paz pour une plage au nord, on aura le temps de visiter la ville avant le départ.
 La route longe la côte qui est vraiment très belle. Nous arrivons en fin de matinée à « Playa Tecolote » une immense plage avec des restaurant de la place pour de nombreux RV. Je me gare non loin d’un d’un immense Class A, je vais voir le propriétaire pour pour lui demander si je ne le gêne pas, il me reçoit super bien et nous invite dans son « goupe » ils sont en effet plusieurs ranger un peu comme les caravanes de pionners.
 On passe le reste de la journée à profiter de la plage qui est assez venteuse aujourd’hui.
 
+20 janvier,
+
+Ce matin je vais dire bonjour à nos voisin, ils sont 7 RV de toutes tailles et ont pris un tour pour venir au Mexique avec un accompagnant, les américains ont vraiment peur du Mexique. Ils viennent d’un peu partout et il y a même une française de Marseille et ayant fait ces études à Avignon, elle est mariée depuis 30 ans à un américains et ils vivent à San Diego. On parle un bon moment, ils sont vraiment très sympa.
+Dans l’après-midi de monte jusqu’au sommet d’une petite montagne pour avoir une vue d’ensemble sur la zone. Vers 17 heures la Française nous invite à prendre le gateau autour d’un feu de camp (oui ils ont déjà mangé, le repas du soir…) avec eux car il y a un couple qui fête ces 60 ans de mariage. On passe un bon moment avec eux et elle nous indique que ce soir on a droit à une eclipse totale de la lune. Rendez-vous pris donc à la nuit tombée. Entre temps Christope et Jean-Pierre viennent d’arriver et ils s’installent à côté de nous. On passe la soirée ensemble autour d’une margarita car nous avons acheté tous les ingrédients au Walmart de La Paz.
+En fin de soirée on assiste à l’eclipse, magnifique surtout dans cet environement.
+
+21 Janvier.
+
+La nuit a été un peu bruyante car des jeunes sont venus fêter le dimanche soir et l’eclipse à la plage. Et ce matin bruyant également car tous nos voisins partent pour poursuivre leur périples.
+Je pars faire une ballade le long de la côte et rencontre un mexicain qui pêche juste avec un fil à la main. On discute un peu et quand je lui dit que je suis Français, il me parle aussitôt de Macron. Je suis resté un peu sur le cul. Le gars habite une bicoque isolée au bout du monde et il connait le nom de notre président … Au retour bain de mollets, pas plus haut car si l’eau est magnifique elle est très froide.
+On passe l’après-midi tranquille à lire et écouter du jazz, pas un brin de vent aujourd’hui la mer est hyper calme il fait très chaud. Super journée.
+
+22 janvier
+
+On se lève avec un temps couvert et beaucoup de vent. Nous sommes rejoint dans la matinée par François et Yumie. On passe l’après-midi à jouer aux cartes et lires.
+On décide d’inviter tout le monde ce soir pour passer la soirée dans Thor. On prépare de la margarita et un rizotto au parmesan, Francois et Yumie amnène une bouteiile de rosé et Jean-Pierre nous a préparé un riz au lait et raisins excellent. On a passé une très bonne soirée.
 
 
-## 17 janvier
+## 23 et 24 janvier
 
 
+Ce matin toujours beaucoup de vent à Tecolote et la méteo annoce ce temps pour plusierus jours. On décide donc de partir sous d’autres horizons côté Pacifique. A La paz nous faisons les pleins d’aeu potable, de vivres et d’essence. Nous mangeons en bord de mer à la fin du malecon et prenons la route en direction de Todos Santos. La ville est très belle avec de nombreuses boutiques d’art et souveniers, toutes très colorés. En fin d’après-midi nous la quittons pour rejoindre notre bivouac du jour sur une plage. Nous arrivons en même temps avec François et Yumie et rejoint un peu plus tard par Christophe et Jean-Pierre. A peine arrivés nous avons droit à un véritbale festival de saut de baleines au large, on sort tous nos jumelles et assistons au spectacle, l’une d’entre elle frappe l’eau violement avec sa queue pendant un bon quart d’heure, on reste là à les observer jusqu’au coucher de soleil.
 
 
-
-## 17 janvier
+## 1 janvier
 
 
 
