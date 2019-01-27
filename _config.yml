@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "24.139905, -110.307123"
-  name: "La Paz - Basse-Californie du Sud - Mexique"
-  date: "18 au 22 janvier 2019"
+  coordinates: "22.88890, -109.90864"
+  name: "Cabos San Lucas - Basse-Californie du Sud - Mexique"
+  date: "28 au 30 janvier 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
