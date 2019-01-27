@@ -1,7 +1,7 @@
 ---
 layout:  blog
-title:   "Basse Californie"
-preview: "Cet article couvre la période du 29 décembre 2018 au janvier 2019 durant laquelle nous avons traversé la péninsule de la Basse Californie…"
+title:   "Basse-Californie"
+preview: "Cet article couvre la période du 29 décembre 2018 au janvier 2019 date à laquelle nous sommes rentrés au Mexique et durant laquelle nous…"
 parent-id: 
 
 date:       2019-01-27 13:00:00
@@ -22,7 +22,7 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 29 décembre 2018 au janvier 2019 durant laquelle nous avons traversé la péninsule de la Basse Californie qui compte deux états, la Basse-Californie et la Basse-Californie du Sud.
+Cet article couvre la période du 29 décembre 2018 au janvier 2019 date à laquelle nous sommes rentrés au Mexique et durant laquelle nous avons traversé la péninsule de la Basse Californie qui compte deux états, la Basse-Californie et la Basse-Californie du Sud.
 
 ## 29 décembre
 
