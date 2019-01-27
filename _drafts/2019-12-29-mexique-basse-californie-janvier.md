@@ -113,18 +113,11 @@ Sur la route, nous passons deux check-points, des militaires qui nous laissent p
 Arrivés à Guerrero Negro, on retrouve du signal avec Telcel et non AT&T et je peux enfin recevoir mon courrier et avoir des nouvelles de la famille. Nous faisons des courses, surtout du frais, car en raison du contrôle sanitaire, nous avions fait en sorte de n'avoir ni fruit ni légume. On commence tout doucement à explorer les rayons des produits mexicains. Nous nous arrêtons ensuite dans une Panaderia pour trouver du "pain" mais ils n’ont plus grand chose en stock, nous prenons deux petites boules et un genre de sablé.
 On quitte le centre ville pour notre bivouac du soir, un vieux phare abandonné, qui se trouve en pleine baie, le long d’une longue piste, digue de 12 Km. En route, nous rencontrons un balbusar pêcheur, posé sur un panneau en train de déguster un poisson qu’il tient fermement entre ses serres. Nullement perturbé par notre arrivée, il continue son festin tranquillement. Arrivés au phare, on profite du coucher de soleil sur la baie, nous sommes rejoints par François et Yumie. Seuls quelques pêcheurs vivent là dans des conditions très spartiates, je vais les voir pour leur demander si nous pouvons rester là pour la nuit, c’est OK pour eux. A côté de nous, se trouvent également 3 jeunes allemands de Berlin qui voyagent dans un van.
 
-
-
-
 ## 07 janvier
-
 
 Nuit tranquille au bivouac. Ce matin avec François et Yumie, nous faisons une belle balade sur la lagune, nous sommes à marée haute, il y a de nombreuses sortes d’oiseaux. Nous allons jusqu’à un restaurant local, très local puis faisons retour, le paysage est très beau, on se croirait un peu en camargue.. On passe l’après-midi sur le site à travailler notre espagnol. Superbe coucher de soleil à l'intensité irréelle, soirée tranquille.
 
-
-
 ## 08 janvier
-
 
 Nuit très calme. Ce matin, le beau temps est au rendez-vous. Je discute avec un couple qui est arrivé hier soir au bivouac en moto Suzuki 650, une québécoise et un australien qui compte aller jusqu’à Ushuaîa.
 Nous quittons le vieux phare pour Guerrero Negro car nous devons faire tous les pleins. Par la piste, nous traversons à nouveau la lagune sur cette digue qui nous permet d'observer de très nombreuses sortes d’oiseaux.
@@ -142,14 +135,11 @@ Nous montons à 4 dans un petit bateau piloté par Luis Senior. Nous faisons en 
 
 Je branche mon ordinateur dans la salle du restaurant et je traite toutes mes photos. Trois coyotes s’approchent assez près du visitor center, ils sont magnifiques. En fin d’après-midi, on repart au fond du camping au niveau du chenal pour la nuit.
 
-
-
 ## 10 janvier
 
 Cette nuit, il a tombé quelques gouttes et le temps est couvert ce matin, Nous passons la matinée à Ojo de Liebre, on profite de pouvoir se brancher pour traiter les videos. Je passe un long moment au niveau de l’escalier en bois qui monte au toilettes homme, seul endroit où l’on capte un peu, pour prendre des nouvelles de la famille.
 
 En début d'après-midi, nous prenons la route pour passer la nuit au bord d’un salar. Je trouve une piste qui passe sur les digues et qui tombe directement sur le point. On voit bien un grand panneau qui dit en gros " Halte - Propriété de l’Etat Fédéral ne pas entrer" mais on ne parle pas très bien l'espagnol... on tente quand même le coup. A peine un kilomètre après le panneau, on tombe sur un garde dans sa guitoune qui nous fait faire demi-tour, selon lui la route est coupée. On reprend la Ruta 1 et contournons la Lagune par le sud pour accéder au Salar où nous passons la nuit.
-
 
 ## 11 janvier
 
@@ -158,7 +148,6 @@ Nuit très calme au bivouac, le soleil se lève sous un épais brouillard, déci
 En début d’après-midi, nous croisons François et Yumie qui arrivent de Guerrero Negro. Quant à nous, nous partons vers la lagune San Ingnacio pour un camping mais la piste est vraiment trop mauvaise pour Thor et nous décidons de faire demi-tour.
 De retour au village, nous allons visiter la «Casa Lereé» une très belle villa tenue par des américains qui ont transformé cette maison construite par un immigrant français en bibliothèque/musée sur la ville et sa région et qui vous fait visiter toute sa maison et son très beau jardin.
 Nous finissons la journée au bord du lac avant de rejoindre François et Yumie sur la parking de l’hôtel La Huerta, qui comme souvent ici, accueille les RV moyennant quelques pesos. On finit dans Thor devant un petit apéro et spécialités locales.
-
 
 ## 12 janvier
 
