@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "22.88890, -109.90864"
   name: "Cabos San Lucas - Basse-Californie du Sud - Mexique"
-  date: "28 au 30 janvier 2019"
+  date: "29 au 31 janvier 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
