@@ -259,6 +259,7 @@ Les Mexicains sont les rois de la fêtes, cette nuit les rues de Todos Santos on
 j
 ## 29 janvier
 
+Départ du bivouac et route jusqu'à Cabo San Luca, une ville balnéaire contruite pour les américain. On change litérallement de décors, fini le petit village de pêcheur et place au grandes résidences de luxe, magasin en tout genres. Nous traverssons la ville jusqu'à la marina où de très beau yacth et bateau de corisière ont jetées l'ancre. Nous nous attardons pas et faisons une halte dans un walmart avant de regangné notre bivouac, une très belle plage publique coincée entre deux grandes propriétés hotelière. Nous passons l'après-midi sur la plage et dans l'eau qui est quand même bien fraîche. Nous sommes rejoints en fin d'après-midi par Christophe et Jenn-Pierre puis par François et Yumie. Nous finossons la journée et la soirée dans Thor autour d'un apéro et babioles préparés par Corinne. Très bonne soirée.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
