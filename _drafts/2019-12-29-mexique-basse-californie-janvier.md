@@ -249,19 +249,26 @@ Nuit calme. On est le WE et ce matin de nombreux surfeurs sont arrivés, beaucou
 
 Les Mexicains sont les rois de la fêtes, cette nuit les rues de Todos Santos ont été animées. Heureusement nous sommes à l'écart et cela ne nous a pas empêché de dormir. Il fait très beau et chaud aujourd'hui. Nous quittons le camping peu avant midi et allons nous garés en ville. Après un petit tour, nous nous arrêtons dans un restaurant pour déjeuner.
 
-
-
 ## 28 janvier
 
 Nuit très calme au bivouac. Ce matin François et Yumie poursuive la route, nous restons une journée de plus ici. En fin de matinée je pars avec Christophe et Jean-Pierre fait un trail qui nous conduit sur les hauteurs de Punta Lobos, le long de la côte et qui nous fait découvrir deux très belle plages.
 En milieu d’après-midi, on attend les pecheurs qui reviennent de la pêche, ils attendant les bonnes vagues et se lance en direction de la plage, finissant sur le sable. Un très vieux pick up vient les ramener au fond de la plage. Les pêcheurs sortent alors leur prise du jour, on achéte auprès de deux pêcheures du Red Sniper genre de vivaneau et de la bonite. Les pecheurs nous sortent les filets que nous payons vraiment pas cher, 135 $Mex au total, à peine 6€. Il n’y a pas grand choix dans le type de poisson mais il arrivent avec leur coffre bien rempli. Le soir Corinne me prépare un "Cevice" salade de poisson cru avec la bonite, excellent... En début de soirée Christophe vient me voir pour me dire que les gars de la sécurité de l'hôtel nous ont demandés de quitter les lieux qui appartiennent à l'hôtel, On se met d'accord pour un départ demain dans la journée.
 
-
-
-j
 ## 29 janvier
 
 Départ du bivouac et route jusqu'à Cabo San Luca, une ville balnéaire contruite pour les américain. On change litérallement de décors, fini le petit village de pêcheur et place au grandes résidences de luxe, magasin en tout genres. Nous traverssons la ville jusqu'à la marina où de très beau yacth et bateau de corisière ont jetées l'ancre. Nous nous attardons pas et faisons une halte dans un walmart avant de regangné notre bivouac, une très belle plage publique coincée entre deux grandes propriétés hotelière. Nous passons l'après-midi sur la plage et dans l'eau qui est quand même bien fraîche. Nous sommes rejoints en fin d'après-midi par Christophe et Jenn-Pierre puis par François et Yumie. Nous finossons la journée et la soirée dans Thor autour d'un apéro et babioles préparés par Corinne. Très bonne soirée.
+
+
+
+
+
+
+
+
+
+
+
+
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
