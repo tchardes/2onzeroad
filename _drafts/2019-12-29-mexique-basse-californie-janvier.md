@@ -253,6 +253,8 @@ Les Mexicains sont les rois de la fêtes, cette nuit les rues de Todos Santos on
 
 ## 28 janvier
 
+Nuit très calme au bivouac. Ce matin François et Yumie poursuive la route, nous restons une journée de plus ici. En fin de matinée je pars avec Christophe et Jean-Pierre fait un trail qui nous conduit sur les hauteurs de Punta Lobos, le long de la côte et qui nous fait découvrir deux très belle plages.
+En milieu d’après-midi, on attend les pecheurs qui reviennent de la pêche, ils attendant les bonnes vagues et se lance en direction de la plage, finissant sur le sable. Un très vieux pick up vient les ramener au fond de la plage. Les pêcheurs sortent alors leur prise du jour, on achéte auprès de deux pêcheures du Red Sniper genre de vivaneau et de la bonite. Les pecheurs nous sortent les filets que nous payons vraiment pas cher, 135 $Mex au total, à peine 6€. Il n’y a pas grand choix dans le type de poisson mais il arrivent avec leur coffre bien rempli. Le soir Corinne me prépare un "Cevice" salade de poisson cru avec la bonite, excellent... En début de soirée Christophe vient me voir pour me dire que les gars de la sécurité de l'hôtel nous ont demandés de quitter les lieux qui appartiennent à l'hôtel, On se met d'accord pour un départ demain dans la journée.
 
 
 
