@@ -258,10 +258,13 @@ En milieu d’après-midi, on attend les pecheurs qui reviennent de la pêche, i
 
 Départ du bivouac et route jusqu'à Cabo San Luca, une ville balnéaire contruite pour les américain. On change litérallement de décors, fini le petit village de pêcheur et place au grandes résidences de luxe, magasin en tout genres. Nous traverssons la ville jusqu'à la marina où de très beau yacth et bateau de corisière ont jetées l'ancre. Nous nous attardons pas et faisons une halte dans un walmart avant de regangné notre bivouac, une très belle plage publique coincée entre deux grandes propriétés hotelière. Nous passons l'après-midi sur la plage et dans l'eau qui est quand même bien fraîche. Nous sommes rejoints en fin d'après-midi par Christophe et Jenn-Pierre puis par François et Yumie. Nous finossons la journée et la soirée dans Thor autour d'un apéro et babioles préparés par Corinne. Très bonne soirée.
 
+## 30 janvier
 
+Nuit calme. Ce matin François et Yumie partent suivient de Christophe et Jean-Pierre. Nous trainons toute la matinée, corinne me coupe les cheveux et nous partons faire un tour en ville de Cabo San Lucas en début d’après-midi le long de la marina. Je renouvelle mon abonnement à Tecel puis nous quitons la ville en direction du Nors-Est côté mer de Cortes. Nous passons au niveau du Tropique du Cancer où un genre de visitor center à été construit. A notre arrivée tout est fermé. On poursuit un peu pour trouver un bivouac un peu à l’écart en pleine nature du côté de Santiago mais finalement il y a beaucoup trop de piste à faire, on renonce, faisons demi-tour et nous posons sur le parking du tropique….
 
+## 31 janvier
 
-
+Nuit calme sur le tropique du cancer. Nous partons ce matin en direction de Cabo Pulmo qui se trouve dans un parc national. Nous nous arr^tons en route à pour faire le plein d’eau potable. Rapidement la route se transforme en piste, nous nous arrêtons pour déjeuner sur une très belle plage « Playa miramar » où nous sommes seuls au monde. En milieu d’après-midi nous décidons de ne pas continuer la piste est remonter vers La Paz. Nous nous arrêtons pour la nuit à Los Barriles, très jolie petite ville, assez touristique oùde nmbreux Snow Birds viennet passer l’hiver. Nous prenons un camping pour la nuit car les spots sauvages sont assez rares.
 
 
 
