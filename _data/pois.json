@@ -271,7 +271,7 @@
     {"name": "venice-beach", "displayName": "Venice Beach", "type": "autre"},
     {"name": "santa-monica", "displayName": "Santa Monica", "type": "autre"},
     {"name": "los-angeles", "displayName": "Los Angeles", "type": "ville"},
-    {"name": "tecate", "displayName": "Passage frontière Mexique", "type": "autre"},
+    {"name": "tecate", "displayName": "Passage frontière Mexique à Tecate", "type": "autre"},
     {"name": "ensenada", "displayName": "Ensenada", "type": "ville"},
     {"name": "bufadora", "displayName": "La Bufadora", "type": "nature"},
     {"name": "bahia-angeles", "displayName": "Bahia De los Angeles", "type": "nature"},
