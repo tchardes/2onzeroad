@@ -116,8 +116,6 @@ Nous faisons ensuite une très belle balade sur une plage de petits galets et en
 
 Nous passons la soirée dans Thor avec François et Yumie pour un apéro amélioré pour fêter la nouvelle année. En sortant, la nuit est particulièrement belle et étoilée et je prends le matériel pour faire quelques photos de la voie lactée.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/45898175094/in/datetaken/" title="Bahia de Los Angeles - Basse-Californie - [Mexique]"><img src="https://farm8.staticflickr.com/7896/45898175094_f56f181fac_k.jpg" width="1308" height="2048" alt="Bahia de Los Angeles - Basse-Californie - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 ## 04 janvier
 
 La nuit a été rythmée par les cris des Coyotes, ils devaient être une sacrée meute, c’est vraiment cool. Ce matin, réveil de bonne heure pour un Timelaps du lever de soleil, résultat pas terrible… Après le petit déjeuner, départ pour une balade au bout de la lagune, la vue sur l’isme est vraiment très belle. Puis retour à Thor, Corinne passe le reste de la matinée a essayé de me couper les cheveux, ce n’est vraiment pas facile.
@@ -132,7 +130,7 @@ En fin d'après-midi, je pars faire quelques photos peu avant le coucher de sole
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39657176633/in/datetaken/" title="Bahia de Los Angeles - Basse-Californie - [Mexique]"><img src="https://farm5.staticflickr.com/4869/39657176633_9264a838ed_k.jpg" width="2048" height="1152" alt="Bahia de Los Angeles - Basse-Californie - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/39657176633/in/datetaken/" title="Bahia de Los Angeles - Basse-Californie - [Mexique]"><img src="https://farm5.staticflickr.com/4869/39657176633_9264a838ed_k.jpg" width="2048" height="1152" alt="Bahia de Los Angeles - Basse-Californie - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46622109221/in/datetaken/" title="Bahia de Los Angeles - Basse-Californie - [Mexique]"><img src="https://farm8.staticflickr.com/7804/46622109221_9fd14cc6a9_k.jpg" width="2048" height="492" alt="Bahia de Los Angeles - Basse-Californie - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 05 janvier
 
@@ -328,7 +326,7 @@ A midi, nous mangeons chez Papala San Javier, des Quesadillas au bœuf pour Cori
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/31958216247/in/datetaken/" title="San Javier - Basse-Californie du Sud - [Mexique]"><img src="https://farm8.staticflickr.com/7885/31958216247_abb05f0805_k.jpg" width="2048" height="1152" alt="San Javier - Basse-Californie du Sud - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Après un petit tour dans le village, nous rentrons à Loreto où nous faisons le plein du réservoir d'eau, passons chercher du pain dans une panaderia et allons visiter la mission De Nuestra Señora de Loreto. Nous passons dans des rues très étroites et arrivons carrément sur le parvis de la mission sous les yeux étonnés d'un agent de la "Policia Turistico" qui se demande pourquoi ça tombe sur lui. En effet, les autres rues sont bordées d'arbres qui forment un tunnel bien trop petit pour Thor. Il nous autorise à garer devant la Mission et nous accorde dix minutes pour la visite. 
+Après un petit tour dans le village, nous rentrons à Loreto où nous faisons le plein du réservoir d'eau, passons chercher du pain dans une panaderia et allons visiter la mission De Nuestra Señora de Loreto. Nous passons dans des rues très étroites et arrivons carrément sur le parvis de la mission sous les yeux étonnés d'un agent de la "Policia Turistico" qui se demande pourquoi ça tombe sur lui. En effet, les autres rues sont bordées d'arbres qui forment un tunnel bien trop petit pour Thor. Il nous autorise à garer devant la Mission et nous accorde dix minutes pour la visite.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/31958302687/in/datetaken/" title="Loreto - Basse-Californie du Sud - [Mexique]"><img src="https://farm5.staticflickr.com/4821/31958302687_2a940f30c8_k.jpg" width="2048" height="1152" alt="Loreto - Basse-Californie du Sud - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
