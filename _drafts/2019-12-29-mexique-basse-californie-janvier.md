@@ -451,11 +451,17 @@ Nuit calme. Ce matin François et Yumie partent survient de Christophe et Jean-P
 
 Je renouvelle mon abonnement à Tecel puis nous quittons la ville en direction du Nord-Est côté mer de Cortes. Nous passons au niveau du Tropique du Cancer où un genre de visitor center a été construit. A notre arrivée tout est fermé. On poursuit un peu pour trouver un bivouac un peu à l’écart en pleine nature du côté de Santiago mais finalement il y a beaucoup trop de piste à faire, on renonce, faisons demi-tour et nous posons sur le parking du tropique…
 
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46226047264/in/datetaken/" title="Santiago - Basse-Californie du Sud - [Mexique]"><img src="https://farm8.staticflickr.com/7914/46226047264_9932ff2b2b_k.jpg" width="2048" height="1152" alt="Santiago - Basse-Californie du Sud - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 31 janvier
 
 Nuit calme sur le tropique du cancer. Nous partons ce matin en direction de Cabo Pulmo qui se trouve dans un parc national. Nous nous arrêtons en route à pour faire le plein d’eau potable. Rapidement la route se transforme en piste, nous nous arrêtons pour déjeuner sur une très belle plage « Playa miramar » où nous sommes seuls au monde. En milieu d’après-midi nous décidons de ne pas continuer la piste est remonter vers La Paz. Nous nous arrêtons pour la nuit à Los Barriles, très jolie petite ville, assez touristique où de nombreux Snow Birds viennent passer l’hiver. Nous prenons un camping pour la nuit car les spots sauvages sont assez rares.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33074807298/in/datetaken/" title="Santiago - Basse-Californie du Sud - [Mexique]"><img src="https://farm8.staticflickr.com/7826/33074807298_56307d0031_k.jpg" width="2048" height="1152" alt="Santiago - Basse-Californie du Sud - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46950286881/in/datetaken/" title="Cabo Pulmo - Basse-Californie du Sud - [Mexique]"><img src="https://farm5.staticflickr.com/4886/46950286881_f7272e25d3_k.jpg" width="2048" height="1152" alt="Cabo Pulmo - Basse-Californie du Sud - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46950276101/in/datetaken/" title="Los Barriles - Basse-Californie du Sud - [Mexique]"><img src="https://farm5.staticflickr.com/4860/46950276101_723ba1ec51_k.jpg" width="2048" height="1365" alt="Los Barriles - Basse-Californie du Sud - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ## 01 février
