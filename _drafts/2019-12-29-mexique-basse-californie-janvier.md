@@ -388,7 +388,7 @@ Nuit calme. On est le WE et ce matin de nombreux surfeurs sont arrivés, beaucou
 
 ## 27 janvier
 
-Les Mexicains sont les rois de la fêtes, cette nuit les rues de Todos Santos ont été animées. Heureusement nous sommes à l'écart et cela ne nous a pas empêché de dormir. Il fait très beau et chaud aujourd'hui. Nous quittons le camping peu avant midi et allons nous garés en ville. Après un petit tour, nous nous arrêtons dans un restaurant pour déjeuner.
+Les Mexicains sont les rois de la fêtes, cette nuit les rues de Todos Santos ont été animées. Heureusement nous sommes à l'écart et cela ne nous a pas empêché de dormir. Il fait très beau et chaud aujourd'hui. Nous quittons le camping peu avant midi et allons nous garés en ville pour continuer la visite. Après un petit tour, nous nous arrêtons dans un restaurant pour déjeuner, Las Fuentes, très bel établissement où nous mangeons sous un très beau carbet. Corinne prend des quesillades et moi un "red snapper", en fait un vivaneau à la mode de Veracruz, excellent. Après ce bon repas nous sortons de la ville pour nous poser sur une plage isolée près d'une hôtel de luxe et d'où les pêcheures partent le matin. Nous y retrouvons nos compagnons de route. Nous passons l'après-midi sur la plage et dans l'eau, c'est mon premier bain dans le Pacifique, l'eau frisquette mais agéable.
 
 ## 28 janvier
 
@@ -401,7 +401,7 @@ Départ du bivouac et route jusqu'à Cabo San Luca, une ville balnéaire constru
 
 ## 30 janvier
 
-Nuit calme. Ce matin François et Yumie partent survient de Christophe et Jean-Pierre. Nous trainons toute la matinée, Corinne me coupe les cheveux et nous partons faire un tour en ville de Cabo San Lucas en début d’après-midi le long de la marina. Je renouvelle mon abonnement à Tecel puis nous quittons la ville en direction du Nord-est côté mer de Cortes. Nous passons au niveau du Tropique du Cancer où un genre de visitor center à été construit. A notre arrivée tout est fermé. On poursuit un peu pour trouver un bivouac un peu à l’écart en pleine nature du côté de Santiago mais finalement il y a beaucoup trop de piste à faire, on renonce, faisons demi-tour et nous posons sur le parking du tropique….
+Nuit calme. Ce matin François et Yumie partent survient de Christophe et Jean-Pierre. Nous trainons toute la matinée, Corinne me coupe les cheveux et nous partons faire un tour en ville de Cabo San Lucas en début d’après-midi le long de la marina. Je renouvelle mon abonnement à Tecel puis nous quittons la ville en direction du Nord-est côté mer de Cortes. Nous passons au niveau du Tropique du Cancer où un genre de visitor center a été construit. A notre arrivée tout est fermé. On poursuit un peu pour trouver un bivouac un peu à l’écart en pleine nature du côté de Santiago mais finalement il y a beaucoup trop de piste à faire, on renonce, faisons demi-tour et nous posons sur le parking du tropique…
 
 ## 31 janvier
 
