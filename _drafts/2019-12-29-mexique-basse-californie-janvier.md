@@ -18,7 +18,7 @@ category: "roadmap"
 flickr-text: ""
 location: "28.046683, -113.446698"
 itinary: "2019/baja.json"
-mapZoom: 4
+mapZoom: 5
 
 ---
 
