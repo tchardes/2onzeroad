@@ -16,7 +16,7 @@ country: Mexique
 states: ["Basse-Californie", "Basse-Californie du Sud"]
 category: "roadmap"
 flickr-text: ""
-location: "35.213452, -117.720835"
+location: "28.046683, -113.446698"
 itinary: "2019/baja.json"
 mapZoom: 6
 
