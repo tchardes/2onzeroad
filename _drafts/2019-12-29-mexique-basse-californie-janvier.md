@@ -4,9 +4,9 @@ title:   "Basse-Californie"
 preview: "Cet article couvre la période du 29 décembre 2018 au janvier 2019 date à laquelle nous sommes rentrés au Mexique et durant laquelle nous…"
 parent-id: 
 
-date:       2019-01-27 13:00:00
+date:       2019-01-31 13:00:00
 from-date:  2018-12-29 13:00:00
-to-date:    2019-01-29 13:00:00
+to-date:    2019-01-31 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt20.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt20.jpg
@@ -16,7 +16,7 @@ country: Mexique
 states: ["Basse-Californie", "Basse-Californie du Sud"]
 category: "roadmap"
 flickr-text: ""
-location: "28.046683, -113.446698"
+location: "28.023464, -112.747609"
 itinary: "2019/baja.json"
 mapZoom: 5
 
