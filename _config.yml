@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "23.686471, -109.706689"
-  name: "Los Barriles - Basse-Californie du Sud - Mexique"
-  date: "01 février 2019"
+  coordinates: "24.148551, -110.301474"
+  name: "La Paz - Basse-Californie du Sud - Mexique"
+  date: "01 au 04 février 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
