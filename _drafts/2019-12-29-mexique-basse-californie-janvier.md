@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt20.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt20.jpg
 tags: [ mer-ocean, faune, flore, culturel, religion]
-pois: [ensenada#30-décembre, bufadora#01-janvier, bahia-angeles#02-janvier, grosnegro#06-janvier, ojoliebre#08-janvier, salar-vizcaïno#10-janvier, san-ignacio#11-janvier, santa-rosalia#12-Janvier, mulege#13-janvier, baja-conception#13-janvier, loreto#14-janvier, san-javier#15-janvier, adolpho#17-janvier, la-paz#18-janvier, todos-santos#23-au-25-janvier, punta-lobos#27-janvier, cabo-san-luca#29-janvier, tropique-cancer#30-janvier, los-barriles#31-janvier, cabo-pulmo#31-janvier]
+pois: [ensenada#30-décembre, bufadora#01-janvier, bahia-angeles#02-janvier, grosnegro#06-janvier, ojoliebre#08-janvier, salar-vizcaïno#10-janvier, san-ignacio#11-janvier, santa-rosalia#12-Janvier, mulege#13-janvier, baja-conception#13-janvier, loreto#14-janvier, san-javier#15-janvier, adolpho#17-janvier, la-paz#18-janvier, todos-santos#23-au-25-janvier, punta-lobos#27-janvier, cabo-san-luca#29-janvier, tropique-cancer#30-janvier, los-barriles#31-janvier, cabo-pulmo#31-janvier, la-paz#02-février]
 country: Mexique
 states: ["Basse-Californie", "Basse-Californie du Sud"]
 category: "roadmap"
@@ -22,7 +22,7 @@ mapZoom: 5
 
 ---
 
-Cet article couvre la période du 29 décembre 2018 au janvier 2019 date à laquelle nous sommes rentrés au Mexique et durant laquelle nous avons traversé la péninsule de la Basse Californie qui compte deux états, la Basse-Californie et la Basse-Californie du Sud.
+Cet article couvre la période du 29 décembre 2018 au 4 février 2019 date de notre entrée au Mexique et durant laquelle nous avons traversé la péninsule de la Basse Californie qui compte deux états, la Basse-Californie et la Basse-Californie du Sud.
 
 ## 29 décembre
 
@@ -463,10 +463,17 @@ Nuit calme sur le tropique du cancer. Nous partons ce matin en direction de Cabo
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46950276101/in/datetaken/" title="Los Barriles - Basse-Californie du Sud - [Mexique]"><img src="https://farm5.staticflickr.com/4860/46950276101_723ba1ec51_k.jpg" width="2048" height="1365" alt="Los Barriles - Basse-Californie du Sud - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
 ## 01 février
 
+Nuit calme au bivouac, ce matin le temps est bouché. Nous passons toute la matinée au camping pour profiter au maximun des installations et services. Après le repas nous partons direction La Paz. Dès notre arrivée nous allons réserver nos billets de ferry par regagner le continent départ prévu lundi. Nous allons ensuite dans un garage Ford mais ils sont surbookés et ne peuvent prendre Thor pour la vidange. Nous en profitons pour passer dans une laverie et enfin faire les courses. Pour la nuit nous ne posons une fois de plus sur le parking de The Home Dépot comme cela nous serons sur place demain pour visiter la villes.
 
+## 02 février
+
+
+## 03 février
+
+
+## 04 février
 
 
 
