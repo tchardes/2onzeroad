@@ -4,7 +4,7 @@ country: "Canada"
 permalink: "/writing/destination/canada/"
 header-img: "assets/owner/hero/canada-bg.jpg"
 flickr-text: ""
-distance: 15200
+distance: 13614
 days: 59
 photos: 717
 videos: 3
