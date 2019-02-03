@@ -6,7 +6,7 @@ header-img: "assets/owner/hero/canada-bg.jpg"
 flickr-text: ""
 distance: 15200
 days: 59
-photos: 702
+photos: 717
 videos: 3
 walk: 238
 ---
