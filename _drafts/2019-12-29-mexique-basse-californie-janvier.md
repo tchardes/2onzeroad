@@ -445,7 +445,7 @@ Départ du bivouac et route jusqu'à **Cabo San Luca**, une ville balnéaire con
 
 ## 30 janvier
 
-Nuit calme. Ce matin François et Yumie partent survient de Christophe et Jean-Pierre. Nous trainons toute la matinée, Corinne me coupe les cheveux et nous partons faire un tour en ville de Cabo San Lucas en début d’après-midi le long de la marina.
+Nuit calme. Ce matin François et Yumie partent survient de Christophe et Jean-Pierre. On devait faire avec François un tour en PMT mais quand j’ai voulu prendre mes palmes dans un petit coffre qui donne à l'extérieur, elles n’y étaient plus ainssi que notre petite valise cabine… La serrure ne semble pas avoir été forcée, j’avais peut-être oublié de le fermé à clé. Nous trainons toute la matinée, Corinne me coupe les cheveux et nous partons faire un tour en ville de Cabo San Lucas en début d’après-midi le long de la marina.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33075115758/in/datetaken/" title="Cabo San Lucas - Basse-Californie du Sud - [Mexique]"><img src="https://farm8.staticflickr.com/7908/33075115758_99fb7fa223_k.jpg" width="2048" height="1152" alt="Cabo San Lucas - Basse-Californie du Sud - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -469,6 +469,7 @@ Nuit calme au bivouac, ce matin le temps est bouché. Nous passons toute la mati
 
 ## 02 février
 
+Nuit très calme sur notre parking. Ce matin les temsp est maussade. Nous passons un long moment avec les enfants, on frofite d’avoir du wifi. En début d’après-midi on recoit un coup de téléphone de Christophe et Jean-Pierre et on se donne rendez-vous en ville. Ils partent ce soir même par le ferry vers Mazaltan. On passe le reste de l’après-midi à visiter la ville qui commence à s’annimer car le week-end va être festif car ici c’est férié, on faite la Constitution du 5 février. Avan-t que la nuit tombe on se rend à Tecolote pour y passer le week-end au bord de la mer de Cortés poiur une dernière fois.
 
 ## 03 février
 
