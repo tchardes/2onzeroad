@@ -4,7 +4,7 @@ country: "USA"
 permalink: "/writing/destination/usa/"
 header-img: "assets/owner/hero/usa-bg.jpg"
 flickr-text: ""
-distance: 51351
+distance: 52606
 days: 327
 photos: 4907
 videos: 17
