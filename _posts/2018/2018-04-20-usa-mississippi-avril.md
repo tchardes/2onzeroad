@@ -272,7 +272,7 @@ Nous quittons le parc et repassons par Santa Fe pour faire le plein de gazoline 
 
 ## 18 avril
 
-Nuit très fraîche. Ce matin, départ du camping pour **Los Alamos** connue sous le nom de "Atomic City". En approchant de la ville, on peut voir de gros bâtiments très bien sécurisés sans aucune enseigne ni inscription. On comprend, peu avant d’arriver dans la ville où nous passons un check point de militaires qui nous demandent nos papiers et vérifient l’intérieur de Thor, que la zone est très sensible...
+Nuit très fraîche. Ce matin, départ du camping pour **Los Alamos** connue sous le nom de "Atomic City". En approchant de la ville, on peut voir de gros bâtiments très bien sécurisés sans aucune enseigne ni inscription. On comprend, peu avant d’arriver dans la ville où nous passons un check-point de militaires qui nous demandent nos papiers et vérifient l’intérieur de Thor, que la zone est très sensible...
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/26740648967/in/photolist-2531ctD-26oN3Vc-26oN3un-2531dtV-JgfS8j-23D45tS-2531eTD-GJYPiR-GJYNvZ" title="Los Alamos - Nouveau-Mexique - [USA]"><img src="https://farm1.staticflickr.com/860/26740648967_5993d1b458_b.jpg" width="1024" height="576" alt="Los Alamos - Nouveau-Mexique - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
