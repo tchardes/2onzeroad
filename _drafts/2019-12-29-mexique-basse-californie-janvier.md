@@ -464,10 +464,11 @@ Ce matin le temps est bouché. Nous passons toute la matinée au camping pour pr
 
 Nuit très calme sur notre parking. Ce matin le temps est maussade. Nous passons un long moment en visio avec les enfants, on profite d’avoir du wifi. En début d’après-midi on recoit un coup de téléphone de Christophe et Jean-Pierre et on se donne rendez-vous en ville. Ils partent ce soir même par le ferry vers Mazaltan. On passe le reste de l’après-midi à visiter la ville qui commence à s’animer car le week-end va être festif en raison d'un férié, on fête la Constitution du 5 février. Avant que la nuit tombe, on se rend sur la plage de Tecolote pour y passer le week-end au bord de la mer de Cortés pour la dernière fois.
 
-## 03 février
+## 03 au 04 février
 
+Journée calme avec un temps mi figue mi raisin. On en profite pour pofiner les photos et l'article qui retracera notre traversée de la péninsule de la Basse-Californie où nous aurons passé plus d'un mois finalement. Entre Pacifique et mer de Cortes nous aurons traversé des décors fabuleux aussi bien désertique et maritime. La rencontre avec les baleines grises restera une expérience inoubliable, nous nous sommes émerveillés de leurs parades amoureuses avec ces saut hors de l'eau, c'est battements de queue ou de nageoire, ces souffles qui viennent rompre l'horizon. Nous y avons également fait de très belles rencontres, françois et Yumie et Christophe et Jean-Pierre avec qui nous avons partagé un bout de route et de très bonnes soirées. Nous avons trouvés les mexicains très sympatiques, ils ont toujours fait de gros efforts pour nous comprendre et nous aider.
 
-## 04 février
+Ce matin nous faisons route vers le péninsule de
 
 
 
