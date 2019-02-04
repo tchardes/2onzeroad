@@ -470,7 +470,6 @@ Journée calme avec un temps mi figue mi raisin. On en profite pour pofiner les 
 
 Ce matin nous faisons route vers le péninsule de Pichilingue où se trouve le terminal maritime. Après un contrôle de la douane et une visite succinte de l'intérieur de Thor, nous rentrons dans le port. Nous sommes contrôlé par un agent portuaire qui nous demande la longueur de Thor, je lui dit 7 mètres environ et il ne contrôle pas. Nous passons à la pesée puis il rempli un document qu'il nous remet moyennant le payement de la taxe portuaire d'un montant de 175,16 $/Mex. Une fois garé dans le port face au bateau, nous allons à pied dans les locaux de TCM pour chercher notre billet en leur remettant le document qui nous a été remis. Finalement il font passer Thor en véhicule commercial sans remorque, ce qui a pour effet de faire bien baisser le prix de la traversée qui sera au total de 7997 $/mex soit environ 366 €, avec le repas du soir et le petit déjeuner. Je demande si il est possible de dormir dans Thor et m'indqiue le premier officier qui est présent dans la pièce et qui nous accorde cette possibilité.
 
-Contrairement au tracé de notre itinéraire sur la carte, nous avons fait La Paz - Mazaltan direct et nous ne sommes pas passés par El Mochis, mais impossible de le faire comprendre à Google Maps...
 
 
 
