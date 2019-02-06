@@ -4,9 +4,9 @@ title:   "Basse-Californie"
 preview: "Cet article couvre la période du 29 décembre 2018 au 4 février 2019 date de notre entrée au Mexique et durant laquelle nous avons traversé la…"
 parent-id: 
 
-date:       2019-01-31 13:00:00
+date:       2019-02-04 13:00:00
 from-date:  2018-12-29 13:00:00
-to-date:    2019-01-31 13:00:00
+to-date:    2019-02-04 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt20.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt20.jpg
