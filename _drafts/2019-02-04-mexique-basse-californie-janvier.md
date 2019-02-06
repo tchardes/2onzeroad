@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   "Basse-Californie"
+title:   "Péninsule de la Basse-Californie"
 preview: "Cet article couvre la période du 29 décembre 2018 au 4 février 2019 date de notre entrée au Mexique et durant laquelle nous avons traversé la…"
 parent-id: 
 
