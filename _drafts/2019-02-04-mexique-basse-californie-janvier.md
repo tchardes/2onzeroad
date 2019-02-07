@@ -482,6 +482,8 @@ Ce matin, nous faisons route vers le péninsule de Pichilingue où se trouve le 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46947521772/in/datetaken/" title="Mazatlan - Sinaloa - [Mexique]"><img src="https://farm8.staticflickr.com/7912/46947521772_3942a9a4c8_k.jpg" width="2048" height="1152" alt="Mazatlan - Sinaloa - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+
+
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8arFwQyuIpM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fym65dFBAJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
