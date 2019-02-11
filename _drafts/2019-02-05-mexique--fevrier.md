@@ -13,7 +13,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt20.jpg
 tags: [ mer-ocean, faune, flore, culturel, religion]
 pois: [mazatlan#05-février, durango#07-février]
 country: Mexique
-states: ["Sinaloa", "Durango"]
+states: ["Sinaloa", "Durango", "Zacatecas"]
 category: "roadmap"
 flickr-text: ""
 location: "28.023464, -112.747609"
