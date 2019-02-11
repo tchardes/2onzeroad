@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "22.772925, -102.573975"
-  name: "Zacarecas - Zacatecas - Mexique"
+  name: "Zacatecas - Zacatecas - Mexique"
   date: "11 au 13 février 2019"
 
 # set the encoding to utf-8
@@ -18,7 +18,7 @@ assets:
   owner: assets/owner
 logo: logo.png
 discus_shortname: 2onzeroad
-email: thierry.chardes@gmail.com
+email: 2onzeroad@gmail.com
 url: ""
 search: true
 share: true
