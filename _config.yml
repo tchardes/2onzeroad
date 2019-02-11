@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "24.031897, -104.669303"
-  name: "Durango - Durango - Mexique"
-  date: "07 au 08 février 2019"
+  coordinates: "22.772925, -102.573975"
+  name: "Zacarecas - Zacatecas - Mexique"
+  date: "11 au 13 février 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
