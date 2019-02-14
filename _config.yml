@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "22.772925, -102.573975"
-  name: "Zacatecas - Zacatecas - Mexique"
-  date: "11 au 13 février 2019"
+  coordinates: "21.934311, -99.993985"
+  name: "Rio verde - San Luis de Potosi - Mexique"
+  date: "14 février 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
