@@ -8,7 +8,7 @@ date:       2018-12-29 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-sandiego.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-sandiego.jpg
-tags: [ville, architecture, mer-ocean, faune]
+tags: [parc-naturel, montagne]
 pois: [sierra-organos]
 flickr-text: "Sierra de Órganos"
 iquestates: ["Californie"]

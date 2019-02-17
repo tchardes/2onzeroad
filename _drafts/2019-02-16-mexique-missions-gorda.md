@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Missions franciscaines de la Sierra Gorda"
 preview:    "…"
-parent-id:  2019-02-05-mexique-californie-fevrier
+parent-id:  2019-02-17-mexique--fevrier
 
 date:       2018-12-29 12:00:00
 author:     "Thierry"
