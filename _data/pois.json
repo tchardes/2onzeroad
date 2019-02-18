@@ -293,7 +293,7 @@
     {"name": "los-barriles", "displayName": "Los Barriles", "type": "ville"},
     {"name": "cabo-pulmo", "displayName": "Cabo Pulmo", "type": "nature"},
     {"name": "sierra-organos", "displayName": "Parc National de la Sierra de Órganos", "type": "nature"},
-    {"name": "saltito", "displayName": "Casacdes El Saltito", "type": "nature"},
+    {"name": "saltito", "displayName": "Cascades El Saltito", "type": "nature"},
 
 
     {"name": "", "displayName": "", "type": ""},
