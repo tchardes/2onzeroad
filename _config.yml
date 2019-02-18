@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "20.522407, -99.890372"
   name: "Tequisquiapan - Querétaro - Mexique"
-  date: "17 février 2019"
+  date: "17 et 18 février 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
