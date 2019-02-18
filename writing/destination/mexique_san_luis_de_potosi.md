@@ -1,12 +1,10 @@
 ---
-layout: "writing_by_country"
-country: "Mexique"
+layout: "writing_by_destination"
+destination: "Mexique - San Luis de Potosi"
 permalink: "/writing/destination/mexique-san-luis-de-potosi/"
-header-img: "assets/owner/hero/mexique-bg.jpg"
-flickr-text: "Mexique"
-distance: 3244
-days: 35
-photos: 335
-videos: 1
-walk: 16
+header-img: "assets/owner/hero/archive-bg.jpg"
+flickr-text: ""
+
 ---
+
+Quelques info au sujet de...
