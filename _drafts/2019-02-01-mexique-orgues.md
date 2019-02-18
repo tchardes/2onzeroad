@@ -15,7 +15,7 @@ country: Mexique
 states: ["Durango", "Zacatecas"]
 city: 
 category: "blog"
-location: "24.082500, -103.841160"
+location: "23.784374, -103.788771"
 
 ---
 
