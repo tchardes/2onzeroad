@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_country"
 country: "Mexique"
-permalink: "/writing/destination/mexique-queretaro/"
+permalink: "/writing/destination/mexique-querétaro/"
 header-img: "assets/owner/hero/mexique-bg.jpg"
 flickr-text: "Mexique"
 distance: 3244
