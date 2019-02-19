@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "20.580791, -100.393193"
-  name: "Santiago de Querétaro - Querétaro - Mexique"
-  date: "18 et 19 février 2019"
+  coordinates: "20.917778, -100.745389"
+  name: "San Miguel de Allende - Guanajuato - Mexique"
+  date: "20 février 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
