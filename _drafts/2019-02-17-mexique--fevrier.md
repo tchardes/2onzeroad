@@ -101,13 +101,42 @@ L’eau est effectivement très bonne et l’environnement très agréable et pr
 
 
 
-## 10 février
+## 16 février
 
 
 
 
 
-## 10 février
+## 18 février
+
+
+
+
+## 19 février
+
+
+
+## 20 février
+
+
+
+
+## 21 février
+
+
+
+
+## 22 février
+
+
+
+
+## 23 février
+
+
+
+
+## 24 février
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
