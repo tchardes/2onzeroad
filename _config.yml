@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "21.159914, -100.929970"
-  name: "Dolores Hidalgo - Guanajuato - Mexique"
-  date: "21 février 2019"
+  coordinates: "21.023183, -101.257709"
+  name: "Guanajuato - Guanajuato - Mexique"
+  date: "22 février 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
