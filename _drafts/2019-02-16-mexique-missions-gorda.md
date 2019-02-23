@@ -24,11 +24,11 @@ Depuis San Luis de Potosi, nous décidons de nous enfoncer plus à l'Est dans le
 
 Suivant le sens de notre visite, les cinq missions sont :
 
-- San Miguel Concá à Arroyo Seco
-- Santiago à Jalpan
-- Santa María del Agua à Landa de Matamoros
-- San Francisco del Valle à Tilaco
-- Nuestra Señora de la Luz à Tancoyol
+- San Miguel à Conca ;
+- Santiago à Jalpan ;
+- Santa María del Agua à Landa de Matamoros ;
+- San Francisco del Valle à Tilaco ;
+- Nuestra Señora de la Luz à Tancoyol.
 
 ### San Miguel à Concá
 
