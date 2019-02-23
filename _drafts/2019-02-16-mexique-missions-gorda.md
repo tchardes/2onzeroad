@@ -6,8 +6,8 @@ parent-id:  2019-02-17-mexique--fevrier
 
 date:       2019-02-12 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-sandiego.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-sandiego.jpg
+header-img: "assets/owner/blog/header/post-bg-missions.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-missions.jpg
 tags: [architecture, religion, histoire, unesco]
 pois: [missions-gorda]
 flickr-text: "Missions Franciscaines de la Sierra Gorda"
