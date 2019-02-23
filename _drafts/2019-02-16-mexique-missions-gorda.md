@@ -18,7 +18,10 @@ category: "blog"
 location: "21.374889, -99.421138"
 ---
 
-Depuis San Luis de Potosi, nous décidons de nous enfoncé plus à l'Est dans les montagnes de la Sierra Gorda dans l'Etat de Querétaro pour voir les 5 missions franciscaines très particulières qui ont été déclarées site du patrimoine mondial par l'Unesco en 2003. Elles sont attribuées à Junípero Serra de l'ordre des franciscains, qui a également fondé d'importantes missions en Californie. Les façades de ces églises sont importantes en raison du style "métisse baroque", qui montre l'influence autochtone significative des Indiens Pame qui les ont construites.
+Depuis San Luis de Potosi, nous décidons de nous enfoncé plus à l'Est dans les montagnes de la Sierra Gorda dans l'Etat de Querétaro pour voir les 5 missions franciscaines très particulières qui ont été déclarées site du patrimoine mondial par l'Unesco en 2003. Elles sont attribuées à Junípero Serra de l'ordre des franciscains, qui a également fondé d'importantes missions en Californie. Les façades de ces églises sont importantes en raison du style "métisse baroque", qui montre l'influence autochtone significative des Indiens Pame qui les ont construites. Les sculptures faites en pierre et en stuc arborent toutes le blason des franciscains représentant les mains du Christ et du fondateur clouées sur la croix.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33243814468/in/datetaken/" title="Tilaco - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7825/33243814468_a58d231f80_k.jpg" width="2048" height="1152" alt="Tilaco - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 Dans l'ordre de nos visites, les cinq missions sont :
 
@@ -31,7 +34,7 @@ Dans l'ordre de nos visites, les cinq missions sont :
 
 ### San Miguel à Concá
 
-Elle est la plus petite et la plus éloignée des 5 missions. Dédiée à l'archange Michel sa décoration comprend de grandes fleurs, un feuillage et des figures grossières de style indigène. Elle arbore sur son portail polychrome le blason des Franciscains et se distingue par une image de la Sainte Trinité à la crête avec un lapin (symbole des Indiens Pame de la lune) et un aigle à deux têtes.
+Elle est la plus petite et la plus éloignée des 5 missions. Dédiée à l'archange Michel sa décoration comprend de grandes fleurs, un feuillage et des figures grossières de style indigène. Elle se distingue par une image de la Sainte Trinité au sommet du portail avec un lapin (symbole des Indiens Pame de la lune) et un aigle à deux têtes.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32177091307/in/datetaken/" title="Conca - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7891/32177091307_3f5fe9c307_k.jpg" width="2048" height="1152" alt="Conca - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -41,7 +44,7 @@ Elle est la plus petite et la plus éloignée des 5 missions. Dédiée à l'arch
 
 ### Santiago à Jalpan
 
-Plus ancienne des 5 missions, elle est dédiée à Jacques le Majeur, le premier évangéliste. Situé dans le centre de la ville, en face de la place principale, elle est formée d'un atrium, d'un cloître, d'un portail de pèlerin et d'une église. Outre le blason des Franciscains, les caractéristiques principales du portail orné sur la façade sont Notre-Dame du Pilier et la Vierge de Guadalupe, toutes deux reliées par des liens mésoaméricains, ainsi qu'un aigle à deux têtes censé symboliser le mélange des deux cultures. L'horloge est un rajout du XIX éme siècle.
+Plus ancienne des 5 missions, elle est dédiée à Jacques le Majeur, le premier évangéliste. Situé dans le centre de la ville, en face de la place principale, elle est formée d'un atrium, d'un cloître, d'un portail de pèlerin et d'une église. Les caractéristiques principales du portail orné sur la façade sont Notre-Dame du Pilier et la Vierge de Guadalupe, toutes deux reliées par des liens mésoaméricains, ainsi qu'un aigle à deux têtes censé symboliser le mélange des deux cultures. L'horloge est un rajout du XIX éme siècle.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47066817712/in/datetaken/" title="Jalpan - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7927/47066817712_df712f10c2_k.jpg" width="2048" height="1365" alt="Jalpan - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -71,6 +74,10 @@ Construite entre 1754 et 1762, elle est dédiée à François d’Assise et pré
 
 ### Nuestra Señora de la Luz de Tancoyol
 
-Dédiée à Notre-Dame de la Lumière, sa structure est similaire à celles de Jalpan et de Landa. Elle possède une église avec une disposition en croix latine et un choeur, une sacristie, un atrium avec croix et des chapelles aux coins de l'atrium appelés «capillas posas». Il y a également une porte de pèlerin, un cloître et des quartiers pour le prêtre. L'intérieur présente de nombreuses sculptures, dont celle de Notre-Dame de la Lumière. La façade est marquée par une fenêtre en losange entourée d'une représentation du cordon utilisé par les franciscains pour lier leurs habitudes. Le thème de base de la façade est la miséricorde, représentée par des interventions de la Vierge Marie et de divers saints. L'iconographie de ce portail est la plus élaborée des cinq missions. La façade se compose de trois corps, d'un fronton et de quatre colonnes.
+Dédiée à Notre-Dame de la Lumière, sa structure est similaire à celles de Jalpan et de Landa. Elle possède une église avec une disposition en croix latine et un chœur, une sacristie, un atrium avec croix et des chapelles aux coins de l'atrium appelés "capillas posas". L'intérieur présente de nombreuses sculptures, dont celle de Notre-Dame de la Lumière. La façade est marquée par une fenêtre en losange entourée d'une représentation du cordon utilisé par les franciscains pour lier leurs habitudes. L'iconographie de ce portail est la plus élaborée des cinq missions. Dans la troisième partie du portail on peut observer Saint François qui reçoit les stigmates du Christ.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46395618094/in/datetaken/" title="Tancoyol - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7843/46395618094_87c78c2202_k.jpg" width="2048" height="1152" alt="Tancoyol - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32177222687/in/datetaken/" title="Tancoyol - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7814/32177222687_4901734f48_k.jpg" width="1272" height="2048" alt="Tancoyol - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47119229771/in/datetaken/" title="Tancoyol - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7918/47119229771_889d95a84b_k.jpg" width="2048" height="1152" alt="Tancoyol - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
