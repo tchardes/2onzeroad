@@ -294,7 +294,7 @@
     {"name": "cabo-pulmo", "displayName": "Cabo Pulmo", "type": "nature"},
     {"name": "sierra-organos", "displayName": "Parc National de la Sierra de Órganos", "type": "nature"},
     {"name": "saltito", "displayName": "Cascades El Saltito", "type": "nature"},
-    {"name": "missions-gorda", "displayName": "Missions Franciscaines de la Sierra Gorda", "type": "autre"},
+    {"name": "missions-gorda", "displayName": "Missions franciscaines de la Sierra Gorda", "type": "autre"},
     
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
