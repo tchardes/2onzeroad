@@ -27,15 +27,27 @@ Cet article couvre la période du 5 février au     2019 durant laquelle nous av
 ## 05 et 06 février
 
 Nuit ronronnante sur le bateau. Ce matin nous allons prendre notre petit déjeuner à la cantine du bateau. Au menu café, et assiette d’œufs brouillés avec jambon, poivrons au chorizo et purée de haricots... 
-L’arrivée sur Mazaltan est sympa c’est dommage que le temps soit nuageux. Pour sortir du bateau les agents sont obligés de mettre des cordages sous les roues avant de Thor pour ne pas que le chassis touche. Nous passons directement par le malecon qui est très beau, agrémenté de sculptures. Nous nous arrêtons au niveau du "Mirador" et faisons une longue marche en bord de mer. Pour rentrer au centre ville nous prenons un "Taxi local" genre de petite voiturette qui permet de se faufiler dans le rue étroite de la vieille ville. Nous faisons un arrêt à la Basilique qui est magnifique et pleine de monde puis nous déambulons dans les rues et le marché très animés, colorés. Nous nous arrêtons dans une très belle patisserie où tout fait envie, comme c’est également un restaurant nous décidons de manger sur place, excellent repas. Nous repartons après avoir acheté quelques gâteaux qui étaient plus beaux que bons, mais on les a quand même mangés… De retour à Thor nous reprenons la route pour s’occuper de la logistique, vidange de Thor chez Ford puis le plein d’essence et de Gaz. Journée bien rempli. En fin de journée on se gare près d’un parc pour passer la nuit.
+L’arrivée sur **Mazaltan** est sympa c’est dommage que le temps soit nuageux. Pour sortir du bateau les agents sont obligés de mettre des cordages sous les roues avant de Thor pour ne pas que le chassis touche. Nous passons directement par le malecon qui est très beau, agrémenté de sculptures. Nous nous arrêtons au niveau du "Mirador" et faisons une longue marche en bord de mer. Pour rentrer au centre ville nous prenons un "Taxi local" genre de petite voiturette qui permet de se faufiler dans le rue étroite de la vieille ville. Nous faisons un arrêt à la Basilique qui est magnifique et pleine de monde puis nous déambulons dans les rues et le marché très animés, colorés. Nous nous arrêtons dans une très belle patisserie où tout fait envie, comme c’est également un restaurant nous décidons de manger sur place, excellent repas. Nous repartons après avoir acheté quelques gâteaux qui étaient plus beaux que bons, mais on les a quand même mangés… De retour à Thor nous reprenons la route pour s’occuper de la logistique, vidange de Thor chez Ford puis le plein d’essence et de Gaz. Journée bien rempli. En fin de journée on se gare près d’un parc pour passer la nuit.
 
 Ce matin nous retraversons la ville pour monter au phare. Nous nous garons en bas et faisons l’ascension qui nous permet d’avoir une très belle vue sur la baie et tout la ville qui est vue d’ici très polluée.
 Après déjeuner nous nous mettons en quête d’une librairie publique accessible avec Thor, pas facile, on se retrouve plusieurs fois coincé dans des ruelles, Corinne étant obligée de sortir pour me faire manœuvrer, finalement nous en trouvons une sans WiFi au personnel très sympathique, nous pouvons ainsi finaliser la vidéo de ce dernier mois de voyage. En fin d’après-midi, retour à notre bivouac pour la nuit.
 
 ## 07 février
 
-Ce matin depart de Mazaltlan direction le centre et la montagne. Pour accéder à Durango il y deux route possible l’ancienne, très mauvaise et très longue, compter près de 6 heures pour rejoindre la capitale de l'Etat ou 3 heures 30 en passant par "l’autoroute". Corinne n’appréciant pas trop les routes de montagne ont optes pour la deuxième solution. En route on s’arrête à Concordia, petit village mexicain typique, construit autour de sa mission. Nous reprenons la route et attaquons la montagne, nous enchaînons les tunnels et les ponts sur plus de 100 kilomètres pour arriver à près de 2000 mètres d'altitude à Durango. Nous passons 5 péages autoroutiers est payons au total 55€. C’est assez cher mais quand on voit le nombre d’ouvrages d’art on comprend mieux. Au niveau du dernier péage, les guérites sont vides, personne pour collecter l’impôt puis à une centaines de mètres on voit de nombreuses personnes, pas de la société d’autoroute, bloquer la route. Tiens des gilets jaunes... sans gilets jaunes. C’est un peu cela, ils rackettent tous les automobilistes de la somme de 50 $/Mex. J’essaie bien de poser des questions mais en réponse j’ai juste 50$. Pas le choix que de payer. Plus loin je vois un policier, je m’arrête et lui demande si c’est normal, il se met à m’expliquer plein de choses dont je n’ai rien compris mais devant son inaction ce doit être normal…
-Arrivé à Durango on file directement au cimetière de Panteón de Oriente qui abrite l'un des exemples les plus étonnants d'art funéraire. Il fonctionne toujours comme un lieu de sépulture et a également été désigné musée culturel, présentant des centaines de tombes remarquables sculptées par le maître de carrière Benigno Montoya entre 1898 et 1929.
+Ce matin depart de Mazaltlan direction le centre et la montagne. Pour accéder à Durango il y deux route possible l’ancienne, très mauvaise et très longue, compter près de 6 heures pour rejoindre la capitale de l'Etat ou 3 heures 30 en passant par "l’autoroute". Corinne n’appréciant pas trop les routes de montagne ont optes pour la deuxième solution. En route on s’arrête à **Concordia**, petit village mexicain typique, construit autour de sa mission.
+
+
+Nous reprenons la route et attaquons la montagne, nous enchaînons les tunnels et les ponts sur plus de 100 kilomètres pour arriver à près de 2000 mètres d'altitude à Durango. Nous passons 5 péages autoroutiers est payons au total 55€. C’est assez cher mais quand on voit le nombre d’ouvrages d’art on comprend mieux. Au niveau du dernier péage, les guérites sont vides, personne pour collecter l’impôt puis à une centaines de mètres on voit de nombreuses personnes, pas de la société d’autoroute, bloquer la route. Tiens des gilets jaunes... sans gilets jaunes. C’est un peu cela, ils rackettent tous les automobilistes de la somme de 50 $/Mex. J’essaie bien de poser des questions mais en réponse j’ai juste 50$. Pas le choix que de payer. Plus loin je vois un policier, je m’arrête et lui demande si c’est normal, il se met à m’expliquer plein de choses dont je n’ai rien compris mais devant son inaction ce doit être normal…
+
+
+
+Arrivé à **Durango** on file directement au cimetière de Panteón de Oriente qui abrite l'un des exemples les plus étonnants d'art funéraire. Il fonctionne toujours comme un lieu de sépulture et a également été désigné musée culturel, présentant des centaines de tombes remarquables sculptées par le maître de carrière Benigno Montoya entre 1898 et 1929.
+
+
+
+Durango est la capitale de l'État mexicain de Durango. Son nom officiel est Victoria de Durango, en référence au premier président du Mexique, Guadalupe Victoria, qui était originaire de cet État, elle compte plus de 570 000 habitants. Le centre historique de la ville est constitué, comme beaucoup de villes de Nouvelle-Espagne, d'une place rectangulaire nommée la plaza de Armas, bordée par la cathédrale au nord. Elle compte le plus grand nombre de bâtiments historiques classés par l'INAH (Instituto Nacional de Antropología e Historia). Durango fait également partie du groupe de villes et villages "d'El Camino Real de Tierra Adentro", déclaré Patrimoine culturel par le UNESCO en 20105.
+
+>**Le Camino Real de Tierra Adentro** est une route historique d'Amérique du Nord reliant Mexico (Mexique) à San Juan Pueblo (en), au Nouveau-Mexique (États-Unis).La partie sud de l'itinéraire, entièrement située au Mexique, est inscrite depuis 2010 sur la liste du patrimoine mondial de l'UNESCO.
 
 Après cette visite nous partons faire le plein dans un Walmart et regagnons un bivouac autour d’un parc.
 
@@ -43,92 +55,132 @@ Après cette visite nous partons faire le plein dans un Walmart et regagnons un 
 
 Nuit très calme au bivouac. On quitte les lieux ce matin pour le grand bain. Thor est dans un état pas possible entre les pistes de la Basse-Californie et le sel des embruns. On trouve une station de lavage Avec une structure très haute qui nous permet de passer dessous, on retrouve enfin les vrais couleurs de Thor. Nous partons ensuite en centre ville où nous trouvons un parking qui nous accueille pour 24 heures, nous pourrons donc dormir sur place. Nous partons ensuite à la découverte du centre ville que nous avons bien aimé même si les guides en parle peu. Nous avons suivie le parcours suivant : Paeso Constitution, puis le Museo Régional de Durango (fermé en travaux), le museo de la Ciudad 450, la Basilique-Cathédrale de Durango, Francisco Villa Museum, Le temple Saint Augustin et enfin le Palacio des Conde del Valle de Suchil. En cours de trajet nous sommes rentrés dans des lieux qui nous semblaient sympathique et nous avons toujours été très bien accueillis.
 
-
 ## 09 février
 
-Nuit vraiment calme pour autant que nous sommes vendredi soir et en pleine ville. Ce matin après avoir téléphoné aux enfants nous quittons Durango par le Nord pour nous arrêter à "Viejo Oesto" un genre de parc d’actraction autour du western. Durango est la ville du cinéma où de nombreux Westerns américains ont été tournés. Peut-être dans ce genre de "Cine Cita". Nous arrivons à l’ouverture, 11 heures, à l’entrée des panneaux genre indicateur avec des noms de célèbres films. Nous faisons le tour de la rue principale. Certes ce n’est pas Tombstone ou Oatman mais on y retrouve la banque, le saloon, le bureau du sheriff, l’hôtel… Le petit plus du week-end c’est un spectacle de rue avec une bonne vingtaine de figurants en habits d’époque, lourdement armés et à cheval. A midi nous mangeons en terrasse du saloon et à 13h30 commence le spectacle qui dure 45 minutes et qui retrace l’histoire mexicaine, la révolution, avec le général de l’armée régulière et Poncho Villa. Beaucoup d’humour et de dérision dans le show, on a vraiment passé un bon moment. Si à hollywood boulevard il y a le walk of fame, ici c’est le cimetière of fame, plein de tombes avec sur la stèles des noms d'acteurs célèbres.
+Nuit vraiment calme pour autant que nous sommes vendredi soir et en pleine ville. Ce matin après avoir téléphoné aux enfants nous quittons Durango par le Nord pour nous arrêter à "Viejo Oesto" un genre de parc d’attraction autour du western. Durango est la ville du cinéma où de nombreux Westerns américains ont été tournés. Peut-être dans ce genre de "Cine Cita". Nous arrivons à l’ouverture, 11 heures, à l’entrée des panneaux genre indicateur avec des noms de célèbres films. Nous faisons le tour de la rue principale. Certes ce n’est pas Tombstone ou Oatman mais on y retrouve la banque, le saloon, le bureau du sheriff, l’hôtel… Le petit plus du week-end c’est un spectacle de rue avec une bonne vingtaine de figurants en habits d’époque, lourdement armés et à cheval. A midi nous mangeons en terrasse du saloon et à 13h30 commence le spectacle qui dure 45 minutes et qui retrace l’histoire mexicaine, la révolution, avec le général de l’armée régulière et Poncho Villa. Beaucoup d’humour et de dérision dans le show, on a vraiment passé un bon moment. Si à hollywood boulevard il y a le walk of fame, ici c’est le cimetière of fame, plein de tombes avec sur la stèles des noms d'acteurs célèbres.
 
 
-Nous reprenons la route plein Sud cette fois-ci en direction de Zacatecas, et faisons un petit détour pour aller voir les Cascades Del Salsito. Nous payons un petit droit d’entrée 20$/Mex pour pouvoir nous garer. Il s’agit d’un grand cirque où trois cascades tombes dans un petit lac. L’endroit est très beau mais il faut descendre les marches qui conduisent tout en bas, pour se baigner le cas échéant, mais surtout pour apprécier les lieux, au bord du lac puis de la rivière où l’eau s’écoule se trouvent d’immenses arbres, je pense de la famille des acacias, plus que centenaires, couverts de mousses espagnoles avec des racines énormes, octopussiennes. Le lieu est vraiment magnifique et reposant.
+Nous reprenons la route plein Sud cette fois-ci en direction de Zacatecas, et faisons un petit détour pour aller voir les **Cascades Del Salsito**. Nous payons un petit droit d’entrée 20$/Mex pour pouvoir nous garer. Il s’agit d’un grand cirque où trois cascades tombes dans un petit lac. Nous filons ensuite vers notre bivouac du jour au **Parque Nacional Sierra De Organos** et changeons d’Etat pour rentrer dans la Zacatecas. Nous passons deux check-points un de la police d’Etat et l’autre sanitaire mais aucun ne nous contrôle, on a sauvé les oranges… 
 
 
-Nous reprenons la route pour notre bivouac du jour au Parque Nacional Sierra De Organos et changeons d’Etat pour rentrer dans la Zacatecas. Nous passons deux check-points un de la police d’Etat et l’autre sanitaire mais aucun ne nous contrôle, on a sauvé les oranges…
-Nous payons 40$/mex/Pers pour pouvoir y accéder et dormir une nuit. Les montagnes alentours sont très belles, très découpées un peu comme à Chiricahua. Nous trouvons un emplacement et comme la nuit ne va pas tarder à tomber nous remettons la ballade au lendemain. Alors que nous sommes devant Thor un 4X4 passe devant nous et le chauffeur s’arrête et nous demande si nous avons fait le trail puis certainement devant mon accent me demande d’où nous venons et quand je lui dit de France, tout le monde c’est mis a commenter, ils sont tous decendus, 7 personnes, pour discuter et nous prendre en photos…. En fait le papa habite non loin de là et tous les autres sont d’ici mais habitent à Boston aux USA. Nous avons bien discuter, nous leur avons donné des drapeaux français ils étaient super contents puis nous ont félicité pour… la coupe du monde. Les gens sont vraiment adorables.
+Nous payons 40$/mex/Pers pour pouvoir y accéder et dormir une nuit. Les montagnes alentours sont très belles, très découpées un peu comme à Chiricahua. Nous trouvons un emplacement et comme la nuit ne va pas tarder à tomber nous remettons la ballade au lendemain. Alors que nous sommes devant Thor un 4X4 passe devant nous et le chauffeur s’arrête et nous demande si nous avons fait le trail puis certainement devant mon accent me demande d’où nous venons et quand je lui dit de France, tout le monde c’est mis a commenter, ils sont tous descendus, 7 personnes, pour discuter et nous prendre en photos…. En fait le papa habite non loin de là et tous les autres sont d’ici mais habitent à Boston aux USA. Nous avons bien discuter, nous leur avons donné des drapeaux français ils étaient super contents puis nous ont félicité pour… la coupe du monde. Les gens sont vraiment adorables.
+
+**(voir l’article complet <a href="{{site.baseurl}}{% post_url 2019/2019-02-09-mexique-orgues %}">ici</a>)**
+
+
 
 ## 10 février
 
 Ce matin déaprt pour une randonnée dans ce très beau parc. C’est à la mexicaine donc pas trop d’indication, on tombe par hazard sur les départs de trail qui sont bien matérialisé, le chemin est entre des pierres. Je fais un grand tour et emprunte plusieurs tracés différents, les formations rocheuses sont très belles. Lors du trail j’ai croisé une famille de Mennonites, tous en costumes, ils sont plus de 100000 au mexique et sont souvent blond au yeux bleus et parle surtout un vieux dialecte allemand. Il y a une communauté non loin de là à "La Honda".
 
-On mange a mon retour puis on reprend la route direction Zapatecas. La route nationale n’a que deux voies plus un bas côté, la bande d’arrêt d’urgence. Il est de coutume ici de rouler a cheval entre la voie et le bas côté ce qui permet aux autres automobilistes de doubler, même s’il y a un ligne continue. En face ils font pareil…
+On mange a mon retour puis on reprend la route direction **Zacatecas**. La route nationale n’a que deux voies plus un bas côté, la bande d’arrêt d’urgence. Il est de coutume ici de rouler a cheval entre la voie et le bas côté ce qui permet aux autres automobilistes de doubler, même s’il y a un ligne continue. En face ils font pareil…
 
-On veut rentrer dans une petite ville pour y chercher de l’eau potable mais très vite la rue se retrécie, impossible d’avancer ou de reculer. Corinne est sortir régler la circulation de main de maître afin que je puisse reculer j’usqu’à l’entrée…
-Arrivé à destination, nous allons directement dans un Sonaria faire les courses avant de trouver un bivouac non loin. Aux feux rouges, il n’est pas rare de voir des clowns, jongleurs ou cracheur de feu faire l’animation durant le feu rouge pour récolter quelques pieces.
+On veut rentrer dans une petite ville pour y chercher de l’eau potable mais très vite la rue se rétrécie, impossible d’avancer ou de reculer. Corinne est sortir régler la circulation de main de maître afin que je puisse reculer jusqu’à l’entrée…
+Arrivé à destination, nous allons directement dans un Sonaria faire les courses avant de trouver un bivouac non loin. Aux feux rouges, il n’est pas rare de voir des clowns, jongleurs ou cracheurs de feu faire l’animation durant le feu pour récolter quelques pieces.
 
 ## 11 février
 
-Ce matin on commence par chercher de l’eau potable, on en trouve en ville mais ils n’ont pas de tuyau et le notre ne s’adapte pas, en fait ils se contentent de remplir de garafon. Finalement le proprio et également le propriétaire deu restaurant à tenant et il nous propose de l’eau du robinet, non potable, ce que nous faisons.
-Nous prenons la route ensuite pour aller au Sud-Ouest de Zacatecas à une quarantaine de kilomètres pour visiter le site archeologique de La Quenada ou Chicomoztoc construit et habité entre le 3 éme et le 8éme siècle. Véritable forteresse construite sur 5 niveaux au sommet d’une colline qui permettait d’avoir une vue à 360 sur tous les environs. L’agent à l’entrée nous liste toutes les reductions et finalement en tant que retraité, c’est gratuit pour moi… Malheureusement le musée qui présente une maquette complète du site reconstitué est fermée. On fait une belle ballade qui grimpe assez fort. Les Toltec avaient de bons mollets, j'ai l'impression que tous les escaliers sont à 45%.
+Ce matin on commence par chercher de l’eau potable, on en trouve en ville mais ils n’ont pas de tuyau et le notre ne s’adapte pas, en fait ils se contentent de remplir des garafons. Finalement le proprio et également le propriétaire du restaurant à tenant et il nous propose de l’eau du robinet, non potable, ce que nous faisons.
+
+Nous sortons de la ville pour aller au Sud-Ouest de Zacatecas à une quarantaine de kilomètres pour visiter le site archeologique de **La Quenada** ou **Chicomoztoc** construit et habité entre le 3 éme et le 8éme siècle. Véritable forteresse construite sur 5 niveaux au sommet d’une colline qui permettait d’avoir une vue à 360 sur tous les environs. Cette place possède une pyramide votive et plusieurs restes d'édifices dont une salle aux colonnes, et un fort en son sommet. L’agent à l’entrée nous liste toutes les reductions et finalement en tant que retraité, c’est gratuit pour moi… Malheureusement le musée qui présente une maquette complète du site reconstitué est fermée. On fait une belle ballade qui grimpe assez fort. Les Toltec avaient de bons mollets, j'ai l'impression que tous les escaliers sont à 45%.
+
 Retour sur Zacatecas où nous nous arrêtons dans une bibliothèque puis nous regagnons notre bivouac du soir sur un sommet de la ville qui est très belle de nuit. Je vais voir la policière au poste de police qui m’autorise à passer la nuit là sous sa bonne garde… et 50 pesos.
 
 ## 12 février
 
-Nuit assez froide, l’altitude de 2600 mètres se fait sentir..
-Ce matin le temps est gris mais il devrait se lever un peu dans la journée on décide donc de visiter le centre de la vieille ville.
-On emprunte le chemin de croix à pied qui mêne de la Cerro De la Buffa à la vieille ville vers la cathédrale. Zacatecas a été construit au milieu des collines car ces dernières abritait du minerai d’argent. On visite ensuite plusieurs édifices, musées, on prend un très bon repas.
-On prend un taxi pour remonter au bivouac. Très belle ville et des gens très sympas.
+Nuit assez froide, les 2600 mètres d’altitude se font sentir... Ce matin le temps est gris mais il devrait se lever un peu dans la journée on décide donc de visiter le centre de la vieille ville de Zacatecas qui est le chef-lieu de l'État de Zacatecas et qui se trouve au fond d'une vallée encaissée, au nord de la Sierra Fría, au pied du Cerro de la Bufa. Sa population avoisine les 120 000 habitants. Son centre historique a été classé au patrimoine mondial de l'UNESCO en 1993. La ville fut fondée pendant la conquête espagnole, lorsqu'ils découvrirent d'importants gisements d'argent.
+
+On emprunte le chemin de croix à pied qui mène de la Cerro De la Buffa à la vieille ville vers la cathédrale. On visite ensuite plusieurs édifices religieux, publics, musées dont le musée Rafaël-Coronel présente l'une des collections de masques autochtones les plus importantes du Mexique venant de toute la République mexicaine, le Musée d'art contemporain Francisco Goitia et un musée d'art moderne implanté dans l'ancien temple St Augustin. A midi un déjeune au Bar Restaurant La Casona, repas mexicain excellent. En fin de journée on prend un taxi pour remonter au bivouac. Très belle ville et des gens très sympas.
 
 ## 13 février
 
-Nuit très froide, ce matin on se lève dans le brouillard..
-Départ pour Guadalupe, ville qui touche Zacatecas. On s’arrête au Couvent de Guadalupe qui abrite également un musée.
-L’église est très belle et la couvent Franciscain a été transformé en musée qui abrite un grand nombre de toiles de l’art religieu. Très bien aménagé et entretenu le musée est vraiument à faire, déjà pour l’architecture mais également pour toutes les toiles accrochées qui présente la vie de Jesus des on entrée triophante à Jérusalem jusqu’à sa résurection, l’histoire de Marie et bien entendue l’histoire des St François d’Assise et des Franciscains.
-Nous prenons ensuite la route en direction de San Luis de Potosi et changeons pour l’occasion de Région. Nous faisons quelques courses dans un soriano, ici les pots de Nutella ont un collier antivol… nous nous garons près du centre ville pour une ballade dans la vieiile ville qui très belle et très animée en cette fin d’après-midi, nous visitons plusieurs édifices religieux. Les mexicains sont très religieux et très souvent ils se signet à chaque fois qu’ils passente devant un église, autant dire que c’est fréquent… La ville porte le nom du roi de France, Saint Louis… a creuser…
-Peu avant la nuit nous reprenons la route et trouvons un bivouac près d’une station service Total, pas glamour mais bien pratique…
+Nuit très froide, ce matin on se lève dans le brouillard... Départ pour **Guadalupe**, ville qui touche Zacatecas. On s’arrête au Couvent de Guadalupe qui abrite également un musée. L’église est très belle et le couvent Franciscain a été transformé en musée qui abrite un grand nombre de toiles de l’art religieux. Très bien aménagé et entretenu le musée est vraiment à faire, déjà pour l’architecture mais également pour toutes les toiles accrochées autour du cloître qui présente la vie de Jesus de son entrée triomphante à Jérusalem jusqu’à sa résurrection, l’histoire de Marie et bien entendue l’histoire de St François d’Assise et des Franciscains.
 
+Nous prenons ensuite la route en direction de **San Luis de Potosi** et changeons pour l’occasion de Région. Nous faisons quelques courses dans un Soriano, ici les pots de Nutella ont un collier antivol… nous nous garons près du centre ville pour une ballade dans la vieille ville qui très belle et très animée en cette fin d’après-midi, nous visitons plusieurs édifices religieux. Dans certaines églises il y a près de 10 messes par jour. Les mexicains sont très religieux et très souvent ils se signent à chaque fois qu’ils passent devant un église, autant dire que c’est fréquent… La ville porte le nom du roi de France, Saint Louis, son saint patron, et fait également référence aux riches mines de la région bolivienne de Potosí. Une statue de Saint Louis arboran le tabar des croisés et la fleur de lys sur son bouclier se trouve sur Plaza Fundadores.
 
+Peu avant la nuit nous reprenons la route et trouvons un bivouac dans une station service Total, pas glamour mais bien pratique et sécurisé…
 
 ## 14 février
 
-Nuit calme à la station, les chiens ont veillés sur nous…
-Ce matin il fait très beau nous partons passer la journée dans une Parc d’Etat, Média Luna où se trouve une rivière d’eau chaude juste avant d’arriver à Rio Verde.
-L’entrée coûte 40$Mex/Pers.
-L’eau est effectivement très bonne et l’environnement très agréable et propre. Le parking sur site n’accueille que les tentes mais on peut rester sur le parking pour la nuit, c’est ce que nous faisons…
+Finalement très bonne à la station, les chiens ont veillés sur nous…
+Ce matin il fait très beau nous partons passer la journée dans un Parc d’Etat proche de Rio Verde, **Média Luna** où se trouve une rivière d’eau chaude juste avant d’arriver à Rio Verde. L’entrée coûte 40$Mex/Pers. L’eau est effectivement très claire et très tempérée. On passe un long moment dans l'eau, l’environnement est très agréable et le site très propre. Le camping du site n’accueille que les tentes mais on peut rester sur le parking pour la nuit, c’est ce que nous faisons…
 
 
 ## 15 février
 
+Nous passons dans Rio Verde pour chercher de l’eau mais soit c’est fermé soit les rue sont vraiment trop étroites pour nous.
+Nous prenons donc la route vers le sud afin de voir les 5 missions des Franciscains de la Sierra Gorba dans la région du Querétaro. Nous entrons rapidement dans une région montagneuse mais la route reste belle.
+
+Nous nous arrêtons à midi à Arroyo Seco, petit village Mexicain typique. Nous nous garons sur la Plaza des Armas pour déjeuner. A la sortie de la ville nous trouvons une boutique qui vend de l’eau purifiée, nous achetons un Garafon, bidon de 20 litres, que nous ferons remplir plus facilement. Avec ce Garafon nous remplissons notre bidon de 26 litres acheté aux US et qui est plus pratique car il dispose d’un robinet, tout ca afin de pourvoir remplir nos bouteilles d’eau…
 
 
+Notre premier arrêt, culturel, se fait au village de Conca où se trouve la première mission, Mision St Miguel. Nous poursuivons la route jusqu'à Jalpan de Serra, qui devait être également notre point de bivouac. La ville est au final très vallonnées, les rues étroites et sinueuses, nous arrivons à nous garer et marchons pour nous approcher de la mission. Aujourd’hui il fait particulièrement chaud, il est annoncé 38 à la météo. Nous nous posons un petit moment sous l’ombre des grands arbres de la place des armas et décidons de poursuivre notre route, l’endroit ne nous inspire pas pour bivouaquer.
+
+Nous faisons une dizaine de kilomètre vers l’Est pour nous arrêter à Landa De Matamoros et jetter un œil à la Mission Santa Maria. On trouve les lieux calmes et sereins et décidons de passer la nuit nous près de l’église.
 
 
 ## 16 février
 
 
+Nuit très calme, nous sommes réveillés ce maton par les chants des oiseaux… Départ pour les deux dernières Missions à savoir celle de Tilaco et de Tancoyol. Nous traversons la ville de "La Lagunita" où se déroule un grand marché en ce samedi matin. Les vrais cowboys sont ici plus aux USA, tous les hommes d’un certains âge sont tous habillés d’un Jean, de bottes d’une chemise et d’un beau chapeau couleur crème, sans oublier la ceinture en cuir à laquelle sont accrochés des étuis en cuir. Ils sont très class..
+Nous arrivons à la mission San Francisco de Tilaco, malheureusement elle est complètement à contre jour, pas facile pour les photos.
 
+
+Nous reprenons la route pour visiter la dernière qui se trouve au fond d’une vallée, Notre Dame de la Lumière de Tancoyol. Encore un charmant petit village avec sa mission. Nous décidons de retourner à Landa De Matamoros, il est rop tard pour reprendre la route. Une fois arrivés, je vais sur la place du village qui propose du WiFi et je m’occupe du courier et des photos. J’assiste, de loin, à un mariage qui se déroule à la mission, c’est comme chez nous, madame avec une belle robe blanche avec une longue traîne, monsieur en costume sombre et à la sortie de l’église envoi de riz.
+
+Le soir on décide d’aller manger dans un petit restaurant de rue qui se trouve en face la mission. Comme je vois 4 jeunes attablés à côtê de nous avec pas mal de cannettes de bière, on passe commande de :
+-  Gringas (tortilla avec fromage et lanières de steak)
+- de Taquitas de Adobo (petite tortilla avec des oignons de la salade et des lanières de steak) 
+le tout avec sauces et citron vert et je demande donc une bière. Le patron est un peu gêné car il ne peut en vendre, un jeune se lève et me donne une de leur cannette qu’ils ont amenés, super sympa. On passe une très bonne soirée, on entend on fond du village la musique de l’animation du mariage.
+
+**(voir l’article complet <a href="{{site.baseurl}}{% post_url 2019/2019-02-16-mexique-missions-gorda %}">ici</a>)**
+
+
+## 17 février
+
+Au final nuit calme, la musique c’est rapidement arrêtée. Ce matin on reprend la route vers le Sud-Ouest, direction Tequisquiapan, ville de villégiature appréciée des habitants de Mexico. On traverse toute la Sierra Gorba par une longue route de montagne. Au milieu du massif on traverse des zones biens vertes avec de beaux arbres et de l’herbe bien verte, ça fait du bien…
+
+Au niveau de Bernal nous bifurquons vers Cadereyta de Montes pour visiter le **Jardín Botánico Regional de Cadereyta**, on arrive juste une heure avant la fermeture, cela nous permet de nous dégourdir les jambes et d’avoir un aperçu de tous les cactus présents dans la région de Querétaro. Nous filons ensuite à **Tequisquiapan** ou Thor trouve son emplacement pour la nuit, près du centre historique pour demain.
 
 
 ## 18 février
 
+Ce matin on traine un peu dan Thor, on prend des nouvelles de toute la famille. Vers 11h00 on part à pied dans le centre ville qui est très beau avec de belles boutiques, beaux restaurants, on comprend pourquoi que les habitants de Mexico viennent ici. On visite la Parroquia Santa María de la Asunción sur la belle place Miguel Hidalgo entourée d’arches et de boutiques. Nous traversons plusieurs marchés artisanux et finissons notre visite au Parc La Pila. A midi nous mangeons dans un très bon restaurant,Tacos au poisson et orange pour moi et genre d’escalope Milanaise pour Corinne sans oublier le dessert, un genre de tarte au citron pour moi et un gateau au chocolat pour Corinne.
 
-
+En milieu d’après-midi nous décidons de lever le camp direction **Santiago de Qerétaro**, la capitale régionale.
+A notre arrivée nous nous posons près d’une lavandéria pour faire une bonne lessive et faisons le plein d’eau et de gazoline (Magna) dans une station Pemex. Nous finissons la journée dans un Soriano pour faire le plein du frigo. Finalement nous restons sur le parking pour la nuit.
 
 ## 19 février
 
-
+Nuit calme mais fraiche, c’est incroyable l’écart de température entre le jour et la nuit. Il faut dire que depuis Durango, nous évoluons dans un environnement plus ou moins semi-desertique à une altitude moyenne de 2000 mètres.
+Ce matin on part en ville avec Thor pour se garer près du centre historique, la ville est très grande près de 700 000 hbts mais les rues sont vite très étroites. Après plusieurs manoeuvres pour se sortir de ruelles on décide de faire retour sur notre parking de Soriano. On change notre garafon vide pour un plein dans un magasin OXXO et on se pose. Du coup on mange dans Thor et on prend un taxi pour rejoindre le centre, c’est bien plus pratique et vraiment pas cher, 70$/Mex à l’aller et 50$/Mex au retour.
+La ville est vraiment très belle et très propre. On fait un gand tour pour voir principalement des édifices religieux et des couvent transformés en musées, très souvent gratuit. En fin de journée un taxi nous raméne à Soriano.
 
 ## 20 février
 
+Départ pour **San Pedros de Los Pozos**, une ancienne ville minière d’argent qui a périclitée à en devenir une ville fantome. Elle a retrouvé un peu de vie grace au Tourisme. A notre arrivée on caonstate que les rues sont hyper étroites et nous avons du mal à croiser les autres véhicules, on racle même notre pot d'échappement. Finalement on trouve un parking à la sortie du village, au musée qui a ouvert ses portes en 2016 et qui retrace l’histoire de la vile et des mines. L’idéal est de prendre un tour opérator pour visiter les ruines, impossible vue l’atat des pistes avec Thor.
 
+On insiste pas et on revient un peu sur nos pas pour aller à **San Miguel de Allende**, notre destination du jour. La aussi on s’embarque dans des ruelles qui se réduisent de plus en plus. On fini par ressortir de la ville et on trouve un parking qui nous accepte non loin du centre ville.
+
+
+C’est donc a pied que l’on poursuit la découverte de cette très belle ville. Pour la première fois depuis notre entrée au Mexique on voit de nombreux touristes, principalement des américains. Oui il y a encore quelques américains qui n’ont pas peur de venir ici… Les Hôtels sont luxueux et il y a de nombreuses boutiques très belles sans parler des galeries d’art. On trouve plusieurs boulangerie patisserie Française « PANIO ». On ne peut pas résister et on s’achète quelques bricoles. C’est vraiment excellent, le gâteaux sont très beau ainsi que les pains. 
+On fait le tour des principales églises, temples, couvents et la cathédrale qui sont toutes différentes et magnifiques. Sur la grande place de nombreuses personnes flanes, il reigne un ambiance très cool. On décide de jouer les prolongations et finissons au restaurant « Los Milagros » très agréable si ce n’est qu’il est rempli d’américains et qu’ils font un boucan d’enfer. A la sortie on refait un tour du centre, tous les monuments sont hyper bien illuminés, des mariachis jouent sur les places. Réel coup de coeur pour cette ville.
 
 
 ## 21 février
 
-
+Ce matin on repart à pied pour visiter cette belle ville. On commence  par le lavoir qui est original dans sa conception mais sans plus puis nous montons au Mirador, point haut d’où l’on domine la ville. On redescend du côté de la Cathédrale et refesons un tour des divers monuments, du marché artisanal. Avant de faire retour à Thor on repasse chez « PANIO » pour prende une baguette en Epi ainsi que deux gâteaux. On se régale. Après le repas on par en direction de Atotonilco, petit village qui abrite le Santuario De Jesús Nazareno, magnifiques bâtiments religieux qui abrite plusieurs chapelles dont les murs sont recouverts de dessins représentant l’histoire de Jésus.
+Nous partons ensuite direction de Dolores Hidalgo où nous faisons le tour du centre ville bati autour de sa cathédrale et de sa place. Cette ville est la Capitale de la Céramique et le lieu où a été déclaré l’indépendence du Mexique. Chaque année le président de la République vient ici célébrer cet acte.
+On se pose sur le parking d’un surpermarché Bodega Aurrera après accord du responsable.  
 
 
 ## 22 février
 
-
+Nuit calme.
+Ce matin le temps est couvert, on prend la route direction Guanajuato, capitale de l’état du même nom.
+Nous nous arrêtons sur les hauteurs de la ville sur le patking d’un Soriana.
+Nous somme en pleine rjion montagneuse et la ville est très escarpée. On se gare à côté du Class immatriculé en Califormnie mais appartenant à des Français »Les Calé d’Aventure » qui semblent venir de Nouvelle Calédonie.
+Nous prenons un collectivo pour descendre au centre historique de la ville. On fait une longue promenande et passons auprès de tous les monuments de la ville. C’est vraiment très beau et très animés, très jeune. La ville s’étand sur les pentes abruptes des collines, très colorées on dirait un peu Tetris. Pour remonter un reprend un bus. On fait la rencontre de John, Carine et Sarah, nos voisins néo-calédoniens, on discute un long moment sur nos voyages et sur le « Cailloux ».
 
 
 ## 23 février
