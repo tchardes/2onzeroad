@@ -162,6 +162,17 @@ Départ pour **San Pedros de Los Pozos**, une ancienne ville minière d’argent
 
 On insiste pas et on revient un peu sur nos pas pour aller à **San Miguel de Allende**, notre destination du jour. La aussi on s’embarque dans des ruelles qui se réduisent de plus en plus. On fini par ressortir de la ville et on trouve un parking qui nous accepte non loin du centre ville.
 
+Petite ville coloniale de l'Etat de Guanajuato au Centre du Mexique, San Miguel de Allende est une des plus belles étapes pour ceux qui veulent découvrir cette région montagneuse du pays parsemée de cités qui se sont enrichies grâce aux nombreuses mines d'or et d'argent exploitées dès la conquête du pays par les espagnols.
+Inscrite au Patrimoine Mondial de l'Humanité par l'UNESCO en 2008.
+
+Destination romantique qui offre la sensation de se retrouver dans un village traditionnel mexicain, le nom de la cité est une synthèse de son histoire : fondée en 1542 par le prêtre franciscain Fray Juan de San Miguel sous le nom de "San Miguel el Grande" pour servir d'étape sur la Route de l'Argent qui reliait Mexico à Zacatecas, le 8 mars 1826 elle fut renommée en "San Miguel de Allende" pour rendre hommage à Ignacio Allende natif de cette ville et héros de la guerre d'indépendance du Mexique aux côtés du curé Miguel Hidalgo y Costilla.
+
+Malgré la richesse de son architecture San Miguel de Allende était pourtant sur le point de devenir une ville fantôme au début du 20ème siècle, mais en la déclarant monument historique en 1926 le Gouvernement Mexicain allait la faire revivre, attirant de nombreux touristes charmés par ses édifices baroques et les nombreuses sources d'eau thermale aux alentours.
+
+
+
+
+
 
 C’est donc a pied que l’on poursuit la découverte de cette très belle ville. Pour la première fois depuis notre entrée au Mexique on voit de nombreux touristes, principalement des américains. Oui il y a encore quelques américains qui n’ont pas peur de venir ici… Les Hôtels sont luxueux et il y a de nombreuses boutiques très belles sans parler des galeries d’art. On trouve plusieurs boulangerie patisserie Française « PANIO ». On ne peut pas résister et on s’achète quelques bricoles. C’est vraiment excellent, le gâteaux sont très beau ainsi que les pains. 
 On fait le tour des principales églises, temples, couvents et la cathédrale qui sont toutes différentes et magnifiques. Sur la grande place de nombreuses personnes flanes, il reigne un ambiance très cool. On décide de jouer les prolongations et finissons au restaurant « Los Milagros » très agréable si ce n’est qu’il est rempli d’américains et qu’ils font un boucan d’enfer. A la sortie on refait un tour du centre, tous les monuments sont hyper bien illuminés, des mariachis jouent sur les places. Réel coup de coeur pour cette ville.
