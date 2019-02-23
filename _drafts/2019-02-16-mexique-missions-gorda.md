@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Missions franciscaines de la Sierra Gorda"
-preview:    "…"
+preview:    "Depuis San Luis de Potosi, nous décidons de nous enfoncer plus à l'Est dans les montagnes de la Sierra Gorda dans l'Etat de Querétaro…"
 parent-id:  2019-02-17-mexique--fevrier
 
 date:       2019-02-12 12:00:00
@@ -50,7 +50,7 @@ Plus ancienne des 5 missions, elle est dédiée à Jacques le Majeur, le premier
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33243608608/in/datetaken/" title="Jalpan - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7920/33243608608_7746f980a8_k.jpg" width="2048" height="1152" alt="Jalpan - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-### Santa María del Agua de Landa de Matamoros
+### Santa María del Agua à Landa de Matamoros
 
 La mission est dédiée à Notre-Dame de l'Immaculée Conception. Dernière des missions construites, l'atrium est bordé par un mur et centré par une croix et pavé de pierre. Elle se distingue par son portail rouge sang et son clocher très étroit intégré à la façade. La sculpture de cette façade est considérée comme la plus réussie des cinq. Les visages des sirènes ont des caractéristiques indigènes.
 
@@ -60,9 +60,9 @@ La mission est dédiée à Notre-Dame de l'Immaculée Conception. Dernière des 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32177289317/in/datetaken/" title="Landa de Matamoros - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7903/32177289317_4ca885573a_k.jpg" width="2048" height="1152" alt="Landa de Matamoros - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-### San Francisco del Valle de Tilaco
+### San Francisco del Valle à Tilaco
 
-Construite entre 1754 et 1762, elle est dédiée à François d’Assise et présente des caractéristiques différentes des autres missions. Construite en terrasse en raison du terrain, le clocher est séparé de la nef principale de l'église par le baptistère et fonctionne structurellement comme un contrefort pour l'église. Très bien conservée, elle présente les ornements subtils sur ses façades qui sont composées de trois cloisons horizontales et trois verticales, avec le blason franciscain en avant de l'entrée principale. La fenetre du choeur apparaît comme une fleur qui éclot sur fond de rideau étoilé et, dans la partie supérieure, deux anges musiciens encadrent Saint François. Un élément décoratif distinctif est constitué de quatre sirènes présentant des caractéristiques indigènes.
+Construite entre 1754 et 1762, elle est dédiée à François d’Assise et présente des caractéristiques différentes des autres missions. Construite en terrasse en raison du terrain, le clocher est séparé de la nef principale de l'église par le baptistère et fonctionne structurellement comme un contrefort pour l'église. Très bien conservée, elle présente les ornements subtils sur ses façades qui sont composées de trois cloisons horizontales et trois verticales. La fenêtre du chœur apparaît comme une fleur qui éclot sur fond de rideau étoilé et, dans la partie supérieure, deux anges musiciens encadrent Saint François. Un élément décoratif distinctif est constitué de quatre sirènes présentant des caractéristiques indigènes.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32177274177/in/datetaken/" title="Tilaco - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7855/32177274177_47bf0531d1_k.jpg" width="2048" height="1152" alt="Tilaco - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -70,7 +70,7 @@ Construite entre 1754 et 1762, elle est dédiée à François d’Assise et pré
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32177269237/in/datetaken/" title="Tilaco - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7822/32177269237_20077598ca_k.jpg" width="2048" height="1365" alt="Tilaco - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-### Nuestra Señora de la Luz de Tancoyol
+### Nuestra Señora de la Luz à Tancoyol
 
 Dédiée à Notre-Dame de la Lumière, sa structure est similaire à celles de Jalpan et de Landa. Elle possède une église avec une disposition en croix latine et un chœur, une sacristie, un atrium avec croix et des chapelles aux coins de l'atrium appelés "capillas posas". L'intérieur présente de nombreuses sculptures, dont celle de Notre-Dame de la Lumière. La façade est marquée par une fenêtre en losange entourée d'une représentation du cordon utilisé par les franciscains pour lier leurs habitudes. L'iconographie de ce portail est la plus élaborée des cinq missions. Dans la troisième partie du portail, on peut observer Saint François qui reçoit les stigmates du Christ.
 
