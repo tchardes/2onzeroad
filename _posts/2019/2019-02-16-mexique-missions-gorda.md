@@ -32,7 +32,7 @@ Suivant le sens de notre visite, les cinq missions sont :
 
 ### San Miguel à Concá
 
-Elle est la plus petite et la plus éloignée des 5 missions. Dédiée à l'archange Michel, sa décoration comprend de grandes fleurs, un feuillage et des figures grossières de style indigène. Elle se distingue par une image de la Sainte Trinité au sommet du portail avec juste en dessous l'archange terrassant le dragon. Un lapin (symbole des Indiens Pame de la lune) et un aigle à deux têtes sont également présents.
+Elle est la plus petite et la plus éloignée des 5 missions. Dédiée à l'archange Michel, sa décoration comprend de grandes fleurs, un feuillage et des figures grossières de style indigène. Elle se distingue par une image de la Sainte Trinité au sommet du portail avec juste en dessous l'archange terrassant le dragon. Sont également présents un lapin (symbole des Indiens Pame de la lune) et un aigle à deux têtes sensé symboliser le mélange des deux cultures.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32177091307/in/datetaken/" title="Conca - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7891/32177091307_3f5fe9c307_k.jpg" width="2048" height="1152" alt="Conca - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -42,7 +42,7 @@ Elle est la plus petite et la plus éloignée des 5 missions. Dédiée à l'arch
 
 ### Santiago à Jalpan
 
-Plus ancienne des 5 missions, elle est dédiée à Jacques le Majeur, le premier évangéliste. Située dans le centre de la ville, en face de la place principale, elle est formée d'un atrium, d'un cloître, d'un portail de pèlerin et d'une église. Les caractéristiques principales du portail orné sur la façade sont Notre-Dame du Pilier et la Vierge de Guadalupe, toutes deux reliées par des liens mésoaméricains, ainsi qu'un aigle à deux têtes sensé symboliser le mélange des deux cultures. L'horloge est un rajout du XIX éme siècle.
+Plus ancienne des 5 missions, elle est dédiée à Jacques le Majeur, le premier évangéliste. Située dans le centre de la ville, en face de la place principale, elle est formée d'un atrium, d'un cloître, d'un portail de pèlerin et d'une église. Les caractéristiques principales du portail orné sur la façade sont Notre-Dame du Pilier et la Vierge de Guadalupe, toutes deux reliées par des liens mésoaméricains, ainsi qu'un aigle à deux têtes. L'horloge est un rajout du XIX éme siècle.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47066817712/in/datetaken/" title="Jalpan - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7927/47066817712_df712f10c2_k.jpg" width="2048" height="1365" alt="Jalpan - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
