@@ -26,10 +26,18 @@ Cet article couvre la période du 5 février au     2019 durant laquelle nous av
 
 ## 05 et 06 février
 
-Nuit ronronnante sur le bateau. Ce matin nous allons prendre notre petit déjeuner à la cantine du bateau. Au menu café, et assiette d’œufs brouillés avec jambon, poivrons au chorizo et purée de haricots... 
-L’arrivée sur **Mazaltan** est sympa c’est dommage que le temps soit nuageux. Pour sortir du bateau les agents sont obligés de mettre des cordages sous les roues avant de Thor pour ne pas que le chassis touche. Nous passons directement par le malecon qui est très beau, agrémenté de sculptures. Nous nous arrêtons au niveau du "Mirador" et faisons une longue marche en bord de mer. Pour rentrer au centre ville nous prenons un "Taxi local" genre de petite voiturette qui permet de se faufiler dans le rue étroite de la vieille ville. Nous faisons un arrêt à la Basilique qui est magnifique et pleine de monde puis nous déambulons dans les rues et le marché très animés, colorés. Nous nous arrêtons dans une très belle patisserie où tout fait envie, comme c’est également un restaurant nous décidons de manger sur place, excellent repas. Nous repartons après avoir acheté quelques gâteaux qui étaient plus beaux que bons, mais on les a quand même mangés… De retour à Thor nous reprenons la route pour s’occuper de la logistique, vidange de Thor chez Ford puis le plein d’essence et de Gaz. Journée bien rempli. En fin de journée on se gare près d’un parc pour passer la nuit.
+Nuit ronronnante sur le bateau. Ce matin nous allons prendre notre petit déjeuner à la cantine du bateau. Au menu café, et assiette d’œufs brouillés avec jambon, poivrons au chorizo et purée de haricots...
+L’arrivée sur **Mazaltan** est sympa c’est dommage que le temps soit nuageux. Pour sortir du bateau les agents sont obligés de mettre des cordages sous les roues avant de Thor pour ne pas que le chassis touche.
 
-Ce matin nous retraversons la ville pour monter au phare. Nous nous garons en bas et faisons l’ascension qui nous permet d’avoir une très belle vue sur la baie et tout la ville qui est vue d’ici très polluée.
+
+
+Nous passons directement par le malecon qui est très beau, agrémenté de sculptures. Nous nous arrêtons au niveau du "Mirador" et faisons une longue marche en bord de mer. Pour rentrer au centre ville nous prenons un "Taxi local" genre de petite voiturette qui permet de se faufiler dans le rue étroite de la vieille ville. Nous faisons un arrêt à la Basilique qui est magnifique et pleine de monde puis nous déambulons dans les rues et le marché très animés, colorés. Nous nous arrêtons dans une très belle patisserie où tout fait envie, comme c’est également un restaurant nous décidons de manger sur place, excellent repas. Nous repartons après avoir acheté quelques gâteaux qui étaient, au final, plus beaux que bons, mais on les a quand même mangés… De retour à Thor nous reprenons la route pour s’occuper de la logistique, vidange de Thor chez Ford puis le plein d’essence et de Gaz. Journée bien rempli. En fin de journée on se gare près d’un parc pour passer la nuit.
+
+
+Ce matin nous retraversons la ville pour monter au phare. Nous nous garons en bas et faisons l’ascension qui nous permet d’avoir une très belle vue sur la baie et toute la ville qui est, vue d’ici, très polluée.
+
+
+
 Après déjeuner nous nous mettons en quête d’une librairie publique accessible avec Thor, pas facile, on se retrouve plusieurs fois coincé dans des ruelles, Corinne étant obligée de sortir pour me faire manœuvrer, finalement nous en trouvons une sans WiFi au personnel très sympathique, nous pouvons ainsi finaliser la vidéo de ce dernier mois de voyage. En fin d’après-midi, retour à notre bivouac pour la nuit.
 
 ## 07 février
