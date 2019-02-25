@@ -118,26 +118,46 @@ Nous payons 40$/mex/Pers pour pouvoir y accéder et dormir une nuit. Les montagn
 
 ## 10 février
 
-Ce matin déaprt pour une randonnée dans ce très beau parc. C’est à la mexicaine donc pas trop d’indication, on tombe par hazard sur les départs de trail qui sont bien matérialisé, le chemin est entre des pierres. Je fais un grand tour et emprunte plusieurs tracés différents, les formations rocheuses sont très belles. Lors du trail j’ai croisé une famille de Mennonites, tous en costumes, ils sont plus de 100000 au mexique et sont souvent blond au yeux bleus et parle surtout un vieux dialecte allemand. Il y a une communauté non loin de là à "La Honda".
+Ce matin départ pour une randonnée dans ce très beau parc. C’est à la mexicaine donc pas trop d’indication, on tombe par hazard sur les départs de trail qui sont bien matérialisé, le chemin est entre des pierres. Je fais un grand tour et emprunte plusieurs tracés différents, les formations rocheuses sont très belles. Lors du trail j’ai croisé une famille de Mennonites, tous en costumes, ils sont plus de 100000 au mexique et sont souvent blond au yeux bleus et parle surtout un vieux dialecte allemand. Il y a une communauté non loin de là à "La Honda".
 
 On mange a mon retour puis on reprend la route direction **Zacatecas**. La route nationale n’a que deux voies plus un bas côté, la bande d’arrêt d’urgence. Il est de coutume ici de rouler a cheval entre la voie et le bas côté ce qui permet aux autres automobilistes de doubler, même s’il y a un ligne continue. En face ils font pareil…
 
 On veut rentrer dans une petite ville pour y chercher de l’eau potable mais très vite la rue se rétrécie, impossible d’avancer ou de reculer. Corinne est sortir régler la circulation de main de maître afin que je puisse reculer jusqu’à l’entrée…
-Arrivé à destination, nous allons directement dans un Sonaria faire les courses avant de trouver un bivouac non loin. Aux feux rouges, il n’est pas rare de voir des clowns, jongleurs ou cracheurs de feu faire l’animation durant le feu pour récolter quelques pieces.
+Arrivé à destination, nous allons directement dans un Sonaria faire les courses avant de trouver un bivouac non loin. Dans les villes, aux feux rouges, il n’est pas rare de voir des clowns, jongleurs ou cracheurs de feu faire l’animation durant le feu pour récolter quelques pieces.
 
 ## 11 février
 
 Ce matin on commence par chercher de l’eau potable, on en trouve en ville mais ils n’ont pas de tuyau et le notre ne s’adapte pas, en fait ils se contentent de remplir des garafons. Finalement le proprio et également le propriétaire du restaurant à tenant et il nous propose de l’eau du robinet, non potable, ce que nous faisons.
 
-Nous sortons de la ville pour aller au Sud-Ouest de Zacatecas à une quarantaine de kilomètres pour visiter le site archeologique de **La Quenada** ou **Chicomoztoc** construit et habité entre le 3 éme et le 8éme siècle. Véritable forteresse construite sur 5 niveaux au sommet d’une colline qui permettait d’avoir une vue à 360 sur tous les environs. Cette place possède une pyramide votive et plusieurs restes d'édifices dont une salle aux colonnes, et un fort en son sommet. L’agent à l’entrée nous liste toutes les reductions et finalement en tant que retraité, c’est gratuit pour moi… Malheureusement le musée qui présente une maquette complète du site reconstitué est fermée. On fait une belle ballade qui grimpe assez fort. Les Toltec avaient de bons mollets, j'ai l'impression que tous les escaliers sont à 45%.
+Nous sortons de la ville pour aller au Sud-Ouest de Zacatecas à une quarantaine de kilomètres pour visiter le site archeologique de **La Quenada** ou **Chicomoztoc** construit et habité entre le 3 éme et le 8éme siècle. Véritable forteresse construite sur 5 niveaux au sommet d’une colline qui permettait d’avoir une vue à 360 sur tous les environs.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46203493205/in/datetaken/" title="La Quemada - Zacatecas - [Mexique]"><img src="https://farm8.staticflickr.com/7885/46203493205_644de7becf_k.jpg" width="2048" height="726" alt="La Quemada - Zacatecas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Cette place possède une pyramide votive et plusieurs restes d'édifices dont une salle aux colonnes, et un fort en son sommet. L’agent à l’entrée nous liste toutes les reductions et finalement en tant que retraité, c’est gratuit pour moi… Malheureusement le musée qui présente une maquette complète du site reconstitué est fermée. On fait une belle ballade qui grimpe assez fort. Les Toltec avaient de bons mollets, j'ai l'impression que tous les escaliers sont à 45%.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32175306227/in/datetaken/" title="La Quemada - Zacatecas - [Mexique]"><img src="https://farm8.staticflickr.com/7911/32175306227_0079ad29e0_k.jpg" width="2048" height="1152" alt="La Quemada - Zacatecas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Retour sur Zacatecas où nous nous arrêtons dans une bibliothèque puis nous regagnons notre bivouac du soir sur un sommet de la ville qui est très belle de nuit. Je vais voir la policière au poste de police qui m’autorise à passer la nuit là sous sa bonne garde… et 50 pesos.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32175289307/in/datetaken/" title="Zacatecas - Zacatecas - [Mexique]"><img src="https://farm8.staticflickr.com/7801/32175289307_cf8b746fb6_k.jpg" width="2048" height="1152" alt="Zacatecas - Zacatecas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 12 février
 
-Nuit assez froide, les 2600 mètres d’altitude se font sentir... Ce matin le temps est gris mais il devrait se lever un peu dans la journée on décide donc de visiter le centre de la vieille ville de Zacatecas qui est le chef-lieu de l'État de Zacatecas et qui se trouve au fond d'une vallée encaissée, au nord de la Sierra Fría, au pied du Cerro de la Bufa. Sa population avoisine les 120 000 habitants. Son centre historique a été classé au patrimoine mondial de l'UNESCO en 1993. La ville fut fondée pendant la conquête espagnole, lorsqu'ils découvrirent d'importants gisements d'argent.
+Nuit assez froide, les 2600 mètres d’altitude se font sentir... Ce matin le temps est gris mais il devrait se lever un peu dans la journée on décide donc de visiter le centre de la vieille ville de Zacatecas qui est le chef-lieu de l'État de Zacatecas et qui se trouve au fond d'une vallée encaissée, au nord de la Sierra Fría, au pied du Cerro de la Bufa. Sa population avoisine les 120 000 habitants. Son centre historique a été classé au patrimoine mondial de l'Unesco en 1993. La ville fut fondée pendant la conquête espagnole, lorsqu'ils découvrirent d'importants gisements d'argent.
 
-On emprunte le chemin de croix à pied qui mène de la Cerro De la Buffa à la vieille ville vers la cathédrale. On visite ensuite plusieurs édifices religieux, publics, musées dont le musée Rafaël-Coronel présente l'une des collections de masques autochtones les plus importantes du Mexique venant de toute la République mexicaine, le Musée d'art contemporain Francisco Goitia et un musée d'art moderne implanté dans l'ancien temple St Augustin. A midi un déjeune au Bar Restaurant La Casona, repas mexicain excellent. En fin de journée on prend un taxi pour remonter au bivouac. Très belle ville et des gens très sympas.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40151731763/in/datetaken/" title="Zacatecas - Zacatecas - [Mexique]"><img src="https://farm8.staticflickr.com/7857/40151731763_fa07a6a040_k.jpg" width="2048" height="1152" alt="Zacatecas - Zacatecas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On emprunte le chemin de croix à pied qui mène de la Cerro De la Buffa à la vieille ville vers la cathédrale.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46392680064/in/datetaken/" title="Zacatecas - Zacatecas - [Mexique]"><img src="https://farm8.staticflickr.com/7809/46392680064_e731958eaa_k.jpg" width="2048" height="1152" alt="Zacatecas - Zacatecas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On visite ensuite plusieurs édifices religieux, publics, musées dont le musée Rafaël-Coronel présente l'une des collections de masques autochtones les plus importantes du Mexique venant de toute la République mexicaine, le Musée d'art contemporain Francisco Goitia et un musée d'art moderne implanté dans l'ancien temple St Augustin.
+
+
+
+
+A midi un déjeune au Bar Restaurant La Casona, repas mexicain, excellent. En fin de journée on prend un taxi pour remonter au bivouac. Très belle ville et des gens très sympas.
+
 
 ## 13 février
 
