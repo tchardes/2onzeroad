@@ -153,7 +153,7 @@ On emprunte le chemin de croix à pied qui mène de la Cerro De la Buffa à la v
 
 On visite ensuite plusieurs édifices religieux, publics, musées dont le musée Rafaël-Coronel présente l'une des collections de masques autochtones les plus importantes du Mexique venant de toute la République mexicaine, le Musée d'art contemporain Francisco Goitia et un musée d'art moderne implanté dans l'ancien temple St Augustin.
 
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40151915353/in/photolist-2eMw5tT-R28ZV4-2eGUgAu-2dFyVNh-24b5q1c-2eGUha5-2eGUoab-R29fTv-2dFyBud-2dFyzrf-2eGU5LJ-24b57Zi-2eMvTNp-24b59ex-2eMwnzg-24b64yD-2doLhir-24bgw5p-2eMHKKg-24b5CM4-2eMwq5g-2eMHH1Z-24bgnoB-2dFzg1W-2dFzgHs-24b9JxK-R2dLxn-SDturG-2dFDm7j-R2dRz6-R2dSgr-2doQYPP-2doR4XK-SDt2Lh-R2dr6r-2doQyk8-2doQuX6-2doQzcZ-R2dx5a-2doQFUr-24b9Drn-2doQJfP-24b9CrM-24b9EFB-R2cJ9B-R2cFMc-R2dV6K-R2dVCr-2doR3xv-24g3NSi" title="Zacatecas - Zacatecas - [Mexique]"><img src="https://farm8.staticflickr.com/7908/40151915353_2468aa419b_k.jpg" width="2048" height="1152" alt="Zacatecas - Zacatecas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 A midi un déjeune au Bar Restaurant La Casona, repas mexicain, excellent. En fin de journée on prend un taxi pour remonter au bivouac. Très belle ville et des gens très sympas.
