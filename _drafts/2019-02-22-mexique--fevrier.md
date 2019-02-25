@@ -118,9 +118,7 @@ Notre premier arrêt, culturel, se fait au village de Conca où se trouve la pre
 
 Nous faisons une dizaine de kilomètre vers l’Est pour nous arrêter à Landa De Matamoros et jetter un œil à la Mission Santa Maria. On trouve les lieux calmes et sereins et décidons de passer la nuit nous près de l’église.
 
-
 ## 16 février
-
 
 Nuit très calme, nous sommes réveillés ce maton par les chants des oiseaux… Départ pour les deux dernières Missions à savoir celle de Tilaco et de Tancoyol. Nous traversons la ville de "La Lagunita" où se déroule un grand marché en ce samedi matin. Les vrais cowboys sont ici plus aux USA, tous les hommes d’un certains âge sont tous habillés d’un Jean, de bottes d’une chemise et d’un beau chapeau couleur crème, sans oublier la ceinture en cuir à laquelle sont accrochés des étuis en cuir. Ils sont très class..
 Nous arrivons à la mission San Francisco de Tilaco, malheureusement elle est complètement à contre jour, pas facile pour les photos.
