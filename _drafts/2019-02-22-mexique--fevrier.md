@@ -347,14 +347,23 @@ Nous partons à pied voir la Mine Nopal qui se trouve à une centaine me mètres
 
 De retour à Thor, je me prépare et part seul en ville en prenant le bus. Corinne préfère rester dans Thor, elle me rejoindra plus tard. Une fois en centre ville je pars visiter la Musée de la Momie qui est "l’attraction" de la ville. En 1865 la ville décide de faire de la place dans le cimetière communal et "vide" quelques tombes. Lors de l’exhumation, ils découvrent plusieurs dizaines de corps parfaitement conservés, naturellement momifié. Ce sont eux qui sont exposés aujourd’hui. C’est très macabre, mais on connait l’appétence des mexicains pour tout ce qui touche à la mort. C’est ainsi que l’on va en famille, avec femme et enfants, visiter ce lieu et cs faire des selfies avec les… momies…
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47211626741/in/datetaken/" title="Guanajuato - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7848/47211626741_9c7b12c889_k.jpg" width="2048" height="1152" alt="Guanajuato - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 A la sortie de passe devant l’entrée du cimetière qui offre un merveilleux panorama sur la ville, plus qu’à attendre que le soleil sorte un peu des nuages pour prendre quelques photos.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47211595141/in/datetaken/" title="Guanajuato - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7850/47211595141_7dfbb7e0ea_k.jpg" width="2048" height="599" alt="Guanajuato - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Retour ou plutôt descente vers centre ville par de toutes petites ruelles et dédales d’escaliers, on se croirait un peu dans une favelas, pour monter sur une autre colline au Monumento Al Pipila, un momnument construit sur les hauteur de la ville et dédié à un héros local. La aussi le point de vue est extraordianre sur toute la ville.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32269439857/in/datetaken/" title="Guanajuato - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7848/32269439857_a2d464359a_k.jpg" width="2048" height="1152" alt="Guanajuato - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32269436177/in/datetaken/" title="Guanajuato - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7871/32269436177_9b011a8a85_k.jpg" width="2048" height="1152" alt="Guanajuato - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 En fin de journée de vais chercher Corinne qui à pris le collectivo toute seule et nous partons dans le centre historique où nous passons une très agréable soirée. C’est noir de monde, beaucoup de musique, de très bonnes odeurs parvenant de toutes les stands qui préparent à manger. La ville est très bien illuminées, l’ambiance est très bonne enfant. Les mariachis sont tous autour du jardin de l’union et jouent parfois les uns sur les autres dans une véritable cacophonie. De nombreux jeunes gens habillés en costume d’époque déambulent dans les rues, parfois eux aussi jouent de la musique. Nous n’avons pas trop compris à quoi ils servent. Nous reprenons le car en fin de soirée pour un retour au bivouac.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40246655823/in/datetaken/" title="Guanajuato - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7825/40246655823_d642a8025b_k.jpg" width="2048" height="1152" alt="Guanajuato - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47160259792/in/datetaken/" title="Guanajuato - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7911/47160259792_f44100048e_k.jpg" width="1536" height="2048" alt="Guanajuato - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 24 février
 
