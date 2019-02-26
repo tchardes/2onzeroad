@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [ mer-ocean, faune, flore, culturel, religion]
-pois: [mazatlan#05-et-06-février, durango#07-février]
+pois: [mazatlan#05-et-06-février, durango#07-février, saltito#09-février, sierra-organos#09-février, zacatecas#12-février, chicomoztoc#11-février, quenada#11-février, guadalupe#13-février, media-luna#14-février, missions-gorda#15-février, cadereyta#17-février, tequisquiapan#17-février, santiago-de-queretaro#18-février, pozos#20-février, miguel-allende#20-février, dolores-hidalgo#20-février, ]
 country: Mexique
 states: ["Sinaloa", "Durango", "Zacatecas","San Luis de Potosi", "Querétaro", "Guanajuato", "Jalisco", "Aguascalientes"]
 category: "roadmap"
@@ -127,7 +127,7 @@ Arrivé à destination, nous allons directement dans un Sonaria faire les course
 
 Ce matin on commence par chercher de l’eau potable, on en trouve en ville mais ils n’ont pas de tuyau et le notre ne s’adapte pas, en fait ils se contentent de remplir des garafons. Finalement le proprio et également le propriétaire du restaurant à tenant et il nous propose de l’eau du robinet, non potable, ce que nous faisons.
 
-Nous sortons de la ville pour aller au Sud-Ouest de Zacatecas à une quarantaine de kilomètres pour visiter le site archeologique de **La Quenada** ou **Chicomoztoc** construit et habité entre le 3 éme et le 8éme siècle. Véritable forteresse construite sur 5 niveaux au sommet d’une colline qui permettait d’avoir une vue à 360 sur tous les environs.
+Nous sortons de la ville pour aller au Sud-Ouest de Zacatecas à une quarantaine de kilomètres pour visiter le site archéologique de **La Quenada** ou **Chicomoztoc** construit et habité entre le 3 éme et le 8éme siècle. Véritable forteresse construite sur 5 niveaux au sommet d’une colline qui permettait d’avoir une vue à 360 sur tous les environs.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46203493205/in/datetaken/" title="La Quemada - Zacatecas - [Mexique]"><img src="https://farm8.staticflickr.com/7885/46203493205_644de7becf_k.jpg" width="2048" height="726" alt="La Quemada - Zacatecas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -248,7 +248,7 @@ On visite la Parroquia Santa María de la Asunción sur la belle place Miguel Hi
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40207181393/in/datetaken/" title="Tequisquiapan - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7896/40207181393_a270c71bc4_k.jpg" width="2048" height="1152" alt="Tequisquiapan - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En milieu d’après-midi nous décidons de lever le camp direction **Santiago de Qerétaro**, la capitale régionale.
+En milieu d’après-midi nous décidons de lever le camp direction **Santiago de Querétaro**, la capitale régionale.
 A notre arrivée nous nous posons près d’une lavandéria pour faire une bonne lessive et faisons le plein d’eau et de gazoline (Magna) dans une station Pemex. Nous finissons la journée dans un Soriano pour faire le plein du frigo. Finalement nous restons sur le parking pour la nuit.
 
 ## 19 février
@@ -302,7 +302,7 @@ Après le repas on par en direction de Atotonilco, petit village qui abrite le S
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32230455947/in/datetaken/" title="Atotonilco - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7868/32230455947_0b4e38b147_k.jpg" width="2048" height="1325" alt="Atotonilco - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous partons ensuite direction de Dolores Hidalgo où nous faisons le tour du centre ville, bâti autour de sa cathédrale et de sa place. Cette ville de 150 000 habitants est la capitale de la céramique et le berceau de l'indépendance nationale du Mexique. Chaque année le président de la République vient ici célébrer cet acte.
+Nous partons ensuite direction de **Dolores Hidalgo** où nous faisons le tour du centre ville, bâti autour de sa cathédrale et de sa place. Cette ville de 150 000 habitants est la capitale de la céramique et le berceau de l'indépendance nationale du Mexique. Chaque année le président de la République vient ici célébrer cet acte.
 
 
 
