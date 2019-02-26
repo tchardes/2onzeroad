@@ -244,7 +244,7 @@ Ce matin on traine un peu dan Thor, on prend des nouvelles de toute la famille. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40207182253/in/datetaken/" title="Tequisquiapan - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7851/40207182253_50f55a363a_k.jpg" width="2048" height="1152" alt="Tequisquiapan - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On visite la Parroquia Santa María de la Asunción sur la belle place Miguel Hidalgo entourée d’arches et de boutiques. Nous traversons plusieurs marchés artisanux et finissons notre visite au Parc La Pila. A midi nous mangeons dans un très bon restaurant,Tacos au poisson et orange pour moi et genre d’escalope Milanaise pour Corinne sans oublier le dessert, un genre de tarte au citron pour moi et un gateau au chocolat pour Corinne.
+On visite la Parroquia Santa María de la Asunción sur la belle place Miguel Hidalgo entourée d’arches et de boutiques. Nous traversons plusieurs marchés artisanux et finissons notre visite au Parc La Pila. A midi nous mangeons dans un très bon restaurant,Tacos au poisson et orange pour moi et genre d’escalope Milanaise pour Corinne sans oublier le dessert, un genre de tarte au citron pour moi et un gâteau au chocolat pour Corinne.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40207181393/in/datetaken/" title="Tequisquiapan - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7896/40207181393_a270c71bc4_k.jpg" width="2048" height="1152" alt="Tequisquiapan - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -272,7 +272,7 @@ Départ pour **San Pedros de Los Pozos**, une ancienne ville minière d’argent
 
 On insiste pas et on revient un peu sur nos pas pour aller à **San Miguel de Allende**, notre destination du jour. Cette petite ville coloniale de l'Etat de Guanajuato fondée en 1542 est une des plus belles étapes pour ceux qui veulent découvrir ces cités qui sont nées grâce à la richesse de ses sols en minerai d'or et d'argent exploitées par les conquistadors. la ville est inscrite au Patrimoine Mondial de l'Humanité par l'Unesco en 2008.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46258102205/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7877/46258102205_b102c81d91_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47162174312/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7816/47162174312_864515983d_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 La aussi on s’embarque dans des ruelles qui se réduisent de plus en plus. On fini par ressortir de la ville et on trouve un parking qui nous accepte non loin du centre ville. C’est donc a pied que l’on poursuit la découverte de cette très belle ville. Pour la première fois depuis notre entrée au Mexique on voit de nombreux touristes, principalement des américains. Oui il y a encore quelques américains qui n’ont pas peur de venir ici…
 
@@ -287,7 +287,6 @@ Les Hôtels sont luxueux et il y a de nombreuses boutiques très belles sans par
 Sur la grande place de nombreuses personnes flanes, il reigne une ambiance très décontractée. On décide de jouer les prolongations et finissons au restaurant "Los Milagros" très agréable si ce n’est qu’il est rempli d’étasuniens et qu’ils sont seul au monde et  font un boucan d’enfer. A la sortie on refait un tour du centre, tous les monuments sont hyper bien illuminés, des mariachis jouent sur les places. Réel coup de coeur pour cette ville.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46258169625/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7857/46258169625_666c0bd784_k.jpg" width="2048" height="1439" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 
 ## 21 février
 
