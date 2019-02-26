@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [architecture, culturel, religion]
-pois: [mazatlan#05-et-06-février, durango#07-février, saltito#09-février, sierra-organos#09-février, zacatecas#12-février, chicomoztoc#11-février, quenada#11-février, guadalupe#13-février, media-luna#14-février, missions-gorda#15-février, cadereyta#17-février, tequisquiapan#17-février, santiago-de-queretaro#18-février, pozos#20-février, miguel-allende#20-février, dolores-hidalgo#20-février, ]
+pois: [mazatlan#05-et-06-février, durango#07-février, saltito#09-février, sierra-organos#09-février, viejo-oesto#09-février,zacatecas#12-février, chicomoztoc#11-février, quenada#11-février, guadalupe#13-février, media-luna#14-février, missions-gorda#15-février, cadereyta#17-février, tequisquiapan#17-février, santiago-de-queretaro#18-février, pozos#20-février, miguel-allende#20-février, dolores-hidalgo#20-février, ]
 country: Mexique
 states: ["Sinaloa", "Durango", "Zacatecas","San Luis de Potosi", "Querétaro", "Guanajuato", "Jalisco", "Aguascalientes"]
 category: "roadmap"
@@ -86,7 +86,7 @@ En cours de trajet nous sommes rentrés dans des lieux qui nous semblaient sympa
 
 ## 09 février
 
-Nuit vraiment calme pour autant que nous sommes vendredi soir et en pleine ville. Ce matin après avoir téléphoné aux enfants nous quittons Durango par le Nord pour nous arrêter à "Viejo Oesto" un genre de parc d’attraction autour du western. Durango est la ville du cinéma où de nombreux Westerns américains ont été tournés. Peut-être dans le genre de "Cine Cita".
+Nuit vraiment calme pour autant que nous sommes vendredi soir et en pleine ville. Ce matin après avoir téléphoné aux enfants nous quittons Durango par le Nord pour nous arrêter à **Viejo Oesto** un genre de parc d’attraction autour du western. Durango est la ville du cinéma où de nombreux Westerns américains ont été tournés. Peut-être dans le genre de "Cine Cita".
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32174962087/in/datetaken/" title="Durango - Durango - [Mexique]"><img src="https://farm8.staticflickr.com/7865/32174962087_8ac547d18f_k.jpg" width="2048" height="1152" alt="Durango - Durango - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -149,7 +149,7 @@ On emprunte le chemin de croix à pied qui mène de la Cerro De la Buffa à la v
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46392680064/in/datetaken/" title="Zacatecas - Zacatecas - [Mexique]"><img src="https://farm8.staticflickr.com/7809/46392680064_e731958eaa_k.jpg" width="2048" height="1152" alt="Zacatecas - Zacatecas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On visite ensuite plusieurs édifices religieux, publics, musées dont le musée Rafaël-Coronel présente l'une des collections de masques autochtones les plus importantes du Mexique venant de toute la République mexicaine, le Musée d'art contemporain Francisco Goitia et un musée d'art moderne implanté dans l'ancien temple St Augustin.
+On visite ensuite plusieurs édifices religieux, publics, musées dont le musée Rafaël-Coronel qui présente l'une des collections de masques autochtones les plus importantes du Mexique venant de tout le pays, le Musée d'art contemporain Francisco Goitia et enfin le musée d'art moderne implanté dans l'ancien temple St Augustin.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40151915353/in/photolist-2eMw5tT-R28ZV4-2eGUgAu-2dFyVNh-24b5q1c-2eGUha5-2eGUoab-R29fTv-2dFyBud-2dFyzrf-2eGU5LJ-24b57Zi-2eMvTNp-24b59ex-2eMwnzg-24b64yD-2doLhir-24bgw5p-2eMHKKg-24b5CM4-2eMwq5g-2eMHH1Z-24bgnoB-2dFzg1W-2dFzgHs-24b9JxK-R2dLxn-SDturG-2dFDm7j-R2dRz6-R2dSgr-2doQYPP-2doR4XK-SDt2Lh-R2dr6r-2doQyk8-2doQuX6-2doQzcZ-R2dx5a-2doQFUr-24b9Drn-2doQJfP-24b9CrM-24b9EFB-R2cJ9B-R2cFMc-R2dV6K-R2dVCr-2doR3xv-24g3NSi" title="Zacatecas - Zacatecas - [Mexique]"><img src="https://farm8.staticflickr.com/7908/40151915353_2468aa419b_k.jpg" width="2048" height="1152" alt="Zacatecas - Zacatecas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

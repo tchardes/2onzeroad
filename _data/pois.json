@@ -308,8 +308,9 @@
     {"name": "pozos", "displayName": "San Pedros de Los Pozos", "type": "ville"},
     {"name": "miguel-allende", "displayName": "San Miguel de Allende", "type": "ville"},
     {"name": "dolores-hidalgo", "displayName": "Dolores Hildago", "type": "ville"},
+    {"name": "viejo-oesto", "displayName": "Viejo-Oesto", "type": "autre"},
+
     
-    {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
