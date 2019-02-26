@@ -308,7 +308,7 @@ Après le repas on par en direction de Atotonilco, petit village qui abrite le S
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32230455947/in/datetaken/" title="Atotonilco - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7868/32230455947_0b4e38b147_k.jpg" width="2048" height="1325" alt="Atotonilco - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous partons ensuite direction de Dolores Hidalgo où nous faisons le tour du centre ville bati autour de sa cathédrale et de sa place. Cette ville de 150 000 habitants est la capitale de la céramique et berceau de l'indépendance nationale du Mexique. Chaque année le président de la République vient ici célébrer cet acte.
+Nous partons ensuite direction de Dolores Hidalgo où nous faisons le tour du centre ville, bâti autour de sa cathédrale et de sa place. Cette ville de 150 000 habitants est la capitale de la céramique et le berceau de l'indépendance nationale du Mexique. Chaque année le président de la République vient ici célébrer cet acte.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46448736104/in/datetaken/" title="Dolores Hidalgo - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7915/46448736104_5e9fb5bf5e_k.jpg" width="2048" height="1152" alt="Dolores Hidalgo - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -328,10 +328,23 @@ Nous prenons un collectivo pour descendre au centre historique de la ville. On f
 
 ## 23 février
 
+Ce matin on décide de prendre un taxi pour faire la route panoramique qui fait le tour de la ville sur les hauteurs, Elle passe également devant plusieurs mines dont certaines sont encore en activité. Sur le parking de la mine San Juan de Rayas se trouve un marchand de mineraux, nous lui prenons deux exemplaires pour Luca. De retour nous passons par le réseau souterrain formé par des tunnel qui passent sous la ville et qui permettent de circuler plus rapidement.
+En début d’après-midi nos voisin caldoches partent en direction de San Miguel de Allende, nous leur souhaitons bonne route. 
+Nous partons à pied voir la Mine Nopal qui se trouve à une centaine me mètres de nous. En route nous entendons de la musique et des gens taper des pied, on s’approche, on rentre dans une propriété qui abrite un grand hangard sous lequele une cinquantaine de jeune s’entraine à des dances traidtionnelles, on reste un bon moment à les regarder, c’est sympa.
+De retour à Thor, je me prépare et part seul en ville en prenant le bus. Corinne préfère rester dans Thor, elle me rejoindra plus tard. Une fois en centre ville je pars visiter la Musée de la Momie qui est « l’attraction » de la ville. En 1865 la ville décide de faire de la place dans le cimetière communal et « vide » quelques tombes. Lors de l’exhumation, ils découvrent plusieurs dizaines de corps parfaitement conservés, naturellement momifié. Ce sont eux qui sont exposés aujourd’hui. C’est très macabure, mais on connait l’apétence des mexicains pour tout ce qui touche à la mort. C’est ainsi que l’on va en famille, avec femme et enfants, visiter ce lieu et ce faire des selfies avec les …momies…
+A la sortie de passe devant l’entrée du cimetière qui offre un merveilleux panorama sur la ville, plus qu’à attendre que le soleil sorte un peu des nuages pour prendre quelques photos.
+Retour ou plutôt descente vers centre ville par de toutes petites ruelles et dédales d’escalier  pour monter sur une autre colline à Monumento Al Pipila, un momnument construit sur les hauteur de la ville et dédié à un héros local. La aussi le point de vue est extraordianre sur toute la ville.
+En fin de journée de vais cherché Corinne qui à pris le Collectivo toute seule et nous partons dans le centre historique où nous passons une très agréable soirée. C’est noir de monde, beaucoup de musique, de très bonnes odeurs parvenant de toutes les stands qui préparent à manger. L’ambiance est très bonne enfant. Les mariachis sont tous autour du jardin de l’union et jouent parfois les uns sur les autres dans une véritable cacophonie. De nombreux jeunes gens habillé en costume d’époque déambulent dans les rues, parfois jouent eux aussi de la musique. Nous n’avons pas compris à quoi ils servaient. Nous reprenons le car en fin de soirée pour un retour au bivouac.
 
 
 
 ## 24 février
+
+Ce matin on fait un échange standard de notre Garafon et non prenons la route. La traversée de Guanajuato se fait bien, on passe par les tunnels pour sortir de la ville, direction Leon dans un prmeier temps.
+A Silao, à une dizaine de kilomètre avant d’arriver on voit sur notre droite un immense bâtiment bleu qui fini avec une immense fléche vers le ciel. Intrigué, on quite la route et on arrive à l’entrée d’une propriété dans laquelle se trouve se batiment. La barrière est ouverte, on rentre… On voit bien les visages des gens un peu surpris par notre présence. On se gare juste en face de ce qui se trouve être un temple «Tower of the Faith» et plusieurs personnes arrivent vers nous, souriant.. On commence a discuter l’ambiance est chaleureuse, puis le « chef » nous est présenté, il parle très bien anglais et il nous propose une visite des lieux. Ils ont un peu de mal à faire coulisser la porte d’entrée, le bâtiement ne semble pas être fini. Corinne préfère rester dehors… J’entre et je visite la grandee salle puis on monte à l’étage ou se trouve une autre salle de prière. Il me montre des vidéo de messe à Guadalajara et m’explique qu’ils sont présents un peu partout dans le monde notemment à Paris. Une fois la visite fini, il nous donne de la documentation, séance photos, on leur donne des drapeaux de la France et on quitte les lieux, un peu rassuré quand même. Il s’agit en fait d’une église apostolique menée par un prédicateur.
+Arrivé à Leon on se gare et on prend les transports en commun pour accéder au centre historique. Dans la cathédrale on assiste à la fin d’une des messes de la journée, elle est pleine. Petit tour de tous le quartier et retour à Thor.
+Nous reprenons la route en direction de Lagos de Moreno et nous posons sur le parking d’un Bodega Aurora et partons faire un petit tour en ville. Sur une place on tombe sur une cérémonie de remise de prix scolaires je pense, chaque école à sa fanfare.
+
 
 ## 24 février
 
