@@ -211,7 +211,7 @@ Nous nous arrêtons à midi à Arroyo Seco, petit village Mexicain typique. Nous
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33337699328/in/datetaken/" title="Arroyo Seco - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7874/33337699328_0d91109004_k.jpg" width="2048" height="1152" alt="Arroyo Seco - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Notre premier arrêt, culturel, se fait au village de Conca où se trouve la première mission, Mision St Miguel. Nous poursuivons la route jusqu'à Jalpan de Serra, qui devait être également notre point de bivouac. La ville est au final très vallonnées, les rues étroites et sinueuses, nous arrivons à nous garer et marchons pour nous approcher de la mission. Aujourd’hui il fait particulièrement chaud, il est annoncé 38 à la météo. Nous nous posons un petit moment sous l’ombre des grands arbres de la place des armas et décidons de poursuivre notre route, l’endroit ne nous inspire pas pour bivouaquer.
+Notre premier arrêt, culturel, se fait au village de Conca où se trouve la première mission, Mision St Miguel. Nous poursuivons la route jusqu'à Jalpan de Serra, qui devait être également notre point de bivouac. La ville est au final très vallonnées, les rues étroites et sinueuses, nous arrivons à nous garer et marchons pour nous approcher de la mission. Aujourd’hui il fait particulièrement chaud, il est annoncé 38° à la météo. Nous nous posons un petit moment sous l’ombre des grands arbres de la place des armas et décidons de poursuivre notre route, l’endroit ne nous inspire pas pour bivouaquer.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32177291317/in/datetaken/" title="Jalpan - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7867/32177291317_9ff586b578_k.jpg" width="2048" height="1365" alt="Jalpan - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -233,7 +233,7 @@ Le soir on décide d’aller manger dans un petit restaurant de rue qui se trouv
 - Taquitas de Adobo (petite tortilla avec des oignons de la salade et des lanières de steak)
 le tout avec sauces et citron vert et je demande donc une bière. Le patron est un peu gêné car il ne peut en vendre, un jeune se lève et me donne une de leur cannette qu’ils ont amenés, super sympa. On passe une très bonne soirée, on entend on fond du village la musique de l’animation du mariage.
 
-**(voir l’article complet <a href="{{site.baseurl}}{% post_url 2019/2019-02-16-mexique-missions-gorda %}">ici</a>)**
+**(voir l’article complet sur les missions <a href="{{site.baseurl}}{% post_url 2019/2019-02-16-mexique-missions-gorda %}">ici</a>)**
 
 ## 17 février
 
@@ -269,37 +269,51 @@ Du coup on mange dans Thor et on prend un taxi pour rejoindre le centre, c’est
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47172150931/in/datetaken/" title="Santiago de Querétaro - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7816/47172150931_fa6e080999_k.jpg" width="2048" height="1152" alt="Santiago de Querétaro - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
 ## 20 février
 
 Départ pour **San Pedros de Los Pozos**, une ancienne ville minière d’argent qui a périclitée à en devenir une ville fantome. Elle a retrouvé un peu de vie grace au Tourisme. A notre arrivée on caonstate que les rues sont hyper étroites et nous avons du mal à croiser les autres véhicules, on racle même notre pot d'échappement. Finalement on trouve un parking à la sortie du village, au musée qui a ouvert ses portes en 2016 et qui retrace l’histoire de la vile et des mines. L’idéal est de prendre un tour opérator pour visiter les ruines, impossible vue l’atat des pistes avec Thor.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46448595484/in/datetaken/" title="San Pedro De Los Pozos - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7891/46448595484_d9cb8a6f4e_k.jpg" width="2048" height="1152" alt="San Pedro De Los Pozos - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On insiste pas et on revient un peu sur nos pas pour aller à **San Miguel de Allende**, notre destination du jour. La aussi on s’embarque dans des ruelles qui se réduisent de plus en plus. On fini par ressortir de la ville et on trouve un parking qui nous accepte non loin du centre ville.
+On insiste pas et on revient un peu sur nos pas pour aller à **San Miguel de Allende**, notre destination du jour. Cette petite ville coloniale de l'Etat de Guanajuato fondée en 1542 est une des plus belles étapes pour ceux qui veulent découvrir ces cités qui sont nées grâce à la richesse de ses sols en minerai d'or et d'argent exploitées par les conquistadors. la ville est inscrite au Patrimoine Mondial de l'Humanité par l'Unesco en 2008.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46258102205/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7877/46258102205_b102c81d91_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Petite ville coloniale de l'Etat de Guanajuato au Centre du Mexique, San Miguel de Allende est une des plus belles étapes pour ceux qui veulent découvrir cette région montagneuse du pays parsemée de cités qui se sont enrichies grâce aux nombreuses mines d'or et d'argent exploitées dès la conquête du pays par les espagnols.
-Inscrite au Patrimoine Mondial de l'Humanité par l'UNESCO en 2008.
+La aussi on s’embarque dans des ruelles qui se réduisent de plus en plus. On fini par ressortir de la ville et on trouve un parking qui nous accepte non loin du centre ville. C’est donc a pied que l’on poursuit la découverte de cette très belle ville. Pour la première fois depuis notre entrée au Mexique on voit de nombreux touristes, principalement des américains. Oui il y a encore quelques américains qui n’ont pas peur de venir ici…
 
-Destination romantique qui offre la sensation de se retrouver dans un village traditionnel mexicain, le nom de la cité est une synthèse de son histoire : fondée en 1542 par le prêtre franciscain Fray Juan de San Miguel sous le nom de "San Miguel el Grande" pour servir d'étape sur la Route de l'Argent qui reliait Mexico à Zacatecas, le 8 mars 1826 elle fut renommée en "San Miguel de Allende" pour rendre hommage à Ignacio Allende natif de cette ville et héros de la guerre d'indépendance du Mexique aux côtés du curé Miguel Hidalgo y Costilla.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46258099315/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7905/46258099315_2e5e3501cd_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Malgré la richesse de son architecture San Miguel de Allende était pourtant sur le point de devenir une ville fantôme au début du 20ème siècle, mais en la déclarant monument historique en 1926 le Gouvernement Mexicain allait la faire revivre, attirant de nombreux touristes charmés par ses édifices baroques et les nombreuses sources d'eau thermale aux alentours.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47120256022/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7822/47120256022_d38eb8a2a3_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Les Hôtels sont luxueux et il y a de nombreuses boutiques très belles sans parler des galeries d’art. On trouve plusieurs boulangerie patisserie Française "PANIO". On ne peut pas résister et on s’achète quelques bricoles. C’est vraiment excellent, les gâteaux sont très beaux ainsi que les pains. On fait le tour des principales églises, temples, couvents et la cathédrale qui sont toutes différentes et magnifiques.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40208055633/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7889/40208055633_4cca4382b6_k.jpg" width="2048" height="1016" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Sur la grande place de nombreuses personnes flanes, il reigne une ambiance très décontractée. On décide de jouer les prolongations et finissons au restaurant "Los Milagros" très agréable si ce n’est qu’il est rempli d’étasuniens et qu’ils sont seul au monde et  font un boucan d’enfer. A la sortie on refait un tour du centre, tous les monuments sont hyper bien illuminés, des mariachis jouent sur les places. Réel coup de coeur pour cette ville.
 
-
-
-C’est donc a pied que l’on poursuit la découverte de cette très belle ville. Pour la première fois depuis notre entrée au Mexique on voit de nombreux touristes, principalement des américains. Oui il y a encore quelques américains qui n’ont pas peur de venir ici… Les Hôtels sont luxueux et il y a de nombreuses boutiques très belles sans parler des galeries d’art. On trouve plusieurs boulangerie patisserie Française « PANIO ». On ne peut pas résister et on s’achète quelques bricoles. C’est vraiment excellent, le gâteaux sont très beau ainsi que les pains. 
-On fait le tour des principales églises, temples, couvents et la cathédrale qui sont toutes différentes et magnifiques. Sur la grande place de nombreuses personnes flanes, il reigne un ambiance très cool. On décide de jouer les prolongations et finissons au restaurant « Los Milagros » très agréable si ce n’est qu’il est rempli d’américains et qu’ils font un boucan d’enfer. A la sortie on refait un tour du centre, tous les monuments sont hyper bien illuminés, des mariachis jouent sur les places. Réel coup de coeur pour cette ville.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46258169625/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7857/46258169625_666c0bd784_k.jpg" width="2048" height="1439" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ## 21 février
 
-Ce matin on repart à pied pour visiter cette belle ville. On commence  par le lavoir qui est original dans sa conception mais sans plus puis nous montons au Mirador, point haut d’où l’on domine la ville. On redescend du côté de la Cathédrale et refesons un tour des divers monuments, du marché artisanal. Avant de faire retour à Thor on repasse chez « PANIO » pour prende une baguette en Epi ainsi que deux gâteaux. On se régale. Après le repas on par en direction de Atotonilco, petit village qui abrite le Santuario De Jesús Nazareno, magnifiques bâtiments religieux qui abrite plusieurs chapelles dont les murs sont recouverts de dessins représentant l’histoire de Jésus.
-Nous partons ensuite direction de Dolores Hidalgo où nous faisons le tour du centre ville bati autour de sa cathédrale et de sa place. Cette ville est la Capitale de la Céramique et le lieu où a été déclaré l’indépendence du Mexique. Chaque année le président de la République vient ici célébrer cet acte.
+Ce matin on repart à pied pour visiter cette belle ville. On commence  par le lavoir qui est original dans sa conception mais sans plus puis nous montons au Mirador, point haut d’où l’on domine la ville. On redescend du côté de la Cathédrale et refesons un tour des divers monuments, du marché artisanal. Avant de faire retour à Thor on repasse chez "PANIO" pour prende une baguette en Epi ainsi que deux gâteaux. On se régale.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40208056873/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7866/40208056873_c61860138f_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Après le repas on par en direction de Atotonilco, petit village qui abrite le Santuario De Jesús Nazareno, magnifiques bâtiments religieux qui abrite plusieurs chapelles dont les murs sont recouverts de dessins représentant l’histoire de Jésus.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32231091987/in/datetaken/" title="Atotonilco - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7844/32231091987_0ffab12ab7_k.jpg" width="2048" height="967" alt="Atotonilco - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32230458887/in/datetaken/" title="Atotonilco - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7901/32230458887_3d2a488778_k.jpg" width="2048" height="1416" alt="Atotonilco - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32230455947/in/datetaken/" title="Atotonilco - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7868/32230455947_0b4e38b147_k.jpg" width="2048" height="1325" alt="Atotonilco - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous partons ensuite direction de Dolores Hidalgo où nous faisons le tour du centre ville bati autour de sa cathédrale et de sa place. Cette ville de 150 000 habitants est la capitale de la céramique et berceau de l'indépendance nationale du Mexique. Chaque année le président de la République vient ici célébrer cet acte.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46448736104/in/datetaken/" title="Dolores Hidalgo - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7915/46448736104_5e9fb5bf5e_k.jpg" width="2048" height="1152" alt="Dolores Hidalgo - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47120301452/in/datetaken/" title="Dolores Hidalgo - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7843/47120301452_11710572b3_k.jpg" width="2048" height="1152" alt="Dolores Hidalgo - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 On se pose sur le parking d’un surpermarché Bodega Aurrera après accord du responsable.  
 
 
