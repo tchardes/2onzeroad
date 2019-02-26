@@ -8,12 +8,12 @@ date:       2019-02-22 13:00:00
 from-date:  2018-02-05 13:00:00
 to-date:    2019-02-22 13:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt20.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt20.jpg
+header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [ mer-ocean, faune, flore, culturel, religion]
 pois: [mazatlan#05-et-06-février, durango#07-février]
 country: Mexique
-states: ["Sinaloa", "Durango", "Zacatecas","San Luis de Potosi", "Querétaro", "Guanajuato", "Aguascalientes"]
+states: ["Sinaloa", "Durango", "Zacatecas","San Luis de Potosi", "Querétaro", "Guanajuato", "Jalisco", "Aguascalientes"]
 category: "roadmap"
 flickr-text: ""
 location: "22.813178, -101.523916"
