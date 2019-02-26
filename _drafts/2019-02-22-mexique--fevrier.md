@@ -200,7 +200,6 @@ L’eau est effectivement très claire et très tempérée. On passe un long mom
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33243698718/in/datetaken/" title="Rio Verde - San Luis de Potosi - [Mexique]"><img src="https://farm8.staticflickr.com/7808/33243698718_8fc0e836d8_k.jpg" width="2048" height="1152" alt="Rio Verde - San Luis de Potosi - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
 ## 15 février
 
 Nous passons dans Rio Verde pour chercher de l’eau mais soit c’est fermé soit les rue sont vraiment trop étroites pour nous.
@@ -210,24 +209,31 @@ Nous nous arrêtons à midi à Arroyo Seco, petit village Mexicain typique. Nous
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32177116157/in/datetaken/" title="Arroyo Seco - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7841/32177116157_2a86154eeb_k.jpg" width="2048" height="1152" alt="Arroyo Seco - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33337699328/in/datetaken/" title="Arroyo Seco - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7874/33337699328_0d91109004_k.jpg" width="2048" height="1152" alt="Arroyo Seco - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Notre premier arrêt, culturel, se fait au village de Conca où se trouve la première mission, Mision St Miguel. Nous poursuivons la route jusqu'à Jalpan de Serra, qui devait être également notre point de bivouac. La ville est au final très vallonnées, les rues étroites et sinueuses, nous arrivons à nous garer et marchons pour nous approcher de la mission. Aujourd’hui il fait particulièrement chaud, il est annoncé 38 à la météo. Nous nous posons un petit moment sous l’ombre des grands arbres de la place des armas et décidons de poursuivre notre route, l’endroit ne nous inspire pas pour bivouaquer.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32177291317/in/datetaken/" title="Jalpan - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7867/32177291317_9ff586b578_k.jpg" width="2048" height="1365" alt="Jalpan - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous faisons une dizaine de kilomètre vers l’Est pour nous arrêter à Landa De Matamoros et jeter un œil à la Mission Santa Maria. On trouve les lieux calmes et sereins et décidons de passer la nuit nous près de l’église.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33243838948/in/datetaken/" title="Landa de Matamoros - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7878/33243838948_2a6076b40b_k.jpg" width="2048" height="1152" alt="Landa de Matamoros - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 16 février
 
 Nuit très calme, nous sommes réveillés ce maton par les chants des oiseaux… Départ pour les deux dernières Missions à savoir celle de Tilaco et de Tancoyol. Nous traversons la ville de "La Lagunita" où se déroule un grand marché en ce samedi matin. Les vrais cowboys sont ici plus aux USA, tous les hommes d’un certains âge sont tous habillés d’un Jean, de bottes d’une chemise et d’un beau chapeau couleur crème, sans oublier la ceinture en cuir à laquelle sont accrochés des étuis en cuir. Ils sont très class..
 Nous arrivons à la mission San Francisco de Tilaco, malheureusement elle est complètement à contre jour, pas facile pour les photos.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47119220851/in/datetaken/" title="Tancoyol - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7802/47119220851_6f4f77ba5c_k.jpg" width="2048" height="1152" alt="Tancoyol - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous reprenons la route pour visiter la dernière qui se trouve au fond d’une vallée, Notre Dame de la Lumière de Tancoyol. Encore un charmant petit village avec sa mission. Nous décidons de retourner à Landa De Matamoros, il est rop tard pour reprendre la route. Une fois arrivés, je vais sur la place du village qui propose du WiFi et je m’occupe du courier et des photos. J’assiste, de loin, à un mariage qui se déroule à la mission, c’est comme chez nous, madame avec une belle robe blanche avec une longue traîne, monsieur en costume sombre et à la sortie de l’église envoi de riz.
 
 Le soir on décide d’aller manger dans un petit restaurant de rue qui se trouve en face la mission. Comme je vois 4 jeunes attablés à côtê de nous avec pas mal de cannettes de bière, on passe commande de :
--  Gringas (tortilla avec fromage et lanières de steak)
-- de Taquitas de Adobo (petite tortilla avec des oignons de la salade et des lanières de steak) 
+- Gringas (tortilla avec fromage et lanières de steak)
+- Taquitas de Adobo (petite tortilla avec des oignons de la salade et des lanières de steak)
 le tout avec sauces et citron vert et je demande donc une bière. Le patron est un peu gêné car il ne peut en vendre, un jeune se lève et me donne une de leur cannette qu’ils ont amenés, super sympa. On passe une très bonne soirée, on entend on fond du village la musique de l’animation du mariage.
 
 **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2019/2019-02-16-mexique-missions-gorda %}">ici</a>)**
-
 
 ## 17 février
 
@@ -235,10 +241,17 @@ Au final nuit calme, la musique c’est rapidement arrêtée. Ce matin on repren
 
 Au niveau de Bernal nous bifurquons vers Cadereyta de Montes pour visiter le **Jardín Botánico Regional de Cadereyta**, on arrive juste une heure avant la fermeture, cela nous permet de nous dégourdir les jambes et d’avoir un aperçu de tous les cactus présents dans la région de Querétaro. Nous filons ensuite à **Tequisquiapan** ou Thor trouve son emplacement pour la nuit, près du centre historique pour demain.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46448517394/in/datetaken/" title="Cadereyta - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7807/46448517394_ccdce79617_k.jpg" width="2048" height="1152" alt="Cadereyta - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 18 février
 
-Ce matin on traine un peu dan Thor, on prend des nouvelles de toute la famille. Vers 11h00 on part à pied dans le centre ville qui est très beau avec de belles boutiques, beaux restaurants, on comprend pourquoi que les habitants de Mexico viennent ici. On visite la Parroquia Santa María de la Asunción sur la belle place Miguel Hidalgo entourée d’arches et de boutiques. Nous traversons plusieurs marchés artisanux et finissons notre visite au Parc La Pila. A midi nous mangeons dans un très bon restaurant,Tacos au poisson et orange pour moi et genre d’escalope Milanaise pour Corinne sans oublier le dessert, un genre de tarte au citron pour moi et un gateau au chocolat pour Corinne.
+Ce matin on traine un peu dan Thor, on prend des nouvelles de toute la famille. Vers 11h00 on part à pied dans le centre ville qui est très beau avec de belles boutiques, beaux restaurants, on comprend pourquoi que les habitants de Mexico viennent ici.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40207182253/in/datetaken/" title="Tequisquiapan - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7851/40207182253_50f55a363a_k.jpg" width="2048" height="1152" alt="Tequisquiapan - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On visite la Parroquia Santa María de la Asunción sur la belle place Miguel Hidalgo entourée d’arches et de boutiques. Nous traversons plusieurs marchés artisanux et finissons notre visite au Parc La Pila. A midi nous mangeons dans un très bon restaurant,Tacos au poisson et orange pour moi et genre d’escalope Milanaise pour Corinne sans oublier le dessert, un genre de tarte au citron pour moi et un gateau au chocolat pour Corinne.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40207181393/in/datetaken/" title="Tequisquiapan - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7896/40207181393_a270c71bc4_k.jpg" width="2048" height="1152" alt="Tequisquiapan - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 En milieu d’après-midi nous décidons de lever le camp direction **Santiago de Qerétaro**, la capitale régionale.
 A notre arrivée nous nous posons près d’une lavandéria pour faire une bonne lessive et faisons le plein d’eau et de gazoline (Magna) dans une station Pemex. Nous finissons la journée dans un Soriano pour faire le plein du frigo. Finalement nous restons sur le parking pour la nuit.
@@ -246,14 +259,26 @@ A notre arrivée nous nous posons près d’une lavandéria pour faire une bonne
 ## 19 février
 
 Nuit calme mais fraiche, c’est incroyable l’écart de température entre le jour et la nuit. Il faut dire que depuis Durango, nous évoluons dans un environnement plus ou moins semi-desertique à une altitude moyenne de 2000 mètres.
-Ce matin on part en ville avec Thor pour se garer près du centre historique, la ville est très grande près de 700 000 hbts mais les rues sont vite très étroites. Après plusieurs manoeuvres pour se sortir de ruelles on décide de faire retour sur notre parking de Soriano. On change notre garafon vide pour un plein dans un magasin OXXO et on se pose. Du coup on mange dans Thor et on prend un taxi pour rejoindre le centre, c’est bien plus pratique et vraiment pas cher, 70$/Mex à l’aller et 50$/Mex au retour.
-La ville est vraiment très belle et très propre. On fait un gand tour pour voir principalement des édifices religieux et des couvent transformés en musées, très souvent gratuit. En fin de journée un taxi nous raméne à Soriano.
+Ce matin on part en ville avec Thor pour se garer près du centre historique, la ville est très grande près de 700 000 hbts mais les rues sont vite très étroites. Après plusieurs manoeuvres pour se sortir de ruelles on décide de faire retour sur notre parking de Soriano. On change notre garafon vide pour un plein dans un magasin OXXO et on se pose.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46257927105/in/datetaken/" title="Santiago de Querétaro - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7873/46257927105_ae0281870a_k.jpg" width="2048" height="1152" alt="Santiago de Querétaro - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Du coup on mange dans Thor et on prend un taxi pour rejoindre le centre, c’est bien plus pratique et vraiment pas cher, 70$/Mex à l’aller et 50$/Mex au retour. La ville est vraiment très belle et très propre. On fait un gand tour pour voir principalement des édifices religieux et des couvent transformés en musées, très souvent gratuit. Mention particulière pour le Temple de Sainte Rose de Viterbo, e summum du kitsch à la mode espagnole. L'intérieur de cette église est en fait succéssion de retable dorée aux sculptures proéminentes. Corinne ne se c'est pas senti de rentrer tellement l'atmosphère est pesante. En fin de journée un taxi nous raméne à Soriano.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46257925055/in/datetaken/" title="Santiago de Querétaro - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7814/46257925055_dfdf4f7556_k.jpg" width="2048" height="1152" alt="Santiago de Querétaro - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47172150931/in/datetaken/" title="Santiago de Querétaro - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7816/47172150931_fa6e080999_k.jpg" width="2048" height="1152" alt="Santiago de Querétaro - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 ## 20 février
 
 Départ pour **San Pedros de Los Pozos**, une ancienne ville minière d’argent qui a périclitée à en devenir une ville fantome. Elle a retrouvé un peu de vie grace au Tourisme. A notre arrivée on caonstate que les rues sont hyper étroites et nous avons du mal à croiser les autres véhicules, on racle même notre pot d'échappement. Finalement on trouve un parking à la sortie du village, au musée qui a ouvert ses portes en 2016 et qui retrace l’histoire de la vile et des mines. L’idéal est de prendre un tour opérator pour visiter les ruines, impossible vue l’atat des pistes avec Thor.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46448595484/in/datetaken/" title="San Pedro De Los Pozos - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7891/46448595484_d9cb8a6f4e_k.jpg" width="2048" height="1152" alt="San Pedro De Los Pozos - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 On insiste pas et on revient un peu sur nos pas pour aller à **San Miguel de Allende**, notre destination du jour. La aussi on s’embarque dans des ruelles qui se réduisent de plus en plus. On fini par ressortir de la ville et on trouve un parking qui nous accepte non loin du centre ville.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46258102205/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7877/46258102205_b102c81d91_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Petite ville coloniale de l'Etat de Guanajuato au Centre du Mexique, San Miguel de Allende est une des plus belles étapes pour ceux qui veulent découvrir cette région montagneuse du pays parsemée de cités qui se sont enrichies grâce aux nombreuses mines d'or et d'argent exploitées dès la conquête du pays par les espagnols.
 Inscrite au Patrimoine Mondial de l'Humanité par l'UNESCO en 2008.
