@@ -226,10 +226,7 @@ Nous arrivons à la mission San Francisco de Tilaco, malheureusement elle est co
 
 Nous reprenons la route pour visiter la dernière qui se trouve au fond d’une vallée, Notre Dame de la Lumière de Tancoyol. Encore un charmant petit village avec sa mission. Nous décidons de retourner à Landa De Matamoros, il est rop tard pour reprendre la route. Une fois arrivés, je vais sur la place du village qui propose du WiFi et je m’occupe du courier et des photos. J’assiste, de loin, à un mariage qui se déroule à la mission, c’est comme chez nous, madame avec une belle robe blanche avec une longue traîne, monsieur en costume sombre et à la sortie de l’église envoi de riz.
 
-Le soir on décide d’aller manger dans un petit restaurant de rue qui se trouve en face la mission. Comme je vois 4 jeunes attablés à côtê de nous avec pas mal de cannettes de bière, on passe commande de :
-- Gringas (tortilla avec fromage et lanières de steak)
-- Taquitas de Adobo (petite tortilla avec des oignons de la salade et des lanières de steak)
-le tout avec sauces et citron vert et je demande donc une bière. Le patron est un peu gêné car il ne peut en vendre, un jeune se lève et me donne une de leur cannette qu’ils ont amenés, super sympa. On passe une très bonne soirée, on entend on fond du village la musique de l’animation du mariage.
+Le soir on décide d’aller manger dans un petit restaurant de rue qui se trouve en face la mission. Comme je vois 4 jeunes attablés à côtê de nous avec pas mal de cannettes de bière, on passe commande de Gringas (tortilla avec fromage et lanières de steak et de Taquitas de Adobo (petite tortilla avec des oignons de la salade et des lanières de steak), le tout avec sauces et citron vert et je demande donc une bière. Le patron est un peu gêné car il ne peut en vendre, un jeune se lève et me donne une de leurs cannettes qu’ils ont amenés, super sympa. On passe une très bonne soirée, on entend au fond du village la musique de l’animation du mariage.
 
 **(voir l’article complet sur les missions <a href="{{site.baseurl}}{% post_url 2019/2019-02-16-mexique-missions-gorda %}">ici</a>)**
 
