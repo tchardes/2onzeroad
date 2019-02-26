@@ -305,6 +305,8 @@ Après le repas on par en direction de Atotonilco, petit village qui abrite le S
 Nous partons ensuite direction de Dolores Hidalgo où nous faisons le tour du centre ville, bâti autour de sa cathédrale et de sa place. Cette ville de 150 000 habitants est la capitale de la céramique et le berceau de l'indépendance nationale du Mexique. Chaque année le président de la République vient ici célébrer cet acte.
 
 
+
+
 A Dolores Hidalgo on visitera donc la très belle église de style baroque et churrigueresque sur le parvis de laquelle Miguel Hidalgo appela à la rébellion, le fameux "Grito de Dolores" qui est lancé tous les ans le 15 septembre sur cette place par un représentant de la République et au moins une fois par le Président durant son mandat.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46448736104/in/datetaken/" title="Dolores Hidalgo - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7915/46448736104_5e9fb5bf5e_k.jpg" width="2048" height="1152" alt="Dolores Hidalgo - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
