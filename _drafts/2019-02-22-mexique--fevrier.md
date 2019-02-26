@@ -290,11 +290,11 @@ Sur la grande place de nombreuses personnes flanes, il reigne une ambiance très
 
 ## 21 février
 
-Ce matin on repart à pied pour visiter cette belle ville. On commence  par le lavoir qui est original dans sa conception mais sans plus puis nous montons au Mirador, point haut d’où l’on domine la ville. On redescend du côté de la Cathédrale et refesons un tour des divers monuments, du marché artisanal. Avant de faire retour à Thor on repasse chez "PANIO" pour prende une baguette en Epi ainsi que deux gâteaux. On se régale.
+Ce matin on repart à pied pour visiter cette belle ville. On commence par le lavoir qui est original dans sa conception mais sans plus puis nous montons au Mirador, point haut d’où l’on domine la ville. On redescend du côté de la Cathédrale et refesons un tour des divers monuments, du marché artisanal. Avant de faire retour à Thor on repasse chez "PANIO" pour prende une baguette en Epi ainsi que deux gâteaux. On se régale.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40208056873/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7866/40208056873_c61860138f_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Après le repas on par en direction de Atotonilco, petit village qui abrite le Santuario De Jesús Nazareno, magnifiques bâtiments religieux qui abrite plusieurs chapelles dont les murs sont recouverts de dessins représentant l’histoire de Jésus.
+Après le repas on par en direction de Atotonilco, petit village qui abrite le Santuario De Jesús Nazareno, magnifiques bâtiments religieux qui abrite plusieurs chapelles dont les murs sont recouverts de dessins et de sculptures représentant l’histoire de Jésus. C'est impressionnant et très bien conservé. On comprend aisément qu'à une époque où peu de gens savaient lire, il était facile par ces fresque de leur inculquer l'histoire biblique.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32231091987/in/datetaken/" title="Atotonilco - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7844/32231091987_0ffab12ab7_k.jpg" width="2048" height="967" alt="Atotonilco - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
