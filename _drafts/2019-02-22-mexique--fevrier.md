@@ -328,7 +328,7 @@ Nous restons sur les hauteurs de la ville et nous posons sur le parking d’un m
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46487903734/in/datetaken/" title="Guanajuato - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7860/46487903734_79e8df854f_k.jpg" width="2048" height="1450" alt="Guanajuato - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-C’est vraiment très beau et très animés, très jeune en rauisons d'une importante université. La ville s’étand sur les pentes abruptes des collines, très colorées on dirait un peu Tetris. 
+C’est vraiment très beau et très animés, très jeune en rauisons d'une importante université. La ville s’étand sur les pentes abruptes des collines, très colorées on dirait un peu Tetris.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40246409373/in/datetaken/" title="Guanajuato - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7800/40246409373_0e0cd5d0e2_k.jpg" width="2048" height="1152" alt="Guanajuato - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
