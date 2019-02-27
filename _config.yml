@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "21.893032, -102.290609"
-  name: "Aguascalientes - Aguascalientes - Mexique"
-  date: "25 au 26 février 2019"
+  coordinates: "20.681468, -103.323391"
+  name: "Guadalajara - Jalisco - Mexique"
+  date: "27 au 28 février 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
