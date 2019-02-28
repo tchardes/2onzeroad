@@ -384,11 +384,19 @@ Elle a été fondée sur 20 Janvier de 1576 par Martin Enríquez de Almans
 La ville doit son nom à la région espagnole du León dont était originaire le vice-roi espagnol qui la fonda. Le lion (león en espagnol) présent dans plusieurs monuments de la ville, notamment au-dessus de l'arc de triomphe, est un symbole qui n'a été ajouté que postérieurement par homonymie avec le nom de la ville.
 Elle est connue sous le nom de La Capitale de la chaussure. On y trouve de grandes usines qui ne produisent pas seulement des chaussures, mais aussi des bottes, ceintures, vestes et autres articles en cuir, desservant à la fois les marchés nationaux et internationaux.
 
+## 25 et 26 février
+
+Ce matin on quitte Lagos de Moreno et on décide de na pas prendre l’autopista mais plustôt les route secondaire. On a été servi. C’est surement la plus mauvaise route que l’n ait emprunté depuis que nous somme sur les routes. Parfois mieux vaut une bonne piste qu’une route où il faut zigzaguer pour éviter trous, affaissements, ansebce de bitume, topé et j’en passe. Un vrai calvaire pour nous et surtout pour Thor. Nous arrivons quand même à aguascalientes où nous trouvons notre bivouac dans une très bel Hôtel qui acceuille les RV. On passe l’après misi à s’occuper de Thor et de la logistique.
+
+Matinée tranquile on appelle les enfants. Vers 11 on part à pied dans le centre historique pour visiter la ville. A midi on mange dans un petit restaurant  mexicain et on bat le record. 2 menus, soupe, plats, dessert, boisson = 110$/Mex soit 5,23€ pour nous deux.
+Depuis la place Patria on a visité la Catedral Basilica De Nuestra Señora De La Asunción, Cultural Institute of Aguascalientes, Jardín de San Marcos, Temple of San Marcos, Museo Nacional de la Muerte, Templo de San Antonio de Padua et le palais du gouverneur.
 
 
+## 27 et 28 février
 
+Route jusqu’a Guadalajara par l’autopiste, un peu chère quand même 30€ en tout.
+Arrivé en ville on fait les courses et on se pose dans un parking qui autorise de dormir. Le gars super sumpa, il nous fait attendre et bouge 5 voiture pour faire une place pour Thor.
 
-## 24 février
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
