@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "20.883882, -103.831763"
-  name: "Tequila - Jalisco - Mexique"
-  date: "01 au 03 mars 2019"
+  coordinates: "20.300866, -103.200585"
+  name: "Chapala - Jalisco - Mexique"
+  date: "02 au 04 mars 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
