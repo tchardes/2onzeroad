@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   " Centre du Mexique"
+title:   " Centre du Mexique - Ville Coloniales"
 preview: "Cet article couvre la période du 5 février au…"
 parent-id: 
 
@@ -371,22 +371,16 @@ Ce matin on fait un échange standard de notre Garafon d'eau potable et non pren
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46297726475/in/datetaken/" title="Silao - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7881/46297726475_bbd007a133_k.jpg" width="2048" height="1487" alt="Silao - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Arrivé à Leon on se gare et on prend les transports en commun pour accéder au centre historique. Dans la cathédrale on assiste à la fin d’une des messes de la journée, elle est pleine. Petit tour de tous le quartier et retour à Thor.
+Leon est aussi connu comme "La Perla del Bajío" (La Perle du Bajío) mais aussis pour être la capitale de la chaussure. La ville compte plus 1,5 million d'habitants. On se gare sur le parking d'une grande surface,et on prend les transports en commun pour accéder au centre historique. Dans la cathédrale on assiste à la fin d’une des messes de la journée, l'église est pleine. Petit tour des principaux batiments puis retour à Thor.
 
 
+Nous reprenons la route en direction de **Lagos de Moreno** et nous posons sur le parking d’un Bodega Aurrora et partons faire un petit tour en ville. Sur une place on tombe sur une cérémonie de remise de prix scolaires je pense, chaque école est représentée avec à sa fanfare. Finalement nous décidons de rester là pour la nuit.
 
-Nous reprenons la route en direction de Lagos de Moreno et nous posons sur le parking d’un Bodega Aurora et partons faire un petit tour en ville. Sur une place on tombe sur une cérémonie de remise de prix scolaires je pense, chaque école à sa fanfare.
 
-
-León – officiellement León de los Aldamas – est une ville industrielle au cœur du Mexique. C'est la  plus grande ville du pays et la plus grande ville de l'État du Guanajuato et la Région du Bajío. Aussi connu comme « La Perla del Bajío » (La Perle du Bajío). Dans le recensement de la population de 2015, là ville compte avec 1.567.892 habitants, et La Région Métropolitaine de León compte avec 1,967,789 habitants. Il est situé à 384  de la capitale du pays.
-Elle a été fondée sur 20 Janvier de 1576 par Martin Enríquez de Almansa sous le nom de Villa de Leon 1 a reçu son nom actuel en 1830 en l'honneur des insurgés Juan Aldama et Ignacio Aldama, qui ont participé à la guerre de indépendance du Mexique2. Depuis le début des années 1940, l'économie la ville a tourné principalement autour de la chaîne de production, du cuir, des chaussures et du cuir proveeduría « qui est la raison pour laquelle il est appelé » la capitale mondiale de chaussures ' » - mais pour le début de siècle commence à réorienter son économie les services et l'industrie automobile.
- Ce lieu consolide les autres vocations économiques. Le diagnostic de soins de santé hautement spécialisés et, enseignement supérieur et de la recherche, ainsi que le tourisme d'affaires 3,4. Bien qu'il soit pas la capitale politique de état, est considéré comme le équité et économique, sociale, des services commerciaux.
-La ville doit son nom à la région espagnole du León dont était originaire le vice-roi espagnol qui la fonda. Le lion (león en espagnol) présent dans plusieurs monuments de la ville, notamment au-dessus de l'arc de triomphe, est un symbole qui n'a été ajouté que postérieurement par homonymie avec le nom de la ville.
-Elle est connue sous le nom de La Capitale de la chaussure. On y trouve de grandes usines qui ne produisent pas seulement des chaussures, mais aussi des bottes, ceintures, vestes et autres articles en cuir, desservant à la fois les marchés nationaux et internationaux.
 
 ## 25 et 26 février
 
-Ce matin on quitte Lagos de Moreno et on décide de na pas prendre l’autopista mais plustôt les route secondaire. On a été servi. C’est surement la plus mauvaise route que l’n ait emprunté depuis que nous somme sur les routes. Parfois mieux vaut une bonne piste qu’une route où il faut zigzaguer pour éviter trous, affaissements, ansebce de bitume, topé et j’en passe. Un vrai calvaire pour nous et surtout pour Thor. Nous arrivons quand même à aguascalientes où nous trouvons notre bivouac dans une très bel Hôtel qui acceuille les RV. On passe l’après misi à s’occuper de Thor et de la logistique.
+Ce matin on quitte Lagos de Moreno et on décide de na pas prendre l’autopista mais plustôt les routes secondaires pour nous rendre à **Aguascalientes**. On a été servi. C’est surement la plus mauvaise route que l’n ait emprunté depuis que nous sommes sur les routes. Parfois mieux vaut une bonne piste qu’une route où il faut zigzaguer pour éviter trous, affaissements, anbsence de bitume, topé et j’en passe. Un vrai calvaire pour nous et surtout pour Thor. Nous arrivons quand même à destination où nous trouvons notre bivouac dans une très bel Hôtel qui acceuille les RV. On passe l’après misi à s’occuper de Thor et de la logistique.
 
 Matinée tranquile on appelle les enfants. Vers 11 on part à pied dans le centre historique pour visiter la ville. A midi on mange dans un petit restaurant  mexicain et on bat le record. 2 menus, soupe, plats, dessert, boisson = 110$/Mex soit 5,23€ pour nous deux.
 Depuis la place Patria on a visité la Catedral Basilica De Nuestra Señora De La Asunción, Cultural Institute of Aguascalientes, Jardín de San Marcos, Temple of San Marcos, Museo Nacional de la Muerte, Templo de San Antonio de Padua et le palais du gouverneur.
