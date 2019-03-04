@@ -374,7 +374,7 @@ Ce matin on fait un échange standard de notre Garafon d'eau potable et non pren
 Leon est aussi connu comme "La Perla del Bajío" (La Perle du Bajío) mais aussis pour être la capitale de la chaussure. La ville compte plus 1,5 million d'habitants. On se gare sur le parking d'une grande surface,et on prend les transports en commun pour accéder au centre historique. Dans la cathédrale on assiste à la fin d’une des messes de la journée, l'église est pleine. Petit tour des principaux batiments puis retour à Thor.
 
 
-Nous reprenons la route en direction de **Lagos de Moreno** et nous posons sur le parking d’un Bodega Aurrora et partons faire un petit tour en ville. Sur une place on tombe sur une cérémonie de remise de prix scolaires je pense, chaque école est représentée avec à sa fanfare. Finalement nous décidons de rester là pour la nuit.
+Nous reprenons la route en direction de **Lagos de Moreno** et nous posons sur le parking d’un Bodega Aurrora et partons faire un petit tour de la ville. Sur une place on tombe sur une cérémonie de remise de prix scolaires je pense, chaque école est représentée avec à sa fanfare. Finalement nous décidons de rester là pour la nuit.
 
 
 
@@ -382,14 +382,48 @@ Nous reprenons la route en direction de **Lagos de Moreno** et nous posons sur l
 
 Ce matin on quitte Lagos de Moreno et on décide de na pas prendre l’autopista mais plustôt les routes secondaires pour nous rendre à **Aguascalientes**. On a été servi. C’est surement la plus mauvaise route que l’n ait emprunté depuis que nous sommes sur les routes. Parfois mieux vaut une bonne piste qu’une route où il faut zigzaguer pour éviter trous, affaissements, anbsence de bitume, topé et j’en passe. Un vrai calvaire pour nous et surtout pour Thor. Nous arrivons quand même à destination où nous trouvons notre bivouac dans une très bel Hôtel qui acceuille les RV. On passe l’après misi à s’occuper de Thor et de la logistique.
 
-Matinée tranquile on appelle les enfants. Vers 11 on part à pied dans le centre historique pour visiter la ville. A midi on mange dans un petit restaurant  mexicain et on bat le record. 2 menus, soupe, plats, dessert, boisson = 110$/Mex soit 5,23€ pour nous deux.
-Depuis la place Patria on a visité la Catedral Basilica De Nuestra Señora De La Asunción, Cultural Institute of Aguascalientes, Jardín de San Marcos, Temple of San Marcos, Museo Nacional de la Muerte, Templo de San Antonio de Padua et le palais du gouverneur.
+Vers 11 on part à pied pour le centre historique. A midi on mange dans un petit restaurant mexicain et on bat notre record. 2 menus, soupe, plats, dessert, boisson = 110$/Mex soit 5,23€ pour nous deux. Depuis la place Patria on a visité la Catedral Basilica De Nuestra Señora De La Asunción, Cultural Institute of Aguascalientes, Jardín de San Marcos, Temple of San Marcos, Museo Nacional de la Muerte, Templo de San Antonio de Padua et le Palais du gouverneur.
 
 
 ## 27 et 28 février
 
-Route jusqu’a Guadalajara par l’autopiste, un peu chère quand même 30€ en tout.
-Arrivé en ville on fait les courses et on se pose dans un parking qui autorise de dormir. Le gars super sumpa, il nous fait attendre et bouge 5 voiture pour faire une place pour Thor.
+Route jusqu’a **Guadalajara** par l’autopiste, un peu chère quand même 30€ en tout. Arrivé en ville on fait les courses et on se pose dans un parking qui autorise le RV. Le gars super sumpa, il nous fait attendre et bouge 5 voitures pour faire une place pour Thor. Ce n'est pas très glamour mais il difficile dans le 2 eme ville du mexique avec ces 6 milions d'habitants de trouver de la place pour Thor, en plus ici, c'est gardé jour et nuit.
+
+Nuit de merde mais nuit calme.
+Ce matin on prend le car pour le centre ville. On commence par l’Institut Culturel Cabanas, magnifique batiment, ancien horphelinat neoclassique datant de 1805 qui abrite de superbe fresque commentée par un guide et de nombreuses salles d’expositions. Il compte 23 Patios, et loa capilla mayor qui compte 40 fresque datant de 1939 réalisées par José clementé Orozco. Devant le batiment se trouve des scultures en forme de siège en broze assez étonnantes.
+De là nous empruntons une longue rue piétonne remplie de commerçant ambulant qui nous mène au centre avec son théatre, sa maisons du Gouverneur, sa cathédrale et son hotel de ville plus quelques églises. La ville met à disposition des tables avec des jeux de dames et d’échecs, des personnes jouenet ainsi dans la rue. Sur la plaza de armas se trouve un magnifique kioske à musique de style Art nouveau ornée de cariatides portnts des intruments de musique, construit en France
+En fin d’après-midi nous sommes rejoints par François et Yumie. On ne s’était pas revus depuis la basse Californie. Nous dinons dans un restaurant spécialisé dans la chévre ous forme d’effilochée à cuisson lente. Birriera Las 9 Asquinas. J’ai eu le malheur de vouloir me faire un tacos avec les ingrédients sur la table, notamment des oignons roses, j’ai cru mourir tellement c’était fort? j’en ai pleuré pendant 5 minutes… On est rentré en taxi et on a fini la soirée devanyt une bière ches François et Yumie.
+
+
+
+## 01 mars
+
+Ce matin on quitte Francois et Yumie et nous prenons deux cars de ville pour nous rendre au centre historique de Tlaquepaque. Ce village tourné vers l’artisanat a été peu à peu fagocité par l’expension de Guadalajara pour devenir aujourd’hui un quartier de banlieu. Toutefois ils ont sus garder leur âme de village et le centre ville a été très bien aménagé, pour les touristes , les rue pirtonnes regorges de boutiques et de restaurants. Destinée à une clientélle assez aisée, nous y avons vus de très beaux magasins de meubles, décorations… Nous avons visité les deux musées de la faience, très beaux. A midi nous mangeons dans un très bon restaurant, El Patio. 
+Nous reprenons ensuite le car pour le centre ville de Guadalajara puis un taxi jusqu’à notre bivouac avant de faire route vers Tequila en route plein d’eau et d’essence.
+
+
+
+## 02 mars
+
+Soirée et matin bruyant.
+En fin de matinée on refait un tour du centre ville, je prend un tour pour visiter la distillerie de José Cuervo, se sera à 13h30. Sur la place on assiste à un rituel indien, ils montent à 4 en haut d’un mât, il s’attache un pied et enroulenet leur corde autour du mât puis ils decendent en tournoyant tout en jouant de la musique. Cela nousrapelle notre dernier voyage à Mexico où on avait assisté à la même scéne sur le Zocala. Visite de la distillerie, du porcessus de fabrication jusqu’à la dégustation. Je ne suis pas vraiment fan de la Tequila. Dernier petit tour en ville puis nous reprenons la route. Nous voulions faire une boucle est visiter plusieurs villages mais François et Yumie ‘on fait hier et ils nous en ont dissuadé.
+On fait donc route jusqu’à Chapal qui se trouve au bord du lac éponyme, le plus grand du Mexique. On prend l’autoroute pour y aller ce qui nous permet de voir de très nombreux champs d’agaves bleues. De loin on diraai des champs de lavande. Le mexicains sont adeptent de l’écobuage, dès qu’on prend un peu de hauteur on peu voir un peu de partout des feux de brouillaille.
+Arrivé à Chapal nous faisons quelques courses puis trouvons un parking au bout du Malecon. On part à pied faie tout les Malecon au couchant, c’est très beau. Il ya beaucoup de touriste et de mexicains de Guadalajara qui ont l’habitude de venir ici passer le wek-end. On s’arrête dans un bar musical sur front de lac, Corinne prend une Cazuela, coktail à base d’agrumes de soda, de sel et de Tequilla et moi un Mojito… On ne se refait pas. Retour à Thor à la nuit tombée.
+La soirée risque d’être un peu bruyante…
+
+## 03 mars
+
+
+Nuit très bruyante, c’est vraiment des fêtards ces mexicanos…
+C’est Dimanche, on prend le temps. Il fait très beau et le gens affluent sur le Malecon. En fin d’après-midi nous faisons une balade en bord de lac, c’est le point de raliement de très nombreuses personnes. Les plus petit sont dans l’eau, une eau très sale, le lac est extrémement polluée, et les gens piqueniquent sur l’herbe, il y a de nombreuses boutiques ambulantes, de mariachis, c’est bondé, bruyant, les cannettes de bières vides sont légions mais l’ambiance est bonne enfant.
+Soirée tranquille dans Thor. Demain on reprend la route…
+
+
+
+
+
+
+
 
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
