@@ -387,7 +387,7 @@ Vers 11 on part à pied pour le centre historique. A midi on mange dans un petit
 
 ## 27 et 28 février
 
-Route jusqu’a **Guadalajara** par l’autopiste, un peu chère quand même 30€ en tout. Arrivé en ville on fait les courses et on se pose dans un parking qui autorise le RV. Le gars super sumpa, il nous fait attendre et bouge 5 voitures pour faire une place pour Thor. Ce n'est pas très glamour mais il difficile dans le 2 eme ville du mexique avec ces 6 milions d'habitants de trouver de la place pour Thor, en plus ici, c'est gardé jour et nuit.
+Route jusqu’a **Guadalajara** par l’autopiste, un peu chère quand même 30€ en tout. Arrivé en ville on fait les courses et on se pose dans un parking qui autorise le RV. Le gars super sympa, il nous fait attendre et bouge 5 voitures pour faire une place pour Thor. Ce n'est pas très glamour mais il difficile dans le 2 eme ville du mexique avec ces 6 milions d'habitants de trouver de la place pour Thor, en plus ici, c'est gardé jour et nuit.
 
 Nuit de merde mais nuit calme.
 Ce matin on prend le car pour le centre ville. On commence par l’Institut Culturel Cabanas, magnifique batiment, ancien horphelinat neoclassique datant de 1805 qui abrite de superbe fresque commentée par un guide et de nombreuses salles d’expositions. Il compte 23 Patios, et loa capilla mayor qui compte 40 fresque datant de 1939 réalisées par José clementé Orozco. Devant le batiment se trouve des scultures en forme de siège en broze assez étonnantes.
@@ -398,7 +398,8 @@ En fin d’après-midi nous sommes rejoints par François et Yumie. On ne s’é
 
 ## 01 mars
 
-Ce matin on quitte Francois et Yumie et nous prenons deux cars de ville pour nous rendre au centre historique de Tlaquepaque. Ce village tourné vers l’artisanat a été peu à peu fagocité par l’expension de Guadalajara pour devenir aujourd’hui un quartier de banlieu. Toutefois ils ont sus garder leur âme de village et le centre ville a été très bien aménagé, pour les touristes , les rue pirtonnes regorges de boutiques et de restaurants. Destinée à une clientélle assez aisée, nous y avons vus de très beaux magasins de meubles, décorations… Nous avons visité les deux musées de la faience, très beaux. A midi nous mangeons dans un très bon restaurant, El Patio. 
+Ce matin on quitte Francois et Yumie et nous prenons deux cars de ville pour nous rendre au centre historique de Tlaquepaque. Ce village tourné vers l’artisanat a été peu à peu fagocité par l’expension de Guadalajara pour devenir aujourd’hui un quartier de banlieu. Toutefois ils ont sus garder leur âme de village et le centre ville a été très bien aménagé, pour les touristes , les rue pirtonnes regorges de boutiques et de restaurants. Destinée à une clientélle assez aisée, nous y avons vus de très beaux magasins de meubles, décorations… Nous avons visité les deux musées de la faience, très beaux. A midi nous mangeons dans un très bon restaurant, El Patio. A l’entrée, la recptionniste nous demande d’où nous venons, elle ouvre un grand tiroir avec tous les drapeax bien rangés et elle nous sort le drapeaux français qu’elle pose sur notre table. Du coup on peu voir dans la salle la provenance de chacun. Pour les mexicain se sont les drapeaux de l’Etat. Nous étions pour le coup les seul francais.
+
 Nous reprenons ensuite le car pour le centre ville de Guadalajara puis un taxi jusqu’à notre bivouac avant de faire route vers Tequila en route plein d’eau et d’essence.
 
 
@@ -418,6 +419,42 @@ Nuit très bruyante, c’est vraiment des fêtards ces mexicanos…
 C’est Dimanche, on prend le temps. Il fait très beau et le gens affluent sur le Malecon. En fin d’après-midi nous faisons une balade en bord de lac, c’est le point de raliement de très nombreuses personnes. Les plus petit sont dans l’eau, une eau très sale, le lac est extrémement polluée, et les gens piqueniquent sur l’herbe, il y a de nombreuses boutiques ambulantes, de mariachis, c’est bondé, bruyant, les cannettes de bières vides sont légions mais l’ambiance est bonne enfant.
 Soirée tranquille dans Thor. Demain on reprend la route…
 
+
+## 04 mars
+
+Nuit calme… enfin.
+Nous quittons notre parking après avoir fait le plein d’eau.
+On décide de longer un peu le lac avant de prendre une route un peu plus importante pour la destination du jour. Finalement l’eau du lac est assez haute car nous voyoons de nombreuses terres inindées, nos voyons également une importante colonie de pélicans blancs.
+Au bout d’une quinzaine de kilomètres la route se transforme en petit chemin pavé de pierres volcaniques, nous sommes contraint de faire demi-tour. On repase par Chapala et nous prenons l’autopista que nous quittons à « La Balanca ». nous en profitons pour faite le plein de gaz et pur déjeuner. On tente de faire un échange standard de notre Garrafon mais nous n’avons pas la bonne marque pour ce magasin… On fait route ensuite sur Angahuan, village qui nous permettra de voir le seul volcan encore actif du Mexique le Puricutin.
+La route est un veritable calvaire, trous, topes, et parfois plus de route… Nous sommes surpris de la pauvreté de village traversés et de l’état lamentables de bas côtés de la route qui sont ni plus ni moins que des décharges publique. heureusement nous sommes en montagne et nous voyons de vrais arbes, bien grand bien vert…Dans les campagnes nous croisons encore beaucoup de caballeros qui chevauches leurs ânes. Nous traversons également des villages d’indiens Purépechas dont les femmes sont enroulées dans leurs châle souvent sombre.
+On traverse un village qui fini par un pont et Thor est trop large pour lui, obligé de faire un détour dans des ruelles pour sortir au delà du pont. Arrivés à Angahuan nous prenons de l’essence car nous sommes en réserve depuis un bon moment. Nous devons traverser le village pour accéder à notre bivouac je crains le pire. Nous sommes rattrapés par deux cavalier qui nous demandent su demain nous voulons faire l’excursion au volcan, je leur fais coprendre que pour l’instant je suis occupé. Finalement ils passent devant nous et nous ouvrent la route. Il faut dire que dans le village c’est effervescence. Certainement en raisons du carnaval il ya une immense bagarre à coup de jet de farine, tous les habitants que nous croisons sont blanc… Dans le petit chemin pavé toujours avec des pièrres volcanique, nos ouvreurs font partir un camion qui m’enpêche de partir, démontent des toiles tendues trpp basse pour Thor… Bref on arrive à El Mirador. On se gare et nous discutons de l’escursion de demain matin vers le volcan à Cheval, ca promet…
+Près de 8 heures pour faire 300 Km…
+
+## 05 mars
+
+Ce matin départ à cheval pour faire le tour du volcan puis voir l’ancienne églises ensevellie par la lave, soit entre 6 et 8 heures de randonnée. Nous ne sommes que deux, le guide et moi.
+Très vite j’ai des problème à respirer, il fait encore nuit, je comprend très vite aux première lueurs. La piste est fait de poussière de lave, on dirait de la farine tellement elle est fine. Avec en plus des pick-up qui nous croise à toute allure, on est en plein brouillard. Au bout de 2 heures je déclare forfait, j’ai les yeux qui pleurent, crises d’éternuement et j’ai de plus en plus de mal a respirer. Je demande au guide si la piste est de cette matière tout le long et devant l’affirmative de lui demande de faire demi-tour. On s’arrête au niveau de l’église et on rentre, pas de Paricutin sauf de loin aujourd’hui…
+Du coup au traine à El Mirador, Corinne me coupe les cheveux, je fais quelquesphotos de depuis l’esplanade. Vers les cuisine je vois une bouche d’égout par fermé, je vais voir le cuisto du restaurant qui m’autorise à y faire mes dumps.
+Nous reprenons la route en retraversant tout le village, peu de monde, aucun problème et faisont route vers Uruapan où nous nous arrêtons au Parc National. 
+Une très belle forêt de type tropicale avec une rivière et de nombreuses cascades et pont, le site abrite même une pisciculture de truite, il y fait très frais, tout ce vert fait du bien après tout ces décors désertiques entièrement jaunies voire brulés
+On fait un petit tour enville autour de la place principale mais il n’t a vraiment rien d’intéressant. On reprend la route en direction de Patzcuaro où on se pose à l’embarcadaire qui relie les iles qui se trouvent sur le lac. Malheureusement cela ne fonctionne que les WE. On est un peu de loin de la ville mais cela tombe bien car c’est carnaval et il y a énormément de bruit.
+
+
+## 06 mars
+
+Nuit très calme.
+Ce matin on part à la visite de la ville et on trouve facilement une place. On visite la Basilique à la cloche fendue qui sonne faux, puis la maison de la culture et on poursuit par la grande place qui a la particularité de ne pas être bordée par une église. Tout les batiments autour sont sous arches et abritent magasins, grands hotels, restaurants, c’est làque l’on mangera à midi au « El Patio » très bon repas maxicain.
+La ville n’a rien d’execptionnel en terme de batiment mais par contre, contrairement aux autres villes très colorées, Patzcuaro et toute blanche et rouge foncé, on se croirait un peu au pays basque. Les batiments sont blancs avec un soubassement rouge. Les encadrements des portes et fenêtres des belles batisses sont en grès rose, les autres sont simplement paint en rouge.
+L’après-midi on prend un taxi pour monter à El Mirador qui permet d’avoir une vue sur la ville et le lac avec ces illes, malheureusement le temps c’est couvert dans l’après-midi.
+De retour à Thor on part faire des courses et finalement on retourne à notre bivouac de la veille.
+
+## 07 mars
+
+
+## 08 mars
+
+
+## 09 mars
 
 
 

@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "19.549435, -102.222691"
-  name: "Angahuan - Michoacán - Mexique"
-  date: "04 au 05 mars 2019"
+  coordinates: "19.718818, -101.200967"
+  name: "Morelia - Michoacán - Mexique"
+  date: "07 et 08 mars 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
