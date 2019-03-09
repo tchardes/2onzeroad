@@ -118,9 +118,9 @@ Ce matin, départ pour une randonnée dans ce très beau parc. C’est à la mex
 
 On mange à mon retour puis on reprend la route direction **Zacatecas**. La route nationale n’a que deux voies plus un bas côté, la bande d’arrêt d’urgence. Il est de coutume, ici, de rouler à cheval entre la voie et le bas côté, ce qui permet aux autres automobilistes de doubler, même s’il y a une ligne continue. En face, ils font de même…
 
-On veut rentrer Sombrerete un petit village qui fait partie des "Pueblo Magico" pour y chercher de l’eau potable mais très vite, la rue se rétrécie, impossible d’avancer ou de reculer. Corinne est sortie régler la circulation de main de maître afin que je puisse reculer jusqu’à l’entrée…
+On veut rentrer dans Sombrerete, un petit village qui fait partie des "Pueblo Magico" pour y chercher de l’eau potable mais très vite, la rue se rétrécie, impossible d’avancer ou de reculer. Corinne est sortie régler la circulation de main de maître afin que je puisse reculer jusqu’à l’entrée…
 
->Une ville magique est une localité qui possède des attributs symboliques, des légendes, une histoire, des faits transcendants, la vie quotidienne, en un mot une magie qui émane de vous dans chacune de ses manifestations socioculturelles et qui représente aujourd'hui une grande opportunité pour les touristes. Le programme Magic Towns contribue à revaloriser un groupe de populations du pays qui ont toujours fait partie de l'imaginaire collectif de la nation dans son ensemble et qui représentent des alternatives nouvelles et différentes pour les visiteurs nationaux et étrangers. Elles sont au nombre de 121 à porter cette distinction au Mexique.
+>Une ville magique est une localité qui possède des attributs symboliques, des légendes, une histoire, des faits transcendants, la vie quotidienne, en un mot une magie qui émane de vous dans chacune de ses manifestations socioculturelles et qui représente aujourd'hui une grande opportunité pour les touristes. Les Magic Towns contribuent à revaloriser un groupe de populations du pays qui ont toujours fait partie de l'imaginaire collectif de la nation dans son ensemble et qui représentent des alternatives nouvelles et différentes pour les visiteurs nationaux et étrangers. Elles sont au nombre de 121 à porter cette distinction au Mexique.
 
 Arrivés à destination, nous allons directement dans un Soriana faire les courses avant de trouver un bivouac non loin. Dans les villes, aux feux rouges, il n’est pas rare de voir des clowns, jongleurs ou cracheurs de feu faire l’animation durant l'arrêt au rouge pour récolter quelques pièces.
 
@@ -265,7 +265,7 @@ Du coup, on mange dans Thor et on prend un taxi pour rejoindre le centre, c’es
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/47172150931/in/datetaken/" title="Santiago de Querétaro - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7816/47172150931_fa6e080999_k.jpg" width="2048" height="1152" alt="Santiago de Querétaro - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Demain nous rentrons dans l'Etat de Guanajuato et poursuivons la visite des villes coloniales par San miguel de Allende. Notre première sequence sur le continent mexicain c'est vraiment très bien passé, nous n'avons rencontré aucun problème particulier, les gens sont serviables et adorables.
+Demain nous rentrons dans l'Etat de Guanajuato et poursuivons la visite des villes coloniales par San Miguel de Allende. Notre première séquence sur le continent mexicain s'est vraiment très bien passée, nous n'avons rencontré aucun problème particulier, les gens sont serviables et adorables.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
