@@ -208,13 +208,13 @@ La ville n’a rien d’execptionnel en terme de batiment mais par contre, contr
 L’après-midi on prend un taxi pour monter à El Mirador qui permet d’avoir une vue sur la ville et le lac avec ces illes, malheureusement le temps c’est couvert dans l’après-midi.
 De retour à Thor on part faire des courses et finalement on retourne à notre bivouac de la veille.
 
-## 07 mars
+## 07 au 10 mars
 
 
-## 08 mars
+## 11 mars
 
 
-## 09 mars
+## 12 mars
 
 
 
