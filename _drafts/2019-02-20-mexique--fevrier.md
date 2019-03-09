@@ -16,7 +16,7 @@ country: Mexique
 states: ["Sinaloa", "Durango", "Zacatecas","San Luis de Potosi", "Querétaro"]
 category: "roadmap"
 flickr-text: ""
-location: "22.185544, -102.149155"
+location: "22.277885, -102.264700"
 itinary: "2019/sinaloa1.json"
 mapZoom: 7
 
