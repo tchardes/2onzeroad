@@ -1,19 +1,19 @@
 ---
 layout:  blog
 title:   " Centre du Mexique - Villes Coloniales 1"
-preview: "Cet article couvre la période du 5 février au…"
+preview: "Cet article couvre la période du 5 au 19 février 2019 durant laquelle nous avons traversé 6 état du centres du Mexique de Mazaltan dans l'Etat de Sinaloa à…"
 parent-id: 
 
 date:       2019-02-20 13:00:00
 from-date:  2018-02-05 13:00:00
-to-date:    2019-02-20 13:00:00
+to-date:    2019-02-19 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [architecture, culturel, religion]
-pois: [mazatlan#05-et-06-février, durango#07-février, saltito#09-février, sierra-organos#09-février, viejo-oesto#09-février,zacatecas#12-février, chicomoztoc#11-février, quenada#11-février, guadalupe#13-février, media-luna#14-février, missions-gorda#15-février, cadereyta#17-février, tequisquiapan#17-février, santiago-de-queretaro#18-février, pozos#20-février, miguel-allende#20-février]
+pois: [mazatlan#05-et-06-février, durango#07-février, saltito#09-février, sierra-organos#09-février, viejo-oesto#09-février,zacatecas#12-février, chicomoztoc#11-février, quenada#11-février, guadalupe#13-février, media-luna#14-février, missions-gorda#15-février, cadereyta#17-février, tequisquiapan#17-février, santiago-de-queretaro#18-février]
 country: Mexique
-states: ["Sinaloa", "Durango", "Zacatecas","San Luis de Potosi", "Querétaro", "Guanajuato"]
+states: ["Sinaloa", "Durango", "Zacatecas","San Luis de Potosi", "Querétaro"]
 category: "roadmap"
 flickr-text: ""
 location: "22.813178, -101.523916"
@@ -22,7 +22,7 @@ mapZoom: 6
 
 ---
 
-Cet article couvre la période du 5 au 20 février 2019 durant laquelle nous avons traversé 6 état du centres du Mexique de Mazaltan dna sl'2tat de Sinaloa à San Miguel de Allende situé dans l'Etat de Guanajuato.
+Cet article couvre la période du 5 au 19 février 2019 durant laquelle nous avons traversé 6 état du centres du Mexique de Mazaltan dans l'Etat de Sinaloa à Santiago de Querétaro dans l'Etat du même nom.
 
 ## 05 et 06 février
 
@@ -263,31 +263,6 @@ Du coup on mange dans Thor et on prend un taxi pour rejoindre le centre, c’est
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46257925055/in/datetaken/" title="Santiago de Querétaro - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7814/46257925055_dfdf4f7556_k.jpg" width="2048" height="1152" alt="Santiago de Querétaro - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47172150931/in/datetaken/" title="Santiago de Querétaro - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7816/47172150931_fa6e080999_k.jpg" width="2048" height="1152" alt="Santiago de Querétaro - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-## 20 février
-
-Départ pour **San Pedros de Los Pozos**, une ancienne ville minière d’argent qui a périclitée à en devenir une ville fantome. Elle a retrouvé un peu de vie grace au Tourisme. A notre arrivée on caonstate que les rues sont hyper étroites et nous avons du mal à croiser les autres véhicules, on racle même notre pot d'échappement. Finalement on trouve un parking à la sortie du village, au musée qui a ouvert ses portes en 2016 et qui retrace l’histoire de la vile et des mines. L’idéal est de prendre un tour opérator pour visiter les ruines, impossible vue l’atat des pistes avec Thor.
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46448595484/in/datetaken/" title="San Pedro De Los Pozos - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7891/46448595484_d9cb8a6f4e_k.jpg" width="2048" height="1152" alt="San Pedro De Los Pozos - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-On insiste pas et on revient un peu sur nos pas pour aller à **San Miguel de Allende**, notre destination du jour. Cette petite ville coloniale de l'Etat de Guanajuato fondée en 1542 est une des plus belles étapes pour ceux qui veulent découvrir ces cités qui sont nées grâce à la richesse de ses sols en minerai d'or et d'argent exploitées par les conquistadors. la ville est inscrite au Patrimoine Mondial de l'Humanité par l'Unesco en 2008.
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47162174312/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7816/47162174312_864515983d_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-La aussi on s’embarque dans des ruelles qui se réduisent de plus en plus. On fini par ressortir de la ville et on trouve un parking qui nous accepte non loin du centre ville. C’est donc a pied que l’on poursuit la découverte de cette très belle ville. Pour la première fois depuis notre entrée au Mexique on voit de nombreux touristes, principalement des américains. Oui il y a encore quelques américains qui n’ont pas peur de venir ici…
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46258099315/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7905/46258099315_2e5e3501cd_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47120256022/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7822/47120256022_d38eb8a2a3_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-Les Hôtels sont luxueux et il y a de nombreuses boutiques très belles sans parler des galeries d’art. On trouve plusieurs boulangerie patisserie Française "PANIO". On ne peut pas résister et on s’achète quelques bricoles. C’est vraiment excellent, les gâteaux sont très beaux ainsi que les pains. On fait le tour des principales églises, temples, couvents et la cathédrale qui sont toutes différentes et magnifiques.
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40208055633/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7889/40208055633_4cca4382b6_k.jpg" width="2048" height="1016" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-Sur la grande place de nombreuses personnes flanes, il reigne une ambiance très décontractée. On décide de jouer les prolongations et finissons au restaurant "Los Milagros" très agréable si ce n’est qu’il est rempli d’étasuniens et qu’ils sont seul au monde et  font un boucan d’enfer. A la sortie on refait un tour du centre, tous les monuments sont hyper bien illuminés, des mariachis jouent sur les places. Réel coup de coeur pour cette ville.
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46258169625/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7857/46258169625_666c0bd784_k.jpg" width="2048" height="1439" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 
 
 
