@@ -4,9 +4,9 @@ title:   " Centre du Mexique - Villes Coloniales 2"
 preview: "Cet article couvre la période du 5 février au…"
 parent-id: 
 
-date:       2019-03-08 13:00:00
-from-date:  2019-02-21 13:00:00
-to-date:    2019-03-08 13:00:00
+date:       2019-03-09 13:00:00
+from-date:  2019-02-20 13:00:00
+to-date:    2019-03-09 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
