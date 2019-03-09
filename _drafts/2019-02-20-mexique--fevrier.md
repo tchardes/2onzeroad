@@ -262,10 +262,6 @@ Du coup, on mange dans Thor et on prend un taxi pour rejoindre le centre, c’es
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/47172150931/in/datetaken/" title="Santiago de Querétaro - Querétaro - [Mexique]"><img src="https://farm8.staticflickr.com/7816/47172150931_fa6e080999_k.jpg" width="2048" height="1152" alt="Santiago de Querétaro - Querétaro - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
-
-
-
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8arFwQyuIpM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
