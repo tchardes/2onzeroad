@@ -16,7 +16,7 @@ country: Mexique
 states: ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán"]
 category: "roadmap"
 flickr-text: ""
-location: "22.813178, -101.523916"
+location: "20.529520, -101.855472"
 itinary: "2019/sinaloa2.json"
 mapZoom: 7
 
