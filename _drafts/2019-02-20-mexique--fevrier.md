@@ -18,7 +18,7 @@ category: "roadmap"
 flickr-text: ""
 location: "22.813178, -101.523916"
 itinary: "2019/sinaloa1.json"
-mapZoom: 6
+mapZoom: 5
 
 ---
 
