@@ -5,7 +5,7 @@ preview: "Cet article couvre la période du 5 au 19 février 2019 durant laquell
 parent-id: 
 
 date:       2019-02-20 13:00:00
-from-date:  2018-02-05 13:00:00
+from-date:  2019-02-05 13:00:00
 to-date:    2019-02-19 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
