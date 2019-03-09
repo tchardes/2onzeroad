@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "19.718818, -101.200967"
   name: "Morelia - Michoacán - Mexique"
-  date: "07 et 08 mars 2019"
+  date: "07 au 10 mars 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
