@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Parque Nacional Sierra de Órganos"
 preview:    "Nous quittons Durango en direction du Sud pour rejoindre le Parc National de la Sierra de Órganos qui se trouve dans l'État mexicain de Zacatecas…"
-parent-id:  2019-02-22-mexique--fevrier
+parent-id:  2019-02-20-mexique-fevrier
 
 date:       2019-02-09 12:00:00
 author:     "Thierry"

@@ -2,7 +2,7 @@
 layout:     blog
 title:      "Missions franciscaines de la Sierra Gorda"
 preview:    "Depuis San Luis de Potosi, nous décidons de nous enfoncer plus à l'Est dans les montagnes de la Sierra Gorda dans l'Etat de Querétaro pour voir les 5 missions…"
-parent-id:  2019-02-22-mexique--fevrier
+parent-id:  2019-02-20-mexique-fevrier
 
 date:       2019-02-16 12:00:00
 author:     "Thierry"
