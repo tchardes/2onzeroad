@@ -10,19 +10,19 @@ to-date:    2019-03-08 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
-tags: [architecture, culturel, religion]
-pois: [mazatlan#05-et-06-février, durango#07-février, saltito#09-février, sierra-organos#09-février, viejo-oesto#09-février,zacatecas#12-février, chicomoztoc#11-février, quenada#11-février, guadalupe#13-février, media-luna#14-février, missions-gorda#15-février, cadereyta#17-février, tequisquiapan#17-février, santiago-de-queretaro#18-février, pozos#20-février, miguel-allende#20-février, dolores-hidalgo#20-février, ]
+tags: [histoire, architecture, culturel, religion]
+pois: [pozos#20-février, miguel-allende#20-février, dolores-hidalgo#20-février, ]
 country: Mexique
-states: ["Sinaloa", "Durango", "Zacatecas","San Luis de Potosi", "Querétaro", "Guanajuato", "Jalisco", "Aguascalientes", "Michoacán"]
+states: ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán"]
 category: "roadmap"
 flickr-text: ""
 location: "22.813178, -101.523916"
-itinary: "2019/sinaloa.json"
-mapZoom: 6
+itinary: "2019/sinaloa2.json"
+mapZoom: 7
 
 ---
 
-Cet article couvre la période du 5 février au     2019 durant laquelle nous avons traversé la péninsule de la Basse-Californie qui compte deux états, la Basse-Californie et la Basse-Californie du Sud.
+Cet article couvre la période du 19 au février 2019 durant laquelle nous avons traversé la péninsule de la Basse-Californie qui compte deux états, la Basse-Californie et la Basse-Californie du Sud.
 
 ## 20 février
 
