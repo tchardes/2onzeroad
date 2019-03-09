@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   " Centre du Mexique - Ville Coloniales 2"
+title:   " Centre du Mexique - Villes Coloniales 2"
 preview: "Cet article couvre la période du 5 février au…"
 parent-id: 
 
