@@ -9,13 +9,13 @@ permalink: /about/
 
 <div id="toc"></div>
 
-### Qui sommes-nous ?  
+### Qui sommes-nous ?
 
-Nous sommes deux quinquagénaires, Corinne et Thierry, qui avons décidé tout simplement de lâcher prise et de profiter de la vie, autrement. Amoureux de voyages, nous avons déjà pas mal bourlingué tant pour des raisons professionnelles que personnelles et vécu en différents lieux. 
+Nous sommes deux quinquagénaires, Corinne et Thierry, qui avons décidé tout simplement de lâcher prise et de profiter de la vie, autrement. Amoureux de voyages, nous avons déjà pas mal bourlingué tant pour des raisons professionnelles que personnelles et vécu en différents lieux.
 
 ### Notre projet  
 
-Partir pour un voyage au long cours sans contrainte de temps ni de trajet. Sortir de notre zone de confort, de notre petite routine pour vivre une aventure humaine à deux. Nous savons que la vie de nomade ce n'est pas "Les vacances", cette aventure ne sera pas sans difficulté, il faudra savoir gérer d'autres problèmes, être à la recherche constante de l'équilibre.   
+Partir pour un voyage au long cours sans contrainte de temps ni de trajet. Sortir de notre zone de confort, de notre petite routine pour vivre une aventure humaine à deux. Nous savons que la vie de nomade ce n'est pas "Les vacances", cette aventure ne sera pas sans difficulté, il faudra savoir gérer d'autres problèmes, être à la recherche constante de l'équilibre.
 
 Cette idée nous est venue en 2013 en préparant un road trip pour la côte Ouest des États-Unis. Tandis que nous essayions tant bien que mal de caser un maximum de visites durant le temps imparti à notre voyage, nous sommes tombés par hasard sur le récit d'un couple de retraités qui venait de finir un voyage de 24 mois en Amérique du Nord. Ce fut le déclic et après de nombreuses discutions, interrogations, hésitations, décision fut prise. Nous avons annulé toutes nos réservations et sommes partis sur un autre projet, plus ambitieux.
 
@@ -25,11 +25,11 @@ Des nombreuses lectures de carnet de route et forums de voyageurs nous avons, en
 
 Nous savons d'ores et déjà que nous allons commencer notre voyage en Floride pour monter en Alaska et puis redescendre plein Sud. Même si un trajet idéal a été imaginé en fonction des saisons, visas, nous ne voulons pas nous mettre une pression ou nous sentir obligés de respecter un quelconque programme ou listing prédéfini. Donc vous l'aurez compris, pas de carte disponible de notre itinéraire prévisionnel, juste celui réalisé, mis à jour au fur et à mesure.
 
-### Pourquoi ce site Web 
+### Pourquoi ce site Web
 
 Ce site est destiné avant tout à nos proches et amis afin qu'ils puissent nous suivre dans nos pérégrinations et afin de les rassurer, si besoin était. Il est également destiné aux curieux, voyageurs et futurs voyageurs qui chercheraient des sujets de motivations et des renseignements. Nous avons bien conscience que nous ne serons pas les premiers à traverser ces lieux et vouloir les commenter. Tout a déjà été écrit sur le sujet et par bien meilleur que nous. Nous tenterons simplement, modestement, de partager notre vécu et nos ressentis, bons ou mauvais. Au final, on le fait également pour nous, afin de pallier nos pertes de mémoire !!!!.
 
-Il nous semble aussi que c'est un juste retour des choses tant la lecture de plusieurs dizaines de carnets de route nous a conforté dans notre idée de larguer les amarres et nous a permis de nous faire une idée de ce qui allait nous attendre. 
+Il nous semble aussi que c'est un juste retour des choses tant la lecture de plusieurs dizaines de carnets de route nous a conforté dans notre idée de larguer les amarres et nous a permis de nous faire une idée de ce qui allait nous attendre.
 
 Vous trouverez sur ce site un carnet de route avec des récits rédigés au fil de l'eau sur notre avancée ou bien sûr un sujet bien particulier qui aura plus ou au moins attiré notre attention. Nous essayerons de l'agrémenter de photos, vidéos et de cartes pour situer tout ça. N'hésitez pas à commenter ou nous poser des questions si vous souhaitez des précisions.
 
