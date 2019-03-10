@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   " Centre du Mexique - Villes Coloniales 1"
-preview: "Cet article couvre la période du 5 au 19 février 2019 durant laquelle nous avons traversé 6 état du centres du Mexique de Mazaltan dans l'Etat…"
+preview: "Cet article couvre la période du 5 au 19 février 2019 durant laquelle nous avons traversé 6 état du centres du Mexique de Mazatlan dans l'Etat…"
 parent-id: 
 
 date:       2019-02-20 13:00:00
@@ -22,11 +22,11 @@ mapZoom: 7
 
 ---
 
-Cet article couvre la période du 5 au 19 février 2019 durant laquelle nous avons traversé 6 états du centre du Mexique, de Mazaltan dans l'Etat de Sinaloa à Santiago de Querétaro dans l'Etat du même nom, à la découverte des villes coloniales.
+Cet article couvre la période du 5 au 19 février 2019 durant laquelle nous avons traversé 6 états du centre du Mexique, de Mazatlan dans l'Etat de Sinaloa à Santiago de Querétaro dans l'Etat du même nom, à la découverte des villes coloniales.
 
 ## 05 et 06 février
 
-Nuit ronronnante sur le bateau qui nous fait traverser la mer de Cortes en direction du continent. Ce matin, nous allons prendre notre petit déjeuner à la cantine du bateau. Au menu café, et assiette d’œufs brouillés avec jambon, poivrons au chorizo et purée de haricots... L’arrivée sur **Mazaltan** est sympa, c’est dommage que le temps soit nuageux. Pour sortir du bateau, les agents sont obligés de mettre des cordages sous les roues avant de Thor pour ne pas que le châssis touche.
+Nuit ronronnante sur le bateau qui nous fait traverser la mer de Cortes en direction du continent. Ce matin, nous allons prendre notre petit déjeuner à la cantine du bateau. Au menu café, et assiette d’œufs brouillés avec jambon, poivrons au chorizo et purée de haricots... L’arrivée sur **Mazatlan** est sympa, c’est dommage que le temps soit nuageux. Pour sortir du bateau, les agents sont obligés de mettre des cordages sous les roues avant de Thor pour ne pas que le châssis touche.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/46947518872/in/datetaken/" title="Mazatlan - Sinaloa - [Mexique]"><img src="https://farm8.staticflickr.com/7927/46947518872_36b165806b_k.jpg" width="2048" height="1152" alt="Mazatlan - Sinaloa - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -48,7 +48,7 @@ Après déjeuner, nous nous mettons en quête d’une librairie publique accessi
 
 ## 07 février
 
-Ce matin, départ de Mazaltan, direction le centre et la montagne. Pour accéder à Durango, il y deux routes possibles l’ancienne, très mauvaise et très longue, compter près de 6 heures pour rejoindre la capitale de l'Etat ou 3 heures 30 en passant par "l’autoroute". Corinne n’appréciant pas trop les routes de montagne, on opte pour la deuxième solution. En chemin, on s’arrête à **Concordia**, petit village mexicain typique, construit autour de sa mission.
+Ce matin, départ de Mazatlan, direction le centre et la montagne. Pour accéder à Durango, il y deux routes possibles l’ancienne, très mauvaise et très longue, compter près de 6 heures pour rejoindre la capitale de l'Etat ou 3 heures 30 en passant par "l’autoroute". Corinne n’appréciant pas trop les routes de montagne, on opte pour la deuxième solution. En chemin, on s’arrête à **Concordia**, petit village mexicain typique, construit autour de sa mission.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/47066113701/in/datetaken/" title="Concordia - Sinaloa - [Mexique]"><img src="https://farm8.staticflickr.com/7891/47066113701_0c7dd7d4de_k.jpg" width="2048" height="1152" alt="Concordia - Sinaloa - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
