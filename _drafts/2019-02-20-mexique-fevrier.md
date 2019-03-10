@@ -13,7 +13,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
 pois: [mazatlan#05-et-06-février, concordia#07-février, durango#07-février, saltito#09-février, sierra-organos#09-février, viejo-oesto#09-février,zacatecas#12-février, chicomoztoc#11-février, quenada#11-février, guadalupe#13-février, media-luna#14-février, missions-gorda#15-février, cadereyta#17-février, tequisquiapan#17-février, santiago-de-queretaro#18-février]
 country: Mexique
-states: ["Sinaloa", "Durango", "Zacatecas","San Luis de Potosi", "Querétaro"]
+states: ["Sinaloa", "Durango", "Zacatecas", "San Luis de Potosi", "Querétaro"]
 category: "roadmap"
 flickr-text: ""
 location: "22.277885, -102.264700"
