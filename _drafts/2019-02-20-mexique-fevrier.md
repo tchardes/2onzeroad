@@ -269,4 +269,4 @@ Demain nous rentrons dans l'Etat de Guanajuato et poursuivons la visite des vill
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8arFwQyuIpM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/px48DDlGW_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
