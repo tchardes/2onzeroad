@@ -1,6 +1,6 @@
 ---
 layout:  blog
-title:   " Centre du Mexique - Villes Coloniales 2"
+title:   " Autour de Mexico"
 preview: "Cet article couvre la période du 5 février au…"
 parent-id: 
 
@@ -11,9 +11,9 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
-pois: [pozos#20-février, miguel-allende#20-février, atotonilco#21-février, dolores-hidalgo#20-février, ]
+pois: [pozos#20-février, ]
 country: Mexique
-states: ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán"]
+states: ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán", "Hidalgo"]
 category: "roadmap"
 flickr-text: ""
 location: "20.529520, -101.855472"

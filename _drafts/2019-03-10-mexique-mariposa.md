@@ -1,18 +1,18 @@
 ---
 layout:     blog
-title:      "Parque Nacional   El Rosarion"
+title:      "Sanctuaire de Mariposa - El Rosario"
 preview:    "…"
 parent-id:  2019-03-15-mexique-mars
 
 date:       2019-03-10 12:00:00
 author:     "Thierry"
-header-img: "assets/owner/blog/header/post-bg-organos.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-organos.jpg
-tags: [parc-naturel, montagne, riviere]
-pois: [sierra-organos, saltito]
-flickr-text: "Sierra de Órganos"
+header-img: "assets/owner/blog/header/post-bg-monarch.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-monarch.jpg
+tags: [parc-naturel, faune]
+pois: [el-rosario]
+flickr-text: "Mariposa"
 country: Mexique
-states: ["Durango", "Zacatecas"]
+states: ["Michoacán"]
 city: 
 category: "blog"
 location: "23.784374, -103.788771"
