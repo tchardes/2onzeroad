@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
-pois: [ pozos#20-février, san-miguel#20-février, atotonilco#21-février, dolores#21-février, guanajuato#22-février, leon#24-février, lago#24-février, aguascalientes#25-et-26-février, guadalajara#27-et-28-février, tlaquepaque#01-mars, tequila#01-mars, chapal#02-mars, angahuan#04-mars, a#01-mars, a#01-mars, a#01-mars, a#01-mars, a#01-mars, a#01-mars,,]
+pois: [ pozos#20-février, san-miguel#20-février, atotonilco#21-février, dolores#21-février, guanajuato#22-février, leon#24-février, lago#24-février, aguascalientes#25-et-26-février, guadalajara#27-et-28-février, tlaquepaque#01-mars, tequila#01-mars, chapal#02-mars, angahuan#04-mars, paricutin#05-mars, uruapan#05-mars, patzcuaro#06-mars, tzintzuntzan#07-mars, morelia#08-et-09-mars, cuitzeo#10-mars, yuiria#10-mars, el-rosario#10-mars, tula#12-mars, ixmiquilpan#12-mars, tolantongo#12-mars, las-grutas#10-mars]
 country: Mexique
 states: ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán", "Hidalgo"]
 category: "roadmap"
@@ -175,14 +175,14 @@ Soirée tranquille dans Thor.
 Nuit calme… enfin. Nous quittons notre parking après avoir fait le plein d’eau.
 On décide de longer un peu le lac avant de prendre une route un peu plus importante pour la destination du jour. Finalement l’eau du lac est assez haute car nous voyons de nombreuses terres agricoles inondées, nos voyons également une importante colonie de pélicans blancs.
 
-Au bout d’une quinzaine de kilomètres la route se transforme en petit chemin pavé de pierres volcaniques, nous sommes contraints de faire demi-tour. On repase par Chapala et nous prenons l’autopista que nous quittons à "La Balanca". nous en profitons pour faire le plein de gaz et pour déjeuner. On tente de faire un échange standard de notre garrafon mais nous n’avons pas la bonne marque pour ce magasin… On fait route ensuite sur Angahuan, village qui nous permettra de voir le seul volcan encore actif du Mexique le Puricutin.
+Au bout d’une quinzaine de kilomètres la route se transforme en petit chemin pavé de pierres volcaniques, nous sommes contraints de faire demi-tour. On repasse par Chapala et nous prenons l’autopista que nous quittons à "La Balanca". nous en profitons pour faire le plein de gaz et pour déjeuner. On tente de faire un échange standard de notre garrafon mais nous n’avons pas la bonne marque pour ce magasin… On fait route ensuite sur Angahuan, village qui nous permettra de voir le seul volcan encore actif du Mexique le Puricutin.
 
 La route est un veritable calvaire, trous, topes, et parfois plus de route… Nous sommes surpris de la pauvreté des villages traversés et de l’état lamentables des bas côtés de la route qui sont ni plus ni moins que des décharges publiques. heureusement nous sommes en montagne et nous voyons de vrais arbes, bien grand bien vert… Dans les campagnes nous croisons encore beaucoup de caballeros qui chevauches leurs ânes. Nous traversons également des villages d’indiens Purépechas dont les femmes sont enroulées dans leur châle blueu foncé.
 On traverse un village qui fini par un pont et Thor est trop large pour lui, obligé de faire un détour dans des ruelles pour sortir au delà du pont. Arrivés à **Angahuan** nous prenons de l’essence car nous sommes en réserve depuis un bon moment. Nous devons traverser le village pour accéder à notre bivouac je crains le pire. Nous sommes rattrapés par deux cavaliers qui nous demandent si demain nous voulons faire l’excursion au volcan, je leur fais comprendre que pour l’instant je suis occupé. Finalement ils passent devant nous et nous ouvrent la route. Il faut dire que dans le village c’est effervescence. Certainement en raison du carnaval il y a une immense bagarre à coup de jet de farine, tous les habitants que nous croisons sont blanc… Dans le petit chemin pavé toujours avec des pièrres volcanique, nos ouvreurs font partir un camion qui m’enpêche de passer, démontent des toiles tendues trop basses pour Thor… Bref on arrive à El Mirador. On se gare et nous discutons de l’escursion de demain matin vers le volcan à Cheval, ca promet… Nous aurons mis au final près de 8 heures pour faire 300 Km…
 
 ## 05 mars
 
-Ce matin départ à cheval pour faire le tour du volcan puis voir l’ancienne églises ensevellie par la lave, soit entre 6 et 8 heures de randonnée. Nous ne sommes que deux, le guide et moi.
+Ce matin départ à cheval pour faire le tour du volcan **Paricutin** puis voir l’ancienne églises ensevellie par la lave, Antigua Iglesia de San Juan Parangaricutiro, soit entre 6 et 8 heures de randonnée. Nous ne sommes que deux, le guide et moi.
 Très vite j’ai des problème à respirer, il fait encore nuit, je comprend très vite aux première lueurs. La piste est fait de poussière de lave, on dirait de la farine tellement elle est fine. Avec en plus des pick-up qui nous croisent à toute allure, on est en plein brouillard. Au bout de 2 heures je déclare forfait, j’ai les yeux qui pleurent, crises d’éternuement et j’ai de plus en plus de mal a respirer. Je demande au guide si la piste est de cette matière tout le long et devant l’affirmative de lui demande de faire demi-tour. On s’arrête au niveau de l’église et on rentre, pas de Paricutin sauf de loin aujourd’hui…
 
 
@@ -222,11 +222,11 @@ Notre premier arrêt se fait à **Cuitzeo Del Porvenir** on y arrive en traverss
 
 On se rabat sur le couvent qui a été transformé en musée. Le rez-de-chaussé du cloître présente quelques salles où sont présentés tableaux et objets divers tandis que l’étage est resté tel quel, on passe dans tous les lieux de vie des moines à l’époque. De nombreuses fresques sont encore visibles en monochromie pour la pluspart. Sur la place un orchestre joue et les gens boivent et mangent, au Mexique comme aux USA, on a l’impression qu’ils mangent non stop. La ville a adopté les mêmes codes couleurs pour ces batimeents qu'à Paztcuaro, blanc et rouge.
 
-On reprend la route pour visiter le couvent de **Yuiria**. Lui aussi de style Platesque caractéristique de la Renaissance Espagnole le bâtiment ressemble plus à une forteresse qu’à un édifice religieux. Malheureusement il est fermé pour travaux. On poursuit sur la route des couvents jusqu’au sanctuaire des papillons monarches à El Rosario. Nous passons dans un premier temps par Angangueo mais vu la taille de route on fait demi tour et passons par Ocampo. La route qui monte à 3000 mètres d’altutude et parsemée de Topés, c’est vraiment pénible. Arrivés au sanctuaire nous bivouaquons directement sur le parking du site. On verra demain matin…
+On reprend la route pour visiter le couvent de **Yuiria**. Lui aussi de style Platesque caractéristique de la Renaissance Espagnole le bâtiment ressemble plus à une forteresse qu’à un édifice religieux. Malheureusement il est fermé pour travaux. On poursuit sur la route des couvents jusqu’au sanctuaire des papillons monarches à **El Rosario**. Nous passons dans un premier temps par Angangueo mais vu la taille de route on fait demi tour et passons par Ocampo. La route qui monte à 3000 mètres d’altutude et parsemée de Topés, c’est vraiment pénible. Arrivés au sanctuaire nous bivouaquons directement sur le parking du site. On verra demain matin…
 
 ## 11 mars
 
-Nuit fraîche à ces altitudes… Ce matin on se lêve le parking est presque vide, généralement réservé aux propriétaires des boutiques souvenirs et restaurants. Déjà de nombreux papillons… papillonnent. Il faut dire qu’ils aiment la chaleur et quittent leur grappe accrochée aux branches que lorsque le soleil chauffe leur ailes.
+Nuit fraîche à cette altitude… Ce matin on se lêve le parking est presque vide, généralement réservé aux propriétaires des boutiques souvenirs et restaurants. Déjà de nombreux papillons… papillonnent. Il faut dire qu’ils aiment la chaleur et quittent leur grappe accrochée aux branches que lorsque le soleil chauffe leur ailes.
 
 Vers 10h00 on se dirige vers l’entrée, on paye les deux entrée 50$/Mex/Pers. qui comprend également un guide. Nous pertons à l’assau de la montagne, cela fait du bien de marcher en pleine forêt avec de beaux résineux. On sent l’altitude, le souffle est court mais notre guide s’adapte à notre rythme. Le sol est tapis de monarches morts, si on a bien compris des males. C’est un moment magique d’en voir autant, il y en a des millions. Grâce aux informations de Cristophe et Jean-Pierre nous demandons à notre guide de finir la boucle par le chemin utilisé par les chevaux. On arrive ainsi dans un grand près où ils sont des milliers c’est féerique… On prend le temps de prendre des photos et vidéos, la guide attend patiemment, en plus nous sommes en semaine et presque en fin de saison, il n'y a pas grand monde. D’ici une dizaine de jours ils vont entamer leur migration. Sur les 5 sites, seuls 2 sont visitables, El Rosario est le plus connu.
 
@@ -236,8 +236,16 @@ On reprend la route après avoir pris un peu d’essence et on décide de prendr
 ## 12 mars
 
 Nuite très calme sur notre parking.
-Ce matin nous prenons des nouvelles de la famille puis nous partons pour le site archéologique de Tula, très beau site occupé succésivement par les Toltec puis les Aztecs. C’est notre premier site de ce séjour qui est assez complet avec quelques bas reliefs. Le musée du site est fermé pour cause de travaux. Le site présente deux pyramides et deux jeux de pelote et divers batiments. Il n’y a pratiquement personne sur le site qui domine la ville de Tula, c’est bien agréable. Nous mangeons dans Thor sur le parking puis nous prenons la route vers le Norsd pour visiter le couvent et l’église de Ixmiquilpan. Nous y arrivons vers16h00 l’imposante église, rose, est fermée et le couvent ne se visite pas le Mardi….
-La ville ne présentant aucun autre intérêt nous poursuivons vers Tolantongo et sa fameuse grotte. Aucun de nos guides ne parle de cet endroit, c’est en voyant les photos de John et.    les néo-calédoniens rencontrés à Guanajuato que nous avons décidé d’y faire un passage.
+Ce matin nous prenons des nouvelles de la famille puis nous partons pour le site archéologique de **Tula**, très beau site occupé succésivement par les Toltec puis les Aztecs. C’est notre premier site de ce séjour qui est assez complet avec quelques bas reliefs. Le musée du site est fermé pour cause de travaux. Le site présente deux pyramides et deux jeux de pelote et divers batiments. Il n’y a pratiquement personne sur le site qui domine la ville de Tula, c’est bien agréable.
+
+
+Nous mangeons dans Thor sur le parking puis nous prenons la route vers le Norsd pour visiter le couvent et l’église de **Ixmiquilpan**. Nous y arrivons vers16h00 l’imposante église, rose, est fermée et le couvent ne se visite pas le Mardi….
+
+
+
+
+
+La ville ne présentant aucun autre intérêt nous poursuivons vers **Tolantongo** et sa fameuse **"Las Grutas"**. Aucun de nos guides ne parle de cet endroit, c’est en voyant les photos de John et Sarha les néo-calédoniens rencontrés à Guanajuato que nous avons décidé d’y faire un passage.
 La route pour y accéder est assez belle, les 16 derniers kilomètres sont un peu moins bons. Rapidement la route descend en lacés très serrés et très raides. Après avoir passé l’entrée du site il reste un longue piste pour arriver jusqu’à la rivière, d’une couleur turquoise et d’une température de 34 à 38°. On se pose près d’un hôtel et nous prenons notre premier bain, un pur bonheur. Le site a été aménagé afin de créer, avec des rochers, des dizaine de piscines. L’hôtel met à disposition des campeurs toilettes et douches chaudes… On va peut être y rester plusieurs jours….
 
 ## 13 mars
