@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "20.057762, -99.341709"
-  name: "Tula - Hidalgo - Mexique"
-  date: "12 mars 2019"
+  coordinates: "19.717404, -99.215293"
+  name: "Tepotzotlán - Mexico - Mexique"
+  date: "16 mars 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
