@@ -16,7 +16,7 @@ country: Mexique
 states: ["Mexico", "", "", "", ""]
 category: "roadmap"
 flickr-text: ""
-location: "20.529520, -101.855472"
+location: "19.283517, -99.133987"
 itinary: "2019/mexico.json"
 mapZoom: 7
 ---
