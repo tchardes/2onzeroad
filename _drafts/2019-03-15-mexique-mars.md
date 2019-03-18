@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   "Centre du Mexique - Villes Coloniales 2"
-preview: "Cet article couvre la période du 19 au février au 16 mars 2019 durant laquelle nous avons traversé 5 états du centre du Mexique, de San Miguel…"
+preview: "Cet article couvre la période du 19 au février au 16 mars 2019 durant laquelle nous avons traversé 5 états du centre du Mexique, de San De Allende…"
 parent-id: 
 
 date:       2019-03-09 13:00:00
@@ -249,15 +249,29 @@ Retour à pied à Thor, on ne trouve pas de restaurant ouvert. Après-midi nous 
 
 ## 14 mars
 
+On passe la matinée à trainer, à midi nous allons mangé au restaurant de l’hôtel Las Grutas, très bon repas accompagné d’une Corona et d’un desser, glace pour Corinne et pour moin un truc bizarre, un genre de flan mais ferme et en morceau, c’était bon..
+Après-midi a travailler sur le blog puis un bon bain avec talasso dans la cascade un pur bonheur de détente.
+On arrive ensuite à faire le plein d’eau et le vide des eaux grises puis vers 18h00 nous attaquons l’ascencion de cette route incroyable pour nous arrêter tout en haut sur un parking pour les cars. Le dénivelé est de 566 mètres  sur 7 Km. Arrivé sur le parking un vieux monsieur se porte à ma hauteur, on lui achéte de Pane de Pulque, on a va gouter ce soir…
 
 ## 15 mars
 
+Ce matin on se lève sous un ciel nuageux. 
+On a gouté le pane de pulque, qui ressemble plus en fait à un genre de brioche, c’est un peu sucré et il y a ce gout et cette odeur un peu particulière du Pulque qui est une boisson ancestrale des indiens du Mexique
+ réalisée par fermentation de la sève de certains agaves. On dirait un peu de l’orgeat à l’aspect et elle compte entre 6 et 8°. cette boisson traditionnelle est peu à peu remplacée par la bière. Dans les temps anciens cette boisson permetait d’être dans un état second propice à la discution avec les dieux…
+On a eu de la chance durant ces deux jours. On reprend la route en direction de Ixmiquilpan pour tenter à nouveau de voir son église et son couvent. En route nous faisosn des dumps sauvages et faisons remplir notre garrafon.
+Arrivés en ville l’église est bien ouverte cette fois-ci. Effectivement, même si elles sont en mauvais état, il y a de nombreuses fresques 
+Comme nous sommes là on fait la visite du couvent qui n’a rien d’extraordianire.
+On fait un tour en ville et allons au marché pour manger. On trouve un stand qui a l’air bien sympathique où nous mangeons des empanades que la demoisselle réalise entièrement devant nous. On prend trois accompagnements différent dont un avec du nopal très bon. Nous avons également essauyé des tacos, roulés en forme de cigarette et fries. Le tout est accompagné d’une sauce verte de salade hachée finement et de fromage « rapé ». C’était très bon. Certe il ne faut pas trop regarder l’hygiène mais il y a énormément de mexicains assis et donc du débit.
+Nous reprenons en suite la route en direction Actopan. Arrivés en ville on se gar tout près du couvent avec l’aide d’une policier municipal bien sympa.…. La visite permet de découvrir de très belles fresques en polychromie très bien conservés.
+Enfin route jusqu’à Pachuca où nous nous posons sur le parking d’un Soriana après y avoir fait les courses. On se déplace vers minuit et on change pour le parking de The Home Depot car nous sommes vendredi soir le parking et le lieux de rassemblement de tuning et les sonos sont insurportables, les basses font vibrer Thor.
+
+
 ## 16 mars
 
-## 17 mars
-
-
-
+Nuit très bryante. Ce matin le temps est couvert, on passe par le centre ville de Pachuca pour voir l’horloge «Reloj Monumental de Pachuca» en route on observe sur notre droite tout un quartier sur une colline où toutes les maisons ont été peinte pour formé un grand motif, malheureusement je ne peux pas m’arrêter pôur prendre une photo. Arrivé sur la grande place de l’indépendance, un policier m’accorde 5 minutes de stationnement en vrac le temps de faire le tour de la place et prendre en photo la fameuse horloge. 
+Nous quottons la ville, nous nous faisons contrôler par un policier, on lui donne nos photocopie de nos passeport, tout va bien, circulez…
+Nous faisons route jusqu’à Tepotzotlán, je ne veux pas prendre l’autoroute mais la route secondaire est usante… En début d’après-midi nous visitons le Museo Nacional del Virreinato qui se trouve dans un ancien couvent, la visite est très intéressante, les batiment immense et l’église, San Francisco Javier, et ces chapelles, surtout Capilla Casa De Loreto, impressionnantes au niveau de la décoration. Après un tour sur la grande place noire de monde, de boutiques. C’est samedi et il y a plusieurs mariages, nous croisons même une princesse…
+Il est encore tôt et nous décidons de poursuivre jusqu’à Toluca, par l’autoroute cette fois-ci. Nous contournons Mexico pour l’Ouest mais on a l’inpression d’être déjà dans sa banlieu. Arrivé à Toluca on galère pour trouver un boivouac, tous les parkings des grand magasins, ont des entrées payante avec une hauteur limite de 2m30, autant dire que Thor ne passe pas. Il fait nuit et on tourne dans cette immense ville de 800 000 hbts pour au finir se poser dans une rue un peu large…On verra bien..
 
 
 
