@@ -16,9 +16,9 @@ country: Mexique
 states: ["Mexico", "", "", "", ""]
 category: "roadmap"
 flickr-text: ""
-location: "19.283517, -99.133987"
+location: "19.783943, -99.294437"
 itinary: "2019/mexico.json"
-mapZoom: 7
+mapZoom: 5
 ---
 
 Cet article couvre la période du 1§ mars au       2019 durant laquelle nous avons traversé la péninsule de la Basse-Californie qui compte deux états, la Basse-Californie et la Basse-Californie du Sud.
