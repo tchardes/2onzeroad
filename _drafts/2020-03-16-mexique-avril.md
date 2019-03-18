@@ -17,7 +17,7 @@ states: ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán", "Hidalgo"]
 category: "roadmap"
 flickr-text: ""
 location: "20.529520, -101.855472"
-itinary: "2019/sinaloa2.json"
+itinary: "2019/mexico.json"
 mapZoom: 7
 ---
 
