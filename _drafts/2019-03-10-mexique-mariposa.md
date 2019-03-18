@@ -19,14 +19,10 @@ location: "23.784374, -103.788771"
 
 ---
 
-Comme tous les ans, des millions de papillons monarques - une espèce en danger vivant en Amérique du Nord - parcourent 4 000 kilomètres depuis le Canada vers leur lieu d'hibernation au Mexique, dans une forêt de pins dans le centre du pays.
+Nous avons déjà visité le site “Monarch Butterfly Sanctuary” à Pacific Grove près de Monterey où certains papillons Monarches arrivant de l'Ouest du Canada viennent se poser. Mais       est vraiment la zone où des millions de ces papillons qui vivent au Canada et aux Etats-Unis viennent passer l'hiver et se reproduire dans cette forêt de pins. Ils migrent vers le Mexique en septembre-octobre et ils y restent de novembre à mars.
 
-Les papillons monarques vivent au Canada et aux Etats-Unis entre avril et août. Pour survivre à l'hiver, des millions d'entre eux migrent vers le Mexique en septembre-octobre, où ils restent de novembre à mars, se regroupant dans une forêt de pins à 3 000 mètres d'altitude.
+En février et mars, ils s'accouplent avant de retourner en Amérique du Nord. Les papillons vivent entre 4 et 5 semaines, mais la "génération Mathusalem" est une génération particulière de Monarques qui peuvent vivre entre 7 et 8 mois pour accomplir leur cycle migration-hibernation-reproduction-retour. Depuis 2008, la réserve est classée au patrimoine mondial de l'Unesco.
 
-En février et mars, ils s'accouplent avant de retourner en Amérique du Nord. Les papillons vivent entre 4 et 5 semaines, mais la "génération Mathusalem" est une génération particulière de Monarques qui peuvent vivre entre 7 et 8 mois pour accomplir leur cycle migration-hibernation-reproduction-retour.
+Il y a 5 sites principaux mais seulement deux sont accessibles au public, et El Rosario, celui que nous choisissons de visiter. Nous arrivons de nuit et nous nous posons directement sur le parking situé directement à l'entrée du site. De nombreuses boutique sont présentes, souvenirs, restaurants. Si vous vous garez au vrai parking, un chemin mène à l'entrée où se trouve de nombreux marchands ambulants.
 
-"Les papillons ne respectent pas les frontières ! C'est comme ça que nous devrions être, nous, les humains…", fait remarquer Eduardo Rendon, coordinateur du projet d'observation des papillons monarques de WWF au Mexique.
-
-La réserve de la biosphère des papillons monarques compte 56 259 hectares à la frontière entre les états de Michoacan et le district fédéral de Mexico, à une centaine de kilomètres au Nord de Mexico.
-
-Depuis 2008, la réserve est classée au patrimoine mondial de l'Unesco. La déforestation illégale, l'utilisation d'herbicides dans les champs d'asclépiade, dont ils se nourrissent lorsqu'ils sont encore des chenilles, le changement climatique et les évènements météorologiques extrêmes représentent les principales menaces pour ces majestueux insectes.
+L'entrée coute 50$/Mex/Pers. Un guide vous prend en compte et vous fait visiter le site sur un parcour qui serpente en pleine montagne.
