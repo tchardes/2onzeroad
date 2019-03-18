@@ -1,7 +1,7 @@
 ---
 layout:  blog
-title:   " Centre du Mexique - Villes Coloniales 2"
-preview: "Cet article couvre la période du 5 février au…"
+title:   "Centre du Mexique - Villes Coloniales 2"
+preview: "Cet article couvre la période du 19 au février au 16 mars 2019 durant laquelle nous avons traversé 5 états du centre du Mexique, de San Miguel…"
 parent-id: 
 
 date:       2019-03-09 13:00:00
@@ -13,15 +13,15 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
 pois: [pozos#20-février, miguel-allende#20-février, atotonilco#21-février, dolores-hidalgo#20-février, ]
 country: Mexique
-states: ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán"]
+states: ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán", "Hidalgo"]
 category: "roadmap"
 flickr-text: ""
 location: "20.529520, -101.855472"
 itinary: "2019/sinaloa2.json"
-mapZoom: 7
+mapZoom: 6
 ---
 
-Cet article couvre la période du 19 au février 2019 durant laquelle nous avons traversé la péninsule de la Basse-Californie qui compte deux états, la Basse-Californie et la Basse-Californie du Sud.
+Cet article couvre la période du 19 au février au 16 mars 2019 durant laquelle nous avons traversé 5 états du centre du Mexique, de San Miguel de Allende dans l'Etat de Guanajuato à Pachuca dans l'Etat de Hidalgo, à la découverte des villes coloniales.
 
 ## 20 février
 
