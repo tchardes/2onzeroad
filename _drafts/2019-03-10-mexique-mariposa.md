@@ -19,7 +19,7 @@ location: "23.784374, -103.788771"
 
 ---
 
-Nous avons déjà visité le site “Monarch Butterfly Sanctuary” à Pacific Grove près de Monterey (USA) où certains papillons Monarques arrivant de l'Ouest du Canada viennent hiberner. Mais la Réserve de la biosphère du papillon monarque dans l'Etat du Michoacán est vraiment la lieu où des millions de ces papillons, qui vivent au Canada et aux Etats-Unis, viennent passer l'hiver et se reproduire dans cette forêt de résineux qui culmine à plus de 3000 mètres d'altitude. Ils migrent vers le Mexique entre septembre-octobre et ils y restent jusqu'au mois de novembre à mars.
+Nous avons déjà visité le site “Monarch Butterfly Sanctuary” à Pacific Grove près de Monterey (USA) où certains papillons Monarques, arrivant de l'Ouest du Canada, viennent hiberner. Mais la Réserve de la biosphère du papillon monarque dans l'Etat du Michoacán est vraiment le lieu où des millions de ces papillons, qui vivent au Canada et aux Etats-Unis, viennent passer l'hiver et se reproduire dans cette forêt de résineux qui culmine à plus de 3000 mètres d'altitude. Ils migrent vers le Mexique entre septembre-octobre et ils y restent de novembre à mars.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47420925481/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7871/47420925481_d011c714e1_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -35,7 +35,7 @@ Il y a 5 sites principaux mais seulement deux sont accessibles au public, Sierra
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40455296953/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7924/40455296953_9f6ef89323_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-L'entrée coûte 50$/Mex/Pers. Un guide, obligatoire, vous prend en compte et vous fait visiter le site sur un parcours qui serpente en pleine montagne. C'est vraiment une instant magique, même si à terre se trouve des milliers de papillons morts, arrivés en fin de cycle.
+L'entrée coûte 50$/Mex/Pers. Un guide, obligatoire, vous prend en compte et vous fait visiter le site sur un parcours qui serpente en pleine montagne. C'est vraiment un instant magique, même si à terre se trouvent des milliers de papillons morts, arrivés en fin de cycle.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46697710054/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7880/46697710054_16a19f8e03_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -43,11 +43,11 @@ L'entrée coûte 50$/Mex/Pers. Un guide, obligatoire, vous prend en compte et vo
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46697717114/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7852/46697717114_855764e810_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Les papillons aimant la chaleur des rayons du soleil, il faut s'y rendre un jour de beau temps et pas trop tôt au risque de ne voir que des grappes de monarques qui recouvrent les arbres leur donnant ainsi une couleur orangée. C'est réellement un privilège que de pouvoir assister à ce ballet aérien.
+Les papillons aimant la chaleur des rayons du soleil, il faut s'y rendre un jour de beau temps et pas trop tôt au risque de ne voir que des grappes de monarques qui recouvrent les arbres, leur donnant ainsi une couleur orangée. C'est réellement un privilège que de pouvoir assister à ce ballet aérien.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32478916527/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7922/32478916527_3fbf8a810b_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous avons même pu croiser un serpent qui doit être assez venimeux à en croire la guide. 
+Nous avons même pu croiser un serpent assez venimeux à en croire la guide.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40455293213/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7809/40455293213_3c18e443c9_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
