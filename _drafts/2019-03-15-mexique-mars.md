@@ -295,15 +295,35 @@ et enfin **Tzintzuntzan** pour son site archeologique, centre cérémoniel et ca
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46508192925/in/datetaken/" title="Tzintzuntzan - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7870/46508192925_113dd28571_k.jpg" width="2048" height="1152" alt="Tzintzuntzan - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33541064878/in/datetaken/" title="Tzintzuntzan - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7855/33541064878_c9d800bebf_k.jpg" width="2048" height="1152" alt="Tzintzuntzan - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Etant un lieu très touristique, autour du couvent se trouve un marché local qui vent à peu près tout ce que l’on trouve dans la région sachant qu’elle même est la capitale de la vanerie. Mais on y trouve aussi des sculture en bois et pierre, souvent religieux, des petit meubles en bois et beaucoup de céramique.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40451342563/in/datetaken/" title="Tzintzuntzan - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7856/40451342563_054371366e_k.jpg" width="2048" height="1152" alt="Tzintzuntzan - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33541034078/in/datetaken/" title="Tzintzuntzan - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7804/33541034078_50275bb6ef_k.jpg" width="2048" height="1152" alt="Tzintzuntzan - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On fait ensuite route vers **Morelia** où on se pose à l’entrée de cette ville de 700 000 Hbts sur un immense parking très ombragé, on a même droit à quelques gouttes de pluie ce qui fait du bien…
 
 ## 08 et 09 mars
 
-Ce matin on prend le collectivo juste sur le boulevard près du bivouac. En ville se sont souvent des vans amnégés qui passent partout. Du coup on rentre par une porte latérale et on passe l’argent afins qu’il arrive au chauffeur qui encaisse. Du coup on passe le voyage à passer l’argent dans les deux sens. Les chauffeur on souvent une boite de rangement maison pour les pièces et ils tiennent les billets entre leurs doigts de la main gauche.
+Ce matin on prend le colectivo juste sur le boulevard près du bivouac. En ville se sont souvent des vans amnégés qui passent partout. Du coup on rentre par une porte latérale et on passe l’argent afins qu’il arrive au chauffeur qui encaisse. Du coup on passe le voyage à passer l’argent dans les deux sens. Les chauffeur on souvent une boite de rangement maison pour les pièces et ils tiennent les billets entre leurs doigts de la main gauche.
 
-Une fois en centre ville on visite comme toujours, la cathédrale (très belle), la plaza de armas, le palais du gouverneur, la mairie, les autres églises et couvents, la maison de la culture et les différents musée qui sont souvent gratuits. Cette ville de plus de 700 000 Hbts n’est pas extraordianaire mais comme toujours très animées. A midi on fait exception et on mange dans un Burger King. En fin d’après-midi on reprend la collectivo pour se rendre au Sanctuaire de Notre Dame de Guadalupe. L’église est particulièrement chargée, très chargée. Au retour à Thor on prend notre matériel et nous allons dans une bibliothèque qui reste ouverte jusqu’à 20h00 pour traiter nos photos et vidéos. Le Wifi est correct.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32474722827/in/datetaken/" title="Morelia - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7920/32474722827_e75d14c2ac_k.jpg" width="2048" height="1365" alt="Morelia - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Une fois en centre ville on visite comme toujours, la cathédrale (très belle), la plaza de armas, le palais du gouverneur, la mairie, les autres églises et couvents, la maison de la culture et les différents musée qui sont souvent gratuits. Cette ville n’est pas extraordianaire mais comme toujours très animées.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40451235653/in/datetaken/" title="Morelia - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7910/40451235653_493983af9b_k.jpg" width="2048" height="1422" alt="Morelia - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40451228793/in/datetaken/" title="Morelia - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7807/40451228793_e1ffb0f430_k.jpg" width="2048" height="1152" alt="Morelia - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40455050353/in/datetaken/" title="Morelia - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7874/40455050353_3df79b048d_k.jpg" width="2048" height="1152" alt="Morelia - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A midi on fait exception et on mange dans un Burger King. En fin d’après-midi on reprend la colectivo pour se rendre au Sanctuaire de Notre Dame de Guadalupe. L’église n'est pas très belle de l'extérieur mail l'intérieur est particulièrement chargée, très chargée. Au retour à Thor on prend notre matériel et nous allons dans une bibliothèque qui reste ouverte jusqu’à 20h00 pour traiter nos photos et vidéos. Le Wifi est correct.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40455041923/in/datetaken/" title="Morelia - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7854/40455041923_05331a8c80_k.jpg" width="2048" height="1536" alt="Morelia - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46505395775/in/datetaken/" title="Morelia - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7926/46505395775_10b1a5d07f_k.jpg" width="2048" height="1407" alt="Morelia - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Ce matin nous partons nous occuper de la logistique. Dans une laverie dans un premier temps puis dans un supermarché pour faire le plein du frigo. Nous voulions passer l’après-midi à la bibliothèque finaliser une vidéo et envoyer un articile mais elle ferme à 14h00. Du coup nous allons faire deux courses au The Home Depots et restons sur leur parking jusqua’à 18h00 avant de regagner notre bivouac.
 
@@ -313,33 +333,69 @@ Ce matin on quitte Morélia par la route des couvent "Ruta des los coventos". En
 
 Notre premier arrêt se fait à **Cuitzeo Del Porvenir** on y arrive en traverssant un lac sur une digue. Le couvent est effectivement imposant et s’inscrit dans un ensemble de batiments implantée autour d’une place, plusieurs églises, un ancien hôpital. Nous arrivons en pleine messe dominicale, il y a tellement de monde que les paroissiens écoutent le messe depuis le parvis.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46505394705/in/datetaken/" title="Cuitzeo del Porvenir - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7917/46505394705_72446300b7_k.jpg" width="2048" height="1152" alt="Cuitzeo del Porvenir - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46505607065/in/datetaken/" title="Cuitzeo del Porvenir - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7857/46505607065_703eb325b7_k.jpg" width="2048" height="1152" alt="Cuitzeo del Porvenir - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 On se rabat sur le couvent qui a été transformé en musée. Le rez-de-chaussé du cloître présente quelques salles où sont présentés tableaux et objets divers tandis que l’étage est resté tel quel, on passe dans tous les lieux de vie des moines à l’époque. De nombreuses fresques sont encore visibles en monochromie pour la pluspart. Sur la place un orchestre joue et les gens boivent et mangent, au Mexique comme aux USA, on a l’impression qu’ils mangent non stop. La ville a adopté les mêmes codes couleurs pour ces batimeents qu'à Paztcuaro, blanc et rouge.
 
-On reprend la route pour visiter le couvent de **Yuiria**. Lui aussi de style Platesque caractéristique de la Renaissance Espagnole le bâtiment ressemble plus à une forteresse qu’à un édifice religieux. Malheureusement il est fermé pour travaux. On poursuit sur la route des couvents jusqu’au sanctuaire des papillons monarches à El Rosario. Nous passons dans un premier temps par Angangueo mais vu la taille de route on fait demi tour et passons par Ocampo. La route qui monte à 3000 mètres d’altutude et parsemée de Topés, c’est vraiment pénible. Arrivés au sanctuaire nous bivouaquons directement sur le parking du site. On verra demain matin…
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46505605225/in/datetaken/" title="Cuitzeo del Porvenir - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7875/46505605225_d8ccc87828_k.jpg" width="2048" height="1152" alt="Cuitzeo del Porvenir - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On reprend la route pour visiter le couvent de **Yuiria**. Lui aussi de style Platesque caractéristique de la Renaissance Espagnole le bâtiment ressemble plus à une forteresse qu’à un édifice religieux. Malheureusement il est fermé pour travaux. 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46505603965/in/datetaken/" title="Yuriria - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7886/46505603965_9b388c8037_k.jpg" width="2048" height="1365" alt="Yuriria - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On poursuit sur la route des couvents jusqu’au sanctuaire des papillons monarches à El Rosario. Nous passons dans un premier temps par Angangueo mais vu la taille de route on fait demi tour et passons par Ocampo. La route qui monte à 3000 mètres d’altutude et parsemée de Topés, c’est vraiment pénible. Arrivés au sanctuaire nous bivouaquons directement sur le parking du site. On verra demain matin…
 
 ## 11 mars
 
 Nuit fraîche à ces altitudes… Ce matin on se lêve le parking est presque vide, généralement réservé aux propriétaires des boutiques souvenirs et restaurants. Déjà de nombreux papillons… papillonnent. Il faut dire qu’ils aiment la chaleur et quittent leur grappe accrochée aux branches que lorsque le soleil chauffe leur ailes.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47368043752/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7924/47368043752_86888bea82_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Vers 10h00 on se dirige vers l’entrée, on paye les deux entrée 50$/Mex/Pers. qui comprend également un guide. Nous pertons à l’assau de la montagne, cela fait du bien de marcher en pleine forêt avec de beaux résineux. On sent l’altitude, le souffle est court mais notre guide s’adapte à notre rythme. Le sol est tapis de monarches morts, si on a bien compris des males. C’est un moment magique d’en voir autant, il y en a des millions. Grâce aux informations de Cristophe et Jean-Pierre nous demandons à notre guide de finir la boucle par le chemin utilisé par les chevaux. On arrive ainsi dans un grand près où ils sont des milliers c’est féerique… On prend le temps de prendre des photos et vidéos, la guide attend patiemment, en plus nous sommes en semaine et presque en fin de saison, il n'y a pas grand monde. D’ici une dizaine de jours ils vont entamer leur migration. Sur les 5 sites, seuls 2 sont visitables, El Rosario est le plus connu.
+
+**(voir l’article complet sur les missions <a href="{{site.baseurl}}{% post_url 2019/2019-03-10-mexique-mariposa %}">ici</a>)**
+
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46505653575/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7814/46505653575_ca976f3f4e_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46505640165/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7809/46505640165_16c21892b2_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous reprenons la route et Corinne s’amuse à compter les « Topés » Entre l’embranchement Angangueo et Ocampo et le sanctuaire soit 17 Km, il y a pas moins de 61 Topés, les mexicains ont vraiment un problème avec ça…
 On reprend la route après avoir pris un peu d’essence et on décide de prendre l’autoroute pour ralier Tula… On passe au site archéologique mais le gardien nous indique que l’on ne peut pas y passer la nuit, ce sera donc le parking du soriana.
 
 ## 12 mars
 
-Nuite très calme sur notre parking.
-Ce matin nous prenons des nouvelles de la famille puis nous partons pour le site archéologique de Tula, très beau site occupé succésivement par les Toltec puis les Aztecs. C’est notre premier site de ce séjour qui est assez complet avec quelques bas reliefs. Le musée du site est fermé pour cause de travaux. Le site présente deux pyramides et deux jeux de pelote et divers batiments. Il n’y a pratiquement personne sur le site qui domine la ville de Tula, c’est bien agréable. Nous mangeons dans Thor sur le parking puis nous prenons la route vers le Norsd pour visiter le couvent et l’église de Ixmiquilpan. Nous y arrivons vers16h00 l’imposante église, rose, est fermée et le couvent ne se visite pas le Mardi….
-La ville ne présentant aucun autre intérêt nous poursuivons vers Tolantongo et sa fameuse grotte. Aucun de nos guides ne parle de cet endroit, c’est en voyant les photos de John et.    les néo-calédoniens rencontrés à Guanajuato que nous avons décidé d’y faire un passage.
-La route pour y accéder est assez belle, les 16 derniers kilomètres sont un peu moins bons. Rapidement la route descend en lacés très serrés et très raides. Après avoir passé l’entrée du site il reste un longue piste pour arriver jusqu’à la rivière, d’une couleur turquoise et d’une température de 34 à 38°. On se pose près d’un hôtel et nous prenons notre premier bain, un pur bonheur. Le site a été aménagé afin de créer, avec des rochers, des dizaine de piscines. L’hôtel met à disposition des campeurs toilettes et douches chaudes… On va peut être y rester plusieurs jours….
+Ce matin nous prenons des nouvelles de la famille puis nous partons pour le site archéologique de Tula, très beau site occupé succésivement par les Toltec puis les Aztecs. C’est notre premier site de ce séjour qui est assez complet avec quelques bas reliefs. Le musée du site est fermé pour cause de travaux. Le site présente deux pyramides et deux jeux de pelote et divers batiments. Il n’y a pratiquement personne sur le site qui domine la ville de Tula, c’est bien agréable.
 
-## 13 mars
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47420968261/in/datetaken/" title="Tula - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7873/47420968261_c9b7d53dcc_k.jpg" width="2048" height="1152" alt="Tula - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nuit hyper calme bersé par la rivière.
-Ce matin nous visitons la Grutas et la caverne. A l’aller on prend un triporteur chinois pour nous y conduire.
-Retour à pied à Thor, on ne trouve pas de restaurant ouvert. Après-midi nous prenons un collectivo pour nous rendres aux bassins accrocgés à la falaise, c’est impressionnant. Puis retour à Thor où nous prenons un long bain dan sla rivière.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46505681475/in/datetaken/" title="Tula - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7821/46505681475_7df572fee8_k.jpg" width="2048" height="1152" alt="Tula - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## 14 mars
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47368111722/in/datetaken/" title="Tula - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7865/47368111722_df28bc0bfb_k.jpg" width="2048" height="1152" alt="Tula - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous mangeons dans Thor sur le parking puis nous prenons la route vers le Nord pour visiter le couvent et l’église de Ixmiquilpan. Nous y arrivons vers16h00 l’imposante église, rose, est fermée et le couvent ne se visite pas le Mardi….
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47421016661/in/datetaken/" title="Ixmiquilpan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7867/47421016661_714fc1c2d2_k.jpg" width="2048" height="1152" alt="Ixmiquilpan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32478983297/in/datetaken/" title="Ixmiquilpan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7849/32478983297_b58344c641_k.jpg" width="2048" height="1152" alt="Ixmiquilpan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+La ville ne présentant aucun autre intérêt nous poursuivons vers Tolantongo et sa fameuse grotte. Aucun de nos guides ne parle de cet endroit, c’est en voyant les photos de John et carine, les néo-calédoniens rencontrés à Guanajuato que nous avons décidé d’y faire un passage. La route pour y accéder est assez belle, les 16 derniers kilomètres sont un peu moins bons. Rapidement la route descend en lacés très serrés et très raides. Autant dire que si vous avez le vertige ou peur du vide, ce site en général n'est pas pour vous. Corinne n'a pas été à la fête... Le site se découte en trois zones, les bassins, la rivière, la grotte.
+
+<img src="{{baseurl}}/assets/owner/photos/tolantongo.jpg" style="width:100%" /> 
+
+Après avoir passé l’entrée du site il reste un longue piste pour arriver jusqu’à la rivière, d’une couleur turquoise et d’une température de 34 à 38°. On se pose près d’un hôtel et nous prenons notre premier bain, un pur bonheur. Le site a été aménagé afin de créer, avec des rochers, des dizaine de piscines. L’hôtel met à disposition des campeurs toilettes et douches chaudes… On va peut être y rester plusieurs jours….
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33545090258/in/datetaken/" title="Tolantongo - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7908/33545090258_62d9bb4aa8_k.jpg" width="2048" height="1152" alt="Tolantongo - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## 13 et 14 mars
+
+Nuit hyper calme bersé par la rivière. Ce matin nous visitons la Grutas et la caverne. A l’aller on prend un triporteur chinois pour nous y conduire.
+Retour à pied à Thor, on ne trouve pas de restaurant ouvert. Après-midi nous prenons un colectivo pour nous rendre aux bassins accrochés à la falaise, c’est impressionnant. Puis retour à Thor où nous prenons un long bain dan sla rivière.
+
+
 
 On passe la matinée à trainer, à midi nous allons mangé au restaurant de l’hôtel Las Grutas, très bon repas accompagné d’une Corona et d’un desser, glace pour Corinne et pour moin un truc bizarre, un genre de flan mais ferme et en morceau, c’était bon..
 Après-midi a travailler sur le blog puis un bon bain avec talasso dans la cascade un pur bonheur de détente.
