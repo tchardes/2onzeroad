@@ -4,9 +4,9 @@ title:   "Centre du Mexique - Villes Coloniales 2"
 preview: "Cet article couvre la période du 19 au février au 16 mars 2019 durant laquelle nous avons traversé 5 états du centre du Mexique, de San De Allende…"
 parent-id: 
 
-date:       2019-03-09 13:00:00
-from-date:  2019-02-20 13:00:00
-to-date:    2019-03-09 13:00:00
+date:       2019-03-17 13:00:00
+from-date:  2019-02-19 13:00:00
+to-date:    2019-03-16 13:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
