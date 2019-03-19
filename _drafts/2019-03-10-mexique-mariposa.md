@@ -47,7 +47,7 @@ Les papillons aimant la chaleur des rayons du soleil, il faut s'y rendre un jour
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32478916527/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7922/32478916527_3fbf8a810b_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous avons même pu croiser un serpent qui doit être assez venimeux à en croire la guide... 
+Nous avons même pu croiser un serpent qui doit être assez venimeux à en croire la guide. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40455293213/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7809/40455293213_3c18e443c9_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
