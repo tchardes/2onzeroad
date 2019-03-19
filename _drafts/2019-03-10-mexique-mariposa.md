@@ -8,7 +8,7 @@ date:       2019-03-10 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-monarque.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-monarque.jpg
-tags: [parc-naturel, faune, montagne]
+tags: [parc-naturel, faune, montagne, unesco]
 pois: [el-rosario]
 flickr-text: "Mariposa"
 country: Mexique
