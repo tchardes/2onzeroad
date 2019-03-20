@@ -10,7 +10,7 @@ header-img: "assets/owner/blog/header/post-bg-monarque.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-monarque.jpg
 tags: [parc-naturel, faune, montagne, unesco]
 pois: [el-rosario]
-flickr-text: "Mariposa"
+flickr-text: "El Rosario"
 country: Mexique
 states: ["Michoacán"]
 city: 
