@@ -19,7 +19,7 @@ location: "23.784374, -103.788771"
 
 ---
 
-Nous avons déjà visité le site “Monarch Butterfly Sanctuary” à Pacific Grove près de Monterey (USA) où certains papillons Monarques, arrivant de l'Ouest du Canada, viennent hiberner. Mais la Réserve de la biosphère du papillon monarque dans l'Etat du Michoacán est vraiment le lieu où des millions de ces papillons, qui vivent au Canada et aux Etats-Unis, viennent passer l'hiver et se reproduire dans cette forêt de résineux qui culmine à plus de 3000 mètres d'altitude. Ils migrent vers le Mexique entre septembre-octobre et ils y restent de novembre à mars.
+Nous avons déjà visité le site “Monarch Butterfly Sanctuary” à Pacific Grove près de Monterey (USA) où certains papillons Monarques, arrivant de l'Ouest du Canada, viennent hiberner. Toutefois, la Réserve de la biosphère du papillon Monarque dans l'Etat du Michoacán est vraiment le lieu où des millions de ces papillons, qui vivent au Canada et aux Etats-Unis, parcourent plus de 4000 Km,pour venir passer l'hiver et se reproduire dans cette forêt de résineux qui culmine à plus de 3000 mètres d'altitude. Ils migrent vers le Mexique entre septembre-octobre et ils y restent de novembre à mars.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47420925481/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7871/47420925481_d011c714e1_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
