@@ -376,13 +376,13 @@ Ce matin nous prenons des nouvelles de la famille puis nous partons pour le site
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47368111722/in/datetaken/" title="Tula - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7865/47368111722_df28bc0bfb_k.jpg" width="2048" height="1152" alt="Tula - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous mangeons dans Thor sur le parking puis nous prenons la route vers le Nord pour visiter le couvent et l’église de Ixmiquilpan. Nous y arrivons vers16h00 l’imposante église, rose, est fermée et le couvent ne se visite pas le Mardi….
+Nous mangeons dans Thor sur le parking puis nous prenons la route vers le Nord pour visiter le couvent et l’église de Ixmiquilpan. Nous y arrivons vers16h00 l’imposante église, rose, est fermée et le couvent ne se visite pas le Mardi…
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47421016661/in/datetaken/" title="Ixmiquilpan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7867/47421016661_714fc1c2d2_k.jpg" width="2048" height="1152" alt="Ixmiquilpan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32478983297/in/datetaken/" title="Ixmiquilpan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7849/32478983297_b58344c641_k.jpg" width="2048" height="1152" alt="Ixmiquilpan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-La ville ne présentant aucun autre intérêt nous poursuivons vers Tolantongo et sa fameuse grotte. Aucun de nos guides ne parle de cet endroit, c’est en voyant les photos de John et carine, les néo-calédoniens rencontrés à Guanajuato que nous avons décidé d’y faire un passage. La route pour y accéder est assez belle, les 16 derniers kilomètres sont un peu moins bons. Rapidement la route descend en lacés très serrés et très raides. Autant dire que si vous avez le vertige ou peur du vide, ce site en général n'est pas pour vous. Corinne n'a pas été à la fête... Le site se découte en trois zones, les bassins, la rivière, la grotte.
+La ville ne présentant aucun autre intérêt nous poursuivons vers Tolantongo et sa fameuse grotte. Aucun de nos guides ne parle de cet endroit, c’est en voyant les photos de John et Carine, les néo-calédoniens rencontrés à Guanajuato que nous avons décidé d’y faire un passage. La route pour y accéder est assez belle, les 16 derniers kilomètres sont un peu moins bons. Rapidement la route descend en lacés très serrés et très raides, le dénivelé est de 566 mètres sur 7 Km. Autant dire que si vous avez le vertige ou peur du vide, ce site en général n'est pas pour vous. Corinne n'a pas été à la fête... Le site se décompose en trois zones, les bassins, la rivière, la grotte.
 
 <img src="{{baseurl}}/assets/owner/photos/tolantongo.jpg" style="width:100%" /> 
 
