@@ -39,7 +39,7 @@ De retour nous voyons un Coati qui prend son repas.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47368147452/in/datetaken/" title="Tolantongo - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7817/47368147452_7641549421_k.jpg" width="2048" height="1152" alt="Tolantongo - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47368147452/in/datetaken/" title="Tolantongo - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7817/47368147452_7641549421_k.jpg" width="2048" height="1152" alt="Tolantongo - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47368144652/in/datetaken/" title="Tolantongo - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7897/47368144652_989117427d_k.jpg" width="2048" height="1152" alt="Tolantongo - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On rentre à pied au camping et bénéficions d'une superbe vue sur toute la rivière.
 
