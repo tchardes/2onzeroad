@@ -2,9 +2,9 @@
 layout:     blog
 title:      "Sanctuaire de Mariposa - El Rosario"
 preview:    "Nous avons déjà visité le site Monarch Butterfly Sanctuary à Pacific Grove près de Monterey (USA) où certains papillons Monarques arrivant de l'Ouest…"
-parent-id:  2019-03-15-mexique-mars
+parent-id:  2019-03-16-mexique-mars
 
-date:       2019-03-10 12:00:00
+date:       2019-03-1 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-monarque.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-monarque.jpg
