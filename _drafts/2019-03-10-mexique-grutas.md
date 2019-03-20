@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Tolantongo - Las Grutas"
-preview:    "Tolantongo Las Grutas est un parc aquatique qui a été crée dans un canyon profond formé par une rivière qui est alimentée en cet endroit par des sources…"
+preview:    "Tolantongo - Las Grutas est un parc aquatique qui a été crée dans un canyon profond formé par une rivière qui est alimentée en cet endroit par des sources…"
 parent-id:  2019-03-16-mexique-mars
 
 date:       2019-03-14 12:00:00
@@ -19,7 +19,7 @@ location: "23.784374, -103.788771"
 
 ---
 
-Tolantongo Las Grutas est un parc aquatique qui a été crée dans un canyon profond formé par une rivière qui est alimentée en cet endroit par des sources d'eau chaude. Situé à 200 km au Nord de Mexico, ce lieu est très fréquenté par les mexicains, surtout le week-end. Le site ainsi que les alentours sont en plein développement, des hôtels poussent un peu de partout. Des lignes de car relient le site depuis les principales villes du coin. Cet endroit est absent de nos deux guides (Michelin et routard).
+Tolantongo - Las Grutas est un parc aquatique qui a été crée dans un canyon profond formé par une rivière qui est alimentée en cet endroit par des sources d'eau chaude. Situé à 200 km au Nord de Mexico, ce lieu est très fréquenté par les mexicains, surtout le week-end. Le site ainsi que les alentours sont en plein développement, des hôtels poussent un peu de partout. Des lignes de car relient le site depuis les principales villes du coin. Cet endroit est absent de nos deux guides (Michelin et routard).
 
 La route pour y accéder est assez belle, les 16 derniers kilomètres sont un peu moins bons. Rapidement la route descend en lacés très serrés et très raides, le dénivelé est de 566 mètres sur 7 Km. Autant dire que si vous avez le vertige ou peur du vide, ce site en général n'est pas pour vous. Corinne n'a pas été à la fête... Le site se décompose en trois zones, les bassins, la rivière, la grotte. L'entrée du parc coûte 140$/Mex/Pers/Jour plus 20$/Mex pour le parking si vous êtes en véhicule. Le site abrite des hôtels, campings, restaurants, épiceries, infirmeries, boutiques...
 
