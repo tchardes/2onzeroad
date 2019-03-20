@@ -49,7 +49,7 @@ On rentre à pied au camping et bénéficions d'une superbe vue sur toute la riv
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47420989281/in/datetaken/" title="Tolantongo - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7805/47420989281_cddaca4186_k.jpg" width="2048" height="1152" alt="Tolantongo - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-L'après-midi, nous prenons un collectivo qui pour 10$/MEX/Pers. nous conduit aux bassins "Pozos termales" accrochés à la falaise, c’est impressionnant. Un tunnel et un pont suspendu permettent de faire le tour du site.
+L'après-midi, nous prenons un colectivo qui pour 10$/MEX/Pers. nous conduit aux bassins "Pozos termales" accrochés à la falaise, c’est impressionnant. Un tunnel et un pont suspendu permettent de faire le tour du site.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47368136502/in/datetaken/" title="Tolantongo - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7829/47368136502_4443c860a1_k.jpg" width="2048" height="1152" alt="Tolantongo - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
