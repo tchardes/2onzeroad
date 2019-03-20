@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "19.289572, -99.656620"
-  name: "Toluca - Mexico - Mexique"
-  date: "17 et 18 mars 2019"
+  coordinates: "18.950031, -99.497406"
+  name: "Malinalco - Mexico - Mexique"
+  date: "21 mars 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
