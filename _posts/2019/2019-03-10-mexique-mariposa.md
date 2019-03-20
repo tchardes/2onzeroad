@@ -35,7 +35,7 @@ Il y a 5 sites principaux mais seulement deux sont accessibles au public, Sierra
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40455296953/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7924/40455296953_9f6ef89323_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-L'entrée coûte 50$/Mex/Pers. Un guide, obligatoire, vous prend en compte et vous fait visiter le site sur un parcours qui serpente en pleine montagne. C'est vraiment un instant magique, même si à terre se trouvent des milliers de papillons morts, arrivés en fin de cycle.
+L'entrée coûte 50$/Mex/Pers. Un guide, obligatoire, vous prend en compte et vous fait visiter le site sur un parcours très bien aménagé qui serpente en pleine montagne. C'est vraiment un instant magique, même si à terre se trouvent des milliers de papillons morts, arrivés en fin de vie. Il est de bon ton de laisser au guide une propina en fin de visite.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46697710054/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7880/46697710054_16a19f8e03_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
