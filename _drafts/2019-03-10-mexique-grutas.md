@@ -8,7 +8,7 @@ date:       2019-03-14 12:00:00
 author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-grutas.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-grutas.jpg
-tags: [parc-naturel, faune, montagne, riviere]
+tags: [riviere, montagne, faune]
 pois: [tolantongo]
 flickr-text: "Tolantongo"
 country: Mexique
@@ -19,7 +19,7 @@ location: "20.652760, -98.995432"
 
 ---
 
-Tolantongo - Las Grutas est un parc aquatique qui a été créé dans un canyon profond formé par une rivière qui est alimentée en cet endroit par des sources d'eau chaude. Situé à 200 km au Nord de Mexico, ce lieu est très fréquenté par les mexicains, surtout le week-end. Le site ainsi que les alentours sont en plein développement, des hôtels poussent un peu de partout. Des lignes de car relient le site depuis les principales villes du coin. Cet endroit est absent de nos deux guides (Michelin et routard).
+Tolantongo - Las Grutas est un parc aquatique qui a été créé dans un canyon profond formé par une rivière qui est alimentée en cet endroit par des sources d'eau chaude. Situé à 200 km au Nord de Mexico, ce lieu est très fréquenté par les mexicains, surtout le week-end. Le site ainsi que les alentours sont en plein développement, des hôtels poussent un peu de partout. Des lignes de car relient le site depuis les principales villes du coin. Cet endroit est absent de nos deux guides (Michelin et routard). Leur site : www.grutastolantongo.com.mx/
 
 La route pour y accéder est assez belle, les 16 derniers kilomètres sont un peu moins bons. Rapidement, la route descend en lacets très serrés et très raides, le dénivelé est de 566 mètres sur 7 Km. Autant dire que si vous avez le vertige ou peur du vide, ce site en général n'est pas pour vous. Corinne n'a pas été à la fête... Le site se décompose en trois zones, les bassins, la rivière, la grotte. L'entrée du parc coûte 140$/Mex/Pers/Jour plus 20$/Mex pour le parking si vous êtes en véhicule. Le site abrite des hôtels, campings, restaurants, épiceries, infirmeries, boutiques...
 
@@ -59,6 +59,4 @@ L'après-midi, nous prenons un collectivo qui pour 10$/MEX/Pers. nous conduit au
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32478945007/in/datetaken/" title="Tolantongo - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7814/32478945007_10b7661574_k.jpg" width="2048" height="1152" alt="Tolantongo - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous sommes en semaine, le site n'est pas très fréquenté et plusieurs établissements sont fermés. Nous mangeons un midi au restaurant de l'hôtel Las Grutas où nous prenons un très bon repas pour un prix très raisonnable. En fin de journée, des personnes passent pour récupérer l'argent si vous voulez prolonger votre séjour, ce qui évite de devoir remonter pour payer.
-
-Le dernier jour, nous restons au camping et profitons de la rivière avec des séances Thalasso dans la cascade, un pur bonheur de détente. A 18h00, nous attaquons l’ascension de cette route incroyable pour nous arrêter tout en haut sur un parking pour les cars, on reprendra la route demain matin.
+Nous sommes en semaine, le site n'est pas très fréquenté et plusieurs établissements sont fermés. Nous mangeons un midi au restaurant de l'hôtel Las Grutas où nous prenons un très bon repas pour un prix très raisonnable. En fin de journée, des personnes passent pour récupérer l'argent si vous voulez prolonger votre séjour, ce qui évite de devoir remonter pour payer. Le dernier jour, nous restons au camping et profitons de la rivière avec des séances Thalasso dans la cascade, un pur bonheur de détente. A 18h00, nous attaquons l’ascension de cette route incroyable pour nous arrêter tout en haut sur un parking pour les cars, on reprendra la route demain matin. Très belle découverte que ce site, nous avons passé un agréable séjour.
