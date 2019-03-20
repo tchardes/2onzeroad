@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Tolantongo - Las Grutas"
-preview:    "Tolantongo Las Grutas est un parc aquatique qui a été crée dans un canyon profond formé par une rivière qui est alimentée en cet endroit par…"
+preview:    "Tolantongo Las Grutas est un parc aquatique qui a été crée dans un canyon profond formé par une rivière qui est alimentée en cet endroit par des sources…"
 parent-id:  2019-03-16-mexique-mars
 
 date:       2019-03-14 12:00:00
