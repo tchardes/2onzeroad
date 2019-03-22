@@ -13,7 +13,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
 pois: [ pozos#20-février, ]
 country: Mexique
-states: ["Mexico", "", "", "", ""]
+states: ["Mexico", "Guerrero", "", "", ""]
 category: "roadmap"
 flickr-text: ""
 location: "19.783943, -99.294437"
