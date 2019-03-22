@@ -13,7 +13,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
 pois: [pozos#20-février, miguel-allende#20-février, atotonilco#21-février, dolores-hidalgo#20-février, guanajuato#22-février, leon#24-février, aguascalientes#25-et-26-février, guadalajara#27-et-28-février, tlaquepaque#01-mars, tequila#01-mars, chapala#02-mars, angahuan#04-mars, paricutin#04-mars, uruapan#05-mars, patzcuaro#05-mars, erongaricuara#07-mars, tzintzuntzan#07-mars, morelia#08-et-09-mars, cuitzeo#10-mars, yuiria#10-mars, el-rosario#11-mars, tula#12-mars, ixmiquilpan#12-mars, tolantongo#13-et-14-mars, ixmiquilpan#15-mars, actopan#15-mars, pachuca#16-mars,]
 country: Mexique
-states: ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán", "Hidalgo"]
+states: ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán", "Mexico", "Hidalgo"]
 category: "roadmap"
 flickr-text: ""
 location: "20.529520, -101.855472"
