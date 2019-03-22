@@ -162,7 +162,7 @@ Vers 11h00 on part à pied pour le centre historique. A midi on mange dans un pe
 
 ## 27 et 28 février
 
-Route jusqu’a **Guadalajara** par l’autopista, un peu chère quand même, 30€ en tout. Arrivés en ville on fait les courses et on se pose Sur un parking qui autorise le RV. Le gars est super sympa, il nous fait attendre et bouge 5 voitures pour faire une place pour Thor. Ce n'est pas très glamour mais il difficile dans le 2ème ville du mexique avec ces 6 millions d'habitants de trouver de la place pour Thor, en plus ici, c'est gardé jour et nuit.
+Route jusqu’a **Guadalajara** par l’autopista, un peu chère quand même, 30€ en tout. Arrivés en ville on fait les courses et on se pose sur un parking qui accepte les RV. Le gars est super sympa, il nous fait attendre et bouge 5 voitures pour faire une place pour Thor. Ce n'est pas très glamour mais il difficile dans le 2ème ville du mexique avec ces 6 millions d'habitants de trouver de la place pour Thor, en plus ici, c'est gardé jour et nuit.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47322455661/in/datetaken/" title="Guadalajara - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7897/47322455661_8341757459_k.jpg" width="2048" height="1152" alt="Guadalajara - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -184,7 +184,7 @@ De là nous empruntons une longue rue piétonne remplie de commerçants ambulant
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40357475583/in/datetaken/" title="Guadalajara - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7907/40357475583_365ecc202b_k.jpg" width="2048" height="1152" alt="Guadalajara - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En fin d’après-midi nous sommes rejoints par François et Yumie. On ne s’était pas revus depuis la Basse Californie. Nous dinons dans un restaurant , Birriera Las 9 Asquinas, spécialisé dans la "Birria" de chévre, une préparation de viande effilochée cuite dans son jus cuit pendant plusieurs heures. J’ai eu le malheur de vouloir me faire un tacos avec les ingrédients sur la table, notamment des oignons roses, j’ai cru mourir tellement c’était fort, j’en ai pleuré pendant 5 minutes… On est rentré en taxi et on a fini la soirée devant une bière chez François et Yumie.
+En fin d’après-midi nous sommes rejoints par François et Yumie. On ne s’était pas revus depuis la Basse Californie. Nous dinons dans un restaurant, Birriera Las 9 Asquinas, spécialisé dans la "Birria" de chévre, une préparation de viande effilochée cuite dans son jus pendant plusieurs heures. Au cours du repas, j’ai eu le malheur de vouloir me faire un tacos avec les ingrédients sur la table, notamment des oignons roses, j’ai cru mourir tellement c’était fort, j’en ai pleuré pendant 5 minutes… On est rentré en taxi et on a fini la soirée devant une bière chez François et Yumie.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46407725175/in/datetaken/" title="Guadalajara - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7898/46407725175_11cda262d0_k.jpg" width="2048" height="1152" alt="Guadalajara - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -208,7 +208,7 @@ Nous reprenons ensuite le car pour le centre ville de Guadalajara puis un taxi j
 
 ## 02 mars
 
-En fin de matinée on refait un tour du centre ville, je prend un tour pour visiter la distillerie de José Cuervo, ce sera à 13h30. Sur la place on assiste à un rituel indien, La danse du soleil, les "valadores". ils montent à 4 en haut d’un mât, il s’attache un pied et enroulenet leur corde autour du mât puis ils decendent en tournoyant tout en jouant de la musique. Cela nous rapelle notre dernier voyage à Mexico où on avait assisté à la même scène sur le Zoccalo.
+En fin de matinée on refait un tour du centre ville, je prend un tour pour visiter la distillerie de José Cuervo, ce sera à 13h30. Sur la place on assiste à un rituel indien, La danse du soleil, les "valadores". ils montent à 4 ou 5 en haut d’un mât, il s’attache un pied et enroulent leur corde autour du mât puis ils decendent en tournoyant tout en jouant de la musique. Cela nous rapelle notre dernier voyage à Mexico où on avait assisté à la même scène sur le Zoccalo.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32380992237/in/datetaken/" title="Tequila - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7825/32380992237_6d1449f0f6_k.jpg" width="2048" height="1280" alt="Tequila - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -216,26 +216,26 @@ En fin de matinée on refait un tour du centre ville, je prend un tour pour visi
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33447047258/in/datetaken/" title="Tequila - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7914/33447047258_3e16644778_k.jpg" width="2048" height="1152" alt="Tequila - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Visite de la distillerie, du processus de fabrication jusqu’à la dégustation. Je ne suis pas vraiment fan de la Tequila. Dernier petit tour en ville puis nous reprenons la route. Nous voulions faire une boucle est visiter plusieurs villages mais François et Yumie l‘on fait hier et ils nous en ont dissuadé.
+Visite de la distillerie, du processus de fabrication jusqu’à la dégustation. Je ne suis pas vraiment fan de la Tequila. Dernier petit tour en ville puis nous reprenons la route. Nous voulions faire une boucle est visiter plusieurs villages mais François et Yumie l‘on fait hier et ils nous en ont dissuadé, peu d'intérêt et mauvaise route.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46407913015/in/datetaken/" title="Tequila - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7905/46407913015_ffcc01c4fd_k.jpg" width="2048" height="1152" alt="Tequila - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33447071828/in/datetaken/" title="Tequila - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7824/33447071828_42c29832bc_k.jpg" width="2048" height="1152" alt="Tequila - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On fait donc route jusqu’à **Chapala** qui se trouve au bord du lac éponyme, le plus grand du Mexique. On prend l’autoroute pour y aller ce qui nous permet de voir de très nombreux champs d’agaves bleues. De loin on dirai des champs de lavande. Les mexicains sont adeptent de l’écobuage, dès qu’on prend un peu de hauteur on peu voir un peu de partout des feux de brouissaille.
-Arrivé à Chapal nous faisons quelques courses puis trouvons un parking au bout du Malecon. On part à pied faire un tour sur le Malecon au couchant, c’est très beau.
+On fait donc route jusqu’à **Chapala** qui se trouve au bord du lac éponyme, le plus grand du Mexique. On prend l’autoroute pour y aller ce qui nous permet de voir de très nombreux champs d’agaves bleues. De loin on dirait un peu des champs de lavande. Les mexicains sont adeptent de l’écobuage, dès qu’on prend un peu de hauteur on peu voir un peu de partout des feux de brouissaille.
+Arrivé à Chapal nous faisons quelques courses puis trouvons un parking au bout du Malecon. On part à pied faire un tour sur la rive du lac, au couchant, c’est très beau.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47270393802/in/datetaken/" title="Chapala - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7906/47270393802_ed7fecb3ef_k.jpg" width="2048" height="1152" alt="Chapala - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47270392782/in/datetaken/" title="Chapala - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7826/47270392782_e7c1c6dcc5_k.jpg" width="2048" height="1152" alt="Chapala - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Il y a beaucoup de touriste et de mexicains de Guadalajara qui ont l’habitude de venir ici passer le wek-end. On s’arrête dans un bar musical sur front de lac, Corinne prend une Cazuela, cocktail à base d’agrumes, de soda, de sel et de Tequilla et moi un Mojito… On ne se refait pas. Retour à Thor à la nuit tombée.
+Il y a beaucoup de touristes et de mexicains de Guadalajara qui ont l’habitude de venir ici passer le wek-end. On s’arrête dans un bar musical sur front de lac, Corinne prend une Cazuela, cocktail à base d’agrumes, de soda, de sel et de Tequilla et moi un Mojito… On ne se refait pas. Retour à Thor à la nuit tombée.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46700053314/in/datetaken/" title="Chapala - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7804/46700053314_d7f8596fdf_k.jpg" width="2048" height="578" alt="Chapala - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 03 mars
 
-Nuit très bruyante, ce sont vraiment des fêtards ces mexicanos… C’est Dimanche, on prend le temps, il fait très beau et le gens affluent sur le Malecon. En fin d’après-midi nous faisons une balade au bord de lac, c’est le point de raliement de très nombreuses personnes. Les plus petits sont dans l’eau, une eau très sale, le lac est extrémement polluée, et les gens piqueniquent sur l’herbe, il y a de nombreuses boutiques ambulantes, de mariachis, c’est bondé, bruyant, les cannettes de bières vides sont légions mais l’ambiance reste bonne enfant.
+Nuit très bruyante, ce sont vraiment des fêtards ces mexicanos… C’est Dimanche, on prend le temps, il fait très beau et le gens affluent sur le Malecon. En fin d’après-midi nous faisons une balade au bord de lac, c’est le point de raliement de très nombreuses personnes. Les plus petits sont dans l’eau, une eau très sale, le lac est extrémement polluée, et les gens pique-niquent sur l’herbe, il y a de nombreuses boutiques ambulantes, de mariachis, c’est bondé, bruyant, les cannettes de bières vides sont légions mais l’ambiance reste bon enfant.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47362603812/in/datetaken/" title="Chapala - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7829/47362603812_0559c13316_k.jpg" width="2048" height="1152" alt="Chapala - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
