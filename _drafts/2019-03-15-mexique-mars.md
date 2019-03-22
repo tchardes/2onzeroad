@@ -353,7 +353,7 @@ Nuit fraîche à ces altitudes… Ce matin on se lêve le parking est presque vi
 
 Vers 10h00 on se dirige vers l’entrée, on paye les deux entrée 50$/Mex/Pers. qui comprend également un guide. Nous pertons à l’assau de la montagne, cela fait du bien de marcher en pleine forêt avec de beaux résineux. On sent l’altitude, le souffle est court mais notre guide s’adapte à notre rythme. Le sol est tapis de monarches morts, si on a bien compris des males. C’est un moment magique d’en voir autant, il y en a des millions. Grâce aux informations de Cristophe et Jean-Pierre nous demandons à notre guide de finir la boucle par le chemin utilisé par les chevaux. On arrive ainsi dans un grand près où ils sont des milliers c’est féerique… On prend le temps de prendre des photos et vidéos, la guide attend patiemment, en plus nous sommes en semaine et presque en fin de saison, il n'y a pas grand monde. D’ici une dizaine de jours ils vont entamer leur migration. Sur les 5 sites, seuls 2 sont visitables, El Rosario est le plus connu.
 
-**(voir l’article complet sur les missions <a href="{{site.baseurl}}{% post_url 2019/2019-03-10-mexique-mariposa %}">ici</a>)**
+**(voir l’article complet <a href="{{site.baseurl}}{% post_url 2019/2019-03-10-mexique-mariposa %}">ici</a>)**
 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46505653575/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7814/46505653575_ca976f3f4e_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
