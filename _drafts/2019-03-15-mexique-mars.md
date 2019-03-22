@@ -18,7 +18,7 @@ category: "roadmap"
 flickr-text: ""
 location: "20.529520, -101.855472"
 itinary: "2019/sinaloa2.json"
-mapZoom: 4
+mapZoom: 7
 ---
 
 Cet article couvre la période du 19 au février au 16 mars 2019 durant laquelle nous avons traversé 5 états du centre du Mexique, de San Miguel de Allende dans l'Etat de Guanajuato à Pachuca dans l'Etat de Hidalgo, à la découverte des villes coloniales.
