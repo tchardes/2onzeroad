@@ -51,6 +51,8 @@ Sur la grande place de nombreuses personnes flânent, il règne une ambiance tr�
 
 Ce matin on repart à pied pour visiter cette belle ville. On commence par le lavoir qui est original dans sa conception mais sans plus puis nous montons au mirador, point haut d’où l’on domine la ville. On redescend du côté de la cathédrale et refaisons un tour des divers monuments, du marché artisanal. Avant de faire retour à Thor on repasse chez "PANIO" pour prendre une baguette en Epi ainsi que des gâteaux. Un vrai régal.
 
+
+
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40208056873/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7866/40208056873_c61860138f_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Après le repas on par en direction de **Atotonilco**, petit village qui abrite le Santuario De Jesús Nazareno, magnifique bâtiment religieux qui abrite plusieurs chapelles dont les murs sont recouverts de dessins et de sculptures représentant l’histoire de Jésus. C'est impressionnant et très bien conservé. On comprend aisément qu'à une époque où peu de gens savaient lire, il était facile par ces fresques de leur inculquer l'histoire biblique, une véritable bande dessinée.
@@ -402,10 +404,11 @@ On arrive ensuite à faire le plein d’eau et le vide des eaux grises puis vers
 ## 15 mars
 
 Ce matin on se lève sous un ciel nuageux. 
-On a gouté le pane de pulque, qui ressemble plus en fait à un genre de brioche, c’est un peu sucré et il y a ce gout et cette odeur un peu particulière du Pulque qui est une boisson ancestrale des indiens du Mexique
- réalisée par fermentation de la sève de certains agaves. On dirait un peu de l’orgeat à l’aspect et elle compte entre 6 et 8°. cette boisson traditionnelle est peu à peu remplacée par la bière. Dans les temps anciens cette boisson permetait d’être dans un état second propice à la discution avec les dieux…
+On a gouté le pane de pulque, qui ressemble plus en fait à un genre de brioche, c’est un peu sucré et il y a ce gout et cette odeur un peu particulière du Pulque qui est une boisson ancestrale des indiens du Mexique réalisée par fermentation de la sève de certains agaves. On dirait un peu de l’orgeat à l’aspect et elle compte entre 6 et 8°. cette boisson traditionnelle est peu à peu remplacée par la bière. Dans les temps anciens cette boisson permetait d’être dans un état second propice à la discution avec les dieux…
 On a eu de la chance durant ces deux jours. On reprend la route en direction de **Ixmiquilpan** pour tenter à nouveau de voir son église et son couvent. En route nous faisosn des dumps sauvages et faisons remplir notre garrafon.
-Arrivés en ville l’église est bien ouverte cette fois-ci. Effectivement, même si elles sont en mauvais état, il y a de nombreuses fresques 
+Arrivés en ville l’église est bien ouverte cette fois-ci. Effectivement, même si elles sont en mauvais état, il y a de nombreuses fresques.
+
+
 Comme nous sommes là on fait la visite du couvent qui n’a rien d’extraordianire.
 On fait un tour en ville et allons au marché pour manger. On trouve un stand qui a l’air bien sympathique où nous mangeons des empanades que la demoisselle réalise entièrement devant nous. On prend trois accompagnements différent dont un avec du nopal très bon. Nous avons également essauyé des tacos, roulés en forme de cigarette et fries. Le tout est accompagné d’une sauce verte de salade hachée finement et de fromage « rapé ». C’était très bon. Certe il ne faut pas trop regarder l’hygiène mais il y a énormément de mexicains assis et donc du débit.
 Nous reprenons en suite la route en direction **Actopan**. Arrivés en ville on se gar tout près du couvent avec l’aide d’une policier municipal bien sympa.…. La visite permet de découvrir de très belles fresques en polychromie très bien conservés.

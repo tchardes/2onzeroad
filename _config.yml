@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "18.559591, -99.606349"
-  name: "Taxco - Guerrero - Mexique"
-  date: "22 mars 2019"
+  coordinates: "18.931949, -99.218910"
+  name: "Cuernavaca - Morelos - Mexique"
+  date: "23 mars 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
