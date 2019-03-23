@@ -274,7 +274,7 @@
     {"name": "tecate", "displayName": "Passage frontière Mexique à Tecate", "type": "autre"},
     {"name": "ensenada", "displayName": "Ensenada", "type": "ville"},
     {"name": "bufadora", "displayName": "La Bufadora", "type": "nature"},
-    {"name": "bahia-angeles", "displayName": "Bahia De los Angeles", "type": "nature"},
+    {"name": "bahia-angeles", "displayName": "Bahia De Los Angeles", "type": "nature"},
     {"name": "grosnegro", "displayName": "Guerreo Negro", "type": "ville"},
     {"name": "ojoliebre", "displayName": "Ojo de Liebre", "type": "nature"},
     {"name": "salar-vizcaïno", "displayName": "Salar Biosphère de Vizcaïno", "type": "nature"},
