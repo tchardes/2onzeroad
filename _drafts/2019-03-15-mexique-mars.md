@@ -51,7 +51,7 @@ Sur la grande place, de nombreuses personnes flânent, il règne une ambiance tr
 
 Ce matin, on repart à pied pour visiter cette belle ville. On commence par le lavoir qui est original dans sa conception mais sans plus puis nous montons au mirador, point haut d’où l’on domine la ville. On redescend du côté de la cathédrale et refaisons un tour des divers monuments, du marché artisanal. Avant de retourner à Thor, on repasse chez "PANIO" pour prendre une baguette en Epi ainsi que des gâteaux. Un vrai régal.
 
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46258167995/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7881/46258167995_89e3504b5a_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40208056873/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7866/40208056873_c61860138f_k.jpg" width="2048" height="1152" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -408,7 +408,7 @@ Nous reprenons ensuite la route en direction **Actopan**. Arrivés en ville, on 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32480509487/in/datetaken/" title="Actopan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7860/32480509487_acfba3552f_k.jpg" width="2048" height="1152" alt="Actopan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32480503107/in/datetaken/" title="Actopan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7855/32480503107_97758cc7f9_k.jpg" width="1744" height="2048" alt="Actopan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47422440341/in/datetaken/" title="Actopan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7826/47422440341_7f936332c3_k.jpg" width="1365" height="2048" alt="Actopan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47369626572/in/datetaken/" title="Actopan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7865/47369626572_2e4c8cd25a_k.jpg" width="2048" height="1365" alt="Actopan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
