@@ -21,7 +21,7 @@ itinary: "2019/sinaloa2.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 19 au février au 16 mars 2019 durant laquelle nous avons traversé 5 états du centre du Mexique, de San Miguel de Allende dans l'Etat de Guanajuato à Pachuca dans l'Etat de Hidalgo, à la découverte des villes coloniales.
+Ce deuxième article concernant les villes coloniales du centre du Mexique couvre la période du 19 au février au 16 mars 2019 durant laquelle nous avons traversé 5 états du centre du Mexique, de San Miguel de Allende dans l'Etat de Guanajuato à Pachuca dans l'Etat de Hidalgo.
 
 ## 20 février
 
