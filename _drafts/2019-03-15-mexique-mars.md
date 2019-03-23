@@ -390,11 +390,29 @@ Avant du quitter les lieux, on arrive à faire le vide des eaux grises avec un s
 
 ## 15 mars
 
-Ce matin, on se lève sous un ciel nuageux. On a eu de la chance durant ces deux jours. On reprend la route en direction de **Ixmiquilpan** pour tenter à nouveau de voir son église et son couvent de San Miguel. Arrivés en ville, l’église est bien ouverte cette fois-ci. Effectivement, même si elles sont en mauvais état, il y a de nombreuses fresques indiennes très surprenantes pour une église. On peut y voir des guerriers "jaguars" aztèques se battre contre des centaures, brandissant des têtes décapitées...
+Ce matin, on se lève sous un ciel nuageux. On a eu de la chance durant ces deux jours. On reprend la route en direction de **Ixmiquilpan** pour tenter à nouveau de voir son église et son couvent de San Miguel. Arrivés en ville, l’église est bien ouverte cette fois-ci. 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40456857683/in/datetaken/" title="Ixmiquilpan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7870/40456857683_939ec50bc7_k.jpg" width="2048" height="1152" alt="Ixmiquilpan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Effectivement, même si elles sont en mauvais état, il y a de nombreuses fresques indiennes très surprenantes pour une église. On peut y voir des guerriers "jaguars" aztèques se battre contre des centaures, brandissant des têtes décapitées...
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40456863323/in/datetaken/" title="Ixmiquilpan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7822/40456863323_66f40d154e_k.jpg" width="2048" height="1152" alt="Ixmiquilpan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32480524017/in/datetaken/" title="Ixmiquilpan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7897/32480524017_b48bb5759d_k.jpg" width="2048" height="1152" alt="Ixmiquilpan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Comme nous sommes là, on fait également la visite du couvent qui n’a rien d’extraordianire. On fait un tour en ville et allons au marché pour manger. On trouve un stand qui a l’air bien sympathique où nous mangeons des empanadas que la demoiselle réalise entièrement devant nous. On prend trois accompagnements différents dont un avec du nopal très bon. Nous avons également essayé des tacos dorados, roulés en forme de cigarettes et frits. Le tout est accompagné d’une sauce verte de salade hachée finement et de fromage rappé. C’était très bon. Certes, il ne faut pas trop regarder l’hygiène mais il y a énormément de mexicains assis et donc du débit.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40456860953/in/datetaken/" title="Ixmiquilpan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7833/40456860953_334f8292cc_k.jpg" width="2048" height="1152" alt="Ixmiquilpan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous reprenons ensuite la route en direction **Actopan**. Arrivés en ville, on se gare tout près du couvent de San Nicolas de Tolentino, avec l’aide d’un policier municipal bien sympa… La visite permet de découvrir de très belles fresques en polychromie très bien conservés, surtout dans la cage d'escalier entièrement peint représentant les saints et théologiens de l'ordre des augustins. A l'extérieur, se trouve la plus grande chapelle ouverte du Mexique recouverte de fresques, un peu abimées, représentant le jugement dernier.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32480509487/in/datetaken/" title="Actopan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7860/32480509487_acfba3552f_k.jpg" width="2048" height="1152" alt="Actopan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32480503107/in/datetaken/" title="Actopan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7855/32480503107_97758cc7f9_k.jpg" width="1744" height="2048" alt="Actopan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47369626572/in/datetaken/" title="Actopan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7865/47369626572_2e4c8cd25a_k.jpg" width="2048" height="1365" alt="Actopan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47422434241/in/datetaken/" title="Actopan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7830/47422434241_27eaf02fc3_k.jpg" width="2048" height="1152" alt="Actopan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Enfin, route jusqu’à Pachuca où nous nous posons sur le parking d’un Soriana après y avoir fait les courses. On goûte le pan de pulque, qui ressemble plus en fait à un genre de brioche, c’est un peu sucré et il y a ce goût et cette odeur un peu particulière du Pulque qui est une boisson ancestrale des indiens du Mexique. Réalisée par fermentation de la sève de certains agaves, on dirait un peu de l’orgeat à l’aspect et elle compte entre 6 et 8° d'alcool. Cette boisson traditionnelle est peu à peu remplacée par la bière. Dans les temps anciens, cette boisson permettait d’être dans un état second, propice à la discution avec les dieux… Vers minuit, on se déplace pour se poser sur le parking de The Home Depot car nous sommes vendredi soir et le parking est le lieu de rassemblement de tuning et les sonos sont insupportables, les basses font vibrer Thor.
 
@@ -402,6 +420,7 @@ Enfin, route jusqu’à Pachuca où nous nous posons sur le parking d’un Soria
 
 Nuit malgré tout très bruyante. Ce matin, le temps est couvert, on passe par le centre-ville de **Pachuca** pour voir l’horloge "Reloj Monumental de Pachuca" en route, on observe sur notre droite tout un quartier sur une colline où toutes les maisons ont été peinte pour formé un grand motif, malheureusement je ne peux pas m’arrêter pour prendre une photo. Arrivés sur la grande place de l’indépendance, un policier m’accorde 5 minutes de stationnement en vrac le temps de faire le tour de la place et prendre en photo la fameuse horloge.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47422427651/in/datetaken/" title="Pachuca - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7856/47422427651_bb06b80fec_k.jpg" width="2048" height="1152" alt="Pachuca - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 En quittant la ville, nous nous faisons contrôler par un policier, on lui donne nos photocopies de nos passeports, tout va bien, circulez… On quitte rapidement l'Etat de Hidalgo pour entrer dans l'Etat de Mexico et aborder la visite des villes autour de Mexico, sans oublier la Capitale fédérale.
 
