@@ -271,6 +271,7 @@
     {"name": "venice-beach", "displayName": "Venice Beach", "type": "autre"},
     {"name": "santa-monica", "displayName": "Santa Monica", "type": "autre"},
     {"name": "los-angeles", "displayName": "Los Angeles", "type": "ville"},
+    
     {"name": "tecate", "displayName": "Passage frontière Mexique à Tecate", "type": "autre"},
     {"name": "ensenada", "displayName": "Ensenada", "type": "ville"},
     {"name": "bufadora", "displayName": "La Bufadora", "type": "nature"},
@@ -298,8 +299,8 @@
     {"name": "mazatlan", "displayName": "Mazatlan", "type": "ville"},
     {"name": "durango", "displayName": "Durango", "type": "ville"},
     {"name": "zacatecas", "displayName": "Zacatecas", "type": "ville"},
-    {"name": "chicomoztoc", "displayName": "Site Archéologique de Chicomoztoc", "type": "autre"},
-    {"name": "quenada", "displayName": "Site Archéologique de Quenada", "type": "autre"},
+    {"name": "chicomoztoc", "displayName": "Chicomoztoc - Site Archéologique", "type": "autre"},
+    {"name": "quenada", "displayName": "La Quenada - Site Archéologique", "type": "autre"},
     {"name": "guadalupe2", "displayName": "Musée de Guadalupe", "type": "autre"},
     {"name": "media-luna", "displayName": "Media Luna", "type": "nature"},
     {"name": "cadereyta", "displayName": "Jardin Botanique Régional de Cadereyta", "type": "nature"},
