@@ -312,10 +312,15 @@
     {"name": "concordia", "displayName": "Concordia", "type": "ville"},
     {"name": "el-rosario", "displayName": "Sanctuaire de Mariposa - El Rosario", "type": "nature"},
     {"name": "tolantongo", "displayName": "Tolantongo - Las Grutas", "type": "nature"},
+    {"name": "tula", "displayName": "Tula - Site Archéologique", "type": "autre"},
+    {"name": "actopan", "displayName": "Actopan", "type": "ville"},
+    {"name": "pachuca", "displayName": "Pachuca", "type": "ville"},
 
-
-
-    
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
+    {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
