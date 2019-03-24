@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "18.959759, -98.982799"
   name: "Tlayacapan - Morelos - Mexique"
-  date: "24" mars 2019"
+  date: "24 mars 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
