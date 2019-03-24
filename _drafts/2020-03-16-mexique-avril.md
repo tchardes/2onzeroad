@@ -13,7 +13,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
 pois: [ pozos#20-février, ]
 country: Mexique
-states: ["Mexico", "Guerrero", "", "", ""]
+states: ["Mexico", "Guerrero", "Morelo", "", ""]
 category: "roadmap"
 flickr-text: ""
 location: "19.783943, -99.294437"
@@ -22,7 +22,6 @@ mapZoom: 7
 ---
 
 Cet article couvre la période du 1§ mars au       2019 durant laquelle nous avons traversé la péninsule de la Basse-Californie qui compte deux états, la Basse-Californie et la Basse-Californie du Sud.
-
 
 ## 16 mars
 
