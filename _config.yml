@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "18.959759, -98.982799"
-  name: "Tlayacapan - Morelos - Mexique"
-  date: "24 mars 2019"
+  coordinates: "19.052714, -98.208143"
+  name: "Puebla - Puebla - Mexique"
+  date: "25 au 30 mars 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
