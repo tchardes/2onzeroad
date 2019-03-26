@@ -293,7 +293,7 @@
     {"name": "tropique-cancer", "displayName": "Tropique du Cancer", "type": "autre"},
     {"name": "los-barriles", "displayName": "Los Barriles", "type": "ville"},
     {"name": "cabo-pulmo", "displayName": "Cabo Pulmo", "type": "nature"},
-    {"name": "sierra-organos", "displayName": "Parc National de la Sierra de Órganos", "type": "nature"},
+    {"name": "sierra-organos", "displayName": "Sierra de Órganos - Parc National", "type": "nature"},
     {"name": "saltito", "displayName": "Cascades El Saltito", "type": "nature"},
     {"name": "missions-gorda", "displayName": "Missions franciscaines de la Sierra Gorda", "type": "autre"},
     {"name": "mazatlan", "displayName": "Mazatlan", "type": "ville"},
@@ -303,8 +303,8 @@
     {"name": "quenada", "displayName": "La Quenada - Site Archéologique", "type": "autre"},
     {"name": "guadalupe2", "displayName": "Musée de Guadalupe", "type": "autre"},
     {"name": "media-luna", "displayName": "Media Luna", "type": "nature"},
-    {"name": "cadereyta", "displayName": "Jardin Botanique Régional de Cadereyta", "type": "nature"},
-    {"name": "tequisquiapan", "displayName": "", "type": "ville"},
+    {"name": "cadereyta", "displayName": "Cadereyta - Jardin Botanique Régional", "type": "nature"},
+    {"name": "tequisquiapan", "displayName": "Tequisquiapan", "type": "ville"},
     {"name": "santiago-de-queretaro", "displayName": "Santiago de Querétaro", "type": "ville"},
     {"name": "pozos", "displayName": "San Pedros de Los Pozos", "type": "ville"},
     {"name": "miguel-allende", "displayName": "San Miguel de Allende", "type": "ville"},
@@ -333,7 +333,7 @@
     {"name": "cholula", "displayName": "Cholula", "type": "ville"},
 
 
-    
+
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
