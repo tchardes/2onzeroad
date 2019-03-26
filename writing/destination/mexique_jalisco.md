@@ -4,9 +4,9 @@ country: "Mexique"
 permalink: "/writing/destination/mexique/"
 header-img: "assets/owner/hero/mexique-bg.jpg"
 flickr-text: "Mexique"
-distance: 6046
-days: 63
-photos: 849
-videos: 2
-walk: 213
+distance: 7730
+days: 91
+photos: 960
+videos: 3
+walk: 315
 ---
