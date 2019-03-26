@@ -1,19 +1,49 @@
 ---
-layout:  blog
-title:   "Centre du Mexique - Villes Coloniales 2"
+layout: blog
+title: "Centre du Mexique - Villes Coloniales 2"
 preview: "Cet article couvre la période du 19 au février au 16 mars 2019 durant laquelle nous avons traversé 5 états du centre du Mexique, de San De Allende…"
-parent-id: 
+parent-id:
 
-date:       2019-03-17 13:00:00
-from-date:  2019-02-19 13:00:00
-to-date:    2019-03-16 13:00:00
-author:     "Thierry"
+date: 2019-03-17 13:00:00
+from-date: 2019-02-19 13:00:00
+to-date: 2019-03-16 13:00:00
+author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
-pois: [pozos#20-février, miguel-allende#20-février, atotonilco#21-février, dolores-hidalgo#20-février, guanajuato#22-février, leon#24-février, aguascalientes#25-et-26-février, guadalajara#27-et-28-février, tlaquepaque#01-mars, tequila#01-mars, chapala#02-mars, angahuan#04-mars, paricutin#04-mars, uruapan#05-mars, patzcuaro#05-mars, erongaricuara#07-mars, tzintzuntzan#07-mars, morelia#08-et-09-mars, cuitzeo#10-mars, yuiria#10-mars, el-rosario#11-mars, tula#12-mars, ixmiquilpan#12-mars, tolantongo#13-et-14-mars, ixmiquilpan#15-mars, actopan#15-mars, pachuca#16-mars,]
+pois:
+  [
+    pozos#20-février,
+    miguel-allende#20-février,
+    atotonilco#21-février,
+    dolores-hidalgo#20-février,
+    guanajuato#22-février,
+    leon#24-février,
+    aguascalientes#25-et-26-février,
+    guadalajara#27-et-28-février,
+    tlaquepaque#01-mars,
+    tequila#01-mars,
+    chapala#02-mars,
+    angahuan#04-mars,
+    paricutin#04-mars,
+    uruapan#05-mars,
+    patzcuaro#05-mars,
+    erongaricuara#07-mars,
+    tzintzuntzan#07-mars,
+    morelia#08-et-09-mars,
+    cuitzeo#10-mars,
+    yuiria#10-mars,
+    el-rosario#11-mars,
+    tula#12-mars,
+    ixmiquilpan#12-mars,
+    tolantongo#13-et-14-mars,
+    ixmiquilpan#15-mars,
+    actopan#15-mars,
+    pachuca#16-mars,
+  ]
 country: Mexique
-states: ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán", "Mexico", "Hidalgo"]
+states:
+  ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán", "Mexico", "Hidalgo"]
 category: "roadmap"
 flickr-text: ""
 location: "20.529520, -101.855472"
@@ -43,7 +73,7 @@ Les hôtels sont luxueux et il y a de nombreuses boutiques très belles, sans pa
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40208055633/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7889/40208055633_4cca4382b6_k.jpg" width="2048" height="1016" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Sur la grande place, de nombreuses personnes flânent, il règne une ambiance très décontractée. On décide de jouer les prolongations et finissons au restaurant "Los Milagros" très agréable, si ce n’est qu’il est rempli d’étasuniens et qu’ils sont seuls au monde et  font un boucan d’enfer. A la sortie, on refait un tour du centre, tous les monuments sont très bien illuminés, des mariachis jouent sur les places. Ils sont toujours composés de violons, guitares et trompettes. Ils arborent le "Charro" qui est le costume traditionnel composé d'une pantalon moulant rehaussé de boutons d'argent sur le côté, d'une veste courte sur une chemise blanche fermée par une lavallière, sans oublier un chapeau à large bord et des bottines. Chaque groupe adopte un costume de couleur différente. Il parait que l'origine du mot mariachi est française, un soldat français qui aurait demandé pourquoi cette musique, un mexicain aurait répondu, en Français : "c'est un mariage", de fil en aiguille, ça s'est transformé en "Mariachi".
+Sur la grande place, de nombreuses personnes flânent, il règne une ambiance très décontractée. On décide de jouer les prolongations et finissons au restaurant "Los Milagros" très agréable, si ce n’est qu’il est rempli d’étasuniens et qu’ils sont seuls au monde et font un boucan d’enfer. A la sortie, on refait un tour du centre, tous les monuments sont très bien illuminés, des mariachis jouent sur les places. Ils sont toujours composés de violons, guitares et trompettes. Ils arborent le "Charro" qui est le costume traditionnel composé d'une pantalon moulant rehaussé de boutons d'argent sur le côté, d'une veste courte sur une chemise blanche fermée par une lavallière, sans oublier un chapeau à large bord et des bottines. Chaque groupe adopte un costume de couleur différente. Il parait que l'origine du mot mariachi est française, un soldat français qui aurait demandé pourquoi cette musique, un mexicain aurait répondu, en Français : "c'est un mariage", de fil en aiguille, ça s'est transformé en "Mariachi".
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46258169625/in/datetaken/" title="San Miguel de Allende - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7857/46258169625_666c0bd784_k.jpg" width="2048" height="1439" alt="San Miguel de Allende - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -63,13 +93,13 @@ Après le repas, on part en direction de **Atotonilco**, petit village où se tr
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32230455947/in/datetaken/" title="Atotonilco - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7868/32230455947_0b4e38b147_k.jpg" width="2048" height="1325" alt="Atotonilco - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous partons ensuite direction de **Dolores Hidalgo** où nous faisons le tour du centre-ville, bâti autour de sa cathédrale de style baroque et churrigueresque sur le parvis de laquelle Miguel Hidalgo appela à la rébellion, le fameux "Grito de Dolores" : *¡Viva la Virgen de Guadalupe! ¡Viva Fernando VII! ¡Abajo el mal gobierno!* qui est lancé tous les ans le 15 septembre sur cette place par un représentant de la République et au moins une fois par le Président durant son mandat. Cette ville de 150 000 habitants est la capitale de la céramique.
+Nous partons ensuite direction de **Dolores Hidalgo** où nous faisons le tour du centre-ville, bâti autour de sa cathédrale de style baroque et churrigueresque sur le parvis de laquelle Miguel Hidalgo appela à la rébellion, le fameux "Grito de Dolores" : _¡Viva la Virgen de Guadalupe! ¡Viva Fernando VII! ¡Abajo el mal gobierno!_ qui est lancé tous les ans le 15 septembre sur cette place par un représentant de la République et au moins une fois par le Président durant son mandat. Cette ville de 150 000 habitants est la capitale de la céramique.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46448736104/in/datetaken/" title="Dolores Hidalgo - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7915/46448736104_5e9fb5bf5e_k.jpg" width="2048" height="1152" alt="Dolores Hidalgo - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47120301452/in/datetaken/" title="Dolores Hidalgo - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7843/47120301452_11710572b3_k.jpg" width="2048" height="1152" alt="Dolores Hidalgo - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On se pose finalement sur le parking d’un supermarché Bodega Aurrera après accord du responsable.  
+On se pose finalement sur le parking d’un supermarché Bodega Aurrera après accord du responsable.
 
 ## 22 février
 
@@ -138,7 +168,7 @@ Leon est aussi connu comme "La Perla del Bajío" (La Perle du Bajío) mais aus
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47212075381/in/photolist-2dQ3Ztj-SMQxGQ-2eRnhY7-2dQ556y-2eRnqfG-2eVYeaF-2eVYn4B-2dQ45eS-SMQQxy" title="Léon - Guanajuato - [Mexique]"><img src="https://farm8.staticflickr.com/7819/47212075381_86ec44b3a7_k.jpg" width="2048" height="1152" alt="Léon - Guanajuato - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous reprenons la route en direction de **Lagos de Moreno** où  nous nous posons sur le parking d’un Bodega Aurrora et partons faire un petit tour de la ville. Sur une place, on tombe sur une cérémonie de remise de prix scolaires je pense, chaque école est représentée avec à sa fanfare. C'est très protocolaire. Finalement nous décidons de rester là pour la nuit.
+Nous reprenons la route en direction de **Lagos de Moreno** où nous nous posons sur le parking d’un Bodega Aurrora et partons faire un petit tour de la ville. Sur une place, on tombe sur une cérémonie de remise de prix scolaires je pense, chaque école est représentée avec à sa fanfare. C'est très protocolaire. Finalement nous décidons de rester là pour la nuit.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47159978372/in/datetaken/" title="Lagos de Moreno - Jalisco - [Mexique]"><img src="https://farm8.staticflickr.com/7915/47159978372_f2e31374f6_k.jpg" width="2048" height="1152" alt="Lagos de Moreno - Jalisco - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -154,7 +184,7 @@ Ce matin, on quitte Lagos de Moreno et on décide de ne pas prendre l’autopist
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46310244105/in/datetaken/" title="Aguascalientes - Aguascalientes - [Mexique]"><img src="https://farm8.staticflickr.com/7823/46310244105_8524d993f8_k.jpg" width="2048" height="1152" alt="Aguascalientes - Aguascalientes - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Vers 11h00, on part à pied pour le centre historique. A midi, on mange dans un petit restaurant mexicain et on bat notre record. 2 menus, soupe, plat, dessert, boisson = 110$/Mex soit 5,23€ pour nous deux. Depuis la place Patria, on visite la Catedral Basilica De Nuestra Señora De La Asunción, le Cultural Institute of Aguascalientes, le Jardín de San Marcos, le Temple of San Marcos, le Museo Nacional de la Muerte (surprenant), le Templo de San Antonio de Padua et le Palais du Gouverneur. Au final, cette ville qui n'est pratiquement pas commentée par les guides est bien sympathique.
+Vers 11h00, on part à pied pour le centre historique. A midi, on mange dans un petit restaurant mexicain et on bat notre record. 2 menus, soupe, plat, dessert, boisson = 110\$/Mex soit 5,23€ pour nous deux. Depuis la place Patria, on visite la Catedral Basilica De Nuestra Señora De La Asunción, le Cultural Institute of Aguascalientes, le Jardín de San Marcos, le Temple of San Marcos, le Museo Nacional de la Muerte (surprenant), le Templo de San Antonio de Padua et le Palais du Gouverneur. Au final, cette ville qui n'est pratiquement pas commentée par les guides est bien sympathique.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47224559401/in/datetaken/" title="Aguascalientes - Aguascalientes - [Mexique]"><img src="https://farm8.staticflickr.com/7858/47224559401_b580335968_k.jpg" width="2048" height="1280" alt="Aguascalientes - Aguascalientes - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -349,11 +379,11 @@ On poursuit sur la route des couvents jusqu’au sanctuaire des papillons Monarq
 
 ## 11 mars
 
-Nuit fraîche à ces altitudes… Ce matin, on se lève le parking est presque vide, généralement réservé aux propriétaires des boutiques souvenirs et restaurants. Déjà de nombreux papillons… papillonnent autour de nous. 
+Nuit fraîche à ces altitudes… Ce matin, on se lève le parking est presque vide, généralement réservé aux propriétaires des boutiques souvenirs et restaurants. Déjà de nombreux papillons… papillonnent autour de nous.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47368043752/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7924/47368043752_86888bea82_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Vers 10h00, on se dirige vers l’entrée, on paye les deux entrées 50$/Mex/Pers. qui comprend également un guide. Nous partons à l’assaut de la montagne, cela fait du bien de marcher en pleine forêt avec de beaux résineux. On sent l’altitude, le souffle est court mais notre guide s’adapte à notre rythme. Grâce aux informations de Christophe et Jean-Pierre, nous demandons à notre guide de finir la boucle par le chemin utilisé par les chevaux. On arrive ainsi dans un grand près où ils sont des milliers c’est féerique… On prend le temps de prendre des photos et vidéos. **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2019/2019-03-10-mexique-mariposa %}">ici</a>)**
+Vers 10h00, on se dirige vers l’entrée, on paye les deux entrées 50\$/Mex/Pers. qui comprend également un guide. Nous partons à l’assaut de la montagne, cela fait du bien de marcher en pleine forêt avec de beaux résineux. On sent l’altitude, le souffle est court mais notre guide s’adapte à notre rythme. Grâce aux informations de Christophe et Jean-Pierre, nous demandons à notre guide de finir la boucle par le chemin utilisé par les chevaux. On arrive ainsi dans un grand près où ils sont des milliers c’est féerique… On prend le temps de prendre des photos et vidéos. **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2019/2019-03-10-mexique-mariposa %}">ici</a>)**
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46505653575/in/datetaken/" title="Ocampo - Michoacan - [Mexique]"><img src="https://farm8.staticflickr.com/7814/46505653575_ca976f3f4e_k.jpg" width="2048" height="1152" alt="Ocampo - Michoacan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -386,11 +416,11 @@ Nous passons deux journées fort agréables, la première à visiter la grotte, 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33545090258/in/datetaken/" title="Tolantongo - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7908/33545090258_62d9bb4aa8_k.jpg" width="2048" height="1152" alt="Tolantongo - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Avant du quitter les lieux, on arrive à faire le vide des eaux grises avec un sceau et le plein du réservoir d'eau. Vers 18h00 nous attaquons l’ascension de cette route incroyable pour nous arrêter tout en haut sur un parking pour les cars. Le dénivelé est de 566 mètres  sur 7 Km. Arrivé sur le parking un vieux monsieur se porte à ma hauteur, on lui achète des Pan de Pulque, on va gouter ce soir…
+Avant du quitter les lieux, on arrive à faire le vide des eaux grises avec un sceau et le plein du réservoir d'eau. Vers 18h00 nous attaquons l’ascension de cette route incroyable pour nous arrêter tout en haut sur un parking pour les cars. Le dénivelé est de 566 mètres sur 7 Km. Arrivé sur le parking un vieux monsieur se porte à ma hauteur, on lui achète des Pan de Pulque, on va gouter ce soir…
 
 ## 15 mars
 
-Ce matin, on se lève sous un ciel nuageux. On a eu de la chance durant ces deux jours. On reprend la route en direction de **Ixmiquilpan** pour tenter à nouveau de voir son église et son couvent de San Miguel. Arrivés en ville, l’église est bien ouverte cette fois-ci. 
+Ce matin, on se lève sous un ciel nuageux. On a eu de la chance durant ces deux jours. On reprend la route en direction de **Ixmiquilpan** pour tenter à nouveau de voir son église et son couvent de San Miguel. Arrivés en ville, l’église est bien ouverte cette fois-ci.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40456857683/in/datetaken/" title="Ixmiquilpan - Hidalgo - [Mexique]"><img src="https://farm8.staticflickr.com/7870/40456857683_939ec50bc7_k.jpg" width="2048" height="1152" alt="Ixmiquilpan - Hidalgo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
