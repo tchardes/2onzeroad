@@ -1,7 +1,7 @@
 ---
 layout:  blog
 title:   " Autour de Mexico"
-preview: "Cet article couvre la période du 5 février au…"
+preview: "Cet article couvre la période du 16 mars au…"
 parent-id: 
 
 date:       2019-03-26 13:00:00
@@ -21,7 +21,7 @@ itinary: "2019/mexico.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 1§ mars au       2019 durant laquelle nous avons traversé la péninsule de la Basse-Californie qui compte deux états, la Basse-Californie et la Basse-Californie du Sud.
+Cet article couvre la période du 16 mars au       2019 durant laquelle nous avons traversé .
 
 ## 16 mars
 
