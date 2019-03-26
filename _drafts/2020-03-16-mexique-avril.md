@@ -16,7 +16,7 @@ country: Mexique
 states: ["Mexico", "Guerrero", "Morelos", "Puebla", ""]
 category: "roadmap"
 flickr-text: ""
-location: "19.783943, -99.294437"
+location: "19.027834, -99.245885"
 itinary: "2019/mexico.json"
 mapZoom: 8
 ---
