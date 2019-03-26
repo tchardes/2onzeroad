@@ -13,12 +13,12 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
 pois: [tepotzotlan#16-mars, toluca#16-mars, metepec#17-mars, valle-de-bravo#18-mars, calixtlahuaca#19-et-20-mars, malinalco#19-et-20-mars, cacahuamilpa#21-mars, taxco#22-mars, xochicalco#23-mars, cuernavaca#23-mars, tepoztlan#24-mars, yecapixtla#24-mars, tlayacapan#24-mars, puebla#25-mars, cholula#25-mars, an#16-mars, an#16-mars, an#16-mars, an#16-mars, ]
 country: Mexique
-states: ["Mexico", "Guerrero", "Morelo", "Puebla", ""]
+states: ["Mexico", "Guerrero", "Morelos", "Puebla", ""]
 category: "roadmap"
 flickr-text: ""
 location: "19.783943, -99.294437"
 itinary: "2019/mexico.json"
-mapZoom: 7
+mapZoom: 5
 ---
 
 Cet article couvre la période du 16 mars au       2019 durant laquelle nous avons traversé .
