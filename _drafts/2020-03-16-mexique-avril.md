@@ -37,7 +37,7 @@ Nous quittons l'Etat d'Hidalgo et rentrons dans le l'Etat de Mexico et roulons j
 
 Nous faisons ensuite un tour sur la grande place où trône Jésus sur sa croix, couchée. Il y a énormément de monde, les boutiques en tout genre sont pleines. C’est samedi et il y a plusieurs mariages, nous croisons même une princesse…
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40456931873/in/datetaken/" title="Tepotzotlán - Mexico - [Mexique]"><img src="https://farm8.staticflickr.com/7843/40456931873_6d3a3e2c68_k.jpg" width="2048" height="1280" alt="Tepotzotlán - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40456918393/in/datetaken/" title="Tepotzotlán - Mexico - [Mexique]"><img src="https://farm8.staticflickr.com/7900/40456918393_f337a7d2c0_k.jpg" width="2048" height="1152" alt="Tepotzotlán - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47422495031/in/datetaken/" title="Tepotzotlán - Mexico - [Mexique]"><img src="https://farm8.staticflickr.com/7802/47422495031_5ee50ca9a8_k.jpg" width="2048" height="1152" alt="Tepotzotlán - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
