@@ -25,7 +25,7 @@ Cet article couvre la période du 16 mars au       2019 durant laquelle nous avo
 
 ## 16 mars
 
-Nous quittons l'état d'Hidalgo et rentrons dans le l'état de Mexico et roulons jusqu’à **Tepotzotlán**. Je ne veux pas prendre l’autoroute mais la route secondaire est vraiment usante… En début d’après-midi, nous visitons le Museo Nacional del Virreinato qui se trouve dans un ancien couvent. La visite est très intéressante, les bâtiments sont immenses et l’église, San Francisco Javier, et ses chapelles, surtout Capilla Casa De Loreto, impressionnantes au niveau de la décoration.
+Nous quittons l'Etat d'Hidalgo et rentrons dans le l'Etat de Mexico et roulons jusqu’à **Tepotzotlán**. Je ne veux pas prendre l’autoroute mais la route secondaire est vraiment usante… En début d’après-midi, nous visitons le Museo Nacional del Virreinato qui se trouve dans un ancien couvent. La visite est très intéressante, les bâtiments sont immenses et l’église, San Francisco Javier, et ses chapelles, surtout Capilla Casa De Loreto, impressionnantes au niveau de la décoration.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33546650518/in/datetaken/" title="Tepotzotlán - Mexico - [Mexique]"><img src="https://farm8.staticflickr.com/7826/33546650518_0e1e8a6bb8_k.jpg" width="2048" height="1152" alt="Tepotzotlán - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
