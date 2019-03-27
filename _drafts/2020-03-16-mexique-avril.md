@@ -118,6 +118,8 @@ Même si la grotte est "morte", les concrétions sont à sa taille, immenses. On
 
 Je me suis retrouvé avec un groupe de 4 mexicains avec qui j’ai beaucoup discuté, on a bien rigolé, ils sont vraiment adorables. Le soir, le gardien, un monsieur d’au moins 70 ans, est venu nous dire que c’est lui, cette nuit, qui surveillait le site, nous voilà de suite plus rassurés, nous lui avons donné la traditionnelle propina.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47475450071/in/datetaken/" title="Cacahuamilpa - Guerrero - [Mexique]"><img src="https://farm8.staticflickr.com/7914/47475450071_f6738f6547_k.jpg" width="2048" height="1536" alt="Cacahuamilpa - Guerrero - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 22 Mars
 
 Nous reprenons la route de montagne qui nous mène jusqu’à **Taxco**, officiellement Taxco de Alarcón. Nous trouvons un parking bien avant de rentrer en ville car construite sur une montagne, y circuler est très difficile. Comme toujours, pourquoi avoir construit une ville dans un endroit si escarpé… Taxco est la capitale de l’argent, son sol est très riche. Nous sommes un peu émus car il ya 15 ans en 2004, nous étions ici même avec nos enfants, souvenir inoubliable.
