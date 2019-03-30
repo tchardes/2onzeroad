@@ -151,11 +151,11 @@ Ce matin, on fait les vides et le plein d’eau et nous quittons le camping dire
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47400491282/in/datetaken/" title="Xochicalco - Morelos - [Mexique]"><img src="https://farm8.staticflickr.com/7812/47400491282_f436c2594a_k.jpg" width="2048" height="1365" alt="Xochicalco - Morelos - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous rebroussons un peu chemin et faisons route vers **Cuernavaca** où nous trouvons un parking en centre ville pour nous poser. Petite balade sur le jardin de Juares et le Zocalo comme toujours très animés. 
+Nous rebroussons un peu chemin et faisons route vers **Cuernavaca** où nous trouvons un parking en centre ville pour nous poser. Petite balade sur le jardin de Juares et le Zocalo comme toujours très animés.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46538190835/in/datetaken/" title="Cuernavaca - Morelos - [Mexique]"><img src="https://farm8.staticflickr.com/7912/46538190835_3d95dec544_k.jpg" width="2048" height="1365" alt="Cuernavaca - Morelos - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous n'avons pas de chance, le Palais de Cortes qui a été transformé en musée ainsi que la cathédrale sont fermés pour travaux. Dans le musée, seules deux pièces sont visitables. 
+Nous n'avons pas de chance, le Palais de Cortes qui a été transformé en musée ainsi que la cathédrale sont fermés pour travaux. Dans le musée, seules deux pièces sont visitables.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46538189535/in/datetaken/" title="Cuernavaca - Morelos - [Mexique]"><img src="https://farm8.staticflickr.com/7848/46538189535_8499fbfea8_k.jpg" width="2048" height="1152" alt="Cuernavaca - Morelos - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -163,15 +163,17 @@ On finit la journée par une bonne bière, en musique, sur la terrasse d’un ba
 
 ## 24 Mars
 
-Ce matin, direction la route des couvents qui nous amène dans un premier temps à **Tepoztlan**. C’est dimanche, les marchands ambulants sont tous de sortie autant dire que circuler dans ces petites villes est compliqué. Nous arrivons quand même à nous garer dans une petite rue. On attend un peu, le bus arrive à passer, on peut y aller. On commence par le musée Carlos Pellicer qui présente des objets de l’ère préhispanique. Juste derrière, se trouve le couvent de la Nativité. De l’atrium, on arrive au cloître qui présente quelques belles fresques. L’église et le reste du bâtiment sont fermés pour cause de travaux, ça en a bien besoin, les deux clochers sont étayés, on peut y voir d’énormes fissures.
+Ce matin, direction la route des couvents qui nous amène dans un premier temps à **Tepoztlan**. C’est dimanche, les marchands ambulants sont tous de sortie, autant dire que circuler dans ces petites villes est compliqué. Nous arrivons quand même à nous garer dans une petite rue. On attend un peu, le bus de la ville arrive à passer, on peut y aller. On commence par le musée Carlos Pellicer qui présente des objets de l’ère préhispanique. Juste derrière, se trouve le couvent de la Nativité. Depuis l’atrium, on arrive au cloître qui présente quelques belles fresques. L’église et le reste des bâtiments sont fermés pour cause de travaux, ça en a bien besoin, les deux clochers sont étayés, on peut y voir d’énormes fissures.
 
 
 
 
-On arrive à sortir tant bien que mal de la ville pour nous dirriger vers **Yecapixtla**, là aussi, on comprend très vite que l'on ne trouvera pas de place et on sort de la ville pour se garer un peu plus loin. La encore, pas de chance, on peut bien rentrer dans l’atrium mais l’église est fermée pour cause de travaux, les messes se déroulent dehors sous chapiteau. On peut quand même faire le tour du cloître du couvent dont les fresques sont bien abîmées.
+On arrive à sortir tant bien que mal de la ville pour nous dirriger vers **Yecapixtla**, là aussi, on comprend très vite que l'on ne trouvera pas de place et on sort de la ville pour se garer en dehors. La encore, pas de chance, on peut bien rentrer dans l’atrium mais l’église est fermée pour cause de travaux, les messes se déroulent dehors sous chapiteau. On peut quand même faire le tour du cloître du couvent dont les fresques sont bien abîmées.
 
 
-Du coup, on laisse tomber **Ocultuco** et **Atlatlahuacan** qui sont juste cités dans le guide pour nous concentrer sur ce qui doit être le plus beau à savoir à **Tlayacapan**. On se gare directement à l’entrée de la ville et nous y allons à pied, on passe devant de nombreux stands de vente de souvenirs et arrivons à l’entrée du couvent qui est entièrement échafaudé, fermé également pour de longs mois pour cause de restauration. Ce sont les plus beaux monastères qui entourent le volcan Popocatepetl (Qui est en éruption actuellement) qui ont été inscrit en 1994 au patrimoine mondial de l’Unesco. Peut-être ont-ils perçu de grosses sommes pour leur restauration…
+
+
+Du coup, on laisse tomber **Ocultuco** et **Atlatlahuacan** qui sont juste cités dans le guide pour nous concentrer sur ce qui doit être le plus beau à savoir à **Tlayacapan**. On se gare directement à l’entrée de la ville et nous y allons à pied, on passe devant de nombreux stands de vente de souvenirs et arrivons à l’entrée du couvent qui est entièrement échafaudé, fermé également pour de longs mois pour cause de restauration. Ce sont les plus beaux monastères qui entourent le volcan Popocatepetl qui ont été inscrit en 1994 au patrimoine mondial de l’Unesco. Peut-être ont-ils perçu de grosses sommes pour leur restauration…
 
 
 Nous quittons la zone pour prendre la direction de Puebla, on se pose sur un grand terrain d’une station Pemex contre un petit billet de 20 pesos pour le gardien de nuit qui doit avoir, ici aussi, plus de 70 ans…
@@ -179,29 +181,27 @@ Nous quittons la zone pour prendre la direction de Puebla, on se pose sur un gra
 
 ## 25 Mars
 
-Ce matin, on part en direction **Puebla**. On opte pour une route un peu plus longue mais sans péage et avec peu de virage. Cette route contourne par le Sud l’imposant volcan Popocatépetl qui veut dire la montagne qui fume (5450 mètres) qui était éruption il y a quelques jours et d’où s’échappe encore de son flan et de son cratère de la fumée. A côté de lui, se trouve un autre volcan, le Itzaccihuati (5280 mètres), endormi. Notre premier arrêt se fait avant de rentrer dans la ville de Puebla, à l’église de **San Francisco Acatepec** recouverte de céramique aux couleurs éclatantes sans oublier son intérieur, couvert de dorures, avec un imposant retable churrigueresque.
+Ce matin, on part en direction **Puebla**. On opte pour une route un peu plus longue mais sans péage et avec peu de virage. Cette route contourne par le Sud l’imposant volcan Popocatépetl (5450 mètres) qui veut dire la "montagne qui fume" et qui était éruption il y a quelques jours et d’où s’échappe encore de son flan et de son cratère de la fumée. A côté de lui, se trouve un autre volcan, le Itzaccihuati (5280 mètres), endormi. Deux autres anciens volcans viennent entourer la vallée de Puebla, Malinche (4462) et Citlaltépetl ou Pico de Orizaba (5636). Notre premier arrêt se fait avant de rentrer dans la ville de Puebla, à l’église de **San Francisco Acatepec** recouverte de céramique aux couleurs éclatantes sans oublier son intérieur, couvert de dorures, avec un imposant retable churrigueresque.
 
 
-Nous poursuivons en direction de **Cholula** où nous faisons une pose à l’église de **Santa maria Tonantzintla**. Si la façade est moins extravagante, l'ornement intérieur est encore plus exubérant. Malheureusement les photos y sont interdites car ils vendent de cartes postales à l'entrée.
-
-
-
-Dernière visite de la journée, nous nous arrêtons au centre de Cholula. Nous visitons la magnifique église de la **Viregen de los Remedios**. Située à 65 mètres de haut, elle domine la ville et offre une très belle vue sur la ville et les volcans. A sa base, la pyramide Tepanapa. De retour, nous passons à léglise et au **Convento de San Gabriel Arcángel** puis la **Plaza del Trueque** où nous nous arrêtons à la terrasse d’un café pour boire un coup.
+Nous poursuivons en direction de **Cholula** où nous faisons une pose à l’église de **Santa maria Tonantzintla**. Si la façade est moins extravagante, l'ornement intérieur est encore plus exubérant. Malheureusement les photos y sont interdites car ils vendent des cartes postales à l'entrée.
 
 
 
-En fin d’après-midi, on reprend Thor et à peine démarrés, un policier minicipal me fait signe, rien qu'à le voir je le sens mal… Il arrive à ma hauteur et me dit que je suis en infraction car Thor n’aurait jamais du entrer en centre-ville. Je lui demande où est le panneau d’interdiction, il me fait signe vaguement qu’il est un peu plus loin. Je lui indique que je vais aller vérifier, il me demande alors de me garer, j'obtempère. On lui sort nos photocopies du permis de conduite international et de nos passeports, il est surpris de voir qu'ils soient valides jusqu'en 2025...  Il tient dans sa main un genre de carnet et me répête qu’il va nous verbaliser, je le vois venir gros comme une maison. Je lui dis bon, tu le rédiges ton PV ou pas, tout en sortant une feuille que j’ai récupéré sur internet du ministère des transports mexicains à remplir en cas d’infraction relevée par un fonctionnaire. Il regarde discrétement le document, ne sait plus trop que faire... moi j'attends... il regarde Thor et me parle en plaisantant de la série "Breaking Bad", j'acquiesce en disant que la seule différence, c’est que je ne suis pas chimiste et ne fabrique pas de crystal meth, il rigole, me demande où nous allons, il m’indique la route pour Puebla et nous laisse partir. C’est la première fois que l’on tombe dans ce genre de situation depuis notre arrivée au Mexique...
-
-
-Arrivés à Puebla, on se pose sur un parking d’un Soriana et allons faire quelques courses, on trouve un très beau rayon "Panaderia" avec de belles baguettes et des croissants et pains au chocolats qui font envie… on goûtera le pain ce soir et le reste au petit déjeuner.
+Dernière visite de la journée, nous nous arrêtons au centre de Cholula. Nous visitons la magnifique église de la **Viregen de los Remedios**. Située à 65 mètres de haut, elle domine la ville et offre une très belle vue sur la ville et les volcans et a été construite sur un ancien site. De retour, nous passons à léglise et au **Convento de San Gabriel Arcángel** puis la **Plaza del Trueque** où nous nous arrêtons à la terrasse d’un café pour boire un coup.
 
 
 
-## 26 Mars
+En fin d’après-midi, on reprend Thor et à peine démarré, un policier minicipal me fait signe, rien qu'à le voir je le sens mal… Il arrive à ma hauteur et me dit que je suis en infraction car Thor n’aurait jamais du entrer en centre-ville. Je lui demande où est le panneau d’interdiction, il me fait signe vaguement qu’il est un peu plus loin. Je lui indique que je vais aller vérifier, il me demande alors de me garer, j'obtempère. On lui sort nos photocopies du permis de conduite international et de nos passeports, il est surpris de voir qu'ils soient valides jusqu'en 2025...  Il tient dans sa main un genre de carnet et me répête qu’il va nous verbaliser, je le vois venir gros comme une maison. Je lui dis bon, tu le rédiges ton PV ou pas, tout en sortant une feuille que j’ai récupéré sur internet du ministère des transports mexicains à remplir en cas d’infraction relevée par un fonctionnaire. Il regarde discrétement le document, ne sait plus trop que faire... moi j'attends... il regarde Thor et me parle en plaisantant de la série "Breaking Bad", j'acquiesce en disant que la seule différence, c’est que je ne suis pas chimiste et ne fabrique pas de crystal meth, il rigole, me demande où nous allons, il m’indique la route pour Puebla et nous laisse partir. C’est la première fois que l’on tombe dans ce genre de situation depuis notre arrivée au Mexique...
+
+
+Arrivés à Puebla, on se pose sur un parking d’un Soriana et allons faire quelques courses, on trouve un très beau rayon "Panaderia" avec de belles baguettes, des croissants et pains au chocolats qui font envie… on goûtera le pain ce soir et le reste au petit déjeuner.
+
+
+
+## 26 et 27 Mars
 
 Corinne à passée une très mauvaise nuit en raison d’une gros rhume, on décide de ne pas bouger aujourd’hui et de se reposer.
-
-## 27 Mars
 
 Nuit calme, Corinne se sent un peu mieux aujourd’hui, on décide de bouger un peu.
 Nous quittons Puebla pour Huejotzingo où nous visitons le Museo Local de la Evangelización implanté dans l’ancien Convento de San Miguel. 4 belles chapelles (Capillas Posas) se trouvent au niveau de l’Atrium, au fond l’église et le couvent Franciscain qui sont peu engageant de l’extèrieur, l’ensemble ressemble plus à une forteresse qu’un ensemble religieux. L’église est fermée, en restauratiuon… je me rabat sur le couvent qui a été transformé en musée. La salle à manger, la cuisine et les cellules ont été meublé d’époque, le cloître et jolie mais la plus belle pièce est la salle de profundis qui présente de superbes fresque en grisaille.
