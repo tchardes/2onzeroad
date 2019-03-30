@@ -199,15 +199,34 @@ Arrivés à Puebla, on se pose sur un parking d’un Soriana et allons faire que
 
 ## 26 Mars
 
+Corinne à passée une très mauvaise nuit en raison d’une gros rhume, on décide de ne pas bouger aujourd’hui et de se reposer.
 
 ## 27 Mars
+
+Nuit calme, Corinne se sent un peu mieux aujourd’hui, on décide de bouger un peu.
+Nous quittons Puebla pour Huejotzingo où nous visitons le Museo Local de la Evangelización implanté dans l’ancien Convento de San Miguel. 4 belles chapelles (Capillas Posas) se trouvent au niveau de l’Atrium, au fond l’église et le couvent Franciscain qui sont peu engageant de l’extèrieur, l’ensemble ressemble plus à une forteresse qu’un ensemble religieux. L’église est fermée, en restauratiuon… je me rabat sur le couvent qui a été transformé en musée. La salle à manger, la cuisine et les cellules ont été meublé d’époque, le cloître et jolie mais la plus belle pièce est la salle de profundis qui présente de superbes fresque en grisaille.
+Route ensuite jusqu’aux sites arquéologiques de Xochitécatl et de Cacaxtla qui étaient à la base qu’un seul site. Nous passons pour l’occasion dans le plus petit Etat du Mexique, Tlaxcala. On tombe sur une gars sympa à l’entrée quiu ne nous fait payer que pour un seul site.
+Nous finissons nos visites à Tlaxcala en croyant entrer dans le l’ancien couvent de San Francisco on se retrouve en fait dans la Plaza de Toros Jorge el Ranchero Aguilar, une arène. On tombe sur deux personnes hyper sympas et on commence à discuter Tauromachie du coup on à droit à une visite des Torils, du lieu de la pesée des tauraux (430 kilos minimum), le tirage au sort et on fini dans l’arène où il nous fait des passes de cape.
+Visite du Museo Regional qui se trouve dans l’ancien couvent n’est pas extraordinaire, en dehors de plusieurs toile qui retrace la vis de saint antoine de padoue. Par contre la Catedral de Nuestra Señora de La Asunción et rès belle avec sont plafond en bois et ses retables barroques hyper chargés. Je monte ensuite jusqu’à la Basílica de Nuestra Señora de Ocotlán qui se trouve sur une colline. Elles auusi est en pleine restauration extérieure mais on peu quand même y entrer.
+retour à notre bivouac à Puebla.
+
 
 
 ## 28 Mars
 
+Ce matin vers 6h30 popo à toussauté et à laché un gros panache de fumée, la vidéo des caméras de surveillance est impressionnante. On ne s’est rabdu compte de rien. On laisse Thor et nous prenons un taxi pour nous conduire dans le centre ville. Notre premier arrêt se fait à l’ex-couvent de Sant Monica qui a été transformé en musée religieux. Ce bel édifice aux façades recouverte de terre cuite et de céramique présente de beau objets et de belles peintures, certaines pièces du couvent ont été recontituées.
+Nous poursuivons la visite de la ville, marché, cathédrale, à midi on se fait une petit fantaisie, on mange dans un restaurant atypique : Tacos Arabes Bagdad. On se régale de tacos au Kebab excellent, on a pas trop l’occasion de trouver de l’agneau ici. Dans l’après-midi on poursuit la visite par la Mairie, quelques maisons un peu originales mais rien d’extraordianire et on fini par deux musée, Casa del Dean qui présente deux pièces recouvertes de fresques et la musée Amparo, magnifique, très moderne, qui résente 3000 pièces d’une collection privée, pièces préhispanique, art populaire, photographies de Rodrigo Moya, art contemporain et art Virreinal. Au dernier étage une immense terrasse permet d’observer les toits de la ville qui sont dominés par le clochers, domes de tous les édifices religieux de la ville.
+En fin de journée on reprend un taxi pour rejoindre le bivouac.
 
 ## 29 Mars
 
+Ce matin on quitte Puebla qui est plongée dans unbrouillard en raison de l’éruption de Popo.
+On s’arrête à cholula pour faire le plein d’eau potable et passage à la laverie.
+On prend ensuite la route ou plutôt l’autoroute pour Mexico pour nous rendre dans un magasion qui soit disant à des pièces pour RV. Traverser cette mégapole de plus de 20 millions d’habitant n’est pas facile. On arrive au magasin, on tombe sur un type pas vraiment sympathique qui n’a pas l’air de vouloir travailler. Pour faire court c’est uniquement sur commande. Bon on retraverse Mexico vers le Nord-Est cette fois ci, ça ne roule pas mieux et juste avant de quitter la ville on tombe sur 4 policiers municipaux qui sont trop content de me voir. On se connait ?? non en fait .
+Il me demande mes papiers, pas le photocopies les vrais… Puis me demande mon permis touristique que j’aurai du prendre sur Internet pour visiter Mexico, tu parles d’une visite… Bref c’est la fin du monde, verbalisation, confiscation de ma plaque d’immatriculation arrière, Un policier à sortie ssa pince , il est pret… mais bon on peu s’arranger… Ben non pas de soucis où puis-je récupérer ma plaque… vous pouvez y aller…
+On poursuit notre route, Corinne est déconfite… On s’arrête au Couvent d’Alcoman que l’on visite puis route vers Teotuhuacan où nous faisons le plein de propane puis nous nous rendons dans le camping où nous allons laisser Thor le temps de notre visite de Ciudad Mexico CD MX.
+Le Camping n’est pas très grand mais à tout les braanchement et du bon Wifi.
+Nous faisons connaissance de nos voisins, une famille de Brésiliens qui on acheté leur RV en Floride comme nous et qui sont sur les routes depuis 4 mois. Très sympatiques.
 
 ## 30 Mars
 
