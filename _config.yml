@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "19.690838, -98.872945"
-  name: "Teotihuacan - Mexico - Mexique"
-  date: "29 au 31 mars 2019"
+  coordinates: "19.482602, -99.133909"
+  name: "Mexico - Mexico - Mexique"
+  date: "01 au 05 avril 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
