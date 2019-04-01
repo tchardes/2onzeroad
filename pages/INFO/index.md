@@ -279,7 +279,7 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 * [François et Yumie](https://www.facebook.com/yumie.miura.7?lst=100004432210906%3A687754820%3A1545768275/)- Rencontrés aux USA à San Giego - Californie le 23 décembre 2018 ;
 * [Christophe et Jean-Pierre - Mavros Odyssée](https://mavros-odyssee.fr/) - Rencontrés au Mexique à Loreto - Basse-Californie du Sud le 15 janvier 2019 ;
 * [John, Carine et Sarah - Les Calé d'Aventure](https://www.facebook.com/groups/158712788119128/) - Rencontrés au Mexique à Guanajuato le 22 février 2019.
-* [Rodriguo, Manu, Nina et Maria - Nossacasamundo](Instagram : Nossacasamundo) - Rencontrés au Mexique à Teotihuacan le 31 mars 2019.
+* Rodriguo, Manu, Nina et Maria - Nossacasamundo - (Instagram : Nossacasamundo) - Une famille brésilienne rencontrée au Mexique à Teotihuacan le 31 mars 2019.
 
 ## Divers
 
