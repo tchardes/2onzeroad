@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "20.434209, -97.382413"
   name: "El Tajin - Veracruz - Mexique"
-  date: "06 avril 2019"
+  date: "06 et 07 avril 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
