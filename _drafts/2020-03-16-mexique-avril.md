@@ -165,8 +165,11 @@ On finit la journée par une bonne bière, en musique, sur la terrasse d’un ba
 
 Ce matin, direction la route des couvents qui nous amène dans un premier temps à **Tepoztlan**. C’est dimanche, les marchands ambulants sont tous de sortie, autant dire que circuler dans ces petites villes est très compliqué. Nous arrivons quand même à nous garer dans une petite rue. On attend un peu, le bus de la ville arrive à passer, on peut y aller. On commence par le musée Carlos Pellicer qui présente des objets de l’ère préhispanique. Juste derrière, se trouve le couvent de la Nativité. Depuis l’atrium, on arrive au cloître qui présente quelques belles fresques. L’église et le reste des bâtiments sont fermés pour cause de travaux, ça en a bien besoin, les deux clochers sont étayés, on peut y voir d’énormes fissures.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33620459758/in/datetaken/" title="Tepoztlan - Morelos - [Mexique]"><img src="https://live.staticflickr.com/7915/33620459758_d5c8e56c1b_k.jpg" width="2048" height="1152" alt="Tepoztlan - Morelos - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47444483322/in/datetaken/" title="Tepoztlan - Morelos - [Mexique]"><img src="https://live.staticflickr.com/7826/47444483322_f052843ec7_k.jpg" width="2048" height="1365" alt="Tepoztlan - Morelos - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46773656304/in/datetaken/" title="Tepoztlan - Morelos - [Mexique]"><img src="https://live.staticflickr.com/7805/46773656304_13e5e9a5ce_k.jpg" width="2048" height="1152" alt="Tepoztlan - Morelos - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On arrive à sortir tant bien que mal de la ville pour nous dirriger vers **Yecapixtla**, là aussi, on comprend très vite que l'on ne trouvera pas de place et on sort de la ville pour se garer en dehors. La encore, pas de chance, on peut bien rentrer dans l’atrium mais l’église est fermée pour cause de travaux, les messes se déroulent dehors sous chapiteau. On peut quand même faire le tour du cloître du couvent dont les fresques sont bien abîmées.
 
@@ -188,7 +191,7 @@ Nous poursuivons en direction de **Cholula** où nous faisons une pose à l’é
 
 
 
-Dernière visite de la journée, nous nous arrêtons au centre de Cholula. Nous visitons la magnifique église de la **Viregen de los Remedios**. Située à 65 mètres de haut, elle domine la ville et offre une très belle vue sur la ville et les volcans et a été construite sur un ancien site. De retour, nous passons à léglise et au **Convento de San Gabriel Arcángel** puis la **Plaza del Trueque** où nous nous arrêtons à la terrasse d’un café pour boire un coup.
+Dernière visite de la journée, nous nous arrêtons au centre de Cholula. Nous visitons la magnifique église de la **Viregen de los Remedios**. Située à 65 mètres de haut, elle domine la ville et offre une très belle vue sur la ville et les volcans et a été construite sur un ancien site. De retour, nous passons à léglise et au **Convento de San Gabriel Arcángel** puis la **Plaza del Trueque** où nous nous arrêtons à la terrasse d’un café pour boire un coup. Une légende affirme que la ville abriterait plus de 365 églises, au moins 128 on été recensées, ce qui n'est déjà pas mal.
 
 
 
