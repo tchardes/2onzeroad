@@ -278,12 +278,14 @@ Thor n’a absoluement rien, j’indique au premier chauffeur que pour moi tout 
 Toujours en ville je vois des girophares dans mon rétrovieur et le conducteur qui me fait signe de me garer, contrôle des passeports et permis internationnal, nos copies, il examine longuement, nous demande où nous allons et nous laisse partir. On décide de quitter rapidement cette ville. On arrive finalement sur le parking du site archéologique, nous allons passer la nuit. Rapidement, un gardien vient me demander 70 puis au final 50 pesos pour la nuit. On est descendu de plus de 2000 mètres et on le sent, il fait très chaud et très lourd.
 
 
-## 07 Avril
+## 07 et 08 Avril
 
-Ce matin le temps est couvert, on attend jusqu’à 11h00 avant d’entamer la visite du site de **El Tajin**, très belle surprise, les constructions très raprochées, en pleine forêt, parfois recouvertes d'herbes... vertes. Le temps couvert, un peu brumeux, amène une ambiance toute particulière. La pyramide à caisson ou niches est vraiment très original. On mange sur le site puis nous prenons la route en direction de Casitas au bord golfe du Mexique où nous nous posons dans un camping avec plage privée et piscines et tous les branchements. Nous sommes dimanche est il y a beaucoup de monde mais certainement demain, nous serons seuls.
+Ce matin le temps est couvert, on attend jusqu’à 11h00 avant d’entamer la visite du site de **El Tajin**, très belle surprise, les constructions très raprochées, en pleine forêt, parfois recouvertes d'herbes... vertes. Le temps couvert, un peu brumeux, amène une ambiance toute particulière. La pyramide à caisson ou niches est vraiment très original. On mange sur le site puis nous prenons la route en direction de Casitas au bord golfe du Mexique où nous nous posons dans un camping avec plage privée et piscines et tous les branchements. Nous sommes dimanche est il y a beaucoup de monde.
 
 
-## 01 Avril
+
+
+## 09 Avril
 
 
 
