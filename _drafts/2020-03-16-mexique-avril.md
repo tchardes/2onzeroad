@@ -11,9 +11,9 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
-pois: [tepotzotlan#16-mars, toluca#16-mars, metepec#17-mars, valle-de-bravo#18-mars, calixtlahuaca#19-et-20-mars, malinalco#19-et-20-mars, cacahuamilpa#21-mars, taxco#22-mars, xochicalco#23-mars, cuernavaca#23-mars, tepoztlan#24-mars, yecapixtla#24-mars, tlayacapan#24-mars, puebla#25-mars, cholula#25-mars, an#16-mars, an#16-mars, an#16-mars, an#16-mars, ]
+pois: [tepotzotlan#16-mars, toluca#16-mars, metepec#17-mars, valle-de-bravo#18-mars, calixtlahuaca#19-et-20-mars, malinalco#19-et-20-mars, cacahuamilpa#21-mars, taxco#22-mars, xochicalco#23-mars, cuernavaca#23-mars, tepoztlan#24-mars, yecapixtla#24-mars, tlayacapan#24-mars, puebla#25-mars, cholula#25-mars, huejotzingo#26-et-27mars, xochitécatl#26-et-27mars, cacaxtla#26-et-27mars, tlaxcala#26-et-27mars, alcoman#29-mars, teotihuacan#30-et-31-mars, mexico#01-au-05-avril, el-tajin#07-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, ]
 country: Mexique
-states: ["Mexico", "Guerrero", "Morelos", "Puebla", "Tlaxcala"]
+states: ["Mexico", "Guerrero", "Morelos", "Puebla", "Tlaxcala", "Veracruz"]
 category: "roadmap"
 flickr-text: ""
 location: "19.027834, -99.245885"
@@ -163,7 +163,7 @@ On finit la journée par une bonne bière, en musique, sur la terrasse d’un ba
 
 ## 24 Mars
 
-Ce matin, direction la route des couvents qui nous amène dans un premier temps à **Tepoztlan**. C’est dimanche, les marchands ambulants sont tous de sortie, autant dire que circuler dans ces petites villes est compliqué. Nous arrivons quand même à nous garer dans une petite rue. On attend un peu, le bus de la ville arrive à passer, on peut y aller. On commence par le musée Carlos Pellicer qui présente des objets de l’ère préhispanique. Juste derrière, se trouve le couvent de la Nativité. Depuis l’atrium, on arrive au cloître qui présente quelques belles fresques. L’église et le reste des bâtiments sont fermés pour cause de travaux, ça en a bien besoin, les deux clochers sont étayés, on peut y voir d’énormes fissures.
+Ce matin, direction la route des couvents qui nous amène dans un premier temps à **Tepoztlan**. C’est dimanche, les marchands ambulants sont tous de sortie, autant dire que circuler dans ces petites villes est très compliqué. Nous arrivons quand même à nous garer dans une petite rue. On attend un peu, le bus de la ville arrive à passer, on peut y aller. On commence par le musée Carlos Pellicer qui présente des objets de l’ère préhispanique. Juste derrière, se trouve le couvent de la Nativité. Depuis l’atrium, on arrive au cloître qui présente quelques belles fresques. L’église et le reste des bâtiments sont fermés pour cause de travaux, ça en a bien besoin, les deux clochers sont étayés, on peut y voir d’énormes fissures.
 
 
 
@@ -192,7 +192,7 @@ Dernière visite de la journée, nous nous arrêtons au centre de Cholula. Nous 
 
 
 
-En fin d’après-midi, on reprend Thor et à peine démarré, un policier minicipal me fait signe, rien qu'à le voir je le sens mal… Il arrive à ma hauteur et me dit que je suis en infraction car Thor n’aurait jamais du entrer en centre-ville. Je lui demande où est le panneau d’interdiction, il me fait signe vaguement qu’il est un peu plus loin. Je lui indique que je vais aller vérifier, il me demande alors de me garer, j'obtempère. On lui sort nos photocopies du permis de conduite international et de nos passeports, il est surpris de voir qu'ils soient valides jusqu'en 2025...  Il tient dans sa main un genre de carnet et me répête qu’il va nous verbaliser, je le vois venir gros comme une maison. Je lui dis bon, tu le rédiges ton PV ou pas, tout en sortant une feuille que j’ai récupéré sur internet du ministère des transports mexicains à remplir en cas d’infraction relevée par un fonctionnaire. Il regarde discrétement le document, ne sait plus trop que faire... moi j'attends... il regarde Thor et me parle en plaisantant de la série "Breaking Bad", j'acquiesce en disant que la seule différence, c’est que je ne suis pas chimiste et ne fabrique pas de crystal meth, il rigole, me demande où nous allons, il m’indique la route pour Puebla et nous laisse partir. C’est la première fois que l’on tombe dans ce genre de situation depuis notre arrivée au Mexique...
+En fin d’après-midi, on reprend Thor et à peine démarré, un policier minicipal me fait signe, rien qu'à le voir je le sens mal… Il arrive à ma hauteur et me dit que je suis en infraction car Thor, avec ces roues jumelées, n’aurait jamais du entrer en centre-ville. Je lui demande où est le panneau d’interdiction, il me fait signe vaguement qu’il est un peu plus loin. Je lui indique que je vais aller vérifier, il me demande alors de me garer, j'obtempère. On lui sort nos photocopies du permis de conduite international et de nos passeports, il est surpris de voir qu'ils soient valides jusqu'en 2025...  Il tient dans sa main un genre de carnet et me répête qu’il va nous verbaliser, je le vois venir gros comme une maison. Je lui dis bon, tu le rédiges ton PV ou pas, tout en sortant une feuille que j’ai récupéré sur internet du ministère des transports mexicains à remplir en cas d’infraction relevée par un fonctionnaire. Il regarde discrétement le document, ne sait plus trop que faire... moi j'attends... il regarde Thor et me parle en plaisantant de la série "Breaking Bad", j'acquiesce en disant que la seule différence, c’est que je ne suis pas chimiste et ne fabrique pas de crystal meth, il rigole, me demande où nous allons, il m’indique la route pour Puebla et nous laisse partir. C’est la première fois que l’on tombe dans ce genre de situation depuis notre arrivée au Mexique...
 
 
 Arrivés à Puebla, on se pose sur un parking d’un Soriana et allons faire quelques courses, on trouve un très beau rayon "Panaderia" avec de belles baguettes, des croissants et pains au chocolats qui font envie… on goûtera le pain ce soir et le reste au petit déjeuner.
@@ -201,34 +201,136 @@ Arrivés à Puebla, on se pose sur un parking d’un Soriana et allons faire que
 
 ## 26 et 27 Mars
 
-Corinne à passée une très mauvaise nuit en raison d’une gros rhume, on décide de ne pas bouger aujourd’hui et de se reposer.
+Corinne a un gros rhume, on décide de ne pas bouger aujourd’hui et de se reposer. Corinne se sent un peu mieux aujourd’hui, on décide de bouger un peu. Nous quittons Puebla pour **Huejotzingo** où nous visitons le Museo Local de la Evangelización implanté dans l’ancien Coouvent de San Miguel. Quatre belles chapelles (Capillas Posas) se trouvent au niveau de l’Atrium. Au fond, l’église et le couvent Franciscain  sont peu engageant de l’extèrieur. l’ensemble ressemble plus à une forteresse qu’un ensemble religieux. L’église est fermée, en restauratiuon… Je me rabat sur le couvent qui a été transformé en musée. La salle à manger, la cuisine et les cellules ont été meublé d’époque, le cloître et jolie mais la plus belle pièce est la salle de profundis qui présente de superbes fresque en grisaille.
 
-Nuit calme, Corinne se sent un peu mieux aujourd’hui, on décide de bouger un peu.
-Nous quittons Puebla pour Huejotzingo où nous visitons le Museo Local de la Evangelización implanté dans l’ancien Convento de San Miguel. 4 belles chapelles (Capillas Posas) se trouvent au niveau de l’Atrium, au fond l’église et le couvent Franciscain qui sont peu engageant de l’extèrieur, l’ensemble ressemble plus à une forteresse qu’un ensemble religieux. L’église est fermée, en restauratiuon… je me rabat sur le couvent qui a été transformé en musée. La salle à manger, la cuisine et les cellules ont été meublé d’époque, le cloître et jolie mais la plus belle pièce est la salle de profundis qui présente de superbes fresque en grisaille.
-Route ensuite jusqu’aux sites arquéologiques de Xochitécatl et de Cacaxtla qui étaient à la base qu’un seul site. Nous passons pour l’occasion dans le plus petit Etat du Mexique, Tlaxcala. On tombe sur une gars sympa à l’entrée quiu ne nous fait payer que pour un seul site.
-Nous finissons nos visites à Tlaxcala en croyant entrer dans le l’ancien couvent de San Francisco on se retrouve en fait dans la Plaza de Toros Jorge el Ranchero Aguilar, une arène. On tombe sur deux personnes hyper sympas et on commence à discuter Tauromachie du coup on à droit à une visite des Torils, du lieu de la pesée des tauraux (430 kilos minimum), le tirage au sort et on fini dans l’arène où il nous fait des passes de cape.
-Visite du Museo Regional qui se trouve dans l’ancien couvent n’est pas extraordinaire, en dehors de plusieurs toile qui retrace la vis de saint antoine de padoue. Par contre la Catedral de Nuestra Señora de La Asunción et rès belle avec sont plafond en bois et ses retables barroques hyper chargés. Je monte ensuite jusqu’à la Basílica de Nuestra Señora de Ocotlán qui se trouve sur une colline. Elles auusi est en pleine restauration extérieure mais on peu quand même y entrer.
-retour à notre bivouac à Puebla.
+
+
+Route ensuite jusqu’aux sites arquéologiques de **Xochitécatl** et de **Cacaxtla** qui étaient à la base qu’un seul site. Nous passons pour l’occasion dans le plus petit Etat du Mexique, Tlaxcala. On tombe sur une gars sympa à l’entrée qui ne nous fait payer que pour un seul site.
+
+
+
+
+
+Nous finissons nos visites par la capitale d'Etat, **Tlaxcala**. A peine dans le centre ville on se fait arrêter par un policier minucipal, décidément... Il nous dit que Thor ne devrait pas se trouver en ville mais que comme nous sommes des touristes on peut continuer... On trouve à se garer et nous partons à la découverte de la ville. En croyant entrer dans le l’ancien couvent de San Francisco on se retrouve en fait dans la Plaza de Toros Jorge el Ranchero Aguilar, une arène. On tombe sur deux personnes hyper sympas et on commence à discuter Tauromachie du coup on à droit à une visite de toute l'arène, les torils, le lieu de la pesée des tauraux (430 kilos minimum), le tirage au sort et on fini dans l’arène où il nous fait quelques passes de cape.
+
+
+Visite ensuite du Museo Regional qui se trouve dans l’ancien couvent, rien d'extraordinaire, en dehors de plusieurs toiles qui retracent la vie de Saint Antoine de Padoue. Par contre la Cathédrale de Nuestra Señora de La Asunción et très belle avec son plafond en bois et ses retables barroques hyper chargés. Je monte ensuite jusqu’à la Basílica de Nuestra Señora de Ocotlán, toute blanche qui se trouve sur une colline. Elle aussi est en pleine restauration extérieure mais on peu quand même y entrer.
+
+
 
 
 
 ## 28 Mars
 
-Ce matin vers 6h30 popo à toussauté et à laché un gros panache de fumée, la vidéo des caméras de surveillance est impressionnante. On ne s’est rabdu compte de rien. On laisse Thor et nous prenons un taxi pour nous conduire dans le centre ville. Notre premier arrêt se fait à l’ex-couvent de Sant Monica qui a été transformé en musée religieux. Ce bel édifice aux façades recouverte de terre cuite et de céramique présente de beau objets et de belles peintures, certaines pièces du couvent ont été recontituées.
-Nous poursuivons la visite de la ville, marché, cathédrale, à midi on se fait une petit fantaisie, on mange dans un restaurant atypique : Tacos Arabes Bagdad. On se régale de tacos au Kebab excellent, on a pas trop l’occasion de trouver de l’agneau ici. Dans l’après-midi on poursuit la visite par la Mairie, quelques maisons un peu originales mais rien d’extraordianire et on fini par deux musée, Casa del Dean qui présente deux pièces recouvertes de fresques et la musée Amparo, magnifique, très moderne, qui résente 3000 pièces d’une collection privée, pièces préhispanique, art populaire, photographies de Rodrigo Moya, art contemporain et art Virreinal. Au dernier étage une immense terrasse permet d’observer les toits de la ville qui sont dominés par le clochers, domes de tous les édifices religieux de la ville.
-En fin de journée on reprend un taxi pour rejoindre le bivouac.
+Ce matin vers 6h30 Popocatépetl à toussauté et à laché un gros panache de fumée, la vidéo des caméras de surveillance est impressionnante. On ne s’est rendu compte de rien. On laisse Thor et nous prenons un taxi pour nous conduire dans le centre ville de Puebla. Notre premier arrêt se fait à l’ancien couvent de Santa Monica qui a été transformé en musée religieux. Ce bel édifice aux façades recouverte de terre cuite et de céramique présente de beau objets et de belles peintures, certaines pièces du couvent ont été recontituées.
+
+
+Nous poursuivons la visite de la ville par marché et la cathédrale. A midi on se fait une petite fantaisie, on mange dans un restaurant atypique : Tacos Arabes Bagdad. On se régale de tacos au Kebab, excellents, on a pas trop l’occasion de trouver de l’agneau ici. Dans l’après-midi on poursuit la visite par la Mairie, quelques maisons un peu originales mais rien d’extraordianire et on fini par deux musée, Casa del Dean qui présente deux pièces recouvertes de fresques et le musée Amparo, magnifique, très moderne, qui présente 3000 pièces d’une collection privée, pièces préhispanique, art populaire, photographies de Rodrigo Moya, art contemporain et art Virreinal. Au dernier étage une immense terrasse permet d’observer les toits de la ville qui sont dominés par le clochers et domes de tous les édifices religieux de la ville. En fin de journée on reprend un taxi pour rejoindre le bivouac.
 
 ## 29 Mars
 
-Ce matin on quitte Puebla qui est plongée dans unbrouillard en raison de l’éruption de Popo.
-On s’arrête à cholula pour faire le plein d’eau potable et passage à la laverie.
-On prend ensuite la route ou plutôt l’autoroute pour Mexico pour nous rendre dans un magasion qui soit disant à des pièces pour RV. Traverser cette mégapole de plus de 20 millions d’habitant n’est pas facile. On arrive au magasin, on tombe sur un type pas vraiment sympathique qui n’a pas l’air de vouloir travailler. Pour faire court c’est uniquement sur commande. Bon on retraverse Mexico vers le Nord-Est cette fois ci, ça ne roule pas mieux et juste avant de quitter la ville on tombe sur 4 policiers municipaux qui sont trop content de me voir. On se connait ?? non en fait .
-Il me demande mes papiers, pas le photocopies les vrais… Puis me demande mon permis touristique que j’aurai du prendre sur Internet pour visiter Mexico, tu parles d’une visite… Bref c’est la fin du monde, verbalisation, confiscation de ma plaque d’immatriculation arrière, Un policier à sortie ssa pince , il est pret… mais bon on peu s’arranger… Ben non pas de soucis où puis-je récupérer ma plaque… vous pouvez y aller…
-On poursuit notre route, Corinne est déconfite… On s’arrête au Couvent d’Alcoman que l’on visite puis route vers Teotuhuacan où nous faisons le plein de propane puis nous nous rendons dans le camping où nous allons laisser Thor le temps de notre visite de Ciudad Mexico CD MX.
-Le Camping n’est pas très grand mais à tout les braanchement et du bon Wifi.
-Nous faisons connaissance de nos voisins, une famille de Brésiliens qui on acheté leur RV en Floride comme nous et qui sont sur les routes depuis 4 mois. Très sympatiques.
+Ce matin on quitte Puebla qui est plongée dans un épais brouillard en raison de l’éruption de Popocatépetl. On s’arrête à cholula pour faire le plein d’eau potable et on passe les reste de la maatinée dans une laverie. On prend ensuite la route ou plutôt l’autoroute pour Mexico pour nous rendre dans un magasion qui soit disant à des pièces pour RV. Traverser cette mégapole de plus de 20 millions d’habitant n’est pas facile. On arrive au magasin, on tombe sur un type pas vraiment sympathique qui n’a pas l’air de vouloir travailler. Pour faire court c’est uniquement sur commande. Bon on retraverse Mexico vers le Nord-Est cette fois ci, ça ne roule pas mieux et juste avant de quitter la ville on tombe sur 4 policiers municipaux qui sont trop content de nous voir. On se connait ?? non en fait.
 
-## 30 Mars
+Il me demande mes papiers, pas le photocopies les vrais… Puis me demande mon permis touristique que j’aurai du prendre sur Internet pour visiter Mexico, tu parles d’une visite… Bref c’est la fin du monde, verbalisation, confiscation de ma plaque d’immatriculation arrière, un policier à sortie sa pince, il est pret… mais bon on peu s’arranger… Ben non pas de soucis où puis-je récupérer ma plaque… bon, vous pouvez y aller…
+
+On poursuit notre route, Corinne est déconfite… On s’arrête au **couvent d’Alcoman** que l’on visite puis route vers Teotihuacan où nous faisons le plein de propane puis nous nous rendons dans le camping où nous allons laisser Thor le temps de notre visite de Ciudad Mexico. Le Camping n’est pas très grand mais à tout les branchement et du Wifi. Nous faisons connaissance de nos voisins, une famille de Brésiliens qui on acheté leur RV en Floride comme nous et qui sont sur les routes depuis 4 mois. Très sympatiques.
+
+## 30 et 31 Mars
+
+Journée tranquille au camping où l'ons s'occupe de la logistique. Le lendemain on se rend sur le site archéologique de Teotihuacan en Taxi, le temps est très nuageux. Le dimanche le site est gratuit pour les mexicains, pas pour les gringos, il y a énormément de monde. On visite tout le site et nous nous faisons les mollets sur les pyramides du Soleil et de la Lune. Les vendeurs ambulants proposent toujours les mêmes objets dont un masque en pierre que nous avions acheté il y a 14 ans.
+
+
+On mange au centre du village dans un très bon restaurant puis on rentre au camping. En fin d’après-midi je passe un bon moment à parler avec Rogrigue notre voisin Brésilien, famille super sympa puis avec une famille de Français de Bretagne qui sont arrivés dans la journée.
+
+## 01 au 05 Avril
+
+Ce matin nous préparons Thor à un petit storage de quelques jours. On commande un Uber qui arrive rapidement et nous conduit jusqu’à l'hotel Ibis que nous avons réservé, en plein centre de **Mexico**, à une quarantaine de kilomètres. Nous prenons en compte notre chambre et partons dans le centre historique où nous faisons un grand tour. En fin d’après-midi retour à l’hôtel pour se reposer. A 19h00 nous retrouvons Christophe et Jean-Pierre et nous allons dinner dans un restaurant Italo-Argentin. On fini la soirée par une petite ballade sur le Zocalo avant de regagner l’hôtel.
+
+Je passe une très mauvaise nuit et journée avec une bonne turista…
+
+
+Ce matin ça va un peu mieux, on descend déjeuner puis on dit au revoir à Christophe et Jean-Pierre qui rentre pour deux mois en France. On passe à la pharmacie puis on decide de partir en ville où l'on visite :
+- Le Musée Mural Diego Rivera
+- Le Palacio Bellas Artes (Expo de photos de Paris des années 30)
+- Le palais national
+- La Cathédrale et sa sacristie
+- Le musée Templo Mayor de México-Tenochtitlan.
+
+A midi on mange léger, deux Tacos et le soir on mange dans un resto argentien "Gotan" où la viande est excellente.
+
+Le lendemain on reprend un Uber pour aller visiter le Musée d'Antropologie qui est vraiment très beau. On y passe la matinée et on mange sur place. Le restaurant du musée est vaiment très bien, les mets très raffinés. Nous partons ensuite visiter le Musée Soumaya. Très beau batiment, très moderne, dont la visite gratuite permet d'admirer la collection privé du magna des télécommunications du Mexique, Carlos Slim. Il y a une très belle collection d'art asiatique, notemment de l'ivoire sculptée et énormément d'oeuvres européennes, peinture et scultures, dont une bonne proportion d'artistes français.
+Le soir nous testons un resto mexicain, très bons enchiladas et très bonne ambiance.
+
+Ce matin on laisse nos affaires à la baggagerie de l'hôtel pour aller visiter le musée de l’art populaire qui présente de très belles pièces puis nous flanons dans la rue dédiée au instruments de musique. Nous mangeons sur place et je fini par m'acheter une  guitare. Dans ce quartier, les rue sont dédiées à une thématique ou profession, nous avons ainsi traversé la rue des magasins de plomberie, une autre consacrée à l'électricité. C'est pratique pour faire ces achats et surtout comparer les prix.
+De retour à l'hôtel, nous recupérons nos bagages puis direction le camping par Uber.
+
+## 06 Avril
+
+Ce matin nous faisons la connaissance de nos voisin, des Allemands de Fribour qui ont remplacé les Brésiliens. Nous discutons un long mement, il parle assez bien le français. Sur les routes depuis plus de 5 ans, il rentre cet été comme nous en Europe pour passer l’été.
+
+Nous faisons les courses pour remplir le frigo puis nous quittons Teitihuacan en direction l’Etat de Verracuz et plus précisément le site Archéologique de **El Tajin**. Nous prenons l’autopista qui nous améne au travers d’un décor très montagneux et vert en direction du golfe du mexique. Nous décidons de finir les dernier 50 Km par la route en passant par Poza Rica. En pleine ville un Taxi freine brusquement pour décharger un client m'obligeant à freiner sec. On ressent, une fraction de seconde plus tard, une petite secousse dans Thor, je me suis dit tiens en voilà un qui a été un peu juste, mais sans plus. Un conducteur se porte à mon niveau et me fait comprendre d’aller voir derrière. Effectivement, un taxi m’a percuté abimant sa calende et son phare gauche tandis qu’un autre Taxi lui ai également rentré dedans.
+
+Thor n’a absoluement rien, j’indique au premier chauffeur que pour moi tout est OK et que je vais partir et il me dit qu’il a appelé la Police, ils arrivent. Donc on va attendre. 10 mn plus tard un policier arrive seul, il prend la situation en main fait des photos, prend toutes mes coordonnées sur son carnet, me demande comment cela c’est produit. Il nous réuni avec les autres conducteurs refait le film, dit que je n’y suis pour rien, me serre la main et me "libère", on peut reprendre la route.
+
+Toujours en ville je vois des girophares dans mon rétrovieur et le conducteur qui me fait signe de me garer, contrôle des passeports et permis internationnal, nos copies, il examine longuement, nous demande où nous allons et nous laisse partir. On décide de quitter rapidement cette ville. On arrive finalement sur le parking du site archéologique, nous allons passer la nuit. Rapidement, un gardien vient me demander 70 puis au final 50 pesos pour la nuit. On est descendu de plus de 2000 mètres et on le sent, il fait très chaud et très lourd.
+
+
+## 07 Avril
+
+Ce matin le temps est couvert, on attend jusqu’à 11h00 avant d’entamer la visite du site de **El Tajin**, très belle surprise, les constructions très raprochées, en pleine forêt, parfois recouvertes d'herbes... vertes. Le temps couvert, un peu brumeux, amène une ambiance toute particulière. La pyramide à caisson ou niches est vraiment très original. On mange sur le site puis nous prenons la route en direction de Casitas au bord golfe du Mexique où nous nous posons dans un camping avec plage privée et piscines et tous les branchements. Nous sommes dimanche est il y a beaucoup de monde mais certainement demain, nous serons seuls.
+
+
+## 01 Avril
+
+
+
+
+
+
+## 01 Avril
+
+
+
+
+
+## 01 Avril
+
+
+
+
+
+## 01 Avril
+
+
+
+
+
+
+## 01 Avril
+
+
+
+
+
+
+## 01 Avril
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
