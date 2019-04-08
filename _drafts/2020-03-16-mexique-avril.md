@@ -11,7 +11,7 @@ author:     "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
-pois: [tepotzotlan#16-mars, toluca#16-mars, metepec#17-mars, valle-de-bravo#18-mars, calixtlahuaca#19-et-20-mars, malinalco#19-et-20-mars, cacahuamilpa#21-mars, taxco#22-mars, xochicalco#23-mars, cuernavaca#23-mars, tepoztlan#24-mars, yecapixtla#24-mars, tlayacapan#24-mars, puebla#25-mars, cholula#25-mars, huejotzingo#26-et-27mars, xochitécatl#26-et-27mars, cacaxtla#26-et-27mars, tlaxcala#26-et-27mars, alcoman#29-mars, teotihuacan#30-et-31-mars, mexico#01-au-05-avril, el-tajin#07-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, ]
+pois: [tepotzotlan#16-mars, toluca#16-mars, metepec#17-mars, valle-de-bravo#18-mars, calixtlahuaca#19-et-20-mars, malinalco#19-et-20-mars, cacahuamilpa#21-mars, taxco#22-mars, xochicalco#23-mars, cuernavaca#23-mars, tepoztlan#24-mars, yecapixtla#24-mars, tlayacapan#24-mars, puebla#25-mars, cholula#25-mars, huejotzingo#26-et-27mars, xochitécatl#26-et-27mars, cacaxtla#26-et-27mars, tlaxcala#26-et-27mars, alcoman#29-mars, teotihuacan#30-et-31-mars, mexico#01-au-05-avril, el-tajin#07-et-08-avril, e#09-avril, e#10-avril, e#11-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, ]
 country: Mexique
 states: ["Mexico", "Guerrero", "Morelos", "Puebla", "Tlaxcala", "Veracruz"]
 category: "roadmap"
