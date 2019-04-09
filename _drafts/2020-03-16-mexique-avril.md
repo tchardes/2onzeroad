@@ -206,7 +206,7 @@ Route ensuite jusqu’aux sites archéologiques de **Xochitécatl** et de **Caca
 
 Nous finissons nos visites par la capitale d'Etat, **Tlaxcala**. A peine dans le centre ville on se fait arrêter par un policier municipal, décidément... Il nous dit que Thor ne devrait pas se trouver en ville mais que comme nous sommes des touristes, on peut continuer... On trouve à se garer et nous partons à la découverte de la ville. En croyant entrer dans le l’ancien couvent de San Francisco on se retrouve en fait dans la Plaza de Toros Jorge el Ranchero Aguilar, une arène. On tombe sur deux personnes hyper sympas et on commence à discuter Tauromachie du coup on à droit à une visite de toute l'arène, les torils, le lieu de la pesée des taureaux (430 kilos minimum), le tirage au sort et on fini dans l’arène où il nous fait quelques passes de cape.
 
-Visite ensuite du Museo Regional qui se trouve dans l’ancien couvent, rien d'extraordinaire, en dehors de plusieurs toiles qui retracent la vie de Saint Antoine de Padoue. Par contre la Cathédrale de Nuestra Señora de La Asunción et très belle avec son plafond en bois et ses retables baroques hyper chargés. 
+Visite ensuite du Museo Regional qui se trouve dans l’ancien couvent, rien d'extraordinaire, en dehors de plusieurs toiles qui retracent la vie de Saint Antoine de Padoue. Par contre la Cathédrale de Nuestra Señora de La Asunción et très belle avec son plafond en bois et ses retables baroques hyper chargés.
 
 
 
