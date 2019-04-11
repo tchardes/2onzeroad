@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "20.277330, -96.839348"
-  name: "Casitas - Veracruz - Mexique"
-  date: "08 et 09 avril 2019"
+  coordinates: "19.188809, -96.158039"
+  name: "Veracruz - Veracruz - Mexique"
+  date: "11 avril 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
