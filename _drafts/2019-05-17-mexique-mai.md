@@ -16,9 +16,9 @@ country: Mexique
 states: ["Oaxaca", "Chiapas", "yucatan"]
 category: "roadmap"
 flickr-text: ""
-location: "19.027834, -99.245885"
+location: "16.917240, -94.558023"
 itinary: "2019/yucatan.json"
-mapZoom: 8
+mapZoom: 6
 ---
 
 Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons traversé .
