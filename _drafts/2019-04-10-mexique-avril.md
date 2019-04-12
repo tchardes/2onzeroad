@@ -1,12 +1,12 @@
 ---
 layout: blog
 title: " Autour de Mexico"
-preview: "Cet article couvre la période du 16 mars au 12 avril 2019…"
+preview: "Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons traversé les Etats de Mexico, Guerrero, Morelos, Puebla…"
 parent-id: 
 
-date: 2019-03-26 13:00:00
+date: 2019-04-12 13:00:00
 from-date: 2019-03-16 13:00:00
-to-date: 2019-03-26 13:00:00
+to-date: 2019-04-12 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
@@ -21,7 +21,7 @@ itinary: "2019/mexico.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons traversé .
+Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons traversé les Etats de Mexico, Guerrero, Morelos, Puebla, Tlaxcala et Veracruz.
 
 ## 16 mars
 
