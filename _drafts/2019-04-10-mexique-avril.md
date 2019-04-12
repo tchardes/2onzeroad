@@ -16,9 +16,9 @@ country: Mexique
 states: ["Mexico", "Guerrero", "Morelos", "Puebla", "Tlaxcala", "Veracruz"]
 category: "roadmap"
 flickr-text: ""
-location: "19.027834, -99.245885"
+location: "19.444144, -98.681423"
 itinary: "2019/mexico.json"
-mapZoom: 8
+mapZoom: 9
 ---
 
 Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons traversé .
