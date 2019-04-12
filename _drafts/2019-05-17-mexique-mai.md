@@ -4,9 +4,9 @@ title: " Regions Sud du Mexique"
 preview: "Cet article couvre la période du 12 avril au…"
 parent-id: 
 
-date: 2019-04-13 13:00:00
+date: 2019-04-12 13:00:00
 from-date: 2019-04-12 13:00:00
-to-date: 2019-04-13 13:00:00
+to-date: 2019-04-12 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg

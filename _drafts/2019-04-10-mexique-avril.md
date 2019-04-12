@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: " Autour de Mexico"
-preview: "Cet article couvre la période du 16 mars au…"
+preview: "Cet article couvre la période du 16 mars au 12 avril 2019…"
 parent-id: 
 
 date: 2019-03-26 13:00:00
