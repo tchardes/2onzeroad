@@ -18,7 +18,7 @@ category: "roadmap"
 flickr-text: ""
 location: "19.775049, -98.260329"
 itinary: "2019/mexico.json"
-mapZoom: 7
+mapZoom: 8
 ---
 
 Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons traversé .
