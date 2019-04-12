@@ -18,7 +18,7 @@ category: "roadmap"
 flickr-text: ""
 location: "16.917240, -94.558023"
 itinary: "2019/yucatan.json"
-mapZoom: 6
+mapZoom: 5
 ---
 
 Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons traversé .
