@@ -21,7 +21,7 @@ itinary: "2019/mexico.json"
 mapZoom: 8
 ---
 
-Cet article couvre la période du 16 mars au 2019 durant laquelle nous avons traversé .
+Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons traversé .
 
 ## 16 mars
 
