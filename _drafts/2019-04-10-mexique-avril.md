@@ -274,53 +274,28 @@ Ce matin le temps est couvert, on attend jusqu’à 11h00 avant d’entamer la v
 
 ## 09 Avril
 
+Gros orage cette nuit, ca a l’avantage de nettoyer un peu Thor.
+On pass la matinée tranquille au camping et partons après manger nous prenons la route direction la montagne. On s’arrête prendre de l’essence et un monsieur nous accoste. Il parle très bien français, son épouse étant de chez nous. Il nous explique être du village de San Raffael qui est jumelé avec un petit village de Franche Conté et s’y être rendu à plusieurs reprises. Son village abrite d’ailleurs un petit musée témoin de ce jumelage. Il posséde plusieur épiceries dont l’enseigne est « OUI » et le logo un coq. On passe bien dans le village mais on a pas vu le musée. La route n’est pas extraordinaire, on abime même une petite trappe sur un Topé. On arrive à Cantona juste avant sa fermeture. On demande au guichet l’autorisation de passer la nuit sur leur parking. 
 
 
 
+## 10 Avril
 
-## 01 Avril
-
-
-
-
-## 01 Avril
+Nuit très fraiche, les jours se suivent et ne se ressemblent pas, on est bien à 2500 mètres, on a du ressortir une deuxième couverture et la couette pour arriber à s’endormir. Ce matin inl fait très beau et nous sommes à 09h00 à l’entrée du site, seul… et nous le resterons. Nous faisons un grand tour de ce site absoluement incroyable. On ne comprend pas pourquoi aucun guide n’en parle. Nous sommes  de retour à Thor à 12h30, on mange et nous prenons la route vers Xalapa, la capitale de l’Etat de Veracruz. Nous nous arrêtons au musée archéologique qui est vraiement très beau et présente de très belles pièces.
+Nous essayons de regagner notre bivouac mais le GPS nous fais passer dans des rues imossibles. Corinne est encore de corvée pour assurer la circulation et me faire manoeuvrer. Les mexicain sont assez cool, pas un seul coup de xlaxon, ni une insulte mais des sourrires et des saluts. Un jeune en moto voit que je suis en galère, il me demande où je souhaite aller et il nous ouvre la route jusqu’au Walmart. Il sarrête peu avant d’arriver, refuse notre propina, nous sort quelques mots en français et nous souhaite bonne route. Franchement depuis que nous sommes ici nous avons rencontré vraiement des gens adorables.
+Une fois garés, nous faisons nos courses et passons la soirée dans Thor. Très belle journée.
 
 
+## 11 Avril
+
+Nous quitons notre parking direction Veracruz. Il y a des noms comma Veracruz qui font réver, on ne sait pas vraiment pourquoi mais dans l’inconcsient, pour nous, c’est synonime d’une belle ville du golfe du mexique, bref les vacances. Les guides n’en parlent pas plus quye ça, mais on va aller voir de nous même.
+Nous avons pas mal de route à faire aujourd’hui et nous décidons de prendre l’autopista. Nous arrivons dans le centre historique et arrivons facilement à nous garer. C’est partie pour une peit tour de ville, son zocalo, sa mairie, le prot puis le malecon où nous pouvons voir le bateauy école de la marine nationale du mexique. A misi on mange dans un très bon restaurant près de la cathédrale où je oprend un filet de poisson à la veracruzienne, excellent. Un peu décu par cerre ville.
+Nous reprenons la route en mileu d’après midi et quittons cette partie du Mexique pour nous rendre dans l’Oaxaca, toujouts par l’autopista. Nous sortons au niveau de Ciudad Mendoza où on tombe encore sur un policier minicipal qui veut nous verbaliser. Il est rejoint par un autre policier qui parle un peu anglais, car dans ces cas là mon espagnol est inexistant. Pour le faire court je refuse l’arrangement et damnde a être verbalisé, on baisse le prix je refuse toujours et attend mon amende et cela fini par « Sorry » puis bonne route… Nous nous arrêtons pour la nuit à Téhuacan sur le parking d’un Walmart.
 
 
-## 01 Avril
+## 12 Avril
 
-
-
-
-
-## 01 Avril
-
-
-
-
-
-## 01 Avril
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ce matin on s’arrête au garage Ford dès l’ouverture pour la révision de Thor. Ils ont une place de disponible, c’est parfait. 4 heures plus tard on le récupère avec de nouvelles huiles, flitres, graissages et diagnostics… tous va bien, on peu reprendre la route. Après avoir pris des nouvelles de la famille on mange et on prend la route pour Oaxaca, par l’autoroute. On traverse un beau massif montagneux, la végétation change, on voit de nouveaux cactus. On arrive en fin d’après-midi et on se pose non loin du site de Monte Alban.
 
 
 
