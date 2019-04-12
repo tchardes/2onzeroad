@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "17.081456, -96.733671"
   name: "Oaxaca de Juárez - Oaxaca - Mexique"
-  date: "12 avril 2019"
+  date: "12 au 14 avril 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
