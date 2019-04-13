@@ -15,7 +15,7 @@ country: Mexique
 states: ["Puebla"]
 city: 
 category: "blog"
-location: "20.652760, -98.995432"
+location: "19.553380, -97.493824"
 
 ---
 
