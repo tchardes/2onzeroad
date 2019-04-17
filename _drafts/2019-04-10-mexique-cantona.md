@@ -31,21 +31,15 @@ Implanté sur un haut plateau qui culmine à 2500 mètres d'altitude, Cantona "l
 
 Construite sur un terrain accidenté, souvent des anciennes coulées de lave, cette ancienne cité fortifiée ne présente pas la symétrie que l'on rencontre dans l'urbanisme des autres villes préhispaniques. On y a dénombré un nombre important de rues, routes pavées encadrées de murées, plus de 3 000 patios résidentiels et une trentaine de terrains de jeux de pelota. L'Acropole est constitué de nombreux bâtiments cérémoniels et temples. On peut gravir certains de ces monument afin de pouvoir bénéficier d'une vue grandiose.
 
-
-Nous étions les seuls visiteurs ce jour là, ce qui change des autres sites archéologique. Déambuler dans ce dédale de chemin et terrasses au milieu d'une végétations de Yuccas, résineux et toutes sortes de cactés est un réel plaisir.
-
-
-
-
-
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716927678/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7821/33716927678_e1a5f1987d_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40627862453/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7853/40627862453_5ce0203533_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716911538/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7867/33716911538_d8afcb525d_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46869817694/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7810/46869817694_9099077c8d_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Nous étions les seuls visiteurs ce jour là, ce qui change des autres sites archéologique. Déambuler dans ce dédale de chemin et terrasses au milieu d'une végétations de Yuccas, résineux et toutes sortes de cactés est un réel plaisir.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716927678/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7821/33716927678_e1a5f1987d_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46869812194/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7872/46869812194_b54a0ba97a_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -57,5 +51,3 @@ Nous étions les seuls visiteurs ce jour là, ce qui change des autres sites arc
 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46869829494/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7821/46869829494_98ad60540d_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
