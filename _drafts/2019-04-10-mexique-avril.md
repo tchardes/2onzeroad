@@ -173,7 +173,7 @@ Ce matin, direction la route des couvents qui nous amène dans un premier temps 
 
 On arrive à sortir tant bien que mal de la ville pour nous diriger vers **Yecapixtla**, là aussi, on comprend très vite que l'on ne trouvera pas de place et on sort de la ville pour pouvoir se garer. La encore, pas de chance, on peut bien rentrer dans l’atrium mais l’église est fermée pour cause de travaux, les messes se déroulent dehors sous chapiteau. On peut quand même faire le tour du cloître du couvent dont les fresques sont bien abîmées.
 
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47444162842/in/photolist-2fhtJFC" title="Yecapixtla - Morelos - [Mexique]"><img src="https://live.staticflickr.com/7910/47444162842_a5c6d22051_k.jpg" width="2048" height="1280" alt="Yecapixtla - Morelos - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Du coup, on laisse tomber **Ocultuco** et **Atlatlahuacan** qui sont juste cités dans le guide pour nous concentrer sur ce qui doit être le plus beau à savoir le couvent de **Tlayacapan**. On se gare directement à l’entrée de la ville et nous y allons à pied, on passe devant de nombreux stands de vente de souvenirs et arrivons à l’entrée du couvent qui est entièrement échafaudé, fermé également pour de longs mois pour cause de restauration. Ce sont les plus beaux monastères qui entourent le volcan Popocatepetl qui ont été inscrit en 1994 au patrimoine mondial de l’Unesco. Peut-être ont-ils perçu de grosses sommes pour leur restauration…
 
@@ -181,13 +181,33 @@ Nous quittons la zone pour prendre la direction de Puebla, on se pose sur un gra
 
 ## 25 Mars
 
-Ce matin, on part en direction de **Puebla**. On opte pour une route un peu plus longue mais sans péage et avec peu de virage. Cette route contourne par le Sud l’imposant volcan Popocatépetl (5450 mètres) qui veut dire la "montagne qui fume" et qui était éruption il y a quelques jours et d’où s’échappe encore de son flan et de son cratère de la fumée. A côté de lui, se trouve un autre volcan, le Itzaccihuati (5280 mètres), endormi. Deux autres anciens volcans viennent entourer la vallée de Puebla, Malinche (4462) et Citlaltépetl ou Pico de Orizaba (5636). Notre premier arrêt se fait avant de rentrer dans la ville de Puebla, à l’église de **San Francisco Acatepec** recouverte de céramique aux couleurs éclatantes sans oublier son intérieur, couvert de dorures, avec un imposant retable churrigueresque.
+Ce matin, on part en direction de **Puebla**. On opte pour une route un peu plus longue mais sans péage et avec peu de virage. Cette route contourne par le Sud l’imposant volcan Popocatépetl (5450 mètres) qui veut dire la "montagne qui fume" et qui était éruption il y a quelques jours et d’où s’échappe encore de son flan et de son cratère de la fumée. A côté de lui, se trouve un autre volcan, le Itzaccihuati (5280 mètres), endormi. Deux autres anciens volcans viennent entourer la vallée de Puebla, Malinche (4462) et Citlaltépetl ou Pico de Orizaba (5636). 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33620279908/in/datetaken/" title="Cholula - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7818/33620279908_f8a7cade6f_k.jpg" width="2048" height="1152" alt="Cholula - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Notre premier arrêt se fait avant de rentrer dans la ville de Puebla, à l’église de **San Francisco Acatepec** recouverte de céramique aux couleurs éclatantes sans oublier son intérieur, couvert de dorures, avec un imposant retable churrigueresque.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32554933307/in/datetaken/" title="Cholula - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7814/32554933307_94045274f8_k.jpg" width="2048" height="1280" alt="Cholula - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47497075401/in/datetaken/" title="Cholula - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7918/47497075401_a645de664b_k.jpg" width="2048" height="1365" alt="Cholula - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous poursuivons en direction de **Cholula** où nous faisons une pose à l’église de **Santa maria Tonantzintla**. Si la façade est moins extravagante, l'ornement intérieur est encore plus exubérant. Malheureusement les photos y sont interdites car ils vendent des cartes postales à l'entrée.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47443656242/in/datetaken/" title="Cholula - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7832/47443656242_d3585e2f0d_k.jpg" width="2048" height="1152" alt="Cholula - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Dernière visite de la journée, nous nous arrêtons au centre de Cholula. Nous visitons la magnifique église de la **Viregen de los Remedios**. Située à 65 mètres de haut, elle domine la ville et offre une très belle vue sur la ville et les volcans et a été construite sur un ancien site. De retour, nous passons à l’église et au **Convento de San Gabriel Arcángel** puis la **Plaza del Trueque** où nous nous arrêtons à la terrasse d’un café pour boire un coup. Une légende affirme que la ville abriterait plus de 365 églises, au moins 128 on été recensées, ce qui n'est déjà pas mal.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47443661992/in/datetaken/" title="Cholula - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7813/47443661992_826f15c0bc_k.jpg" width="2048" height="1280" alt="Cholula - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Dernière visite de la journée, nous nous arrêtons au centre de Cholula. Nous visitons la magnifique église de la **Viregen de los Remedios**. Située à 65 mètres de haut, elle domine la ville et offre une très belle vue sur la ville et les volcans et a été construite sur une anciene pyramise. 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47496466261/in/datetaken/" title="Cholula - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7890/47496466261_0617bec3b3_k.jpg" width="2048" height="1152" alt="Cholula - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47496454091/in/datetaken/" title="Cholula - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7921/47496454091_51b9b28c4d_k.jpg" width="2048" height="1152" alt="Cholula - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32554285517/in/datetaken/" title="Cholula - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7836/32554285517_641e504b41_k.jpg" width="2048" height="1152" alt="Cholula - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+De retour, nous passons à l’église et au **Convento de San Gabriel Arcángel** puis la **Plaza del Trueque** où nous nous arrêtons à la terrasse d’un café pour boire un coup. Une légende affirme que la ville abriterait plus de 365 églises, au moins 128 on été recensées, ce qui n'est déjà pas mal.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46773784844/in/datetaken/" title="Cholula - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7864/46773784844_c8491f8fb5_k.jpg" width="2048" height="1152" alt="Cholula - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 En fin d’après-midi, on reprend Thor et à peine démarré, un policier municipal me fait signe, rien qu'à le voir je le sens mal… Il arrive à ma hauteur et me dit que je suis en infraction car Thor, avec ces roues jumelées, n’aurait jamais du entrer en centre-ville. Je lui demande où est le panneau d’interdiction, il me fait signe vaguement qu’il est un peu plus loin. Je lui indique que je vais aller vérifier, il me demande alors de me garer, j'obtempère. On lui sort nos photocopies du permis de conduite international et de nos passeports, il est surpris de voir qu'ils soient valides jusqu'en 2025... Il tient dans sa main un genre de carnet et me répète qu’il va nous verbaliser, je le vois venir gros comme une maison. AU bout de quelques minutes, je lui dis bon, tu le rédiges ton PV ou pas, tout en sortant une feuille que j’ai récupéré sur internet du ministère des transports mexicains à remplir en cas d’infraction relevée par un fonctionnaire. Il regarde discrètement le document, ne sait plus trop que faire... moi j'attends... il regarde Thor et me parle, en plaisantant, de la série "Breaking Bad", j'acquiesce en disant que la seule différence, c’est que je ne suis pas chimiste et ne fabrique pas de "crystal meth", il rigole, me demande où nous allons, il m’indique la route pour Puebla et nous laisse partir. C’est la première fois que l’on tombe dans ce genre de situation depuis notre arrivée au Mexique...
 
@@ -198,28 +218,85 @@ Arrivés à Puebla, on se pose sur un parking d’un Soriana et allons faire que
 
 Corinne a un gros rhume, on décide de ne pas bouger aujourd’hui et de se reposer. Le lendemain Corinne se sent un peu mieux, on décide de bouger un peu. Nous quittons Puebla pour **Huejotzingo** où nous visitons le Museo Local de la Evangelización implanté dans l’ancien Couvent de San Miguel. Quatre belles chapelles (Capillas Posas) encadrent l’Atrium. Au fond, l’église et le couvent Franciscain sont peu engageants de l’extérieur. l’ensemble ressemble plus à une forteresse qu’un ensemble religieux. L’église est fermée, en restauration… Je me rabat sur le couvent qui a été transformé en musée. La salle à manger, la cuisine et les cellules ont été meublé d’époque, le cloître et jolie mais la plus belle pièce est sans équivoque la salle de profundis qui présente de superbes fresque en grisaille.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32558853357/in/datetaken/" title="Huejotzingo - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7917/32558853357_3ca5a11cfb_k.jpg" width="2048" height="1366" alt="Huejotzingo - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Route ensuite jusqu’aux sites archéologiques de **Xochitécatl** et de **Cacaxtla** qui étaient à la base qu’un seul site. Nous passons pour l’occasion dans le plus petit Etat du Mexique, Tlaxcala. On tombe sur une gars sympa à l’entrée qui ne nous fait payer que pour un seul site. Le premier implanté en haut d'une colline concentre des édifices religieux dont l'Edificio de la Espiral, un temple rond construit en spirale. Plus loin, en contre bas, se trouve le second site, entièrement protégé des intempéries par une structure métallique. Elle protège un ancien palais construit sur plusieurs niveaux qui abrite les plus belles fresques préhispaniques du Mexique. Un musée situé à l'entrée présente de très belles reproductions de ces fresques. 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33624385718/in/datetaken/" title="Huejotzingo - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7875/33624385718_cc41c40739_k.jpg" width="2048" height="1152" alt="Huejotzingo - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46777263464/in/datetaken/" title="Huejotzingo - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7906/46777263464_f8024b89df_k.jpg" width="2048" height="1152" alt="Huejotzingo - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Route ensuite jusqu’aux sites archéologiques de **Xochitécatl** et de **Cacaxtla** qui étaient à la base qu’un seul site. Nous passons pour l’occasion dans le plus petit Etat du Mexique, Tlaxcala. On tombe sur une gars sympa à l’entrée qui ne nous fait payer que pour un seul site. Le premier implanté en haut d'une colline concentre des édifices religieux dont l'Edificio de la Espiral, un temple rond construit en spirale. 
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47463393002/in/datetaken/" title="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7904/47463393002_95ceb1299a_k.jpg" width="2048" height="1152" alt="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46792322804/in/datetaken/" title="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7873/46792322804_06c2395945_k.jpg" width="2048" height="1152" alt="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46792323264/in/datetaken/" title="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7915/46792323264_068042503a_k.jpg" width="2048" height="1152" alt="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Plus loin, en contre bas, se trouve le second site, entièrement protégé des intempéries par une structure métallique. Elle protège un ancien palais construit sur plusieurs niveaux qui abrite les plus belles fresques préhispaniques du Mexique. Un musée situé à l'entrée présente de très belles reproductions de ces fresques. 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46792322244/in/datetaken/" title="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7850/46792322244_9c5c9e0786_k.jpg" width="2048" height="1152" alt="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46792321784/in/datetaken/" title="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7805/46792321784_f85b56628d_k.jpg" width="2048" height="1152" alt="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46792322584/in/datetaken/" title="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7844/46792322584_a013294676_k.jpg" width="2048" height="1152" alt="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous finissons nos visites par la capitale d'Etat, **Tlaxcala**. A peine dans le centre ville on se fait arrêter par un policier municipal, décidément... Il nous dit que Thor ne devrait pas se trouver en ville mais que comme nous sommes des touristes, on peut continuer... On trouve à se garer et nous partons à la découverte de la ville. En croyant entrer dans le l’ancien couvent de San Francisco on se retrouve en fait dans la Plaza de Toros Jorge el Ranchero Aguilar, une arène. On tombe sur deux personnes hyper sympas et on commence à discuter Tauromachie du coup on à droit à une visite de toute l'arène, les torils, le lieu de la pesée des taureaux (430 kilos minimum), le tirage au sort et on fini dans l’arène où il nous fait quelques passes de cape.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550163513/in/datetaken/" title="Tlaxcala - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7802/40550163513_9d10ab920c_k.jpg" width="2048" height="1152" alt="Tlaxcala - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550164303/in/datetaken/" title="Tlaxcala - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7890/40550164303_8bacfc2527_k.jpg" width="2048" height="1152" alt="Tlaxcala - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Visite ensuite du Museo Regional qui se trouve dans l’ancien couvent, rien d'extraordinaire, en dehors de plusieurs toiles qui retracent la vie de Saint Antoine de Padoue. Par contre la Cathédrale de Nuestra Señora de La Asunción et très belle avec son plafond en bois et ses retables baroques hyper chargés.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550164143/in/datetaken/" title="Tlaxcala - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7844/40550164143_c44b7013b2_k.jpg" width="2048" height="1365" alt="Tlaxcala - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550162243/in/datetaken/" title="Tlaxcala - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7923/40550162243_804b9f26e8_k.jpg" width="2048" height="1365" alt="Tlaxcala - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Je monte ensuite jusqu’à la Basílica de Nuestra Señora de Ocotlán, toute blanche qui se trouve sur une colline. Elle aussi est en pleine restauration extérieure mais on peu quand même y entrer.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550160653/in/datetaken/" title="Tlaxcala - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7806/40550160653_5a603e6131_k.jpg" width="2048" height="1152" alt="Tlaxcala - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550161803/in/datetaken/" title="Tlaxcala - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7910/40550161803_70e533baee_k.jpg" width="2048" height="1365" alt="Tlaxcala - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 28 Mars
 
 Ce matin vers 06 heures 30 Popocatépetl à toussoté et à lâché un gros panache de fumée, la vidéo des caméras de surveillance est impressionnante. On ne s’est rendu compte de rien. On laisse Thor et nous prenons un taxi pour nous conduire dans le centre ville de Puebla. Notre premier arrêt se fait à l’ancien couvent de Santa Monica qui a été transformé en musée religieux. Ce bel édifice aux façades recouverte de terre cuite et de céramique présente de beau objets et de belles peintures, certaines pièces du couvent ont été reconstituées.
 
-Nous poursuivons la visite de la ville par marché et la cathédrale. A midi on se fait une petite fantaisie, on mange dans un restaurant atypique : Tacos Arabes Bagdad. On se régale de tacos au Kebab, excellents, on a pas trop l’occasion de trouver de l’agneau ici. Dans l’après-midi on poursuit la visite par la Mairie, quelques maisons un peu originales mais rien d’extraordinaire et on fini par deux musées, Casa del Dean qui présente deux pièces recouvertes de fresques et le musée Amparo, magnifique, très moderne, qui présente 3000 pièces d’une collection privée, pièces préhispaniques, art populaire, photographies de Rodrigo Moya, art contemporain et art Virreinal. Au dernier étage une immense terrasse permet d’observer les toits de la ville qui sont dominés par les clochers et dômes de tous les édifices religieux de la ville. En fin de journée on reprend un taxi pour rejoindre le bivouac.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550160343/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7832/40550160343_9187f85994_k.jpg" width="2048" height="1152" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550159413/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7855/40550159413_888cbd1d31_k.jpg" width="2048" height="1365" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous poursuivons la visite de la ville par le marché et l'église de Santo Domingo et sa très belle chapelle "Del Rosario".
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33639398498/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7911/33639398498_8937f46e1f_k.jpg" width="2048" height="1435" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33639398228/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7890/33639398228_e5f949d4bf_k.jpg" width="2048" height="1365" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550159183/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7912/40550159183_13113e07a4_k.jpg" width="2048" height="1365" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550158583/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7825/40550158583_ba067b555e_k.jpg" width="2048" height="1365" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A midi on se fait une petite fantaisie, on mange dans un restaurant atypique : Tacos Arabes Bagdad. On se régale de tacos au Kebab, excellents, on a pas trop l’occasion de trouver de l’agneau ici. Dans l’après-midi on poursuit la visite par la cathédrale, la Mairie, quelques maisons un peu originales mais rien d’extraordinaire.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33639397998/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7868/33639397998_8302318f21_k.jpg" width="2048" height="1280" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46600836105/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7842/46600836105_33edfa5684_k.jpg" width="2048" height="1569" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33639397718/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7864/33639397718_ff9ca659c7_k.jpg" width="2048" height="1416" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47463453612/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7856/47463453612_f104797719_k.jpg" width="2048" height="1152" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47516165371/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7810/47516165371_2d8e5890eb_k.jpg" width="2048" height="1152" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On fini par le centre culturel et sa très belle bibliothèque et deux musées, Casa del Dean qui présente deux pièces recouvertes de fresques et le musée Amparo, magnifique, très moderne, qui présente 3000 pièces d’une collection privée, pièces préhispaniques, art populaire, photographies de Rodrigo Moya, art contemporain et art Virreinal. Au dernier étage une immense terrasse permet d’observer les toits de la ville qui sont dominés par les clochers et dômes de tous les édifices religieux de la ville. En fin de journée on reprend un taxi pour rejoindre le bivouac.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47516167171/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7880/47516167171_27db3a86b8_k.jpg" width="2048" height="1152" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47516166761/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7919/47516166761_e6474c9d63_k.jpg" width="2048" height="1257" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47516166111/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7872/47516166111_c9fa74bfe2_k.jpg" width="2048" height="1152" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550155993/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7881/40550155993_8bf41363f6_k.jpg" width="2048" height="1152" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 29 Mars
 
@@ -229,15 +306,27 @@ Il me demande mes papiers, pas le photocopies les vrais… Puis me demande mon p
 
 On poursuit notre route, Corinne est déconfite… On s’arrête au **couvent d’Alcoman** que l’on visite puis route vers Teotihuacan où nous faisons le plein de propane puis nous nous rendons dans le camping où nous allons laisser Thor le temps de notre visite de la Ciudad Mexico. Le Camping n’est pas très grand mais à tout les branchement et du Wifi. Nous faisons connaissance de nos voisins, une famille de Brésiliens qui on acheté leur RV en Floride comme nous et qui sont sur les routes depuis 4 mois. Très sympathiques.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47516165091/in/datetaken/" title="Acolman - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7849/47516165091_c23c0797a6_k.jpg" width="2048" height="1365" alt="Acolman - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47516164501/in/datetaken/" title="Acolman - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7873/47516164501_5701c3313e_k.jpg" width="2048" height="1365" alt="Acolman - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 30 et 31 Mars
 
 Journée tranquille au camping où l'on s'occupe de la logistique. Le lendemain on se rend sur le site archéologique de **Teotihuacan** en taxi, le temps est très nuageux. Le dimanche le site est gratuit pour les mexicains, pas pour les gringos, il y a énormément de monde. On visite tout le site et nous nous faisons les mollets sur les pyramides du Soleil et de la Lune. Les vendeurs ambulants proposent toujours les mêmes objets dont un masque en pierre que nous avions acheté il y a 14 ans.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33646643158/in/datetaken/" title="Teotihuacan - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7876/33646643158_9f463e2635_k.jpg" width="2048" height="1152" alt="Teotihuacan - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47470846422/in/datetaken/" title="Teotihuacan - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7814/47470846422_7b5f6a7fe3_k.jpg" width="2048" height="898" alt="Teotihuacan - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47470845792/in/datetaken/" title="Teotihuacan - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7862/47470845792_e33cb53225_k.jpg" width="2048" height="1152" alt="Teotihuacan - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On mange au centre du village dans un très bon restaurant puis on rentre au camping. En fin d’après-midi je passe un bon moment à parler avec Rogrigue notre voisin Brésilien, famille super sympa puis avec une famille de Français de Bretagne qui sont arrivés dans la journée.
 
 ## 01 au 05 Avril
 
 Ce matin nous préparons Thor à un petit storage de quelques jours. On commande un Uber qui arrive rapidement et nous conduit jusqu’à l’hôtel Ibis que nous avons réservé, en plein centre de **Mexico**, à une quarantaine de kilomètres. Nous prenons en compte notre chambre et partons dans le centre historique où nous faisons un grand tour. En fin d’après-midi retour à l’hôtel pour se reposer. A 19h00 nous retrouvons Christophe et Jean-Pierre et nous allons diner dans un restaurant Italo-Argentin. On fini la soirée par une petite ballade sur le Zocalo avant de regagner l’hôtel.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46624586215/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7809/46624586215_93f36566f5_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Je passe une très mauvaise nuit et journée avec une bonne turista…
 
@@ -248,13 +337,44 @@ Ce matin ça va un peu mieux, on descend déjeuner puis on dit au revoir à Chri
 - La Cathédrale et sa sacristie
 - Le Musée Templo Mayor de México-Tenochtitlan.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46624586005/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7831/46624586005_6ea09a4405_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47540014581/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7842/47540014581_0bb5c21f06_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46624584725/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7923/46624584725_09a3cd30cd_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46624585045/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7802/46624585045_2bee565312_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47540014301/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7870/47540014301_5353d95f22_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47487235282/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7858/47487235282_6d99c2fbc6_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 A midi on mange léger, deux tacos et le soir on mange dans un resto argentien "Gotan" où la viande est excellente.
 
-Le lendemain on reprend un Uber pour aller visiter le Musée d’Anthropologie qui est vraiment très beau. On y passe la matinée et on mange sur place. Le restaurant du musée est vraiment très bien, les mets très raffinés. Nous partons ensuite visiter le Musée Soumaya. Très beau bâtiment, très moderne, dont la visite gratuite permet d'admirer la collection privé du magna des télécommunications du Mexique, Carlos Slim. Il y a une très belle collection d'art asiatique, notamment de l'ivoire sculptée et énormément d'oeuvres européennes, peinture et sculptures, dont une bonne proportion d'artistes français.
+Le lendemain on reprend un Uber pour aller visiter le Musée d’Anthropologie qui est vraiment très beau. On y passe la matinée et on mange sur place. Le restaurant du musée est vraiment très bien, les mets très raffinés.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47540014261/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7804/47540014261_0e850e1c66_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33663277598/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7899/33663277598_7659c36334_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46816397464/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7918/46816397464_bea2f22cfb_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous partons ensuite visiter le Musée Soumaya. Très beau bâtiment, très moderne, dont la visite gratuite permet d'admirer la collection privé du magna des télécommunications du Mexique, Carlos Slim. Il y a une très belle collection d'art asiatique, notamment de l'ivoire sculptée et énormément d'oeuvres européennes, peinture et sculptures, dont une bonne proportion d'artistes français.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32597521267/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7840/32597521267_e9f53aa638_k.jpg" width="2048" height="1365" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46816397334/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7875/46816397334_023b707e98_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47540012851/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7854/47540012851_a175e6937e_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Le soir nous testons un resto mexicain, très bons enchiladas et très bonne ambiance.
 
 Ce matin on laisse nos affaires à la bagagerie de l'hôtel pour aller visiter le musée de l’art populaire qui présente de très belles pièces puis nous flânons dans la rue dédiée au instruments de musique. Nous mangeons sur place et je fini par m'acheter une guitare. Dans ce quartier, les rue sont dédiées à une thématique ou profession, nous avons ainsi traversé la rue des magasins de plomberie, une autre consacrée à l'électricité. C'est pratique pour faire ces achats et surtout comparer les prix.
 De retour à l'hôtel, nous récupérons nos bagages puis direction le camping par Uber.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46677625715/in/datetaken/" title="Ciudad Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7889/46677625715_1a1ed779e9_k.jpg" width="2048" height="1152" alt="Ciudad Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716212758/in/datetaken/" title="Ciudad Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7894/33716212758_b357aa3889_k.jpg" width="2048" height="1152" alt="Ciudad Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 06 Avril
 
@@ -268,28 +388,62 @@ Toujours en ville je vois des gyrophares dans mon rétroviseur et le conducteur 
 
 ## 07 et 08 Avril
 
-Ce matin le temps est couvert, on attend jusqu’à 11h00 avant d’entamer la visite du site de **El Tajin**, très belle surprise, les constructions très rapprochées, en pleine forêt, parfois recouvertes d'herbes... vertes. Le temps couvert, un peu brumeux, amène une ambiance toute particulière. La pyramide à caisson ou niches est vraiment très original. On mange sur le site puis nous prenons la route en direction de Casitas au bord golfe du Mexique où nous nous posons dans un camping avec plage privée et piscines et tous les branchements. Nous sommes dimanche est il y a beaucoup de monde.
+Ce matin le temps est couvert, on attend jusqu’à 11h00 avant d’entamer la visite du site de **El Tajin**, très belle surprise, les constructions très rapprochées, en pleine forêt, parfois recouvertes d'herbes... vertes. Le temps couvert, un peu brumeux, amène une ambiance toute particulière. La pyramide à caisson ou niches est vraiment très original. 
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716209198/in/datetaken/" title="El Tajin - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7801/33716209198_153acc3002_k.jpg" width="2048" height="1152" alt="El Tajin - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47593162021/in/datetaken/" title="El Tajin - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7888/47593162021_7235d92d27_k.jpg" width="2048" height="1152" alt="El Tajin - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47540185602/in/datetaken/" title="El Tajin - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7895/47540185602_cbfa3967e0_k.jpg" width="2048" height="1152" alt="El Tajin - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On mange sur le site puis nous prenons la route en direction de Casitas au bord golfe du Mexique où nous nous posons dans un camping avec plage privée et piscines et tous les branchements. Nous sommes dimanche est il y a beaucoup de monde.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47540944982/in/datetaken/" title="Casitas - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7840/47540944982_dc41295d31_k.jpg" width="2048" height="1152" alt="Casitas - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32651487637/in/datetaken/" title="Casitas - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7847/32651487637_8daa253860_k.jpg" width="2048" height="1152" alt="Casitas - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 09 Avril
 
-Gros orage cette nuit, ca a l’avantage de nettoyer un peu Thor.
-On pass la matinée tranquille au camping et partons après manger nous prenons la route direction la montagne. On s’arrête prendre de l’essence et un monsieur nous accoste. Il parle très bien français, son épouse étant de chez nous. Il nous explique être du village de San Raffael qui est jumelé avec un petit village de Franche Conté et s’y être rendu à plusieurs reprises. Son village abrite d’ailleurs un petit musée témoin de ce jumelage. Il posséde plusieur épiceries dont l’enseigne est « OUI » et le logo un coq. On passe bien dans le village mais on a pas vu le musée. La route n’est pas extraordinaire, on abime même une petite trappe sur un Topé. On arrive à Cantona juste avant sa fermeture. On demande au guichet l’autorisation de passer la nuit sur leur parking. 
+Gros orage cette nuit, ca a l’avantage de nettoyer un peu Thor. On passe la matinée tranquille au camping et partons après manger nous prenons la route direction la montagne.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46678388615/in/datetaken/" title="Casitas - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7907/46678388615_dc61ac077b_k.jpg" width="2048" height="1152" alt="Casitas - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+On s’arrête prendre de l’essence et un monsieur nous accoste. Il parle très bien français, son épouse étant de chez nous. Il nous explique être du village de San Raffael qui est jumelé avec un petit village de Franche Conté et s’y être rendu à plusieurs reprises. Son village abrite d’ailleurs un petit musée témoin de ce jumelage. Il posséde plusieur épiceries dont l’enseigne est « OUI » et le logo un coq. On passe bien dans le village mais on a pas vu le musée. La route n’est pas extraordinaire, on abime même une petite trappe sur un Topé. On arrive à Cantona juste avant sa fermeture. On demande au guichet l’autorisation de passer la nuit sur leur parking. 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47593856561/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7817/47593856561_21a4c553f1_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 10 Avril
 
-Nuit très fraiche, les jours se suivent et ne se ressemblent pas, on est bien à 2500 mètres, on a du ressortir une deuxième couverture et la couette pour arriber à s’endormir. Ce matin inl fait très beau et nous sommes à 09h00 à l’entrée du site, seul… et nous le resterons. Nous faisons un grand tour de ce site absoluement incroyable. On ne comprend pas pourquoi aucun guide n’en parle. Nous sommes  de retour à Thor à 12h30, on mange et nous prenons la route vers Xalapa, la capitale de l’Etat de Veracruz. Nous nous arrêtons au musée archéologique qui est vraiement très beau et présente de très belles pièces.
+Nuit très fraiche, les jours se suivent et ne se ressemblent pas, on est bien à 2500 mètres, on a du ressortir une deuxième couverture et la couette pour arriver à s’endormir. Ce matin inl fait très beau et nous sommes à 09h00 à l’entrée du site, seul… et nous le resterons.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716903508/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7877/33716903508_7065184827_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716928908/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7857/33716928908_9ff02763d8_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous faisons un grand tour de ce site absoluement incroyable. On ne comprend pas pourquoi aucun guide n’en parle. Nous sommes  de retour à Thor à 12h30, on mange et nous prenons la route vers Xalapa, la capitale de l’Etat de Veracruz. Nous nous arrêtons au musée archéologique qui est vraiement très beau et présente de très belles pièces, notamment les "cabeza colosal de los olmecas".
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46715608545/in/datetaken/" title="Xalapa - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/46715608545_8b9cb4eb43_k.jpg" width="2048" height="1152" alt="Xalapa - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46715606295/in/datetaken/" title="Xalapa - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/46715606295_03c43e65a9_k.jpg" width="2048" height="1152" alt="Xalapa - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40664718113/in/datetaken/" title="Xalapa - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/40664718113_09c431456c_k.jpg" width="2048" height="1152" alt="Xalapa - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40664714393/in/datetaken/" title="Xalapa - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/40664714393_4aaf74fe79_k.jpg" width="2048" height="1152" alt="Xalapa - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous essayons de regagner notre bivouac mais le GPS nous fais passer dans des rues imossibles. Corinne est encore de corvée pour assurer la circulation et me faire manoeuvrer. Les mexicain sont assez cool, pas un seul coup de xlaxon, ni une insulte mais des sourrires et des saluts. Un jeune en moto voit que je suis en galère, il me demande où je souhaite aller et il nous ouvre la route jusqu’au Walmart. Il sarrête peu avant d’arriver, refuse notre propina, nous sort quelques mots en français et nous souhaite bonne route. Franchement depuis que nous sommes ici nous avons rencontré vraiement des gens adorables.
 Une fois garés, nous faisons nos courses et passons la soirée dans Thor. Très belle journée.
-
 
 ## 11 Avril
 
 Nous quitons notre parking direction Veracruz. Il y a des noms comma Veracruz qui font réver, on ne sait pas vraiment pourquoi mais dans l’inconcsient, pour nous, c’est synonime d’une belle ville du golfe du mexique, bref les vacances. Les guides n’en parlent pas plus quye ça, mais on va aller voir de nous même.
 Nous avons pas mal de route à faire aujourd’hui et nous décidons de prendre l’autopista. Nous arrivons dans le centre historique et arrivons facilement à nous garer. C’est partie pour une peit tour de ville, son zocalo, sa mairie, le prot puis le malecon où nous pouvons voir le bateauy école de la marine nationale du mexique. A misi on mange dans un très bon restaurant près de la cathédrale où je oprend un filet de poisson à la veracruzienne, excellent. Un peu décu par cerre ville.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47631151511/in/datetaken/" title="Veracruz - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/47631151511_5927265dc7_k.jpg" width="2048" height="1152" alt="Veracruz - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33753868638/in/datetaken/" title="Veracruz - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/33753868638_8f455afecc_k.jpg" width="2048" height="1152" alt="Veracruz - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32688676297/in/datetaken/" title="Veracruz - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/32688676297_218b4785bb_k.jpg" width="2048" height="1152" alt="Veracruz - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous reprenons la route en mileu d’après midi et quittons cette partie du Mexique pour nous rendre dans l’Oaxaca, toujouts par l’autopista. Nous sortons au niveau de Ciudad Mendoza où on tombe encore sur un policier minicipal qui veut nous verbaliser. Il est rejoint par un autre policier qui parle un peu anglais, car dans ces cas là mon espagnol est inexistant. Pour le faire court je refuse l’arrangement et damnde a être verbalisé, on baisse le prix je refuse toujours et attend mon amende et cela fini par « Sorry » puis bonne route… Nous nous arrêtons pour la nuit à Téhuacan sur le parking d’un Walmart.
 
 
