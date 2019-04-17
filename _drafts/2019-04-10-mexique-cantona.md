@@ -19,18 +19,13 @@ location: "19.553380, -97.493824"
 
 ---
 
-La ville originelle couvrait une vaste étendue mais on en visite aujourd'hui qu'une infime partie : essentiellement l'Acropolis, située sur une élévation de la coulée de lave sur laquelle était établie la ville. Son agencement global a pris acte de ce terrain accidenté, rompant ainsi avec la symétrie associée à d'autres villes préhispaniques du pays. On y a dénombré un nombre incalculable de rues et chaussées (plus de 500), plus de 3 000 patios d'unités résidentielles et pas moins de 27 terrains de juego de pelota (une dizaine pour la seule Acropolis). Certaines des voies de communication étaient entourées de hauts murs et de tours de guet qui facilitaient la défense de la cité. L'Acropole est constitué de nombreux bâtiments cérémoniels et temples sur lesquels on peut grimper à loisir pour prendre un bon bol d'air frais et admirer les étendues à perte de vue. Grandiose.
+Le site archéologique de Cantona se trouve dans l'état de Puebla, c'est le site oublié des guides touristiques. Sur les trois guides que nous avons consulté (Michelin, Routard et Lonely planet), aucune mention n'est faite de ce lieu incroyable. Il est vrai qu'il n'est pas sur le tracé des circuits habituels mais il vaut un détour. Situé à 100 Km de Puebla et 188 km de Veracruz, il n'est qu'à 80 kilomètres de Xalapa, capitale de l'Etat de Veracruz et qui possède un magnifique musée d'antrophologie. L'entrée coute 60$/Mex/pers, il faut compter au moins trois heures de visite. Arrivée la veille au soir, nous avons pu dormir, gratuitement, sur le parking du site en toute sécurité.
 
+Implanté sur un haut plateau qui culmine à 2500 mètres d'altitude, Cantona "la maison du soleil" est entouré d'anciens volcans dont le Pic d'Orizaba (5636) ou Citlaltépetl qui est encore enneigés. A L'époque, cette ville probablement fondée par Olmeca-Xicalanca, s'étalait sur plus de 12 Km2, on n'en visite aujourd'hui qu'une petite partie, certains dises à peine 10%, principalement se qui était l'acropolis.
 
+Construite sur un terrain accidenté, souvent des anciennes coulées de lave, cette ancienne cité fortifiée ne présente pas la symétrie que l'on rencontre dans l'urbanisme des autres villes préhispaniques. On y a dénombré un nombre important de rues, routes pavées encadrées de murées, plus de 3 000 patios résidentiels et une trentaine de terrains de jeux de pelota. L'Acropole est constitué de nombreux bâtiments cérémoniels et temples. On peut gravir certains de ces monument afin de pouvoir bénéficier d'une vue grandiose.
 
-cantona signifie Maison du Soleil, bien que cette interprétation est douteuse, 1 est un important site archéologique dans l'État de Puebla, dans l'est du Mexique, près de la frontière avec l'État de Veracruz.
-Il était l'une des villes avec le plus haut degré d'urbanisation dans les temps anciens, probablement fondée par Olmeca-Xicalanca groupes vers la fin de la période préclassique tardif. Le moment de son pic correspond à la période épiclassique méso-américaine, c'est à dire la période pendant laquelle Teotihuacan a cessé d'être le principal centre de pouvoir dans la région et les petits Etats de la région se disputaient le contrôle des routes commerciales différentes. Cantona était un de ces centres régionaux, et contrôlé les ressources de la Sierra Madre orientale.
-Il ya eu peu de recherche et de sauvetage des travaux archéologiques sur le site, et probablement ne peut voir environ 10% du site, peut-être moins. (Il ya des opinions que seulement 1% a été rescatado.2
-Il était une ville fortifiée avec un haut degré d'urbanisation dans les temps anciens, probablement fondée par Olmeca-Xicalanca groupes vers la fin de la période classique tardive
-Henri de Saussure prétend avoir découvert Cantona en 1855 après une longue, longue recherche. Cantona vient du mot nahuatl Caltonal qui signifie «la maison du soleil».
-Situé entre les villes de Tepeyahualco et Coyoaco
-site couvre environ 12 kilomètres carrés pour l'étude a été divisée en trois grandes unités et a travaillé la partie sud, qui est le mieux conservé, il est de l'Acropole (zone où sont situés les principales structures qui ont donné refuge à des pouvoirs politique, économique et religieux), ce qui entraîne, par conséquent, un bon échantillon de la colonie.
-
+Nous étions les seuls visiteurs ce jour là, ce qui change des autres sites archéologique. Déambuler dans ce dédale de chemin et terrasses au milieu d'une végétations de Yuccas, résineux et toutes sortes de cactés est un réel plaisir.
 
 
 
