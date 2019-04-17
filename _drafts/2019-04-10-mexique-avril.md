@@ -8,8 +8,8 @@ date: 2019-04-12 13:00:00
 from-date: 2019-03-16 13:00:00
 to-date: 2019-04-12 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
+header-img: "assets/owner/blog/header/post-bg-rt23.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt23.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
 pois: [tepotzotlan#16-mars, toluca#16-mars, metepec#17-mars, valle-de-bravo#18-mars, calixtlahuaca#19-et-20-mars, malinalco#19-et-20-mars, cacahuamilpa#21-mars, taxco#22-mars, xochicalco#23-mars, cuernavaca#23-mars, tepoztlan#24-mars, yecapixtla#24-mars, tlayacapan#24-mars, puebla#25-mars, cholula#25-mars, huejotzingo#26-et-27mars, xochitécatl#26-et-27mars, cacaxtla#26-et-27mars, tlaxcala#26-et-27mars, alcoman#29-mars, teotihuacan#30-et-31-mars, mexico#01-au-05-avril, el-tajin#07-et-08-avril, e#09-avril, e#10-avril, e#11-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, ]
 country: Mexique
@@ -268,9 +268,9 @@ Ce matin vers 06 heures 30 Popocatépetl à toussoté et à lâché un gros pana
 
 Nous poursuivons la visite de la ville par le marché et l'église de Santo Domingo et sa très belle chapelle "Del Rosario".
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33639398498/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7911/33639398498_8937f46e1f_k.jpg" width="2048" height="1435" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33639398228/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7890/33639398228_e5f949d4bf_k.jpg" width="2048" height="1365" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33639398498/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7911/33639398498_8937f46e1f_k.jpg" width="2048" height="1435" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550159183/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7912/40550159183_13113e07a4_k.jpg" width="2048" height="1365" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -393,6 +393,8 @@ Ce matin le temps est couvert, on attend jusqu’à 11h00 avant d’entamer la v
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716209198/in/datetaken/" title="El Tajin - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7801/33716209198_153acc3002_k.jpg" width="2048" height="1152" alt="El Tajin - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47593162021/in/datetaken/" title="El Tajin - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7888/47593162021_7235d92d27_k.jpg" width="2048" height="1152" alt="El Tajin - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46677610725/in/datetaken/" title="El Tajin - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7814/46677610725_29ebd41c66_k.jpg" width="2048" height="1152" alt="El Tajin - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47540185602/in/datetaken/" title="El Tajin - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7895/47540185602_cbfa3967e0_k.jpg" width="2048" height="1152" alt="El Tajin - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
