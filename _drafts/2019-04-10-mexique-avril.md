@@ -448,12 +448,9 @@ Nous avons pas mal de route à faire aujourd’hui et nous décidons de prendre 
 
 Nous reprenons la route en mileu d’après midi et quittons cette partie du Mexique pour nous rendre dans l’Oaxaca, toujouts par l’autopista. Nous sortons au niveau de Ciudad Mendoza où on tombe encore sur un policier minicipal qui veut nous verbaliser. Il est rejoint par un autre policier qui parle un peu anglais, car dans ces cas là mon espagnol est inexistant. Pour le faire court je refuse l’arrangement et damnde a être verbalisé, on baisse le prix je refuse toujours et attend mon amende et cela fini par « Sorry » puis bonne route… Nous nous arrêtons pour la nuit à Téhuacan sur le parking d’un Walmart.
 
-
 ## 12 Avril
 
-Ce matin on s’arrête au garage Ford dès l’ouverture pour la révision de Thor. Ils ont une place de disponible, c’est parfait. 4 heures plus tard on le récupère avec de nouvelles huiles, flitres, graissages et diagnostics… tous va bien, on peu reprendre la route. Après avoir pris des nouvelles de la famille on mange et on prend la route pour Oaxaca, par l’autoroute. On traverse un beau massif montagneux, la végétation change, on voit de nouveaux cactus. On arrive en fin d’après-midi et on se pose non loin du site de Monte Alban.
-
-
+Ce matin on s’arrête au garage Ford dès l’ouverture pour la révision de Thor. Ils ont une place de disponible, c’est parfait. 4 heures plus tard on le récupère avec de nouvelles huiles, flitres, graissages et diagnostics… tous va bien, on peu reprendre la route. Après avoir pris des nouvelles de la famille on mange et on prend la route pour Oaxaca, par l’autoroute. 
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
