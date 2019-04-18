@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Cantona - Le site oubliè"
-preview:    "Le site archéologique de Cantona se trouve dans l'état de Puebla, c'est le site oublié des guides touristiques. Sur les trois guides que nous…"
+preview:    "Le site archéologique de Cantona se trouve dans l'état de Puebla, c'est le site oublié des guides touristiques. Sur les trois guides que nous consulté…"
 parent-id:  2019-04-10-mexique-avril
 
 date:       2019-04-12 12:00:00
@@ -25,11 +25,11 @@ Le site archéologique de Cantona se trouve dans l'état de Puebla, c'est le sit
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46869812194/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7872/46869812194_b54a0ba97a_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Implanté sur un haut plateau qui culmine à 2500 mètres d'altitude, Cantona "la maison du soleil" est entouré d'anciens volcans dont le Pic d'Orizaba (5636) ou Citlaltépetl qui est encore enneigés lors de notre visite. A L'époque, cette ville probablement fondée par les Olmeca-Xicalanca, s'étalait sur plus de 12 Km2, on n'en visite aujourd'hui qu'une petite partie, certains dises à peine 10%, principalement se qui formait l'acropolis.
+Implanté sur un haut plateau qui culmine à 2500 mètres d'altitude, Cantona "la maison du soleil" est entouré d'anciens volcans dont le Pic d'Orizaba (5636) ou Citlaltépetl qui est encore enneigés lors de notre visite. A L'époque, cette ville probablement fondée par les Olmeca-Xicalanca, s'étalait sur plus de 12 Km2, on n'en visite aujourd'hui qu'une petite partie, certains dises à peine 10%, principalement ce qui formait l'acropolis.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47593894401/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7878/47593894401_6fbb65ea3e_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Construite sur un terrain accidenté, souvent sur des anciennes coulées de lave, cette ancienne cité fortifiée ne présente pas la symétrie que l'on rencontre dans l'urbanisme des autres villes préhispaniques. On y a dénombré un nombre important de rues, routes pavées encadrées de murées, plus de 3 000 patios résidentiels et une trentaine de terrains de jeux de pelote. L'acropole est constitué de nombreux bâtiments cérémoniels et temples. On peut gravir certains de ces monuments afin de pouvoir bénéficier d'une vue grandiose.
+Construite sur un terrain accidenté, souvent sur des anciennes coulées de lave, cette ancienne cité fortifiée ne présente pas la symétrie que l'on rencontre dans l'urbanisme des autres villes préhispaniques. On y a dénombré un nombre important de rues, routes pavées encadrées de murées, plus de 3 000 patios résidentiels et une trentaine de terrains de jeux de pelote. L'acropole est constituée de nombreux bâtiments cérémoniels et de temples. On peut gravir certains de ces monuments afin de pouvoir bénéficier d'une vue grandiose.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40627862453/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7853/40627862453_5ce0203533_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -37,7 +37,7 @@ Construite sur un terrain accidenté, souvent sur des anciennes coulées de lave
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46869817694/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7810/46869817694_9099077c8d_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous étions les seuls visiteurs ce jour là, ce qui change des autres sites archéologique. Déambuler dans ce dédale de chemin et terrasses au milieu d'une végétations de Yuccas, résineux et toutes sortes de cactés est un réel plaisir.
+Nous étions les seuls visiteurs ce jour là, ce qui change des autres sites archéologiques. Déambuler dans ce dédale de chemin et terrasses, au milieu d'une végétations de Yuccas, résineux et toutes sortes de cactées est un réel plaisir.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716927678/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7821/33716927678_e1a5f1987d_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
