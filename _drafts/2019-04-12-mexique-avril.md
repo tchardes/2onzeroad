@@ -416,7 +416,7 @@ On s’arrête prendre de l’essence et un monsieur nous accoste. Il parle trè
 
 ## 10 Avril
 
-Nuit très fraiche, les jours se suivent et ne se ressemblent pas, on est bien à 2500 mètres, on a du ressortir une deuxième couverture et la couette pour arriver à s’endormir. Ce matin inl fait très beau et nous sommes à 09h00 à l’entrée du site, seul… et nous le resterons.
+Nuit très fraiche, les jours se suivent et ne se ressemblent pas, on est bien à 2500 mètres, on a du ressortir une deuxième couverture et la couette pour arriver à s’endormir. Ce matin il fait très beau et nous sommes à 09h00 à l’entrée du site, seul… et nous le resterons.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716903508/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7877/33716903508_7065184827_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
