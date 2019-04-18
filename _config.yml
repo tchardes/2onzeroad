@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "16.743610, -92.651668"
   name: "San Cristóbal de Las Casas - Chiapas - Mexique"
-  date: "17 et 18 avril 2019"
+  date: "17 au 19 avril 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
