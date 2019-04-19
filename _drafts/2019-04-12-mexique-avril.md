@@ -422,6 +422,8 @@ Nuit très fraiche, les jours se suivent et ne se ressemblent pas, on est bien �
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716928908/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7857/33716928908_9ff02763d8_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+**(voir l’article complet <a href="{{site.baseurl}}{% post_url 2019/2019-04-10-mexique-cantona %}">ici</a>)**
+
 Nous faisons un grand tour de ce site absoluement incroyable. On ne comprend pas pourquoi aucun guide n’en parle. Nous sommes  de retour à Thor à 12h30, on mange et nous prenons la route vers Xalapa, la capitale de l’Etat de Veracruz. Nous nous arrêtons au musée archéologique qui est vraiement très beau et présente de très belles pièces, notamment les "cabeza colosal de los olmecas".
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46715608545/in/datetaken/" title="Xalapa - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/46715608545_8b9cb4eb43_k.jpg" width="2048" height="1152" alt="Xalapa - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
