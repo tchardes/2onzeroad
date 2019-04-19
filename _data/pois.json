@@ -331,11 +331,10 @@
     {"name": "tlayacapan", "displayName": "Tlayacapan", "type": "ville"},
     {"name": "puebla", "displayName": "Puebla", "type": "ville"},
     {"name": "cholula", "displayName": "Cholula", "type": "ville"},
+    {"name": "cantona", "displayName": "Cantona - Site Archéologique", "type": "autre"},
+    
 
-
-
-    {"name": "", "displayName": "", "type": ""},
-    {"name": "", "displayName": "", "type": ""},
+    
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
     {"name": "", "displayName": "", "type": ""},
