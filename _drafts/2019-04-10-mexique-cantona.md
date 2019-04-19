@@ -23,8 +23,6 @@ Le site archéologique de Cantona se trouve dans l'état de Puebla, c'est le sit
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47593856561/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7817/47593856561_21a4c553f1_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716903508/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7877/33716903508_7065184827_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46678335555/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7925/46678335555_6d77b13ca6_k.jpg" width="2048" height="533" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Implanté sur un haut plateau qui culmine à 2500 mètres d'altitude, Cantona "la maison du soleil" est entouré d'anciens volcans dont le Pic d'Orizaba (5636) ou Citlaltépetl qui est encore enneigé lors de notre visite. A L'époque, cette ville probablement fondée par les Olmeca-Xicalanca, s'étalait sur plus de 14 Km de long, on n'en visite aujourd'hui qu'une petite partie, certains disent à peine 10%, principalement ce qui formait l'acropolis.
