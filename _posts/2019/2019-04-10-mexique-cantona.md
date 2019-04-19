@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Cantona - Le site oublié"
-preview:    "Le site archéologique de Cantona se trouve dans l'état de Puebla, c'est le site oublié des guides touristiques. Sur les trois guides que nous consulté…"
+preview:    "Le site archéologique de Cantona se trouve dans l'état de Puebla, c'est le site oublié des guides touristiques. Sur les trois guides que nous avons consulté…"
 parent-id:  2019-04-10-mexique-avril
 
 date:       2019-04-12 12:00:00
