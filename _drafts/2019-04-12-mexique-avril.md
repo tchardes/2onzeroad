@@ -260,7 +260,11 @@ Je monte ensuite jusqu’à la Basílica de Nuestra Señora de Ocotlán, toute b
 
 ## 28 Mars
 
-Ce matin, vers 06 heures 30, Popocatépetl a toussoté et a lâché un gros panache de fumée, la vidéo des caméras de surveillance est impressionnante. On ne s’est rendu compte de rien. On laisse Thor et nous prenons un taxi pour nous conduire dans le centre-ville de Puebla. Notre premier arrêt se fait à l’ancien couvent de Santa Monica qui a été transformé en musée religieux. Ce bel édifice aux façades recouvertes de terre cuite et de céramique présente de beaux objets et de belles peintures, certaines pièces du couvent ont été reconstituées.
+Ce matin, vers 06 heures 30, Popocatépetl a toussoté et a lâché un gros panache de fumée, la vidéo des caméras de surveillance est impressionnante. On ne s’est rendu compte de rien. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oOBom2mpioE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+On laisse Thor et nous prenons un taxi pour nous conduire dans le centre-ville de Puebla. Notre premier arrêt se fait à l’ancien couvent de Santa Monica qui a été transformé en musée religieux. Ce bel édifice aux façades recouvertes de terre cuite et de céramique présente de beaux objets et de belles peintures, certaines pièces du couvent ont été reconstituées.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40550160343/in/datetaken/" title="Puebla - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7832/40550160343_9187f85994_k.jpg" width="2048" height="1152" alt="Puebla - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -438,7 +442,7 @@ Nous essayons de regagner notre bivouac mais le GPS nous fait passer dans des ru
 
 ## 11 Avril
 
-Nous quitons notre parking direction **Veracruz**. Il y a des noms comme ça qui font réver, on ne sait pas vraiment pourquoi mais dans l’inconcsient, pour nous, c’est synonyme d’une belle ville du golfe du mexique, bref des vacances. Les guides n’en parlent pas plus que ça, mais on va aller voir par nous même. Nous avons pas mal de route à faire aujourd’hui et nous décidons de prendre l’autopista. Nous arrivons dans le centre historique et trouvons facilement à nous garer. C’est parti pour un petit tour de ville, son zocalo, sa mairie, le port puis le malecon où nous pouvons voir le bateau école de la Marine Nationale du Mexique trois mats baptisé "Cuauhtémoc". Au portal Miranda, à la "fototeca", on a pu voir de photos de nuit d'une artiste locale avec de nombreuses prises de vue réalisées dans Paris. A midi, on mange dans un très bon restaurant près de la cathédrale où je prends un filet de poisson à la veracruzienne, excellent. Pour tout dire, nous sommes un peu déçus par cette ville.
+Nous quitons notre parking direction **Veracruz**. Il y a des noms comme ça qui font réver, on ne sait pas vraiment pourquoi mais dans l’inconcsient, pour nous, c’est synonyme d’une belle ville du golfe du mexique, bref des vacances. Les guides n’en parlent pas plus que ça, mais on va aller voir par nous même. Nous avons pas mal de route à faire aujourd’hui et nous décidons de prendre l’autopista. Nous arrivons dans le centre historique et trouvons facilement à nous garer. C’est parti pour un petit tour de ville, son zocalo, sa mairie, le port puis le malecon où nous pouvons voir le bateau école de la Marine Nationale du Mexique trois mats baptisé "Cuauhtémoc". Au portal Miranda, à la "fototeca", on a pu voir de photos de nuit d'une artiste locale avec de nombreuses prises de vue réalisées dans Paris. A midi, on mange dans un très bon restaurant près de la cathédrale où je prends un filet de poisson à la veracruzienne, excellent. Pour tout dire, nous sommes quand même un peu déçus par cette ville.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47631151511/in/datetaken/" title="Veracruz - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/47631151511_5927265dc7_k.jpg" width="2048" height="1152" alt="Veracruz - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
