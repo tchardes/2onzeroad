@@ -260,7 +260,7 @@ Je monte ensuite jusqu’à la Basílica de Nuestra Señora de Ocotlán, toute b
 
 ## 28 Mars
 
-Ce matin, vers 06 heures 30, Popocatépetl a toussoté et a lâché un gros panache de fumée, la vidéo des caméras de surveillance est impressionnante. On ne s’est rendu compte de rien. 
+Ce matin, vers 06 heures 50, Popocatépetl a toussoté et a lâché un gros panache de fumée, la vidéo des caméras de surveillance est impressionnante. On ne s’est rendu compte de rien. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oOBom2mpioE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
