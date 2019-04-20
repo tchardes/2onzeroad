@@ -11,7 +11,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt23.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt23.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
-pois: [tepotzotlan#16-mars, toluca#16-mars, metepec#17-mars, valle-de-bravo#18-mars, calixtlahuaca#19-et-20-mars, malinalco#19-et-20-mars, cacahuamilpa#21-mars, taxco#22-mars, xochicalco#23-mars, cuernavaca#23-mars, tepoztlan#24-mars, yecapixtla#24-mars, tlayacapan#24-mars, puebla#25-mars, cholula#25-mars, huejotzingo#26-et-27mars, xochitécatl#26-et-27mars, cacaxtla#26-et-27mars, tlaxcala#26-et-27mars, alcoman#29-mars, teotihuacan#30-et-31-mars, mexico#01-au-05-avril, el-tajin#07-et-08-avril, e#09-avril, e#10-avril, e#11-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, ]
+pois: [tepotzotlan#16-mars, toluca#16-mars, metepec#17-mars, valle-de-bravo#18-mars, calixtlahuaca#19-et-20-mars, malinalco#19-et-20-mars, cacahuamilpa#21-mars, taxco#22-mars, xochicalco#23-mars, cuernavaca#23-mars, tepoztlan#24-mars, yecapixtla#24-mars, tlayacapan#24-mars, puebla#25-mars, cholula#25-mars, huejotzingo#26-et-27mars, xochitécatl#26-et-27mars, cacaxtla#26-et-27mars, tlaxcala#26-et-27mars, alcoman#29-mars, teotihuacan#30-et-31-mars, mexico#01-au-05-avril, el-tajin#07-et-08-avril, cantona#09-avril, xalapa#10-avril, veracruz#11-avril]
 country: Mexique
 states: ["Mexico", "Guerrero", "Morelos", "Puebla", "Tlaxcala", "Veracruz"]
 category: "roadmap"
@@ -21,7 +21,7 @@ itinary: "2019/mexico.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons traversé les Etats de Mexico, Guerrero, Morelos, Puebla, Tlaxcala et Veracruz.
+Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons tourné autour de Mexico (CDMX) avant de visiter la Capitale Fédérale. Nous avons ainsi traversé les Etats de Mexico, Guerrero, Morelos, Puebla, Tlaxcala et Veracruz.
 
 ## 16 mars
 
@@ -224,7 +224,7 @@ Corinne a un gros rhume, on décide de ne pas bouger aujourd’hui et de se repo
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46777263464/in/datetaken/" title="Huejotzingo - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7906/46777263464_f8024b89df_k.jpg" width="2048" height="1152" alt="Huejotzingo - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Route ensuite jusqu’aux sites archéologiques de **Xochitécatl** et de **Cacaxtla** qui étaient à la base qu’un seul site. Nous passons pour l’occasion dans le plus petit Etat du Mexique, Tlaxcala. On tombe sur une gars sympa à l’entrée qui ne nous fait payer que pour un seul site. Le premier implanté en haut d'une colline concentre des édifices religieux dont l'Edificio de la Espiral, un temple rond construit en spirale. 
+Route ensuite jusqu’aux sites archéologiques de **Xochitécatl** et de **Cacaxtla** qui étaient à la base qu’un seul site. Nous passons pour l’occasion dans le plus petit Etat du Mexique, Tlaxcala. On tombe sur une gars sympa à l’entrée qui ne nous fait payer que pour un seul site. Le premier implanté en haut d'une colline concentre des édifices religieux dont l'Edificio de la Espiral, un temple rond construit en spirale.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47463393002/in/datetaken/" title="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7904/47463393002_95ceb1299a_k.jpg" width="2048" height="1152" alt="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -232,7 +232,7 @@ Route ensuite jusqu’aux sites archéologiques de **Xochitécatl** et de **Caca
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46792323264/in/datetaken/" title="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7915/46792323264_068042503a_k.jpg" width="2048" height="1152" alt="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Plus loin, en contre bas, se trouve le second site, entièrement protégé des intempéries par une structure métallique. Elle protège un ancien palais construit sur plusieurs niveaux qui abrite les plus belles fresques préhispaniques du Mexique. Un musée situé à l'entrée présente de très belles reproductions de ces fresques. 
+Plus loin, en contre bas, se trouve le second site, entièrement protégé des intempéries par une structure métallique. Elle protège un ancien palais construit sur plusieurs niveaux qui abrite les plus belles fresques préhispaniques du Mexique. Un musée situé à l'entrée présente de très belles reproductions de ces fresques.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46792322244/in/datetaken/" title="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"><img src="https://live.staticflickr.com/7850/46792322244_9c5c9e0786_k.jpg" width="2048" height="1152" alt="Xochitzeatl Cacaxtla - Tlaxcala - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -332,7 +332,7 @@ Je passe une très mauvaise nuit et journée avec une bonne turista…
 
 Ce matin ça va un peu mieux, on descend déjeuner puis on dit au revoir à Christophe et Jean-Pierre qui rentre pour deux mois en France. On passe à la pharmacie puis on decide de partir en ville où l'on visite :
 - Le Musée Mural Diego Rivera
-- Le Palacio Bellas Artes (Expo de photos de Paris des années 30)
+- Le Palacio Bellas Artes (qui propose une expo photos sur le Paris des années 30)
 - Le Palais National
 - La Cathédrale et sa sacristie
 - Le Musée Templo Mayor de México-Tenochtitlan.
@@ -359,7 +359,7 @@ Le lendemain on reprend un Uber pour aller visiter le Musée d’Anthropologie q
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46816397464/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7918/46816397464_bea2f22cfb_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous partons ensuite visiter le Musée Soumaya. Très beau bâtiment, très moderne, dont la visite gratuite permet d'admirer la collection privé du magna des télécommunications du Mexique, Carlos Slim. Il y a une très belle collection d'art asiatique, notamment de l'ivoire sculptée et énormément d'oeuvres européennes, peinture et sculptures, dont une bonne proportion d'artistes français.
+Nous partons ensuite visiter le Musée Soumaya. Très beau bâtiment, très moderne, dont la visite gratuite permet d'admirer la collection privé du magna des télécommunications du Mexique, Carlos Slim. Il y a une très belle collection d'art asiatique, notamment de l'ivoire sculptée et énormément d'oeuvres européennes, peinture et sculptures, dont une bonne proportion d'artistes français. Rodin y est très représenté.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32597521267/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7840/32597521267_e9f53aa638_k.jpg" width="2048" height="1365" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -369,7 +369,7 @@ Nous partons ensuite visiter le Musée Soumaya. Très beau bâtiment, très mode
 
 Le soir nous testons un resto mexicain, très bons enchiladas et très bonne ambiance.
 
-Ce matin on laisse nos affaires à la bagagerie de l'hôtel pour aller visiter le musée de l’art populaire qui présente de très belles pièces puis nous flânons dans la rue dédiée au instruments de musique. Nous mangeons sur place et je fini par m'acheter une guitare. Dans ce quartier, les rue sont dédiées à une thématique ou profession, nous avons ainsi traversé la rue des magasins de plomberie, une autre consacrée à l'électricité. C'est pratique pour faire ces achats et surtout comparer les prix.
+Ce matin on laisse nos affaires à la bagagerie de l'hôtel pour aller visiter le musée de l’art populaire qui présente de très belles pièces puis nous flânons dans la rue dédiée aux instruments de musique. Nous mangeons sur place et je fini par m'acheter une guitare. Dans ce quartier, les rue sont dédiées à une thématique ou profession, nous avons ainsi traversé la rue des magasins de plomberie, une autre consacrée à l'électricité. C'est pratique pour faire ces achats et surtout comparer les prix.
 De retour à l'hôtel, nous récupérons nos bagages puis direction le camping par Uber.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46677625715/in/datetaken/" title="Ciudad Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7889/46677625715_1a1ed779e9_k.jpg" width="2048" height="1152" alt="Ciudad Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -378,17 +378,17 @@ De retour à l'hôtel, nous récupérons nos bagages puis direction le camping p
 
 ## 06 Avril
 
-Ce matin nous faisons la connaissance de nos voisin, des Allemands de Fribour qui ont remplacé les Brésiliens. Nous discutons un long moment, il parle assez bien le français. Sur les routes depuis plus de 5 ans, il rentre cet été comme nous en Europe pour passer l’été.
+Ce matin nous faisons la connaissance de nos voisin, des Allemands de Fribour qui ont remplacé les Brésiliens. Nous discutons un long moment, il parle assez bien le français. Sur les routes depuis plus de 5 ans, ils rentrent cet été comme nous en Europe pour passer l’été.
 
-Nous faisons les courses pour remplir le frigo puis nous quittons Teitihuacan en direction l’Etat de Verracuz et plus précisément le site Archéologique de **El Tajin**. Nous prenons l’autopista qui nous amène au travers d’un décor très montagneux et vert en direction du golfe du Mexique. Nous décidons de finir les dernier 50 Km par la route en passant par Poza Rica. En pleine ville un Taxi freine brusquement pour décharger un client m'obligeant à freiner sec. On ressent, une fraction de seconde plus tard, une petite secousse dans Thor, je me suis dit tiens en voilà un qui a été un peu juste, mais sans plus. Un conducteur se porte à mon niveau et me fait comprendre d’aller voir derrière. Effectivement, un taxi m’a percuté abimant sa calandre et son phare gauche tandis qu’un autre Taxi lui ai également rentré dedans.
+Nous faisons les courses pour remplir le frigo puis nous quittons Teotihuacan en direction l’Etat de Verracuz et plus précisément le site Archéologique de **El Tajin**. Nous prenons l’autopista qui nous amène au travers d’un décor très montagneux et vert en direction du golfe du Mexique. Nous décidons de finir les dernier 50 Km par la route en passant par la ville de Poza Rica. En pleine ville un taxi freine brusquement devant moi pour décharger un client m'obligeant à freiner sec. On ressent, une fraction de seconde plus tard, une petite secousse dans Thor, je me suis dit tiens en voilà un qui a été un peu juste, mais sans plus. Un conducteur se porte à mon niveau et me fait comprendre d’aller voir derrière. Effectivement, un taxi m’a percuté abimant sa calandre et son phare gauche tandis qu’un autre taxi lui ai également rentré dedans.
 
 Thor n’a absolument rien, j’indique au premier chauffeur que pour moi tout est OK et que je vais partir et il me dit qu’il a appelé la Police, ils arrivent. Donc on va attendre. 10 mn plus tard un policier arrive seul, il prend la situation en main fait des photos, prend toutes mes coordonnées sur son carnet, me demande comment cela c’est produit. Il nous réuni avec les autres conducteurs refait le film, dit que je n’y suis pour rien, me serre la main et me "libère", on peut reprendre la route.
 
-Toujours en ville je vois des gyrophares dans mon rétroviseur et le conducteur qui me fait signe de me garer, contrôle des passeports et permis international, nos copies, il examine longuement, nous demande où nous allons et nous laisse partir. On décide de quitter rapidement cette ville. On arrive finalement sur le parking du site archéologique, nous allons passer la nuit. Rapidement, un gardien vient me demander 70 puis au final 50 pesos pour la nuit. On est descendu de plus de 2000 mètres et on le sent, il fait très chaud et très lourd.
+Toujours en ville je vois des gyrophares dans mon rétroviseur et le conducteur qui me fait signe de me garer, contrôle des passeports et permis international, nos copies, il examine longuement, nous demande où nous allons et nous laisse partir. On décide de quitter rapidement cette ville. On arrive finalement sur le parking du site archéologique où nous allons passer la nuit. Rapidement, un gardien vient me demander 70 puis au final 50 pesos pour la nuit. On est descendu de plus de 2000 mètres et on le sent, il fait très chaud et très lourd.
 
 ## 07 et 08 Avril
 
-Ce matin le temps est couvert, on attend jusqu’à 11h00 avant d’entamer la visite du site de **El Tajin**, très belle surprise, les constructions très rapprochées, en pleine forêt, parfois recouvertes d'herbes... vertes. Le temps couvert, un peu brumeux, amène une ambiance toute particulière. La pyramide à caisson ou niches est vraiment très original. 
+Ce matin le temps est couvert, on attend jusqu’à 11h00 avant d’entamer la visite du site de **El Tajin**, très belle surprise, les constructions très rapprochées, en pleine forêt, parfois recouvertes d'herbes... vertes. Le temps couvert, un peu brumeux, ajoute une ambiance toute particulière. La pyramide à caisson ou niches est vraiment très originale.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716209198/in/datetaken/" title="El Tajin - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7801/33716209198_153acc3002_k.jpg" width="2048" height="1152" alt="El Tajin - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -402,15 +402,17 @@ On mange sur le site puis nous prenons la route en direction de Casitas au bord 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47540944982/in/datetaken/" title="Casitas - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7840/47540944982_dc41295d31_k.jpg" width="2048" height="1152" alt="Casitas - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Le lendemain nous sommes seuls, tous les camping et les piscines sont pour nous, on profite du soleil, journ farniente.
+
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32651487637/in/datetaken/" title="Casitas - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7847/32651487637_8daa253860_k.jpg" width="2048" height="1152" alt="Casitas - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 09 Avril
 
-Gros orage cette nuit, ca a l’avantage de nettoyer un peu Thor. On passe la matinée tranquille au camping et partons après manger nous prenons la route direction la montagne.
+Gros orage cette nuit, ca a l’avantage de nettoyer un peu Thor. On passe la matinée tranquille au camping et partons après manger, nous reprenons la route direction la montagne où il fera plus frais.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46678388615/in/datetaken/" title="Casitas - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7907/46678388615_dc61ac077b_k.jpg" width="2048" height="1152" alt="Casitas - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On s’arrête prendre de l’essence et un monsieur nous accoste. Il parle très bien français, son épouse étant de chez nous. Il nous explique être du village de San Raffael qui est jumelé avec un petit village de Franche Conté et s’y être rendu à plusieurs reprises. Son village abrite d’ailleurs un petit musée témoin de ce jumelage. Il posséde plusieur épiceries dont l’enseigne est « OUI » et le logo un coq. On passe bien dans le village mais on a pas vu le musée. La route n’est pas extraordinaire, on abime même une petite trappe sur un Topé. On arrive à Cantona juste avant sa fermeture. On demande au guichet l’autorisation de passer la nuit sur leur parking.
+On s’arrête prendre de l’essence à Casitas et un monsieur nous accoste. Il parle très bien français, son épouse étant de chez nous. Il nous explique être du village de San Rafael, qui a été fondée au début du XIXéme siècle par des Français originaires de la région de Dijon. Ces futurs fondateurs et premiers habitants de Veracruz embarquent au port du Havre le 24 avril 1833 espérant trouver une vie meilleure. San Rafael est toujours jumelé avec Champlitte, petit village de la Bourgogne-Franche-Comté où il s’est rendu à plusieurs reprises. Son village abrite d’ailleurs un petit musée témoin de ce jumelage. Ce monsieur très sympatique posséde plusieurs épiceries dont l’enseigne est "OUI" et le logo, un coq. On passe bien dans le village mais on a pas vu le musée. La route n’est pas extraordinaire, on abime même une petite trappe sur un Topé. On arrive à **Cantona** juste avant sa fermeture. On demande au guichet l’autorisation de passer la nuit sur leur parking.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47593891041/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7903/47593891041_8ec16aabb8_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -422,9 +424,7 @@ Nuit très fraiche, les jours se suivent et ne se ressemblent pas, on est bien �
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716928908/in/datetaken/" title="Cantona - Puebla - [Mexique]"><img src="https://live.staticflickr.com/7857/33716928908_9ff02763d8_k.jpg" width="2048" height="1152" alt="Cantona - Puebla - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**(voir l’article complet <a href="{{site.baseurl}}{% post_url 2019/2019-04-10-mexique-cantona %}">ici</a>)**
-
-Nous faisons un grand tour de ce site absoluement incroyable. On ne comprend pas pourquoi aucun guide n’en parle. Nous sommes  de retour à Thor à 12h30, on mange et nous prenons la route vers Xalapa, la capitale de l’Etat de Veracruz. Nous nous arrêtons au musée archéologique qui est vraiement très beau et présente de très belles pièces, notamment les "cabeza colosal de los olmecas".
+Nous faisons un grand tour de ce site absoluement incroyable. **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2019/2019-04-10-mexique-cantona %}">ici</a>)** On ne comprend pas pourquoi aucun guide n’en parle. Nous sommes de retour à Thor à 12h30, on mange et nous prenons la route vers **Xalapa**, la capitale de l’Etat de Veracruz. Nous nous arrêtons au musée archéologique qui est vraiment très beau et présente de très belles pièces, notamment les "cabeza colosal de los olmecas".
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46715608545/in/datetaken/" title="Xalapa - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/46715608545_8b9cb4eb43_k.jpg" width="2048" height="1152" alt="Xalapa - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -434,13 +434,11 @@ Nous faisons un grand tour de ce site absoluement incroyable. On ne comprend pas
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40664714393/in/datetaken/" title="Xalapa - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/40664714393_4aaf74fe79_k.jpg" width="2048" height="1152" alt="Xalapa - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous essayons de regagner notre bivouac mais le GPS nous fais passer dans des rues imossibles. Corinne est encore de corvée pour assurer la circulation et me faire manoeuvrer. Les mexicain sont assez cool, pas un seul coup de xlaxon, ni une insulte mais des sourrires et des saluts. Un jeune en moto voit que je suis en galère, il me demande où je souhaite aller et il nous ouvre la route jusqu’au Walmart. Il sarrête peu avant d’arriver, refuse notre propina, nous sort quelques mots en français et nous souhaite bonne route. Franchement depuis que nous sommes ici nous avons rencontré vraiement des gens adorables.
-Une fois garés, nous faisons nos courses et passons la soirée dans Thor. Très belle journée.
+Nous essayons de regagner notre bivouac mais le GPS nous fait passer dans des rues improbables. Corinne est encore de corvée pour assurer la circulation et me faire manoeuvrer. Les mexicain sont assez cool, pas un seul coup de xlaxon, ni une insulte mais des sourrires et des saluts. Un jeune en moto voit que je suis en galère, il me demande où je souhaite aller et il nous ouvre la route jusqu’au Walmart. Il sarrête peu avant d’arriver, refuse notre propina, nous sort quelques mots en français et nous souhaite bonne route. Franchement depuis que nous sommes ici nous avons rencontré vraiment des gens adorables. Une fois garés, nous faisons nos courses et passons la soirée dans Thor. Très belle journée.
 
 ## 11 Avril
 
-Nous quitons notre parking direction Veracruz. Il y a des noms comma Veracruz qui font réver, on ne sait pas vraiment pourquoi mais dans l’inconcsient, pour nous, c’est synonime d’une belle ville du golfe du mexique, bref les vacances. Les guides n’en parlent pas plus quye ça, mais on va aller voir de nous même.
-Nous avons pas mal de route à faire aujourd’hui et nous décidons de prendre l’autopista. Nous arrivons dans le centre historique et arrivons facilement à nous garer. C’est partie pour une peit tour de ville, son zocalo, sa mairie, le prot puis le malecon où nous pouvons voir le bateauy école de la marine nationale du mexique. A misi on mange dans un très bon restaurant près de la cathédrale où je oprend un filet de poisson à la veracruzienne, excellent. Un peu décu par cerre ville.
+Nous quitons notre parking direction **Veracruz**. Il y a des noms comme ça qui font réver, on ne sait pas vraiment pourquoi mais dans l’inconcsient, pour nous, c’est synonyme d’une belle ville du golfe du mexique, bref des vacances. Les guides n’en parlent pas plus que ça, mais on va aller voir par nous même. Nous avons pas mal de route à faire aujourd’hui et nous décidons de prendre l’autopista. Nous arrivons dans le centre historique et arrivons facilement à nous garer. C’est partie pour une petit tour de ville, son zocalo, sa mairie, le port puis le malecon où nous pouvons voir le bateau école de la Marine Nationale du Mexique trois mats baptisé "Cuauhtémoc". Au portal Miranda, à la "fototeca" on a pu voir de photos de nuits prisent par une artistes locales avec de nombreuses prises de vues réalisées dans Paris. A midi on mange dans un très bon restaurant près de la cathédrale où je prend un filet de poisson à la veracruzienne, excellent. Au finalement, nous sommes un peu décu par cette ville.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47631151511/in/datetaken/" title="Veracruz - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/47631151511_5927265dc7_k.jpg" width="2048" height="1152" alt="Veracruz - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -448,11 +446,11 @@ Nous avons pas mal de route à faire aujourd’hui et nous décidons de prendre 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32688676297/in/datetaken/" title="Veracruz - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/65535/32688676297_218b4785bb_k.jpg" width="2048" height="1152" alt="Veracruz - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous reprenons la route en mileu d’après midi et quittons cette partie du Mexique pour nous rendre dans l’Oaxaca, toujouts par l’autopista. Nous sortons au niveau de Ciudad Mendoza où on tombe encore sur un policier minicipal qui veut nous verbaliser. Il est rejoint par un autre policier qui parle un peu anglais, car dans ces cas là mon espagnol est inexistant. Pour le faire court je refuse l’arrangement et damnde a être verbalisé, on baisse le prix je refuse toujours et attend mon amende et cela fini par « Sorry » puis bonne route… Nous nous arrêtons pour la nuit à Téhuacan sur le parking d’un Walmart.
+Nous reprenons la route en mileu d’après midi et quittons cette partie du Mexique pour nous rendre dans l’Oaxaca, toujours par l’autopista. Nous sortons au niveau de Ciudad Mendoza où on tombe encore sur un policier minicipal qui veut nous verbaliser. Il est rejoint par un autre policier qui parle un peu anglais, car dans ces cas là mon espagnol est inexistant. Pour le faire court je refuse l’arrangement et demande a être verbalisé, on baisse le prix je refuse toujours et attend mon amende et cela fini par "Sorry" puis bonne route… Nous nous arrêtons pour la nuit à Téhuacan sur le parking d’un Walmart.
 
 ## 12 Avril
 
-Ce matin on s’arrête au garage Ford dès l’ouverture pour la révision de Thor. Ils ont une place de disponible, c’est parfait. 4 heures plus tard on le récupère avec de nouvelles huiles, flitres, graissages et diagnostics… tous va bien, on peu reprendre la route. Après avoir pris des nouvelles de la famille on mange et on prend la route pour Oaxaca, par l’autoroute. 
+Ce matin on s’arrête au garage Ford dès l’ouverture pour la révision de Thor. Ils ont une place de disponible, c’est parfait. 4 heures plus tard on le récupère avec de nouvelles huiles, flitres, graissages divers et diagnostics… tous va bien, on peu reprendre la route direction Oaxaca, par l’autoroute.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
