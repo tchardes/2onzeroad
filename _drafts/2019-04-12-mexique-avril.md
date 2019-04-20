@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: " Autour de Mexico"
-preview: "Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons traversé les Etats de Mexico, Guerrero, Morelos, Puebla…"
+preview: "Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons tourné autour de Mexico (CDMX) avant de visiter grande la Capitale Fédérale. Nous avons ainsi…"
 parent-id: 
 
 date: 2019-04-12 13:00:00
@@ -21,7 +21,7 @@ itinary: "2019/mexico.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons tourné autour de Mexico (CDMX) avant de visiter la Capitale Fédérale. Nous avons ainsi traversé les Etats de Mexico, Guerrero, Morelos, Puebla, Tlaxcala et Veracruz.
+Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons tourné autour de Mexico (CDMX) avant de visiter la grande Capitale Fédérale. Nous avons ainsi traversé les Etats de Mexico, Guerrero, Morelos, Puebla, Tlaxcala et Veracruz.
 
 ## 16 mars
 
