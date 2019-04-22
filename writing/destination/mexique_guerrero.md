@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_country"
-country: "Mexique"
+destination: "Mexique - Guerrero"
 permalink: "/writing/destination/mexique-guerrero/"
 header-img: "assets/owner/hero/mexique-bg.jpg"
 flickr-text: ""

@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_country"
-country: "Mexique"
+destination: "Mexique - Tabasco"
 permalink: "/writing/destination/tabasco/"
 header-img: "assets/owner/hero/mexique-bg.jpg"
 flickr-text: ""

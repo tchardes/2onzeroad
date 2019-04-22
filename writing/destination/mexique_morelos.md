@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_country"
-country: "Mexique"
+destination: "Mexique - Morelos"
 permalink: "/writing/destination/mexique-morelos/"
 header-img: "assets/owner/hero/mexique-bg.jpg"
 flickr-text: ""

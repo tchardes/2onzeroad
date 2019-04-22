@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_country"
-country: "Mexique"
+destination: "Mexique - Guanajuato"
 permalink: "/writing/destination/mexique-guanajuato/"
 header-img: "assets/owner/hero/mexique-bg.jpg"
 flickr-text: ""
