@@ -13,7 +13,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
 pois: [e#09-avril, e#10-avril, e#11-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, ]
 country: Mexique
-states: ["Oaxaca", "Chiapas", "yucatan"]
+states: ["Oaxaca", "Chiapas", "tabasco", "yucatan"]
 category: "roadmap"
 flickr-text: ""
 location: "17.798235, -94.575279"
