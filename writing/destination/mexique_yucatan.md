@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_country"
 destination: "Mexique - Yucatan"
-permalink: "/writing/destination/yucatan/"
+permalink: "/writing/destination/mexique-yucatan/"
 header-img: "assets/owner/hero/mexique-bg.jpg"
 flickr-text: ""
 

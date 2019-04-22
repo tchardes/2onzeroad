@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_country"
 destination: "Mexique - Veracruz"
-permalink: "/writing/destination/veracruz/"
+permalink: "/writing/destination/mexique-veracruz/"
 header-img: "assets/owner/hero/mexique-bg.jpg"
 flickr-text: ""
 
