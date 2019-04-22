@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: " Regions Sud du Mexique"
+title: " Region Sud du Mexique"
 preview: "Cet article couvre la période du 12 avril au…"
 parent-id: 
 
@@ -25,7 +25,7 @@ Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous 
 
 ## 12 avril
 
-Ce matin on s’arrête au garage Ford dès l’ouverture pour la révision de Thor. Ils ont une place de disponible, c’est parfait. 4 heures plus tard on le récupère avec de nouvelles huiles, filtres, graissages et diagnostics… tous va bien, on peu reprendre la route. Après avoir pris des nouvelles de la famille on mange et on prend la route pour Oaxaca, par l’autoroute. On traverse un beau massif montagneux, la végétation change, on voit de nouveaux cactus. On arrive en fin d’après-midi et on se pose non loin du site de Monte Alban.
+On quitte Tehuacán et on prend la route pour la région d'Oaxaca, par l’autoroute. On traverse un beau massif montagneux, la végétation change, on voit de nouveaux cactus. On arrive en fin d’après-midi et on se pose non loin du site archéologique de Monte Alban.
 
 ## 13 avril
 
