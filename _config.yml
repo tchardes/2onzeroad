@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "16.103456, -91.679361"
   name: "Laguna de Montebello - Chiapas - Mexique"
-  date: "22 avril 2019"
+  date: "22 et 23 avril 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
