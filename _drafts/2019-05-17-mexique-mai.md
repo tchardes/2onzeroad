@@ -11,7 +11,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
-pois: [e#09-avril, e#10-avril, e#11-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, ]
+pois: [monte-alban#13-avril, e#10-avril, e#11-avril, e#07-avril, e#07-avril, e#07-avril, e#07-avril, ]
 country: Mexique
 states: ["Oaxaca", "Chiapas", "tabasco", "yucatan"]
 category: "roadmap"
@@ -29,7 +29,9 @@ On quitte Tehuacán et on prend la route pour la région d'Oaxaca, par l’autor
 
 ## 13 avril
 
-Ca matin départ pour le site de Monte Alban qui est tout proche. On y passe la matinée, le site est vraiment très beau, construit sur un éperon rocheux il domine toute la ville et la vallée.
+Ca matin départ pour le site de **Monte Alban** qui est tout proche. On y passe la matinée, le site est vraiment très beau, construit sur un éperon rocheux, il domine toute la ville et la vallée. Au cours de la visite on entend un bruit strident et continu. On se doute bien qu'il s'agit d'un animal dans les arbres mais difficile de le localiser. Finalement nous trouvons les coupables, ce sont d'énormes cigales, ou moins trois fois plus grosses que le nôtres.
+
+
 Ensuite nous partons pour le centre ville de Oaxaca. C’est samedi, il y a des marchés de partout, circuler est vraiment compliqué. On décide d’aller directement sur notre bivouac et de la nous prenons un taxi, c’est plus sur.
 Arrivés sur le Zocalo nous promenons dans le centre historique, mangeons la spécialité d’ici un tacos de 30 cm de diamètre cuit au feu de bois, du coup il est très foncé presque noir, garni de plein de bonne choses. Arrivé sur la place du Templo de Santo Domingo nous assistons à la sortie de l’église d’un mariage traditionnel avec musique danseur et toutes les femmes en habits traditionnels, brodés de fleurs, c’est très coloré. Nous visitons le centre culturel qui est situé dans l’ancien couvent Santo Domingo. On peut notamment y voir les objets découverts dans la tombe N°7 à Monte Alban, avec chose rarissime ici, des objets en or. Il ya également un carne en partie recouvert de petit bout de fayences turquoise. Très belle visite. Nous visitons également la maison Cortes qui a été transformé en Musée d’Art contemporain, moyen. Nous finissons à la Cathédrale, le Zocalo et enfin les marchés qui sont bondés, beaucoup de restaurants, certains n’hésite par à faire des BBC ce qui enfume toutes les allées. Les odeurs évoluent en fonction des étals, Boeufs, poulets, insectes, crevettes… bien sur tout ca posé à même l’étal sans aucun système de référgiration…
 En fin de journée on reprend un taxi? faisons quelques courses au Soriana et nous posons dans Thor.. épuisés, il faut dire qu’il fait très chaud, plus de 30°, vivement cette nuit…
