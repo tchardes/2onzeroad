@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: " Autour de Mexico"
-preview: "Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons tourné autour de Mexico (CDMX) avant de visiter la grande la Capitale Fédérale. Nous avons ainsi…"
+preview: "Cet article couvre la période du 16 mars au 12 avril 2019 durant laquelle nous avons tourné autour de Mexico (CDMX) avant de visiter la grande la…"
 parent-id: 
 
 date: 2019-04-12 13:00:00
