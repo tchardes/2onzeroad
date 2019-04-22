@@ -391,7 +391,7 @@ Toujours en ville, je vois des gyrophares dans mon rétroviseur et le conducteur
 
 ## 07 et 08 Avril
 
-Ce matin, le temps est couvert, on attend jusqu’à 11h00 avant d’entamer la visite du site de **El Tajin**, très belle surprise, les constructions très rapprochées, en pleine forêt, parfois recouvertes d'herbes... vertes. Le temps couvert, un peu brumeux, ajoute une ambiance toute particulière. La pyramide à caisson ou niches est vraiment très originale. Si ces sites archéologiques peuvent paraître aujourd'hui un peu tristes, ternes, ils étaient à l'époque en partie recouvert de stuc et arboraient des couleurs très vives.
+Ce matin, le temps est couvert, on attend jusqu’à 11h00 avant d’entamer la visite du site de **El Tajin**, très belle surprise, les constructions très rapprochées, en pleine forêt, parfois recouvertes d'herbes... vertes. Le temps couvert, un peu brumeux, ajoute une ambiance toute particulière. La pyramide à caisson ou niches est vraiment très originale. Si ces sites archéologiques peuvent paraître aujourd'hui un peu tristes, ternes, ils étaient à l'époque en partie recouverts de stuc et arboraient des couleurs très vives.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33716209198/in/datetaken/" title="El Tajin - Veracruz - [Mexique]"><img src="https://live.staticflickr.com/7801/33716209198_153acc3002_k.jpg" width="2048" height="1152" alt="El Tajin - Veracruz - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
