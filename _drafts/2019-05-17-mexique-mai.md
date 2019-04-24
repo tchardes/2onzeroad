@@ -82,11 +82,12 @@ Ce matin nous quittons le camping sous un beau soleil et allons nous garer sur l
 Nous passons 2 heures sur ce site incroyable tout en hauteur. Je suis de loin un guide et du coup j’emprunte un chemin de visite qui permet de ne rien rater, tombes, bas reliefs….
 Nous mangeons sur le site puis nous prenon sla route pour Comintan de Dominguez. La route est une route secondaire et j’espère qu’elle ne sera pas trop mauvaise. Peu après Tonina, à Suschila nous tombons sur un barrage de police. L’agent me demande où nous allons et il m’indique que nous risquons de tomber sur un barrage et qu’il faudra s’acquitter de « l’impôt révolutionnaire » une cinquantaine de pesos, on sympatise et on fini tous devant Thor pour une séance photo. Nous reprenons notre route qui au final n’est pas trop mal, après une longue montée, on se retrouve sur un haut plateau où nous traversons de nombreux pueblo, principalement des agriculteur et éleveurs. Toutes les femmes portent l’habit traditionnel qui varie un peu selon les villages. Nous arrivons après 3 heures de route (110 Km) à Comitan où nous faisons les courses dans un Walmart. Finalement nous n’avons pas rencontré de barrage, mais nous avons croisé un pick-up avec une dizaine de personnes encagoulés à l’arrière, peu-être sommes nous passé après la levée du barrage. Comme la ville n’a rien d’excetionnel et qu’il encore un peu tôt on de-écide de reprendre la route pour se poser aux cascades de El Chiflon pour la nuit, nous ferons la visite demain matin.
 
-## 21 avril
+## 21 et 22 avril
 
 
-## 22 avril
+## 23 avril
 
+Ce matin nous quitons le magnifique lac de Tziscao après avoir fait le plein d'eau non potable. Nous reprenons la route de montagne qui traverse uen forêt tropicale. Nous arrivons jusqu'au village de Jérusalén puis empruntons un 
 
 
 
