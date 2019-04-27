@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "16.817062, -90.885672"
-  name: "Frontera Corozal - Chiapas - Mexique"
-  date: "24 avril 2019"
+  coordinates: "19.829729, -90.505008"
+  name: "Campeche - Campeche - Mexique"
+  date: "27 avril 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
