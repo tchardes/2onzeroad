@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "19.829729, -90.505008"
-  name: "Campeche - Campeche - Mexique"
-  date: "29 avril 2019"
+  coordinates: "20.362484, -89.770140"
+  name: "Uxmal - Yucatan - Mexique"
+  date: "01 mai 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
