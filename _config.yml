@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "20.362484, -89.770140"
-  name: "Uxmal - Yucatan - Mexique"
-  date: "01 mai 2019"
+  coordinates: "20.851605, -90.402908"
+  name: "Celestun - Yucatan - Mexique"
+  date: "03 et 04 mai 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
