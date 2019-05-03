@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "20.851605, -90.402908"
   name: "Celestun - Yucatan - Mexique"
-  date: "03 et 04 mai 2019"
+  date: "03 au 05 mai 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
