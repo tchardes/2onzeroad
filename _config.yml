@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "20.682903, -88.577412"
   name: "Chichén Itzá - Yucatan - Mexique"
-  date: "08 mai 2019"
+  date: "11 mai 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
