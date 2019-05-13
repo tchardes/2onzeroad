@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "20.701346, -88.206909"
-  name: "Valladolid - Yucatan - Mexique"
-  date: "12 mai 2019"
+  coordinates: "20.496128, -87.728601"
+  name: "Coba - Yucatan - Mexique"
+  date: "13 mai 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
