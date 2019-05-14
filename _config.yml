@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "20.496128, -87.728601"
-  name: "Coba - Yucatan - Mexique"
-  date: "13 mai 2019"
+  coordinates: "21.103815, -86.976641"
+  name: "Cancun - Quintana Roo - Mexique"
+  date: "14 au 17 mai 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
