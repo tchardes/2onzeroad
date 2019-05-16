@@ -16,7 +16,7 @@ country: Mexique
 states: ["Oaxaca", "Chiapas", "Tabasco", "Campeche", "Yucatan", "Quintana-Roo"]
 category: "roadmap"
 flickr-text: ""
-location: "17.798235, -94.575279"
+location: "18.607553, -92.677391"
 itinary: "2019/yucatan.json"
 mapZoom: 4
 ---
