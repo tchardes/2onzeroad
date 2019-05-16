@@ -18,7 +18,7 @@ category: "roadmap"
 flickr-text: ""
 location: "17.798235, -94.575279"
 itinary: "2019/yucatan.json"
-mapZoom: 5
+mapZoom: 4
 ---
 
 Cet article couvre la période du 12 avril au 17 mai 2019 date de notre retour sur la France. Durant cette période nous avons visité le Sud du Mexique et avons traversé les Etats de Oaxaca, Chiapas, Tabasco, Campeche et une partie du Yucatan, nous ferons le reste lors de notre prochain voyage.
