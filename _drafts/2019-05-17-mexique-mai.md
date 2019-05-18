@@ -53,7 +53,6 @@ En début d’après-midi on reprend la route pour **Mitla** et son site archéo
 
 ## 15 avril
 
-
 Ce matin c’est le réveil qui nous sort des bras de morphée, une fois n’est pas coutume. On veut profiter du fait d’être dans le site pour pouvoir en bénéficier avant l’arrivée des touriste à 08h00. Le site est vraiment très beau, perché au sommet d'une montage où des petits puits font ressurgir de l'eau bouillonnante mais froide. Très chargé en calcique ces sources ont formés au fil des décennies bassins et cascades dont certaines pétrifiées. Entouré de montagnes, le lieux est très photogénique.
 
 
