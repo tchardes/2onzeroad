@@ -76,7 +76,7 @@ Nuit chaude et bruyante. Ce matin on prend notre temps car nous souhaiterions fa
 ## 18 avril
 
 
-Nuit calme est fraiche.
+Nuit calme est fraîche.
 Ce matin nous prenons un colectivo pour nous rendre en centre ville. Depuis le Zocalo nous faisons un grand tour dans le centre historique et arpentons ces rues piétonnes qui grouillent de monde, quelques touristes, de nombreux marchands ambulants de tous âges. Souvent ce sont des indiennes qui sont toutes très petites et habillées en costume traditionnel coloré avec un chale bleu foncé. Il doit y avoir plusieurs "clans", certaines portent des jupes noire à poli long (peau de chèvre ?) juste enroulées autour de la taille et maintenue par une large ceinture en étoffe, c’est vraiment surprenant. On visite plusieurs églises et une cathédrale, le marché artisanal où nous achetons quelques minéraux. Il n’y a rien de spécial à voir dans cette ville mais la ville en elle même est très agréable, colorée et surtout très propre et animée. Gros coup de coeur pour Corinne.
 
 ## 19 avril
