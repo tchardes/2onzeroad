@@ -118,18 +118,128 @@ Il fait très chaud et très lourd, il fait 40° dans Thor, la nuit va être lon
 
 ## 25 avril
 
-
+Nuit très chaude dans Thor, On a mis le reveil de bonne heure pour être à 7h00 au guichet. Les singes hurleurs son également debout de bonne heure et le font savoir. Nous retrouvons les Toulousains qui ont dormi à l’hôtel. Une fois les billets pris pour l’entrée du site de Yaxchilan, nous nous mettons en quête d’un bateau, une « lancha », pour nous y conduire. Le site n’est accésible que par le Rio Usumacinta qui est la frontière naturelle entre le Mexique et le Guatemala. Sur le chemin de nombreux bateleurs nous annonce les prix, mais nous preférons aller j’usqu’à l’embarcadère. Nous y retrouvons une famille de Hollandais, ils sont 6 et nous 4 le bateau est complet, le pilote nous fait un bon prix.
+Après 45 minutes de navigation sur cette rivière qui coupe en deux la jungle, en route nous croisons quelques crocodiles qui nous regardent passer du bord de la berge. Nous arrivons sur le site Maya. Un long escalier et nous y sommes. Le temps est très lourd, une brume entoure les arbre, l’ambiance est très spéciale. De nombreux singes atéles sont dans les arbres, des singes hurleurs assurent le bruit de fond. Il faut bien 2 heures pour visiter tout les sites qui se décomposent en plusieurs parties. Les édifices sont particuliers, finalement aucun n’est le même. A l’intérieur des galeries nous derangeons de nombreuses petites chauve-souris. Après la visite nous remontons dans notre lancha pour une de navigation à contre courant d’une heure. Si nous étions les seuls visiteurs sur le site, au cours du chemin retour nous croisons des dizaines de bateaux qui conduisent les touristes certainement arrivés de Palenqué.
+Nous quittons Julie et Jean-David et reprenons la route en direction du site de Bonampak. La aussi on doit s’acquiter de la somme de 60 pesos pour la ville ce qui me gonfle un peu. Après quelques kilomètres, on doit laisser Thor et prendre un Taxi qui nous conduira à l’entrée du site. Le gars nous demande 400 pesos, on refuse et on fait demi tour. Faut pas exagèrer.
+On reprend la route et filons en direction de Agua Azul. La route est toujours aussi rock’n’roll. On arrive en fin d’après-midi et on se pose sur le parking pour la nuit. On fait un petit tour du site qui est magnifique et blindé de personnes.
 
 
 
 
 ## 26 au 28 avril
 
+Ce matin le temps est brumeux et il va le rester toute la journée. Nous refaisons un tour aux cascades pour faire des photos pose longue puis nous quittons, la zone pour palenque.
+Je suis en réserve et Corinne se voit déjà en train de pousser Thor en pleine montagne… Heureusement de nombreuse personnes vendent de l’essence en bidons car il n’y a aucune station sur cette route. On achéte 10 litres d’essence pour arriver en ville. Une fois à Palenque nous faisons le plein du frigo et partons pour le site archéologique qui se trouve lui même dans un parc. Donc on paye l’entrée du park 72 $M puis une fois au parc au paye 150 $M pour le site.
+On commence poar le musée qui est petit mais qui présente de très belles pièces en terre cuite, quelque bas relief et la pièce maitresse la tombeau du roi …..
+On entre par la première entrée du site et après de nombreuses marche on arrive au. niveau du « Palacio » est des principale pyramides. L’architecture des site mayas est vraiment différente de celle rencontrées auparavent. Nous passons plus de 2 heures à arpenter le site qui se trouve en pleine jungle. Nous sortons par l’entrée principale et décident de marcher jusqu’à Thor par la route qui treverse cette belle forêt. Nos efforts sont accompagnés des cris des singes hurleurs et nous avons la chance de voir un magnifique Arras rouge et bleu.
+On quitte le site mais pas le parc et trouvons un camping très rudimentaire pour la nuit. 
 
 
-
+Deux journée de repos au camping, avec resto le soir sur place. Ici dans les restaurants les assiettes n’arrivent pas en même temps et dès que vous l’avez fini on vient vous l’enlever, chaque pays à ces propores pratiques.
+Samedi soir une tribue est arrivée en début de soirée, très bruyante jusqu’à 3 heures du mat et ils sont repartis ce matin vers 8 heures, la nuit a été courte sans compter la chaleur étouffante…
 
 ## 29 avril
+
+Cette un coq en plein jetlag c’est mis à chantais vers 4 heures du matin, ce qui n’a pas du tout plus à tout les signe hurleur de ce coin de la la joingle qui se sont tous mis à … hurler, certains n’étaient pas trop loin de nous. Au bout de 1à minutes, quand même, le coq c’est rendu compte le soleil n’était pas de la partie et il s’est enfin tu… et les singes on suivi.. on a pu tous se rendormir.
+Ce matin on quitte le camping et faisons une halte à Palenque où Corinne consulte un médecin un des maux de ventre qui ne passente pas. La consultation se fait dans des locaux atenants à la Pharmacie, la consultation est gratuire, on donne ce que l’on veut. On récupére des antibiotiques à la pharmacie et après quelques coures nous quitons la ville.
+Le décor change presque immédiatement, adieu les montagne et la forêt tropicale, on retrouve de belle route droite et une végétation plus… Mexicaine. On quitte rapdement l’Etat du Chiapas pour une courte inscursion dans l’Etat de Tabsaco avant d’entrée dans l’Etat de Campeche.
+En route nous faisons le plein d’essence, d’eau potable et non potable. Arrivée au niveau du golfe du Mexique à Champoton nous prenons une grosse averse, cela fais du bien … puis nous bifurquons pour nous rendre sur le site de Edzan un peu à l’intérieur des terres. on se pose devant l’entrée pour la nuit.
+
+## 30 avril
+
+Nuit tranquille près du site.
+Ce matin, de bonne heure, nous nous garons à l’ontérieur du site et partons visiter le site archéologique de Edzna. Très beau site avec notamment le palece à 5 étages. Je pars visiter une pyramide un peux excentrée qui n’a que peu d’intérêt mais en route j’ai croisé une famille de 5 coaties qui ont traversés le chemin devant moi, je n’ai pu prendre que le dernier en vidéo.
+Nous prenons ensuite à l’entrée de Campeche pour visiter le fort San Miguel, fort de type vauban transformé en musée. Arrivé sur place ce dernier est fremé, en plein restauration. Nous mangeons sur place puis nous nous garons au cnetre de ville et visitons cette belle ville au façades au couleurs pastel, visite de la cathérdrale, d’une petit jardin botanique crée dans un ancien fortin, le centre culturel et les deux portes, de la mer et de la terre, ouverte dans les remparts de la ville.
+En fin de journée on se pose sur un Walmart où nous faisons les courses. das
+
+## 01 mai
+
+Nuit calme et chaude sur notre parking.
+ce matin nous quitons Campeche après avoir fait le plein de propane puis direction le Yacatan.
+Nous faisons une halte à Muna prendre de l’essence puis nous nous arrêtons à Uxmal, site archéologique Maya en terres Puuc.
+Au prix normal de 75 pesos, l’Etat du Yucatan rajoute une taxe de 338 pesos ce qui fait l’entrée à 413 pesos, de loin lentrée la plus chère pour un site…
+C’est vrai qu’il est particulièrement beau avec ces pyramides, bâtiments en longueur très bien décorés, il est quand même à voir. Corinne n’a pas voulu le visiter, elle ne se sent pas encore très bien et elle commence à saturer…
+A mon retour un CC français est garé à côté de Thor, il s’agit d’un couple, Jean-Jacques et Brigitte, deux anciens qui remontent vers l’Alaska.
+Nous quitons le site pour nous rendre sur un autre Kabah où nous allons nous poser. Nous le visiterons demain matin, à la fraiche…
+Un heure après notre coupe de l’Eure arrive également sur le même bivouac et nous discutons un long moment ensembe.
+
+
+## 02 mai
+
+Nuit très chaude….
+Ce matin après le petit déjeuner nous n’avons qu’à traverser la route pour entrer sur le site archéologique de Kabah, très beau avec un le magnifique palais du Codz pop au façades entièrement ecouvert de sculptures. Nous discutons un petit moment avec Jean-Jacques et Brigitte, ils sont un peu en avance sur nous et nous allons les suivre toute la matinée. Nous continuons notre progressiosn en pays Puuc et visitons les sites de Sayil, Klapak et Labna  et son très bel Arc.
+Nous reprnons ensuite la direction de Muna, nous nous arrêtons déjeuner à Ticul et en début d’après-midi nous visitons l’Ancienda Ochil très bien restaurée où l’on travaillé le sisal, fibre tirée de l’agave avec laquelle on fabrique ficelle et cordes. Le site abrite un musée des ateliers et un très beau restaurant où nous nous posons pour boire une Jara de limonade.
+Nous décidons de nous poser près d’un cenote à X’Batum. Dèjà arriver jusqu’au village est un exploit sur une route très étroite où l’on ne peu se croiser que grace à quelques bateaux. Une fois sur place je vais repérér à pied le piste qui mène au cenote pour demain matin mais je ne le sens pas du tout. Du coup nous faisons demi tour et roulons en direction de Celestun et nous nous posons à Uman, sur un parking près des terrains de sport.
+
+
+## 03 mai
+
+Nuit tranquille sur le parking.
+Ce matin on passe faire deux courses au soriana puis nous prenons la route en direction du Golfe du mexique. En route nous faisons le plein d’eau potable.
+Arrivé à celestun nous trouvons rapidement notre camping, nous sommes reçu par un gar super sympa qui nous offre deux noix de coco pour boire l’eau. L’endroit est spartiate mais il est sur la plage à quelques dizaine de mètres de la mer. Super endroit.
+
+
+## 04 et 05 mai
+
+
+Deux journées tranquilles au camping.
+
+## 06 mai
+
+
+Ce matin on fait le plein d ‘eau et les vides et nous quitons Celestun.
+Nous faisons route jusqu’à Merida et nous nous posons sur le parking d’un Soriana d’où nous prenons une colectivo (17 à l’intérieur) pour nous rendre en centre ville. Autour du zocalo on visite le Palais du Gouverneur, la mairie, le centre culturel et la cathédrale. Nous marchons ensuite jusqu’à un quaratier « Paeso Montejo » où se trouve de très belles villas. Au retour on prend un vieux car mercedes, le moteur fait vraiment un bruit bizare, quand il freine on à l’impression de freiner sur le fer sans compter le chauffeur qui roule comme un fou…
+Nous retournous au Soriana où nous faisons les courses.
+
+
+## 07 mai
+
+nuit calme, un peu mois chaude sur le matin.
+Hier à l’office de tourisme on nous a remis de la documentation sur le Yucatant et l’employée nous indique les cenotes à voir, notemment celui de Telchaquillo, donc direction ce petit village. Pour accèder au Cenote il faut aller à l’épicerie pour payer, 10 pesos, et pour qu’il. nous ouvre le portail. La visite à du durer 5 minutes, on descend 10 marche puis un trou d’eau, c’est nul…
+On quite les lieux pour les cenotes de Cuzama qui ont bonne presse. In s’agit en fait de trois cenote que l’on visite les unes après les autres. Pour se faire on emprunte un wagonnet tiré par un cheval qui nous fait parcourir les 20 km aller et retour. C’es typique et tape cul. Le deux premiers cenotes, Chacsinic Che et Bojoncho Jol sont très beaux le troisième, Chan Ucil est plus une grotte avec un peu d’aeu au bout.
+Corinne n’est pas venue et heureusement car l’entrée se fait par de petit boyau et echelle assez raide. L’aeu est vraiment translucide, très fraiche, s’y baigner est un vrai régal.
+Nous décidons ensuite de reprendre la route en direction Izamal et en route on s’arrête au cimetière de Hoctun où les tombes sont toutes peintes.
+rrivé à Izamal on fait un petit tour en ville qui est très belle au couchant, de couleur Ocre les façades ressortent très bien. On visite le couvent de Saint Antoine de Padoux puis nous cherchons un bivouac. Celui d’un hotel ne nous plait pas du tout, finalement on se retrouve au bort d’une place en plein centre ville. Du coup on se paye un bon resto avant de faire retour sur Thor.
+
+
+## 08 et 09 mai
+
+
+
+
+## 10 mai
+
+Ce matin je ne vais toujours pas mieux et comme nous sommes vendredi je décide d’aller voir un médecin. Nous tombons sur un toubib très sympa qui tape plus vite que son ombre sur son traducteur et ressort 10 mn plus tard avec une presciptions d’antibiotiques que nous récupérons à la pharmacue atenante.
+Nous promenons ensuite dans cette ville qui a été construite sur un ancien site Maya, du coup deux pyramides sont encore visibles en plein centre.
+En fin d’après-midi on se décide quand même à bouger et nous faisons route jusqu’à Chichen Itza où nous nous posons pour la nuit non loin de l’entrée du site.
+
+## 11 mai
+
+Nuit très chaudes une nouvelle fois.
+Ce matin je visite Chichen Itza très beau site qui coute 481 pesos avec une très belle pyramide centrale et un immense jeux de pelote. Il faut bien deux heures pour le parcourrir. Quelques bas relief encore bien conservé.
+Nous prenons ensuite la route jusqu’au cenote Ik Kil, très beau complexe, hôtel, restuarent et cenote très sympa, je descend jusqu’en bas mais ne me baigne pas. Nous mangeons au restaurant qui propose qu’un buffet puis restons le parking, il fait trop chaud pour bouger. En fin d’après-midi on prend la route pour Valladolid. En demmarrant je vois un petit papier glissé sous le balais d’essuis glace. Il s’agit d’un petit mot d’une famille de 4 en TDM  « Cathy jeje de zag en zig ». Arrivé en ville on fait le courses, le plein d’eau et on trouve un camping sympa avec de l’electricté donc Clim !!!!
+
+
+## 12 mai
+
+Ce matin on part visiter le site de Ek Balam, très beau site avec une immense pyramide.
+A l’issue, retour au camping, il fait trop chaud….
+
+## 13 mai
+
+Ce matin on quitte le camping le plus tard possible pour profiter au max de la Clim. Avoir de partir on fait in petit complément d’eau. Nous partons que pour quelques kilomètres en direction de deux cenotes Keken et Samula.
+Sur place on décide de prendre également le repas proposé dans un restaurant Maya du site. Je commence mar le cenote « cave » Keken qui est vraiment magnifique avec ces stalagtites qui descendent dan l’eau et ce magnifique trou de lumière, je ne me sens pas encore de plonger dans de l’eau froide et ce malgrè la chaleur, je mabstient donc… De retour je récuoère Corinne et nous allos au restaurant où il fait bien frais. Le repas coute 110 pesos/Pers et se compose d’une soupe, d’une entrée, d’un plat, d’un dessert et d’une boisson. On prens donc une soupe de lime, puis le garçon nous porpose une assiette pour deux avec un échantillon de chaque plat puis nous prenons un plat de porc et en dessert une sorte de riz au lait et du pain perdu. Le tout accompaagné de Jamaica. On c’est réaglé, aussi bien au niveau de la présentation que des saveurs. Après le repas je fait un tour à la cenote « cave » Samula qui est beaucoup moins beau à mon avis.
+On reste ensuite un peu sur le parking dans Thor, on laisse passer le plus gros de chaleur et en fin d’après-midi on part en direction de Coba qui sera notre dernier site que nous visiterons. Une fois sur place on se pose sur le parking du site pour la nuit, la visite se fera demain matin dès l’ouverture… à la fraiche.
+
+## 14 au 17 mai
+
+14 : Ce matin nous sommes à 8 heures devant l’entrée du site.Il ya déjà pal mal de monde mais ciomme le site est immense cela ne pose pas de problème. Il y aurai plus de 600 édifices à Coba, nous n’en faisons qu’une infime partie mais comme les distance sont assez grandes entre chaque groupe, il faut louer un vélo ou prendre comme nous un genre de pous pouss. Du coup on se fait les 10 km de chemin qui traverse la jungle à la fraiche et sans efforts. Nous y voyons de nombreuses steles assez abimées et finissons par la grande pyramide qui monte à 42 mètres de hauteurs. D’en haut nous avons une vue sur toute la péninsule qui est relativement plate. De retour à Thor nous prenons la route direction le camping ou Thor va pouvoir se reposer quelques mois. Il est tenu par un couple d’américain et il est très bien équipé.
+
+15 : ce matin on traine un peu et vers 11h00 on prend la petite chevrolet que le camping propose à la location pour aller faire un tour dans Cancun qui présente en fait que très peu d’intérêt. On comence par un arrêt à The home Depot pour acheter des systèmes deshumidificateurs pour Thor puis nous passons sur la lagune et ces 25 km d’hôtels, nous mangeons au bord de la mer puis faisons retour au camping. De retour je me fais arrêter par un flic pour exécs de vitesse…
+
+16 : préparation de Thor, dernières lessives et repos.
+
+17 : ce matin on vide et on nettoie les rréservoir de thor, on coupe l’electrcit é et le propane, on le mene jusqu’à sa place au sttorage, on dospose les bas antihumidité et à l’abamdonne… Le patrons du camping, nous conduit jusqu’’à l’aéroport où un mong voyage nous attend 
 
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
