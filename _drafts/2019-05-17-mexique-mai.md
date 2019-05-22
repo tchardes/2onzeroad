@@ -21,7 +21,7 @@ itinary: "2019/yucatan.json"
 mapZoom: 6
 ---
 
-Cet article couvre la période du 12 avril au 17 mai 2019 date de notre retour sur la France. Durant cette période nous avons visité le Sud du Mexique et avons traversé les Etats de Oaxaca, Chiapas, Tabasco, Campeche, le Yucatan et une partie de Quintana Roou, nous ferons le reste lors de notre prochain voyage.
+Cet article couvre la période du 12 avril au 17 mai 2019 date de notre retour sur la France. Durant cette période nous avons visité le Sud du Mexique et avons traversé les Etats de Oaxaca, Chiapas, Tabasco, Campeche, le Yucatan et une partie de Quintana Roo, nous ferons le reste lors de notre prochain voyage.
 
 ## 12 avril
 
