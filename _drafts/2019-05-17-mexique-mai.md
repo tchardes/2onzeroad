@@ -25,15 +25,24 @@ Cet article couvre la période du 12 avril au 17 mai 2019 date de notre retour s
 
 ## 12 avril
 
-On quitte Tehuacán et on prend la route pour la région d'Oaxaca, par l’autoroute. On traverse un beau massif montagneux, la végétation change, on voit même de nouveaux cactus. On y arrive en fin d’après-midi tout près de Oaxaca et on se pose non loin du site archéologique de Monte Alban.
+On quitte Tehuacán et on prend la route pour la région d'Oaxaca, par l’autoroute. On traverse un beau massif montagneux, la végétation change, on voit même de nouveaux cactus. On y arrive en fin d’après-midi tout près de la ville de Oaxaca et on se pose non loin du site archéologique de Monte Alban.
 
 ## 13 avril
 
-Ca matin départ pour le site de **Monte Alban** qui est tout proche. On y passe la matinée, le site est vraiment très beau, construit sur un éperon rocheux, il domine toute la ville et la vallée. Au cours de la visite on entend un bruit strident et continu. On se doute bien qu'il s'agit d'un animal dans les arbres mais difficile de le localiser. Finalement nous trouvons les coupables, ce sont d'énormes cigales, ou moins trois fois plus grosses que le nôtres.
+Ca matin départ pour le site de **Monte Alban** qui est tout proche. On y passe la matinée, le site est vraiment très beau, construit sur un éperon rocheux, il domine toute la ville et la vallée.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46906977524/in/datetaken/" title="Monte Alban - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/46906977524_affdf84985_k.jpg" width="2048" height="1152" alt="Monte Alban - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Ensuite nous partons pour le centre ville de ****Oaxaca**. C’est samedi, il y a des marchés de partout, circuler est vraiment compliqué. On décide d’aller directement sur notre bivouac et de la nous prenons un taxi, c’est plus sur.
-Arrivés sur le Zocalo nous promenons dans le centre historique, mangeons la spécialité d’ici un tacos de 30 cm de diamètre cuit au feu de bois, du coup il est très foncé presque noir, garni de plein de bonnes choses. Arrivés sur la place du Templo de Santo Domingo nous assistons à la sortie de l’église d’un mariage traditionnel avec musique, danseurs et toutes les femmes en habits traditionnels, brodés de fleurs, c’est très coloré.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46722784505/in/datetaken/" title="Monte Alban - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/46722784505_8fd6e3df2b_k.jpg" width="2048" height="849" alt="Monte Alban - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47631255331/in/datetaken/" title="Monte Alban - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/47631255331_6637c5bbbb_k.jpg" width="2048" height="1152" alt="Monte Alban - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Au cours de la visite on entend un bruit strident et continu. On se doute bien qu'il s'agit d'un animal dans les arbres mais difficile de le localiser. Finalement nous trouvons les coupables, ce sont d'énormes cigales, ou moins trois fois plus grosses que le nôtres.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33753951618/in/datetaken/" title="Monte Alban - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/33753951618_b030633db5_k.jpg" width="2048" height="1152" alt="Monte Alban - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Ensuite nous partons pour le centre ville de **Oaxaca**. C’est samedi, il y a des marchés de partout, circuler est vraiment compliqué. On décide d’aller directement sur notre bivouac et de la nous prenons un taxi, c’est plus sur.
+Arrivés sur le Zocalo nous nous promenons dans le centre historique, mangeons la spécialité d’ici un tacos de 30 cm de diamètre cuit au feu de bois, du coup il est très foncé presque noir, garni de plein de bonnes choses. Arrivés sur la place du Templo de Santo Domingo nous assistons à la sortie de l’église d’un mariage traditionnel avec musique, danseurs. Toutes les femmes sont en habits traditionnels, brodés de fleurs, c’est très coloré.
 
 
 Nous visitons le centre culturel qui est situé dans l’ancien couvent Santo Domingo. On peut notamment y voir les objets découverts dans la tombe N°7 découverte à Monte Alban, avec chose rarissime ici, des objets en or. Il y a également un crâne en partie recouvert de petits bouts de faïences turquoises. Très belle visite. Nous enchaînons par la maison Cortes qui a été transformé en Musée d’Art contemporain, en deehors de ma facade, c'est très moyen. Nous finissons à la Cathédrale, le Zocalo et les marchés qui sont bondés, beaucoup de restaurants, certains n’hésitent par à faire des BBC ce qui enfume toutes les allées. Les odeurs évoluent en fonction des étals, Bœufs, poulets, insectes, crevettes… bien sur tout ca posé à même l’étal sans aucun système de réfrigération…
