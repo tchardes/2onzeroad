@@ -202,16 +202,38 @@ Nous reprenons notre route qui au final n’est pas trop mal, après une longue 
 
 ## 21 et 22 avril
 
-Ce matin je par de bonne heure sur le site de El chiflon, avant l'arrivée des visiteurs. On longe la rivière avant d’entamer une montée qui pernet d’accéder à plusieurs cascades. Le site est vraiment très beau.
-En fin de matinée nous rejoignons Comitán de Domínguez où nous mangeons une bonne pizza pour changer un peu puis nous faisons le plein et partons en direction du **Parque Natural Ecoturístico Tziscao**. Une fois l’entrée passée nous empruntons plusieurs routes qui nous pemettent d’avoir une vue sur plusieurs lacs, l’environement est très alpin avec une magnifique forêt de résineux. Sur les lacs, les locaux ont frabriqué des radeaux avec des troncs d’arbre et promène les touristes.
+Ce matin je par de bonne heure sur le site de El chiflon, avant l'arrivée des visiteurs. On longe la rivière avant d’entamer une montée qui pernet d’accéder à plusieurs cascades. Le site est vraiment très beau et très bien aménagé.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46766330035/in/datetaken/" title="El Chiflon - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/46766330035_ef5e7f1b24_k.jpg" width="2048" height="1280" alt="El Chiflon - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47629418402/in/datetaken/" title="El Chiflon - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/47629418402_a4d6bb5916_k.jpg" width="2048" height="1152" alt="El Chiflon - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47682286141/in/datetaken/" title="El Chiflon - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/47682286141_9d0a141dac_k.jpg" width="2048" height="1152" alt="El Chiflon - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47616225162/in/datetaken/" title="El Chiflon - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/47616225162_cc3082cc03_k.jpg" width="2048" height="862" alt="El Chiflon - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+En fin de matinée nous rejoignons Comitán de Domínguez où nous mangeons une bonne pizza pour changer un peu puis nous faisons le plein et partons en direction du **Parque Natural Ecoturístico Tziscao**. Une fois l’entrée passée nous empruntons plusieurs routes qui nous pemettent d’avoir une vue sur plusieurs lacs, l’environement est très alpin avec une magnifique forêt de résineux. Sur les lacs, les locaux ont frabriqué des radeaux avec des troncs d’arbre et promènent les touristes.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40702531293/in/datetaken/" title="Tziscao - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/40702531293_7184dc29d7_k.jpg" width="2048" height="910" alt="Tziscao - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47629479722/in/datetaken/" title="Tziscao - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/47629479722_f7a6fd4f31_k.jpg" width="2048" height="1152" alt="Tziscao - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 En fin d’après-midi nous nous posons dans un camping assez sommaire en terme d’infrastructure mais le décor est grandiose, sur une petit péninsule dans une grand lac.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46866319555/in/datetaken/" title="Tziscao - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/46866319555_a79ef5f1af_k.jpg" width="2048" height="828" alt="Tziscao - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Journée calme au camping, on profite du wifi pour traiter photos, vidéos et articles. A midi on mange au restaurant du camping. Nos voisins, une famille de mexicain, vient nous offrir deux tranches de pastéques, ils sont vraiment très sympas…
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32739317607/in/datetaken/" title="Tziscao - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/32739317607_65acdf2021_k.jpg" width="2048" height="1152" alt="Tziscao - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47682369511/in/datetaken/" title="Tziscao - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/47682369511_1089d59a2d_k.jpg" width="2048" height="1152" alt="Tziscao - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 23 avril
 
-Ce matin nous quitons le magnifique lac de Tziscao après avoir fait le plein d'eau non potable. Nous reprenons la route de montagne qui traverse uen forêt tropicale. Nous arrivons jusqu'au village de Jérusalén puis empruntons une piste sur 11 Km qui un tiers de temps est cimenter pour arriver aux cascades Las Nubes. 4 Km avant d’arriver nous tombons sur un barrage, unr grosses corde tirée en travers de la route et on nous demande 100 pesos pour passer. On nous remet un ticket « officiel » de la mairie du coin, certainement pour financer une route ou autre chose… Nous arrivons au camping et passons juste entre deux rochers, Corinne me fait manoauvrer parfaitement.
-On passe l’après-midi entre ballade et baignade dans une eau très fraiche qui fait du bien. Nous sommes bien descendus depuis hiers et les température sont très chaude. A côté de l’endroit ou nous nous sommes stationné se trouve un stand de bouffe. En fin d’après-midi le monsieur vient vers nous avec un verre plein d’une boisson locale, Cacao plus farine de maïs. Ce n’est pas très bon même si on sent bien le gout du chocolat. On les remercie bien et nous commençons à discuter chocolat, du coup il nous donne une ???? de chocolat qui pousse ici. En fin de journée je vais à l’acceuil pour me brancher et me connecter à Internet pour envoyer mes photos.
+Ce matin nous quitons le magnifique lac de Tziscao après avoir fait le plein d'eau non potable. Nous reprenons la route de montagne qui traverse une forêt tropicale. Nous arrivons jusqu'au village de Jérusalén puis empruntons une piste sur 11 Km qui un tiers de temps est cimenter pour arriver aux cascades Las Nubes. 4 Km avant d’arriver nous tombons sur un barrage, une grosse corde tirée en travers de la route et on nous demande 100 pesos pour passer. On nous remet un ticket "officiel" de la mairie du coin, certainement pour financer une route ou autre chose… Nous arrivons au camping et passons juste entre deux rochers, Corinne me fait manoauvrer parfaitement.
+
+
+On passe l’après-midi entre ballade et baignade dans une eau très fraiche qui fait du bien. Nous sommes bien descendus depuis hiers et les température sont très chaude. A côté de l’endroit ou nous nous sommes stationné se trouve un stand tenu par des indiens. En fin d’après-midi le monsieur vient vers nous avec un verre plein d’une boisson locale, Cacao plus farine de maïs. Ce n’est pas très bon même si on sent bien le goût du chocolat. On les remercie bien et nous commençons à discuter chocolat, du coup il nous donne une cabosse de chocolat qui pousse dans la région. En fin de journée je vais à l’acceuil pour me brancher et me connecter à Internet pour envoyer mes photos.
 
 ## 24 avril
 
