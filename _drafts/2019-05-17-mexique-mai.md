@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: " Region Sud du Mexique"
-preview: "Cet article couvre la période du 12 avril au…"
-parent-id: 
+preview: "Cet article couvre la période du 12 avril au 17 mai 2019 date de notre retour sur la France. Durant cette période nous avons visité le Sud du Mexique…"
+parent-id:
 
 date: 2019-05-16 12:00:00
 from-date: 2019-04-12 13:00:00
@@ -11,7 +11,24 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
-pois: [monte-alban#13-avril, oaxaca#13-avril, tlacochahuaya#14-avril, Tlacolula#014-avril, milta#14-avril, hierve-el-agua#14-avril, tuxla-gutierrez#16-avril, chiapa-de-corzo#16-avril, san-cristobal-casas#17-avril, tonina#19-avril, el-chiflon#20-avril, tziscao#21-et-22-avril, e#17-avril, e#17-avril, e#17-avril,]
+pois:
+  [
+    monte-alban#13-avril,
+    oaxaca#13-avril,
+    tlacochahuaya#14-avril,
+    Tlacolula#014-avril,
+    milta#14-avril,
+    hierve-el-agua#14-avril,
+    tuxla-gutierrez#16-avril,
+    chiapa-de-corzo#16-avril,
+    san-cristobal-casas#17-avril,
+    tonina#19-avril,
+    el-chiflon#20-avril,
+    tziscao#21-et-22-avril,
+    e#17-avril,
+    e#17-avril,
+    e#17-avril,
+  ]
 country: Mexique
 states: ["Oaxaca", "Chiapas", "Tabasco", "Campeche", "Yucatan", "Quintana-Roo"]
 category: "roadmap"
@@ -44,56 +61,104 @@ Au cours de la visite on entend un bruit strident et continu. On se doute bien q
 Ensuite nous partons pour le centre ville de **Oaxaca**. C’est samedi, il y a des marchés de partout, circuler est vraiment compliqué. On décide d’aller directement sur notre bivouac et de là nous prenons un taxi, c’est plus sur.
 Arrivés sur le Zocalo nous nous promenons dans le centre historique, mangeons la spécialité d’ici un tacos de 30 cm de diamètre cuit au feu de bois, avec une farine très foncée presque noire, garnis de plein de bonnes choses. Arrivés sur la place du Templo de Santo Domingo nous assistons à la sortie de l’église d’un mariage traditionnel avec musique, danseurs. Toutes les femmes sont en habits traditionnels, brodés de fleurs, c’est très coloré.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40665520523/in/datetaken/" title="Oaxaca - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/40665520523_e04f3cce8f_k.jpg" width="2048" height="1365" alt="Oaxaca - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous visitons le centre culturel qui est situé dans l’ancien couvent Santo Domingo. On peut notamment y voir les objets découverts dans la tombe N°7 découverte à Monte Alban, avec chose rarissime ici, des objets en or. Il y a également un crâne en partie recouvert de petits bouts de faïences turquoises. Très belle visite. 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47579127852/in/datetaken/" title="Oaxaca - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/47579127852_8e4f35a8e5_k.jpg" width="2048" height="1365" alt="Oaxaca - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46907682394/in/datetaken/" title="Oaxaca - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/46907682394_8cac60d71c_k.jpg" width="2048" height="1152" alt="Oaxaca - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous enchaînons par la maison Cortes qui a été transformé en Musée d’Art contemporain, en dehors de la facade, c'est très moyen. Nous finissons à la Cathédrale, le Zocalo et le marché couvert qui est bondé, beaucoup de restaurants, certains n’hésitant par à faire des BBC ce qui enfume toutes les allées. Les odeurs évoluent en fonction des étals, Bœufs, poulets, insectes, crevettes… bien sur tout ca posé à même l’étal sans aucun système de réfrigération…
-En fin de journée on reprend un taxi, faisons quelques courses au Soriana et nous nous posons dans Thor.. épuisés, il faut dire qu’il fait très chaud, plus de 30°, vivement cette nuit…
+Nous visitons le centre culturel qui est situé dans l’ancien couvent Santo Domingo. On peut notamment y voir les objets découverts dans la tombe N°7 découverte à Monte Alban, avec chose rarissime ici, des objets en or. Il y a également un crâne en partie recouvert de petits bouts de faïences turquoises. Très belle visite.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47579094222/in/datetaken/" title="Oaxaca - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/47579094222_b84583c242_k.jpg" width="2048" height="1365" alt="Oaxaca - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46907983374/in/datetaken/" title="Oaxaca - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/46907983374_047268f3c4_k.jpg" width="2048" height="1152" alt="Oaxaca - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40665805313/in/datetaken/" title="Oaxaca - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/40665805313_4663a227bd_k.jpg" width="2048" height="1152" alt="Oaxaca - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous enchaînons par la maison Cortes qui a été transformé en Musée d’Art contemporain, en dehors de la facade, c'est très moyen. Nous finissons à la Cathédrale, le Zocalo et le marché couvert qui est bondé, beaucoup de restaurants, certains n’hésitant par à faire des BBC ce qui enfume toutes les allées. Les odeurs évoluent en fonction des étals, Bœufs, poulets, insectes, crevettes… bien sur tout ca posé à même l’étal sans aucun système de réfrigération… En fin de journée on reprend un taxi, faisons quelques courses au Soriana et nous nous posons dans Thor.. épuisés, il faut dire qu’il fait très chaud, plus de 30°, vivement cette nuit…
 
 ## 14 avril
 
-Ce matin on quitte Oaxaca par la route du Mezcal pour aller visiter plusieurs sites. On commence par le Couvent de San Jeronimo à **Tlacochahuaya**. Avec le peu d’indication du guide on a un peu de mal à le trouver, cela nous permet de trouver de l’eau potable et de faire le plein au passage, on charge notre garafon. Une fois sur place on découvre une église dominicaine assez sobre de l’extérieur, par contre l’intérieur est très beau, très chargé. On y trouve des fresques polychromes, les murs et les plafonds sont recouverts de motifs floraux et d’anges. La chaire est très bien décorées ainsi que son orgue. Alors que nous sommes là depuis un moment, un petit bonhomme arrive dont on ne sait où et il me demande 20 pesos... pour un couvent je veux bien mais je refuse de payais pour entrer dans une église qui est toujours sacralisée. Je l’envois paître et on quitte les lieux.
+Ce matin on quitte Oaxaca par la route du Mezcal pour aller visiter plusieurs sites. On commence par le Couvent de San Jeronimo à **Tlacochahuaya**. Avec le peu d’indication du guide on a un peu de mal à le trouver, cela nous permet de trouver de l’eau potable et de faire le plein au passage, on charge notre garafon. Une fois sur place on découvre une église dominicaine assez sobre de l’extérieur, par contre l’intérieur est très beau, très chargé.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47579369362/in/datetaken/" title="Tlacochahuaya - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/47579369362_8ed4df976a_k.jpg" width="2048" height="1365" alt="Tlacochahuaya - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On y trouve des fresques polychromes, les murs et les plafonds sont recouverts de motifs floraux et d’anges. La chaire est très bien décorées ainsi que son orgue. Alors que nous sommes là depuis un moment, un petit bonhomme arrive dont on ne sait où et il me demande 20 pesos... pour un couvent je veux bien mais je refuse de payais pour entrer dans une église qui est toujours sacralisée. Je l’envois paître et on quitte les lieux.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47632183311/in/datetaken/" title="Tlacochahuaya - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/47632183311_2ef3ad1a5a_k.jpg" width="2048" height="1152" alt="Tlacochahuaya - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47632179971/in/datetaken/" title="Tlacochahuaya - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/47632179971_a160a19d3c_k.jpg" width="2048" height="1365" alt="Tlacochahuaya - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On reprend la route jusqu’à **Tlacolula**. En voyant la route qui s’enfonce dans le village on décide de se garer à l’extérieur et bien nous en a pris. C’est fête aujourd’hui, le centre ville est bondé, marchés, foires aux bestiaux, messe des rameaux. Nous arrivons quand même à nous frayer un chemin jusqu’à l’église de la Vierge de l’Assonpcion qui est pleine. Les gens font la queue dehors avec leur rameaux fait avec des feuilles de palme, dont certains très sophistiqués, pour les faire bénir.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47579757042/in/datetaken/" title="Tlacolula de Matamoros - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/47579757042_5045c89479_k.jpg" width="2048" height="1152" alt="Tlacolula de Matamoros - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+On arrive à rentrer dans la petite chapelle qui se trouve sur le côté de l'église, la "Capilla del senor de Tlacolula" ou chapelle des martyrs. Effectivement, la chapelle de style baroque, est très décorées avec des statues des moines dominicains, martyrs, crusifiés, poignardés, avec une hache plantée dans la tête voire même décapités… spécial quand même…
 
-On arrive à rentrer dans la petite chapelle qui se trouve sur le côté de l'église, la "Capilla del senor de Tlacolula" ou chapelle des martyrs. Effectivement, la chapelle de style baroque, est très décorées avec des statues des moines dominicains, martyrs, crusifiés, poignardés, avec une hache plantée dans la tête voire même décapités… spécial quand même… Sortie de là, on déhambule dans le marché immense passant des étals de boucherie, de pain, de fruits et légumes, d’insectes grillés puis des "restaurants". On décide de manger là mais dans le coin des barbecues l’air est irrespirable tant c’est enfumé. On s’arrête finalement dans une autre section où les gens mangent une sorte de soupe avec des tortillas. On décide de mangé là, quoi ? on verra bien. On choisi sa boisson mais le plat est unique. La cuisinière nous prépare une sorte de soupe très rouges, heureusement non piquante, avec dedans des tripes de la langue et des morceau gélatineux. Sur la table des condiments, piments, coriandre, oignons… et des tortillas à la farine de maïs. Au final c’est excellent. Je discute un bon moment avec mon voisin de tablée qui parle bien anglais et même quelques mots de français.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33755274128/in/datetaken/" title="Tlacolula de Matamoros - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/33755274128_d44d8635b5_k.jpg" width="2048" height="1365" alt="Tlacolula de Matamoros - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Sortie de là, on déhambule dans le marché immense passant des étals de boucherie, de pain, de fruits et légumes, d’insectes grillés puis des "restaurants". On décide de manger là mais dans le coin des barbecues l’air est irrespirable tant c’est enfumé.
 
-En début d’après-midi on reprend la route pour **Mitla** et son site archéologique. Le site est très petit est présente deux places entourées d’ancien palais dont la particularité sont des frises en pierres aux motifs "grecs". Ce n’est pas extraordinaire par contre les motifs sont très beaux est variés. Au final la visite est assez rapide et nous décidons d’aller jusqu’à **Hierve El Agua** pour la nuit.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40671922993/in/datetaken/" title="Tlacolula de Matamoros - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/40671922993_fbc241d51f_k.jpg" width="2048" height="1280" alt="Tlacolula de Matamoros - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33761021858/in/datetaken/" title="Tlacolula de Matamoros - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/33761021858_644f7743b9_k.jpg" width="2048" height="1280" alt="Tlacolula de Matamoros - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On s’arrête finalement dans une autre section où les gens mangent une sorte de soupe avec des tortillas. On décide de mangé là, quoi ? on verra bien. On choisi sa boisson mais le plat est unique. La cuisinière nous prépare une sorte de soupe très rouges, heureusement non piquante, avec dedans des tripes de la langue et des morceau gélatineux. Sur la table des condiments, piments, coriandre, oignons… et des tortillas à la farine de maïs. Au final c’est excellent. Je discute un bon moment avec mon voisin de tablée qui parle bien anglais et même quelques mots de français.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47585687272/in/datetaken/" title="Tlacolula de Matamoros - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/47585687272_53234eb729_k.jpg" width="2048" height="1536" alt="Tlacolula de Matamoros - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+En début d’après-midi on reprend la route pour **Mitla** et son site archéologique. Le site est très petit est présente deux places entourées d’ancien palais dont la particularité sont des frises en pierres aux motifs "grecs". Ce n’est pas extraordinaire par contre les motifs sont très beaux est variés.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46908304444/in/datetaken/" title="Mitla - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/46908304444_5bfa6e16c7_k.jpg" width="2048" height="1152" alt="Mitla - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33755267848/in/datetaken/" title="Mitla - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/33755267848_4a5e9906da_k.jpg" width="2048" height="1152" alt="Mitla - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Au final la visite est assez rapide et nous décidons d’aller jusqu’à **Hierve El Agua** pour la nuit.
 
 Avant de quitter Mitla nous prenons de l’essence et faisons le plein d’eau, non potable cette fois-ci dans une station Pemex. On s’interroge car nous n’avons plus beaucoup de numéraire car nous avons du payer deux fois avec car la CB ne passait pas. Bef on fait le calcul, ca devrait aller pour aujourd’hui. Nous voilà parti pour un lieu assez isolé. Première déconvenue, la route est en fait une autopista, nous payons le péage. Arrivé à quelques kilomètre du site dans le village de San Lorenzo Albarradas, des villageois on improvisés un péage avec une corde en travers de la route. Il faut payer 10 pesos par personne pour financer les travaux de la route, contre un reçu. C’est vrai que les derniers 4 km qui nous séparent du site sont toujours en piste. On arrive enfin à Hierve El Agua, le prix à augmenté par rapport au guide (comme toujours) ainsi que pour y passer la nuit. Bref en ayant mis de côté le prix du péage pour le retour, nous n’avons pas assez d’argent en numéraire. On parlemente un long moment et finalement on paye le complément avec deux bières du frigo… On fait un tour rapide du site, il y a vraiment trop de monde, on verra ça demain matin…
-
 
 ## 15 avril
 
 Ce matin c’est le réveil qui nous sort des bras de morphée, une fois n’est pas coutume. On veut profiter du fait d’être dans le site pour pouvoir en bénéficier avant l’arrivée des touriste à 08h00. Le site est vraiment très beau, perché au sommet d'une montage où des petits puits font ressurgir de l'eau bouillonnante mais froide. Très chargé en calcique ces sources ont formés au fil des décennies bassins et cascades dont certaines pétrifiées. Entouré de montagnes, le lieux est très photogénique.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33755256618/in/datetaken/" title="Hierve el Agua - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/33755256618_9bdac11bb0_k.jpg" width="2048" height="1152" alt="Hierve el Agua - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Vers 10h00 on quitte les lieux, on passe à Mitla retirer de "l'effectivo" et nous prenons la route en direction dde la Région du Chiapas. Ce sont plus de 200 kilomètre de montagne, très belles. On passe à Santiago Matatlan qui s’est proclamée Capitale Mondiale du Mezcal. cette boisson est également tirée à partir de plusieurs sortes d'agave, tandis que la Tequila n'utilise que l'agave bleu. C'est dans le Mezcal qu'il était habituel de voir au fond de la bouteille un insecte mort. D'ailleurs l’Oaxaca est vraiment le pays du Mezcal on voit de très nombreux champs d’Agaves, plus que dans la région de Tequila. Il y a de très nombreux petit producteurs qui meule l’agave cuite encore avec de meule en pierre actionnée par un âne ou cheval.  
-Au début nous avions envisagé de nous poser pour la nuit au bord du Pacifique du côté de Salina Cruz, mais finalement on poursuit notre route en direction de Tuxtla Gutiérrez et on fait halte en route dans un Hôtel qui accueille les RV.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46716962355/in/datetaken/" title="Hierve el Agua - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/46716962355_3b8c3cb147_k.jpg" width="2048" height="1152" alt="Hierve el Agua - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32690083387/in/datetaken/" title="Hierve el Agua - Oaxaca - [Mexique]"><img src="https://live.staticflickr.com/65535/32690083387_dd53f923b5_k.jpg" width="2048" height="1152" alt="Hierve el Agua - Oaxaca - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Vers 10h00 on quitte les lieux, on passe à Mitla retirer de "l'effectivo" et nous prenons la route en direction de la Région du Chiapas. Ce sont plus de 200 kilomètre de montagne, très belles. On passe à Santiago Matatlan qui s’est proclamée capitale mondiale du Mezcal. Cette boisson est également distillée à partir de plusieurs sortes d'agave, tandis que la Tequila n'utilise que l'agave bleu. C'est dans le Mezcal qu'il était habituel de voir au fond de la bouteille un insecte mort. L’Oaxaca est vraiment le pays du Mezcal on voit de très nombreux champs d’Agaves, plus que dans la région de Tequila. Il y a de très nombreux petit producteurs qui meule l’agave cuite encore avec des meules en pierre, actionnées par un âne ou un cheval. Au début nous avions envisagé de nous poser pour la nuit au bord du Pacifique du côté de Salina Cruz, mais finalement on poursuit notre route en direction de Tuxtla Gutiérrez et on fait halte en route dans un Hôtel qui accueille les RV.
 
 ## 16 avril
 
 Ce matin on traîne un peu au bivouac et nous reprenons la route en fin de matinée.
-Nous attaquons rapidement la montagne avant d’entrer dans la région du Chiapas sur un plateau qui culmine vers 600 mètres, il fait déjà un peu moins chaud. On traverse la capitale **Tuxla Gutierrez** rapidement car elle ne présente que peu d’intérêt si ce n’est sa cathédrale San Marcos. Nous y passons devant sans pourvoir nous y arrêter tant le flux est dense. Elle est de taille modeste, toute blanche mais à la particularité de posséder un carillon 48 cloches réparties sur son clocher et la façade. Toutes les heures elle sonne et de statues représentant les apôtres « défilent »… Nous poursuivons notre route jusqu’à **Chiapa de Corzo**. Nous faisons un petit tour dans le centre et au bort de la rivière qui traverse la ville. Il fait très chaud, 39°, l’air est très brumeux. Nous bivouaquons au bord du zocalo en plain centre ville.
+Nous attaquons rapidement la montagne avant d’entrer dans la région du Chiapas sur un plateau qui culmine à 600 mètres, il fait déjà un peu moins chaud. On traverse la capitale **Tuxla Gutierrez** rapidement car elle ne présente que peu d’intérêt si ce n’est la cathédrale San Marcos. Nous y passons devant sans pourvoir nous y arrêter tant le flux est dense. Elle est de taille modeste, toute blanche mais à la particularité de posséder un carillon de 48 cloches, réparties sur son clocher et sa façade. Toutes les heures elle sonne et de statues représentant les apôtres "défilent"… Nous poursuivons notre route jusqu’à **Chiapa de Corzo** capitale du xylophone. Nous faisons un petit tour dans le centre et au bord de la rivière qui traverse la ville. Il fait très chaud, 39°, l’air est très brumeux. Nous bivouaquons au bord du zocalo en plein centre ville.
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46938679294/in/datetaken/" title="Chiapa de Corzo - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/46938679294_998e59ad7b_k.jpg" width="2048" height="1152" alt="Chiapa de Corzo - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47662792601/in/datetaken/" title="Chiapa de Corzo - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/47662792601_bf1ee9abc0_k.jpg" width="2048" height="1152" alt="Chiapa de Corzo - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 17 avril
 
+Nuit chaude et bruyante. Ce matin on prend notre temps car nous souhaiterions faire un tour de bateau pour admirer un canyon, Cañon del Sumidero avec ses falaises hautes de 1000 mètres et la meilleure heure pour y aller est entre 11 et 14 heures pour avoir le soleil au zénith. Mais comme hier, nous sommes enveloppé d’une brume de chaleur, la visibilité est vraiment très mauvaise. En fin de matinée aucun changement et la météo annonce de la pluie pour cet après-midi.
 
-Nuit chaude et bruyante. Ce matin on prend notre temps car nous souhaiterions faire un tour de bateau pour admirer le canyon avec ses falaises hautes de 1000 mètres et la meilleure heure pour y aller est entre 11 et 14 heures pour avoir le soleil au zénith. Mais comme hier, nous sommes enveloppé d’une brume de chaleur, la visibilité est vraiment très mauvaise. En fin de matinée aucun changement et la météo annonce de la pluie pour cet après-midi. On décide donc de quitter la ville et de faire route sur **San Cristóbal de Las Casas**. Une fois arrivée on cherche une laverie atomatique mais on ne trouve qu’une laverie où il faut laisser son linge et le récupérer lus tard. Corinne est un peu contrarié mais on n’a pas le choix. On doit revenir à 20 heures pour le récupérer. Nous partons ensuite en ville et trouvons un grand parking où laisser Thor. Nous prenons ensuite un Taxi qui nous conduit au centre. On mange dans un petit resto au bord d’une place où le serveur se fait un honneur de nous sortir tous les mots français qu’il connaît. Corinne prend du beauf panné avec riz, salade et purée de haricot rouge et moi poulet et steack avec le même accompgnement plus deux boissons … 7$. Nous allons à la Bibliothèque pour passer la journée qui s’annonce pluvieuse. Comme d’habitude nous somme très bien accueilli. On s’installe et le Wifi n’est pas trop mauvais. Vers 19h30 on quitte le centre et nous allons récupérer notre linge, bien propre, bien rangé dans des petit sac. Nous finissons sur le parkin d’un Chedraoui pour passer la nuit.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47662774101/in/datetaken/" title="Chiapa de Corzo - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/47662774101_1c5eeda5c7_k.jpg" width="2048" height="1152" alt="Chiapa de Corzo - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+On décide donc de quitter la ville et de faire route sur **San Cristóbal de Las Casas**. Une fois arrivée on cherche une laverie automatique mais on ne trouve qu’une laverie où il faut laisser son linge et le récupérer plus tard. Corinne est un peu contrarié mais nous n'avons pas le choix. On doit revenir à 20 heures pour le récupérer. Nous partons ensuite en ville et trouvons un grand parking où laisser Thor. Nous prenons ensuite un taxi qui nous conduit au centre. On mange dans un petit resto au bord d’une place où le serveur se fait un honneur de nous sortir tous les mots français qu’il connaît. Corinne prend du beauf panné avec riz, salade et purée de haricot rouge et moi poulet et steack avec le même accompagnement plus deux boissons… le tout 7€. Nous allons à la bibliothèque pour passer la journée qui s’annonce pluvieuse. Comme d’habitude nous sommes très bien accueilli. On s’installe et le Wifi n’est pas trop mauvais. Vers 19h30 on quitte le centre et nous allons récupérer notre linge, bien propre, bien rangé dans des petit sac. Nous finissons sur le parking d’un Chedraoui pour passer la nuit.
 
 ## 18 avril
 
+Nuit calme est fraîche. Ce matin nous prenons un colectivo pour nous rendre en centre ville. Depuis le Zocalo nous faisons un grand tour dans le centre historique et arpentons ces rues piétonnes qui grouillent de monde, quelques touristes, de nombreux marchands ambulants de tous âges.
 
-Nuit calme est fraîche.
-Ce matin nous prenons un colectivo pour nous rendre en centre ville. Depuis le Zocalo nous faisons un grand tour dans le centre historique et arpentons ces rues piétonnes qui grouillent de monde, quelques touristes, de nombreux marchands ambulants de tous âges. Souvent ce sont des indiennes qui sont toutes très petites et habillées en costume traditionnel coloré avec un chale bleu foncé. Il doit y avoir plusieurs "clans", certaines portent des jupes noire à poli long (peau de chèvre ?) juste enroulées autour de la taille et maintenue par une large ceinture en étoffe, c’est vraiment surprenant. On visite plusieurs églises et une cathédrale, le marché artisanal où nous achetons quelques minéraux. Il n’y a rien de spécial à voir dans cette ville mais la ville en elle même est très agréable, colorée et surtout très propre et animée. Gros coup de coeur pour Corinne.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/33785384518/in/datetaken/" title="San Cristóbal de Las Casas - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/33785384518_683a09ba71_k.jpg" width="2048" height="1152" alt="San Cristóbal de Las Casas - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Souvent ce sont des indiennes qui sont toutes très petites et habillées en costume traditionnel coloré avec un chale bleu foncé. Il doit y avoir plusieurs "clans", certaines portent des jupes noire à poil long (peau de chèvre ?) juste enroulées autour de la taille et maintenue par une large ceinture en étoffe, c’est vraiment surprenant.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46944925344/in/datetaken/" title="San Cristóbal de Las Casas - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/46944925344_4054a58386_k.jpg" width="2048" height="1152" alt="San Cristóbal de Las Casas - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On visite plusieurs églises et une cathédrale, le marché artisanal où nous achetons quelques minéraux, npous sommes dans la capitale de l'ambre. Il n’y a rien de spécial à voir dans cette ville mais elle est très agréable, colorée et surtout très propre et animée. Gros coup de coeur pour Corinne.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46938659424/in/datetaken/" title="San Cristóbal de Las Casas - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/46938659424_1a105cb4b4_k.jpg" width="2048" height="1152" alt="San Cristóbal de Las Casas - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 19 avril
 
@@ -114,13 +179,12 @@ On longe la rivière avant d’entamer une montée qui pernet d’accéder à pl
 En fin de matinée nous rejoignons Comitán de Domínguez où nous mangeons une bonne pizza pour changer un peu puis nous faisons le plein et partons en direction du **Parque Natural Ecoturístico Tziscao**. Une fois l’entrée passée nous empruntons plusieurs routes qui nous pemettent d’avoir une vue sur plusieurs lacs, l’environement est très alpin avec une magnifique forêt de résineux. Sur les lacs, les locaux ont frabriqué des radeaux avec des troncs d’arbre et promène les touristes.
 En fin d’après-midi nous nous posons dans un camping assez sommaire en terme d’infrastructure mais le décor est grandiose, sur une petit péninsule dans une grand lac.
 
-
 Journée calme au camping, on profite du wifi pour traiter photos, vidéos et articles. A midi on mange au restaurant du camping. Nos voisins, une famille de mexicain, vient nous offrir deux tranches de pastéques, ils sont vraiment très sympas…
 
 ## 23 avril
 
 Ce matin nous quitons le magnifique lac de Tziscao après avoir fait le plein d'eau non potable. Nous reprenons la route de montagne qui traverse uen forêt tropicale. Nous arrivons jusqu'au village de Jérusalén puis empruntons une piste sur 11 Km qui un tiers de temps est cimenter pour arriver aux cascades Las Nubes. 4 Km avant d’arriver nous tombons sur un barrage, unr grosses corde tirée en travers de la route et on nous demande 100 pesos pour passer. On nous remet un ticket « officiel » de la mairie du coin, certainement pour financer une route ou autre chose… Nous arrivons au camping et passons juste entre deux rochers, Corinne me fait manoauvrer parfaitement.
-On passe l’après-midi entre ballade et baignade dans une eau très fraiche qui fait du bien. Nous sommes bien descendus depuis hiers et les température sont très chaude. A côté de l’endroit ou nous nous sommes stationné se trouve un stand de bouffe. En fin d’après-midi le monsieur vient vers nous avec un verre plein d’une boisson locale, Cacao plus farine de maïs. Ce n’est pas très bon même si on sent bien le gout du chocolat. On les remercie bien et nous commençons à discuter chocolat, du coup il nous donne une ???? de chocolat qui pousse ici. En fin de journée je vais à l’acceuil pour me brancher et me connecter à Internet pour envoyer mes photos. 
+On passe l’après-midi entre ballade et baignade dans une eau très fraiche qui fait du bien. Nous sommes bien descendus depuis hiers et les température sont très chaude. A côté de l’endroit ou nous nous sommes stationné se trouve un stand de bouffe. En fin d’après-midi le monsieur vient vers nous avec un verre plein d’une boisson locale, Cacao plus farine de maïs. Ce n’est pas très bon même si on sent bien le gout du chocolat. On les remercie bien et nous commençons à discuter chocolat, du coup il nous donne une ???? de chocolat qui pousse ici. En fin de journée je vais à l’acceuil pour me brancher et me connecter à Internet pour envoyer mes photos.
 
 ## 24 avril
 
@@ -131,8 +195,6 @@ Un fois Thor garé on fait un tour le long de la rivière où toutes les barques
 En fin d’après-midi, on entend des singes hurleurs crier dans la forêt. Difficile de dire où ils sont exactement tant leur cris et fort et porte loin.
 Il fait très chaud et très lourd, il fait 40° dans Thor, la nuit va être longue.
 
-
-
 ## 25 avril
 
 Nuit très chaude dans Thor, On a mis le reveil de bonne heure pour être à 7h00 au guichet. Les singes hurleurs son également debout de bonne heure et le font savoir. Nous retrouvons les Toulousains qui ont dormi à l’hôtel. Une fois les billets pris pour l’entrée du site de Yaxchilan, nous nous mettons en quête d’un bateau, une « lancha », pour nous y conduire. Le site n’est accésible que par le Rio Usumacinta qui est la frontière naturelle entre le Mexique et le Guatemala. Sur le chemin de nombreux bateleurs nous annonce les prix, mais nous preférons aller j’usqu’à l’embarcadère. Nous y retrouvons une famille de Hollandais, ils sont 6 et nous 4 le bateau est complet, le pilote nous fait un bon prix.
@@ -140,17 +202,13 @@ Après 45 minutes de navigation sur cette rivière qui coupe en deux la jungle, 
 Nous quittons Julie et Jean-David et reprenons la route en direction du site de Bonampak. La aussi on doit s’acquiter de la somme de 60 pesos pour la ville ce qui me gonfle un peu. Après quelques kilomètres, on doit laisser Thor et prendre un Taxi qui nous conduira à l’entrée du site. Le gars nous demande 400 pesos, on refuse et on fait demi tour. Faut pas exagèrer.
 On reprend la route et filons en direction de Agua Azul. La route est toujours aussi rock’n’roll. On arrive en fin d’après-midi et on se pose sur le parking pour la nuit. On fait un petit tour du site qui est magnifique et blindé de personnes.
 
-
-
-
 ## 26 au 28 avril
 
 Ce matin le temps est brumeux et il va le rester toute la journée. Nous refaisons un tour aux cascades pour faire des photos pose longue puis nous quittons, la zone pour palenque.
 Je suis en réserve et Corinne se voit déjà en train de pousser Thor en pleine montagne… Heureusement de nombreuse personnes vendent de l’essence en bidons car il n’y a aucune station sur cette route. On achéte 10 litres d’essence pour arriver en ville. Une fois à Palenque nous faisons le plein du frigo et partons pour le site archéologique qui se trouve lui même dans un parc. Donc on paye l’entrée du park 72 $M puis une fois au parc au paye 150 $M pour le site.
 On commence poar le musée qui est petit mais qui présente de très belles pièces en terre cuite, quelque bas relief et la pièce maitresse la tombeau du roi …..
 On entre par la première entrée du site et après de nombreuses marche on arrive au. niveau du « Palacio » est des principale pyramides. L’architecture des site mayas est vraiment différente de celle rencontrées auparavent. Nous passons plus de 2 heures à arpenter le site qui se trouve en pleine jungle. Nous sortons par l’entrée principale et décident de marcher jusqu’à Thor par la route qui treverse cette belle forêt. Nos efforts sont accompagnés des cris des singes hurleurs et nous avons la chance de voir un magnifique Arras rouge et bleu.
-On quitte le site mais pas le parc et trouvons un camping très rudimentaire pour la nuit. 
-
+On quitte le site mais pas le parc et trouvons un camping très rudimentaire pour la nuit.
 
 Deux journée de repos au camping, avec resto le soir sur place. Ici dans les restaurants les assiettes n’arrivent pas en même temps et dès que vous l’avez fini on vient vous l’enlever, chaque pays à ces propores pratiques.
 Samedi soir une tribue est arrivée en début de soirée, très bruyante jusqu’à 3 heures du mat et ils sont repartis ce matin vers 8 heures, la nuit a été courte sans compter la chaleur étouffante…
@@ -180,14 +238,12 @@ A mon retour un CC français est garé à côté de Thor, il s’agit d’un cou
 Nous quitons le site pour nous rendre sur un autre Kabah où nous allons nous poser. Nous le visiterons demain matin, à la fraiche…
 Un heure après notre coupe de l’Eure arrive également sur le même bivouac et nous discutons un long moment ensembe.
 
-
 ## 02 mai
 
 Nuit très chaude….
-Ce matin après le petit déjeuner nous n’avons qu’à traverser la route pour entrer sur le site archéologique de Kabah, très beau avec un le magnifique palais du Codz pop au façades entièrement ecouvert de sculptures. Nous discutons un petit moment avec Jean-Jacques et Brigitte, ils sont un peu en avance sur nous et nous allons les suivre toute la matinée. Nous continuons notre progressiosn en pays Puuc et visitons les sites de Sayil, Klapak et Labna  et son très bel Arc.
+Ce matin après le petit déjeuner nous n’avons qu’à traverser la route pour entrer sur le site archéologique de Kabah, très beau avec un le magnifique palais du Codz pop au façades entièrement ecouvert de sculptures. Nous discutons un petit moment avec Jean-Jacques et Brigitte, ils sont un peu en avance sur nous et nous allons les suivre toute la matinée. Nous continuons notre progressiosn en pays Puuc et visitons les sites de Sayil, Klapak et Labna et son très bel Arc.
 Nous reprnons ensuite la direction de Muna, nous nous arrêtons déjeuner à Ticul et en début d’après-midi nous visitons l’Ancienda Ochil très bien restaurée où l’on travaillé le sisal, fibre tirée de l’agave avec laquelle on fabrique ficelle et cordes. Le site abrite un musée des ateliers et un très beau restaurant où nous nous posons pour boire une Jara de limonade.
 Nous décidons de nous poser près d’un cenote à X’Batum. Dèjà arriver jusqu’au village est un exploit sur une route très étroite où l’on ne peu se croiser que grace à quelques bateaux. Une fois sur place je vais repérér à pied le piste qui mène au cenote pour demain matin mais je ne le sens pas du tout. Du coup nous faisons demi tour et roulons en direction de Celestun et nous nous posons à Uman, sur un parking près des terrains de sport.
-
 
 ## 03 mai
 
@@ -195,19 +251,15 @@ Nuit tranquille sur le parking.
 Ce matin on passe faire deux courses au soriana puis nous prenons la route en direction du Golfe du mexique. En route nous faisons le plein d’eau potable.
 Arrivé à celestun nous trouvons rapidement notre camping, nous sommes reçu par un gar super sympa qui nous offre deux noix de coco pour boire l’eau. L’endroit est spartiate mais il est sur la plage à quelques dizaine de mètres de la mer. Super endroit.
 
-
 ## 04 et 05 mai
-
 
 Deux journées tranquilles au camping.
 
 ## 06 mai
 
-
 Ce matin on fait le plein d ‘eau et les vides et nous quitons Celestun.
 Nous faisons route jusqu’à Merida et nous nous posons sur le parking d’un Soriana d’où nous prenons une colectivo (17 à l’intérieur) pour nous rendre en centre ville. Autour du zocalo on visite le Palais du Gouverneur, la mairie, le centre culturel et la cathédrale. Nous marchons ensuite jusqu’à un quaratier « Paeso Montejo » où se trouve de très belles villas. Au retour on prend un vieux car mercedes, le moteur fait vraiment un bruit bizare, quand il freine on à l’impression de freiner sur le fer sans compter le chauffeur qui roule comme un fou…
 Nous retournous au Soriana où nous faisons les courses.
-
 
 ## 07 mai
 
@@ -218,11 +270,7 @@ Corinne n’est pas venue et heureusement car l’entrée se fait par de petit b
 Nous décidons ensuite de reprendre la route en direction Izamal et en route on s’arrête au cimetière de Hoctun où les tombes sont toutes peintes.
 rrivé à Izamal on fait un petit tour en ville qui est très belle au couchant, de couleur Ocre les façades ressortent très bien. On visite le couvent de Saint Antoine de Padoux puis nous cherchons un bivouac. Celui d’un hotel ne nous plait pas du tout, finalement on se retrouve au bort d’une place en plein centre ville. Du coup on se paye un bon resto avant de faire retour sur Thor.
 
-
 ## 08 et 09 mai
-
-
-
 
 ## 10 mai
 
@@ -234,8 +282,7 @@ En fin d’après-midi on se décide quand même à bouger et nous faisons route
 
 Nuit très chaudes une nouvelle fois.
 Ce matin je visite Chichen Itza très beau site qui coute 481 pesos avec une très belle pyramide centrale et un immense jeux de pelote. Il faut bien deux heures pour le parcourrir. Quelques bas relief encore bien conservé.
-Nous prenons ensuite la route jusqu’au cenote Ik Kil, très beau complexe, hôtel, restuarent et cenote très sympa, je descend jusqu’en bas mais ne me baigne pas. Nous mangeons au restaurant qui propose qu’un buffet puis restons le parking, il fait trop chaud pour bouger. En fin d’après-midi on prend la route pour Valladolid. En demmarrant je vois un petit papier glissé sous le balais d’essuis glace. Il s’agit d’un petit mot d’une famille de 4 en TDM  « Cathy jeje de zag en zig ». Arrivé en ville on fait le courses, le plein d’eau et on trouve un camping sympa avec de l’electricté donc Clim !!!!
-
+Nous prenons ensuite la route jusqu’au cenote Ik Kil, très beau complexe, hôtel, restuarent et cenote très sympa, je descend jusqu’en bas mais ne me baigne pas. Nous mangeons au restaurant qui propose qu’un buffet puis restons le parking, il fait trop chaud pour bouger. En fin d’après-midi on prend la route pour Valladolid. En demmarrant je vois un petit papier glissé sous le balais d’essuis glace. Il s’agit d’un petit mot d’une famille de 4 en TDM « Cathy jeje de zag en zig ». Arrivé en ville on fait le courses, le plein d’eau et on trouve un camping sympa avec de l’electricté donc Clim !!!!
 
 ## 12 mai
 
@@ -256,10 +303,8 @@ On reste ensuite un peu sur le parking dans Thor, on laisse passer le plus gros 
 
 16 : préparation de Thor, dernières lessives et repos.
 
-17 : ce matin on vide et on nettoie les rréservoir de thor, on coupe l’electrcit é et le propane, on le mene jusqu’à sa place au sttorage, on dospose les bas antihumidité et à l’abamdonne… Le patrons du camping, nous conduit jusqu’’à l’aéroport où un mong voyage nous attend 
-
+17 : ce matin on vide et on nettoie les rréservoir de thor, on coupe l’electrcit é et le propane, on le mene jusqu’à sa place au sttorage, on dospose les bas antihumidité et à l’abamdonne… Le patrons du camping, nous conduit jusqu’’à l’aéroport où un mong voyage nous attend
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bq7gte1jETo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
