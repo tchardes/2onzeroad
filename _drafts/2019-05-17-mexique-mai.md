@@ -8,8 +8,8 @@ date: 2019-05-16 12:00:00
 from-date: 2019-04-12 13:00:00
 to-date: 2019-05-16 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt21.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt21.jpg
+header-img: "assets/owner/blog/header/post-bg-rt24.jpg"
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt24.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
 pois:
   [
@@ -307,7 +307,7 @@ On entre par la première entrée du site et après de nombreuses marches on arr
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40742976063/in/datetaken/" title="Palenque - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/40742976063_88264d67b1_k.jpg" width="2048" height="1152" alt="Palenque - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40742976063/in/datetaken/" title="Palenque - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/40742976063_88264d67b1_k.jpg" width="2048" height="1152" alt="Palenque - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40742939783/in/datetaken/" title="Palenque - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/40742939783_2a9b78addf_k.jpg" width="2048" height="1280" alt="Palenque - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/32765921907/in/datetaken/" title="Palenque - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/32765921907_e1d4ead85e_k.jpg" width="2048" height="1152" alt="Palenque - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
