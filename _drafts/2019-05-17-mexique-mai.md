@@ -387,46 +387,81 @@ Nous reprenons ensuite la direction de Muna, nous nous arrêtons déjeuner à Ti
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47780893831/in/datetaken/" title="Abala - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47780893831_19f7f61cb2_k.jpg" width="2048" height="1152" alt="Abala - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous décidons de nous poser près d’un cenote à X’Batum. Dèjà arriver jusqu’au village est un exploit sur une route très étroite où l’on ne peu se croiser que grace à quelques bateaux. Une fois sur place je vais repérér à pied la piste qui mène au cenote pour demain matin mais je ne le sens pas du tout. Du coup nous faisons demi tour et roulons en direction de Celestun et nous nous posons à Uman, sur un parking près des terrains de sport.
+Nous décidons de nous poser près d’un cenote à X’Batum. Dèjà arriver jusqu’au village est un exploit sur une route très étroite où l’on ne peut se croiser que grace à quelques bateaux. Une fois sur place je vais repérer à pied la piste qui mène au cenote pour demain matin mais je ne le sens pas du tout. Du coup nous faisons demi tour et roulons en direction de Celestun et nous nous posons à Uman, sur un parking près des terrains de sport.
 
-## 03 mai
+## 03 au 05 mai
 
-Nuit tranquille sur le parking.
-Ce matin on passe faire deux courses au soriana puis nous prenons la route en direction du Golfe du mexique. En route nous faisons le plein d’eau potable.
-Arrivé à celestun nous trouvons rapidement notre camping, nous sommes reçu par un gar super sympa qui nous offre deux noix de coco pour boire l’eau. L’endroit est spartiate mais il est sur la plage à quelques dizaine de mètres de la mer. Super endroit.
+Ce matin on passe faire deux courses au soriana puis nous prenons la route en direction du Golfe du Mexique. En route nous faisons le plein d’eau potable. Arrivés à **Celestun** nous trouvons rapidement notre camping, nous sommes reçu par un gars super sympa qui nous installe et nous ouvre deux noix de coco fraiches en guise de bienvenue.
 
-## 04 et 05 mai
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46974945625/in/datetaken/" title="Celestun - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/46974945625_0d2749283d_k.jpg" width="2048" height="1152" alt="Celestun - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Deux journées tranquilles au camping.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40814569563/in/datetaken/" title="Celestun - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/40814569563_66f480e2d0_k.jpg" width="2048" height="1152" alt="Celestun - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+L’endroit est spartiate mais il est proche de la plage à quelques dizaine de mètres de la mer. Nous y passons deux journées tranquilles. Cette ville comporte une lagune qui fait partie d'une réserve de la biosphère connue pour héberger des milliers de flamands roses, mais pas en cette saison.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47890997751/in/datetaken/" title="Celestun - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47890997751_3104c12dcd_k.jpg" width="2048" height="1152" alt="Celestun - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 06 mai
 
-Ce matin on fait le plein d ‘eau et les vides et nous quitons Celestun.
-Nous faisons route jusqu’à Merida et nous nous posons sur le parking d’un Soriana d’où nous prenons une colectivo (17 à l’intérieur) pour nous rendre en centre ville. Autour du zocalo on visite le Palais du Gouverneur, la mairie, le centre culturel et la cathédrale. Nous marchons ensuite jusqu’à un quaratier " Paeso Montejo " où se trouve de très belles villas. Au retour on prend un vieux car mercedes, le moteur fait vraiment un bruit bizare, quand il freine on à l’impression de freiner sur le fer sans compter le chauffeur qui roule comme un fou…
-Nous retournous au Soriana où nous faisons les courses.
+Ce matin on fait le plein d ‘eau et les vides et nous quitons Celestun. Nous faisons route jusqu’à **Merida** et nous nous posons sur le parking d’un Soriana d’où nous prenons une colectivo pour nous rendre en centre ville.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47101729234/in/datetaken/" title="Merida - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47101729234_5fc373dec2_k.jpg" width="2048" height="1152" alt="Merida - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Autour du zocalo on visite le Palais du Gouverneur, la mairie, le centre culturel et la cathédrale. Nous marchons ensuite jusqu’à un quartier "Paeso Montejo" où se trouve de très belles villas.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47890999171/in/datetaken/" title="Merida - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47890999171_5058e473c5_k.jpg" width="2048" height="1152" alt="Merida - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47839290232/in/datetaken/" title="Merida - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47839290232_b5cc5223b4_k.jpg" width="2048" height="656" alt="Merida - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Au retour on prend un vieux bus mercedes, le moteur fait vraiment un bruit bizare, quand il freine on à l’impression de freiner sur le fer sans compter le chauffeur qui roule comme un fou… Difficile de respecter les limitations quand plus aucun compteur n'équipe le tableau de bord. De retour au Soriana nous faisons les courses et  ous installons pour la nuit.
 
 ## 07 mai
 
-nuit calme, un peu mois chaude sur le matin.
-Hier à l’office de tourisme on nous a remis de la documentation sur le Yucatant et l’employée nous indique les cenotes à voir, notemment celui de Telchaquillo, donc direction ce petit village. Pour accèder au Cenote il faut aller à l’épicerie pour payer, 10 pesos, et pour qu’il. nous ouvre le portail. La visite à du durer 5 minutes, on descend 10 marche puis un trou d’eau, c’est nul…
-On quite les lieux pour les cenotes de Cuzama qui ont bonne presse. In s’agit en fait de trois cenote que l’on visite les unes après les autres. Pour se faire on emprunte un wagonnet tiré par un cheval qui nous fait parcourir les 20 km aller et retour. C’es typique et tape cul. Le deux premiers cenotes, Chacsinic Che et Bojoncho Jol sont très beaux le troisième, Chan Ucil est plus une grotte avec un peu d’aeu au bout.
-Corinne n’est pas venue et heureusement car l’entrée se fait par de petit boyau et echelle assez raide. L’aeu est vraiment translucide, très fraiche, s’y baigner est un vrai régal.
-Nous décidons ensuite de reprendre la route en direction Izamal et en route on s’arrête au cimetière de Hoctun où les tombes sont toutes peintes.
-rrivé à Izamal on fait un petit tour en ville qui est très belle au couchant, de couleur Ocre les façades ressortent très bien. On visite le couvent de Saint Antoine de Padoux puis nous cherchons un bivouac. Celui d’un hotel ne nous plait pas du tout, finalement on se retrouve au bort d’une place en plein centre ville. Du coup on se paye un bon resto avant de faire retour sur Thor.
+Hier à l’office de tourisme on nous a remis une documentation sur le Yucatan et l’employée nous indique les cenotes à voir, notemment celui de Telchaquillo, donc direction ce petit village. Pour accèder au Cenote il faut aller à l’épicerie pour payer, 10 pesos, et pour qu’il nous ouvre le portail. La visite à du durer 5 minutes, on descend 10 marches puis un trou d’eau, c’est nul…
 
-## 08 et 09 mai
+On quite les lieux pour les cenotes de **Cuzama** qui ont bonne presse. Il s’agit en fait de trois cenote que l’on visite les unes après les autres. Pour se faire on emprunte un wagonnet tiré par un cheval qui nous fait parcourir les 20 km aller et retour. C’est typique et tape cul. Le deux premiers cenotes, **Chacsinic Che** et **Bojoncho Jol** sont très beaux le troisième, **Chan Ucil** est plus une grotte avec un peu d’eau au bout.
 
-## 10 mai
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891002121/in/datetaken/" title="Cuzama - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891002121_4892299000_k.jpg" width="2048" height="1152" alt="Cuzama - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Ce matin je ne vais toujours pas mieux et comme nous sommes vendredi je décide d’aller voir un médecin. Nous tombons sur un toubib très sympa qui tape plus vite que son ombre sur son traducteur et ressort 10 mn plus tard avec une presciptions d’antibiotiques que nous récupérons à la pharmacue atenante.
-Nous promenons ensuite dans cette ville qui a été construite sur un ancien site Maya, du coup deux pyramides sont encore visibles en plein centre.
-En fin d’après-midi on se décide quand même à bouger et nous faisons route jusqu’à Chichen Itza où nous nous posons pour la nuit non loin de l’entrée du site.
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47101730234/in/datetaken/" title="Cuzama- Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47101730234_53842d6e6e_k.jpg" width="2048" height="1152" alt="Cuzama- Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Corinne n’est pas venue et heureusement car l’entrée des cenotes se fait par de petit boyau et eéchelle assez raide. L’eau est vraiment translucide, très fraiche, s’y baigner est un vrai régal.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891001321/in/datetaken/" title="Cuzama- Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891001321_22a8d14932_k.jpg" width="2048" height="1152" alt="Cuzama- Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous décidons ensuite de reprendre la route en direction de **Izamal**. En route on s’arrête au cimetière de **Hoctun** où les tombes sont toutes peintes.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891001701/in/datetaken/" title="Hoctun - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891001701_09c2cb95a0_k.jpg" width="2048" height="1152" alt="Hoctun - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Arrivé à Izamal on fait un petit tour en ville qui est très belle au couchant, de couleur Ocre, les façades ressortent très bien. On visite le couvent de Saint Antoine de Padoux qui a été construit sur la base d'une ancienne pyramide, puis nous cherchons un bivouac. Celui d’un hôtel ne nous plait pas du tout, finalement on se retrouve au bort d’une place en plein centre ville. Le soir on se fait un bon resto.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891002311/in/datetaken/" title="Izamal - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891002311_67e6587724_k.jpg" width="2048" height="1152" alt="Izamal - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## 08 au 10 mai
+
+Notre première nuit a été terrible entre la chaleur et des dizaines d'oiseaux qui ont chanté toute le nuit. Le Park Itzamna où nous sommes stationnée est entouré de grand arbres qui leur sert de perchoir. Ce matin je me lève avec une belle gastro, certaienement la pièce de boeuf que l'on à mangé hier, saignante, grosse erreur... On passe deux jours sans bouger en éspérant que ca passe. La chaleur n'aide pas.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891002971/in/datetaken/" title="Izamal - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891002971_72181e896f_k.jpg" width="2048" height="1152" alt="Izamal - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Ce matin je ne vais toujours pas mieux et comme nous sommes vendredi je décide d’aller voir un médecin. Nous tombons sur un toubib très sympa qui tape plus vite que son ombre sur son traducteur. On ressort 10 mn plus tard avec une presciption que nous récupérons à la pharmacie atenante. Nous promenons ensuite dans cette ville qui a été construite sur un ancien site Maya, du coup deux pyramides sont encore visibles en plein centre. En fin d’après-midi on se décide quand même à bouger et nous faisons route jusqu’à **Chichen Itza** où nous nous posons pour la nuit non loin de l’entrée du site.
 
 ## 11 mai
 
-Nuit très chaudes une nouvelle fois.
-Ce matin je visite Chichen Itza très beau site qui coute 481 pesos avec une très belle pyramide centrale et un immense jeux de pelote. Il faut bien deux heures pour le parcourrir. Quelques bas relief encore bien conservé.
-Nous prenons ensuite la route jusqu’au cenote Ik Kil, très beau complexe, hôtel, restuarent et cenote très sympa, je descend jusqu’en bas mais ne me baigne pas. Nous mangeons au restaurant qui propose qu’un buffet puis restons le parking, il fait trop chaud pour bouger. En fin d’après-midi on prend la route pour Valladolid. En demmarrant je vois un petit papier glissé sous le balais d’essuis glace. Il s’agit d’un petit mot d’une famille de 4 en TDM " Cathy jeje de zag en zig ". Arrivé en ville on fait le courses, le plein d’eau et on trouve un camping sympa avec de l’electricté donc Clim !!!!
+Ce matin je visite le site archéologique de Chichen Itza qui coute 481 $/M. Les site estvraiement très bien conservé avec une très belle pyramide centrale et un immense jeux de pelote. Il faut bien deux heures pour le parcourrir. On peut observer quelques bas relief encore bien conservé.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47101731324/in/datetaken/" title="Chichen Itza- Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47101731324_19fb4d5cce_k.jpg" width="2048" height="1152" alt="Chichen Itza- Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40924645803/in/datetaken/" title="Chichen Itza- Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/40924645803_17655219f9_k.jpg" width="2048" height="1152" alt="Chichen Itza- Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891004231/in/datetaken/" title="Chichen Itza- Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891004231_9f7f438b91_k.jpg" width="2048" height="1152" alt="Chichen Itza- Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous prenons ensuite la route jusqu’au cenote **Ik Kil**, très beau complexe, hôtel, restaurent et cenote très sympa, je descend jusqu’en bas mais ne me baigne pas. Nous mangeons au restaurant qui propose qu’un buffet puis restons le parking à l'ombre, il fait trop chaud pour bouger.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891006141/in/datetaken/" title="Ik Kil - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891006141_8ac881d8db_k.jpg" width="2048" height="1152" alt="Ik Kil - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40924647273/in/datetaken/" title="Ik Kil - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/40924647273_4daff0885a_k.jpg" width="2048" height="1152" alt="Ik Kil - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+En fin d’après-midi on prend la route pour **Valladolid**. En demmarrant je vois un petit papier glissé sous le balais d’essuis glace. Il s’agit d’un petit mot d’une famille de 4 français actuellement en tour du monde "Cathy jeje de zag en zig". Arrivé en ville on fait le courses, le plein d’eau et on trouve un camping sympa avec de l’electricté donc Clim !!!!
 
 ## 12 mai
 
