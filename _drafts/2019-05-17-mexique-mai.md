@@ -413,7 +413,7 @@ Autour du zocalo on visite le Palais du Gouverneur, la mairie, le centre culture
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47839290232/in/datetaken/" title="Merida - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47839290232_b5cc5223b4_k.jpg" width="2048" height="656" alt="Merida - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Au retour on prend un vieux bus mercedes, le moteur fait vraiment un bruit bizare, quand il freine on à l’impression de freiner sur le fer sans compter le chauffeur qui roule comme un fou… Difficile de respecter les limitations quand plus aucun compteur n'équipe le tableau de bord. De retour au Soriana nous faisons les courses et  ous installons pour la nuit.
+Au retour on prend un vieux bus mercedes, le moteur fait vraiment un bruit bizare, quand il freine on à l’impression de freiner sur le fer sans compter le chauffeur qui roule comme un fou… Difficile de respecter les limitations quand plus aucun compteur n'équipe le tableau de bord. De retour au Soriana nous faisons les courses et ous installons pour la nuit.
 
 ## 07 mai
 
@@ -447,7 +447,7 @@ Ce matin je ne vais toujours pas mieux et comme nous sommes vendredi je décide 
 
 ## 11 mai
 
-Ce matin je visite le site archéologique de Chichen Itza qui coute 481 $/M. Les site estvraiement très bien conservé avec une très belle pyramide centrale et un immense jeux de pelote. Il faut bien deux heures pour le parcourrir. On peut observer quelques bas relief encore bien conservé.
+Ce matin je visite le site archéologique de Chichen Itza qui coute 481 \$/M. Les site estvraiement très bien conservé avec une très belle pyramide centrale et un immense jeux de pelote. Il faut bien deux heures pour le parcourrir. On peut observer quelques bas relief encore bien conservé.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47101731324/in/datetaken/" title="Chichen Itza- Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47101731324_19fb4d5cce_k.jpg" width="2048" height="1152" alt="Chichen Itza- Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -481,31 +481,29 @@ Nous partons en fin de matinée que pour quelques kilomètres en direction de de
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891009191/in/datetaken/" title="Keken - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891009191_bb68400b09_k.jpg" width="2048" height="1152" alt="Keken - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-De retour je récupère Corinne et nous allons au restaurant où il fait bien frais. Le repas se compose d’une soupe, d’une entrée, d’un plat, d’un dessert et d’une boisson le tout pour 110 $/M. On prend donc une soupe de lime, puis le garçon nous propose une assiette pour deux avec un échantillon de chaque plat puis nous prenons un plat de porc et en dessert, une sorte de riz au lait et du pain perdu. Le tout accompagné de la boisson nationale, décoction de fleurs d'hibiscus, "Jamaica". On c’est régalé, aussi bien au niveau de la présentation que des saveurs. Après le repas je fais un tour au cenote Samula qui est beaucoup moins beau à mon avis. On reste ensuite un peu sur le parking dans Thor, on laisse passer le plus gros de chaleur et en fin d’après-midi on part en direction de Coba qui sera notre dernier site que nous visiterons. Une fois sur place on se pose sur le parking du site pour la nuit, la visite se fera demain matin dès l’ouverture… à la fraiche.
+De retour je récupère Corinne et nous allons au restaurant où il fait bien frais. Le repas se compose d’une soupe, d’une entrée, d’un plat, d’un dessert et d’une boisson le tout pour 110 \$/M. On prend donc une soupe de lime, puis le garçon nous propose une assiette pour deux avec un échantillon de chaque plat puis nous prenons un plat de porc et en dessert, une sorte de riz au lait et du pain perdu. Le tout accompagné de la boisson nationale, décoction de fleurs d'hibiscus, "Jamaica". On c’est régalé, aussi bien au niveau de la présentation que des saveurs. Après le repas je fais un tour au cenote Samula qui est beaucoup moins beau à mon avis. On reste ensuite un peu sur le parking dans Thor, on laisse passer le plus gros de chaleur et en fin d’après-midi on part en direction de Coba qui sera notre dernier site que nous visiterons. Une fois sur place on se pose sur le parking du site pour la nuit, la visite se fera demain matin dès l’ouverture… à la fraiche.
 
-## 14 au 17 mai
+## 14 mai
 
 Ce matin nous sommes à 8 heures devant l’entrée du site. Il y a déjà pal mal de monde mais comme le site est immense cela ne pose pas de problème. Il y aurait plus de 600 édifices à Coba, répartis sur plus de 20 Km2. Nous n’en faisons qu’une infime partie mais comme les distances sont assez grandes entre chaque groupe, il faut louer un vélo ou prendre comme nous un genre de pousse-pousse. Du coup on se fait les 10 km de chemin qui traversent la jungle à la fraiche et sans efforts.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891009791/in/datetaken/" title="Coba - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891009791_21c249c20e_k.jpg" width="2048" height="1152" alt="Coba - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40924651643/in/datetaken/" title="Coba - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/40924651643_05b6621d07_k.jpg" width="2048" height="1152" alt="Coba - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47101727974/in/datetaken/" title="Coba - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47101727974_0a7e492552_k.jpg" width="2048" height="1365" alt="Coba - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous y voyons de nombreuses steles assez abimées et finissons par la grande pyramide qui monte à 42 mètres de hauteurs. D’en haut nous avons une vue sur toute la péninsule qui est relativement plate. 
+Nous y voyons de nombreuses steles assez abimées et finissons par la grande pyramide qui monte à 42 mètres de hauteurs. D’en haut nous avons une vue sur toute la péninsule qui est relativement plate.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40924651643/in/datetaken/" title="Coba - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/40924651643_05b6621d07_k.jpg" width="2048" height="1152" alt="Coba - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46974944375/in/datetaken/" title="Coba - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/46974944375_086555c4e3_k.jpg" width="2048" height="1152" alt="Coba - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+De retour à Thor nous prenons la route direction le camping ou Thor va pouvoir se reposer quelques mois. Situé à quelques kilomètres de Cancun, il est tenu par un couple de canadiens, il est très bien équipé.
 
+## 15 au 17 mai
 
-De retour à Thor nous prenons la route direction le camping ou Thor va pouvoir se reposer quelques mois. Il est tenu par un couple d’américain et il est très bien équipé.
+Ce matin on traine un peu et vers 11h00 on prend la petite chevrolet que le camping propose à la location pour aller faire un tour dans Cancun, qui présente en fait que très peu d’intérêt. On commence par un arrêt à The Home Depot pour acheter des systèmes de deshumidifications pour Thor puis nous passons sur la lagune et ces 25 km d’hôtels, nous mangeons au bord de la mer puis faisons retour au camping. De retour je me fais arrêter par un policier pour excés de vitesse… Je n'avais pas vu le panneau, j'étais largement au dessus, on s'arrange...
 
-15 : ce matin on traine un peu et vers 11h00 on prend la petite chevrolet que le camping propose à la location pour aller faire un tour dans Cancun qui présente en fait que très peu d’intérêt. On comence par un arrêt à The home Depot pour acheter des systèmes deshumidificateurs pour Thor puis nous passons sur la lagune et ces 25 km d’hôtels, nous mangeons au bord de la mer puis faisons retour au camping. De retour je me fais arrêter par un flic pour exécs de vitesse…
-
-16 : préparation de Thor, dernières lessives et repos.
-
-17 : ce matin on vide et on nettoie les rréservoir de thor, on coupe l’electrcit é et le propane, on le mene jusqu’à sa place au sttorage, on dospose les bas antihumidité et à l’abamdonne… Le patrons du camping, nous conduit jusqu’’à l’aéroport où un mong voyage nous attend
+On passe les deux derniers jours à préparer Thor à son "hivernage" et profiter de la piscine. Le 17 on le gare à sa place de storage et on l’abamdonne… Le patron du camping, nous conduit en débur daprès-midi jusqu’’à l’aéroport où un long voyage nous attend.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
