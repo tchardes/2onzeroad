@@ -461,22 +461,45 @@ Nous prenons ensuite la route jusqu’au cenote **Ik Kil**, très beau complexe,
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40924647273/in/datetaken/" title="Ik Kil - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/40924647273_4daff0885a_k.jpg" width="2048" height="1152" alt="Ik Kil - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En fin d’après-midi on prend la route pour **Valladolid**. En demmarrant je vois un petit papier glissé sous le balais d’essuis glace. Il s’agit d’un petit mot d’une famille de 4 français actuellement en tour du monde "Cathy jeje de zag en zig". Arrivé en ville on fait le courses, le plein d’eau et on trouve un camping sympa avec de l’electricté donc Clim !!!!
+En fin d’après-midi on prend la route pour **Valladolid**. En demmarrant je vois un petit papier glissé sous le balais d’essuis glace. Il s’agit d’un petit mot d’une famille de 4 français actuellement en tour du monde "Cathy jeje de zag en zig" qui est dans le coin. Arrivé en ville on fait le courses, le plein d’eau et on trouve un camping sympa avec de l’electricté donc la climatisation dans Thor!!!!
 
 ## 12 mai
 
-Ce matin on part visiter le site de Ek Balam, très beau site avec une immense pyramide.
-A l’issue, retour au camping, il fait trop chaud….
+Ce matin on part visiter le site archéologique de Ek Balam (Jaguar noir) qui se trouve à 30 kilomètres au Nord de Valladolid. Le site est ouvert depuis peu, les fouilles ont commencé en 1994 et sont encore actuellement en cours. C'est vraiment un très beaus site Maya avec une immense pyramide.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46974941805/in/datetaken/" title="Ek Balam - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/46974941805_e728ed1d5d_k.jpg" width="2048" height="1152" alt="Ek Balam - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891006961/in/datetaken/" title="Ek Balam - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891006961_1bd7fbd201_k.jpg" width="2048" height="1152" alt="Ek Balam - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40924648533/in/datetaken/" title="Ek Balam - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/40924648533_5a7d4aee46_k.jpg" width="2048" height="1365" alt="Ek Balam - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A l’issue de notre visite nous faisons retour au camping pour nous mettre au frais.
 
 ## 13 mai
 
-Ce matin on quitte le camping le plus tard possible pour profiter au max de la Clim. Avoir de partir on fait in petit complément d’eau. Nous partons que pour quelques kilomètres en direction de deux cenotes Keken et Samula.
-Sur place on décide de prendre également le repas proposé dans un restaurant Maya du site. Je commence mar le cenote " cave " Keken qui est vraiment magnifique avec ces stalagtites qui descendent dan l’eau et ce magnifique trou de lumière, je ne me sens pas encore de plonger dans de l’eau froide et ce malgrè la chaleur, je mabstient donc… De retour je récuoère Corinne et nous allos au restaurant où il fait bien frais. Le repas coute 110 pesos/Pers et se compose d’une soupe, d’une entrée, d’un plat, d’un dessert et d’une boisson. On prens donc une soupe de lime, puis le garçon nous porpose une assiette pour deux avec un échantillon de chaque plat puis nous prenons un plat de porc et en dessert une sorte de riz au lait et du pain perdu. Le tout accompaagné de Jamaica. On c’est réaglé, aussi bien au niveau de la présentation que des saveurs. Après le repas je fait un tour à la cenote " cave " Samula qui est beaucoup moins beau à mon avis.
-On reste ensuite un peu sur le parking dans Thor, on laisse passer le plus gros de chaleur et en fin d’après-midi on part en direction de Coba qui sera notre dernier site que nous visiterons. Une fois sur place on se pose sur le parking du site pour la nuit, la visite se fera demain matin dès l’ouverture… à la fraiche.
+Nous partons en fin de matinée que pour quelques kilomètres en direction de deux cenotes **Keken** et **Samula**. Sur place on décide de prendre également le repas proposé dans le restaurant Maya du site. Je commence par le cenote Keken de type "caverne" qui est vraiment magnifique avec ces stalagtites qui descendent dans l’eau et ce magnifique trou de lumière qui illumine une eau turquoise, je ne me sens pas encore de plonger dans de l’eau froide et ce malgrè la chaleur, je m'abstient donc…
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891009191/in/datetaken/" title="Keken - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891009191_bb68400b09_k.jpg" width="2048" height="1152" alt="Keken - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+De retour je récupère Corinne et nous allons au restaurant où il fait bien frais. Le repas se compose d’une soupe, d’une entrée, d’un plat, d’un dessert et d’une boisson le tout pour 110 $/M. On prend donc une soupe de lime, puis le garçon nous propose une assiette pour deux avec un échantillon de chaque plat puis nous prenons un plat de porc et en dessert, une sorte de riz au lait et du pain perdu. Le tout accompagné de la boisson nationale, décoction de fleurs d'hibiscus, "Jamaica". On c’est régalé, aussi bien au niveau de la présentation que des saveurs. Après le repas je fais un tour au cenote Samula qui est beaucoup moins beau à mon avis. On reste ensuite un peu sur le parking dans Thor, on laisse passer le plus gros de chaleur et en fin d’après-midi on part en direction de Coba qui sera notre dernier site que nous visiterons. Une fois sur place on se pose sur le parking du site pour la nuit, la visite se fera demain matin dès l’ouverture… à la fraiche.
 
 ## 14 au 17 mai
 
-14 : Ce matin nous sommes à 8 heures devant l’entrée du site.Il ya déjà pal mal de monde mais ciomme le site est immense cela ne pose pas de problème. Il y aurai plus de 600 édifices à Coba, nous n’en faisons qu’une infime partie mais comme les distance sont assez grandes entre chaque groupe, il faut louer un vélo ou prendre comme nous un genre de pous pouss. Du coup on se fait les 10 km de chemin qui traverse la jungle à la fraiche et sans efforts. Nous y voyons de nombreuses steles assez abimées et finissons par la grande pyramide qui monte à 42 mètres de hauteurs. D’en haut nous avons une vue sur toute la péninsule qui est relativement plate. De retour à Thor nous prenons la route direction le camping ou Thor va pouvoir se reposer quelques mois. Il est tenu par un couple d’américain et il est très bien équipé.
+Ce matin nous sommes à 8 heures devant l’entrée du site. Il y a déjà pal mal de monde mais comme le site est immense cela ne pose pas de problème. Il y aurait plus de 600 édifices à Coba, répartis sur plus de 20 Km2. Nous n’en faisons qu’une infime partie mais comme les distances sont assez grandes entre chaque groupe, il faut louer un vélo ou prendre comme nous un genre de pousse-pousse. Du coup on se fait les 10 km de chemin qui traversent la jungle à la fraiche et sans efforts.
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891009791/in/datetaken/" title="Coba - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891009791_21c249c20e_k.jpg" width="2048" height="1152" alt="Coba - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/40924651643/in/datetaken/" title="Coba - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/40924651643_05b6621d07_k.jpg" width="2048" height="1152" alt="Coba - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47101727974/in/datetaken/" title="Coba - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47101727974_0a7e492552_k.jpg" width="2048" height="1365" alt="Coba - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous y voyons de nombreuses steles assez abimées et finissons par la grande pyramide qui monte à 42 mètres de hauteurs. D’en haut nous avons une vue sur toute la péninsule qui est relativement plate. 
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46974944375/in/datetaken/" title="Coba - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/46974944375_086555c4e3_k.jpg" width="2048" height="1152" alt="Coba - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+De retour à Thor nous prenons la route direction le camping ou Thor va pouvoir se reposer quelques mois. Il est tenu par un couple d’américain et il est très bien équipé.
 
 15 : ce matin on traine un peu et vers 11h00 on prend la petite chevrolet que le camping propose à la location pour aller faire un tour dans Cancun qui présente en fait que très peu d’intérêt. On comence par un arrêt à The home Depot pour acheter des systèmes deshumidificateurs pour Thor puis nous passons sur la lagune et ces 25 km d’hôtels, nous mangeons au bord de la mer puis faisons retour au camping. De retour je me fais arrêter par un flic pour exécs de vitesse…
 
