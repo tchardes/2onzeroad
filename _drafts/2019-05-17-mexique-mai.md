@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: " Region Sud du Mexique"
+title: " Région Sud du Mexique"
 preview: "Cet article couvre la période du 12 avril au 17 mai 2019 date de notre retour sur la France. Durant cette période nous avons visité le Sud du Mexique…"
 parent-id:
 
