@@ -985,8 +985,8 @@
     "type": "autre"
   },
   { "name": "oaxaca", "displayName": "Oaxaca", "type": "ville" },
-  { "name": "tlacochahuaya", "displayName": "tlacochahuaya", "type": "autre" },
-  { "name": "tlacolula", "displayName": "tlacolula", "type": "autre" },
+  { "name": "tlacochahuaya", "displayName": "Tlacochahuaya", "type": "autre" },
+  { "name": "tlacolula", "displayName": "Tlacolula", "type": "autre" },
   {
     "name": "milta",
     "displayName": "Milta - Site Archéologique",
