@@ -16,7 +16,7 @@ pois:
     monte-alban#13-avril,
     oaxaca#13-avril,
     tlacochahuaya#14-avril,
-    Tlacolula#014-avril,
+    tlacolula#014-avril,
     milta#14-avril,
     hierve-el-agua#14-avril,
     tuxla-gutierrez#16-avril,
