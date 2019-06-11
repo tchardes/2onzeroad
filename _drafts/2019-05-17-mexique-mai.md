@@ -41,14 +41,15 @@ pois:
     celestun#03-au-05-mai,
     merida#06-mai,
     cuzama#07-mai,
-    corozal#07-mai,
-    chacsinic-Che#07-mai,
-    bojoncho-Jol#07-mai,
-    chan-Ucil#07-mai,
+    chacsinic-che#07-mai,
+    bojoncho-jol#07-mai,
+    chan-ucil#07-mai,
     izamal#07-mai,
     hoctun#07-mai,
     chichen-itza#08-au-10mai,
     valladolid#11-mai,
+    ik-kil#11-mai,
+    ek-balam#12-mai,
     keken#13-mai,
     samula#13-mai,
     coba#13-mai,
@@ -488,7 +489,7 @@ En fin d’après-midi, on prend la route pour **Valladolid**. En démarrant, je
 
 ## 12 mai
 
-Ce matin, on part visiter le site archéologique de Ek Balam (Jaguar noir) qui se trouve à 30 kilomètres au Nord de Valladolid. Le site est ouvert depuis peu, les fouilles ont commencé en 1994 et sont encore actuellement en cours. C'est vraiment un très beaux site Maya avec une immense pyramide.
+Ce matin, on part visiter le site archéologique de **Ek Balam** (Jaguar noir) qui se trouve à 30 kilomètres au Nord de Valladolid. Le site est ouvert depuis peu, les fouilles ont commencé en 1994 et sont encore actuellement en cours. C'est vraiment un très beaux site Maya avec une immense pyramide.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46974941805/in/datetaken/" title="Ek Balam - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/46974941805_e728ed1d5d_k.jpg" width="2048" height="1152" alt="Ek Balam - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
