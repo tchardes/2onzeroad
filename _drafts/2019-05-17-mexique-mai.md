@@ -25,9 +25,35 @@ pois:
     tonina#19-avril,
     el-chiflon#20-avril,
     tziscao#21-et-22-avril,
-    e#17-avril,
-    e#17-avril,
-    e#17-avril,
+    las-nubes#23-avril,
+    yaxchilan#24-avril,
+    corozal#24-avril,
+    agua-azul#25-avril,
+    palenque#26-au-28-avril,
+    edzna#29-avril,
+    campeche#30-avril,
+    uxmal#01-mai,
+    kabah#01-mai,
+    sayil#02-mai,
+    klapak#02-mai,
+    labna#02-mai,
+    ochil#02-mai,
+    celestun#03-au-05-mai,
+    merida#06-mai,
+    cuzama#07-mai,
+    corozal#07-mai,
+    chacsinic-Che#07-mai,
+    bojoncho-Jol#07-mai,
+    chan-Ucil#07-mai,
+    izamal#07-mai,
+    hoctun#07-mai,
+    chichen-itza#08-au-10mai,
+    valladolid#11-mai,
+    keken#13-mai,
+    samula#13-mai,
+    coba#13-mai,
+    cancun#14-mai,
+
   ]
 country: Mexique
 states: ["Oaxaca", "Chiapas", "Tabasco", "Campeche", "Yucatan", "Quintana-Roo"]
@@ -258,7 +284,7 @@ En fin d’après-midi, on entend des singes hurleurs crier dans la forêt. Diff
 
 ## 25 avril
 
-Nuit effectivement très chaude, on a mis le réveil de bonne heure pour être à 7h00 au guichet. Les singes hurleurs sont également debout de bonne heure et le font savoir. Nous retrouvons les Toulousains qui ont dormi à l’hôtel. Une fois les billets pris pour l’entrée du site, nous nous mettons en quête d’un bateau, une "lancha", pour nous y conduire. Le site n’est accessible que par le Rio Usumacinta qui est la frontière naturelle entre le Mexique et le Guatemala. Sur le chemin, de nombreux bateleurs nous annoncent les prix, mais nous préférons aller jusqu’à l’embarcadère. Nous y retrouvons une famille de Hollandais, ils sont 6 et nous 4 le bateau est complet, le pilote nous fait un bon prix.
+Nuit effectivement très chaude, on a mis le réveil de bonne heure pour être à 7h00 au guichet. Les singes hurleurs sont également debout de bonne heure et le font savoir. Nous retrouvons les Toulousains qui ont dormi à l’hôtel. Une fois les billets pris pour l’entrée du site, nous nous mettons en quête d’un bateau, une "lancha", pour nous y conduire. Le site archéologique de Yaxchilán n’est accessible que par le Rio Usumacinta qui est la frontière naturelle entre le Mexique et le Guatemala. Sur le chemin, de nombreux bateleurs nous annoncent les prix, mais nous préférons aller jusqu’à l’embarcadère. Nous y retrouvons une famille de Hollandais, ils sont 6 et nous 4 le bateau est complet, le pilote nous fait un bon prix.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46792826415/in/datetaken/" title="Yaxchilan - Chiapas - [Mexique]"><img src="https://live.staticflickr.com/65535/46792826415_5f65651579_k.jpg" width="2048" height="1142" alt="Yaxchilan - Chiapas - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -444,7 +470,7 @@ Ce matin, je ne vais toujours pas mieux et comme nous sommes vendredi je décide
 
 ## 11 mai
 
-Ce matin, je visite le site archéologique de Chichen Itza qui coute 481 \$/M. Le site est vraiment très bien conservé avec une très belle pyramide centrale et un immense jeu de pelote. Il faut bien deux heures pour le parcourir. On peut observer quelques bas reliefs encore bien conservés.
+Ce matin, je visite le site archéologique de Chichen Itza qui coute 481\$/M. Le site est vraiment très bien conservé avec une très belle pyramide centrale et un immense jeu de pelote. Il faut bien deux heures pour le parcourir. On peut observer quelques bas reliefs encore bien conservés.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47101731324/in/datetaken/" title="Chichen Itza- Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47101731324_19fb4d5cce_k.jpg" width="2048" height="1152" alt="Chichen Itza- Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -478,7 +504,7 @@ Nous partons en fin de matinée que pour quelques kilomètres en direction de de
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/47891009191/in/datetaken/" title="Keken - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/47891009191_bb68400b09_k.jpg" width="2048" height="1152" alt="Keken - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-De retour, je récupère Corinne et nous allons au restaurant où il fait bien frais. Le repas se compose d’une soupe, d’une entrée, d’un plat, d’un dessert et d’une boisson le tout pour 110 \$/M. On prend donc une soupe de lime, puis le garçon nous propose une assiette pour deux avec un échantillon de chaque plat puis nous prenons un plat de porc et en dessert, une sorte de riz au lait et du pain perdu. Le tout accompagné de la boisson nationale, décoction de fleurs d'hibiscus, "Jamaïca". On s’est régalé, aussi bien au niveau de la présentation que des saveurs. Après le repas, je fais un tour au cenote Samula qui est beaucoup moins beau à mon avis. On reste ensuite un peu sur le parking dans Thor, on laisse passer le plus gros de chaleur et en fin d’après-midi, on part en direction de Coba qui sera notre dernier site que nous visiterons. Une fois sur place, on se pose sur le parking du site pour la nuit, la visite se fera demain matin dès l’ouverture… à la fraiche.
+De retour, je récupère Corinne et nous allons au restaurant où il fait bien frais. Le repas se compose d’une soupe, d’une entrée, d’un plat, d’un dessert et d’une boisson le tout pour 110 \$/M. On prend donc une soupe de lime, puis le garçon nous propose une assiette pour deux avec un échantillon de chaque plat puis nous prenons un plat de porc et en dessert, une sorte de riz au lait et du pain perdu. Le tout accompagné de la boisson nationale, décoction de fleurs d'hibiscus, "Jamaïca". On s’est régalé, aussi bien au niveau de la présentation que des saveurs. Après le repas, je fais un tour au cenote Samula qui est beaucoup moins beau à mon avis. On reste ensuite un peu sur le parking dans Thor, on laisse passer le plus gros de chaleur et en fin d’après-midi, on part en direction de **Coba** qui sera notre dernier site que nous visiterons. Une fois sur place, on se pose sur le parking du site pour la nuit, la visite se fera demain matin dès l’ouverture… à la fraiche.
 
 ## 14 mai
 
@@ -494,7 +520,7 @@ Nous y voyons de nombreuses stèles assez abimées et finissons par la grande py
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46974944375/in/datetaken/" title="Coba - Yucatan - [Mexique]"><img src="https://live.staticflickr.com/65535/46974944375_086555c4e3_k.jpg" width="2048" height="1152" alt="Coba - Yucatan - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-De retour à Thor, nous prenons la route direction le camping où Thor va pouvoir se reposer quelques mois. Situé à une vingtaine de kilomètres de Cancun, il est tenu par un couple de canadiens, il est très bien équipé.
+De retour à Thor, nous prenons la route direction le camping où Thor va pouvoir se reposer quelques mois. Situé à une vingtaine de kilomètres de **Cancun**, il est tenu par un couple de canadiens, il est très bien équipé.
 
 ## 15 au 17 mai
 
