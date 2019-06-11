@@ -527,7 +527,7 @@ De retour à Thor, nous prenons la route direction le camping où Thor va pouvoi
 
 Ce matin, on traine un peu et vers 11h00, on prend la petite Chevrolet que le camping propose à la location pour aller faire un tour dans Cancun, qui n'offre, en fait, que très peu d’intérêt. On commence par un arrêt à The Home Depot pour acheter des systèmes de déshumidification pour Thor puis nous passons sur la lagune et ses 25 km d’hôtels, nous mangeons au bord de la mer puis rentrons au camping. De retour, je me fais arrêter par un policier pour excès de vitesse… Je n'avais pas vu le panneau, j'étais largement au dessus, on s'arrange...
 
-On passe les deux derniers jours à préparer Thor à son "hivernage" et profiter de la piscine. Le 17, on le gare à sa place de storage et on l’abandonne… Le patron du camping nous conduit, en début d'après-midi, jusqu’’à l’aéroport où un long voyage nous attend.
+On passe les deux derniers jours à préparer Thor à son "hivernage" et profiter de la piscine. Le 17, on le gare à sa place de storage et on l’abandonne… Le patron du camping nous conduit, en début d'après-midi, jusqu’à l’aéroport où un long voyage nous attend.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
