@@ -6,9 +6,7 @@
       "properties": { "color": "#CF061F" },
       "geometry": {
         "type": "LineString",
-        "coordinates": [
-          // remplacer par les coordonnées
-        ]
+        "coordinates": [[-116.62745000000001, 32.57566]]
       }
     }
   ]
