@@ -1,17 +1,42 @@
 ---
-layout:  blog
-title:   "De l'Idaho à la Californie"
+layout: blog
+title: "De l'Idaho à la Californie"
 preview: "Cet article couvre la période du 27 juin au 28 juillet durant laquelle nous avons traversé les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant…"
-parent-id: 
+parent-id:
 
-date:       2018-07-28 13:00:00
-from-date:  2018-06-27 13:00:00
-to-date:    2018-07-28 13:00:00
-author:     "Thierry"
+date: 2018-07-28 13:00:00
+from-date: 2018-06-27 13:00:00
+to-date: 2018-07-28 13:00:00
+author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt18.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt18.jpg
 tags: [parc-naturel, geologie, montagne, culturel]
-pois: [ebr#29-juin, crater-moon#30-juin, hagerman#30-juin, shoshone#30-juin, golden-spike#01-juillet, antelope-island#02-juillet, salt-lake#03-juillet, timpanogos#04-juillet, bingham#06-juillet, bonneville#06-juillet, tahoe#11-juillet, travertine#12-juillet, bodie#13-juillet, mono-lake#13-juillet, mammoth#14-juillet, postpile#15-juillet, manzanar#17-juillet, giant-sequoia#19-juillet, kings#20-juillet, sequoia#22-juillet, yosemite#23-juillet, mariposa#23-juillet, google#25-juillet]
+pois:
+  [
+    ebr#29-juin,
+    crater-moon#30-juin,
+    hagerman#30-juin,
+    shoshone#30-juin,
+    golden-spike#01-juillet,
+    antelope-island#02-juillet,
+    salt-lake#03-juillet,
+    timpanogos#04-juillet,
+    bingham#06-juillet,
+    bonneville#06-juillet,
+    tahoe#11-juillet,
+    travertine#12-juillet,
+    bodie#13-juillet,
+    mono-lake#13-juillet,
+    mammoth#14-juillet,
+    postpile#15-juillet,
+    manzanar#17-juillet,
+    giant-sequoia#19-juillet,
+    kings#20-juillet,
+    sequoia#22-juillet,
+    yosemite#23-juillet,
+    mariposa#23-juillet,
+    google#25-juillet,
+  ]
 country: USA
 states: ["Idaho", "Utah", "Nevada", "Californie"]
 category: "roadmap"
@@ -19,7 +44,6 @@ flickr-text: ""
 location: "40.117247, -119.602120"
 itinary: "2018/idaho.json"
 mapZoom: 5
-
 ---
 
 Cet article couvre la période du 27 juin au 28 juillet durant laquelle nous avons traversé les états de l'Idaho, de l'Utah, du Nevada et de la Californie avant notre retour en France.
@@ -55,7 +79,7 @@ Ce matin, nous finissons la visite du Crater of the Moon **(voir l’article com
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/41520788210/in/photolist-28Wyc6m-Kn3EHp-Kn3LTR-Kn3NF8-28Wyitm-Kn3QnV-27VxPLd-LTkW1C-26g3Fom-27VyMqQ-27VywLu-27D6KRP-27VyKPJ-27VyPcA-28WyH7y-26g3R3b-26g3TLN-LTmbEh-27D73La-27D78wT-25GrQsk-HpYYwB-HpYU1H-HpZ3ur-25Gs17F-JW5hWf-25Gs8hT-26m35Bx-J4Hc8x-27HMVYz-HpZh88-JW5q6L-25GsiNc-23tLUgi-23tMkZT-FbLu6X-23tMJ5K-YJUdXb-Z13V8i-XGJNXh-YJUeib-XLiwg6-Z13VYM-XGJPWw-YHkouU-YHkoR5-Z13X3v-Z13Xxt-YHkpc5-XGJS6S" title="Craters of the Moon - Idaho - [USA]"><img src="https://farm1.staticflickr.com/926/41520788210_a9790fc566_k.jpg" width="2048" height="1152" alt="Craters of the Moon - Idaho - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous empruntons la "Sawtooth Scenic Byway" jusqu’à Shoshone et roulons jusqu’à Bliss où nous prenons la "Thousand Springs Scenic Byway" qui nous ramène vers l’Est jusqu’à Twin Falls. En route, nous nous arrêtons à **Hagerman Fossil Beds National Monument**. Le Visitor Center se trouve dans le village de Hagerman. On y récupère un plan du parc qui est très petit et voyons le "fameux" squelette d’un équidé découvert non loin, et qui serait l’ancêtre du zèbre. Seuls deux overlooks sont à faire, au final très décevants.
-Nous poursuivons la route vers Twin Falls et voyons de très nombreuses cascades qui coulent dans la Snake river, la route scénique porte bien son nom. Arrivés à destination, nous allons voir les **Shoshone Falls** en payant un droit d’entrée dans le parc de 3$. En raison du manque d’eau, la cascade ne fait pas la totalité de la longueur de la "marche" mais elle reste très belle. Il s’agit de la plus grande cascade d’Amérique de Nord après celle de Niagara, elle est d’ailleurs surnommée la Niagara de l’ouest. Haute de 65 mètres (+ 16 mètres par rapport à Niagara), elle est large de 300 mètres, quand l’eau est abondante.
+Nous poursuivons la route vers Twin Falls et voyons de très nombreuses cascades qui coulent dans la Snake river, la route scénique porte bien son nom. Arrivés à destination, nous allons voir les **Shoshone Falls** en payant un droit d’entrée dans le parc de 3\$. En raison du manque d’eau, la cascade ne fait pas la totalité de la longueur de la "marche" mais elle reste très belle. Il s’agit de la plus grande cascade d’Amérique de Nord après celle de Niagara, elle est d’ailleurs surnommée la Niagara de l’ouest. Haute de 65 mètres (+ 16 mètres par rapport à Niagara), elle est large de 300 mètres, quand l’eau est abondante.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42612807384/in/datetaken/" title="Twin Falls - Idaho - [USA]"><img src="https://farm2.staticflickr.com/1769/42612807384_3e3aac1954_k.jpg" width="2048" height="1152" alt="Twin Falls - Idaho - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -152,14 +176,14 @@ Ce matin, direction le **Lac Tahoe**, magnifique lac d’altitude (1900 mètres)
 
 ## 12 juillet
 
-Départ du camping, nous remontons un peu le Lac Tahoe qui est vraiment très beau, il fait penser un peu au lac d’Annecy. Puis nous faisons demi-tour et repartons vers le Nevada. Nous faisons une escale technique à Gardnerville où nous faisons le plein de propane, de gazoline et du frigo car après, nous allons rester en Californie où les prix sont vraiment très élevés, presque 1$ de plus le galon de gazoline.
+Départ du camping, nous remontons un peu le Lac Tahoe qui est vraiment très beau, il fait penser un peu au lac d’Annecy. Puis nous faisons demi-tour et repartons vers le Nevada. Nous faisons une escale technique à Gardnerville où nous faisons le plein de propane, de gazoline et du frigo car après, nous allons rester en Californie où les prix sont vraiment très élevés, presque 1\$ de plus le gallon de gazoline.
 Nous repartons vers le sud, repassons en Californie et avons droit à un contrôle sanitaire, l’expérience aidant, nos fruits et légumes sont bien planqués, l’agent nous demande ce que nous transportons, une tomate et une pomme… Ok, vous pouvez y aller… Ce n’est pas que nous voulons truander, mais de quelques jours, nous risquons de ne pas trouver d'épicerie dans le coin… Arrivés à Bridgeport sous un ciel couvert, nous faisons un petit détour pour aller voir **Travertine Hot Springs**. Nous empruntons une piste de 2 kilomètres avant d’arriver sur un plateau où jadis l’activité géothermique a du être très importante, un genre de mini, mini, Yellowstone. Reste quelques sources d’eaux chaudes (très chaudes) dont certaines ont été aménagées en bassin et où les gens viennent se baigner. On laisse passer notre tour en raison des coups de soleil que l’on a pris hier à la plage. En repartant, on sort de la zone du parc et trouvons un bivouac sympa en pleine pampa, juste en face une très belle chaîne de montagnes, on arrive bientôt à Yosemite.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/42780977734/in/datetaken/" title="Travertine Hot Springs - Californie - [USA]"><img src="https://farm1.staticflickr.com/935/42780977734_a69a5c56bf_k.jpg" width="2048" height="1152" alt="Travertine Hot Springs - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 13 juillet
 
-Nuit très calme au bivouac, le temps est couvert et gris. Nous reprenons la route et nous nous arrêtons à **Bodie Ghost Town** ancienne ville créée grâce à la ruée vers l’or et qui est morte, petit à petit, l’or se raréfiant et surtout en raison d’un incendie qui ravage la ville en 1932. 100 millions de $ d'or y ont été extraits. Le dernier habitant a quitté la ville en 1940. Les survivants de l’époque ont créé un parc d'état en 1962 pour la mémoire.
+Nuit très calme au bivouac, le temps est couvert et gris. Nous reprenons la route et nous nous arrêtons à **Bodie Ghost Town** ancienne ville créée grâce à la ruée vers l’or et qui est morte, petit à petit, l’or se raréfiant et surtout en raison d’un incendie qui ravage la ville en 1932. 100 millions de \$ d'or y ont été extraits. Le dernier habitant a quitté la ville en 1940. Les survivants de l’époque ont créé un parc d'état en 1962 pour la mémoire.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/28612112237/in/datetaken/" title="Bodie - Californie - [USA]"><img src="https://farm2.staticflickr.com/1823/28612112237_5f9a1846ca_k.jpg" width="2048" height="1152" alt="Bodie - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -185,7 +209,7 @@ En quittant le lac, on fait les dumps et le plein d’eau juste à côté d’un
 
 ## 15 juillet
 
-Ce matin, réveil de bonne heure, c’est jour de finale. Si le match se déroule à 17h00 en France il est à 08h00 ici. Nous partons direction Mammoth Lakes au "Liberty Sports Bar and Grill" que nous avions repéré hier. Nous prenons une des dernières places de libre dans le bar qui retransmet le match. Il y a quelques français mais très vite on comprend que la majorité des clients, américains, sont pour la Croatie. Néanmoins, super ambiance et puis… on a gagné, tout le monde a applaudi. Repassage à la pâtisserie "Shea Schat’s Bakery" histoire de fêter ça à midi puis nous partons en direction de **Devils Postpile National Monument**. L’été, la circulation est fermée depuis l’entrée du parc entre 08h00 et 17h00. Une navette est mise en place au tarif de 8$/Pers. durant ces horaires. On passe devant le parking au niveau du départ de la navette et on voit 30$ pour la journée de parking. Comme on a lu que l’on pouvait entrer dans le parc si on était client d’un des campings, on se pointe à l’entrée (gratuite avec le Pass America The Beautiful) et par chance il y a encore de la place. Du coup, on se prend une nuit au "Reds Meadows Campground " pour 23$… L’après-midi, départ pour deux trails, "Devils Postpile Trail" qui mène aux fameuses orgues de basaltes (0.6 Miles) puis on a enchaîné par "Raimbow Falls" qui mène à une très belle cascade, l’arc-en-ciel est bien présent (3,9 Miles - 6,3 Km).
+Ce matin, réveil de bonne heure, c’est jour de finale. Si le match se déroule à 17h00 en France il est à 08h00 ici. Nous partons direction Mammoth Lakes au "Liberty Sports Bar and Grill" que nous avions repéré hier. Nous prenons une des dernières places de libre dans le bar qui retransmet le match. Il y a quelques français mais très vite on comprend que la majorité des clients, américains, sont pour la Croatie. Néanmoins, super ambiance et puis… on a gagné, tout le monde a applaudi. Repassage à la pâtisserie "Shea Schat’s Bakery" histoire de fêter ça à midi puis nous partons en direction de **Devils Postpile National Monument**. L’été, la circulation est fermée depuis l’entrée du parc entre 08h00 et 17h00. Une navette est mise en place au tarif de 8$/Pers. durant ces horaires. On passe devant le parking au niveau du départ de la navette et on voit 30$ pour la journée de parking. Comme on a lu que l’on pouvait entrer dans le parc si on était client d’un des campings, on se pointe à l’entrée (gratuite avec le Pass America The Beautiful) et par chance il y a encore de la place. Du coup, on se prend une nuit au "Reds Meadows Campground " pour 23\$… L’après-midi, départ pour deux trails, "Devils Postpile Trail" qui mène aux fameuses orgues de basaltes (0.6 Miles) puis on a enchaîné par "Raimbow Falls" qui mène à une très belle cascade, l’arc-en-ciel est bien présent (3,9 Miles - 6,3 Km).
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/29647495478/in/datetaken/" title="Mammoth Lakes - Californie - [USA]"><img src="https://farm2.staticflickr.com/1801/29647495478_0b21eb3ea9_k.jpg" width="2048" height="1152" alt="Mammoth Lakes - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -223,7 +247,7 @@ Départ du camping en direction de Bakersfield. En route, on entend aux infos qu
 
 ## 19 juillet
 
-Une des nuits les plus chaudes depuis que nous sommes aux USA. Avant de quitter Bakersfield, nous passons à l’office de tourisme où nous sommes reçus par un monsieur très sympa qui nous donne toute la doc et les renseignements qui vont avec jusqu’à Yosemite. Nous partons vers le nord afin de rentrer dans la Sierra Nevada et plus particulièrement **Giant Sequoia National Monument** qui fait partie de Sequoia National Forest. Nous empruntons une très belle route de montagne pour arriver jusqu’au **Trail of 100 Giants**. Il s'agit d'une promenade facile et accessible (1,3 miles - 2 Km) à travers Long Meadow Grove, l'une des premières forêts de séquoias géants et met en valeur des monarques estimés jusqu'à 1500 ans. Toutefois, la forêt n'est pas composée uniquement de ces géants mais partage les lieux avec des pins  également très beaux et très hauts mais beaucoup plus fins. Ponderosa Pine et Sugar Pine sont les plus représentés. Malgré sa taille, le séquoia produit des cônes ou pignes de pin ridicules, guère plus grosses qu'un œuf de poule tandis que celles des Sugar Pines sont énormes, pas loin de 50 cm. Le parking est payant, 5 $ par véhicule, afin d'aider à maintenir et à améliorer les installations. Nous redescendons ensuite dans la plaine et faisons un arrêt à la bibliothèque puis au Walmart de Porterville.
+Une des nuits les plus chaudes depuis que nous sommes aux USA. Avant de quitter Bakersfield, nous passons à l’office de tourisme où nous sommes reçus par un monsieur très sympa qui nous donne toute la doc et les renseignements qui vont avec jusqu’à Yosemite. Nous partons vers le nord afin de rentrer dans la Sierra Nevada et plus particulièrement **Giant Sequoia National Monument** qui fait partie de Sequoia National Forest. Nous empruntons une très belle route de montagne pour arriver jusqu’au **Trail of 100 Giants**. Il s'agit d'une promenade facile et accessible (1,3 miles - 2 Km) à travers Long Meadow Grove, l'une des premières forêts de séquoias géants et met en valeur des monarques estimés jusqu'à 1500 ans. Toutefois, la forêt n'est pas composée uniquement de ces géants mais partage les lieux avec des pins également très beaux et très hauts mais beaucoup plus fins. Ponderosa Pine et Sugar Pine sont les plus représentés. Malgré sa taille, le séquoia produit des cônes ou pignes de pin ridicules, guère plus grosses qu'un œuf de poule tandis que celles des Sugar Pines sont énormes, pas loin de 50 cm. Le parking est payant, 5 \$ par véhicule, afin d'aider à maintenir et à améliorer les installations. Nous redescendons ensuite dans la plaine et faisons un arrêt à la bibliothèque puis au Walmart de Porterville.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/28733683727/in/datetaken/" title="Sequoia National Forest - Californie - [USA]"><img src="https://farm1.staticflickr.com/931/28733683727_4c4955b53a_k.jpg" width="2048" height="1152" alt="Sequoia National Forest - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -231,7 +255,7 @@ Une des nuits les plus chaudes depuis que nous sommes aux USA. Avant de quitter 
 
 ## 20 juillet
 
-Hier soir, il y avait plus de 40°C dans Thor et nous avons passé une mauvaise nuit. Départ de Poterville direction plein Nord vers **Sequoia et Kings Canyon National Parks** Nous faisons un complément de gazoline à Lindsay car elle n’est pas trop chère. Si il y a bien un état où il faut comparer les prix, c’est bien en Californie où nous avons trouvé de la gazoline à plus de 4$ le galon. Nous longeons d’immenses propriétés où l’on cultive agrumiers, vignes et oliviers. Le contraste entre le vert des arbres et les décors alentour complètement brûlés par le soleil et saisissant. Il faut dire que tous les pieds des arbres sont arrosés par un goutte à goutte. Les oliviers sont juste taillés en rond et sont très touffus, pas du tout taillés comme en Provence. Préférant les petites routes, nous ne passons pas par l’Interstate et Fresno mais par la 245. Pour le coup, on est servi, la route de montagne est vraiment très étroite…
+Hier soir, il y avait plus de 40°C dans Thor et nous avons passé une mauvaise nuit. Départ de Poterville direction plein Nord vers **Sequoia et Kings Canyon National Parks** Nous faisons un complément de gazoline à Lindsay car elle n’est pas trop chère. Si il y a bien un état où il faut comparer les prix, c’est bien en Californie où nous avons trouvé de la gazoline à plus de 4\$ le gallon. Nous longeons d’immenses propriétés où l’on cultive agrumiers, vignes et oliviers. Le contraste entre le vert des arbres et les décors alentour complètement brûlés par le soleil et saisissant. Il faut dire que tous les pieds des arbres sont arrosés par un goutte à goutte. Les oliviers sont juste taillés en rond et sont très touffus, pas du tout taillés comme en Provence. Préférant les petites routes, nous ne passons pas par l’Interstate et Fresno mais par la 245. Pour le coup, on est servi, la route de montagne est vraiment très étroite…
 Nous arrivons par l’entrée Nord du parc car la route qui conduit à l’entrée Sud du parc depuis "Three Rivers" est interdite aux RV de plus de 22 pieds à partir de "Potwisha".
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/43621003191/in/datetaken/" title="Kings Canyon NP - Californie - [USA]"><img src="https://farm1.staticflickr.com/926/43621003191_c8e378fb52_k.jpg" width="2048" height="1152" alt="Kings Canyon NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -244,7 +268,7 @@ Nuit fraîche, calme, obscure… le pied. Ce matin, il fait très beau. Comme hi
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/43621087031/in/datetaken/" title="Kings Canyon NP - Californie - [USA]"><img src="https://farm1.staticflickr.com/856/43621087031_b20c64e352_k.jpg" width="2048" height="1152" alt="Kings Canyon NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A la fin du trail, quelques gouttes tombent. Après un petit bain de jambes dans la rivière dans une eau glaciale, on déjeune, un peu tard, et on retourne au camping. Il ne nous reste plus qu’un tiers d’eau dans le réservoir, on décide, avec notre bidon de 7 galons, de remplir un peu notre réservoir. Il s’agit d’un campground de parc et souvent il n’y a pas de dump, juste des robinets pour l’eau des campeurs. On s’adapte toujours…
+A la fin du trail, quelques gouttes tombent. Après un petit bain de jambes dans la rivière dans une eau glaciale, on déjeune, un peu tard, et on retourne au camping. Il ne nous reste plus qu’un tiers d’eau dans le réservoir, on décide, avec notre bidon de 7 gallons, de remplir un peu notre réservoir. Il s’agit d’un campground de parc et souvent il n’y a pas de dump, juste des robinets pour l’eau des campeurs. On s’adapte toujours…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/43573387302/in/datetaken/" title="Kings Canyon NP - Californie - [USA]"><img src="https://farm1.staticflickr.com/916/43573387302_f8e9c968cb_k.jpg" width="2048" height="1152" alt="Kings Canyon NP - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
