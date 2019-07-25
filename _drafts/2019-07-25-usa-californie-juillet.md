@@ -42,7 +42,7 @@ states: ["Idaho", "Utah", "Nevada", "Californie"]
 category: "roadmap"
 flickr-text: ""
 location: "40.117247, -119.602120"
-itinary: "2019/californie.json"
+itinary: "2020/californie.json"
 mapZoom: 5
 ---
 
