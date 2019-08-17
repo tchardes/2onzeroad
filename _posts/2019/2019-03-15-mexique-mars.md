@@ -43,7 +43,7 @@ pois:
   ]
 country: Mexique
 states:
-  ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacán", "Mexico", "Hidalgo"]
+  ["Guanajuato", "Jalisco", "Aguascalientes", "Michoacan", "Mexico", "Hidalgo"]
 category: "roadmap"
 flickr-text: ""
 location: "20.529520, -101.855472"
