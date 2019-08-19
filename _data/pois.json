@@ -842,7 +842,11 @@
     "displayName": "Sierra de Órganos - Parc National",
     "type": "nature"
   },
-  { "name": "saltito", "displayName": "Cascades El Saltito", "type": "nature" },
+  {
+    "name": "saltito",
+    "displayName": "El Saltito - Cascades",
+    "type": "nature"
+  },
   {
     "name": "missions-gorda",
     "displayName": "Missions franciscaines de la Sierra Gorda",
