@@ -216,7 +216,7 @@ permalink: ./index.html
           </div>
           <hr />
           <div>
-              <h3>Catégories</h3>
+              <h3>Articles par catégories</h3>
               {% assign categories = "" | split:"|"  %}
               {% for post in site.posts %}
               {% if categories contains post.category %}
@@ -225,7 +225,7 @@ permalink: ./index.html
                 {% endif %}
               {% endfor %}
 
-              <div><a href="{{ site.baseurl }}/writing"/><i style="width:26px;color:#E88439;" class="fa fa-folder-open"></i>Toutes</a></div>
+              <div><a href="{{ site.baseurl }}/list"/><i style="width:26px;color:#E88439;" class="fa fa-folder-open"></i>Toutes categories</a></div>
 
               {% for category in categories %}
                 <div><a href="{{ site.baseurl }}/writing/category/{{ category | slugify }}"/><i style="width:26px;" class="fa fa-folder-open color-{{category}}"></i>{{category | replace: 'roadmap', 'Carnet de route' | capitalize }}</a></div>
