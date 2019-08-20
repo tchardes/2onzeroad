@@ -1,1110 +1,387 @@
 [
-  { "name": "miami", "displayName": "Miami", "type": "ville" },
-  { "name": "niagara", "displayName": "Chutes du Niagara", "type": "nature" },
-  { "name": "key-west", "displayName": "Key West", "type": "ville" },
-  {
-    "name": "everglades-np",
-    "displayName": "Everglades National Park",
-    "type": "nature"
-  },
-  {
-    "name": "nasa",
-    "displayName": "NASA - Kennedy Space Center - Cap Canaveral",
-    "type": "autre"
-  },
-  { "name": "savannah", "displayName": "Savannah", "type": "ville" },
-  { "name": "charleston", "displayName": "Charleston", "type": "ville" },
-  {
-    "name": "congaree-np",
-    "displayName": "Congaree National Park",
-    "type": "nature"
-  },
-  { "name": "cherokee", "displayName": "Cherokee", "type": "ville" },
-  {
-    "name": "blue-ridge-pw",
-    "displayName": "Blue Ridge ParkWay",
-    "type": "nature"
-  },
-  {
-    "name": "shenandoah",
-    "displayName": "Shenandoah National Park",
-    "type": "nature"
-  },
-  { "name": "appalaches", "displayName": "Appalaches", "type": "nature" },
-  {
-    "name": "great-smoky-mountains",
-    "displayName": "Great Smoky Mountains National Park",
-    "type": "nature"
-  },
-  { "name": "washington-dc", "displayName": "Washington DC", "type": "ville" },
-  { "name": "philadelphie", "displayName": "Philadelphie", "type": "ville" },
-  { "name": "new-york", "displayName": "New York", "type": "ville" },
-  { "name": "boston", "displayName": "Boston", "type": "ville" },
-  { "name": "cap-breton", "displayName": "Cap Breton", "type": "nature" },
-  {
-    "name": "hautes-terres",
-    "displayName": "Cape Breton Highlands National Park",
-    "type": "nature"
-  },
-  { "name": "cheticamp", "displayName": "Chéticamp", "type": "ville" },
-  { "name": "cabot-trail", "displayName": "Cabot Trail", "type": "nature" },
-  { "name": "quebec", "displayName": "Québec", "type": "ville" },
-  { "name": "montreal", "displayName": "Montréal", "type": "ville" },
-  { "name": "ottawa", "displayName": "Ottawa", "type": "ville" },
-  { "name": "toronto", "displayName": "Toronto", "type": "ville" },
-  { "name": "chicago", "displayName": "Chicago", "type": "ville" },
-  {
-    "name": "badland-np",
-    "displayName": "Badland National Park",
-    "type": "nature"
-  },
-  {
-    "name": "yellowstone-np",
-    "displayName": "Yellowstone National Park",
-    "type": "nature"
-  },
-  {
-    "name": "glacier-np",
-    "displayName": "Glacier National Park",
-    "type": "nature"
-  },
-  {
-    "name": "banff-jasper-np",
-    "displayName": "Banff & Jasper National Park",
-    "type": "nature"
-  },
-  {
-    "name": "denali-np",
-    "displayName": "Denali National Park & Preserve",
-    "type": "nature"
-  },
-  { "name": "fish-creek", "displayName": "Fish Creek", "type": "nature" },
-  {
-    "name": "vancouver-island",
-    "displayName": "Vancouver Island",
-    "type": "nature"
-  },
-  {
-    "name": "crater-lake-np",
-    "displayName": "Crater Lake National Park",
-    "type": "nature"
-  },
-  {
-    "name": "lava-beds-nm",
-    "displayName": "Lava Beds National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "lassen-volcanic-np",
-    "displayName": "Lassen Volcanic National Park",
-    "type": "nature"
-  },
-  { "name": "san-francisco", "displayName": "San Francisco", "type": "ville" },
-  {
-    "name": "navy-seal",
-    "displayName": "Navy Seal National Museum",
-    "type": "autre"
-  },
-  {
-    "name": "saint-augustine",
-    "displayName": "Saint Augustine",
-    "type": "ville"
-  },
-  {
-    "name": "fort-caroline",
-    "displayName": "Fort Caroline National Park",
-    "type": "nature"
-  },
-  {
-    "name": "grotte-luray",
-    "displayName": "Grotte de Luray",
-    "type": "nature"
-  },
-  { "name": "salem", "displayName": "Salem", "type": "ville" },
-  { "name": "newport", "displayName": "Newport", "type": "ville" },
-  { "name": "acadia", "displayName": "Acadia National Park", "type": "nature" },
-  { "name": "louisbourg", "displayName": "Louisbourg", "type": "ville" },
-  { "name": "halifax", "displayName": "Halifax", "type": "ville" },
-  { "name": "peggyscove", "displayName": "Peggy’s Cove", "type": "ville" },
-  { "name": "lunenburg", "displayName": "Lunenburg", "type": "ville" },
-  { "name": "grand-pre", "displayName": "Grand Prè", "type": "nature" },
-  {
-    "name": "ile-du-prince-edouard",
-    "displayName": "Ile Du Prince Édouard",
-    "type": "nature"
-  },
-  { "name": "shediac", "displayName": "Shediac", "type": "ville" },
-  {
-    "name": "parc-des-monts-valins",
-    "displayName": "Parc des Monts Valins",
-    "type": "nature"
-  },
-  { "name": "detroit", "displayName": "Detroit", "type": "ville" },
-  {
-    "name": "motown",
-    "displayName": "Tamla Motown (Studio A)",
-    "type": "autre"
-  },
-  { "name": "milwaukee", "displayName": "Milwaukee", "type": "ville" },
-  { "name": "summerfest", "displayName": "Summerfest", "type": "autre" },
-  {
-    "name": "harley-davidson",
-    "displayName": "Harley Davidson Museum",
-    "type": "autre"
-  },
-  {
-    "name": "mont-rushmore",
-    "displayName": "Mont Rushmore National Memorial",
-    "type": "nature"
-  },
-  {
-    "name": "crazy-horse",
-    "displayName": "Crazy Horse Memorial",
-    "type": "nature"
-  },
-  {
-    "name": "devils-tower",
-    "displayName": "Devils Tower National Monument",
-    "type": "nature"
-  },
-  { "name": "cody", "displayName": "Cody", "type": "ville" },
-  { "name": "rodeo", "displayName": "Rodéo", "type": "autre" },
-  { "name": "waterton", "displayName": "Waterton", "type": "ville" },
-  { "name": "calgary", "displayName": "Calgary", "type": "ville" },
-  { "name": "dawson-city", "displayName": "Dawson City", "type": "ville" },
-  {
-    "name": "top-world",
-    "displayName": "Top of the World Highway",
-    "type": "nature"
-  },
-  { "name": "chicken", "displayName": "Chicken", "type": "ville" },
-  { "name": "fairbanks", "displayName": "Fairbanks", "type": "ville" },
-  { "name": "dalton", "displayName": "Dalton Highway", "type": "nature" },
-  {
-    "name": "cercle-polaire",
-    "displayName": "Cercle Polaire",
-    "type": "nature"
-  },
-  { "name": "kenai", "displayName": "Kenaï (péninsule)", "type": "nature" },
-  { "name": "homer", "displayName": "Homer", "type": "ville" },
-  { "name": "whitthier", "displayName": "Whitthier", "type": "ville" },
-  { "name": "anchorage", "displayName": "Anchorage", "type": "ville" },
-  {
-    "name": "kluane",
-    "displayName": "Kluane National Park and Reserve",
-    "type": "nature"
-  },
-  { "name": "haines", "displayName": "Haines", "type": "ville" },
-  { "name": "skagway", "displayName": "Skagway", "type": "ville" },
-  { "name": "carcross", "displayName": "Carcross", "type": "ville" },
-  { "name": "whitehorse", "displayName": "Whitehorse", "type": "ville" },
-  { "name": "teslin", "displayName": "Teslin", "type": "ville" },
-  { "name": "watson-lake", "displayName": "Watson Lake", "type": "ville" },
-  { "name": "stewart", "displayName": "Stewart", "type": "ville" },
-  { "name": "gitanyow", "displayName": "Gitanyow", "type": "ville" },
-  { "name": "gitwangak", "displayName": "Gitwangak", "type": "ville" },
-  { "name": "smithers", "displayName": "Smithers", "type": "ville" },
-  { "name": "houston", "displayName": "Houston", "type": "ville" },
-  { "name": "prince-george", "displayName": "Prince George", "type": "ville" },
-  {
-    "name": "vancouver-city",
-    "displayName": "Vancouver City",
-    "type": "ville"
-  },
-  { "name": "seattle", "displayName": "Seattle", "type": "ville" },
-  { "name": "port-townsend", "displayName": "Port Townsend", "type": "ville" },
-  {
-    "name": "evergreen",
-    "displayName": "Evergreen Aviation & Space Museum",
-    "type": "autre"
-  },
-  {
-    "name": "olympic",
-    "displayName": "Olympic National Park",
-    "type": "nature"
-  },
-  {
-    "name": "galatin",
-    "displayName": "Galatin National Forest",
-    "type": "nature"
-  },
-  { "name": "helens", "displayName": "Mont St Helens", "type": "nature" },
-  { "name": "victoria", "displayName": "Victoria", "type": "ville" },
-  { "name": "tofino", "displayName": "Tofino", "type": "nature" },
-  { "name": "ucluelet", "displayName": "Ucluelet", "type": "nature" },
-  {
-    "name": "saguenay",
-    "displayName": "Fjord Saguenay Parc d'état",
-    "type": "nature"
-  },
-  { "name": "yoda", "displayName": "Yoda", "type": "autre" },
-  {
-    "name": "golden-gate",
-    "displayName": "Golden Gate Bridge",
-    "type": "autre"
-  },
-  {
-    "name": "hautes-terres",
-    "displayName": "Parc National des Hautes Terres",
-    "type": "nature"
-  },
-  { "name": "getty", "displayName": "Getty villa et musée", "type": "autre" },
-  {
-    "name": "point-reyes",
-    "displayName": "Point Reyes National Seashore",
-    "type": "nature"
-  },
-  {
-    "name": "death-valley",
-    "displayName": "Death Valley National Park",
-    "type": "nature"
-  },
-  { "name": "napa", "displayName": "Napa", "type": "ville" },
-  { "name": "sonoma", "displayName": "Sonoma", "type": "ville" },
-  { "name": "sausalito", "displayName": "Sausalito", "type": "ville" },
-  { "name": "tamalpais", "displayName": "Mont Tamalpais", "type": "nature" },
-  {
-    "name": "monterey",
-    "displayName": "Aquarium de Monterey",
-    "type": "autre"
-  },
-  {
-    "name": "monarch",
-    "displayName": "Monarch Butterfly Sanctuary",
-    "type": "nature"
-  },
-  { "name": "carmel", "displayName": "Carmel by the Sea", "type": "ville" },
-  {
-    "name": "mission-carmel",
-    "displayName": "Mission carmel",
-    "type": "autre"
-  },
-  { "name": "solvang", "displayName": "Solvang", "type": "ville" },
-  { "name": "santa", "displayName": "Santa Barbara", "type": "ville" },
-  {
-    "name": "old",
-    "displayName": "Old Mission Santa Barbara",
-    "type": "autre"
-  },
-  { "name": "studio", "displayName": "Universal Studios", "type": "autre" },
-  {
-    "name": "hollywood",
-    "displayName": "Hollywood Boulevard",
-    "type": "ville"
-  },
-  {
-    "name": "griffith",
-    "displayName": "Observatoire Griffith",
-    "type": "autre"
-  },
-  { "name": "las-vegas", "displayName": "Las Vegas", "type": "ville" },
-  {
-    "name": "pinacate",
-    "displayName": "Réserve de la Biosphère El Pinacate",
-    "type": "nature"
-  },
-  { "name": "altar", "displayName": "Grand Désert d'Altar", "type": "nature" },
-  {
-    "name": "organ-pipe",
-    "displayName": "Organ Pipe Cactus National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "chiricahua",
-    "displayName": "Chiricahua National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "red-rock-canyon",
-    "displayName": "Red Rock Canyon National Conservation Area",
-    "type": "nature"
-  },
-  { "name": "hoover", "displayName": "Barrage Hoover", "type": "autre" },
-  { "name": "oatman", "displayName": "Oatman", "type": "ville" },
-  {
-    "name": "kofa",
-    "displayName": "Kofa National Wildlife Refuge",
-    "type": "nature"
-  },
-  { "name": "route-66", "displayName": "Route 66", "type": "autre" },
-  { "name": "ajo", "displayName": "Ajo", "type": "ville" },
-  { "name": "tucson", "displayName": "Tucson", "type": "ville" },
-  { "name": "tombstone", "displayName": "Tombstone", "type": "ville" },
-  {
-    "name": "gila-cliff",
-    "displayName": "Gila Cliff Dwellings National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "white-sands",
-    "displayName": "White Sands National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "carlsbad",
-    "displayName": "Carlsbad Caverns National Park",
-    "type": "nature"
-  },
-  {
-    "name": "city-of-rocks",
-    "displayName": "City of Rocks State Parc",
-    "type": "nature"
-  },
-  { "name": "el-paso", "displayName": "El Paso", "type": "ville" },
-  {
-    "name": "chamizal",
-    "displayName": "Chamizal National Memorial",
-    "type": "autre"
-  },
-  { "name": "fort-bliss", "displayName": "Fort Bliss Museum", "type": "autre" },
-  {
-    "name": "guadalupe",
-    "displayName": "Guadalupe Mountains National Park",
-    "type": "nature"
-  },
-  {
-    "name": "big-bend",
-    "displayName": "Big Bend National Park",
-    "type": "nature"
-  },
-  { "name": "san-antonio", "displayName": "San Antonio", "type": "ville" },
-  { "name": "lafayette", "displayName": "Lafayette", "type": "ville" },
-  {
-    "name": "acadian",
-    "displayName": "Acadian Cultural Center",
-    "type": "autre"
-  },
-  { "name": "oak", "displayName": "Oak Alley Plantation", "type": "autre" },
-  { "name": "nola", "displayName": "Nouvelle-Orléans", "type": "ville" },
-  { "name": "baton", "displayName": "Bâton Rouge", "type": "ville" },
-  {
-    "name": "samnhp",
-    "displayName": "San Antonio Missions National Historic Park",
-    "type": "autre"
-  },
-  {
-    "name": "nasa1",
-    "displayName": "NASA - Johnson Space Center - Houston",
-    "type": "autre"
-  },
-  {
-    "name": "great-sand",
-    "displayName": "Great Sand Dunes National Park & Preserve",
-    "type": "nature"
-  },
-  {
-    "name": "bandelier",
-    "displayName": "Bandelier National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "tent-rocks",
-    "displayName": "Kasha-Katuwe Tent Rocks National Monument",
-    "type": "nature"
-  },
-  { "name": "natchez", "displayName": "Natchez", "type": "ville" },
-  {
-    "name": "natchez-trace",
-    "displayName": "Natchez Trace Parkway",
-    "type": "nature"
-  },
-  { "name": "vicksburg", "displayName": "Vicksburg", "type": "ville" },
-  {
-    "name": "vicksburg-military",
-    "displayName": "Vicksburg National Military Park",
-    "type": "autre"
-  },
-  { "name": "leland", "displayName": "Leland", "type": "ville" },
-  { "name": "indianola", "displayName": "Indianola", "type": "ville" },
-  { "name": "grammy-museum", "displayName": "Grammy Museum", "type": "autre" },
-  { "name": "devil", "displayName": "Devil’s Crossroad", "type": "autre" },
-  { "name": "clarksdale", "displayName": "Clarksdale", "type": "ville" },
-  { "name": "tupelo", "displayName": "Tupelo", "type": "ville" },
-  { "name": "nashville", "displayName": "Nashville", "type": "ville" },
-  {
-    "name": "mammoth",
-    "displayName": "Mammoth Cave National Park",
-    "type": "nature"
-  },
-  { "name": "memphis", "displayName": "Memphis", "type": "ville" },
-  { "name": "graceland", "displayName": "Graceland", "type": "autre" },
-  {
-    "name": "civil-right",
-    "displayName": "National Civil Rights Museum",
-    "type": "autre"
-  },
-  {
-    "name": "hot-springs",
-    "displayName": "Hot Springs National Park",
-    "type": "ville"
-  },
-  { "name": "oklahoma", "displayName": "Oklahoma City", "type": "ville" },
-  {
-    "name": "palo-duro",
-    "displayName": "Palo Duro Canyon State Park",
-    "type": "nature"
-  },
-  { "name": "cadillac", "displayName": "Cadillac Ranch", "type": "autre" },
-  { "name": "albuquerque", "displayName": "Albuquerque", "type": "ville" },
-  {
-    "name": "petroglyph",
-    "displayName": "Petroglyph National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "pecos",
-    "displayName": "Pecos National Historic Park",
-    "type": "nature"
-  },
-  { "name": "los-alamos", "displayName": "Los Alamos", "type": "ville" },
-  {
-    "name": "manhattan-project",
-    "displayName": "Manhattan Project Historical Park",
-    "type": "autre"
-  },
-  { "name": "white-place", "displayName": "White Place", "type": "nature" },
-  { "name": "ghost-ranch", "displayName": "Ghost Ranch", "type": "nature" },
-  { "name": "chimayo", "displayName": "Santuario de Chimayó", "type": "autre" },
-  { "name": "taos", "displayName": "Taos", "type": "ville" },
-  {
-    "name": "great-sand",
-    "displayName": "Great Sand Dunes National Park And Preserve",
-    "type": "nature"
-  },
-  {
-    "name": "mesa-verde",
-    "displayName": "Mesa Verde National Park",
-    "type": "nature"
-  },
-  {
-    "name": "bisti",
-    "displayName": "Bisti Badlands/ De-Na-Zin Wilderness",
-    "type": "nature"
-  },
-  {
-    "name": "malpais",
-    "displayName": "El Malpais National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "morro",
-    "displayName": "El Morro National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "chelly",
-    "displayName": "Canyon de Chelly National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "petrified",
-    "displayName": "Petrified Forest National Park",
-    "type": "nature"
-  },
-  {
-    "name": "montezuma",
-    "displayName": "Montezuna Castle National Monument",
-    "type": "autre"
-  },
-  {
-    "name": "montezuma",
-    "displayName": "Montezuna Well National Monument",
-    "type": "autre"
-  },
-  {
-    "name": "tuzigot",
-    "displayName": "Tuzigot National Monument",
-    "type": "autre"
-  },
-  {
-    "name": "watson-lake-park",
-    "displayName": "Watson Lake Park",
-    "type": "nature"
-  },
-  {
-    "name": "four-corners",
-    "displayName": "Four Corners Monument",
-    "type": "autre"
-  },
-  { "name": "silverton", "displayName": "Silverton", "type": "ville" },
-  {
-    "name": "million",
-    "displayName": "Million Dollars Highway",
-    "type": "autre"
-  },
-  {
-    "name": "shiprock",
-    "displayName": "Shiprock National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "black-canyon",
-    "displayName": "Black Canyon of the Gunnison National Park",
-    "type": "nature"
-  },
-  {
-    "name": "anasazi",
-    "displayName": "Anasazi Heritage Center",
-    "type": "autre"
-  },
-  { "name": "lowri", "displayName": "Lowry Pueblo Ruin", "type": "autre" },
-  {
-    "name": "hovenweep",
-    "displayName": "Hovenweep National Monument",
-    "type": "autre"
-  },
-  { "name": "garden", "displayName": "Garden Of The Gods", "type": "nature" },
-  {
-    "name": "florissant",
-    "displayName": "Florissant Fossil Beds National Monument",
-    "type": "autre"
-  },
-  { "name": "usafa", "displayName": "U.S. Air Force Academy", "type": "autre" },
-  { "name": "denver", "displayName": "Denver", "type": "ville" },
-  {
-    "name": "little-painted",
-    "displayName": "Little Painted Desert County Park",
-    "type": "nature"
-  },
-  {
-    "name": "sunset-crater",
-    "displayName": "Sunset Crater Volcano National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "wupatki",
-    "displayName": "Wupatki National Monument",
-    "type": "autre"
-  },
-  { "name": "sedona", "displayName": "Sedona", "type": "ville" },
-  {
-    "name": "meteor",
-    "displayName": "Meteor Crater Natural Landmark",
-    "type": "nature"
-  },
-  {
-    "name": "grand-canyon-sud",
-    "displayName": "Grand Canyon National Park - Rim Sud",
-    "type": "nature"
-  },
-  {
-    "name": "barrage-powel",
-    "displayName": "Barrage du Lac Powell",
-    "type": "autre"
-  },
-  { "name": "secret", "displayName": "Secret Slot Canyon", "type": "nature" },
-  { "name": "Horseshoe", "displayName": "Horseshoe Bend", "type": "nature" },
-  { "name": "little-cut", "displayName": "The Little Cut", "type": "nature" },
-  {
-    "name": "monument-valley",
-    "displayName": "Monument Valley",
-    "type": "nature"
-  },
-  { "name": "mexican-hat", "displayName": "Mexican Hat", "type": "nature" },
-  {
-    "name": "goosenecks",
-    "displayName": "Goosenecks State Park",
-    "type": "nature"
-  },
-  {
-    "name": "valley-gods",
-    "displayName": "Valley Of The Gods",
-    "type": "nature"
-  },
-  { "name": "arches", "displayName": "Arches National Park", "type": "nature" },
-  {
-    "name": "canyonlands",
-    "displayName": "Canyonlands National Park - Island In The Sky",
-    "type": "nature"
-  },
-  {
-    "name": "capitol-reef",
-    "displayName": "Capitol Reef National Park ",
-    "type": "nature"
-  },
-  {
-    "name": "scenic12",
-    "displayName": "Highway 12 Scenic ByWay",
-    "type": "nature"
-  },
-  { "name": "bryce", "displayName": "Bryce National Park", "type": "nature" },
-  { "name": "zion", "displayName": "Zion National Park", "type": "nature" },
-  {
-    "name": "valley-fire",
-    "displayName": "Valley Of Fire State Park",
-    "type": "nature"
-  },
-  {
-    "name": "teton",
-    "displayName": "Grand Teton National Park",
-    "type": "nature"
-  },
-  {
-    "name": "grand-canyon-nord",
-    "displayName": "Grand Canyon National Park - Rim Nord",
-    "type": "nature"
-  },
-  { "name": "marble-canyon", "displayName": "Marble Canyon", "type": "nature" },
-  {
-    "name": "kodachrome",
-    "displayName": "Kodachrome Basin State Park",
-    "type": "nature"
-  },
-  {
-    "name": "goblin",
-    "displayName": "Goblin’s Valley State Park",
-    "type": "nature"
-  },
-  {
-    "name": "colorado",
-    "displayName": "Colorado National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "grand-mesa",
-    "displayName": "Grand Mesa National Forest",
-    "type": "nature"
-  },
-  { "name": "marron-bells", "displayName": "Marron Bells", "type": "nature" },
-  { "name": "red", "displayName": "Red Rocks Amphitheatre", "type": "nature" },
-  {
-    "name": "roxborough",
-    "displayName": "Roxborough State Park",
-    "type": "nature"
-  },
-  {
-    "name": "rocky-mountain",
-    "displayName": "Rocky Mountain National Park",
-    "type": "nature"
-  },
-  {
-    "name": "dinosaur",
-    "displayName": "Dinosaur National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "staircase",
-    "displayName": "Grand Staircase-Escalante National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "crater-moon",
-    "displayName": "Craters Of The Moon National Monument & Preserve",
-    "type": "nature"
-  },
-  { "name": "ebr", "displayName": "EBR-1 Atomic Museum", "type": "autre" },
-  {
-    "name": "hagerman",
-    "displayName": "Hagerman Fossil Beds National Monument",
-    "type": "nature"
-  },
-  { "name": "shoshone", "displayName": "Shoshone Falls", "type": "nature" },
-  {
-    "name": "golden-spike",
-    "displayName": "Golden Spike National Historic Site",
-    "type": "autre"
-  },
-  {
-    "name": "antelope-island",
-    "displayName": "Antelope Island State Park",
-    "type": "nature"
-  },
-  { "name": "salt-lake", "displayName": "Salt Lake City", "type": "ville" },
-  {
-    "name": "timpanogos",
-    "displayName": "Timpanogos Cave National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "bingham",
-    "displayName": "Mine de Bingham Canyon",
-    "type": "autre"
-  },
-  { "name": "tahoe", "displayName": "Tahoe Lake", "type": "nature" },
-  {
-    "name": "travertine",
-    "displayName": "Travertine Hot Springs",
-    "type": "nature"
-  },
-  { "name": "bodie", "displayName": "Bodie Ghost Town", "type": "ville" },
-  { "name": "mono-lake", "displayName": "Mono Lake", "type": "nature" },
-  { "name": "mammoth", "displayName": "Mammoth Lakes", "type": "nature" },
-  {
-    "name": "postpile",
-    "displayName": "Devils Postpile National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "manzanar",
-    "displayName": "Manzanar National Historic Site",
-    "type": "autre"
-  },
-  {
-    "name": "giant-sequoia",
-    "displayName": "Giant Sequoia National Monument",
-    "type": "nature"
-  },
-  {
-    "name": "kings",
-    "displayName": "Kings Canyon National Parks",
-    "type": "nature"
-  },
-  {
-    "name": "sequoia",
-    "displayName": "Sequoia National Parks",
-    "type": "nature"
-  },
-  {
-    "name": "yosemite",
-    "displayName": "Yosemite National Park",
-    "type": "nature"
-  },
-  { "name": "mariposa", "displayName": "Mariposa Groove", "type": "nature" },
-  { "name": "google", "displayName": "Googleplex Campus", "type": "autre" },
-  {
-    "name": "bonneville",
-    "displayName": "Bonneville Salt Flats International Speedway",
-    "type": "autre"
-  },
-  {
-    "name": "joshua",
-    "displayName": "Joshua Tree National Parc",
-    "type": "nature"
-  },
-  { "name": "mosaic-steps", "displayName": "Mosaic Steps", "type": "autre" },
-  { "name": "bagdad", "displayName": "Bagdad Cafe", "type": "autre" },
-  { "name": "calico", "displayName": "Calico Ghost Town", "type": "ville" },
-  {
-    "name": "elmer",
-    "displayName": "Elmer's Bottle Tree Ranch",
-    "type": "autre"
-  },
-  { "name": "palm-springs", "displayName": "Palm Springs", "type": "ville" },
-  {
-    "name": "indian-canyon",
-    "displayName": "Indian Canyons",
-    "type": "nature"
-  },
-  { "name": "salvation", "displayName": "Salvation Mountain", "type": "autre" },
-  { "name": "slab", "displayName": "Slab City", "type": "ville" },
-  { "name": "san-diego", "displayName": "San Diego", "type": "ville" },
-  { "name": "venice-beach", "displayName": "Venice Beach", "type": "autre" },
-  { "name": "santa-monica", "displayName": "Santa Monica", "type": "autre" },
-  { "name": "los-angeles", "displayName": "Los Angeles", "type": "ville" },
-
-  {
-    "name": "tecate",
-    "displayName": "Passage frontière Mexique à Tecate",
-    "type": "autre"
-  },
-  { "name": "ensenada", "displayName": "Ensenada", "type": "ville" },
-  { "name": "bufadora", "displayName": "La Bufadora", "type": "nature" },
-  {
-    "name": "bahia-angeles",
-    "displayName": "Bahia De Los Angeles",
-    "type": "nature"
-  },
-  { "name": "grosnegro", "displayName": "Guerreo Negro", "type": "ville" },
-  { "name": "ojoliebre", "displayName": "Ojo de Liebre", "type": "nature" },
-  {
-    "name": "salar-vizcaïno",
-    "displayName": "Salar Biosphère de Vizcaïno",
-    "type": "nature"
-  },
-  { "name": "san-ignacio", "displayName": "San Ignacio", "type": "ville" },
-  { "name": "santa-rosalia", "displayName": "Santa Rosalia", "type": "ville" },
-  { "name": "mulege", "displayName": "Mulegé", "type": "ville" },
-  {
-    "name": "baja-conception",
-    "displayName": "Baja Conception",
-    "type": "nature"
-  },
-  { "name": "loreto", "displayName": "Loreto", "type": "ville" },
-  { "name": "san-javier", "displayName": "San Javier", "type": "ville" },
-  {
-    "name": "adolpho",
-    "displayName": "Adolpho Lopez Mateos",
-    "type": "nature"
-  },
-  { "name": "la-paz", "displayName": "La Paz", "type": "ville" },
-  { "name": "todos-santos", "displayName": "Todos Santos", "type": "ville" },
-  { "name": "punta-lobos", "displayName": "Punta Lobos", "type": "nature" },
-  { "name": "cabo-san-luca", "displayName": "Cabo San Luca", "type": "ville" },
-  {
-    "name": "tropique-cancer",
-    "displayName": "Tropique du Cancer",
-    "type": "autre"
-  },
-  { "name": "los-barriles", "displayName": "Los Barriles", "type": "ville" },
-  { "name": "cabo-pulmo", "displayName": "Cabo Pulmo", "type": "nature" },
-  {
-    "name": "sierra-organos",
-    "displayName": "Sierra de Órganos - Parc National",
-    "type": "nature"
-  },
-  {
-    "name": "saltito",
-    "displayName": "El Saltito - Cascades",
-    "type": "nature"
-  },
-  {
-    "name": "missions-gorda",
-    "displayName": "Missions franciscaines de la Sierra Gorda",
-    "type": "autre"
-  },
-  { "name": "mazatlan", "displayName": "Mazatlan", "type": "ville" },
-  { "name": "durango", "displayName": "Durango", "type": "ville" },
-  { "name": "zacatecas", "displayName": "Zacatecas", "type": "ville" },
-  {
-    "name": "chicomoztoc",
-    "displayName": "Chicomoztoc - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "quenada",
-    "displayName": "La Quenada - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "guadalupe2",
-    "displayName": "Musée de Guadalupe",
-    "type": "autre"
-  },
-  { "name": "media-luna", "displayName": "Media Luna", "type": "nature" },
-  {
-    "name": "cadereyta",
-    "displayName": "Cadereyta - Jardin Botanique Régional",
-    "type": "nature"
-  },
-  { "name": "tequisquiapan", "displayName": "Tequisquiapan", "type": "ville" },
-  {
-    "name": "santiago-de-queretaro",
-    "displayName": "Santiago de Querétaro",
-    "type": "ville"
-  },
-  {
-    "name": "pozos",
-    "displayName": "San Pedros de Los Pozos",
-    "type": "ville"
-  },
-  {
-    "name": "miguel-allende",
-    "displayName": "San Miguel de Allende",
-    "type": "ville"
-  },
-  {
-    "name": "dolores-hidalgo",
-    "displayName": "Dolores Hildago",
-    "type": "ville"
-  },
-  { "name": "viejo-oesto", "displayName": "Viejo-Oesto", "type": "autre" },
-  { "name": "concordia", "displayName": "Concordia", "type": "ville" },
-  {
-    "name": "el-rosario",
-    "displayName": "Sanctuaire de Mariposa - El Rosario",
-    "type": "nature"
-  },
-  {
-    "name": "tolantongo",
-    "displayName": "Tolantongo - Las Grutas",
-    "type": "nature"
-  },
-  {
-    "name": "tula",
-    "displayName": "Tula - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "actopan", "displayName": "Actopan", "type": "ville" },
-  { "name": "pachuca", "displayName": "Pachuca", "type": "ville" },
-  { "name": "tepotzotlan", "displayName": "Tepotzotlan", "type": "ville" },
-  { "name": "toluca", "displayName": "Toluca", "type": "ville" },
-  { "name": "metepec", "displayName": "Metepec", "type": "ville" },
-  {
-    "name": "valle-de-bravo",
-    "displayName": "Valle de Bravo",
-    "type": "ville"
-  },
-  {
-    "name": "calixtlahuaca",
-    "displayName": "Calixtlahuaca - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "malinalco",
-    "displayName": "Malinalco - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "cacahuamilpa",
-    "displayName": "Grutas de Cacahuamilpa Parc National ",
-    "type": "nature"
-  },
-  { "name": "taxco", "displayName": "Taxco", "type": "ville" },
-  {
-    "name": "xochicalco",
-    "displayName": "Xochicalco - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "cuernavaca", "displayName": "Cuernavaca", "type": "ville" },
-  { "name": "tepoztlan", "displayName": "Tepoztlan", "type": "autre" },
-  { "name": "yecapixtla", "displayName": "Yecapixtla", "type": "autre" },
-  { "name": "tlayacapan", "displayName": "Tlayacapan", "type": "autre" },
-  { "name": "puebla", "displayName": "Puebla", "type": "ville" },
-  { "name": "cholula", "displayName": "Cholula", "type": "ville" },
-  { "name": "huejotzingo", "displayName": "Huejotzingo", "type": "autre" },
-  {
-    "name": "xochitecatl",
-    "displayName": "Xochitécatl - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "cacaxtla",
-    "displayName": "Cacaxtla - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "tlaxcala", "displayName": "Tlaxcala", "type": "ville" },
-  { "name": "alcoman", "displayName": "Alcoman", "type": "autre" },
-  {
-    "name": "teotihuacan",
-    "displayName": "Teotihuacan - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "mexico", "displayName": "Mexico", "type": "ville" },
-  {
-    "name": "el-tajin",
-    "displayName": "El-Tajin - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "cantona",
-    "displayName": "Cantona - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "xalapa", "displayName": "Xalapa", "type": "autre" },
-  { "name": "veracruz", "displayName": "Veracruz", "type": "ville" },
-
-  {
-    "name": "monte-alban",
-    "displayName": "Monte Alban - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "oaxaca", "displayName": "Oaxaca", "type": "ville" },
-  { "name": "tlacochahuaya", "displayName": "Tlacochahuaya", "type": "autre" },
-  { "name": "tlacolula", "displayName": "Tlacolula", "type": "autre" },
-  {
-    "name": "milta",
-    "displayName": "Milta - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "hierve-el-agua",
-    "displayName": "Hierve El Agua",
-    "type": "nature"
-  },
-  {
-    "name": "tuxla-gutierrez",
-    "displayName": "Tuxla Gutierrez",
-    "type": "ville"
-  },
-  {
-    "name": "chiapa-de-corzo",
-    "displayName": "Chiapa De Corzo",
-    "type": "ville"
-  },
-  {
-    "name": "san-cristobal-casas",
-    "displayName": "San Cristobal De Las Casas",
-    "type": "ville"
-  },
-  {
-    "name": "tonina",
-    "displayName": "Tonina - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "el-chiflon", "displayName": "El Chiflon", "type": "nature" },
-  {
-    "name": "tziscao",
-    "displayName": "Tziscao - Parc Naturel",
-    "type": "nature"
-  },
-  { "name": "las-nubes", "displayName": "Las Nubes", "type": "nature" },
-  {
-    "name": "yaxchilan",
-    "displayName": "Yaxchilan - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "corozal", "displayName": "Frontera Corozal", "type": "ville" },
-  { "name": "agua-azul", "displayName": "Agua Azul", "type": "nature" },
-  {
-    "name": "palenque",
-    "displayName": "Palenque - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "edzna",
-    "displayName": "Edzna - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "campeche", "displayName": "Campeche", "type": "ville" },
-  {
-    "name": "uxmal",
-    "displayName": "Uxmal - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "kabah",
-    "displayName": "Kabah - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "sayil",
-    "displayName": "Sayil - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "klapak",
-    "displayName": "Klapak - Site Archéologique",
-    "type": "autre"
-  },
-  {
-    "name": "labna",
-    "displayName": "Labna - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "ochil", "displayName": "Ochil - Acienda", "type": "autre" },
-  { "name": "celestun", "displayName": "Celestun", "type": "ville" },
-  { "name": "merida", "displayName": "Merida", "type": "ville" },
-  { "name": "cuzama", "displayName": "Cuzama", "type": "ville" },
-  {
-    "name": "chacsinic-che",
-    "displayName": "Chacsinic Che - Cenote",
-    "type": "autre"
-  },
-  { "name": "bojoncho-jol", "displayName": "Bojoncho Jol", "type": "autre" },
-  { "name": "chan-ucil", "displayName": "Chan Ucil", "type": "autre" },
-  { "name": "izamal", "displayName": "Izamal", "type": "ville" },
-  { "name": "hoctun", "displayName": "Hoctun", "type": "ville" },
-  {
-    "name": "chichen-itza",
-    "displayName": "Chichen Itza - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "valladolid", "displayName": "Valladolid", "type": "ville" },
-  { "name": "keken", "displayName": "Keken - Cenote", "type": "autre" },
-  { "name": "samula", "displayName": "Samula - Cenote", "type": "autre" },
-  {
-    "name": "coba",
-    "displayName": "Coba - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "cancun", "displayName": "Cancun", "type": "ville" },
-  { "name": "ik-kil", "displayName": "Ik Kil - Cenote", "type": "autre" },
-  {
-    "name": "ek-balam",
-    "displayName": "Ek Balam - Site Archéologique",
-    "type": "autre"
-  },
-  { "name": "", "displayName": "", "type": "" },
-
-  { "name": "", "displayName": "", "type": "" }
+  { "name": "miami", "displayName": "Miami", "type": "ville", "country": "USA" },
+  { "name": "niagara", "displayName": "Chutes du Niagara", "type": "nature", "country": "USA" },
+  { "name": "key-west", "displayName": "Key West", "type": "ville", "country": "USA" },
+  { "name": "everglades-np", "displayName": "Everglades National Park", "type": "nature", "country": "USA" },
+  { "name": "nasa", "displayName": "NASA - Kennedy Space Center - Cap Canaveral", "type": "autre", "country": "USA" },
+  { "name": "savannah", "displayName": "Savannah", "type": "ville", "country": "USA" },
+  { "name": "charleston", "displayName": "Charleston", "type": "ville", "country": "USA" },
+  { "name": "congaree-np", "displayName": "Congaree National Park", "type": "nature", "country": "USA" },
+  { "name": "cherokee", "displayName": "Cherokee", "type": "ville", "country": "USA" },
+  { "name": "blue-ridge-pw", "displayName": "Blue Ridge ParkWay", "type": "nature", "country": "USA" },
+  { "name": "shenandoah", "displayName": "Shenandoah National Park", "type": "nature", "country": "USA" },
+  { "name": "appalaches", "displayName": "Appalaches", "type": "nature", "country": "USA" },
+  { "name": "great-smoky-mountains", "displayName": "Great Smoky Mountains National Park", "type": "nature", "country": "USA" },
+  { "name": "washington-dc", "displayName": "Washington DC", "type": "ville", "country": "USA" },
+  { "name": "philadelphie", "displayName": "Philadelphie", "type": "ville", "country": "USA" },
+  { "name": "new-york", "displayName": "New York", "type": "ville", "country": "USA" },
+  { "name": "boston", "displayName": "Boston", "type": "ville", "country": "USA" },
+  { "name": "cap-breton", "displayName": "Cap Breton", "type": "nature", "country": "Canada" },
+  { "name": "hautes-terres", "displayName": "Cape Breton Highlands National Park", "type": "nature", "country": "Canada" },
+  { "name": "cheticamp", "displayName": "Chéticamp", "type": "ville", "country": "Canada" },
+  { "name": "cabot-trail", "displayName": "Cabot Trail", "type": "nature", "country": "Canada" },
+  { "name": "quebec", "displayName": "Québec", "type": "ville", "country": "Canada" },
+  { "name": "montreal", "displayName": "Montréal", "type": "ville", "country": "Canada" },
+  { "name": "ottawa", "displayName": "Ottawa", "type": "ville", "country": "Canada" },
+  { "name": "toronto", "displayName": "Toronto", "type": "ville", "country": "Canada" },
+  { "name": "chicago", "displayName": "Chicago", "type": "ville", "country": "USA" },
+  { "name": "badland-np", "displayName": "Badland National Park", "type": "nature", "country": "USA" },
+  { "name": "yellowstone-np", "displayName": "Yellowstone National Park", "type": "nature", "country": "USA" },
+  { "name": "glacier-np", "displayName": "Glacier National Park", "type": "nature", "country": "USA" },
+  { "name": "banff-jasper-np", "displayName": "Banff & Jasper National Park", "type": "nature", "country": "Canada" },
+  { "name": "denali-np", "displayName": "Denali National Park & Preserve", "type": "nature", "country": "USA" },
+  { "name": "fish-creek", "displayName": "Fish Creek", "type": "nature", "country": "USA" },
+  { "name": "vancouver-island", "displayName": "Vancouver Island", "type": "nature", "country": "Canada" },
+  { "name": "crater-lake-np", "displayName": "Crater Lake National Park", "type": "nature", "country": "USA" },
+  { "name": "lava-beds-nm", "displayName": "Lava Beds National Monument", "type": "nature", "country": "USA" },
+  { "name": "lassen-volcanic-np", "displayName": "Lassen Volcanic National Park", "type": "nature", "country": "USA" },
+  { "name": "san-francisco", "displayName": "San Francisco", "type": "ville", "country": "USA" },
+  { "name": "navy-seal", "displayName": "Navy Seal National Museum", "type": "autre", "country": "USA" },
+  { "name": "saint-augustine", "displayName": "Saint Augustine", "type": "ville", "country": "USA" },
+  { "name": "fort-caroline", "displayName": "Fort Caroline National Park", "type": "nature", "country": "USA" },
+  { "name": "grotte-luray", "displayName": "Grotte de Luray", "type": "nature", "country": "USA" },
+  { "name": "salem", "displayName": "Salem", "type": "ville", "country": "USA" },
+  { "name": "newport", "displayName": "Newport", "type": "ville", "country": "USA" },
+  { "name": "acadia", "displayName": "Acadia National Park", "type": "nature", "country": "USA" },
+  { "name": "louisbourg", "displayName": "Louisbourg", "type": "ville", "country": "Canada" },
+  { "name": "halifax", "displayName": "Halifax", "type": "ville", "country": "Canada" },
+  { "name": "peggyscove", "displayName": "Peggy’s Cove", "type": "ville", "country": "Canada" },
+  { "name": "lunenburg", "displayName": "Lunenburg", "type": "ville", "country": "Canada" },
+  { "name": "grand-pre", "displayName": "Grand Prè", "type": "nature", "country": "Canada" },
+  { "name": "ile-du-prince-edouard", "displayName": "Ile Du Prince Édouard", "type": "nature", "country": "Canada" },
+  { "name": "shediac", "displayName": "Shediac", "type": "ville", "country": "Canada" },
+  { "name": "parc-des-monts-valins", "displayName": "Parc des Monts Valins", "type": "nature", "country": "Canada" },
+  { "name": "detroit", "displayName": "Detroit", "type": "ville", "country": "USA" },
+  { "name": "motown", "displayName": "Tamla Motown (Studio A)", "type": "autre", "country": "USA" },
+  { "name": "milwaukee", "displayName": "Milwaukee", "type": "ville", "country": "USA" },
+  { "name": "summerfest", "displayName": "Summerfest", "type": "autre", "country": "USA" },
+  { "name": "harley-davidson", "displayName": "Harley Davidson Museum", "type": "autre", "country": "USA" },
+  { "name": "mont-rushmore", "displayName": "Mont Rushmore National Memorial", "type": "nature", "country": "USA" },
+  { "name": "crazy-horse", "displayName": "Crazy Horse Memorial", "type": "nature", "country": "USA" },
+  { "name": "devils-tower", "displayName": "Devils Tower National Monument", "type": "nature", "country": "USA" },
+  { "name": "cody", "displayName": "Cody", "type": "ville", "country": "USA" },
+  { "name": "rodeo", "displayName": "Rodéo", "type": "autre", "country": "USA" },
+  { "name": "waterton", "displayName": "Waterton", "type": "ville", "country": "Canada" },
+  { "name": "calgary", "displayName": "Calgary", "type": "ville", "country": "Canada" },
+  { "name": "dawson-city", "displayName": "Dawson City", "type": "ville", "country": "Canada" },
+  { "name": "top-world", "displayName": "Top of the World Highway", "type": "nature", "country": "Canada" },
+  { "name": "chicken", "displayName": "Chicken", "type": "ville", "country": "USA" },
+  { "name": "fairbanks", "displayName": "Fairbanks", "type": "ville", "country": "USA" },
+  { "name": "dalton", "displayName": "Dalton Highway", "type": "nature", "country": "USA" },
+  { "name": "cercle-polaire", "displayName": "Cercle Polaire", "type": "nature", "country": "USA" },
+  { "name": "kenai", "displayName": "Kenaï (péninsule)", "type": "nature", "country": "USA" },
+  { "name": "homer", "displayName": "Homer", "type": "ville", "country": "USA" },
+  { "name": "whitthier", "displayName": "Whitthier", "type": "ville", "country": "USA" },
+  { "name": "anchorage", "displayName": "Anchorage", "type": "ville", "country": "USA" },
+  { "name": "kluane", "displayName": "Kluane National Park and Reserve", "type": "nature", "country": "USA" },
+  { "name": "haines", "displayName": "Haines", "type": "ville", "country": "USA" },
+  { "name": "skagway", "displayName": "Skagway", "type": "ville", "country": "USA" },
+  { "name": "carcross", "displayName": "Carcross", "type": "ville", "country": "Canada" },
+  { "name": "whitehorse", "displayName": "Whitehorse", "type": "ville", "country": "Canada" },
+  { "name": "teslin", "displayName": "Teslin", "type": "ville", "country": "Canada" },
+  { "name": "watson-lake", "displayName": "Watson Lake", "type": "ville", "country": "Canada" },
+  { "name": "stewart", "displayName": "Stewart", "type": "ville", "country": "Canada" },
+  { "name": "gitanyow", "displayName": "Gitanyow", "type": "ville", "country": "Canada" },
+  { "name": "gitwangak", "displayName": "Gitwangak", "type": "ville", "country": "Canada" },
+  { "name": "smithers", "displayName": "Smithers", "type": "ville", "country": "Canada" },
+  { "name": "houston", "displayName": "Houston", "type": "ville", "country": "Canada" },
+  { "name": "prince-george", "displayName": "Prince George", "type": "ville", "country": "Canada" },
+  { "name": "vancouver-city", "displayName": "Vancouver City", "type": "ville", "country": "Canada" },
+  { "name": "seattle", "displayName": "Seattle", "type": "ville", "country": "Canada" },
+  { "name": "port-townsend", "displayName": "Port Townsend", "type": "ville", "country": "USA" },
+  { "name": "evergreen", "displayName": "Evergreen Aviation & Space Museum", "type": "autre", "country": "USA" },
+  { "name": "olympic", "displayName": "Olympic National Park", "type": "nature", "country": "USA" },
+  { "name": "gallatin", "displayName": "Gallatin National Forest", "type": "nature", "country": "USA" },
+  { "name": "helens", "displayName": "Mont St Helens", "type": "nature", "country": "USA" },
+  { "name": "victoria", "displayName": "Victoria", "type": "ville", "country": "Canada" },
+  { "name": "tofino", "displayName": "Tofino", "type": "nature", "country": "Canada" },
+  { "name": "ucluelet", "displayName": "Ucluelet", "type": "nature", "country": "Canada" },
+  { "name": "saguenay", "displayName": "Fjord Saguenay Parc d'état", "type": "nature", "country": "Canada" },
+  { "name": "yoda", "displayName": "Yoda", "type": "autre", "country": "USA" },
+  { "name": "golden-gate", "displayName": "Golden Gate Bridge", "type": "autre", "country": "USA" },
+  { "name": "hautes-terres", "displayName": "Parc National des Hautes Terres", "type": "nature", "country": "Canada" },
+  { "name": "getty", "displayName": "Getty villa et musée", "type": "autre", "country": "USA" },
+  { "name": "point-reyes", "displayName": "Point Reyes National Seashore", "type": "nature", "country": "USA" },
+  { "name": "death-valley", "displayName": "Death Valley National Park", "type": "nature", "country": "USA" },
+  { "name": "napa", "displayName": "Napa", "type": "ville", "country": "USA" },
+  { "name": "sonoma", "displayName": "Sonoma", "type": "ville", "country": "USA" },
+  { "name": "sausalito", "displayName": "Sausalito", "type": "ville", "country": "USA" },
+  { "name": "tamalpais", "displayName": "Mont Tamalpais", "type": "nature", "country": "USA" },
+  { "name": "monterey", "displayName": "Aquarium de Monterey", "type": "autre", "country": "USA" },
+  { "name": "monarch", "displayName": "Monarch Butterfly Sanctuary", "type": "nature", "country": "USA" },
+  { "name": "carmel", "displayName": "Carmel by the Sea", "type": "ville", "country": "USA" },
+  { "name": "mission-carmel", "displayName": "Mission carmel", "type": "autre", "country": "USA" },
+  { "name": "solvang", "displayName": "Solvang", "type": "ville", "country": "USA" },
+  { "name": "santa", "displayName": "Santa Barbara", "type": "ville", "country": "USA" },
+  { "name": "old", "displayName": "Old Mission Santa Barbara", "type": "autre", "country": "USA" },
+  { "name": "studio", "displayName": "Universal Studios", "type": "autre", "country": "USA" },
+  { "name": "hollywood", "displayName": "Hollywood Boulevard", "type": "ville", "country": "USA" },
+  { "name": "griffith", "displayName": "Observatoire Griffith", "type": "autre", "country": "USA" },
+  { "name": "las-vegas", "displayName": "Las Vegas", "type": "ville", "country": "USA" },
+  { "name": "pinacate", "displayName": "Réserve de la Biosphère El Pinacate", "type": "nature", "country": "Mexique" },
+  { "name": "altar", "displayName": "Grand Désert d'Altar", "type": "nature", "country": "Mexique" },
+  { "name": "organ-pipe", "displayName": "Organ Pipe Cactus National Monument", "type": "nature", "country": "USA" },
+  { "name": "chiricahua", "displayName": "Chiricahua National Monument", "type": "nature", "country": "USA" },
+  { "name": "red-rock-canyon", "displayName": "Red Rock Canyon National Conservation Area", "type": "nature", "country": "USA" },
+  { "name": "hoover", "displayName": "Barrage Hoover", "type": "autre", "country": "USA" },
+  { "name": "oatman", "displayName": "Oatman", "type": "ville", "country": "USA" },
+  { "name": "kofa", "displayName": "Kofa National Wildlife Refuge", "type": "nature", "country": "USA" },
+  { "name": "route-66", "displayName": "Route 66", "type": "autre", "country": "USA" },
+  { "name": "ajo", "displayName": "Ajo", "type": "ville", "country": "USA" },
+  { "name": "tucson", "displayName": "Tucson", "type": "ville", "country": "USA" },
+  { "name": "tombstone", "displayName": "Tombstone", "type": "ville", "country": "USA" },
+  { "name": "gila-cliff", "displayName": "Gila Cliff Dwellings National Monument", "type": "nature", "country": "USA" },
+  { "name": "white-sands", "displayName": "White Sands National Monument", "type": "nature", "country": "USA" },
+  { "name": "carlsbad", "displayName": "Carlsbad Caverns National Park", "type": "nature", "country": "USA" },
+  { "name": "city-of-rocks", "displayName": "City of Rocks State Parc", "type": "nature", "country": "USA" },
+  { "name": "el-paso", "displayName": "El Paso", "type": "ville", "country": "USA" },
+  { "name": "chamizal", "displayName": "Chamizal National Memorial", "type": "autre", "country": "USA" },
+  { "name": "fort-bliss", "displayName": "Fort Bliss Museum", "type": "autre", "country": "USA" },
+  { "name": "guadalupe", "displayName": "Guadalupe Mountains National Park", "type": "nature", "country": "USA" },
+  { "name": "big-bend", "displayName": "Big Bend National Park", "type": "nature", "country": "USA" },
+  { "name": "san-antonio", "displayName": "San Antonio", "type": "ville", "country": "USA" },
+  { "name": "lafayette", "displayName": "Lafayette", "type": "ville", "country": "USA" },
+  { "name": "acadian", "displayName": "Acadian Cultural Center", "type": "autre", "country": "Canada" },
+  { "name": "oak", "displayName": "Oak Alley Plantation", "type": "autre", "country": "USA" },
+  { "name": "nola", "displayName": "Nouvelle-Orléans", "type": "ville", "country": "USA" },
+  { "name": "baton", "displayName": "Bâton Rouge", "type": "ville", "country": "USA" },
+  { "name": "samnhp", "displayName": "San Antonio Missions National Historic Park", "type": "autre", "country": "USA" },
+  { "name": "nasa1", "displayName": "NASA - Johnson Space Center - Houston", "type": "autre", "country": "USA" },
+  { "name": "great-sand", "displayName": "Great Sand Dunes National Park & Preserve", "type": "nature", "country": "USA" },
+  { "name": "bandelier", "displayName": "Bandelier National Monument", "type": "nature", "country": "USA" },
+  { "name": "tent-rocks", "displayName": "Kasha-Katuwe Tent Rocks National Monument", "type": "nature", "country": "USA" },
+  { "name": "natchez", "displayName": "Natchez", "type": "ville", "country": "USA" },
+  { "name": "natchez-trace", "displayName": "Natchez Trace Parkway", "type": "nature", "country": "USA" },
+  { "name": "vicksburg", "displayName": "Vicksburg", "type": "ville", "country": "USA" },
+  { "name": "vicksburg-military", "displayName": "Vicksburg National Military Park", "type": "autre", "country": "USA" },
+  { "name": "leland", "displayName": "Leland", "type": "ville", "country": "USA" },
+  { "name": "indianola", "displayName": "Indianola", "type": "ville", "country": "USA" },
+  { "name": "grammy-museum", "displayName": "Grammy Museum", "type": "autre", "country": "USA" },
+  { "name": "devil", "displayName": "Devil’s Crossroad", "type": "autre", "country": "USA" },
+  { "name": "clarksdale", "displayName": "Clarksdale", "type": "ville", "country": "USA" },
+  { "name": "tupelo", "displayName": "Tupelo", "type": "ville", "country": "USA" },
+  { "name": "nashville", "displayName": "Nashville", "type": "ville", "country": "USA" },
+  { "name": "mammoth", "displayName": "Mammoth Cave National Park", "type": "nature", "country": "USA" },
+  { "name": "memphis", "displayName": "Memphis", "type": "ville", "country": "USA" },
+  { "name": "graceland", "displayName": "Graceland", "type": "autre", "country": "USA" },
+  { "name": "civil-right", "displayName": "National Civil Rights Museum", "type": "autre", "country": "USA" },
+  { "name": "hot-springs", "displayName": "Hot Springs National Park", "type": "ville", "country": "USA" },
+  { "name": "oklahoma", "displayName": "Oklahoma City", "type": "ville", "country": "USA" },
+  { "name": "palo-duro", "displayName": "Palo Duro Canyon State Park", "type": "nature", "country": "USA" },
+  { "name": "cadillac", "displayName": "Cadillac Ranch", "type": "autre", "country": "USA" },
+  { "name": "albuquerque", "displayName": "Albuquerque", "type": "ville", "country": "USA" },
+  { "name": "petroglyph", "displayName": "Petroglyph National Monument", "type": "nature", "country": "USA" },
+  { "name": "pecos", "displayName": "Pecos National Historic Park", "type": "nature", "country": "USA" },
+  { "name": "los-alamos", "displayName": "Los Alamos", "type": "ville", "country": "USA" },
+  { "name": "manhattan-project", "displayName": "Manhattan Project Historical Park", "type": "autre", "country": "USA" },
+  { "name": "white-place", "displayName": "White Place", "type": "nature", "country": "USA" },
+  { "name": "ghost-ranch", "displayName": "Ghost Ranch", "type": "nature", "country": "USA" },
+  { "name": "chimayo", "displayName": "Santuario de Chimayó", "type": "autre", "country": "USA" },
+  { "name": "taos", "displayName": "Taos", "type": "ville", "country": "USA" },
+  { "name": "great-sand", "displayName": "Great Sand Dunes National Park And Preserve", "type": "nature", "country": "USA" },
+  { "name": "mesa-verde", "displayName": "Mesa Verde National Park", "type": "nature", "country": "USA" },
+  { "name": "bisti", "displayName": "Bisti Badlands/ De-Na-Zin Wilderness", "type": "nature", "country": "USA" },
+  { "name": "malpais", "displayName": "El Malpais National Monument", "type": "nature", "country": "USA" },
+  { "name": "morro", "displayName": "El Morro National Monument", "type": "nature", "country": "USA" },
+  { "name": "chelly", "displayName": "Canyon de Chelly National Monument", "type": "nature", "country": "USA" },
+  { "name": "petrified", "displayName": "Petrified Forest National Park", "type": "nature", "country": "USA" },
+  { "name": "montezuma", "displayName": "Montezuna Castle National Monument", "type": "autre", "country": "USA" },
+  { "name": "montezuma", "displayName": "Montezuna Well National Monument", "type": "autre", "country": "USA" },
+  { "name": "tuzigot", "displayName": "Tuzigot National Monument", "type": "autre", "country": "USA" },
+  { "name": "watson-lake-park", "displayName": "Watson Lake Park", "type": "nature", "country": "USA" },
+  { "name": "four-corners", "displayName": "Four Corners Monument", "type": "autre", "country": "USA" },
+  { "name": "silverton", "displayName": "Silverton", "type": "ville", "country": "USA" },
+  { "name": "million", "displayName": "Million Dollars Highway", "type": "autre", "country": "USA" },
+  { "name": "shiprock", "displayName": "Shiprock National Monument", "type": "nature", "country": "USA" },
+  { "name": "black-canyon", "displayName": "Black Canyon of the Gunnison National Park", "type": "nature", "country": "USA" },
+  { "name": "anasazi", "displayName": "Anasazi Heritage Center", "type": "autre", "country": "USA" },
+  { "name": "lowri", "displayName": "Lowry Pueblo Ruin", "type": "autre", "country": "USA" },
+  { "name": "hovenweep", "displayName": "Hovenweep National Monument", "type": "autre", "country": "USA" },
+  { "name": "garden", "displayName": "Garden Of The Gods", "type": "nature", "country": "USA" },
+  { "name": "florissant", "displayName": "Florissant Fossil Beds National Monument", "type": "autre", "country": "USA" },
+  { "name": "usafa", "displayName": "U.S. Air Force Academy", "type": "autre", "country": "USA" },
+  { "name": "denver", "displayName": "Denver", "type": "ville", "country": "USA" },
+  { "name": "little-painted", "displayName": "Little Painted Desert County Park", "type": "nature", "country": "USA" },
+  { "name": "sunset-crater", "displayName": "Sunset Crater Volcano National Monument", "type": "nature", "country": "USA" },
+  { "name": "wupatki", "displayName": "Wupatki National Monument", "type": "autre", "country": "USA" },
+  { "name": "sedona", "displayName": "Sedona", "type": "ville", "country": "USA" },
+  { "name": "meteor", "displayName": "Meteor Crater Natural Landmark", "type": "nature", "country": "USA" },
+  { "name": "grand-canyon-sud", "displayName": "Grand Canyon National Park - Rim Sud", "type": "nature", "country": "USA" },
+  { "name": "barrage-powel", "displayName": "Barrage du Lac Powell", "type": "autre", "country": "USA" },
+  { "name": "secret", "displayName": "Secret Slot Canyon", "type": "nature", "country": "USA" },
+  { "name": "Horseshoe", "displayName": "Horseshoe Bend", "type": "nature", "country": "USA" },
+  { "name": "little-cut", "displayName": "The Little Cut", "type": "nature", "country": "USA" },
+  { "name": "monument-valley", "displayName": "Monument Valley", "type": "nature", "country": "USA" },
+  { "name": "mexican-hat", "displayName": "Mexican Hat", "type": "nature", "country": "USA" },
+  { "name": "goosenecks", "displayName": "Goosenecks State Park", "type": "nature", "country": "USA" },
+  { "name": "valley-gods", "displayName": "Valley Of The Gods", "type": "nature", "country": "USA" },
+  { "name": "arches", "displayName": "Arches National Park", "type": "nature", "country": "USA" },
+  { "name": "canyonlands", "displayName": "Canyonlands National Park - Island In The Sky", "type": "nature", "country": "USA" },
+  { "name": "capitol-reef", "displayName": "Capitol Reef National Park ", "type": "nature", "country": "USA" },
+  { "name": "scenic12", "displayName": "Highway 12 Scenic ByWay", "type": "nature", "country": "USA" },
+  { "name": "bryce", "displayName": "Bryce National Park", "type": "nature", "country": "USA" },
+  { "name": "zion", "displayName": "Zion National Park", "type": "nature", "country": "USA" },
+  { "name": "valley-fire", "displayName": "Valley Of Fire State Park", "type": "nature", "country": "USA" },
+  { "name": "teton", "displayName": "Grand Teton National Park", "type": "nature", "country": "USA" },
+  { "name": "grand-canyon-nord", "displayName": "Grand Canyon National Park - Rim Nord", "type": "nature", "country": "USA" },
+  { "name": "marble-canyon", "displayName": "Marble Canyon", "type": "nature", "country": "USA" },
+  { "name": "kodachrome", "displayName": "Kodachrome Basin State Park", "type": "nature", "country": "USA" },
+  { "name": "goblin", "displayName": "Goblin’s Valley State Park", "type": "nature", "country": "USA" },
+  { "name": "colorado", "displayName": "Colorado National Monument", "type": "nature", "country": "USA" },
+  { "name": "grand-mesa", "displayName": "Grand Mesa National Forest", "type": "nature", "country": "USA" },
+  { "name": "marron-bells", "displayName": "Marron Bells", "type": "nature", "country": "USA" },
+  { "name": "red", "displayName": "Red Rocks Amphitheatre", "type": "nature", "country": "USA" },
+  { "name": "roxborough", "displayName": "Roxborough State Park", "type": "nature", "country": "USA" },
+  { "name": "rocky-mountain", "displayName": "Rocky Mountain National Park", "type": "nature", "country": "USA" },
+  { "name": "dinosaur", "displayName": "Dinosaur National Monument", "type": "nature", "country": "USA" },
+  { "name": "staircase", "displayName": "Grand Staircase-Escalante National Monument", "type": "nature", "country": "USA" },
+  { "name": "crater-moon", "displayName": "Craters Of The Moon National Monument & Preserve", "type": "nature", "country": "USA" },
+  { "name": "ebr", "displayName": "EBR-1 Atomic Museum", "type": "autre", "country": "USA" },
+  { "name": "hagerman", "displayName": "Hagerman Fossil Beds National Monument", "type": "nature", "country": "USA" },
+  { "name": "shoshone", "displayName": "Shoshone Falls", "type": "nature", "country": "USA" },
+  { "name": "golden-spike", "displayName": "Golden Spike National Historic Site", "type": "autre", "country": "USA" },
+  { "name": "antelope-island", "displayName": "Antelope Island State Park", "type": "nature", "country": "USA" },
+  { "name": "salt-lake", "displayName": "Salt Lake City", "type": "ville", "country": "USA" },
+  { "name": "timpanogos", "displayName": "Timpanogos Cave National Monument", "type": "nature", "country": "USA" },
+  { "name": "bingham", "displayName": "Mine de Bingham Canyon", "type": "autre", "country": "USA" },
+  { "name": "tahoe", "displayName": "Tahoe Lake", "type": "nature", "country": "USA" },
+  { "name": "travertine", "displayName": "Travertine Hot Springs", "type": "nature", "country": "USA" },
+  { "name": "bodie", "displayName": "Bodie Ghost Town", "type": "ville", "country": "USA" },
+  { "name": "mono-lake", "displayName": "Mono Lake", "type": "nature", "country": "USA" },
+  { "name": "mammoth", "displayName": "Mammoth Lakes", "type": "nature", "country": "USA" },
+  { "name": "postpile", "displayName": "Devils Postpile National Monument", "type": "nature", "country": "USA" },
+  { "name": "manzanar", "displayName": "Manzanar National Historic Site", "type": "autre", "country": "USA" },
+  { "name": "giant-sequoia", "displayName": "Giant Sequoia National Monument", "type": "nature", "country": "USA" },
+  { "name": "kings", "displayName": "Kings Canyon National Parks", "type": "nature", "country": "USA" },
+  { "name": "sequoia", "displayName": "Sequoia National Parks", "type": "nature", "country": "USA" },
+  { "name": "yosemite", "displayName": "Yosemite National Park", "type": "nature", "country": "USA" },
+  { "name": "mariposa", "displayName": "Mariposa Groove", "type": "nature", "country": "USA" },
+  { "name": "google", "displayName": "Googleplex Campus", "type": "autre", "country": "USA" },
+  { "name": "bonneville", "displayName": "Bonneville Salt Flats International Speedway", "type": "autre", "country": "USA" },
+  { "name": "joshua", "displayName": "Joshua Tree National Parc", "type": "nature", "country": "USA" },
+  { "name": "mosaic-steps", "displayName": "Mosaic Steps", "type": "autre", "country": "USA" },
+  { "name": "bagdad", "displayName": "Bagdad Cafe", "type": "autre", "country": "USA" },
+  { "name": "calico", "displayName": "Calico Ghost Town", "type": "ville", "country": "USA" },
+  { "name": "elmer", "displayName": "Elmer's Bottle Tree Ranch", "type": "autre", "country": "USA" },
+  { "name": "palm-springs", "displayName": "Palm Springs", "type": "ville", "country": "USA" },
+  { "name": "indian-canyon", "displayName": "Indian Canyons", "type": "nature", "country": "USA" },
+  { "name": "salvation", "displayName": "Salvation Mountain", "type": "autre", "country": "USA" },
+  { "name": "slab", "displayName": "Slab City", "type": "ville", "country": "USA" },
+  { "name": "san-diego", "displayName": "San Diego", "type": "ville", "country": "USA" },
+  { "name": "venice-beach", "displayName": "Venice Beach", "type": "autre", "country": "USA" },
+  { "name": "santa-monica", "displayName": "Santa Monica", "type": "autre", "country": "USA" },
+  { "name": "los-angeles", "displayName": "Los Angeles", "type": "ville", "country": "USA" },
+  { "name": "tecate", "displayName": "Passage frontière Mexique à Tecate", "type": "autre", "country": "Mexique" },
+  { "name": "ensenada", "displayName": "Ensenada", "type": "ville", "country": "Mexique" },
+  { "name": "bufadora", "displayName": "La Bufadora", "type": "nature", "country": "Mexique" },
+  { "name": "bahia-angeles", "displayName": "Bahia De Los Angeles", "type": "nature", "country": "Mexique" },
+  { "name": "grosnegro", "displayName": "Guerreo Negro", "type": "ville", "country": "Mexique" },
+  { "name": "ojoliebre", "displayName": "Ojo de Liebre", "type": "nature", "country": "Mexique" },
+  { "name": "salar-vizcaïno", "displayName": "Salar Biosphère de Vizcaïno", "type": "nature", "country": "Mexique" },
+  { "name": "san-ignacio", "displayName": "San Ignacio", "type": "ville", "country": "Mexique" },
+  { "name": "santa-rosalia", "displayName": "Santa Rosalia", "type": "ville", "country": "Mexique" },
+  { "name": "mulege", "displayName": "Mulegé", "type": "ville", "country": "Mexique" },
+  { "name": "baja-conception", "displayName": "Baja Conception", "type": "nature", "country": "Mexique" },
+  { "name": "loreto", "displayName": "Loreto", "type": "ville", "country": "Mexique" },
+  { "name": "san-javier", "displayName": "San Javier", "type": "ville", "country": "Mexique" },
+  { "name": "adolpho", "displayName": "Adolpho Lopez Mateos", "type": "nature", "country": "Mexique" },
+  { "name": "la-paz", "displayName": "La Paz", "type": "ville", "country": "Mexique" },
+  { "name": "todos-santos", "displayName": "Todos Santos", "type": "ville", "country": "Mexique" },
+  { "name": "punta-lobos", "displayName": "Punta Lobos", "type": "nature", "country": "Mexique" },
+  { "name": "cabo-san-luca", "displayName": "Cabo San Luca", "type": "ville", "country": "Mexique" },
+  { "name": "tropique-cancer", "displayName": "Tropique du Cancer", "type": "autre", "country": "Mexique" },
+  { "name": "los-barriles", "displayName": "Los Barriles", "type": "ville", "country": "Mexique" },
+  { "name": "cabo-pulmo", "displayName": "Cabo Pulmo", "type": "nature", "country": "Mexique" },
+  { "name": "sierra-organos", "displayName": "Sierra de Órganos - Parc National", "type": "nature", "country": "Mexique" },
+  { "name": "saltito", "displayName": "El Saltito - Cascades", "type": "nature", "country": "Mexique" },
+  { "name": "missions-gorda", "displayName": "Missions franciscaines de la Sierra Gorda", "type": "autre", "country": "Mexique" },
+  { "name": "mazatlan", "displayName": "Mazatlan", "type": "ville", "country": "Mexique" },
+  { "name": "durango", "displayName": "Durango", "type": "ville", "country": "Mexique" },
+  { "name": "zacatecas", "displayName": "Zacatecas", "type": "ville", "country": "Mexique" },
+  { "name": "chicomoztoc", "displayName": "Chicomoztoc - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "quenada", "displayName": "La Quenada - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "guadalupe2", "displayName": "Musée de Guadalupe", "type": "autre", "country": "Mexique" },
+  { "name": "media-luna", "displayName": "Media Luna", "type": "nature", "country": "Mexique" },
+  { "name": "cadereyta", "displayName": "Cadereyta - Jardin Botanique Régional", "type": "nature", "country": "Mexique" },
+  { "name": "tequisquiapan", "displayName": "Tequisquiapan", "type": "ville", "country": "Mexique" },
+  { "name": "santiago-de-queretaro", "displayName": "Santiago de Querétaro", "type": "ville", "country": "Mexique" },
+  { "name": "pozos", "displayName": "San Pedros de Los Pozos", "type": "ville", "country": "Mexique" },
+  { "name": "miguel-allende", "displayName": "San Miguel de Allende", "type": "ville", "country": "Mexique" },
+  { "name": "dolores-hidalgo", "displayName": "Dolores Hildago", "type": "ville", "country": "Mexique" },
+  { "name": "viejo-oesto", "displayName": "Viejo-Oesto", "type": "autre", "country": "Mexique" },
+  { "name": "concordia", "displayName": "Concordia", "type": "ville", "country": "Mexique" },
+  { "name": "el-rosario", "displayName": "Sanctuaire de Mariposa - El Rosario", "type": "nature", "country": "Mexique" },
+  { "name": "tolantongo", "displayName": "Tolantongo - Las Grutas", "type": "nature", "country": "Mexique" },
+  { "name": "tula", "displayName": "Tula - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "actopan", "displayName": "Actopan", "type": "ville", "country": "Mexique" },
+  { "name": "pachuca", "displayName": "Pachuca", "type": "ville", "country": "Mexique" },
+  { "name": "tepotzotlan", "displayName": "Tepotzotlan", "type": "ville", "country": "Mexique" },
+  { "name": "toluca", "displayName": "Toluca", "type": "ville", "country": "Mexique" },
+  { "name": "metepec", "displayName": "Metepec", "type": "ville", "country": "Mexique" },
+  { "name": "valle-de-bravo", "displayName": "Valle de Bravo", "type": "ville", "country": "Mexique" },
+  { "name": "calixtlahuaca", "displayName": "Calixtlahuaca - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "malinalco", "displayName": "Malinalco - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "cacahuamilpa", "displayName": "Grutas de Cacahuamilpa Parc National ", "type": "nature", "country": "Mexique" },
+  { "name": "taxco", "displayName": "Taxco", "type": "ville", "country": "Mexique" },
+  { "name": "xochicalco", "displayName": "Xochicalco - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "cuernavaca", "displayName": "Cuernavaca", "type": "ville", "country": "Mexique" },
+  { "name": "tepoztlan", "displayName": "Tepoztlan", "type": "autre", "country": "Mexique" },
+  { "name": "yecapixtla", "displayName": "Yecapixtla", "type": "autre", "country": "Mexique" },
+  { "name": "tlayacapan", "displayName": "Tlayacapan", "type": "autre", "country": "Mexique" },
+  { "name": "puebla", "displayName": "Puebla", "type": "ville", "country": "Mexique" },
+  { "name": "cholula", "displayName": "Cholula", "type": "ville", "country": "Mexique" },
+  { "name": "huejotzingo", "displayName": "Huejotzingo", "type": "autre", "country": "Mexique" },
+  { "name": "xochitecatl", "displayName": "Xochitécatl - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "cacaxtla", "displayName": "Cacaxtla - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "tlaxcala", "displayName": "Tlaxcala", "type": "ville", "country": "Mexique" },
+  { "name": "alcoman", "displayName": "Alcoman", "type": "autre", "country": "Mexique" },
+  { "name": "teotihuacan", "displayName": "Teotihuacan - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "mexico", "displayName": "Mexico", "type": "ville", "country": "Mexique" },
+  { "name": "el-tajin", "displayName": "El-Tajin - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "cantona", "displayName": "Cantona - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "xalapa", "displayName": "Xalapa", "type": "autre", "country": "Mexique" },
+  { "name": "veracruz", "displayName": "Veracruz", "type": "ville", "country": "Mexique" },
+  { "name": "monte-alban", "displayName": "Monte Alban - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "oaxaca", "displayName": "Oaxaca", "type": "ville", "country": "Mexique" },
+  { "name": "tlacochahuaya", "displayName": "Tlacochahuaya", "type": "autre", "country": "Mexique" },
+  { "name": "tlacolula", "displayName": "Tlacolula", "type": "autre", "country": "Mexique" },
+  { "name": "milta", "displayName": "Milta - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "hierve-el-agua", "displayName": "Hierve El Agua", "type": "nature", "country": "Mexique" },
+  { "name": "tuxla-gutierrez", "displayName": "Tuxla Gutierrez", "type": "ville", "country": "Mexique" },
+  { "name": "chiapa-de-corzo", "displayName": "Chiapa De Corzo", "type": "ville", "country": "Mexique" },
+  { "name": "san-cristobal-casas", "displayName": "San Cristobal De Las Casas", "type": "ville", "country": "Mexique" },
+  { "name": "tonina", "displayName": "Tonina - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "el-chiflon", "displayName": "El Chiflon", "type": "nature", "country": "Mexique" },
+  { "name": "tziscao", "displayName": "Tziscao - Parc Naturel", "type": "nature", "country": "Mexique" },
+  { "name": "las-nubes", "displayName": "Las Nubes", "type": "nature", "country": "Mexique" },
+  { "name": "yaxchilan", "displayName": "Yaxchilan - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "corozal", "displayName": "Frontera Corozal", "type": "ville", "country": "Mexique" },
+  { "name": "agua-azul", "displayName": "Agua Azul", "type": "nature", "country": "Mexique" },
+  { "name": "palenque", "displayName": "Palenque - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "edzna", "displayName": "Edzna - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "campeche", "displayName": "Campeche", "type": "ville", "country": "Mexique" },
+  { "name": "uxmal", "displayName": "Uxmal - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "kabah", "displayName": "Kabah - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "sayil", "displayName": "Sayil - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "klapak", "displayName": "Klapak - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "labna", "displayName": "Labna - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "ochil", "displayName": "Ochil - Acienda", "type": "autre", "country": "Mexique" },
+  { "name": "celestun", "displayName": "Celestun", "type": "ville", "country": "Mexique" },
+  { "name": "merida", "displayName": "Merida", "type": "ville", "country": "Mexique" },
+  { "name": "cuzama", "displayName": "Cuzama", "type": "ville", "country": "Mexique" },
+  { "name": "chacsinic-che", "displayName": "Chacsinic Che - Cenote", "type": "autre", "country": "Mexique" },
+  { "name": "bojoncho-jol", "displayName": "Bojoncho Jol", "type": "autre", "country": "Mexique" },
+  { "name": "chan-ucil", "displayName": "Chan Ucil", "type": "autre", "country": "Mexique" },
+  { "name": "izamal", "displayName": "Izamal", "type": "ville", "country": "Mexique" },
+  { "name": "hoctun", "displayName": "Hoctun", "type": "ville", "country": "Mexique" },
+  { "name": "chichen-itza", "displayName": "Chichen Itza - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "valladolid", "displayName": "Valladolid", "type": "ville", "country": "Mexique" },
+  { "name": "keken", "displayName": "Keken - Cenote", "type": "autre", "country": "Mexique" },
+  { "name": "samula", "displayName": "Samula - Cenote", "type": "autre", "country": "Mexique" },
+  { "name": "coba", "displayName": "Coba - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "cancun", "displayName": "Cancun", "type": "ville", "country": "Mexique" },
+  { "name": "ik-kil", "displayName": "Ik Kil - Cenote", "type": "autre", "country": "Mexique" },
+  { "name": "ek-balam", "displayName": "Ek Balam - Site Archéologique", "type": "autre", "country": "Mexique" },
+  { "name": "", "displayName": "", "type": "", "country": "Mexique" },
+  { "name": "", "displayName": "", "type": "", "country": "Mexique" }
 ]

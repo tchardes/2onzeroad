@@ -6,11 +6,9 @@ header-img: "assets/owner/hero/poi-bg.jpg"
 permalink: /pois/
 ---
 
-
 <div class="row" style="padding-bottom: 20px;">
-    <div class="col-md-12" style="padding:0px 25px 25px 25px">
-
-        <!-- {% assign countries = "" | split:"|"  %}
+  <div class="col-md-12" style="padding:0px 25px 25px 25px">
+    <!-- {% assign countries = "" | split:"|"  %}
 
         {% for post in site.posts %}
             {% if countries contains post.country %}
@@ -18,19 +16,13 @@ permalink: /pois/
                 {% assign countries = countries | push: post.country %}
             {% endif %}
         {% endfor %} -->
-    
 
-        {% assign countries = "USA, Canada, Mexique, Puerto-Rico, Cuba" | split: ", " %}
-        {% for country in countries %}
-    
-            {% if country != "Puerto-Rico" and country != "Cuba" %}
-
-                <h3 style="margin-top:0;">{{ country }}</h3>
-                {% include pois_list.html country=country %}
-    
-            {% endif %}
-
-        {% endfor %}
-       
-    </div>
+    {% assign countries = "USA, Canada, Mexique, Puerto-Rico, Cuba" | split: ", " %} 
+    {% for country in countries %} 
+        {% if country != "Puerto-Rico" and country != "Cuba" %}
+            <h3 style="margin-top:0;">{{ country }}</h3>
+            {% include pois_list.html country=country %} 
+        {% endif %} 
+    {% endfor %}
+  </div>
 </div>
