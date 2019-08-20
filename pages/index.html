@@ -164,7 +164,12 @@ permalink: ./index.html
    
       <div class="col-md-3" style="padding-left:70px;">
           <div>
-              <a style="color:white !important;" href="{{ site.baseurl }}/map/itinary/"><h3><i class="fa fa-map-signs"></i> Notre itinéraire</h3></a>        
+              <h3>Itinéraire</h3>
+              <div>
+                <a href="{{ site.baseurl }}/map/itinary/">
+                  <i style="width:26px;color:#E6E6E6;" class="fa fa-map-signs"></i>Notre parcours
+                </a>
+              </div>
               <h3>Nos destinations</h3>
               {% assign destinations = "" | split:"|"  %}
               {% for post in site.posts %}
@@ -206,7 +211,7 @@ permalink: ./index.html
                 {% endif %}
 
                 <div>
-                  <a href="{{ fullUrl }}{{urlParams}}"/>
+                  <a href="{{ fullUrl }}{{urlParams}}">
                       <i style="width:26px;color:#E6E6E6;" class="fa fa-globe"></i>{{destination}}                    
                       {% if destinationMissing %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}
                   </a>
@@ -216,7 +221,7 @@ permalink: ./index.html
           </div>
           <hr />
           <div>
-              <h3>Articles par catégories</h3>
+              <h3>Articles</h3>
               {% assign categories = "" | split:"|"  %}
               {% for post in site.posts %}
               {% if categories contains post.category %}
@@ -225,10 +230,10 @@ permalink: ./index.html
                 {% endif %}
               {% endfor %}
 
-              <div><a href="{{ site.baseurl }}/list"/><i style="width:26px;color:#E88439;" class="fa fa-folder-open"></i>Toutes categories</a></div>
+              <div><a href="{{ site.baseurl }}/list"><i style="width:26px;color:#E88439;" class="fa fa-folder-open"></i>Toutes catégories</a></div>
 
               {% for category in categories %}
-                <div><a href="{{ site.baseurl }}/writing/category/{{ category | slugify }}"/><i style="width:26px;" class="fa fa-folder-open color-{{category}}"></i>{{category | replace: 'roadmap', 'Carnet de route' | capitalize }}</a></div>
+                <div><a href="{{ site.baseurl }}/writing/category/{{ category | slugify }}"><i style="width:26px;" class="fa fa-folder-open color-{{category}}"></i>{{category | replace: 'roadmap', 'Carnet de route' | capitalize }}</a></div>
               {% endfor %}
           </div>
           <hr />
@@ -254,7 +259,7 @@ permalink: ./index.html
                   {% endif %}
                 {% endfor %}
 
-                <div><a href="{{ site.baseurl }}/writing/archive/{{ archive | slugify }}"/><i style="width:26px;color:#E88439;" class="fa fa-archive"></i> 
+                <div><a href="{{ site.baseurl }}/writing/archive/{{ archive | slugify }}"><i style="width:26px;color:#E88439;" class="fa fa-archive"></i> 
                   {{archive 
                     | replace: 'January', 'Janvier' 
                     | replace: 'February', 'Février' 
