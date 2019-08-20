@@ -20,6 +20,7 @@ header-img: "assets/owner/hero/archive-bg.jpg"
                     {% if forloop.first == false %}
                         {% assign previous_index = forloop.index0 | minus: 1 %}
                         {% capture previous_post_year %}{{ site.posts[previous_index].date | date: '%Y' }}{% endcapture %}
+                        {{ previous_post_year }}
                         {% if post_year != previous_post_year %}
                             </div><h3>{{ post_year }}</h3><div class="list-group">
                         {% endif %}
