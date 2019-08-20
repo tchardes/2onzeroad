@@ -3,7 +3,7 @@
             <h3>COUCOU</h3>
     </body>
 
-    <script type="text/javascript" src="data_clean.js"></script>
+    <script type="text/javascript" src="journeys.js"></script>
 
     <script>
 
@@ -11,21 +11,33 @@
             return str === null || str.match(/^ *$/) !== null;
         }
 
-        var data_2018 = [];
-        var data_2017 = [];
+        var data_USA = [];
+        var data_Mexique = [];
 
 
         data.forEach(element => {
-            var date = new Date(element.fromDateTime.$date)
-            if(date.getFullYear() === 2018) { data_2018.push(element); }
-            if(date.getFullYear() === 2017) { data_2017.push(element); }
+            var date = new Date(element.fromDateTime)
+            //console.log(date.toString());
+
+            var changeDate = new Date('December 29, 2018 01:00:00');
+
+            if(date < changeDate) {data_USA.push(element)}
+            else {data_Mexique.push(element)}
+
+
         });
+
+        console.log(data_USA.length, data_Mexique.length)
+
+
+
 
         var FuelPrices = [];
         var FuelQuantity = 0;
 
-        data_2017.forEach(element => {
-            var log = element.fromDateTime.$date;
+        data_Mexique.forEach(element => {
+            console.log(element)
+            var log = element.fromDateTime;
             var events = element.events;
             var spendings = element.spendings;
             events.forEach(event => {
@@ -46,7 +58,7 @@
         });
 
         var FuelPricesSum = 0;
-        FuelPrices.forEach(price => {FuelPricesSum += price.price })
+        FuelPrices.forEach(price => { console.log(price); FuelPricesSum += price.price })
 
         console.log("Total fuel quantity", FuelQuantity)
         console.log("Sum fuel price", FuelPricesSum)
@@ -64,7 +76,6 @@
 
         console.log("Min fuel price", min)
 
-        console.log("Number of elements", data_2018.length)
 
 
 
