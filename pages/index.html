@@ -170,7 +170,10 @@ permalink: ./index.html
                   <i style="width:26px;color:#E6E6E6;" class="fa fa-map-signs"></i>Notre parcours
                 </a>
               </div>
-              <h3>Nos destinations</h3>
+          </div>
+          <hr />
+          <div>
+            <h3>Nos destinations</h3>
               {% assign destinations = "" | split:"|"  %}
               {% for post in site.posts %}
                 {% if post.country != null %}
