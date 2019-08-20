@@ -118,7 +118,7 @@
   { "name": "hollywood", "displayName": "Hollywood Boulevard", "type": "ville", "country": "USA" },
   { "name": "griffith", "displayName": "Observatoire Griffith", "type": "autre", "country": "USA" },
   { "name": "las-vegas", "displayName": "Las Vegas", "type": "ville", "country": "USA" },
-  { "name": "pinacate", "displayName": "Réserve de la Biosphère El Pinacate", "type": "nature", "country": "Mexique" },
+  { "name": "pinacate", "displayName": "El Pinacate - Réserve de la Biosphère", "type": "nature", "country": "Mexique" },
   { "name": "altar", "displayName": "Grand Désert d'Altar", "type": "nature", "country": "Mexique" },
   { "name": "organ-pipe", "displayName": "Organ Pipe Cactus National Monument", "type": "nature", "country": "USA" },
   { "name": "chiricahua", "displayName": "Chiricahua National Monument", "type": "nature", "country": "USA" },
