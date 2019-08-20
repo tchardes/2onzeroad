@@ -33,15 +33,19 @@
         {% assign displayPoi = "NotFound" %}
         {% assign typePoi = "NotFound" %}
         {% assign iconPoi = "globe" %}
+        {% assign countryPoi = "" %}
         
         {% for dataPoi in site.data.pois %}
             {% if dataPoi.displayName == poiDisplayName %}
                 {% assign poiName = dataPoi.name %}
                 {% assign typePoi = dataPoi.type %}
+                {% assign countryPoi = dataPoi.country %}
                 {% if typePoi == "ville" %}{% assign iconPoi = "building" %}{% endif %}
                 {% if typePoi == "nature" %}{% assign iconPoi = "tree" %}{% endif %}
             {% endif %}
         {% endfor %}
+
+        {% if countryPoi == include.country %}
 
         <div class="{{typePoi}}">
             <a href="{{ site.baseurl }}/writing/poi/{{poiName}}"/>
@@ -49,6 +53,8 @@
                 {% if poiDisplayName == "NotFound" %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}                 
             </a>
         </div>
+
+        {% endif %}
 
     {% endfor %}
 
