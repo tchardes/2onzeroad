@@ -1,32 +1,27 @@
- <div style="max-width:250px;margin:auto;" >
-    <div class="post-preview">
-        <a href="{{ post.url | prepend: site.baseurl }}"><div class="post-preview-image">
-            <div class="post-preview-overlay"></div>		
-            <img src="{{ post.thumbnail }}" alt="Image" class="img-responsive"/>
-        </div></a>
-        <div class="post-preview-text">
-            <h3 style="font-weight:600 !important;" ><a href="{{ post.url | prepend: site.baseurl }}">{{ root_url }} {{ post.title }}</a></h3>
-            <p>{{ root_url }} {{ post.preview }}</p>
-        </div>
-        <div class="post-preview-meta post-preview-meta-{{post.category}}">
-            <span><i class="fa fa-calendar"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</span>
-            <span><i class="fa fa-map-marker"></i>{{ post.city }}</span>
-        </div>
+<div style="max-width:250px;margin:auto;">
+  <div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}"
+      ><div class="post-preview-image">
+        <div class="post-preview-overlay"></div>
+        <img src="{{ post.thumbnail }}" alt="Image" class="img-responsive" /></div
+    ></a>
+    <div class="post-preview-text">
+      <h3 style="font-weight:600 !important;">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ root_url }} {{ post.title }}</a>
+      </h3>
+      <p>{{ root_url }} {{ post.preview }}</p>
     </div>
-    <div class="post-preview-category">
-        {% for tag in post.tags %}
-            {% assign displayTag = "" %}
-            {% for dataTag in site.data.tags %}
-                {% if dataTag.name == tag %}
-                    {% assign displayTag = dataTag.displayName %}
-                {% endif %}
-            {% endfor %}
-
-            {% if displayTag != "" %} 
-                <div><a href="{{ site.baseurl }}/writing/tag/{{ tag  | slugify }}?tags={{tag | slugify}}" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ displayTag }}</a></div>
-            {% endif %}
-            
-        {% endfor %%}
+    <div class="post-preview-meta post-preview-meta-{{ post.category }}">
+      <span><i class="fa fa-calendar"></i>{{ root_url }}{{ post.date | date: "%-d %-b %y" }}</span>
+      <span><i class="fa fa-map-marker"></i>{{ post.city }}</span>
     </div>
+  </div>
+  <div class="post-preview-category">
+    {% for tag in post.tags %} {% assign displayTag = "" %} {% for dataTag in site.data.tags %} {% if dataTag.name == tag %} {% assign displayTag = dataTag.displayName %} {% endif %} {% endfor %} {%
+    if displayTag != "" %}
+    <div>
+      <a href="{{ site.baseurl }}/writing/tag/{{ tag | slugify }}?tags={{ tag | slugify }}" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ displayTag }}</a>
+    </div>
+    {% endif %} {% endfor %%}
+  </div>
 </div>
-
