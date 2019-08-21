@@ -3,7 +3,6 @@ layout: blog
 title: " Région Sud du Mexique"
 preview: "Cet article couvre la période du 12 avril au 17 mai 2019 date de notre retour sur la France. Durant cette période nous avons visité le Sud…"
 parent-id:
-
 date: 2019-05-18 12:00:00
 from-date: 2019-04-12 13:00:00
 to-date: 2019-05-17 13:00:00
@@ -54,7 +53,6 @@ pois:
     samula#13-mai,
     coba#13-mai,
     cancun#14-mai,
-
   ]
 country: Mexique
 states: ["Oaxaca", "Chiapas", "Tabasco", "Campeche", "Yucatan", "Quintana-Roo"]
