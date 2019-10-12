@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "46.772368, 2.439074"
-  name: "France"
-  date: "18 mai 2019"
+  name: "France - Dans les starting blocks"
+  date: "12 octobre 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
@@ -32,64 +32,60 @@ wpm: 200
 
 # Owner/author information
 owner:
-  name:   2onzeroad
+  name: 2onzeroad
   avatar: avatar.png
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    An amazing journey
+  description: An amazing journey
 
 # Social networking links used in footer. Update and remove as you like.
-twitter_username: 
+twitter_username:
 facebook_username: 2onzeroad
 github_username: 2onzeroad
-deviantart_username: 
-500px_username: 
+deviantart_username:
+500px_username:
 flickr_username: 2onzeroad
-instagram_username: 
+instagram_username:
 
- 
 # Internal nav
 nav:
- writing: "root_url/writing/"
- gallery: "root_url/gallery/"
- about: "root_url/about/"
-
+  writing: "root_url/writing/"
+  gallery: "root_url/gallery/"
+  about: "root_url/about/"
 
 # Server
-destination:      	 ./_site
-port:             	 4000
-
+destination: ./_site
+port: 4000
 
 #dependencies
 # Gems
 gems:
   - jekyll-paginate
 
-
 # Build settings
-highlighter:         rouge
-markdown:           kramdown
+highlighter: rouge
+markdown: kramdown
 kramdown:
-    extensions:     
-     - Hard_wrap
-     - no_intra_emphasis
-     - strikethrough
-     - fenced_code_blocks
-     - autolink
-     - tables
-     - with_toc_data
-     - highlight
-     - footnotes
-    input:          GFM
+  extensions:
+    - Hard_wrap
+    - no_intra_emphasis
+    - strikethrough
+    - fenced_code_blocks
+    - autolink
+    - tables
+    - with_toc_data
+    - highlight
+    - footnotes
+  input: GFM
 sass:
-    style:          :compressed
+  style: :compressed
 paginate: 20
 paginate_path: "/writing/page:num/"
 permalink: "/writing/:title/"
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less", "node_modules", "Gruntfile.js", "package.json", "README.md"]
 slugify: "pretty"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-85699607-1
-google_verify:      
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
