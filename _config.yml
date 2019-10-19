@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "46.772368, 2.439074"
   name: "France - Dans les starting blocks"
-  date: "12 octobre 2019"
+  date: "19 octobre 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
