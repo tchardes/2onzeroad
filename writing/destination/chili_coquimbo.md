@@ -1,4 +1,3 @@
-
 ---
 layout: "writing_by_destination"
 destination: "Chili - Coquimbo"

@@ -1,5 +1,5 @@
 ---
-layout: "writing_by_country"
+layout: "writing_by_destination"
 destination: "Mexique - Campeche"
 permalink: "/writing/destination/mexique-campeche/"
 header-img: "assets/owner/hero/mexique-bg.jpg"
