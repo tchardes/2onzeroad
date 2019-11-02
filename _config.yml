@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "46.772368, 2.439074"
-  name: "France - Dans les starting blocks"
-  date: "26 octobre 2019"
+  coordinates: "26.169304, -80.138552"
+  name: "Fort Lauderdale"
+  date: "03 novembre 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
