@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "26.169304, -80.138552"
-  name: "Fort Lauderdale"
-  date: "03 novembre 2019"
+  coordinates: "21.114601, -86.946739"
+  name: "Cancun"
+  date: "05 au 08 novembre 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
