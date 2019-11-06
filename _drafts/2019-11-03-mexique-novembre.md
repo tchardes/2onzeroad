@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: " Région Sud du Mexique"
+title: "Retour au Mexique"
 preview: "…"
 parent-id:
 date: 2019-11-25 12:00:00
@@ -22,7 +22,9 @@ mapZoom: 6
 
 Cet article couvre la période du 12 avril au 17 mai 2019, date de notre retour sur la France. Durant cette période nous avons visité le Sud du Mexique et avons traversé les Etats de Oaxaca, Chiapas, Tabasco, Campeche, le Yucatan et une partie de Quintana Roo, nous ferons le reste lors de notre prochain voyage.
 
-## 03 Novembre
+## 03 au 05 Novembre
+
+Nous quittons une nouvelle fois notre zone de confort pour poursuivre notre périple. Nous avons passé l'été avec nos famille et nos amis
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
