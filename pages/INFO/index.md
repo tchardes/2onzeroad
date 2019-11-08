@@ -282,6 +282,7 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 - [Christophe et Jean-Pierre - Mavros Odyssée](https://mavros-odyssee.fr/) - Rencontrés au Mexique à Loreto - Basse-Californie du Sud le 15 janvier 2019 ;
 - [John, Carine et Sarah - Les Calé d'Aventure](https://www.facebook.com/groups/158712788119128/) - Rencontrés au Mexique à Guanajuato le 22 février 2019.
 - Rodriguo, Manu, Nina et Maria - Nossacasamundo - (Instagram : Nossacasamundo) - Une famille brésilienne rencontrée au Mexique à Teotihuacan le 31 mars 2019.
+- [Claude et Bernadette - moramora-vagabondage](https://moramora-vagabondage.webnode.fr/)- Rencontrés au Mexique à Playa Del Carmen - péninsule du Yucatan le 08 novembre 2019 ;
 
 ## Divers
 

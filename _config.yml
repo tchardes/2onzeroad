@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "20.646943, -87.069351"
-  name: "Playa del Carmen"
-  date: "08 novembre 2019"
+  coordinates: "20.207480, -87.441726"
+  name: "Tulum"
+  date: "09 novembre 2019"
 
 # set the encoding to utf-8
 encoding: utf-8
