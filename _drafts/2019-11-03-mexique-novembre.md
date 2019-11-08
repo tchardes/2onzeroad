@@ -15,7 +15,7 @@ country: Mexique
 states: ["Yucatan", "Quintana-Roo"]
 category: "roadmap"
 flickr-text: ""
-location: "18.607553, -92.677391"
+location: "18.239483, -88.944733"
 itinary: "2019/yucatan.json"
 mapZoom: 6
 ---
