@@ -3,9 +3,9 @@ layout: blog
 title: "Retour au Mexique"
 preview: "…"
 parent-id:
-date: 2019-11-25 12:00:00
+date: 2019-11-08 12:00:00
 from-date: 2019-11-03 13:00:00
-to-date: 2019-11-25 13:00:00
+to-date: 2019-11-08 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt24.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt24.jpg
