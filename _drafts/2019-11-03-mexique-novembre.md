@@ -9,8 +9,8 @@ to-date: 2019-11-08 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt25.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt25.jpg
-tags: [histoire, architecture, culturel, unesco, Mer/Ocean]
-pois: [cancun#14-mai]
+tags: [histoire, architecture, culturel, unesco, mer-ocean]
+pois: [miami#04-novembre, tulum#09-novembre, mahahual#10-et-11-novembre, bacalar#12-novembre]
 country: Mexique
 states: ["Quintana-Roo"]
 category: "roadmap"
