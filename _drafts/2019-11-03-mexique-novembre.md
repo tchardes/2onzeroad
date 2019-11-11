@@ -12,7 +12,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt25.jpg
 tags: [histoire, architecture, culturel, religion, unesco]
 pois: [cancun#14-mai]
 country: Mexique
-states: ["Yucatan", "Quintana-Roo"]
+states: ["Quintana-Roo"]
 category: "roadmap"
 flickr-text: ""
 location: "18.239483, -88.944733"
