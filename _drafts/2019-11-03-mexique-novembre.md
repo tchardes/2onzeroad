@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Retour au Mexique"
-preview: "…"
+preview: "Cet article couvre la période du 03 novembre 2019 date de la reprise de notre road trip au 17 mai 2019. Durant cette période nous avons fini la visite de…"
 parent-id:
 date: 2019-11-08 12:00:00
 from-date: 2019-11-03 13:00:00
