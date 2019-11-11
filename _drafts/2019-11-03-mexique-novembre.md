@@ -9,7 +9,7 @@ to-date: 2019-11-08 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt25.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt25.jpg
-tags: [histoire, architecture, culturel, religion, unesco]
+tags: [histoire, architecture, culturel, unesco, Mer/Ocean]
 pois: [cancun#14-mai]
 country: Mexique
 states: ["Quintana-Roo"]
