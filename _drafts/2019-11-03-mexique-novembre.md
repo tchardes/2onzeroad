@@ -139,7 +139,7 @@ De retour au Walmart nous aovns la surprise de voir le Camping-Car de Christophe
 
 ## 14 novembre
 
-Ce matin on traîne dans Thor, on traite les photos et le blog. A midi nous prenons un taxi avec Jean-Pierre et Christope pour ce faire une restaurant en plein centre de Chetumal. Très agréable restaurant où nous mangeons une paëlla, excellente. De retour nous nous occupons de faite le plein d’essence qui est moins chère ici que’au Belize et le plein de notre réservoir d’eau. Comme nous risquons d’avoir un contrôle sanitaire demain au passage de la frontière nous faisons en sorte d’avoir le moins de produits frais avec nous, du coups Jean-Pierre nous prépare un clafouti aux myrtilles pour ce soir.
+Ce matin on traîne dans Thor, on traite les photos et le blog. A midi nous prenons un taxi avec Jean-Pierre et Christope pour ce faire une restaurant en plein centre de Chetumal. Très agréable restaurant où nous mangeons une paëlla, excellente. De retour nous nous occupons de faite le plein d’essence qui est moins chère ici que’au Belize et le plein de notre réservoir d’eau. Comme nous risquons d’avoir un contrôle sanitaire demain au passage de la frontière nous faisons en sorte d’avoir le moins de produits <> frais avec nous, du coups Jean-Pierre nous prépare un clafouti aux myrtilles pour ce soir.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
