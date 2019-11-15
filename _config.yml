@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "18.515479, -88.302377"
-  name: "Chetumal"
-  date: "13 novembre 2019 "
+  coordinates: "18.392191, -88.392429"
+  name: "Corozal - Belize"
+  date: "15 novembre 2019 "
 
 # set the encoding to utf-8
 encoding: utf-8
