@@ -15,9 +15,9 @@ country: Mexique
 states: ["Quintana-Roo"]
 category: "roadmap"
 flickr-text: ""
-location: "18.239483, -88.944733"
+location: "19.969900, -88.430920"
 itinary: "2020/yucatan.json"
-mapZoom: 6
+mapZoom: 7
 ---
 
 Cet article couvre la période du 03 novembre 2019, date de la reprise de notre road trip, au 15 novembre 2019 date à laquelle nous quittons définitivement le Mexique. Durant cette période nous avons fait un petit passage par Miami pour récupérer des pièces que nous avions commandé pour Thor puis fini la visite de la péninsule du Yucatan.
@@ -152,9 +152,6 @@ Ce matin, on traîne dans Thor, on traite les photos et le blog. A midi, nous pr
 Ce matin, nous quittons définitivement le Mexique avec un petit pincement au cœur, nous avons vraiment adoré ce pays, ses habitants, son histoire, sa cuisine. Au total, nous y aurons passé 141 jours et parcouru près de 13 000 Km. Nous avons décidé de passer la frontière ensemble avec Jean-Pierre et Christophe. Vers 10h30, nous démarrons de Chetumal, la frontière n’est qu’à une dizaine de kilomètres. Avant de rentrer au Belize, il faut sortir du Mexique.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49091414018/in/datetaken/" title="Chetumal - [Mexique]"><img src="https://live.staticflickr.com/65535/49091414018_61de4f7aae_4k.jpg" width="4032" height="2268" alt="Chetumal - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
-
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
