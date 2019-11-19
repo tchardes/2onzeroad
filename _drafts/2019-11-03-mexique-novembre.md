@@ -123,7 +123,11 @@ Ce matin, on se lève dans un épais brouillard qui se dissipera assez rapidemen
 
 Ce matin, on décide de quitter notre phare direction Bacalar. Le pneu arrière est encore à plat. On s’arrête dans une station Pemex pour le gonfler mais leur compresseur ne délivre pas plus de 50 PSI au lieu des 70 nécessaires. Ça suffira pour aller jusqu’à notre prochaine destination. Une fois en ville, on fait les 3 Llantera (réparation et changement de pneus) mais ils sont un peu affolés par la taille de Thor et aucun ne veut se lancer. On décide donc d’aller jusqu’à Chetumal, la capitale de l’Etat de Quintana Roo. En route, on tombe sur une fête dans un stade couvert, on décide de s’y arrêter. C’est en fait une fête des écoles où des tout-petits tentent de reproduire les chorégraphies qu’ils ont appris sous les yeux catastrophés mais bienveillants des enseignants. On voit également de nombreux mennonites, ce sont d'anciens émigrés allemands qui vivent en communauté comme au 18éme siècle, un peu comme les Amishs des USA.
 
-Arrivés à Chetumal, nous fonçons dans un magasin de pneus et ils s’occupent de Thor qui avait, en fait, une grosse vis plantée dans le pneu, une fois la réparation effectuée (130 pesos - 6 €) nous faisons un tour sur le malecon qui est très agréable et qui concentre tous les bâtiments administratifs. En marchant, nous passons devant un groupe de personnes assises à l’ombre, il fait très chaud, et l’un des gars me dit « good afternoon » je lui réponds et lui indique que nous sommes français. Il me dit moi aussi je suis haïtien et nous entamons la conversation, lui dans un français impeccable celui que l’on parlait avant avec une articulation digne de la comédie française. Rencontre très sympathique. Nous finissons la journée à visiter la ville et nous nous posons au Walmart pour faire les courses et profiter du Wifi pour prendre des nouvelles de la famille.
+Arrivés à Chetumal, nous fonçons dans un magasin de pneus et ils s’occupent de Thor qui avait, en fait, une grosse vis plantée dans le pneu, une fois la réparation effectuée (130 pesos - 6 €) nous faisons un tour sur le malecon qui est très agréable et qui concentre tous les bâtiments administratifs.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49092128727/in/datetaken/" title="Chetumal - [Mexique]"><img src="https://live.staticflickr.com/65535/49092128727_92784d8fec_4k.jpg" width="4032" height="2268" alt="Chetumal - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+En marchant, nous passons devant un groupe de personnes assises à l’ombre, il fait très chaud, et l’un des gars me dit « good afternoon » je lui réponds et lui indique que nous sommes français. Il me dit moi aussi je suis haïtien et nous entamons la conversation, lui dans un français impeccable celui que l’on parlait avant avec une articulation digne de la comédie française. Rencontre très sympathique. Nous finissons la journée à visiter la ville et nous nous posons au Walmart pour faire les courses et profiter du Wifi pour prendre des nouvelles de la famille.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49060130638/in/datetaken/" title="Chetumal - Quintana Roo - [Mexique]"><img src="https://live.staticflickr.com/65535/49060130638_199ea4ae0e_4k.jpg" width="4096" height="2304" alt="Chetumal - Quintana Roo - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -141,10 +145,17 @@ De retour au Walmart, nous avons la surprise de voir le Camping-Car de Christoph
 
 Ce matin, on traîne dans Thor, on traite les photos et le blog. A midi, nous prenons un taxi avec Jean-Pierre et Christophe pour se faire un restaurant en plein centre de Chetumal. Très agréable restaurant où nous mangeons une paëlla, excellente. De retour nous nous occupons de faire le plein d’essence qui est moins chère ici qu’au Belize et le plein de notre réservoir d’eau. Comme nous risquons d’avoir un contrôle sanitaire demain au passage de la frontière nous faisons en sorte d’avoir le moins de produits frais avec nous, du coup, Jean-Pierre nous prépare un clafoutis aux myrtilles pour ce soir, un régal.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49092128332/in/datetaken/" title="Chetumal - [Mexique]"><img src="https://live.staticflickr.com/65535/49092128332_f8abe0c0bc_4k.jpg" width="4032" height="2268" alt="Chetumal - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 15 novembre
 
 Ce matin, nous quittons définitivement le Mexique avec un petit pincement au cœur, nous avons vraiment adoré ce pays, ses habitants, son histoire, sa cuisine. Au total, nous y aurons passé 141 jours et parcouru près de 13 000 Km. Nous avons décidé de passer la frontière ensemble avec Jean-Pierre et Christophe. Vers 10h30, nous démarrons de Chetumal, la frontière n’est qu’à une dizaine de kilomètres. Avant de rentrer au Belize, il faut sortir du Mexique.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49091414018/in/datetaken/" title="Chetumal - [Mexique]"><img src="https://live.staticflickr.com/65535/49091414018_61de4f7aae_4k.jpg" width="4032" height="2268" alt="Chetumal - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bq7gte1jETo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYRX3ZQhD9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
