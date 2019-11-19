@@ -153,6 +153,6 @@ Ce matin, nous quittons définitivement le Mexique avec un petit pincement au c�
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49091414018/in/datetaken/" title="Chetumal - [Mexique]"><img src="https://live.staticflickr.com/65535/49091414018_61de4f7aae_4k.jpg" width="4032" height="2268" alt="Chetumal - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Un résumé de cette dernière partie de notre voyage en vidéo :
+Un résumé de cette première partie de notre voyage en vidéo :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYRX3ZQhD9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
