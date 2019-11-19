@@ -1,11 +1,11 @@
 ---
 layout: blog
 title: "Retour au Mexique"
-preview: "Cet article couvre la période du 03 novembre 2019, date de la reprise de notre road trip, au 15 novembre 2019 date à laquelle nous quittons définitivement…"
+preview: "Cet article couvre la période du 03 novembre 2019, date de la reprise de notre road trip, au 15 novembre 2019 date à laquelle nous quittons…"
 parent-id:
-date: 2019-11-08 12:00:00
+date: 2019-11-15 12:00:00
 from-date: 2019-11-03 13:00:00
-to-date: 2019-11-08 13:00:00
+to-date: 2019-11-15 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt25.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt25.jpg
