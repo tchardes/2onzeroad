@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "17.784200, -88.544387"
-  name: "Crooked Tree Wildlife Sanctuary - Belize"
-  date: "18 au 20 novembre 2019 "
+  coordinates: "17.764545, -88.345347"
+  name: "Altun Ha - Belize"
+  date: "21 novembre 2019 "
 
 # set the encoding to utf-8
 encoding: utf-8
