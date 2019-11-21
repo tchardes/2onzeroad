@@ -3,9 +3,9 @@ layout: blog
 title: "Belize"
 preview: "…"
 parent-id:
-date: 2019-11-20 12:00:00
-from-date: 2019-11-15 13:00:00
-to-date: 2019-11-20 13:00:00
+date: 2019-11-20 13:00:00
+from-date: 2019-11-15 12:00:00
+to-date: 2019-11-20 12:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt25.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt25.jpg
