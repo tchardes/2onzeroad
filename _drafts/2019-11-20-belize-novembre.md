@@ -17,7 +17,7 @@ category: "roadmap"
 flickr-text: ""
 location: "17.623118, -89.154371"
 itinary: "2020/belize.json"
-mapZoom: 7
+mapZoom: 5
 ---
 
 Cet article couvre la période du 03 novembre 2019, date de la reprise de notre road trip, au 15 novembre 2019 date à laquelle nous quittons définitivement le Mexique. Durant cette période nous avons fait un petit passage par Miami pour récupérer des pièces que nous avions commandé pour Thor puis fini la visite de la péninsule du Yucatan.
