@@ -15,7 +15,7 @@ country: Belize
 states: [""]
 category: "roadmap"
 flickr-text: ""
-location: "17.666418, -88.782302"
+location: "17.623118, -89.154371"
 itinary: "2020/belize.json"
 mapZoom: 7
 ---
