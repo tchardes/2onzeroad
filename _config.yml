@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "17.502544, -88.203581"
-  name: "Belize city - Belize"
-  date: "21 novembre 2019 "
+  coordinates: "17.156244, -89.071416"
+  name: "San Ignacio - Belize"
+  date: "22 novembre 2019 "
 
 # set the encoding to utf-8
 encoding: utf-8

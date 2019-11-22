@@ -1,5 +1,5 @@
 ---
 layout: "writing_by_poi"
-permalink: "/writing/poi/corozal"
+permalink: "/writing/poi/crooked"
 header-img: "assets/owner/hero/pois-bg.jpg"
 ---
