@@ -27,7 +27,7 @@ pois:
     caracol#24-novembre,
   ]
 country: Belize
-states: ["Corozal", "Orange Walk", "Belize", "Cayo Stan Creek"]
+states: ["Corozal", "Orange Walk", "Belize", "Cayo"]
 category: "roadmap"
 flickr-text: ""
 location: "17.885558, -89.082936"
