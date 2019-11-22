@@ -23,8 +23,8 @@ pois:
     crooked#18-et-19-novembre,
     altun#20-novembre,
     belizecity#20-novembre,
-    cerros#15-novembre,
-    cerros#15-novembre,
+    sanignacio#22-novembre,
+    caracol#24-novembre,
   ]
 country: Belize
 states: ["Corozal", "Orange Walk", "Belize", "Cayo Stan Creek"]
