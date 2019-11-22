@@ -30,7 +30,7 @@ country: Belize
 states: ["Corozal", "Orange Walk", "Belize", "Cayo Stan Creek"]
 category: "roadmap"
 flickr-text: ""
-location: "17.623118, -89.154371"
+location: "17.885558, -89.082936"
 itinary: "2020/belize.json"
 mapZoom: 8
 ---
