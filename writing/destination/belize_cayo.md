@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "Belize - Cayo Stan Creek"
-permalink: "/writing/destination/belize-cayo-stan-creek/"
+destination: "Belize - Cayo"
+permalink: "/writing/destination/belize-cayo/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 flickr-text: ""
 ---
