@@ -113,6 +113,11 @@ En début d’après-midi nous sommes rejoint pa Christophe et Jean-Pierre. Nous
 
 ## 22 novembre
 
+Ce matin on quitte une nouvelle fois Christophe et Jean-Pierre qui parte vers le Sud, tandis que nous nous approchons de la frontière Nord avec le Guatemala. Jusqu’à présent le Belise offre un relief assez plat mais on comme à voir au loin un peu de relief, le paysage est très beau. En route nous faisons un arrêt à la nouvelle capitale du Belize à savoir Belmopan. Après un terrible ouragan qui a ravagé la quasi totalité de la ville ce Belize City alors la capitale du Pays, les autorités décident de déplacer la capitale à l’intérieur du pays sous un climat plus calme. Les travaux sont fini en 1970, le nom de Belmopan et une contraction de Belize et Mopan la rivière qui passe à cet endroit. Il s’agit de l’une des plus petite Capitale du monde, et la plus petite des amériques, elle compte 17000 Hbts. A vrai dire il n’y a pas grand chose à voir à part quelques bâtiment officiel. Nous faisons un tour du marché et achetons quelques produits frais, je discute un peu avec des mennonites qui tiennent un stand de meubles.
+Arrivé à San Ignacio, on doit passer par un pont en bois pour traverser une rivière, de l’autre côté on passe devant une boulangerie française « The New French Bakery ». On achète du pain et quelques viennoiseries. Dans la boutique il y a écrit « Bon appétit », je regarde un peu partout, pas de drapeau français, je fais un aller retour à Thor et lui rapporte un petit drapeau, il est super content..
+On fait un tour dans le centre ville, passons à l’information Center et allons réserver notre place dans un tour operator pour visiter le site archéologique de Caracol et qui est plus de 80 Km d’ici, uniquement de la piste par forcement en bon état. On préfère faire cela que mettre Thor en danger…
+En fin d’après-midi en trouve un petit camping bien sympa pour quelques jours.
+
 ## 23 novembre
 
 ## 24 novembre
@@ -121,7 +126,7 @@ En début d’après-midi nous sommes rejoint pa Christophe et Jean-Pierre. Nous
 
 ## 26 novembre
 
-## 27s novembre
+## 27 novembre
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
