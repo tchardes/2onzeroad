@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "17.156244, -89.071416"
   name: "San Ignacio - Belize"
-  date: "22 novembre 2019 "
+  date: "22 au 25 novembre 2019 "
 
 # set the encoding to utf-8
 encoding: utf-8
