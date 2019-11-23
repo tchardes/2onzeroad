@@ -387,7 +387,7 @@
   { "name": "bacalar", "displayName": "Bacalar", "type": "ville", "country": "Mexique" },
   { "name": "chetumal", "displayName": "Chetumal", "type": "ville", "country": "Mexique" },
 
-  { "name": "passagemtob", "displayName": "Passage frontière Beliez à Corozal", "type": "autre", "country": "Belize" },
+  { "name": "passagemtob", "displayName": "Passage frontière Mexique - Belize", "type": "autre", "country": "Belize" },
   { "name": "corozal", "displayName": "Corozal", "type": "ville", "country": "Belize" },
   { "name": "cerros", "displayName": "Cerros - Site Archéologique", "type": "autre", "country": "Belize" },
   { "name": "orange", "displayName": "Orange Walk City", "type": "ville", "country": "Belize" },
