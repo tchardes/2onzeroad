@@ -18,7 +18,7 @@ category: "blog"
 location: "18.495136, -88.400191"
 ---
 
-Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière du Mexique avec le Belize, en camping-car, depuis Chetumal. Important, aucune photocopie de document n'est demandée pour entrer au Belize.
+Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière du Mexique avec le Belize, en camping-car, depuis Chetumal. **Important**, aucune photocopie de document n'est demandée pour entrer au Belize.
 
 <img src="{{baseurl}}/assets/owner/photos/M-Belize1.jpg" style="width:100%" />
 
