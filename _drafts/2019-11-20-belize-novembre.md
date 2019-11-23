@@ -175,9 +175,25 @@ e pars faire un tour à pied sur le malecon et je suis interpellé par un vieux 
 
 ## 21 novembre
 
-Ce matin c’est la chaleur dans Thor qui nous réveille, plus de 30°. Très vite le ciel se couvre et nous avons quelques averses. Je profite d’une accalmie pour aller visiter le musée du Belize qui a été implanté dans l’ancienne prison de la ville. Il s’agit d’un très beau musée assez éclectique qui parle des mayas, de l’esclavage, de la faune avec des oiseaux empaillés et des présentoirs d’insectes, de la monaie…
+Ce matin c’est la chaleur dans Thor qui nous réveille, plus de 30°. Très vite le ciel se couvre et nous avons quelques averses.
 
-En début d’après-midi nous sommes rejoint pa Christophe et Jean-Pierre. Nous partons faire un tour en ville jusqu’à la cathédrale construite en briques, qui, comme pour la prison sont venues directement d’angleterre. L'orgue est particulier car tousles tubes sont blancs... peut être en PVC!!! La ville n’a vraiment rien d’extraordinaire, les touristes viennent surtout ici pour prendre des bateaux taxi qui les conduisent sur le différents Kays (iles récifales) et pour voir le fameux Blue Hole. Nous avons décidé pour notre part de ne pas faire cette partie là. De retour nous nous arrêtons faire deux courses dans une épicerie et force est de constater que les prix ici sont très élevés, pour exemple une paquet de chips 5€, les boîtes de conserve de 400 gr. environ 2€, les pommes 1,5 € pièce…
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112279583/in/datetaken/" title="Belize City - [Belize]"><img src="https://live.staticflickr.com/65535/49112279583_5a55dde056_3k.jpg" width="3072" height="1728" alt="Belize City - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Je profite d’une accalmie pour aller visiter le musée du Belize qui a été implanté dans l’ancienne prison de la ville. Il s’agit d’un très beau musée assez éclectique qui parle des mayas, de l’esclavage, de la faune avec des oiseaux empaillés et des présentoirs d’insectes, de la monnaie…
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112989332/in/datetaken/" title="Belize City - [Belize]"><img src="https://live.staticflickr.com/65535/49112989332_4ce256bf61_3k.jpg" width="3072" height="1728" alt="Belize City - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112287733/in/datetaken/" title="Belize City - [Belize]"><img src="https://live.staticflickr.com/65535/49112287733_7421ad2c82_3k.jpg" width="3072" height="1728" alt="Belize City - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+En début d’après-midi nous sommes rejoint pa Christophe et Jean-Pierre. Nous partons faire un tour en ville jusqu’à la cathédrale construite en briques, qui, comme pour la prison sont venues directement d’angleterre. L'orgue est particulier car tous les tubes sont blancs... peut être en PVC!!!
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112274548/in/datetaken/" title="Belize City - [Belize]"><img src="https://live.staticflickr.com/65535/49112274548_d6e13a9182_3k.jpg" width="3072" height="1728" alt="Belize City - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112283393/in/datetaken/" title="Belize City - [Belize]"><img src="https://live.staticflickr.com/65535/49112283393_d9dd205493_3k.jpg" width="3072" height="1728" alt="Belize City - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+La ville n’a vraiment rien d’extraordinaire, les touristes viennent surtout ici pour prendre des bateaux taxi qui les conduisent sur le différents Kays (iles récifales) et pour voir le fameux Blue Hole. Nous avons décidé pour notre part de ne pas faire cette partie là. De retour nous nous arrêtons faire deux courses dans une épicerie et force est de constater que les prix ici sont très élevés, pour exemple une paquet de chips 5€, les boîtes de conserve de 400 gr. environ 2€, les pommes 1,5 € pièce…
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112785931/in/datetaken/" title="Belize City - [Belize]"><img src="https://live.staticflickr.com/65535/49112785931_9b1c6b935c_3k.jpg" width="3072" height="1728" alt="Belize City - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 22 novembre
 
