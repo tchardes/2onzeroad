@@ -22,14 +22,14 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 <img src="{{baseurl}}/assets/owner/photos/M-Belize1.jpg" style="width:100%" />
 
-Repère 1 - Poste frontière Mexicain
-Repère 2 - Fumigation - Désinfection
-Repère 3 - Poste frontière Belizien
-Repère 4 - Assurance de Thor pour le Belize
+- Repère 1 - Poste frontière Mexicain
+- Repère 2 - Fumigation - Désinfection
+- Repère 3 - Poste frontière Belizien
+- Repère 4 - Assurance de Thor pour le Belize
 
 il faut quitter officiellement le Mexique.
 
-### Mexique
+### Sortie du Mexique
 
 <img src="{{baseurl}}/assets/owner/photos/M-Belize2.jpg" style="width:100%" />
 
@@ -37,9 +37,9 @@ il faut quitter officiellement le Mexique.
 
 - **Importation temporaire de Thor** Repère 2 : nous nous occupons ensuite de l'annulation de notre titre d'importation de Thor. Une fois le premier poste passé, nous nous garons est entrons dans le bâtiment principal qui se trouve sur la gauche. La préposée vient prendre en photo Thor et son N° de série. Nous arrachons le sticker que nous avions collé sur notre pare brise pour lui rendre. En effet si nous faisons pas cela et que nous vendons Thor à l’issue de notre voyage, les nouveaux propriétaires auraient tout le mal du monde à rentrer à nouveau au Mexique. La procédure terminée on nous remet un document attestant que l'annulation est effective. La procédure est gratuite.
 
-Une fois ces démarches effectuées nous quittons le Mexique pour entrer dans une zone franche qui se trouve entre les deux pays.
+Une fois ces démarches effectuées nous quittons le Mexique pour entrer dans une zone libre qui se trouve entre les deux pays.
 
-### Belize
+### Entrée au Belize
 
 Nous roulons quelques minutes puis arrivons au premier poste au Belize.
 
