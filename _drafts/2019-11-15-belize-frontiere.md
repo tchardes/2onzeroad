@@ -18,7 +18,7 @@ category: "blog"
 location: "18.495136, -88.400191"
 ---
 
-Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière du Mexique avec le Belize, en camping-car, depuis Chetumal.
+Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière du Mexique avec le Belize, en camping-car, depuis Chetumal. Important, aucune photocopie de document n'est demandée pour entrer au Belize.
 
 <img src="{{baseurl}}/assets/owner/photos/M-Belize1.jpg" style="width:100%" />
 
@@ -39,7 +39,7 @@ Une fois ces démarches effectuées nous quittons le Mexique pour entrer dans un
 
 ### Entrée au Belize
 
-Nous roulons quelques minutes puis arrivons au premier poste au Belize. Important, aucune photocopie de document n'est demandée pour entrer au Belize.
+Nous roulons quelques minutes puis arrivons au premier poste au Belize.
 
 - **Fumigation** **_Repère 2 première carte_** : on passe sous un portique qui à notre passage se déclenche et nous arrose d’un produit censé éviter de faire rentrer des bestioles clandestines. On s'arrête au baraquement et payons la sommes de 7 \$US en contrepartie d'un reçu et d'un dépliant expliquant la procédure d'entrée au Belize. On reprend la route.
 
@@ -49,11 +49,11 @@ Nous roulons quelques minutes puis arrivons au premier poste au Belize. Importan
 
 - **Importation temporaire de Thor** **_Repère 1_** : nous passons dans la zone suivante pour s'occuper de l’importation du véhicule. Là ca va être très long, ici nous sommes dans un pays caribéen dont la population est majoritairement créole, le rythme n’est pas le même… Après avoir rentré toutes les information dans l’ordinateur, avec un doigt, l'agent sort un cahier à souche avec plusieurs papier carbone et commence à nous remplir le document d’importation. Il m’est venu à l’esprit ce dessin animé, zootopia je crois, ou le fonctionnaire est un paresseux et met une plombe à tamponner le document. On a vécu un peu cela. Puis il prend une règle pour découper le papier qu'il doit me remettre. L'opération se passe mal, il reste un petit bout de papier qu'il va falloir couper pour faire propre... très long...
 
-- **\*Payement d'une Taxe** **_Repère 2_** : Une fois le document en poche on sort du bâtiment et là un officiel nous demande de nous acquitter à l'extérieur de la somme de 15 US\$ et nous remet un reçu, on pense au départ que c'est pour l'importation du véhicule mais je n'en suis pas sur, plutôt des frais de parking...
+- **Payement d'une Taxe** **_Repère 2_** : Une fois le document en poche on sort du bâtiment et là un officiel nous demande de nous acquitter à l'extérieur de la somme de 15 US\$ et nous remet un reçu, on pense au départ que c'est pour l'importation du véhicule mais je n'en suis pas sur, plutôt des frais de parking...
 
-- **\*Contrôle sanitaire** **_Repère 3_** : nous remontons dans Thor et passons le dernier contrôle avant l'entrée effective au Belize. Passeports, importations du véhicule et fumigation, tout est OK. Les agents nous indique qu'il souhaite monter pour effectué un contrôle visuel. La douanière jette un œil rapide et nous félicite pour notre beau MotorHome puis redescend et c’est au tour de l'agent du contrôle sanitaire qui monte, et là la question qui tue : " Avez-vous des produits frais, fruits ? légumes ?". Corinne lui ouvre le frigo et lui montre toutes les choses qu'au final nous avons décidé de ne pas jeter. Il regarde et nous dit: "C’est pas bien" puis… "vous pouvez y aller". Heureusement que nous n’avons pas tout jeter hier ou planqué un peu partout…
+- **Contrôle sanitaire** **_Repère 3_** : nous remontons dans Thor et passons le dernier contrôle avant l'entrée effective au Belize. Passeports, importations du véhicule et fumigation, tout est OK. Les agents nous indique qu'il souhaite monter pour effectué un contrôle visuel. La douanière jette un œil rapide et nous félicite pour notre beau MotorHome puis redescend et c’est au tour de l'agent du contrôle sanitaire qui monte, et là la question qui tue : " Avez-vous des produits frais, fruits ? légumes ?". Corinne lui ouvre le frigo et lui montre toutes les choses qu'au final nous avons décidé de ne pas jeter. Il regarde et nous dit: "C’est pas bien" puis… "vous pouvez y aller". Heureusement que nous n’avons pas tout jeter hier ou planqué un peu partout…
 
-- **\*Assurance Thor** **_Repère 4_** : juste après la frontière, se trouve un grand bâtiment blanc sur la droite qui abrite la "Insurance Corporation of Belize" la compagnie d’assurance du Belize, qui est obligatoire, du moins pour les étrangers. Je pense qu'il s'agit simplement d'une responsabilité civile "SOAT". Pour 15 jours nous payons 23 \$US. Le préposé nous donne un sticker à coller sur le pare-brise.
+- **Assurance Thor** **_Repère 4_** : juste après la frontière, se trouve un grand bâtiment blanc sur la droite qui abrite la "Insurance Corporation of Belize" la compagnie d’assurance du Belize, qui est obligatoire, du moins pour les étrangers. Je pense qu'il s'agit simplement d'une responsabilité civile "SOAT". Pour 15 jours nous payons 23 \$US. Le préposé nous donne un sticker à coller sur le pare-brise.
 
 ### Récapitulation des frais :
 
