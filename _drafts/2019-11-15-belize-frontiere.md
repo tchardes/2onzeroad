@@ -6,7 +6,7 @@ parent-id: 2019-11-29-belize-novembre
 
 date: 2019-11-15 17:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-sandiego.jpg"
+header-img: "assets/owner/blog/header/post-bg-m-belize.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-m-belize.jpg
 tags: []
 pois: [passagemtob]
