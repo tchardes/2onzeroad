@@ -39,31 +39,7 @@ Cet article couvre la période du 15 au novembre 2019, au cours de laquelle nous
 
 ## 15 novembre
 
-Ce matin nous passons la frontière pour rentrer au Belize, mais avons tout, il faut quitter officiellement le Mexique.
-
-### Mexique
-
-- **Immigration** : nous arrivons à un premier poste de contrôle qui inspecte nos passeport et notre visa et nous indique que nous devons nous acquitter de la taxe touristique. Nous l’avions déjà payé lors de notre rentrée au Mexique le 29/12/2018, ticket de la carte bleu fraisant fois mais elle ne veut rien savoir, le délais est dépassé nous devons repayer la somme de 558 \$/Mex par personne). Heureusement que nous avons des dollars US car nous n’avions pas assez de pesos et il n’y a aucun distributeur dans la zone.
-
-- **Importation temporaire de Thor** : nous nous occupons ensuite de l'annulation de notre titre d'importation de Thor. Une fois le premier poste passé, nous nous garons est entrons dans le bâtiment principal qui se trouve sur la gauche. La préposée vient prendre en photo Thor et son N° de série. Nous arrachons le sticker que nous avions collé sur notre pare brise pour lui rendre. En effet si nous faisons pas cela et que nous vendons Thor à l’issue de notre voyage, les nouveaux propriétaires auraient tout le mal du monde à rentrer à nouveau au Mexique. La procédure terminée on nous remet un document attestant que l'annulation est effective. La procédure est gratuite.
-
-Une fois ces démarches effectuées nous quittons le Mexique pour entrer dans une zone franche qui se trouve entre les deux pays.
-
-### Belize
-
-Nous roulons quelques minutes puis arrivons au premier poste au Belize. Adieu l’espagnol, ledollar mexicain et les "topes" et bonjour, l’anglais, le dollar Belize (1€ = 2 \$B) et les bumps, nous perdons également une heure. Le Belize est le seul pays en Amérique centrale et du sud où la langue officielle est l’anglais. Le Belize, anciennement le Honduras Britannique fait toujours partie du Commonwealth, Elisabeth II trône sur la monnaie locale.
-
-- **Fumigation** : on passe sous un portique qui à notre passage se déclenche et nous arrose d’un produit censé éviter de faire rentrer des bestioles clandestines. On s'arrête au baraquement et payons la sommes de 7 \$US en contrepartie d'un reçu et d'un dépliant expliquant la procédure d'entrée au Belize.
-
-- **Immigration** : nous roulons encore un peu est arrivons dans la zone principale. Dans le bâtiment central, nous remplissons notre fiche individuelle puis passons au guichet de l’immigration, contrôle, quelques question puis tampon sur les passeports, nous demandons 15 jours pour être un peu large et ils nous accordent un mois, jusqu’au 14 décembre.
-
-- **Importation temporaire de Thor** : nous passons dans la zone suivante pour s'occuper de l’importation du véhicule. Là ca va être très long, ici nous sommes dans un pays caribéen dont la population est majoritairement créole, le rythme n’est pas le même… Après avoir rentré toutes les information dans l’ordinateur, avec un doigt, l'agent sort un cahier à souche avec plusieurs charbonne et commence à nous remplir le document d’importation. Il m’est venu à l’esprit ce dessin animé, zootopia je crois, ou le fonctionnaire est un paresseux et met une plombe à tamponner le document. On a vécu un peu cela. Une fois le document en poche on doit encore s’acquitter à l'extérieur de la somme de 15 US\$ pour cette importation et nous voilà en règle pour vagabonder au Belize.
-
-- **Contrôle sanitaire** : nous remontons dans Thor et passons le dernier contrôle avant l'entrée effective au Belize. Passeports, importations du véhicule et fumigation, tout est OK. Les agents nous indique qu'il souhaite monter pour effectué un contrôle visuel. La douanière jette un œil rapide et nous félicite pour notre beau MotorHome puis redescend et c’est au tour de l'agent du contrôle sanitaire qui monte, et là la question qui tue : " Avez-vous des produits frais, fruits ? légumes ?". Corinne lui ouvre le frigo et lui montre toutes les choses qu'au final nous avons décidé de ne pas jeter. Il regarde et nous dit: "C’est pas bien" puis… "vous pouvez y aller". Heureusement que nous n’avons pas tout jeter hier ou planqué un peu partout…
-
-- **Assurance Thor** : juste après la frontière, se trouve un grand bâtiment blanc sur la droite qui abrite la "Insurance Corporation of Belize" la compagnie d’assurance du Belize, qui est obligatoire, du moins pour les étrangers. Je pense qu'il s'agit simplement d'une responsabilité civile "SOAT". Pour 15 jours nous payons 23 \$US. Le préposé nous donne un sticker à coller sur le pare-brise.
-
-Au final on se fait un monde de ces passages de frontière mais il n’y a rien de bien compliqué, toutes ces démarches nous ont pris environ deux heures. Il est déjà un peu tard et nous décidons de manger sur place.
+Ce matin nous passons la frontière pour rentrer au Belize. Toute la procédure administrative est détaillée ici : **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2020/2019-11-15-belize-frontiere %}">ici</a>)**. Au final on se fait un monde de ces passages de frontière mais il n’y a rien de bien compliqué, toutes ces démarches nous ont pris environ deux heures. Il est déjà un peu tard et nous décidons de manger sur place.
 
 Nous repartons en suite en direction de la première ville de l’Etat à savoir **Corozal**. Le premier ressenti est bon, c'est propre,les gens nous saluent et nous disent bonjour, c'est cool. Nous y faisons un petit arrêt pour retirer de l’argent au distributeur et une carte Sim pour Christophe et Jean-Pierre qui vont rester ici un mois.
 
