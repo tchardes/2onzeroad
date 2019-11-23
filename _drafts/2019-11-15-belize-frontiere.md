@@ -22,9 +22,9 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 <img src="{{baseurl}}/assets/owner/photos/M-Belize1.jpg" style="width:100%" />
 
-- Repère 1 - Poste frontière Mexicain
+- Repère 1 - Poste frontière mexicain
 - Repère 2 - Fumigation - Désinfection
-- Repère 3 - Poste frontière Belizien
+- Repère 3 - Poste frontière belizien
 - Repère 4 - Assurance de Thor pour le Belize
 
 il faut quitter officiellement le Mexique.
