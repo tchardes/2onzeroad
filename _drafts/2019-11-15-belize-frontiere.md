@@ -2,20 +2,20 @@
 layout: blog
 title: "Passage frontière Mexique - Belize"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
-parent-id: 2018-12-29-usa-californie-decembre
+parent-id: 2019-11-29-belize-novembre
 
 date: 2019-11-15 08:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-sandiego.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-mexique.jpg
 tags: []
-pois: [tecate]
+pois: [passagemtob]
 flickr-text: ""
 country: Belize
 states: ["Corozal"]
 city:
 category: "blog"
-location: "32.576283, -116.627466"
+location: "18.495136, -88.400191"
 ---
 
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière du Mexique avec le Belize, en camping-car, depuis Chetumal.
