@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Belize"
-preview: "…"
+preview: "Cet article couvre la période du 15 au novembre 2019, au cours de laquelle nous avons traversé la partie Nord du Belize…"
 parent-id:
 date: 2019-11-20 13:00:00
 from-date: 2019-11-15 12:00:00
