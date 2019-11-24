@@ -23,7 +23,9 @@ pois:
     crooked#18-et-19-novembre,
     altun#20-novembre,
     belizecity#20-novembre,
+    belmopan#22-novembre,
     sanignacio#22-novembre,
+    cahual#23-novembre,
     caracol#24-novembre,
   ]
 country: Belize
@@ -197,12 +199,43 @@ La ville n’a vraiment rien d’extraordinaire, les touristes viennent surtout 
 
 ## 22 novembre
 
-Ce matin on quitte une nouvelle fois Christophe et Jean-Pierre qui parte vers le Sud, tandis que nous nous approchons de la frontière Nord avec le Guatemala. Jusqu’à présent le Belise offre un relief assez plat mais on comme à voir au loin un peu de relief, le paysage est très beau. En route nous faisons un arrêt à la nouvelle capitale du Belize à savoir Belmopan. Après un terrible ouragan qui a ravagé la quasi totalité de la ville ce Belize City alors la capitale du Pays, les autorités décident de déplacer la capitale à l’intérieur du pays sous un climat plus calme. Les travaux sont fini en 1970, le nom de Belmopan et une contraction de Belize et Mopan la rivière qui passe à cet endroit. Il s’agit de l’une des plus petite Capitale du monde, et la plus petite des amériques, elle compte 17000 Hbts. A vrai dire il n’y a pas grand chose à voir à part quelques bâtiment officiel. Nous faisons un tour du marché et achetons quelques produits frais, je discute un peu avec des mennonites qui tiennent un stand de meubles.
-Arrivé à San Ignacio, on doit passer par un pont en bois pour traverser une rivière, de l’autre côté on passe devant une boulangerie française « The New French Bakery ». On achète du pain et quelques viennoiseries. Dans la boutique il y a écrit « Bon appétit », je regarde un peu partout, pas de drapeau français, je fais un aller retour à Thor et lui rapporte un petit drapeau, il est super content..
-On fait un tour dans le centre ville, passons à l’information Center et allons réserver notre place dans un tour operator pour visiter le site archéologique de Caracol et qui est plus de 80 Km d’ici, uniquement de la piste par forcement en bon état. On préfère faire cela que mettre Thor en danger…
-En fin d’après-midi en trouve un petit camping bien sympa pour quelques jours.
+Ce matin on quitte une nouvelle fois Christophe et Jean-Pierre qui parte vers le Sud, tandis que nous nous approchons de la frontière Ouest avec le Guatemala. Jusqu’à présent le Belise offre un relief assez plat mais on commence à voir au loin un peu de relief, le paysage est très beau. En route nous faisons un arrêt à la nouvelle capitale du Belize à savoir **Belmopan**. Après un terrible ouragan qui a ravagé la quasi totalité de la ville ce Belize City, alors la capitale du pays, les autorités décident de déplacer la capitale à l’intérieur du pays sous un climat plus clément. Les travaux sont finis en 1970, le nom de Belmopan et une contraction de Belize et Mopan la rivière qui passe à cet endroit. Il s’agit de l’une des plus petite Capitale du monde, et la plus petite des amériques, elle compte 17000 Hbts. Dès l'entrée de la ville notre regard se porte sur un bâtiemnt pour le moins original qui domine...
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49113460722/in/datetaken/" title="Belmopan - [Belize]"><img src="https://live.staticflickr.com/65535/49113460722_6e57962e39_3k.jpg" width="3072" height="1728" alt="Belmopan - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49113268201/in/datetaken/" title="Belmopan - [Belize]"><img src="https://live.staticflickr.com/65535/49113268201_149a9083b2_3k.jpg" width="3072" height="1728" alt="Belmopan - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A vrai dire il n’y a pas grand chose à voir à part quelques bâtiments officiels. Nous faisons un tour du marché et achetons quelques produits frais, sur les étal beaucoup de légumes sont déjà pesés et le prix mentionné dessus, on remarque également qu'il vende des oranges pelées, on demande pourquoi à la vendeuse et apparement c'est uniquement pour gagner du temps... je discute un peu avec des mennonites qui tiennent un stand de meubles. Nous apercevons également, ce que l'on pense être un opussum, il était très speed, impossible de le prendre en photo.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112753458/in/datetaken/" title="Belmopan - [Belize]"><img src="https://live.staticflickr.com/65535/49112753458_8acd66c9ce_3k.jpg" width="3072" height="1728" alt="Belmopan - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112749393/in/datetaken/" title="Belmopan - [Belize]"><img src="https://live.staticflickr.com/65535/49112749393_dd47eef15d_3k.jpg" width="3072" height="1728" alt="Belmopan - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Sur la route on tombe sur un panneau que nous avons déjà vu à plusieurs reprises depuis que nous sommes au Belize. Il reprend des paraoles d'une chanson en ses termes : "Tell Guatemala leave Belize alone", qui veut dire : "Dites au Guatemala de laisser le Belize tranquille". Après s'être renseigné auprès de plusieurs personnes il s'avère que depuis des décénies, en fait le départ des anglais, il y a un conflit politique larvé entre ces deux pays. Le Guatemala revendique en effet les 2/3 du Belize. Ce dernier est en train de monter un dossier auprès de la Cours Internaltionale de Justice pour qu'elle stutue une fois pour toute sur l'indépendance totale de Belize et le tracé de sa frontière qui ont été validé par un traité international en 1859 mais que le Guatemala n'a jamais voulu signer.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112747413/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49112747413_752b756bc8_3k.jpg" width="3072" height="1728" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Pour renter dans San Ignacio, on passe sur un vieux pont en bois qui traverse une rivière, de l’autre côté on passe devant une boulangerie française "The New French Bakery". On y achète du pain et quelques viennoiseries. Dans la boutique il y a écrit "Bon appétit", je regarde un peu partout, pas de drapeau français, je fais un aller retour à Thor et rapporte un petit drapeau au vendeur, il est super content.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49113445997/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49113445997_3e539abb8d_3k.jpg" width="3072" height="1728" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49113255196/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49113255196_bea4005ab3_3k.jpg" width="3072" height="1728" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On fait un tour dans le centre ville, passons à l’information Center et allons réserver notre place dans un tour operator pour visiter le site archéologique de Caracol et qui est à plus de 80 Km d’ici, uniquement de la piste par forcement en bon état. On préfère faire cela que mettre Thor en danger… En fin d’après-midi en trouve un petit camping bien sympa pour nous poser les quelques jours où nous restons ici.
 
 ## 23 novembre
+
+Nuit et matinée calme au camping, on donne notre linge à laver et on travaille sur le blog. En debut d’après midi on part à pied faire une belle ballade jusqu’au site archéologique Maya de **Cahual Pech** qui est petit mais pas inintéressant, à l’ombre, au frais, car il fait très chaud. Situé sur une colline il dommine les viles de San Ignacio et Santa Helena qui ne sont séparées que par la rivière Macal. Le centre ville est animé, les rues sont bloquées et les commercants exposent leurs produits en pleine rue.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49113430367/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49113430367_c80c1cf249_3k.jpg" width="3072" height="1728" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49113244156/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49113244156_ae8531afc5_3k.jpg" width="3072" height="1728" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112726878/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49112726878_fbd490ee45_3k.jpg" width="3072" height="1728" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49113423242/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49113423242_fa837b7a79_3k.jpg" width="3072" height="1728" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
 
 ## 24 novembre
 
