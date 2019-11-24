@@ -33,7 +33,7 @@ country: Belize
 states: ["Corozal", "Orange Walk", "Belize", "Cayo"]
 category: "roadmap"
 flickr-text: ""
-location: "17.885558, -89.082936"
+location: "17.696455, -89.055807"
 itinary: "2020/belize.json"
 mapZoom: 8
 ---
@@ -237,6 +237,26 @@ Nuit et matinée calme au camping, on donne notre linge à laver et on travaille
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49113423242/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49113423242_fa837b7a79_3k.jpg" width="3072" height="1728" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 24 novembre
+
+Ce matin à 7h30 nous sommes devant le camping quand un 4X4 arrive, c’est notre guide pour la journée. Il est accompagné d’un apprenti, nous sommes les deux seuls clients. Nous montons à l’arrière et partons en direction du site archéologique de Caracol situé en pleine forêt, tout proche de la frontière avec le Guatemala. Rapidement nous sommes content d’avoir choisi cette solution, la piste n’est pas très bonne avec des passages délicats. Sur le 80 km, 60 sont de la piste. Si le 4X4 semble volé au-dessus des trous, du rupio, des ornières… Thor aurait eu du mal et nous hyper stressé. Presque à mi-chemin on s’arrête à Rio Frio Cave, un tunel creusé dans la montagne par la rivière. Ce n’est pas exceptionnel mais cela nous permet de nous dégourdir un peu les jambes.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118471901/in/datetaken/" title="Rio Frio Cave - [Belize]"><img src="https://live.staticflickr.com/65535/49118471901_e3e0fb4768_3k.jpg" width="3072" height="1728" alt="Rio Frio Cave - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A une vigntaine de kilomètre du site se trouve une petite base militaire où il faut laisser son imatriculation pour aller au site, idem au retour. Au terme de 2h30 de piste on arrive au site, il y a très peu de monde, le guide nous dit entre 6 et 10 personnes par jour seulement. Nous sommes dimanche et nous devont être guère plus. Le site de Caracol était très important dans la région, il recouvrait une superficie de 200 Km2, seuls quelques temples ont été exhumés de la jungle. Des militaires patrouillent en arme sur le site en raison de la proximité du Gratemala.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118647742/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49118647742_a35cdffe4c_3k.jpg" width="3072" height="1728" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous en faisons le tour en 2 heures avec les explications des 2 guides qui sont super sympas, le site est vraiment remarquable. Vers midi on mange sur place, il nous propose une salade Cold Chow, un pilon de poulé grillé avec du riz et haricot rouge bien assaisonné et une bouteille d’eau.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49117931043/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49117931043_0db7a0be97_3k.jpg" width="3072" height="1245" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118463991/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49118463991_05bdd0bf81_3k.jpg" width="3072" height="1728" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Après le repas nous faisons retour sur San Ignacio. En cours de route on observe un petit crocodile qui se dore au soleil puis s’arrête à Rio On Pools, une succession de petites cascades et de petits bassins sur la rivière, on fait une pause photos et ne souhaitant pas se baigner on poursuit la route jusqu’au camping.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49117906558/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49117906558_4ff2f6c209_3k.jpg" width="3072" height="1728" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118408931/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49118408931_af9e5b3ff2_3k.jpg" width="3072" height="2048" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 25 novembre
 
