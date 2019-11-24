@@ -46,7 +46,7 @@ Ce matin nous passons la frontière pour rentrer au Belize. Toute la procédure 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49091414018/in/datetaken/" title="Chetumal - [Mexique]"><img src="https://live.staticflickr.com/65535/49091414018_61de4f7aae_4k.jpg" width="4032" height="2268" alt="Chetumal - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous repartons en suite en direction de la première ville du Belize à savoir **Corozal**. Le premier ressenti est bon, c'est propre,les gens nous saluent et nous disent bonjour, c'est cool. Nous y faisons un petit arrêt pour retirer de l’argent au distributeur, des dollars beliziens et une carte Sim pour Christophe et Jean-Pierre qui vont rester ici un mois.
+Nous repartons en suite en direction de la première ville du Belize à savoir **Corozal**. Le premier ressenti est bon, c'est propre,les gens nous saluent et nous disent bonjour, c'est cool. Nous y faisons un petit arrêt pour retirer de l’argent au distributeur, des dollars béliziens et une carte Sim pour Christophe et Jean-Pierre qui vont rester ici un mois.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49088422292/in/datetaken/" title="Corozal - [Belize]"><img src="https://live.staticflickr.com/65535/49088422292_25f8fe6326_4k.jpg" width="4096" height="2304" alt="Corozal - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -154,7 +154,7 @@ Journée farniente au camping, on profite de l’électricité et du très bon W
 
 ## 20 novembre
 
-Ce matin on prépare Thor, nous quittons Christophe et Jean-Pierre qui restent un peu plus longtemps sur site. Les jeunes partent également en direction de San Ignacio près de la frontière guatemaltéque.
+Ce matin on prépare Thor, nous quittons Christophe et Jean-Pierre qui restent un peu plus longtemps sur site. Les jeunes partent également en direction de San Ignacio près de la frontière guatémaltèque.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49096234142/in/datetaken/" title="Crooked Tree Wildlife Sanctuary - [Belize]"><img src="https://live.staticflickr.com/65535/49096234142_86d467421a_3k.jpg" width="3072" height="1728" alt="Crooked Tree Wildlife Sanctuary - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -194,7 +194,7 @@ En début d’après-midi nous sommes rejoint pa Christophe et Jean-Pierre. Nous
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112283393/in/datetaken/" title="Belize City - [Belize]"><img src="https://live.staticflickr.com/65535/49112283393_d9dd205493_3k.jpg" width="3072" height="1728" alt="Belize City - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-La ville n’a vraiment rien d’extraordinaire, les touristes viennent surtout ici pour prendre des bateaux taxi qui les conduisent sur le différents Kays (iles récifales) et pour voir le fameux Blue Hole. Nous avons décidé pour notre part de ne pas faire cette partie là. De retour nous nous arrêtons faire deux courses dans une épicerie et force est de constater que les prix ici sont très élevés, pour exemple une paquet de chips 5€, les boîtes de conserve de 400 gr. environ 2€, les pommes 1,5 € pièce…
+La ville n’a vraiment rien d’extraordinaire, les touristes viennent surtout ici pour prendre des bateaux taxi qui les conduisent sur le différents Keys (archipel corallien) et pour voir le fameux Blue Hole. Nous avons décidé pour notre part de ne pas faire cette partie là. De retour nous nous arrêtons faire deux courses dans une épicerie et force est de constater que les prix ici sont très élevés, pour exemple une paquet de chips 5€, les boîtes de conserve de 400 gr. environ 2€, les pommes 1,5 € pièce, l'essence et à 1,20€ approximativement…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112785931/in/datetaken/" title="Belize City - [Belize]"><img src="https://live.staticflickr.com/65535/49112785931_9b1c6b935c_3k.jpg" width="3072" height="1728" alt="Belize City - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -238,7 +238,7 @@ Nuit et matinée calme au camping, on donne notre linge à laver et on travaille
 
 ## 24 novembre
 
-Ce matin à 7h30 nous sommes devant le camping quand un 4X4 arrive, c’est notre guide pour la journée. Il est accompagné d’un apprenti, nous sommes les deux seuls clients. Nous montons à l’arrière et partons en direction du site archéologique de Caracol situé en pleine forêt, tout proche de la frontière avec le Guatemala. Rapidement nous sommes content d’avoir choisi cette solution, la piste n’est pas très bonne avec des passages délicats. Sur le 80 km, 60 sont de la piste. Si le 4X4 semble volé au-dessus des trous, du rupio, des ornières… Thor aurait eu du mal et nous hyper stressé. Presque à mi-chemin on s’arrête à Rio Frio Cave, un tunel creusé dans la montagne par la rivière. Ce n’est pas exceptionnel mais cela nous permet de nous dégourdir un peu les jambes.
+Ce matin à 7h30 nous sommes devant le camping quand un 4X4 arrive, c’est notre guide pour la journée. Il est accompagné d’un apprenti, nous sommes les deux seuls clients. Nous montons à l’arrière et partons en direction du site archéologique de **Caracol** situé en pleine forêt, tout proche de la frontière avec le Guatemala. Rapidement nous sommes content d’avoir choisi cette solution, la piste n’est pas très bonne avec des passages délicats. Sur le 80 km, 60 sont de la piste. Si le 4X4 semble volé au-dessus des trous, du rupio, des ornières… Thor aurait eu du mal et nous hyper stressé. Presque à mi-chemin on s’arrête à **Rio Frio Cave**, un tunel creusé dans la montagne par la rivière. Ce n’est pas exceptionnel mais cela nous permet de nous dégourdir un peu les jambes.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118471901/in/datetaken/" title="Rio Frio Cave - [Belize]"><img src="https://live.staticflickr.com/65535/49118471901_e3e0fb4768_3k.jpg" width="3072" height="1728" alt="Rio Frio Cave - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -246,13 +246,13 @@ A une vigntaine de kilomètre du site se trouve une petite base militaire où il
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118647742/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49118647742_a35cdffe4c_3k.jpg" width="3072" height="1728" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous en faisons le tour en 2 heures avec les explications des 2 guides qui sont super sympas, le site est vraiment remarquable. Vers midi on mange sur place, il nous propose une salade Cold Chow, un pilon de poulé grillé avec du riz et haricot rouge bien assaisonné et une bouteille d’eau.
+Nous en faisons le tour en 2 heures avec les explications des 2 guides qui sont super sympas, le site est vraiment remarquable. Vers midi on mange sur place, il nous propose une salade Cold Chow, un pilon de poulé grillé avec du riz et haricot rouge bien assaisonné et une bouteille d’eau. C'est meilleur que les termites que nous avons gouté sur le chemin, soit disant un goût de carotte...
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49117931043/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49117931043_0db7a0be97_3k.jpg" width="3072" height="1245" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118463991/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49118463991_05bdd0bf81_3k.jpg" width="3072" height="1728" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Après le repas nous faisons retour sur San Ignacio. En cours de route on observe un petit crocodile qui se dore au soleil puis s’arrête à Rio On Pools, une succession de petites cascades et de petits bassins sur la rivière, on fait une pause photos et ne souhaitant pas se baigner on poursuit la route jusqu’au camping.
+Après le repas nous faisons retour sur San Ignacio. En cours de route on observe un petit crocodile qui se dore au soleil puis s’arrête à **Rio On Pools**, une succession de petites cascades et de petits bassins sur la rivière, on fait une pause photos et ne souhaitant pas se baigner on poursuit la route jusqu’au camping.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49117906558/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49117906558_4ff2f6c209_3k.jpg" width="3072" height="1728" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
