@@ -27,6 +27,7 @@ pois:
     sanignacio#22-novembre,
     cahual#23-novembre,
     caracol#24-novembre,
+    atmcave#25-novembre,
   ]
 country: Belize
 states: ["Corozal", "Orange Walk", "Belize", "Cayo"]
@@ -234,8 +235,6 @@ Nuit et matinée calme au camping, on donne notre linge à laver et on travaille
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112726878/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49112726878_fbd490ee45_3k.jpg" width="3072" height="1728" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49113423242/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49113423242_fa837b7a79_3k.jpg" width="3072" height="1728" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
 
 ## 24 novembre
 
