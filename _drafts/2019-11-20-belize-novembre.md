@@ -198,6 +198,8 @@ La ville n’a vraiment rien d’extraordinaire, les touristes viennent surtout 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49112785931/in/datetaken/" title="Belize City - [Belize]"><img src="https://live.staticflickr.com/65535/49112785931_9b1c6b935c_3k.jpg" width="3072" height="1728" alt="Belize City - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118988748/in/datetaken/" title="Belize City - [Belize]"><img src="https://live.staticflickr.com/65535/49118988748_180db770a4_h.jpg" width="1600" height="900" alt="Belize City - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 22 novembre
 
 Ce matin, on quitte une nouvelle fois Christophe et Jean-Pierre qui partent vers le Sud, tandis que nous nous approchons de la frontière Ouest avec le Guatemala. Jusqu’à présent, le Belise offre un relief assez plat mais on commence à voir au loin un peu de relief, le paysage est très beau. En route, nous faisons un arrêt à la nouvelle capitale du Belize à savoir **Belmopan**. Après un terrible ouragan qui a ravagé la quasi totalité de la ville de Belize City, alors la capitale du pays, les autorités décident de déplacer la capitale à l’intérieur du pays sous un climat plus clément. Les travaux sont finis en 1970, le nom de Belmopan et une contraction de Belize et Mopan la rivière qui passe à cet endroit. Il s’agit de l’une des plus petites Capitale du monde, et la plus petite des amériques, elle compte 17000 Hbts. Dès l'entrée de la ville, notre regard se porte sur un bâtiment pour le moins original qui domine...
@@ -226,7 +228,9 @@ On fait un tour dans le centre-ville, passons à l’information Center et allon
 
 ## 23 novembre
 
-Nuit et matinée calme au camping, on donne notre linge à laver et on travaille sur le blog. En début d’après-midi, on part à pied faire une belle ballade jusqu’au site archéologique Maya de **Cahual Pech** qui est petit mais pas inintéressant, à l’ombre, au frais, car il fait très chaud. Situé sur une colline, il dommine les villes de San Ignacio et Santa Helena qui ne sont séparées que par la rivière Macal. Le centre-ville est animé, les rues sont bloquées et les commerçants exposent leurs produits en pleine rue.
+Nuit et matinée calme au camping, on donne notre linge à laver et on travaille sur le blog. En début d’après-midi, on part à pied faire une belle ballade jusqu’au site archéologique Maya de **Cahual Pech** qui est petit mais pas inintéressant, à l’ombre, au frais, car il fait très chaud. Situé sur une colline, il dommine les villes de San Ignacio et Santa Helena qui ne sont séparées que par la rivière Macal. Le centre-ville est animé, les rues sont bloquées et les commerçants exposent leurs produits en pleine rue, Noël approche...
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118989028/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49118989028_088a55b683_h.jpg" width="1600" height="1000" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49113430367/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49113430367_c80c1cf249_3k.jpg" width="3072" height="1728" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -243,6 +247,8 @@ Ce matin, à 7h30 nous sommes devant le camping quand un 4X4 arrive, c’est not
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118471901/in/datetaken/" title="Rio Frio Cave - [Belize]"><img src="https://live.staticflickr.com/65535/49118471901_e3e0fb4768_3k.jpg" width="3072" height="1728" alt="Rio Frio Cave - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 A une vigntaine de kilomètres du site, se trouve une petite base militaire où il faut laisser son immatriculation pour aller au site, idem au retour. Au terme de 2h30 de piste, on arrive au site, il y a très peu de monde, le guide nous dit entre 6 et 10 personnes par jour seulement. Nous sommes dimanche et nous devons être guère plus. Le site de Caracol était très important dans la région, il recouvrait une superficie de 200 Km2 et abritait plus de 140000 habitants, seuls quelques temples ont été exhumés de la jungle. Des militaires patrouillent en arme sur le site en raison de la proximité du Gratemala.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118989028/in/datetaken/" title="San Ignacio - [Belize]"><img src="https://live.staticflickr.com/65535/49118989028_088a55b683_h.jpg" width="1600" height="1000" alt="San Ignacio - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118647742/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49118647742_a35cdffe4c_3k.jpg" width="3072" height="1728" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
