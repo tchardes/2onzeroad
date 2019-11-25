@@ -258,7 +258,7 @@ Nous en faisons le tour en 2 heures avec les explications des 2 guides qui sont 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118463991/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49118463991_05bdd0bf81_3k.jpg" width="3072" height="1728" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Après le repas, nous faisons retour sur San Ignacio. En cours de route, on observe un petit crocodile qui se dore au soleil puis s’arrête à **Rio On Pool**, une succession de petites cascades et de petits bassins sur la rivière, on fait une pause photos et ne souhaitant pas se baigner, on poursuit la route jusqu’au camping.
+Après le repas, nous faisons retour sur San Ignacio. En cours de route, on observe un petit crocodile qui se dore au soleil puis s’arrête à **Rio On Pools**, une succession de petites cascades et de petits bassins sur la rivière, on fait une pause photos et ne souhaitant pas se baigner, on poursuit la route jusqu’au camping.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49117906558/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49117906558_4ff2f6c209_3k.jpg" width="3072" height="1728" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
