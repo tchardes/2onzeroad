@@ -3,9 +3,9 @@ layout: blog
 title: "Belize"
 preview: "Cet article couvre la période du 15 au novembre 2019, au cours de laquelle nous avons traversé la partie Nord du Belize…"
 parent-id:
-date: 2019-11-24 13:00:00
+date: 2019-11-25 13:00:00
 from-date: 2019-11-15 12:00:00
-to-date: 2019-11-24 12:00:00
+to-date: 2019-11-25 12:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt26.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt26.jpg
