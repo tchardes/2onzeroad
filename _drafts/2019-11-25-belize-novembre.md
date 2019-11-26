@@ -269,12 +269,8 @@ Après le repas, nous faisons retour sur San Ignacio. En cours de route, on obse
 Ce matin à 08h30 le tour operator passe me prendre au calmping pour cette fois aller visiter ATM Caves. Il s’agit d’une mini van et nous sommes au total 8 trouristes, 5 francais, une américaine et deux Hollandais. La visite est vraiment très intéressante. Corinne ne vient pas car la visite est quand même un peu phisyque. Parmes le sfrançaises, j’ai rencontrée Mathilde dont la grand-mère et dans la même résidence que ma mère, un truc de fou.
 Pendant que j’étais sur le site un francais est venu taper à la porte de Thor, ils discute un moment et nous invite le soir à boire une bière chez lui. Philippe est originaire de Maubeuge ils est skipper et pilote des bâteaux, quand ca lui chante, pour des propriétaires, après avoir passé plusieurs mois dans ce camping il s’est fait carrément construite une petite maison en bois par des mennonités. Super moments d’échanges autour d’une bierre.
 
-**(voir l’article complet sur les missions <a href="{{site.baseurl}}{% post_url 2020/2019-11-25-belize-missions-gorda %}">ici</a>)**
-
 ## 26 novembre
 
 ## 27 novembre
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SYRX3ZQhD9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
