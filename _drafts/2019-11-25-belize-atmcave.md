@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Actun Tunichil Muknal - ATM Cave"
-preview: "**Actun Tunichil Muknal** ou ATM peut se traduire par la grotte du sépulcre de cristal. Il s'agit d'une grotte qui abrite un site…"
+preview: Actun Tunichil Muknal ou ATM cave peut se traduire par la grotte du sépulcre de cristal. Il s'agit d'une grotte qui abrite un site…"
 parent-id: 2019-11-25-belize-novembre
 
 date: 2019-11-25 12:00:00
@@ -18,7 +18,7 @@ category: "blog"
 location: "17.117824, -88.893428"
 ---
 
-**Actun Tunichil Muknal** ou ATM peut se traduire par la grotte du sépulcre de cristal. Il s'agit d'une grotte qui abrite un site archéologique Maya comprenant des squelettes et des céramiques. Plusieurs restes squelettiques sont présents mais le plus célèbre se trouve dans la chambre principale. Connu sous le nom de "**The Crystal Maiden**", ce squelette d'une adolescente, certainement sacrifiée, a les os entièrement recouvert de calcite, ce qui lui donne un aspect cristallisé qui scintille à la lumière des torches. Située dans la réserve naturelle de la montagne Tapir, le National Geographic l'a classée N°1 sur sa liste des 10 plus grandes grottes sacrées.
+**Actun Tunichil Muknal** ou ATM cave peut se traduire par la grotte du sépulcre de cristal. Il s'agit d'une grotte qui abrite un site archéologique Maya comprenant des squelettes et des céramiques. Plusieurs restes squelettiques sont présents mais le plus célèbre se trouve dans la chambre principale. Connu sous le nom de "**The Crystal Maiden**", ce squelette d'une adolescente, certainement sacrifiée, a les os entièrement recouvert de calcite, ce qui lui donne un aspect cristallisé qui scintille à la lumière des torches. Située dans la réserve naturelle de la montagne Tapir, le National Geographic l'a classée N°1 sur sa liste des 10 plus grandes grottes sacrées.
 
 Les visites ne sont organisées que par des guides habilités. Il faut donc passé par un tour operator ce qui coûte environ 90\$US/Pers. Ce n'est pas donné. Nous avons choisi PaczTours implanté à San Ignacio. Je site le tour car toutes les photos présentes dans cet article proviennent d'eux. En effet en mai 2012, un touriste a accidentellement fait tomber sa caméra sur un crâne humain vieux de mille ans, le fracturant. Depuis on ne doit plus rien porter sur soi pour la visite. Egalement depuis qu'un autre touriste à marché malencontreusement sur un autre crâne, la dernière partie de la visite, la chambre sèche, se fait en chaussette ou pieds nus.
 
