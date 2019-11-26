@@ -18,44 +18,18 @@ category: "blog"
 location: "17.117824, -88.893428"
 ---
 
+**Actun Tunichil Muknal** ou ATM peut se traduire par la grotte du sépulcre de cristal. Il s'agit d'une grotte qui abrite un site archéologique maya comprenant des squelettes et des céramiques. Plusieurs restes squelettiques sont présent mais le plus célèbre se trouve dans la chambre principale,. Le plus connu est "**The Crystal Maiden**", le squelette d'une adolescente certainement sacrifiée dont les os ont été recouvert de calcite, ce qui lui donne un aspect cristallisé qui scintille à la lumière des torches. Située dans la réserve naturelle de la montagne Tapir, le National Geographic l'a classée N°1 sur sa liste des 10 plus grandes grottes sacrées.
 
+Les visites ne sont organisées que par des guides habilités. Il faut donc passé par un tour operator ce qui coûte environ 90 \$US/Pers. ce n'est pas donné. Nous avons choisi PaczTours implanté à San Ignacio. Je site le tour car toutes les photos présentes dans cet article proviennent d'eux. En effet en mai 2012, un touriste a accidentellement laissé tomber sa caméra sur un crâne humain vieux de mille ans, le fracturant. Depuis on ne doit plus rien porter sur soi pour la visite. Egalement depuis qu'un autre touriste à marché accidentellement sur un autre crâne, la dernière partie de la visite, la chambre sèche, se fait en chaussette ou pieds nus.
 
+Il y aurait plus de 15000 artefacts sur le site, des ossements et principalement de la céramique. Beaucoup sont marquées par des "trous de destruction", ce qui indique qu’elles ont été utilisées à des fins cérémonielles. Beaucoup sont complètement calcifiés, l'un d'eux appelé "pot de singe", est très rare.
 
-Actun Tunichil Muknal (la grotte du sépulcre de cristal ), également appelée localement ATM , est une grotte située au Belize , près de San Ignacio , dans le district de Cayo , remarquable comme site archéologique maya comprenant des squelettes, des céramiques et du grès. Il y a plusieurs zones avec des restes squelettiques dans la chambre principale. Le plus connu est "The Crystal Maiden", le squelette d'un adolescent (une jeune fille de 18 ans [1] ), possiblement victime d'un sacrifice, dont les os ont été calcifiés pour donner un aspect scintillant et cristallisé.
+Le site se trouve à 40 km de San Ignacio en direction de la capitale. A partir de Teakettle il faut prendre une piste sur 13 Km avant d'arriver à l'entrée du site. A partir de là, on vous équipe d'une casque spéléo avec une frontale et c'est partie pour une marche dans la jungle de 2 Km, environ 45 minutes où il faut traversé la même rivière à 3 reprises.
 
-Actun Tunichil Muknal
-La jeune fille de cristal Actun Tunichil Muknal
-La demoiselle de cristal
-Actun Tunichil MuknalActun Tunichil Muknal
-Localisation au Belize
-Nom alternatif
-Grotte du sépulcre de cristal
-Emplacement
-Près de San Ignacio , District de Cayo
-Région
-Belize
-Les coordonnées
-17 ° 7′48 "N 88 ° 51′57" W
+Une fois à l'entrée de la grotte on nage pour arrivé jusqu'au lit de la rivière que l'on va suivre sur environ 600 mètres. C'est très ludique, il faut parfois nager, passer par d'étroit boyaux, grimper, s'accroupir pour passer...
 
-Poterie maya
-Les céramiques sur le site sont importantes, en partie parce qu’elles sont marquées par des "trous de destruction", ce qui indique qu’elles ont été utilisées à des fins cérémonielles. Beaucoup d'artefacts et de restes mayas sont complètement calcifiés jusqu'au sol de la grotte. Un artefact, appelé "pot de singe", est l'un des quatre types de ce type trouvés en Amérique centrale. [2] Les Mayas ont également modifié les formations de grottes ici, dans certains cas pour créer des autels pour les offrandes, dans d'autres pour créer des silhouettes de visages et d'animaux ou pour projeter une image d'ombre dans la grotte. La grotte est abondamment décorée avec des formations de grottes dans les passages supérieurs.
+On quitte ensuite la rivière pour escalader un rocher qui nous permet d'arriver à un étage supérieur de la grotte que l'on va suivre sur 400 mètres environ. Il faut ôter ses chaussures et poursuivre la progression en chaussette, c'est à partir de là que l'on peut observer les artefacts. On arrive dans une immense chambre et au bout un échelle qui permet d'arriver à une petite chambre haute où se trouve "The Crystal Maiden"? c'est vraiment surprenant.
 
-La vie animale dans la grotte comprend une importante population de chauves-souris, de grands crabes d'eau douce , d' écrevisses , de poissons - chats et d'autres poissons tropicaux. De grands invertébrés comme Amblypygi et diverses araignées prédatrices habitent également la grotte. Agouti et les loutres peuvent également utiliser la grotte. Ces espèces et beaucoup d’autres sont assez communes dans les grottes fluviales de cette taille au Belize.
+On fait ensuite retour en changeant un peu le parcours dans le lit de la rivière. Au cours de la visite nous avons vu un tout petit "arbuste" certainement provenant d'une graine abandonnée par une chauve souris et qui est arrivé à pousser dans une obscurité total, surprenant, ainsi qu'une grosse araignée scorpion bien dégeu... Au total plus de 4 heures de visite et environ 6 Km parcourus.
 
-Les autres sites archéologiques mayas à proximité sont Cahal Pech , Chaa Creek , El Pilar et Xunantunich .
-
-Actun Tunichil Muknal ne doit pas être confondu avec Actun Tun Kul dans le système de grottes de Chiquibul .
-
-Contenu 
-Tourisme
-L'Office du tourisme du Belize, en coordination avec l'Institut d'archéologie de l'Institut national de culture et d'histoire du Belize, a autorisé un petit groupe d'agents à effectuer des visites dans cette grotte, dans le but de trouver un équilibre entre sa protection et les recettes touristiques.
-
-La grotte est située dans la réserve naturelle de la montagne Tapir . Le réseau de grottes principales a une longueur d'environ 4,8 km et consiste en un long passage de la rivière sur environ 3,2 km, qui aboutit à un puisard en amont. Une série de passages préhistoriques supérieurs se poursuit un autre kilomètre après le puisard à travers d’énormes blocs de blocs et de salles géantes. La grotte peut être sortie par une pression serrée se terminant par un effondrement d'un évier géant dans la jungle. Le passage supérieur de la grotte est situé à environ 1/3 de l'entrée depuis l'entrée inférieure. On y a retrouvé 14 restes de squelette et de nombreux exemples d'anciennes poteries mayas subsistent.
-
-La grotte se ferme périodiquement lorsque les précipitations font monter le niveau de la rivière et risquent d’inonder des parties de la grotte.
-
-Conservation
-À la fin du mois de mai 2012, un touriste a accidentellement laissé tomber une caméra et fracturé un crâne humain estimé à plus de mille ans. En conséquence, toutes les caméras sans permis sont bannies de la grotte. [3] Un visiteur différent a une fois brisé un autre crâne en marchant accidentellement dessus. [1] Il est demandé à tous les visiteurs de retirer leurs chaussures et de porter des chaussettes lorsqu'ils atteignent la chambre sèche supérieure afin de minimiser les effets de la circulation des piétons.
-
-Média
-Ghost Hunters International saison 3, épisode 9 "La jeune fille de cristal: le Belize et la France" a analysé les histoires de fantômes qui se cachent derrière la jeune fille mystérieuse. [4] National Geographic l'a classée n ° 1 sur sa liste des 10 plus grandes grottes sacrées. [5]
+De retour à l'entrée du site on peu prendre une douche et se changer pendant que le guide prépare le repas. A l'issue, retour sur San Ignacio. Journée inoubliable pour moi.
