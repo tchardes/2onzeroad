@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#CF061F"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-88.40167000000001, 18.49296],
+
+          [-89.15013, 17.057850000000002]
+        ]
+      }
+    }
+  ]
+}
