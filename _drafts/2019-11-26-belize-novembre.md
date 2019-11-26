@@ -3,9 +3,9 @@ layout: blog
 title: "Belize"
 preview: "Cet article couvre la période du 15 au novembre 2019, au cours de laquelle nous avons traversé la partie Nord du Belize…"
 parent-id:
-date: 2019-11-20 13:00:00
+date: 2019-11-26 13:00:00
 from-date: 2019-11-15 12:00:00
-to-date: 2019-11-20 12:00:00
+to-date: 2019-11-26 12:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt26.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt26.jpg
@@ -265,6 +265,11 @@ Après le repas, nous faisons retour sur San Ignacio. En cours de route, on obse
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49118408931/in/datetaken/" title="Caracol - [Belize]"><img src="https://live.staticflickr.com/65535/49118408931_af9e5b3ff2_3k.jpg" width="3072" height="2048" alt="Caracol - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 25 novembre
+
+Ce matin à 08h30 le tour operator passe me prendre au calmping pour cette fois aller visiter ATM Caves. Il s’agit d’une mini van et nous sommes au total 8 trouristes, 5 francais, une américaine et deux Hollandais. La visite est vraiment très intéressante. Corinne ne vient pas car la visite est quand même un peu phisyque. Parmes le sfrançaises, j’ai rencontrée Mathilde dont la grand-mère et dans la même résidence que ma mère, un truc de fou.
+Pendant que j’étais sur le site un francais est venu taper à la porte de Thor, ils discute un moment et nous invite le soir à boire une bière chez lui. Philippe est originaire de Maubeuge ils est skipper et pilote des bâteaux, quand ca lui chante, pour des propriétaires, après avoir passé plusieurs mois dans ce camping il s’est fait carrément construite une petite maison en bois par des mennonités. Super moments d’échanges autour d’une bierre.
+
+**(voir l’article complet sur les missions <a href="{{site.baseurl}}{% post_url 2020/2019-11-25-belize-missions-gorda %}">ici</a>)**
 
 ## 26 novembre
 
