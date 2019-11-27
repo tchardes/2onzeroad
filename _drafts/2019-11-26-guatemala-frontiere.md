@@ -40,7 +40,7 @@ Pour le véhicule, l'agent m'indique une porte intérieure qui se trouve entre l
 
 - **Importation temporaire de Thor** - **_Repère 2_** : je me retouve en fait dans le sens Guatemala - Belize car c'est là que se trouve en plein milieu de la salle le comptoir de la personne qui s'occupe des importations des véhicules au Belize, mais elle s'occupe également de l'annulation des importations. Je lui présente le document qui nous a été remis à notre entrée au Belize plus mon passeport et un tampon plus tard c'est terminé. Au final c'est assez rapide et gratuit.
 
-- **Change** - **_Repère 3_** : pour la suite des opérations nous avons besoins de Quetzal pour payer la désinfection et l'importation de Thor côté Guatemala. De nombreux "agents de change" se trouve là et vous change tous les dollars belizien qui vous reste, le taux n'est pas du tout avantageux mais il s'agit de petite somme? à vous de faire en sort de ne garder que kle minimum nécessaire. Malgré ce qu'il raconte pour que vous changiez un max d'argent, il y a des distributeurs dans la ville frontalière.
+- **Change** - **_Repère 3_** : pour la suite des opérations nous avons besoins de Quetzal pour payer la désinfection et l'importation de Thor côté Guatemala. De nombreux "agents de change" se trouve là et vous change tous les dollars belizien qui vous reste, le taux n'est pas du tout avantageux mais il s'agit de petite somme, à vous de faire en sorte de ne garder que le minimum nécessaire. Malgré ce qu'ils racontent pour vous inciter à changer un max d'argent, il y a des distributeurs ATM dans la ville frontalière.
 
 Une fois ces démarches effectuées nous remontons dans Thor et quittons le Belize pour entrer au Guatemala. Il y a très peu de distance entre les deux.
 
@@ -74,7 +74,7 @@ Me voilà partie, côté guatémaltèque, à la Banco de Desarrolo Rural, au gui
 
 <img src="{{baseurl}}/assets/owner/photos/Belize-Guate 5.jpg" style="width:100%" />
 
-- **Taxe du pont** - **_Repère 8_** : nous arrivons directement sur un pont qui enjambe le fleuve Mopan. Au bout, une petite guérite avec une barrière fermée. Une dame s'approche de nous et nous demande 30 Q de taxe municipale pour le passage du pont. Je lui demande si elle plaisante, apparemment pas...
+- **Taxe du pont** - **_Repère 8_** : nous arrivons directement sur un pont qui enjambe le fleuve Mopan. Au bout, une petite guérite avec une barrière fermée. Une dame s'approche et nous demande 30 Quetzals de taxe municipale pour le passage du pont. Je lui demande si elle plaisante, apparemment pas...
 
 - **Assurance Thor** : je demande à plusieurs personnes au niveau de l'immigration et des douanes, et j'ai obtenue toujours la même réponses, l'assurance n'est pas obligatoire au Guatemala, d'accord mais ca existe ? voyez peut-être auprès des banques... Bon on va être prudent.
 
