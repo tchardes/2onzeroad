@@ -26,7 +26,31 @@ Il y aurait plus de 15000 artefacts sur le site, des ossements et principalement
 
 Le site se trouve à 40 km de San Ignacio en direction de la capitale. A partir de Teakettle il faut prendre une piste sur 13 Km avant d'arriver à l'entrée du site. A partir de là, on vous équipe d'un casque spéléo avec une frontale et c'est partie pour une marche dans la jungle de 2 Km, environ 45 minutes où il faut traverser la même rivière à 3 reprises.
 
+<img src="{{baseurl}}/assets/owner/photos/atmc1.jpg" style="width:100%" />
+
 Une fois à l'entrée de la grotte on nage pour arrivé jusqu'au lit de la rivière que l'on va suivre sur environ 600 mètres. C'est très ludique, il faut parfois nager, passer par d'étroit boyaux, grimper, s'accroupir pour passer... La grotte en elle même est toujours vivante on peut y observer toutes les types de concrétions habituelles, stalagmites, stalactites, colonnes, draperies, qui scintillent de milles éclats sous la lumière des frontales...
+
+<img src="{{baseurl}}/assets/owner/photos/atmc2.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/atmc3.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/atmc4.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/atmc5.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/atmc6.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/atmc7.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/atmc8.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/atmc9.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/atmc10.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/atmc11.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/atmc12.jpg" style="width:100%" />
 
 On quitte ensuite la rivière pour escalader un rocher qui nous permet d'arriver à un étage supérieur de la grotte que l'on va suivre sur 400 mètres environ. Il faut ôter ses chaussures et poursuivre la progression en chaussette, c'est à partir de là que l'on peut observer les premiers artefacts. On arrive enfin dans une immense chambre et au bout un échelle, qui permet d'arriver à une petite chambre haute où se trouve "The Crystal Maiden", c'est vraiment surprenant.
 
