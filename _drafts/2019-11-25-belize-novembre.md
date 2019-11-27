@@ -266,10 +266,21 @@ Après le repas, nous faisons retour sur San Ignacio. En cours de route, on obse
 
 ## 25 novembre
 
-Ce matin à 08h30 le tour operator passe me prendre au calmping pour cette fois aller visiter ATM Caves. Il s’agit d’une mini van et nous sommes au total 8 trouristes, 5 francais, une américaine et deux Hollandais. La visite est vraiment très intéressante. Corinne ne vient pas car la visite est quand même un peu phisyque. Parmes le sfrançaises, j’ai rencontrée Mathilde dont la grand-mère et dans la même résidence que ma mère, un truc de fou.
-Pendant que j’étais sur le site un francais est venu taper à la porte de Thor, ils discute un moment et nous invite le soir à boire une bière chez lui. Philippe est originaire de Maubeuge ils est skipper et pilote des bâteaux, quand ca lui chante, pour des propriétaires, après avoir passé plusieurs mois dans ce camping il s’est fait carrément construite une petite maison en bois par des mennonités. Super moments d’échanges autour d’une bierre.
+Ce matin à 08h30 le tour operator passe me prendre au camping pour cette fois aller visiter **Actun Tunichil Muknal** ou plus facilement **ATM Cave**. Il s’agit d’un mini van et nous sommes au total 8 trouristes, 5 francais, une américaine et deux Hollandais. La visite est vraiment très intéressante, ludique. Corinne ne vient pas car la site est quand même un peu phisyque. Parmis les françaises, j’ai rencontrée Mathilde dont sa grand-mère et la voisine de mà mère, dans la même résidence, le truc improbable. Si vous passez dans le coin c'est la visite à faire.
+
+En mon absence, un francais est venu taper à la porte de Thor, ils discute un moment avec Corinne et nous invite le soir à boire une bière chez lui. Philippe est originaire de Maubeuge, il est skipper professionnel et pilote des bâteaux, quand ça lui chante, pour des propriétaires aisés. Après de longue période en mer il aime à se retrouver à l'intèreiur des terre avec son cheval. Après avoir passé plusieurs mois dans ce camping il s’est fait carrément construite une petite maison en bois par des mennonités qu'il laissera au propriétaire du camping quand aura besoin de changer d'air. Super moment d’échanges autour d’une bierre.
 
 ## 26 novembre
+
+Ce matin on prépare Thor et on quitte San Ignacio direction le Guatemala. Mais juste avant, on s’arrête visiter notre dernier site Maya du Belize, **Xunantunch**. Pour y accéder on doit emprunter un bac pour traverser le fleuve Mopan. Si le bac à l’air tout neuf, l’angle que fait le chemin qui descend me semble trop raide et je pense que l’arrière de Thor va racler en raison du port à faux.
+
+On se gare sur le côté et on prend le bac, en piéton. Une fois sur l’autre rive il nous reste 1,6 km à faire à pied pour rejoindre l’entrée. Ce site est encore très impressionnant avec une immense pyramide centrale. Nous sommes accueillis au son d’une dizaine de singes hurleurs. Au final tous les sites sont différents aussi bien au niveau de l'implantation des différents bâtiment, de l'urbanisme, de l'architecture ou de ces éléments décoratifs. C’est chaque fois une découverte pour peu que l’on s’y intéresse.
+
+De retour à Thor on mange sur place pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisée en 1 heures. Au comptoir, les agents des douanes qui s’occupent de l’importation des véhicules ont devant eux un gros plat rempli de pop-corns, je leur demande quel est le film qui va être projetté, ca les fait bien rire et du coup ils nous en proposent.
+
+Une fois côté Guatemala on fait un arrêt dans la ville frontière **Melchor de Mencos** pour retirer des "Quetzals" la monnaie guatémaltèque dont le change et d’environ 10 Quetzals = 1,22 €. Nous faisons quelques courses puis partons pour le site archéologique de Tikal. Le paysage change par rapport au Belize, plus vallonnée, plus montagneux, c’est très vert avec de belles prairie et des troupeaux.
+
+Peu avant d’arriver à Tikal on fait le plein de Thor. Le dernier remonte à Chetumal, nous avons traversé tout le Belize sans prendre de l’essence qui est très chère. Ici on compte en gallon, étonnant, et le regular coute 26 Quetzals le gallon soit environ 0,84 € le litre d'eesence. Une fois arrivée à l’entrée du parc on prend nos billets pour demain et demandons l’autorisation de rester là pour nuit, accordé !!!
 
 ## 27 novembre
 
