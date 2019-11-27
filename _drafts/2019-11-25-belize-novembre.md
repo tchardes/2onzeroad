@@ -28,6 +28,7 @@ pois:
     cahual#23-novembre,
     caracol#24-novembre,
     atmcave#25-novembre,
+    Xunantunch#26-novembre,
   ]
 country: Belize
 states: ["Corozal", "Orange Walk", "Belize", "Cayo"]
@@ -276,7 +277,9 @@ Ce matin on prépare Thor et on quitte San Ignacio direction le Guatemala. Mais 
 
 On se gare sur le côté et on prend le bac, en piéton. Une fois sur l’autre rive il nous reste 1,6 km à faire à pied pour rejoindre l’entrée. Ce site est encore très impressionnant avec une immense pyramide centrale. Nous sommes accueillis au son d’une dizaine de singes hurleurs. Au final tous les sites sont différents aussi bien au niveau de l'implantation des différents bâtiment, de l'urbanisme, de l'architecture ou de ces éléments décoratifs. C’est chaque fois une découverte pour peu que l’on s’y intéresse.
 
-De retour à Thor on mange sur place pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisée en 1 heures. Au comptoir, les agents des douanes qui s’occupent de l’importation des véhicules ont devant eux un gros plat rempli de pop-corns, je leur demande quel est le film qui va être projetté, ca les fait bien rire et du coup ils nous en proposent.
+De retour à Thor on mange sur place pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisée en 1 heures.
+
+Au comptoir, les agents des douanes qui s’occupent de l’importation des véhicules ont devant eux un gros plat rempli de pop-corns, je leur demande quel est le film qui va être projetté, ca les fait bien rire et du coup ils nous en proposent.
 
 Une fois côté Guatemala on fait un arrêt dans la ville frontière **Melchor de Mencos** pour retirer des "Quetzals" la monnaie guatémaltèque dont le change et d’environ 10 Quetzals = 1,22 €. Nous faisons quelques courses puis partons pour le site archéologique de Tikal. Le paysage change par rapport au Belize, plus vallonnée, plus montagneux, c’est très vert avec de belles prairie et des troupeaux.
 
