@@ -32,7 +32,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 ### Sortie du Belize
 
-<img src="{{baseurl}}/assets/owner/photos/Belize-Gua 2.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/Belize-Guate 2.jpg" style="width:100%" />
 
 - **Immigration** - **_Repère 1_** : après nous être garés, nous allons en direction du bâtiment vert qui comporte une entrée à droite pour les gens qui quittent le Belize (1), tandis que par celle gauche (2) sortent les gens qui arrive du Guatemala. Nous rentrons à celle de droite et sommes surpris car nous sommes les seul. Nous passons au premier guichet où l'agent contrôle nos passeport et les visa d'entrée et nous fait payer la taxe touristique à savoir 40 \$B par personnes. Avec les reçus, nous passons au deuxième guichet qui contrôle le paiement de la taxe et tamponne nos passeports validant notre sortie du territoire.
 
@@ -52,7 +52,7 @@ C'est là qu'interviennent les Tramidores. Ce sont des jeunes ados qui, contre u
 
 Il faut ensuite se diriger sur la gauche pour s'acquitter de l'opération à savoir 40 Quetzals contre remise d'un "Constancia de Tratamiento Cuarentenario".
 
-<img src="{{baseurl}}/assets/owner/photos/Belize-Gua 3.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/Belize-Guate 3.jpg" style="width:100%" />
 
 - **Immigration** - **_Repère 6_** : Il faut se diriger ensuite sur le bâtiment qui se trouve à gauche. A l'intérieur sur la gauche se trouve un long comptoir, se rendre d'abord du côté immigration, l'agent regarde nos passeports, les scanne puis nous les tamponne sans aucune question. Aucune date, en théorie 3 mois pour les 4 pays suivant : Guatemala, El Salvador, Honduras et Nicaragua.
 
@@ -66,13 +66,13 @@ Il faut ensuite se diriger sur la gauche pour s'acquitter de l'opération à sav
 
 Une fois les document contrôlés il sort vois Thor et vérifier la marque du véhicule, le type, le N° d'immatriculation et le numero de série. de retour dans le bâtiment il entre tout cela en informatique et imprime plusieurs documents qu'il faut contrôler et signer. Un des documents ets une facture pour l'opération à savoir 160 Quetzals. Je commence à sortir l'argent et il me dit non, il faut aller à la banque, en ville, à pied...
 
-<img src="{{baseurl}}/assets/owner/photos/Belize-Gua 4.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/Belize-Guate 4.jpg" style="width:100%" />
 
 Me voilà partie, côté guatémaltèque, à la Banco de Desarrolo Rural, au guichet N° 4, distante de 800 mètres environ juste après une station Texaco. Au guichet je demande à la préposée si tout les touristes viennent là pour payer la taxe, elle confirme. Peut-être que les agents n'ont pus le droit de percevoir eux-mêmes les sommes mais ce n'est pas très pratique. De retour, je donne le reçu "acquitté" et le douanier me remet un sticker à coller en bas à gauche du pare brise côté conducteur.
 
 - **Contrôle de sortie et sanitaire** - **_Repère 7_** : nous remontons dans Thor et passons le dernier poste de contrôle... je marque le Stop, il n'y a personne on poursuit notre route avec pomme, orange, tomates...
 
-<img src="{{baseurl}}/assets/owner/photos/Belize-Gua 5.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/Belize-Guate 5.jpg" style="width:100%" />
 
 - **Taxe du pont** - **_Repère 8_** : nous arrivons directement sur un pont qui enjambe le fleuve Mopan. Au bout, une petite guérite avec une barrière fermée. Une dame s'approche de nous et nous demande 30 Q de taxe municipale pour le passage du pont. Je lui demande si elle plaisante, apparemment pas...
 
