@@ -7,6 +7,6 @@ flickr-text: ""
 distance: 559
 days: 10
 photos:
-videos:
+videos: 1
 walk:
 ---
