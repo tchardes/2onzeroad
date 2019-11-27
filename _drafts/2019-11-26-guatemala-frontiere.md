@@ -22,13 +22,14 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 <img src="{{baseurl}}/assets/owner/photos/Belize-Gua1.jpg" style="width:100%" />
 
-- **Repère 1** - Poste frontière Belizien (Visa personnes)
-- **Repère 2** - Poste frontière Belizien (Fin importaion véhicule)
-- **Repère 3** - Lieux où se trouve les personnes qui font du change (Dollar Belizien contre Quetzal Guatemaltèque)
-- **Repère 4** - Traitement de quarantaine - Désinfection par vaporisation
-- **Repère 5** - Paiement de la désinfection
-- **Repère 6** - Bâtiment Visa personne et importation dU véhicule
-- **Repère 7** - Dernier contrôle, document, sanitaire...
+- **Repère 1** - Poste frontière Belizien (Visa personnes) ;
+- **Repère 2** - Poste frontière Belizien (Fin importaion véhicule) ;
+- **Repère 3** - Lieux où se trouve les personnes qui font du change (Dollar Belizien contre Quetzal Guatemaltèque) ;
+- **Repère 4** - Traitement de quarantaine - Désinfection par vaporisation ;
+- **Repère 5** - Paiement de la désinfection ;
+- **Repère 6** - Bâtiment Visa personne et importation dU véhicule ;
+- **Repère 7** - Dernier contrôle, document, sanitaire... ;
+- **Repère 8** - Taxe municipale du pont.
 
 ### Sortie du Belize
 
