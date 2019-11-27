@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Actun Tunichil Muknal - ATM Cave"
-preview: Actun Tunichil Muknal ou ATM cave peut se traduire par la grotte du sépulcre de cristal. Il s'agit d'une grotte qui abrite un site…"
+preview: Actun Tunichil Muknal ou ATM cave peut se traduire par la grotte du sépulcre de cristal. Il s'agit d'une grotte qui abrite un site archéologique…"
 parent-id: 2019-11-25-belize-novembre
 
 date: 2019-11-25 12:00:00
