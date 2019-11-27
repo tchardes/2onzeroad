@@ -22,7 +22,7 @@ location: "17.117824, -88.893428"
 
 <img src="{{baseurl}}/assets/owner/photos/atmc1.jpg" style="width:100%" />
 
-Les visites ne sont organisées que par des guides habilités. Il faut donc passé par un tour operator, ce qui coûte environ 90\$US/Pers. Ce n'est pas donné. Nous avons choisi PaczTours implanté à San Ignacio. Je site le tour car toutes les photos présentes dans cet article proviennent d'eux. En effet en mai 2012, un touriste a accidentellement fait tomber sa caméra sur un crâne humain vieux de mille ans, le fracturant. Depuis on ne doit plus rien porter sur soi pour la visite. Egalement, depuis qu'un autre touriste a marché malencontreusement sur un autre crâne, la dernière partie de la visite, la chambre sèche, se fait en chaussette ou pieds nus.
+Les visites ne sont organisées que par des guides habilités. Il faut donc passé par un tour operator, ce qui coûte environ 90\$US/Pers. Ce n'est pas donné. Nous avons choisi **PaczTours** implanté à San Ignacio. Je site le tour car toutes les photos présentes dans cet article proviennent d'eux. En effet en mai 2012, un touriste a accidentellement fait tomber sa caméra sur un crâne humain vieux de mille ans, le fracturant. Depuis on ne doit plus rien porter sur soi pour la visite. Egalement, depuis qu'un autre touriste a marché malencontreusement sur un autre crâne, la dernière partie de la visite, la chambre sèche, se fait en chaussette ou pieds nus.
 
 <img src="{{baseurl}}/assets/owner/photos/atmc2.jpg" style="width:100%" />
 
