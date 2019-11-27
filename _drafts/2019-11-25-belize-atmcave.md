@@ -26,13 +26,13 @@ Les visites ne sont organisées que par des guides habilités. Il faut donc pass
 
 <img src="{{baseurl}}/assets/owner/photos/atmc2.jpg" style="width:100%" />
 
+<img src="{{baseurl}}/assets/owner/photos/atmc3.jpg" style="width:100%" />
+
 Il y aurait plus de 15000 artefacts sur le site, des ossements et principalement de la céramique. Beaucoup sont marquées par des "trous de destruction", ce qui indique qu’elles ont été utilisées à des fins cérémonielles. Nombreux sont complètement calcifiés, l'un d'eux appelé "pot de singe", présente deux petites sculpture en forme de singe, c'est très rare.
 
 <img src="{{baseurl}}/assets/owner/photos/atmc10.jpg" style="width:100%" />
 
 Le site se trouve à 40 km de San Ignacio en direction de la capitale. A partir de Teakettle il faut prendre une piste sur 13 Km avant d'arriver à l'entrée du site. A partir de là, on vous équipe d'un casque spéléo avec une frontale et c'est partie pour une marche dans la jungle de 2 Km, environ 45 minutes où il faut traverser la même rivière à 3 reprises.
-
-<img src="{{baseurl}}/assets/owner/photos/atmc3.jpg" style="width:100%" />
 
 Une fois à l'entrée de la grotte on nage pour arrivé jusqu'au lit de la rivière que l'on va suivre sur environ 600 mètres. C'est très ludique, il faut parfois nager, passer par d'étroit boyaux, grimper, s'accroupir pour passer... La grotte en elle même est toujours vivante on peut y observer toutes les types de concrétions habituelles, stalagmites, stalactites, colonnes, draperies, qui scintillent de milles éclats sous la lumière des frontales...
 
