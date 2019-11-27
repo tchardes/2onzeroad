@@ -4,8 +4,8 @@ country: "Belize"
 permalink: "/writing/destination/belize/"
 header-img: "assets/owner/hero/belize-bg.jpg"
 flickr-text: ""
-distance:
-days:
+distance: 559
+days: 10
 photos:
 videos:
 walk:
