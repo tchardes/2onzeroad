@@ -88,7 +88,7 @@ Côté Belize :
 Côté Guatemala :
 
 - 40 Quetzals pour la désinfection ;
-- 160 Quetzals pour l'importation temporaire de Thor ;
+- 160 Quetzals pour l'importation temporaire du véhicule ;
 - 30 Quetzals de taxe municipale pour passer le pont ;
 
 - Une photocopie du passeport du conducteur ;
