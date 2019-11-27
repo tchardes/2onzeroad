@@ -6,7 +6,7 @@ parent-id: 2019-11-25-belize-novembre
 
 date: 2019-11-25 12:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-cantona.jpg"
+header-img: "assets/owner/blog/header/post-bg-atmc.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-atmc.jpg
 tags: [histoire, culturel, geologie, riviere]
 pois: [ATM]
