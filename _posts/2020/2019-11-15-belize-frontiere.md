@@ -41,7 +41,7 @@ Une fois ces démarches effectuées, nous quittons le Mexique pour entrer dans u
 
 Nous roulons quelques minutes puis arrivons au premier poste au Belize.
 
-- **Traitement de quarantaine - Désinfection** - **_Repère 2 première photo_** : on passe sous un portique qui à notre passage se déclenche et nous arrose d’un produit censé éviter de faire rentrer des bestioles clandestines. On s'arrête au baraquement et payons la somme de 7 \$US en contrepartie d'un reçu "Constancy of Quarantaine Treatmant" et d'un dépliant en anglais expliquant la procédure d'entrée au Belize. On reprend la route.
+- **Traitement de quarantaine - Désinfection** - **_Repère 2 première photo_** : on passe sous un portique qui à notre passage se déclenche et nous arrose d’un produit censé éviter de faire rentrer des bestioles clandestines. On s'arrête au baraquement et payons la somme de 7\$US en contrepartie d'un reçu "Constancy of Quarantaine Treatmant" et d'un dépliant en anglais expliquant la procédure d'entrée au Belize. On reprend la route.
 
 <img src="{{baseurl}}/assets/owner/photos/M-Belize3.jpg" style="width:100%" />
 
@@ -63,7 +63,8 @@ Côté Mexique :
 
 Côté Belize :
 
-- 15 \$US pour s'être stationné, si l'on avait su avant, on aurait regardé de plus près.
+- 7 \$US pour la désinfection ;
+- 15 \$US pour s'être stationné, si l'on avait su avant, on aurait regardé de plus près ;
 - 23 \$US pour l'assurance de Thor pour 15 jours.
 
 Toutes ces démarches nous ont pris environ deux heures. Une fois terminées, le voyage en terre belizienne peut commencer...
