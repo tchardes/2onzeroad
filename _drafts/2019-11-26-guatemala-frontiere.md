@@ -35,7 +35,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 <img src="{{baseurl}}/assets/owner/photos/Belize-Guate 2.jpg" style="width:100%" />
 
-- **Immigration** - **_Repère 1_** : après nous être garés, nous allons en direction du bâtiment vert qui comporte une entrée à droite pour les gens qui quittent le Belize (1), tandis que par celle gauche (2) sortent les gens qui arrivent du Guatemala. Nous rentrons à celle de droite et sommes surpris car nous sommes les seuls. Nous passons au premier guichet où l'agent contrôle nos passeport et les visas d'entrée et nous fait payer la taxe touristique à savoir 40 \$B par personne. Avec les reçus, nous passons au deuxième guichet qui contrôle le paiement de la taxe et tamponne nos passeports validant notre sortie du territoire.
+- **Immigration** - **_Repère 1_** : après nous être garés, nous allons en direction du bâtiment vert qui comporte une entrée à droite pour les gens qui quittent le Belize (1), tandis que par celle gauche (2) sortent les gens qui arrivent du Guatemala. Nous rentrons à celle de droite et sommes surpris car nous sommes les seuls. Nous passons au premier guichet où l'agent contrôle nos passeport et les visas d'entrée et nous fait payer la taxe touristique à savoir 40$B par personne. Avec les reçus, nous passons au deuxième guichet qui contrôle le paiement de la taxe et tamponne nos passeports validant notre sortie du territoire.
 
 Pour le véhicule, l'agent m'indique une porte intérieure qui se trouve entre les deux guichets et qui permet d'accéder à l'autre aîle du bâtiment qui s'occupe de l'entrée au Belize.
 
