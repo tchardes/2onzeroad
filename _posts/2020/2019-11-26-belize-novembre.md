@@ -45,11 +45,11 @@ Cet article couvre la période du 15 au 26 novembre 2019, au cours de laquelle n
 
 ## 15 novembre
 
-Ce matin, nous passons la frontière pour rentrer au Belize, notre premier pays d'Amérique Centrale. Toute la procédure administrative est détaillée : **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2020/2019-11-15-belize-frontiere %}">ici</a>)**. Au final, on se fait un monde de ces passages de frontière mais il n’y a rien de bien compliqué, toutes ces démarches nous ont pris environ deux heures. Il est déjà un peu tard et nous décidons de manger sur place.
+Ce matin, nous passons la frontière pour rentrer au Belize, notre premier pays d'Amérique Centrale, le plus petit. Toute la procédure administrative est détaillée : **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2020/2019-11-15-belize-frontiere %}">ici</a>)**. Au final, on se fait un monde de ces passages de frontière mais il n’y a rien de bien compliqué, toutes ces démarches nous ont pris environ deux heures. Il est déjà un peu tard et nous décidons de manger sur place.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49091414018/in/datetaken/" title="Chetumal - [Mexique]"><img src="https://live.staticflickr.com/65535/49091414018_61de4f7aae_4k.jpg" width="4032" height="2268" alt="Chetumal - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous repartons en suite en direction de la première ville du Belize à savoir **Corozal**. Le premier ressenti est bon, c'est propre,les gens nous saluent et nous disent bonjour, c'est cool. Ici nous sommes en terre anglophone, anciennement le Honduras Britannique, on dit Belize et non Belice comme en espagnol.
+Nous repartons en suite en direction de la première ville du Belize à savoir **Corozal**. Le premier ressenti est bon, c'est propre, les gens nous saluent et nous disent bonjour, c'est cool. Ici nous sommes en terre anglophone, anciennement le Honduras Britannique, on dit Belize et non Belice comme en espagnol.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134286918/in/datetaken/" title="San Jose Succotz - [Belize]"><img src="https://live.staticflickr.com/65535/49134286918_02de0790f2_h.jpg" width="1600" height="900" alt="San Jose Succotz - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
