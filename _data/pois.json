@@ -401,14 +401,11 @@
   { "name": "belmopan", "displayName": "Belmopan", "type": "ville", "country": "Belize" },
   { "name": "cahual", "displayName": "Cahual Pech - Site Archéologique", "type": "autre", "country": "Belize" },
   { "name": "caracol", "displayName": "Caracol - Site Archéologique", "type": "autre", "country": "Belize" },
+  { "name": "riofrio", "displayName": "Rio Frio Cave", "type": "nature", "country": "Belize" },
+  { "name": "rioonpools", "displayName": "Rio On Pools", "type": "nature", "country": "Belize" },
   { "name": "atmcave", "displayName": "Actun Tunichil Muknal (ATM) Caves", "type": "autre", "country": "Belize" },
   { "name": "xunantunch", "displayName": "Xunantunch - Site Archéologique", "type": "autre", "country": "Belize" },
 
-
-
-
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
   { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
   { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
   { "name": "", "displayName": "", "type": "", "country": "Guatemala" },

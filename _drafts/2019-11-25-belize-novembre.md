@@ -27,6 +27,8 @@ pois:
     sanignacio#22-novembre,
     cahual#23-novembre,
     caracol#24-novembre,
+    riofrio#24-novembre,
+    rioonpools#24-novembre,
     atmcave#25-novembre,
     xunantunch#26-novembre,
   ]
