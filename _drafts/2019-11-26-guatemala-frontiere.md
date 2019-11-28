@@ -69,7 +69,7 @@ Une fois les documents contrôlés, il sort voir Thor et vérifier la marque du 
 
 <img src="{{baseurl}}/assets/owner/photos/Belize-Guate 4.jpg" style="width:100%" />
 
-Me voilà parti, côté guatémaltèque, à la Banco de Desarrolo Rural, au guichet N° 4, distante de 800 mètres environ juste après une station Texaco. Au guichet, je demande à la préposée si tous les touristes viennent là pour payer la taxe, elle confirme. Peut-être que les agents n'ont plus le droit de percevoir eux-mêmes les sommes mais ce n'est pas très pratique. De retour, je donne le reçu "acquitté" et le douanier me remet un sticker à coller en bas à gauche du pare-brise côté conducteur.
+Me voilà parti, côté guatémaltèque, à la Banco de Desarrolo Rural, au guichet N° 4, distante de 800 mètres environ juste après une station Texaco, sur la route de Flores. Au guichet, je demande à la préposée si tous les touristes viennent là pour payer la taxe, elle confirme. Peut-être que les agents n'ont plus le droit de percevoir eux-mêmes les sommes mais ce n'est pas très pratique. De retour, je donne le reçu "acquitté" et le douanier me remet un sticker à coller en bas à gauche du pare-brise côté conducteur.
 
 - **Contrôle de sortie et sanitaire** - **_Repère 7_** : nous remontons dans Thor et passons le dernier poste de contrôle... je marque le Stop, il n'y a personne, on poursuit notre route avec pomme, orange, tomates!!!
 
