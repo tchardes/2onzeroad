@@ -6,7 +6,7 @@ parent-id: 2019-12-20-guatemala-decembre
 
 date: 2019-11-26 17:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-m-belize.jpg"
+header-img: "assets/owner/blog/header/post-bg-belize-guate.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-belize-guate.jpg
 tags: []
 pois: [passagebtog]
