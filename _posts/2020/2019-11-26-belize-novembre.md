@@ -49,7 +49,11 @@ Ce matin, nous passons la frontière pour rentrer au Belize, notre premier pays 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49091414018/in/datetaken/" title="Chetumal - [Mexique]"><img src="https://live.staticflickr.com/65535/49091414018_61de4f7aae_4k.jpg" width="4032" height="2268" alt="Chetumal - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous repartons en suite en direction de la première ville du Belize à savoir **Corozal**. Le premier ressenti est bon, c'est propre,les gens nous saluent et nous disent bonjour, c'est cool. Nous y faisons un petit arrêt pour retirer de l’argent au distributeur, des dollars béliziens et une carte Sim pour Christophe et Jean-Pierre qui vont rester ici un mois.
+Nous repartons en suite en direction de la première ville du Belize à savoir **Corozal**. Le premier ressenti est bon, c'est propre,les gens nous saluent et nous disent bonjour, c'est cool. Ici nous sommes en terre anglophone, on dit Belize et non Belice comme en espagnol.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134286918/in/datetaken/" title="San Jose Succotz - [Belize]"><img src="https://live.staticflickr.com/65535/49134286918_02de0790f2_h.jpg" width="1600" height="900" alt="San Jose Succotz - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous y faisons un petit arrêt pour retirer de l’argent au distributeur, des dollars béliziens et une carte Sim pour Christophe et Jean-Pierre qui vont rester ici un mois.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49088422292/in/datetaken/" title="Corozal - [Belize]"><img src="https://live.staticflickr.com/65535/49088422292_25f8fe6326_4k.jpg" width="4096" height="2304" alt="Corozal - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -288,8 +292,6 @@ On se gare sur le côté et on prend le bac, en piéton. Une fois sur l’autre 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134292033/in/datetaken/" title="Xunantunich - [Belize]"><img src="https://live.staticflickr.com/65535/49134292033_bb7c612dfc_h.jpg" width="1600" height="900" alt="Xunantunich - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 De retour à Thor, on mange sur place pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Le Belize aura été un vrai coup de coeur, nous n'avions aucune idée de ce que nous allions trouver dans ce tout petit pays anglophone qui fait beaucoup d'effort pour se démarquer de ces grands voisins, le pays est propre, les gens sont vraiment très sympathiques et nous avons fait de très belles rencontres.
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134286918/in/datetaken/" title="San Jose Succotz - [Belize]"><img src="https://live.staticflickr.com/65535/49134286918_02de0790f2_h.jpg" width="1600" height="900" alt="San Jose Succotz - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Guatemala.
 
