@@ -6,7 +6,7 @@ header-img: "assets/owner/hero/belize-bg.jpg"
 flickr-text: ""
 distance: 559
 days: 10
-photos:
+photos: 149
 videos: 1
-walk:
+walk: 65
 ---
