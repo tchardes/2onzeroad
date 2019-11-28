@@ -267,7 +267,7 @@ Après le repas, nous faisons retour sur San Ignacio. En cours de route, on obse
 
 ## 25 novembre
 
-Ce matin à 08h30 le tour operator passe me prendre au camping pour cette fois aller visiter **Actun Tunichil Muknal** ou plus facilement **ATM Cave**. Il s’agit d’un mini van et nous sommes au total 8 trouristes, 5 francais, une américaine et deux Hollandais. La visite est vraiment très intéressante, ludique. Corinne ne vient pas car la site est quand même un peu phisyque. Parmis les françaises, j’ai rencontrée Mathilde dont sa grand-mère et la voisine de mà mère, dans la même résidence, le truc improbable. Si vous passez dans le coin c'est la visite à faire. **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2020/2019-03-14-belize-atmcave %}">ici</a>)**
+Ce matin à 08h30 le tour operator passe me prendre au camping pour cette fois aller visiter **Actun Tunichil Muknal** ou plus facilement **ATM Cave**. Il s’agit d’un mini van et nous sommes au total 8 trouristes, 5 francais, une américaine et deux Hollandais. La visite est vraiment très intéressante, ludique. Corinne ne vient pas car la site est quand même un peu phisyque. Parmis les françaises, j’ai rencontrée Mathilde dont sa grand-mère et la voisine de mà mère, dans la même résidence, le truc improbable. Si vous passez dans le coin c'est la visite à faire. **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2020/2019-11-25-belize-atmcave %}">ici</a>)**
 
 <img src="{{baseurl}}/assets/owner/photos/atmc11.jpg" style="width:100%" />
 
