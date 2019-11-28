@@ -28,7 +28,7 @@ pois:
     cahual#23-novembre,
     caracol#24-novembre,
     atmcave#25-novembre,
-    Xunantunch#26-novembre,
+    xunantunch#26-novembre,
   ]
 country: Belize
 states: ["Corozal", "Orange Walk", "Belize", "Cayo"]
