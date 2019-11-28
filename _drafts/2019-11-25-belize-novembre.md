@@ -285,8 +285,10 @@ On se gare sur le côté et on prend le bac, en piéton. Une fois sur l’autre 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134292033/in/datetaken/" title="Xunantunich - [Belize]"><img src="https://live.staticflickr.com/65535/49134292033_bb7c612dfc_h.jpg" width="1600" height="900" alt="Xunantunich - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-De retour à Thor on mange sur place pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisée en 1 heures, nous pouvons partir à la découverte du Guatemala.
+De retour à Thor on mange sur place pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Le Belize aura été un vrai coup de coeur, nous n'avions aucune idée de ce que nous allions trouver dans ce tout petit pays anglophone qui fait beaucoup d'effort pour se démarquer des ces grands voisins, le pays est propre, les gens sont vraiment très sympathiques et nous avons fait de très belles rencontres.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134286918/in/datetaken/" title="San Jose Succotz - [Belize]"><img src="https://live.staticflickr.com/65535/49134286918_02de0790f2_h.jpg" width="1600" height="900" alt="San Jose Succotz - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Toutes les formalités à la frontière sont réalisées en 1 heures, nous pouvons partir à la découverte du Guatemala.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
