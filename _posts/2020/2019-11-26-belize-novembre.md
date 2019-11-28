@@ -9,7 +9,7 @@ to-date: 2019-11-26 12:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt26.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt26.jpg
-tags: [histoire, architecture, culturel, unesco, mer-ocean]
+tags: [histoire, architecture, culturel, mer-ocean]
 pois:
   [
     passagemtob#15-novembre,
