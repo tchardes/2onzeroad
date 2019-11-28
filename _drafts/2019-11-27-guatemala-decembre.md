@@ -12,7 +12,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt26.jpg
 tags: [histoire, architecture, culturel, unesco, mer-ocean]
 pois: [tikal#27-novembre]
 country: Guatelmala
-states: ["Peten", "Orange Walk", "Belize", "Cayo"]
+states: ["Peten"]
 category: "roadmap"
 flickr-text: ""
 location: "17.696455, -89.055807"
