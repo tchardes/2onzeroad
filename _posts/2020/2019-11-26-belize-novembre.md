@@ -296,3 +296,5 @@ De retour à Thor, on mange sur place pour consommer nos produits frais, pas tou
 Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Guatemala.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TQeJYawYikg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
