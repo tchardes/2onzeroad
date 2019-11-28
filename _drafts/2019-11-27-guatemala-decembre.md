@@ -15,7 +15,7 @@ country: Guatelmala
 states: ["Peten"]
 category: "roadmap"
 flickr-text: ""
-location: "17.696455, -89.055807"
+location: "15.658503, -90.248939"
 itinary: "2020/guatemala.json"
 mapZoom: 8
 ---
