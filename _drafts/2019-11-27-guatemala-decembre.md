@@ -17,7 +17,7 @@ category: "roadmap"
 flickr-text: ""
 location: "15.658503, -90.248939"
 itinary: "2020/guatemala.json"
-mapZoom: 8
+mapZoom: 6
 ---
 
 Cet article couvre la période du 15 au novembre 2019, au cours de laquelle nous avons traversé la partie Nord du Belize.
