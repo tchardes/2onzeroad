@@ -281,7 +281,7 @@ En mon absence, un francais est venu taper à la porte de Thor, il discute un mo
 
 ## 26 novembre
 
-Ce matin, on prépare Thor et on quitte San Ignacio direction le Guatemala. Mais juste avant, on s’arrête visiter notre dernier site Maya du Belize, **Xunantunich**. Pour y accéder, on doit emprunter un bac pour traverser le fleuve Mopan. Si le bac a l’air tout neuf, l’angle que fait le chemin qui descend me semble trop raide et je pense que l’arrière de Thor va racler en raison du port à faux.
+Ce matin, on prépare Thor et on quitte San Ignacio direction le Guatemala. Mais juste avant, on s’arrête visiter notre dernier site Maya du Belize, **Xunantunich** qui signifie en Maya "Vierge de pierre.". Pour y accéder, on doit emprunter un bac pour traverser le fleuve Mopan. Si le bac a l’air tout neuf, l’angle que fait le chemin qui descend me semble trop raide et je pense que l’arrière de Thor va racler en raison du port à faux.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134971682/in/datetaken/" title="Xunantunich - [Belize]"><img src="https://live.staticflickr.com/65535/49134971682_2e6cc0ba97_h.jpg" width="1600" height="900" alt="Xunantunich - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
