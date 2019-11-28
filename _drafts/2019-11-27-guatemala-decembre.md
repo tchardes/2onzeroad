@@ -16,7 +16,7 @@ states: ["Peten", "Orange Walk", "Belize", "Cayo"]
 category: "roadmap"
 flickr-text: ""
 location: "17.696455, -89.055807"
-itinary: "2020/Guatemala.json"
+itinary: "2020/guatemala.json"
 mapZoom: 8
 ---
 
