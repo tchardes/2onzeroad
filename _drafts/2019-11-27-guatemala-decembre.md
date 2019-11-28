@@ -5,7 +5,7 @@ preview: "Cet article couvre la période du 15 au novembre 2019, au cours de laq
 parent-id:
 date: 2019-11-27 13:00:00
 from-date: 2019-11-25 12:00:00
-to-date: 2019-11-27 12:00:00
+to-date: 2019-11-26 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt26.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt26.jpg
