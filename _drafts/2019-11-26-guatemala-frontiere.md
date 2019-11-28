@@ -55,7 +55,7 @@ Il faut ensuite se diriger sur la gauche pour s'acquitter de l'opération à sav
 
 <img src="{{baseurl}}/assets/owner/photos/Belize-Guate 3.jpg" style="width:100%" />
 
-- **Immigration** - **_Repère 6_** : Il faut se diriger ensuite sur le bâtiment qui se trouve à gauche. A l'intérieur et sur la gaucheà nouveau, se trouve un long comptoir, se rendre d'abord du côté immigration, l'agent regarde nos passeports, les scanne puis nous les tamponne sans aucune question. Aucune date, en théorie 3 mois pour les 4 pays suivant : Guatemala, El Salvador, Honduras et Nicaragua.
+- **Immigration** - **_Repère 6_** : Il faut se diriger ensuite sur le bâtiment qui se trouve à gauche. A l'intérieur et sur la gauche à nouveau, se trouve un long comptoir, se rendre d'abord du côté immigration, l'agent regarde nos passeports, les scanne puis nous les tamponne sans aucune question. Aucune date, en théorie 3 mois pour les 4 pays suivant : Guatemala, El Salvador, Honduras et Nicaragua.
 
 - **Importation temporaire de Thor** - **_Repère 6_** : On change de comptoir pour celui de la douane pour s'occuper de l'importation de Thor. Pour effectuer l'opération, l'agent nous demande :
 
@@ -65,13 +65,13 @@ Il faut ensuite se diriger sur la gauche pour s'acquitter de l'opération à sav
 - Une photocopie du permis international
 - Une photocopie du permis de conduite
 
-Une fois les documents contrôlés, il sort voir Thor et vérifier la marque du véhicule, le type, le N° d'immatriculation et le numéro de série. De retour dans le bâtiment, il entre tout cela en informatique et imprime plusieurs documents qu'il faut contrôler et signer. Un des documents est une facture pour l'opération à savoir 160 Quetzals. Je commence à sortir l'argent et il me dit non, il faut aller à la banque, en ville, à pied...
+Une fois les documents contrôlés, il sort voir Thor et vérifie la marque du véhicule, le type, le N° d'immatriculation et le numéro de série. De retour dans le bâtiment, il entre tout cela en informatique et imprime plusieurs documents qu'il faut contrôler et signer. Un des documents est une facture pour l'opération à savoir 160 Quetzals. Je commence à sortir l'argent et il me dit non, il faut aller à la banque, en ville, à pied...
 
 <img src="{{baseurl}}/assets/owner/photos/Belize-Guate 4.jpg" style="width:100%" />
 
-Me voilà parti, côté guatémaltèque, à la Banco de Desarrolo Rural, au guichet N° 4, distante de 800 mètres environ juste après une station Texaco, sur la route de Flores. Au guichet, je demande à la préposée si tous les touristes viennent là pour payer la taxe, elle confirme. Peut-être que les agents n'ont plus le droit de percevoir eux-mêmes les sommes mais ce n'est pas très pratique. De retour, je donne le reçu "acquitté" et le douanier me remet un sticker à coller en bas à gauche du pare-brise côté conducteur.
+Me voilà parti, côté guatémaltèque, à la Banco de Desarrolo Rural, au guichet N° 4, distante de 800 mètres environ juste après une station Texaco, sur la route de Flores. Au guichet, je demande à la préposée si tous les touristes viennent là pour payer la taxe, elle confirme. Peut-être que les agents n'ont plus le droit de percevoir eux-mêmes les sommes, ou alors ils ont voulus me faire marcher, en tout cas ce n'est pas très pratique. De retour, je donne le reçu "acquitté" et le douanier me remet un sticker à coller en bas à gauche du pare-brise côté conducteur.
 
-- **Contrôle de sortie et sanitaire** - **_Repère 7_** : nous remontons dans Thor et passons le dernier poste de contrôle... je marque le Stop, il n'y a personne, on poursuit notre route avec pomme, orange, tomates!!!
+- **Contrôle de sortie et sanitaire** - **_Repère 7_** : nous remontons dans Thor et passons le dernier poste de contrôle... je marque le stop, il n'y a personne dans la guérite, on poursuit notre route avec pommes, oranges, tomates!!!
 
 <img src="{{baseurl}}/assets/owner/photos/Belize-Guate 5.jpg" style="width:100%" />
 
