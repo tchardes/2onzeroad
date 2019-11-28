@@ -267,7 +267,9 @@ Après le repas, nous faisons retour sur San Ignacio. En cours de route, on obse
 
 ## 25 novembre
 
-Ce matin à 08h30 le tour operator passe me prendre au camping pour cette fois aller visiter **Actun Tunichil Muknal** ou plus facilement **ATM Cave**. Il s’agit d’un mini van et nous sommes au total 8 trouristes, 5 francais, une américaine et deux Hollandais. La visite est vraiment très intéressante, ludique. Corinne ne vient pas car la site est quand même un peu phisyque. Parmis les françaises, j’ai rencontrée Mathilde dont sa grand-mère et la voisine de mà mère, dans la même résidence, le truc improbable. Si vous passez dans le coin c'est la visite à faire.
+Ce matin à 08h30 le tour operator passe me prendre au camping pour cette fois aller visiter **Actun Tunichil Muknal** ou plus facilement **ATM Cave**. Il s’agit d’un mini van et nous sommes au total 8 trouristes, 5 francais, une américaine et deux Hollandais. La visite est vraiment très intéressante, ludique. Corinne ne vient pas car la site est quand même un peu phisyque. Parmis les françaises, j’ai rencontrée Mathilde dont sa grand-mère et la voisine de mà mère, dans la même résidence, le truc improbable. Si vous passez dans le coin c'est la visite à faire. **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2020/2019-03-14-belize-atmcave %}">ici</a>)**
+
+<img src="{{baseurl}}/assets/owner/photos/atmc11.jpg" style="width:100%" />
 
 En mon absence, un francais est venu taper à la porte de Thor, ils discute un moment avec Corinne et nous invite le soir à boire une bière chez lui. Philippe est originaire de Maubeuge, il est skipper professionnel et pilote des bâteaux, quand ça lui chante, pour des propriétaires aisés. Après de longue période en mer il aime à se retrouver à l'intèreiur des terre avec son cheval. Après avoir passé plusieurs mois dans ce camping il s’est fait carrément construite une petite maison en bois par des mennonités qu'il laissera au propriétaire du camping quand aura besoin de changer d'air. Super moment d’échanges autour d’une bierre.
 
@@ -275,9 +277,17 @@ En mon absence, un francais est venu taper à la porte de Thor, ils discute un m
 
 Ce matin on prépare Thor et on quitte San Ignacio direction le Guatemala. Mais juste avant, on s’arrête visiter notre dernier site Maya du Belize, **Xunantunch**. Pour y accéder on doit emprunter un bac pour traverser le fleuve Mopan. Si le bac à l’air tout neuf, l’angle que fait le chemin qui descend me semble trop raide et je pense que l’arrière de Thor va racler en raison du port à faux.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134971682/in/datetaken/" title="Xunantunich - [Belize]"><img src="https://live.staticflickr.com/65535/49134971682_2e6cc0ba97_h.jpg" width="1600" height="900" alt="Xunantunich - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 On se gare sur le côté et on prend le bac, en piéton. Une fois sur l’autre rive il nous reste 1,6 km à faire à pied pour rejoindre l’entrée. Ce site est encore très impressionnant avec une immense pyramide centrale. Nous sommes accueillis au son d’une dizaine de singes hurleurs. Au final tous les sites sont différents aussi bien au niveau de l'implantation des différents bâtiment, de l'urbanisme, de l'architecture ou de ces éléments décoratifs. C’est chaque fois une découverte pour peu que l’on s’y intéresse.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134972202/in/datetaken/" title="Xunantunich - [Belize]"><img src="https://live.staticflickr.com/65535/49134972202_07b1b039ce_h.jpg" width="1600" height="900" alt="Xunantunich - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134292033/in/datetaken/" title="Xunantunich - [Belize]"><img src="https://live.staticflickr.com/65535/49134292033_bb7c612dfc_h.jpg" width="1600" height="900" alt="Xunantunich - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 De retour à Thor on mange sur place pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisée en 1 heures.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134286918/in/datetaken/" title="San Jose Succotz - [Belize]"><img src="https://live.staticflickr.com/65535/49134286918_02de0790f2_h.jpg" width="1600" height="900" alt="San Jose Succotz - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Au comptoir, les agents des douanes qui s’occupent de l’importation des véhicules ont devant eux un gros plat rempli de pop-corns, je leur demande quel est le film qui va être projetté, ca les fait bien rire et du coup ils nous en proposent.
 
