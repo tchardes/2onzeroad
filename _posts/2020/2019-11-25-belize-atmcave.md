@@ -36,7 +36,7 @@ Il y aurait plus de 15000 artefacts sur le site, des ossements et principalement
 
 Le site se trouve à 40 km de San Ignacio en direction de la capitale. A partir de Teakettle, il faut prendre une piste sur 13 Km avant d'arriver à l'entrée du site. A partir de là, on vous équipe d'un casque spéléo avec une frontale et c'est parti pour une marche dans la jungle de 2 Km, environ 45 minutes où il faut traverser la même rivière à 3 reprises.
 
-Une fois à l'entrée de la grotte, on nage pour arriver jusqu'au lit de la rivière que l'on va suivre sur environ 600 mètres. C'est très ludique, il faut parfois nager, passer par d'étroits boyaux, grimper, s'accroupir pour passer... La grotte en elle même est toujours vivante, on peut y observer toutes les types de concrétions habituelles, stalagmites, stalactites, colonnes, draperies, qui scintillent de milles éclats sous la lumière des frontales...
+Une fois à l'entrée de la grotte, on nage pour arriver jusqu'au lit de la rivière que l'on va suivre sur environ 600 mètres. C'est très ludique, il faut parfois nager, passer par d'étroits boyaux, grimper, s'accroupir pour passer... La grotte en elle même est toujours vivante, on peut y observer tous les types de concrétions habituelles, stalagmites, stalactites, colonnes, draperies, qui scintillent de milles éclats sous la lumière des frontales...
 
 <img src="{{baseurl}}/assets/owner/photos/atmc4.jpg" style="width:100%" />
 
