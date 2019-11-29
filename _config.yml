@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "16.922056, -89.908719"
-  name: "Flores - Guatemala"
-  date: "28 novembre 2019 "
+  coordinates: "15.829107, -88.751324"
+  name: "Livingston - Guatemala"
+  date: "29 et 30 novembre 2019 "
 
 # set the encoding to utf-8
 encoding: utf-8
