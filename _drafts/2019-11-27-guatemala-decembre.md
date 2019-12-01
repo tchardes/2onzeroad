@@ -44,9 +44,13 @@ Ce matin on traïne au camping, on profite du Wifi pour tout mettre à jour et p
 
 ## 29 novembre
 
-Ce matin le temps est gris et nous essyons quelques averses. Nous partons en fin de matinée pour rejoindre la côte caraïbe, en tous cas pas très loin. Bien que nous soyons sur la route principale, par endroit, le revêtment est vraiment mauvais, de plus, et c’est la première fois que l’on reçent cela, nous sommes surpris par la conduite de certains, doublant n’importe comment. A midi on fait une escale technique à Potun et reprenons la route pour Rio Dulce où nous trouvons un coin pour nous poser le week-end.
+Ce matin le temps est gris et nous essuyons quelques averses. Nous partons en fin de matinée pour rejoindre la côte caraïbe, en tous cas pas très loin. Bien que nous soyons sur la route principale, par endroit, le revêtement est vraiment mauvais, de plus, et c’est la première fois que l’on ressent cela, nous sommes surpris par la conduite de certains, doublant n’importe comment. A midi on fait une escale technique à Potun et reprenons la route pour Rio Dulce où nous trouvons un coin pour nous poser le week-end.
 
-## 27 novembre
+## 30 novembre
+
+La soirée a été… musicale. Il y a plusieurs bars non loin de nous et toutes la soirée a été bercée au son de la musique latine. On dirait une musique intemporelle, elle pourait avoir 100 ans ou être sortie hier, on n’en sait rien, pas ue seule musique anglosaxone ou du retse du monde…
+Cematin on se la coule douce, il y a beaucoup de monde qui arrive, ilt viennent passer la journée dans le parc du « Catsillo de San Felipe de Lara » qui est très bien arrangé et où les gens peuvent se baigner dans l’immense lac de Izabel, faire du jetski ou prendfre une lanche (bateau taxi) pour se ballader autour du lac voire rejondre la mer en direction de Livingstone ce que nous derons de main.
+En début d’après-midi on part à pied à la découverte de ce fortin construit par les espagnols. A l’époque, une grande chaîne traverser le fleuve à cet endroit étroit pour interdire au pirates de remonte en direction de lac. Le Fort a été pris par les pirates puis repris par les Espagnols a plusieurs reprises. Entièrement restauré, ce fortin et vraiment mignon, petit, avec des ouverture assez basse et des passages très étroit. On dirait qu’il a été construit par un milliardaire pour ces enfants.. On y passe un bon moment ainsi que dans le parc puis dans le village. Bel après-midi. Nous voyons également nos premier « chicken bus » ces anciens bus scolaires étasunien qui sont vendus ici pour une deuxième vie. D’origine jaune, ils sont tous repeints et customisés avec pletore de chrome. Fin de journée tranquille dans Thor. On devrait passer encore une bonne soirée !!!!
 
 ## 27 novembre
 
