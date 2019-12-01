@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt26.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt26.jpg
 tags: [histoire, architecture, culturel, unesco, mer-ocean]
-pois: [tikal#27-novembre, flores#28-novembre, dulce#29-novembre, livingstone#01-décembre, livingstone#02-décembre, livingstone#03-décembre]
+pois: [tikal#27-novembre, flores#28-novembre, dulce#29-novembre, castillo#30-novembre, livingston#01-décembre, livingstone#03-décembre]
 country: Guatemala
 states: ["Peten"]
 category: "roadmap"
@@ -40,7 +40,7 @@ Ce matin on est dans la file d’attente devant l’entrée du Parc de **Tikal**
 
 ## 28 novembre
 
-Ce matin on traïne au camping, on profite du Wifi pour tout mettre à jour et publier. Après le repas nous quittons El Remate pour la ville de **Flores** qui se trouve également au bord du lac Peten Itza. Nous commençons par nous arrêter dans un grand mall. Nous trouvons un supermarché très bien fourni, on trouve même du vraie beurre et fromage président… Ensuite on s’occupe de prendre une carte Sim chez l’opérateur Tiga, nous revoilà reconnectés. Nous prenons ensuite une un tricycle taxi pour rejointe l’ile de flores. Très touristique, c’est une succession de bar, hotels restaurants, il y a de très nombreux touristes, ambiance fiesta avec beaucoup de musique. De l’ile de nombreuses Plancha taxi vous conduisent où vous voulez le long de cet immense Lac, nous mangeons même des super curros.. Nous reprnons Thoe en fin d’après-midi pour nous poser pour la nuit.
+Ce matin on traîne au camping, on profite du Wifi pour tout mettre à jour et publier. Après le repas nous quittons El Remate pour la ville de **Flores** qui se trouve également au bord du lac Peten Itza. Nous commençons par nous arrêter dans un grand mall. Nous trouvons un supermarché très bien fourni, on trouve même du vraie beurre et fromage président… Ensuite on s’occupe de prendre une carte Sim chez l’opérateur Tiga, nous revoilà reconnectés. Nous prenons ensuite une un tricycle taxi pour rejointe l’ile de flores. Très touristique, c’est une succession de bar, hotels restaurants, il y a de très nombreux touristes, ambiance fiesta avec beaucoup de musique. De l’ile de nombreuses Plancha taxi vous conduisent où vous voulez le long de cet immense Lac, nous mangeons même des super churros.. Nous reprenons Thor en fin d’après-midi pour nous poser pour la nuit.
 
 ## 29 novembre
 
@@ -53,6 +53,12 @@ Ce matin on se la coule douce, il y a beaucoup de monde qui arrive, ilt viennent
 En début d’après-midi on part à pied à la découverte de ce fortin construit par les espagnols. A l’époque, une grande chaîne traverser le fleuve à cet endroit étroit pour interdire aux pirates de remonter en direction du lac. Le Fort a été pris par les pirates puis repris par les Espagnols a plusieurs reprises. Entièrement restauré, ce fortin et vraiment mignon, petit, avec des ouverture assez basse et des passages très étroit. On dirait qu’il a été construit par un milliardaire pour ces enfants.. L’entrée coûte 25 Q pour les locaux mais 75 Q pour les étrangers. Je suis toujours un peu agacé par cette différence, même si au final ce n’est pas très cher. On y passe un bon moment ainsi que dans le parc puis dans le village. Bel après-midi. Nous voyons également nos premier « chicken bus » ces anciens bus scolaires étasunien qui sont vendus ici pour une deuxième vie. D’origine jaune, ils sont tous repeints et customisés avec pléthore de chromes. Fin de journée tranquille dans Thor. On devrait passer encore une bonne soirée !!!!
 
 ## 01 décembre
+
+Ce matin Mauro est à l’heure à la plancha. Nous partons pou plus de 2 heures de navigation sur le fleuve Rio Dulce depuis le Lac Izabel. Le décor esu superbe, il y a tout au long du parcours de superbes maisons avec de beau voilier amaré. Le guide nus fait passer par de petits canaux dans la mangrove où habite encore des indiens descendants des Maya, c’est très beau. Après le passage d’une canyon on arrive dans la mer des Caraïbe à Livingston. Deux seules façons pour s’y rendre de Rio Dulce, ce que nous avons fait et depuis Porto Barios en passant par la mer.
+Nous passons le reste de la matinée a déambuler dans ce village assez pauvre dès que l’on s’aventure en dehors des axes principaux, surtout la population créole. PARLER DES RASTAS ET GARIFUNAS
+A midi nous mangeons au « Happy Fish » où je commande le plat traditionnel "Tapado - Sopa Grarifunas" un genre de bouillabaisse, avec une soupe de poissons, crabes et crevettes à la crème de coco et la banane frites à la place des pommes de terre et un poisson grillé, tout bonnement un délice, comme nous appris Bianca "muy sabroso"… Je n’ai pas osé goûter à l'alcool traditionnel le "Guifiti" quand j’ai vu tous les ingrédients qui la composait.
+En milieu d’après-midi on reprend la lancha pour le chemin retour où notre guide nous fait découvrir d’autres lieux au bord du fleuve, nous voyons notamment des gros iguanes perchées en haut des arbres de couleur orangée..
+Excellente journée.
 
 ## 02 décembre
 
