@@ -20,7 +20,7 @@ itinary: "2020/guatemala.json"
 mapZoom: 6
 ---
 
-Cet article couvre la période du 15 au novembre 2019, au cours de laquelle nous avons traversé la partie Nord du Belize.
+Cet article couvre la période du 26 au novembre 2019, au cours de laquelle nous avons visité le Guatemala.
 
 ## 26 novembre
 
