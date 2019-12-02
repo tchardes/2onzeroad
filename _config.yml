@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "15.829107, -88.751324"
-  name: "Rio Dulce - Livingston - Guatemala"
-  date: "29 novembre au 01 décembre 2019 "
+  coordinates: "14.619566, -90.514879"
+  name: "Guatemala City - Guatemala"
+  date: "02 au 04 décembre 2019 "
 
 # set the encoding to utf-8
 encoding: utf-8
