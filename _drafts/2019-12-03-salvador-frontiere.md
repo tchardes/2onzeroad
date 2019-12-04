@@ -31,7 +31,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 - **Repère 7** - Dernier contrôle, document, sanitaire... ;
 - **Repère 8** - Taxe municipale du pont.
 
-### Sortie du Belize
+### Sortie du Guatelama
 
 <img src="{{baseurl}}/assets/owner/photos/Belize-Guate 2.jpg" style="width:100%" />
 
@@ -45,7 +45,7 @@ Pour le véhicule, l'agent m'indique une porte intérieure qui se trouve entre l
 
 Une fois ces démarches effectuées, nous remontons dans Thor et quittons le Belize pour entrer au Guatemala. Il y a très peu de distance entre les deux.
 
-### Entrée au Guatemala
+### Entrée au Salvador
 
 - **Traitement de quarantaine - Désinfection** - **_Repère 4 et 5_** : la route vous conduit tout naturellement sous un Hangar où Thor se fait asperger d’un produit sensé le désinfecter. A la sortie, il faut chercher une place pour se garer à droite ou à gauche, il n'y a pas trop d'emplacement.
 
@@ -97,3 +97,33 @@ Côté Guatemala :
 - Une photocopie du permis de conduite national.
 
 Il faut bien faire en sorte de garder juste la somme nécessaire en dollars béliziens pour la taxe touristique et le change et de faire ces photocopies avant car on ne peut pas les faire à la frontière. Toutes ces démarches nous ont pris environ une heure, surtout en raison de la banque. Une fois terminées, le voyage en terre guatémaltèque a pu commencer...
+
+
+
+
+
+
+
+
+Nous avons passé la frontière à Frontera Valle Nuevo (Jutiapa , Guatemala) pour arriver à Ahuachapan (Ahuachapan, El Salvador).
+
+Nous nous adressons à un premier guichet où on se fait tamponner nos passeports pour la sortie du Guatemala, on nous donne aussi un papier tamponné à donner à la douane du Salvador. On se dirige ensuite à un autre guichet pour faire annuler le permis d'importation temporaire du véhicule. Nous devons fournir (comme pour l'entrée au Guatemala) une photocopie du passeport de Pierre-Louis, une photocopie de son permis de conduire, une photocopie de son paseport tamponné pour la sortie de territoire et une photocopie de la carte grise de Phileas. L'annulation prend un peu de temps mais cela se fait sans problème. Juste avant de passer la frontière, nous changeons nos Quetzales pour des Dollars américains auprès d'un changeur qui prend une belle commission au passage.
+
+Nous nous dirigeons ensuite vers la douane Salvadorienne où on nous indique un endroit où se garer. Un douanier vient directement nous voir, nous demande les papiers nécessaires pour l'importation temporaire du véhicule. Il fait les photocopies nécessaires, nous rends les originaux et nous dit d'attendre pour la préparation des papiers. Nous attendons donc (avec deux filles survoltées) que le papier soit rempli, nous répondons à quelques questions sur Phileas puis le douanier (toujours le même) nous emmène dans un bureau pour faire les derniers papiers. Nous avons juste à attendre et le douanier nous donne le permis en double exemplaire. Nous donnons un exemplaire au douanier du début puis on doit ensuite se diriger vers la sortie où on tend le petit papier tamponné de la douane guatemaltèque et nos passeports. Le douanier regarde les passeports, nous les rends, garde notre papier du Guatemala et nous laisse entrer au Salvador. Le plus long à été d'attendre les papiers pour les permis d'importation du véhicule, que ce soit l'annulation côté guatemaltèque ou la création côté salvadorien.
+
+
+En résumé,
+
+Douane : Frontera Valle Nuevo (Guatemala) – Ahuachapan (El Salvador)
+
+Frais de sortie (du Guatemala) : 0 Quetzales par personne (sauf frais de photocopies)
+
+Frais d'entrée (au Salvador) pour les personnes : 0 USD
+
+Permis d'importation temporaire du véhicule : 0 USD
+
+Pas de fumigation
+
+Temps passé : 1h30
+
+Note informative : Côté Guatemala, plein de guides et de changeurs proposent leurs services et s'imposent alors qu'on a déjà dit non. Côté Salvador, seulement quelques changeurs mais pas de guides étant donné qu'un douanier officiel nous prends en charge dès le début. Les douaniers salvadoriens sont très aimables et aidant
