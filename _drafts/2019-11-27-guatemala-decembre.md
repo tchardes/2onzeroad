@@ -60,6 +60,20 @@ A midi nous mangeons au « Happy Fish » où je commande le plat traditionnel 
 En milieu d’après-midi on reprend la lancha pour le chemin retour où notre guide nous fait découvrir d’autres lieux au bord du fleuve, nous voyons notamment des gros iguanes perchées en haut des arbres de couleur orangée..
 Excellente journée.
 
-## 02 décembre
+## 03 décembre
+
+## 04 décembre
+
+## 05 décembre
+
+## 06 décembre
+
+## 07 décembre
+
+## 08 décembre
+
+## 09 décembre
+
+## 10 décembre
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
