@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "14.741681, -91.154879"
-  name: "Panajachel - Lac Atlitan - Guatemala"
-  date: "05 au 08 décembre 2019 "
+  coordinates: "14.850180, -91.522374"
+  name: "Quetzaltenango - Guatemala"
+  date: "09 et 10 décembre 2019 "
 
 # set the encoding to utf-8
 encoding: utf-8
