@@ -90,10 +90,32 @@ Je revois le chef de la sécurité et lui dit que si ce soir il ya encore de la 
 
 ## 07 décembre
 
+Ce matin notre Tuc Tuc d’hier vient nous chercher à l’hôtel et nous conduit devant la boutique où nous avons pris notre tour pour aujoud’hui, grande ballade sur le lac pour visiter trois village plus authentique que Panajachel à savoir, San Juan la Laguna, San Pedro la Laguna et Santiago Atitlan.
+A San Juan la Laguna nous somme accueilli par la présendente d’un coopérative tenue par des habitants et elle nous fait visiter un atrlier de peinture, Un atelier de tissage et une herboriste. très intéressant.
+A San Pedro la Laguna nous prenons un Tuc Tuc qui nous faire faire un tour sur les points les touristique, l’aglise, le marcher, et un point de vue sur le lac.
+A Santiago Atitlan nous allons prendre un bon repas dans un hôtel restaurant « Bambu » et nous nous regalons, en terrasse avec vue imprenable. Nous avons tout juste le temps de egagner la Lanche pour faire retour à Panajachel où nous faisons les boutiques avant de regagner Thor, très belle journée. Je négocie une nouvelle nuitée avec un prix an raison de la première nuit.
+
 ## 08 décembre
+
+Ce matin on quitte le camping juste avant une messe en plein air de jeunes Scouts qui sont là depuis hier. Je fais signe au prêtre que nous partons et il fait déplacer quelques chaise et l’organiste. Quand je passe à son niveau il vient et me demande s’il peut me bénir, ca ne peut pas faire de mal. Il me prend les mains et pire pour nous. On sort de Panajachel pour un premier arrêt à Solola, on fait un tour du centre ville, le marcher puis on reprend la route pour Chichicastenango. Arrivé en ville un guide se propose de nous conduire à un parking pour Thor, les rues sont étroites et en tournant à gauche j’explose le pneu arrière gauche sur un morceau de ferraille. Le guide me trouve une station où me garer et me trouve un réparateur de pneu. Ce dernier présente une balafre sur le flan mais me dis que c’est réparable, je lui montre la roue de secours mais il me dit que c’est réparable sans danger… bon comme c’est une roue jumelée j’accepte, il met plus de quatre heures à me fabriquer une rustine et à la vulcaniser.. Pendant que je « surveille les travaux » les filles font un tour du marché de la ville qui est très réputé, c’est dimanche, c’est la fête de l’immaculée conception et il y a un monde fou. Le gars me remonte la roue, tout à l’air ok, de toute façon il est trop tard pour reprendre la route et nous décidons de rester au niveau de la station, on verra demain matin. En fin de journée on fait un tour en ville avec Cyrielle, c’est jour de fête avec concerts, défilé de super héros… C’est très bruyant… On se croirait un peu à Lilliput, les gens sont vraiment de petites tailles, on ne passe pas inaperçus. On appréhende la nuit.
 
 ## 09 décembre
 
+Nuit horrible avec un trafic incessant de camions qui roulent comme des jobastres. On avait raison d’avoir des appréhensions. On quitte les lieux à 8heures car la station va ouvrir. On veut faire un premier arrêt à Santa Cruz de Quiché mais finalement on abandonne l’idée de stationner quelque part. La traversée de Totonicapan est horrible, Cyrielle et Corinne sont obligée de m’ouvrir la route et me guider dans les petites rues, je casse une nouvelle fois mon petit robinet en plastique de purge du réservoir d’eau, je savais qu’il fallait que j’en commande deux… Bref on arrive enfin à Quetzaltenango. On ne rentre pas en ville et allons directement sur le parking d’un Wallmart. On doit s’acquitter de la somme de 50 Q pour y passer 24 heures. Après manger on prend un taxi qui nous conduit à Parque centra America, le centre névralgique de la ville. C’est plutôt bof, on fini dans un Mc Do pour se manger une glace. Il fait plutôt frisquet, nous sommes à 2366 mètres d’altitude. De retour nous faisons les courses dans ce Walmart dont la galerie marchande est très grande et très moderne avec de belle boutiques, cela fait drôle de vois toutes ces femmes en costume traditionnel dans cet environnement.
+
 ## 10 décembre
+
+Ce matin on quitte la montagne et ces températures fraîches pour le bord de l’océan Pacifique. Nous prenons la route principale qui est très belle mais surchargée en poids lourds. Arrivés en plaine noous longeons d’immense champs de canne à sucre qui est en pleine récoltes, les camions chargés au maximun amméne la canne dans d’immanses usines dont les cheminées crache une épaisse fumée. On comprend maintenant d’où provient le Rhum du Guatemala. Nous arrivons enfin dans un petit village, San José Rama Blanca, au camping « El Pacific Surf House » tenu par Greg, un français exillé depuis de nombreuses années et qui à posé ces valises dans un petit coin de paradis, le hossegor guatemaltèque, où il donne, entre autre, des cours de Surf.
+Avec Cyrielle nous prenons un bon bain secoué par les vagues puis finissons dans la piscine du camping. En soirée, ilvient passer un moment avec nous dans Thor autour d’une bière et il nous raconte se vie qui derrière les apparences, n’est pas toujours rose.
+
+## 11 décembre
+
+## 12 décembre
+
+## 13 décembre
+
+## 14 décembre
+
+## 15 décembre
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
