@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "13.927672, -91.185816"
-  name: "San José Rama Blanca - Guatemala"
-  date: "10 au 12 décembre 2019 "
+  coordinates: "14.559219, -90.733291"
+  name: "Antigua - Guatemala"
+  date: "12 au 14 décembre 2019 "
 
 # set the encoding to utf-8
 encoding: utf-8
