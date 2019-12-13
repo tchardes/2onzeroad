@@ -110,7 +110,12 @@ Avec Cyrielle nous prenons un bon bain secoué par les vagues puis finissons dan
 
 ## 11 décembre
 
+Ce matin nous sommes allez dans le village pour renplir notre bidon d’eau potable puis plage où l’on à profité des belles vagues du Pacifique. A midi nous avons mangé au restaurant du camping une assiette avec poisson grillé, moules et crevettes et poulet frittes pour Coco. Après-midi piscine puis ballade sur la plage ne fin d’après-midi pour regarder les jeunes surfers.
+
 ## 12 décembre
+
+Ce matin on quitte Greg et la côte pacifique pour reprendre un peu de hauteur au centre du pays. En route nous passons pas la routes des 3 volcans (El Fuego, De Agua et Acatenango) El fuego toussote de temps en temps laissant échapper de belle volutes de fumée. Arrivé à Antigua nous nous posons dans un super Camping avec toutes les commodités, même les Dump. De nombreux voyageurs sont là, nous parlons un long moment vec un Suisse. Nous réservons un tour pour demain matin puis nous allons arpenter les très belle rue de la capitale historique du Guatemala, Antigua.
+De retour à Thor, une américaine nous invite autour d’un feu de camp, il y a un coule d’espagnol, un français et deux américains, supers moments d’échanges, on voit même El Fuego cracher la lave la nuit tombée.
 
 ## 13 décembre
 
