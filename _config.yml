@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "14.639807, -90.514139"
-  name: "Guatemala City - Guatemala"
-  date: "15 au 16 décembre 2019 "
+  coordinates: "14.560934, -90.735330"
+  name: "Antigua- Guatemala"
+  date: "17 au 18 décembre 2019 "
 
 # set the encoding to utf-8
 encoding: utf-8
