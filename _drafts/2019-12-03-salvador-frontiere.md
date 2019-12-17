@@ -7,7 +7,7 @@ parent-id: 2019-12-20-guatemala-decembre
 date: 2019-11-26 15:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-belize-guate.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-belize-guate.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-guate-salva.jpg
 tags: []
 pois: [passagebtog]
 flickr-text: ""
@@ -98,19 +98,11 @@ Côté Guatemala :
 
 Il faut bien faire en sorte de garder juste la somme nécessaire en dollars béliziens pour la taxe touristique et le change et de faire ces photocopies avant car on ne peut pas les faire à la frontière. Toutes ces démarches nous ont pris environ une heure, surtout en raison de la banque. Une fois terminées, le voyage en terre guatémaltèque a pu commencer...
 
-
-
-
-
-
-
-
 Nous avons passé la frontière à Frontera Valle Nuevo (Jutiapa , Guatemala) pour arriver à Ahuachapan (Ahuachapan, El Salvador).
 
 Nous nous adressons à un premier guichet où on se fait tamponner nos passeports pour la sortie du Guatemala, on nous donne aussi un papier tamponné à donner à la douane du Salvador. On se dirige ensuite à un autre guichet pour faire annuler le permis d'importation temporaire du véhicule. Nous devons fournir (comme pour l'entrée au Guatemala) une photocopie du passeport de Pierre-Louis, une photocopie de son permis de conduire, une photocopie de son paseport tamponné pour la sortie de territoire et une photocopie de la carte grise de Phileas. L'annulation prend un peu de temps mais cela se fait sans problème. Juste avant de passer la frontière, nous changeons nos Quetzales pour des Dollars américains auprès d'un changeur qui prend une belle commission au passage.
 
 Nous nous dirigeons ensuite vers la douane Salvadorienne où on nous indique un endroit où se garer. Un douanier vient directement nous voir, nous demande les papiers nécessaires pour l'importation temporaire du véhicule. Il fait les photocopies nécessaires, nous rends les originaux et nous dit d'attendre pour la préparation des papiers. Nous attendons donc (avec deux filles survoltées) que le papier soit rempli, nous répondons à quelques questions sur Phileas puis le douanier (toujours le même) nous emmène dans un bureau pour faire les derniers papiers. Nous avons juste à attendre et le douanier nous donne le permis en double exemplaire. Nous donnons un exemplaire au douanier du début puis on doit ensuite se diriger vers la sortie où on tend le petit papier tamponné de la douane guatemaltèque et nos passeports. Le douanier regarde les passeports, nous les rends, garde notre papier du Guatemala et nous laisse entrer au Salvador. Le plus long à été d'attendre les papiers pour les permis d'importation du véhicule, que ce soit l'annulation côté guatemaltèque ou la création côté salvadorien.
-
 
 En résumé,
 

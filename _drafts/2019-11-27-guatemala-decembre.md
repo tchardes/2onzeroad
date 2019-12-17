@@ -8,7 +8,7 @@ from-date: 2019-11-26 12:00:00
 to-date: 2019-11-29 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt27.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt26.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt27.jpg
 tags: [histoire, architecture, culturel, unesco, mer-ocean]
 pois: [tikal#27-novembre, flores#28-novembre, dulce#29-novembre, castillo#30-novembre, livingston#01-décembre, livingstone#03-décembre]
 country: Guatemala
