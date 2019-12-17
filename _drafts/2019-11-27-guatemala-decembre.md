@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Guatemala"
-preview: "Cet article couvre la période du 26 au novembre 2019, au cours de laquelle nous avons visité le Guatemala…"
+preview: "Cet article couvre la période du 26 au novembre 2019, au cours de laquelle nous avons visité le Guatemala, dont une partie avec notre…"
 parent-id:
 date: 2019-11-29 13:00:00
 from-date: 2019-11-26 12:00:00
@@ -20,7 +20,7 @@ itinary: "2020/guatemala.json"
 mapZoom: 6
 ---
 
-Cet article couvre la période du 26 novembre au décembre 2019, au cours de laquelle nous avons visité le Guatemala.
+Cet article couvre la période du 26 novembre au décembre 2019, au cours de laquelle nous avons visité le Guatemala, dont une partie avec notre fille qui est venue nous rejoindre pour quelques jours.
 
 ## 26 novembre
 
