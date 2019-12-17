@@ -7,7 +7,7 @@ date: 2019-11-29 13:00:00
 from-date: 2019-11-26 12:00:00
 to-date: 2019-11-29 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt26.jpg"
+header-img: "assets/owner/blog/header/post-bg-rt27.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt26.jpg
 tags: [histoire, architecture, culturel, unesco, mer-ocean]
 pois: [tikal#27-novembre, flores#28-novembre, dulce#29-novembre, castillo#30-novembre, livingston#01-décembre, livingstone#03-décembre]
@@ -25,8 +25,6 @@ Cet article couvre la période du 26 novembre au décembre 2019, au cours de laq
 ## 26 novembre
 
 Après la visite de notre dernier site Maya du Belize, Xunantunch nous empruntons une nouvelle fois le bac pour rejoindre Thor. Nous mangeons sur place au bord du fleuve Mopan pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisée en 1 heures.
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134286918/in/datetaken/" title="San Jose Succotz - [Belize]"><img src="https://live.staticflickr.com/65535/49134286918_02de0790f2_h.jpg" width="1600" height="900" alt="San Jose Succotz - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Au comptoir, les agents des douanes qui s’occupent de l’importation des véhicules ont devant eux un gros plat rempli de pop-corns, je leur demande quel est le film qui va être projetté, ca les fait bien rire et du coup ils nous en proposent.
 
