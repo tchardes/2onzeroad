@@ -71,7 +71,7 @@ Une fois les documents contrôlés, il sort voir Thor et vérifie la marque du v
 
 Me voilà parti, côté guatémaltèque, à la Banco de Desarrolo Rural, au guichet N° 4, distante de 800 mètres environ juste après une station Texaco, sur la route de Flores. Au guichet, je demande à la préposée si tous les touristes viennent là pour payer la taxe, elle confirme. Peut-être que les agents n'ont plus le droit de percevoir eux-mêmes les sommes, ou alors ils ont voulus me faire marcher, en tout cas ce n'est pas très pratique. De retour, je donne le reçu "acquitté" et le douanier me remet un sticker à coller en bas à gauche du pare-brise côté conducteur.
 
-**_Des amis ont passés la frontière quelques jours après nous et ils ont pu payer directement au poste frontière moyennant quelques frais._**
+*_Des amis ont passés la frontière quelques jours après nous et ils ont pu payer directement au poste frontière moyennant quelques frais._*
 
 - **Contrôle de sortie et sanitaire** - **_Repère 7_** : nous remontons dans Thor et passons le dernier poste de contrôle... je marque le stop, il n'y a personne dans la guérite, on poursuit notre route avec pommes, oranges, tomates!!!
 
