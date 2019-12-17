@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: "Passage frontière Belize - Guatemala"
+title: "Passage frontière Guatemala _ El salvador"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
-parent-id: 2019-12-20-guatemala-decembre
+parent-id: 2019-12-25-salvador-decembre
 
 date: 2019-11-26 15:00:00
 author: "Thierry"
@@ -11,8 +11,8 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-guate-salva.jpg
 tags: []
 pois: [passagebtog]
 flickr-text: ""
-country: Guatemala
-states: ["Peten"]
+country: El Salavador
+states: []
 city:
 category: "blog"
 location: "17.057896, -89.150195"
