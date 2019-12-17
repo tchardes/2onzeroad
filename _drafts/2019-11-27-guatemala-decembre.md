@@ -20,11 +20,11 @@ itinary: "2020/guatemala.json"
 mapZoom: 6
 ---
 
-Cet article couvre la période du 26 au novembre 2019, au cours de laquelle nous avons visité le Guatemala.
+Cet article couvre la période du 26 novembre au décembre 2019, au cours de laquelle nous avons visité le Guatemala.
 
 ## 26 novembre
 
-De retour à Thor on mange sur place pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisée en 1 heures.
+Après la visite de notre dernier site Maya du Belize, Xunantunch nous empruntons une nouvelle fois le bac pour traverser le fleuve Mopan. De retour à Thor on mange sur place pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisée en 1 heures.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134286918/in/datetaken/" title="San Jose Succotz - [Belize]"><img src="https://live.staticflickr.com/65535/49134286918_02de0790f2_h.jpg" width="1600" height="900" alt="San Jose Succotz - [Belize]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

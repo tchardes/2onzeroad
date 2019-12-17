@@ -71,13 +71,15 @@ Une fois les documents contrôlés, il sort voir Thor et vérifie la marque du v
 
 Me voilà parti, côté guatémaltèque, à la Banco de Desarrolo Rural, au guichet N° 4, distante de 800 mètres environ juste après une station Texaco, sur la route de Flores. Au guichet, je demande à la préposée si tous les touristes viennent là pour payer la taxe, elle confirme. Peut-être que les agents n'ont plus le droit de percevoir eux-mêmes les sommes, ou alors ils ont voulus me faire marcher, en tout cas ce n'est pas très pratique. De retour, je donne le reçu "acquitté" et le douanier me remet un sticker à coller en bas à gauche du pare-brise côté conducteur.
 
+**_Des amis ont passés la frontière quelques jours après nous et ils ont pu payer directement au poste frontière moyennant quelques frais._**
+
 - **Contrôle de sortie et sanitaire** - **_Repère 7_** : nous remontons dans Thor et passons le dernier poste de contrôle... je marque le stop, il n'y a personne dans la guérite, on poursuit notre route avec pommes, oranges, tomates!!!
 
 <img src="{{baseurl}}/assets/owner/photos/Belize-Guate 5.jpg" style="width:100%" />
 
 - **Taxe du pont** - **_Repère 8_** : nous arrivons directement sur un pont qui enjambe le fleuve Mopan. Au bout, une petite guérite avec une barrière fermée. Une dame s'approche et nous demande 30 Quetzals de taxe municipale pour le passage du pont. Je lui demande si elle plaisante, apparemment pas...
 
-- **Assurance Thor** : je demande à plusieurs personnes au niveau de l'immigration et des douanes, et j'ai obtenu toujours la même réponse, l'assurance n'est pas obligatoire au Guatemala, d'accord mais ça existe ? voyez peut-être auprès des banques... Bon, on va être prudent.
+- **Assurance Thor** : je demande à plusieurs personnes au niveau de l'immigration et des douanes, et j'ai obtenu toujours la même réponse, l'assurance n'est pas obligatoire au Guatemala, d'accord mais ça existe ? voyez peut-être auprès des banques... Bon, on va être prudent. Finalement nous prenons une assurance valable pour toutes l'Amérique Centrale sauf la Panama auprès des assurances **Seguros G&T**, environ 45€ pour deux mois. Il y a une agence à Flores.
 
 ### Récapitulatif des frais et documents à fournir :
 
