@@ -79,7 +79,7 @@ Me voilà parti, côté guatémaltèque, à la Banco de Desarrolo Rural, au guic
 
 - **Taxe du pont** - **_Repère 8_** : nous arrivons directement sur un pont qui enjambe le fleuve Mopan. Au bout, une petite guérite avec une barrière fermée. Une dame s'approche et nous demande 30 Quetzals de taxe municipale pour le passage du pont. Je lui demande si elle plaisante, apparemment pas...
 
-- **Assurance Thor** : je demande à plusieurs personnes au niveau de l'immigration et des douanes, et j'ai obtenu toujours la même réponse, l'assurance n'est pas obligatoire au Guatemala, d'accord mais ça existe ? voyez peut-être auprès des banques... Bon, on va être prudent. Finalement nous prenons une assurance valable pour toutes l'Amérique Centrale sauf la Panama auprès des assurances **Seguros G&T**, environ 45€ pour deux mois. Il y a une agence à Flores.
+- **Assurance Thor** : je demande à plusieurs personnes au niveau de l'immigration et des douanes, et j'ai obtenu toujours la même réponse, l'assurance n'est pas obligatoire au Guatemala, d'accord mais ça existe ? voyez peut-être auprès des banques... Bon, on va être prudent. Finalement nous prenons une assurance valable pour toutes l'Amérique Centrale sauf le Panama auprès des assurances **Seguros G&T**, environ 45€ pour deux mois. Il y a une agence à Flores, nous l'avons prise à la capitale.
 
 ### Récapitulatif des frais et documents à fournir :
 
