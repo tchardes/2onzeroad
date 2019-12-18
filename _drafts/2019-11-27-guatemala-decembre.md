@@ -3,19 +3,45 @@ layout: blog
 title: "Guatemala"
 preview: "Cet article couvre la période du 26 au novembre 2019, au cours de laquelle nous avons visité le Guatemala, dont une partie avec notre…"
 parent-id:
-date: 2019-11-29 13:00:00
+date: 2019-12-17 13:00:00
 from-date: 2019-11-26 12:00:00
-to-date: 2019-11-29 13:00:00
+to-date: 2019-12-17 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt27.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt27.jpg
 tags: [histoire, architecture, culturel, unesco, mer-ocean]
-pois: [tikal#27-novembre, flores#28-novembre, dulce#29-novembre, castillo#30-novembre, livingston#01-décembre, livingstone#03-décembre]
+pois:
+  [
+    tikal#27-novembre,
+    flores#28-novembre,
+    dulce#29-novembre,
+    castillo#30-novembre,
+    livingston#01-décembre,
+    zacapa#02-décembre,
+    guatecity#02-décembre,
+    atitlan#05-décembre,
+    panajachel#05-décembre,
+    santacatarinapalopo#06-décembre,
+    santantoniopalopo#06-décembre,
+    sanjuanlalaguna#07-décembre,
+    sanpedrolalaguna#07-décembre,
+    santiagiatitlan#07-décembre,
+    solola#08-décembre,
+    chichicastenango#08-décembre,
+    quetzaltenango#09-décembre,
+    sanjoséramablanca#10-décembre,
+    antigua#12-décembre,
+    pacaya#13-décembre,
+    s#06-décembre,
+    s#06-décembre,
+    s#06-décembre,
+    s#06-décembre,
+  ]
 country: Guatemala
-states: ["Peten"]
+states: [""]
 category: "roadmap"
 flickr-text: ""
-location: "15.694739, -90.231123"
+location: "15.763947, -90.113030"
 itinary: "2020/guatemala.json"
 mapZoom: 7
 ---
@@ -34,11 +60,41 @@ Peu avant d’arriver à Tikal on fait le plein de Thor. Le dernier remonte à C
 
 ## 27 novembre
 
-Ce matin on est dans la file d’attente devant l’entrée du Parc de **Tikal** à 6h00 pétantes. Une brume nimbe la forêt, heureusement que nous n’avons pas payé un guide pour voir le levée du soleil à 5h30… Nous achetons un carte du site pour nous retrouver car il est immense. Sur la carte les distances entre les différentes pyramides ou bâtiments sont calculés en temps de marche. On a opté pour visiter le site de bonne heure en espérant voir une faune omniprésente mais au final nous n’avons pas vu grand chose, deux Grands Faisans, des singes hurleurs, un pic, des perroquets, toucan et un petit sanglier. Trop souvent en mouvement et furtivement. La citée concurrente de Caracol et vraiment exceptionnelle, elle s’étant sur des Km2 et de nombreux édifices ont été restaurés, le tout éparpillé dans une jungle épaisse. Le sommet des principaux palais culmine au dessus de la canopé offrant ainsi une vue incoyable sur la jungle et les alentours. Nous avons parcouru près de 13 Km et grimpé l’équivalent de 75 étages. La visite nous a demandé la demi-journée de 06h30 à 12h30… Il arrive en tête de notre palmarès des plus beaux sites. Après déjeuné on redescend au bord du lac **Perén Itza** à El Remate où l’on trouve un hôtel qui accueille les RV, l’environnement est très beau.
+Ce matin on est dans la file d’attente devant l’entrée du Parc de **Tikal** à 6h00 pétantes. Une brume nimbe la forêt, heureusement que nous n’avons pas payé un guide pour voir le levée du soleil à 5h30… Nous achetons un carte du site pour nous retrouver car il est immense. Sur la carte les distances entre les différentes pyramides ou bâtiments sont calculés en temps de marche. On a opté pour visiter le site de bonne heure en espérant voir une faune omniprésente mais au final nous n’avons pas vu grand chose, deux Grands Faisans, des singes hurleurs, un pic, des perroquets, toucan et un petit sanglier. Trop souvent en mouvement et furtivement.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134330853/in/datetaken/" title="Tikal - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49134330853_662b17d8f1_h.jpg" width="1600" height="900" alt="Tikal - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134332523/in/datetaken/" title="Tikal - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49134332523_ac555c3804_h.jpg" width="1600" height="900" alt="Tikal - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+La citée concurrente de Caracol et vraiment exceptionnelle, elle s’étant sur des Km2 et de nombreux édifices ont été restaurés, le tout éparpillé dans une jungle épaisse. Le sommet des principaux palais culmine au dessus de la canopé offrant ainsi une vue incoyable sur la jungle et les alentours. Nous avons parcouru près de 13 Km et grimpé l’équivalent de 75 étages. La visite nous a demandé la demi-journée de 06h30 à 12h30… Il arrive en tête de notre palmarès des plus beaux sites.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134810671/in/datetaken/" title="Tikal - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49134810671_fb5c7a61e7_h.jpg" width="1600" height="900" alt="Tikal - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49134817031/in/datetaken/" title="Tikal - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49134817031_1eaac4752c_h.jpg" width="1600" height="900" alt="Tikal - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49135012247/in/datetaken/" title="Tikal - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49135012247_df08f506d7_h.jpg" width="1600" height="900" alt="Tikal - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Après déjeuné on redescend au bord du lac **Perén Itza** à El Remate où l’on trouve un hôtel qui accueille les RV, l’environnement est très beau.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49135001557/in/datetaken/" title="El Remate - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49135001557_a49bbb5f22_h.jpg" width="1600" height="900" alt="El Remate - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49138131521/in/datetaken/" title="El Remate - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49138131521_1b539ae088_h.jpg" width="1600" height="570" alt="El Remate - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 28 novembre
 
-Ce matin on traîne au camping, on profite du Wifi pour tout mettre à jour et publier. Après le repas nous partons en direction de la ville de **Flores** qui se trouve également au bord du lac Peten Itza. Nous commençons par nous arrêter dans un grand mall. Nous trouvons un supermarché très bien fourni, on trouve même du vraie beurre et du fromage président… Ensuite on s’occupe de prendre une carte Sim chez l’opérateur Tigo, nous revoilà reconnectés. Nous prenons ensuite un tuc tuc taxi, sorte de tricycle, pour rejointe l’ile de flores. Très touristique, c’est une succession de bar, hotels et restaurants, il y a de très nombreux touristes, ambiance fiesta avec beaucoup de musique. De l’ile de nombreuses lancha (bateau taxi) vous conduisent où vous voulez le long de cet immense Lac... Nous reprenons Thor en fin d’après-midi pour nous poser pour la nuit.
+Ce matin on traîne au camping, on profite du Wifi pour tout mettre à jour et publier. Après le repas nous partons en direction de la ville de **Flores** qui se trouve également au bord du lac Peten Itza.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49138129301/in/datetaken/" title="El Remate - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49138129301_fb4550ec6e_h.jpg" width="1600" height="900" alt="El Remate - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous commençons par nous arrêter dans un grand mall. Nous trouvons un supermarché très bien fourni, on trouve même du vraie beurre et du fromage président… Ensuite on s’occupe de prendre une carte Sim chez l’opérateur Tigo, nous revoilà reconnectés. Nous prenons ensuite un tuc tuc taxi, sorte de tricycle, pour rejointe l’ile de flores.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49161501432/in/datetaken/" title="Flores - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49161501432_b584475784_h.jpg" width="1600" height="900" alt="Flores - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49161254641/in/datetaken/" title="Flores - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49161254641_8f16c243ee_h.jpg" width="1600" height="900" alt="Flores - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Très touristique, c’est une succession de bar, hotels et restaurants, il y a de très nombreux touristes, ambiance fiesta avec beaucoup de musique. De l’ile de nombreuses lancha (bateau taxi) vous conduisent où vous voulez le long de cet immense Lac... Nous reprenons Thor en fin d’après-midi pour nous poser pour la nuit.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49160775398/in/datetaken/" title="Flores - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49160775398_a307565d7f_h.jpg" width="1600" height="900" alt="Flores - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 29 novembre
 
@@ -46,18 +102,29 @@ Ce matin le temps est gris et nous essuyons quelques averses. Nous partons en fi
 
 ## 30 novembre
 
-La soirée a été… musicale. Il y a plusieurs bars non loin de nous et toutes la soirée a été bercée au son de la musique latine. On dirait une musique intemporelle, elle pourrait avoir 100 ans ou être sortie hier, on n’en sait rien, pas une seule musique anglo-saxonne ou du reste du monde…
-Ce matin on se la coule douce, il y a beaucoup de monde qui arrive, ils viennent passer la journée dans le parc du **Castillo de San Felipe de Lara** qui est très bien arrangé et où les gens peuvent se baigner dans l’immense lac de Izabel, faire du jet-ski ou prendre une lancha (bateau taxi) pour se balader autour du lac voire rejoindre la mer en direction de Livingstone ce que nous ferons demain.
+La soirée a été… musicale. Il y a plusieurs bars non loin de nous et toutes la soirée a été bercée au son de la musique latine. On dirait une musique intemporelle, elle pourrait avoir 100 ans ou être sortie hier, on n’en sait rien, pas une seule musique anglo-saxonne ou du reste du monde… Ce matin on se la coule douce, il y a beaucoup de monde qui arrive, ils viennent passer la journée dans le parc du **Castillo de San Felipe de Lara** qui est très bien arrangé et où les gens peuvent se baigner dans l’immense lac de Izabel, faire du jet-ski ou prendre une lancha (bateau taxi) pour se balader autour du lac voire rejoindre la mer en direction de Livingston ce que nous ferons demain.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49160894323/in/datetaken/" title="San Felipe de Lara - [Guatemala]"><img src="https://live.staticflickr.com/65535/49160894323_0840e0d518_h.jpg" width="1600" height="900" alt="San Felipe de Lara - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 En début d’après-midi on part à pied à la découverte de ce fortin construit par les espagnols. A l’époque, une grande chaîne traversait le fleuve à cet endroit étroit pour interdire aux pirates de remonter en direction du lac. Le Fort a été pris par les pirates puis repris par les espagnols à plusieurs reprises.
 
-Entièrement restauré, ce fortin et vraiment mignon, petit, avec des ouverture assez basse et des passages très étroit. On dirait qu’il a été construit pour des enfants. L’entrée coûte 25 Q pour les locaux mais 75 Q pour les étrangers. Je suis toujours un peu agacé par cette différence, même si au final ce n’est pas très cher. On y passe un bon moment ainsi que dans le parc puis dans le village. Bel après-midi. Nous voyons également nos premier "chicken bus" ces anciens bus scolaires étasunien qui sont vendus ici pour une deuxième vie. D’origine jaune, ils sont tous repeints et customisés avec pléthore de chromes. Fin de journée tranquille dans Thor. On devrait passer encore une bonne soirée !!!!
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49160751183/in/datetaken/" title="San Felipe de Lara - [Guatemala]"><img src="https://live.staticflickr.com/65535/49160751183_d4fa21d79a_h.jpg" width="1600" height="900" alt="San Felipe de Lara - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Entièrement restauré, ce fortin et vraiment mignon, petit, avec des ouverture assez basse et des passages très étroit. On dirait qu’il a été construit pour des enfants. L’entrée coûte 25 Q pour les locaux mais 75 Q pour les étrangers. Je suis toujours un peu agacé par cette différence, même si au final ce n’est pas très cher. On y passe un bon moment ainsi que dans le parc puis dans le village. Bel après-midi. Nous voyons également nos premiers "chicken bus" ces anciens bus scolaires étasuniens qui sont vendus ici pour une deuxième vie, voir une troisième. D’origine jaune, ils sont tous repeints et customisés avec pléthore de chromes. Fin de journée tranquille dans Thor. On devrait passer encore une bonne soirée !!!!
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49161466511/in/datetaken/" title="San Felipe de Lara - [Guatemala]"><img src="https://live.staticflickr.com/65535/49161466511_63f5eeb83a_h.jpg" width="1600" height="1600" alt="San Felipe de Lara - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 01 décembre
 
 Ce matin Mauro est à l’heure à la lancha. Nous partons pour plus de 2 heures de navigation sur le fleuve Rio Dulce depuis le Lac Izabel. Le décor est superbe, il y a tout au long du parcours de superbes maisons avec de beaux voiliers amarrés. Le guide nous fait passer par de petits canaux dans la mangrove où habitent encore des indiens descendants des Mayas, c’est très beau. Après le passage d’une canyon on arrive dans la mer des Caraïbe à **Livingston**. Deux seules façons pour s’y rendre de Rio Dulce, ce que nous avons fait et depuis Porto Barios en passant par la mer.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49160878923/in/datetaken/" title="Rio Dulce - [Guatemala]"><img src="https://live.staticflickr.com/65535/49160878923_f1d0c646f2_h.jpg" width="1600" height="900" alt="Rio Dulce - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49161587347/in/datetaken/" title="Rio Dulce - [Guatemala]"><img src="https://live.staticflickr.com/65535/49161587347_38b992f7b6_h.jpg" width="1600" height="900" alt="Rio Dulce - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous passons le reste de la matinée à déambuler dans ce village assez pauvre dès que l’on s’aventure en dehors des axes principaux, surtout la population créole qui est encore très présente. En effet c'est ici qu'ont débarqués les premiers créoles qui va donner naissance des Garifunas.
+
+> Livingston rayonne par sa diversité où Mayas, Indiens, Latinos et Garifunas se partagent les rues. Ce sont les Garifunas qui donnent à Livingston la couleur, la chaleur et la saveur du village. L’histoire des Garifunas est unique. En 1635, des bateaux espagnols en route vers leurs colonies, ayant à bord des esclaves principalement de l’Afrique de l’Ouest, coulèrent près des côtes de Saint-Vincent. Les passagers se réfugièrent donc sur l’île et adaptèrent leur style de vie à celui des habitants, créant ainsi une nouvelle langue et développant une nouvelle identité. Tout allait pour le mieux sur l’île et l’arrivée de colonisateurs français vers la fin du XVIIe siècle ne leur causa aucun souci. Ce n’est que plus tard, avec l’arrivée des Anglais désirant prendre le contrôle de l’île, que les conflits commencèrent. Les Garifunas tentèrent en vain de tenir tête aux Anglais, qui finalement gagnèrent le contrôle de l’île. De peur que les Garifunas regagnent le contrôle de l’île, les Anglais déportèrent bon nombre d’entre-eux sur une l’île de Roatan, non loin des côtes du Honduras. Finalement, ils se déplacèrent d’eux-mêmes vers les côtes de la mer des Caraïbes, du Belize au Nicaragua, où ils se retrouvent encore aujourd’hui.
 
 A midi nous mangeons au "Happy Fish" où je commande le plat traditionnel le "Tapado - Sopa Grarifunas" un genre de bouillabaisse, composée d'une soupe de poissons, crabes et crevettes à la crème de coco et la banane frites à la place des pommes de terre et un poisson grillé, tout bonnement un délice, comme nous à appris Bianca "muy sabroso"… Je n’ai pas osé goûter à l'alcool traditionnel le "Guifiti" quand j’ai vu tous les ingrédients qui le composait.
 
@@ -123,7 +190,7 @@ Ce matin nous sommes allez dans le village pour renplir notre bidon d’eau pota
 
 ## 12 décembre
 
-Ce matin on quitte Greg et la côte pacifique pour reprendre un peu de hauteur au centre du pays. En route nous passons pas la routes des 3 volcans (El Fuego, De Agua et Acatenango) El fuego toussote de temps en temps laissant échapper de belle volutes de fumée. Arrivé à Antigua nous nous posons dans un super camping avec toutes les commodités, même des dumps. De nombreux voyageurs sont là, nous parlons un long moment avec un Suisse. Nous réservons un tour pour demain matin puis nous allons arpenter les très belles rues de la capitale historique du Guatemala, Antigua.
+Ce matin on quitte Greg et la côte pacifique pour reprendre un peu de hauteur au centre du pays. En route nous passons pas la routes des 3 volcans (El Fuego, De Agua et Acatenango) El fuego toussote de temps en temps laissant échapper de belle volutes de fumée. Arrivé à **Antigua** nous nous posons dans un super camping avec toutes les commodités, même des dumps. De nombreux voyageurs sont là, nous parlons un long moment avec un Suisse. Nous réservons un tour pour demain matin puis nous allons arpenter les très belles rues de la capitale historique du Guatemala, Antigua.
 De retour à Thor, une américaine nous invite autour d’un feu de camp, il y a un couple d’espagnol, un français et deux américains, supers moments d’échanges, on voit même El Fuego cracher la lave la nuit tombée.
 
 ## 13 décembre
