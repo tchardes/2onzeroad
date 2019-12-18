@@ -46,11 +46,11 @@ itinary: "2020/guatemala.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 26 novembre au décembre 2019, au cours de laquelle nous avons visité le Guatemala, dont une partie avec notre fille qui est venue nous rejoindre pour quelques jours.
+Cet article couvre la période du 26 novembre au décembre 2019, au cours de laquelle nous avons visité le Guatemala, dont une partie avec notre fille qui est venue nous rejoindre pour une dizaine de jours.
 
 ## 26 novembre
 
-Après la visite de notre dernier site Maya du Belize, Xunantunch nous empruntons une nouvelle fois le bac pour rejoindre Thor. Nous mangeons sur place au bord du fleuve Mopan pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisée en 1 heures.
+Après la visite de notre dernier site Maya du Belize, Xunantunch, nous empruntons une nouvelle fois le bac pour rejoindre Thor. Nous mangeons sur place au bord du fleuve Mopan pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisée en 1 heures.
 
 Au comptoir, les agents des douanes qui s’occupent de l’importation des véhicules ont devant eux un gros plat rempli de pop-corns, je leur demande quel est le film qui va être projetté, ca les fait bien rire et du coup ils nous en proposent.
 
