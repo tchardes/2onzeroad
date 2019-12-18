@@ -100,6 +100,8 @@ Très touristique, c’est une succession de bar, hotels et restaurants, il y a 
 
 Ce matin le temps est gris et nous essuyons quelques averses. Nous partons en fin de matinée pour rejoindre la côte caraïbe, en tous cas pas très loin. Bien que nous soyons sur la route principale, par endroit, le revêtement est vraiment mauvais, de plus, et c’est la première fois que l’on ressent cela, nous sommes surpris par la conduite de certains, doublant n’importe comment, prenant des risques. A midi on fait une escale technique à Potun et reprenons la route pour **Rio Dulce** où nous trouvons un coin pour nous poser le week-end.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49161275186/in/datetaken/" title="San Felipe de Lara - [Guatemala]"><img src="https://live.staticflickr.com/65535/49161275186_34d3aeaeaf_h.jpg" width="1600" height="900" alt="San Felipe de Lara - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 30 novembre
 
 La soirée a été… musicale. Il y a plusieurs bars non loin de nous et toutes la soirée a été bercée au son de la musique latine. On dirait une musique intemporelle, elle pourrait avoir 100 ans ou être sortie hier, on n’en sait rien, pas une seule musique anglo-saxonne ou du reste du monde… Ce matin on se la coule douce, il y a beaucoup de monde qui arrive, ils viennent passer la journée dans le parc du **Castillo de San Felipe de Lara** qui est très bien arrangé et où les gens peuvent se baigner dans l’immense lac de Izabel, faire du jet-ski ou prendre une lancha (bateau taxi) pour se balader autour du lac voire rejoindre la mer en direction de Livingston ce que nous ferons demain.
@@ -118,17 +120,27 @@ Entièrement restauré, ce fortin et vraiment mignon, petit, avec des ouverture 
 
 Ce matin Mauro est à l’heure à la lancha. Nous partons pour plus de 2 heures de navigation sur le fleuve Rio Dulce depuis le Lac Izabel. Le décor est superbe, il y a tout au long du parcours de superbes maisons avec de beaux voiliers amarrés. Le guide nous fait passer par de petits canaux dans la mangrove où habitent encore des indiens descendants des Mayas, c’est très beau. Après le passage d’une canyon on arrive dans la mer des Caraïbe à **Livingston**. Deux seules façons pour s’y rendre de Rio Dulce, ce que nous avons fait et depuis Porto Barios en passant par la mer.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49160838083/in/datetaken/" title="Livingston - [Guatemala]"><img src="https://live.staticflickr.com/65535/49160838083_0b85aabe3c_h.jpg" width="1600" height="900" alt="Livingston - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49160878923/in/datetaken/" title="Rio Dulce - [Guatemala]"><img src="https://live.staticflickr.com/65535/49160878923_f1d0c646f2_h.jpg" width="1600" height="900" alt="Rio Dulce - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49161587347/in/datetaken/" title="Rio Dulce - [Guatemala]"><img src="https://live.staticflickr.com/65535/49161587347_38b992f7b6_h.jpg" width="1600" height="900" alt="Rio Dulce - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous passons le reste de la matinée à déambuler dans ce village assez pauvre dès que l’on s’aventure en dehors des axes principaux, surtout la population créole qui est encore très présente. En effet c'est ici qu'ont débarqués les premiers créoles qui va donner naissance des Garifunas.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49161283191/in/datetaken/" title="Rio Dulce - [Guatemala]"><img src="https://live.staticflickr.com/65535/49161283191_576422187f_h.jpg" width="1600" height="900" alt="Rio Dulce - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 > Livingston rayonne par sa diversité où Mayas, Indiens, Latinos et Garifunas se partagent les rues. Ce sont les Garifunas qui donnent à Livingston la couleur, la chaleur et la saveur du village. L’histoire des Garifunas est unique. En 1635, des bateaux espagnols en route vers leurs colonies, ayant à bord des esclaves principalement de l’Afrique de l’Ouest, coulèrent près des côtes de Saint-Vincent. Les passagers se réfugièrent donc sur l’île et adaptèrent leur style de vie à celui des habitants, créant ainsi une nouvelle langue et développant une nouvelle identité. Tout allait pour le mieux sur l’île et l’arrivée de colonisateurs français vers la fin du XVIIe siècle ne leur causa aucun souci. Ce n’est que plus tard, avec l’arrivée des Anglais désirant prendre le contrôle de l’île, que les conflits commencèrent. Les Garifunas tentèrent en vain de tenir tête aux Anglais, qui finalement gagnèrent le contrôle de l’île. De peur que les Garifunas regagnent le contrôle de l’île, les Anglais déportèrent bon nombre d’entre-eux sur une l’île de Roatan, non loin des côtes du Honduras. Finalement, ils se déplacèrent d’eux-mêmes vers les côtes de la mer des Caraïbes, du Belize au Nicaragua, où ils se retrouvent encore aujourd’hui.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49160973368/in/datetaken/" title="Livingston - [Guatemala]"><img src="https://live.staticflickr.com/65535/49160973368_eff102cfa8_h.jpg" width="1600" height="900" alt="Livingston - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 A midi nous mangeons au "Happy Fish" où je commande le plat traditionnel le "Tapado - Sopa Grarifunas" un genre de bouillabaisse, composée d'une soupe de poissons, crabes et crevettes à la crème de coco et la banane frites à la place des pommes de terre et un poisson grillé, tout bonnement un délice, comme nous à appris Bianca "muy sabroso"… Je n’ai pas osé goûter à l'alcool traditionnel le "Guifiti" quand j’ai vu tous les ingrédients qui le composait.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49161460781/in/datetaken/" title="Livingston - [Guatemala]"><img src="https://live.staticflickr.com/65535/49161460781_062f79b0aa_h.jpg" width="1600" height="900" alt="Livingston - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 En milieu d’après-midi on reprend la lancha pour le chemin retour où notre guide nous fait découvrir d’autres lieux au bord du fleuve, nous voyons notamment des gros iguanes perchées en haut des arbres de couleur orangée... Excellente journée.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49160874973/in/datetaken/" title="Rio Dulce - [Guatemala]"><img src="https://live.staticflickr.com/65535/49160874973_174327c263_h.jpg" width="1600" height="900" alt="Rio Dulce - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 02 décembre
 
@@ -136,14 +148,29 @@ Ce matin nous partons en direction de la capitale du pays, Cyrielle arrive demai
 
 ## 03 décembre
 
-Matinée tranquille au bivouac, on profite du très bon Wifi. En début d’après midi on s’occupe un peu de la logistique, le plein de gaz et du frigo. Circuler dans cette ville c’est vraiment l’enfer, très dur de trouver un parking. Finalement on demande à une banque de pourvoir se garer sur son parking pour pouvoir aller faire les courses. A 17h00 on récupérer Cyrielle à l’aéroport et on retourne au bivouac. Le soir le fils de la patronne de l'hôtel vient passer un moment avec nous et nous propose de nous conduire en centre ville pour assister au "Festival Navideno" de nuit. Cyrielle est trop fatiguée, on décline.
+Matinée tranquille au bivouac, on profite du très bon Wifi. En début d’après midi on s’occupe un peu de la logistique, le plein de gaz et du frigo. Circuler dans cette ville c’est vraiment l’enfer, très dur de trouver un parking. Finalement on demande à une banque de pourvoir se garer sur son parking pour pouvoir aller faire les courses. A 17h00 on récupérer Cyrielle à l’aéroport et on retourne au bivouac. Le soir le fils de la patronne de l'hôtel vient passer un moment avec nous et nous propose de nous conduire en centre ville pour assister au "Festival Navideno" de nuit. Cyrielle est trop fatiguée, on décline l'invitation.
 
 ## 04 décembre
 
 Ce matin nous prenons le Metro Bus pour nous rendre au centre historique de la ville, le centre est très animés avec de nombreuses rues marchandes. Nous arrivons à la Place de la Constitution ou se déroule le marché de Noël. Beaucoup de stands, spectacles d’enfants, et même une patinoire et un grand tobogan à la piste glacée, le tout sous 25°. Nous visitons la cathédrale puis nous allons déjeuner au "Arrin Cuan", très bel établissement où nous goûtons 5 spécialités locales dont le Kak Ik, un genre de soupe avec un cuisse de dinde, du riz, des tamales et des tortillas. Excellent repas.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49235543381/in/datetaken/" title="Guatemala City - [Guatemala]"><img src="https://live.staticflickr.com/65535/49235543381_ad8a441bda_h.jpg" width="1600" height="1200" alt="Guatemala City - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49173811947/in/datetaken/" title="Guatemala City - [Guatemala]"><img src="https://live.staticflickr.com/65535/49173811947_03d01ceb27_h.jpg" width="1600" height="900" alt="Guatemala City - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49173133558/in/datetaken/" title="Guatemala City - [Guatemala]"><img src="https://live.staticflickr.com/65535/49173133558_e8f038c918_h.jpg" width="1600" height="900" alt="Guatemala City - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Ensuite nous retournons sur la grande place, nous tombons sur un "campement" en pleine ville, de Mayas qui protestent car l’Etat leur aurait promis des terres... qu'ils n'ont apparemment pas reçu...
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49173580176/in/datetaken/" title="Guatemala City - [Guatemala]"><img src="https://live.staticflickr.com/65535/49173580176_1ce5ea8f63_h.jpg" width="1600" height="900" alt="Guatemala City - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49173799447/in/datetaken/" title="Guatemala City - [Guatemala]"><img src="https://live.staticflickr.com/65535/49173799447_ad6498d0f2_h.jpg" width="1600" height="1000" alt="Guatemala City - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Une fois sur la place nous visitons le Palacio Nacional et de la Culture. Normalement il faut donner une pièce d’identité mais nous n’avons pas nos passeports sur nous. On se mêle à un groupe et passe comme cela… Une fois à l’intérieur la guide voit bien que nous ne sommes pas hispanophones et nous appelle un autre guide qui nous fait une visite privée en anglais, très bel édifice. Il nous joue même quelques airs sur un piano qui se trouve dans un patio. Retour à Thor en fin d’après-midi toujours par le Metro Bus qui est bondé.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49235770632/in/datetaken/" title="Guatemala City - [Guatemala]"><img src="https://live.staticflickr.com/65535/49235770632_0ba19c6c3e_h.jpg" width="1600" height="900" alt="Guatemala City - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49173039738/in/datetaken/" title="Guatemala City - [Guatemala]"><img src="https://live.staticflickr.com/65535/49173039738_6e11ba5876_h.jpg" width="1600" height="1093" alt="Guatemala City - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 05 décembre
 
