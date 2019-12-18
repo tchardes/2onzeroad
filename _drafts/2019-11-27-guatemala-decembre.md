@@ -17,7 +17,7 @@ category: "roadmap"
 flickr-text: ""
 location: "14.906063, -90.589515"
 itinary: "2020/guatemala.json"
-mapZoom: 6
+mapZoom: 7
 ---
 
 Cet article couvre la période du 26 novembre au décembre 2019, au cours de laquelle nous avons visité le Guatemala, dont une partie avec notre fille qui est venue nous rejoindre pour quelques jours.
