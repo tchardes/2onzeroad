@@ -13,6 +13,8 @@ tags: [histoire, architecture, culturel, unesco, mer-ocean]
 pois:
   [
     tikal#27-novembre,
+    peten#27-novembre,
+    remate#27-novembre,
     flores#28-novembre,
     dulce#29-novembre,
     castillo#30-novembre,
@@ -29,7 +31,7 @@ pois:
     solola#08-décembre,
     chichicastenango#08-décembre,
     quetzaltenango#09-décembre,
-    sanjoséramablanca#10-décembre,
+    sanjoseramablanca#10-décembre,
     antigua#12-décembre,
     pacaya#13-décembre,
     s#06-décembre,
@@ -74,7 +76,7 @@ La cité concurrente de Caracol est vraiment exceptionnelle, elle s’étend sur
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49135012247/in/datetaken/" title="Tikal - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49135012247_df08f506d7_h.jpg" width="1600" height="900" alt="Tikal - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Après déjeuner, on redescend au bord du lac **Perén Itza** à El Remate où l’on trouve un hôtel qui accueille les RV, l’environnement est très beau.
+Après déjeuner, on redescend au bord du lac **Perén Itza** à **El Remate** où l’on trouve un hôtel qui accueille les RV, l’environnement est très beau.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49135001557/in/datetaken/" title="El Remate - Peten - [Guatemala]"><img src="https://live.staticflickr.com/65535/49135001557_a49bbb5f22_h.jpg" width="1600" height="900" alt="El Remate - Peten - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
