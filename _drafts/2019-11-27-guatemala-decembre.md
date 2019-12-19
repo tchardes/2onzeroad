@@ -366,7 +366,7 @@ Nuit infernale, en raison de la célébration d’une fête religieuse, les habi
 
 Christophe et Jean-Pierre nous ont indiqué avoir trouvé une assurance à Flores qui couvre toute l’Amérique Centrale sauf le Panama. Comme nous sommes dans la capitale, nous prenons un Uber pour nous rendre au siège social où on a vécu un vrai sketch. Personne ne savait comment faire pour nous assurer et surtout sous quelle forme. J'ai fini par leur montrer la police d’assurance de Christophe et Jean-Pierre et ils ont découverts qu’ils proposaient bien une assurance pour les touristes... On m’a apporté un ordinateur portable et c’est moi qui est renseigné tout le formulaire d’inscription et effectué le paiement… Comme quoi dans les "états-majors"… Bref nous sommes assurés pour deux mois, le temps d’arriver au Panama. Du coup il est presque 17 heures quand nous décidons de rentrer au bivouac.
 
-Corinne va faire deux courses dans une petite épicerie proche de nous. Ici la plupart des commerces, épiceries, pharmacies… sont fermées par des grilles et on vous sert au travers d’une petite trappe. Pour les autres magasins un peu plus importants, il y a des vigiles souvent équipés de Riot Gun postés devant. Pourtant, même si l’on sait que les capitales en général peuvent être dangereuses, on ne ressent rien de cela ici.
+Corinne va faire deux courses dans une petite épicerie proche de nous. Ici la plupart des commerces, épiceries, pharmacies… sont fermées par des grilles et on vous sert au travers d’une petite trappe. Pour les autres magasins un peu plus importants, il y a des vigiles souvent équipés de riot gun, postés devant. Pourtant, même si l’on sait que les capitales en général peuvent être dangereuses, on ne ressent rien de cela ici.
 
 ## 17 au décembre
 
