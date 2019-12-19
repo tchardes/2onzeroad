@@ -18,6 +18,7 @@ pois:
     flores#28-novembre,
     dulce#29-novembre,
     castillo#30-novembre,
+    isabel#30-novembre,
     livingston#01-décembre,
     zacapa#02-décembre,
     guatecity#02-décembre,
@@ -27,7 +28,7 @@ pois:
     santantoniopalopo#06-décembre,
     sanjuanlalaguna#07-décembre,
     sanpedrolalaguna#07-décembre,
-    santiagiatitlan#07-décembre,
+    santiagoatitlan#07-décembre,
     solola#08-décembre,
     chichicastenango#08-décembre,
     quetzaltenango#09-décembre,
@@ -106,7 +107,7 @@ Ce matin le temps est gris et nous essuyons quelques averses. Nous partons en fi
 
 ## 30 novembre
 
-La soirée a été… musicale. Il y a plusieurs bars non loin de nous et toute la soirée a été bercée au son de la musique latine. On dirait une musique intemporelle, elle pourrait avoir 100 ans ou être sortie hier, on n’en sait rien, pas une seule musique anglo-saxonne ou du reste du monde… Ce matin on se la coule douce, il y a beaucoup de monde qui arrivent, ils viennent passer la journée dans le parc du **Castillo de San Felipe de Lara** qui est très bien arrangé et où les gens peuvent se baigner dans l’immense lac de Izabel, faire du jet-ski ou prendre une lancha (bateau taxi) pour se balader autour du lac voire rejoindre la mer en direction de Livingston ce que nous ferons demain.
+La soirée a été… musicale. Il y a plusieurs bars non loin de nous et toute la soirée a été bercée au son de la musique latine. On dirait une musique intemporelle, elle pourrait avoir 100 ans ou être sortie hier, on n’en sait rien, pas une seule musique anglo-saxonne ou du reste du monde… Ce matin on se la coule douce, il y a beaucoup de monde qui arrivent, ils viennent passer la journée dans le parc du **Castillo de San Felipe de Lara** qui est très bien arrangé et où les gens peuvent se baigner dans l’immense **lac de Izabel**, faire du jet-ski ou prendre une lancha (bateau taxi) pour se balader autour du lac voire rejoindre la mer en direction de Livingston ce que nous ferons demain.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49160894323/in/datetaken/" title="San Felipe de Lara - [Guatemala]"><img src="https://live.staticflickr.com/65535/49160894323_0840e0d518_h.jpg" width="1600" height="900" alt="San Felipe de Lara - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -176,7 +177,7 @@ Une fois sur la place nous visitons le Palacio Nacional et de la Culture. Normal
 
 ## 05 décembre
 
-Ce matin nous quittons la capitale mais avant nous passons dans un garage Ford où je prends rendez-vous pour dans 11 jours lorsque nous ramènerons Cyrielle à l’aéroport. La première partie de la route est vraiment très belle et roulante jusqu’à l’embranchement à Patzicia où nous prenons la route pour le **lac Atitlan**. Si le revêtement reste beau sauf les endroits où il y a eu des éboulements, la route est étroite et sinueuse. Nous avons même été contraint de passer une rivière à guet, le pont ayant disparu. Mais bon, nous croisons des bus, des camions dans l’autre sens, c’est que l’on peut passer. La traversée de Patzun a été vraiment rock’n roll, la route principale n’ayant qu’un seul sens de circulation, nous avons du passer par des routes parallèles très étroites. Cyrielle, mon copilote du jour m’a bien fait manœuvrer. Notre premier point de vue sur le lac Atitlan est extraordinaire, et miracle on peut même s’arrêter sur le bas-côté au niveau d'un "Mirador". Au loin, se dressent les silhouettes des trois volcans qui ceinturent le lac : Atitlan 3535 mètres, Tiliman 3158 mètres et San Pedro 3020 mètres.
+Ce matin nous quittons la capitale mais avant nous passons dans un garage Ford où je prends rendez-vous pour dans 11 jours lorsque nous ramènerons Cyrielle à l’aéroport. La première partie de la route est vraiment très belle et roulante jusqu’à l’embranchement à Patzicia où nous prenons la route pour le **lac Atitlan**. Si le revêtement reste beau sauf les endroits où il y a eu des éboulements, la route est étroite et sinueuse. Nous avons même été contraint de passer une rivière à guet, le pont ayant disparu. Mais bon, nous croisons des bus, des camions dans l’autre sens, c’est que l’on peut passer. La traversée de Patzun a été vraiment rock’n roll, la route principale n’ayant qu’un seul sens de circulation, nous avons du passer par des routes parallèles très étroites. Cyrielle, mon copilote du jour m’a bien fait manœuvrer. Notre premier point de vue sur le lac Atitlan est extraordinaire, et miracle on peut même s’arrêter sur le bas-côté au niveau d'un "Mirador". Au loin, se dressent les silhouettes des trois volcans qui ceinturent le lac : **Atitlan** 3535 mètres, **Tiliman** 3158 mètres et **San Pedro** 3020 mètres.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49180444111/in/datetaken/" title="Lac Atitlan - [Guatemala]"><img src="https://live.staticflickr.com/65535/49180444111_afea2d18b9_h.jpg" width="1600" height="900" alt="Lac Atitlan - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -300,7 +301,7 @@ Ce matin nous sommes allés dans le village pour remplir notre bidon d’eau pot
 
 ## 12 décembre
 
-Ce matin on quitte Greg et la côte pacifique pour reprendre un peu de hauteur au centre du pays. En route nous passons par la routes des 3 volcans (El Fuego 3763 mètres, De Agua 3760 mètres et Acatenango 3976 mètres). El Fuego toussote de temps en temps laissant échapper de belles volutes de fumée.
+Ce matin on quitte Greg et la côte pacifique pour reprendre un peu de hauteur au centre du pays. En route nous passons par la routes des 3 volcans (**El Fuego** 3763 mètres, **De Agua** 3760 mètres et **Acatenango** 3976 mètres). El Fuego toussote de temps en temps laissant échapper de belles volutes de fumée.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49230637731/in/datetaken/" title="El Rodeo - [Guatemala]"><img src="https://live.staticflickr.com/65535/49230637731_b66c6e2a50_h.jpg" width="1600" height="900" alt="El Rodeo - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
