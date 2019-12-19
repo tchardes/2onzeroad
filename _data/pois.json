@@ -429,6 +429,18 @@
   { "name": "sanjoseramablanca", "displayName": "San José Rama Blanca", "type": "nature", "country": "Guatemala" },
   { "name": "antigua", "displayName": "Antigua", "type": "ville", "country": "Guatemala" },
   { "name": "pacaya", "displayName": "Volcan Pacaya", "type": "nature", "country": "Guatemala" },
+  { "name": "elfuego", "displayName": "Volcan El Fuego", "type": "nature", "country": "Guatemala" },
+  { "name": "acatenango", "displayName": "Volcan Acatenango", "type": "nature", "country": "Guatemala" },
+
+  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
+  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
+  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
+  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
+  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
+  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
+  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
+  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
+  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
   { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
   { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
 
