@@ -412,7 +412,7 @@
   { "name": "flores", "displayName": "Flores", "type": "ville", "country": "Guatemala" },
   { "name": "dulce", "displayName": "Rio Dulce", "type": "nature", "country": "Guatemala" },
   { "name": "castillo", "displayName": "Castillo de San Felipe de Lara", "type": "autre", "country": "Guatemala" },
-  { "name": "isabel", "displayName": "lac de Izabel", "type": "nature", "country": "Guatemala" },
+  { "name": "izabal", "displayName": "Lac de Izabel", "type": "nature", "country": "Guatemala" },
   { "name": "livingston", "displayName": "Livingston", "type": "ville", "country": "Guatemala" },
   { "name": "zacapa", "displayName": "Zacapa", "type": "ville", "country": "Guatemala" },
   { "name": "guatecity", "displayName": "Guatemala City", "type": "ville", "country": "Guatemala" },

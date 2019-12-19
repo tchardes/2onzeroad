@@ -18,7 +18,7 @@ pois:
     flores#28-novembre,
     dulce#29-novembre,
     castillo#30-novembre,
-    isabel#30-novembre,
+    izabal#30-novembre,
     livingston#01-décembre,
     zacapa#02-décembre,
     guatecity#02-décembre,
