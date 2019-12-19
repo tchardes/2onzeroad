@@ -18,7 +18,7 @@ category: "blog"
 location: "17.057896, -89.150195"
 ---
 
-Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière du Belize avec le Guatemala, en camping-car, depuis Benque Viejo del Carmen.
+Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière du Belize avec le Guatemala, en véhicule, depuis Benque Viejo del Carmen.
 
 <img src="{{baseurl}}/assets/owner/photos/Belize-Gua1.jpg" style="width:100%" />
 
