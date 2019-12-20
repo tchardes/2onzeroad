@@ -37,9 +37,6 @@ pois:
     elfuego#12-décembre,
     acatenango#12-décembre,
     pacaya#13-décembre,
-    s#06-décembre,
-    s#06-décembre,
-    s#06-décembre,
   ]
 country: Guatemala
 states: [""]
@@ -54,7 +51,7 @@ Cet article couvre la période du 26 novembre au décembre 2019, au cours de laq
 
 ## 26 novembre
 
-Après la visite de notre dernier site Maya du Belize, Xunantunch, nous empruntons une nouvelle fois le bac pour rejoindre Thor. Nous mangeons sur place au bord du fleuve Mopan pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisées en 1 heure.
+Après la visite de notre dernier site Maya du Belize, Xunantunch, nous empruntons une nouvelle fois le bac pour rejoindre Thor. Nous mangeons sur place au bord du fleuve Mopan pour consommer nos produits frais, pas tous, puis on part vers la frontière du Guatemala qui se trouve à 4 Km. Toutes les formalités sont réalisées en 1 heure. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-11-26-guatemala-frontiere %}">ici</a>)**
 
 Au comptoir, les agents des douanes qui s’occupent de l’importation des véhicules ont devant eux un gros plat rempli de pop-corn, je leur demande quel est le film qui va être projeté, ça les fait bien rire et du coup ils nous en proposent.
 
@@ -425,7 +422,7 @@ Nous quittons le camping de bonne heure après avoir fait les pleins et les vide
 
 Nous avons passé au total 25 jours au Guatemala et avons parcouru près de 1490 Km.
 
-Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Salvador. **(voir la procédure complete <a href="{{site.baseurl}}{% post_url 2020/2019-11-26-guatemala-frontiere %}">ici</a>)**
+Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Salvador. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-11-26-guatemala-frontiere %}">ici</a>)**
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
