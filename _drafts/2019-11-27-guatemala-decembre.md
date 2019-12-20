@@ -409,19 +409,19 @@ Nous quittons le camping de bonne heure après avoir fait les pleins et les vide
 
 **Nous avons vraiment adoré :**
 
-- Le site de Tikal
-- La région de Flores
-- Le Lac Atitlan et ses alentours
-- Chichicastenango, son marché, ses festivités
-- Notre escapade au bord du pacifique avec la rencontre de Greg
-- La ville d'Antigua avec son histoire, son architecture et ses volcans.
-- Les rencontres et partages avec les autres voyageures qui sont toujours très enrichissants.
+- Le site de Tikal ;
+- La région de Flores ;
+- Le Lac Atitlan, ses volcans et petits villages ;
+- Chichicastenango, son marché, ses festivités ;
+- Notre escapade au bord du pacifique avec la rencontre de Greg ;
+- La ville d'Antigua avec son histoire, son architecture et ses volcans ;
+- Les rencontres et partages avec les autres voyageurs qui sont toujours très enrichissants.
 
 **Nous avons moins aimé :**
 
-- Certaines routes pour leurs mauvais états,l'absence de route
-- La capitale qui ne présente que peu d'intérêts, la circulation y est vraiment compliquée, surtout pour nous
-- Les conducteurs de camions, bus, taxis qui prennent beaucoups de risuqes et conduisent trop vite avec des engins en très mauvais état. Les conducteur, en général, ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complétement la circulation.
+- Certaines routes pour leurs mauvais états, voir l'absence de route... ;
+- La capitale qui ne présente que peu d'intérêts, la circulation y est vraiment compliquée, surtout pour nous ;
+- Les conducteurs de camions, bus, taxis qui prennent beaucoup de risques et conduisent trop vite avec des engins en très mauvais état. Les conducteurs, en général, qui ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complétement la circulation.
 
 Nous y avons passé au total 25 jours et avons parcouru près de 1490 Km. Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Salvador.
 
