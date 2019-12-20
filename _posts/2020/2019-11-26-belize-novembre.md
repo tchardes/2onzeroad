@@ -293,7 +293,7 @@ On se gare sur le côté et on prend le bac, en piéton. Une fois sur l’autre 
 
 De retour à Thor, on mange sur place pour consommer nos produits frais, pas tous, puis on part vers la frontière avec le Guatemala qui se trouve à 4 Km. Le Belize aura été un vrai coup de coeur, nous n'avions aucune idée de ce que nous allions trouver dans ce tout petit pays anglophone qui fait beaucoup d'effort pour se démarquer de ses grands voisins hispaniques, le pays est propre, les gens sont vraiment très sympathiques et nous y avons fait de très belles rencontres. Après 10 jours passés à le parcourir sur 559 km, il est temps de passer chez le voisin.
 
-Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Guatemala.
+Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Guatemala. **(voir la procédure complete <a href="{{site.baseurl}}{% post_url 2020/2019-11-26-guatemala-frontiere %}">ici</a>)**
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 

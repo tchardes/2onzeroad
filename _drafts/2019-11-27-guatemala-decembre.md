@@ -425,7 +425,7 @@ Nous quittons le camping de bonne heure après avoir fait les pleins et les vide
 
 Nous avons passé au total 25 jours au Guatemala et avons parcouru près de 1490 Km.
 
-Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Salvador.
+Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Salvador. **(voir la procédure complete <a href="{{site.baseurl}}{% post_url 2020/2019-11-26-guatemala-frontiere %}">ici</a>)**
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
