@@ -2,7 +2,7 @@
 layout: blog
 title: "Passage frontière Mexique - Belize"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
-parent-id: 2019-11-29-belize-novembre
+parent-id: 2019-11-26-belize-novembre
 
 date: 2019-11-15 17:00:00
 author: "Thierry"
