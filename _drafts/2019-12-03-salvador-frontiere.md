@@ -2,9 +2,9 @@
 layout: blog
 title: "Passage frontière Guatemala _ El salvador"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
-parent-id: 2019-12-25-salvador-decembre
+parent-id: 2020-01-10-salvador-janvier
 
-date: 2019-12-18 15:00:00
+date: 2019-12-21 15:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-belize-guate.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-guate-salva.jpg
@@ -97,9 +97,6 @@ Côté Guatemala :
 - Une photocopie du permis de conduite national.
 
 Il faut bien faire en sorte de garder juste la somme nécessaire en dollars béliziens pour la taxe touristique et le change et de faire ces photocopies avant car on ne peut pas les faire à la frontière. Toutes ces démarches nous ont pris environ une heure, surtout en raison de la banque. Une fois terminées, le voyage en terre guatémaltèque a pu commencer...
-
-
-
 
 Nous avons passé la frontière à Frontera Valle Nuevo (Jutiapa , Guatemala) pour arriver à Ahuachapan (Ahuachapan, El Salvador).
 
