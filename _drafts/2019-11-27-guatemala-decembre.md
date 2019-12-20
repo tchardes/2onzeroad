@@ -405,9 +405,25 @@ Journée du 20 très calme au camping...
 
 ## 21 décembre
 
-Nous quittons le camping de bonne heure après avoir fait les pleins et les vides, direction El Salvador. Une fois de plus, nous avons adoré traverser ce nouveau pays qui nous a vraiment plu. Bien sûr, la cerise sur le gâteau a été la visite de notre fille qui a partagé notre sytle de vie durant une dizaine de jours. Les guatémaltèques sont vraiment très sympathiques et ouverts. Le contact est hyper facile, ils ont l'air toujours enjoués alors que leur vie n'est pas forcement toujours très simple. Nous avons vraiment adoré le site de Tikal et la région de Flores, les alentours du Lac Atitlan, les festivités de Chichicastenango, notre escapade au bord du pacifique avec la rencontre de Greg et surtout la ville d'Antigua avec son histoire, son architecture et ses volcans. N'oublions pas les partages avec les autres voyageures qui sont toujours très enrichissants. Nous avons moins aimé l'état, voir parfois l'absence, de certaines routes et la capitale. Nous y avons passé au total 25 jours et avons parcouru près de 1490 Km.
+Nous quittons le camping de bonne heure après avoir fait les pleins et les vides, direction El Salvador. Une fois de plus, nous avons adoré traverser ce nouveau pays qui nous a vraiment plu. Bien sûr, la cerise sur le gâteau a été la visite de notre fille qui a partagé notre sytle de vie durant une dizaine de jours. Les guatémaltèques sont vraiment très sympathiques et ouverts. Le contact est hyper facile, ils ont l'air toujours enjoués alors que leur vie n'est pas forcement toujours très simple.
 
-Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Salvador.
+**Nous avons vraiment adoré :**
+
+- Le site de Tikal
+- La région de Flores
+- Le Lac Atitlan et ses alentours
+- Chichicastenango, son marché, ses festivités
+- Notre escapade au bord du pacifique avec la rencontre de Greg
+- La ville d'Antigua avec son histoire, son architecture et ses volcans.
+- Les rencontres et partages avec les autres voyageures qui sont toujours très enrichissants.
+
+**Nous avons moins aimé :**
+
+- Certaines routes pour leurs mauvais états,l'absence de route
+- La capitale qui ne présente que peu d'intérêts, la circulation y est vraiment compliquée, surtout pour nous
+- Les conducteurs de camions, bus, taxis qui prennent beaucoups de risuqes et conduisent trop vite avec des engins en très mauvais état. Les conducteur, en général, ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complétement la circulation.
+
+Nous y avons passé au total 25 jours et avons parcouru près de 1490 Km. Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Salvador.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
