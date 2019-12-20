@@ -45,7 +45,7 @@ Cet article couvre la période du 15 au 26 novembre 2019, au cours de laquelle n
 
 ## 15 novembre
 
-Ce matin, nous passons la frontière pour rentrer au Belize, notre premier pays d'Amérique Centrale, le plus petit avec le Salvador, il compte à peine 375000 habitants. Sa devise est "Sub umbra floreo", je fleuris à l'ombre. Toute la procédure administrative est détaillée : **(voir l’article complet <a href="{{site.baseurl}}{% post_url 2020/2019-11-15-belize-frontiere %}">ici</a>)**. Au final, on se fait un monde de ces passages de frontière mais il n’y a rien de bien compliqué, toutes ces démarches nous ont pris environ deux heures. Il est déjà un peu tard et nous décidons de manger sur place.
+Ce matin, nous passons la frontière pour rentrer au Belize, notre premier pays d'Amérique Centrale, le plus petit avec le Salvador, il compte à peine 375000 habitants. Sa devise est "Sub umbra floreo", je fleuris à l'ombre. Toute la procédure administrative est détaillée : **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-11-15-belize-frontiere %}">ici</a>)**. Au final, on se fait un monde de ces passages de frontière mais il n’y a rien de bien compliqué, toutes ces démarches nous ont pris environ deux heures. Il est déjà un peu tard et nous décidons de manger sur place.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49091414018/in/datetaken/" title="Chetumal - [Mexique]"><img src="https://live.staticflickr.com/65535/49091414018_61de4f7aae_4k.jpg" width="4032" height="2268" alt="Chetumal - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -293,7 +293,7 @@ On se gare sur le côté et on prend le bac, en piéton. Une fois sur l’autre 
 
 De retour à Thor, on mange sur place pour consommer nos produits frais, pas tous, puis on part vers la frontière avec le Guatemala qui se trouve à 4 Km. Le Belize aura été un vrai coup de coeur, nous n'avions aucune idée de ce que nous allions trouver dans ce tout petit pays anglophone qui fait beaucoup d'effort pour se démarquer de ses grands voisins hispaniques, le pays est propre, les gens sont vraiment très sympathiques et nous y avons fait de très belles rencontres. Après 10 jours passés à le parcourir sur 559 km, il est temps de passer chez le voisin.
 
-Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Guatemala. **(voir la procédure complete <a href="{{site.baseurl}}{% post_url 2020/2019-11-26-guatemala-frontiere %}">ici</a>)**
+Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Guatemala. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-11-26-guatemala-frontiere %}">ici</a>)**
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
