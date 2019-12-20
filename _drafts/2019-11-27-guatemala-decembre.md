@@ -372,6 +372,8 @@ Christophe et Jean-Pierre nous ont indiqué avoir trouvé une assurance à Flore
 
 Corinne va faire deux courses dans une petite épicerie proche de nous. Ici la plupart des commerces, épiceries, pharmacies… sont fermées par des grilles et on vous sert au travers d’une petite trappe. Pour les autres magasins un peu plus importants, il y a des vigiles souvent équipés de riot gun, postés devant. Pourtant, même si l’on sait que les capitales en général peuvent être dangereuses, on ne ressent rien de cela ici.
 
-## 17 au décembre
+## 17 au 20 au décembre
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_UMHiW9McL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
