@@ -401,6 +401,14 @@ Le soir, Christophe et Jean-Pierre nous prépare un super repas que nous partage
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49246366792/in/datetaken/" title="Antigua - [Guatemala]"><img src="https://live.staticflickr.com/65535/49246366792_7dd1616940_h.jpg" width="1600" height="900" alt="Antigua - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Journée du 20 très calme au camping...
+
+## 21 décembre
+
+Nous quittons le camping de bonne heure après avoir fait les pleins et les vides, direction El Salvador. Une fois de plus nous avons adoré tranverser ce nouveau pays qui nous a vraiment plu. Bien sur la cerise sur le gâteau a été la visite de notre fille qui a partagé notre sytle de vie durant une dizaine de jours. Les guatémaltèques sont vraiment très sympathiques et ouverts. Le contact est hyper facile, ils ont l'air toujours enjoués alors que leur vie n'est pas forcement toujours très facile. Nous avons vraiment adoré le site de Tikal et la région de Flores, les alentours du Lac Atitlan, notre escapade au bord du pacifique et surtout la ville d'Antigua avec son histoire, son architecture et ces volcans. Nous avons moins aimé l'état, voir parfois l'absence, de certaines routes et la capitale. Nous y avons passé au total 25 jours et avons parcouru près de 1490 Km.
+
+Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Salvador.
+
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_UMHiW9McL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
