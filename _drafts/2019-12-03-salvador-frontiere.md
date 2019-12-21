@@ -79,17 +79,13 @@ Me voilà parti, côté guatémaltèque, à la Banco de Desarrolo Rural, au guic
 
 - **Assurance Thor** : je demande à plusieurs personnes au niveau de l'immigration et des douanes, et j'ai obtenu toujours la même réponse, l'assurance n'est pas obligatoire au Guatemala, d'accord mais ça existe ? voyez peut-être auprès des banques... Bon, on va être prudent.
 
-### Récapitulatif des frais et documents à fournir :
-
-Côté Belize :
-
-- 40 Dollars béliziens par personne pour la taxe touristique.
+### Récapitulatif des documents à fournir :
 
 Côté Guatemala :
 
-- 40 Quetzals pour la désinfection ;
-- 160 Quetzals pour l'importation temporaire du véhicule ;
-- 30 Quetzals de taxe municipale pour passer le pont ;
+- 
+
+Côté El Savaldor :
 
 - Une photocopie du passeport du conducteur ;
 - Une photocopie de la carte grise du véhicule ;
@@ -97,6 +93,13 @@ Côté Guatemala :
 - Une photocopie du permis de conduite national.
 
 Il faut bien faire en sorte de garder juste la somme nécessaire en dollars béliziens pour la taxe touristique et le change et de faire ces photocopies avant car on ne peut pas les faire à la frontière. Toutes ces démarches nous ont pris environ une heure, surtout en raison de la banque. Une fois terminées, le voyage en terre guatémaltèque a pu commencer...
+
+
+
+
+
+
+
 
 Nous avons passé la frontière à Frontera Valle Nuevo (Jutiapa , Guatemala) pour arriver à Ahuachapan (Ahuachapan, El Salvador).
 
