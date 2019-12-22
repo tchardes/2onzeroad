@@ -271,7 +271,7 @@
   { "name": "venice-beach", "displayName": "Venice Beach", "type": "autre", "country": "USA" },
   { "name": "santa-monica", "displayName": "Santa Monica", "type": "autre", "country": "USA" },
   { "name": "los-angeles", "displayName": "Los Angeles", "type": "ville", "country": "USA" },
-  { "name": "tecate", "displayName": "Passage frontière Mexique à Tecate", "type": "autre", "country": "Mexique" },
+  { "name": "tecate", "displayName": "Passage frontière USA - Mexique à Tecate", "type": "autre", "country": "Mexique" },
   { "name": "ensenada", "displayName": "Ensenada", "type": "ville", "country": "Mexique" },
   { "name": "bufadora", "displayName": "La Bufadora", "type": "nature", "country": "Mexique" },
   { "name": "bahia-angeles", "displayName": "Bahia De Los Angeles", "type": "nature", "country": "Mexique" },
@@ -406,6 +406,7 @@
   { "name": "atmcave", "displayName": "Actun Tunichil Muknal (ATM) Caves", "type": "autre", "country": "Belize" },
   { "name": "xunantunch", "displayName": "Xunantunch - Site Archéologique", "type": "autre", "country": "Belize" },
 
+  { "name": "passagebtog", "displayName": "Passage frontière Belize - Guatemala", "type": "autre", "country": "Guatemala" },
   { "name": "tikal", "displayName": "Tikal - Site Archéologique", "type": "autre", "country": "Guatemala" },
   { "name": "peten", "displayName": "Lac Peten Itza", "type": "nature", "country": "Guatemala" },
   { "name": "remate", "displayName": "El Remate", "type": "ville", "country": "Guatemala" },
