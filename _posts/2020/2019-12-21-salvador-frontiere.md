@@ -7,7 +7,7 @@ parent-id: 2020-01-10-salvador-janvier
 date: 2019-12-21 15:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-belize-guate.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-guate-salva.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-guate-salvador.jpg
 tags: []
 pois: [passagegtos]
 flickr-text: ""
