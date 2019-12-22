@@ -72,20 +72,18 @@ C'est terminé et au final assez rapide et surtout gratuit. On repart en directi
 
 Côté Guatemala :
 
-- Le passeport du conducteur
-
-* Une photocopie du passeport du conducteur des tampons d'entrée et de sortie du Guatemala (réalisé par l'agent des douanes)
-* Une photocopie du passeport du conducteur ;
-* Une photocopie du permis d'importation du véhicule
-* Une photocopie de la carte grise du véhicule ;
-* Une photocopie du permis international et du permis de conduite
+- Une photocopie du passeport du conducteur avec les tampons d'entrée et de sortie du Guatemala (réalisé par l'agent des douanes)
+- Une photocopie du passeport du conducteur ;
+- Une photocopie du permis d'importation du véhicule
+- Une photocopie de la carte grise du véhicule ;
+- Une photocopie du permis international et du permis de conduite
 
 Côté El Savaldor :
 
-- Le passeport du conducteur
 - Le document original d'importation du véhicule du Guatémala
 - Une photocopie du passeport du conducteur
 - Une photocopie de la carte grise du véhicule
 - Une photocopie du permis international et du permis de conduite
+- Le petit papier blanc donné par les douaniers guatémaltèques pour chaque personne
 
-Toutes ces démarches prennent environ une heures, pas de frais, tout est gratuit, pas de fumigation-désinfection, pas de contrôle sanitaire. Une fois terminées, le voyage en terre salvadorienne peut commencer...
+Toutes ces démarches prennent environ une heure, pas de frais, tout est gratuit, pas de fumigation-désinfection, pas de contrôle sanitaire. Une fois terminées, le voyage en terre salvadorienne peut commencer...
