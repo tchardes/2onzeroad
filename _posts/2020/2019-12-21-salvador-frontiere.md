@@ -38,7 +38,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 - **Parking** - **_Repère 1_** : Juste à droite en arrivant au poste frontière. S'il vous reste des Quetzals des agents de changes sont là pour vous les changer en dollar US avec des taux... non préférentiels.
 
-- **Immigration** - **_Repère 2_** : après nous être garés, nous allons en direction du seul bâtiment qui se trouve sur la gauche, tout en longueur. On entre dans le bureau "Valle Nuevo Bienvenidos/Welcome" où se trouve plusieurs guichets. Tous les voyageurs doivent s'y présenter avec leur passeport. Un douanier contrôle et appose un tampon de sortie du Guatemala et vous remet un petit papier qu'il faut garder pour la suite. Les passagers peuvent ensuite retourner au camping-car.
+- **Immigration** - **_Repère 2_** : après nous être garés, nous allons en direction du seul bâtiment qui se trouve sur la gauche, tout en longueur. On entre dans le bureau "Valle Nuevo Bienvenidos/Welcome" où se trouve plusieurs guichets. Tous les voyageurs doivent s'y présenter avec leur passeport. Un douanier contrôle et appose un tampon de sortie du Guatemala et vous remet un petit papier blanc qu'il faut garder pour la suite. Les passagers peuvent ensuite retourner au camping-car.
 
 <img src="{{baseurl}}/assets/owner/photos/salvador5.jpg" style="width:100%" />
 
@@ -76,14 +76,14 @@ Côté Guatemala :
 - Une photocopie du passeport du conducteur ;
 - Une photocopie du permis d'importation du véhicule
 - Une photocopie de la carte grise du véhicule ;
-- Une photocopie du permis international et du permis de conduite
+- Une photocopie du permis international et du permis de conduite.
 
 Côté El Salvador :
 
-- Le document original d'importation du véhicule du Guatemala
-- Une photocopie du passeport du conducteur
-- Une photocopie de la carte grise du véhicule
-- Une photocopie du permis international et du permis de conduite
-- Le petit papier blanc donné par les douaniers guatémaltèques pour chaque personne
+- Le document original d'importation du véhicule du Guatemala ;
+- Une photocopie du passeport du conducteur ;
+- Une photocopie de la carte grise du véhicule ;
+- Une photocopie du permis international et du permis de conduite ;
+- Le petit papier blanc donné par les douaniers guatémaltèques pour chaque personne.
 
 Toutes ces démarches prennent environ une heure, pas de frais, tout est gratuit, pas de fumigation-désinfection, pas de contrôle sanitaire. Une fois terminées, le voyage en terre salvadorienne peut commencer...
