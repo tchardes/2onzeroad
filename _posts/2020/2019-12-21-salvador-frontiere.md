@@ -78,9 +78,9 @@ Côté Guatemala :
 - Une photocopie de la carte grise du véhicule ;
 - Une photocopie du permis international et du permis de conduite
 
-Côté El Savaldor :
+Côté El Salvador :
 
-- Le document original d'importation du véhicule du Guatémala
+- Le document original d'importation du véhicule du Guatemala
 - Une photocopie du passeport du conducteur
 - Une photocopie de la carte grise du véhicule
 - Une photocopie du permis international et du permis de conduite
