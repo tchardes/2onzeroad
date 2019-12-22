@@ -72,7 +72,7 @@ C'est terminé et au final assez rapide et surtout gratuit. On repart en directi
 
 Côté Guatemala :
 
-- Une photocopie du passeport du conducteur avec les tampons d'entrée et de sortie du Guatemala (réalisé par l'agent des douanes)
+- Une photocopie du passeport du conducteur avec les tampons d'entrée et de sortie du Guatemala (réalisée par l'agent des douanes)
 - Une photocopie du passeport du conducteur ;
 - Une photocopie du permis d'importation du véhicule
 - Une photocopie de la carte grise du véhicule ;
