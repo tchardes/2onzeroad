@@ -15,7 +15,7 @@ country: El Salavador
 states: []
 city:
 category: "blog"
-location: "17.057896, -89.150195"
+location: "14.017657, -89.906852"
 ---
 
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Guatemala et El Salvador au niveau du poste frontière de Valle Nuevo en direction de Ahuachapan.
@@ -26,9 +26,9 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 - **Repère 2** - Poste frontière guatémaltèque (visa personnes) ;
 - **Repère 3** - Poste frontière guatémaltèque (fin importation véhicule) ;
 - **Repère 4** - Parking
-- **Repère 5** - Bureau visa personnes et importation du véhicule ;
-- **Repère 6** - Bureau importation finale du véhicule ;
-- **Repère 7** - Dernier contrôle document.
+- **Repère 5** - Poste frontière salvadorien (visa personnes et importation du véhicule) ;
+- **Repère 6** - Poste frontière salvadorien (importation finale du véhicule) ;
+- **Repère 7** - Poste frontière salvadorien, dernier contrôle document.
 
 ### Sortie du Guatemala
 
