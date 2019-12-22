@@ -9,7 +9,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-belize-guate.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-guate-salva.jpg
 tags: []
-pois: [passagebtog]
+pois: [passagegtos]
 flickr-text: ""
 country: El Salavador
 states: []

@@ -432,17 +432,17 @@
   { "name": "elfuego", "displayName": "Volcan El Fuego", "type": "nature", "country": "Guatemala" },
   { "name": "acatenango", "displayName": "Volcan Acatenango", "type": "nature", "country": "Guatemala" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" },
+  { "name": "passagegtos", "displayName": "Passage frontière Guatemala - El Salvador", "type": "autre", "country": "El Salvador" },
+  { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
+  { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
+  { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
+  { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
+  { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
+  { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
+  { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
+  { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
+  { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
+  { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Guatemala" }
+  { "name": "", "displayName": "", "type": "", "country": "El Salvador" }
 ]
