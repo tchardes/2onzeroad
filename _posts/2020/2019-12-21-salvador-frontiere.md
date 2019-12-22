@@ -66,7 +66,7 @@ C'est terminé et au final assez rapide et surtout gratuit. On repart en directi
 
 <img src="{{baseurl}}/assets/owner/photos/salvador9.jpg" style="width:100%" />
 
-- **Assurance Thor** : A Guatemala City nous avons contracté une assurance au tiers pour Thor auprès de Seguros G&T valable pour l'Amérique Centrale, sauf pour le Panama.
+- **Assurance Thor** : A Guatemala City nous avons contracté une assurance au tiers pour Thor auprès de Seguros G&T valable pour l'Amérique Centrale à l'exception du Panama.
 
 ### Récapitulatif des documents à fournir :
 
