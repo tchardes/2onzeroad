@@ -11,7 +11,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-guate-salva.jpg
 tags: []
 pois: [passagegtos]
 flickr-text: ""
-country: El Salavador
+country: El Salvador
 states: []
 city:
 category: "blog"
