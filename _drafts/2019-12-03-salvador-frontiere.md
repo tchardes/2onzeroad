@@ -18,64 +18,41 @@ category: "blog"
 location: "17.057896, -89.150195"
 ---
 
-Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière du Belize avec le Guatemala, en camping-car, depuis Benque Viejo del Carmen.
+Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Guatemala et El Salvador au niveau du poste frontière de Valle Nuevo en direction de Ahuachapan.
 
-<img src="{{baseurl}}/assets/owner/photos/Belize-Gua1.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/salvador1.jpg" style="width:100%" />
 
-- **Repère 1** - Poste frontière bélizien (visa personnes) ;
-- **Repère 2** - Poste frontière bélizien (fin importation véhicule) ;
-- **Repère 3** - Lieux où se trouvent les personnes qui font du change (dollar bélizien contre quetzal guatémaltèque) ;
-- **Repère 4** - Traitement de quarantaine - Désinfection par vaporisation ;
-- **Repère 5** - Paiement de la désinfection ;
-- **Repère 6** - Bâtiment visa personnes et importation du véhicule ;
-- **Repère 7** - Dernier contrôle, document, sanitaire... ;
-- **Repère 8** - Taxe municipale du pont.
+- **Repère 1** - Parking
+- **Repère 2** - Poste frontière guatémaltèque (visa personnes) ;
+- **Repère 3** - Poste frontière guatémaltèque (fin importation véhicule) ;
+- **Repère 4** - Parking
+- **Repère 5** - Bureau visa personnes et importation du véhicule ;
+- **Repère 6** - Bureau importation finale du véhicule ;
+- **Repère 7** - Dernier contrôle document.
 
-### Sortie du Guatelama
+### Sortie du Guatemala
 
-<img src="{{baseurl}}/assets/owner/photos/Belize-Guate 2.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/salvador2.jpg" style="width:100%" />
 
-- **Immigration** - **_Repère 1_** : après nous être garés, nous allons en direction du bâtiment vert qui comporte une entrée à droite pour les gens qui quittent le Belize (1), tandis que par celle gauche (2) sortent les gens qui arrivent du Guatemala. Nous rentrons à celle de droite et sommes surpris d'être les seuls. Nous passons au premier guichet où l'agent contrôle nos passeports et les visas d'entrée et nous fait payer la taxe touristique à savoir 40\$B par personne. Avec les reçus, nous passons au deuxième guichet qui contrôle le paiement de la taxe et tamponne nos passeports validant notre sortie du territoire.
+- **Parking** - **_Repère 1_** : Juste à droite en arrivant au poste frontière. S'il vous reste des Quetzals des agents de changes sont là pour vous les changer en dollar US avec des taux... non préférentiels.
 
-Pour le véhicule, l'agent m'indique une porte intérieure qui se trouve entre les deux guichets et qui permet d'accéder à l'autre aîle du bâtiment qui s'occupe de l'entrée au Belize.
+- **Immigration** - **_Repère 2_** : après nous être garés, nous allons en direction du seul bâtiment qui se trouve sur la gauche, tout en longueur. On entre dans le bureau "Valle Nuevo Bienvenidos/Welcome" où se trouve plusieurs guichets. Tous les voyageurs doivent s'y présenter avec leur passeport. Un douanier contrôle et appose un tampon de sortie du Guatemala et vous remet un petit papier qu'il faut garder pour la suite. Les passagers peuvent ensuite retourner au camping-car.
 
-- **Importation temporaire de Thor** - **_Repère 2_** : je me retrouve en fait dans le sens Guatemala - Belize car c'est là que se trouve, en plein milieu de la salle, le comptoir de la personne qui s'occupe des importations des véhicules au Belize, mais elle s'occupe également de l'annulation des importations. Je lui présente le document qui nous a été remis à notre entrée au Belize plus mon passeport et un tampon plus tard, c'est terminé. Au final, c'est assez rapide et gratuit.
+- **Fin d'importation temporaire de Thor** - **_Repère 3_** : le conducteur doit ensuite se rendre dans un autre bureau qui se trouve avant celui de l'immigration. Dans le même bureau, se trouve à gauche une banque et à droite les douanes. On doit attendre là une bonne demi-heure car le bureau n'ouvre qu'à 14h00... enfin plutôt 14H15. Je lui remet toutes les photocopies de documents et elle fait une photocopie de la page de mon passeport où figure les deux tampons du Guatemala, entrée et sortie. Une fois son travail terminée elle me rend le document original de l'importation du véhicule au Guatemala qu'elle a clôturé. Le garder pour la suite. Je demande pour le sticker collé sur mon pare-brise, elle m'indique de la garder...
 
-- **Change** - **_Repère 3_** : pour la suite des opérations, nous avons besoin de Quetzals pour payer la désinfection et l'importation de Thor côté Guatemala. De nombreux "agents de change" se trouvent là et vous changent tous les dollars béliziens qui vous restent, le taux n'est pas du tout avantageux mais il s'agit de petites sommes, à vous de faire en sorte de ne garder que le minimum nécessaire. Ne pas se laisser convaincre de changer beaucoup car il y a des distributeurs ATM dans la ville frontalière.
-
-Une fois ces démarches effectuées, nous remontons dans Thor et quittons le Belize pour entrer au Guatemala. Il y a très peu de distance entre les deux.
+C'est terminé et au final assez rapide et surtout gratuit. On repart en direction du El Salvador, il y a juste à traverser le pont qui passe sur le Rio Paz, la frontière naturelle entre les deux pays.
 
 ### Entrée au Salvador
 
-- **Traitement de quarantaine - Désinfection** - **_Repère 4 et 5_** : la route vous conduit tout naturellement sous un Hangar où Thor se fait asperger d’un produit sensé le désinfecter. A la sortie, il faut chercher une place pour se garer à droite ou à gauche, il n'y a pas trop d'emplacement.
+<img src="{{baseurl}}/assets/owner/photos/salvador33.jpg" style="width:100%" />
 
-C'est là qu'interviennent les Tramidores. Ce sont des jeunes ados qui, contre une pièce ou un billet, proposent leurs services pour vous faciliter les démarches et vous conduire où il faut. Si vous n'en voulez pas, il suffit de leur dire que l'on connaît parfaitement la procédure.
+- **Parking** - **_Repère 4_** : A la sortie du pont se trouve un agent qui nous demande de nous garer sur la droite, il ya beaucoup de place.
 
-Il faut ensuite se diriger sur la gauche pour s'acquitter de l'opération à savoir 40 Quetzals contre remise d'un "Constancia de Tratamiento Cuarentenario".
+- **Immigration** - **_Repère 5_** : De chaque côté de pont se trouve un tout petit bâtiment, dehors, sous une tente un agent est assis à un bureau et récupère tous les documents et photocopies. Il donne le tout à un autre agent qui s'occupe de l'importation temporaire de Thor. Il fait le tour de Thor, contrôle le N° de série et d'immatriculation et vérifie qu'à l'intérieur nous ne sommes que deux puis retourne à son bureau. Nous n'avons eu aucun tampon sur nos passeports.
 
-<img src="{{baseurl}}/assets/owner/photos/Belize-Guate 3.jpg" style="width:100%" />
+- **Importation temporaire de Thor** - **_Repère 6_** : Il ressort avec tous les documents et me demande de le suivre dans un grand bâtiment qui se trouve de l'autre côté de la rue. Il me demande de m'assoir et au bout de 10 mn, un agent m'appelle et me remet le titre d'importation de Thor. Je repars et en repassant devant l'agent assis sous la tente au niveau du repère 5, ce dernier me demande le document d'importation, le vérifie et y appose son tampon...
 
-- **Immigration** - **_Repère 6_** : Il faut se diriger ensuite sur le bâtiment qui se trouve à gauche. A l'intérieur et sur la gauche à nouveau, se trouve un long comptoir, se rendre d'abord du côté immigration, l'agent regarde nos passeports, les scanne puis nous les tamponne sans aucune question. Aucune date, en théorie 3 mois pour les 4 pays suivant : Guatemala, El Salvador, Honduras et Nicaragua.
-
-- **Importation temporaire de Thor** - **_Repère 6_** : On change de comptoir pour celui de la douane pour s'occuper de l'importation de Thor. Pour effectuer l'opération, l'agent nous demande :
-
-- Le passeport du conducteur
-- Une photocopie du passeport du conducteur
-- Une photocopie de la carte grise du véhicule
-- Une photocopie du permis international
-- Une photocopie du permis de conduite
-
-Une fois les documents contrôlés, il sort voir Thor et vérifie la marque du véhicule, le type, le N° d'immatriculation et le numéro de série. De retour dans le bâtiment, il entre tout cela en informatique et imprime plusieurs documents qu'il faut contrôler et signer. Un des documents est une facture pour l'opération à savoir 160 Quetzals. Je commence à sortir l'argent et il me dit non, il faut aller à la banque, en ville, à pied...
-
-<img src="{{baseurl}}/assets/owner/photos/Belize-Guate 4.jpg" style="width:100%" />
-
-Me voilà parti, côté guatémaltèque, à la Banco de Desarrolo Rural, au guichet N° 4, distante de 800 mètres environ juste après une station Texaco, sur la route de Flores. Au guichet, je demande à la préposée si tous les touristes viennent là pour payer la taxe, elle confirme. Peut-être que les agents n'ont plus le droit de percevoir eux-mêmes les sommes, ou alors ils ont voulus me faire marcher, en tout cas ce n'est pas très pratique. De retour, je donne le reçu "acquitté" et le douanier me remet un sticker à coller en bas à gauche du pare-brise côté conducteur.
-
-- **Contrôle de sortie et sanitaire** - **_Repère 7_** : nous remontons dans Thor et passons le dernier poste de contrôle... je marque le stop, il n'y a personne dans la guérite, on poursuit notre route avec pommes, oranges, tomates!!!
-
-<img src="{{baseurl}}/assets/owner/photos/Belize-Guate 5.jpg" style="width:100%" />
-
-- **Taxe du pont** - **_Repère 8_** : nous arrivons directement sur un pont qui enjambe le fleuve Mopan. Au bout, une petite guérite avec une barrière fermée. Une dame s'approche et nous demande 30 Quetzals de taxe municipale pour le passage du pont. Je lui demande si elle plaisante, apparemment pas...
+- **Dernier contrôle** - **_Repère 7_** : Je remonte dans Thor et nous passons un dernier contrôle où nous donnons les deux petits papiers qui nous ont été remis par les douaniers guatémaltèques, prouvant notre sortie du territoire. Contrôle des passeports, deux questions, on peut y aller. Il n'y a aucun contrôle sanitaire
 
 - **Assurance Thor** : je demande à plusieurs personnes au niveau de l'immigration et des douanes, et j'ai obtenu toujours la même réponse, l'assurance n'est pas obligatoire au Guatemala, d'accord mais ça existe ? voyez peut-être auprès des banques... Bon, on va être prudent.
 
@@ -83,42 +60,20 @@ Me voilà parti, côté guatémaltèque, à la Banco de Desarrolo Rural, au guic
 
 Côté Guatemala :
 
-- 
+- Le passeport du conducteur
+
+* Une photocopie du passeport du conducteur des tampons d'entrée et de sortie du Guatemala (réalisé par l'agent des douanes)
+* Une photocopie du passeport du conducteur ;
+* Une photocopie du permis d'importation du véhicule
+* Une photocopie de la carte grise du véhicule ;
+* Une photocopie du permis international et du permis de conduite
 
 Côté El Savaldor :
 
-- Une photocopie du passeport du conducteur ;
-- Une photocopie de la carte grise du véhicule ;
-- Une photocopie du permis international ;
-- Une photocopie du permis de conduite national.
+- Le passeport du conducteur
+- Le document original d'importation du véhicule du Guatémala
+- Une photocopie du passeport du conducteur
+- Une photocopie de la carte grise du véhicule
+- Une photocopie du permis international et du permis de conduite
 
-Il faut bien faire en sorte de garder juste la somme nécessaire en dollars béliziens pour la taxe touristique et le change et de faire ces photocopies avant car on ne peut pas les faire à la frontière. Toutes ces démarches nous ont pris environ une heure, surtout en raison de la banque. Une fois terminées, le voyage en terre guatémaltèque a pu commencer...
-
-
-
-
-
-
-
-
-Nous avons passé la frontière à Frontera Valle Nuevo (Jutiapa , Guatemala) pour arriver à Ahuachapan (Ahuachapan, El Salvador).
-
-Nous nous adressons à un premier guichet où on se fait tamponner nos passeports pour la sortie du Guatemala, on nous donne aussi un papier tamponné à donner à la douane du Salvador. On se dirige ensuite à un autre guichet pour faire annuler le permis d'importation temporaire du véhicule. Nous devons fournir (comme pour l'entrée au Guatemala) une photocopie du passeport de Pierre-Louis, une photocopie de son permis de conduire, une photocopie de son paseport tamponné pour la sortie de territoire et une photocopie de la carte grise de Phileas. L'annulation prend un peu de temps mais cela se fait sans problème. Juste avant de passer la frontière, nous changeons nos Quetzales pour des Dollars américains auprès d'un changeur qui prend une belle commission au passage.
-
-Nous nous dirigeons ensuite vers la douane Salvadorienne où on nous indique un endroit où se garer. Un douanier vient directement nous voir, nous demande les papiers nécessaires pour l'importation temporaire du véhicule. Il fait les photocopies nécessaires, nous rends les originaux et nous dit d'attendre pour la préparation des papiers. Nous attendons donc (avec deux filles survoltées) que le papier soit rempli, nous répondons à quelques questions sur Phileas puis le douanier (toujours le même) nous emmène dans un bureau pour faire les derniers papiers. Nous avons juste à attendre et le douanier nous donne le permis en double exemplaire. Nous donnons un exemplaire au douanier du début puis on doit ensuite se diriger vers la sortie où on tend le petit papier tamponné de la douane guatemaltèque et nos passeports. Le douanier regarde les passeports, nous les rends, garde notre papier du Guatemala et nous laisse entrer au Salvador. Le plus long à été d'attendre les papiers pour les permis d'importation du véhicule, que ce soit l'annulation côté guatemaltèque ou la création côté salvadorien.
-
-En résumé,
-
-Douane : Frontera Valle Nuevo (Guatemala) – Ahuachapan (El Salvador)
-
-Frais de sortie (du Guatemala) : 0 Quetzales par personne (sauf frais de photocopies)
-
-Frais d'entrée (au Salvador) pour les personnes : 0 USD
-
-Permis d'importation temporaire du véhicule : 0 USD
-
-Pas de fumigation
-
-Temps passé : 1h30
-
-Note informative : Côté Guatemala, plein de guides et de changeurs proposent leurs services et s'imposent alors qu'on a déjà dit non. Côté Salvador, seulement quelques changeurs mais pas de guides étant donné qu'un douanier officiel nous prends en charge dès le début. Les douaniers salvadoriens sont très aimables et aidant
+Toutes ces démarches prennent environ une heures, pas de frais, tout est gratuit, pas de fumigation-désinfection, pas de contrôle sanitaire. Une fois terminées, le voyage en terre salvadorienne peut commencer...
