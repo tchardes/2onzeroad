@@ -3,9 +3,9 @@ layout: blog
 title: "Guatemala"
 preview: "Cet article couvre la période du 26 au novembre 2019, au cours de laquelle nous avons visité le Guatemala, dont une partie avec notre…"
 parent-id:
-date: 2019-12-17 13:00:00
+date: 2019-12-21 13:00:00
 from-date: 2019-11-26 12:00:00
-to-date: 2019-12-17 13:00:00
+to-date: 2019-12-21 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt27.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt27.jpg
