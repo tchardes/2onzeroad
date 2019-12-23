@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "El Salvador"
-preview: "Cet article couvre la période du 21 décembre 2019 au , au cours de laquelle nous avons visité El Salvador…"
+preview: "Cet article couvre la période du 21 décembre 2019 au , au cours de laquelle nous avons traversé et visité El Salvador…"
 parent-id:
 date: 2019-12-22 13:00:00
 from-date: 2019-12-21 12:00:00
@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt28.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt28.jpg
 tags: [histoire, architecture, culturel, unesco, mer-ocean]
-pois: [tikal#27-novembre]
+pois: [Ahuachanpan#21-decembre]
 country: El Salvador
 states: [""]
 category: "roadmap"
