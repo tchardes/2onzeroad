@@ -11,7 +11,7 @@ header-img: "assets/owner/blog/header/post-bg-rt28.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt28.jpg
 tags: [histoire, architecture, culturel, unesco, mer-ocean]
 pois: [tikal#27-novembre]
-country: El Savaldor
+country: El Salvador
 states: [""]
 category: "roadmap"
 flickr-text: ""
