@@ -24,11 +24,27 @@ Cet article couvre la période du 21 décembre 2019 au , au cours de laquelle no
 
 ## 21 décembre
 
+Nous quittons le camping de bonne heure après avoir fait les pleins et les vides, direction El Salvador. Une fois de plus, nous avons adoré traverser ce nouveau pays qui nous a vraiment plu. Bien sûr, la cerise sur le gâteau a été la visite de notre fille qui a partagé notre sytle de vie durant une dizaine de jours. Les guatémaltèques sont vraiment très sympathiques et ouverts. Le contact est hyper facile, ils ont l'air toujours enjoués alors que leur vie n'est pas forcement toujours très simple.
+
+La route pour le Salvador et parfois très belle ou cmplétement pourrie avec ds nids… d’autruche. Le passage frontière se passe bien, arrivée à Ahuachapan on trouve difficilement à se garer plus nous faisons le tour de tout les distributeurs aucun de veut nous donner des Dollars US, puis nous faisons un tour de la ville, pas grand chose à voir puis nous trouvons un bivouac pas extraordianire mais pour une nuit ca ira…
+
+Kilometrage a la frontiere El Salvador 59798 miles
+
 ## 22 décembre
+
+Nous quittons le camping de bonne heure après avoir fait les pleins et les vides, direction El Salvador. Une fois de plus, nous avons adoré traverser ce nouveau pays qui nous a vraiment plu. Bien sûr, la cerise sur le gâteau a été la visite de notre fille qui a partagé notre sytle de vie durant une dizaine de jours. Les guatémaltèques sont vraiment très sympathiques et ouverts. Le contact est hyper facile, ils ont l'air toujours enjoués alors que leur vie n'est pas forcement toujours très simple.
+
+La route pour le Salvador et parfois très belle ou cmplétement pourrie avec ds nids… d’autruche. Le passage frontière se passe bien, arrivée à Ahuachapan on trouve difficilement à se garer plus nous faisons le tour de tout les distributeurs aucun de veut nous donner des Dollars US, puis nous faisons un tour de la ville, pas grand chose à voir puis nous trouvons un bivouac pas extraordianire mais pour une nuit ca ira…
+
+Kilometrage a la frontiere El Salvador 59798 miles
 
 ## 23 décembre
 
+Ce matin nous partons pour Chalchuapa qui habrite deux sites archéologique Maya, El Tazumal et Casa Blanca. Arrivée sur place on tmbe sur une dame qui nous explique que les sites sont fermés juasqu’au 26 décembre. On fait quad même un tour dans le village pour voir la Parroquia Santiago Apostol puis on traverse un immense marché bondé en cette veille de fête. De rtour sur Santa Ana nous mangeons dans Thor puis prenons un buspour le centre historique. La ville n’est pas vraiment belle, heureusemnt il y a sa cathédrale Gothique, ce qui est rare, On arrive enfin à trouver un distributeur qui veuille bien nous vendre un peu des dollars. De retour nous prenons un taxi puis allons nous boir une bière dans une cerves-ceria bien sympa, jiste à côté du bicouac, c’est pratique…
+
 ## 24 décembre
+
+Nous quittons la ville de Santa Ana pour prendre un bol d’air frais au parc national de Cerro verde qui se trouve au dessus de Lago de Coatepeque à 2000 mètres d’altitude. Se parc englobe 3 volcans, Izalco, Santa Ana et San Marcelino.
 
 ## 25 décembre
 
