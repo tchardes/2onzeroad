@@ -24,19 +24,20 @@ Cet article couvre la période du 21 décembre 2019 au , au cours de laquelle no
 
 ## 21 décembre
 
-Nous quittons le camping de bonne heure après avoir fait les pleins et les vides, direction El Salvador. Une fois de plus, nous avons adoré traverser ce nouveau pays qui nous a vraiment plu. Bien sûr, la cerise sur le gâteau a été la visite de notre fille qui a partagé notre sytle de vie durant une dizaine de jours. Les guatémaltèques sont vraiment très sympathiques et ouverts. Le contact est hyper facile, ils ont l'air toujours enjoués alors que leur vie n'est pas forcement toujours très simple.
+Toutes les formalités sont réalisées en 1 heure. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-21-salvador-frontiere %}">ici</a>)**
 
-La route pour le Salvador et parfois très belle ou cmplétement pourrie avec ds nids… d’autruche. Le passage frontière se passe bien, arrivée à Ahuachapan on trouve difficilement à se garer plus nous faisons le tour de tout les distributeurs aucun de veut nous donner des Dollars US, puis nous faisons un tour de la ville, pas grand chose à voir puis nous trouvons un bivouac pas extraordianire mais pour une nuit ca ira…
+La route pour le Salvador et parfois très belle ou complètement pourrie avec ds nids… d’autruche. Peu avant la frontière nous nous arrêtons pour déjeuner et dépensons nos derniers quetzals dans un épiceries en chocolat car nous devriàns en pas en avoir besoin à la frontière. Le passage en dounaene se passe bien, autant du côté Guatémaltèque que Salvadorien. Toutes les formalités sont réalisées en 1 heure. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-21-salvador-frontiere %}">ici</a>)**
+
+Arrivée à Ahuachapan on trouve difficilement à se garer, comme toujours... Nous faisons le tour de tout les distributeurs aucun de veut nous donner des Dollars US, puis nous faisons un tour de la ville, pas grand chose à voir puis nous trouvons un bivouac pas extraordianire mais pour une nuit ca ira…
 
 Kilometrage a la frontiere El Salvador 59798 miles
 
 ## 22 décembre
 
-Nous quittons le camping de bonne heure après avoir fait les pleins et les vides, direction El Salvador. Une fois de plus, nous avons adoré traverser ce nouveau pays qui nous a vraiment plu. Bien sûr, la cerise sur le gâteau a été la visite de notre fille qui a partagé notre sytle de vie durant une dizaine de jours. Les guatémaltèques sont vraiment très sympathiques et ouverts. Le contact est hyper facile, ils ont l'air toujours enjoués alors que leur vie n'est pas forcement toujours très simple.
-
-La route pour le Salvador et parfois très belle ou cmplétement pourrie avec ds nids… d’autruche. Le passage frontière se passe bien, arrivée à Ahuachapan on trouve difficilement à se garer plus nous faisons le tour de tout les distributeurs aucun de veut nous donner des Dollars US, puis nous faisons un tour de la ville, pas grand chose à voir puis nous trouvons un bivouac pas extraordianire mais pour une nuit ca ira…
-
-Kilometrage a la frontiere El Salvador 59798 miles
+Ce matin on quitte Ahuachapan où contre toute attente nous avons bien dormi. Aujourd’hui nous faisons la route des fleurs qui va de Conception de Ataco à Sonsonate. Memme si en cette saison il n’y a plus trop de fleurs si ce n’est quelque hibiscus retradataire, cette route de montagne offre de très belles vues sur l’arrière pays du El Salvador, La foret est très belle avec de nombreuses parcelles de Caféiers quifaconne les flans des montagnes en grande lignes foncée. Nous nous arrêtons en prmier à Ataco. Nous avons la chance de trouver une place juste à l’entrée du village, Thor étant trop gros pour s’y avanturer. Nous commençons la visite par une belle église Franciscaine audessus de laquelle se trouve en haut d’une colline un Cerro de la Cruz d’où l’on peut admirer tout le village. Les gens que nous rencontrons sont vraiment sympatiques et ont toujours un geste ou une paroles envers nous. On remarque qu’ici les femme ne portent pas d’habits traditionnels comme au Guatemala. Je pense qu’il s sont vraiment heureux de voir des étrangers s’intéresser à leur pays, leur culture. Nous déambulaons dans les rues et arrivon au niveau de la place cenrale qu s’apelle ici Parque Fray Rafael Fernandez et qui est comme dans tout les village, très animés. La ville est également connu pour deux artistes peintres, les frères Fabru’s, Fabrice et Bruno dont nous visitons leur galerie ainsi que les nombreuses fresque qu’ils ont réalisés dans le village.
+Nous faisons également le tour de tous les DAB mais aucun ne veut nous donner de l’argent, heureusement nous avons quelques dollars de côté. En effet depuis 1981 El Salvador a abandonné sa monnaie le Colon pour le dollar américain.
+A midi nous mangeaons dans un restaurant au nom évocateur « La Raclette ». Effectivement ils porposent bien raclette et fondue à leur menue. Nous restons plus traditionnel et nous prenons deux plats typique que nous nous partageons, à base de poulet, beef, chorizo. Le poulet est servi avec une sause au Loroco, une petite fleur du Salvador qui est très gouteuse? Nous en avions déjà mangé avec Cyrielle à Antigua dans une Pupusa, autre spécialité salvadorienne.
+Dans l’après-midi nous reprenons cette superbe route, en bon état, et nous faisons des arrêts à Apaneca et Salcoatan. On ne fait que traverser Sonzacate et poursuivons notre route jusqu’à Santa Ana où nous nous posons pour la nuit
 
 ## 23 décembre
 
