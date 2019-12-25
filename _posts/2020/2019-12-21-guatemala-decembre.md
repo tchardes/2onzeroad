@@ -39,7 +39,7 @@ pois:
     pacaya#13-décembre,
   ]
 country: Guatemala
-states: [""]
+states: ["Peten", "Izabal", "Zacapa", "El Progresso", "Solola", "Chimaltenango", "Totonicapan", "Quetzaltenango", "Escuintla", "Jutapia"]
 category: "roadmap"
 flickr-text: ""
 location: "15.763947, -90.113030"
