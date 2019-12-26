@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Passage frontière USA - Mexique à Tecate"
+title: "Passage frontière USA - Mexique"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
 parent-id: 2018-12-29-usa-californie-decembre
 
