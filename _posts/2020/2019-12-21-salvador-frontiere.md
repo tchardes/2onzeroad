@@ -13,7 +13,7 @@ pois: [passagegtos]
 flickr-text: ""
 country: El Salvador
 states: []
-city:
+city: Ahuachapan
 category: "information"
 location: "14.017657, -89.906852"
 ---
