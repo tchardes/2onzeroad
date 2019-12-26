@@ -271,6 +271,7 @@
   { "name": "venice-beach", "displayName": "Venice Beach", "type": "autre", "country": "USA" },
   { "name": "santa-monica", "displayName": "Santa Monica", "type": "autre", "country": "USA" },
   { "name": "los-angeles", "displayName": "Los Angeles", "type": "ville", "country": "USA" },
+  
   { "name": "tecate", "displayName": "Passage frontière USA - Mexique à Tecate", "type": "information", "country": "Mexique" },
   { "name": "ensenada", "displayName": "Ensenada", "type": "ville", "country": "Mexique" },
   { "name": "bufadora", "displayName": "La Bufadora", "type": "nature", "country": "Mexique" },
