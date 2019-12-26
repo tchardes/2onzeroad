@@ -96,6 +96,9 @@
 .cd-timeline-img.cd-roadmap {
   border-color: rgb(212, 65, 65);
 }
+.cd-timeline-img.cd-information {
+  border-color: rgb(212, 196, 65);
+}
 .cd-timeline-img.cd-bilan {
   border-color: rgb(56, 163, 83);
 }
