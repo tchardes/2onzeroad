@@ -13,7 +13,7 @@ pois: [passagemtob]
 flickr-text: ""
 country: Belize
 states: ["Corozal"]
-city:
+city: Corozal Town
 category: "information"
 location: "18.495136, -88.400191"
 ---
