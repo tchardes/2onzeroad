@@ -14,7 +14,7 @@ flickr-text: ""
 country: Guatemala
 states: ["Peten"]
 city:
-category: "blog"
+category: "information"
 location: "17.057896, -89.150195"
 ---
 

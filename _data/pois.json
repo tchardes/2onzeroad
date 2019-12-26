@@ -271,7 +271,7 @@
   { "name": "venice-beach", "displayName": "Venice Beach", "type": "autre", "country": "USA" },
   { "name": "santa-monica", "displayName": "Santa Monica", "type": "autre", "country": "USA" },
   { "name": "los-angeles", "displayName": "Los Angeles", "type": "ville", "country": "USA" },
-  { "name": "tecate", "displayName": "Passage frontière USA - Mexique à Tecate", "type": "autre", "country": "Mexique" },
+  { "name": "tecate", "displayName": "Passage frontière USA - Mexique à Tecate", "type": "information", "country": "Mexique" },
   { "name": "ensenada", "displayName": "Ensenada", "type": "ville", "country": "Mexique" },
   { "name": "bufadora", "displayName": "La Bufadora", "type": "nature", "country": "Mexique" },
   { "name": "bahia-angeles", "displayName": "Bahia De Los Angeles", "type": "nature", "country": "Mexique" },
@@ -387,7 +387,7 @@
   { "name": "bacalar", "displayName": "Bacalar", "type": "ville", "country": "Mexique" },
   { "name": "chetumal", "displayName": "Chetumal", "type": "ville", "country": "Mexique" },
 
-  { "name": "passagemtob", "displayName": "Passage frontière Mexique - Belize", "type": "autre", "country": "Belize" },
+  { "name": "passagemtob", "displayName": "Passage frontière Mexique - Belize", "type": "information", "country": "Belize" },
   { "name": "corozal", "displayName": "Corozal", "type": "ville", "country": "Belize" },
   { "name": "cerros", "displayName": "Cerros - Site Archéologique", "type": "autre", "country": "Belize" },
   { "name": "orange", "displayName": "Orange Walk City", "type": "ville", "country": "Belize" },
@@ -406,7 +406,7 @@
   { "name": "atmcave", "displayName": "Actun Tunichil Muknal (ATM) Caves", "type": "autre", "country": "Belize" },
   { "name": "xunantunch", "displayName": "Xunantunch - Site Archéologique", "type": "autre", "country": "Belize" },
 
-  { "name": "passagebtog", "displayName": "Passage frontière Belize - Guatemala", "type": "autre", "country": "Guatemala" },
+  { "name": "passagebtog", "displayName": "Passage frontière Belize - Guatemala", "type": "information", "country": "Guatemala" },
   { "name": "tikal", "displayName": "Tikal - Site Archéologique", "type": "autre", "country": "Guatemala" },
   { "name": "peten", "displayName": "Lac Peten Itza", "type": "nature", "country": "Guatemala" },
   { "name": "remate", "displayName": "El Remate", "type": "ville", "country": "Guatemala" },
@@ -433,7 +433,7 @@
   { "name": "elfuego", "displayName": "Volcan El Fuego", "type": "nature", "country": "Guatemala" },
   { "name": "acatenango", "displayName": "Volcan Acatenango", "type": "nature", "country": "Guatemala" },
 
-  { "name": "passagegtos", "displayName": "Passage frontière Guatemala - El Salvador", "type": "autre", "country": "El Salvador" },
+  { "name": "passagegtos", "displayName": "Passage frontière Guatemala - El Salvador", "type": "information", "country": "El Salvador" },
   { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
   { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
   { "name": "", "displayName": "", "type": "", "country": "El Salvador" },
