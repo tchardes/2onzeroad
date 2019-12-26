@@ -466,27 +466,35 @@ img::-moz-selection {
   height: 23px;
 }
 
-.post-preview-category div.nature {
+.post-preview-category div.poi-nature {
   background-color: rgb(104, 104, 104);
 }
 
-.post-preview-category div.ville {
+.post-preview-category div.poi-information {
   background-color: rgb(104, 104, 104);
 }
 
-.post-preview-category div.autre {
+.post-preview-category div.poi-ville {
   background-color: rgb(104, 104, 104);
 }
 
-.post-preview-category div.nature a i {
+.post-preview-category div.poi-autre {
+  background-color: rgb(104, 104, 104);
+}
+
+.post-preview-category div.poi-nature a i {
   color: rgb(30, 211, 69);
 }
 
-.post-preview-category div.ville a i {
+.post-preview-category div.poi-information a i {
+  color: rgb(212, 196, 65);
+}
+
+.post-preview-category div.poi-ville a i {
   color: rgb(0, 174, 255);
 }
 
-.post-preview-category div.autre a i {
+.post-preview-category div.poi-autre a i {
   color: rgb(204, 204, 204);
 }
 
@@ -530,6 +538,9 @@ img::-moz-selection {
   font-weight: 400;
 }
 
+.post-preview-meta-information {
+  background-color: rgb(212, 196, 65);
+}
 
 .post-preview-meta-roadmap {
   background-color: rgb(212, 65, 65);
@@ -541,6 +552,10 @@ img::-moz-selection {
 
 .post-preview-meta-bilan {
   background-color: rgb(56, 163, 83);
+}
+
+.post-preview-image-information {
+  border-right: solid 10px rgb(212, 196, 65);
 }
 
 .post-preview-image-roadmap {
@@ -557,6 +572,10 @@ img::-moz-selection {
 
 .color-roadmap {
   color: rgb(212, 65, 65);
+}
+
+.color-information {
+  color: rgb(212, 196, 65);
 }
 
 .color-blog {

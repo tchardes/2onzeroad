@@ -42,12 +42,13 @@
                 {% assign countryPoi = dataPoi.country %}
                 {% if typePoi == "ville" %}{% assign iconPoi = "building" %}{% endif %}
                 {% if typePoi == "nature" %}{% assign iconPoi = "tree" %}{% endif %}
+                {% if typePoi == "information" %}{% assign iconPoi = "info-circle" %}{% endif %}
             {% endif %}
         {% endfor %}
 
         {% if countryPoi == include.country %}
 
-        <div class="{{typePoi}}">
+        <div class="poi-{{typePoi}}">
             <a href="{{ site.baseurl }}/writing/poi/{{poiName}}"/>
                 <i style="width:13px;" class="fa fa-{{iconPoi}}"></i>{% if poiDisplayName == "NotFound" %}{{poiName}}{% else %} {{poiDisplayName}} {% endif %}
                 {% if poiDisplayName == "NotFound" %}<i style="width:26px;color:red;" class="fa fa-exclamation-triangle"></i>{% endif %}                 

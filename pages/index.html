@@ -225,19 +225,11 @@ permalink: ./index.html
           <hr />
           <div>
               <h3>Articles</h3>
-              {% assign categories = "" | split:"|"  %}
-              {% for post in site.posts %}
-              {% if categories contains post.category %}
-                {% else %}
-                  {% assign categories = categories | push: post.category %}
-                {% endif %}
-              {% endfor %}
-
               <div><a href="{{ site.baseurl }}/list"><i style="width:26px;color:#E88439;" class="fa fa-folder-open"></i>Toutes catégories</a></div>
-
-              {% for category in categories %}
-                <div><a href="{{ site.baseurl }}/writing/category/{{ category | slugify }}"><i style="width:26px;" class="fa fa-folder-open color-{{category}}"></i>{{category | replace: 'roadmap', 'Carnet de route' | capitalize }}</a></div>
-              {% endfor %}
+              <div><a href="{{ site.baseurl }}/writing/category/blog"><i style="width:26px;" class="fa fa-folder-open color-blog"></i>Blog</a></div>
+              <div><a href="{{ site.baseurl }}/writing/category/roadmap"><i style="width:26px;" class="fa fa-folder-open color-roadmap"></i>Carnet de Route</a></div>
+              <div><a href="{{ site.baseurl }}/writing/category/bilan"><i style="width:26px;" class="fa fa-folder-open color-bilan"></i>Bilan</a></div>
+              <div><a href="{{ site.baseurl }}/writing/category/information"><i style="width:26px;" class="fa fa-folder-open color-information"></i>Infos Pratiques</a></div>
           </div>
           <hr />
           <div>
