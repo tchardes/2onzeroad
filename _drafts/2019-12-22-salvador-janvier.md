@@ -26,7 +26,7 @@ Cet article couvre la période du 21 décembre 2019 au , au cours de laquelle no
 
 Toutes les formalités sont réalisées en 1 heure. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-21-salvador-frontiere %}">ici</a>)**
 
-La route pour le Salvador et parfois très belle ou complètement pourrie avec ds nids… d’autruche. Peu avant la frontière nous nous arrêtons pour déjeuner et dépensons nos derniers quetzals dans un épiceries en chocolat car nous devriàns en pas en avoir besoin à la frontière. Le passage en douanes se passe bien, autant du côté Guatémaltèque que Salvadorien. Toutes les formalités sont réalisées en 1 heure. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-21-salvador-frontiere %}">ici</a>)**
+La route pour le Salvador et parfois très belle ou complètement pourrie avec ds nids… d’autruche. Peu avant la frontière nous nous arrêtons pour déjeuner et dépensons nos derniers quetzals dans une épiceries en chocolats car nous ne devrions pas en avoir besoin à la frontière. Le passage en douanes se passe bien, autant du côté Guatémaltèque que Salvadorien. Toutes les formalités sont réalisées en 1 heure. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-21-salvador-frontiere %}">ici</a>)**
 
 Arrivée à Ahuachapan on trouve difficilement à se garer, comme toujours... Nous faisons le tour de tout les distributeurs aucun de veut nous donner des Dollars US, puis nous faisons un tour de la ville, pas grand chose à voir puis nous trouvons un bivouac pas extraordianire mais pour une nuit ca ira…
 
