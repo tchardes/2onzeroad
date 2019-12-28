@@ -9,7 +9,7 @@ to-date: 2019-12-22 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt28.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt28.jpg
-tags: [histoire, architecture, culturel, unesco, mer-ocean]
+tags: [histoire, architecture, culturel, volcan]
 pois: [Ahuachanpan#21-decembre]
 country: El Salvador
 states: [""]
