@@ -3,9 +3,9 @@ layout: blog
 title: "El Salvador"
 preview: "Cet article couvre la période du 21 décembre 2019 au , au cours de laquelle nous avons traversé et visité El Salvador…"
 parent-id:
-date: 2019-12-22 13:00:00
+date: 2019-12-27 13:00:00
 from-date: 2019-12-21 12:00:00
-to-date: 2019-12-22 13:00:00
+to-date: 2019-12-27 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt28.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt28.jpg
@@ -15,7 +15,7 @@ country: El Salvador
 states: [""]
 category: "roadmap"
 flickr-text: ""
-location: "13.691050, -88.927567"
+location: "13.931708, -89.262169"
 itinary: "2020/salvador.json"
 mapZoom: 8
 ---
