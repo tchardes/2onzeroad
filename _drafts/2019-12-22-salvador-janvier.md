@@ -17,7 +17,7 @@ category: "roadmap"
 flickr-text: ""
 location: "13.931708, -89.262169"
 itinary: "2020/salvador.json"
-mapZoom: 8
+mapZoom: 9
 ---
 
 Cet article couvre la période du 21 décembre 2019 au , au cours de laquelle nous avons visité El Salvador.
