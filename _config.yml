@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "13.709786, -89.215409"
-  name: "San Salvador - El Salvador"
-  date: "26 au 28 décembre 2019 "
+  coordinates: "13.939273, -89.019789"
+  name: "Suchitoto - El Salvador"
+  date: "29 décembre 2019 "
 
 # set the encoding to utf-8
 encoding: utf-8
