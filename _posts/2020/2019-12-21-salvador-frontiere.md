@@ -2,7 +2,7 @@
 layout: blog
 title: "Passage frontière Guatemala - El salvador"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
-parent-id: 2020-01-10-salvador-janvier
+parent-id: 2019-12-29-salvador-decembre
 
 date: 2019-12-21 15:00:00
 author: "Thierry"
