@@ -90,7 +90,7 @@ Côté Honduras :
 - Une photocopie de la carte grise du véhicule ;
 - Une photocopie du permis international et du permis de conduite ;
 
-- 3 US Dollar à l'immigration;
-- 788 Lempiras pour l'importation temporaire du véhicule par les douanes.
+- 3 \$US à l'immigration;
+- 788 Lempiras (env. 34\$US) pour l'importation temporaire du véhicule par les douanes.
 
-Toutes ces démarches prennent un peu plus d'une heure, pas de fumigation-désinfection, pas de contrôle sanitaire. Une fois terminées, le voyage en terre honduriennes peut commencer...
+Pour la petite histoire, nous avons été contrôlés par la police quelques kilomètres avant d'arriver à la frontière côté El Salvador et également contrôlé par la police cette fois au Honduras, juste après avoir passé la frontière. Toutes les démarches prennent un peu plus d'une heure, pas de fumigation-désinfection, pas de contrôle sanitaire. Une fois terminées, le voyage en terre honduriennes peut commencer...
