@@ -6,7 +6,7 @@ parent-id: 2020-01-10-honduras-janvier
 
 date: 2019-12-21 15:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-guate-salvador.jpg"
+header-img: "assets/owner/blog/header/post-bg-salva-honduras.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-guate-salva.jpg
 tags: []
 pois: [passagegtos]
