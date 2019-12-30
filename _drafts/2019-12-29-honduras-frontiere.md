@@ -15,7 +15,7 @@ country: Honduras
 states: []
 city: Antigua Ocotepeque
 category: "information"
-location: "14.017657, -89.906852"
+location: "14.374048, -89.209514"
 ---
 
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre El Salvador et le Honduras au niveau du poste frontière de El Poy en direction de Antigua Ocotepeque.
