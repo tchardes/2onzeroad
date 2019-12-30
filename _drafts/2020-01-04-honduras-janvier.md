@@ -3,7 +3,7 @@ layout: blog
 title: "Honduras"
 preview: "Cet article couvre la période du 21 décembre 2019 au , au cours de laquelle nous avons traversé et visité El Salvador…"
 parent-id:
-date: 2019-12-29 13:00:00
+date: 2019-12-30 13:00:00
 from-date: 2019-12-29 12:00:00
 to-date: 2020-01-04 13:00:00
 author: "Thierry"
