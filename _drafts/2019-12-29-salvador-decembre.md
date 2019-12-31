@@ -12,7 +12,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt28.jpg
 tags: [histoire, architecture, culturel, volcan]
 pois:
   [
-    ahuachanpan#21-decembre,
+    ahuachanpan#21-décembre,
     ataco#22-decembre,
     santa-ana#22-decembre,
     chalchuapa#23-decembre,
