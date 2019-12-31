@@ -75,21 +75,51 @@ Nous faisons également le tour de tous les distributeurs de billets mais aucun 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284594397/in/datetaken/" title="Concepcion de Ataco - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284594397_fdf1a4ac4c_h.jpg" width="1600" height="900" alt="Concepcion de Ataco - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284875396/in/datetaken/" title="Concepcion de Ataco - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284875396_76a2473e47_h.jpg" width="1600" height="900" alt="Concepcion de Ataco - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Dans l’après-midi, nous reprenons cette superbe route, en bon état, et nous faisons des arrêts à Apaneca et Salcoatan. On ne fait que traverser Sonzacate et poursuivons notre route jusqu’à **Santa Ana** où nous nous posons pour la nuit.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284265638/in/datetaken/" title="Apaneca - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284265638_9a16696ff7_h.jpg" width="1600" height="900" alt="Apaneca - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 23 décembre
 
-Ce matin nous partons pour **Chalchuapa** qui abrite deux sites archéologique Maya, El Tazumal et Casa Blanca. Arrivés sur place, on tombe sur une dame qui nous explique que les sites sont fermés jusqu’au 26 décembre. On fait quand même un tour dans le village pour voir la Parroquia Santiago Apostol puis on traverse un immense marché, bondé, en cette veille de fête. De retour sur Santa Ana, nous mangeons dans Thor puis prenons un bus pour le centre historique. La ville n’est pas vraiment belle, heureusement il y a sa cathédrale de style Gothique, ce qui est rare en amérique latine. On arrive enfin à trouver un distributeur qui veuille bien nous vendre un peu des dollars. De retour, nous prenons un taxi puis allons nous boire une bière dans une cerveceria bien sympa, juste à côté du bivouac, c’est pratique…
+Ce matin nous partons pour **Chalchuapa** qui abrite deux sites archéologique Maya, El Tazumal et Casa Blanca. Arrivés sur place, on tombe sur une dame qui nous explique que les sites sont fermés jusqu’au 26 décembre. On fait quand même un tour dans le village pour voir la Parroquia Santiago Apostol puis on traverse un immense marché, bondé, en cette veille de fête. De retour sur Santa Ana, nous mangeons dans Thor puis prenons un bus pour le centre historique.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284793822/in/datetaken/" title="Santa Ana - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284793822_7ecbb8a233_h.jpg" width="1600" height="1067" alt="Santa Ana - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284509521/in/datetaken/" title="Santa Ana - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284509521_1a4f418f33_h.jpg" width="1600" height="900" alt="Santa Ana - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+La ville n’est pas vraiment belle, heureusement il y a sa cathédrale de style Gothique, ce qui est rare en amérique latine. On arrive enfin à trouver un distributeur qui veuille bien nous vendre un peu des dollars. De retour, nous prenons un taxi puis allons nous boire une bière dans une cerveceria bien sympa, juste à côté du bivouac, c’est pratique…
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284018768/in/datetaken/" title="Santa Ana - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284018768_0f923825bc_h.jpg" width="1600" height="900" alt="Santa Ana - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49285254911/in/datetaken/" title="Santa Ana - [El Salvador]"><img src="https://live.staticflickr.com/65535/49285254911_f0ebad3998_h.jpg" width="1600" height="900" alt="Santa Ana - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 24 décembre
 
-Nous quittons la ville de Santa Ana pour prendre un bol d’air frais au **Parc National de Cerro Verde** qui se trouve au dessus de **Lago de Coatepeque** à 2000 mètres d’altitude. Ce parc englobe 3 volcans, Izalco 1980 mètres d'altitude, Santa Ana 2381 mètres et Cerro Verde 2050 mètres. On visite les lieux toute l'après-midi. Je profite d'un très beau coucher de soleil sur les volcans pour faire quelques photos. A la nuit tombée, on se retrouve tous seuls sur le site, la nuit va être fraîche et très calme.
+Nous quittons la ville de Santa Ana pour prendre un bol d’air frais au **Parc National de Cerro Verde** qui se trouve au dessus de **Lago de Coatepeque** à 2000 mètres d’altitude. La route est très belle et offres des vues à la foie sur le lac et à la fois sur San Salvador. Les cultures du café sont omniprésentes.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49285461962/in/datetaken/" title="Cerro Verde - [El Salvador]"><img src="https://live.staticflickr.com/65535/49285461962_e982d29b1b_h.jpg" width="1600" height="900" alt="Cerro Verde - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284765228/in/datetaken/" title="Cerro Verde - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284765228_7ebde091d8_h.jpg" width="1600" height="900" alt="Cerro Verde - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284749668/in/datetaken/" title="Cerro Verde - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284749668_fad34fe38a_h.jpg" width="1600" height="900" alt="Cerro Verde - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Ce parc englobe 3 volcans, Izalco 1980 mètres d'altitude, Santa Ana 2381 mètres et Cerro Verde 2050 mètres. On visite les lieux toute l'après-midi. Je profite d'un très beau coucher de soleil sur les volcans pour faire quelques photos. A la nuit tombée, on se retrouve tous seuls sur le site, la nuit va être fraîche et très calme.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284753788/in/datetaken/" title="Cerro Verde - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284753788_13e756816e_h.jpg" width="1600" height="900" alt="Cerro Verde - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49285472852/in/datetaken/" title="Cerro Verde - [El Salvador]"><img src="https://live.staticflickr.com/65535/49285472852_bc55fb9fdd_h.jpg" width="1600" height="900" alt="Cerro Verde - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 25 décembre
 
 Dès le petit matin, on commence à entendre un peu de bruit et quand on se lève, il y a au moins une centaine de personnes déjà présentes, un chapiteau monté et un orchestre prêt à faire pêter les watts. Les voitures et colectivos n’arrêtent pas d’arriver, ce doit être le point de rendez-vous des dimanches et jours fériés. On décide de lever le camp… Plusieurs badauds viennent nous voir et nous faisons visiter Thor avec grand plaisir. On quitte le parc et nous redescendons au niveau du lac de Coatepeque dans un établissement qui accueille les RV. Il fait hôtel, restaurant et donne accès au lac.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303264982/in/datetaken/" title="Lac de Coatepeque - [El salvador]"><img src="https://live.staticflickr.com/65535/49303264982_20ebbc5a7f_h.jpg" width="1600" height="900" alt="Lac de Coatepeque - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 A midi, nous allons manger au restaurant avec vue sur le lac et les volcans du Cerro Verde. On se trompe un peu en faisant notre commande, nous aimons souvent prendre des plats différents pour partager. On se retrouve en fait avec deux plats pour deux… Corinne en amène un dans Thor et nous mangeons l’autre. C’est très bon, il y a un peu de tout, poulet, bœuf, chorizo, plein de légumes, des genres de tamales… bref on se régale.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303252707/in/datetaken/" title="Lac de Coatepeque - [El salvador]"><img src="https://live.staticflickr.com/65535/49303252707_f1daa5ed3f_h.jpg" width="1600" height="900" alt="Lac de Coatepeque - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On passe le reste de l’après-midi à digérer et profiter des lieux. On ne passe pas inaperçus avec Thor et plusieurs personnes viennent le voir de près, du coup, on se transforme en agent immobilier et on le fait visiter. En faisant le tour du propriétaire, je trouve une prise de courant et branche mon ordi pour traiter les photos. Super journée. Vers 18h00, à la tombée de la nuit, tout le monde quitte les lieux et nous restons seuls dans l’établissement…
 
@@ -99,25 +129,64 @@ Ce matin, nous quittons le lac et reprenons la panaméricaine pour rejoindre la 
 
 ## 27 décembre
 
-La nuit a été pour le moins bruyante… Ce matin, je vais voir le gérant de la station et lui demande si on peut rester garés là, le temps d’aller visiter la ville, aucun problème pour lui. Nous prenons un Uber direction le centre historique, toujours autant embouteillé. On visite les différents édifices, Palacio National, Catedral Metropolitana San Salvadoir, le Teatro Nacional mais ce qui nous a le plus plu c’est l’église El Rosario, très moche de l’extérieur, construction béton des années 70, mais très original à l’intérieur ainsi que le plus vieux club de billard du El Salvador "Club La Dalia". La ville est vraiment très pauvre et n’a pas vraiment l’éclat d’une capitale. De nombreux policiers et militaires patrouillent en ville, on s’y sent en parfaite sécurité. Tous les militaires portent une cagoule, ils doivent pas mal souffrir avec la chaleur ambiante.
+La nuit a été pour le moins bruyante… Ce matin, je vais voir le gérant de la station et lui demande si on peut rester garés là, le temps d’aller visiter la ville, aucun problème pour lui. Nous prenons un Uber direction le centre historique, toujours autant embouteillé.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302516273/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49302516273_d379cb4409_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302521953/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49302521953_6e649ce994_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On visite les différents édifices, Palacio National, Catedral Metropolitana San Salvadoir, le Teatro Nacional mais ce qui nous a le plus plu c’est l’église El Rosario, très moche de l’extérieur, construction béton des années 70, mais très original à l’intérieur ainsi que le plus vieux club de billard du El Salvador "Club La Dalia". La ville est vraiment très pauvre et n’a pas vraiment l’éclat d’une capitale. De nombreux policiers et militaires patrouillent en ville, on s’y sent en parfaite sécurité. Tous les militaires portent une cagoule, ils doivent pas mal souffrir avec la chaleur ambiante.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303099631/in/datetaken/" title="San Salvador - [El Salvador]"><img src="https://live.staticflickr.com/65535/49303099631_538e14b7fb_h.jpg" width="1600" height="491" alt="San Salvador - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302989746/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49302989746_125a54b3de_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302414283/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49302414283_b5906dfed6_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 A midi, on mange dans un genre de cafétéria, c’est assez courant ici et très pratique car on voit les plats. On se régale avec du poulet mariné grillé pour Corinne et moi du poulet en sauce avec du loroco le tout accompagné d’un très bon riz avec des légumes.
 On poursuit la visite en traînant dans les rues qui sont occupées par un immense marché qui couvrent des dizaines de blocs puis on finit par le cimetière des illustres conseillé par le guide… bon quelques belles sculptures intéressantes…
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303161592/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49303161592_01da2d1252_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302869971/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49302869971_b7b6f65bd3_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 On décide de bouger et de sortir de cette ville hyper polluée, bruyante, encombrée… Pas de Uber donc c’est en taxi que l’on regagne Thor. Demain on souhaite faire un tour sur le volcan San Salvador et on décide de s’en approcher et prendre un peu de hauteur. On s'arrête à l'**Ecoparque El Espino** qui accepte les RV pour la nuit. Sur place, on fait une balade qui nous amène sur différents "mirador" qui offrent une belle vue sur la ville.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302866736/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49302866736_2727bdb0bb_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 28 décembre
 
 Ce matin, levés de bonne heure pour nous rendre au volcan San Salvador dans le **Parque Nacional El Boquerón**. La route devient de plus en plus étroite et avant l’arrivée au parking on décide de faire demi-tour car j’ai peur qu'avec la foule qui va arriver de ne plus pourvoir redescendre, sachant qu’ils ont tendance à se garer un peu n’importe comment. Nous décidons donc de quitter San Salvador pour visiter un petit village colonial, **Panchimalco**… en fait rien d’extraordinaire, un église tout blanche et une galerie d’art assez pittoresque, en dehors de cela rien de spécial.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302813881/in/datetaken/" title="Panchimalco - [El salvador]"><img src="https://live.staticflickr.com/65535/49302813881_ea5b7d8531_h.jpg" width="1600" height="900" alt="Panchimalco - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302970897/in/datetaken/" title="Panchimalco - [El salvador]"><img src="https://live.staticflickr.com/65535/49302970897_8f5c950f55_h.jpg" width="1600" height="900" alt="Panchimalco - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302757941/in/datetaken/" title="Panchimalco - [El salvador]"><img src="https://live.staticflickr.com/65535/49302757941_6854832c5e_h.jpg" width="1600" height="900" alt="Panchimalco - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 On reprend la route et on fait un petit détour vers les portes du diable, un superbe point de vue sur la région. Juste avant d’arriver, je vois un emplacement pour me garer sur la droite. Je regarde dans les rétros, rien, je recule et bang. En fait, il y avait une voiture juste derrière moi que j’ai bien emboutie. Thor n'a absolument rien, c'est ma roue de secours qui a abîmé le capot et la calandre. Police, Police des accidents, assureur adverse, propriétaire du véhicule qui arrive… et mon assurance au Guatemala qui ne répond pas… On tombe sur des gens très gentils et plus peinés pour nous que pour leur voiture. Ils nous trouvent même les enfants d’un de leurs amis qui sont scolarisés au lycée français de San Salvador. Bref on trouve un arrangement et on se sépare avec un selfie, et un document nous déchargeant.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303287167/in/datetaken/" title="Santa Tecla - [El Salvador]"><img src="https://live.staticflickr.com/65535/49303287167_0731f866e1_h.jpg" width="1600" height="1000" alt="Santa Tecla - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Une fois remis de nos émotions, on quitte la zone pour se rendre à **Suchitoto** où nous trouvons une place dans une station essence qui fait également restaurant. On y passe la soirée devant une bière et des pupusas, la spécialité du El Salvador. Ici fait avec de la farine de riz et garnie avec du fromage et une purée de haricots rouges fris. Très bon. Ici, on vend l'eau, non pas dans des petites bouteilles, mais dans de petits sacs thermo-soudés, il faut juste le percer avec les dents pour boire. C'est peut-être plus économique...
 
 ## 29 décembre
 
 Ce matin visite du village de Suchitoto qui est très beau et qui offre de très belles vues sur le lac. Nous avons visité une très belle villa musée, ancienne demeure d’une personne très connue au El Salvador dans le monde des arts, Alejandro Cotto.
-La cathédrale est très belle, toute en longueur avec un dôme recouvert de céramique et surmontée d'un cœur. Nous finissons dans une galerie d'art. De retour à Thor nous mangeons, faisons le plein d’eau et de carburant et prenons la route en direction du Honduras. Le passage en douanes se passe bien, autant du côté salvadorien qu'hondurien. Toutes les formalités sont réalisées en 1 heure. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-29-honduras-frontiere %}">ici</a>)**
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303288372/in/datetaken/" title="Suchitoto - [El Salvador]"><img src="https://live.staticflickr.com/65535/49303288372_eec4a624ea_h.jpg" width="1600" height="900" alt="Suchitoto - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303287167/in/datetaken/" title="Santa Tecla - [El Salvador]"><img src="https://live.staticflickr.com/65535/49303287167_0731f866e1_h.jpg" width="1600" height="1000" alt="Santa Tecla - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+La cathédrale est très belle, toute en longueur avec un dôme recouvert de céramique et surmontée d'un cœur. Nous finissons dans une galerie d'art et trouvons même une crêperie "française"...
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302929677/in/datetaken/" title="Suchitoto - [El salvador]"><img src="https://live.staticflickr.com/65535/49302929677_a8433b5663_h.jpg" width="1600" height="900" alt="Suchitoto - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302899287/in/datetaken/" title="Suchitoto - [El salvador]"><img src="https://live.staticflickr.com/65535/49302899287_7215735837_h.jpg" width="1600" height="900" alt="Suchitoto - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302712361/in/datetaken/" title="Suchitoto - [El salvador]"><img src="https://live.staticflickr.com/65535/49302712361_e11e815dd5_h.jpg" width="1600" height="900" alt="Suchitoto - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+De retour à Thor nous mangeons, faisons le plein d’eau et de carburant et prenons la route en direction du Honduras. Le passage en douanes se passe bien, autant du côté salvadorien qu'hondurien. Toutes les formalités sont réalisées en 1 heure. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-29-honduras-frontiere %}">ici</a>)**
 
 **Nous avons vraiment adoré :**
 
