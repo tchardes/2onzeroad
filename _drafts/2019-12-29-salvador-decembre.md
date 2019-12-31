@@ -39,7 +39,7 @@ Cet article couvre la période du 21 au 29 décembre 2019 au cours de laquelle n
 
 La route pour le El Salvador est parfois très belle ou terrible avec des nids… d’autruche. Peu avant la frontière nous nous arrêtons pour déjeuner et dépensons nos derniers quetzals dans une épicerie en chocolats car nous ne devrions pas en avoir besoin à la frontière. Le passage en douanes se passe bien, autant du côté guatémaltèque que salvadorien. Toutes les formalités sont réalisées en 1 heure. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-21-salvador-frontiere %}">ici</a>)**
 
-Arrivés à **Ahuachapan**, la première grande ville, on trouve difficilement à se garer, comme toujours… Nous faisons le tour de tous les distributeurs, aucun ne veut nous donner des Dollars US qui est, depuis 1981, la monnaie officielle du pays qui a abandonné le Colon. Nous faisons un tour de la ville, notamment la Place de la Concordia avec l'Eglise Nostra Señora de la Asuncion. On devait voir de belles peintures murales au niveau du passage de la Concordia mais nous trouvons en lieu et place un grand mur noir.
+Arrivés à **Ahuachapan**, la première grande ville, on trouve difficilement à se garer, comme toujours… Nous faisons le tour de tous les distributeurs, aucun ne veut nous donner des dollars Us, la monnaie officielle du pays,depuis 1981, à l'abandon du Colon. Nous faisons un tour de la ville, notamment la Place de la Concordia avec l'Eglise Nostra Señora de la Asuncion. On devait voir de belles peintures murales au niveau du passage de la Concordia mais nous trouvons en lieu et place un grand mur noir.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49283737908/in/datetaken/" title="Ahuachapan - [El Salvador]"><img src="https://live.staticflickr.com/65535/49283737908_c896c1fd1b_h.jpg" width="1600" height="900" alt="Ahuachapan - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -53,7 +53,7 @@ Je tombe sur une "Peluqueria Francia" avec une devanture Bleu Blanc Rouge. Je re
 
 ## 22 décembre
 
-Ce matin, on quitte Ahuachapan où contre toute attente nous avons bien dormi. Aujourd’hui, nous faisons la route des fleurs qui va de **Concepcion de Ataco** à **Sonsonate**. Même si en cette saison il n’y a plus trop de fleurs si ce n’est quelques hibiscus retardataires, cette route de montagne offre de très belles vues sur l’arrière pays du El Salvador. La forêt est très belle avec de nombreuses parcelles de caféiers qui façonnent les flans des montagnes en grandes lignes foncées.
+Ce matin, on quitte Ahuachapan où contre toute attente nous avons bien dormi. Aujourd’hui, nous faisons la route des fleurs qui va de **Concepcion de Ataco** à **Sonsonate**. Même si, en cette saison, il n’y a plus trop de fleurs si ce n’est quelques hibiscus retardataires, cette route de montagne offre de très belles vues sur l’arrière pays du El Salvador. La forêt est très dense avec de nombreuses parcelles de caféiers qui façonnent les flans des montagnes en grandes lignes foncées.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284809167/in/datetaken/" title="Concepcion de Ataco - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284809167_7413df9c72_h.jpg" width="1600" height="900" alt="Concepcion de Ataco - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -71,7 +71,7 @@ Nous déambulons dans les rues et arrivons au niveau de la place centrale "Parqu
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284416626/in/datetaken/" title="Concepcion de Ataco - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284416626_384dad3cfe_h.jpg" width="1600" height="1067" alt="Concepcion de Ataco - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous faisons également le tour de tous les distributeurs de billets mais aucun ne veut nous donner de l’argent, heureusement nous avons quelques dollars de côté. A midi, nous mangeons dans un restaurant au nom évocateur "La Raclette". Effectivement, ils proposent bien raclette et fondue à leur menu. Nous restons plus traditionnel et nous prenons deux plats typiques que nous nous partageons, à base de poulet, bŒuf et chorizo. Le poulet est servi avec une sauce au Loroco, une petite fleur du El Salvador qui est très goûteuse. Nous en avions déjà mangé avec Cyrielle à Antigua dans une Pupusa, autre spécialité salvadorienne.
+Nous faisons également le tour de tous les distributeurs de billets mais aucun ne veut nous donner de l’argent, heureusement nous avons quelques dollars de côté. A midi, nous mangeons dans un restaurant au nom évocateur "La Raclette". Effectivement, ils proposent bien raclette et fondue à leur menu. Nous restons plus traditionnels et nous prenons deux plats typiques que nous nous partageons, à base de poulet, bœuf et chorizo. Le poulet est servi avec une sauce au Loroco, une petite fleur du El Salvador qui est très goûteuse. Nous en avions déjà mangé avec Cyrielle à Antigua dans une Pupusa, autre spécialité salvadorienne.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284594397/in/datetaken/" title="Concepcion de Ataco - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284594397_fdf1a4ac4c_h.jpg" width="1600" height="900" alt="Concepcion de Ataco - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -83,13 +83,13 @@ Dans l’après-midi, nous reprenons cette superbe route, en bon état, et nous 
 
 ## 23 décembre
 
-Ce matin nous partons pour **Chalchuapa** qui abrite deux sites archéologiques Maya, El Tazumal et Casa Blanca. Arrivés sur place, on tombe sur une dame qui nous explique que les sites sont fermés jusqu’au 26 décembre. On fait quand même un tour dans le village pour voir la Parroquia Santiago Apostol puis on traverse un immense marché, bondé, en cette veille de fête. De retour sur Santa Ana, nous mangeons dans Thor puis prenons un bus pour le centre historique.
+Ce matin, nous partons pour **Chalchuapa** qui abrite deux sites archéologiques Maya, El Tazumal et Casa Blanca. Arrivés sur place, on tombe sur une dame qui nous explique que les sites sont fermés jusqu’au 26 décembre. On fait quand même un tour dans le village pour voir la Parroquia Santiago Apostol puis on traverse un immense marché, bondé, en cette veille de fête. De retour sur Santa Ana, nous mangeons dans Thor puis prenons un bus pour le centre historique.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284793822/in/datetaken/" title="Santa Ana - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284793822_7ecbb8a233_h.jpg" width="1600" height="1067" alt="Santa Ana - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284509521/in/datetaken/" title="Santa Ana - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284509521_1a4f418f33_h.jpg" width="1600" height="900" alt="Santa Ana - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-La ville n’est pas vraiment belle, heureusement il y a sa cathédrale de style Gothique, ce qui est rare en amérique latine. On arrive enfin à trouver un distributeur qui veuille bien nous vendre un peu des dollars. De retour, nous prenons un taxi puis allons nous boire une bière dans une cerveceria bien sympa, juste à côté du bivouac, c’est pratique…
+La ville n’est pas vraiment belle, heureusement, il y a sa cathédrale de style gothique, ce qui est rare en amérique latine. On arrive enfin à trouver un distributeur qui veuille bien nous lâcher quelques dollars. De retour, nous prenons un taxi puis allons boire une bière dans une cerveceria bien sympa, juste à côté du bivouac, c’est pratique…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284018768/in/datetaken/" title="Santa Ana - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284018768_0f923825bc_h.jpg" width="1600" height="900" alt="Santa Ana - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -121,11 +121,11 @@ A midi, nous allons manger au restaurant avec vue sur le lac et les volcans du C
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303252707/in/datetaken/" title="Lac de Coatepeque - [El salvador]"><img src="https://live.staticflickr.com/65535/49303252707_f1daa5ed3f_h.jpg" width="1600" height="900" alt="Lac de Coatepeque - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On passe le reste de l’après-midi à digérer et profiter des lieux. On ne passe pas inaperçus avec Thor et plusieurs personnes viennent le voir de près, du coup, on se transforme en agent immobilier et on le fait visiter. En faisant le tour du propriétaire, je trouve une prise de courant et branche mon ordi pour traiter les photos. Super journée. Vers 18h00, à la tombée de la nuit, tout le monde quitte les lieux et nous restons seuls dans l’établissement…
+On passe le reste de l’après-midi à digérer et profiter des lieux. On ne passe pas inaperçus avec Thor et plusieurs personnes viennent le voir de près, alors on se transforme en agent immobilier et on le fait visiter. En faisant le tour du propriétaire, je trouve une prise de courant et branche mon ordi pour traiter les photos. Super journée. Vers 18h00, à la tombée de la nuit, tout le monde quitte les lieux et nous restons seuls dans l’établissement…
 
 ## 26 décembre
 
-Ce matin, nous quittons le lac et reprenons la panaméricaine pour rejoindre la capitale, **San Salvador**. Il y a énormément d’embouteillages, surtout la traversée de Lourdes. Une fois sur place, nous allons directement dans un Walmart où nous pouvons nous garer. Après les courses, nous partons en quête d’un lieu pour stationner et visiter la ville… Impossible de trouver un endroit pour nous. Nous retournons au Walmart mais on ne peut pas y passer la nuit. Nous finissons dans une station essence qui veut bien nous céder un bout de parking pour la nuit et moyennant 5\$US. Super nuit en perspective… Quant on voit le niveau du parc auto de ces pays, on ne peut que bénir l’Europe avec ses contrôles techniques, normes anti-pollution, FAP… Tous les camions, bus et la moitié des voitures qui roulent, crachent une fumée digne d'une locomotive, c’est irrespirable… un enfer.
+Ce matin, nous quittons le lac et reprenons la panaméricaine pour rejoindre la capitale, **San Salvador**. Il y a énormément d’embouteillages, surtout la traversée de Lourdes. Une fois sur place, nous allons directement dans un Walmart où nous pouvons nous garer. Après les courses, nous partons en quête d’un lieu pour stationner et visiter la ville… Impossible de trouver un endroit pour nous. Nous retournons au Walmart mais on ne peut pas y passer la nuit. Nous finissons dans une station essence qui veut bien nous céder un bout de parking pour la nuit moyennant 5\$US. Super nuit en perspective… Quant on voit le niveau du parc auto de ces pays, on ne peut que bénir l’Europe avec ses contrôles techniques, normes anti-pollution, FAP… Tous les camions, bus et la moitié des voitures qui roulent, crachent une fumée digne d'une locomotive, c’est irrespirable… un enfer.
 
 ## 27 décembre
 
@@ -135,7 +135,7 @@ La nuit a été pour le moins bruyante… Ce matin, je vais voir le gérant de l
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302521953/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49302521953_6e649ce994_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On visite les différents édifices, Palacio National, Catedral Metropolitana San Salvadoir, le Teatro Nacional mais ce qui nous a le plus plu c’est l’église El Rosario, très moche de l’extérieur, construction béton des années 70, mais très original à l’intérieur ainsi que le plus vieux club de billard du El Salvador "Club La Dalia". La ville est vraiment très pauvre et n’a pas vraiment l’éclat d’une capitale. De nombreux policiers et militaires patrouillent en ville, on s’y sent en parfaite sécurité. Tous les militaires portent une cagoule, ils doivent pas mal souffrir avec la chaleur ambiante.
+On visite les différents édifices, Palacio National, Catedral Metropolitana San Salvadoir, le Teatro Nacional mais ce qui nous a le plus plu c’est l’église El Rosario, très moche de l’extérieur, construction béton des années 70, mais très original à l’intérieur ainsi que le plus vieux club de billard du El Salvador "Club La Dalia". La ville est vraiment très pauvre et n’a pas vraiment l’éclat d’une capitale. De nombreux policiers et militaires patrouillent en ville, on s’y sent en parfaite sécurité. Tous les militaires portent une cagoule, ils doivent souffrir de la chaleur ambiante.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303099631/in/datetaken/" title="San Salvador - [El Salvador]"><img src="https://live.staticflickr.com/65535/49303099631_538e14b7fb_h.jpg" width="1600" height="491" alt="San Salvador - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -143,20 +143,20 @@ On visite les différents édifices, Palacio National, Catedral Metropolitana Sa
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302414283/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49302414283_b5906dfed6_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A midi, on mange dans un genre de cafétéria, c’est assez courant ici et très pratique car on voit les plats. On se régale avec du poulet mariné grillé pour Corinne et moi du poulet en sauce avec du loroco le tout accompagné d’un très bon riz avec des légumes.
-On poursuit la visite en traînant dans les rues qui sont occupées par un immense marché qui couvrent des dizaines de blocs puis on finit par le cimetière des illustres conseillé par le guide… bon quelques belles sculptures intéressantes…
+A midi, on mange dans un genre de cafétéria, c’est assez courant ici et très pratique car on voit les plats. On se régale avec du poulet mariné grillé pour Corinne et pour moi du poulet en sauce avec du loroco, le tout accompagné d’un très bon riz avec des légumes.
+On poursuit la visite en traînant dans les rues qui sont occupées par un immense marché qui couvre des dizaines de blocs puis on finit par le cimetière des Illustres conseillé par le guide… bon! quelques belles sculptures intéressantes…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303161592/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49303161592_01da2d1252_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302869971/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49302869971_b7b6f65bd3_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On décide de bouger et de sortir de cette ville hyper polluée, bruyante, encombrée… Pas de Uber donc c’est en taxi que l’on regagne Thor. Demain on souhaite faire un tour sur le volcan San Salvador et on décide de s’en approcher et prendre un peu de hauteur. On s'arrête à l'**Ecoparque El Espino** qui accepte les RV pour la nuit. Sur place, on fait une balade qui nous amène sur différents "mirador" qui offrent une belle vue sur la ville.
+On décide de bouger et de sortir de cette ville hyper polluée, bruyante, encombrée… Pas de Uber! donc c’est en taxi que l’on regagne Thor. Demain on souhaite faire un tour sur le volcan San Salvador et on décide de s’en approcher et prendre un peu de hauteur. On s'arrête à l'**Ecoparque El Espino** qui accepte les RV pour la nuit. Sur place, on fait une balade qui nous amène sur différents "mirador" qui offrent une belle vue sur la ville.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302866736/in/datetaken/" title="San Salvador - [El salvador]"><img src="https://live.staticflickr.com/65535/49302866736_2727bdb0bb_h.jpg" width="1600" height="900" alt="San Salvador - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 28 décembre
 
-Ce matin, levés de bonne heure pour nous rendre au volcan San Salvador dans le **Parque Nacional El Boquerón**. La route devient de plus en plus étroite et avant l’arrivée au parking on décide de faire demi-tour car j’ai peur qu'avec la foule qui va arriver de ne plus pourvoir redescendre, sachant qu’ils ont tendance à se garer un peu n’importe comment. Nous décidons donc de quitter San Salvador pour visiter un petit village colonial, **Panchimalco**… en fait rien d’extraordinaire, un église tout blanche et une galerie d’art assez pittoresque, en dehors de cela rien de spécial.
+Ce matin, réveil de bonne heure pour nous rendre au volcan San Salvador dans le **Parque Nacional El Boquerón**. La route devient de plus en plus étroite et avant l’arrivée au parking on décide de faire demi-tour car j’ai peur, qu'avec la foule qui va arriver, de ne plus pouvoir redescendre, sachant qu’ils ont tendance à se garer un peu n’importe comment. Nous décidons donc de quitter San Salvador pour visiter un petit village colonial, **Panchimalco**… en fait rien d’extraordinaire, une église toute blanche et une galerie d’art assez pittoresque, en dehors de cela rien de spécial.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302813881/in/datetaken/" title="Panchimalco - [El salvador]"><img src="https://live.staticflickr.com/65535/49302813881_ea5b7d8531_h.jpg" width="1600" height="900" alt="Panchimalco - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -164,21 +164,21 @@ Ce matin, levés de bonne heure pour nous rendre au volcan San Salvador dans le 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302757941/in/datetaken/" title="Panchimalco - [El salvador]"><img src="https://live.staticflickr.com/65535/49302757941_6854832c5e_h.jpg" width="1600" height="900" alt="Panchimalco - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On reprend la route et on fait un petit détour vers les portes du diable, un superbe point de vue sur la région. Juste avant d’arriver, je vois un emplacement pour me garer sur la droite. Je regarde dans les rétros, rien, je recule et bang. En fait, il y avait une voiture juste derrière moi que j’ai bien emboutie. Thor n'a absolument rien, c'est ma roue de secours qui a abîmé le capot et la calandre. Police, Police des accidents, assureur adverse, propriétaire du véhicule qui arrive… et mon assurance au Guatemala qui ne répond pas… On tombe sur des gens très gentils et plus peinés pour nous que pour leur voiture. Ils nous trouvent même les enfants d’un de leurs amis qui sont scolarisés au lycée français de San Salvador. Bref on trouve un arrangement et on se sépare avec un selfie, et un document nous déchargeant.
+On reprend la route et on fait un petit détour vers les portes du diable, un superbe point de vue sur la région. Juste avant d’arriver, je vois un emplacement pour me garer sur la droite. Je regarde dans les rétros, rien, je recule et bang!!! En fait, il y avait une voiture juste derrière moi que j’ai bien emboutie. Thor n'a absolument rien, c'est ma roue de secours qui a abîmé le capot et la calandre. Police, Police des accidents, assureur adverse, propriétaire du véhicule qui arrive… et mon assurance au Guatemala qui ne répond pas… On tombe sur des gens très gentils et plus peinés pour nous que pour leur voiture. Ils nous trouvent même les enfants d’un de leur ami qui sont scolarisés au lycée français de San Salvador. Bref, on trouve un arrangement et on se sépare avec un selfie, et un document nous déchargeant.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303287167/in/datetaken/" title="Santa Tecla - [El Salvador]"><img src="https://live.staticflickr.com/65535/49303287167_0731f866e1_h.jpg" width="1600" height="1000" alt="Santa Tecla - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Une fois remis de nos émotions, on quitte la zone pour se rendre à **Suchitoto** où nous trouvons une place dans une station essence qui fait également restaurant. On y passe la soirée devant une bière et des pupusas, la spécialité du El Salvador. Ici fait avec de la farine de riz et garnie avec du fromage et une purée de haricots rouges fris. Très bon. Ici, on vend l'eau, non pas dans des petites bouteilles, mais dans de petits sacs thermo-soudés, il faut juste le percer avec les dents pour boire. C'est peut-être plus économique...
+Une fois remis de nos émotions, on quitte la zone pour se rendre à **Suchitoto** où nous trouvons une place dans une station essence qui fait également restaurant. On y passe la soirée devant une bière et des pupusas, la spécialité du El Salvador. Ici faits avec de la farine de riz et garnies de fromage et de purée de haricots rouges frits. Très bon. Ici, on vend l'eau, non pas dans des petites bouteilles, mais dans de petits sacs thermo-soudés, il faut juste le percer avec les dents pour boire. C'est peut-être plus économique...
 
 ## 29 décembre
 
-Ce matin visite du village de Suchitoto qui est très beau et qui offre de très belles vues sur le lac. Nous avons visité une très belle villa musée, ancienne demeure d’une personne très connue au El Salvador dans le monde des arts, Alejandro Cotto.
+Ce matin, découverte du village de Suchitoto qui est très agréable et qui offre de très belles vues sur le lac. Nous avons visité une très belle villa musée, ancienne demeure d’une personne très connue au El Salvador dans le monde des arts, Alejandro Cotto.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303288372/in/datetaken/" title="Suchitoto - [El Salvador]"><img src="https://live.staticflickr.com/65535/49303288372_eec4a624ea_h.jpg" width="1600" height="900" alt="Suchitoto - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302665926/in/datetaken/" title="Suchitoto - [El salvador]"><img src="https://live.staticflickr.com/65535/49302665926_ea8f4fc5bc_h.jpg" width="1600" height="900" alt="Suchitoto - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-La cathédrale est très belle, toute en longueur avec un dôme recouvert de céramique et surmontée d'un cœur. Nous finissons dans une galerie d'art et trouvons même une crêperie "française"...
+La cathédrale est très belle, toute en longueur avec un dôme recouvert de céramique et surmonté d'un cœur. Nous finissons dans une galerie d'art et trouvons même une crêperie "française"...
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302929677/in/datetaken/" title="Suchitoto - [El salvador]"><img src="https://live.staticflickr.com/65535/49302929677_a8433b5663_h.jpg" width="1600" height="900" alt="Suchitoto - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -190,7 +190,7 @@ De retour à Thor nous mangeons, faisons le plein d’eau et de carburant et pre
 
 **Nous avons vraiment adoré :**
 
-- La gentillesse des gens, on ne peut pas compter le nombre de coups de klaxon, de pousse levé ou simplement un sourire ou un petit bonjour de la main.
+- La gentillesse des gens, on ne peut pas compter le nombre de coups de klaxon, de pouces levés ou simplement un sourire ou un petit bonjour de la main.
 - Les paysages de la route des fleurs ;
 - La ville de Conception de Ataco ;
 - Le Parc Naturel de Cerro Verde et ses volcans ;
