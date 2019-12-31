@@ -53,11 +53,11 @@ Je tombe sur une "Peluqueria Francia" avec une devanture Bleu Blanc Rouge. Je re
 
 ## 22 décembre
 
-Ce matin, on quitte Ahuachapan où contre toute attente nous avons bien dormi. Aujourd’hui, nous faisons la route des fleurs qui va de **Conception de Ataco** à **Sonsonate**. Même si en cette saison il n’y a plus trop de fleurs si ce n’est quelques hibiscus retardataires, cette route de montagne offre de très belles vues sur l’arrière pays du El Salvador. La forêt est très belle avec de nombreuses parcelles de caféiers qui façonnent les flans des montagnes en grandes lignes foncées.
+Ce matin, on quitte Ahuachapan où contre toute attente nous avons bien dormi. Aujourd’hui, nous faisons la route des fleurs qui va de **Concepcion de Ataco** à **Sonsonate**. Même si en cette saison il n’y a plus trop de fleurs si ce n’est quelques hibiscus retardataires, cette route de montagne offre de très belles vues sur l’arrière pays du El Salvador. La forêt est très belle avec de nombreuses parcelles de caféiers qui façonnent les flans des montagnes en grandes lignes foncées.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284809167/in/datetaken/" title="Concepcion de Ataco - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284809167_7413df9c72_h.jpg" width="1600" height="900" alt="Concepcion de Ataco - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous nous arrêtons en premier à Conception de Ataco. Nous avons la chance de trouver une place juste à l’entrée du village, Thor étant trop gros pour s’y aventurer. Nous commençons la visite par une belle église franciscaine au-dessus de laquelle se trouve, en haut d’une colline, un Cerro de la Cruz d’où l’on peut admirer tout le village.
+Nous nous arrêtons en premier à Concepcion de Ataco. Nous avons la chance de trouver une place juste à l’entrée du village, Thor étant trop gros pour s’y aventurer. Nous commençons la visite par une belle église franciscaine au-dessus de laquelle se trouve, en haut d’une colline, un Cerro de la Cruz d’où l’on peut admirer tout le village.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284317466/in/datetaken/" title="Concepcion de Ataco - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284317466_db63524b34_h.jpg" width="1600" height="900" alt="Concepcion de Ataco - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
