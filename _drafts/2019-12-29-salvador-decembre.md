@@ -65,7 +65,7 @@ Les gens que nous rencontrons sont vraiment sympathiques et ont toujours un gest
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284461257/in/datetaken/" title="Concepcion de Ataco - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284461257_3c1ea2b668_h.jpg" width="1600" height="900" alt="Concepcion de Ataco - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous déambulons dans les rues et arrivons au niveau de la place centrale "Parque Fray Rafael Fernandez" et qui est comme dans tous les villages, très animée. Le pueblo est également connue pour deux artistes peintres, les frères Fabru’s, Fabrice et Bruno dont nous visitons leur galerie ainsi que les nombreuses fresques qu’ils ont réalisées ici.
+Nous déambulons dans les rues et arrivons au niveau de la place centrale "Parque Fray Rafael Fernandez" et qui est comme dans tous les villages, très animée. Le pueblo est également connu pour deux artistes peintres, les frères Fabru’s, Fabrice et Bruno dont nous visitons leur galerie ainsi que les nombreuses fresques qu’ils ont réalisées ici.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49283985143/in/datetaken/" title="Concepcion de Ataco - [El Salvador]"><img src="https://live.staticflickr.com/65535/49283985143_26e10a5651_h.jpg" width="1600" height="900" alt="Concepcion de Ataco - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -83,7 +83,7 @@ Dans l’après-midi, nous reprenons cette superbe route, en bon état, et nous 
 
 ## 23 décembre
 
-Ce matin nous partons pour **Chalchuapa** qui abrite deux sites archéologique Maya, El Tazumal et Casa Blanca. Arrivés sur place, on tombe sur une dame qui nous explique que les sites sont fermés jusqu’au 26 décembre. On fait quand même un tour dans le village pour voir la Parroquia Santiago Apostol puis on traverse un immense marché, bondé, en cette veille de fête. De retour sur Santa Ana, nous mangeons dans Thor puis prenons un bus pour le centre historique.
+Ce matin nous partons pour **Chalchuapa** qui abrite deux sites archéologiques Maya, El Tazumal et Casa Blanca. Arrivés sur place, on tombe sur une dame qui nous explique que les sites sont fermés jusqu’au 26 décembre. On fait quand même un tour dans le village pour voir la Parroquia Santiago Apostol puis on traverse un immense marché, bondé, en cette veille de fête. De retour sur Santa Ana, nous mangeons dans Thor puis prenons un bus pour le centre historique.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49284793822/in/datetaken/" title="Santa Ana - [El Salvador]"><img src="https://live.staticflickr.com/65535/49284793822_7ecbb8a233_h.jpg" width="1600" height="1067" alt="Santa Ana - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -97,7 +97,7 @@ La ville n’est pas vraiment belle, heureusement il y a sa cathédrale de style
 
 ## 24 décembre
 
-Nous quittons la ville de Santa Ana pour prendre un bol d’air frais au **Parc National de Cerro Verde** qui se trouve au dessus de **Lago de Coatepeque** à 2000 mètres d’altitude. La route est très belle et offres des vues à la foie sur le lac et à la fois sur San Salvador. Les cultures du café sont omniprésentes.
+Nous quittons la ville de Santa Ana pour prendre un bol d’air frais au **Parc National de Cerro Verde** qui se trouve au dessus de **Lago de Coatepeque** à 2000 mètres d’altitude. La route est très belle et offre des vues à la fois sur le lac et sur San Salvador. Les cultures du café sont omniprésentes.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49285461962/in/datetaken/" title="Cerro Verde - [El Salvador]"><img src="https://live.staticflickr.com/65535/49285461962_e982d29b1b_h.jpg" width="1600" height="900" alt="Cerro Verde - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
