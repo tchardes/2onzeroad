@@ -27,7 +27,7 @@ pois:
 country: El Salvador
 states: [""]
 category: "roadmap"
-flickr-text: ""
+flickr-text: "El Salvador"
 location: "13.931708, -89.262169"
 itinary: "2020/salvador.json"
 mapZoom: 9

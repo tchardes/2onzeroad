@@ -35,7 +35,7 @@ pois:
 country: Belize
 states: ["Corozal", "Orange Walk", "Belize", "Cayo"]
 category: "roadmap"
-flickr-text: ""
+flickr-text: "Belize"
 location: "17.696455, -89.055807"
 itinary: "2020/belize.json"
 mapZoom: 8

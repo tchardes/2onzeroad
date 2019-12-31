@@ -41,7 +41,7 @@ pois:
 country: Guatemala
 states: ["Peten", "Izabal", "Zacapa", "El Progresso", "Solola", "Chimaltenango", "Totonicapan", "Quetzaltenango", "Escuintla", "Jutapia"]
 category: "roadmap"
-flickr-text: ""
+flickr-text: "Guatemala"
 location: "15.763947, -90.113030"
 itinary: "2020/guatemala.json"
 mapZoom: 7
