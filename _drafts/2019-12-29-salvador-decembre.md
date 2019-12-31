@@ -82,24 +82,19 @@ La cathédrale est très belle, toute en longueur avec un dôme recouvert de cé
 
 **Nous avons vraiment adoré :**
 
-- Le site de Tikal ;
-- La région de Flores ;
-- Le Lac Atitlan, ses volcans et petits villages ;
-- Chichicastenango, son marché, ses festivités ;
-- Notre escapade au bord du pacifique avec la rencontre de Greg ;
-- La ville d'Antigua avec son histoire, son architecture et ses volcans ;
-- Les rencontres et partages avec les autres voyageurs qui sont toujours très enrichissants.
+- La gentillesse des gens, on ne peut pas compter le nombre de coups de klaxon, de pousse levé ou simplement un sourire ou un petit bonjour de la main.
+- Les paysages de la route des fleurs ;
+- La ville de Conception de Ataco ;
+- Le Parc Naturel de Cerro Verde et ses volcans ;
+- La ville de Suchitoto
 
 **Nous avons moins aimé :**
 
-- Certaines routes pour leurs mauvais états, voir l'absence de route... ;
-- La capitale qui ne présente que peu d'intérêts, la circulation y est vraiment compliquée, surtout pour nous ;
-- Les conducteurs de camions, bus, taxis qui prennent beaucoup de risques et conduisent trop vite avec des engins en très mauvais état. Les conducteurs, en général, qui ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complétement la circulation.
+- La capitale qui est assez pauvre et ne présente que peu d'intérêts, la circulation y est vraiment compliquée, surtout pour nous ;
+- Comme au Guatemala, les conducteurs de camions, bus, taxis qui prennent beaucoup de risques et conduisent trop vite avec des engins en très mauvais état. Les conducteurs, en général, qui ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complètement la circulation.
 
-Nous avons passé au total 8 jours au El Salvador et avons parcouru près de 1490 Km.
+Nous avons passé au total 8 jours au El Salvador et avons parcouru près de 530 Km. Nous avons visité la moitié du pays la plus intéressante, préférant remonter vers le Nord pour visiter une partie du Honduras.
 
 Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Salvador. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-11-26-guatemala-frontiere %}">ici</a>)**
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_UMHiW9McL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
