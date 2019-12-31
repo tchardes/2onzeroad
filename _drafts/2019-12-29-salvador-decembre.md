@@ -176,7 +176,7 @@ Ce matin visite du village de Suchitoto qui est très beau et qui offre de très
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303288372/in/datetaken/" title="Suchitoto - [El Salvador]"><img src="https://live.staticflickr.com/65535/49303288372_eec4a624ea_h.jpg" width="1600" height="900" alt="Suchitoto - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49303287167/in/datetaken/" title="Santa Tecla - [El Salvador]"><img src="https://live.staticflickr.com/65535/49303287167_0731f866e1_h.jpg" width="1600" height="1000" alt="Santa Tecla - [El Salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49302665926/in/datetaken/" title="Suchitoto - [El salvador]"><img src="https://live.staticflickr.com/65535/49302665926_ea8f4fc5bc_h.jpg" width="1600" height="900" alt="Suchitoto - [El salvador]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 La cathédrale est très belle, toute en longueur avec un dôme recouvert de céramique et surmontée d'un cœur. Nous finissons dans une galerie d'art et trouvons même une crêperie "française"...
 
