@@ -1,41 +1,32 @@
 ---
 layout: page
-description: "Blog - Carnet de Routes - Bilan"
+description: "Blog - Carnet de Routes - Bilan - Informations pratiques"
 title: "ARTICLES"
 header-img: "assets/owner/hero/writing-bg.jpg"
 ---
 
 <div class="row">
+  {% for post in paginator.posts %} {% assign post = site.posts.first %} {% assign content = post.content %}
 
-    {% for post in paginator.posts %}
-
-    {% assign post = site.posts.first %}
-    {% assign content = post.content %}
-
-    <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
-       {% include post_preview.html %}
-    </div>
-    {% endfor %}
- 
- </div>
+  <div class="col-md-3 col-sm-6 col-xs-12 col-xxs-12">
+    {% include post_preview.html %}
+  </div>
+  {% endfor %}
+</div>
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
-    
-    <li class="previous {% if paginator.previous_page %}{% else %}disabled{% endif %}">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Posts Précédents</a>
-    </li>
-    
-    <span class="button-height"> 
-        Page {{ root_url }}{{paginator.page}} of {{ root_url }}{{paginator.total_pages}}
-    </span>
+  <li class="previous {% if paginator.previous_page %}{% else %}disabled{% endif %}">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Posts Précédents</a>
+  </li>
 
+  <span class="button-height">
+    Page {{ root_url }}{{paginator.page}} of {{ root_url }}{{paginator.total_pages}}
+  </span>
 
-    <li class="next {% if paginator.next_page %}{% else %}disabled{% endif %}">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Posts Suivants &rarr;</a>
-    </li>
-
+  <li class="next {% if paginator.next_page %}{% else %}disabled{% endif %}">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Posts Suivants &rarr;</a>
+  </li>
 </ul>
 {% endif %}
-
