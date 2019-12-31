@@ -422,7 +422,7 @@ Nous quittons le camping de bonne heure après avoir fait les pleins et les vide
 - La capitale qui ne présente que peu d'intérêts, la circulation y est vraiment compliquée, surtout pour nous ;
 - Les conducteurs de camions, bus, taxis qui prennent beaucoup de risques et conduisent trop vite avec des engins en très mauvais état. Les conducteurs, en général, qui ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complétement la circulation.
 
-Nous avons passé au total 25 jours au Guatemala et avons parcouru près de 1490 Km.
+Nous avons passé au total 26 jours au Guatemala et avons parcouru près de 1490 Km.
 
 Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du El Salvador. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-21-salvador-frontiere %}">ici</a>)**
 
