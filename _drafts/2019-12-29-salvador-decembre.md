@@ -204,3 +204,5 @@ De retour à Thor nous mangeons, faisons le plein d’eau et de carburant et pre
 Nous avons passé au total 8 jours au El Salvador et avons parcouru près de 530 Km. Nous avons visité la moitié du pays la plus intéressante, préférant remonter vers le Nord pour visiter une partie du Honduras.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UndoF31aLt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
