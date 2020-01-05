@@ -21,7 +21,7 @@ location: "13.793070, -86.570240"
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Honduras et le Nicaragua au niveau du poste frontière de Las Manos en direction de San José.
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
-  **Avant toute chose, il est souhaitable de s'inscrire au moins 7 jours avant son entrée sur le territoire sur le site officiel gouvernemental du Nicaragua à l'adresse : https://solicitudes.migob.gob.ni/. L'inscription est assez rapide et elle permet, soit disant, un passage plus rapide en douanes. A la fin de l'inscription vous devez enregistrer/imprimer un numéro de dossier puis vous recevez un e-mail de confirmation.**
+  Avant toute chose, il est souhaitable de s'inscrire au moins 7 jours avant son entrée sur le territoire sur le site officiel gouvernemental du Nicaragua à l'adresse : https://solicitudes.migob.gob.ni/. L'inscription est assez rapide et elle permet, soit disant, un passage plus rapide en douanes. A la fin de l'inscription vous devez enregistrer/imprimer un numéro de dossier puis vous recevez un e-mail de confirmation.
 </p>
 
 <img src="{{baseurl}}/assets/owner/photos/honduras1.jpg" style="width:100%" />
