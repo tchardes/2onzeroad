@@ -20,20 +20,17 @@ itinary: "2020/honduras.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 29 décembre 2019 au janvier 2010, au cours de laquelle nous avons visité El Salvador.
+Cet article couvre la période du 29 décembre 2019 au janvier 2010, au cours de laquelle nous avons visité une partie du Honduras.
 
 ## 29 décembre
 
-Ce matin visite du village qui est très beau et qui offre de très belles vues sur le lac. Nous avons visité une très belle villa musée, ancienne demeure d’une personne très connue au El Salvador dans les monde des arts.
-Pui visite galerie d’art et de la cathédrale.
+Après la visite de la très ville de Suchitoto, nous décidons de prendre la route en direction du Honduras. Aucun soucis à la frontière, **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-21-salvador-frontiere %}">ici</a>)** nous roulons un petit moment au Honduras avant la nuit, nous grimpons à plus de 2000 mètres dans une très belle forêt aux essences multiples et de nombreuses plantation de café. Toujours pas vu El Gringo…
 
-De retour à Thor nous mangeons, faisons le plein d’eau et de carburant et prenons la route en direction du Honduras. Aucun soucis à la frontière, nous roulons un petit moment au Honduras avant la nuit, nous grimpons à plus de 2000 mètres dans une très belle forêt aux essences multiples et de nombreuses plantation de café. Toujours pas vu El Gringo…
+Nous avons hésiter avant de bifurquer plein Nord vers le Honduras, beaucoup de voyageurs zappent ce pays et filent directement au Nicaragua. Il est vrai que le pays n’offre pas énormément de sites exceptionnels en dehors de Copan et que ce pays dont le dernier coup d’état remonte à 2017 et connu pour être l’un des plus dangereux au monde le taux d’homicides y est particulièrement effrayant. Mais bon c’est ce que l’ons dit de l’Amérique Centrale en général toutefois les touristes sont rarement la cibles de faits très graves. On sera prudents… Et puis il ne faut pas oublier que "Tu bandera es un lampo de cielo", l'hymne national du Honduras parle de la France dans sa 5e strophe et dans des termes assez élogieux, en la citant comme exemple révolutionnaire :
 
-Nous avons hésiter avant de bifurquer plein Nord vers le Honduras, beaucoup de voyageurs zappent ce pays et filent directement au Nicaragua. Il est vrai que le pays n’offre pas énormément de sites exceptionnels en dehors de Copan et que ce pays dont le dernier coup d’état remonte à 2017 et connu pour être l’un des plus dangereux au monde le taux d’homicides y est particulièrement effrayant. Mais bon c’est ce que l’ons dit de l’Amérique Centrale en général toutefois les touristes sont rarement la cibles de faits très graves. On sera prudents…
+> **"Era Francia, la libre, la heroica, que en su sueño de siglos dormida despertaba iracunda a la vidaal reclamo viril de Dantón ; era Francia que enviaba a la muerte la cabeza del rey consagrado y que alzaba, soberbia a su lado el altar de la Diosa razón."**
 
-60130 miles à la frontière.
-
-**(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-21-salvador-frontiere %}">ici</a>)**
+> **_"C'est la France, libre, héroïque, plongée depuis des siècles dans le sommeil, qui a répondu, impatiente de vivre, à l'appel viril de Danton : c'est la France qui a envoyé à la mort la tête de son sacro-saint roi et adressé, superbe à ces côtés, l'autel de la déesse raison."_**
 
 ## 30 décembre
 
