@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "14.453112, -87.644091"
-  name: "Comayagua - Honduras"
-  date: "07 janvier 2020 "
+  coordinates: "14.094062, -87.188922"
+  name: "Tegucigalpa - Honduras"
+  date: "08 janvier 2020 "
 
 # set the encoding to utf-8
 encoding: utf-8
