@@ -3,9 +3,9 @@ layout: blog
 title: "Nicaragua"
 preview: "Cet article couvre la période du 29 décembre 2019 au , au cours de laquelle nous avons traversé et visité le Honduras…"
 parent-id:
-date: 2019-12-30 13:00:00
-from-date: 2019-12-29 12:00:00
-to-date: 2020-01-04 13:00:00
+date: 2020-01-10 13:00:00
+from-date: 2020-01-09 12:00:00
+to-date: 2020-01-10 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt29.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt29.jpg
