@@ -9,7 +9,7 @@ to-date: 2020-01-04 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt29.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt29.jpg
-tags: [histoire, architecture, culturel, volcan]
+tags: [histoire, architecture, culturel, mer-ocean]
 pois: [Ahuachanpan#21-decembre]
 country: Honduras
 states: ["Ocotepeque", "Copan", "Santa Barbara", "Cortes", "Atlantida", "Comayagua", "Francisco Morazan", "El Paraiso"]
