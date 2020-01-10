@@ -46,7 +46,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua2.jpg" style="width:100%" />
 
-- **Parking** - **_Repère 1_** : Le parking se trouve sur la gauche en arrivant, des "facilitateurs" vous montrent où se garer.
+- **Parking** - **_Repère 1_** : Le parking se trouve sur la droite en arrivant, des "facilitateurs" vous montrent où se garer. Ne pas hésiter à remonter toute la file de poids lourds pour arriver jusqu'au poste frontière.
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua4.jpg" style="width:100%" />
 
