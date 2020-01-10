@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "13.636536, -86.476472"
-  name: "Ocotal - Nivaragua"
-  date: "09 janvier 2020 "
+  coordinates: "13.460441, -86.689074"
+  name: "Canyon Somoto - Nicaragua"
+  date: "10 janvier 2020 "
 
 # set the encoding to utf-8
 encoding: utf-8
