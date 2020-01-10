@@ -40,7 +40,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 - **Repère 12** - Poste frontière nicaraguayen fumigation/désinfection ;
 - **Repère 13** - Poste frontière nicaraguayen, derniers contrôles document ;
 - **Repère 14** - Contrôle assurance ;
-- **Repère 15** - Payement taxe municipale.
+- **Repère 15** - Paiement taxe municipale.
 
 ### Sortie du Honduras
 
@@ -52,7 +52,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 - **Immigration** - **_Repère 2_** : Tous les voyageurs doivent se rendre au guichet de l'immigration qui se trouve dans un bâtiment sur la gauche. Contrôle des passeports, tampon de sortie du territoire, c'est très rapide.
 
-- **Douanes** - **_Repère 3_** : Toujours du même côté, se rendre aux douanes pour la fin e l'importation temporaire du véhicule. On vous donne une fiche de renseignements à remplir un comme celle que l'on vous donne dans l'avion avant l'aterrissage. Une fois le document renseigné, un seul pour nous deux, le douanier le récupère avec le document d'importation original et le passeport du conducteur. Après quelques minutes il appose un tampon sur le passeport validant la sortie du véhicule du territoire et vous donne la fiche de renseignement également tamponnée et le passeport.
+- **Douanes** - **_Repère 3_** : Toujours du même côté, se rendre aux douanes pour la fin e l'importation temporaire du véhicule. On vous donne une fiche de renseignements à remplir une comme celle que l'on vous donne dans l'avion avant l'atterrissage. Une fois le document renseigné, un seul pour nous deux, le douanier le récupère avec le document d'importation original et le passeport du conducteur. Après quelques minutes, il appose un tampon sur le passeport validant la sortie du véhicule du territoire et vous donne la fiche de renseignement également tamponnée et le passeport.
 
 - **Agents de changes** - **_Repère 4_** : Des agents de change viennent à vous pour vous changer vos derniers Lempiras et vous proposent Dollar US et Cordoba nicaraguayen. Prévoyez quelques Cordobas pour la suite.
 
@@ -62,23 +62,23 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua3.jpg" style="width:100%" />
 
-Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un peu la maison de fou dans les 12 travaux d'Asterix. Tous les services sont regroupés dans des genres de containers et la commence les vas et viens...
+Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un peu la maison de fous dans les 12 travaux d'Astérix. Tous les services sont regroupés dans des genres de containers et là commence les vas et viens...
 
 - **Parking** - **_Repère 6_** : Le parking se trouve sur la gauche en arrivant, après les baraquements, un policier vous montrent où se garer.
 
-- **Premier contrôle** - **_Repère 7_** :Après un contrôle rapide des passeports on nous fait remplir la même feuille de renseignements que pour le côté Hondurien. Un agent prend le document, on va jusqu'à Thor on ouvre il regarde, signe, tamponne et nous dirige vers la suite.
+- **Premier contrôle** - **_Repère 7_** :Après un contrôle rapide des passeports, on nous fait remplir la même feuille de renseignements que pour le côté Hondurien. Un agent prend le document, on va jusqu'à Thor, on ouvre, il regarde, signe, tamponne et nous dirige vers la suite.
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua5.jpg" style="width:100%" />
 
-- **Contrôle sanitaire** - **_Repère 8_** : Contrôle rapide des passeports, quelques questions sur nos destinations passées et future, tapotage sur le clavier de l'ordinateur, prise de la température avec un lecteur optique au niveau du poignet... c'est bon on est apte au service...
+- **Contrôle sanitaire** - **_Repère 8_** : Contrôle rapide des passeports, quelques questions sur nos destinations passées et futures, tapotage sur le clavier de l'ordinateur, prise de la température avec un lecteur optique au niveau du poignet... c'est bon, on est apte au service...
 
-- **Immigration** - **_Repère 9_** : On nous indique ensuite la baraquement de l'immigration, passeport, feuille de renseignements plus différentes photocopies dont celle du passeport avec les tampons Honduriens. On nous dirige vers un autre baraquement ou une personne se charge de faire les photocopies. Retour immigration, on nous pose plein de questions, puis on nous rend la feuille de renseignements et on nous demande d'aller la faire tamponner par les douanes...
+- **Immigration** - **_Repère 9_** : On nous indique ensuite le baraquement de l'immigration, passeport, feuille de renseignements plus différentes photocopies dont celle du passeport avec les tampons Honduriens. On nous dirige vers un autre baraquement ou une personne se charge de faire les photocopies. Retour immigration, on nous pose plein de questions, puis on nous rend la feuille de renseignements et on nous demande d'aller la faire tamponner par les douanes...
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua6.jpg" style="width:100%" />
 
-- **Importation temporaire de Thor** - **_Repère 10_** : On se rend aux douanes qui regarde la feuille de renseignements et nous indique qu'il manque une signature de la police. On trouve un policier qui traîne par là, on lui explique et il nous indique qu'il faut passer Thor au Scan puis fumigation.
+- **Importation temporaire de Thor** - **_Repère 10_** : On se rend aux douanes qui regarde la feuille de renseignements et nous indique qu'il manque une signature de la police. On trouve un policier qui traîne par là, on lui explique et il nous indique qu'il faut passer Thor au Scanner puis fumigation.
 
-- **Scan** - **_Repère 11_** : On reprend Thor et on se met dans la liste d'attente au milieu des camions pour le scan. Procédure très lente mais gratuite. Une fois scanné je me gare à nouveau. Un autre policier récupère la feuille de renseignements et nous demande d'attendre. Il revient au bout d'un quart d'heure avec la fiche de renseignement signée.
+- **Scan** - **_Repère 11_** : On reprend Thor et on se met dans la liste d'attente au milieu des camions pour le scanner. Procédure très lente mais gratuite. Une fois scanné, je me gare à nouveau. Un autre policier récupère la feuille de renseignements et nous demande d'attendre. Il revient au bout d'un quart d'heure avec la fiche de renseignements signée.
 
 - **Fumigation/désinfection** - **_Repère 12_** : Quand on passe côté nicaraguayen se trouve sur la droite une petite tente avec un agent qui a un genre de pulvérisateur sur le dos et fait le tour des véhicules en aspergeant un produit, surtout sur les bas de caisse et les roues. Nous passons au travers de cette opération.
 
@@ -90,9 +90,9 @@ Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un
 
 - **Derniers contrôles** - **_Repère 13_** : A la sortie, se trouve un exemplaire de tous les agents, douanes, police, immigration qui contrôlent tous les documents. Une experte comptable, certainement, vient et nous récupérer le reçu du paiement de la taxe de 20 $US, pas l'autre de 4 $US...
 
-- **Contrôle de l'assurance de Thor** - **_Repère 14_** : Une monsieur en civil arrive et me demande de voir l'assurance de Thor, je lui sort le document et lui montre la ligne qui précise bien qu'elle couvre également le Nicaragua. En effet, à Guatemala City, nous avons contracté une assurance au tiers pour Thor auprès de Seguros G&T valable pour l'Amérique Centrale à l'exception du Panama.
+- **Contrôle de l'assurance de Thor** - **_Repère 14_** : Une monsieur en civil arrive et me demande de voir l'assurance de Thor, je lui sors le document et lui montre la ligne qui précise bien qu'elle couvre également le Nicaragua. En effet, à Guatemala City, nous avons contracté une assurance au tiers pour Thor auprès de Seguros G&T valable pour l'Amérique Centrale à l'exception du Panama.
 
-- **Paiement Taxe municipale** - **_Repère 15_** : Enfin arrive une dame qui nous demande 1\$US par personne pour soit disant une taxe de la municipalité, on paye et elle nous remet un reçu.
+- **Paiement Taxe municipale** - **_Repère 15_** : Enfin arrive une dame qui nous demande 1\$US par personne pour soit-disant une taxe de la municipalité, on paye et elle nous remet un reçu.
 
 ### Récapitulatif des frais et documents à fournir :
 
@@ -101,11 +101,12 @@ Côté Honduras : (Aucun frais, aucune photocopie)
 Côté Nicaragua :
 
 - Une photocopie des passeports ;
-- Une photocopie des passeports pages des tampons du Honduras (A faire sur place);
+- Une photocopie des passeports pages des tampons du Honduras (à faire sur place);
 - Une photocopie de la carte grise du véhicule ;
 - Une photocopie du permis international et du permis de conduire national ;
+- Une photocopie de la feuille de renseignements (à faire sur place) ;
 
-- 24\$US à l'immigration ;
+- 24\$US (20 + 4) de taxes à l'immigration ;
 - Environ 5 Cordobas pour les photocopies ;
 - 1\$US par personne pour la taxe municipale.
 
