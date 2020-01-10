@@ -448,7 +448,7 @@
   { "name": "suchitoto", "displayName": "Suchitoto", "type": "ville", "country": "El Salvador" },
 
   { "name": "passagehton", "displayName": "Passage frontière Honduras - Nicaragua", "type": "information", "country": "Nicaragua" },
-  { "name": "", "displayName": "", "type": "", "country": "Honduras" },
+  { "name": "passagestoh", "displayName": "Passage frontière El Salvador - Honduras", "type": "information", "country": "Honduras" },
   { "name": "", "displayName": "", "type": "", "country": "Honduras" },
   { "name": "", "displayName": "", "type": "", "country": "Honduras" },
   { "name": "", "displayName": "", "type": "", "country": "Honduras" },

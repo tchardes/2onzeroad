@@ -9,7 +9,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-salva-honduras.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-salva-honduras.jpg
 tags: []
-pois: [passagegtos]
+pois: [passagestoh]
 flickr-text: ""
 country: Honduras
 states: []
