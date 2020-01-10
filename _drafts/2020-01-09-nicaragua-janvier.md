@@ -15,7 +15,7 @@ country: Nicaragua
 states: [""]
 category: "roadmap"
 flickr-text: ""
-location: "14.701542, -87.368219"
+location: "12.527554, -85.970408"
 itinary: "2020/nicaragua.json"
 mapZoom: 7
 ---
