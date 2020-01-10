@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt29.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt29.jpg
 tags: [histoire, architecture, culturel, mer-ocean]
-pois: [Ahuachanpan#21-decembre]
+pois: [copan#30-decembre]
 country: Honduras
 states: ["Ocotepeque", "Copan", "Santa Barbara", "Cortes", "Atlantida", "Comayagua", "Francisco Morazan", "El Paraiso"]
 category: "roadmap"
@@ -34,7 +34,7 @@ Nous avons hésiter avant de bifurquer plein Nord vers le Honduras, beaucoup de 
 
 ## 30 décembre
 
-Nuit très fraîche et très calme. On prend la route de bonne heure car nous avons un long trajet à faire. La route est toujours aussi paradoxale, très large, un revêtement qui à l’air assez récent et pourtant, il y a des trous de partout, de très gros trous bien profond ou bien, d’un coup, de la piste. C’est usant et dangereux, être obligé des zigzaguer en faisant bien sur attention à tous les autres, Corinne c’est fait quelques cheveux blancs de plus. Arrivés à Santa Rosa de Copan nous nous occupons de la logistique, Carte Sim, retrait de liquide, et les courses. On mange sur place et nous reprenons la route en direction de Copan. Et là miracle… la route devient super belle, non plus du goudron mais du béton, la route est très agréable, aucun défaut. On voit que l’on approche d’une zone très touristique. Le long de la route on voit de nombreuse cabanes où ils vendent des pétards et feux d’artifice, certains sont vraiment énorme. Je ne sais pas si c’est fabriqué dans la zone mais nous en avons vu plusieurs dizaines. Arrivés à Copan nous faisons une halte au site archéologique, c’est bien ouvert demain, nous faisons le plein d’eau potable et trouvons une place dans un hôtel qui accepte les RV.
+Nuit très fraîche et très calme. On prend la route de bonne heure car nous avons un long trajet à faire. La route est toujours aussi paradoxale, très large, un revêtement qui à l’air assez récent et pourtant, il y a des trous de partout, de très gros trous bien profond ou bien, d’un coup, de la piste. C’est usant et dangereux, être obligé des zigzaguer en faisant bien sur attention à tous les autres, Corinne c’est fait quelques cheveux blancs de plus. Arrivés à Santa Rosa de Copan nous nous occupons de la logistique, Carte Sim, retrait de liquide, et les courses. On mange sur place et nous reprenons la route en direction de **Copán**. Et là miracle… la route devient super belle, non plus du goudron mais du béton, la route est très agréable, aucun défaut. On voit que l’on approche d’une zone très touristique. Le long de la route on voit de nombreuse cabanes où ils vendent des pétards et feux d’artifice, certains sont vraiment énorme. Je ne sais pas si c’est fabriqué dans la zone mais nous en avons vu plusieurs dizaines. Arrivés à Copan nous faisons une halte au site archéologique, c’est bien ouvert demain, nous faisons le plein d’eau potable et trouvons une place dans un hôtel qui accepte les RV.
 
 ## 31 décembre et 01 janvier
 
@@ -46,7 +46,7 @@ Ce matin nous partons visiter le site archéologique maya de Copan. Il s’agit 
 
 Ce matin nous quittons Copan pour rejoindre la côte Caraïbe du Honduras, longue journée de route en perspective. Si ce n’est pas trop loin en terme de distance, 265 Km, on mettra plus de 5h30 pour les faire sur une route inégale mais dans l’ensemble pas trop mauvaise. On voit sur le bord de la route de nombreuses personnes qui font sécher leur café sur de grandes aires. Avec des genres de grand râteaux, ils mélanges le grains et forme ainsi des sillons. On laisse de côté San Pedro Sula et El Progresso, deux villes où selon les guides il n’y a rien à voir, San Pedro Sula étant en plus l’une des villes les plus dangereuses du Honduras. En route on en profite pour faire le plein de courses, d’essence et de gaz, on est paré pour quelques jours. Après la montagne, nous arrivons en plaine où la canne à sucre replace le café.
 
-Nous arrivons au Jardin Botanique Lancetilla à la fermeture, le garde à l’entrée appelle le directeur qui vient à notre rencontre et nous autorise à dormir dans le parc... moyennant 200 lempiras. A peine nous sommes sortis de Thor que l'on se fait dévorer par les moustiques. La visite de demain va être rock'n'roll. Nous nous enfonçons dans le parc par une piste un peu défoncée et nous garons près des cabañas, on sera seul au monde. Par contre nous sommes presque au niveau de la mer et les températures s’en ressentent, la nuit va être caliente…
+Nous arrivons au **Jardin Botanique Lancetilla** à la fermeture, le garde à l’entrée appelle le directeur qui vient à notre rencontre et nous autorise à dormir dans le parc... moyennant 200 lempiras. A peine nous sommes sortis de Thor que l'on se fait dévorer par les moustiques. La visite de demain va être rock'n'roll. Nous nous enfonçons dans le parc par une piste un peu défoncée et nous garons près des cabañas, on sera seul au monde. Par contre nous sommes presque au niveau de la mer et les températures s’en ressentent, la nuit va être caliente…
 
 ## 03 janvier
 
