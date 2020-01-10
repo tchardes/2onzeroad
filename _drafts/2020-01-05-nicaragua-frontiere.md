@@ -6,7 +6,7 @@ parent-id: 2020-01-10-honduras-janvier
 
 date: 2020-01-05 15:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-salva-honduras.jpg"
+header-img: "assets/owner/blog/header/post-bg-honduras-nica.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-hondu-nicara.jpg
 tags: []
 pois: [passagehton]
