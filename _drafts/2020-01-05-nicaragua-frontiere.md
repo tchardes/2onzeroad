@@ -18,83 +18,93 @@ category: "information"
 location: "13.793070, -86.570240"
 ---
 
-Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Honduras et le Nicaragua au niveau du poste frontière de Las Manos en direction de San José.
+Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Honduras et le Nicaragua au niveau du poste frontière de Las Manos en direction de Ocotal.
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
   Avant toute chose, il est souhaitable de s'inscrire au moins 7 jours avant son entrée sur le territoire sur le site officiel gouvernemental du Nicaragua à l'adresse : https://solicitudes.migob.gob.ni/. L'inscription est assez rapide et elle permet, soit disant, un passage plus rapide en douanes. A la fin de l'inscription vous devez enregistrer/imprimer un numéro de dossier puis vous recevez un e-mail de confirmation.
 </p>
 
-<img src="{{baseurl}}/assets/owner/photos/honduras1.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/nicaragua1.jpg" style="width:100%" />
 
-- **Repère 1** - Pré-contrôle des douanes ;
-- **Repère 2** - Parking ;
-- **Repère 3** - Poste frontière salvadorien douanes (fin importation véhicule) ;
-- **Repère 4** - Poste frontière salvadorien immigration (fin visa personnes) ;
-- **Repère 5** - Poste frontière salvadorien, dernier contrôle document ;
-- **Repère 6** - Poste frontière hondurien immigration (visa personnes) ;
-- **Repère 7** - Agents de change ;
-- **Repère 8** - Parking ;
-- **Repère 9** - Poste frontière hondurien douanes (importation du véhicule) ;
-- **Repère 10** - Poste frontière hondurien, dernier contrôle document.
+- **Repère 1** - Parking ;
+- **Repère 2** - Poste frontière hondurien immigration (fin visa personnes) ;
+- **Repère 3** - Poste frontière hondurien douanes (fin importation véhicule) ;
+- **Repère 4** - Agents de change ;
+- **Repère 5** - Poste frontière hondurien, dernier contrôle document ;
+- **Repère 6** - Parking ;
+- **Repère 7** - Poste frontière nicaraguayen contrôle sanitaire ;
+- **Repère 8** - Poste frontière nicaraguayen immigration (visa personnes)
+- **Repère 9** - Poste frontière nicaraguayen douanes (importation du véhicule) ;
+- **Repère 10** - Poste frontière nicaraguayen, passage du véhicule au scanner.
+- **Repère 11** - Poste frontière nicaraguayen fumigation/désinfection ;
+- **Repère 12** - Poste frontière nicaraguayen, dernier contrôle document ;
+- **Repère 13** - Poste frontière nicaraguayen, contrôle paiement taxe
+- **Repère 14** - Contrôle assurance
+- **Repère 15** - Payement taxe municipale
 
-### Sortie du El Salvador
+### Sortie du Honduras
 
-<img src="{{baseurl}}/assets/owner/photos/honduras2.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/nicaragua2.jpg" style="width:100%" />
 
-- **Douanes** - **_Repère 1_** : Juste avant d'arriver à la frontière, se trouve à gauche un petit local, sous les arbres, qui abritent des agents des douanes. Il s'agit d'un pré-contrôle, il me demande l'original du permis d'importation temporaire et sa photocopie et mon passeport. Il contrôle les documents et visuellement le N° de série. Comme je n'ai pas de photocopie du permis d'importation, il échange au talkie-walkie, appose deux tampons sur le document qu'il me rend et me demande d'avancer vers le grand bâtiment, côté gauche, celui destiné aux touristes.
+- **Parking** - **_Repère 1_** : Les parking se trouve sur la gauche en arrivant, des "facilitateurs" vous montrent où se garer.
 
-<img src="{{baseurl}}/assets/owner/photos/honduras4.jpg" style="width:100%" />
+- **Immigration** - **_Repère 2_** : Tous les voyageurs doivent se rendre au guichet de l'immigration qui se trouve dans un bâtiment sur la gauche. Contrôle des passeports, tampon de sortie du territoire, c'est très rapide.
 
-- **Parking** - **_Repère 2_** : Avancer et trouver une place devant le grand bâtiment.
+- **Douanes** - **_Repère 3_** : Toujours du même côté, se rendre aux douanes pour la fin e l'importation temporaire du véhicule. On vous donne une fiche de renseignements à remplir un comme celle que l'on vous donne dans l'avion avant l'aterrissage. Une fois le document renseigné, un seul pour nous deux, le douanier le récupère avec le document d'importation original et le passeport du conducteur. Après quelques minutes il appose un tampon sur le passeport validant la sortie du véhicule du territoire et vous donne la fiche de renseignement également tamponnée et le passeport.
 
-<img src="{{baseurl}}/assets/owner/photos/honduras5.jpg" style="width:100%" />
+- **Agents de changes** - **_Repère 4_** : Des agents de change viennent à vous pour vous changer vos dernier Lempiras et vous propose Dollar US et Cordoba nicaraguayen.
 
-- **Douanes** - **_Repère 3_** : Un agent des douanes me fait signe de le suivre. Il me conduit devant un bureau où un agent me prend mon original du permis d'importation temporaire, tapote sur son ordinateur, met son tampon, fait une photocopie que je signe et me rend l'original.
+- **Dernier contrôle** - **_Repère 5_** : Juste avant de sortir du Honduras, un agent récupère la feuille de renseignement et après contrôle vous laisse entrer au Nicaragua, pas de zone "libre".
 
-- **Immigration** - **_Repère 4_** : Ensuite tous les voyageurs doivent se rendre au guichet de l'immigration. Contrôle des passeports, deux questions puis il nous donne un petit papier blanc où figure notre sortie du territoire.
+### Entrée au Nicaragua
 
-<img src="{{baseurl}}/assets/owner/photos/honduras6.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/nicaragua3.jpg" style="width:100%" />
 
-- **Dernier contrôle** - **_Repère 5_** : On reprend le véhicule, nous roulons une centaine de mettre avant un dernier contrôle de tous les documents, immigration et douanes, ils prennent et gardent le petit papier blanc.
+Impossible de décrire la procédure pas à pas, tant c'est anarchique, tous les services se trouvent dans des genres de containers et tous regroupés et la commence les vas et viens... Après un contrôle rapide des passeports on nous fait remplir la même feuille de renseignements que pour le côté Hondurien. Un agent prend le document, on va jusqu'à Thor on ouvre il regarde, signe tamponne et nous dirige
 
-C'est terminé et au final assez rapide et surtout gratuit. On repart en direction du Honduras, il faut juste rouler une centaine de mètres.
+- **Parking** - **_Repère 6_** : Le parking se trouve sur la gauche en arrivant, après les baraquements, un policier vous montrent où se garer.
 
-### Entrée au Honduras
+Après un contrôle rapide des passeports on nous fait remplir la même feuille de renseignements que pour le côté Hondurien. Un agent prend le document, on va jusqu'à Thor on ouvre il regarde, signe tamponne et nous dirige au premier bureau.
 
-<img src="{{baseurl}}/assets/owner/photos/honduras3.jpg" style="width:100%" />
+- **Contrôle sanitaire** - **_Repère 7_** : Contrôle rapide des passeports, quelques questions sur nos destinations passées et future, tapotage sur le clavier de l'ordinateur, pris de la température avec un lecteur au niveau du poignet... c'est bon on apte au service...
 
-- **Immigration** - **_Repère 6_** : On se gare comme on peut en face d'un petit bâtiment qui se trouve sur la gauche. Il y a 5 guichets qui servent aussi bien pour les entrées que pour les sorties du territoire. Nous n'avons pas de chance en arrivant quelques secondes après un bus qui sort du pays avec tous ses passagers. Comme d'habitude, vérification de notre première entrée dans l'un des 4 pays, pour nous le Guatémala. Tampon sur le passeport et ils nous demande 3\$US de taxe "Por servicios Migratorios" et nous donne un reçu.
+- **Immigration** - **_Repère 8_** : On nous indique ensuite la baraquement de l'immigration, passeport, feuille de renseignements plus différentes photocopies dont celle du passeport avec les tampons Honduriens. On nous dirige vers un autre baraquement ou une personne se charge de faire les photocopies. Retour immigration, on nous pose plein de questions, puis on nous rend la feuille de renseignements et nous demande d'aller la faire tamponner par les douanes...
 
 <img src="{{baseurl}}/assets/owner/photos/honduras7.jpg" style="width:100%" />
 
 <img src="{{baseurl}}/assets/owner/photos/honduras8.jpg" style="width:100%" />
 
-- **change** - **_Repère 7_** : Autour du bâtiment de l'immigration gravitent plusieurs agents de change. Pour l'importation du véhicule, vous devez vous acquitter de la somme de 788 Lempiras soit environ 34\$US. Si à l'immigration ils m'ont demandé des US Dollars, aux douanes, on ne peut payer qu'avec la monnaie locale.
+- **Importation temporaire de Thor** - **_Repère 9_** : On se rend au douanes qui regarde la feuille de renseignements et nous indique qu'il manque une signature de la police.
 
-- **Parking** - **_Repère 8_** : Avancer de plusieurs centaines de mètres jusqu'à un grand parking sur la gauche, devant le bâtiment des douanes.
+- **Scan** - **_Repère 10_** : On trouve un policier qui traîne par là, on lui explique et et nous indique qu'il faut passer Thor au Scan et fumigation. On reprend Thor et on se met dans la liste d'attente au milieu des camions pour le scan. Procédure très lente. Une fois scanné je me gare à nouveau. Un autre policier récupère la feuille de renseignement et nous demande d'attendre. Il revient au bout d'un quart d'heure avec la fiche de renseignement signée. Ce contrôle est gratuit.
 
-- **Importation temporaire de Thor** - **_Repère 9_** : Le bâtiment des douanes est tout en longueur avec plusieurs bureaux dont un pour l'importation. Je donne mon passeport, l'original du permis d'importation temporaire du El Salvador et toutes les photocopies (détaillées plus bas). Là, c'est un peu long, il remplie plusieurs papiers à la main puis me donne le "permiso de entrada y salida temporal de vehicole" ainsi qu'un reçu de paiement pour les 788 Lempiras. Il tamponne également le passeport avec les références du véhicule. Aucun contrôle physique du N° de série.
+- **Fumigation/désinfection** - **_Repère 11_** : Quand on passe côté nicaraguayen se trouve sur la droite une petite tente avec un agents qui a un genre de pulvérisateur sur le dos et fait le tour du véhicule en aspergeant un produit surtout sur le bas de caisse et les roues. Nous passons au travers de cette opération.
 
-- **Dernier contrôle** - **_Repère 10_** : A la sortie, se trouve un agent qui nous regarde, ouvre la barrière et nous dit d'y aller.
+- **Importation temporaire de Thor** - **_Repère 9_** : retour aux douanes, elle me demande les originaux du permis international, carte grise et passeport et une photocopie de la fiche de renseignements. Aller/retour à la phocopieuse. On attend encore un bon moment et elle nous remet enfin le titre d'importation temporaire. Aucun contrôle physique du N° de série. L'agent me prévient qu'il ne faut surtout pas le perdre, l'amende s'élève à plusieurs centaines de dollar US. Aucun frais pour ces démarches.
 
-<img src="{{baseurl}}/assets/owner/photos/honduras9.jpg" style="width:100%" />
+- **Immigration** - **_Repère 8_** : Retour à l'immigration avec notre feuille de renseignements qui est recouverte de signatures et tampons, on passe à la caisse pour le paiement des deux taxes, on nous remet deux reçus.
 
-- **Assurance Thor** : A Guatemala City, nous avons contracté une assurance au tiers pour Thor auprès de Seguros G&T valable pour l'Amérique Centrale à l'exception du Panama.
+- **Dernier contrôles** - **_Repère 12_** : A la sortie, se trouve un exemplaire de tous les agents, douanes, police, immigration qui contrôle tous les documents.
+
+- **Contrôle paiement des taxes** - **_Repère 13_** : Une experte comptable, certainement, vient et nous récupère le reçu du paiement de la taxe de 20 $US, pas l'autre de 4 $US.
+
+- **Contrôle de l'assurance de Thor** - **_Repère 14_** : Une monsieur en civil arrive et me demande de voir l'assurance de Thor, je lui sort le document et lui montre la ligne qui précise bien qu'elle couvre également le Nicaragua. A Guatemala City, nous avons contracté une assurance au tiers pour Thor auprès de Seguros G&T valable pour l'Amérique Centrale à l'exception du Panama.
+
+- **Paiement Taxe municipale** - **_Repère 15_** : Enfin arrive une dame qui nous demande 1\$US par personne pour soit disant un taxe de la municipalité, on paye et elle nous remet un reçu.
 
 ### Récapitulatif des frais et documents à fournir :
 
-Côté El Salvador : (Aucun frais)
-
-- Une photocopie du permis d'importation du véhicule (que nous n'avions pas)
+Côté Honduras : (Aucun frais, aucune photocopie)
 
 Côté Honduras :
 
-- Le document original d'importation du véhicule du El Salvador ;
-- Une photocopie du passeport du conducteur ;
+- Une photocopie des passeports ;
+- Une photocopie des passeports pages des tampons du Honduras ;
 - Une photocopie de la carte grise du véhicule ;
 - Une photocopie du permis international et du permis de conduite ;
 
-- 3\$US à l'immigration;
-- 788 Lempiras (env. 34\$US) pour l'importation temporaire du véhicule par les douanes.
+- 24\$US à l'immigration ;
+- Environ 5 Cordobas pour les photocopies ;
+- 1\$US par personne pour la taxe municipale.
 
-Pour la petite histoire, nous avons été contrôlé par la police quelques kilomètres avant d'arriver à la frontière côté El Salvador et également contrôlé par la police cette fois au Honduras, juste après avoir passé la frontière. Toutes les démarches prennent un peu plus d'une heure, pas de fumigation-désinfection, pas de contrôle sanitaire. Une fois terminées, le voyage en terres honduriennes peut commencer...
+Toutes les démarches prennent un peu plus d'une heure trente. Une fois terminées, le voyage en terres nicaraguayennes peut commencer...
