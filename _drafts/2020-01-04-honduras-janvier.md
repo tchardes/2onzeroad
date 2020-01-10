@@ -68,9 +68,23 @@ Ce matin la météo ne s’améliore pas, il va pleuvoir toute la semaine. On d�
 
 ## 07 janvier
 
+Ce matin le temps est toujours très couvert, on décide de poursuivre vers l’ouest où il devrait faire encore meilleur. Arrivé à Comayagua, l’ancienne cpaitale du Honduras sous l’occupation espagnole, nous trouvons une place dans un hôtel qui nous accepte. La nuit devrait être plus calme…
+On part à la découverte de cette très belle ville coloniale qui a fait des efforts pour restaurer un peu ces façades. On visite la cathédrale qui posséde le cloché horloge le plus vieux du continent. D’ailleur le cadran de l’horloge à une petite particularité avec le 4 romain écrit IIII au lieu de IV.
+A midi on mange au restaurant ricardon qui touche la cathédrale et qui, soit disant, est le seul établissement vendant de l’alcool aussi près d’une église. On
+
 ## 08 janvier
 
+Ce matin nous quittons l’hôtel et prenons la route pour la capitale. La route est très belle, et payante. Depuis le Mexique nous n’avions plus vu d’autoroute. Arrivé à Tegulcigapa nous sommes surpris de voir de grand immeuble. la ville compte plus d’un milion d’habitants et s’éttand sur tous les flans de montagne alentours. Nous trouvons une place sur le parking d’un immense mall, les agents de sécurités nous trouve un endroit rien que pour nous. De là nous renns un taxi pour nous rnedre en plein centre historique. Comme souvent, pas grand chose à vois de spécial si ce n’est les édifices religieux et les places. Donc nous visitons la cathédrale et l’église santa Dolores et passons devant plusieurs grands édifices, le Palais nacional, le théatre… La ville est embouteillée, très bryante bref c’est une capitale.. de retour à Thor on nous demande de bouger pour un endroit plus calme.
+
 ## 09 janvier
+
+La nuit a été calme mais les camions sont arrivés de bonne heure. Le temps est très gris une nouvelle fois et nous décidons de faire route vers la frontière du Nivaragua. Nous faisons un petit détour et passons la valée des anges, une route de montagne qui traverse le pars national La Tigra. Le village de « Valle des Angeles » est très typique et son centre regorge de boutique d’artisanat local. Nous y passons un bon moment à flanner. Malgrè les nuages très bas et quelques goutes le décor est splendide. Nous roulons ensuite jusquà la frontière. Nous faisons le plein d’essence à Danli car elle est un peu plus chère au Nicaragua. Au cours de notre traversée du Honduras nous avons passé de nombreux contrôles de police et des militaire sans être contrôlé. Ce matin nous avons passé 4 contrôles de police en s’approchant de la frontière et avons été contrôlé à chaque fois. Dont un fois ou le policier avait simplement envie de voir l’aménagement intérieur de Thor…
+Deux kilomètres avant d’arriver à La Manos le poste frontières, la route est bordée de semi remorques sur les deux bas côtés laissant juste un petit couloir pour passer. Le camions sont garés dans les deux sens de circulation, on ne sait pas trop ce qu’ils attendent. On espère que la frontière n’est pas fermée…
+Arrivé au poste Frontière du Honduras on trouve facilement à ce garer, les démarches sont très rapides. Par contre côté Nicaragua, c’est un squetch digne de la BD d’Asterix et Obelix dans la maison qui rend fou dans le 12 travaux d’Asterix.
+Bref au bout d’une heure trente tout est bouclé, sous la pluie, dans la boue…
+Il est déjà tard et on décide de ce poser pour la nuit à Ocotal. Comme la pluie à cessé, on fait un tour dans le village qui est bien sympa, on retire des « Cordoba » et changeons notre carte Sim.
+
+Kilomérage frontière 60887
 
 **Nous avons vraiment adoré :**
 
@@ -88,7 +102,7 @@ Ce matin la météo ne s’améliore pas, il va pleuvoir toute la semaine. On d�
 - La capitale qui ne présente que peu d'intérêts, la circulation y est vraiment compliquée, surtout pour nous ;
 - Les conducteurs de camions, bus, taxis qui prennent beaucoup de risques et conduisent trop vite avec des engins en très mauvais état. Les conducteurs, en général, qui ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complétement la circulation.
 
-Nous avons passé au total 25 jours au Honduras et avons parcouru près de 1490 Km.
+Nous avons passé au total 11 jours au Honduras et avons parcouru près de 1490 Km.
 
 Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Salvador. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-11-26-guatemala-frontiere %}">ici</a>)**
 
