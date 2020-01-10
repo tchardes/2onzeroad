@@ -33,75 +33,79 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 - **Repère 5** - Poste frontière hondurien, dernier contrôle document ;
 - **Repère 6** - Parking ;
 - **Repère 7** - Poste frontière nicaraguayen contrôle sanitaire ;
-- **Repère 8** - Poste frontière nicaraguayen immigration (visa personnes)
+- **Repère 8** - Poste frontière nicaraguayen immigration (visa personnes) ;
 - **Repère 9** - Poste frontière nicaraguayen douanes (importation du véhicule) ;
 - **Repère 10** - Poste frontière nicaraguayen, passage du véhicule au scanner.
 - **Repère 11** - Poste frontière nicaraguayen fumigation/désinfection ;
-- **Repère 12** - Poste frontière nicaraguayen, dernier contrôle document ;
-- **Repère 13** - Poste frontière nicaraguayen, contrôle paiement taxe
-- **Repère 14** - Contrôle assurance
-- **Repère 15** - Payement taxe municipale
+- **Repère 12** - Poste frontière nicaraguayen, derniers contrôles document ;
+- **Repère 13** - Poste frontière nicaraguayen, contrôle paiement taxe ;
+- **Repère 14** - Contrôle assurance ;
+- **Repère 15** - Payement taxe municipale.
 
 ### Sortie du Honduras
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua2.jpg" style="width:100%" />
 
-- **Parking** - **_Repère 1_** : Les parking se trouve sur la gauche en arrivant, des "facilitateurs" vous montrent où se garer.
+- **Parking** - **_Repère 1_** : Le parking se trouve sur la gauche en arrivant, des "facilitateurs" vous montrent où se garer.
+
+<img src="{{baseurl}}/assets/owner/photos/nicaragua4.jpg" style="width:100%" />
 
 - **Immigration** - **_Repère 2_** : Tous les voyageurs doivent se rendre au guichet de l'immigration qui se trouve dans un bâtiment sur la gauche. Contrôle des passeports, tampon de sortie du territoire, c'est très rapide.
 
 - **Douanes** - **_Repère 3_** : Toujours du même côté, se rendre aux douanes pour la fin e l'importation temporaire du véhicule. On vous donne une fiche de renseignements à remplir un comme celle que l'on vous donne dans l'avion avant l'aterrissage. Une fois le document renseigné, un seul pour nous deux, le douanier le récupère avec le document d'importation original et le passeport du conducteur. Après quelques minutes il appose un tampon sur le passeport validant la sortie du véhicule du territoire et vous donne la fiche de renseignement également tamponnée et le passeport.
 
-- **Agents de changes** - **_Repère 4_** : Des agents de change viennent à vous pour vous changer vos dernier Lempiras et vous propose Dollar US et Cordoba nicaraguayen.
+- **Agents de changes** - **_Repère 4_** : Des agents de change viennent à vous pour vous changer vos derniers Lempiras et vous proposent Dollar US et Cordoba nicaraguayen. Prévoyez quelques Cordobas pour la suite.
 
-- **Dernier contrôle** - **_Repère 5_** : Juste avant de sortir du Honduras, un agent récupère la feuille de renseignement et après contrôle vous laisse entrer au Nicaragua, pas de zone "libre".
+- **Dernier contrôle** - **_Repère 5_** : Juste avant de sortir du Honduras, un agent récupère la feuille de renseignements et après contrôle nous laisse entrer au Nicaragua, pas de zone "libre".
 
 ### Entrée au Nicaragua
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua3.jpg" style="width:100%" />
 
-Impossible de décrire la procédure pas à pas, tant c'est anarchique, tous les services se trouvent dans des genres de containers et tous regroupés et la commence les vas et viens... Après un contrôle rapide des passeports on nous fait remplir la même feuille de renseignements que pour le côté Hondurien. Un agent prend le document, on va jusqu'à Thor on ouvre il regarde, signe tamponne et nous dirige
+Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un peu la maison de fou dans les 12 travaux d'Asterix. Tous les services sont regroupés dans des genres de containers et la commence les vas et viens...
 
 - **Parking** - **_Repère 6_** : Le parking se trouve sur la gauche en arrivant, après les baraquements, un policier vous montrent où se garer.
 
-Après un contrôle rapide des passeports on nous fait remplir la même feuille de renseignements que pour le côté Hondurien. Un agent prend le document, on va jusqu'à Thor on ouvre il regarde, signe tamponne et nous dirige au premier bureau.
+Après un contrôle rapide des passeports on nous fait remplir la même feuille de renseignements que pour le côté Hondurien. Un agent prend le document, on va jusqu'à Thor on ouvre il regarde, signe, tamponne et nous dirige vers la suite.
 
-- **Contrôle sanitaire** - **_Repère 7_** : Contrôle rapide des passeports, quelques questions sur nos destinations passées et future, tapotage sur le clavier de l'ordinateur, pris de la température avec un lecteur au niveau du poignet... c'est bon on apte au service...
+<img src="{{baseurl}}/assets/owner/photos/nicaragua5.jpg" style="width:100%" />
 
-- **Immigration** - **_Repère 8_** : On nous indique ensuite la baraquement de l'immigration, passeport, feuille de renseignements plus différentes photocopies dont celle du passeport avec les tampons Honduriens. On nous dirige vers un autre baraquement ou une personne se charge de faire les photocopies. Retour immigration, on nous pose plein de questions, puis on nous rend la feuille de renseignements et nous demande d'aller la faire tamponner par les douanes...
+- **Contrôle sanitaire** - **_Repère 7_** : Contrôle rapide des passeports, quelques questions sur nos destinations passées et future, tapotage sur le clavier de l'ordinateur, prise de la température avec un lecteur optique au niveau du poignet... c'est bon on est apte au service...
 
-<img src="{{baseurl}}/assets/owner/photos/honduras7.jpg" style="width:100%" />
+- **Immigration** - **_Repère 8_** : On nous indique ensuite la baraquement de l'immigration, passeport, feuille de renseignements plus différentes photocopies dont celle du passeport avec les tampons Honduriens. On nous dirige vers un autre baraquement ou une personne se charge de faire les photocopies. Retour immigration, on nous pose plein de questions, puis on nous rend la feuille de renseignements et on nous demande d'aller la faire tamponner par les douanes...
 
-<img src="{{baseurl}}/assets/owner/photos/honduras8.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/nicaragua6.jpg" style="width:100%" />
 
-- **Importation temporaire de Thor** - **_Repère 9_** : On se rend au douanes qui regarde la feuille de renseignements et nous indique qu'il manque une signature de la police.
+- **Importation temporaire de Thor** - **_Repère 9_** : On se rend aux douanes qui regarde la feuille de renseignements et nous indique qu'il manque une signature de la police. On trouve un policier qui traîne par là, on lui explique et il nous indique qu'il faut passer Thor au Scan puis fumigation.
 
-- **Scan** - **_Repère 10_** : On trouve un policier qui traîne par là, on lui explique et et nous indique qu'il faut passer Thor au Scan et fumigation. On reprend Thor et on se met dans la liste d'attente au milieu des camions pour le scan. Procédure très lente. Une fois scanné je me gare à nouveau. Un autre policier récupère la feuille de renseignement et nous demande d'attendre. Il revient au bout d'un quart d'heure avec la fiche de renseignement signée. Ce contrôle est gratuit.
+- **Scan** - **_Repère 10_** : On reprend Thor et on se met dans la liste d'attente au milieu des camions pour le scan. Procédure très lente mais gratuite. Une fois scanné je me gare à nouveau. Un autre policier récupère la feuille de renseignements et nous demande d'attendre. Il revient au bout d'un quart d'heure avec la fiche de renseignement signée.
 
-- **Fumigation/désinfection** - **_Repère 11_** : Quand on passe côté nicaraguayen se trouve sur la droite une petite tente avec un agents qui a un genre de pulvérisateur sur le dos et fait le tour du véhicule en aspergeant un produit surtout sur le bas de caisse et les roues. Nous passons au travers de cette opération.
+- **Fumigation/désinfection** - **_Repère 11_** : Quand on passe côté nicaraguayen se trouve sur la droite une petite tente avec un agent qui a un genre de pulvérisateur sur le dos et fait le tour des véhicules en aspergeant un produit, surtout sur les bas de caisse et les roues. Nous passons au travers de cette opération.
 
-- **Importation temporaire de Thor** - **_Repère 9_** : retour aux douanes, elle me demande les originaux du permis international, carte grise et passeport et une photocopie de la fiche de renseignements. Aller/retour à la phocopieuse. On attend encore un bon moment et elle nous remet enfin le titre d'importation temporaire. Aucun contrôle physique du N° de série. L'agent me prévient qu'il ne faut surtout pas le perdre, l'amende s'élève à plusieurs centaines de dollar US. Aucun frais pour ces démarches.
+- **Importation temporaire de Thor** - **_Repère 9_** : retour aux douanes, elle me demande les originaux du permis international, carte grise et passeport et une photocopie de la fiche de renseignements. Aller/retour à la photocopieuse. On attend encore un bon moment et elle nous remet enfin le titre d'importation temporaire. Aucun contrôle physique du N° de série. L'agent me prévient qu'il ne faut surtout pas le perdre, l'amende s'élève à plusieurs centaines de dollar US. Aucun frais pour ces démarches.
 
 - **Immigration** - **_Repère 8_** : Retour à l'immigration avec notre feuille de renseignements qui est recouverte de signatures et tampons, on passe à la caisse pour le paiement des deux taxes, on nous remet deux reçus.
 
-- **Dernier contrôles** - **_Repère 12_** : A la sortie, se trouve un exemplaire de tous les agents, douanes, police, immigration qui contrôle tous les documents.
+<img src="{{baseurl}}/assets/owner/photos/nicaragua7.jpg" style="width:100%" />
 
-- **Contrôle paiement des taxes** - **_Repère 13_** : Une experte comptable, certainement, vient et nous récupère le reçu du paiement de la taxe de 20 $US, pas l'autre de 4 $US.
+- **Derniers contrôles** - **_Repère 12_** : A la sortie, se trouve un exemplaire de tous les agents, douanes, police, immigration qui contrôlent tous les documents.
 
-- **Contrôle de l'assurance de Thor** - **_Repère 14_** : Une monsieur en civil arrive et me demande de voir l'assurance de Thor, je lui sort le document et lui montre la ligne qui précise bien qu'elle couvre également le Nicaragua. A Guatemala City, nous avons contracté une assurance au tiers pour Thor auprès de Seguros G&T valable pour l'Amérique Centrale à l'exception du Panama.
+- **Contrôle paiement des taxes** - **_Repère 13_** : Une experte comptable, certainement, vient et nous récupérer le reçu du paiement de la taxe de 20 $US, pas l'autre de 4 $US...
 
-- **Paiement Taxe municipale** - **_Repère 15_** : Enfin arrive une dame qui nous demande 1\$US par personne pour soit disant un taxe de la municipalité, on paye et elle nous remet un reçu.
+- **Contrôle de l'assurance de Thor** - **_Repère 14_** : Une monsieur en civil arrive et me demande de voir l'assurance de Thor, je lui sort le document et lui montre la ligne qui précise bien qu'elle couvre également le Nicaragua. En effet, à Guatemala City, nous avons contracté une assurance au tiers pour Thor auprès de Seguros G&T valable pour l'Amérique Centrale à l'exception du Panama.
+
+- **Paiement Taxe municipale** - **_Repère 15_** : Enfin arrive une dame qui nous demande 1\$US par personne pour soit disant une taxe de la municipalité, on paye et elle nous remet un reçu.
 
 ### Récapitulatif des frais et documents à fournir :
 
 Côté Honduras : (Aucun frais, aucune photocopie)
 
-Côté Honduras :
+Côté Nicaragua :
 
 - Une photocopie des passeports ;
-- Une photocopie des passeports pages des tampons du Honduras ;
+- Une photocopie des passeports pages des tampons du Honduras (A faire sur place);
 - Une photocopie de la carte grise du véhicule ;
-- Une photocopie du permis international et du permis de conduite ;
+- Une photocopie du permis international et du permis de conduire national ;
 
 - 24\$US à l'immigration ;
 - Environ 5 Cordobas pour les photocopies ;
