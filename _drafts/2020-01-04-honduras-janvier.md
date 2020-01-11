@@ -86,7 +86,7 @@ Après la visite, nous prenons un tuc tuc qui nous conduit en ville et mangeons 
 
 Ce matin, nous quittons Copán pour rejoindre la côte Caraïbe du Honduras, longue journée de route en perspective. Si ce n’est pas trop loin en terme de distance, 265 Km, on mettra plus de 5h30 pour les faire sur une route inégale mais dans l’ensemble pas trop mauvaise. On voit sur le bord de la route de nombreuses personnes qui font sécher leur café sur de grandes aires. Avec des genres de grands râteaux, ils mélangent les grains et forment ainsi des sillons.
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49312001548/in/datetaken/" title="Copan - [Honduras]"><img src="https://live.staticflickr.com/65535/49312001548_ebbb748c10_h.jpg" width="1600" height="1000" alt="Copan - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49335547828/in/datetaken/" title="Santa Rita - [Honduras]"><img src="https://live.staticflickr.com/65535/49335547828_290a30b0ba_k.jpg" width="2048" height="1152" alt="Santa Rita - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On laisse de côté San Pedro Sula et El Progresso, deux villes où selon les guides il n’y a rien à voir, San Pedro Sula étant en plus, l’une des villes les plus dangereuses du Honduras. En route, on en profite pour faire le plein de courses, d’essence et de gaz, on est paré pour quelques jours. Après la montagne, nous voilà en plaine où la canne à sucre remplace le café.
 
