@@ -17,11 +17,11 @@ pois:
     lancetilla#02-janvier,
     tela#03-janvier,
     ceiba#04-janvier,
-    sanbo#04-janvier,
+    sambo#04-janvier,
     yojoa#06-janvier,
     siguatepeque#06-janvier,
     comayagua#07-janvier,
-    tegulcigapa#08-janvier,
+    tegucigalpa#08-janvier,
     valledeangeles#09-janvier,
     lasmanos#09-janvier,
   ]
@@ -38,7 +38,7 @@ Cet article couvre la période du 29 décembre 2019 au janvier 2010, au cours de
 
 ## 29 décembre
 
-Après la visite de la très ville de Suchitoto, nous décidons de prendre la route en direction du Honduras. Aucun soucis à la frontière, **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-29-honduras-frontiere %}">ici</a>)** nous roulons un petit moment au Honduras avant la nuit, nous grimpons à plus de 2000 mètres dans une très belle forêt aux essences multiples et de nombreuses plantation de café, nous n'avons toujours pas vu "El Gringo"… Nous trouvons finalement un parking qui fera très bien l'affaire pour notre bivouac.
+Après la visite de la très ville de Suchitoto, nous décidons de prendre la route en direction du Honduras. Aucun soucis à la frontière, **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-29-honduras-frontiere %}">ici</a>)** nous roulons un petit moment au Honduras avant la nuit, nous grimpons à plus de 2000 mètres d'altitude dans une très belle forêt aux essences multiples et de nombreuses plantation de café, nous n'avons toujours pas vu "El Gringo"… Nous trouvons finalement un parking qui fera très bien l'affaire pour notre bivouac.
 
 Nous avons hésiter avant de bifurquer plein Nord vers le Honduras, beaucoup de voyageurs zappent ce pays et filent directement au Nicaragua. Il est vrai que le pays n’offre pas énormément de sites exceptionnels en dehors de Copan et que ce pays dont le dernier coup d’état remonte à 2017 et connu pour être l’un des plus dangereux au monde le taux d’homicides y est particulièrement effrayant. Mais bon c’est ce que l’on dit de l’Amérique Centrale en général toutefois les touristes sont rarement la cible de faits très graves. On sera prudents… Et puis il ne faut pas oublier que "**Tu bandera es un lampo de cielo**", l'hymne national du Honduras parle de la France dans sa 5éme strophe en des termes assez élogieux, en la citant comme exemple révolutionnaire :
 
