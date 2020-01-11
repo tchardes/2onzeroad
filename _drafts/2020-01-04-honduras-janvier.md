@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Honduras"
-preview: "Cet article couvre la période du 29 décembre 2019 au , au cours de laquelle nous avons traversé et visité le Honduras…"
+preview: "Cet article couvre la période du 29 décembre 2019 au 09 janvier 2020, au cours de laquelle nous avons traversé et visité le Honduras…"
 parent-id:
 date: 2020-01-09 13:00:00
 from-date: 2019-12-29 12:00:00
@@ -34,7 +34,7 @@ itinary: "2020/honduras.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 29 décembre 2019 au janvier 2010, au cours de laquelle nous avons visité une partie du Honduras.
+Cet article couvre la période du 29 décembre 2019 au 09 janvier 2020, au cours de laquelle nous avons visité une partie du Honduras.
 
 ## 29 décembre
 
