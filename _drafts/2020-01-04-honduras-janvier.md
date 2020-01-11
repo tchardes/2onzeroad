@@ -42,7 +42,9 @@ Après la visite de la très ville de Suchitoto, nous décidons de prendre la ro
 
 Nous avons hésité avant de bifurquer plein Nord vers le Honduras, beaucoup de voyageurs zappent ce pays et filent directement au Nicaragua. Il est vrai que le pays n’offre pas énormément de sites exceptionnels en dehors de Copan et que ce pays, dont le dernier coup d’état remonte à 2017, est connu pour être l’un des plus dangereux au monde le taux d’homicides y est particulièrement effrayant. Mais bon, c’est ce que l’on dit de l’Amérique Centrale en général toutefois les touristes sont rarement la cible de faits très graves. On sera prudents… Et puis il ne faut pas oublier que "**Tu bandera es un lampo de cielo**", l'hymne national du Honduras, parle de la France dans sa 5éme strophe en des termes assez élogieux, en la citant comme exemple révolutionnaire :
 
-> **"Era Francia, la libre, la heroica, que en su sueño de siglos dormida despertaba iracunda a la vidaal reclamo viril de Dantón ; era Francia que enviaba a la muerte la cabeza del rey consagrado y que alzaba, soberbia a su lado el altar de la Diosa razón."** > **_"C'est la France, libre, héroïque, plongée depuis des siècles dans le sommeil, qui a répondu, impatiente de vivre, à l'appel viril de Danton : c'est la France qui a envoyé à la mort la tête de son sacro-saint roi et adressé, superbe à ces côtés, l'autel de la déesse raison."_**
+> **"Era Francia, la libre, la heroica, que en su sueño de siglos dormida despertaba iracunda a la vidaal reclamo viril de Dantón ; era Francia que enviaba a la muerte la cabeza del rey consagrado y que alzaba, soberbia a su lado el altar de la Diosa razón."**
+
+> **_"C'est la France, libre, héroïque, plongée depuis des siècles dans le sommeil, qui a répondu, impatiente de vivre, à l'appel viril de Danton : c'est la France qui a envoyé à la mort la tête de son sacro-saint roi et adressé, superbe à ces côtés, l'autel de la déesse raison."_**
 
 ## 30 décembre
 
