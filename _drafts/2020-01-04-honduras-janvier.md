@@ -40,7 +40,7 @@ Cet article couvre la période du 29 décembre 2019 au janvier 2010, au cours de
 
 Après la visite de la très ville de Suchitoto, nous décidons de prendre la route en direction du Honduras. Aucun soucis à la frontière, **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-29-honduras-frontiere %}">ici</a>)** nous roulons un petit moment au Honduras avant la nuit, nous grimpons à plus de 2000 mètres dans une très belle forêt aux essences multiples et de nombreuses plantation de café, nous n'avons toujours pas vu "El Gringo"… Nous trouvons finalement un parking qui fera très bien l'affaire pour notre bivouac.
 
-Nous avons hésiter avant de bifurquer plein Nord vers le Honduras, beaucoup de voyageurs zappent ce pays et filent directement au Nicaragua. Il est vrai que le pays n’offre pas énormément de sites exceptionnels en dehors de Copan et que ce pays dont le dernier coup d’état remonte à 2017 et connu pour être l’un des plus dangereux au monde le taux d’homicides y est particulièrement effrayant. Mais bon c’est ce que l’on dit de l’Amérique Centrale en général toutefois les touristes sont rarement la cible de faits très graves. On sera prudents… Et puis il ne faut pas oublier que "Tu bandera es un lampo de cielo", l'hymne national du Honduras parle de la France dans sa 5éme strophe en des termes assez élogieux, en la citant comme exemple révolutionnaire :
+Nous avons hésiter avant de bifurquer plein Nord vers le Honduras, beaucoup de voyageurs zappent ce pays et filent directement au Nicaragua. Il est vrai que le pays n’offre pas énormément de sites exceptionnels en dehors de Copan et que ce pays dont le dernier coup d’état remonte à 2017 et connu pour être l’un des plus dangereux au monde le taux d’homicides y est particulièrement effrayant. Mais bon c’est ce que l’on dit de l’Amérique Centrale en général toutefois les touristes sont rarement la cible de faits très graves. On sera prudents… Et puis il ne faut pas oublier que "**Tu bandera es un lampo de cielo**", l'hymne national du Honduras parle de la France dans sa 5éme strophe en des termes assez élogieux, en la citant comme exemple révolutionnaire :
 
 > **"Era Francia, la libre, la heroica, que en su sueño de siglos dormida despertaba iracunda a la vidaal reclamo viril de Dantón ; era Francia que enviaba a la muerte la cabeza del rey consagrado y que alzaba, soberbia a su lado el altar de la Diosa razón."** > **_"C'est la France, libre, héroïque, plongée depuis des siècles dans le sommeil, qui a répondu, impatiente de vivre, à l'appel viril de Danton : c'est la France qui a envoyé à la mort la tête de son sacro-saint roi et adressé, superbe à ces côtés, l'autel de la déesse raison."_**
 
@@ -105,21 +105,17 @@ Bref au bout d’une heure trente tout est bouclé, sous la pluie, dans la boue�
 
 **Nous avons vraiment adoré :**
 
-- Le site de Tikal ;
-- La région de Flores ;
-- Le Lac Atitlan, ses volcans et petits villages ;
-- Chichicastenango, son marché, ses festivités ;
-- Notre escapade au bord du pacifique avec la rencontre de Greg ;
-- La ville d'Antigua avec son histoire, son architecture et ses volcans ;
-- Les rencontres et partages avec les autres voyageurs qui sont toujours très enrichissants.
+- Les paysages de montagne ;
+- La ville de Copán et son site Maya ;
+- La gentillese et la bienveillance des honduriens.
 
 **Nous avons moins aimé :**
 
+- La méteo qui a contrarié pal mal de nos plans ;
 - Certaines routes pour leurs mauvais états, voir l'absence de route... ;
-- La capitale qui ne présente que peu d'intérêts, la circulation y est vraiment compliquée, surtout pour nous ;
 - Les conducteurs de camions, bus, taxis qui prennent beaucoup de risques et conduisent trop vite avec des engins en très mauvais état. Les conducteurs, en général, qui ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complétement la circulation.
 
-Nous avons passé au total 11 jours au Honduras et avons parcouru près de 1242 Km.
+Nous avons passé au total 11 jours au Honduras et avons parcouru près de 1242 Km. Certe le pays ne renferme pas des sites extraordinaires mais les paysages sont vraiments très beau. Nous ne regrettons pas d'avoir fait le détour.
 
 Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Nicaragua. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-01-09-nicaragua-frontiere %}">ici</a>)**
 
