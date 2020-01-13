@@ -2,7 +2,7 @@
 layout: blog
 title: "Passage frontière El salvador - Honduras"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
-parent-id: 2020-01-10-honduras-janvier
+parent-id: 2020-01-09-honduras-janvier
 
 date: 2019-12-29 15:00:00
 author: "Thierry"
