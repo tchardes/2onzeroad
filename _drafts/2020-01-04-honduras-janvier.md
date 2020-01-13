@@ -38,7 +38,7 @@ Cet article couvre la période du 29 décembre 2019 au 09 janvier 2020, au cours
 
 ## 29 décembre
 
-Après la visite de la très ville de Suchitoto, nous décidons de prendre la route en direction du Honduras. Aucun souci à la frontière, **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-29-honduras-frontiere %}">ici</a>)** nous roulons un petit moment au Honduras avant la nuit, nous grimpons à plus de 2000 mètres d'altitude dans une très belle forêt aux essences multiples et de nombreuses plantations de café, nous n'avons toujours pas vu "El Gringo"… Nous trouvons finalement un parking qui fera très bien l'affaire pour notre bivouac.
+Après la visite de la très belle ville de Suchitoto, nous décidons de prendre la route en direction du Honduras. Aucun souci à la frontière, **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2019-12-29-honduras-frontiere %}">ici</a>)** nous roulons un petit moment au Honduras avant la nuit, nous grimpons à plus de 2000 mètres d'altitude dans une très belle forêt aux essences multiples et de nombreuses plantations de café, nous n'avons toujours pas vu "El Gringo"… Nous trouvons finalement un parking qui fera très bien l'affaire pour notre bivouac.
 
 Nous avons hésité avant de bifurquer plein Nord vers le Honduras, beaucoup de voyageurs zappent ce pays et filent directement au Nicaragua. Il est vrai que le pays n’offre pas énormément de sites exceptionnels en dehors de Copan et que ce pays, dont le dernier coup d’état remonte à 2017, est connu pour être l’un des plus dangereux au monde le taux d’homicides y est particulièrement effrayant. Mais bon, c’est ce que l’on dit de l’Amérique Centrale en général toutefois les touristes sont rarement la cible de faits très graves. On sera prudents… Et puis il ne faut pas oublier que "**Tu bandera es un lampo de cielo**", l'hymne national du Honduras, parle de la France dans sa 5éme strophe en des termes assez élogieux, en la citant comme exemple révolutionnaire :
 
@@ -148,16 +148,42 @@ A midi, on mange au restaurant "Ricardon" qui touche la cathédrale et qui, soit
 
 ## 08 janvier
 
-Ce matin nous quittons l’hôtel et prenons la route pour la capitale. La route est très belle, et payante. Depuis le Mexique nous n’avions plus vu d’autoroute. Arrivés à **Tegulcigapa** nous sommes surpris de voir de grands immeubles. La ville compte plus d’un million d’habitants et s’étend sur tous les flans des montagnes alentours. Nous allons directement à la Basilique de Suyapa qui domine la ville. Nous essayons ensuite de nous approcher du centre et trouvons une place sur le parking d’un immense mall, les agents de sécurité nous trouvent un endroit rien que pour nous. De là, nous prenons un taxi pour nous rendre en plein centre historique. Comme souvent, pas grand chose à voir de spécial si ce n’est les édifices religieux et les places. Donc nous visitons la cathédrale et l’église Los Dolores et passons devant plusieurs grands édifices, le palais national, le théâtre… La ville est embouteillée, très bruyante bref c’est une capitale.. de retour à Thor, on nous demande de bouger pour un endroit plus calme.
+Ce matin nous quittons l’hôtel et prenons la route pour la capitale. La route est très belle, et payante. Depuis le Mexique nous n’avions plus vu d’autoroute. Arrivés à **Tegulcigapa** nous sommes surpris de voir de grands immeubles. La ville compte plus d’un million d’habitants et s’étend sur tous les flans des montagnes alentours.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49376675031/in/datetaken/" title="Tegucigalpa - [Honduras]"><img src="https://live.staticflickr.com/65535/49376675031_9d57b3fa11_k.jpg" width="2048" height="1152" alt="Tegucigalpa - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous allons directement à la Basilique de Suyapa qui domine la ville.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49376880282/in/datetaken/" title="Tegucigalpa - [Honduras]"><img src="https://live.staticflickr.com/65535/49376880282_92e9082648_k.jpg" width="2048" height="1152" alt="Tegucigalpa - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49376222853/in/datetaken/" title="Tegucigalpa - [Honduras]"><img src="https://live.staticflickr.com/65535/49376222853_d831a0e893_k.jpg" width="2048" height="1152" alt="Tegucigalpa - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous essayons ensuite de nous approcher du centre et trouvons une place sur le parking d’un immense mall, les agents de sécurité nous trouvent un endroit rien que pour nous. De là, nous prenons un taxi pour nous rendre en plein centre historique. Comme souvent, pas grand chose à voir de spécial si ce n’est les édifices religieux et les places.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49376879702/in/datetaken/" title="Tegucigalpa - [Honduras]"><img src="https://live.staticflickr.com/65535/49376879702_0b10738279_k.jpg" width="2048" height="1152" alt="Tegucigalpa - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49376222703/in/datetaken/" title="Tegucigalpa - [Honduras]"><img src="https://live.staticflickr.com/65535/49376222703_f214d7b7dd_k.jpg" width="2048" height="1152" alt="Tegucigalpa - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Donc nous visitons la cathédrale et l’église Los Dolores et passons devant plusieurs grands édifices, le palais national, le théâtre… La ville est embouteillée, très bruyante bref c’est une capitale.. de retour à Thor, on nous demande de bouger pour un endroit plus calme.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49376222183/in/datetaken/" title="Tegucigalpa - [Honduras]"><img src="https://live.staticflickr.com/65535/49376222183_0afa110e9f_k.jpg" width="2048" height="1152" alt="Tegucigalpa - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49376879072/in/datetaken/" title="Tegucigalpa - [Honduras]"><img src="https://live.staticflickr.com/65535/49376879072_d0cd1e1287_k.jpg" width="2048" height="1152" alt="Tegucigalpa - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49376221668/in/datetaken/" title="Tegucigalpa - [Honduras]"><img src="https://live.staticflickr.com/65535/49376221668_22cf54bc08_k.jpg" width="2048" height="1152" alt="Tegucigalpa - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 09 janvier
 
 La nuit a été calme mais les camions sont arrivés de bonne heure. Le temps est très gris une nouvelle fois et nous décidons de faire route vers la frontière du Nicaragua. Nous faisons un petit détour et passons la vallée des anges, une route de montagne qui traverse le pars national La Tigra. Le village de **Valle des Angeles** est très typique et son centre regorge de boutiques d’artisanat local. Nous y passons un bon moment à flâner. Malgré les nuages très bas et quelques gouttes, le décor est splendide.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49376878702/in/datetaken/" title="Valle De Angeles - [Honduras]"><img src="https://live.staticflickr.com/65535/49376878702_2f441ed87e_k.jpg" width="2048" height="1152" alt="Valle De Angeles - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49376877847/in/datetaken/" title="Valle De Angeles - [Honduras]"><img src="https://live.staticflickr.com/65535/49376877847_c39d652ef6_k.jpg" width="2048" height="1152" alt="Valle De Angeles - [Honduras]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous roulons ensuite jusqu'à la frontière à **Las Manos**. Nous faisons le plein d’essence à Danli car elle est un peu moins chère qu'au Nicaragua. Au cours de notre traversée du Honduras, nous avons passé de nombreux contrôles de police et de l'armée sans être contrôlés une seule fois. Ce matin nous avons passé 4 contrôles de police en s’approchant de la frontière et avons été contrôlés à chaque fois. Dont une fois ou le policier avait simplement envie de voir l’aménagement intérieur de Thor…
 Deux kilomètres avant d’arriver à La Manos le poste frontière, la route est bordée de semi-remorques sur les deux bas côtés laissant juste un petit couloir pour passer. Les camions sont garés dans les deux sens de circulation, on ne sait pas trop ce qu’ils attendent. On espère que la frontière n’est pas fermée…
 Arrivés au poste frontière du Honduras, on trouve facilement à se garer, les démarches sont très rapides. Par contre, côté Nicaragua, c’est un sketch digne de la BD d’Asterix et Obelix, la maison qui rend fou dans le 12 travaux d’Asterix.
-Bref, au bout d’une heure trente tout est bouclé, sous la pluie, dans la boue…
+Bref, au bout d’une heure trente tout est bouclé, sous la pluie, dans la boue… **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-01-09-nicaragua-frontiere %}">ici</a>)**
 
 **Nous avons vraiment adoré :**
 
@@ -171,8 +197,8 @@ Bref, au bout d’une heure trente tout est bouclé, sous la pluie, dans la boue
 - Certaines routes pour leurs mauvais états, voir l'absence de route... ;
 - Les conducteurs de camions, bus, taxis qui prennent beaucoup de risques et conduisent trop vite avec des engins en très mauvais état. Les conducteurs, en général, qui ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complétement la circulation.
 
-Nous avons passé au total 11 jours au Honduras et avons parcouru près de 1242 Km. Certes le pays ne renferme pas des sites extraordinaires mais les paysages sont vraiments beaux. Nous ne regrettons pas d'avoir fait le détour.
-
-Toutes les formalités à la frontière sont réalisées en 1 heure, nous pouvons partir à la découverte du Nicaragua. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-01-09-nicaragua-frontiere %}">ici</a>)**
+Nous avons passé au total 11 jours au Honduras et avons parcouru près de 1242 Km. Certes le pays ne renferme pas des sites extraordinaires en dehors de Copán mais les paysages sont vraiments très beaux. A aucun moment nous nous sommes sentis en insécurité. Nous ne regrettons pas d'avoir fait le détour. Toutes les formalités à la frontière réalisées, nous pouvons partir à la découverte du Nicaragua.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Co-esXP2J2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
