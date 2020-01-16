@@ -12,7 +12,7 @@ tags: []
 pois: [passagehton]
 flickr-text: ""
 country: Nicaragua
-states: []
+states: [Nueva Segovia]
 city: Las Manos
 category: "information"
 location: "13.793070, -86.570240"
