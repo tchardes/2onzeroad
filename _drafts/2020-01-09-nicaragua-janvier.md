@@ -12,7 +12,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt30.jpg
 tags: [histoire, architecture, culturel, volcan]
 pois: [Ahuachanpan#21-decembre]
 country: Nicaragua
-states: [""]
+states: ["Nueva Segovia", "Madriz", "Esteli", "León", "Managua", "Masaya", "Granada"]
 category: "roadmap"
 flickr-text: ""
 location: "12.527554, -85.970408"
