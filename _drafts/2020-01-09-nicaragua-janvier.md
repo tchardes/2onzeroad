@@ -7,7 +7,7 @@ date: 2020-01-10 13:00:00
 from-date: 2020-01-09 12:00:00
 to-date: 2020-01-10 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt29.jpg"
+header-img: "assets/owner/blog/header/post-bg-rt30.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt30.jpg
 tags: [histoire, architecture, culturel, volcan]
 pois: [Ahuachanpan#21-decembre]
