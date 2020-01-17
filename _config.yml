@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "12.105699, -86.261206"
   name: "Managua - Nicaragua"
-  date: "16 janvier 2020 "
+  date: "16 et 17 janvier 2020 "
 
 # set the encoding to utf-8
 encoding: utf-8
