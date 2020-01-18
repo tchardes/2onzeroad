@@ -2,6 +2,7 @@
 {% assign post = include.postToPoint %}
 {% if post.category == "roadmap" %} {% assign iconColor = "#D44141" %} {% endif %}
 {% if post.category == "bilan" %} {% assign iconColor = "#38A353" %} {% endif %}
+{% if post.category == "information" %} {% assign iconColor = "#D4C441" %} {% endif %}
 
 <div class="map-point" iconColor="{{iconColor}}" title="{{ post.title }}" latitude="{{ post.location | split: ',' | first }}" longitude="{{ post.location | split: ',' | last }}">
 
