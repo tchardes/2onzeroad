@@ -4,7 +4,7 @@ title: "Passage frontière Nicaragua - Costa Rica"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
 parent-id: 2020-01-09-honduras-janvier
 
-date: 2020-01-23 15:00:00
+date: 2020-01-21 15:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-honduras-nica.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-nica-costa.jpg
