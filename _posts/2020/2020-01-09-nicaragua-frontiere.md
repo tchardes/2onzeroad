@@ -70,7 +70,7 @@ Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua5.jpg" style="width:100%" />
 
-- **Contrôle sanitaire** - **_Repère 8_** : Contrôle rapide des passeports, quelques questions sur nos destinations passées et futures, tapotage sur le clavier de l'ordinateur, prise de la température avec un lecteur optique au niveau du poignet... c'est bon, on est apte au service...
+- **Contrôle sanitaire** - **_Repère 8_** : Contrôle rapide des passeports, quelques questions sur nos destinations passées et futures, tapotage sur le clavier de l'ordinateur, prise de la température avec un lecteur optique au niveau du poignet... c'est bon, on est apte au service... Attention, si vous voyagez dans l'autre sens, c'est-à-dire venant du Costa Rica, Panama il vous sera demandé une preuve de votre vaccination contre la fièvre jaune.
 
 - **Immigration** - **_Repère 9_** : On nous indique ensuite le baraquement de l'immigration, passeport, feuille de renseignements plus différentes photocopies dont celle du passeport avec les tampons Honduriens. On nous dirige vers un autre baraquement ou une personne se charge de faire les photocopies. Retour immigration, on nous pose plein de questions, puis on nous rend la feuille de renseignements et on nous demande d'aller la faire tamponner par les douanes...
 

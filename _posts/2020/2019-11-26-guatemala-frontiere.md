@@ -55,7 +55,7 @@ Il faut ensuite se diriger sur la gauche pour s'acquitter de l'opération à sav
 
 <img src="{{baseurl}}/assets/owner/photos/Belize-Guate 3.jpg" style="width:100%" />
 
-- **Immigration** - **_Repère 6_** : Il faut se diriger ensuite sur le bâtiment qui se trouve à gauche. A l'intérieur et sur la gauche à nouveau, se trouve un long comptoir, se rendre d'abord du côté immigration, l'agent regarde nos passeports, les scanne puis nous les tamponne sans aucune question. Aucune date, en théorie 90 jours pour les 4 pays suivant : Guatemala, El Salvador, Honduras et Nicaragua.
+- **Immigration** - **_Repère 6_** : Il faut se diriger ensuite sur le bâtiment qui se trouve à gauche. A l'intérieur et sur la gauche à nouveau, se trouve un long comptoir, se rendre d'abord du côté immigration, l'agent regarde nos passeports, les scanne puis nous les tamponne sans aucune question. Aucune date, en théorie 90 jours pour les 4 pays suivants : Guatemala, El Salvador, Honduras et Nicaragua.
 
 - **Importation temporaire de Thor** - **_Repère 6_** : On change de comptoir pour celui de la douane pour s'occuper de l'importation de Thor. Pour effectuer l'opération, l'agent nous demande :
 
