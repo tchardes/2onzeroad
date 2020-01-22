@@ -12,7 +12,7 @@ tags: []
 pois: [passagentocr]
 flickr-text: ""
 country: Costa Rica
-states: [Nueva Segovia]
+states: [Guanacaste]
 city: Peñas Blancas
 category: "information"
 location: "11.215345, -85.612273"
