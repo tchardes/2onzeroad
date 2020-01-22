@@ -18,13 +18,9 @@ category: "information"
 location: "11.215345, -85.612273"
 ---
 
-Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Honduras et le Nicaragua au niveau du poste frontière de Las Manos en direction de Ocotal.
+Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Nicaragua et le Costa Rica au niveau du poste frontière de Peñas Blancas en direction de La Cruz.
 
-<p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
-  Avant toute chose, il est souhaitable de s'inscrire au moins 7 jours avant son entrée sur le territoire sur le site officiel gouvernemental du Nicaragua à l'adresse : https://solicitudes.migob.gob.ni/. L'inscription est assez rapide et elle permet, soit disant, un passage plus rapide en douanes. A la fin de l'inscription vous devez enregistrer/imprimer un numéro de dossier puis vous recevez un e-mail de confirmation.
-</p>
-
-<img src="{{baseurl}}/assets/owner/photos/nicaragua1.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/costa_rica1.jpg" style="width:100%" />
 
 - **Repère 1** - Parking ;
 - **Repère 2** - Poste frontière hondurien immigration (fin visa personnes) ;
@@ -44,11 +40,11 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 ### Sortie du Honduras
 
-<img src="{{baseurl}}/assets/owner/photos/nicaragua2.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/costa_rica2.jpg" style="width:100%" />
 
 - **Parking** - **_Repère 1_** : Le parking se trouve sur la droite en arrivant, des "facilitateurs" vous montrent où se garer. Ne pas hésiter à remonter toute la file de poids lourds pour arriver jusqu'au poste frontière.
 
-<img src="{{baseurl}}/assets/owner/photos/nicaragua4.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/costa_rica4.jpg" style="width:100%" />
 
 - **Immigration** - **_Repère 2_** : Tous les voyageurs doivent se rendre au guichet de l'immigration qui se trouve dans un bâtiment sur la gauche. Contrôle des passeports, tampon de sortie du territoire, c'est très rapide.
 
@@ -60,7 +56,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 ### Entrée au Nicaragua
 
-<img src="{{baseurl}}/assets/owner/photos/nicaragua3.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/costa_rica3.jpg" style="width:100%" />
 
 Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un peu la maison de fous dans les 12 travaux d'Astérix. Tous les services sont regroupés dans des genres de containers et là commence les vas et viens...
 
@@ -68,13 +64,13 @@ Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un
 
 - **Premier contrôle** - **_Repère 7_** :Après un contrôle rapide des passeports, on nous fait remplir la même feuille de renseignements que pour le côté Hondurien. Un agent prend le document, on va jusqu'à Thor, on ouvre, il regarde, signe, tamponne et nous dirige vers la suite.
 
-<img src="{{baseurl}}/assets/owner/photos/nicaragua5.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/costa_rica5.jpg" style="width:100%" />
 
 - **Contrôle sanitaire** - **_Repère 8_** : Contrôle rapide des passeports, quelques questions sur nos destinations passées et futures, tapotage sur le clavier de l'ordinateur, prise de la température avec un lecteur optique au niveau du poignet... c'est bon, on est apte au service... Attention, si vous voyagez dans l'autre sens, c'est-à-dire venant du Costa Rica, Panama il vous sera demandé une preuve de votre vaccination contre la fièvre jaune.
 
 - **Immigration** - **_Repère 9_** : On nous indique ensuite le baraquement de l'immigration, passeport, feuille de renseignements plus différentes photocopies dont celle du passeport avec les tampons Honduriens. On nous dirige vers un autre baraquement ou une personne se charge de faire les photocopies. Retour immigration, on nous pose plein de questions, puis on nous rend la feuille de renseignements et on nous demande d'aller la faire tamponner par les douanes...
 
-<img src="{{baseurl}}/assets/owner/photos/nicaragua6.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/ncosta_rica6.jpg" style="width:100%" />
 
 - **Importation temporaire de Thor** - **_Repère 10_** : On se rend aux douanes qui regarde la feuille de renseignements et nous indique qu'il manque une signature de la police. On trouve un policier qui traîne par là, on lui explique et il nous indique qu'il faut passer Thor au Scanner puis fumigation.
 
@@ -86,7 +82,7 @@ Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un
 
 - **Immigration** - **_Repère 9_** : Retour à l'immigration avec notre feuille de renseignements qui est recouverte de signatures et tampons, on passe à la caisse pour le paiement des deux taxes, on nous remet deux reçus.
 
-<img src="{{baseurl}}/assets/owner/photos/nicaragua7.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/costa_rica7.jpg" style="width:100%" />
 
 - **Derniers contrôles** - **_Repère 13_** : A la sortie, se trouve un exemplaire de tous les agents, douanes, police, immigration qui contrôlent tous les documents. Une experte comptable, certainement, vient et nous récupérer le reçu du paiement de la taxe de 20 $US, pas l'autre de 4 $US...
 
