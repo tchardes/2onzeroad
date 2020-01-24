@@ -472,7 +472,8 @@
   { "name": "", "displayName": "", "type": "", "country": "Nicaragua" },
   { "name": "", "displayName": "", "type": "", "country": "Nicaragua" },
   { "name": "", "displayName": "", "type": "", "country": "Nicaragua" },
-  { "name": "", "displayName": "", "type": "", "country": "Nicaragua" },
+
+  { "name": "passagentocr", "displayName": "Passage frontière Nicaragua - Costa Rica", "type": "information", "country": "Coast Rica" },
 
   { "name": "", "displayName": "", "type": "", "country": "Nicaragua" }
 ]
