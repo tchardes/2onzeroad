@@ -73,7 +73,7 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica3.jpg" style="width:100%" />
 
-- **fumigation/désinfection** - **_Repère 4_** : L'entrée au Costa Rica se fait par un passage sous un hangar pour la fumigation qui est gratuite. A la sortie, prendre le chemin sur la gauche pour revenir sur l'axe principal et rouler une centaine de mètres. Le chemin en face est réservé aux camions.
+- **fumigation/désinfection** - **_Repère 4_** : L'entrée au Costa Rica se fait par un passage sous un hangar pour la fumigation qui est gratuite. A la sortie, **prendre le chemin sur la gauche** pour revenir sur l'axe principal et rouler une centaine de mètres. Le chemin en face est réservé aux camions.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica4.jpg" style="width:100%" />
 
@@ -95,13 +95,13 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica7.jpg" style="width:100%" />
 
-- **Assurance** - **_Repère 08_** : On reprend Thor et roulons une centaine de mètres jusqu'à un grand bâtiment gris des douanes qui se trouve sur votre droite, un peu dans les arbres. Le bâtiment abrite un guichet qui délivre une assurance obligatoire pour tous les étrangers. Présentation des documents et remise d'une assurance "tiers" qui couvre la durée du visa soit 90 jours, on n'a pas le choix de la durée.
+- **Assurance** - **_Repère 08_** : On reprend Thor et roulons une centaine de mètres jusqu'à un grand bâtiment gris des douanes qui se trouve sur votre droite, un peu dans les arbres. Le bâtiment abrite un guichet qui délivre une assurance obligatoire pour tous les véhicules étrangers. Présentation des documents et remise d'une assurance "tiers" qui couvre la durée du visa soit 90 jours, on n'a pas le choix de la durée.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica8et9.jpg" style="width:100%" />
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica8.jpg" style="width:100%" />
 
-- **Importation temporaire** - **_Repère 09_** : Dans la même pièce se trouvent les guichets des douanes à qui l'on remet le dossier complet plus l'assurance, tapotage sur l'ordination et remis du titre d'importation temporaire, la procédure complète est terminée.
+- **Importation temporaire** - **_Repère 09_** : Dans la même pièce se trouvent les guichets des douanes à qui l'on remet le dossier complet plus l'assurance, tapotage sur l'ordination et remise du titre d'importation temporaire, la procédure complète est terminée.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica9.jpg" style="width:100%" />
 
@@ -126,4 +126,4 @@ Côté Costa Rica :
 - Environ 10 Cordobas (ou valeur équivalente en Colones ou Dollars) pour la photocopie ;
 - 48\$US pour l'assurance du véhicule.
 
-Toutes les démarches ont pris plus de 2 heures car par malchance, le guichet de l'assurance a fermé durant une heure, de 14 à 15hOO. Sans ce contretemps, en une heure c'est fait. Il n'y a pas de contrôle sanitaire. Une fois terminées, le voyage en terres costa ricaine peut commencer...
+Toutes les démarches ont pris plus de 2 heures car, par malchance, le guichet de l'assurance a fermé durant une heure, de 14 à 15hOO. Sans ce contretemps, en une heure les démarches sont réalisées. Il n'y a pas de contrôle sanitaire. Une fois terminées, le voyage en terres costa ricaine peut commencer...
