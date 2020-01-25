@@ -259,7 +259,17 @@ La nuit tombée nous quittons le parc et les gardiens nous autorisent à rester 
 
 ## 19 et 20 janvier
 
-Ce matin nous commençons la journée par faire des courses à Masaya puis nous nous garons au centre ville qui n’à rien d’exceptionnel. Direction ensuite **Granada** où nous mangeons puis nous allons jusqu’au port **Asese** pour faire un tour de bateau au milieu des 400 iles qui se trouvent sur l’immense lac Cocibolca ou Lac Nicaragua, **Las Isletas de Granada**. Sur notre guide le bateau devait partir à 15 heures finalement quand nous arrivons vers 13 heures 30 il est déjà en train de partir. Nous faisons donc route vers Granada par le bord le long de son Malecon. Les plages et paillotes sont bondées, nous sommes dimanche. Nous arrivons au port et trouvons un bateau qui fait une petite croisière familiale de 2 heures sur le lac avec un arrêt sur une petite ile, San Pablo où se trouve un ancien fortin.
+Ce matin nous commençons la journée par faire des courses à Masaya puis nous nous garons au centre ville qui n’à rien d’exceptionnel.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431426862/in/datetaken/" title="Masaya - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431426862_7249cc6ad0_k.jpg" width="2048" height="1152" alt="Masaya - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431202706/in/datetaken/" title="Masaya - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431202706_7eac38fa8b_k.jpg" width="2048" height="1152" alt="Masaya - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430728863/in/datetaken/" title="Masaya - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430728863_2611c13bed_k.jpg" width="2048" height="1152" alt="Masaya - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Direction ensuite **Granada** où nous mangeons puis nous allons jusqu’au port **Asese** pour faire un tour de bateau au milieu des 400 iles qui se trouvent sur l’immense lac Cocibolca ou Lac Nicaragua, **Las Isletas de Granada**. Sur notre guide le bateau devait partir à 15 heures finalement quand nous arrivons vers 13 heures 30 il est déjà en train de partir. Nous faisons donc route vers Granada par le bord le long de son Malecon. Les plages et paillotes sont bondées, nous sommes dimanche. Nous arrivons au port et trouvons un bateau qui fait une petite croisière familiale de 2 heures sur le lac avec un arrêt sur une petite ile, San Pablo où se trouve un ancien fortin.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430728428/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430728428_6d9871a6b2_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 C’est effectivement une "croisière" familiale avec spectacle de clown, tabassage en règle d’une pignata par les plus jeunes et pour les grand un petit spectacle musical, on passe un bon moment et les paysages très beaux. Sur de nombreuses iles se trouve des maisons parfois très belles. Comme nous sommes garés sur le parking gardé du port nous demandons si nous pouvons passer la nuit là et il accepte moyennant 100 cordobas.
 
