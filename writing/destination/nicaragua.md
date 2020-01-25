@@ -6,7 +6,7 @@ header-img: "assets/owner/hero/nicaragua-bg.jpg"
 flickr-text: ""
 distance: 795
 days: 15
-photos:
+photos: 258
 videos: 1
 walk: 58
 ---
