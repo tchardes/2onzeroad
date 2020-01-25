@@ -24,7 +24,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 Le poste frontière du Nicaragua est tout neuf et les satellites de google n'ont, apparemment, pas encore survolé la zone.
 
-- **Repère 1** - Prè-contrôle ;
+- **Repère 1** - Pré-contrôle ;
 - **Repère 2** - Poste frontière nicaraguayen, nouvelle zone (Fin immigration et fin importation temporaire)
 - **Repère 3** - Poste frontière nicaraguayen, dernier contrôle document ;
 
@@ -40,7 +40,7 @@ Le poste frontière du Nicaragua est tout neuf et les satellites de google n'ont
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica2.jpg" style="width:100%" />
 
-- **Prè-contrôle** - **_Repère 1_** : Le premier arrêt se fait au niveau d'une guérite bleue où se trouve un agent de police qui contrôle nos passeports et un agent des douanes (polo bleu ciel avec écrit DGA) qui n'a pas envie de nous contrôler et qui nous fait signe de passer.
+- **Pré-contrôle** - **_Repère 1_** : Le premier arrêt se fait au niveau d'une guérite bleue où se trouve un agent de police qui contrôle nos passeports et un agent des douanes (polo bleu ciel avec écrit DGA) qui n'a pas envie de nous contrôler et qui nous fait signe de passer.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica11.jpg" style="width:100%" />
 
@@ -88,7 +88,7 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica5.jpg" style="width:100%" />
 
-- **Importation temporaire** - **_Repère 6_** : En face le grand bâtiment, à droite quand vous arrivez, se trouvent les douanes. On fournit les originaux et photocopie du passeport du conducteur, carte grise, permis international. Il nous demande une photocopie du tampon d'entrée au Costa Rica. Par chance, juste à côté, il y a une petite bicoque qui fait des photocopies... Retour à la douane, l'agent monte un dossier qu'il agrafe, il sort et vient contrôler Thor, notamment le N° se série, valide le dossier qu'il nous remet.
+- **Importation temporaire** - **_Repère 6_** : En face le grand bâtiment, à droite quand vous arrivez, se trouvent les douanes. On fournit les originaux et photocopie du passeport du conducteur, carte grise, permis international. Il nous demande une photocopie du tampon d'entrée au Costa Rica. Par chance, juste à côté, il y a une petite bicoque qui fait des photocopies... Retour à la douane, l'agent monte un dossier qu'il agrafe, il sort et vient contrôler Thor, notamment le N° de série, valide le dossier qu'il nous remet.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica6.jpg" style="width:100%" />
 
@@ -106,7 +106,7 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica9.jpg" style="width:100%" />
 
-- **Derniers contrôles** - **_Repère 10_** : On reprend la route et passons un dernier contrôle, police pour les passeports et douanes pour le véhicule.
+- **Derniers contrôles** - **_Repère 10_** : Nous reprenons la route et passons un dernier contrôle, police pour les passeports et douanes pour le véhicule.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica10.jpg" style="width:100%" />
 
@@ -122,10 +122,10 @@ Côté Nicaragua :
 Côté Costa Rica :
 
 - Une photocopie du conducteur ;
-- Une photocopie du passeport conducteur pages du tampon du Costa Rica (à faire sur place);
+- Une photocopie du passeport conducteur page du tampon du Costa Rica (à faire sur place);
 - Une photocopie de la carte grise du véhicule ;
 - Une photocopie du permis international et du permis de conduire national ;
-- Environ 10 Cordobas (ou valeur équivalente en Colones ou Dollar) pour la photocopie ;
+- Environ 10 Cordobas (ou valeur équivalente en Colones ou Dollars) pour la photocopie ;
 - 48\$US pour l'assurance du véhicule.
 
 Toutes les démarches ont pris plus de 2 heures car par malchance, le guichet de l'assurance a fermé durant une heure, de 14 à 15hOO. Sans ce contretemps, en une heure c'est fait. Il n'y a pas de contrôle sanitaire. Une fois terminées, le voyage en terres costa ricaine peut commencer...
