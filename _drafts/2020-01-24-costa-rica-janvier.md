@@ -58,9 +58,19 @@ Je le rencontre à l’entrée et nous parlons 5 minutes, le vieux monsieur à l
 
 De retour à Thor il est encore tôt et le terrain n’est pas très propice à y passer la nuit et nous décidons de bouger en direction de Léon. Peut avant la nuit on trouve on bivouac au bord de la route.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427093932/in/datetaken/" title="El Jalacate - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427093932_4493e1ced5_z.jpg" width="640" height="360" alt="El Jalacate - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 12 janvier
 
 Ce matin nous partons au bord du **Lac Xolotlán** pour visiter les ruines de **León Viejo**, qui a été entièrement ensevelie en 1610 avec l’explosion du volcan **Momotombo** qui est toujours actif. La vue sur le lac est magnifique, on visite le site inscrit à l’Unesco qui présente les fondations des principaux édifices qui ont été mis à jour en 1967. Suite à cette catastrophe, la ville a deménagée pour l'actuelle ville de León.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427129722/in/datetaken/" title="Puerto Momotombo - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427129722_e6519f146e_z.jpg" width="640" height="360" alt="Puerto Momotombo - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427129342/in/datetaken/" title="Puerto Momotombo - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427129342_e76b23a785_z.jpg" width="640" height="360" alt="Puerto Momotombo - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Sur le site nous voyons de nombreux arbres dont les fruits, je pense des calebasses, poussent directement sur le tronc.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427129377/in/datetaken/" title="Puerto Momotombo - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427129377_609a92161b_z.jpg" width="640" height="360" alt="Puerto Momotombo - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous reprenons la route après manger en empruntant la routes de volcans qui sont très nombreux dans la région. Nous tentons de nous approcher du deuxième volcan actif du Nicaragua, Teluca mais la route n’est pas faite pour Thor nous devons renoncer. Nous finissons finalement à **León**, sur le parking d’un grand centre commercial où nous nous occupons du ravitaillement et après accord du service de sécurité, nous restons là pour la nuit.
 
