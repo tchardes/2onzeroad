@@ -90,21 +90,21 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 - **Importation temporaire** - **_Repère 6_** : En face le grand bâtiment, à droite quand vous arrivez, se trouvent les douanes. On fournit les originaux et photocopie du passeport du conducteur, carte grise, permis international. Il nous demande une photocopie du tampon d'entrée au Costa Rica. Par chance, juste à côté, il y a une petite bicoque qui fait des photocopies... Retour à la douane, l'agent monte un dossier qu'il agrafe, il sort et vient contrôler Thor, notamment le N° se série, valide le dossier qu'il nous remet.
 
-<img src="{{baseurl}}/assets/owner/photos/ncosta_rica6.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/costa_rica6.jpg" style="width:100%" />
 
 - **Photocopie** - **_Repère 7_** : Cabane à photocopies...
 
-<img src="{{baseurl}}/assets/owner/photos/ncosta_rica7.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/costa_rica7.jpg" style="width:100%" />
 
 - **Assurance** - **_Repère 08_** : On reprend Thor et roulons une centaine de mètres jusqu'à un grand bâtiment gris des douanes qui se trouve sur votre droite, un peu dans les arbres. Le bâtiment abrite un guichet qui délivre une assurance obligatoire pour tous les étrangers. Présentation des documents et remise d'une assurance "tiers" qui couvre la durée du visa soit 90 jours, on n'a pas le choix de la durée.
 
-<img src="{{baseurl}}/assets/owner/photos/ncosta_rica8et9.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/costa_rica8et9.jpg" style="width:100%" />
 
-<img src="{{baseurl}}/assets/owner/photos/ncosta_rica8.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/costa_rica8.jpg" style="width:100%" />
 
 - **Importation temporaire** - **_Repère 09_** : Dans la même pièce se trouvent les guichets des douanes à qui l'on remet le dossier complet plus l'assurance, tapotage sur l'ordination et remis du titre d'importation temporaire, la procédure complète est terminée.
 
-<img src="{{baseurl}}/assets/owner/photos/ncosta_rica9.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/costa_rica9.jpg" style="width:100%" />
 
 - **Derniers contrôles** - **_Repère 10_** : On reprend la route et passons un dernier contrôle, police pour les passeports et douanes pour le véhicule.
 
