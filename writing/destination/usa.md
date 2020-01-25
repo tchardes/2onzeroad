@@ -6,7 +6,7 @@ header-img: "assets/owner/hero/usa-bg.jpg"
 flickr-text: ""
 distance: 52606
 days: 325
-photos: 4907
+photos: 4944
 videos: 17
 mapZoom: 2
 walk: 1457

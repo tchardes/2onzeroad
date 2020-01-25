@@ -6,7 +6,7 @@ header-img: "assets/owner/hero/salvador-bg.jpg"
 flickr-text: ""
 distance: 534
 days: 8
-photos: 92
+photos: 94
 videos: 1
 walk: 31
 ---
