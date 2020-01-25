@@ -271,8 +271,57 @@ Direction ensuite **Granada** où nous mangeons puis nous allons jusqu’au port
 
 C’est effectivement une "croisière" familiale avec spectacle de clown, tabassage en règle d’une pignata par les plus jeunes et pour les grand un petit spectacle musical, on passe un bon moment et les paysages très beaux. Sur de nombreuses iles se trouve des maisons parfois très belles. Comme nous sommes garés sur le parking gardé du port nous demandons si nous pouvons passer la nuit là et il accepte moyennant 100 cordobas.
 
-Ce matin nous quitons le port pour faire un saut de puce et nous garer au sein de la croix rouge, nous pouvons y laisser Thor pour la journée et y dormir cette nuit. Après manger nous partons à pied en ville et visitons les principaux édifices, les Eglises de Guadelupe, Sans Francisco, La Merced et ben sur la Cathédrale de l’immaculée conception qui domine la ville avec sa couleur éclatante. Dans celle de la Merced, je ponte en haut du clocher qui m’offre une très belle vue sur la ville. Nous visitons le Centre Culturel Museo Convento San Francisco, très bel ancien couvent qui a été transformé en musée d’art et enfin nous sommes allés à la Casa de Los Tres Mundos, un genre de centre culturel avec une très belle mosaique dans un patio.
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431201846/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431201846_f4da0f1e19_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431202181/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431202181_d4948eb73e_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431201706/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431201706_db9cae873e_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431201706/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431201706_db9cae873e_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431201296/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431201296_8743cd9ba1_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431201256/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431201256_f73bb0d0ab_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Ce matin nous quitons le port pour faire un saut de puce et nous garer au sein de la croix rouge, nous pouvons y laisser Thor pour la journée et y dormir cette nuit. Après manger nous partons à pied en ville et visitons les principaux édifices, les Eglises de Guadelupe, Sans Francisco, La Merced et ben sur la Cathédrale de l’immaculée conception qui domine la ville avec sa couleur éclatante.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430726873/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430726873_a4da394b5e_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431201041/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431201041_51eb36e5c2_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430726998/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430726998_03b63293ae_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431423232/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431423232_03c7fb46c2_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Dans celle de la Merced, je monte en haut du clocher qui m’offre une très belle vue sur la ville.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430725038/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430725038_9935ccb0d6_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430724983/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430724983_a0484445a4_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430724913/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430724913_dec586dfcb_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous visitons le Centre Culturel Museo Convento San Francisco, très bel ancien couvent qui a été transformé en musée d’art et enfin nous sommes allés à la Casa de Los Tres Mundos, un genre de centre culturel avec une très belle mosaique dans un patio.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430726083/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430726083_cb8abd96da_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431423952/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431423952_fc7e114bb4_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430725593/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430725593_6e0cac63db_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431423182/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431423182_aef618035b_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Sur la grande place nous rencontrons une famille d’italiens, un couple et deux filles qui voyages depuis 4 ans en vélo depuis l’Argentine. Nous discutons un long moment, ils nous raconstent leurs expériences, leur organisation, c’est très intéressant. L’épouse à son vélo et le marie et les deux filles sont su un vélo très particulier fabriqué en allemagnes.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49429824663/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49429824663_205c0c155b_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On fini l'après-midi à flâner dans cette très belle ville.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431198776/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431198776_2d6dff64b5_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431323696/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431323696_29481865af_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430724208/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430724208_839f9cde28_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 21 janvier
 
