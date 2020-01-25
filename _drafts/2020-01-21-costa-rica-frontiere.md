@@ -114,7 +114,6 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 Côté Nicaragua :
 
-- Une photocopie des passeports ;
 - Une photocopie de la carte grise du véhicule ;
 - Une photocopie du permis international et du permis de conduire national ;
 - 2\$US par personne.
@@ -122,7 +121,7 @@ Côté Nicaragua :
 Côté Costa Rica :
 
 - Une photocopie du conducteur ;
-- Une photocopie du passeport conducteur page du tampon du Costa Rica (à faire sur place);
+- Une photocopie du passeport conducteur, page du tampon du Costa Rica (à faire sur place);
 - Une photocopie de la carte grise du véhicule ;
 - Une photocopie du permis international et du permis de conduire national ;
 - Environ 10 Cordobas (ou valeur équivalente en Colones ou Dollars) pour la photocopie ;
