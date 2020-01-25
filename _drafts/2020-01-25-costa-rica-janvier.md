@@ -3,9 +3,9 @@ layout: blog
 title: "Costa Rica"
 preview: "Cet article couvre la période du 24 janvier au février 2020, au cours de laquelle nous avons traversé et visité le Honduras…"
 parent-id:
-date: 2020-01-24 13:00:00
+date: 2020-01-25 13:00:00
 from-date: 2020-01-24 12:00:00
-to-date: 2020-01-24 13:00:00
+to-date: 2020-01-25 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt30.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt31.jpg
