@@ -43,7 +43,7 @@ Le poste frontière du Nicaragua est tout neuf et les satellites de google n'ont
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica11.jpg" style="width:100%" />
 
-- **Immigration - Douanes** - **_Repère 2_** : On arrive rapidement à un rond-point pas très bien indiqué, il faut passer au centre où est indiqué "Terminal de pasajeros" en direction du grand bâtiment blanc. Tous les voyageurs doivent se rendre au guichet de l'immigration qui se trouve dans un bâtiment en face avec écrit "Salida Nicaragua". Contrôle des passeports, tampon de sortie du territoire, et paiement d'une taxe de 2\$US par personne, remise d'un reçu. C'est très rapide.
+- **Immigration - Douanes** - **_Repère 2_** : On arrive rapidement à un rond-point pas très bien indiqué, il faut passer au centre où est indiqué "Terminal de pasajeros" en direction du grand bâtiment blanc. Tous les voyageurs doivent se rendre au guichet de l'immigration qui se trouve dans le bâtiment en face avec écrit "Migration - Salida Nicaragua". Contrôle des passeports, tampon de sortie du territoire, et paiement d'une taxe de 2\$US par personne, remise d'un reçu. C'est très rapide.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica27.jpg" style="width:100%" />
 
@@ -59,7 +59,7 @@ Il faut ensuite se rendre dans un petit bureau, sur le parking, où se trouve un
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica24.jpg" style="width:100%" />
 
-Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigration, se trouve un guichet des douanes, on remet les documents, elle tapote sur son ordinateur, tamponne et signe la fiche de renseignement qu'elle vous remet.
+Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigration, se trouve un guichet des douanes, on remet les documents, elle tapote sur son ordinateur, tamponne et signe la fiche de renseignement qu'elle vous remet. L'importation du véhicule est levée.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica23.jpg" style="width:100%" />
 
@@ -73,13 +73,13 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica3.jpg" style="width:100%" />
 
-- **fumigation/désinfection** - **_Repère 4_** : L'entrée au Costa Rica se fait par un passage sous un hangar pour la fumigation qui est gratuite. A la sortie, **prendre le chemin sur la gauche** pour revenir sur l'axe principal et rouler une centaine de mètres. Le chemin en face est réservé aux camions.
+- **fumigation/désinfection** - **_Repère 4_** : L'entrée au Costa Rica se fait par un passage sous un hangar pour la fumigation qui est gratuite. A la sortie, **prendre le chemin sur la gauche** pour revenir sur l'axe principal et rouler une centaine de mètres. Le chemin en face le hangar est réservé aux poids-lourds.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica4.jpg" style="width:100%" />
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica41.jpg" style="width:100%" />
 
-- **immigration** - **_Repère 5_** : Il faut d'abord trouver une place pour se stationner, avant ou après le grand bâtiment qui se trouve sur votre gauche. Dans le bâtiment, plusieurs guichets, deux questions, notamment notre première destination, puis tampon d'entrée au Costa Rica pour 90 jours. C'est très rapide.
+- **immigration** - **_Repère 5_** : Il faut d'abord trouver une place pour se stationner, avant ou après le grand bâtiment qui se trouve sur votre gauche. Dans ce bâtiment, plusieurs guichets, deux questions, notamment notre première destination, puis tampon d'entrée au Costa Rica pour 90 jours. C'est très rapide.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica4a5.jpg" style="width:100%" />
 
@@ -87,7 +87,7 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica5.jpg" style="width:100%" />
 
-- **Importation temporaire** - **_Repère 6_** : En face le grand bâtiment, à droite quand vous arrivez, se trouvent les douanes. On fournit les originaux et photocopie du passeport du conducteur, carte grise, permis international. Il nous demande une photocopie du tampon d'entrée au Costa Rica. Par chance, juste à côté, il y a une petite bicoque qui fait des photocopies... Retour à la douane, l'agent monte un dossier qu'il agrafe, il sort et vient contrôler Thor, notamment le N° de série, valide le dossier qu'il nous remet.
+- **Importation temporaire** - **_Repère 6_** : En face le grand bâtiment, à droite quand vous arrivez, se trouvent les douanes. On fournit les originaux et photocopie du passeport du conducteur, carte grise, permis international. Il nous demande une photocopie du tampon d'entrée au Costa Rica. Par chance, juste à côté, il y a une petite bicoque qui fait des photocopies... Retour à la douane, l'agent monte un dossier qu'il agrafe, il sort et vient contrôler Thor, notamment le N° de série, puis valide le dossier qu'il nous remet.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica6.jpg" style="width:100%" />
 
@@ -95,7 +95,7 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica7.jpg" style="width:100%" />
 
-- **Assurance** - **_Repère 08_** : On reprend Thor et roulons une centaine de mètres jusqu'à un grand bâtiment gris des douanes qui se trouve sur votre droite, un peu dans les arbres. Le bâtiment abrite un guichet qui délivre une assurance obligatoire pour tous les véhicules étrangers. Présentation des documents et remise d'une assurance "tiers" qui couvre la durée du visa soit 90 jours, on n'a pas le choix de la durée.
+- **Assurance** - **_Repère 08_** : On reprend Thor et roulons encore une centaine de mètres jusqu'à un grand bâtiment gris des douanes qui se trouve sur la droite, un peu dans les arbres. Le bâtiment abrite un guichet qui délivre une assurance obligatoire pour tous les véhicules étrangers. Présentation des documents et remise d'une assurance "tiers" qui couvre la durée du visa soit 90 jours, on n'a pas le choix de la durée.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica8et9.jpg" style="width:100%" />
 
