@@ -10,34 +10,9 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt30.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt30.jpg
 tags: [histoire, architecture, culturel, volcan]
-pois:
-  [
-    ocotal#09-janvier,
-    somoto#10-janvier,
-    esteli#11-janvier,
-    tisey#11-janvier,
-    jalacate#11-janvier,
-    xolotlan#12-janvier,
-    leonviejo#12-janvier,
-    momotombo#12-janvier,
-    leonnica#12-janvier,
-    poneloya#14-et-15-janvier,
-    managua#16-et-17-janvier,
-    masaya#18-janvier,
-    catarina#18-janvier,
-    apoyo#18-janvier,
-    coyotepe#18-janvier,
-    parcmasaya#18-janvier,
-    volcansantiago#18-janvier,
-    granada#19-et-20-janvier,
-    asese#19-et-20-janvier,
-    lasisletas#19-et-20-janvier,
-    sanjorge#21-janvier,
-    ometepe#21-janvier,
-    sanjuan#22-au-24-janvier,
-  ]
+pois: [sanjuan#24-janvier]
 country: Costa Rica
-states: ["Nueva Segovia", "Madriz", "Esteli", "León", "Managua", "Masaya", "Granada", "Rivas"]
+states: ["Guanacaste"]
 category: "roadmap"
 flickr-text: ""
 location: "12.527554, -85.970408"
