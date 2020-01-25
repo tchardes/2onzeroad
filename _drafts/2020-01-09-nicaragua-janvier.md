@@ -10,7 +10,32 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt30.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt30.jpg
 tags: [histoire, architecture, culturel, volcan]
-pois: [Ahuachanpan#21-decembre]
+pois:
+  [
+    ocotal#09-janvier,
+    somoto#10-janvier,
+    esteli#11-janvier,
+    tisey#11-janvier,
+    jalacate#11-janvier,
+    xolotlan#12-janvier,
+    leonviejo#12-janvier,
+    momotombo#12-janvier,
+    leonnica#12-janvier,
+    poneloya#14-et-15-janvier,
+    managua#16-et-17-janvier,
+    masaya#18-janvier,
+    catarina#18-janvier,
+    apoyo#18-janvier,
+    coyotepe#18-janvier,
+    parcmasaya#18-janvier,
+    volcansantiago#18-janvier,
+    granada#19-et-20-janvier,
+    asese#19-et-20-janvier,
+    lasisletas#19-et-20-janvier,
+    sanjorge#21-janvier,
+    ometepe#21-janvier,
+    sanjuan#22-au-24-janvier,
+  ]
 country: Nicaragua
 states: ["Nueva Segovia", "Madriz", "Esteli", "León", "Managua", "Masaya", "Granada", "Rivas"]
 category: "roadmap"
@@ -42,7 +67,7 @@ Nous empruntons une piste pour accéder au parc mais au bout de 4 kilomètres je
 
 ## 12 janvier
 
-Ce matin nous partons au bord du **Lac Xolotlán** pour visiter les ruines de **León Viejo**, qui a été entièrement ensevelie en 1610 avec l’explosion du volcan **Momotombo** qui est toujours actif. La vue sur le lac est magnifique, on visite le site inscrit à l’Unesco qui présente les fondations des principaux édifices qui ont été mis à jour en 1967. Suite à cette catastrophe, la ville a demnagée pour l'actuelle ville de León.
+Ce matin nous partons au bord du **Lac Xolotlán** pour visiter les ruines de **León Viejo**, qui a été entièrement ensevelie en 1610 avec l’explosion du volcan **Momotombo** qui est toujours actif. La vue sur le lac est magnifique, on visite le site inscrit à l’Unesco qui présente les fondations des principaux édifices qui ont été mis à jour en 1967. Suite à cette catastrophe, la ville a deménagée pour l'actuelle ville de León.
 
 Nous reprenons la route après manger en empruntant la routes de volcans qui sont très nombreux dans la région. Nous tentons de nous approcher du deuxième volcan actif du Nicaragua, Teluca mais la route n’est pas faite pour Thor nous devons renoncer. Nous finissons finalement à **León**, sur le parking d’un grand centre commercial où nous nous occupons du ravitaillement et après accord du service de sécurité, nous restons là pour la nuit.
 
@@ -68,13 +93,11 @@ Nous faisons route vers l’océan Pacifique et nous arrêtons près de Las Peñ
 
 Nous décidons de rester une journée de plus au bord de l’océan. A midi nous mangeons dans le restaurant "Rancho Alex" qui se trouve à côté de nous, très bon poisson.
 
-## 16 janvier
+## 16 et 17 janvier
 
 Route vers **Managua** la capitale où nous trouvons un bivouac sur une immense place, gardée 24/24. Nous nous garons à côté d’un camper argentin. Après avoir discuté avec la police, nous partons faire un petit tour sur le malecon, nous voyons les fameux arbres de vie qui sont assez impressionnant. Il s'agit de sculptures en acier recouverte de petites lumières. Ces arbres ont fait controverses ayant coûté plus de 20000€ pièce, il y en a 140, construits par un proche du Président Daniel Ortega. En tout cas ces arbres enjolivent assez bien la ville qui au demeurant n'est pas terrible. Soumise aux tremblements de terre il y un seul grand bâtiment dans le ville.
 
 Nous passons un bon moment dans l’enceinte du port Salvador Allende qui abrite de nombreux bars et restaurants et met à disposition des visiteurs de très nombreux palapas directement au bord du lac, c’est très agréable. Nous buvons un coup dans un bar et notre voisin, un mexicain nous parle pendant un bom moment et paye même des mariachis pour qu’ils nous jouent des airs du folklore Nicaraguayen. De retour à Thor nous faisons la rencontre de Sergio, notre voisin, un Uruguayen qui habite à Buenos Aires, un digital nomade d’un soixantaine d’années. Ca fini dans Tor autour d’une bière, nous passons un excellent moment. En soirée je pars faire des photos de nuits de ces curieux arbres de vie et des monuments qui nous entourent.
-
-## 17 janvier
 
 Ce matin nous partons à la découverte de la capitale, avec sa Cathédrale en "presque" ruine et fermée suite à de nombreux tremblements de terre (le dernier remontant à 1972), son Palacio National transformé en musée d’art et en bibliothèque, son mirador qui permet d’avoir une très belle vue sur la Laguna de Tiscapa et sur toute la ville avec au fond le Lac Xolotlan et la chaîne de volcans dont le Momotombo. Il y a de nombreuses statuts ou représentations du général Sandino le héro national, ainsi que de l’ancien président du Vénézuela H. Chavez, sans oublier Bolivar… A midi on mange dans un resto asiatique pour changer un peu, très bon repas, puis retour à Thor en taxi en milieu d’après-midi du coup Corinne me tond, cheveux et barbe…
 
@@ -84,20 +107,18 @@ Tôt ce matin on entendait des bruits de ferraille, je pensais que c’était le
 
 Deux heures plus tard tout est fini, les gens remontent dans les cars et disparaissent… on peu enfin partir. Avant de quitter la capitale nous faisons un arrêt à la nouvelle cathédrale à l’architecture très contemporaine avec une entrée qui rappelle celle des blockhaus allemands du mur de l'atlantique. Son toit est recouvert de petits puits de lumière. Elle possède plusieurs chapelles dans une en forme de demi sphère de couleur rouge/rose à l’intérieur, surprenant...
 
-Nous faisons route en direction de **Masaya**, célèbre pour ces volcans. Nous nous arrêtons à l’entrée du parc pour nous renseigner des horaires car il y a deux visites, une de jour et une en soirée pour voir le lac de lave. On reviendra donc à 17 heures. Nous poursuivons jusqu’à **Catarina** en son mirrador qui permet d’avoir une très belle vue sur la Lagune de Apoyo d’où l’on peut également voir la ville de Granada au loin.
+Nous faisons route en direction de **Masaya**, célèbre pour ces volcans. Nous nous arrêtons à l’entrée du parc pour nous renseigner des horaires car il y a deux visites, une de jour et une en soirée pour voir le lac de lave. On reviendra donc à 17 heures. Nous poursuivons jusqu’à **Catarina** en son mirrador qui permet d’avoir une très belle vue sur la **Lagune de Apoyo** d’où l’on peut également voir la ville de Granada au loin.
 
-Nous mangeons sur place, je fais un petit trail qui longe la lagune puis nous revenons sur nos pas pour visiter le Fortaleza El Coyotepe. La route pour y accéder est un peu roc’n’roll, ainsi que le demi tour pour pouvoir repartir dans l’autre sens. j’ai cru perdre Corinne sur le coup… Le fort en lui même n’a rien d’extraordinaire si ce n’est la vue à 360° qu’il propose. Ancienne prison et lieu de tortures, c’est dans c’est souterrain et tunnels qu’il présente un intérêt, il vaut donc mieux prendre un guide qui vous explique tout cela et vous montre dans les différentes pièces quels types de tortures y étaient pratiqué…
+Nous mangeons sur place, je fais un petit trail qui longe la lagune puis nous revenons sur nos pas pour visiter le **Fortaleza El Coyotepe**. La route pour y accéder est un peu roc’n’roll, ainsi que le demi tour pour pouvoir repartir dans l’autre sens. j’ai cru perdre Corinne sur le coup… Le fort en lui même n’a rien d’extraordinaire si ce n’est la vue à 360° qu’il propose. Ancienne prison et lieu de tortures, c’est dans c’est souterrain et tunnels qu’il présente un intérêt, il vaut donc mieux prendre un guide qui vous explique tout cela et vous montre dans les différentes pièces quels types de tortures y étaient pratiqué…
 
-Nous retournons ensuite au parc Masaya où nous accédons jusqu’au sommet du Volcan Santiago d’où l’on peut observer au fond de son cratère (250 mètres) un petit lac de lave en fusion et bouillonnante. Je pense que le lac et plus ou moins important en fonction de sons activité. Il y a au total 5 volcans sur le site mais seul celui-ci est actif. C’est aussi là qu’on élue domicile des perroquets (Chocoyos) verts qui ne sont pas gênés par les émanations sulfurée et qui niches dans la falaise, à peine arrivée sur le grand parking nous avons observé un vol d’une quarante de spécimen très bruyants. Toujours impressionnant de voir de la lave..
+Nous retournons ensuite au **Parc National Volcan Masaya** où nous accédons jusqu’au sommet du **Volcan Santiago** d’où l’on peut observer au fond de son cratère (250 mètres) un petit lac de lave en fusion et bouillonnante. Je pense que le lac et plus ou moins important en fonction de sons activité. Il y a au total 5 volcans sur le site mais seul celui-ci est actif. C’est aussi là qu’on élue domicile des perroquets (Chocoyos) verts qui ne sont pas gênés par les émanations sulfurée et qui niches dans la falaise, à peine arrivée sur le grand parking nous avons observé un vol d’une quarante de spécimen très bruyants. Toujours impressionnant de voir de la lave..
 La nuit tombée nous quittons le parc et les gardiens nous autorisent à rester juste à l’entrée pour la nuit. C’est sympa surtout que nous sommes samedi soir et les bivouac en ville risquent d’être bruyants…
 
-## 19 janvier
+## 19 et 20 janvier
 
-Ce matin nous commençons la journée par faire des courses à Masaya puis nous nous garons au centre ville qui n’à rien d’exceptionnel. Direction ensuite **Granada** où nous mangeons puis nous allons jusqu’au port Asese pour faire un tour de bateau au milieu des 400 iles qui se trouvent sur l’immense lac Cocibolca ou Lac Nicaragua, Las Isletas de Granada. Sur notre guide le bateau devait partir à 15 heures finalement quand nous arrivons vers 13 heures 30 il est déjà en train de partir. Nous faisons donc route vers Granada par le bord le long de son Malecon. Les plages et paillotes sont bondées, nous sommes dimanche. Nous arrivons au port et trouvons un bateau qui fait une petite croisière familiale de 2 heures sur le lac avec un arrêt sur une petite ile, San Pablo où se trouve un ancien fortin.
+Ce matin nous commençons la journée par faire des courses à Masaya puis nous nous garons au centre ville qui n’à rien d’exceptionnel. Direction ensuite **Granada** où nous mangeons puis nous allons jusqu’au port **Asese** pour faire un tour de bateau au milieu des 400 iles qui se trouvent sur l’immense lac Cocibolca ou Lac Nicaragua, **Las Isletas de Granada**. Sur notre guide le bateau devait partir à 15 heures finalement quand nous arrivons vers 13 heures 30 il est déjà en train de partir. Nous faisons donc route vers Granada par le bord le long de son Malecon. Les plages et paillotes sont bondées, nous sommes dimanche. Nous arrivons au port et trouvons un bateau qui fait une petite croisière familiale de 2 heures sur le lac avec un arrêt sur une petite ile, San Pablo où se trouve un ancien fortin.
 
-C’est effectivement une "croisière" familiale avec spectacle de clown, tabassage d’une pignata par les pus jeunes et pour les grand un petit spectacle musical, on passe un bon moment et les paysages très beaux. Sur de nombreuses iles se trouve des maisons parfois très belles. Comme nous sommes garés sur le parking gardé du port nous demandons si nous pouvons passer la nuit là et il accepte moyennant 100 cordobas.
-
-## 20 janvier
+C’est effectivement une "croisière" familiale avec spectacle de clown, tabassage en règle d’une pignata par les plus jeunes et pour les grand un petit spectacle musical, on passe un bon moment et les paysages très beaux. Sur de nombreuses iles se trouve des maisons parfois très belles. Comme nous sommes garés sur le parking gardé du port nous demandons si nous pouvons passer la nuit là et il accepte moyennant 100 cordobas.
 
 Ce matin nous quitons le port pour faire un saut de puce et nous garer au sein de la croix rouge, nous pouvons y laisser Thor pour la journée et y dormir cette nuit. Après manger nous partons à pied en ville et visitons les principaux édifices, les Eglises de Guadelupe, Sans Francisco, La Merced et ben sur la Cathédrale de l’immaculée conception qui domine la ville avec sa couleur éclatante. Dans celle de la Merced, je ponte en haut du clocher qui m’offre une très belle vue sur la ville. Nous visitons le Centre Culturel Museo Convento San Francisco, très bel ancien couvent qui a été transformé en musée d’art et enfin nous sommes allés à la Casa de Los Tres Mundos, un genre de centre culturel avec une très belle mosaique dans un patio.
 Sur la grande place nous rencontrons une famille d’italiens, un couple et deux filles qui voyages depuis 4 ans en vélo depuis l’Argentine. Nous discutons un long moment, ils nous raconstent leurs expériences, leur organisation, c’est très intéressant. L’épouse à son vélo et le marie et les deux filles sont su un vélo très particulier fabriqué en allemagnes.
@@ -106,9 +127,12 @@ Sur la grande place nous rencontrons une famille d’italiens, un couple et deux
 
 Ce matin on traine un peu au bivouac et nous partons en fin de matinée. Avant de quitter la ville, nous faisons un arrêt à l’Ehlise de Xalteva et la Fortaleza de la Pólvora. Nous filons ensuite un direction de **San Jorge** qui se situe au bor du Lac Nicaragua, juste en face **l’ile Ometepe** née de l’éruption de deux volcans, Madera et Conception qui est toujours actif. Arrivé au niveau du port on voit sur la droite une très belle plage où nous décidons de rester là pour la journée et finalement la nuit. La vu sur le lac et les volcan est très belle.
 
-## 22 et 23 janvier
+## 22 au 24 janvier
 
 Ce matin nous quitoons nostre très belle plage pour une autre mais au bord de l’océan Pacifique cette fois. Nous nous arrêtons faire le plein du frigos où nous trouvons du très bon pain. Par contre impossible de trouver du propane. On devrait pouvoir tenir jusqu’au Costa Rica. Nous prenons ensuite la route vers **San Juan Del Sur**, une petite station balnéaire qui tente de refaire surface depuis les ébéve,ements qui ont eu lieu il ya deux ans ici. Les touristes tardent à revenir. Nous arrivons et nous posons directement sur le malecon le temps de manger. Une personne vient toquer à la porte de Thor, Max, un retraité français qui vit ici depuis plusieurs années, enfin 6 mois ici et 6 mois dans la campagne autour de Besancon. On parle 5 minutes, on devrait se revoir… Après le déjeuner nous allons jusqu’au Port qui acceuille les RV sur son parking avec toutes les commaudités, electricité, eau, wifi… Une fois installé nous partons à la découverte de ce très village et très belle baie. Le bord de mer une une succéssion de bars et d’hôtels mais c’est vrai qu’il à peu de monde. La plage est très belle et même si me temps est un peu couvert, le paysage est magnifique avec cet immense Christ qui domine la ville. En fin d’après-midi nous travaillons un peu sur les phoitos et vidéo et nous allons boir une bière dans un petit bar aménagé dans Bus Bluebird à l’ambiance bien sympa. Nous y retrouvons Max et passons un très bon moment a écouter son histoire autour des quelques bières.
+
+Ce matin nous quittons San Juan Del Sur, sans oublier de passer à la boulgerie reprendre du Pain, nous faisons également le plein d’essence qui est un peu moins chère ici et faisons quelques courses pour dépenser nos Cordobas. Nous nous arrêtons à midi au bord d’un immence champ d’éolienne qui borde le lac Niacaragua, près de nous se pose un rapace que nous n’avions encore jamais vue, assez sympa pour se laisser prendre en photo. Nous arrivons assez vite à la frontière où les démarches se passent relativement vite, nonobstan le fait que l’assurance à fermé durant une heure juste au moment où nous arrivons. Des deux côtés de la frontière nous longeons une queue immense de poids lourds qui attendent pour passer la frontière? plus de 6 kilomètre de file côté Costa Rica. Nous avons remarqué à plusieur reprise que les conducteur accroche leur hammack sous la remorque pour faire un brin de sieste.
+Nous trouvons un bivouac jsute après la frontière dans un camping tenu par des suisses allemands, autant dire que c’est nickel, et que tout est à sa place, ça change…
 
 **Nous avons vraiment adoré :**
 
@@ -116,6 +140,6 @@ Ce matin nous quitoons nostre très belle plage pour une autre mais au bord de l
 
 **Nous avons moins aimé :**
 
-Nous avons passé au total 15 jours au Nicaragua et avons parcouru près de 530 Km.
+Nous avons passé au total 15 jours au Nicaragua et avons parcouru près de 795 Km.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :

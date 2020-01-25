@@ -27,7 +27,6 @@ Le poste frontière du Nicaragua est tout neuf et les satellites de google n'ont
 - **Repère 1** - Pré-contrôle ;
 - **Repère 2** - Poste frontière nicaraguayen, nouvelle zone (Fin immigration et fin importation temporaire)
 - **Repère 3** - Poste frontière nicaraguayen, dernier contrôle document ;
-
 - **Repère 4** - Poste frontière costa ricain fumigation/désinfection ;
 - **Repère 5** - Poste frontière costa ricain immigration (visa personnes) ;
 - **Repère 6** - Poste frontière costa ricain douanes (dossier importation du véhicule) ;
