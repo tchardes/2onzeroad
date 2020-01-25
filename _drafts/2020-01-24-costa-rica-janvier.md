@@ -76,23 +76,75 @@ Nous reprenons la route après manger en empruntant la routes de volcans qui son
 
 ## 13 janvier
 
-Nuit très chaude. Ce matin les gardiens nous autorisent à rester garé là pour la journée. Nous prenons un tuc tuc, vélo cette fois-ci qui nous conduit dans une laverie où nous déposons notre linge puis au centre historique. Nous visitons la cathédrale qui est très belle et où l’on peut grimper sur le toit et admirer son architecture et les alentours.
+Nuit très chaude. Ce matin les gardiens nous autorisent à rester garé là pour la journée. Nous prenons un tuc tuc, vélo cette fois-ci qui nous conduit dans une laverie où nous déposons notre linge puis au centre historique.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430849298/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430849298_a5540d8de7_z.jpg" width="640" height="400" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous visitons la cathédrale qui est très belle et où l’on peut grimper sur le toit et admirer son architecture et les alentours.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426930196/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426930196_3def1fe5e9_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427153502/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427153502_7e63d75cff_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430849233/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430849233_b556d4570e_z.jpg" width="640" height="300" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426457523/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426457523_20fb78ddb5_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427153882/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427153882_092c01ca9f_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426929351/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426929351_f74358b439_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous mangeons dans un très bon restaurant situé sur la place centrale. Nous passons ensuite devant les autres églises de la ville. La place centrale est très animée, malheureusement nous sommes lundi et tous les musées sont fermés. Nous faisons une halte au Pan y Paz une boulangerie "française" où nous achetons notre petit déjeuner de demain matin…
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426928531/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426928531_601b01bbfd_z.jpg" width="640" height="400" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427153357/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427153357_b712908794_z.jpg" width="640" height="427" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431323966/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431323966_bbd07fe301_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Il fait très chaud et nous avons acheté plusieurs bouteilles d’eau dans la journée pour nous hydrater. Sur la place nous rencontrons un vieux monsieur qui fait la manche et il commence à nous parler dans un français impeccable. En discutant il nous indique avoir appris notre langue à l’alliance française et parler au total 7 langues… déprimant.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426456598/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426456598_2858883795_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427153282/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427153282_b8b0c57560_z.jpg" width="640" height="427" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 14 et 15 janvier
 
 La nuit a été très mouvementée avec un vent à décorner les bœufs. Ce matin la ville est enveloppée d’une brume de sable. De nombreuses personnes portent un masque pour mieux respirer. Après avoir remercié le service de sécurité nous partons en direction du Pacifique. Nous faisons un dernier arrêt à Léon pour voir le musée d’art qui était fermé hier. Très beau musée implantée dans plusieurs habitations coloniales très bien aménagées. Le musée regroupe un ensemble d’œuvres des triptyques religieux à des peinture et sculptures contemporaines, très belle visite.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426455063/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426455063_65229bc6a4_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426926651/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426926651_6be89cc1ba_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427151742/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427151742_1a0cf0f046_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Je retourne sur la place principale pour refaire une photo de la cathédrale et là une personne se trouvant dans un bâtiments complètement abandonné d’apparence m’interpelle et me demande si je veux visiter "La galerie des héros et martyres" qui est fait le musée de la révolution. Nous l’avions cherché hier sans le trouver.
 
-La première chose qu’il me demande est d’où je viens et dès que je lui dit Francia, il interpelle toutes les personnes du musée, super content, et me dit **Viva la révolution !!!!**. Ce monsieur est un ancien combattant sandiniste et cette galerie représente en photos toutes les guerres qui se sont déroulées au Nicaragua pour faire émerger le socialisme. Avant de commencé la visite, il ouvre son petit sac en dos et en sors en vieux béret noir qu’il visse sur sa tête, on peut commencer… J’ai droit à une visite complète avec une explication à chaque cliché, il parle très lentement avec une très bonne prononciation, je comprends presque tout.. Un couple d’américain est arrivé juste après moi et leur visite a été bâclée en 10 minutes, ils ne les aiment pas trop. Bref on visite tout le bâtiment, il m’emmène même sur le toit où de nombreuses tôles ondulées sont absentes pour que je fasse de belle photos de la ville. Il m’explique la définition de tous les symboles présente sur le drapeaux du Nicaragua et me montre en son centre un bonnet phrygien en référence à la révolution française. Super visite très intéressante. J'en repars avec un petit pins du FSLN.
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427155062/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427155062_4d76fbd0bc_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+La première chose qu’il me demande est d’où je viens et dès que je lui dit Francia, il interpelle toutes les personnes du musée, super content, et me dit **Viva la révolution !!!!**. Ce monsieur est un ancien combattant sandiniste et cette galerie représente en photos toutes les guerres qui se sont déroulées au Nicaragua pour faire émerger le socialisme. Avant de commencé la visite, il ouvre son petit sac en dos et en sors en vieux béret noir qu’il visse sur sa tête, on peut commencer…
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426927651/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426927651_f966770c95_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427153102/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427153102_43f31c1fbe_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+J’ai droit à une visite complète avec une explication à chaque cliché, il parle très lentement avec une très bonne prononciation, je comprends presque tout.. Un couple d’américain est arrivé juste après moi et leur visite a été bâclée en 10 minutes, ils ne les aiment pas trop. Bref on visite tout le bâtiment, il m’emmène même sur le toit où de nombreuses tôles ondulées sont absentes pour que je fasse de belle photos de la ville. Il m’explique la définition de tous les symboles présente sur le drapeaux du Nicaragua et me montre en son centre un bonnet phrygien en référence à la révolution française. Super visite très intéressante. J'en repars avec un petit pins du FSLN.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426454208/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426454208_8d40f8638d_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427152132/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427152132_176616027e_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 A l’issue nous quittons Léon avec un dernier arrêt à la Basilique San Juan Bautista Sutiaba qui est fermée et qui de l’extérieur n’est pas terrible.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426926161/in/datetaken/" title="Leon - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426926161_2c1a39a188_z.jpg" width="640" height="360" alt="Leon - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous faisons route vers l’océan Pacifique et nous arrêtons près de Las Peñitas à **Poneloya** sur la malecon. Je demande un peu autour de moi, aucun camping pour nous ici mais on nous dit que nous pouvons rester là, c’est secure. On passe l’après-midi sur la plage, Corinne sur le sable, moi en train de me faire malmener par les rouleaux. En fin d’après-midi petite bière sur un bar de plage pour admirer le coucher de soleil. What else !!!
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426542843/in/datetaken/" title="Poneloya - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426542843_c181831d00_z.jpg" width="640" height="360" alt="Poneloya - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49427238417/in/datetaken/" title="Poneloya - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49427238417_fbe9a68d36_z.jpg" width="640" height="360" alt="Poneloya - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49426542833/in/datetaken/" title="Poneloya - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49426542833_87632b7a21_z.jpg" width="640" height="360" alt="Poneloya - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous décidons de rester une journée de plus au bord de l’océan. A midi nous mangeons dans le restaurant "Rancho Alex" qui se trouve à côté de nous, très bon poisson.
 
@@ -100,7 +152,25 @@ Nous décidons de rester une journée de plus au bord de l’océan. A midi nous
 
 Route vers **Managua** la capitale. Sur la route nous voyons des enfants vendre des iguanes qu'ils tiennent par la queue au bord de la route, on comprend pourquoi l'on voit aussi peu de faune, la population est pas endroit très pauvre et tous fait ventre. Arrivés à Managua nous trouvons un bivouac sur une immense place, gardée 24/24. Nous nous garons à côté d’un camper argentin. Après avoir discuté avec la police, nous partons faire un petit tour sur le malecon, nous voyons les fameux arbres de vie qui sont assez impressionnant. Il s'agit de sculptures en acier recouverte de petites lumières. Ces arbres ont fait controverses ayant coûté plus de 20000€ pièce, il y en a 140, construits par un proche du Président Daniel Ortega. En tout cas ces arbres enjolivent assez bien la ville qui au demeurant n'est pas terrible. Soumise aux tremblements de terre il y un seul grand bâtiment dans le ville.
 
-Nous passons un bon moment dans l’enceinte du port Salvador Allende qui abrite de nombreux bars et restaurants et met à disposition des visiteurs de très nombreux palapas directement au bord du lac, c’est très agréable. Nous buvons un coup dans un bar et notre voisin, un mexicain nous parle pendant un bom moment et paye même des mariachis pour qu’ils nous jouent des airs du folklore Nicaraguayen. De retour à Thor nous faisons la rencontre de Sergio, notre voisin, un Uruguayen qui habite à Buenos Aires, un digital nomade d’un soixantaine d’années. Ca fini dans Tor autour d’une bière, nous passons un excellent moment. En soirée je pars faire des photos de nuits de ces curieux arbres de vie et des monuments qui nous entourent.
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430526912/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430526912_f99b9af5bf_z.jpg" width="640" height="360" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49429828623/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49429828623_cc4fdfe212_z.jpg" width="640" height="360" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous passons un bon moment dans l’enceinte du port Salvador Allende qui abrite de nombreux bars et restaurants et met à disposition des visiteurs de très nombreux palapas directement au bord du lac, c’est très agréable. Nous buvons un coup dans un bar et notre voisin, un mexicain nous parle pendant un bom moment et paye même des mariachis pour qu’ils nous jouent des airs du folklore Nicaraguayen.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49429828518/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49429828518_41df45017f_z.jpg" width="640" height="360" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+De retour à Thor nous faisons la rencontre de Sergio, notre voisin, un Uruguayen qui habite à Buenos Aires, un digital nomade d’un soixantaine d’années. Ca fini dans Tor autour d’une bière, nous passons un excellent moment. En soirée je pars faire des photos de nuits de ces curieux arbres de vie et des monuments qui nous entourent.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430526262/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430526262_0f503e214e_z.jpg" width="640" height="360" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49429826828/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49429826828_aa7f64011f_z.jpg" width="640" height="360" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430525842/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430525842_a797351cac_z.jpg" width="640" height="360" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430526007/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430526007_776d345df2_z.jpg" width="640" height="360" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430524962/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430524962_b095468a12_z.jpg" width="640" height="360" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Ce matin nous partons à la découverte de la capitale, avec sa Cathédrale en "presque" ruine et fermée suite à de nombreux tremblements de terre (le dernier remontant à 1972), son Palacio National transformé en musée d’art et en bibliothèque, son mirador qui permet d’avoir une très belle vue sur la Laguna de Tiscapa et sur toute la ville avec au fond le Lac Xolotlan et la chaîne de volcans dont le Momotombo. Il y a de nombreuses statuts ou représentations du général Sandino le héro national, ainsi que de l’ancien président du Vénézuela H. Chavez, sans oublier Bolivar… A midi on mange dans un resto asiatique pour changer un peu, très bon repas, puis retour à Thor en taxi en milieu d’après-midi du coup Corinne me tond, cheveux et barbe…
 
