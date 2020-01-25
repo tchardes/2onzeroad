@@ -195,7 +195,7 @@ De retour à Thor nous faisons la rencontre de Sergio, notre voisin, un Uruguaye
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430524962/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430524962_b095468a12_z.jpg" width="2048" height="1152" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Ce matin nous partons à la découverte de la capitale, avec sa Cathédrale en "presque" ruine et fermée suite à de nombreux tremblements de terre (le dernier remontant à 1972), son Palacio National transformé en musée d’art et en bibliothèque.
+Ce matin nous partons à la découverte de la capitale, avec sa cathédrale en "presque" ruine et fermée suite à de nombreux tremblements de terre (le dernier remontant à 1972), son Palacio National transformé en musée d’art et en bibliothèque.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430303231/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430303231_3a069ca55a_z.jpg" width="2048" height="1152" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -207,7 +207,7 @@ Ce matin nous partons à la découverte de la capitale, avec sa Cathédrale en "
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430304476/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430304476_8f8e701d58_z.jpg" width="2048" height="1152" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous allons en suite jusqu'au mirador qui permet d’avoir une très belle vue sur la Laguna de Tiscapa et sur toute la ville avec au fond le Lac Xolotlan et la chaîne de volcans dont le Momotombo. Il y a de nombreuses statuts ou représentations du général Sandino le héro national, ainsi que de l’ancien président du Vénézuela H. Chavez, sans oublier Bolivar… A midi on mange dans un resto asiatique pour changer un peu, très bon repas, puis retour à Thor en taxi en milieu d’après-midi du coup Corinne me tond, cheveux et barbe…
+Nous allons ensuite jusqu'au mirador pour une vue magnifique sur la Laguna de Tiscapa et sur la ville avec, au fond, le Lac Xolotlan et la chaîne de volcans dont le Momotombo. Il y a de nombreuses statues ou représentations du général Sandino le héros national, ainsi que de l’ancien président du Vénézuela H. Chavez, sans oublier Bolivar… A midi on mange dans un resto asiatique pour changer un peu, très bon repas, puis retour à Thor en taxi en milieu d’après-midi, du coup, Corinne me tond, cheveux et barbe…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430304376/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430304376_f58ccb4fbc_z.jpg" width="2048" height="1152" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -219,13 +219,13 @@ Nous allons en suite jusqu'au mirador qui permet d’avoir une très belle vue s
 
 ## 18 janvier
 
-Tôt ce matin on entendait des bruits de ferraille, je pensais que c’était les gardiens qui bougeaient des barrières en alu et pas plus. A partir de 7 heures, essais d’une grosse sono et à 9 heures les watts arrivent. On fini quand même par émerger et là on se retrouve en pleine manif. Thor est entouré d’une cinquante de bus qui nous empêchent tout mouvement. Sur l’artère principale, l’avenue Bolivar, une grande scène obstrue l’avenue et des milliers de personnes défiles avec des drapeaux Sandiniste, noir et rouge avec les lettres FSLN (Front Sandiniste de Libération Nationale) et drapeaux Nicaraguayen. je descend voir un peu de plus près, autant dire que je suis le seul gringos… Sur scène un groupe chante des chansons où le mot révolution est prononcé à toutes les phrases, mais l’ambiances est bon enfant, certes je croise des regards dubitatifs quand à ma présence au milieu d’eux mais pas plus. Heureusement qu’au dessus des plaques américaines de Thor il y a un grand drapeaux français… On ne peux pas dire qu'ils gardent un bon souvenir des Amerlocs, de Busch et des contreras. Après renseignement il s’agit d’une fête nationale assez récente qui célèbre l'union et la réconciliation nationale. Donc à priori plutôt pacifique…
+Tôt ce matin on entendait des bruits de ferraille, je pensais que c’était les gardiens qui bougeaient des barrières en alu et pas plus. A partir de 7 heures, essais d’une grosse sono et à 9 heures les watts arrivent. On finit quand même par émerger et là on se retrouve en pleine manif. Thor est entouré d’une cinquante de bus qui nous empêchent tout mouvement. Sur l’artère principale, l’avenue Bolivar, une grande scène obstrue l’avenue et des milliers de personnes défilent avec des drapeaux Sandinistes, noir et rouge avec les lettres FSLN (Front Sandiniste de Libération Nationale) et drapeaux Nicaraguayens. Je descends voir de plus près, autant dire que je suis le seul gringo… Sur scène, un groupe chante des chansons où le mot révolution est prononcé à toutes les phrases, mais l’ambiance est bon enfant, certes, je croise des regards dubitatifs quant à ma présence au milieu d’eux mais c'est tout. Heureusement qu’au dessus des plaques américaines de Thor, il y a un grand drapeau français… On ne peut pas dire qu'ils gardent un bon souvenir des Amerlocs, de Busch et des contreras. Après renseignement, il s’agit d’une fête nationale assez récente qui célèbre l'union et la réconciliation nationale. Donc, à priori, plutôt pacifique…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431547687/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431547687_5901c5abd7_z.jpg" width="2048" height="1152" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430848713/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430848713_b7da661dd3_z.jpg" width="2048" height="1152" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Deux heures plus tard tout est fini, les gens remontent dans les cars et disparaissent… on peu enfin partir. Avant de quitter la capitale nous faisons un arrêt à la nouvelle cathédrale à l’architecture très contemporaine avec une entrée qui rappelle celle des blockhaus allemands du mur de l'atlantique. Son toit est recouvert de petits puits de lumière. Elle possède plusieurs chapelles dans une en forme de demi sphère de couleur rouge/rose à l’intérieur, surprenant...
+Deux heures plus tard tout est fini, les gens remontent dans les cars et disparaissent… on peut enfin partir. Avant de quitter la capitale nous faisons un arrêt à la nouvelle cathédrale à l’architecture très contemporaine avec une entrée qui rappelle celle des blockhaus allemands du mur de l'atlantique. Son toit est recouvert de petits puits de lumière. Elle possède plusieurs chapelles dont une en forme de demi sphère de couleur rouge/rose à l’intérieur, surprenant...
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431204096/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431204096_2974b8cd91_z.jpg" width="2048" height="1152" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -233,19 +233,19 @@ Deux heures plus tard tout est fini, les gens remontent dans les cars et dispara
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431427737/in/datetaken/" title="Managua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431427737_7b312aa12e_z.jpg" width="2048" height="1152" alt="Managua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous faisons route en direction de **Masaya**, célèbre pour ces volcans. Nous nous arrêtons à l’entrée du parc pour nous renseigner des horaires car il y a deux visites, une de jour et une en soirée pour voir le lac de lave. On reviendra donc à 17 heures. Nous poursuivons jusqu’à **Catarina** en son mirrador qui permet d’avoir une très belle vue sur la **Lagune de Apoyo** d’où l’on peut également voir la ville de Granada au loin.
+Nous faisons route en direction de **Masaya**, célèbre pour ses volcans. Nous nous arrêtons à l’entrée du parc pour nous renseigner des horaires car il y a deux visites, une de jour et une en soirée pour voir le lac de lave. On reviendra donc à 17 heures. Nous poursuivons jusqu’à **Catarina** et son mirador pour une très belle vue sur la **Lagune de Apoyo** ainsi que la ville de Granada au loin.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430729528/in/datetaken/" title="Catarina - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430729528_6d2eea0a0f_z.jpg" width="2048" height="1152" alt="Catarina - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431427337/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431427337_45632af86e_z.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous mangeons sur place, je fais un petit trail qui longe la lagune puis nous revenons sur nos pas pour visiter le **Fortaleza El Coyotepe**. La route pour y accéder est un peu roc’n’roll, ainsi que le demi tour pour pouvoir repartir dans l’autre sens. j’ai cru perdre Corinne sur le coup… Le fort en lui même n’a rien d’extraordinaire si ce n’est la vue à 360° qu’il propose. Ancienne prison et lieu de tortures, c’est dans c’est souterrain et tunnels qu’il présente un intérêt, il vaut donc mieux prendre un guide qui vous explique tout cela et vous montre dans les différentes pièces quels types de tortures y étaient pratiqué…
+Nous mangeons sur place, je fais un petit trail qui longe la lagune puis nous revenons sur nos pas pour visiter le **Fortaleza El Coyotepe**. La route pour y accéder est un peu rock’n’roll, ainsi que le demi tour pour pouvoir repartir dans l’autre sens. J’ai cru perdre Corinne sur le coup… Le fort en lui-même n’a rien d’extraordinaire si ce n’est la vue à 360° qu’il propose. Ancienne prison et lieu de tortures, c’est dans ses souterrains et tunnels qu’il présente un intérêt, il vaut donc mieux prendre un guide qui vous explique tout cela et vous montre, dans les différentes pièces, quels types de tortures y étaient pratiqué…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431427227/in/datetaken/" title="Masaya - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431427227_25603e714c_z.jpg" width="2048" height="1152" alt="Masaya - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430729143/in/datetaken/" title="Masaya - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430729143_7b5321f792_z.jpg" width="2048" height="1152" alt="Masaya - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous retournons ensuite au **Parc National Volcan Masaya** où nous accédons jusqu’au sommet du **Volcan Santiago** d’où l’on peut observer au fond de son cratère (250 mètres) un petit lac de lave en fusion et bouillonnante. Je pense que le lac et plus ou moins important en fonction de sons activité. Il y a au total 5 volcans sur le site mais seul celui-ci est actif. C’est aussi là qu’on élue domicile des perroquets (Chocoyos) verts qui ne sont pas gênés par les émanations sulfurée et qui niches dans la falaise, à peine arrivée sur le grand parking nous avons observé un vol d’une quarante de spécimen très bruyants. Toujours impressionnant de voir de la lave..
+Nous retournons ensuite au **Parc National Volcan Masaya** où nous accédons jusqu’au sommet du **Volcan Santiago** d’où l’on peut observer au fond de son cratère (250 mètres) un petit lac de lave en fusion et bouillonnante. Je pense que le lac est plus ou moins important en fonction de son activité. Il y a, au total, 5 volcans sur le site mais seul celui-ci est actif. Toujours impressionnant de voir de la lave. C’est aussi là qu’ont élu domicile des perroquets (Chocoyos) verts nullement gênés par les émanations sulfurées et nichant dans la falaise. A peine arrivés sur le grand parking nous avons observé un vol d’une quarante de spécimens très bruyants.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431547627/in/datetaken/" title="Masaya - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431547627_88acdc6084_z.jpg" width="2048" height="1152" alt="Masaya - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -253,11 +253,11 @@ Nous retournons ensuite au **Parc National Volcan Masaya** où nous accédons ju
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430729083/in/datetaken/" title="Masaya - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430729083_a787fa6eaa_k.jpg" width="2048" height="1152" alt="Masaya - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-La nuit tombée nous quittons le parc et les gardiens nous autorisent à rester juste à l’entrée pour la nuit. C’est sympa surtout que nous sommes samedi soir et les bivouac en ville risquent d’être bruyants…
+La nuit tombée, nous quittons le parc et les gardiens nous autorisent à rester juste à l’entrée pour la nuit. C’est sympa surtout que nous sommes samedi soir et les bivouacs en ville risquent d’être bruyants…
 
 ## 19 et 20 janvier
 
-Ce matin nous commençons la journée par faire des courses à Masaya puis nous nous garons au centre ville qui n’à rien d’exceptionnel.
+Aujourd'hui nous commençons la journée par faire des courses à Masaya puis nous nous garons au centre-ville qui n’a rien d’exceptionnel.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431426862/in/datetaken/" title="Masaya - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431426862_7249cc6ad0_k.jpg" width="2048" height="1152" alt="Masaya - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -269,7 +269,7 @@ Direction ensuite **Granada** où nous mangeons puis nous allons jusqu’au port
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430728428/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430728428_6d9871a6b2_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-C’est effectivement une "croisière" familiale avec spectacle de clown, tabassage en règle d’une pignata par les plus jeunes et pour les grand un petit spectacle musical, on passe un bon moment et les paysages très beaux. Sur de nombreuses iles se trouve des maisons parfois très belles. Comme nous sommes garés sur le parking gardé du port nous demandons si nous pouvons passer la nuit là et il accepte moyennant 100 cordobas.
+C’est effectivement une "croisière" familiale avec spectacle de clown, tabassage en règle d’une pignata par les plus jeunes et pour les grands un petit spectacle musical, on passe un bon moment et les paysages sont très beaux. Sur de nombreuses iles, se trouvent de belles demeures. Comme nous sommes garés sur le parking gardé du port, nous demandons si nous pouvons passer la nuit là et il accepte moyennant 100 cordobas.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431201846/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431201846_f4da0f1e19_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -281,7 +281,7 @@ C’est effectivement une "croisière" familiale avec spectacle de clown, tabass
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431201256/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431201256_f73bb0d0ab_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Ce matin nous quitons le port pour faire un saut de puce et nous garer au sein de la croix rouge, nous pouvons y laisser Thor pour la journée et y dormir cette nuit. Après manger nous partons à pied en ville et visitons les principaux édifices, les Eglises de Guadelupe, Sans Francisco, La Merced et ben sur la Cathédrale de l’immaculée conception qui domine la ville avec sa couleur éclatante.
+Ce matin nous quitons le port pour faire un saut de puce et nous garer au sein de la croix rouge, nous pouvons y laisser Thor pour la journée et la nuit. Après manger, nous partons à pied en ville et visitons les principaux édifices, les églises de Guadelupe, Sans Francisco, La Merced et bien sûr la cathédrale de l’immaculée conception qui domine la ville avec sa couleur éclatante.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430726873/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430726873_a4da394b5e_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -303,7 +303,7 @@ Dans celle de la Merced, je monte en haut du clocher qui m’offre une très bel
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430724913/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430724913_dec586dfcb_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous visitons le Centre Culturel Museo Convento San Francisco, très bel ancien couvent qui a été transformé en musée d’art et enfin nous sommes allés à la Casa de Los Tres Mundos, un genre de centre culturel avec une très belle mosaique dans un patio.
+Nous visitons le Centre Culturel Museo Convento San Francisco, très bel ancien couvent qui a été transformé en musée d’art et enfin nous sommes allés à la Casa de Los Tres Mundos, un genre de centre culturel avec une jolie mosaique dans un patio.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430726083/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430726083_cb8abd96da_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -313,11 +313,11 @@ Nous visitons le Centre Culturel Museo Convento San Francisco, très bel ancien 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431423182/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431423182_aef618035b_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Sur la grande place nous rencontrons une famille d’italiens, un couple et deux filles qui voyages depuis 4 ans en vélo depuis l’Argentine. Nous discutons un long moment, ils nous raconstent leurs expériences, leur organisation, c’est très intéressant. L’épouse à son vélo et le marie et les deux filles sont su un vélo très particulier fabriqué en allemagnes.
+Sur la grande place, nous rencontrons une famille d’italiens, un couple et deux filles qui voyagent depuis 4 ans en vélo au départ de l’Argentine. Nous discutons un long moment, ils nous racontent leurs expériences, leur organisation, c’est très intéressant. L’épouse a son propre vélo, le mari et les deux filles sur un vélo trois places très particulier fabriqué en Allemagne.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49429824663/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49429824663_205c0c155b_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On fini l'après-midi à flâner dans cette très belle ville.
+On finit l'après-midi à flâner dans cette très belle ville.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431198776/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431198776_2d6dff64b5_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -327,13 +327,13 @@ On fini l'après-midi à flâner dans cette très belle ville.
 
 ## 21 janvier
 
-Ce matin on traine un peu au bivouac et nous partons en fin de matinée. Avant de quitter la ville, nous faisons un arrêt à l’Eglise de Xalteva et la Fortaleza de la Pólvora.
+Ce matin on traine un peu au bivouac et nous partons en fin de matinée. Avant de quitter la ville, nous faisons un arrêt à l’église de Xalteva et la Fortaleza de la Pólvora.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431538662/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431538662_2547d53e9b_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430639117/in/datetaken/" title="Granada - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430639117_f90f7b36e8_k.jpg" width="2048" height="1152" alt="Granada - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous filons ensuite un direction de **San Jorge** qui se situe au bor du Lac Nicaragua, juste en face **l’ile Ometepe** née de l’éruption de deux volcans, Madera et Conception qui est toujours actif. Arrivé au niveau du port on voit sur la droite une très belle plage où nous décidons de rester là pour la journée et finalement la nuit. La vu sur le lac et les volcan est très belle.
+Nous filons ensuite en direction de **San Jorge** qui se situe au bord du Lac Nicaragua, juste en face **l’ile Ometepe** née de l’éruption de deux volcans, Madera et Conception qui est toujours actif. Arrivés au niveau du port, on voit sur la droite une très belle plage où nous décidons de rester là pour la journée et finalement la nuit. La vue sur le lac et les volcans est magnifique.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430639097/in/datetaken/" title="San Jorge - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430639097_c3df1abc41_k.jpg" width="2048" height="1152" alt="San Jorge - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -343,23 +343,23 @@ Nous filons ensuite un direction de **San Jorge** qui se situe au bor du Lac Nic
 
 ## 22 au 24 janvier
 
-Ce matin nous quitoons nostre très belle plage pour une autre mais au bord de l’océan Pacifique cette fois. Nous nous arrêtons faire le plein du frigos où nous trouvons du très bon pain. Par contre impossible de trouver du propane. On devrait pouvoir tenir jusqu’au Costa Rica. Nous prenons ensuite la route vers **San Juan Del Sur**, une petite station balnéaire qui tente de refaire surface depuis les ébéve,ements qui ont eu lieu il ya deux ans ici. Les touristes tardent à revenir. Nous arrivons et nous posons directement sur le malecon le temps de manger. Une personne vient toquer à la porte de Thor, Max, un retraité français qui vit ici depuis plusieurs années, enfin 6 mois ici et 6 mois dans la campagne autour de Besancon. On parle 5 minutes, on devrait se revoir… Après le déjeuner nous allons jusqu’au Port qui acceuille les RV sur son parking avec toutes les commaudités, electricité, eau, wifi… Une fois installé nous partons à la découverte de ce très village et très belle baie.
+Ce matin nous quitoons notre très jolie plage pour une autre mais au bord de l’océan Pacifique cette fois. Nous nous arrêtons faire le plein du frigo où nous trouvons du très bon pain. Par contre, impossible de trouver du propane. On devrait pouvoir tenir jusqu’au Costa Rica. Nous prenons ensuite la route vers **San Juan Del Sur**, une petite station balnéaire qui tente de refaire surface depuis les événements qui ont eu lieu il ya deux ans ici. Les touristes tardent à revenir. Nous arrivons et nous stoppons directement sur le malecon le temps de manger. Une personne vient toquer à la porte de Thor, Max, un retraité français qui vit ici depuis plusieurs années, enfin 6 mois ici et 6 mois dans la campagne autour de Besançon. On parle 5 minutes, on devrait se revoir… Après le déjeuner nous allons jusqu’au port qui acceuille les RV sur son parking avec toutes les commodités, électricité, eau, wifi… Une fois installés, nous partons à la découverte de ce très joli village et sa magnifique baie.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430638692/in/datetaken/" title="San Juan Del Sur - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430638692_08bcd651af_k.jpg" width="2048" height="1152" alt="San Juan Del Sur - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49429940213/in/datetaken/" title="San Juan Del Sur - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49429940213_019266171d_k.jpg" width="2048" height="1152" alt="San Juan Del Sur - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le bord de mer une une succéssion de bars et d’hôtels mais c’est vrai qu’il à peu de monde. La plage est très belle et même si me temps est un peu couvert, le paysage est magnifique avec cet immense Christ qui domine la ville.En fin d’après-midi nous travaillons un peu sur les photos et vidéo et nous allons boir une bière dans un petit bar aménagé dans Bus Bluebird à l’ambiance bien sympa. Nous y retrouvons Max et passons un très bon moment à écouter son histoire autour des quelques bières.
+Le bord de mer est une succession de bars et d’hôtels. C’est vrai qu’il n'y a pas grand monde. La plage est très belle et même si le temps est un peu couvert, le paysage est magnifique avec cet immense Christ qui domine la ville. En fin d’après-midi, nous travaillons un peu sur les photos et vidéo puis nous allons boire une bière dans un petit bar aménagé dans Bus Bluebird à l’ambiance bien sympa. Nous y retrouvons Max et passons un très bon moment à écouter son histoire autour des quelques bières.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430637797/in/datetaken/" title="San Juan Del Sur - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430637797_63c3aa8209_k.jpg" width="2048" height="1152" alt="San Juan Del Sur - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49431896808/in/datetaken/" title="San Juan Del Sur - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49431896808_6fcf7b5105_k.jpg" width="2048" height="1536" alt="San Juan Del Sur - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nuit très calme, ce matin on traîne dans Thor et profite d'un très bon wifi pour se mettre à jour. Le temps est très beau et la baie est vraiment magifique. Depuis notre entrée au Nicaragua nous n’avons trouvé que très peu de Wifi et nous avons toutes nos photos à traiter à envoyer.
+Nuit très calme, ce matin, on traîne dans Thor et profite d'un très bon wifi pour se mettre à jour. Le temps est très beau et la baie est vraiment magifique. Depuis notre entrée au Nicaragua, nous n’avons guère trouvé de Wifi et nous avons toutes nos photos à traiter et à envoyer.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430638007/in/datetaken/" title="San Juan Del Sur - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430638007_23ef80c36c_k.jpg" width="2048" height="583" alt="San Juan Del Sur - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En milieu d’après-midi nous allons faite un tour à pied dans San Juan, ce village est vraiment très sympa et l’ambiance très décontracté. Toutefois suite aux événements il y a deux ans les touristes ne sont pas revenues et l’économie locale souffre énormément. Hier Max nous à parlé de quelques français installé ici dont un couple qui tient une boulangerie, nous y passons et achetons une baguette qui est bien meilleure que dans beaucoup de boulangerie de l’exagone. Nous parlons plus d’une heure avec madame de la situation en France et au Nicaragua, très intéressant.
+En milieu d’après-midi, nous allons faire un tour à pied dans San Juan, ce village est vraiment très sympa et l’ambiance très décontractée. Toutefois, suite aux événements politiques survenus il y a deux ans, les touristes ne sont pas revenus et l’économie locale souffre énormément. Hier Max nous a parlé de quelques français installés ici dont un couple qui tient une boulangerie, nous y passons et achetons une baguette qui est bien meilleure que dans beaucoup de boulangerie de l’héxagone. Nous parlons plus d’une heure avec madame de la situation en France et au Nicaragua, très intéressant.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49430417616/in/datetaken/" title="San Juan Del Sur - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49430417616_c211dc82da_k.jpg" width="2048" height="628" alt="San Juan Del Sur - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -367,9 +367,9 @@ En milieu d’après-midi nous allons faite un tour à pied dans San Juan, ce vi
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49440041858/in/datetaken/" title="San Juan Del Sur - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49440041858_230a60a7fd_k.jpg" width="2048" height="1152" alt="San Juan Del Sur - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En debut notre soirée nous retournons au bar bus qui se trouve proche de nous pour nous boire une bière et finalement manger, sans couvert à la locale. Le lieu est un peu loin du centre ville et il n’est fréquenté que par des locaux. Max et une autre de ces relations d’ici se joingent à nous, nous passons une très bonne soirée et apprenons beaucoup sur la vie d’ici qui n’est pas toujours simple.
+En début de soirée, nous retournons au bar bus qui se trouve proche de nous pour boire une bière et finalement manger, sans couvert, à la locale! Le lieu est un peu loin du centre ville et il n’est fréquenté que par des locaux. Max et une autre de ces relations d’ici se joingent à nous, nous passons une très bonne soirée et apprenons beaucoup sur la vie d’ici, pas toujours simple.
 
-Ce matin nous quittons San Juan Del Sur, sans oublier de passer à la boulangerie reprendre du pain. Il n'y a pas à dire mais les français sont incorrigibles, dès que l'on rencontre des compatriotes, on se rend compte que rapidement la conversation dérive vers la "Bouffe". Nous faisons également le plein d’essence qui est un peu moins chère ici et faisons quelques courses pour dépenser nos derniers Cordobas. Nous nous arrêtons à midi au bord d’un immence champ d’éoliennes qui borde le lac Niacaragua, près de nous se pose un rapace que nous n’avions encore jamais vue, assez sympa pour se laisser prendre en photo.
+Ce matin nous quittons San Juan Del Sur, sans oublier de passer à la boulangerie reprendre du pain. Il n'y a pas à dire mais les français sont incorrigibles, dès que l'on rencontre des compatriotes, on se rend compte que rapidement la conversation dérive vers la "Bouffe". Nous faisons également le plein d’essence qui est un peu moins chère ici et faisons quelques courses pour dépenser nos derniers Cordobas. Nous nous arrêtons, à midi, au bord d’un immense champ d’éoliennes qui borde le lac Niacaragua, près de nous, se pose un rapace que nous n’avions encore jamais vu, assez sympa pour se laisser prendre en photo.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49439988963/in/datetaken/" title="Lac Nicaragua - [Nicaragua]"><img src="https://live.staticflickr.com/65535/49439988963_8f6e241c70_k.jpg" width="2048" height="1152" alt="Lac Nicaragua - [Nicaragua]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -383,15 +383,15 @@ Nous arrivons assez vite à la frontière où les démarches se passent relative
 - Les villes de León et Granada pour leur architecture et histoire ;
 - Le volcan Santiago et son lac de lave ;
 - La ville de San Juan Del Sur pour sa baie magnifique sur le Pacifique ;
-- Le bon état des routes et la propreté du pays en rapport à ces voisins du Nord.
-- La gentillese et la bienveillance des habitants.
+- Le bon état des routes et la propreté du pays en rapport à ses voisins du Nord.
+- La gentillesse et la bienveillance des habitants.
 
 **Nous avons moins aimé :**
 
 - Pas grand chose au final, peut-être juste le manque d'infrastructures au niveau des campings. Il n'y en a aucun.
 - Le passage de la frontière du Nicaragua (Entrée et sortie) un peu alambiqué.
 
-Nous avons passé au total 15 jours au Nicaragua et avons parcouru près de 795 Km. Nous avons adoré découvrir ce pays qui est vraiment très beau. Le Nicaragua sort difficilement de la crise politique qu'il a connu il y a deux ans, ce pays très touristique à vue tous les vacanciers étrangers éviter cette destination qui mérite à être découverte.
+Nous avons passé, au total, 15 jours au Nicaragua et avons parcouru près de 795 Km. Nous avons adoré découvrir ce pays magnifique. Le Nicaragua sort difficilement de la crise politique qu'il a connu il y a deux ans, ce pays très touristique a vu tous les vacanciers étrangers éviter cette destination qui mérite vraiment d'être découverte.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
