@@ -52,6 +52,10 @@ permalink: /video/
               videoContainer = $("#iVideo2019");
             }
 
+            if (response.items[i].snippet.description.includes("2020")) {
+              videoContainer = $("#iVideo2020");
+            }
+
             link = "http://www.youtube.com/embed/" + response.items[i].id.videoId + "?HD=1;rel=0;showinfo=1";
 
             var iframe = document.createElement("iframe");
