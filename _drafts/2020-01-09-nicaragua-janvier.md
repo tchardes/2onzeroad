@@ -95,7 +95,7 @@ Nous décidons de rester une journée de plus au bord de l’océan. A midi nous
 
 ## 16 et 17 janvier
 
-Route vers **Managua** la capitale où nous trouvons un bivouac sur une immense place, gardée 24/24. Nous nous garons à côté d’un camper argentin. Après avoir discuté avec la police, nous partons faire un petit tour sur le malecon, nous voyons les fameux arbres de vie qui sont assez impressionnant. Il s'agit de sculptures en acier recouverte de petites lumières. Ces arbres ont fait controverses ayant coûté plus de 20000€ pièce, il y en a 140, construits par un proche du Président Daniel Ortega. En tout cas ces arbres enjolivent assez bien la ville qui au demeurant n'est pas terrible. Soumise aux tremblements de terre il y un seul grand bâtiment dans le ville.
+Route vers **Managua** la capitale. Sur la route nous voyons des enfants vendre des iguanes qu'ils tiennent par la queue au bord de la route, on comprend pourquoi l'on voit aussi peu de faune, la population est pas endroit très pauvre et tous fait ventre. Arrivés à Managua nous trouvons un bivouac sur une immense place, gardée 24/24. Nous nous garons à côté d’un camper argentin. Après avoir discuté avec la police, nous partons faire un petit tour sur le malecon, nous voyons les fameux arbres de vie qui sont assez impressionnant. Il s'agit de sculptures en acier recouverte de petites lumières. Ces arbres ont fait controverses ayant coûté plus de 20000€ pièce, il y en a 140, construits par un proche du Président Daniel Ortega. En tout cas ces arbres enjolivent assez bien la ville qui au demeurant n'est pas terrible. Soumise aux tremblements de terre il y un seul grand bâtiment dans le ville.
 
 Nous passons un bon moment dans l’enceinte du port Salvador Allende qui abrite de nombreux bars et restaurants et met à disposition des visiteurs de très nombreux palapas directement au bord du lac, c’est très agréable. Nous buvons un coup dans un bar et notre voisin, un mexicain nous parle pendant un bom moment et paye même des mariachis pour qu’ils nous jouent des airs du folklore Nicaraguayen. De retour à Thor nous faisons la rencontre de Sergio, notre voisin, un Uruguayen qui habite à Buenos Aires, un digital nomade d’un soixantaine d’années. Ca fini dans Tor autour d’une bière, nous passons un excellent moment. En soirée je pars faire des photos de nuits de ces curieux arbres de vie et des monuments qui nous entourent.
 
@@ -136,10 +136,17 @@ Nous trouvons un bivouac jsute après la frontière dans un camping tenu par des
 
 **Nous avons vraiment adoré :**
 
--
+- Les paysages ;
+- Les villes de León et Granada pour leur architecture et histoire ;
+- Le volcan Santiago et son lac de lave ;
+- La ville de San Juan Del Sur pour sa baie magnifique sur le Pacifique ;
+- Les bon état des routes et la propreté du pays en rapport à ces voisins du Nord.
+- La gentillese et la bienveillance des habitants.
 
 **Nous avons moins aimé :**
 
-Nous avons passé au total 15 jours au Nicaragua et avons parcouru près de 795 Km.
+- Pas grand chose au final, peut-être juste le manque d'infrastructures au niveau des campings. Il n'y en a aucun.
+
+Nous avons passé au total 15 jours au Nicaragua et avons parcouru près de 795 Km. Le pays sort difficilement de la crise politique qu'il a connu il y a deux ans, ce pays très touristique à vue tous les vacanciers éviter cette destination qui mérite à être découvert.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
