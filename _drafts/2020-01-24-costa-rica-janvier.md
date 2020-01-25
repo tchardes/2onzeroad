@@ -8,7 +8,7 @@ from-date: 2020-01-24 12:00:00
 to-date: 2020-01-24 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt30.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt30.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt31.jpg
 tags: [histoire, architecture, culturel, volcan]
 pois: [sanjuan#24-janvier]
 country: Costa Rica
@@ -106,8 +106,7 @@ Ce matin on traine un peu au bivouac et nous partons en fin de matinée. Avant d
 
 Ce matin nous quitoons nostre très belle plage pour une autre mais au bord de l’océan Pacifique cette fois. Nous nous arrêtons faire le plein du frigos où nous trouvons du très bon pain. Par contre impossible de trouver du propane. On devrait pouvoir tenir jusqu’au Costa Rica. Nous prenons ensuite la route vers **San Juan Del Sur**, une petite station balnéaire qui tente de refaire surface depuis les ébéve,ements qui ont eu lieu il ya deux ans ici. Les touristes tardent à revenir. Nous arrivons et nous posons directement sur le malecon le temps de manger. Une personne vient toquer à la porte de Thor, Max, un retraité français qui vit ici depuis plusieurs années, enfin 6 mois ici et 6 mois dans la campagne autour de Besancon. On parle 5 minutes, on devrait se revoir… Après le déjeuner nous allons jusqu’au Port qui acceuille les RV sur son parking avec toutes les commaudités, electricité, eau, wifi… Une fois installé nous partons à la découverte de ce très village et très belle baie. Le bord de mer une une succéssion de bars et d’hôtels mais c’est vrai qu’il à peu de monde. La plage est très belle et même si me temps est un peu couvert, le paysage est magnifique avec cet immense Christ qui domine la ville. En fin d’après-midi nous travaillons un peu sur les phoitos et vidéo et nous allons boir une bière dans un petit bar aménagé dans Bus Bluebird à l’ambiance bien sympa. Nous y retrouvons Max et passons un très bon moment à écouter son histoire autour des quelques bières.
 
-Ce matin nous quittons San Juan Del Sur, sans oublier de passer à la boulgerie reprendre du Pain, nous faisons également le plein d’essence qui est un peu moins chère ici et faisons quelques courses pour dépenser nos Cordobas. Nous nous arrêtons à midi au bord d’un immence champ d’éolienne qui borde le lac Niacaragua, près de nous se pose un rapace que nous n’avions encore jamais vue, assez sympa pour se laisser prendre en photo. Nous arrivons assez vite à la frontière où les démarches se passent relativement vite, nonobstan le fait que l’assurance à fermé durant une heure juste au moment où nous arrivons. Des deux côtés de la frontière nous longeons une queue immense de poids lourds qui attendent pour passer la frontière? plus de 6 kilomètre de file côté Costa Rica. Nous avons remarqué à plusieur reprise que les conducteur accroche leur hammack sous la remorque pour faire un brin de sieste.
-Nous trouvons un bivouac jsute après la frontière dans un camping tenu par des suisses allemands, autant dire que c’est nickel, et que tout est à sa place, ça change…
+Ce matin nous quittons San Juan Del Sur, sans oublier de passer à la boulgerie reprendre du pain, nous faisons également le plein d’essence qui est un peu moins chère ici et faisons quelques courses pour dépenser nos derniers Cordobas. Nous nous arrêtons à midi au bord d’un immence champ d’éoliennes qui borde le lac Niacaragua, près de nous se pose un rapace que nous n’avions encore jamais vue, assez sympa pour se laisser prendre en photo. Nous arrivons assez vite à la frontière où les démarches se passent relativement vite. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-01-24-costa-rica-frontiere %}">ici</a>)**
 
 **Nous avons vraiment adoré :**
 
@@ -115,13 +114,13 @@ Nous trouvons un bivouac jsute après la frontière dans un camping tenu par des
 - Les villes de León et Granada pour leur architecture et histoire ;
 - Le volcan Santiago et son lac de lave ;
 - La ville de San Juan Del Sur pour sa baie magnifique sur le Pacifique ;
-- Les bon état des routes et la propreté du pays en rapport à ces voisins du Nord.
+- Le bon état des routes et la propreté du pays en rapport à ces voisins du Nord.
 - La gentillese et la bienveillance des habitants.
 
 **Nous avons moins aimé :**
 
 - Pas grand chose au final, peut-être juste le manque d'infrastructures au niveau des campings. Il n'y en a aucun.
 
-Nous avons passé au total 15 jours au Nicaragua et avons parcouru près de 795 Km. Le pays sort difficilement de la crise politique qu'il a connu il y a deux ans, ce pays très touristique à vue tous les vacanciers éviter cette destination qui mérite à être découvert.
+Nous avons passé au total 15 jours au Nicaragua et avons parcouru près de 795 Km. Nous avons adoré parcourir ce pays qui est vraiment très beau. Le Nicaragua sort difficilement de la crise politique qu'il a connu il y a deux ans, ce pays très touristique à vue tous les vacanciers éviter cette destination qui mérite à être découverte.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
