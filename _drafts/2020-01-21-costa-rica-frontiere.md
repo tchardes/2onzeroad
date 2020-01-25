@@ -22,7 +22,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica1.jpg" style="width:100%" />
 
-Le poste frontière du Nicaragua est tout neuf et les satellites de google n'ont pas, apparemment, survolé à nouveau la zone.
+Le poste frontière du Nicaragua est tout neuf et les satellites de google n'ont apparemment pas survolé la zone récemment.
 
 - **Repère 1** - Pré-contrôle ;
 - **Repère 2** - Poste frontière nicaraguayen, nouvelle zone (Fin immigration et fin importation temporaire)
