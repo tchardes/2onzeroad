@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "11.261096, -85.870063"
-  name: "San Juan Del Sur - Nicaragua"
-  date: "22 et 23 janvier 2020"
+  name: "Finca Cañas Castilla - Costa Rica"
+  date: "24 et 25 janvier 2020"
 
 # set the encoding to utf-8
 encoding: utf-8
