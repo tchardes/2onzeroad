@@ -389,6 +389,7 @@ Nous arrivons assez vite à la frontière où les démarches se passent relative
 **Nous avons moins aimé :**
 
 - Pas grand chose au final, peut-être juste le manque d'infrastructures au niveau des campings. Il n'y en a aucun.
+- Le passage de la frontière du Nicaragua (Entrée et sortie) un peu alambiqué.
 
 Nous avons passé au total 15 jours au Nicaragua et avons parcouru près de 795 Km. Nous avons adoré découvrir ce pays qui est vraiment très beau. Le Nicaragua sort difficilement de la crise politique qu'il a connu il y a deux ans, ce pays très touristique à vue tous les vacanciers étrangers éviter cette destination qui mérite à être découverte.
 
