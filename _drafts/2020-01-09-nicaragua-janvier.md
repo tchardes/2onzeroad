@@ -145,7 +145,8 @@ Nous trouvons un bivouac juste après la frontière dans un camping tenu par des
 **Nous avons moins aimé :**
 
 - Pas grand chose au final, peut-être juste le manque d'infrastructures au niveau des campings. Il n'y en a aucun.
+- Certainement le passage de frontière (entrée et sortie) le plus alambiqué.
 
-Nous avons passé au total 15 jours au Nicaragua et avons parcouru près de 795 Km. Le pays sort difficilement de la crise politique qu'il a connu il y a deux ans, ce pays très touristique a vu tous les vacanciers éviter cette destination qui mérite à être découverte.
+Nous avons passé au total 15 jours au Nicaragua et avons parcouru près de 795 Km. Le pays sort difficilement de la crise politique qu'il a connu il y a deux ans. Ce pays très touristique a vu tous les vacanciers éviter cette destination qui mérite à être découverte.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
