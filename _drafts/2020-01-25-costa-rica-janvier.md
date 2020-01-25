@@ -15,7 +15,7 @@ country: Costa Rica
 states: ["Guanacaste"]
 category: "roadmap"
 flickr-text: ""
-location: "12.527554, -85.970408"
+location: "9.891149, -83.789196"
 itinary: "2020/costa_rica.json"
 mapZoom: 7
 ---
