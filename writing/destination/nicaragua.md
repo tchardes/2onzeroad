@@ -4,9 +4,9 @@ country: "Nicaragua"
 permalink: "/writing/destination/nicaragua/"
 header-img: "assets/owner/hero/nicaragua-bg.jpg"
 flickr-text: ""
-distance:
-days:
+distance: 795
+days: 15
 photos:
-videos:
-walk:
+videos: 1
+walk: 58
 ---
