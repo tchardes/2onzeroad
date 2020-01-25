@@ -302,3 +302,5 @@ Ce matin nous quittons San Juan Del Sur, sans oublier de passer à la boulangeri
 Nous avons passé au total 15 jours au Nicaragua et avons parcouru près de 795 Km. Nous avons adoré découvrir ce pays qui est vraiment très beau. Le Nicaragua sort difficilement de la crise politique qu'il a connu il y a deux ans, ce pays très touristique à vue tous les vacanciers étrangers éviter cette destination qui mérite à être découverte.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4QqVeNKI1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
