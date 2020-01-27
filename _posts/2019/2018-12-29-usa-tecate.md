@@ -60,7 +60,7 @@ Comme nous n'avons pas d'imprimante, le douanier nous indique une pharmacie, tr�
 
 Il faut donc rentrer, à nouveau, côté droit et retourner au guichet pour donner tous les documents. Après contrôle et enregistrement, vous devez vous acquitter de la somme de 1177,88 $Mex soit environ 52€ (Cash US$, Mex\$ ou par CB). Vous devez également remplir le document d'importation de matériel et indiquer les objets qui se trouvent dans le RV. Il vous fournit une liste d'objet (en Espagnol et Anglais) où il faut cocher OUI ou NON et si oui indiquer le nombre. Au dos de cette feuille, il vous demande d'inscrire votre numéro de téléphone et votre adresse mail.
 
-Au bout de longues minutes, il revient avec le document d'importation du véhicule valable 10 ans. Une partie du document est détachable et autocollante et s'appose sur la pare-brise à gauche du rétroviseur central quand on est assis au volant.
+Au bout de longues minutes, il revient avec le document d'importation du véhicule valable 10 ans. Bien vérifier que sur le titre d'importation du véhicule les N° d'immatriculation et série du véhicule sont conformes. Une partie du document est détachable et autocollante et s'appose sur la pare-brise à gauche du rétroviseur central quand on est assis au volant.
 
 <img src="{{baseurl}}/assets/owner/photos/Tecate6.jpg" style="width:100%" />
 
