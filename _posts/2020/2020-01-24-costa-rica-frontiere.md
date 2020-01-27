@@ -43,7 +43,7 @@ Le poste frontière du Nicaragua est tout neuf et les satellites de google n'ont
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica11.jpg" style="width:100%" />
 
-- **Immigration - Douanes** - **_Repère 2_** : On arrive rapidement à un rond-point pas très bien indiqué, il faut passer au centre où est indiqué "Terminal de pasajeros" en direction du grand bâtiment blanc. Tous les voyageurs doivent se rendre au guichet de l'immigration qui se trouve dans le bâtiment, entrée avec écrit "Migration - Salida Nicaragua". Contrôle des passeports, tampon de sortie du territoire, et paiement d'une taxe de 2\$US par personne, remise d'un reçu. C'est très rapide.
+- **Immigration - Douanes** - **_Repère 2_** : On arrive rapidement à un rond-point pas très bien indiqué, il faut passer au centre où est écrit "Terminal de pasajeros" en direction du grand bâtiment blanc. Tous les voyageurs doivent se rendre au guichet de l'immigration qui se trouve dans le bâtiment, entrée avec écrit "Migration - Salida Nicaragua". Contrôle des passeports, tampon de sortie du territoire, et paiement d'une taxe de 2\$US par personne, remise d'un reçu. C'est très rapide.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica27.jpg" style="width:100%" />
 
@@ -87,7 +87,7 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica5.jpg" style="width:100%" />
 
-- **Importation temporaire** - **_Repère 6_** : En face le grand bâtiment, à droite quand vous arrivez, se trouvent les douanes. On fournit les originaux et photocopie du passeport du conducteur, carte grise, permis international. Il nous demande une photocopie de le page du passeport où a été apposé le tampon d'entrée au Costa Rica. Par chance, juste à côté, il y a une petite bicoque qui fait des photocopies... Retour à la douane, l'agent monte un dossier qu'il agrafe, il sort et vient contrôler Thor, notamment le N° de série, puis valide le dossier qu'il nous remet.
+- **Importation temporaire** - **_Repère 6_** : En face le grand bâtiment, à droite quand vous arrivez, se trouvent les douanes. On fournit les originaux et photocopie du passeport du conducteur, carte grise, permis international. Il nous demande une photocopie de la page du passeport où a été apposé le tampon d'entrée au Costa Rica. Par chance, juste à côté, il y a une petite bicoque qui fait des photocopies... Retour à la douane, l'agent monte un dossier qu'il agrafe, il sort et vient contrôler Thor, notamment le N° de série, puis valide le dossier qu'il nous remet.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica6.jpg" style="width:100%" />
 
