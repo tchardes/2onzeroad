@@ -24,11 +24,9 @@ Cet article couvre la période du 24 janvier au février 2020, au cours de laque
 
 ## 24 au 26 janvier
 
-Nous arrivons assez vite à la frontière où les démarches se passent relativement vite, nonobstant le fait que l’assurance à fermé durant une heure juste au moment où nous arrivons. Des deux côtés de la frontière nous longeons une queue immense de poids lourds qui attendent pour passer la frontière plus de 6 kilomètre de file côté Costa Rica. Nous avons remarqué à plusieurs reprises que les conducteurs accrochent leur hammack sous la remorque pour faire un brin de sieste.
+Nous quittons San Juan Del Sur et le Nicaragua pour le Costa Rica. Nous arrivons assez vite à la frontière où les démarches se passent relativement vite, nonobstant le fait que l’assurance a fermée durant une heure juste au moment où nous arrivons. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-01-24-costa-rica-frontiere %}">ici</a>)** Des deux côtés de la frontière nous longeons une queue immense de poids lourds qui attendent pour passer la frontière plus de 6 kilomètres de file côté Costa Rica. Nous avons remarqué à plusieurs reprises que les conducteurs accrochent leur hamac sous la remorque pour faire un brin de sieste.
 
-**(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-01-24-costa-rica-frontiere %}">ici</a>)**
-
-Nous trouvons un lieu pour nous poser juste après la frontière à la Finca Cañas Castilla dans un camping tenu par des suisses allemands, autant dire que c’est nickel, et que tout est à sa place, ça change…
+Nous trouvons un lieu pour nous poser juste après la frontière à la Finca Cañas Castilla tenu par des suisses allemands, autant dire que c’est nickel, et que tout est à sa place, ça change…
 
 Nous passons la journée à profiter des installations du camping, lessive, blogs, photos, vidéos dans un très bel endroits, situé en pleine forêt au bord d’une rivière à crocodile et en bruit de fond des singes hurleurs. Changement complet d’atmosphère avec le Nicaragua alors que nous sommes qu’à une dizaine de kilomètre de la frontière.
 
