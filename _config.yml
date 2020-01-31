@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "10.590355, -85.650674"
-  name: "Playa Panama - Costa Rica"
-  date: "29 janvier 2020"
+  coordinates: "10.148712, -85.450624"
+  name: "Nicoya - Costa Rica"
+  date: "30 janvier 2020"
 
 # set the encoding to utf-8
 encoding: utf-8
