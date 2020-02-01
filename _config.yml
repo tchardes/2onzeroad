@@ -4,7 +4,7 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "9.654491, -85.068519"
-  name: "Montezum - Costa Rica"
+  name: "Montezuma - Costa Rica"
   date: "31 janvier 2020"
 
 # set the encoding to utf-8
