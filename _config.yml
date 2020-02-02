@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "9.654491, -85.068519"
-  name: "Montezuma - Costa Rica"
-  date: "31 janvier 2020"
+  coordinates: "10.321513, -84.823562"
+  name: "Monteverde - Costa Rica"
+  date: "03 et 04 janvier 2020"
 
 # set the encoding to utf-8
 encoding: utf-8
