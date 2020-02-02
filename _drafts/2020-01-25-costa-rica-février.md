@@ -12,7 +12,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt31.jpg
 tags: [histoire, architecture, culturel, volcan]
 pois: [finca#24-janvier]
 country: Costa Rica
-states: ["Guanacaste"]
+states: ["Guanacaste", "Puntarena", "Alajuela", "Heredia", "San Jose", "Cartago", "Limon"]
 category: "roadmap"
 flickr-text: ""
 location: "9.891149, -83.789196"
