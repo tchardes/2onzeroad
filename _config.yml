@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "10.334774, -83.951436"
-  name: "Horquetas - Costa Rica"
-  date: "05 février 2020"
+  coordinates: "10.184642, -84.235606"
+  name: "Volcan Poas - Costa Rica"
+  date: "06 février 2020"
 
 # set the encoding to utf-8
 encoding: utf-8
