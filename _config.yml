@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "9.644271, -84.654517"
-  name: "Playa Herradura - Costa Rica"
-  date: "07 au 09 février 2020"
+  coordinates: "9.385880, -84.144859"
+  name: "Parc Manuel Antonio - Costa Rica"
+  date: "11 février 2020"
 
 # set the encoding to utf-8
 encoding: utf-8
