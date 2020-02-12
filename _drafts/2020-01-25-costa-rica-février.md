@@ -88,6 +88,34 @@ Dans l’après-midi le le temps se gâte et nous decidons de lever le camp pour
 Ce matin la vue sur le lac est très belle même si le temps est très couvert. Comme la météo annonce des éclaisies, nous décidons d’aller jusqu’au Parc National du Volcan Arenal. La route autour du lac est vraiment très belle même si de ce côté là du lac il soit moins visible.
 Arrivés à l’entrée, le volcan est entièrement dans les nuages? nous allons demander des renseignements à l’entrée, le parc propose quelques trails dans la forêt autour du volcan et vers le lac, au final on va retoruver peu ou prou ce que l’on à vue à Monteverde. On attend plusieurs heures les fameuses éclaisies, mais la météo se dégrade et demain la météo annonce un temps couvert sans aucune éclarise. En début d’apr!ès-midi, nous décodons de lever le camp en direction de la région de Saripaqui pour observer des grenouilles. Nous arrivons en milieur d’après-midi à Horquetas où nous réservons un tour pour demain matin après de « Frogs Heaven » l’acceuil est super sympa et il nous autorise à dormir là et nous offre électricté pour Thor et Wifi. Rendez-vous est pris pour demain matin 6 heures. Normalement il devrait un peu pleuvoir demain matin, espèrons que les grenouilles soient en formes…
 
+## 05 février
+
+## 06 février
+
+## 07 février
+
+## 08 février
+
+## 09 février
+
+## 10 février
+
+## 11 février
+
+## 12 février
+
+## 13 février
+
+## 14 février
+
+## 15 février
+
+## 16 février
+
+## 17 février
+
+## 18 février
+
 **Nous avons vraiment adoré :**
 
 **Nous avons moins aimé :**
