@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "9.162399, -83.744853"
-  name: "Uvita - Costa Rica"
-  date: "12 février 2020"
+  coordinates: "8.535061, -83.303876"
+  name: "Puerto Jimenez - Costa Rica"
+  date: "13 février 2020"
 
 # set the encoding to utf-8
 encoding: utf-8
