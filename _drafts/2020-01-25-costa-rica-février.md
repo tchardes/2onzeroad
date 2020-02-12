@@ -90,17 +90,40 @@ Arrivés à l’entrée, le volcan est entièrement dans les nuages? nous allons
 
 ## 05 février
 
+Ca matin 6h00 pétante, José nous attent devant un bon café, il nous raconte un peu l’histoire de cette réserve et leurs projets, il parle très bien anglais et on sent qu’il est pationné par son métier.
+Nous commençons le tour par l’observation d’oiseaux, perroquets, colibris…. puis une dizaine de serpents qui vivent dans des vivarium par couple, certains ont été capturé dans le bois derrière leur maison. Nous poursuivons par un sentier qui parcour les lieux qui sont restés très sauvage, José a l’oeil et repère très vite ces minuscules grenouuilles pas plus grosses que l’ongle du pouce, les couleurs sont vraiment impressionnantes et informent les potentiels prédateurs de leur haute toxicité. Sur à peine 300 mètres nous voyons 5 espèces de grenouilles sur les 150 espèces vivant au Costa Rica. Après le Tour José nous laisse déambuler à notre guise dans le parc, mais sans lui, il est beaucoup plus difficile de les trouver. J’essaie de faire quelques photos mais elle sont tellement petites est mobiles qu’il est difficile de réussir de beau clichés d’autant plus que je n’ai pas d’objectif macro.
+Nous passons la fin de matinée dans Thor, on profite du wifi pour traiter les photos et les envoyer et également réserver notre tour pour demain par Internet pour la volcan Poas. La famille qui tient ce parc est vraiment adorable et nous avons tenu en plus du tour à leur donner quelques chose pour ce bivouac de luxe avec électricité wifi, eau potable, douches et toilettes.
+En fin de matinée nous rencontrons un couple qui vient faire la visite, ils arrivent de Nantes avec leur deux filles et sont partis pour un voyage d’un an, nous avons discuté un long moment.
+Après le repas nous disons aurevoir et partons pour nous approcher de notre visite de demain. Nous empruntons une route de montagne qui nous amène à plus de 2400 mètres d’altitude, c’est dommage que le temps soit couvert, on se croirait vraiment en suisse avec de beaux paturages et nombreux troupeaux de vrais vaches, pas des zébus à grandes oreilles.
+Peu avant d’arriver au volcan, nous trouvons un parking devant une boutique et demandons au propriètaire si nous pouvons nous poser là pour la nuit. Le gars est super sympa, il fait bouger un camion et déplace sa voiture pour nous laisser de la place. Du coup nous lui achetons quelques bricoles dont de très belle fraises qui sont cultivées ici sous serres, très bonnes. Nous sommes à 2200 mètres, nous allons bien dormir….
+
 ## 06 février
+
+Après une nuit très calme et très fraiche nous partons pour le par Nacional Voclan Poas. Nous ne sommes qu’à quelques kilomètres, le temps est magnifique. Normalement lors de la réservation nous avons une heure spécifique pour faire la visite mais à l’entrée l’agent me dis que c’est bon et qu’il n’est nul besoin d’attendre, cela nous fait gagner deux heures sur notre programme. Depuis 2017 date de la dernière éruption de Poas le site visitable c’est réduit à uniquement le mirador qui surplombe le cratère. Devant le visitor center nous avons droit à un pitch sur la sécurité puis distribution d’un casque et nous pouvons ensuite parcourir les dernier 400 mètres pour arriver au mirador où nous ne pouvons rester que 20 minutes en raison des émanation de gaz toxique. On comprend mieux une fois face au cratère. Au fond un petit lac d’acide avec des fumerolles et plaques de souffre. Le décor est splendide, nous sommes audessus des nuages. Un volcan en activité est toujours impressionnant.
+Une fois la visite terminée nous reprenons la route et descendons vers la capitale, San José. Les paysages sont très beaux sous le soleil, on se croirait vraiement en suisse ou en savoie.
+Arrivé à San José, nous trouvons une place sur le parking d’un mal à une dizaine de kilomètres du centre, je prend contact avec la sécurité nous pouvons dormir là. C’est un peu cher mais au moins nous sommes tranquilles.
+Nous prenons un Uber pour le centre ville. San José n’est pas extraordinaire mais nous y passons quand même une grosse demi-journée. Nous commençons comme souvent par la cathédrale, le théatre nacional, les différents parc et faisons le musée d’art, et de l’or précolombien très récent, magnifique écrain pour de belles pièces.
+Nous déambulons le reste de l’après-midi dans la ville avec un passage au Bario Amon pour ces vieilles batisses, au bario California pour ces tags et de belles rue piètonnes très animés.
+Un Uber nous ramène au mall où nous faisons quelques courses et mangeons dans un pizza Hut.
 
 ## 07 février
 
-## 08 février
+Nuit calme sur notre parking, nuit fraiche à près de 1000 mètres.
+Nous quittons la capitale pour retourner une nouvelle fois sur la côte Pacifique. La route qui permet d’y accder est une autoroute, très belle qui nous permet de descendre rapidement an niveau de l’océan. Nous roulons jusqu’à Harradura qui posséde une très belle baie toutr arondie avec un sable noir. Il y a un peu de monde mais nous trouvons facilement à nous garer, la plage est très belle. L’eau est vraieme,t très chaude et les vagues gentilettes. Après le coucher de soleil, nous restons seul sur cette immence plage…
 
-## 09 février
+## 08 et 09 février
+
+Nous passons tousles WE sur la plage, dès 7 heures du matin tous les Costa Ricains sont garés, et pic nic installé avec pargois tente et BBK, les gens sont très sympathique que moins bruyant que leurs voisins du noir, pas de musique à fond la caisse. Samedi matin un immence catamarant à moteur noir mouilles dans la biae, Sur le pont se trouve un hélicopyère EC145 un gros bateau et sous les pnts inférieur on devine jet ski, zodiak… il est énorme.
+Dianche matin deux dames qui sont tout proches de nous offrent une collier brésilen à Corinne, ils sont très très gentils. On assiste tous les soirs à de très beaux coucher de soleil, dès qu’il disparait de l’horizon tous les gens quittent les lieux nous laissant seuls pour la nuit qui est fraiche, on dort bien.
 
 ## 10 février
 
+Ce matin nous bougeons pour quelques kilomères dan sun prmeier temps, nous allons jusqu’à la ville de Jaco pour s’occuper un peu de logistique, nous passons déposer notre linge dans une lavanderia et allons faire quelques courses. Comme nous ne pouvons récupérer notre linge qu’en fin d’après-midi, nous trouvons une superbe plage pour nous poser au bout de la ville et de la playa jaco, c’est désert, nouys passons une très bonne journée. Vers 16 heures nous allons récupérer notre linge et reprenons la route en direction du Parc Manuel Antonio que nous allon visiter demain matin. Nous trouvons un eplace un peu avat l’entrée du Parc au bord de la Playa Espadilla.
+
 ## 11 février
+
+Ce matin on se lève de bonne heure afin d’être à l’entrée du Parc. à 7h00. On bouge de quelques dizaines de mètres de notre bivouac où nous avons eu très chaud cette nuit pour le parking gardé du Parc. Nous y passons toute la matinèe, le parc est magnifique, il est limiter à un peu plus de 600 personnes par jour. Cette végétation tropicale qui tombe dans l’océan parcifique offres de paysages paradisiaques, les criques et les plages sont superbes, nous faisons près de 10 km em empruntant tous les trails qui sont très bien tracés. Au niveau faune, c’est moyen, singes hurleurs et capucins, agutis, des paraisseux très peu visibles, iguanes… En fait guère plus que dqn la nature au Costa Rica. A l’issue nous trainaons un peu autoru du parc où il y a de nombreux hotels, restaurants, bars… Dont une restaurant qui a été construit autour d’un vieux douglas de l’armée américaine, c’est très original.
+Nous partons en début d’après-midi pour Parque Nacional Marino Ballena, arrivés au camping on se renseigne auprès des locaux mais apparemment pas de baleine en ce moment, le proprio du camping téléphone à une de ces connaissances mais après discussions peu de chance d’en voir, nous économisont 100 \$ et profiterons demain de la magnifique plage.
 
 ## 12 février
 
