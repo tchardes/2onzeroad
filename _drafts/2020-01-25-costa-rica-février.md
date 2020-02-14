@@ -62,11 +62,11 @@ Le soir venu, nous nous retrouvons à table avec des allemands, de toute façon 
 
 ## 27 janvier
 
-Ce matin nous quittons la Finca et sa jungle pour le Pacifique et ses plages. Nous faisons un arrêt à La Cruz pour faire des courses, changer de carte Sim et retirer de l’argent, des Colones, 50000 colones d’un coup, on ne plaisante pas, en fait le Costa Rica est un pays très cher où la monnaie ne vaut pas grand chose, c’est peut-être la raison pour laquelle on peut toujours payer en Dollar US.
+Ce matin nous quittons la Finca et sa jungle pour le Pacifique et ses plages et sa forêt tropicale sèche. Nous faisons un arrêt à La Cruz pour faire des courses, changer de carte sim et retirer de l’argent, des Colones, 50000 d’un coup, on ne plaisante pas, en fait le Costa Rica est un pays très cher où la monnaie ne vaut pas grand chose, c’est peut-être la raison pour laquelle on peut toujours payer en Dollar US.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49526859538/in/datetaken/" title="La Cruz - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49526859538_be2dba8ed1_k.jpg" width="2048" height="1152" alt="La Cruz - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Avec nos 75 euros en poche nous quittons cette petite ville pour la plage de **Puerto Soley** qui se trouve dans la magnifique et très ronde Bahía de Salinas, nous sommes seul au monde, nous posons Thor à l’ombre des tamarinier et profitons de la plage et de l’océan toute la journée. Le lieu est vraiment idyllique.
+Avec nos 75 euros en poche nous quittons cette petite ville pour la plage de **Puerto Soley** qui se trouve dans la magnifique et très ronde Bahía de Salinas, nous sommes seul au monde, nous posons Thor à l’ombre des tamariniers et profitons de la plage et de l’océan toute la journée. Le lieu est vraiment idyllique.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49483242586/in/datetaken/" title="Baie de Salinas - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49483242586_79067ba176_k.jpg" width="2048" height="1152" alt="Baie de Salinas - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
