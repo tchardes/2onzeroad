@@ -489,7 +489,7 @@
   { "name": "passagentocr", "displayName": "Passage frontière Nicaragua - Costa Rica", "type": "information", "country": "Costa Rica" },
   { "name": "finca", "displayName": "Finca Cañas Castilla", "type": "autre", "country": "Costa Rica" },
   { "name": "soley", "displayName": "Playa Soley", "type": "nature", "country": "Costa Rica" },
-  { "name": "rajada", "displayName": "playa Rajada", "type": "nature", "country": "Costa Rica" },
+  { "name": "rajada", "displayName": "Playa Rajada", "type": "nature", "country": "Costa Rica" },
   { "name": "nicoya", "displayName": "Péninsule de Nicoya", "type": "autre", "country": "Costa Rica" },
   { "name": "playa_panama", "displayName": "Playa Panama", "type": "nature", "country": "Costa Rica" },
   { "name": "coco", "displayName": "Playa El Coco", "type": "nature", "country": "Costa Rica" },
