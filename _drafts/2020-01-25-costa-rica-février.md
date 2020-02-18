@@ -19,15 +19,15 @@ pois:
     playa_panama#29-janvier,
     coco#30-janvier,
     baulas#30-janvier,
-    montezuma#31-janvier,
+    montezuma_cr#31-janvier,
     curu#01-février,
     monteverde#02-février,
-    lac-arenal#03-février,
+    lac_arenal#03-février,
     arenal#04-février,
     saripaqui#04-février,
     hortequas#04-février,
     poas#06-février,
-    san-jose#06-fevrier,
+    san_jose#06-fevrier,
     herradura#07-février,
     jaco#10-février,
     antonio#10-février,
@@ -36,7 +36,7 @@ pois:
     osa#13-février,
     corcovado#13-février,
     jimenez#13-février,
-    quetzales#16-février
+    quetzales#16-février,
   ]
 country: Costa Rica
 states: ["Guanacaste", "Puntarenas", "Alajuela", "Heredia", "San Jose", "Cartago", "Limon"]
