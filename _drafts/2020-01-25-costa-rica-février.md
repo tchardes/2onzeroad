@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Costa Rica"
-preview: "…"
+preview: "Cet article couvre la période du 24 janvier au février 2020, au cours de laquelle nous avons visité le Costa Rica…"
 parent-id:
 date: 2020-01-25 13:00:00
 from-date: 2020-01-24 12:00:00
