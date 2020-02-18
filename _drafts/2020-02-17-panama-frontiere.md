@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Passage frontière Nicaragua - Costa Rica"
+title: "Passage frontière Costa Rica - Panama"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
 parent-id: 2020-01-25-costa-rica-janvier
 
@@ -9,20 +9,18 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-nica-costarica.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-nica-costa.jpg
 tags: []
-pois: [passagentocr]
+pois: [passagecrtop]
 flickr-text: ""
-country: Costa Rica
-states: [Guanacaste]
-city: Peñas Blancas
+country: Panama
+states: [Bocas Del Toro]
+city: Sixaola
 category: "information"
 location: "11.215345, -85.612273"
 ---
 
-Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Nicaragua et le Costa Rica au niveau du poste frontière de Peñas Blancas en direction de La Cruz.
+Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Costa Rica et Panama au niveau du poste frontière de Sixaola en direction de Almirante.
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica1.jpg" style="width:100%" />
-
-Le poste frontière du Nicaragua est tout neuf et les satellites de google n'ont apparemment pas survolé la zone récemment.
 
 - **Repère 1** - Pré-contrôle ;
 - **Repère 2** - Poste frontière nicaraguayen, nouvelle zone (Fin immigration et fin importation temporaire)
