@@ -4,7 +4,7 @@ title: "Passage frontière Costa Rica - Panama"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
 parent-id: 2020-01-25-costa-rica-janvier
 
-date: 2020-01-24 15:00:00
+date: 2020-02-17 15:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-nica-costarica.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-nica-costa.jpg
