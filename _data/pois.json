@@ -509,7 +509,7 @@
   { "name": "ballena", "displayName": "Marino Ballena - Parc National", "type": "nature", "country": "Costa Rica" },
   { "name": "finca6", "displayName": "Finca 6 - Site Archéologique", "type": "autre", "country": "Costa Rica" },
   { "name": "osa", "displayName": "Péninsule de Osa", "type": "nature", "country": "Costa Rica" },
-  { "name": "corcovado", "displayName": "Corcovado - Parc National", "type": "neture", "country": "Costa Rica" },
+  { "name": "corcovado", "displayName": "Corcovado - Parc National", "type": "nature", "country": "Costa Rica" },
   { "name": "jimenez", "displayName": "Puerto Jimenez", "type": "ville", "country": "Costa Rica" },
   { "name": "quetzales", "displayName": "Los Quetzales - Parc National", "type": "nature", "country": "Costa Rica" },
 
