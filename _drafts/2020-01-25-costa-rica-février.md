@@ -9,7 +9,7 @@ to-date: 2020-01-25 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt30.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt31.jpg
-tags: [histoire, architecture, culturel, volcan]
+tags: [mer-ocean, faune, foret, volcan]
 pois:
   [
     finca#24-janvier,
