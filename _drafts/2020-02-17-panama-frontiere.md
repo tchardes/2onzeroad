@@ -15,7 +15,7 @@ country: Panama
 states: [Bocas Del Toro]
 city: Sixaola
 category: "information"
-location: "11.215345, -85.612273"
+location: "9.499435, -82.613686"
 ---
 
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Costa Rica et Panama au niveau du poste frontière de Sixaola en direction de Almirante.
