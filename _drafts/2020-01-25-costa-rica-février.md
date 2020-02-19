@@ -203,6 +203,8 @@ Nuit très calme au refuge, nous avons été réveillé ce matin par les cris de
 
 La traversée dure une heure trente, l’eau du golfe est relativement calme. Une fois à terre nous prenons la route pour la réserve biologique **Bosque Nubuso Monteverde**. Nous nous enfonçons dans une massif montagneux et arrivons rapidement dans les nuages avec une pluie très fine et des températures qui nous rafraîchissent bien. Nous sommes à plus de 1400 mètres.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49484079302/in/datetaken/" title="Péninsule de Nicoya - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49484079302_0b52c82cac_k.jpg" width="2048" height="1365" alt="Péninsule de Nicoya - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49483917441/in/datetaken/" title="Monteverde - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49483917441_0ec07ae6de_k.jpg" width="2048" height="1365" alt="Monteverde - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49484094292/in/datetaken/" title="Monteverde - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49484094292_0516c72342_k.jpg" width="2048" height="1365" alt="Monteverde - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
