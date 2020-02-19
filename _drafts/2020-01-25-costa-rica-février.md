@@ -229,13 +229,15 @@ Ce matin, j’arrive à la boulangerie où j’avais rendez-vous avec Jean-Pierr
 ## 16 février
 
 Aujourd’hui nous quittons la côte pacifique en direction de la côte caraïbe. Avant de partir, nous rencontrons un couple très sympathique qui s’est posé au camping avec un 4x4 équipé d'une tente de toit. Nous discutons un bon moment, ils arrivent de Belgique et ont loué leur véhicule le temps de leur road trip.
-Nous reprenons la même route et bifurquons au niveau de Palma Norte pour reprendre la panaméricaine en direction du centre du pays qui est très montagneux. Nous faisons une halte à San Isidro de El General. A partir de cette ville, on commence réellement à monter et passons un col à plus de 3400 mètres. Nous traversons une épaisse couche de nuages avant de passer au-dessus puis finissons la route dans un épais brouillard. Nous nous posons pour la nuit à l’entrée du **Parc national Los Quetzales** qui est fermé, à notre arrivée. La nuit va être agréable, très fraîche! nous sortons la couette…
+Nous reprenons la même route et bifurquons au niveau de Palma Norte pour reprendre la panaméricaine en direction du centre du pays qui est très montagneux. Nous faisons une halte à San Isidro de El General. A partir de cette ville, on commence réellement à monter et passons le col de la Muerte qui culmine à 3491 mètres. Nous traversons une épaisse couche de nuages avant de passer au-dessus puis finissons la route dans un épais brouillard. Nous nous posons pour la nuit à l’entrée du **Parc national Los Quetzales** qui est fermé, à notre arrivée. La nuit va être agréable, très fraîche! nous sortons la couette…
 
 ## 17 février
 
 Ce matin il y a 11° dans Thor quand nous nous levons. A 8hO00, nous sommes au visitor center. Nous rencontrons une garde qui nous explique que si nous sommes effectivement à l'entrée du parc des Quetzales, il y a très peu de chance d'en voir car ils ne sont pas localisés dans cette zone mais à une dizaine de kilomètres à l'intérieur du parc et qu'un guide est nécessaire si on veut espérer en voir un. Rendez-vous est pris pour demain 5h00. En attendant, nous faisons les deux trails qui partent d'ici. Cela nous prend toute la matinée, le tracé est très agréable et traverse une forêt primaire humide très belle. Effectivement, aucune présence de ce fameux oiseau mythique, emblème national du Guatemala. A midi, nous mangeons dans un self près du parc et passons l'après-midi au chaud dans Thor bien qu'en fin d'après-midi une fine pluie s'installe et on doit allumer un peu le chauffage...
 
 ## 18 février
+
+frfrfrf
 
 **Nous avons vraiment adoré :**
 
