@@ -7,7 +7,7 @@ date: 2020-01-25 13:00:00
 from-date: 2020-01-24 12:00:00
 to-date: 2020-01-25 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt30.jpg"
+header-img: "assets/owner/blog/header/post-bg-rt31.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt31.jpg
 tags: [mer-ocean, faune, foret, volcan]
 pois:
@@ -121,7 +121,7 @@ A marée basse, je pars promener le long de la côte qui dévoile de petites bai
 
 ## 29 janvier
 
-Nuit très chaude au bivouac avec très peu d’air. Ce matin, le temps est couvert et très lourd. On quitte cette plage paradisiaque pour la péninsule de **Nicoya** qui abrite également de nombreuses plages réputées. La route est très belle et d’une manière générale le pays est très propre pour le moment, très peu de détritus. En roulant, on voit deux petits singes, des capucins, passer au dessus de la route, en s’approchant on se rend compte que des cordes ont été tendues très haut entre deux portions de forêt pour leur permettre de traverser tranquillement et en toute sécurité. Nous faisons un arrêt à mi parcours dans la ville de Libéria. Nous faisons le plein du frigo, de gaz et à midi nous allons déjeuner dans un Burger King, cela change un peu. Nous sommes encore un peu surpris de voir les prix en Colones, quand la note affiche 78300 Colones on a encore un petit sursaut… le temps de faire la conversion!
+Nuit très chaude au bivouac avec très peu d’air. Ce matin, le temps est couvert et très lourd. On quitte cette plage paradisiaque pour la péninsule de **Nicoya** qui abrite également de nombreuses plages réputées. La route est très belle et d’une manière générale le pays est très propre pour le moment, très peu de détritus. En roulant, on voit deux petits singes, des capucins, passer au dessus de la route, en s’approchant on se rend compte que des cordes ont été tendues très haut entre deux portions de forêt pour leur permettre de traverser tranquillement et en toute sécurité. Nous faisons un arrêt à mi parcours dans la ville de Libéria. Nous faisons le plein du frigo, de gaz et à midi nous allons déjeuner dans un Burger King, cela change un peu. Nous sommes encore un peu surpris de voir les prix en Colones, quand la note affiche 78300 Colones on a encore un petit sursaut… le temps de faire la conversion.
 
 Nous sommes surpris de voir énormément d’étrangers, pourtant cette ville n’a rien d’exceptionnel. En partant de Liberia nous quittons la panaméricaine pour bifurquer plein Ouest en direction de l’Océan Pacifique. Nous nous arrêtons à **Playa Panama** où nous nous posons pour la nuit. C’est beaucoup moins sauvage que les jours précédents mais la baie est très belle également.
 
