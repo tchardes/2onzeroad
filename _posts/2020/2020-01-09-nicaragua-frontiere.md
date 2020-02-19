@@ -21,7 +21,7 @@ location: "13.793070, -86.570240"
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Honduras et le Nicaragua au niveau du poste frontière de Las Manos en direction de Ocotal.
 
 <p class="info-box bg-primary"><i class="fa fa-info-circle"></i>
-  Avant toute chose, il est souhaitable de s'inscrire au moins 7 jours avant son entrée sur le territoire sur le site officiel gouvernemental du Nicaragua à l'adresse : https://solicitudes.migob.gob.ni/. L'inscription est assez rapide et elle permet, soit disant, un passage plus rapide en douanes. A la fin de l'inscription vous devez enregistrer/imprimer un numéro de dossier puis vous recevez un e-mail de confirmation.
+  Avant toute chose, il est souhaitable de s'inscrire au moins 7 jours avant son entrée sur le territoire sur le site officiel gouvernemental du Nicaragua à l'adresse : https://solicitudes.migob.gob.ni/. L'inscription est assez rapide et elle permet, soit disant, un passage plus rapide en douanes. A la fin de l'inscription vous devez enregistrer/imprimer un numéro de dossier puis vous recevez un e-mail de confirmation. Pour information nous sommes passés deux jours avant la date que nous avions indiqué sur le site.
 </p>
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua1.jpg" style="width:100%" />
@@ -52,7 +52,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 - **Immigration** - **_Repère 2_** : Tous les voyageurs doivent se rendre au guichet de l'immigration qui se trouve dans un bâtiment sur la gauche. Contrôle des passeports, tampon de sortie du territoire, c'est très rapide.
 
-- **Douanes** - **_Repère 3_** : Toujours du même côté, se rendre aux douanes pour la fin e l'importation temporaire du véhicule. On vous donne une fiche de renseignements à remplir une comme celle que l'on vous donne dans l'avion avant l'atterrissage. Une fois le document renseigné, un seul pour nous deux, le douanier le récupère avec le document d'importation original et le passeport du conducteur. Après quelques minutes, il appose un tampon sur le passeport validant la sortie du véhicule du territoire et vous donne la fiche de renseignement également tamponnée et le passeport.
+- **Douanes** - **_Repère 3_** : Toujours du même côté, se rendre aux douanes pour la fin de l'importation temporaire du véhicule. On vous donne une fiche de renseignements à remplir une comme celle que l'on vous donne dans l'avion avant l'atterrissage. Une fois le document renseigné, un seul pour nous deux, le douanier le récupère avec le document d'importation original et le passeport du conducteur. Après quelques minutes, il appose un tampon sur le passeport validant la sortie du véhicule du territoire et vous donne la fiche de renseignements également tamponnée et le passeport.
 
 - **Agents de changes** - **_Repère 4_** : Des agents de change viennent à vous pour vous changer vos derniers Lempiras et vous proposent Dollar US et Cordoba nicaraguayen. Prévoyez quelques Cordobas pour la suite.
 
