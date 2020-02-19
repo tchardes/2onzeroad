@@ -62,11 +62,11 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua3.jpg" style="width:100%" />
 
-Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un peu la maison de fous dans les 12 travaux d'Astérix. Tous les services sont regroupés dans des genres de containers et là commence les vas et viens...
+Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un peu la maison de fous dans les 12 travaux d'Astérix. Tous les services sont regroupés dans des genres de containers en raison certainement de futurs travaux et là commence les vas et viens...
 
-- **Parking** - **_Repère 6_** : Le parking se trouve sur la gauche en arrivant, après les baraquements, un policier vous montrent où se garer.
+- **Parking** - **_Repère 6_** : Le parking se trouve sur la gauche en arrivant, après les baraquements, un policier vous montre où se garer.
 
-- **Premier contrôle** - **_Repère 7_** :Après un contrôle rapide des passeports, on nous fait remplir la même feuille de renseignements que pour le côté Hondurien. Un agent prend le document, on va jusqu'à Thor, on ouvre, il regarde, signe, tamponne et nous dirige vers la suite.
+- **Premier contrôle** - **_Repère 7_** : Après un contrôle rapide des passeports, on nous fait remplir la même feuille de renseignements que pour le côté Hondurien. Un agent prend le document, on va jusqu'à Thor, on ouvre, il regarde, signe, tamponne et nous dirige vers la suite.
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua5.jpg" style="width:100%" />
 
@@ -76,7 +76,7 @@ Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua6.jpg" style="width:100%" />
 
-- **Importation temporaire de Thor** - **_Repère 10_** : On se rend aux douanes qui regarde la feuille de renseignements et nous indique qu'il manque une signature de la police. On trouve un policier qui traîne par là, on lui explique et il nous indique qu'il faut passer Thor au Scanner puis fumigation.
+- **Importation temporaire de Thor** - **_Repère 10_** : On se rend aux douanes qui regarde la feuille de renseignements et nous indique qu'il manque une signature de la police. On trouve un policier qui traîne par là, on lui explique et il nous indique qu'il faut passer Thor au scanner puis à la fumigation.
 
 - **Scan** - **_Repère 11_** : On reprend Thor et on se met dans la liste d'attente au milieu des camions pour le scanner. Procédure très lente mais gratuite. Une fois scanné, je me gare à nouveau. Un autre policier récupère la feuille de renseignements et nous demande d'attendre. Il revient au bout d'un quart d'heure avec la fiche de renseignements signée.
 
@@ -88,7 +88,7 @@ Impossible de décrire la procédure pas à pas, tant c'est anarchique, c'est un
 
 <img src="{{baseurl}}/assets/owner/photos/nicaragua7.jpg" style="width:100%" />
 
-- **Derniers contrôles** - **_Repère 13_** : A la sortie, se trouve un exemplaire de tous les agents, douanes, police, immigration qui contrôlent tous les documents. Une experte comptable, certainement, vient et nous récupérer le reçu du paiement de la taxe de 20 $US, pas l'autre de 4 $US...
+- **Derniers contrôles** - **_Repère 13_** : A la sortie, se trouve un exemplaire de tous les agents, douanes, police, immigration qui contrôlent tous les documents. Une experte comptable, certainement, vient et nous récupère le reçu du paiement de la taxe de 20 $US, pas l'autre de 4 $US...
 
 - **Contrôle de l'assurance de Thor** - **_Repère 14_** : Une monsieur en civil arrive et me demande de voir l'assurance de Thor, je lui sors le document et lui montre la ligne qui précise bien qu'elle couvre également le Nicaragua. En effet, à Guatemala City, nous avons contracté une assurance au tiers pour Thor auprès de Seguros G&T valable pour l'Amérique Centrale à l'exception du Panama.
 
