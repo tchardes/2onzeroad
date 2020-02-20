@@ -423,7 +423,19 @@ Ce matin, il y a 11° dans Thor quand nous nous levons. A 8hO00, nous sommes au 
 
 ## 18 février
 
-frfrfrf
+Ce matin a 05h20 le guide m’a récupérer et nous avpns roulé une bonne dizaine de kilomètre sur une piste avant d’arriver sur une zone où devrait se trouver le fameux Quatzal. Nous ne sommes pas seul sur zone, il y a d’autres guides avec des groupes. Les guides sont assez ben organisés car ils sont équipés de walkie talkie est il communique entre eux. Finalement un male (les plus beaux) est aperçu à quelques kilomètres, tout le monde monte dans les véhiules pour se porter sur le point indiqué et effectivement, assez loin de nous nous le voyons. Le guide est équipé d’un télescope, il me prend mon téléphone et me prend des photos depuis son optique, j’essaie d’en faire de mon côté mais à main levé se n’est pas terrible. Il est vrai que cet oiseau est vraiment particulier, par sa tête d’abord, ses couleurs et sa longue queue. Il est déjà 7h30 et nous devons quitter les lieux car la route va être fermée en raison des travaux. Il me ramène au visitor center.
+
+Nous prenons la route en direction de Cartago où nous faisons notre premièe halte. Nous vistons les ruines de l’ancienne église Santiago Apostol qui n’à pas supporté deux tremblements de terre en 1841 et 1910 puis de na nouvelle basilique Notre dame de Los Angelesde style néo bysantain qui est vraiment très belle, aussi bien de l’extérieur que de l’intérieur.
+Nous nous arrtons ensuite au Mirador de Orosi qui se trouve sur un éperons rocher à la confluence de deux rivières et qui domine deux valées. Domage que le temps soit très couvert mais la vue est très belle. Nous poursuivons la route qui constourne le lac Cachi mais peu après Orosdi nous sommes contraint de faire demi-tour car nous ne pouvons pas passer sur un petit pont qui n’est pas assez large pour Thor. Un type tente bien de nous guider mais c’est impossible. Nous contournons le lac dans l’autre sens et nous arrêtons aux ruines de Ujarras, il s’agit d’un très beau parc où l’on trouve les restes de l’église notre dame de la conception de rescate de Ujarras qui elle aussi n’a pas aimè un tremblement de terre en 1822. Autour se trouve des champs de chayottes qui poussent sur treilles.
+Après le déjeuner nous pas en direction de la côte Caraïbe et nous posons à quelques kilomètres de Puerto Limon. Nous avons prtaiquement traversé le pays d’Ouest en Est aujourd’hui par une route de montagne vraiment très belles. Les telmpératures ont bien augmentée, on peut ranger la couette, nous sommes passés dans la journée de 2978 m à 21 m…
+
+## 19 février
+
+## 20 février
+
+## 21 février
+
+## 18 février
 
 **Nous avons vraiment adoré :**
 
