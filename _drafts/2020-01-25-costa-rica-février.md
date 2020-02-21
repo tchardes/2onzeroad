@@ -37,6 +37,14 @@ pois:
     corcovado#13-février,
     jimenez#13-février,
     quetzales#16-février,
+    cartago#18-février,
+    orosi#18-février,
+    ujarras#18-février,
+    cahuita#19-février,
+
+
+
+
   ]
 country: Costa Rica
 states: ["Guanacaste", "Puntarenas", "Alajuela", "Heredia", "San Jose", "Cartago", "Limon"]
@@ -443,11 +451,11 @@ Nous prenons la route en direction de **Cartago** où nous faisons notre premiè
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49558954306/in/datetaken/" title="Cortago - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49558954306_14a8a86203_k.jpg" width="2048" height="1365" alt="Cortago - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous nous arrêtons ensuite au Mirador de Orosi situé sur un éperon rocheux à la confluence de deux rivières et qui domine trois vallées. Dommage que le temps soit très couvert magré tout la vue est très belle.
+Nous nous arrêtons ensuite au **Mirador de Orosi** situé sur un éperon rocheux à la confluence de deux rivières et qui domine trois vallées. Dommage que le temps soit très couvert magré tout la vue est très belle.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49558932686/in/datetaken/" title="- [Costa Rica]"><img src="https://live.staticflickr.com/65535/49558932686_bfa0169bd7_k.jpg" width="2048" height="1152" alt="- [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous poursuivons la route qui constourne le lac Cachi mais, peu après Orosi, nous sommes contraints de faire demi-tour car nous ne pouvons pas passer sur un petit pont qui n’est pas assez large pour Thor. Un local tente bien de nous guider mais c’est impossible. Nous contournons le lac par le Nord et arrivons aux ruines de Ujarras, il s’agit d’un très beau parc où l’on trouve les restes de l’église Notre Dame de la Conception de rescate de Ujarras qui elle aussi n’a pas aimé un tremblement de terre en 1822. Autour se trouvent des champs de chayottes qui poussent sur treilles et de nombreux oiseaux.
+Nous poursuivons la route qui constourne le lac Cachi mais, peu après Orosi, nous sommes contraints de faire demi-tour car nous ne pouvons pas passer sur un petit pont qui n’est pas assez large pour Thor. Un local tente bien de nous guider mais c’est impossible. Nous contournons le lac par le Nord et arrivons aux ruines de Ujarras, il s’agit d’un très beau parc où l’on trouve les restes de l’église Notre Dame de la Conception de rescate de **Ujarras** qui elle aussi n’a pas aimé un tremblement de terre en 1822. Autour se trouvent des champs de chayottes qui poussent sur treilles et de nombreux oiseaux.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49559138052/in/datetaken/" title="Ujarras - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49559138052_10fb394e90_k.jpg" width="2048" height="1152" alt="Ujarras - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -462,7 +470,7 @@ Après le déjeuner, nous partons en direction de la côte Caraïbe et nous nous
 ## 19 février
 
 Contre toute attente, nuit calme et pas trop chaude au bivouac. Nous prenons la route en direction de Puerte Limon. Cette ville abrite l’un des plus gros port maritime de la caraïbe, et en effet jusqu’à la ville de "Moin" nous croisons des centaines de camions porte conteneurs et des lieux de stockage où s’entassent des montagnes de conteneurs. Nous prenons la route du litoral et passons par Portete avant d’arriver à Puerte Limon. Nous ne faisons qu’y passer car cette ville ne nous inspire pas du tout. Nous poursuivons la route qui longe la côte Caraïbe. La mer est déchainée et le temps est bien couvert. Le plages ne sont pas vraiment belles, recouvertes de branches et de troncs d’arbres ramenés par la mer.
-Arrivés à Cahuita, nous trouvons un coin pour nous poser au "Reggae Bar Cabins" un endroit charmant tenu par des créoles. En début d’après-midi nous faisons un tour dans le village qui est haut en couleurs. Nous prenons des renseignements à l’entrée du Parc National de Cahuita que nous visiterons demain si le temps s’arrange un peu. Le soir nous dinons sur place, très bonne ambiance.
+Arrivés à **Cahuita**, nous trouvons un coin pour nous poser au "Reggae Bar Cabins" un endroit charmant tenu par des créoles. En début d’après-midi nous faisons un tour dans le village qui est haut en couleurs. Nous prenons des renseignements à l’entrée du Parc National de Cahuita que nous visiterons demain si le temps s’arrange un peu. Le soir nous dinons sur place, très bonne ambiance.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49566500741/in/datetaken/" title="Cahuita - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49566500741_46a0a7f246_k.jpg" width="2048" height="1152" alt="Cahuita - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

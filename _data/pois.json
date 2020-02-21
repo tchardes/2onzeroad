@@ -512,11 +512,12 @@
   { "name": "corcovado", "displayName": "Corcovado - Parc National", "type": "nature", "country": "Costa Rica" },
   { "name": "jimenez", "displayName": "Puerto Jimenez", "type": "ville", "country": "Costa Rica" },
   { "name": "quetzales", "displayName": "Los Quetzales - Parc National", "type": "nature", "country": "Costa Rica" },
+  { "name": "cartago", "displayName": "Cartago", "type": "ville", "country": "Costa Rica" },
+  { "name": "orosi", "displayName": "Orosi - Mirador", "type": "autre", "country": "Costa Rica" },
+  { "name": "ujarras", "displayName": "Ujarras - Les ruines", "type": "autre", "country": "Costa Rica" },
+  { "name": "cahuita", "displayName": "Cahuita - Parc National", "type": "nature", "country": "Costa Rica" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
-  { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
-  { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
-  { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
+
   { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
   { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
   { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
