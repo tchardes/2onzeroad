@@ -493,7 +493,7 @@
   { "name": "nicoya", "displayName": "Péninsule de Nicoya", "type": "autre", "country": "Costa Rica" },
   { "name": "playa_panama", "displayName": "Playa Panama", "type": "nature", "country": "Costa Rica" },
   { "name": "coco", "displayName": "Playa El Coco", "type": "nature", "country": "Costa Rica" },
-  { "name": "baulas", "displayName": "Las Baulas- Parc National Marin", "type": "nature", "country": "Costa Rica" },
+  { "name": "baulas", "displayName": "Las Baulas - Parc National Marin", "type": "nature", "country": "Costa Rica" },
   { "name": "montezuma_cr", "displayName": "Montezuma", "type": "ville", "country": "Costa Rica" },
   { "name": "curu", "displayName": "Curú - Refuge National", "type": "nature", "country": "Costa Rica" },
   { "name": "monteverde", "displayName": "Monteverde - Bosque Nubuso ", "type": "nature", "country": "Costa Rica" },
@@ -516,7 +516,6 @@
   { "name": "orosi", "displayName": "Orosi - Mirador", "type": "autre", "country": "Costa Rica" },
   { "name": "ujarras", "displayName": "Ujarras - Les ruines", "type": "autre", "country": "Costa Rica" },
   { "name": "cahuita", "displayName": "Cahuita - Parc National", "type": "nature", "country": "Costa Rica" },
-
 
   { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
   { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
