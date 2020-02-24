@@ -20,26 +20,27 @@ location: "9.499435, -82.613686"
 
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière entre le Costa Rica et Panama au niveau du poste frontière de Sixaola en direction de Almirante.
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica1.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/panama1.jpg" style="width:100%" />
 
-- **Repère 1** - Pré-contrôle ;
-- **Repère 2** - Poste frontière nicaraguayen, nouvelle zone (Fin immigration et fin importation temporaire)
-- **Repère 3** - Poste frontière nicaraguayen, dernier contrôle document ;
-- **Repère 4** - Poste frontière costa ricain fumigation/désinfection ;
-- **Repère 5** - Poste frontière costa ricain immigration (visa personnes) ;
-- **Repère 6** - Poste frontière costa ricain douanes (dossier importation du véhicule) ;
-- **Repère 7** - Poste frontière costa ricain - Photocopie
-- **Repère 8** - Achat Assurance (obligatoire)
-- **Repère 9** - Poste frontière costa ricain douanes (importation finale du véhicule) ;
-- **Repère 10** - Poste frontière costa ricain, dernier contrôle documents.
+- **Repère 1** - Parking ;
+- **Repère 2** - Poste frontière costa ricain, paiement taxe touristique ;
+- **Repère 3** - Poste frontière costa ricain, immigration (Fin immigration)
+- **Repère 4** - Poste frontière costa ricain, douanes (Fin importation temporaire);
+- **Repère 5** - Poste frontière panaméen, pré contrôle et paiement taxe municipale ;
+- **Repère 6** - Poste frontière panaméen, fumigation douanes (dossier importation du véhicule) ;
+- **Repère 7** - Poste frontière panaméen - Parking
+- **Repère 8** - Poste frontière panaméen paiement fumigation ;
+- **Repère 9** - Poste frontière panaméen immagration ;
+- **Repère 10** - Poste frontière panaméen, achat assurance (obligatoire).
+- **Repère 10** - Poste frontière panaméen douanes (importation du véhicule) ;
 
-### Sortie du Nicaragua
+### Sortie du Costa Rica
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica2.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/panama2.jpg" style="width:100%" />
 
 - **Pré-contrôle** - **_Repère 1_** : Le premier arrêt se fait au niveau d'une guérite bleue où se trouve un agent de police qui contrôle nos passeports et un agent des douanes (polo bleu ciel avec écrit DGA) qui n'a pas envie de nous contrôler et qui nous fait signe de passer.
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica11.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/cp11.jpg" style="width:100%" />
 
 - **Immigration - Douanes** - **_Repère 2_** : On arrive rapidement à un rond-point pas très bien indiqué, il faut passer au centre où est écrit "Terminal de pasajeros" en direction du grand bâtiment blanc. Tous les voyageurs doivent se rendre au guichet de l'immigration qui se trouve dans le bâtiment, entrée avec écrit "Migration - Salida Nicaragua". Contrôle des passeports, tampon de sortie du territoire, et paiement d'une taxe de 2\$US par personne, remise d'un reçu. C'est très rapide.
 
@@ -69,7 +70,7 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 ### Entrée au Costa Rica
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica3.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/panama3.jpg" style="width:100%" />
 
 - **fumigation/désinfection** - **_Repère 4_** : L'entrée au Costa Rica se fait directement par un passage sous un hangar pour la fumigation qui est gratuite. A la sortie, **prendre le chemin sur la gauche** pour revenir sur l'axe principal et rouler une centaine de mètres. Le chemin en face le hangar est réservé aux poids-lourds.
 
