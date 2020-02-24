@@ -22,6 +22,8 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 <img src="{{baseurl}}/assets/owner/photos/panama1.jpg" style="width:100%" />
 
+Les deux postes frontières sont en travaux en raison de la construction d'une nouveau pont.
+
 - **Repère 1** - Parking ;
 - **Repère 2** - Poste frontière costa ricain, paiement taxe touristique ;
 - **Repère 3** - Poste frontière costa ricain, immigration (Fin immigration)
@@ -110,19 +112,17 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 ### Récapitulatif des frais et documents à fournir :
 
-Côté Nicaragua :
+Côté Costa Rica : (Aucun document)
 
-- Une photocopie de la carte grise du véhicule ;
-- Une photocopie du permis international et du permis de conduire national ;
-- 2\$US par personne.
+- 9\$US par personne. (en fait la taxe est de 8 dollar US mais comme la tache est confiée à des tiers qui prennent 1 dollar de frais)
 
 Côté Costa Rica :
 
 - Une photocopie du passeport conducteur ;
-- Une photocopie de le page du passeport où a été apposé le tampon d'entrée au Costa Rica (à faire sur place);
 - Une photocopie de la carte grise du véhicule ;
-- Une photocopie du permis international et du permis de conduire national ;
-- Environ 10 Cordobas (ou valeur équivalente en Colones ou Dollars) pour la photocopie ;
-- 48\$US pour l'assurance du véhicule.
+- Une copie de l'assurance ;
+- 10 US\$ de taxe municipale ;
+- 3 US\$ pour la fumigation ;
+- 25 US\$ pour l'assurance (30 jours minimum)
 
 Toutes les démarches ont pris plus de 2 heures car, par malchance, le guichet de l'assurance a fermé durant une heure, de 14 à 15h00. Sans ce contretemps, en une heure les démarches sont réalisées. Il n'y a pas de contrôle sanitaire. Bien vérifier sur tous les documents que l'on vous remet (titre d'importation et assurance) que les N° d'immatriculation et série du véhicule sont conformes. Au niveau du bâtiment de l'immigration, à l'extérieur, se trouve un DAB où vous pouvez retirer au choix Dollars ou Colones. Une fois les démarches terminées, le voyage en terres costa ricaines peut commencer...
