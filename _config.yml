@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "9.625609, -82.656947"
-  name: "Manzanillo - Costa Rica"
-  date: "22 février 2020"
+  coordinates: "9.395378, -82.272235"
+  name: "Bocas Del Toro - Panama"
+  date: "23 et 24 février 2020"
 
 # set the encoding to utf-8
 encoding: utf-8
