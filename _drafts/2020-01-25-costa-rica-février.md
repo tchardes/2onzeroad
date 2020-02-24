@@ -498,7 +498,22 @@ Arrivés à la fin du trail, nous allons jusqu’à la route où se trouve un ar
 
 ## 21 février
 
-## 18 février
+La journée s’annonce maussade, du coup nous décidons de rester une journée de plus au camping. Dans la matinée je vais au village faire des photocopies de nos documents en prévision de notre passage de frontière pour le Panama.
+On passe le reste de la journée au camping, traitement du blog et des photos sans oublier un petit bain dans une mer toujours aussi démontée. le soir nous mangeons au restaurant du camping avec une orchestre live, on penssait que se serait du reggae, finalement ca a été du calypso toute la soirée…
+
+## 22 février
+
+Ce matin nous faisons le plein d’eau et quittons Cahuita pour la plage et le refuge de Manzanillo tout près de la frontière avec la panama. La route est très belle si ce n’est de nombreux pont où nous passons tout juste en largeur, je suis même obligé d’aller en mesurer un car à première vue je ne psasse pas, mais finalement c’est OK.
+On se pose finalement pas très loin de l’entrée du parc au bord de la plage, cest très beau et la mer est beaucoup plus calme qu’à cahuita.
+L’après-midi nous faisons une très belle balade sur la plage. Nous sommes samedi et il y a un peu de monde, beaucoup de locaux qui plantent la tente pour le week-end.
+
+## 23 février
+
+Ce matin je pars faire un trail dans le Refuge National de Gandoca-Manzanillo. Très belle ballade en forêt qui longe la côte avec quelques singes sur le parcour, très belle balade.
+Après déjeuner nous décidons de lever le camp direction Panama. Le passage de frontière est un peu long, 2 heures mais rien de compliqué. Quelques kilomètres après la Frontière nous sommes contrôlés par les douanes et les services sanitaire, heureusement nous avons le frigo vide…
+La route jusqu’à Almirante notre destination du jour est assez abîmée, pas de doute nous avons quité le Costa Rica. Arrivé en ville nous faisons quelques courses et trouvons un lieu pour dormir au niveau du Ferry.
+
+Kilométrage à la frontière : 62651
 
 **Nous avons vraiment adoré :**
 
