@@ -47,7 +47,7 @@ Les deux postes frontières sont en travaux en raison de la construction d'une n
 
 - **Paiement taxe touristique** - **_Repère 2_** : On descend à pied en contrebas de la route sur la gauche où se trouve de nombreux commerces. Plusieurs établissement se chargent d'encaisser cette taxe pour le compte du "Ministerio de Hacienda" qui est de 8 dollar US + 1 dollar de frais par personne. On vous remet un reçu qui sera vérifié par l'immigration.
 
-* **Immigration** - **_Repère 3_** : Toujours à pied on longe la route sur la gauche, on passe le portique de fumigation utilisé pour ceux qui rentrent au Costa Rica et sur la gauche se trouve des genres d'algeco blancs. C'est là que tous les voyageurs doivent se rendre pour valider la sortie du territoire, les démarches sont très rapides.
+* **Immigration** - **_Repère 3_** : Toujours à pied on longe la route sur la gauche, on passe le portique de fumigation utilisé pour ceux qui rentrent au Costa Rica et sur la gauche se trouve des genres d'Algecos blancs. C'est là que tous les voyageurs doivent se rendre pour valider la sortie du territoire, les démarches sont très rapides.
 
 * **Douanes** - **_Repère 4_** : L'immigration et les douanes se font face à face, il suffit de se retourner pour s'occuper de la fin de l'importation temporaire. L'agent vous fait remplir une demi feuille en double exemplaire de demande de fin d'importation et après saisie sur son ordinateur la procédure est terminée. On peut retourner au véhicule et rouler en direction du Panama par un vieux pont étroit qui est également emprunté par les piétons. Il y a bien un policier à l'entrée du pont mais il ne nous demande rien.
 
@@ -63,11 +63,11 @@ Les deux postes frontières sont en travaux en raison de la construction d'une n
 
 - **Paiement fumigation/désinfection** - **_Repère 8_** : Une fois stationné, il faut revenir sur ces pas, vers la fumigation, afin de s'acquitter de la somme de 3\$ contre un reçu.
 
-- **Immigration** - **_Repère 9_** : Le bâtiment de l'immigration se trouve un peu à l'écart, derrière un grand magasin Duty free. Il y a plusieurs guichets, passeport, prise des empreintes et photo, c'est assez rapide.
+- **Immigration** - **_Repère 9_** : Le bâtiment de l'immigration se trouve un peu à l'écart, derrière un grand magasin Duty Free. Il y a plusieurs guichets, passeport, prise des empreintes et photo, c'est assez rapide.
 
 - **Assurance** - **_Repère 10_** : On revient un peu sur ses pas pour prendre une assurance, elle est obligatoire, pour minimum un mois. Penser à demander une copie du contrat pour les douanes.
 
-- **Importation temporaire - Douanes** - **_Repère 11_** : Dernière étape, on se rend dans des Algeco blancs tout neufs, implanté presque à l'entrée au niveau du pont. Remise des photocopies habituelles, contrôle vite fait du camping-car et délivrance du permis temporaire d'importation.
+- **Importation temporaire - Douanes** - **_Repère 11_** : Dernière étape, on se rend dans des Algecos blancs tout neufs, implanté presque à l'entrée au niveau du pont. Remise des photocopies habituelles, contrôle vite fait du camping-car et délivrance du permis temporaire d'importation et tampon sur le passeport du conducteur.
 
 Une fois les démarche réaliser on peu reprendre le véhicule, il n'ya pas de contrôle à la sortie du site.
 
