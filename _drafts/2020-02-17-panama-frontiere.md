@@ -7,7 +7,7 @@ parent-id: 2020-01-25-costa-rica-janvier
 date: 2020-02-17 15:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-nica-costarica.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-nica-costa.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-costa-panama.jpg
 tags: []
 pois: [passagecrtop]
 flickr-text: ""
