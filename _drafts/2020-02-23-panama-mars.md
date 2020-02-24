@@ -47,7 +47,7 @@ pois:
 
   ]
 country: Panama
-states: ["Guanacaste", "Puntarenas", "Alajuela", "Heredia", "San Jose", "Cartago", "Limon"]
+states: ["Guanacaste"]
 category: "roadmap"
 flickr-text: ""
 location: "8.301601, -81.254181"
