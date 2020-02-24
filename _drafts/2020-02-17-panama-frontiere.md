@@ -32,81 +32,46 @@ Les deux postes frontières sont en travaux en raison de la construction d'une n
 - **Repère 6** - Poste frontière panaméen, fumigation douanes (dossier importation du véhicule) ;
 - **Repère 7** - Poste frontière panaméen - Parking
 - **Repère 8** - Poste frontière panaméen paiement fumigation ;
-- **Repère 9** - Poste frontière panaméen immagration ;
+- **Repère 9** - Poste frontière panaméen immigration ;
 - **Repère 10** - Poste frontière panaméen, achat assurance (obligatoire).
-- **Repère 10** - Poste frontière panaméen douanes (importation du véhicule) ;
+- **Repère 11** - Poste frontière panaméen douanes (importation du véhicule) ;
+- **Repère 12** - Contrôle des douanes et services sanitaires
 
 ### Sortie du Costa Rica
 
 <img src="{{baseurl}}/assets/owner/photos/panama2.jpg" style="width:100%" />
 
-- **Pré-contrôle** - **_Repère 1_** : Le premier arrêt se fait au niveau d'une guérite bleue où se trouve un agent de police qui contrôle nos passeports et un agent des douanes (polo bleu ciel avec écrit DGA) qui n'a pas envie de nous contrôler et qui nous fait signe de passer.
+- **Parking** - **_Repère 1_** : Comme la zone est en travaux, on s'arrête directement sur la route, des age,t ferme l'accès principal le temps d'effectuer les démarches à pied.
 
 <img src="{{baseurl}}/assets/owner/photos/cp11.jpg" style="width:100%" />
 
-- **Immigration - Douanes** - **_Repère 2_** : On arrive rapidement à un rond-point pas très bien indiqué, il faut passer au centre où est écrit "Terminal de pasajeros" en direction du grand bâtiment blanc. Tous les voyageurs doivent se rendre au guichet de l'immigration qui se trouve dans le bâtiment, entrée avec écrit "Migration - Salida Nicaragua". Contrôle des passeports, tampon de sortie du territoire, et paiement d'une taxe de 2\$US par personne, remise d'un reçu. C'est très rapide.
+- **Paiement taxe touristique** - **_Repère 2_** : On descend à pied en contrebas de la route sur la gauche où se trouve de nombreux commerces. Plusieurs établissement se chargent d'encaisser cette taxe pour le compte du "Ministerio de Hacienda" qui est de 8 dollar US + 1 dollar de frais par personne. On vous remet un reçu qui sera vérifié par l'immigration.
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica27.jpg" style="width:100%" />
+* **Immigration** - **_Repère 3_** : Toujours à pied on longe la route sur la gauche, on passe le portique de fumigation utilisé pour ceux qui rentre au Costa Rica et sur la gauche se trouve des genres d'algeco blancs. C'est là que tous les voyageurs doivent se rendre pour valider la sortie du territoire, les démarches sont très rapides.
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica26.jpg" style="width:100%" />
-
-<img src="{{baseurl}}/assets/owner/photos/costa_rica25.jpg" style="width:100%" />
-
-Ensuite, on reprend le véhicule et on contourne le bâtiment pour se garer côté "Entrée au Nicaragua". Il faut tout d'abord rechercher un agent des douanes (polo bleu ciel avec écrit DGA), qui déambule sur la zone et qui va vous remettre une fiche de renseignements à remplir. Le travail réalisé, il faut le retrouver pour qu'il contrôle la fiche accompagnée du titre d'importation original, appose son tampon et signe.
-
-<img src="{{baseurl}}/assets/owner/photos/costa_rica21.jpg" style="width:100%" />
-
-Il faut ensuite se rendre dans un petit bureau, sur le parking, où se trouve un policier. Il demande des photocopies, carte grise et permis, tamponne et signe la fiche de renseignement.
-
-<img src="{{baseurl}}/assets/owner/photos/costa_rica24.jpg" style="width:100%" />
-
-Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigration, se trouve un guichet des douanes, on remet les documents, l'agent tapote sur son ordinateur, tamponne et signe la fiche de renseignement qu'elle vous remet et garde le titre d'importation. L'importation du véhicule est levée.
-
-<img src="{{baseurl}}/assets/owner/photos/costa_rica23.jpg" style="width:100%" />
-
-<img src="{{baseurl}}/assets/owner/photos/costa_rica22.jpg" style="width:100%" />
-
-- **Dernier contrôle** - **_Repère 3_** : Juste avant de sortir du Nicaragua, nouvelle guérite bleue, un policier contrôle les passeports et un agent des douanes récupère la feuille de renseignements et après contrôle nous laisse entrer au Costa Rica.
-
-<img src="{{baseurl}}/assets/owner/photos/costa_rica31.jpg" style="width:100%" />
+* **Douanes** - **_Repère 4_** : L'immigration et les douanes sont face à face, il suffit de se retourner pour s'occuper de la fin de l'importation temporaire. L'agent vous fait remplir une demi feuille en double exemplaire de demande de fin d'importation et après saisie sur son ordinateur la procédure est terminée. On peut retourner au véhicule et rouler en direction du Panama par un vieux pont étroit qui est également emprunté par les piétons. Il y a bien un policier à l'entrée du pont mais il ne nous demande rien.
 
 ### Entrée au Costa Rica
 
 <img src="{{baseurl}}/assets/owner/photos/panama3.jpg" style="width:100%" />
 
-- **fumigation/désinfection** - **_Repère 4_** : L'entrée au Costa Rica se fait directement par un passage sous un hangar pour la fumigation qui est gratuite. A la sortie, **prendre le chemin sur la gauche** pour revenir sur l'axe principal et rouler une centaine de mètres. Le chemin en face le hangar est réservé aux poids-lourds.
+- **pré contrôle et paiement taxe** - **_Repère 5_** : Avant la fin du pont des militaires bloquent l'accès. Un agents des douanes se portent à notre niveau et nous demande la carte grise puis procède à un contrôle visuel à l'intérieur du véhicule. Il nous explique les différentes étapes de la procédures et nous présente une dame qui nous demande 10 Dollar US pour une taxe municipale, elle nous remet un reçu.
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica4.jpg" style="width:100%" />
+- **fumigation/désinfection** - **_Repère 6_** : Les militaires nous ouvrent la route et nous passons sous un portique pour la fumigation.
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica41.jpg" style="width:100%" />
+- **Parking** - **_Repère 7_** : Il faut essauyer de se garer sur la gauche juste après le premier bâtiment.
 
-- **immigration** - **_Repère 5_** : Il faut d'abord trouver une place pour se stationner, avant ou après le grand bâtiment qui se trouve sur votre gauche. Dans ce bâtiment, plusieurs guichets, deux questions, notamment notre première destination, puis tampon d'entrée au Costa Rica pour 90 jours. C'est très rapide.
+- **Paiement fumigation/désinfection** - **_Repère 8_** : Une fois stationné, il faut revenir sur ces pas, vers la fumigation, afin de s'acquitter de la somme de 3\$ contre un reçu.
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica4a5.jpg" style="width:100%" />
+- **immigration** - **_Repère 9_** : Le bâtiment de l'immigration se trouve un peu à l'écart, derrière après un magasin Duty free. Il y a plusieurs guichets, passeport, prise des empreintes et photo? c'est assez rapide.
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica5a7.jpg" style="width:100%" />
+- **Assurance** - **_Repère 10_** : On revient un peu sur ses pas pour prendre une assurance, elle est obligatoire, pour minimum un mois. Penser à demander une copie du contrat pour les douanes.
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica5.jpg" style="width:100%" />
+- **Importation temporaire - Douanes** - **_Repère 11_** : Dernière étape, on se rend dans des Algeco blancs tout neufs, implanté presque à l'entrée au niveau du pont. Remise des photocopies habituelles, contrôle vite fait du camping-car et délivrance du permis temporaire d'importation.
 
-- **Importation temporaire** - **_Repère 6_** : En face le grand bâtiment, à droite quand vous arrivez, se trouvent les douanes. On fournit les originaux et photocopie du passeport du conducteur, carte grise, permis international. Il nous demande une photocopie de la page du passeport où a été apposé le tampon d'entrée au Costa Rica. Par chance, juste à côté, il y a une petite bicoque qui fait des photocopies... Retour à la douane, l'agent monte un dossier qu'il agrafe, il sort et vient contrôler Thor, notamment le N° de série, puis valide le dossier qu'il nous remet.
+Une fois les démarche réaliser on peu reprendre le véhicule, il n'ya pas de contrôle à la sortie du site.
 
-<img src="{{baseurl}}/assets/owner/photos/costa_rica6.jpg" style="width:100%" />
-
-- **Photocopie** - **_Repère 7_** : Cabane à photocopies...
-
-<img src="{{baseurl}}/assets/owner/photos/costa_rica7.jpg" style="width:100%" />
-
-- **Assurance** - **_Repère 08_** : On reprend Thor et roulons encore une centaine de mètres jusqu'à un grand bâtiment gris des douanes qui se trouve sur la droite, un peu dans les arbres. Le bâtiment abrite un guichet qui délivre une assurance obligatoire pour tous les véhicules étrangers. Présentation des documents et remise d'une assurance "tiers" qui couvre la durée du visa soit 90 jours, on n'a pas le choix de la durée.
-
-<img src="{{baseurl}}/assets/owner/photos/costa_rica8et9.jpg" style="width:100%" />
-
-<img src="{{baseurl}}/assets/owner/photos/costa_rica8.jpg" style="width:100%" />
-
-- **Importation temporaire** - **_Repère 09_** : Dans la même pièce se trouvent les guichets des douanes à qui l'on remet le dossier complet plus l'assurance, tapotage sur l'ordinateur et remise du titre d'importation temporaire, la procédure complète est terminée.
-
-<img src="{{baseurl}}/assets/owner/photos/costa_rica9.jpg" style="width:100%" />
-
-- **Derniers contrôles** - **_Repère 10_** : Nous reprenons la route et passons un dernier contrôle, police pour les passeports et douanes pour le véhicule.
+- **Derniers contrôles** - **_Repère 12_** : En route vers Almirante, à 10 km de la frontière (9.46713, -82.55505) nous passons un check point où nous sommes contrôlés par un agent des douanes qui vérifie notre titre d'importation et par un autre agent qui rentre dans le camping-car et contrôle notre frigo et nous demande si nous transportons de la viande, des graines.... Ce check point doit être fixe car des algecos faisant office de bureau sont implantés sur la gauches>
 
 <img src="{{baseurl}}/assets/owner/photos/costa_rica10.jpg" style="width:100%" />
 
@@ -114,7 +79,7 @@ Retour dans le premier bâtiment, derrière la ligne des guichets de l'immigrati
 
 Côté Costa Rica : (Aucun document)
 
-- 9\$US par personne. (en fait la taxe est de 8 dollar US mais comme la tache est confiée à des tiers qui prennent 1 dollar de frais)
+- 9 US\$ par personne. (en fait la taxe est de 8 dollar US mais la tache est confiée à des tiers qui prennent 1 dollar de frais)
 
 Côté Costa Rica :
 
@@ -123,6 +88,6 @@ Côté Costa Rica :
 - Une copie de l'assurance ;
 - 10 US\$ de taxe municipale ;
 - 3 US\$ pour la fumigation ;
-- 25 US\$ pour l'assurance (30 jours minimum)
+- 25 US\$ pour l'assurance (30 jours minimum).
 
-Toutes les démarches ont pris plus de 2 heures car, par malchance, le guichet de l'assurance a fermé durant une heure, de 14 à 15h00. Sans ce contretemps, en une heure les démarches sont réalisées. Il n'y a pas de contrôle sanitaire. Bien vérifier sur tous les documents que l'on vous remet (titre d'importation et assurance) que les N° d'immatriculation et série du véhicule sont conformes. Au niveau du bâtiment de l'immigration, à l'extérieur, se trouve un DAB où vous pouvez retirer au choix Dollars ou Colones. Une fois les démarches terminées, le voyage en terres costa ricaines peut commencer...
+Toutes les démarches ont pris un peu plus de 2 heures. Bien vérifier sur tous les documents que l'on vous remet (titre d'importation et assurance) que les N° d'immatriculation et série du véhicule sont conformes, très important pour le shipping. Une fois les démarches terminées, le voyage en terres panaméennes peut commencer...
