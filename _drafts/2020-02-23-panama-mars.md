@@ -8,7 +8,7 @@ from-date: 2020-02-23 12:00:00
 to-date: 2020-02-24 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt31.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt31.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-rt32.jpg
 tags: [mer-ocean, faune, foret, volcan]
 pois: [finca#24-janvier]
 country: Panama
