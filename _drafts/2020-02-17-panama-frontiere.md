@@ -43,11 +43,11 @@ Les deux postes frontières sont en travaux en raison de la construction d'un no
 
 - **Parking** - **_Repère 1_** : Comme la zone est en travaux, on s'arrête directement sur la route, des "agents" ferment l'accès principal, le temps d'effectuer les démarches à pied.
 
-- **Paiement taxe touristique** - **_Repère 2_** : On descend à pied en contrebas de la route sur la gauche où se trouve de nombreux commerces. Plusieurs établissements se chargent d'encaisser cette taxe pour le compte du "Ministerio de Hacienda" qui est de 8 dollars US + 1 dollar de frais par personne. On vous remet un reçu qui sera vérifié par l'immigration.
+- **Paiement taxe touristique** - **_Repère 2_** : On descend à pied en contrebas de la route sur la gauche où se trouvent de nombreux commerces. Plusieurs établissements se chargent d'encaisser cette taxe pour le compte du "Ministerio de Hacienda" qui est de 8 dollars US + 1 dollar de frais par personne. On vous remet un reçu qui sera vérifié par l'immigration.
 
 <img src="{{baseurl}}/assets/owner/photos/Panama4.jpg" style="width:100%" />
 
-- **Immigration** - **_Repère 3_** : Toujours à pied on longe la route sur la gauche, on passe le portique de fumigation utilisé pour ceux qui rentrent au Costa Rica et sur la gauche se trouvent des genres d'Algecos blancs. C'est là que tous les voyageurs doivent se rendre pour valider la sortie du territoire, les démarches sont très rapides.
+- **Immigration** - **_Repère 3_** : Toujours à pied, on longe la route sur la gauche, on passe le portique de fumigation utilisé pour ceux qui rentrent au Costa Rica et sur la gauche se trouvent des genres d'Algecos blancs. C'est là que tous les voyageurs doivent se rendre pour valider la sortie du territoire, les démarches sont très rapides.
 
 <img src="{{baseurl}}/assets/owner/photos/Panama6.jpg" style="width:100%" />
 
@@ -55,7 +55,7 @@ Les deux postes frontières sont en travaux en raison de la construction d'un no
 
 <img src="{{baseurl}}/assets/owner/photos/Panama7.jpg" style="width:100%" />
 
-- **Douanes** - **_Repère 4_** : L'immigration et les douanes se font face, il suffit de se retourner pour s'occuper de la fin de l'importation temporaire. L'agent vous fait remplir une demi feuille en double exemplaire de demande de fin d'importation et après saisie sur son ordinateur la procédure est terminée. On peut retourner au véhicule et rouler en direction du Panama par un vieux pont étroit qui est également emprunté par les piétons. Il y a bien un policier à l'entrée du pont mais il ne nous demande rien.
+- **Douanes** - **_Repère 4_** : L'immigration et les douanes se font face, il suffit de se retourner pour s'occuper de la fin de l'importation temporaire. L'agent vous fait remplir une demi-feuille en double exemplaire de demande de fin d'importation et après saisie sur son ordinateur, la procédure est terminée. On peut retourner au véhicule et rouler en direction du Panama par un vieux pont étroit qui est également emprunté par les piétons. Il y a bien un policier à l'entrée du pont mais il ne nous demande rien.
 
 <img src="{{baseurl}}/assets/owner/photos/Panama8.jpg" style="width:100%" />
 
@@ -63,7 +63,7 @@ Les deux postes frontières sont en travaux en raison de la construction d'un no
 
 <img src="{{baseurl}}/assets/owner/photos/panama3.jpg" style="width:100%" />
 
-- **pré-contrôle et paiement taxe** - **_Repère 5_** : Avant la fin du pont, des militaires bloquent l'accès. Un agent des douanes se portent à notre niveau et nous demande la carte grise puis procède à un contrôle visuel à l'intérieur du véhicule. Il nous explique les différentes étapes de la procédure et nous présente une dame qui nous demande 10 Dollars US pour une taxe municipale, elle nous remet un reçu.
+- **pré-contrôle et paiement taxe** - **_Repère 5_** : Avant la fin du pont, des militaires bloquent l'accès. Un agent des douanes se porte à notre niveau et nous demande la carte grise puis procède à un contrôle visuel à l'intérieur du véhicule. Il nous explique les différentes étapes de la procédure et nous présente une dame qui nous demande 10 Dollars US pour une taxe municipale, elle nous remet un reçu.
 
 - **fumigation/désinfection** - **_Repère 6_** : Les militaires nous ouvrent la route et nous passons sous un portique pour la fumigation.
 
