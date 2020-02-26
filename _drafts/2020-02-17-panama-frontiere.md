@@ -81,7 +81,7 @@ Les deux postes frontières sont en travaux en raison de la construction d'une n
 
 - **Assurance** - **_Repère 10_** : On revient un peu sur ses pas pour prendre une assurance, elle est obligatoire, pour minimum un mois. Penser à demander une copie du contrat pour les douanes.
 
-<img src="{{baseurl}}/assets/owner/photos/panam11.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/panama11.jpg" style="width:100%" />
 
 - **Importation temporaire - Douanes** - **_Repère 11_** : Dernière étape, on se rend dans des Algecos blancs tout neufs, implantés presque à l'entrée au niveau du pont. Remise des photocopies habituelles, contrôle vite fait du camping-car et délivrance du permis temporaire d'importation et tampon sur le passeport du conducteur.
 
@@ -90,8 +90,6 @@ Les deux postes frontières sont en travaux en raison de la construction d'une n
 Une fois les démarches réalisées, on peut reprendre le véhicule, il n'y a pas de contrôle à la sortie du site.
 
 - **Derniers contrôles** - **_Repère 12_** : En route vers Almirante, à 10 km de la frontière (9.46713, -82.55505) nous passons un check point où nous sommes contrôlés par un agent des douanes qui vérifie notre titre d'importation et par un autre agent qui rentre dans le camping-car et contrôle notre frigo et nous demande si nous transportons de la viande, des graines.... Ce check point doit être fixe car des Algecos faisant office de bureaux sont implantés sur la gauche.
-
-<img src="{{baseurl}}/assets/owner/photos/costa_rica10.jpg" style="width:100%" />
 
 ### Récapitulatif des frais et documents à fournir :
 
