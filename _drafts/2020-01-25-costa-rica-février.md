@@ -502,7 +502,14 @@ On passe le reste de la journée au camping, traitement du blog et des photos sa
 ## 22 février
 
 Ce matin nous faisons le plein d’eau et quittons Cahuita pour la plage et le refuge de **Manzanillo** tout près de la frontière avec la panama. La route est très belle si ce n’est de nombreux pont où nous passons tout juste en largeur, je suis même obligé d’aller en mesurer un car à première vue je ne pensais pas pouvoir passer mais finalement nous avons pu traverser. On se pose finalement pas très loin de l’entrée du parc au bord de la plage, cest très beau et la mer est beaucoup plus calme qu’à Cahuita.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49576309853/in/datetaken/" title="Manzanillo - [Cost Rica]"><img src="https://live.staticflickr.com/65535/49576309853_3f704b27d0_k.jpg" width="2048" height="1152" alt="Manzanillo - [Cost Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 L’après-midi nous faisons une très belle balade sur la plage. Nous sommes samedi et il y a un peu de monde, beaucoup de locaux qui plantent la tente pour le week-end.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49577048692/in/datetaken/" title="Manzanillo - [Cost Rica]"><img src="https://live.staticflickr.com/65535/49577048692_a191e1edea_k.jpg" width="2048" height="1152" alt="Manzanillo - [Cost Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49576813871/in/datetaken/" title="Manzanillo - [Cost Rica]"><img src="https://live.staticflickr.com/65535/49576813871_ca17020481_k.jpg" width="2048" height="1152" alt="Manzanillo - [Cost Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 23 février
 
