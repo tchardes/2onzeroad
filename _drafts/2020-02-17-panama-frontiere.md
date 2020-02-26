@@ -47,8 +47,6 @@ Les deux postes frontières sont en travaux en raison de la construction d'un no
 
 <img src="{{baseurl}}/assets/owner/photos/Panama4.jpg" style="width:100%" />
 
-<img src="{{baseurl}}/assets/owner/photos/Panama41.jpg" style="width:100%" />
-
 - **Immigration** - **_Repère 3_** : Toujours à pied on longe la route sur la gauche, on passe le portique de fumigation utilisé pour ceux qui rentrent au Costa Rica et sur la gauche se trouvent des genres d'Algecos blancs. C'est là que tous les voyageurs doivent se rendre pour valider la sortie du territoire, les démarches sont très rapides.
 
 <img src="{{baseurl}}/assets/owner/photos/Panama6.jpg" style="width:100%" />
