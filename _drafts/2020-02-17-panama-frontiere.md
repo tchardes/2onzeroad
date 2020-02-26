@@ -43,8 +43,6 @@ Les deux postes frontières sont en travaux en raison de la construction d'une n
 
 - **Parking** - **_Repère 1_** : Comme la zone est en travaux, on s'arrête directement sur la route, des agents ferment l'accès principal, le temps d'effectuer les démarches à pied.
 
-<img src="{{baseurl}}/assets/owner/photos/cp11.jpg" style="width:100%" />
-
 - **Paiement taxe touristique** - **_Repère 2_** : On descend à pied en contrebas de la route sur la gauche où se trouve de nombreux commerces. Plusieurs établissements se chargent d'encaisser cette taxe pour le compte du "Ministerio de Hacienda" qui est de 8 dollars US + 1 dollar de frais par personne. On vous remet un reçu qui sera vérifié par l'immigration.
 
 <img src="{{baseurl}}/assets/owner/photos/Panama4.jpg" style="width:100%" />
