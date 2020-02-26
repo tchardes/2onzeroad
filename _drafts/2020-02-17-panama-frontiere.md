@@ -79,6 +79,8 @@ Les deux postes frontières sont en travaux en raison de la construction d'un no
 
 <img src="{{baseurl}}/assets/owner/photos/panama10.jpg" style="width:100%" />
 
+<img src="{{baseurl}}/assets/owner/photos/panama91.jpg" style="width:100%" />
+
 - **Assurance** - **_Repère 10_** : On revient un peu sur ses pas pour prendre une assurance, elle est obligatoire, pour minimum un mois. Penser à demander une copie du contrat pour les douanes.
 
 <img src="{{baseurl}}/assets/owner/photos/panama11.jpg" style="width:100%" />
