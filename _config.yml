@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "9.395378, -82.272235"
-  name: "Bocas Del Toro - Panama"
-  date: "23 et 24 février 2020"
+  coordinates: "8.778009, -82.427951"
+  name: "Boquete - Panama"
+  date: "25 et 26 février 2020"
 
 # set the encoding to utf-8
 encoding: utf-8
