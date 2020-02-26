@@ -24,7 +24,8 @@ Cet article couvre la période du 24 janvier au février 2020, au cours de laque
 
 ## 23 février
 
-Ce matin je pars faire un trail dans le Refuge National de Gandoca-Manzanillo. Très belle ballade en forêt qui longe la côte avec quelques singes sur le parcours, très belle balade.
+Entre l'assurance et les douanes je perds le passeport de Corinne. Grand moment de panique 25 aller retour dans tous les sens. Finalement une voiture qui son stationnement et je retrouve le passeport par terre, un peu abîmé. Il a certainement du tomber de ma poche en sortant mon téléphone. Bref, plus de peur que de mal. Quelques kilomètres après la Frontière nous sommes contrôlés par les douanes et les services sanitaire, heureusement nous avons le frigo vide…
+La route jusqu’à Almirante notre destination du jour est assez abîmée, pas de doute nous avons quité le Costa Rica. Arrivé en ville nous faisons quelques courses et trouvons un lieu pour dormir au niveau du Ferry.
 Après déjeuner nous décidons de lever le camp direction Panama. Le passage de frontière est un peu long, 2 heures mais rien de compliqué. Quelques kilomètres après la Frontière nous sommes contrôlés par les douanes et les services sanitaire, heureusement nous avons le frigo vide…
 La route jusqu’à Almirante notre destination du jour est assez abîmée, pas de doute nous avons quitté le Costa Rica. Arrivé en ville nous faisons quelques courses et trouvons un lieu pour dormir au niveau du Ferry.
 

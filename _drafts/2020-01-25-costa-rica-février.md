@@ -41,10 +41,8 @@ pois:
     orosi#18-février,
     ujarras#18-février,
     cahuita#19-février,
-
-
-
-
+    manzanillo#22-février,
+    gandocamanzanillo#23-février,
   ]
 country: Costa Rica
 states: ["Guanacaste", "Puntarenas", "Alajuela", "Heredia", "San Jose", "Cartago", "Limon"]
@@ -499,24 +497,26 @@ Arrivés à la fin du trail, nous allons jusqu’à la route où se trouve un ar
 ## 21 février
 
 La journée s’annonce maussade, du coup nous décidons de rester une journée de plus au camping. Dans la matinée je vais au village faire des photocopies de nos documents en prévision de notre passage de frontière pour le Panama.
-On passe le reste de la journée au camping, traitement du blog et des photos sans oublier un petit bain dans une mer toujours aussi démontée. le soir nous mangeons au restaurant du camping avec une orchestre live, on penssait que se serait du reggae, finalement ca a été du calypso toute la soirée…
+On passe le reste de la journée au camping, traitement du blog et des photos sans oublier un petit bain dans une mer toujours aussi démontée. le soir nous mangeons au restaurant du camping avec une orchestre live, on penssait que se serait du reggae, finalement ca a été du calypso... toute la soirée !
 
 ## 22 février
 
-Ce matin nous faisons le plein d’eau et quittons Cahuita pour la plage et le refuge de Manzanillo tout près de la frontière avec la panama. La route est très belle si ce n’est de nombreux pont où nous passons tout juste en largeur, je suis même obligé d’aller en mesurer un car à première vue je ne psasse pas, mais finalement c’est OK.
-On se pose finalement pas très loin de l’entrée du parc au bord de la plage, cest très beau et la mer est beaucoup plus calme qu’à cahuita.
+Ce matin nous faisons le plein d’eau et quittons Cahuita pour la plage et le refuge de **Manzanillo** tout près de la frontière avec la panama. La route est très belle si ce n’est de nombreux pont où nous passons tout juste en largeur, je suis même obligé d’aller en mesurer un car à première vue je ne pensais pas pouvoir passer mais finalement nous avons pu traverser. On se pose finalement pas très loin de l’entrée du parc au bord de la plage, cest très beau et la mer est beaucoup plus calme qu’à Cahuita.
 L’après-midi nous faisons une très belle balade sur la plage. Nous sommes samedi et il y a un peu de monde, beaucoup de locaux qui plantent la tente pour le week-end.
 
 ## 23 février
 
-Ce matin je pars faire un trail dans le Refuge National de Gandoca-Manzanillo. Très belle ballade en forêt qui longe la côte avec quelques singes sur le parcour, très belle balade.
-Après déjeuner nous décidons de lever le camp direction Panama. Le passage de frontière est un peu long, 2 heures mais rien de compliqué. Quelques kilomètres après la Frontière nous sommes contrôlés par les douanes et les services sanitaire, heureusement nous avons le frigo vide…
-La route jusqu’à Almirante notre destination du jour est assez abîmée, pas de doute nous avons quité le Costa Rica. Arrivé en ville nous faisons quelques courses et trouvons un lieu pour dormir au niveau du Ferry.
+Ce matin je pars faire un trail dans le **Refuge National de Gandoca-Manzanillo**. Très belle ballade en forêt qui longe la côte avec quelques singes sur le parcour. Un autre trail part dans la forêt mais avec toutes les pluies de ces derniers jours, le trail n'est que boue.
 
-Kilométrage à la frontière : 62651
+Après déjeuner nous décidons de lever le camp direction Panama. Le passage de frontière est un peu long, 2 heures mais rien de compliqué. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-02-23-panama-frontiere %}">ici</a>)**
 
 **Nous avons vraiment adoré :**
 
+Ce pays est paradisiaque, très propre, avec un réseau routier très bien entretenu et avec le développement d'un tourisme maitrisé, plutôt écoresponsable. Coincé entre Pacifique et mer des Caraïbes l'ambiance est totalement différente d'une côte à l'autre et les plages, qu'elles soient de sable blanc, jaune ou noir, restent très sauvages. En cherchant un peu on trouve des lieux sans âme qui vive.
+Entre les deux un paysage très montagneux qui abrite des forêts tropicale séches ou humides, parfais d'altitude près de 3000 mètres au Parc National Los Quetzales, sans oublier lacs et volcans. Mais avant tout ce qui est incroyable c'est qu'ils aient su préserver leur faune.
+
 **Nous avons moins aimé :**
+
+Pas grand chose au final si ce n'est peut-être les prix qui s'approchent des prix européens.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :

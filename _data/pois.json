@@ -516,11 +516,23 @@
   { "name": "orosi", "displayName": "Orosi - Mirador", "type": "autre", "country": "Costa Rica" },
   { "name": "ujarras", "displayName": "Ujarras - Les ruines", "type": "autre", "country": "Costa Rica" },
   { "name": "cahuita", "displayName": "Cahuita - Parc National", "type": "nature", "country": "Costa Rica" },
+  { "name": "manzanillo", "displayName": "Manzanillo", "type": "ville", "country": "Costa Rica" },
+  { "name": "gandocamanzanillo", "displayName": "Gandoca - Manzanillo - Refuge National", "type": "nature", "country": "Costa Rica" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
-  { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
-  { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
-  { "name": "", "displayName": "", "type": "", "country": "Costa Rica" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "", "displayName": "", "type": "", "country": "Panama" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Costa Rica" }
+  { "name": "", "displayName": "", "type": "", "country": "Panama" }
 ]
