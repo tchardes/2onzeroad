@@ -478,7 +478,7 @@ Arrivés à **Cahuita**, nous trouvons un coin pour nous poser au "Reggae Bar Ca
 
 ## 20 février
 
-Ce matin, le temps est incertain mais nous décidons, quand même, de faire les 8 km de trail qui traverse le Parc National de Cahuita. L’entrée est payante mais chacun donne ce qu’il veut. Une grande partie du trail longe la plage dans la forêt. La dernière partie 2,5 km environ se fait sur des passerelles à travers une forêt humide. Cette balade nous a permis de voir, grenouille, signes, serpents, ratons laveurs, paresseux, écureuil…
+Ce matin, le temps est incertain mais nous décidons, quand même, de faire les 8 km du trail qui traverse le Parc National de Cahuita. L’entrée est payante mais chacun donne ce qu’il veut. Une grande partie du trail longe la plage dans la forêt. La dernière partie, 2,5 km environ, se fait sur des passerelles à travers une forêt humide. Cette balade nous a permis de voir, grenouille, signes, serpents, ratons laveurs, paresseux, écureuil…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49563259052/in/datetaken/" title="Cahuita - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49563259052_aeef2819e5_k.jpg" width="2048" height="1152" alt="Cahuita - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -490,18 +490,18 @@ Ce matin, le temps est incertain mais nous décidons, quand même, de faire les 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49566763192/in/datetaken/" title="Cahuita - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49566763192_a8640c5d49_k.jpg" width="2048" height="848" alt="Cahuita - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Arrivés à la fin du trail, nous allons jusqu’à la route où se trouve un arrêt de bus et nous rentrons à Cahuita en colectivo. De retour au camping je prends un petit bain où je me fais brasser par de grosses vagues et nous terminons la journée dans Thor.
+Arrivés à la fin du trail, nous allons jusqu’à la route où se trouve un arrêt de bus et nous rentrons à Cahuita en colectivo. De retour au camping, je prends un petit bain où je me fais brasser par de grosses vagues et nous terminons la journée dans Thor.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49566511826/in/datetaken/" title="Cahuita - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49566511826_6cfa7f762a_k.jpg" width="2048" height="1152" alt="Cahuita - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 21 février
 
-La journée s’annonce maussade, du coup nous décidons de rester une journée de plus au camping. Dans la matinée je vais au village faire des photocopies de nos documents en prévision de notre passage de frontière pour le Panama.
-On passe le reste de la journée au camping, traitement du blog et des photos sans oublier un petit bain dans une mer toujours aussi démontée. le soir nous mangeons au restaurant du camping avec une orchestre live, on pensait que se serait du reggae, finalement on a eu droit a du calypso... toute la soirée !
+La journée s’annonce maussade, du coup nous décidons de rester une journée de plus au camping. Dans la matinée, je vais au village faire des photocopies de nos documents en prévision de notre passage de frontière pour le Panama.
+On passe le reste de la journée au camping, traitement du blog et des photos sans oublier un petit bain dans une mer toujours aussi démontée. le soir, nous mangeons au restaurant du camping avec un orchestre live, on pensait que se serait du reggae, finalement on a eu droit a du calypso... toute la soirée !
 
 ## 22 février
 
-Ce matin nous faisons le plein d’eau et quittons Cahuita pour la plage et le refuge de **Manzanillo** tout près de la frontière avec la panama. La route est très belle si ce n’est de nombreux pont où nous passons tout juste en largeur, je suis même obligé d’aller en mesurer un car à première vue je ne pensais pas pouvoir passer mais finalement nous avons pu traverser. On se pose finalement pas très loin de l’entrée du parc au bord de la plage, c’est très beau et la mer est beaucoup plus calme qu’à Cahuita.
+Ce matin, nous faisons le plein d’eau et quittons Cahuita pour la plage et le refuge de **Manzanillo** tout près de la frontière avec la panama. La route est très belle si ce n’est de nombreux ponts où nous passons tout juste en largeur, je suis même obligé d’aller en mesurer un, car à première vue, je ne pensais pas pouvoir passer mais finalement nous avons pu traverser. On se stationne pas très loin de l’entrée du parc au bord de la plage, c’est superbe et la mer est beaucoup plus calme qu’à Cahuita.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49576309853/in/datetaken/" title="Manzanillo - [Cost Rica]"><img src="https://live.staticflickr.com/65535/49576309853_3f704b27d0_k.jpg" width="2048" height="1152" alt="Manzanillo - [Cost Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -513,18 +513,18 @@ L’après-midi nous faisons une très belle balade sur la plage. Nous sommes sa
 
 ## 23 février
 
-Ce matin je pars faire un trail dans le **Refuge National de Gandoca-Manzanillo**. Très belle balade en forêt qui longe la côte. Malgré le nombre de visiteur on voit quelques singes sur le parcours. Un autre trail s'enfonce dans la forêt mais avec toutes les pluies de ces derniers jours, le trail n'est pas praticable.
+Ce matin, je pars faire un trail dans le **Refuge National de Gandoca-Manzanillo**. Très belle balade en forêt qui longe la côte. Malgré le nombre de visiteurs, on voit quelques singes sur le parcours. Un autre trail s'enfonce dans la forêt mais avec toutes les pluies de ces derniers jours, le trail n'est pas praticable.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49576322953/in/datetaken/" title="Manzanillo - [Cost Rica]"><img src="https://live.staticflickr.com/65535/49576322953_9e3b54be84_k.jpg" width="2048" height="1152" alt="Manzanillo - [Cost Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49576825426/in/datetaken/" title="Manzanillo - [Cost Rica]"><img src="https://live.staticflickr.com/65535/49576825426_700339db48_k.jpg" width="2048" height="1152" alt="Manzanillo - [Cost Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Après déjeuner nous décidons de lever le camp direction Panama. Le passage de frontière est un peu long, 2 heures mais rien de compliqué. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-02-23-panama-frontiere %}">ici</a>)**
+Après déjeuner, nous décidons de lever le camp direction Panama. Le passage de frontière est un peu long, 2 heures mais rien de compliqué. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-02-23-panama-frontiere %}">ici</a>)**
 
 **Nous avons vraiment adoré :**
 
-Ce pays est paradisiaque, très propre, avec un réseau routier très bien entretenu et avec le développement d'un tourisme maitrisé, plutôt écoresponsable. Coincé entre Pacifique et mer des Caraïbes l'ambiance est totalement différente d'une côte à l'autre et les plages, qu'elles soient de sable blanc, jaune ou noir, restent très sauvages. En cherchant un peu on trouve des lieux sans âme qui vive.
-Entre les deux un paysage très montagneux qui abrite des forêts tropicale sèches ou humides, parfois d'altitude près de 3000 mètres au Parc National Los Quetzales, sans oublier lacs et volcans. Mais avant tout ce qui est incroyable c'est qu'ils aient su autant préserver leur faune.
+Ce pays est paradisiaque, très propre, avec un réseau routier très bien entretenu et avec le développement d'un tourisme maitrisé, plutôt écoresponsable. Coincé entre Pacifique et mer des Caraïbes, l'ambiance est totalement différente d'une côte à l'autre et les plages, qu'elles soient de sable blanc, jaune ou noir, restent très sauvages. En cherchant un peu, on trouve des lieux sans âme qui vive.
+Entre les deux, un paysage très montagneux qui abrite des forêts tropicales sèches ou humides, parfois d'altitude près de 3000 mètres au Parc National Los Quetzales, sans oublier lacs et volcans. Mais, avant tout, ce qui est incroyable c'est qu'ils aient su autant préserver leur faune.
 
 **Nous avons moins aimé :**
 
