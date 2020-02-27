@@ -146,7 +146,7 @@ Lors de la préparation de notre voyage au long cours, le camping-car s'est rapi
 
 Dès l'instant où la décision a été prise, nous avons connu les mêmes interrogations que tous les voyageurs ayant choisi ce mode de locomotion, lequel choisir ?…. De type intégral (US = Class A), profilé (US = Class B+), fourgon (US = Class B), capucine (US = Class C), 4x4 avec cellule (US = Camper), fabriqué sur mesure, de quelle marque, motorisation, avec quelles options…. Bref de quoi alimenter de nombreuses nuits blanches, la lecture de kilomètres de commentaires, arguments, certitudes, sans parler du coût pouvant aller du simple au….
 
-A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motor-Home " de Class B+ ou C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux États-Unis et que nous devions l'acquérir au Quebec.
+A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motor-Home " de Class B+ ou C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux États-Unis et que nous devions l'acquérir au Québec.
 
 Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à notre vision des choses**.
 
@@ -164,7 +164,7 @@ Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à 
 
 - Au niveau équipements de base, les américains aimant leur confort, tous les RV sont équipés d'un générateur qui permet d'alimenter un four micro-onde, un climatiseur un ou plusieurs écrans TV lorsque l'on est en autonomie, un réservoir de propane, une fosse septique et souvent une ou deux extensions qui permettent à l'arrêt d'élargir ou rallonger le RV pour augmenter la surface intérieure.
 
-- Aucun problème au niveau électrique puisque tout le continent américain fonctionne au 110v, pas besoin donc d'un transformateur.
+- Aucun problème au niveau électrique puisque pratiquement tout le continent américain fonctionne au 110v, pas besoin donc d'un transformateur.
 
 - Enfin nous compenserons la consommation excessive de ces engins par un rythme plus lent nous permettant d'étaler et lisser le poste "Carburant" de notre budget dans le temps.
 
