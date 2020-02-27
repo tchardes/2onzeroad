@@ -3,9 +3,9 @@ layout: blog
 title: "Panama"
 preview: "Cet article couvre la période du 24 janvier au février 2020, au cours de laquelle nous avons visité le Costa Rica…"
 parent-id:
-date: 2020-02-23 13:00:00
+date: 2020-02-26 13:00:00
 from-date: 2020-02-23 12:00:00
-to-date: 2020-02-24 13:00:00
+to-date: 2020-02-26 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt31.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt32.jpg
@@ -34,5 +34,3 @@ La route jusqu’à Almirante notre destination du jour est assez abîmée, pas 
 **Nous avons moins aimé :**
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
-
-
