@@ -524,10 +524,12 @@ Après déjeuner nous décidons de lever le camp direction Panama. Le passage de
 **Nous avons vraiment adoré :**
 
 Ce pays est paradisiaque, très propre, avec un réseau routier très bien entretenu et avec le développement d'un tourisme maitrisé, plutôt écoresponsable. Coincé entre Pacifique et mer des Caraïbes l'ambiance est totalement différente d'une côte à l'autre et les plages, qu'elles soient de sable blanc, jaune ou noir, restent très sauvages. En cherchant un peu on trouve des lieux sans âme qui vive.
-Entre les deux un paysage très montagneux qui abrite des forêts tropicale sèches ou humides, parfois d'altitude près de 3000 mètres au Parc National Los Quetzales, sans oublier lacs et volcans. Mais avant tout ce qui est incroyable c'est qu'ils aient su préserver leur faune.
+Entre les deux un paysage très montagneux qui abrite des forêts tropicale sèches ou humides, parfois d'altitude près de 3000 mètres au Parc National Los Quetzales, sans oublier lacs et volcans. Mais avant tout ce qui est incroyable c'est qu'ils aient su autant préserver leur faune.
 
 **Nous avons moins aimé :**
 
 Pas grand chose au final si ce n'est peut-être les prix qui s'approchent des prix européens. Corinne n'a pas du tout aimé passer sur ces ponts à une seule voie et souvent très étroits.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wTQLj2WUxMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

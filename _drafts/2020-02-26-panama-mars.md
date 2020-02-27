@@ -34,3 +34,5 @@ La route jusqu’à Almirante notre destination du jour est assez abîmée, pas 
 **Nous avons moins aimé :**
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
+
+
