@@ -3,7 +3,7 @@ layout: blog
 title: "Costa Rica"
 preview: "Cet article couvre la période du 24 janvier au 23 février 2020, au cours de laquelle nous avons visité le Costa Rica…"
 parent-id:
-date: 2020-01-24 13:00:00
+date: 2020-02-24 13:00:00
 from-date: 2020-01-24 12:00:00
 to-date: 2020-02-23 13:00:00
 author: "Thierry"
