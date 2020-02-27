@@ -1,11 +1,11 @@
 ---
 layout: blog
 title: "Costa Rica"
-preview: "Cet article couvre la période du 24 janvier au février 2020, au cours de laquelle nous avons visité le Costa Rica…"
+preview: "Cet article couvre la période du 24 janvier au 23 février 2020, au cours de laquelle nous avons visité le Costa Rica…"
 parent-id:
-date: 2020-01-25 13:00:00
+date: 2020-01-24 13:00:00
 from-date: 2020-01-24 12:00:00
-to-date: 2020-01-25 13:00:00
+to-date: 2020-02-23 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt31.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt31.jpg
@@ -53,7 +53,7 @@ itinary: "2020/costa_rica.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 24 janvier au février 2020, au cours de laquelle nous avons visité le Costa Rica.
+Cet article couvre la période du 24 janvier au 23 février 2020, au cours de laquelle nous avons visité le Costa Rica.
 
 ## 24 au 26 janvier
 
@@ -230,7 +230,7 @@ Le parcours est vraiment très beau et traverse une végétation tropicale luxur
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49490017221/in/datetaken/" title="Monteverde - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49490017221_265289bacd_k.jpg" width="2048" height="1365" alt="Monteverde - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Dans l’après-midi, le temps se gâte et nous décidons de lever le camp pour le **Lac Arenal**. Je me renseigne auprès de plusieurs personnes pour connaître l’état d’une route qui rejoint directement la ville de Tilaran et qui nous fera gagner pas mal de temps. Les gens sont unanimes, pas de problèmes avec Thor, les camions et bus passent par là… Rapidement, on comrend qu’il s’agit en fait d’une piste, certes pas trop mauvaise mais piste quand même. Le Costa Rica est souvent surnommé "la Suisse de l’Amérique centrale" et cela prend tout son sens ici, le décor est très vallonné, bien vert avec de très beaux troupeaux de vaches.
+Dans l’après-midi, le temps se gâte et nous décidons de lever le camp pour le **Lac Arenal**. Je me renseigne auprès de plusieurs personnes pour connaître l’état d’une route qui rejoint directement la ville de Tilaran et qui nous fera gagner pas mal de temps. Les gens sont unanimes, pas de problèmes avec Thor, les camions et bus passent par là… Rapidement, on comprend qu’il s’agit en fait d’une piste, certes pas trop mauvaise mais piste quand même. Le Costa Rica est souvent surnommé "la Suisse de l’Amérique centrale" et cela prend tout son sens ici, le décor est très vallonné, bien vert avec de très beaux troupeaux de vaches.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49490213917/in/datetaken/" title="Lagune de Arenal - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49490213917_e9b6d4a8db_k.jpg" width="2048" height="1152" alt="Lagune de Arenal - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -279,7 +279,7 @@ Après le tour, José nous laisse déambuler à notre guise dans le parc, mais s
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49493050791/in/datetaken/" title="Horquetas - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49493050791_d75334ff3b_k.jpg" width="2048" height="1152" alt="Horquetas - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous passons la fin de matinée dans Thor, on profite du wifi pour traiter les photos et les envoyer et également réserver des places par Internet pour la visite du volcan Poas. La famille qui tient ce parc est vraiment adorable et nous avons tenu en plus du tour à leur donner quelques chose pour ce bivouac de luxe avec électricité wifi, eau potable, douches et toilettes.
+Nous passons la fin de matinée dans Thor, on profite du wifi pour traiter les photos et les envoyer et également réserver des places par Internet pour la visite du volcan Poás. La famille qui tient ce parc est vraiment adorable et nous avons tenu en plus du tour à leur donner quelques chose pour ce bivouac de luxe avec électricité wifi, eau potable, douches et toilettes.
 
 En fin de matinée, nous rencontrons un couple qui vient faire la visite, ils arrivent de Nantes avec leurs deux filles et sont partis pour un voyage d’un an, nous avons discuté un long moment. Après le repas, nous disons au-revoir et partons pour nous approcher de notre visite de demain. Nous empruntons une route de montagne qui nous amène à plus de 2400 mètres d’altitude, c’est dommage que le temps soit couvert, on se croirait vraiment en suisse avec de beaux pâturages et nombreux troupeaux de vraies vaches, pas de zébus à grandes oreilles.
 
@@ -291,7 +291,7 @@ Peu avant d’arriver au volcan, nous trouvons un parking devant une boutique et
 
 ## 06 février
 
-Après une nuit très calme et très fraiche, nous partons pour le **Parc Nacional Voclan Poás**. Nous ne sommes qu’à quelques kilomètres, le temps est magnifique. Normalement lors de la réservation, nous avons une heure spécifique pour faire la visite mais à l’entrée l’agent me dit que c’est bon et qu’il n’est nul besoin d’attendre, cela nous fait gagner deux heures sur notre programme. Depuis 2017, date de la dernière éruption de Poas le site visitable s’est considérablement réduit, on ne peut accéder qu'au mirador qui surplombe le cratère. Devant le visitor center, nous avons droit à un pitch sur la sécurité puis distribution d’un casque et nous pouvons ensuite parcourir les derniers 400 mètres pour arriver au mirador où nous ne pouvons rester que 20 minutes en raison des émanations de gaz toxique. On comprend mieux une fois face au cratère. Au fond, un petit lac d’acide avec des fumerolles et plaques de souffre. Le décor est splendide, nous sommes au-dessus des nuages. Un volcan en activité est toujours impressionnant.
+Après une nuit très calme et très fraiche, nous partons pour le **Parc Nacional Volcan Poás**. Nous ne sommes qu’à quelques kilomètres, le temps est magnifique. Normalement lors de la réservation, nous avons une heure spécifique pour faire la visite mais à l’entrée l’agent me dit que c’est bon et qu’il n’est nul besoin d’attendre, cela nous fait gagner deux heures sur notre programme. Depuis 2017, date de la dernière éruption de Poás le site visitable s’est considérablement réduit, on ne peut accéder qu'au mirador qui surplombe le cratère. Devant le visitor center, nous avons droit à un pitch sur la sécurité puis distribution d’un casque et nous pouvons ensuite parcourir les derniers 400 mètres pour arriver au mirador où nous ne pouvons rester que 20 minutes en raison des émanations de gaz toxique. On comprend mieux une fois face au cratère. Au fond, un petit lac d’acide avec des fumerolles et plaques de souffre. Le décor est splendide, nous sommes au-dessus des nuages. Un volcan en activité est toujours impressionnant.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49527364411/in/datetaken/" title="Volcan Paos - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49527364411_5330bc6456_k.jpg" width="2048" height="1206" alt="Volcan Paos - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -313,7 +313,7 @@ Nous commençons comme souvent par la cathédrale, le théâtre national, les di
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49523600922/in/datetaken/" title="San Jose - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49523600922_dc8665dff3_k.jpg" width="2048" height="1152" alt="San Jose - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous déambulons le reste de l’après-midi dans la ville avec un passage au Bario Amon pour ses vieilles bâtisses, au bario California pour ces tags et de belles rues piétonnes très animées. Un Uber nous ramène au bivouac où nous faisons quelques courses et mangeons dans un Pizza Hut.
+Nous déambulons le reste de l’après-midi dans la ville avec un passage au Bario Amon pour ses vieilles bâtisses, au Bario California pour ces tags et de belles rues piétonnes très animées. Un Uber nous ramène au bivouac où nous faisons quelques courses et mangeons dans un Pizza Hut.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49522867373/in/datetaken/" title="San Jose - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49522867373_5ab7243cc3_k.jpg" width="2048" height="1152" alt="San Jose - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -333,7 +333,7 @@ Nuit calme sur notre parking, nuit fraiche à près de 1000 mètres. Nous quitto
 
 ## 08 et 09 février
 
-Nous passons tout le week-end sur la plage, dès 7 heures du matin, tous les costa ricains sont garés, et le pique-nique installé avec parfois tente et BBC. Les gens sont très sympathiques et moins bruyants que leurs voisins du nord, pas de musique à fond la caisse. Samedi matin, un immense catamaran noir à moteur mouille dans la baie. Sur le pont, se trouve un hélicoptère EC145, un gros bateau et sous les ponts inférieurs on devine jet ski, zodiac… il est énorme.
+Nous passons tout le week-end sur la plage, dès 7 heures du matin, tous les costaricains sont garés, et le pique-nique installé avec parfois tente et BBC. Les gens sont très sympathiques et moins bruyants que leurs voisins du nord, pas de musique à fond la caisse. Samedi matin, un immense catamaran noir à moteur mouille dans la baie. Sur le pont, se trouve un hélicoptère EC145, un gros bateau et sous les ponts inférieurs on devine jet ski, zodiac… il est énorme.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49526064382/in/datetaken/" title="Herradura - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49526064382_034edfbdd1_k.jpg" width="2048" height="501" alt="Herradura - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -345,7 +345,7 @@ Dimanche matin, deux dames installées près de nous offrent un collier brésili
 
 ## 10 février
 
-Ce matin nous bougeons pour quelques kilomètres dans un premier temps. Nous allons jusqu’à la ville de **Jacó** pour s’occuper un peu de logistique, nous passons déposer notre linge dans une lavanderia et allons faire quelques courses. Comme nous ne pouvons récupérer notre linge qu’en fin d’après-midi, nous trouvons une superbe plage pour nous poser au bout de la ville et de la playa Jaco, c’est désert, nous passons un agréable moment.
+Ce matin nous bougeons pour quelques kilomètres dans un premier temps. Nous allons jusqu’à la ville de **Jacó** pour s’occuper un peu de logistique, nous passons déposer notre linge dans une lavanderia et allons faire quelques courses. Comme nous ne pouvons récupérer notre linge qu’en fin d’après-midi, nous trouvons une superbe plage pour nous poser au bout de la ville et de la playa Jacó, c’est désert, nous passons un agréable moment.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49526062627/in/datetaken/" title="Jaco - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49526062627_e22c3cd1d1_k.jpg" width="2048" height="814" alt="Jaco - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -409,7 +409,7 @@ Arrivés au terminus, nous partons pour 4 km de trail dans la forêt et sur la p
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49558370401/in/datetaken/" title="Corcovado - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49558370401_bf56214bd0_k.jpg" width="2048" height="1152" alt="Corcovado - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le décor est superbe mais nous voyons, au final, que peu de faune à part les habituels Aras, singes, Coatis. Heureusement nous avons croisé un Pecarie, ça a sauvé la journée! Jean-Pierre, âgé de 77 ans, m’a impressionné même si, au retour, il a eu un gros coup de fatigue et j'ai eu peur qu'il me fasse une crise cardiaque. Après un bon quart d'heure de repos je lui ai pris son sac et nous avons pu repartir. Le retour en colectivo a été un peu plus rapide, nous nous sommes fait secouer que 2 heures. Grosse journée où nous avons parcouru plus de 17 km. Corinne a eu du nez de ne pas venir. Au final, et malgré ce que disent les livres, nul besoin de louer les services d'un guide pour rentrer dans le parc.
+Le décor est superbe mais nous voyons, au final, que peu de faune à part les habituels Aras, singes, Coatis. Heureusement nous avons croisé un Pécari, ça a sauvé la journée! Jean-Pierre, âgé de 77 ans, m’a impressionné même si, au retour, il a eu un gros coup de fatigue et j'ai eu peur qu'il me fasse une crise cardiaque. Après un bon quart d'heure de repos je lui ai pris son sac et nous avons pu repartir. Le retour en colectivo a été un peu plus rapide, nous nous sommes fait secouer que 2 heures. Grosse journée où nous avons parcouru plus de 17 km. Corinne a eu du nez de ne pas venir. Au final, et malgré ce que disent les livres, nul besoin de louer les services d'un guide pour rentrer dans le parc.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49558583292/in/datetaken/" title="Corcovado - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49558583292_5bb16bca83_k.jpg" width="2048" height="1152" alt="Corcovado - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -431,7 +431,7 @@ Ce matin, il y a 11° dans Thor quand nous nous levons. A 8hO00, nous sommes au 
 
 ## 18 février
 
-Ce matin à 05h20, le guide me récupére et nous roulons une bonne dizaine de kilomètres sur une piste avant d’arriver sur une zone où devrait se trouver le fameux Quetzal. Nous ne sommes pas seuls, il y a d’autres guides avec des groupes. Les guides sont assez bien organisés car ils sont équipés de talkie walkie leur permettant de communiquer entre eux. Finalement un mâle (les plus beaux) est aperçu à quelques kilomètres, tout le monde monte dans les véhiules pour se porter sur le point indiqué et effectivement, assez loin de nous, nous le voyons.
+Ce matin à 05h20, le guide me récupère et nous roulons une bonne dizaine de kilomètres sur une piste avant d’arriver sur une zone où devrait se trouver le fameux Quetzal. Nous ne sommes pas seuls, il y a d’autres guides avec des groupes. Les guides sont assez bien organisés car ils sont équipés de talkie walkie leur permettant de communiquer entre eux. Finalement un mâle (les plus beaux) est aperçu à quelques kilomètres, tout le monde monte dans les véhicules pour se porter sur le point indiqué et effectivement, assez loin de nous, nous le voyons.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49558467488/in/datetaken/" title="Parc National des Quetzales- [Costa Rica]"><img src="https://live.staticflickr.com/65535/49558467488_77d6e91ad8_k.jpg" width="2048" height="1152" alt="Parc National des Quetzales- [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -439,7 +439,7 @@ Le guide est équipé d’une lunette d'observation, il me demande mon télépho
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49566069303/in/datetaken/" title="Parc National Los Quetzales - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49566069303_92d4e6fea2_k.jpg" width="2048" height="2048" alt="Parc National Los Quetzales - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous prenons la route en direction de **Cartago** où nous faisons notre première halte. Nous visitons les ruines de l’ancienne église Santiago Apostol qui n’a pas supporté deux tremblements de terre en 1841 et 1910 puis de la nouvelle Basilique Notre Dame de Los Angeles de style néo bysantin qui est vraiment très belle, aussi bien de l’extérieur que de l’intérieur.
+Nous prenons la route en direction de **Cartago** où nous faisons notre première halte. Nous visitons les ruines de l’ancienne église Santiago Apostol qui n’a pas supporté deux tremblements de terre en 1841 et 1910 puis de la nouvelle Basilique Notre Dame de Los Angeles de style néo byzantin qui est vraiment très belle, aussi bien de l’extérieur que de l’intérieur.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49566580791/in/datetaken/" title="Cartago - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49566580791_6772876180_k.jpg" width="2048" height="1152" alt="Cartago - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -449,11 +449,11 @@ Nous prenons la route en direction de **Cartago** où nous faisons notre premiè
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49558954306/in/datetaken/" title="Cortago - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49558954306_14a8a86203_k.jpg" width="2048" height="1365" alt="Cortago - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous nous arrêtons ensuite au **Mirador de Orosi** situé sur un éperon rocheux à la confluence de deux rivières et qui domine trois vallées. Dommage que le temps soit très couvert magré tout la vue est très belle.
+Nous nous arrêtons ensuite au **Mirador de Orosi** situé sur un éperon rocheux à la confluence de deux rivières et qui domine trois vallées. Dommage que le temps soit très couvert malgré tout la vue est très belle.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49558932686/in/datetaken/" title="- [Costa Rica]"><img src="https://live.staticflickr.com/65535/49558932686_bfa0169bd7_k.jpg" width="2048" height="1152" alt="- [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous poursuivons la route qui constourne le lac Cachi mais, peu après Orosi, nous sommes contraints de faire demi-tour car nous ne pouvons pas passer sur un petit pont qui n’est pas assez large pour Thor. Un local tente bien de nous guider mais c’est impossible. Nous contournons le lac par le Nord et arrivons aux ruines de Ujarras, il s’agit d’un très beau parc où l’on trouve les restes de l’église Notre Dame de la Conception de rescate de **Ujarras** qui elle aussi n’a pas aimé un tremblement de terre en 1822. Autour se trouvent des champs de chayottes qui poussent sur treilles et de nombreux oiseaux.
+Nous poursuivons la route qui contourne le lac Cachi mais, peu après Orosi, nous sommes contraints de faire demi-tour car nous ne pouvons pas passer sur un petit pont qui n’est pas assez large pour Thor. Un local tente bien de nous guider mais c’est impossible. Nous contournons le lac par le Nord et arrivons aux ruines de Ujarras, il s’agit d’un très beau parc où l’on trouve les restes de l’église Notre Dame de la Conception de rescate de **Ujarras** qui elle aussi n’a pas aimé un tremblement de terre en 1822. Autour se trouvent des champs de chayottes qui poussent sur treilles et de nombreux oiseaux.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49559138052/in/datetaken/" title="Ujarras - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49559138052_10fb394e90_k.jpg" width="2048" height="1152" alt="Ujarras - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -467,7 +467,7 @@ Après le déjeuner, nous partons en direction de la côte Caraïbe et nous nous
 
 ## 19 février
 
-Contre toute attente, nuit calme et pas trop chaude au bivouac. Nous prenons la route en direction de Puerte Limon. Cette ville abrite l’un des plus gros port maritime de la caraïbe, et en effet jusqu’à la ville de "Moin" nous croisons des centaines de camions porte conteneurs et des lieux de stockage où s’entassent des montagnes de conteneurs. Nous prenons la route du litoral et passons par Portete avant d’arriver à Puerte Limon. Nous ne faisons qu’y passer car cette ville ne nous inspire pas du tout. Nous poursuivons la route qui longe la côte Caraïbe. La mer est déchainée et le temps est bien couvert. Le plages ne sont pas vraiment belles, recouvertes de branches et de troncs d’arbres ramenés par la mer.
+Contre toute attente, nuit calme et pas trop chaude au bivouac. Nous prenons la route en direction de Puerte Limon. Cette ville abrite l’un des plus gros port maritime de la caraïbe, et en effet jusqu’à la ville de "Moin" nous croisons des centaines de camions porte conteneurs et des lieux de stockage où s’entassent des montagnes de conteneurs. Nous prenons la route du littoral et passons par Portete avant d’arriver à Puerte Limon. Nous ne faisons qu’y passer car cette ville ne nous inspire pas du tout. Nous poursuivons la route qui longe la côte Caraïbe. La mer est déchainée et le temps est bien couvert. Le plages ne sont pas vraiment belles, recouvertes de branches et de troncs d’arbres ramenés par la mer.
 Arrivés à **Cahuita**, nous trouvons un coin pour nous poser au "Reggae Bar Cabins" un endroit charmant tenu par des créoles. En début d’après-midi nous faisons un tour dans le village qui est haut en couleurs. Nous prenons des renseignements à l’entrée du Parc National de Cahuita que nous visiterons demain si le temps s’arrange un peu. Le soir nous dinons sur place, très bonne ambiance.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49566500741/in/datetaken/" title="Cahuita - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49566500741_46a0a7f246_k.jpg" width="2048" height="1152" alt="Cahuita - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -478,7 +478,7 @@ Arrivés à **Cahuita**, nous trouvons un coin pour nous poser au "Reggae Bar Ca
 
 ## 20 février
 
-Ce matin, le temps est incertain mais nous décidons, quand même, de faire les 8 km de trail qui traverse le Parc National de Cahuita. L’entrée est payante mais chacun donne ce qu’il veut. Une grande partie du trail longe la plage dans la fôret. La dernière partie 2,5 km environ se fait sur des passerelles à travers une forêt humide. Cette balade nous a permis de voir, grenouille, signes, serpents, ratons laveurs, paresseux, écureuil…
+Ce matin, le temps est incertain mais nous décidons, quand même, de faire les 8 km de trail qui traverse le Parc National de Cahuita. L’entrée est payante mais chacun donne ce qu’il veut. Une grande partie du trail longe la plage dans la forêt. La dernière partie 2,5 km environ se fait sur des passerelles à travers une forêt humide. Cette balade nous a permis de voir, grenouille, signes, serpents, ratons laveurs, paresseux, écureuil…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49563259052/in/datetaken/" title="Cahuita - [Costa Rica]"><img src="https://live.staticflickr.com/65535/49563259052_aeef2819e5_k.jpg" width="2048" height="1152" alt="Cahuita - [Costa Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -497,11 +497,11 @@ Arrivés à la fin du trail, nous allons jusqu’à la route où se trouve un ar
 ## 21 février
 
 La journée s’annonce maussade, du coup nous décidons de rester une journée de plus au camping. Dans la matinée je vais au village faire des photocopies de nos documents en prévision de notre passage de frontière pour le Panama.
-On passe le reste de la journée au camping, traitement du blog et des photos sans oublier un petit bain dans une mer toujours aussi démontée. le soir nous mangeons au restaurant du camping avec une orchestre live, on penssait que se serait du reggae, finalement ca a été du calypso... toute la soirée !
+On passe le reste de la journée au camping, traitement du blog et des photos sans oublier un petit bain dans une mer toujours aussi démontée. le soir nous mangeons au restaurant du camping avec une orchestre live, on pensait que se serait du reggae, finalement on a eu droit a du calypso... toute la soirée !
 
 ## 22 février
 
-Ce matin nous faisons le plein d’eau et quittons Cahuita pour la plage et le refuge de **Manzanillo** tout près de la frontière avec la panama. La route est très belle si ce n’est de nombreux pont où nous passons tout juste en largeur, je suis même obligé d’aller en mesurer un car à première vue je ne pensais pas pouvoir passer mais finalement nous avons pu traverser. On se pose finalement pas très loin de l’entrée du parc au bord de la plage, cest très beau et la mer est beaucoup plus calme qu’à Cahuita.
+Ce matin nous faisons le plein d’eau et quittons Cahuita pour la plage et le refuge de **Manzanillo** tout près de la frontière avec la panama. La route est très belle si ce n’est de nombreux pont où nous passons tout juste en largeur, je suis même obligé d’aller en mesurer un car à première vue je ne pensais pas pouvoir passer mais finalement nous avons pu traverser. On se pose finalement pas très loin de l’entrée du parc au bord de la plage, c’est très beau et la mer est beaucoup plus calme qu’à Cahuita.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49576309853/in/datetaken/" title="Manzanillo - [Cost Rica]"><img src="https://live.staticflickr.com/65535/49576309853_3f704b27d0_k.jpg" width="2048" height="1152" alt="Manzanillo - [Cost Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -513,17 +513,21 @@ L’après-midi nous faisons une très belle balade sur la plage. Nous sommes sa
 
 ## 23 février
 
-Ce matin je pars faire un trail dans le **Refuge National de Gandoca-Manzanillo**. Très belle ballade en forêt qui longe la côte avec quelques singes sur le parcour. Un autre trail part dans la forêt mais avec toutes les pluies de ces derniers jours, le trail n'est que boue.
+Ce matin je pars faire un trail dans le **Refuge National de Gandoca-Manzanillo**. Très belle balade en forêt qui longe la côte. Malgré le nombre de visiteur on voit quelques singes sur le parcours. Un autre trail s'enfonce dans la forêt mais avec toutes les pluies de ces derniers jours, le trail n'est pas praticable.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49576322953/in/datetaken/" title="Manzanillo - [Cost Rica]"><img src="https://live.staticflickr.com/65535/49576322953_9e3b54be84_k.jpg" width="2048" height="1152" alt="Manzanillo - [Cost Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49576825426/in/datetaken/" title="Manzanillo - [Cost Rica]"><img src="https://live.staticflickr.com/65535/49576825426_700339db48_k.jpg" width="2048" height="1152" alt="Manzanillo - [Cost Rica]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Après déjeuner nous décidons de lever le camp direction Panama. Le passage de frontière est un peu long, 2 heures mais rien de compliqué. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-02-23-panama-frontiere %}">ici</a>)**
 
 **Nous avons vraiment adoré :**
 
 Ce pays est paradisiaque, très propre, avec un réseau routier très bien entretenu et avec le développement d'un tourisme maitrisé, plutôt écoresponsable. Coincé entre Pacifique et mer des Caraïbes l'ambiance est totalement différente d'une côte à l'autre et les plages, qu'elles soient de sable blanc, jaune ou noir, restent très sauvages. En cherchant un peu on trouve des lieux sans âme qui vive.
-Entre les deux un paysage très montagneux qui abrite des forêts tropicale séches ou humides, parfais d'altitude près de 3000 mètres au Parc National Los Quetzales, sans oublier lacs et volcans. Mais avant tout ce qui est incroyable c'est qu'ils aient su préserver leur faune.
+Entre les deux un paysage très montagneux qui abrite des forêts tropicale sèches ou humides, parfois d'altitude près de 3000 mètres au Parc National Los Quetzales, sans oublier lacs et volcans. Mais avant tout ce qui est incroyable c'est qu'ils aient su préserver leur faune.
 
 **Nous avons moins aimé :**
 
-Pas grand chose au final si ce n'est peut-être les prix qui s'approchent des prix européens.
+Pas grand chose au final si ce n'est peut-être les prix qui s'approchent des prix européens. Corinne n'a pas du tout aimé passer sur ces ponts à une seule voie et souvent très étroits.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
