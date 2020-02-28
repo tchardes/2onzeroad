@@ -148,7 +148,7 @@ Dès l'instant où la décision a été prise, nous avons connu les mêmes inter
 
 A l'heure où nous écrivons ces lignes, nous avons opté pour un camping-car d'occasion directement acheté sur le continent nord-américain. Ce sera un " Recreational Vehicle " (RV) ou " Motor-Home " de Class B+ ou C si nous l'achetons aux USA ou bien un "Véhicule Récréatif" (VR) si nous avons des problèmes pour l'acheter aux États-Unis et que nous devions l'acquérir au Québec.
 
-Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à notre vision des choses**.
+Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à notre vision des choses**. (Maj 2020)
 
 - Depuis peu, les douaniers étasuniens ont remis au goût du jour un vieux texte de loi indiquant que les véhicules immatriculés à l'étranger ne pouvaient rester plus de 12 mois sur leur sol à partir de la date de leur première entrée sous peine d'interdiction de sortie du territoire et destruction dudit véhicule ou procédure d'homologation, dont le prix peut-être prohibitif. Ces 12 mois sont pour nous rédhibitoires puisque nous espérons pouvoir laisser notre HomeZeRoad au moins 24 mois en comptant nos incursions au Canada et au Mexique et nos retours en métropole tous les 6 mois, puisque nous avons obtenu notre visa B2 (Cf, "Visa USA").
 
@@ -158,13 +158,17 @@ Quelles sont les motivations de ce choix ?, **qui reste personnel et adapté à 
 
 - Nous n'aurons aucun problème pour trouver des pièces de rechange et garagistes pour l'entretenir, sur l'ensemble du continent américain. En effet, il est fréquent que les voyageurs circulant avec des CC européens aient du mal à trouver ne serait ce que des pneumatiques de la bonne taille et se voient souvent refuser l'aide des garagistes nord-américains devant ces moteurs européens plus sophistiqués, souvent bourrés d'électronique pour les récents et de peur d'un procès s'ils devaient faire une erreur. Au pire nous le revendrons avant de nous aventurer plus au Sud si nous nous rendons compte qu'il est peu adapté.
 
-- Même si nous avons tous en tête ces énormes Class A sur base de bus, on trouve également des RVs de taille "normale" (24 pieds, 7 m 30), guère plus larges que les européens (+ ou - 20 cm). Bon, il est vrai que les aménagements intérieurs sont souvent un peu dépassés avec une déco carrément kitch, mais ils sont très robustes. Pesant souvent près de 5 tonnes pour un Class C, propulsion arrière à roues jumelées, ils ne nécessitent pas, aux Amériques, d'un permis poids lourd.
+- Même si nous avons tous en tête ces énormes Class A sur base de bus, on trouve également des RVs de taille "normale" (24 pieds, 7 m 30, guère plus larges que les européens (+ ou - 20 cm). Bon, il est vrai que les aménagements intérieurs sont souvent un peu dépassés avec une déco carrément kitch, mais ils sont très robustes. Pesant souvent plus de 5 tonnes pour un Class C, propulsion arrière à roues jumelées, ils ne nécessitent pas, aux Amériques, d'un permis poids lourd. Pas de surpoids car ee poids total roulant autorisé (PTRA) avoisine les 10 tonnes.
 
-- Acheter sur place permet d'économiser la traversée maritime pour acheminer le camping-car européen aux Amériques, soit environ 6000 € selon le port de destination.
+- Acheter sur place permet d'économiser la traversée maritime pour acheminer le camping-car européen aux Amériques, soit environ 6000 € selon le port de destination. La revente des véhicule étasuniens à l'étranger est très facile, tout ce fait à distance. Pas de problème de contrôle technique ou de documents qui ne sont pas à votre nom, seulement un polder.
 
 - Au niveau équipements de base, les américains aimant leur confort, tous les RV sont équipés d'un générateur qui permet d'alimenter un four micro-onde, un climatiseur un ou plusieurs écrans TV lorsque l'on est en autonomie, un réservoir de propane, une fosse septique et souvent une ou deux extensions qui permettent à l'arrêt d'élargir ou rallonger le RV pour augmenter la surface intérieure.
 
-- Aucun problème au niveau électrique puisque pratiquement tout le continent américain fonctionne au 110v, pas besoin donc d'un transformateur.
+- Aucun problème au niveau électrique puisque pratiquement tout le continent américain fonctionne au 110v, pas besoin donc d'un transformateur. A Denver nous avons fait appel à un spécialiste pour modifier notre système d'alimentation de nos batteries de service par l'alternateur et depuis nous n'avons plus jamais allumé le générateur pour recharger nos 2 batteries.
+
+- Il sont assez haut sur pattes, nous n'avons jamais touché en dessous même sur des pistes, très rustique et robuste car pratiquement pas de pièce en plastique.
+
+- S'il est vrai que ce n'est pas un bolide, ne comptez pas battre des records de vitesse avec, en montagne c'est un vrai régal, la puissance et le couple du moteur font que vous n'éprouvez aucune crainte ni difficulté à grimper à plus 4000 mètres. Nous verrons en Amérique du Sud mais pour l'instant aucun problème, aucune perte de puissance. Il y a même un dispositif (Tow/Haul) pour booster le moteur. Cela sert souvent aux américains qui tirent une grosse remorque avec leur voiture, mais aussi cela peu servir en montagne, nous ne l'avons jamais utilisé.
 
 - Enfin nous compenserons la consommation excessive de ces engins par un rythme plus lent nous permettant d'étaler et lisser le poste "Carburant" de notre budget dans le temps.
 
