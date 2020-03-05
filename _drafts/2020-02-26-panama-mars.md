@@ -29,6 +29,28 @@ La route jusqu’à Almirante notre destination du jour est assez abîmée, pas 
 Après déjeuner nous décidons de lever le camp direction Panama. Le passage de frontière est un peu long, 2 heures mais rien de compliqué. Quelques kilomètres après la Frontière nous sommes contrôlés par les douanes et les services sanitaire, heureusement nous avons le frigo vide…
 La route jusqu’à Almirante notre destination du jour est assez abîmée, pas de doute nous avons quitté le Costa Rica. Arrivé en ville nous faisons quelques courses et trouvons un lieu pour dormir au niveau du Ferry.
 
+## 24 février
+
+## 25 février
+
+## 26 février
+
+## 27 février
+
+## 28 février
+
+## 29 février
+
+## 01 mars
+
+## 02 mars
+
+## 03 mars
+
+## 04 mars
+
+## 05 au 07 mars
+
 **Nous avons vraiment adoré :**
 
 **Nous avons moins aimé :**
