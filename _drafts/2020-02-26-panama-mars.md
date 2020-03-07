@@ -128,6 +128,8 @@ Dans certaines églises on peut contempler d'immenses crèches qui raconte l'his
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49625159681/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49625159681_8aa59433c1_k.jpg" width="2048" height="621" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49625159681/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49625159681_8aa59433c1_k.jpg" width="2048" height="621" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49624962211/in/datetaken/" title="Panama city - [Panama]"><img src="https://live.staticflickr.com/65535/49624962211_a5e9555160_k.jpg" width="2048" height="1152" alt="Panama city - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49624446768/in/datetaken/" title="Panama city - [Panama]"><img src="https://live.staticflickr.com/65535/49624446768_ab64c65d59_k.jpg" width="2048" height="1152" alt="Panama city - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
