@@ -146,12 +146,37 @@ La promenade autour de la Plaza de Francia permet d'avoir une très belle vue su
 
 Ce matin nous partons visiter la partie moderne de Panama. Nous prenons un Uber pour nous éloigner un peu du centre moderne afin d’avoir une vue sur la skyline qui est vraiment belle, dommage que le temps soit un peu brumeux.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49627863993/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49627863993_f2592b74be_k.jpg" width="2048" height="620" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49628656597/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49628656597_8461e7fa9c_k.jpg" width="2048" height="1152" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49628382751/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49628382751_8eadee79a9_k.jpg" width="2048" height="1152" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Pour revenir en centre ville nous prenons le bus de ville mais il faut un carte pour y accédé, on discute un peu avec la chauffeuse du car qui nous laisse monter gratuitement, sympa.
 
-Dans le centre un fait un tour au pied des buidings et rentrons à pied à l’hôtel. Le soir nous retournons manger dans un resto très proche de l’hôtel et passons le reste de la soirée à organier le départ et l’arrivée de Thor en Colombie. Hier nous avons reçu un message d’ariane qui nous indique que les colombiens ont mis en place un pré-enregistrement migratoire en raison du Coronavirus. Je mets un peu de temps à trouver le site que je renseigne pour nous deux. je suis surpris car ils demandent si dans les 14 derniers jours nous avons visité certains pays dont la chine, l’Italie, l’Allemagne et une dizaine d’autre. Bizarrement la France n’y figure pas… pourtant si on écoute BFMTV nous sommes le deuxièmme pays d’Europe touchés….
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49628382946/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49628382946_6d835f3c29_k.jpg" width="2048" height="1152" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Dans le centre un fait un tour au pied des buidings et rentrons à pied à l’hôtel.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49628522366/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49628522366_d457ebae3e_k.jpg" width="2048" height="1152" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49628655512/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49628655512_1e261aad87_k.jpg" width="2048" height="1152" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49628655502/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49628655502_2d88501e34_k.jpg" width="2048" height="1152" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Le soir nous retournons manger dans un resto très proche de l’hôtel et passons le reste de la soirée à organiser le départ et l’arrivée de Thor en Colombie. Hier nous avons reçu un message d’ariane qui nous indique que les colombiens ont mis en place un pré-enregistrement migratoire en raison du Coronavirus. Je mets un peu de temps à trouver le site que je renseigne pour nous deux. je suis surpris car ils demandent si dans les 14 derniers jours nous avons visité certains pays dont la chine, l’Italie, l’Allemagne et une dizaine d’autre. Bizarrement la France n’y figure pas… pourtant si on écoute BFMTV nous sommes le deuxième pays d’Europe touchés….
 
 **Nous avons vraiment adoré :**
 
+- La Côte Caraïbe au niveau de Bocas Del Toro (en dehors de son réseau routier) ;
+- Le Canal de Panama ;
+- La ville de Panama City.
+
 **Nous avons moins aimé :**
+
+- Les prix en général ;
+- L'escroquerie de la traversée entre Colón et Cartagena (Colombie) ;
+- Plus sale et moins bien entretenue que le Costa Rica ;
+- Les habitants pas toujours sympathiques.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
