@@ -3,14 +3,14 @@ layout: blog
 title: "Panama"
 preview: "Cet article couvre la période du 23 février au 07 mars 2020, au cours de laquelle nous avons visité le Panama et avons passé le bouchon de Darien pour"
 parent-id:
-date: 2020-02-26 13:00:00
+date: 2020-03-07 13:00:00
 from-date: 2020-02-23 12:00:00
-to-date: 2020-02-26 13:00:00
+to-date: 2020-03-07 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt31.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt32.jpg
 tags: [mer-ocean, faune, foret, volcan]
-pois: [finca#24-janvier]
+pois: [almirante#23-février, bocas#24-février, boquete#25-et-26-février, canaldepanama#O1-mars, miraflores#O1-mars, panamacity#O1-mars, cimetièrefrançais#O3-mars, aguaclara#O3-mars, colon#O4-mars]
 country: Panama
 states: [""]
 category: "roadmap"
@@ -30,7 +30,7 @@ La route jusqu’à **Almirante** notre destination du jour est assez abîmée, 
 
 ## 24 février
 
-Finalement la nuit a été assez calme et fraîche. Le trafic à commencé de bonne heure des marins sont même venus taper à la porte de Thor pour nous demander si nous comptions prendre le ferry avec Thor, juste avant son départ. Nous partons dans le centre ville à la recherche d’un parking sûr pour la journée et la nuit prochaine. Nous ne voulons pas laisser Thor seul sur le port. L’activité de Taxi boat qui desservent toutes les iles est un business qui rapporte, du coup ils embauchent des jeunes qui se chargent de vous trouver un parking. Au bout de 4 éme endroit qu’il nous propose nous acceptons. Il y a des bus de garer et c’est sécurisé, on nous demande 5\$ pour 24 heures. Nous prenons ensuite une lancha qui nous conduit à la plus grosses isle de cet archipel, Isla Colon et plus précisément à **Bocas del Toro**. Nous y arrivons après 30mn de mer. Nous passons la matinée en déambuler dans cette ville balnéaire très touristique. Après déjeuner, nous prenons un colectivo pour nous rendre à "Plasticbottle Village". Il s’agit d’un genre de musée construit par un canadien, un peu original, qui a construit des bâtiments avec des bouteilles en plastique vide. Il espère ainsi généraliser ce genre de construction très écologique et parfaitement isolée pour ce genre de climat. Il indique une différence de 17° entre l’extérieur et l’intérieur de ce type d’habitation. C’est sa fille, québecoise, qui nous fait la visite guidée en français. C’est très instructif. De retour au centre nous passons un bon moment en terrasse d’un établissement au bord de l’eau et reprenons une navette pour rentrer sur Almirante. Très belle journée.
+Finalement la nuit a été assez calme et fraîche. Le trafic à commencé de bonne heure des marins sont même venus taper à la porte de Thor pour nous demander si nous comptions prendre le ferry avec Thor, juste avant son départ. Nous partons dans le centre ville à la recherche d’un parking sûr pour la journée et la nuit prochaine. Nous ne voulons pas laisser Thor seul sur le port. L’activité de Taxi boat qui desservent toutes les îles est un business qui rapporte, du coup ils embauchent des jeunes qui se chargent de vous trouver un parking. Au bout de 4 éme endroit qu’il nous propose nous acceptons. Il y a des bus de garer et c’est sécurisé, on nous demande 5\$ pour 24 heures. Nous prenons ensuite une lancha qui nous conduit à la plus grosses isle de l'archipel **Bocas del Toro**, Isla Colon. Nous y arrivons après 30mn de mer. Nous passons la matinée en déambuler dans cette ville balnéaire très touristique. Après déjeuner, nous prenons un colectivo pour nous rendre à "Plasticbottle Village". Il s’agit d’un genre de musée construit par un canadien, un peu original, qui a construit des bâtiments avec des bouteilles en plastique vide. Il espère ainsi généraliser ce genre de construction très écologique et parfaitement isolée pour ce genre de climat. Il indique une différence de 17° entre l’extérieur et l’intérieur de ce type d’habitation. C’est sa fille, québecoise, qui nous fait la visite guidée en français. C’est très instructif. De retour au centre nous passons un bon moment en terrasse d’un établissement au bord de l’eau et reprenons une navette pour rentrer sur Almirante. Très belle journée.
 
 ## 25 et 26 février
 
@@ -54,7 +54,7 @@ Ce matin nous quittons notre camping évangélique sous des champs de messe, com
 
 ## 01 mars
 
-Nous passons la matinée au camping et profitons du Wifi pour contacter la famille. Nous partons en début d’après-midi pour le **canal de Panama** et les **écluses de Miraflores**. Nous traversons le Canal en passons le pont à haubans "Centenario" et passons au-dessus d’immenses bateaux qui font la queue pour passer les écluses afin d'arriver dans l’océan Pacifique. Le site est très bien aménagé, un petit musée sur 4 étages permet d’accéder à une grande terrasse qui donne sur les écluses, on peut assister à l’arriver des bateaux dans les deux écluses et les voir descendre à deux reprise pour arriver au niveau de l’océan. Au dessus se trouve un autre canal, plus moderne et plus grand où nous voyons passer un super porte conteneurs. Nous finissons la visite per le visionnage d’une film sur l’histoire du canal dans une salle Imax. Superbe.
+Nous passons la matinée au camping et profitons du Wifi pour contacter la famille. Nous partons en début d’après-midi pour le **Canal de Panama** et les **écluses de Miraflores**. Nous traversons le Canal en passons le pont à haubans "Centenario" et passons au-dessus d’immenses bateaux qui font la queue pour passer les écluses afin d'arriver dans l’océan Pacifique. Le site est très bien aménagé, un petit musée sur 4 étages permet d’accéder à une grande terrasse qui donne sur les écluses, on peut assister à l’arriver des bateaux dans les deux écluses et les voir descendre à deux reprise pour arriver au niveau de l’océan. Au dessus se trouve un autre canal, plus moderne et plus grand où nous voyons passer un super porte conteneurs. Nous finissons la visite per le visionnage d’une film sur l’histoire du canal dans une salle Imax. Superbe.
 
 Demain matin nous devons nous rendre aux douanes (DIJ) à **Panama City** et nous décidons d’y passer devant pour repérer les lieux. Les bureaux se trouvent dans un quartier très très populaire, on ne va pas chercher un bivouac dans le coin. Nous retournons au bord du canal et trouvons un bivouac qui sera parfait pour la nuit.
 
