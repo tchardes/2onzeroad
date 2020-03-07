@@ -519,20 +519,21 @@
   { "name": "manzanillo", "displayName": "Manzanillo", "type": "ville", "country": "Costa Rica" },
   { "name": "gandocamanzanillo", "displayName": "Gandoca - Manzanillo - Refuge National", "type": "nature", "country": "Costa Rica" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
-  { "name": "", "displayName": "", "type": "", "country": "Panama" },
+  { "name": "almirante", "displayName": "Almirante", "type": "ville", "country": "Panama" },
+  { "name": "bocas", "displayName": "Bocas Del Toro", "type": "ville", "country": "Panama" },
+  { "name": "boquete", "displayName": "Boquete", "type": "ville", "country": "Panama" },
+  { "name": "canaldepanama", "displayName": "Canal de Panama", "type": "autre", "country": "Panama" },
+  { "name": "miraflores", "displayName": "Miraflores - Ecluses", "type": "autre", "country": "Panama" },
+  { "name": "panamacity", "displayName": "Panama City", "type": "ville", "country": "Panama" },
+  { "name": "cimetièrefrançais", "displayName": "Cimetière français", "type": "autre", "country": "Panama" },
+  { "name": "aguaclara", "displayName": "Agua Clara - Ecluses", "type": "autre", "country": "Panama" },
+  { "name": "colon", "displayName": "Colón", "type": "ville", "country": "Panama" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Panama" }
+  { "name": "", "displayName": "", "type": "", "country": "Colombie" },
+  { "name": "", "displayName": "", "type": "", "country": "Colombie" },
+  { "name": "", "displayName": "", "type": "", "country": "Colombie" },
+  { "name": "", "displayName": "", "type": "", "country": "Colombie" },
+  { "name": "", "displayName": "", "type": "", "country": "Colombie" },
+
+  { "name": "", "displayName": "", "type": "", "country": "Colombie" }
 ]
