@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "8.992161, -79.527923"
-  name: "Panama City - Panama"
-  date: "04 au 07 mars 2020"
+  coordinates: "10.397525, -75.489975"
+  name: "Carthagène - Colombie"
+  date: "08 mars 2020"
 
 # set the encoding to utf-8
 encoding: utf-8
