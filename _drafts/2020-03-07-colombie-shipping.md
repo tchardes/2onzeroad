@@ -100,9 +100,9 @@ Avant votre départ de Panama City, faire 4 photocopies du document remis par la
 
 Nous avons suivi les directives de notre intermédiaire à savoir :
 
-- Réservoir d'essence plein à 25%.
-- Pas besoin de laver le véhicule (extérieur et dessous). Nous l'avons quand même lavé pour qu'il soit propre.
-- Aucune contrainte sur le gaz si ce n'est fermer le réservoir, du coup nous avons fait le plein de gaz.
+- Réservoir d'essence plein à 25% ;
+- Pas besoin de laver le véhicule (extérieur et dessous). Nous l'avons quand même lavé pour qu'il soit propre ;
+- Aucune contrainte sur le gaz si ce n'est fermer le réservoir, du coup nous avons fait le plein de gaz ;
 - Aucune contrainte concernant la nourriture. Toutefois nous avons vidé et éteint le frigo et le congélateur.
 
 La veille nous sommes allez visiter les écluses de Agua Clara et nous avons bivouaquez à 10 minutes du port sur le parking d'un commissariat (9.3279829, -79.8931830). L'entrée du port se fait aux coordonnées (9.363703, -79.878723) **_Repère 1_**.
@@ -117,11 +117,11 @@ Les bureaux de Seabord ouvrent à 08hOO, et se trouve tout au bout du port aux c
 
 Se rendre aux bureaux des douanes qui se trouve un peu loin aux coordonnées (9.346632, -79.879197). Pour se faire prendre un taxi ou y aller avec votre véhicule et vous garer aux coordonnées (9.345995, -79.878279). Vous devez remettre à l'agent des douanes 3 dossiers composés des photocopies suivantes :
 
-- Carte grise
-- Titre d'importation temporaire
-- Passeport, page avec la photo
-- Document de la DIJ
-- Bill of Landing
+- Carte grise ;
+- Titre d'importation temporaire ;
+- Passeport, page avec la photo ;
+- Document de la DIJ ;
+- Bill of Landing.
 
 L'agent imprime un titre d'importation temporaire, comme lors de votre entrée au Panama, mais avec le paragraphe 5 renseigné, c'est à dire la permission de sortie du véhicule. Elle vous rend 2 dossiers complets avec ce document en plus. Lui donner ensuite votre passeport afin qu'elle y appose deux tampons vous autorisant à quitter le territoire sans votre véhicule.
 
@@ -131,19 +131,20 @@ L'agent imprime un titre d'importation temporaire, comme lors de votre entrée a
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ8.jpg" style="width:100%" />
 
-Retour vers le port pour s'occuper de l'entrée officielle du véhicule dans la partie réservée du port. Se rendre à l'entrée piéton "Garita RORO" qui se trouve aux coordonnées (9.367637, -79.878948) **_Repère 4_**. Si vous êtes en véhicule vous pouvez vous garer en face. A l'entrée contrôle d'identité et délivrance d'un badge. Il faut commencer par payer la taxe du port, 79$ + 1$ pour les photocopies. Elle tamponne le Bill of Landing et y agrafe la facture. Ensuite allez au guichet qui suit, remise d'un dossier complet avec la preuve du paiement et après vérification remise d'une document qui permet de rentrer le véhicule au terminal du port. On peut ressortir.
+Retour vers le port pour s'occuper de l'entrée officielle du véhicule dans la partie réservée du port. Se rendre à l'entrée piéton "Garita RORO" qui se trouve aux coordonnées (9.367637, -79.878948) **_Repère 4_**. Il est indiqué RORO mais en fait quelque soit votre mode de transport, tout ce passe là. Si vous êtes en véhicule vous pouvez vous garer en face. A l'entrée contrôle d'identité et délivrance d'un badge. Il faut commencer par payer la taxe du port, 79$ + 1$ pour les photocopies. Elle tamponne le Bill of Landing et y agrafe la facture. Ensuite allez au guichet qui suit, remise d'un dossier complet avec la preuve du paiement et après vérification remise d'une document qui permet de rentrer le véhicule au terminal du port. On peut ressortir.
 
 ### Dépose du véhicule
 
-On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au port. Comme la route est à sens unique il faut refaire un tour complet. L'entrée se fait aux coordonnées (9.368157, -79.879294) **_Repère 5_**, il faut passer sous un hangar de fumigation. On passe ensuite un poste de contrôle puis on se dirige sur le parkinG qui se trouve sur la droite. Un agent des douanes vous fait garer sous un petit hangar **_Repère 6_**. On sort nos bagages, on ouvre tous les coffres et le chien stup passe un peu partout. Après un dernier contrôle visuel, un agent du port prend des photos du véhicule, vérifie le numéro de châssis avec les documents et prend en compte le véhicule.
+On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au port. Comme la route est à sens unique il faut refaire un tour complet. L'entrée se fait aux coordonnées (9.368157, -79.879294) **_Repère 5_**, il faut passer sous un hangar de fumigation. On passe ensuite un poste de contrôle puis on se dirige sur le parkinG qui se trouve sur la droite. Un agent des douanes vous fait garer sous un petit hangar **_Repère 6_**. On sort nos bagages, on ouvre tous les coffres et le chien stup passe un peu partout. Après un dernier contrôle visuel, un agent du port prend des photos du véhicule, vérifie le numéro de châssis avec les documents et prend en compte le véhicule. Après un dernier tampon comme quoi le véhicule est accepté, on ressort à pied avec les gagages par la "Garita RORO".
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ9.jpg" style="width:100%" />
 
 **Résumé** :
 
-- L'intermédiaire ou directement la compagnie que vous avez choisi vous donnera la fourchette de temps où vous pousez déposer votre véhicule.
+- L'intermédiaire ou directement la compagnie que vous avez choisi vous donnera la fourchette de temps où vous pousez déposer votre véhicule ;
 - Photocopie : carte grise X4, titre d'importation temporaire X4, passeport (page avec votre photo) X4, document de la DIJ X4 ;
 - La somme de 80 US\$ en numéraire.
+- La procédure complète prend entre 3 et 4 heures
 
 ### Retour sur Panama City
 
