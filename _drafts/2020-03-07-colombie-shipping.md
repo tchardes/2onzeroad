@@ -20,7 +20,7 @@ location: "9.360922, -79.888177"
 
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives à entreprendre pour faire passer son camping-car par voie maritime du Panama à la Colombie.
 
-Il n'existe aucune route qui permet de passer du Panama à la Colombie par le bouchon de Darién, c'est l'unique chaînon manquant de la route panaméricaine. Le véhicule doit donc prendre le bateau et seulement quelques compagnies maritimes se partagent le gâteau et ils en profitent largement, cela frise l'escroquerie, mais c'est le seul moyen pour passer en Amérique du Sud. Plus aucun ferry n'assure cette liaison, depuis longtemps. Selon le type de votre véhicule plusieurs options s'offrent à vous, par conteneur que vous pouvez partager, comme son prix, par RORO ou par Flat Rack. Nous avons opté pour ce dernier système, Thor ne rentrant pas dans un conteneur et le Flat Rack étant plus rapide. Le prix entre RORO et Flat Rack est sensiblement le même.
+Il n'existe aucune route qui permet de passer du Panama à la Colombie par le bouchon du Darién, c'est l'unique chaînon manquant de la route panaméricaine. Le véhicule doit donc prendre le bateau et seulement quelques compagnies maritimes se partagent le gâteau et ils en profitent largement, cela frise l'escroquerie, mais c'est le seul moyen pour passer en Amérique du Sud. Plus aucun ferry n'assure cette liaison, depuis longtemps. Selon le type de votre véhicule plusieurs options s'offrent à vous, par conteneur que vous pouvez partager, comme son prix, par RORO ou par Flat Rack. Nous avons opté pour ce dernier système, Thor ne rentrant pas dans un conteneur et le Flat Rack étant plus rapide. Le prix entre RORO et Flat Rack est sensiblement le même.
 
 <div id="toc"></div>
 
@@ -140,19 +140,19 @@ Retour vers le port pour s'occuper de l'entrée officielle du véhicule dans le 
 
 ### Dépose du véhicule
 
-On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au port. Comme la route est à sens unique il faut refaire un tour complet. L'entrée se fait aux coordonnées **(9.368157, -79.879294)** **_Repère 5_**, il faut passer sous un hangar de fumigation. On passe ensuite un poste de contrôle puis on se dirige sur le parking qui se trouve sur la gauche. Un agent des douanes vous fait garer sous un petit hangar **_Repère 6_**. On sort nos bagages, on ouvre tous les coffres et le chien stup passe un peu partout. Après un dernier contrôle visuel, un agent du port prend des photos du véhicule, vérifie le numéro de châssis avec les documents et prend en compte le véhicule. Après un dernier tampon comme quoi le véhicule est accepté, on ressort à pied avec les gagages par la "Garita RORO".
+On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au port. Comme la route est à sens unique il faut refaire un tour complet. L'entrée se fait aux coordonnées **(9.368157, -79.879294)** **_Repère 5_**, il faut passer sous un hangar de fumigation. On passe ensuite un poste de contrôle puis on se dirige sur le parking qui se trouve sur la gauche. Un agent des douanes vous fait garer sous un petit hangar **_Repère 6_**. On sort nos bagages, on ouvre tous les coffres et le chien stup passe un peu partout. Après un dernier contrôle visuel, un agent du port prend des photos du véhicule, vérifie le numéro de châssis avec les documents et prend en compte le véhicule. On n'assiste pas à la mise en place sur le Flat Rack. Après un dernier tampon comme quoi le véhicule est accepté et pris en compte, on ressort à pied avec les bagages par la "Garita RORO".
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ9.jpg" style="width:100%" />
 
 ### Résumé :
 
-- L'intermédiaire ou directement la compagnie que vous avez choisi vous donnera la fourchette de temps où vous pousez déposer votre véhicule ;
+- L'intermédiaire ou directement la compagnie que vous avez choisi vous donnera la fourchette de temps où vous pouvez déposer votre véhicule ;
 - Photocopie : carte grise X4, titre d'importation temporaire X4, passeport (page avec votre photo) X4, document de la DIJ X4 ;
-- La somme de 80 US\$ en numéraire.
-- La procédure complète prend entre 3 et 4 heures
+- La somme de 80 US\$ en numéraire ;
+- La procédure complète prend entre 3 et 4 heures.
 
 ### Retour sur Panama City
 
-A la sortie se trouve de nombreux taxis. Nous en avons pris un pour nous conduire au terminal des bus de Colón et avons pris un express pour Panama City. Le trajet en bus prend environ 1h30 et coûte 3,5 US\$ par personne.
+A la sortie se trouve de nombreux taxis. Nous en avons pris un pour nous conduire au terminal des bus de Colón et avons pris un bus express pour Panama City. Le trajet prend environ 1h30 et coûte 3,5 US\$ par personne.
 
 ## Récupération au port de Carthagène

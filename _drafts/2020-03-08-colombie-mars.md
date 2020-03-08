@@ -12,7 +12,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
 tags: [mer-ocean, transport, technologie, histoire]
 pois: [colon#O4-mars]
 country: Colombie
-states: ["Bocas Del Toro", "Chiriqui", "Veraguas", "Coclé", "Panama", "Colón"]
+states: ["Bolivar"]
 category: "roadmap"
 flickr-text: ""
 location: "5.717436, -74.142638"
