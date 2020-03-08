@@ -13,7 +13,7 @@ pois: [passageptoc]
 flickr-text: ""
 country: Colombie
 states: [Colon]
-city: Colon
+city: Cartagena
 category: "information"
 location: "9.360922, -79.888177"
 ---
