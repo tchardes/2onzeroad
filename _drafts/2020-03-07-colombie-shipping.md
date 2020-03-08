@@ -78,6 +78,7 @@ Il n'y a pas de place pour se garer devant le bâtiment, le plus simple est de s
 
 **Résumé** :
 
+- Maximum 8 jours avant la date de dépose du véhicule au port ;
 - Y être de bonne heure pour être sur d'avoir une place et ne pas devoir y retourner le lendemain ;
 - Photocopie : carte grise X2, titre d'importation temporaire X2, passeport (page avec votre photo) X2 ;
 - La procédure est gratuite.
