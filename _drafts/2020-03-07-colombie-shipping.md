@@ -93,7 +93,7 @@ Avant votre départ de Panama City, faire 4 photocopies du document remis par la
 - Maximum 8 jours avant la date de dépose du véhicule au port ;
 - Y être de bonne heure pour être sur d'avoir une place et ne pas devoir y retourner le lendemain ;
 - Photocopie : carte grise X2, titre d'importation temporaire X2, passeport (page avec votre photo) X2 ;
-- Faire 4 photocopies du document remis par la DIJ ;
+- Faire 4 photocopies du document remis par la DIJ. Plus pratique à Panama qu'à Colón ;
 - La procédure est gratuite.
 
 ## Dépose au port de Manzanillo à Colón
@@ -114,7 +114,7 @@ L'entrée du port se fait aux coordonnées **(9.363703, -79.878723)** **_Repère
 
 ### Seabord Marine
 
-Les bureaux de Seabord ouvrent à 08h00, et se trouve tout au bout du port aux coordonnées **(9.366114, -79.881131)** **_Repère 3_**, un parking se trouve juste après le bâtiment sur votre gauche **_Repère 2_**. Au comptoir, on va vous remettre votre Bill of landing (facture) en 4 exemplaires. Il s'agit de la preuve que votre véhicule est bien pris en compte par une compagnie maritime. La aussi bien vérifier les informations.
+Les bureaux de Seabord ouvrent à 08h00, et se trouvent tout au bout du port aux coordonnées **(9.366114, -79.881131)** **_Repère 3_**, un parking se trouve juste après le bâtiment sur votre gauche **_Repère 2_**. Au comptoir, on va vous remettre votre "Bill of landing" (facture) en 4 exemplaires. Il s'agit de la preuve que votre véhicule est bien pris en compte par une compagnie maritime. La aussi bien vérifier les informations.
 
 ### Douanes
 
@@ -136,11 +136,11 @@ L'agent imprime un titre d'importation temporaire, comme lors de votre entrée a
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ8.jpg" style="width:100%" />
 
-Retour vers le port pour s'occuper de l'entrée officielle du véhicule dans la partie réservée du port. Se rendre à l'entrée piéton "Garita RORO" qui se trouve aux coordonnées **(9.367637, -79.878948)** **_Repère 4_**. Il est indiqué RORO mais en fait quelque soit votre mode de transport, tout ce passe là. Si vous êtes en véhicule vous pouvez vous garer en face. A l'entrée contrôle d'identité et délivrance d'un badge. Il faut commencer par payer la taxe du port, 79$ + 1$ pour les photocopies. Elle tamponne le Bill of Landing et y agrafe la facture. Ensuite allez au guichet qui suit, remise d'un dossier complet avec la preuve du paiement et après vérification remise d'une document qui permet de rentrer le véhicule au terminal du port. On peut ressortir.
+Retour vers le port pour s'occuper de l'entrée officielle du véhicule dans le terminal du port. Se rendre à l'entrée piéton "Garita RORO" qui se trouve aux coordonnées **(9.367637, -79.878948)** **_Repère 4_**. Il est indiqué RORO mais en fait quelque soit votre mode de transport, tout ce passe là. Si vous êtes en véhicule vous pouvez vous garer en face. A l'entrée contrôle d'identité et délivrance d'un badge. Il faut commencer par payer la taxe du port, 79$ + 1$ pour les photocopies. Elle tamponne le Bill of Landing et y agrafe la facture. Ensuite allez au guichet qui suit, remise d'un dossier complet avec la preuve du paiement et après vérification remise d'une document qui permet de rentrer le véhicule au terminal du port. On peut ressortir.
 
 ### Dépose du véhicule
 
-On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au port. Comme la route est à sens unique il faut refaire un tour complet. L'entrée se fait aux coordonnées **(9.368157, -79.879294)** **_Repère 5_**, il faut passer sous un hangar de fumigation. On passe ensuite un poste de contrôle puis on se dirige sur le parkinG qui se trouve sur la droite. Un agent des douanes vous fait garer sous un petit hangar **_Repère 6_**. On sort nos bagages, on ouvre tous les coffres et le chien stup passe un peu partout. Après un dernier contrôle visuel, un agent du port prend des photos du véhicule, vérifie le numéro de châssis avec les documents et prend en compte le véhicule. Après un dernier tampon comme quoi le véhicule est accepté, on ressort à pied avec les gagages par la "Garita RORO".
+On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au port. Comme la route est à sens unique il faut refaire un tour complet. L'entrée se fait aux coordonnées **(9.368157, -79.879294)** **_Repère 5_**, il faut passer sous un hangar de fumigation. On passe ensuite un poste de contrôle puis on se dirige sur le parking qui se trouve sur la gauche. Un agent des douanes vous fait garer sous un petit hangar **_Repère 6_**. On sort nos bagages, on ouvre tous les coffres et le chien stup passe un peu partout. Après un dernier contrôle visuel, un agent du port prend des photos du véhicule, vérifie le numéro de châssis avec les documents et prend en compte le véhicule. Après un dernier tampon comme quoi le véhicule est accepté, on ressort à pied avec les gagages par la "Garita RORO".
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ9.jpg" style="width:100%" />
 
