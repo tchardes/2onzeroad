@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Panama"
-preview: "Cet article couvre la période du 23 février au 07 mars 2020, au cours de laquelle nous avons visité le Panama et avons passé le bouchon de Darien pour"
+preview: "Cet article couvre la période du 23 février au 07 mars 2020, au cours de laquelle nous avons visité le Panama et avons passé le bouchon de Darien pour l'Amérique du Sud"
 parent-id:
 date: 2020-03-07 13:00:00
 from-date: 2020-02-23 12:00:00
@@ -114,7 +114,7 @@ Afin que Thor soit présentable demain pour embarquer, nous nous arrêtons dans 
 
 Ce matin à 8h00 je suis devant le bureau de Seabord Marine dans le port de Manzanillo à **Colón**, on commence les démarches pour laisser Thor qui va être monté sur un flat rack et partir en direction de la Colombie. Je suis rejoint peu après par Hervé et un couple de belges que j’ai rencontré aussi à la DIJ de Panama. Nous faisons toutes les démarches ensemble. C'est terminé à 11h30, nous prenons un taxi direction la gare routière de Colón puis un bus pour rejoindre Panama City. Nous arrivons à notre hôtel vers 14h00, nous faisons un tour rapide des alentours, je vais dans une banque faire un virement à notre commanditaire pour le port puis nous retournons à l’hôtel nous reposer. Nous passons la soirée dans un restaurant sympa.
 
-## 05 au 07 mars
+## 05 et 06 mars
 
 Après un bon petit déjeuner à l'hôtel, nous prenons un taxi qui nous conduit dans le vieux Panama. Nous y passons la journée à déambuler dans les vieux quartiers, certainement la plus belle capitale d’Amérique Centrale.
 
@@ -164,7 +164,11 @@ Dans le centre, on fait un tour au pied des buidings et rentrons lentement à l�
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49628655502/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49628655502_2d88501e34_k.jpg" width="2048" height="1152" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le soir, nous retournons manger dans un resto très proche de l’hôtel et passons le reste de la soirée à organiser le départ et l’arrivée de Thor en Colombie. Hier nous avons reçu un message d’ariane qui nous indique que les colombiens ont mis en place un pré-enregistrement migratoire en raison du Coronavirus. Je mets un peu de temps à trouver le site que je renseigne pour nous deux. Je suis surpris car ils demandent si dans les 14 derniers jours nous avons visité certains pays dont la chine, l’Italie, l’Allemagne et une dizaine d’autre. Bizarrement, la France n’y figure pas… pourtant si on écoute BFMTV nous sommes le deuxième pays d’Europe touchés….
+Le soir, nous retournons manger dans un resto très proche de l’hôtel et passons le reste de la soirée à organiser le départ et l’arrivée de Thor en Colombie. Hier nous avons reçu un message d’ariane qui nous indique que les colombiens ont mis en place un pré-enregistrement migratoire en raison du Coronavirus. Je mets un peu de temps à trouver le site que je renseigne pour nous deux. Je suis surpris car ils demandent si dans les 14 derniers jours nous avons visité certains pays dont la chine, l’Italie, l’Allemagne et une dizaine d’autre. Bizarrement, la France n’y figure pas… pourtant si on écoute BFMTV nous sommes le deuxième pays d’Europe touchés…
+
+## 07 mars
+
+Ce matin on fait le check out de l’hôtel et prenons un Uber pour nous conduire à l’aéroport, c’est trois fois moins cher qu’un taxi et les véhicule sont toujours récents est impeccables, ce qui n’est pas le cas des taxis. A l’aéroport l’enregistrement à la Copan Airlines est assez rapide ainsi que le passage de la sécurité. Comme nous avons deux heures à passer avant l'embarquement nous prenons un café est une viennoiserie, certainement les plus chères que nous ayant payé, 18$. Autant dire que nous l’avons dégusté… Nous partons à l'heure prévue pour un vol de moins d'une heure. Nous quittons ainsi le Panama et l'Amérique Central que nous avons parcourue durant 4 mois avec un immense plaisir.
 
 **Nous avons vraiment adoré :**
 
