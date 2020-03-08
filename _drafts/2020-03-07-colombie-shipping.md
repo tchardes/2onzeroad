@@ -31,7 +31,7 @@ Vous avez le choix entre, vous débrouiller vous-même et démarcher les différ
 - Boris G. Jaramillo de ever Logisticc Inc - mail : sales3@everlogistics.net ou boris_jaramillo@hotmail.com
 - Tea Kalmbach - mail : teakalmbach@hotmail.com ou WhatsApp +54 92267520418
 
-Comme Tea a été la seule à nous répondre, nous avons fait affaire avec elle et avec la compagnie maritime "SeaBord marine", tout s'est bien déroulé.
+Comme Tea a été la seule à nous répondre, nous avons fait affaire avec elle et avec la compagnie maritime "SeaBord Marine", tout s'est bien déroulé.
 
 ### Paiement de la compagnie Maritime
 
@@ -88,7 +88,7 @@ Il n'y a pas beaucoup de place pour se garer devant le bâtiment, le plus simple
 
 Avant votre départ de Panama City, faire 4 photocopies du document remis par la DIJ pour la suite de la procédure.
 
-**Résumé** :
+### Résumé :
 
 - Maximum 8 jours avant la date de dépose du véhicule au port ;
 - Y être de bonne heure pour être sur d'avoir une place et ne pas devoir y retourner le lendemain ;
@@ -144,7 +144,7 @@ On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au 
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ9.jpg" style="width:100%" />
 
-**Résumé** :
+### Résumé :
 
 - L'intermédiaire ou directement la compagnie que vous avez choisi vous donnera la fourchette de temps où vous pousez déposer votre véhicule ;
 - Photocopie : carte grise X4, titre d'importation temporaire X4, passeport (page avec votre photo) X4, document de la DIJ X4 ;
@@ -153,6 +153,6 @@ On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au 
 
 ### Retour sur Panama City
 
-A la sortie se trouve de nombreux taxis. Nous en avons pris un pour nous conduire au terminal des bus de Colón et avons pris un express pour Panama City. Le trajet en bus prend environ 1h30 et coûte 3,5 \$ par personne.
+A la sortie se trouve de nombreux taxis. Nous en avons pris un pour nous conduire au terminal des bus de Colón et avons pris un express pour Panama City. Le trajet en bus prend environ 1h30 et coûte 3,5 US\$ par personne.
 
 ## Récupération au port de Carthagène
