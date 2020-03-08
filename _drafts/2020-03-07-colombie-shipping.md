@@ -73,7 +73,7 @@ Dès que l'on arrive, le parking et les bureaux se trouvent sur votre droite, **
 
 Il n'y a pas de place pour se garer devant le bâtiment, le plus simple est de se garer à nouveau sous le pont **_Repère 2_** comme pour le matin et y aller à pied. Pour traverser la double voie, vous avez une passerelle sur votre droite **_Repère 3_**.
 
-- Ne pas faire la queue et allez directement voir l'agent qui se trouve dans une petite guérite sur votre droite qui vous donnera un Badge visiteur. Entrée ensuite dans le bâtiment et expliquez à l'accueil la raison de votre venue. Une personne va venir vous faire remplir un document que vous lui rendez avec un autre dossier composé des photocopies suivantes (Carte grise, titre d'importation temporaire, passeport).
+- Ne pas faire la queue et allez directement voir l'agent qui se trouve dans une petite guérite sur votre droite qui vous donnera un Badge visiteur. Entrée ensuite dans le bâtiment et expliquez à l'accueil la raison de votre venue. Une personne va venir vous faire remplir un document que vous lui rendez avec un autre dossier composé des photocopies suivantes (Carte grise, titre d'importation temporaire, passeport) ;
 - La personne revient après un certain temps avec le fameux document, bien vérifier que toutes les informations sont correctes et le faire refaire si il y a une erreur.
 
 **Résumé** :
@@ -82,4 +82,14 @@ Il n'y a pas de place pour se garer devant le bâtiment, le plus simple est de s
 - Photocopie : carte grise X2, titre d'importation temporaire X2, passeport (page avec votre photo) X2 ;
 - La procédure est gratuite.
 
-### Dépose au port de Manzanillo à Colón
+## Dépose au port de Manzanillo à Colón
+
+### Seabord Marine
+
+### Douanes
+
+### RORO La Garita
+
+### Depose du véhicule
+
+## Récupération au port de Carthagène
