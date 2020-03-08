@@ -46,7 +46,7 @@ Deux options :
 
 Comme dans de nombreux pays, il vous est interdit de quitter le pays sans votre véhicule. Il faut donc une autorisation spéciale pour pouvoir quitter le Panama par avion, tandis que le véhicule vogue vers la Colombie.
 
-Pas de rendez-vous, vous devez vous présenter à la D.I.J (Direccion de Investigation Judicial) maximum 8 jours avant la dépose du véhicule au port, le document qu'ils vous remettent étant valable 8 jours. L'inspection du véhicule se fait le matin, il faut y être avant 06h00 et ils ne prennent que 25 véhicules par jour. La code vestimentaire est ni short ni tongs. Attention, le quartier est un peu sensible. Personnellement, nous y sommes arrivés à 05h10 et nous étions les cinquièmes. Nous avions trouvé un bivouac sympa à 10 minutes, très calme, derrière le Radison hôtel (8.941496, -79.556500).
+Pas de rendez-vous, vous devez vous présenter à la D.I.J (Direccion de Investigation Judicial) maximum 8 jours avant la dépose du véhicule au port, le document qu'ils vous remettent étant valable 8 jours. L'inspection du véhicule se fait le matin, il faut y être avant 06h00 et ils ne prennent que 25 véhicules par jour. La code vestimentaire est ni short ni tongs. Attention, le quartier est un peu sensible. Personnellement, nous y sommes arrivés à 05h10 et nous étions les cinquièmes. Nous avions trouvé un bivouac sympa à 10 minutes, très calme, derrière le Radison hôtel **(8.941496, -79.556500)**.
 
 - **Adresse** : Dirección Nacional de Investigación Judicial, División de Vehículos de Hurtados, Avenida Luis Felipe Clement, Panama City
 - **Coordonnées** : 8.966342, -79.544683
@@ -108,17 +108,17 @@ Nous avons suivi les directives de notre intermédiaire à savoir :
 - Aucune contrainte concernant la nourriture. Toutefois nous avons vidé et éteint le frigo et le congélateur ;
 - Pas besoin de cloison entre le poste de conduite et la "maison", la traversée en Flat Rack se fait en une journée, pas d'escale, aucun vol signalé en 7 ans.
 
-La veille nous sommes allez visiter les écluses de Agua Clara et nous avons bivouaquez à 10 minutes du port sur le parking d'un commissariat (9.3279829, -79.8931830). L'entrée du port se fait aux coordonnées (9.363703, -79.878723) **_Repère 1_**.
+La veille nous sommes allez visiter les écluses de Agua Clara et nous avons bivouaquez à 10 minutes du port sur le parking d'un commissariat (9.3279829, -79.8931830). L'entrée du port se fait aux coordonnées **(9.363703, -79.878723)** **_Repère 1_**.
 
 ### Seabord Marine
 
-Les bureaux de Seabord ouvrent à 08hOO, et se trouve tout au bout du port aux coordonnées (9.366114, -79.881131) **_Repère 3_**, un parking se trouve juste après le bâtiment sur votre gauche **_Repère 2_**. Au comptoir, on va vous remettre votre Bill of landing (facture) en 4 exemplaires. Il s'agit de la preuve que votre véhicule est bien pris en compte par une compagnie maritime. La aussi bien vérifier les informations.
+Les bureaux de Seabord ouvrent à 08h00, et se trouve tout au bout du port aux coordonnées **(9.366114, -79.881131)** **_Repère 3_**, un parking se trouve juste après le bâtiment sur votre gauche **_Repère 2_**. Au comptoir, on va vous remettre votre Bill of landing (facture) en 4 exemplaires. Il s'agit de la preuve que votre véhicule est bien pris en compte par une compagnie maritime. La aussi bien vérifier les informations.
 
 ### Douanes
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ6.jpg" style="width:100%" />
 
-Se rendre aux bureaux des douanes qui se trouve un peu loin aux coordonnées (9.346632, -79.879197). Pour se faire prendre un taxi ou y aller avec votre véhicule et vous garer aux coordonnées (9.345995, -79.878279). Vous devez remettre à l'agent des douanes 3 dossiers composés des photocopies suivantes :
+Se rendre aux bureaux des douanes qui se trouve un peu loin aux coordonnées **(9.346632, -79.879197)**. Pour se faire prendre un taxi ou y aller avec votre véhicule et vous garer aux coordonnées **(9.345995, -79.878279)**. Vous devez remettre à l'agent des douanes 3 dossiers composés des photocopies suivantes :
 
 - Carte grise ;
 - Titre d'importation temporaire ;
@@ -134,11 +134,11 @@ L'agent imprime un titre d'importation temporaire, comme lors de votre entrée a
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ8.jpg" style="width:100%" />
 
-Retour vers le port pour s'occuper de l'entrée officielle du véhicule dans la partie réservée du port. Se rendre à l'entrée piéton "Garita RORO" qui se trouve aux coordonnées (9.367637, -79.878948) **_Repère 4_**. Il est indiqué RORO mais en fait quelque soit votre mode de transport, tout ce passe là. Si vous êtes en véhicule vous pouvez vous garer en face. A l'entrée contrôle d'identité et délivrance d'un badge. Il faut commencer par payer la taxe du port, 79$ + 1$ pour les photocopies. Elle tamponne le Bill of Landing et y agrafe la facture. Ensuite allez au guichet qui suit, remise d'un dossier complet avec la preuve du paiement et après vérification remise d'une document qui permet de rentrer le véhicule au terminal du port. On peut ressortir.
+Retour vers le port pour s'occuper de l'entrée officielle du véhicule dans la partie réservée du port. Se rendre à l'entrée piéton "Garita RORO" qui se trouve aux coordonnées **(9.367637, -79.878948)** **_Repère 4_**. Il est indiqué RORO mais en fait quelque soit votre mode de transport, tout ce passe là. Si vous êtes en véhicule vous pouvez vous garer en face. A l'entrée contrôle d'identité et délivrance d'un badge. Il faut commencer par payer la taxe du port, 79$ + 1$ pour les photocopies. Elle tamponne le Bill of Landing et y agrafe la facture. Ensuite allez au guichet qui suit, remise d'un dossier complet avec la preuve du paiement et après vérification remise d'une document qui permet de rentrer le véhicule au terminal du port. On peut ressortir.
 
 ### Dépose du véhicule
 
-On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au port. Comme la route est à sens unique il faut refaire un tour complet. L'entrée se fait aux coordonnées (9.368157, -79.879294) **_Repère 5_**, il faut passer sous un hangar de fumigation. On passe ensuite un poste de contrôle puis on se dirige sur le parkinG qui se trouve sur la droite. Un agent des douanes vous fait garer sous un petit hangar **_Repère 6_**. On sort nos bagages, on ouvre tous les coffres et le chien stup passe un peu partout. Après un dernier contrôle visuel, un agent du port prend des photos du véhicule, vérifie le numéro de châssis avec les documents et prend en compte le véhicule. Après un dernier tampon comme quoi le véhicule est accepté, on ressort à pied avec les gagages par la "Garita RORO".
+On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au port. Comme la route est à sens unique il faut refaire un tour complet. L'entrée se fait aux coordonnées **(9.368157, -79.879294)** **_Repère 5_**, il faut passer sous un hangar de fumigation. On passe ensuite un poste de contrôle puis on se dirige sur le parkinG qui se trouve sur la droite. Un agent des douanes vous fait garer sous un petit hangar **_Repère 6_**. On sort nos bagages, on ouvre tous les coffres et le chien stup passe un peu partout. Après un dernier contrôle visuel, un agent du port prend des photos du véhicule, vérifie le numéro de châssis avec les documents et prend en compte le véhicule. Après un dernier tampon comme quoi le véhicule est accepté, on ressort à pied avec les gagages par la "Garita RORO".
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ9.jpg" style="width:100%" />
 
