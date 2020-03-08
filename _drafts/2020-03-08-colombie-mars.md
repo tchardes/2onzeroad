@@ -24,20 +24,8 @@ Cet article couvre la période du 23 février au 07 mars 2020, au cours de laque
 
 ## 07 au 10 mars
 
-
-
-
-
-
-
-
-
 **Nous avons vraiment adoré :**
-
-
 
 **Nous avons moins aimé :**
 
-
 Un résumé de cette dernière partie de notre voyage en vidéo :
-
