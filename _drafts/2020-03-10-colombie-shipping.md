@@ -4,18 +4,18 @@ title: "Shipping - Panama - Colombie"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives à entreprendre pour faire passer son camping-car par voie maritime du …"
 parent-id: 2020-02-25-panama-mars
 
-date: 2020-02-23 15:00:00
+date: 2020-03-7 15:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-costarica-panama.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-costa-panama.jpg
 tags: []
-pois: [passagecrtop]
+pois: [passageptoc]
 flickr-text: ""
 country: Colombie
-states: [Bocas Del Toro]
-city: Cartagena
+states: [Colon]
+city: Colon
 category: "information"
-location: "9.499435, -82.613686"
+location: "9.360922, -79.888177"
 ---
 
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives à entreprendre pour faire passer son camping-car par voie maritime du Panama à la Colombie.
