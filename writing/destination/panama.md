@@ -2,7 +2,7 @@
 layout: "writing_by_country"
 country: "Panama"
 permalink: "/writing/destination/panama/"
-header-img: "assets/owner/hero/canada-bg.jpg"
+header-img: "assets/owner/hero/panama-bg.jpg"
 flickr-text: ""
 distance: 940
 days: 13
