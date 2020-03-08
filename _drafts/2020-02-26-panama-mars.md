@@ -172,7 +172,7 @@ Ce matin, on fait le check out de l’hôtel et prenons un Uber pour nous condui
 
 <img src="{{baseurl}}/assets/owner/photos/panamaavion2.jpg" style="width:100%" />
 
-C'est la première fois que nous nous trouvons dans une salle d'embarquement qui est également une salle de débarquement. Lors de l'arrivée d'une avion, on constate que tous las passagers sont pris en compte pas des agents protégés de la tête au pieds qui vérifient leur température. On espère ne pas avoir de problème pour entrer en Colombie.
+C'est la première fois que nous nous trouvons dans une salle d'embarquement qui est également une salle de débarquement. Lors de l'arrivée d'une avion, on constate que tous les passagers sont pris en compte pas des agents protégés de la tête au pieds qui vérifient leur température. On espère ne pas avoir de problème pour entrer en Colombie.
 
 <img src="{{baseurl}}/assets/owner/photos/panamaavion1.jpg" style="width:100%" />
 
