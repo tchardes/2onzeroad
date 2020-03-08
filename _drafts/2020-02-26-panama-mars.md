@@ -30,7 +30,7 @@ La route jusqu’à **Almirante** notre destination du jour est assez abîmée, 
 
 ## 24 février
 
-Finalement, la nuit a été assez calme et fraîche. Le trafic a commencé de bonne heure, des marins sont même venus taper à la porte de Thor pour nous demander si nous comptions prendre le ferry avec Thor, juste avant son départ. Nous partons dans le centre ville à la recherche d’un parking sûr pour la journée et la nuit prochaine. Nous ne voulons pas laisser Thor seul sur le port. L’activité de Taxi boat qui desservent toutes les îles est un business qui rapporte, du coup, ils embauchent des jeunes qui se chargent de vous trouver un parking. Au bout de 4éme endroit qu’ils nous proposent, nous acceptons. Il y a des bus garés et c’est sécurisé, on nous demande 5\$ pour 24 heures. Nous prenons ensuite une lancha qui nous conduit à la plus grosses isle de l'archipel **Bocas del Toro**, Isla Colon. Nous y arrivons après 30mn de mer.
+Finalement, la nuit a été assez calme et fraîche. Le trafic a commencé de bonne heure, des marins sont même venus taper à la porte de Thor pour nous demander si nous comptions prendre le ferry avec Thor, juste avant son départ. Nous partons dans le centre ville à la recherche d’un parking sûr pour la journée et la nuit prochaine. Nous ne voulons pas laisser Thor seul sur le port. L’activité de Taxi boat qui desservent toutes les îles est un business qui rapporte, du coup, ils embauchent des jeunes qui se chargent de vous trouver un parking. Au bout de 4éme endroit qu’ils nous proposent, nous acceptons. Il y a des bus garés et c’est sécurisé, on nous demande 5\$ pour 24 heures. Nous prenons ensuite une lancha qui nous conduit à la plus grosse ile de l'archipel **Bocas del Toro**, Isla Colon. Nous y arrivons après 30mn de mer.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49591634983/in/datetaken/" title="Bocas Del Toro - [Panama]"><img src="https://live.staticflickr.com/65535/49591634983_9e89134f00_k.jpg" width="2048" height="1152" alt="Bocas Del Toro - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -156,7 +156,7 @@ Pour revenir en centre ville, nous prenons le bus de ville mais il faut un carte
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49628382946/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49628382946_6d835f3c29_k.jpg" width="2048" height="1152" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Dans le centre, on fait un tour au pied des buidings et rentrons lentement à l’hôtel.
+Dans le centre, on fait un tour au pied des buildings et rentrons lentement à l’hôtel.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49628522366/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49628522366_d457ebae3e_k.jpg" width="2048" height="1152" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -168,7 +168,7 @@ Le soir, nous retournons manger dans un resto très proche de l’hôtel et pass
 
 ## 07 mars
 
-Ce matin, on fait le check out de l’hôtel et prenons un Uber pour nous conduire à l’aéroport, c’est trois fois moins cher qu’un taxi et les véhicules sont toujours récents est impeccables, ce qui n’est pas le cas des taxis. A l’aéroport, l’enregistrement à la Copa Airlines est assez rapide ainsi que le passage de la sécurité. Comme nous avons deux heures à passer avant l'embarquement, nous prenons un café et une viennoiserie, certainement les plus chères que nous ayant payé, 18\$. Autant dire que nous l’avons dégusté… Nous partons à l'heure prévue pour un vol de moins d'une heure qui nous fait passer au dessus du bouchon de Darién. Nous quittons ainsi le Panama et l'Amérique Centrale que nous avons parcourue durant 4 mois avec un immense plaisir.
+Ce matin, on fait le check out de l’hôtel et prenons un Uber pour nous conduire à l’aéroport, c’est trois fois moins cher qu’un taxi et les véhicules sont toujours récents est impeccables, ce qui n’est pas le cas des taxis. A l’aéroport, l’enregistrement à la Copa Airlines est assez rapide ainsi que le passage de la sécurité. Comme nous avons deux heures à passer avant l'embarquement, nous prenons un café et une viennoiserie, certainement les plus chères que nous ayant payé, 18\$. Autant dire que nous l’avons dégusté… Nous partons à l'heure prévue pour un vol de moins d'une heure qui nous fait passer au dessus du bouchon du Darién. Nous quittons ainsi le Panama et l'Amérique Centrale que nous avons parcourue durant 4 mois avec un immense plaisir.
 
 **Nous avons vraiment adoré :**
 
