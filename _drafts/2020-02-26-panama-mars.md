@@ -185,3 +185,5 @@ Ce matin, on fait le check out de l’hôtel et prenons un Uber pour nous condui
 - Les habitants pas toujours sympathiques.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/McHyu9gNyGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
