@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Panama"
-preview: "Cet article couvre la période du 23 février au 07 mars 2020, au cours de laquelle nous avons visité le Panama et avons passé le bouchon de Darien pour l'Amérique du Sud"
+preview: "Cet article couvre la période du 23 février au 07 mars 2020, au cours de laquelle nous avons visité le Panama et avons passé le bouchon du Darién pour l'Amérique du Sud"
 parent-id:
 date: 2020-03-07 13:00:00
 from-date: 2020-02-23 12:00:00
@@ -20,7 +20,7 @@ itinary: "2020/panama.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 23 février au 07 mars 2020, au cours de laquelle nous avons visité le Panama et avons passé le bouchon de Darien pour l'Amérique du Sud.
+Cet article couvre la période du 23 février au 07 mars 2020, au cours de laquelle nous avons visité le Panama et avons passé le bouchon du Darién pour l'Amérique du Sud.
 
 ## 23 février
 
