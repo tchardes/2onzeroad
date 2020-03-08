@@ -12,7 +12,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt32.jpg
 tags: [mer-ocean, faune, foret, volcan]
 pois: [almirante#23-février, bocas#24-février, boquete#25-et-26-février, canaldepanama#O1-mars, miraflores#O1-mars, panamacity#O1-mars, cimetièrefrançais#O3-mars, aguaclara#O3-mars, colon#O4-mars]
 country: Panama
-states: [""]
+states: ["Bocas Del Toro", "Chiriqui", "Veraguas", "Coclé", "Panama", "Colón"]
 category: "roadmap"
 flickr-text: ""
 location: "8.301601, -81.254181"
