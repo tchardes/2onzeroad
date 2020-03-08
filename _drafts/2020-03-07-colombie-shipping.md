@@ -46,8 +46,8 @@ Comme dans de nombreux pays, il vous est interdit de quitter le pays sans votre 
 
 Pas de rendez-vous, vous devez vous présenter à la D.I.J (Direccion de Investigation Judicial) maximum 8 jours avant la dépose du véhicule au port, le document qu'ils vous remettent étant valable 8 jours. L'inspection du véhicule se fait le matin, il faut y être avant 06h00 et il ne prennent que 25 véhicules par jour. La code vestimentaire est ni short ni tongs. Personnellement, nous y sommes arrivés à 05h10 et nous étions les cinquièmes. Attention, le quartier est un peu craignos.
 
-**Adresse** : Dirección Nacional de Investigación Judicial, División de Vehículos de Hurtados, Avenida Luis Felipe Clement, Panama City
-**Coordonnées** : 8.966342, -79.544683
+- **Adresse** : Dirección Nacional de Investigación Judicial, División de Vehículos de Hurtados, Avenida Luis Felipe Clement, Panama City
+- **Coordonnées** : 8.966342, -79.544683
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ2.jpg" style="width:100%" />
 
@@ -57,21 +57,21 @@ Pas de rendez-vous, vous devez vous présenter à la D.I.J (Direccion de Investi
 
 Dès que l'on arrive, le parking et les bureaux se trouvent sur votre droite, **_Repère 1_** mais on ne peut pas y rentrer avec un camping-car. Se garer sur la gauche sous le pont **_Repère 2_**.
 
-- Une fois stationné, allez directement à la porte grise. A l'intérieur, se trouve un agent qui va remplir un cahier avec vos principales informations puis il va vous donner un papier avec votre N° de passage.
-- De retour au véhicule, ouvrez le capot afin que le moteur refroidisse.
-- Préparer votre dossier qui doit se composer des photocopies suivantes ( Carte grise, titre d'importation temporaire, passeport). Nous avions fait également la photocopie de l'assurance mais il ne l'a pas prise.
+- Une fois stationné, allez directement à la porte grise. A l'intérieur, se trouve un agent qui va remplir un cahier avec vos principales informations puis il va vous donner un papier avec votre N° de passage ;
+- De retour au véhicule, ouvrez le capot afin que le moteur refroidisse ;
+- Préparer votre dossier qui doit se composer des photocopies suivantes ( Carte grise, titre d'importation temporaire, passeport). Nous avions fait également la photocopie de l'assurance mais il ne l'a pas prise ;
 - Vers 8 heures, il commence son inspection qui consiste à vérifier le N° de série et le cas échéant celui du moteur avec la carte grise et le titre d'importation temporaire. On attend son tour devant son véhicule. L'opération prend quelques minutes et il vous donne rendez-vous à 14h00 dans un autre commissariat qui se trouve de l'autre côté de la double voie **_Repère 4_**.
 
 ### Phase 2
 
-**Adresse** : Dirección Nacional de Investigación Judicial, Calle Arnoldo Walter &, Calle DIJ, Panama City
-**Coordonnées** : 8.965633, -79.545035
+- **Adresse** : Dirección Nacional de Investigación Judicial, Calle Arnoldo Walter &, Calle DIJ, Panama City
+- **Coordonnées** : 8.965633, -79.545035
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ4.jpg" style="width:100%" />
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ5.jpg" style="width:100%" />
 
-Il n'y a pas de place pour se garer devant le bâtiment, le plus simple est de se garer à nouveau sous le pont **_Repère 2_** comme pour le matin et y aller à pied. Pour traverser la double voie, vous avez une passerelle sur votre droite **_Repère 3_**
+Il n'y a pas de place pour se garer devant le bâtiment, le plus simple est de se garer à nouveau sous le pont **_Repère 2_** comme pour le matin et y aller à pied. Pour traverser la double voie, vous avez une passerelle sur votre droite **_Repère 3_**.
 
 - Ne pas faire la queue et allez directement voir l'agent qui se trouve dans une petite guérite sur votre droite qui vous donnera un Badge visiteur. Entrée ensuite dans le bâtiment et expliquez à l'accueil la raison de votre venue. Une personne va venir vous faire remplir un document que vous lui rendez avec un autre dossier composé des photocopies suivantes (Carte grise, titre d'importation temporaire, passeport).
 - La personne revient après un certain temps avec le fameux document, bien vérifier que toutes les informations sont correctes et le faire refaire si il y a une erreur.
