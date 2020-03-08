@@ -100,10 +100,10 @@ Avant votre départ de Panama City, faire 4 photocopies du document remis par la
 
 Nous avons suivi les directives de notre intermédiaire à savoir :
 
-    * Réservoir d'essence plein à 25%
-    * Pas besoin de laver le véhicule (extérieur et dessous). Nous l'avons quand même lavé pour qu'il soit propre.
-    * Aucune contrainte sur le gaz si ce n'est fermer le réservoir
-    * Aucune contrainte concernant la nourriture. Toutefois nous avons vidé et éteint le frigo et le congélateur.
+- Réservoir d'essence plein à 25%.
+- Pas besoin de laver le véhicule (extérieur et dessous). Nous l'avons quand même lavé pour qu'il soit propre.
+- Aucune contrainte sur le gaz si ce n'est fermer le réservoir, du coup nous avons fait le plein de gaz.
+- Aucune contrainte concernant la nourriture. Toutefois nous avons vidé et éteint le frigo et le congélateur.
 
 La veille nous sommes allez visiter les écluses de Agua Clara et nous avons bivouaquez à 10 minutes du port sur le parking d'un commissariat (9.3279829, -79.8931830). L'entrée du port se fait aux coordonnées (9.363703, -79.878723) **_Repère 1_**.
 
@@ -135,9 +135,15 @@ Retour vers le port pour s'occuper de l'entrée officielle du véhicule dans la 
 
 ### Dépose du véhicule
 
-On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au port. Comme la route est à sens unique il faut refaire un tour complet. L'entrée se fait aux coordonnées (9.368157, -79.879294) **_Repère 5_**, il faut passer sous un hangar de fumigation. On passe ensuite un poste de contrôle puis on se dirige sur le parkin qui se trouve sur la droite. Un agent des douanes vous fait garer sous un petit hangar **_Repère 6_**. On sort nos bagages, on ouvre tous les coffres et le chien stup passe un peu partout. Après un dernier contrôle visuel, un agent du port prend des photos du véhicule, vérifie le numéro de châssis avec les documents et prend en compte le véhicule.
+On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au port. Comme la route est à sens unique il faut refaire un tour complet. L'entrée se fait aux coordonnées (9.368157, -79.879294) **_Repère 5_**, il faut passer sous un hangar de fumigation. On passe ensuite un poste de contrôle puis on se dirige sur le parkinG qui se trouve sur la droite. Un agent des douanes vous fait garer sous un petit hangar **_Repère 6_**. On sort nos bagages, on ouvre tous les coffres et le chien stup passe un peu partout. Après un dernier contrôle visuel, un agent du port prend des photos du véhicule, vérifie le numéro de châssis avec les documents et prend en compte le véhicule.
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ9.jpg" style="width:100%" />
+
+**Résumé** :
+
+- L'intermédiaire ou directement la compagnie que vous avez choisi vous donnera la fourchette de temps où vous pousez déposer votre véhicule.
+- Photocopie : carte grise X4, titre d'importation temporaire X4, passeport (page avec votre photo) X4, document de la DIJ X4 ;
+- La somme de 80 US\$ en numéraire.
 
 ### Retour sur Panama City
 
