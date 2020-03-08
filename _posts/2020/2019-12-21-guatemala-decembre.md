@@ -119,7 +119,7 @@ Entièrement restauré, ce fortin est vraiment mignon, petit, avec des ouverture
 
 ## 01 décembre
 
-Ce matin Mauro est à l’heure à la lancha. Nous partons pour plus de 2 heures de navigation sur le fleuve Rio Dulce depuis le Lac Izabel. Le décor est superbe, il y a tout au long du parcours de superbes maisons avec de beaux voiliers amarrés. Le guide nous fait passer par de petits canaux dans la mangrove où habitent encore des indiens descendants des Mayas, c’est très beau. Après le passage d’une canyon, on arrive dans la mer des Caraïbe à **Livingston**. Deux seules façons pour s’y rendre de Rio Dulce, ce que nous avons fait et depuis Porto Barios en passant par la mer.
+Ce matin Mauro est à l’heure à la lancha. Nous partons pour plus de 2 heures de navigation sur le fleuve Rio Dulce depuis le Lac Izabel. Le décor est superbe, il y a tout au long du parcours de superbes maisons avec de beaux voiliers amarrés. Le guide nous fait passer par de petits canaux dans la mangrove où habitent encore des indiens descendants des Mayas, c’est très beau. Après le passage d’un canyon, on arrive dans la mer des Caraïbe à **Livingston**. Deux seules façons pour s’y rendre de Rio Dulce, ce que nous avons fait et depuis Porto Barios en passant par la mer.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49160838083/in/datetaken/" title="Livingston - [Guatemala]"><img src="https://live.staticflickr.com/65535/49160838083_0b85aabe3c_h.jpg" width="1600" height="900" alt="Livingston - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -145,7 +145,7 @@ En milieu d’après-midi on reprend la lancha pour le chemin retour où notre g
 
 ## 02 décembre
 
-Ce matin nous partons en direction de la capitale du pays, Cyrielle arrive demain, il ne faut pas la rater… La route, la CA9, est assez longue, nous avons mis à peu près 6 heures pour faire 300 km. Beaucoup de camions roulent sur cette route qui est un axe principal au Guatemala et ils sont tellement pressés qu’ils font un peu n’importe quoi et prennent beaucoup de risque en doublant, surtout quand on voit l’état des engins, comme les bus d'ailleurs. A midi on fait un petit écart pour aller à **Zacapa**, le lieu soit disant où l’on fait le meilleur rhum de toute l’Amérique Centrale. Vous pensez bien que l’on ne peut pas passer à coté… La ville est en plein préparation de festivités et c’est la grosse galère pour y circuler avec Thor et au final en sortir rapidement… Bref, on laisse tomber sachant qu'à aucun moment on voit une publicité, distillerie, concernant ce rhum. On était déjà étonnés de ne voir aucun champ de canne… On va creuser… On se trouve une place pour manger puis nous repartons pour **Guatemala City**. On fait un détour car je souhaitais prendre rendez-vous pour Thor mais je tombe dans une petite agence Ford sans garage. Du coup on traverse la ville, non sans mal et trouvons un bivouac près d’une hôtel où la tenancière est hyper sympa. Elle nous offre le Wifi et douches si l’on veut. Journée stressante… Nous sommes passés de bord de mer à 1500 mètres d’altitude, il fait bien meilleur aux alentours de 25° la journée et 14° la nuit, ça va faire du bien.
+Ce matin nous partons en direction de la capitale du pays, Cyrielle arrive demain, il ne faut pas la rater… La route, la CA9, est assez longue, nous avons mis à peu près 6 heures pour faire 300 km. Beaucoup de camions roulent sur cette route qui est un axe principal au Guatemala et ils sont tellement pressés qu’ils font un peu n’importe quoi et prennent beaucoup de risque en doublant, surtout quand on voit l’état des engins, comme les bus d'ailleurs. A midi on fait un petit écart pour aller à **Zacapa**, le lieu soit disant où l’on fait le meilleur rhum de toute l’Amérique Centrale. Vous pensez bien que l’on ne peut pas passer à coté… La ville est en pleine préparation de festivités et c’est la grosse galère pour y circuler avec Thor et au final en sortir rapidement… Bref, on laisse tomber sachant qu'à aucun moment on voit une publicité, distillerie, concernant ce rhum. On était déjà étonnés de ne voir aucun champ de canne… On va creuser… On se trouve une place pour manger puis nous repartons pour **Guatemala City**. On fait un détour car je souhaitais prendre rendez-vous pour Thor mais je tombe dans une petite agence Ford sans garage. Du coup on traverse la ville, non sans mal et trouvons un bivouac près d’une hôtel où la tenancière est hyper sympa. Elle nous offre le Wifi et douches si l’on veut. Journée stressante… Nous sommes passés de bord de mer à 1500 mètres d’altitude, il fait bien meilleur aux alentours de 25° la journée et 14° la nuit, ça va faire du bien.
 
 ## 03 décembre
 
@@ -153,7 +153,7 @@ Matinée tranquille au bivouac, on profite du très bon Wifi. En début d’apr�
 
 ## 04 décembre
 
-Ce matin nous prenons le Metro Bus pour nous rendre au centre historique de la ville, le centre est très animé avec de nombreuses rues marchandes. Nous arrivons à la Place de la Constitution où se déroule le marché de Noël. Beaucoup de stands, spectacles d’enfants, et même une patinoire et un grand toboggan à la piste glacée, le tout sous 25°. Nous visitons la cathédrale puis nous allons déjeuner au "Arrin Cuan", très bel établissement où nous goûtons 5 spécialités locales dont le Kak Ik, un genre de soupe avec un cuisse de dinde, du riz, des tamales et des tortillas. Excellent repas.
+Ce matin nous prenons le Metro Bus pour nous rendre au centre historique de la ville, le centre est très animé avec de nombreuses rues marchandes. Nous arrivons à la Place de la Constitution où se déroule le marché de Noël. Beaucoup de stands, spectacles d’enfants, et même une patinoire et un grand toboggan à la piste glacée, le tout sous 25°. Nous visitons la cathédrale puis nous allons déjeuner au "Arrin Cuan", très bel établissement où nous goûtons 5 spécialités locales dont le Kak Ik, un genre de soupe avec une cuisse de dinde, du riz, des tamales et des tortillas. Excellent repas.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49235543381/in/datetaken/" title="Guatemala City - [Guatemala]"><img src="https://live.staticflickr.com/65535/49235543381_ad8a441bda_h.jpg" width="1600" height="1200" alt="Guatemala City - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -186,7 +186,7 @@ Nous allons ensuite directement à l’hôtel qui accepte les RV, à la sortie d
 ## 06 décembre
 
 Nuit de ..., musique de fous jusqu’à 2 heures du matin, et à 7 heures réveillés à coup de sifflet, d’une colonie de vacances. Je suis allé voir le chef de la sécurité de l’hôtel et j’ai poussé ma gueulante…
-Nous commandons un taxi, un tuc tuc à trois roue qui nous conduit au centre ville à une lavanderia où nous déposons notre linge. Nous faisons ensuite un grand tour en ville, c’est très touristique, un succession de boutiques en tout genres.
+Nous commandons un taxi, un tuc tuc à trois roue qui nous conduit au centre ville à une lavanderia où nous déposons notre linge. Nous faisons ensuite un grand tour en ville, c’est très touristique, une succession de boutiques en tout genres.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49180432771/in/datetaken/" title="Panajachel - Lac Atitlan - [Guatemala]"><img src="https://live.staticflickr.com/65535/49180432771_c1ecc78fac_h.jpg" width="1600" height="900" alt="Panajachel - Lac Atitlan - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -210,7 +210,7 @@ Notre chauffeur nous conduit dans un super hôtel restaurant à Santa Catarina P
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49179816693/in/datetaken/" title="Santa Catarina Palopó - Lac Atitlan - [Guatemala]"><img src="https://live.staticflickr.com/65535/49179816693_f3f2f3ba37_h.jpg" width="1600" height="900" alt="Santa Catarina Palopó - Lac Atitlan - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-De retour nous faisons encore une tour dans Panajachel, quelques courses et nous rentrons au camping. Il y a beaucoup de monde qui vient profiter de l’espace et de la piscine. Un vieux monsieur vient vers moi et commence à me parler en français. Il me présente toute sa famille puis nous parlons de Thor que nous leur faisons visiter, ils sont trop contents…
+De retour nous faisons encore un tour dans Panajachel, quelques courses et nous rentrons au camping. Il y a beaucoup de monde qui vient profiter de l’espace et de la piscine. Un vieux monsieur vient vers moi et commence à me parler en français. Il me présente toute sa famille puis nous parlons de Thor que nous leur faisons visiter, ils sont trop contents…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49180302191/in/datetaken/" title="Panajachel - Lac Atitlan - [Guatemala]"><img src="https://live.staticflickr.com/65535/49180302191_449157256c_h.jpg" width="1600" height="900" alt="Panajachel - Lac Atitlan - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -230,7 +230,7 @@ A San Juan la Laguna, nous sommes accueillis par la présidente d’une coopéra
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49211338512/in/datetaken/" title="San Juan la Laguna - Lac Atitlan - [Guatemala]"><img src="https://live.staticflickr.com/65535/49211338512_772d7b56a8_h.jpg" width="1600" height="900" alt="San Juan la Laguna - Lac Atitlan - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A San Pedro la Laguna, nous prenons un Tuc Tuc qui nous faire faire un tour sur les points les plus touristiques, l’église, le marché, et un point de vue sur le lac.
+A San Pedro la Laguna, nous prenons un Tuc Tuc qui nous fait faire un tour sur les points les plus touristiques, l’église, le marché, et un point de vue sur le lac.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49211332777/in/datetaken/" title="San Pedro de la laguna - Lac Atitlan - [Guatemala]"><img src="https://live.staticflickr.com/65535/49211332777_5395e7e95b_h.jpg" width="1600" height="900" alt="San Pedro de la laguna - Lac Atitlan - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -291,7 +291,7 @@ Avec Cyrielle, nous prenons un bon bain secoué par les vagues puis finissons da
 
 ## 11 décembre
 
-Ce matin nous sommes allés dans le village pour remplir notre bidon d’eau potable puis plage où l’on a profité des belles vagues du Pacifique. A midi, nous avons mangé au restaurant du camping une assiette de poisson grillé, moules et crevettes et poulet frites pour Coco. Après-midi piscine puis balade sur la plage en fin d’après-midi pour regarder les jeunes surfers.
+Ce matin nous sommes allés dans le village pour remplir notre bidon d’eau potable puis plage où l’on a profité des belles vagues du Pacifique. A midi, nous avons mangé au restaurant du camping une assiette de poisson grillé, moules et crevettes et poulet frites pour Coco. Après-midi piscine puis balade sur la plage en fin d’après-midi pour regarder les jeunes surfeurs.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49235073953/in/datetaken/" title="San Jose Rama Blanca - [Guatemala]"><img src="https://live.staticflickr.com/65535/49235073953_bb0b10c4bc_h.jpg" width="1600" height="900" alt="San Jose Rama Blanca - [Guatemala]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -359,7 +359,7 @@ La ville est très animée et en fin d'après-midi nous assistons autour de la p
 
 ## 15 décembre
 
-Dernière matinée à Antigua avec Cyrielle, je lave Thor car demain il a visite médicale. Après le repas, nous partons en direction de la capitale. Nous nous posons près de l’hôtel Kaena comme la dernière fois puis nous prenons un taxi pour l’aéroport. Finalement la circulation est fluide et nous y arrivons rapidement. A 17h30 nous quittons Cyrielle qui prend son vol retour, tout le monde a le cœur gros... Nous sommes un peu de triste de voir partir notre fille avec qui nous avons passé un séjour inoubliable. De retour nous prenons un Uber et passons la soirée tous les deux…
+Dernière matinée à Antigua avec Cyrielle, je lave Thor car demain il a visite médicale. Après le repas, nous partons en direction de la capitale. Nous nous posons près de l’hôtel Kaena comme la dernière fois puis nous prenons un taxi pour l’aéroport. Finalement la circulation est fluide et nous y arrivons rapidement. A 17h30 nous quittons Cyrielle qui prend son vol retour, tout le monde a le cœur gros... Nous sommes un peu triste de voir partir notre fille avec qui nous avons passé un séjour inoubliable. De retour nous prenons un Uber et passons la soirée tous les deux…
 
 ## 16 décembre
 
