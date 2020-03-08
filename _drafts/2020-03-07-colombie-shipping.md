@@ -26,7 +26,7 @@ Il n'existe aucune route qui permet de passer du Panama à la Colombie par le bo
 
 ## Choix de la compagnie Maritime
 
-Vous avez le choix entre, vous débrouiller vous-même et démarcher les différentes compagnies maritimes (Seaboard, IVSSUK, Cgm Cga...) ou bien passer par un intermédiaire qui s'occupera de toute la partie maritime. Nous avons opté pour ce dernier choix. Nous en avons contacté deux :
+Vous avez le choix entre, vous débrouiller vous-même et démarcher les différentes compagnies maritimes (Seaboard, IVSSUK, Hoegh, Cgm Cga...) ou bien passer par un intermédiaire qui s'occupera de toute la partie maritime. Nous avons opté pour ce dernier choix. Nous en avons contacté deux :
 
 - Boris G. Jaramillo de ever Logisticc Inc - mail : sales3@everlogistics.net ou boris_jaramillo@hotmail.com
 - Tea Kalmbach - mail : teakalmbach@hotmail.com ou WhatsApp +54 92267520418
