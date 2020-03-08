@@ -76,4 +76,10 @@ Il n'y a pas de place pour se garer devant le bâtiment, le plus simple est de s
 - Ne pas faire la queue et allez directement voir l'agent qui se trouve dans une petite guérite sur votre droite qui vous donnera un Badge visiteur. Entrée ensuite dans le bâtiment et expliquez à l'accueil la raison de votre venue. Un personne va venir vous faire remplir un document que vous lui rendez avec un autre dossier composer des photocopies suivantes (Carte grise, titre d'importation temporaire, passeport).
 - La personne revient après un certain temps avec le fameux document, bien vérifier que toutes les informations sont correctes et le faire refaire si il y a une erreur.
 
+**Résumé** :
+
+- Y être de bonne heure pour être sur d'avoir une place et ne pas devoir y retourner le lendemain ;
+- Photocopie : Carte grise X2, Titre d'importation temporaire X2, Passeport (page avec votre photo) X2 ;
+- La procédure est gratuite.
+
 ### Dépose au port de Manzanillo à Colón
