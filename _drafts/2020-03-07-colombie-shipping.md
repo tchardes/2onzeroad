@@ -148,4 +148,6 @@ On reprend le véhicule et on peu enfin procédé à la dépose du véhicule au 
 
 ### Retour sur Panama City
 
+A la sortie se trouve de nombreux taxis. Nous en avons pris un pour nous conduire au terminal des bus de Colón et avons pris un express pour Panama City. Le trajet en bus prend environ 1h30 et coûte 3,5 \$ par personne.
+
 ## Récupération au port de Carthagène
