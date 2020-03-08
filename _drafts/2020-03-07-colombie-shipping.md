@@ -49,7 +49,7 @@ Comme dans de nombreux pays, il vous est interdit de quitter le pays sans votre 
 Pas de rendez-vous, vous devez vous présenter à la D.I.J (Direccion de Investigation Judicial) maximum 8 jours avant la dépose du véhicule au port, le document qu'ils vous remettent étant valable 8 jours. L'inspection du véhicule se fait le matin, il faut y être avant 06h00 et ils ne prennent que 25 véhicules par jour. La code vestimentaire est ni short ni tongs. Attention, le quartier est un peu sensible. Personnellement, nous y sommes arrivés à 05h10 et nous étions les cinquièmes. Nous avions trouvé un bivouac sympa à 10 minutes, très calme, derrière le Radison hôtel **(8.941496, -79.556500)**.
 
 - **Adresse** : Dirección Nacional de Investigación Judicial, División de Vehículos de Hurtados, Avenida Luis Felipe Clement, Panama City
-- **Coordonnées** : **8.966342, -79.544683**
+- **Coordonnées** : **(8.966342, -79.544683)**
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ2.jpg" style="width:100%" />
 
@@ -71,7 +71,7 @@ Dès que l'on arrive sur zone, le parking et les bureaux se trouvent sur votre d
 ### Phase 2
 
 - **Adresse** : Dirección Nacional de Investigación Judicial, Calle Arnoldo Walter &, Calle DIJ, Panama City
-- **Coordonnées** : **8.965633, -79.545035**
+- **Coordonnées** : **(8.965633, -79.545035)**
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ4.jpg" style="width:100%" />
 
