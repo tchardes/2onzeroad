@@ -20,13 +20,13 @@ location: "9.360922, -79.888177"
 
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives à entreprendre pour faire passer son camping-car par voie maritime du Panama à la Colombie.
 
-Il n'existe aucune route qui permet de passer du Panama à la Colombie par le bouchon du Darién, c'est l'unique chaînon manquant de la route panaméricaine. Le véhicule doit donc prendre le bateau et seulement quelques compagnies maritimes se partagent le gâteau et ils en profitent largement, cela frise l'escroquerie, mais c'est le seul moyen pour passer en Amérique du Sud. Selon le type de votre véhicule plusieurs options s'offrent à vous, par conteneur que vous pouvez partager, comme son prix, par RORO ou par Flat Rack. Nous avons opté pour ce dernier système, Thor ne rentrant pas dans un conteneur et le Flat Rack étant plus rapide. Le prix entre RORO et Flat Rack est sensiblement le même.
+Il n'existe aucune route qui permet de passer du Panama à la Colombie par le bouchon de Darién, c'est l'unique chaînon manquant de la route panaméricaine. Le véhicule doit donc prendre le bateau et seulement quelques compagnies maritimes se partagent le gâteau et ils en profitent largement, cela frise l'escroquerie, mais c'est le seul moyen pour passer en Amérique du Sud. Plus aucun ferry n'assure cette liaison, depuis longtemps. Selon le type de votre véhicule plusieurs options s'offrent à vous, par conteneur que vous pouvez partager, comme son prix, par RORO ou par Flat Rack. Nous avons opté pour ce dernier système, Thor ne rentrant pas dans un conteneur et le Flat Rack étant plus rapide. Le prix entre RORO et Flat Rack est sensiblement le même.
 
 <div id="toc"></div>
 
 ## Choix de la compagnie Maritime
 
-Vous avez le choix entre, vous débrouiller vous-même et démarcher les différentes compagnies maritimes ou bien passer par un intermédiaire qui s'occupera de toute la partie maritime. Nous avons opté pour ce dernier choix. Nous en avons contacté deux :
+Vous avez le choix entre, vous débrouiller vous-même et démarcher les différentes compagnies maritimes (Seaboard, IVSSUK, Cgm Cga...) ou bien passer par un intermédiaire qui s'occupera de toute la partie maritime. Nous avons opté pour ce dernier choix. Nous en avons contacté deux :
 
 - Boris G. Jaramillo de ever Logisticc Inc - mail : sales3@everlogistics.net ou boris_jaramillo@hotmail.com
 - Tea Kalmbach - mail : teakalmbach@hotmail.com ou WhatsApp +54 92267520418
