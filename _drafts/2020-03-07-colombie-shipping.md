@@ -100,7 +100,7 @@ Avant votre départ de Panama City, faire 4 photocopies du document remis par la
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ10.jpg" style="width:100%" />
 
-Nous avons suivi les directives de notre intermédiaire à savoir :
+Nous avons suivi les directives (Pour un transport en Flat Rack) de notre intermédiaire à savoir :
 
 - Réservoir d'essence plein à 25% ;
 - Pas besoin de laver le véhicule (extérieur et dessous). Nous l'avons quand même lavé pour qu'il soit propre ;
@@ -108,7 +108,9 @@ Nous avons suivi les directives de notre intermédiaire à savoir :
 - Aucune contrainte concernant la nourriture. Toutefois nous avons vidé et éteint le frigo et le congélateur ;
 - Pas besoin de cloison entre le poste de conduite et la "maison", la traversée en Flat Rack se fait en une journée, pas d'escale, aucun vol signalé en 7 ans.
 
-La veille nous sommes allez visiter les écluses de Agua Clara et nous avons bivouaquez à 10 minutes du port sur le parking d'un commissariat (9.3279829, -79.8931830). L'entrée du port se fait aux coordonnées **(9.363703, -79.878723)** **_Repère 1_**.
+La veille nous sommes allez visiter les écluses de Agua Clara et nous avons bivouaquez à 10 minutes du port sur le parking d'un commissariat **(9.3279829, -79.8931830)**.
+
+L'entrée du port se fait aux coordonnées **(9.363703, -79.878723)** **_Repère 1_**.
 
 ### Seabord Marine
 
