@@ -105,7 +105,8 @@ Nous avons suivi les directives de notre intermédiaire à savoir :
 - Réservoir d'essence plein à 25% ;
 - Pas besoin de laver le véhicule (extérieur et dessous). Nous l'avons quand même lavé pour qu'il soit propre ;
 - Aucune contrainte sur le gaz si ce n'est fermer le réservoir, du coup nous avons fait le plein de gaz ;
-- Aucune contrainte concernant la nourriture. Toutefois nous avons vidé et éteint le frigo et le congélateur.
+- Aucune contrainte concernant la nourriture. Toutefois nous avons vidé et éteint le frigo et le congélateur ;
+- Pas besoin de cloison entre le poste de conduite et la "maison", la traversée en Flat Rack se fait en une journée, pas d'escale, aucun vol signalé en 7 ans.
 
 La veille nous sommes allez visiter les écluses de Agua Clara et nous avons bivouaquez à 10 minutes du port sur le parking d'un commissariat (9.3279829, -79.8931830). L'entrée du port se fait aux coordonnées (9.363703, -79.878723) **_Repère 1_**.
 
