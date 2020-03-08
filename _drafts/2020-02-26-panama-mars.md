@@ -7,7 +7,7 @@ date: 2020-03-07 13:00:00
 from-date: 2020-02-23 12:00:00
 to-date: 2020-03-07 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt31.jpg"
+header-img: "assets/owner/blog/header/post-bg-rt32.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt32.jpg
 tags: [mer-ocean, faune, foret, volcan]
 pois: [almirante#23-février, bocas#24-février, boquete#25-et-26-février, canaldepanama#O1-mars, miraflores#O1-mars, panamacity#O1-mars, cimetièrefrançais#O3-mars, aguaclara#O3-mars, colon#O4-mars]
