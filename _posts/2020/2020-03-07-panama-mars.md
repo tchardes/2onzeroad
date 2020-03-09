@@ -144,7 +144,7 @@ La promenade autour de la Plaza de Francia permet d'avoir une très belle vue su
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49625234147/in/datetaken/" title="Panama city - [Panama]"><img src="https://live.staticflickr.com/65535/49625234147_7428281eb2_k.jpg" width="2048" height="529" alt="Panama city - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Ce matin, nous partons visiter la partie moderne de Panama. Nous prenons un Uber pour nous éloigner un peu du centre moderne afin d’avoir une vue sur la magnifique skyline, dommage que le temps soit un peu brumeux.
+Ce matin, nous partons visiter la partie moderne de Panama, elle est surnommée la "Dubaï" d'amérique du Sud. Nous prenons un Uber pour nous éloigner un peu du centre moderne afin d’avoir une vue sur la magnifique skyline, dommage que le temps soit un peu brumeux.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49627863993/in/datetaken/" title="Panama City - [Panama]"><img src="https://live.staticflickr.com/65535/49627863993_f2592b74be_k.jpg" width="2048" height="620" alt="Panama City - [Panama]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
