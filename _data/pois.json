@@ -525,7 +525,7 @@
   { "name": "canaldepanama", "displayName": "Canal de Panama", "type": "autre", "country": "Panama" },
   { "name": "miraflores", "displayName": "Miraflores - Ecluses", "type": "autre", "country": "Panama" },
   { "name": "panamacity", "displayName": "Panama City", "type": "ville", "country": "Panama" },
-  { "name": "cimetièrefrançais", "displayName": "Cimetière français", "type": "autre", "country": "Panama" },
+  { "name": "cimetierefrançais", "displayName": "Cimetière français de Paraiso", "type": "autre", "country": "Panama" },
   { "name": "aguaclara", "displayName": "Agua Clara - Ecluses", "type": "autre", "country": "Panama" },
   { "name": "colon", "displayName": "Colón", "type": "ville", "country": "Panama" },
 
