@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "10.397525, -75.489975"
   name: "Carthagène - Colombie"
-  date: "07 au 10 mars 2020"
+  date: "07 au 12 mars 2020"
 
 # set the encoding to utf-8
 encoding: utf-8
