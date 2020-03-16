@@ -22,7 +22,7 @@ mapZoom: 5
 
 Cet article couvre la période du 23 février au 07 mars 2020, au cours de laquelle nous avons visité le Panama et avons passé le bouchon du Darién pour l'Amérique du Sud.
 
-## 07 au 10 mars
+## 07 au 12 mars
 
 **Nous avons vraiment adoré :**
 
