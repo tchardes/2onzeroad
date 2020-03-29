@@ -31,7 +31,7 @@ Vous avez le choix entre, vous débrouiller vous-même et démarcher les différ
 - Boris G. Jaramillo de ever Logisticc Inc - mail : sales3@everlogistics.net ou boris_jaramillo@hotmail.com
 - Tea Kalmbach - mail : teakalmbach@hotmail.com ou WhatsApp +54 92267520418
 
-Comme Tea a été la seule à nous répondre, nous avons fait affaire avec elle et avec la compagnie maritime "SeaBord Marine", tout s'est bien déroulé.
+Comme Tea a été la seule à nous répondre, nous avons fait affaire avec elle et avec la compagnie maritime "SeaBoard Marine", tout s'est bien déroulé.
 
 ### Paiement de la compagnie Maritime
 
