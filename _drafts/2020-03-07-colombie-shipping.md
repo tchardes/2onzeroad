@@ -33,12 +33,14 @@ Vous avez le choix entre, vous débrouiller vous-même et démarcher les différ
 
 Comme Tea a été la seule à nous répondre, nous avons fait affaire avec elle et avec la compagnie maritime "SeaBoard Marine", tout s'est bien déroulé.
 
+Que vous preniez un intermédiaire ou que vous traitez directement avec la compagnie maritime de votre choix, la procédure décrite ci-dessous est identique.
+
 ### Paiement de la compagnie Maritime
 
 Deux options :
 
 - En numéraire (Dollars US) dans une banque de Panama City sur le compte de la compagnie maritime, aucun frais supplémentaire ;
-- Par virement depuis votre banque. Il faut compter environ 50 \$ de frais et prévoir une bonne dizaine de jours avant la date du départ du bateau. Si à l'arrivée du bateau à Carthagène, la compagnie n'a pas reçu le virement, non seulement vous ne pouvez pas récupérer le véhicule mais vous devez payer des frais de gardiennage au port.
+- Par virement depuis votre banque. Il faut compter environ 50 US\$ de frais et prévoir une bonne dizaine de jours avant la date du départ du bateau. Si à l'arrivée du bateau à Carthagène, la compagnie n'a pas reçu le virement, non seulement vous ne pouvez pas récupérer le véhicule mais vous devez payer des frais de gardiennage au port.
 
 ## Contrôle à la D.I.J de Panama
 
