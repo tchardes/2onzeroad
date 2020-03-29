@@ -15,7 +15,7 @@ country: Colombie
 states: [Colón]
 city: Carthagène
 category: "information"
-location: "9.360922, -79.888177"
+locations: ["9.360922, -79.888177", "10.424745, -75.551285"]
 ---
 
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives à entreprendre pour faire passer son camping-car par voie maritime du Panama à la Colombie.
