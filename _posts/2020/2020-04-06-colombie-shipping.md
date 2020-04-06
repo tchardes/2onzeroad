@@ -194,7 +194,7 @@ Du coup, je ne peux pas vous décrire exactement la procédure de récupération
 
 <img src="{{baseurl}}/assets/owner/photos/seaboard.jpg" style="width:100%" />
 
-Il manque néanmoins quelques détailss :
+Il manque néanmoins quelques détails :
 
 - Paiement d'une somme de 50 US\$ pour des frais d'entrée au port ;
 - pour la DIAN, en plus des photocopies habituelles (carte grise, permis, passeport), il faut fournir une phocopie de la page du passeport avec le tampon d'entrée en Colombie de la migration, le document de la DIJ du Panama autorisant le véhicule à quitter le pays.
