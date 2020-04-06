@@ -31,7 +31,7 @@ Vous avez le choix entre, vous débrouiller vous-même et démarcher les différ
 - Boris G. Jaramillo de ever Logisticc Inc - mail : sales3@everlogistics.net ou boris_jaramillo@hotmail.com
 - Tea Kalmbach - mail : teakalmbach@hotmail.com ou WhatsApp +54 92267520418
 
-Comme Tea a été la seule à nous répondre, nous avons fait affaire avec elle et avec la compagnie maritime "SeaBoard Marine". Au final, nous ne regrettons pas du tout car elle a été d'une aide précieuse et nous a continué à nous accompagné bien après que son travail soit terminé. Son tarif : 175 us\$.
+Comme Tea a été la seule à nous répondre, nous avons fait affaire avec elle et avec la compagnie maritime "SeaBoard Marine". Au final, nous ne regrettons pas du tout car elle a été d'une aide précieuse et a continué à nous accompagné bien après que son travail soit terminé. Son tarif : 175 US\$.
 
 Que vous preniez un intermédiaire ou que vous traitez directement avec la compagnie maritime de votre choix, la procédure décrite ci-dessous est identique.
 
@@ -39,7 +39,7 @@ Que vous preniez un intermédiaire ou que vous traitez directement avec la compa
 
 Deux options :
 
-- En numéraire (Dollars US) dans une banque de Panama City sur le compte de la compagnie maritime, aucun frais supplémentaire (Le plus simple, avec du recul option à privilégier);
+- En numéraire (Dollars US) dans une banque de Panama City sur le compte de la compagnie maritime, aucun frais supplémentaire (Le plus simple et avec du recul, c'est l'option à privilégier);
 
 - Par virement depuis votre banque. Il faut compter environ 50 US\$ de frais et prévoir une bonne dizaine de jours avant la date du départ du bateau. Le Panama étant particulièrement "surveillé" la procédure est assez complexe puisque le virement passe par les USA (procédure ABA) puis une banque du Panama avant d'arriver au client. Si à l'arrivée du bateau à Carthagène, la compagnie n'a pas reçu le virement, non seulement vous ne pouvez pas récupérer le véhicule mais vous devez payer des frais de gardiennage au port. C'est du vécu.
 
