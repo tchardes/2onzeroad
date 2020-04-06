@@ -115,7 +115,7 @@ La veille, nous sommes allés visiter les écluses de Agua Clara et nous avons b
 
 L'entrée du port se fait aux coordonnées **(9.363703, -79.878723)** **_Repère 1_**.
 
-### Seabord Marine
+### Seaboard Marine
 
 Les bureaux de Seabord ouvrent à 08h00, et se trouvent tout au bout du port aux coordonnées **(9.366114, -79.881131)** **_Repère 3_**, un parking se trouve juste après le bâtiment sur votre gauche **_Repère 2_**. Au comptoir, on va vous remettre votre "Bill of landing" (facture) en 4 exemplaires. Il s'agit de la preuve que votre véhicule est bien pris en compte par une compagnie maritime. Là aussi, bien vérifier les informations.
 
@@ -170,7 +170,7 @@ A la sortie, se trouvent de nombreux taxis. Nous en avons pris un pour nous cond
 
 Nous avons eu d'énormes problèmes avec notre banque française le Crédit Agricole Alpes Provence (CA Direct). Nous n'avons obtenu aucune aide pour renseigner l'ordre de virement et les informations de j'avais mises n'étaient apparemment pas dans le bon ordre. Ils ont mis 10 jours avant de s'en rendre compte et il leur a fallu 3 autres tentatives pour réussir enfin le virement, des champions du monde. Cela à pris 28 jours au total...
 
-Du coup quand la compagnie maritime a débloqué notre véhicule nous étions en plein confinement dans un hôtel en raison du Covid-19 et nous avons du faire appel à Ana (cortesrodriguez.asesores@gmail.com)le clone de Tea mais pour les traversés Cartagena/Colon pour nous sortir le véhicule du port, ce qui n'a pas été simple et non sans risque.
+Du coup quand la compagnie maritime a débloqué notre véhicule nous étions en plein confinement dans un hôtel en raison du Covid-19 et nous avons du faire appel à Ana (cortesrodriguez.asesores@gmail.com) une Customs Broker, le clone de Tea mais pour les traversés Cartagena/Colon pour nous sortir le véhicule du port, ce qui n'a pas été simple et non sans risque. Elle a été très efficace.
 
 Malgré le fait que notre camping-car soit resté 16 jours tout seul en zone portuaire, nous n'avons eu à déplorer aucune dégradation ni aucun vol. Par contre cela nous a couté un bras en frais de gardiennage...
 
