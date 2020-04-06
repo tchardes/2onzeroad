@@ -162,7 +162,7 @@ A la sortie, se trouvent de nombreux taxis. Nous en avons pris un pour nous cond
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena.jpg" style="width:100%" />
 
-- **Repère 1** - Bureaux de Seaboard, récupération du Bill of Landing et des clé du véhicule ;
+- **Repère 1** - Bureaux de Seaboard, récupération du Bill of Landing et des clés du véhicule (Avenida Pedro Velez 48-14, Cartagena, Bolívar) ;
 - **Repère 2** - CityBank pour le virement des 50US\$ (28, Cl. 29 #26, Provincia de Cartagena, Bolívar) ;
 - **Repère 3** - Locaux de la DIAN - Douanes (76, Cra. 25 #25, Provincia de Cartagena, Bolívar) ;
 - **Repère 4** - Seguros SURA Colombia, un des assureurs possibles, (Av. California Carrera 17 No. 24 - 178, Cartagena, Bolívar) ;
