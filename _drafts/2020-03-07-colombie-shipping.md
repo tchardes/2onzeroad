@@ -174,7 +174,7 @@ Du coup quand la compagnie maritime a débloqué notre véhicule nous étions en
 
 Malgré le fait que notre camping-car soit resté 16 jours tout seul en zone portuaire, nous n'avons eu à déplorer aucune dégradation ni aucun vol. Par contre cela nous a couté un bras en frais de gardiennage...
 
-<img src="{{baseurl}}/assets/owner/photos/thor_cartagena.jpg" style="width:70%" />
+<img src="{{baseurl}}/assets/owner/photos/thor_cartagena.jpg" style="width:100%" />
 
 Du coup je ne peux pas vous décrire exactement la procédure de récupération mais voilà en gros les principales étapes.
 
