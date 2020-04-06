@@ -162,7 +162,7 @@ A la sortie, se trouvent de nombreux taxis. Nous en avons pris un pour nous cond
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena.jpg" style="width:100%" />
 
-- **Repère 1** - Bureaux de Seaboard, récupération du Bill of Landing et des clés du véhicule (Avenida Pedro Velez 48-14, Cartagena, Bolívar) ;
+- **Repère 1** - Bureaux de Seaboard, récupération du Bill of Landing, l'autorisation de vidage et les clés du véhicule (Avenida Pedro Velez 48-14, Cartagena, Bolívar) ;
 - **Repère 2** - CityBank pour le virement des 50US\$ (28, Cl. 29 #26, Provincia de Cartagena, Bolívar) ;
 - **Repère 3** - Locaux de la DIAN - Douanes (76, Cra. 25 #25, Provincia de Cartagena, Bolívar) ;
 - **Repère 4** - Seguros SURA Colombia, un des assureurs possibles, (Av. California Carrera 17 No. 24 - 178, Cartagena, Bolívar) ;
@@ -182,7 +182,8 @@ Du coup, je ne peux pas vous décrire exactement la procédure de récupération
 
 Il manque néanmoins quelques détails :
 
-- Paiement d'une somme de 50 US\$ pour des frais d'entrée au port
-- Pour pénétrer dans l'enceinte du port vous devez prouver que vous êtes couvert par une assurance vie internationale, ils veulent une attestation à votre nom mentionnant le détail de la couverture. A défaut, vous devez en souscrire une auprès du port prix = 30 US\$.
-- Assurer votre véhicule (SOAT) obligatoire.
+- Paiement d'une somme de 50 US\$ pour des frais d'entrée au port ;
+- pour la DIAN, en plus des photocopies habituelles (carte grise, permis, passeport), il faut fournir une phocopie de la page du passeport avec le tampon d'entrée en Colombie de la migration, le document de la DIJ du Panama autorisant le véhicule à quitter le pays.
+- Pour pénétrer dans l'enceinte du port vous devez prouver que vous êtes couvert par une assurance vie internationale, ils veulent une attestation à votre nom mentionnant le détail de la couverture. A défaut, vous devez en souscrire une auprès du port prix = 30 US\$ ;
+- Assurer votre véhicule (SOAT) obligatoire ;
 - Comptez au moins deux jours pour réaliser l'ensemble des démarches administratives.
