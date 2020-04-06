@@ -200,4 +200,4 @@ Il manque néanmoins quelques détails :
 - pour la DIAN, en plus des photocopies habituelles (carte grise, permis, passeport), il faut fournir une phocopie de la page du passeport avec le tampon d'entrée en Colombie, le document de la DIJ du Panama autorisant le véhicule à quitter le pays.
 - Pour pénétrer dans l'enceinte du port vous devez prouver que vous êtes couvert par une assurance vie internationale, ils veulent une attestation à votre nom mentionnant le détail de la couverture. A défaut, vous devez en souscrire une auprès du port prix = 30 US\$ ;
 - Assurer votre véhicule (SOAT) obligatoire ;
-- Comptez au moins deux jours pour réaliser l'ensemble des démarches administratives.
+- Compter au moins deux jours pour réaliser l'ensemble des démarches administratives.
