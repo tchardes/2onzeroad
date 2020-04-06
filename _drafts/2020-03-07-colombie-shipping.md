@@ -2,7 +2,7 @@
 layout: blog
 title: "Shipping - Panama - Colombie"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives à entreprendre pour faire passer son camping-car par voie maritime du …"
-parent-id: 2020-02-25-panama-mars
+parent-id: 2020-03-07-panama-mars
 
 date: 2020-03-07 15:00:00
 author: "Thierry"
