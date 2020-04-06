@@ -28,8 +28,8 @@ Il n'existe aucune route qui permet de passer du Panama à la Colombie par le bo
 
 Vous avez le choix entre, vous débrouiller vous-même et démarcher les différentes compagnies maritimes (Seaboard, IVSSUK, Hoegh, Cgm Cga...) ou bien passer par un intermédiaire (Customs broker) qui s'occupera de toute la partie maritime. Nous avons opté pour ce dernier choix. Nous en avons contacté deux :
 
-- Boris G. Jaramillo de ever Logisticc Inc - mail : sales3@everlogistics.net ou boris_jaramillo@hotmail.com
-- Tea Kalmbach - mail : teakalmbach@hotmail.com ou WhatsApp +54 92267520418
+- **Boris G. Jaramillo** de ever Logisticc Inc - mail : sales3@everlogistics.net ou boris_jaramillo@hotmail.com
+- **Tea Kalmbach** - mail : teakalmbach@hotmail.com ou WhatsApp +54 92267520418
 
 Comme Tea a été la seule à nous répondre, nous avons fait affaire avec elle et avec la compagnie maritime "SeaBoard Marine". Au final, nous ne regrettons pas du tout car elle a été d'une aide précieuse et a continué à nous accompagner bien après que son travail soit finalisé. Son tarif : 175 US\$.
 
