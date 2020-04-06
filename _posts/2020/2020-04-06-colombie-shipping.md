@@ -166,7 +166,7 @@ A la sortie, se trouvent de nombreux taxis. Nous en avons pris un pour nous cond
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena1.jpg" style="width:100%" />
 
-- **Repère 2** - CityBank pour le virement des 50US\$ **10.409027, -75.532147** (#27- a, Cl. 28 #2790, Cartagena, Bolívar) ;
+- **Repère 2** - CitiBank pour le virement des 50US\$ **10.409027, -75.532147** (#27- a, Cl. 28 #2790, Cartagena, Bolívar) ;
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena2.jpg" style="width:100%" />
 
