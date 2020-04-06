@@ -26,7 +26,7 @@ Il n'existe aucune route qui permet de passer du Panama à la Colombie par le bo
 
 ## Choix de la compagnie Maritime
 
-Vous avez le choix entre, vous débrouiller vous-même et démarcher les différentes compagnies maritimes (Seaboard, IVSSUK, Hoegh, Cgm Cga...) ou bien passer par un intermédiaire qui s'occupera de toute la partie maritime. Nous avons opté pour ce dernier choix. Nous en avons contacté deux :
+Vous avez le choix entre, vous débrouiller vous-même et démarcher les différentes compagnies maritimes (Seaboard, IVSSUK, Hoegh, Cgm Cga...) ou bien passer par un intermédiaire (Customs broker) qui s'occupera de toute la partie maritime. Nous avons opté pour ce dernier choix. Nous en avons contacté deux :
 
 - Boris G. Jaramillo de ever Logisticc Inc - mail : sales3@everlogistics.net ou boris_jaramillo@hotmail.com
 - Tea Kalmbach - mail : teakalmbach@hotmail.com ou WhatsApp +54 92267520418
@@ -166,13 +166,15 @@ Du coup quand la compagnie maritime a débloqué notre véhicule nous étions en
 
 Malgrè le fait que notre camping-car soit resté 16 jours tout seul en zone portuaire, nous n'avons eu à déplorer aucune dégradation ni aucun vol. Par contre cela nous a couté un bras en frais de gardiennage...
 
+<img src="{{baseurl}}/assets/owner/photos/thor_cartagena.jpg" style="width:70%" />
+
 Du coup je ne peux pas vous décrire exactement la procédure de récupération mais voilà en gros les principales étapes.
 
 <img src="{{baseurl}}/assets/owner/photos/seaboard.jpg" style="width:70%" />
 
-Il manque néamoins quelques détail,
+Il manque néamoins quelques détails :
 
 - Paiement d'une somme de 50 US\$ pour des frais d'entrée au port
-- Pour pénétrer dans l'enceinte du port vous devez prouver que vous êtes couvert par une assurance vie internationale, ils veulent une attestation à votre nom mentionnant mentionnant le détail de la couverture. A défaut vous devez en souscrire une auprès du port prix = 30 US\$.
+- Pour pénétrer dans l'enceinte du port vous devez prouver que vous êtes couvert par une assurance vie internationale, ils veulent une attestation à votre nom mentionnant le détail de la couverture. A défaut vous devez en souscrire une auprès du port prix = 30 US\$.
 - Assurer votre véhicule (SOAT) obligatoire.
 - Comptez au moins deux jours pour réliser l'ensemble des démarches administratives.
