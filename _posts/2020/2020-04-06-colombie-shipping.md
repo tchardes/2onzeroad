@@ -162,11 +162,25 @@ A la sortie, se trouvent de nombreux taxis. Nous en avons pris un pour nous cond
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena.jpg" style="width:100%" />
 
-- **Repère 1** - Bureaux de Seaboard, récupération du Bill of Landing, l'autorisation de vidage et les clés du véhicule (Avenida Pedro Velez 48-14, Cartagena, Bolívar) ;
-- **Repère 2** - CityBank pour le virement des 50US\$ (28, Cl. 29 #26, Provincia de Cartagena, Bolívar) ;
-- **Repère 3** - Locaux de la DIAN - Douanes (76, Cra. 25 #25, Provincia de Cartagena, Bolívar) ;
+- **Repère 1** - Bureaux de Seaboard, récupération du Bill of Landing, l'autorisation de vidage et les clés du véhicule **10.395079, -75.523328** (Dg. 20 #48-2 a 48-196, Cartagena, Bolívar) ;
+
+<img src="{{baseurl}}/assets/owner/photos/cartagena1.jpg" style="width:100%" />
+
+- **Repère 2** - CityBank pour le virement des 50US\$ **10.409027, -75.532147** (#27- a, Cl. 28 #2790, Cartagena, Bolívar) ;
+
+<img src="{{baseurl}}/assets/owner/photos/cartagena2.jpg" style="width:100%" />
+
+- **Repère 3** - Locaux de la DIAN - Douanes **10.409387, -75.532647** (76, Cra. 25 #25, Provincia de Cartagena, Bolívar) ;
+
+<img src="{{baseurl}}/assets/owner/photos/cartagena3.jpg" style="width:100%" />
+
 - **Repère 4** - Seguros SURA Colombia, un des assureurs possibles, (Av. California Carrera 17 No. 24 - 178, Cartagena, Bolívar) ;
+
+<img src="{{baseurl}}/assets/owner/photos/cartagena4.jpg" style="width:100%" />
+
 - **Repère 5** - Entrée du port (Cl. 28 #24-39, Cartagena, Provincia de Cartagena, Bolívar).
+
+<img src="{{baseurl}}/assets/owner/photos/cartagena5.jpg" style="width:100%" />
 
 Nous avons eu d'énormes problèmes avec notre banque française le Crédit Agricole Alpes Provence (CA Direct). Nous n'avons obtenu aucune aide pour renseigner l'ordre de virement et les informations de j'avais mises n'étaient apparemment pas dans le bon ordre. Ils ont mis 10 jours avant de s'en rendre compte et il leur a fallu 3 autres tentatives pour réussir enfin le virement, des champions du monde. Cela a pris 28 jours au total...
 
