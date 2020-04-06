@@ -112,7 +112,7 @@ Afin que Thor soit présentable demain pour embarquer, nous nous arrêtons dans 
 
 ## 04 mars
 
-Ce matin à 8h00, je suis devant le bureau de Seabord Marine dans le port de Manzanillo à **Colón**, on commence les démarches pour laisser Thor qui va être monté sur un flat rack et partir en direction de la Colombie. Je suis rejoint peu après par Hervé et un couple de belges que j’ai rencontré aussi à la DIJ de Panama. Nous faisons toutes les démarches ensemble. C'est terminé à 11h30, nous prenons un taxi direction la gare routière de Colón puis un bus pour rejoindre Panama City. Nous arrivons à notre hôtel vers 14h00, nous faisons un tour rapide des alentours, je vais dans une banque faire un virement à notre commanditaire pour le port puis nous retournons à l’hôtel nous reposer. Nous passons la soirée dans un restaurant sympa.
+Ce matin à 8h00, je suis devant le bureau de Seabord Marine dans le port de Manzanillo à **Colón**, on commence les démarches pour laisser Thor qui va être monté sur un flat rack et partir en direction de la Colombie. Je suis rejoint peu après par Hervé et un couple de belges que j’ai rencontré aussi à la DIJ de Panama. Nous faisons toutes les démarches ensemble. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-04-06-colombie-shipping %}">ici</a>)**C'est terminé à 11h30, nous prenons un taxi direction la gare routière de Colón puis un bus pour rejoindre Panama City. Nous arrivons à notre hôtel vers 14h00, nous faisons un tour rapide des alentours, je vais dans une banque faire un virement à notre commanditaire pour le port puis nous retournons à l’hôtel nous reposer. Nous passons la soirée dans un restaurant sympa.
 
 ## 05 et 06 mars
 
