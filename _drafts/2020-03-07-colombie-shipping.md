@@ -6,7 +6,7 @@ parent-id: 2020-02-25-panama-mars
 
 date: 2020-03-07 15:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-costarica-panama.jpg"
+header-img: "assets/owner/blog/header/post-bg-cartagena.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-costa-panama.jpg
 tags: []
 pois: [passageptoc]
