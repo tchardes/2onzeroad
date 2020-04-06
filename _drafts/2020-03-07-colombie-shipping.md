@@ -31,7 +31,7 @@ Vous avez le choix entre, vous débrouiller vous-même et démarcher les différ
 - Boris G. Jaramillo de ever Logisticc Inc - mail : sales3@everlogistics.net ou boris_jaramillo@hotmail.com
 - Tea Kalmbach - mail : teakalmbach@hotmail.com ou WhatsApp +54 92267520418
 
-Comme Tea a été la seule à nous répondre, nous avons fait affaire avec elle et avec la compagnie maritime "SeaBoard Marine", tout s'est bien déroulé.
+Comme Tea a été la seule à nous répondre, nous avons fait affaire avec elle et avec la compagnie maritime "SeaBoard Marine". Au final, nous ne regrettons pas du tout car elle a été d'une aide précieuse et nous a continué à nous accompagné bien après que son travail soit terminé. Son tarif : 175 us\$.
 
 Que vous preniez un intermédiaire ou que vous traitez directement avec la compagnie maritime de votre choix, la procédure décrite ci-dessous est identique.
 
@@ -39,8 +39,9 @@ Que vous preniez un intermédiaire ou que vous traitez directement avec la compa
 
 Deux options :
 
-- En numéraire (Dollars US) dans une banque de Panama City sur le compte de la compagnie maritime, aucun frais supplémentaire ;
-- Par virement depuis votre banque. Il faut compter environ 50 US\$ de frais et prévoir une bonne dizaine de jours avant la date du départ du bateau. Si à l'arrivée du bateau à Carthagène, la compagnie n'a pas reçu le virement, non seulement vous ne pouvez pas récupérer le véhicule mais vous devez payer des frais de gardiennage au port. C'est du vécu.
+- En numéraire (Dollars US) dans une banque de Panama City sur le compte de la compagnie maritime, aucun frais supplémentaire (Le plus simple, avec du recul option à priviligier);
+
+- Par virement depuis votre banque. Il faut compter environ 50 US\$ de frais et prévoir une bonne dizaine de jours avant la date du départ du bateau. Le Panama étant particulièrement "surveillé" la procédure est assez complexe puisque le virement passe par les USA (procédure ABA) puis une banque du Panama avant d'arriver au client. Si à l'arrivée du bateau à Carthagène, la compagnie n'a pas reçu le virement, non seulement vous ne pouvez pas récupérer le véhicule mais vous devez payer des frais de gardiennage au port. C'est du vécu.
 
 ## Contrôle à la D.I.J de Panama
 
@@ -108,7 +109,7 @@ Nous avons suivi les directives (Pour un transport en Flat Rack) de notre interm
 - Pas besoin de laver le véhicule (extérieur et dessous). Nous l'avons quand même lavé pour qu'il soit propre ;
 - Aucune contrainte sur le gaz si ce n'est de fermer le réservoir, du coup nous avons fait le plein de gaz ;
 - Aucune contrainte concernant la nourriture. Toutefois nous avons vidé et éteint le frigo et le congélateur ;
-- Pas besoin de cloison entre le poste de conduite et la "maison", la traversée en Flat Rack se fait en une journée, pas d'escale, aucun vol signalé en 7 ans.
+- Pas besoin de cloison entre le poste de conduite et la "maison", la traversée en Flat Rack se fait le week-end, pas d'escale, aucun vol signalé en 7 ans.
 
 La veille, nous sommes allés visiter les écluses de Agua Clara et nous avons bivouaqué à 10 minutes du port sur le parking d'un commissariat **(9.3279829, -79.8931830)**.
 
@@ -159,14 +160,19 @@ A la sortie, se trouvent de nombreux taxis. Nous en avons pris un pour nous cond
 
 ## Récupération au port de Carthagène
 
-### Paiement d'une taxe
+Nous avons eu d'énormes problèmes avec notre banque française le Crédit Agricole Alpes Provence (CA Direct). Nous n'avons obtenu aucune aide pour renseigner l'ordre de virement et les informations de j'avais mises n'étaient apparament pas dans le bon ordre. Ils ont mis 10 jours avant de s'en rendre compte et il leur a fallu 3 autres tentatives pour réussir enfin le virement, des champions du monde. Cela à pris 28 jours au total...
 
-### Compagnie Maritime
+Du coup quand la compagnie maritime a débloqué notre véhicule nous étions en plein confinement dans un hôtel en raison du Covid-19 et nous avons du faire appel à Ana (cortesrodriguez.asesores@gmail.com)le clone de Tea mais pour les traversés Cartagena/Colon pour nous sortir le véhicule du port, ce qui n'a pas été simple et non sans risque.
 
-Pour nous Seacargo ou Seaboard.
+Malgrè le fait que notre camping-car soit resté 16 jours tout seul en zone portuaire, nous n'avons eu à déplorer aucune dégradation ni aucun vol. Par contre cela nous a couté un bras en frais de gardiennage...
 
-### Dian
+Du coup je ne peux pas vous décrire exactement la procédure de récupération mais voilà en gros les principales étapes.
 
-### Aussurance
+<img src="{{baseurl}}/assets/owner/photos/seaboard.pdf" style="width:100%" />
 
-### Port
+Il manque néamoins quelques détail,
+
+- Paiement d'une somme de 50 US\$ pour des frais d'entrée au port
+- Pour pénétrer dans l'enceinte du port vous devez prouver que vous êtes couvert par une assurance vie internationale, ils veulent une attestation à votre nom mentionnant mentionnant le détail de la couverture. A défaut vous devez en souscrire une auprès du port prix = 30 US\$.
+- Assurer votre véhicule (SOAT) obligatoire.
+- Comptez au moins deux jours pour réliser l'ensemble des démarches administratives.
