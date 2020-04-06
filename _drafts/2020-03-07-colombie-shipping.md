@@ -41,7 +41,7 @@ Deux options :
 
 - En numéraire (Dollars US) dans une banque de Panama City sur le compte de la compagnie maritime, aucun frais supplémentaire (Le plus simple et avec du recul, c'est l'option à privilégier);
 
-- Par virement depuis votre banque. Il faut compter environ 50 US\$ de frais et prévoir une bonne dizaine de jours avant la date du départ du bateau. Le Panama étant particulièrement "surveillé" la procédure est assez complexe puisque le virement passe par les USA (procédure ABA) puis une banque du Panama avant d'arriver au client. Si à l'arrivée du bateau à Carthagène, la compagnie n'a pas reçu le virement, non seulement vous ne pouvez pas récupérer le véhicule mais vous devez payer des frais de gardiennage au port. C'est du vécu.
+- Par virement depuis votre banque. Il faut compter environ 50 US\$ de frais et prévoir une bonne dizaine de jours avant la date du départ du bateau. Le Panama étant particulièrement "surveillé" au niveau des flux bancaires, la procédure est assez complexe puisque le virement passe par les USA (procédure ABA) puis une banque du Panama avant d'arriver au client. Si à l'arrivée du bateau à Carthagène, la compagnie n'a pas reçu le virement, non seulement vous ne pouvez pas récupérer le véhicule mais vous devez payer des frais de gardiennage au port. C'est du vécu.
 
 ## Contrôle à la D.I.J de Panama
 
