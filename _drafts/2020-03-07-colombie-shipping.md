@@ -168,7 +168,7 @@ Malgrè le fait que notre camping-car soit resté 16 jours tout seul en zone por
 
 Du coup je ne peux pas vous décrire exactement la procédure de récupération mais voilà en gros les principales étapes.
 
-<img src="{{baseurl}}/assets/owner/photos/seaboard.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/seaboard.jpg" style="width:70%" />
 
 Il manque néamoins quelques détail,
 
