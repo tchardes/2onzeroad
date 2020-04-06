@@ -162,23 +162,23 @@ A la sortie, se trouvent de nombreux taxis. Nous en avons pris un pour nous cond
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena.jpg" style="width:100%" />
 
-- **Repère 1** - Bureaux de Seaboard, récupération du Bill of Landing, l'autorisation de vidage et les clés du véhicule **10.395079, -75.523328** (Dg. 20 #48-2 a 48-196, Cartagena, Bolívar) ;
+- **Repère 1** - Bureaux de Seaboard, récupération du Bill of Landing, l'autorisation de vidage et les clés du véhicule (**10.395079, -75.523328**), Dg. 20 #48-2 a 48-196, Cartagena, Bolívar ;
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena1.jpg" style="width:100%" />
 
-- **Repère 2** - CitiBank pour le virement des 50US\$ **10.409027, -75.532147** (#27- a, Cl. 28 #2790, Cartagena, Bolívar) ;
+- **Repère 2** - CitiBank pour le virement des 50US\$ (**10.409027, -75.532147**), #27- a, Cl. 28 #2790, Cartagena, Bolívar ;
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena2.jpg" style="width:100%" />
 
-- **Repère 3** - Locaux de la DIAN - Douanes **10.409387, -75.532647** (76, Cra. 25 #25, Provincia de Cartagena, Bolívar) ;
+- **Repère 3** - Locaux de la DIAN - Douanes (**10.409387, -75.532647**), 76, Cra. 25 #25, Provincia de Cartagena, Bolívar ;
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena3.jpg" style="width:100%" />
 
-- **Repère 4** - Seguros SURA Colombia, un des assureurs possibles, (Av. California Carrera 17 No. 24 - 178, Cartagena, Bolívar) ;
+- **Repère 4** - Seguros SURA Colombia, un des assureurs possibles (**10.415351, -75.542215**), Av. California Carrera 17 No. 24 - 178, Cartagena, Bolívar ;
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena4.jpg" style="width:100%" />
 
-- **Repère 5** - Entrée du port (Cl. 28 #24-39, Cartagena, Provincia de Cartagena, Bolívar).
+- **Repère 5** - Entrée du port (**10.395086, -75.523332**), Cl. 28 #24-39, Cartagena, Provincia de Cartagena, Bolívar.
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena5.jpg" style="width:100%" />
 
