@@ -39,7 +39,7 @@ Que vous preniez un intermédiaire ou que vous traitez directement avec la compa
 
 Deux options :
 
-- En numéraire (Dollars US) dans une banque de Panama City sur le compte de la compagnie maritime, aucun frais supplémentaire (Le plus simple, avec du recul option à priviligier);
+- En numéraire (Dollars US) dans une banque de Panama City sur le compte de la compagnie maritime, aucun frais supplémentaire (Le plus simple, avec du recul option à privilégier);
 
 - Par virement depuis votre banque. Il faut compter environ 50 US\$ de frais et prévoir une bonne dizaine de jours avant la date du départ du bateau. Le Panama étant particulièrement "surveillé" la procédure est assez complexe puisque le virement passe par les USA (procédure ABA) puis une banque du Panama avant d'arriver au client. Si à l'arrivée du bateau à Carthagène, la compagnie n'a pas reçu le virement, non seulement vous ne pouvez pas récupérer le véhicule mais vous devez payer des frais de gardiennage au port. C'est du vécu.
 
@@ -65,10 +65,10 @@ Dès que l'on arrive sur zone, le parking et les bureaux se trouvent sur votre d
 - Une fois stationné, entrez sur le parking et dirigez-vous directement à la porte grise en haut de quelques marches. A l'intérieur, se trouve un agent qui va remplir un cahier avec vos principales informations puis il va vous donner un papier avec votre N° de passage ;
 - De retour au véhicule, ouvrez le capot afin que le moteur refroidisse ;
 - Préparer votre dossier qui doit se composer des photocopies suivantes :
-  - Carte grise
-  - Titre d'importation temporaire
-  - Passeport, page avec la photo
-  - Assurance du véhicule (qu'ils n'ont pas prise) ;
+- Carte grise
+- Titre d'importation temporaire
+- Passeport, page avec la photo
+- Assurance du véhicule (qu'ils n'ont pas prise) ;
 - Vers 8 heures, il commence son inspection qui consiste à vérifier le N° de série et le cas échéant celui du moteur avec la carte grise et le titre d'importation temporaire. On attend son tour devant son véhicule. L'opération prend quelques minutes et il vous donne rendez-vous à 14h00 dans un autre commissariat qui se trouve de l'autre côté de la double voie **_Repère 4_**.
 
 ### Phase 2
@@ -83,10 +83,10 @@ Dès que l'on arrive sur zone, le parking et les bureaux se trouvent sur votre d
 Il n'y a pas beaucoup de place pour se garer devant le bâtiment, le plus simple est de se garer à nouveau sous le pont **_Repère 2_** comme pour le matin et y aller à pied. Pour traverser la double voie, vous avez une passerelle sur votre droite **_Repère 3_**.
 
 - Ne pas faire la queue et allez directement voir l'agent qui se trouve dans une petite guérite sur votre droite qui vous donnera un badge visiteur. Entrez ensuite dans le bâtiment et expliquez à l'accueil la raison de votre venue. Une personne va venir vous faire remplir un document que vous lui rendez avec un autre dossier composé des photocopies suivantes :
-  - Carte grise
-  - Titre d'importation temporaire
-  - Passeport, page avec la photo
-  - Assurance du véhicule (qu'ils n'ont pas prise)
+- Carte grise
+- Titre d'importation temporaire
+- Passeport, page avec la photo
+- Assurance du véhicule (qu'ils n'ont pas prise)
 - La personne revient après un certain temps avec le fameux document, **bien vérifier que toutes les informations sont correctes** et le faire refaire s' il y a une erreur.
 
 Avant votre départ de Panama City, faire 4 photocopies du document remis par la DIJ pour la suite de la procédure.
@@ -160,11 +160,19 @@ A la sortie, se trouvent de nombreux taxis. Nous en avons pris un pour nous cond
 
 ## Récupération au port de Carthagène
 
-Nous avons eu d'énormes problèmes avec notre banque française le Crédit Agricole Alpes Provence (CA Direct). Nous n'avons obtenu aucune aide pour renseigner l'ordre de virement et les informations de j'avais mises n'étaient apparament pas dans le bon ordre. Ils ont mis 10 jours avant de s'en rendre compte et il leur a fallu 3 autres tentatives pour réussir enfin le virement, des champions du monde. Cela à pris 28 jours au total...
+<img src="{{baseurl}}/assets/owner/photos/cartagena.jpg" style="width:100%" />
+
+- **Repère 1** - Bureaux de Seaboard, récupération du Bill of Landing et des clé du véhicule ;
+- **Repère 2** - CityBank pour le virement des 50US\$ (28, Cl. 29 #26, Provincia de Cartagena, Bolívar) ;
+- **Repère 3** - Locaux de la DIAN - Douanes (76, Cra. 25 #25, Provincia de Cartagena, Bolívar) ;
+- **Repère 4** - Seguros SURA Colombia, un des assureurs possibles, (Av. California Carrera 17 No. 24 - 178, Cartagena, Bolívar) ;
+- **Repère 5** - Entrée du port (Cl. 28 #24-39, Cartagena, Provincia de Cartagena, Bolívar).
+
+Nous avons eu d'énormes problèmes avec notre banque française le Crédit Agricole Alpes Provence (CA Direct). Nous n'avons obtenu aucune aide pour renseigner l'ordre de virement et les informations de j'avais mises n'étaient apparemment pas dans le bon ordre. Ils ont mis 10 jours avant de s'en rendre compte et il leur a fallu 3 autres tentatives pour réussir enfin le virement, des champions du monde. Cela à pris 28 jours au total...
 
 Du coup quand la compagnie maritime a débloqué notre véhicule nous étions en plein confinement dans un hôtel en raison du Covid-19 et nous avons du faire appel à Ana (cortesrodriguez.asesores@gmail.com)le clone de Tea mais pour les traversés Cartagena/Colon pour nous sortir le véhicule du port, ce qui n'a pas été simple et non sans risque.
 
-Malgrè le fait que notre camping-car soit resté 16 jours tout seul en zone portuaire, nous n'avons eu à déplorer aucune dégradation ni aucun vol. Par contre cela nous a couté un bras en frais de gardiennage...
+Malgré le fait que notre camping-car soit resté 16 jours tout seul en zone portuaire, nous n'avons eu à déplorer aucune dégradation ni aucun vol. Par contre cela nous a couté un bras en frais de gardiennage...
 
 <img src="{{baseurl}}/assets/owner/photos/thor_cartagena.jpg" style="width:70%" />
 
@@ -172,9 +180,9 @@ Du coup je ne peux pas vous décrire exactement la procédure de récupération 
 
 <img src="{{baseurl}}/assets/owner/photos/seaboard.jpg" style="width:70%" />
 
-Il manque néamoins quelques détails :
+Il manque néanmoins quelques détails :
 
 - Paiement d'une somme de 50 US\$ pour des frais d'entrée au port
 - Pour pénétrer dans l'enceinte du port vous devez prouver que vous êtes couvert par une assurance vie internationale, ils veulent une attestation à votre nom mentionnant le détail de la couverture. A défaut vous devez en souscrire une auprès du port prix = 30 US\$.
 - Assurer votre véhicule (SOAT) obligatoire.
-- Comptez au moins deux jours pour réliser l'ensemble des démarches administratives.
+- Comptez au moins deux jours pour réaliser l'ensemble des démarches administratives.
