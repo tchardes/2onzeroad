@@ -182,7 +182,7 @@ A la sortie, se trouvent de nombreux taxis. Nous en avons pris un pour nous cond
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena5.jpg" style="width:100%" />
 
-Nous avons eu d'énormes problèmes avec notre banque française le Crédit Agricole Alpes Provence (CA Direct). Nous n'avons obtenu aucune aide pour renseigner l'ordre de virement et les informations de j'avais mises n'étaient apparemment pas dans le bon ordre. Ils ont mis 10 jours avant de s'en rendre compte et il leur a fallu 3 autres tentatives pour réussir enfin le virement, des champions du monde. Cela a pris 28 jours au total...
+Nous avons eu d'énormes problèmes avec notre banque française le Crédit Agricole Alpes Provence (CA Direct). Nous n'avons obtenu aucune aide pour renseigner l'ordre de virement et les informations de j'avais mises n'étaient apparemment pas dans le bon ordre. Ils ont mis 10 jours avant de s'en rendre compte et il leur a fallu 3 autres tentatives pour réussir enfin le virement, des champions du monde. Cela a pris 28 jours au total... Responsables mais pas coupables...
 
 Du coup quand la compagnie maritime a débloqué notre véhicule, nous étions en plein confinement dans un hôtel en raison du Covid-19 et nous avons du faire appel à Ana (cortesrodriguez.asesores@gmail.com) une Customs Broker, le clone de Tea mais pour les traversées Cartagena/Colon pour nous sortir le véhicule du port, ce qui n'a pas été simple et non sans risque. Elle a été très efficace.
 
