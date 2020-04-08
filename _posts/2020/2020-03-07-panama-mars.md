@@ -170,11 +170,11 @@ Le soir, nous retournons manger dans un resto très proche de l’hôtel et pass
 
 Ce matin, on fait le check out de l’hôtel et prenons un Uber pour nous conduire à l’aéroport, c’est trois fois moins cher qu’un taxi et les véhicules sont toujours récents et impeccables, ce qui n’est pas le cas des taxis. A l’aéroport, l’enregistrement à la Copa Airlines est assez rapide ainsi que le passage de la sécurité. Comme nous avons deux heures à passer avant l'embarquement, nous prenons un café et une viennoiserie, certainement les consommations les plus chères que nous ayons payées, 18\$. Autant dire que nous les avons dégustées…
 
-<img src="{{baseurl}}/assets/owner/photos/panamaavion2.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/panama_avion2.jpg" style="width:100%" />
 
 C'est la première fois que nous nous trouvons dans une salle d'embarquement qui est également une salle de débarquement. Lors de l'arrivée d'un avion, on constate que tous les passagers sont pris en compte pas des agents protégés de la tête au pied qui vérifient leur température. On espère ne pas avoir de problème pour entrer en Colombie.
 
-<img src="{{baseurl}}/assets/owner/photos/panamaavion1.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/panama_avion1.jpg" style="width:100%" />
 
 Nous partons à l'heure prévue pour un vol de moins d'une heure qui nous fait passer au dessus du bouchon du Darién. Nous quittons ainsi le Panama et l'Amérique Centrale que nous avons parcourue durant 4 mois avec un immense plaisir.
 
