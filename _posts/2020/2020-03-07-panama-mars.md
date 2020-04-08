@@ -188,7 +188,7 @@ Nous partons à l'heure prévue pour un vol de moins d'une heure qui nous fait p
 
 - Les prix en général ;
 - L'amende pour excès de vitesse qui nous a fait perdre 2 jours sur notre programme ;
-- L'escroquerie de la traversée entre Colón et Cartagena (Colombie) ;
+- Le prix de la traversée entre Colón et Cartagena (Colombie), une escroquerie ;
 - Plus sale et moins bien entretenue que le Costa Rica ;
 - Les habitants pas toujours sympathiques.
 
