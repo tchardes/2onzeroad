@@ -20,7 +20,7 @@ location: "9.360922, -79.888177"
 
 Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives à entreprendre pour faire passer son camping-car par voie maritime du Panama à la Colombie.
 
-Il n'existe aucune route qui permet de passer du Panama à la Colombie par le bouchon du Darién, c'est l'unique chaînon manquant de la route paraméricaine. Le véhicule doit donc prendre le bateau et seulement quelques compagnies maritimes se partagent le gâteau et ils en profitent largement, cela frise l'escroquerie, mais c'est le seul moyen pour passer en Amérique du Sud. Plus aucun ferry n'assure cette liaison, depuis longtemps. Selon le type de votre véhicule, plusieurs options s'offrent à vous, par conteneur que vous pouvez partager, comme son prix, par RORO ou par Flat Rack. Nous avons opté pour ce dernier système, Thor ne rentrant pas dans un conteneur et le Flat Rack étant plus rapide. Le prix entre RORO et Flat Rack est sensiblement le même.
+Il n'existe aucune route qui permet de passer du Panama à la Colombie par le bouchon du Darién, c'est l'unique chaînon manquant de la route panaméricaine. Le véhicule doit donc prendre le bateau et seulement quelques compagnies maritimes se partagent le gâteau et ils en profitent largement, cela frise l'escroquerie, mais c'est le seul moyen pour passer en Amérique du Sud. Plus aucun ferry n'assure cette liaison, depuis longtemps. Selon le type de votre véhicule, plusieurs options s'offrent à vous, par conteneur que vous pouvez partager, comme son prix, par RORO ou par Flat Rack. Nous avons opté pour ce dernier système, Thor ne rentrant pas dans un conteneur et le Flat Rack étant plus rapide. Le prix entre RORO et Flat Rack est sensiblement le même.
 
 <div id="toc"></div>
 
@@ -39,7 +39,7 @@ Que vous preniez un intermédiaire ou que vous traitez directement avec la compa
 
 Deux options :
 
-- En numéraire (Dollars US) dans une banque de Panama City sur le compte de la compagnie maritime, aucun frais supplémentaire (le plus simple et avec du recul, c'est l'option à privilégier);
+- En numéraire (Dollars US) dans une banque de Panama City sur le compte de la compagnie maritime, aucun frais supplémentaire (le plus simple et avec du recul, c'est l'option à privilégier) ;
 
 - Par virement depuis votre banque. Il faut compter environ 50 US\$ de frais et prévoir une bonne dizaine de jours avant la date du départ du bateau. Le Panama étant particulièrement "surveillé" au niveau des flux bancaires, la procédure est assez complexe puisque le virement passe par les USA (procédure ABA) puis une banque du Panama avant d'arriver au client. Si, à l'arrivée du bateau à Carthagène, la compagnie n'a pas reçu le virement, non seulement vous ne pouvez pas récupérer le véhicule mais vous devez payer des frais de gardiennage au port. C'est du vécu.
 
@@ -87,7 +87,7 @@ Il n'y a pas beaucoup de place pour se garer devant le bâtiment, le plus simple
 - Titre d'importation temporaire
 - Passeport, page avec la photo
 - Assurance du véhicule (qu'ils n'ont pas prise)
-- La personne revient après un certain temps avec le fameux document, **bien vérifier que toutes les informations sont correctes** et le faire refaire s' il y a une erreur.
+- La personne revient après un certain temps avec le fameux document, **bien vérifier que toutes les informations sont correctes** et le faire refaire s'il y a une erreur.
 
 Avant votre départ de Panama City, faire 4 photocopies du document remis par la DIJ pour la suite de la procédure.
 
@@ -105,7 +105,7 @@ Avant votre départ de Panama City, faire 4 photocopies du document remis par la
 
 Nous avons suivi les directives (Pour un transport en Flat Rack) de notre intermédiaire à savoir :
 
-- Réservoir d'essence plein à 25% ;
+- Réservoir d'essence plein à 25 % ;
 - Pas besoin de laver le véhicule (extérieur et dessous). Nous l'avons quand même lavé pour qu'il soit propre ;
 - Aucune contrainte sur le gaz si ce n'est de fermer le réservoir, du coup nous avons fait le plein de gaz ;
 - Aucune contrainte concernant la nourriture. Toutefois nous avons vidé et éteint le frigo et le congélateur ;
@@ -197,7 +197,7 @@ Du coup, je ne peux pas vous décrire exactement la procédure de récupération
 Il manque néanmoins quelques détails :
 
 - Paiement d'une somme de 50 US\$ pour des frais d'entrée au port (Citibank - Repère 2) ;
-- pour la DIAN, en plus des photocopies habituelles (carte grise, permis, passeport), il faut fournir une phocopie de la page du passeport avec le tampon d'entrée en Colombie, le document de la DIJ du Panama autorisant le véhicule à quitter le pays.
+- pour la DIAN, en plus des photocopies habituelles (carte grise, permis, passeport), il faut fournir une photocopie de la page du passeport avec le tampon d'entrée en Colombie, le document de la DIJ du Panama autorisant le véhicule à quitter le pays.
 - Pour pénétrer dans l'enceinte du port vous devez prouver que vous êtes couvert par une assurance vie internationale, ils veulent une attestation à votre nom mentionnant le détail de la couverture. A défaut, vous devez en souscrire une auprès du port prix = 30 US\$ ;
 - Assurer votre véhicule (SOAT) obligatoire ;
 - Compter au moins deux jours pour réaliser l'ensemble des démarches administratives.
