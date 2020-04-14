@@ -7,7 +7,7 @@ parent-id: 2020-03-07-panama-mars
 date: 2020-04-06 15:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-cartagena.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-pan_colo.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-pancolo.jpg
 tags: []
 pois: [passageptoc]
 flickr-text: ""
