@@ -201,3 +201,5 @@ Il manque néanmoins quelques détails :
 - Pour pénétrer dans l'enceinte du port vous devez prouver que vous êtes couvert par une assurance vie internationale, ils veulent une attestation à votre nom mentionnant le détail de la couverture. A défaut, vous devez en souscrire une auprès du port prix = 30 US\$ ;
 - Assurer votre véhicule (SOAT) obligatoire ;
 - Compter au moins deux jours pour réaliser l'ensemble des démarches administratives.
+
+<img src="{{baseurl}}/assets/owner/photos/cartagena6.jpg" style="width:100%" />
