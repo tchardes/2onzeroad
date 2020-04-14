@@ -133,7 +133,7 @@ Se rendre aux bureaux des douanes qui se trouvent un peu loin aux coordonnées *
 
 L'agent imprime un titre d'importation temporaire, comme lors de votre entrée au Panama, mais avec le paragraphe 5 renseigné, c'est-à-dire la permission de sortie du véhicule. Il vous rend 2 dossiers complets avec ce document en plus. Lui donner ensuite votre passeport afin qu'il y appose deux tampons vous autorisant à quitter le territoire sans votre véhicule.
 
-<img src="{{baseurl}}/assets/owner/photos/DIJ7.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/DIJ7.jpg" style="width:70%" />
 
 ### Garita RORO
 
