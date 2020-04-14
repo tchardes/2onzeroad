@@ -3,9 +3,9 @@ layout: blog
 title: "Colombie"
 preview: "Cet article couvre la période du 07 mars au 2020, au cours de laquelle nous avons visité la Colombie"
 parent-id:
-date: 2020-03-08 13:00:00
+date: 2020-04-14 13:00:00
 from-date: 2020-03-07 12:00:00
-to-date: 2020-03-08 13:00:00
+to-date: 2020-04-14 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt32.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
