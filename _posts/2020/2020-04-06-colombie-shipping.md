@@ -12,8 +12,8 @@ tags: []
 pois: [passageptoc]
 flickr-text: ""
 country: Colombie
-states: [Colón]
-city: Carthagène
+states: [Bolivar]
+city: Carthagène des Indes
 category: "information"
 location: "9.360922, -79.888177"
 ---
