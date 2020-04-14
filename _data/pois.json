@@ -519,6 +519,7 @@
   { "name": "manzanillo", "displayName": "Manzanillo", "type": "ville", "country": "Costa Rica" },
   { "name": "gandocamanzanillo", "displayName": "Gandoca - Manzanillo - Refuge National", "type": "nature", "country": "Costa Rica" },
 
+  { "name": "passagecrtop", "displayName": "Passage frontière Costa Rica - Panama", "type": "information", "country": "Panama" },
   { "name": "almirante", "displayName": "Almirante", "type": "ville", "country": "Panama" },
   { "name": "bocas", "displayName": "Bocas Del Toro", "type": "ville", "country": "Panama" },
   { "name": "boquete", "displayName": "Boquete", "type": "ville", "country": "Panama" },
@@ -529,7 +530,7 @@
   { "name": "aguaclara", "displayName": "Agua Clara - Ecluses", "type": "autre", "country": "Panama" },
   { "name": "colon", "displayName": "Colón", "type": "ville", "country": "Panama" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Colombie" },
+  { "name": "passageptoc", "displayName": "Shipping Panama - Colombie", "type": "information", "country": "Colombie" },
   { "name": "", "displayName": "", "type": "", "country": "Colombie" },
   { "name": "", "displayName": "", "type": "", "country": "Colombie" },
   { "name": "", "displayName": "", "type": "", "country": "Colombie" },
