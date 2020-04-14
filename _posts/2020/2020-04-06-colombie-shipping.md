@@ -43,7 +43,7 @@ Deux options :
 
 - Par virement depuis votre banque. Il faut compter environ 50 US\$ de frais et prévoir une bonne dizaine de jours avant la date du départ du bateau. Le Panama étant particulièrement "surveillé" au niveau des flux bancaires, la procédure est assez complexe puisque le virement passe par les USA (procédure ABA) puis une banque du Panama avant d'arriver au client. Si, à l'arrivée du bateau à Carthagène, la compagnie n'a pas reçu le virement, non seulement vous ne pouvez pas récupérer le véhicule mais vous devez payer des frais de gardiennage au port. C'est du vécu.
 
-## Contrôle à la D.I.J de Panama
+## Contrôle à la D.I.J de Panama City
 
 <img src="{{baseurl}}/assets/owner/photos/DIJ1.jpg" style="width:100%" />
 
@@ -158,7 +158,7 @@ On reprend le véhicule et on peut enfin procéder à la dépose du véhicule au
 
 A la sortie, se trouvent de nombreux taxis. Nous en avons pris un pour nous conduire au terminal des bus de Colón et avons pris un bus express pour Panama City. Le trajet prend environ 1h30 et coûte 3,5 US\$ par personne.
 
-## Récupération au port de Carthagène
+## Récupération au port de Carthagène des Indes (Colombie)
 
 <img src="{{baseurl}}/assets/owner/photos/cartagena.jpg" style="width:100%" />
 
