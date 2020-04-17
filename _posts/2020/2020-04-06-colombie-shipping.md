@@ -65,10 +65,10 @@ Dès que l'on arrive sur zone, le parking et les bureaux se trouvent sur votre d
 - Une fois stationné, entrez sur le parking et dirigez-vous directement à la porte grise en haut de quelques marches. A l'intérieur, se trouve un agent qui va remplir un cahier avec vos principales informations puis il va vous donner un papier avec votre N° de passage ;
 - De retour au véhicule, ouvrez le capot afin que le moteur refroidisse ;
 - Préparer votre dossier qui doit se composer des photocopies suivantes :
-- Carte grise
-- Titre d'importation temporaire
-- Passeport, page avec la photo
-- Assurance du véhicule (qu'ils n'ont pas prise) ;
+- Carte grise ;
+- Titre d'importation temporaire ;
+- Passeport, page avec la photo ;
+- Assurance du véhicule (qu'ils n'ont pas prise).
 - Vers 8 heures, il commence son inspection qui consiste à vérifier le N° de série et le cas échéant celui du moteur avec la carte grise et le titre d'importation temporaire. On attend son tour devant son véhicule. L'opération prend quelques minutes et il vous donne rendez-vous à 14h00 dans un autre commissariat qui se trouve de l'autre côté de la double voie **_Repère 4_**.
 
 ### Phase 2
@@ -83,10 +83,10 @@ Dès que l'on arrive sur zone, le parking et les bureaux se trouvent sur votre d
 Il n'y a pas beaucoup de place pour se garer devant le bâtiment, le plus simple est de se garer à nouveau sous le pont **_Repère 2_** comme pour le matin et y aller à pied. Pour traverser la double voie, vous avez une passerelle sur votre droite **_Repère 3_**.
 
 - Ne pas faire la queue et allez directement voir l'agent qui se trouve dans une petite guérite sur votre droite qui vous donnera un badge visiteur. Entrez ensuite dans le bâtiment et expliquez à l'accueil la raison de votre venue. Une personne va venir vous faire remplir un document que vous lui rendez avec un autre dossier composé des photocopies suivantes :
-- Carte grise
-- Titre d'importation temporaire
-- Passeport, page avec la photo
-- Assurance du véhicule (qu'ils n'ont pas prise)
+- Carte grise ;
+- Titre d'importation temporaire ;
+- Passeport, page avec la photo ;
+- Assurance du véhicule (qu'ils n'ont pas prise) ;
 - La personne revient après un certain temps avec le fameux document, **bien vérifier que toutes les informations sont correctes** et le faire refaire s'il y a une erreur.
 
 Avant votre départ de Panama City, faire 4 photocopies du document remis par la DIJ pour la suite de la procédure.
