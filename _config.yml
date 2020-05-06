@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "10.397525, -75.489975"
-  name: "Carthagène des Indes - Colombie"
-  date: "07 mars au 04 mai 2020"
+  coordinates: "46.495524, 2.605024"
+  name: "France"
+  date: "06 mai 2020"
 
 # set the encoding to utf-8
 encoding: utf-8
