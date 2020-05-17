@@ -7,9 +7,9 @@ date: 2020-05-08 13:00:00
 from-date: 2020-03-07 12:00:00
 to-date: 2020-05-07 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt32.jpg"
+header-img: "assets/owner/blog/header/post-bg-rt33.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
-tags: [mer-ocean, transport, histoire]
+tags: [mer-ocean, transport, histoire, architecture]
 pois: [cartagena#O7-mars]
 country: Colombie
 states: ["Bolivar"]
