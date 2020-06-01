@@ -24,11 +24,7 @@ Cet article couvre la période du 23 février au 04 mai 2020, au cours de laquel
 
 ## 07 au 12 mars
 
-Ce matin on fait le check out de l’hôtel et prenons un Uber pour nous conduire à l’aéroport, c’est trois fois moins cher qu’un Taxi et les véhicule sont toujours récent est impeccable, c’est pas toujours le cas des Taxis.
-
-A l’aéroport l’enregistrement à la Copan est assez rapide ainsi que le passage de la sécurité. Cimme nous avons deux heures à passer nous prenons un café est une viennoiserie, certainement les plus chères que nous ayant pauyé, 18$, on l’a dégusté…
-
-Le vol est assez rapide, moins d’une heure avant d’arriver en Colombie. Les formalités, immigrations et douanes sont rapides. Effectivement il y un panneau qui liste les pays « cibles » du Coronavirus et la France est bien absente. Tant mieux.. Visa de 90 jours accordé. Nous prenons un Uber qui nous conduit à notre hôtel qui se trouve sur un cordon lagunaire et nous passons devant la vielle ville entourée de ses remparts. Il y a un vent assez fort et la mer est démontée. Notre hôtel est vraiment récent avec tout le confort. Une fois installé un sort mangé un morceau et prendre une nouvelle carte Sim.
+Après un vol rapide, nous arrivons en Colombie. Les formalités, immigrations et douanes sont rapides. Effectivement il y un panneau qui liste les pays «cibles» du Coronavirus et la France y est absente. Tant mieux.. Visa de 90 jours accordé. Nous prenons un Uber qui nous conduit à notre hôtel qui se trouve sur un cordon lagunaire et nous passons devant la vielle ville entourée de ses remparts. Il y a un vent assez fort et la mer est démontée. Notre hôtel est vraiment récent avec tout le confort. Une fois installé nous sortons mangé un morceau et prendre une nouvelle carte Sim.
 
 le 09
 
@@ -38,19 +34,15 @@ le 10
 
 Ce matin on a eu confirmation que le CA n’avait pas fait son boulot. Après ma gueulante ils se sont enfin bougés le cul et le virement a été effectuée… 12 jours perdus. On apprend également que le bateau arrivera que ce soir… espèrons que le virement arrive entre temps… Du coup on change d’hôtel et on se rapproche du Port. On passe l’après-midi en ville. Paraisseux dans le parc.
 
-
-
 Le 15 avrilà 6h00 tremblement de terre, on dormait nus n’avons rien sentis, fissure au niveau de la age d’escalier dans l’hôtel.
 
 Nous avons gouté plein de fruit souvent sous forme de jus, Zapote, tomate des arbres, Lulo, guanabana, Coroso, Nispero….
 
 04 mai
 
-
 Contact avec la migration OK
 Dépose du Thor dans un entrepot.
 Départ de colombie.
-
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
