@@ -24,7 +24,7 @@ Cet article couvre la période du 23 février au 04 mai 2020, au cours de laquel
 
 ## 07 au 12 mars
 
-Après un vol rapide, nous arrivons en Colombie. Les formalités, immigrations et douanes sont rapides. Effectivement il y un panneau qui liste les pays «cibles» du Coronavirus et la France y est absente. Tant mieux.. Visa de 90 jours accordé. Nous prenons un Uber qui nous conduit à notre hôtel qui se trouve sur un cordon lagunaire et nous passons devant la vielle ville entourée de ses remparts. Il y a un vent assez fort et la mer est démontée. Notre hôtel est vraiment récent avec tout le confort. Une fois installé nous sortons mangé un morceau et prendre une nouvelle carte Sim.
+Après un vol rapide, nous arrivons en Colombie. Les formalités, immigrations et douanes sont rapides. Effectivement il y un panneau qui liste les pays «cibles» du Coronavirus et la France y est absente. Tant mieux.. Visa de 90 jours accordé. Nous prenons un Uber qui nous conduit à notre hôtel qui se trouve sur un cordon lagunaire. Nous passons devant la vielle ville entourée de ses remparts, c'est très beau. Il y a un vent assez fort et la mer est démontée. Notre hôtel est vraiment récent avec tout le confort. Une fois installés nous sortons manger un morceau et prendre une nouvelle carte Sim.
 
 le 09
 
@@ -37,6 +37,8 @@ Ce matin on a eu confirmation que le CA n’avait pas fait son boulot. Après ma
 Le 15 avrilà 6h00 tremblement de terre, on dormait nus n’avons rien sentis, fissure au niveau de la age d’escalier dans l’hôtel.
 
 Nous avons gouté plein de fruit souvent sous forme de jus, Zapote, tomate des arbres, Lulo, guanabana, Coroso, Nispero….
+
+02 avril on récupére enfin Thor.
 
 04 mai
 
