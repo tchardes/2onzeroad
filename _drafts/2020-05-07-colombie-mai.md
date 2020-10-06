@@ -24,7 +24,7 @@ Cet article couvre la période du 23 février au 04 mai 2020, au cours de laquel
 
 ## 07 au 12 mars
 
-Après un vol rapide, nous arrivons en Colombie. Les formalités, immigrations et douanes sont rapides. Effectivement il y un panneau qui liste les pays "cibles" du Coronavirus mais la France y est absente. Tant mieux. Visa de 90 jours accordé sans passer pa rla case examen médical. Nous prenons un Uber qui nous conduit à notre hôtel qui se trouve sur un cordon lagunaire, véritable station balnéaire. Nous passons devant la vieille ville entourée de ses remparts, c'est très beau. Il y a un vent assez fort et la mer est démontée. Notre hôtel est vraiment récent avec tout le confort. Une fois installés nous sortons manger un morceau et prendre une nouvelle carte Sim.
+Après un vol rapide, nous arrivons en Colombie. Les formalités, immigrations et douanes sont rapides. Effectivement il y un panneau qui liste les pays "cibles" du Coronavirus mais la France y est absente. Tant mieux. Visa de 90 jours accordé sans passer par la case examen médical. Nous prenons un Uber qui nous conduit à notre hôtel qui se trouve sur un cordon lagunaire, véritable station balnéaire. Nous passons devant la vieille ville entourée de ses remparts, c'est très beau. Il y a un vent assez fort et la mer est démontée. Notre hôtel est vraiment récent avec tout le confort. Une fois installés nous sortons manger un morceau et prendre une nouvelle carte Sim.
 
 le 09
 
