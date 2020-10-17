@@ -30,7 +30,7 @@ Après un vol rapide, nous arrivons en Colombie. Les formalités, immigrations e
 
 ## 08 et 09 mars
 
-Ce matin nous prenons un colectivo pour visiter le centre de Carthagène où nous rejoignons Hervé. Nous déhambulons dans la vieille ville coloniale qui est vraiment très belle, bien conservée et mise en valeur, c’est vraiment très agréable. Nous sortons des rempart et passons un long moment dans le quartier Getsemani qui abrite de petites ruelles aux habitations très colorés, aux murs couverts de peintures murales, on passe un très beau moment. Nous faisons une pose dans un "Café" qui ne sert que du café, la carte est impressionnante et nous buvons un très bon café, très parfumé. Nous avons été très déçus du café, comme du chocolat d'ailleur, que nous avons dégustés au Mexique et en Amérique Centrale, espèrons qu'ici El Gringo n'a pas acheté le meilleur et dégusterons de très bons. Nous finissons la journée au Château de San Felipe de Barajas.
+Ce matin nous prenons un colectivo pour visiter le centre de Carthagène où nous rejoignons Hervé. Nous déhambulons dans la vieille ville coloniale qui est vraiment très belle, bien conservée et mise en valeur, c’est vraiment très agréable.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49646621237/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49646621237_1e1dbacf4d_3k.jpg" width="3072" height="2048" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -41,6 +41,22 @@ Ce matin nous prenons un colectivo pour visiter le centre de Carthagène où nou
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49645681838/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49645681838_2a525b231c_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49646721697/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49646721697_f03b8f1258_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49644327098/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49644327098_42caa7a7ca_3k.jpg" width="3072" height="1071" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous sortons des rempart et passons un long moment dans le quartier Getsemani qui abrite de petites ruelles aux habitations très colorés, aux murs couverts de peintures murales, on passe un très beau moment. Nous faisons une pose dans un "Café" qui ne sert que du café, la carte est impressionnante et nous buvons un très bon café, très parfumé. Nous avons été très déçus du café, comme du chocolat d'ailleur, que nous avons dégustés au Mexique et en Amérique Centrale, espèrons qu'ici El Gringo n'a pas acheté le meilleur et dégusterons de très bons.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49646193616/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49646193616_52dc69cb6f_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49646135166/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49646135166_82870b3eee_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49665493868/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49665493868_17c95b5be9_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous finissons la journée au Château de San Felipe de Barajas, imposante citadelle qui domine la ville et surtout la baie.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49645546523/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49645546523_504b38adfa_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49646353722/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49646353722_1abdfee678_3k.jpg" width="3072" height="1920" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Normalement Thor est arrivé ce jour au port et nous devrions pourvoir le récupérér demain. Ce qui n’est pas sur car la compagnie maritime n’a toujours pa reçu le virement du Crédit Agricole, quelle banque de m…
 
