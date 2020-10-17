@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Colombie"
-preview: "Cet article couvre la période du 23 février au 04 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud et avons visité la..."
+preview: "Cet article couvre la période du 23 février au 04 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud..."
 parent-id:
 date: 2020-05-07 13:00:00
 from-date: 2020-03-07 12:00:00
@@ -9,7 +9,7 @@ to-date: 2020-05-07 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt33.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
-tags: [mer-ocean, transport, histoire, architecture]
+tags: [mer-ocean, transport, histoire, architecture, culturel]
 pois: [cartagena#O7-mars]
 country: Colombie
 states: ["Bolivar"]
