@@ -531,7 +531,7 @@
   { "name": "colon", "displayName": "Colón", "type": "ville", "country": "Panama" },
 
   { "name": "passageptoc", "displayName": "Shipping Panama - Colombie", "type": "information", "country": "Colombie" },
-  { "name": "", "displayName": "", "type": "", "country": "Colombie" },
+  { "name": "cartagena", "displayName": "Cartagena de Indias", "type": "ville", "country": "Colombie" },
   { "name": "", "displayName": "", "type": "", "country": "Colombie" },
   { "name": "", "displayName": "", "type": "", "country": "Colombie" },
   { "name": "", "displayName": "", "type": "", "country": "Colombie" },
