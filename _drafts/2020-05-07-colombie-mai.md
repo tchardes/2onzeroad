@@ -20,7 +20,7 @@ itinary: "2020/colombie.json"
 mapZoom: 5
 ---
 
-Cet article couvre la période du 23 février au 04 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud et avons visité la ville coloniale de Cartagena de Indias avant de subir un confinement de 58 jours en raison du Covid-19 et enfin, pouvoir rentrer en France. ccccccc
+Cet article couvre la période du 23 février au 04 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud et avons visité la ville coloniale de Cartagena de Indias avant de subir un confinement de 58 jours en raison du Covid-19 et enfin, pouvoir rentrer en France.
 
 ## 07 mars
 
