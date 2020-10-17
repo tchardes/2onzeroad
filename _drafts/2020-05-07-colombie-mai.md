@@ -30,7 +30,7 @@ Après un vol rapide, nous arrivons en Colombie. Les formalités, immigrations e
 
 ## 08 et 09 mars
 
-Ce matin nous prenons un colectivo pour visiter le centre de Carthagène où nous rejoignons Hervé. Nous déhambulons dans la vieille ville coloniale qui est vraiment très belle, bien conservée et mise en valeur, c’est vraiment très agréable. Nous passons un long moment dans le quartier Getsemani qui abrite de petite ruelle aux villas très colorés aux murs couverts de peintures murales, on passe un très beau moment. Nous faisons une pose dans un "Café" qui ne sert que du café, la carte est impressionnante et nous buvons un très bon café, très parfumé. Nous avons été très déçus du café, comme du chocolat d'ailleur, que nous avons dégustés au Mexique et en Amérique Central, espèrons qu'ici nous rencontrerons El Gringo et dégusterons de très bons.
+Ce matin nous prenons un colectivo pour visiter le centre de Carthagène où nous rejoignons Hervé. Nous déhambulons dans la vieille ville coloniale qui est vraiment très belle, bien conservée et mise en valeur, c’est vraiment très agréable. Nous sortons des rempart et passons un long moment dans le quartier Getsemani qui abrite de petites ruelles aux habitations très colorés, aux murs couverts de peintures murales, on passe un très beau moment. Nous faisons une pose dans un "Café" qui ne sert que du café, la carte est impressionnante et nous buvons un très bon café, très parfumé. Nous avons été très déçus du café, comme du chocolat d'ailleur, que nous avons dégustés au Mexique et en Amérique Centrale, espèrons qu'ici El Gringo n'a pas acheté le meilleur et dégusterons de très bons. Nous finissons la journée au Château de San Felipe de Barajas.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49646621237/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49646621237_1e1dbacf4d_3k.jpg" width="3072" height="2048" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -42,7 +42,7 @@ Ce matin nous prenons un colectivo pour visiter le centre de Carthagène où nou
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49646721697/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49646721697_f03b8f1258_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Normalment Thor est arrivé ce jour au port et nous devrions pourvoir le récupérér demain. Ce qui n’est pas sur car la compagnie maritime n’a toujours pa reçu le virement du Crédit Agricole, quelle banque de m…
+Normalement Thor est arrivé ce jour au port et nous devrions pourvoir le récupérér demain. Ce qui n’est pas sur car la compagnie maritime n’a toujours pa reçu le virement du Crédit Agricole, quelle banque de m…
 
 le 10
 
