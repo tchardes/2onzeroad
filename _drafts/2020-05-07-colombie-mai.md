@@ -132,7 +132,7 @@ Le 25 mars je décide de braver l'interdiction de sortie et je me rends au burea
 
 Le lendemain je ressors et trouve un taxi qui me conduit à la DIAN, les douanes. Je ne suis pas tranquille car il y a de nombreux contrôle de police mais ils semblent ne pas contrôler les taxis. Une fois les documents renseignés,le douaniers m'indiques que toutes les autres démarches devront se faire par internet car les employés du port sont en télétravail, les choses se corses et vont s'avèrer très compliqués. Au final je fait appel à Ana une intermédiaire qui s'occupe normalement des démarches pour envoyer des véhicules du Cartagena à Colon. Elle prend les choses en main et se débrouille pour débloquer la situation. La facture du Port pour tous ces jours ou Thor a été bloqué au port est plus que salé mais nous n'avons guère le choix...
 
-<img src="{{baseurl}}/assets/owner/photos/colombie 5.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/colombie 7.jpg" style="width:100%" />
 
 Le 2 avril toutes les démarches sont terminés, nous allons enfin pouvoir récupérer Thor. Le matin il est "dépoté" du flat rack, non sans mal car au départ aucun employé ne veut rentrer dan Thor en raison du Covid... Finalement Ana trouve une personne qui accepte de conduire Thor jusqu'à la sorite du port qui est immense. Elle vient me chercher à l'h^tel, je me chache derrière tandis que sont marie enmoto nous ouvre la route. Arrivé non loin du port nous attendons que Thor arrive, je prend rapidement la place du cconducteur et nous rentrons rapidemet à l'hôtel. Willem est dan sle coup et nous attend pour ouvrir le portail afin que l'on puisse mettre Thor à l'abris.
 
@@ -143,6 +143,8 @@ Thor est en pleine forme, aucun dégat, aucune effraction, objet volé... il est
 # 03 avril au 04 mai
 
 04 mai
+
+<img src="{{baseurl}}/assets/owner/photos/colombie 5.jpg" style="width:100%" />
 
 Contact avec la migration OK
 Dépose du Thor dans un entrepot.
