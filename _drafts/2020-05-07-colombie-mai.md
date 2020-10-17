@@ -24,7 +24,7 @@ Cet article couvre la période du 23 février au 04 mai 2020, au cours de laquel
 
 ## 07 mars
 
-Après un vol rapide, nous arrivons en Colombie. Les formalités, immigrations et douanes, sont rapides. Effectivement il y un panneau qui liste les pays "cibles" du Coronavirus mais la France y est étonnament absente. Tant mieux. Visa de 90 jours accordé sans passer par la case examen médical. Nous prenons un Uber qui nous conduit à notre hôtel qui se trouve sur un cordon lagunaire, véritable station balnéaire. Nous passons devant la vieille ville entourée de ses remparts, c'est très beau. Il y a un vent assez fort et la mer est démontée. Notre hôtel est vraiment récent avec tout le confort. Une fois installés nous sortons manger un morceau et prendre une nouvelle carte Sim.
+Après un vol rapide, nous arrivons en Colombie à l'aéroport de **Cartgena de Indias**. Les formalités, immigrations et douanes, sont rapides. Effectivement il y un panneau qui liste les pays "cibles" du Coronavirus mais la France y est étonnament absente. Tant mieux. Visa de 90 jours accordé sans passer par la case examen médical. Nous prenons un Uber qui nous conduit à notre hôtel qui se trouve sur un cordon lagunaire, véritable station balnéaire. Nous passons devant la vieille ville entourée de ses remparts, c'est très beau. Il y a un vent assez fort et la mer est démontée. Notre hôtel est vraiment récent avec tout le confort. Une fois installés nous sortons manger un morceau et prendre une nouvelle carte Sim.
 
 <img src="{{baseurl}}/assets/owner/photos/colombie 1.jpg" style="width:100%" />
 
@@ -52,17 +52,45 @@ Nous sortons des rempart et passons un long moment dans le quartier Getsemani qu
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49665493868/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49665493868_17c95b5be9_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous finissons la journée au Château de San Felipe de Barajas, imposante citadelle qui domine la ville et surtout la baie.
+Nous finissons la journée au **Château de San Felipe de Barajas**, imposante citadelle qui domine la ville et surtout la baie.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49645546523/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49645546523_504b38adfa_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49646353722/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49646353722_1abdfee678_3k.jpg" width="3072" height="1920" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Normalement Thor est arrivé ce jour au port et nous devrions pourvoir le récupérér demain. Ce qui n’est pas sur car la compagnie maritime n’a toujours pa reçu le virement du Crédit Agricole, quelle banque de m…
+Normalement Thor est arrivé ce jour au port et nous devrions pourvoir le récupérér demain. Ce qui n’est pas sur car la compagnie maritime n’a toujours pas reçu le virement du Crédit Agricole, quelle banque de m…
 
-le 10
+# 10 au 13 mars
 
-Ce matin on a eu confirmation que le CA n’avait pas fait son boulot. Après ma gueulante ils se sont enfin bougés le cul et le virement a été effectuée… 12 jours perdus. On apprend également que le bateau arrivera que ce soir… espèrons que le virement arrive entre temps… Du coup on change d’hôtel et on se rapproche du Port. On passe l’après-midi en ville. Paraisseux dans le parc.
+Ce matin nous avons eu confirmation que la banque n'a, une nouvelle fois, pas réussi à faire le transfert, son boulot quoi... J'arrive enfin à les avoir au téléphone... bien sur ils n'y sont pour rien, ils relancent... Nous avons déjà perdu 12 jours. On apprend également que le bateau n'arrivera que ce soir… Du coup on décide de changer d’hôtel pour se rapprocher du port où nous aurons de nombreuses démarches administratives a effectuer. L'hôtel est plus petit mais très cortable et le personnel très sympatique. Le restaurant est très agréable menu du jour à midi et repas à la carte le soir.
+
+# 14 mars
+
+On repart visiter le centre ville, on prend un taxi qui nous conduit jusqu'au **Convent of Santa Cruz de la Popa** implanté en haut d'un colline, la vue y est incroyable. Entièrement restauré le cloître est très beau.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666498292/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666498292_a9aac49205_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666498292/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666498292_a9aac49205_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666259951/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666259951_aa280c7a02_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49665758353/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49665758353_a31f1472ca_3k.jpg" width="3072" height="724" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666308556/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666308556_9c64bf3a0f_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On décide de refaire un tour en centre ville et decouvrons d
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666043726/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666043726_5a7c1dd70c_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666281977/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666281977_8663699406_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666720567/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666720567_9bca62fb55_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666072801/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666072801_dfcedb09c9_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49665538743/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49665538743_0f28f4a23f_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666341492/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666341492_e23d2861b3_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Le 15 avrilà 6h00 tremblement de terre, on dormait nus n’avons rien sentis, fissure au niveau de la age d’escalier dans l’hôtel.
 
