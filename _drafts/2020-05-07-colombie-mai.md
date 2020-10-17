@@ -78,7 +78,7 @@ On repart visiter le centre ville, on prend un taxi qui nous conduit jusqu'au **
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666308556/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666308556_9c64bf3a0f_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On décide de refaire un tour en centre ville et decouvrons d
+On décide de refaire un tour dans le centre histrique,
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666043726/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666043726_5a7c1dd70c_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -92,11 +92,55 @@ On décide de refaire un tour en centre ville et decouvrons d
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666341492/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666341492_e23d2861b3_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le 15 avrilà 6h00 tremblement de terre, on dormait nus n’avons rien sentis, fissure au niveau de la age d’escalier dans l’hôtel.
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49665625803/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49665625803_3b92cf501b_3k.jpg" width="3072" height="1920" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous avons gouté plein de fruit souvent sous forme de jus, Zapote, tomate des arbres, Lulo, guanabana, Coroso, Nispero….
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666471927/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666471927_d400c8de40_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-02 avril on récupére enfin Thor.
+En traversant le **Parque Del Centenario** nous remarquons dans les arbres plusieurs paresseux, en plein activité dont une mère et son bébé, nous traverser de nombreux pays et parcs en espérant en voir de prés et c'est pratiquement en pleine ville que nous pouvons observer un très beau spécimen, ainsi que quelques singes.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666782137/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666782137_af822c3c21_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49665977393/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49665977393_cdc6cfe753_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666434771/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666434771_b04bd4ed3f_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666458021/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666458021_450dc9df2b_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# 15 mars
+
+D'après les informations que nous recevons ici, la situation concernant le Covid en France s'empire, mais nous sommes surpris quand le président colombien annonce le confinement total du pays et la fermeture de ces frontières, alors qu'il n'est que faiblement touché pour l'instant. C'est un peu la sidération dans l'hôtel. Les services de l'immigrations passent à l'hôtel et demande à nos voir. Nous déscendons à l'accueil avec nos passeports et ils nous indique qu'en tant qu'étranger, il nous est impossible de quitter l'établissement et que nous exposerions à de graves sanctions si nous ne respections pas les consignes puis ils se tournent vers les employés de l'hôtel et leur indiquent qu'ils so t responseble de nous. Ca casse un peu l'ambiance...
+
+# 16 mars au 23 mars
+
+Les journées s'organisent peu à peu, nous ne sommes plus que quelques clients dans l'hôtel qui est fermé. La propriétaire de l'hôtel, qui n'est pas sur place, s'inquiète pour nous et nous contacte souvent via les réseaux sociaux, elle nous assure que, bien que l'hôtel soit fermé, nous pouvons y rester le temps nécessaire. Peu à peu nous voyons les employés partir, souvent en pleurant, ils nous disent au-revoir chaleureusement. Ils s'inquiètent pour leur avenir car la situation ici est bien différente qu'en Europe, pas de travail pas d'argent. On se demande comment les gens vont s'en sortir. Les rues sont patiellement vides alors qu'elles grouilles habituellement de personnes qui vivotent grâce à de petits boulots. On se dit que la situation ne va pas perdurer... on se fait connaître auprès de l'ambasse de France à Bogota qui est très réactive. Quelques vols sanitaires sont organisés et les touristes français (plus de 3000 au momen du confinement) comment à rentrer au pays. Seuls les vols sanitaires sont autorisés à se poser et décollé depuis la Colombie. Pour l'instant on ne se pose pas trop la question puisque nous n'avons toujours pas récupéré Thor car notre banque et toujours à la ramasse, mes courriels et mes appels ne changent rien, ils sont dans le déni.
+
+Nous ne sommes plus que 11 clients, 4 ouviers de chantier naval cubains, 1 contre-maître du Guyana, deux couples argentins et nous deux. Le 21 mars le cuistot de l'hôtel et les cubains décident d'organiser un BBQ sur le toit terrasse. On passe un très bon moment, très convivial.
+
+<img src="{{baseurl}}/assets/owner/photos/colombie 2.jpg" style="width:100%" />
+
+# 24 mars au 02 avril
+
+Les Argentins ont enfin trouvés un avion de rapatriement pour rentrer à Mendoza via le Chili et les ouvriers du chantier naval nous quittent également et par la même occasion la pluspart des employés de l'hôtel. Il ne reste plus que nous deux et un couple, Augustina, et leur chien toni. Elle est la responsable des femmes de ménages et sera également notre cuisinière et son mari est l'homme à tout faire de l'hôtel. Corinne passe un peu de temps en cuisine avec Augustina et un échange culturel se met en place autour des fourneaux. Il faut dire que les repas ne sont pas trop variés. Nous avons le choix entre poulet, porc ou bœuf avec comme accompagnement riz blanc, patacones (banane fritte), un peu de crudités. Les colombiens boivent beaucoup de jus de fruits frais, c'est ainsi que nous avons gouté plein de fruit comme le Zapote, les tomates des arbres, Lulo, guanabana, Coroso, Nispero…
+
+<img src="{{baseurl}}/assets/owner/photos/colombie 3.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/colombie 4.jpg" style="width:100%" />
+
+27 jours après ma demande de virement, Seaboard Marine m'indique qu'ils viennent de recevoir le paiement mais... la somme n'est pas la bonne, il en manque une peu en raison des frais bancaires qui se sont multipliés. Je ne veux plus avoir à faire avec le CA, je contacte Téa notre intermédiare, transitaire, au Panama, je lui verse la différence via Western Union et elle porte l'argent directement au transporteur à Panama City qui débloque aussitôt la situation.
+
+Le 25 mars je décide de braver l'interdiction de sortie et je me rends au bureau de SeaBord pour récupérer le fameux cézame, le Bill of Landing, tamponné qui va me permettre de démarrer les démarches administratives et les clés de Thor qui nous attend au port depuis une dizaine de jours.
+
+Le lendemain je ressors et trouve un taxi qui me conduit à la DIAN, les douanes. Je ne suis pas tranquille car il y a de nombreux contrôle de police mais ils semblent ne pas contrôler les taxis. Une fois les documents renseignés,le douaniers m'indiques que toutes les autres démarches devront se faire par internet car les employés du port sont en télétravail, les choses se corses et vont s'avèrer très compliqués. Au final je fait appel à Ana une intermédiaire qui s'occupe normalement des démarches pour envoyer des véhicules du Cartagena à Colon. Elle prend les choses en main et se débrouille pour débloquer la situation. La facture du Port pour tous ces jours ou Thor a été bloqué au port est plus que salé mais nous n'avons guère le choix...
+
+<img src="{{baseurl}}/assets/owner/photos/colombie 5.jpg" style="width:100%" />
+
+Le 2 avril toutes les démarches sont terminés, nous allons enfin pouvoir récupérer Thor. Le matin il est "dépoté" du flat rack, non sans mal car au départ aucun employé ne veut rentrer dan Thor en raison du Covid... Finalement Ana trouve une personne qui accepte de conduire Thor jusqu'à la sorite du port qui est immense. Elle vient me chercher à l'h^tel, je me chache derrière tandis que sont marie enmoto nous ouvre la route. Arrivé non loin du port nous attendons que Thor arrive, je prend rapidement la place du cconducteur et nous rentrons rapidemet à l'hôtel. Willem est dan sle coup et nous attend pour ouvrir le portail afin que l'on puisse mettre Thor à l'abris.
+
+<img src="{{baseurl}}/assets/owner/photos/colombie 6.jpg" style="width:100%" />
+
+Thor est en pleine forme, aucun dégat, aucune effraction, objet volé... il est juste recouvert de sel, un gros nettoyage s'impose...
+
+# 03 avril au 04 mai
 
 04 mai
 
