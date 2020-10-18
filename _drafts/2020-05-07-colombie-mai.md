@@ -120,7 +120,7 @@ Nous ne sommes plus que 11 clients, 4 ouviers de chantier naval cubains, 1 contr
 
 # 24 mars au 02 avril
 
-Les Argentins ont enfin trouvés un avion de rapatriement pour rentrer à Mendoza via le Chili et les ouvriers du chantier naval nous quittent également et par la même occasion la pluspart des employés de l'hôtel. Il ne reste plus que nous deux et un couple, Augustina, et leur chien toni. Elle est la responsable des femmes de ménages et sera également notre cuisinière et son mari est l'homme à tout faire de l'hôtel. Corinne passe un peu de temps en cuisine avec Augustina et un échange culturel se met en place autour des fourneaux. Il faut dire que les repas ne sont pas trop variés. Nous avons le choix entre poulet, porc ou bœuf avec comme accompagnement riz blanc, patacones (banane fritte), un peu de crudités. Les colombiens boivent beaucoup de jus de fruits frais, c'est ainsi que nous avons gouté plein de fruit comme le Zapote, les tomates des arbres, Lulo, guanabana, Coroso, Nispero…
+Les Argentins ont enfin trouvés un avion de rapatriement pour rentrer à Mendoza via le Chili et les ouvriers du chantier naval nous quittent également et par la même occasion la pluspart des employés de l'hôtel. Il ne reste plus que nous deux et un couple, Augustina, Willman et leur chien Toni. Elle est la responsable des femmes de ménages et sera également notre cuisinière et son mari est l'homme à tout faire de l'hôtel. Corinne passe un peu de temps en cuisine avec Augustina et un échange culturel se met en place autour des fourneaux. Il faut dire que les repas ne sont pas trop variés. Nous avons le choix entre poulet, porc ou bœuf avec comme accompagnement riz blanc, patacones (banane fritte), un peu de crudités. Les colombiens boivent beaucoup de jus de fruits frais, c'est ainsi que nous avons gouté plein de fruit comme le Zapote, les tomates des arbres, Lulo, guanabana, Coroso, Nispero…
 
 <img src="{{baseurl}}/assets/owner/photos/colombie 3.jpg" style="width:100%" />
 
@@ -134,22 +134,28 @@ Le lendemain je ressors et trouve un taxi qui me conduit à la DIAN, les douanes
 
 <img src="{{baseurl}}/assets/owner/photos/colombie 7.jpg" style="width:100%" />
 
-Le 2 avril toutes les démarches sont terminés, nous allons enfin pouvoir récupérer Thor. Le matin il est "dépoté" du flat rack, non sans mal car au départ aucun employé ne veut rentrer dan Thor en raison du Covid... Finalement Ana trouve une personne qui accepte de conduire Thor jusqu'à la sorite du port qui est immense. Elle vient me chercher à l'h^tel, je me chache derrière tandis que sont marie enmoto nous ouvre la route. Arrivé non loin du port nous attendons que Thor arrive, je prend rapidement la place du cconducteur et nous rentrons rapidemet à l'hôtel. Willem est dan sle coup et nous attend pour ouvrir le portail afin que l'on puisse mettre Thor à l'abris.
+Le 2 avril toutes les démarches sont terminés, nous allons enfin pouvoir récupérer Thor. Le matin il est "dépoté" du flat rack, non sans mal car au départ aucun employé ne veut rentrer dans Thor en raison du Covid... Finalement Ana trouve une personne qui accepte de conduire Thor jusqu'à la sortie du port qui est immense. Elle vient me chercher à l'hôtel, je me chache derrière tandis que son marie en moto nous ouvre la route. Arrivé non loin du port nous attendons que Thor arrive, je prend rapidement la place du conducteur et nous rentrons rapidement à l'hôtel. Willem est dans le coup et nous attend pour ouvrir le portail afin que l'on puisse mettre Thor à l'abris.
 
 <img src="{{baseurl}}/assets/owner/photos/colombie 6.jpg" style="width:100%" />
 
-Thor est en pleine forme, aucun dégat, aucune effraction, objet volé... il est juste recouvert de sel, un gros nettoyage s'impose...
+Thor est en pleine forme, aucun dégat, aucune effraction donc aucun objet volé, ce qui est déjà un miracle ... il est juste recouvert de sel, un gros nettoyage s'impose...
 
 # 03 avril au 04 mai
 
-04 mai
+La période de doute commence, nous sommes en contact avec de nombreux voyageurs bloqués, confinés un peu partout aux Amériques et nous en sommes tous à se poser les mêmes questions, faut-il rentrer en France ? faut-il rester et attendre patiemment avant de pourvoir reprendre la route ? telles sont nos questions... L'ambassade de France organise quelques vols sanitaires avec Air France et KLM, elle a établie une liste des personnes prioritaires (personnes âgées, malades, médecins, infirmièr(e)s, familles nombreuses...). Vu le nombre de vol, nous ne sommes pas pret de rentrer.
+
+En attendant les journées s'organisent, nous ne sommes pas à plaindre, nos conditions de vie sont très bonnes, surtout quand on connait celles des colombiens. Nous avons un très bon Internet, enfin disons que toutes la bande est passante est pour nous, nous avons le jacuzi, la chambre est climatisé... Nous nous lassons juste un peu des repas qui sont redondants mais très bons. Nous sommes en contact avec Hervé qui a pu récupérer son "Van" plus rapidement que nous et qui a déjà entamé la découverte du pays. Il s'est retrouvé bloqué par le confinement, tout seul sur une plage et "joue" au Robinson Crusoet. Au bout d'un mois de confinement avec nous, Augustina et Willman sont relevés et vous pouvoir rentrer chez eux. Ils sont remplacés par deux autres employés que nous connaissions déjà.
+
+Toujours pas de place pour nous sur un vol de raptriement organisé par l'ambassade. Le 29 avril elle nous adresse un message nous disant qu'il reste quelques place sur un vol organisé par le gouvernement britanique, cerise sur le gateau avec une escale à Cartagena de Indias. Oui il faut préciser que nous sommes à plus de 1000 Km de la capitale et que les taxis nous demandent une petit fortune pour nous y conduire. Le message précise que les premiers qui répondent seront les premiers servis. Nous nous consultons avec Corinne pendant au moins 5 secondes et prennons la décisons de postuler... Nous sommes pris sur ce vol qui va nous ammener jusqu'à Londres.
+
+Ana nous trouve un lieux de stockage pour Thor, ce n'est pas la panassé mais il ne faut pas trop faire les difficiles vu les circonstances. La veille du départ je demande aux services de l'immigration l'autorisation de quitter l'hôtel pour déposer Thor et nous rendre à l'aéroport, ce qui nous est accordé. L'anbassade nous fourni également un laissé passer, ainsi que le document qui nous permettra d'entrer en Grande Bretagne. Moins de 24 heures avant le départ, les anglais nous signifient que nous ne pouvons rester que 24 heures sur leur sol, ce qui nous complique un peu la situation et nous oblige à prendre d'autres billets pour rentrer sur Paris.
+
+Le 04 mai c'est le jour du départ, je dépose Thor avec le mari de Ana qui me ramène à l'hôtel, dans l'après-midi nous prennons un taxi qui nous laisse à l'aéroport qui est complétement désert, seul notre vol est programmé aujourd'hui. Contrôle sanitaire avant d'entrer avec prise de température puis nous sommes reçu par le consul de France à Cartagene qui nous souhaite un bon retour. Si dans l'aéroport les gestes barrières sont bien en place, on se retrouve tous entassés dans l'avion de la compagnie COPAN qui nous ramène sur le vieux continent.
+
+Arrivés à l'aéroport de Londres-Heathrow, et à notre grande surprise, aucun contrôle sanitaire, nous passons les différentes étapes et nous nous retrouvons à l'extérieur de l'aérogare. Nous avions peur de devoir passer 24 heures sur un banc dans une zone internationale et finalement se sera dans un hôtel tout proche. Le lendemain matin nous prenons un avion pour Paris, pas de contrôle sanitaire, la PAF nous donne une attestation pour pouvoir circuler dans le pays puis nous louons une voiture de location pour rentrer chez nous.
+
+Pour répondre aux questions souvent posées, tous les frais ont été à notre charge, hotels, avions... Si les ambassades organisent des rapatriements sanitaires, l'Etat ne paie ni n'avance aucun frais, tout est à la charge des voyageurs. Avec du recul nous avons bien fait de partir car la colombie n'a été déconfinée que la 01 septembre...
 
 <img src="{{baseurl}}/assets/owner/photos/colombie 5.jpg" style="width:100%" />
-
-Contact avec la migration OK
-Dépose du Thor dans un entrepot.
-Départ de colombie.
-
-Un résumé de cette dernière partie de notre voyage en vidéo :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o-FMcnoFuhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
