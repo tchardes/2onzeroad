@@ -44,7 +44,7 @@ Ce matin nous prenons un colectivo pour visiter le centre de Carthagène où nou
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49644327098/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49644327098_42caa7a7ca_3k.jpg" width="3072" height="1071" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous sortons des rempart et passons un long moment dans le quartier Getsemani qui abrite de petites ruelles aux habitations très colorés, aux murs couverts de peintures murales, on passe un très beau moment. Nous faisons une pose dans un "Café" qui ne sert que du café, la carte est impressionnante et nous buvons un très bon café, très parfumé. Nous avons été très déçus du café, comme du chocolat d’ailleurs, que nous avons dégustés au Mexique et en Amérique Centrale, espérons qu'ici El Gringo n'a pas acheté le meilleur et dégusterons de très bons.
+Nous sortons des remparts et passons un long moment dans le quartier Getsemani qui abrite de petites ruelles aux habitations très colorés, aux murs couverts de peintures murales, on passe un très beau moment. Nous faisons une pose dans un "Café" qui ne sert que du café, la carte est impressionnante et nous buvons, enfin, un très bon café, très parfumé. Nous avons été très déçus du café, comme du chocolat d’ailleurs, que nous avons dégustés au Mexique et en Amérique Centrale. Espérons qu'ici El Gringo n'a pas acheté les meilleures récoltes et que nous dégusterons du très bon café.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49646193616/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49646193616_52dc69cb6f_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -52,7 +52,7 @@ Nous sortons des rempart et passons un long moment dans le quartier Getsemani qu
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49665493868/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49665493868_17c95b5be9_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous finissons la journée au **Château de San Felipe de Barajas**, imposante citadelle qui domine la ville et surtout la baie.
+Nous finissons la journée au **Château de San Felipe de Barajas**, imposante citadelle espagnole qui domine la ville et surtout la baie.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49645546523/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49645546523_504b38adfa_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -62,7 +62,7 @@ Normalement Thor est arrivé ce jour au port et nous devrions pourvoir le récup
 
 # 10 au 13 mars
 
-Ce matin nous avons eu confirmation que la banque n'a, une nouvelle fois, pas réussi à faire le transfert, son boulot quoi... J'arrive enfin à les avoir au téléphone... c'est rock'n'roll mais bien sur ils n'y sont pour rien, ils relancent... Nous avons déjà perdu 12 jours. On apprend également que le bateau n'arrivera que ce soir… Du coup on décide de changer d’hôtel pour se rapprocher du port où nous aurons de nombreuses démarches administratives a effectuer. L'hôtel est plus petit mais très confortable et le personnel très sympathique. Le restaurant est très agréable menu du jour à midi et repas à la carte le soir.
+Ce matin nous avons eu confirmation que la banque n'a, une nouvelle fois, pas réussi à faire le transfert, son boulot quoi... J'arrive enfin à les avoir au téléphone... c'est rock'n'roll, mais bien sur ils n'y sont pour rien, ils relancent... Nous avons déjà perdu 12 jours. On apprend également que le bateau n'arrivera que ce soir… Du coup on décide de changer d’hôtel pour se rapprocher du port où nous aurons de nombreuses démarches administratives a effectuer. L'hôtel est plus petit mais très confortable et le personnel très sympathique. Le restaurant est très agréable menu du jour à midi et repas à la carte le soir.
 
 # 14 mars
 
