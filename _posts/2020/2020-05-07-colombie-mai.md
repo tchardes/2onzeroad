@@ -144,8 +144,6 @@ Le 25 mars, je décide de braver l'interdiction de sortie et je me rends au bure
 
 Le lendemain, je ressors et trouve un taxi qui me conduit à la DIAN, les douanes. Je ne suis pas tranquille car il y a de nombreux contrôles de police mais ils semblent ne pas contrôler les taxis. Une fois les documents renseignés, le douanier m'indique que toutes les autres démarches devront se faire par internet car les employés du port sont en télétravail, les choses se corsent et vont s’avérer très compliquées. Au final je fais appel à Ana, une intermédiaire qui s'occupe normalement des démarches pour envoyer des véhicules du Cartagena à Colon et qui est une connaissance de Téa. Elle prend les choses en main et se débrouille pour débloquer la situation. La facture du port pour tous ces jours où Thor a été bloqué au port est plus que salée mais nous n'avons guère le choix...
 
-<img src="{{baseurl}}/assets/owner/photos/colombie7.jpg" style="width:100%" />
-
 Le 2 avril, toutes les démarches sont terminées, nous allons enfin pouvoir récupérer Thor. Le matin il est "dépoté" du flat rack, non sans mal car aucun employé ne veut rentrer dans Thor en raison du Covid... Ana trouve enfin une personne qui accepte de conduire Thor jusqu'à la sortie de l'immense port. Elle vient me chercher à l'hôtel, je me cache à l'arrière de la voiture tandis que son mari en moto nous ouvre la route. Arrivés à l'entrée du port, nous attendons que Thor sorte, je prends rapidement la place du conducteur et nous rentrons promptement à l'hôtel. Willman est dans le coup et nous attend pour ouvrir le portail afin que l'on puisse mettre Thor à l'abri dans l'hôtel.
 
 <img src="{{baseurl}}/assets/owner/photos/colombie6.jpg" style="width:100%" />
