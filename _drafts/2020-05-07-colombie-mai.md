@@ -180,4 +180,6 @@ Pour répondre aux questions souvent posées, tous les frais ont été à notre 
 
 Avec du recul, nous avons bien fait de partir car la Colombie n'a été déconfinée que le premier septembre... mais les frontières terrestres restent toujours fermées.
 
+Un résumé de cette dernière partie de notre voyage en vidéo :
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o-FMcnoFuhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
