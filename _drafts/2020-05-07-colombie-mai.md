@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Colombie"
-preview: "Cet article couvre la période du 23 février au 04 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud..."
+preview: "Cet article couvre la période du 23 février au 06 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud..."
 parent-id:
 date: 2020-05-07 13:00:00
 from-date: 2020-03-07 12:00:00
@@ -20,7 +20,7 @@ itinary: "2020/colombie.json"
 mapZoom: 5
 ---
 
-Cet article couvre la période du 23 février au 04 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud et avons visité la ville coloniale de Cartagena de Indias avant de subir un confinement de 58 jours en raison du Covid-19 et enfin, pouvoir rentrer en France.
+Cet article couvre la période du 23 février au 06 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud et avons visité la ville coloniale de Cartagena de Indias avant de subir un confinement de 58 jours en raison du Covid-19 et enfin, pouvoir rentrer en France.
 
 ## 07 mars
 
@@ -30,7 +30,7 @@ Après un vol rapide, nous arrivons en Colombie à l'aéroport de **Cartagena de
 
 ## 08 et 09 mars
 
-Ce matin nous prenons un colectivo pour visiter le centre de Carthagène où nous rejoignons Hervé. Nous déambulons dans la vieille ville coloniale qui est vraiment très belle, bien conservée et mise en valeur, c’est vraiment très agréable.
+Ce matin nous prenons un colectivo pour visiter le centre de Carthagène où nous rejoignons Hervé, ce voyageur français solitaire que nous avons rencontrés au Panama. Nous déambulons dans la vieille ville coloniale qui est vraiment très belle, bien conservée et mise en valeur, c’est vraiment très agréable.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49646621237/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49646621237_1e1dbacf4d_3k.jpg" width="3072" height="2048" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -96,7 +96,7 @@ On décide de refaire un tour dans le centre historique,
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666471927/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666471927_d400c8de40_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En traversant le **Parque Del Centenario** nous remarquons dans les arbres plusieurs paresseux, en plein activité dont une mère et son bébé, nous traverser de nombreux pays et parcs en espérant en voir de prés et c'est pratiquement en pleine ville que nous pouvons observer un très beau spécimen, ainsi que quelques singes.
+En traversant le **Parque Del Centenario** nous remarquons dans les arbres plusieurs paresseux, en pleine activité dont une mère et son bébé, nous avons traverser de nombreux pays et parcs en espérant en voir de prés et c'est pratiquement en pleine ville que nous pouvons observer un très beau spécimen, ainsi que quelques singes.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666782137/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666782137_af822c3c21_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -152,7 +152,7 @@ Toujours pas de place pour nous sur un vol de rapatriement organisé par l'ambas
 
 Ana nous trouve un lieux de stockage pour Thor, ce n'est pas la panassé mais il ne faut pas trop faire les difficiles vu les circonstances. La veille du départ je demande aux services de l'immigration l'autorisation de quitter l'hôtel pour déposer Thor et nous rendre à l'aéroport, ce qui nous est accordé. L’ambassade nous fourni également un laissé passer, ainsi que le document qui nous permettra d'entrer en Grande Bretagne. Moins de 24 heures avant le départ, les anglais nous signifient que nous ne pouvons rester que 24 heures sur leur sol, ce qui nous complique un peu la situation et nous oblige à prendre d'autres billets pour rentrer sur Paris.
 
-Le 04 mai c'est le jour du départ, je dépose Thor avec le mari de Ana qui me ramène à l'hôtel, dans l'après-midi nous prenons un taxi qui nous laisse à l'aéroport qui est complètement désert, seul notre vol est programmé aujourd'hui. Contrôle sanitaire avant d'entrer avec prise de température puis nous sommes reçu par le consul de France à Carthagène qui nous souhaite un bon retour. Si dans l'aéroport les gestes barrières sont bien en place, on se retrouve tous entassés dans l'avion de la compagnie COPAN qui nous ramène sur le vieux continent.
+Le 04 mai c'est le jour du départ, je dépose Thor avec le mari de Ana qui me ramène à l'hôtel, dans l'après-midi nous prenons un taxi qui nous laisse à l'aéroport qui est complètement désert, seul notre vol est programmé aujourd'hui. Contrôle sanitaire avant d'entrer avec prise de température puis nous sommes reçu par le consul de France à Carthagène qui nous souhaite un bon retour. Si dans l'aéroport les gestes barrières sont bien en place, on se retrouve tous entassés dans l'avion de la compagnie COPAN qui nous ramène sur le vieux continent après 58 jours de confinement strict.
 
 <img src="{{baseurl}}/assets/owner/photos/colombie 9.jpg" style="width:100%" />
 
