@@ -26,7 +26,7 @@ Cet article couvre la période du 07 mars au 06 mai 2020, au cours de laquelle n
 
 Après un vol rapide, nous arrivons en Colombie à l'aéroport de **Cartagena de Indias**. Les formalités, immigrations et douanes, sont rapides. Effectivement il y un panneau qui liste les pays "cibles" du Coronavirus mais la France y est étonnamment absente. Tant mieux. Visa de 90 jours accordé sans passer par la case examen médical. L'ensemble des démarches du transport maritime du véhicule a été retranscrite **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-04-06-colombie-shipping %}">ici</a>)**. Nous prenons un Uber qui nous conduit à notre hôtel situé sur un cordon lagunaire, véritable station balnéaire. Nous passons devant la vieille ville entourée de ses remparts, c'est très beau. Il y a un vent assez fort et la mer est démontée. Notre hôtel est récent avec tout le confort. Une fois installés, nous sortons manger un morceau et prendre une nouvelle carte Sim.
 
-<img src="{{baseurl}}/assets/owner/photos/colombie 1.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/colombie1.jpg" style="width:100%" />
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49644873951/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49644873951_3b28c67d46_3k.jpg" width="3072" height="1920" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -126,7 +126,7 @@ Les journées s'organisent peu à peu, nous ne sommes plus que quelques clients 
 
 Nous ne sommes plus que 11 clients, 4 ouvriers de chantier naval cubains, 1 contre-maître naval du Guyana, deux couples argentins et nous deux. Le 21 mars, le cuistot de l'hôtel et les cubains décident d'organiser un BBQ sur le toit terrasse. On passe un bon moment, très convivial.
 
-<img src="{{baseurl}}/assets/owner/photos/colombie 2.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/colombie2.jpg" style="width:100%" />
 
 # 24 mars au 02 avril
 
@@ -134,9 +134,9 @@ Les Argentins ont enfin trouvé un avion de rapatriement pour rentrer à Mendoza
 
 Les services de l'immigration passent à l'hôtel et demande à nous voir. Nous descendons à l'accueil avec nos passeports. Ils nous indiquent qu'en tant qu'étrangers, il nous est impossible de quitter l'établissement sous peine de graves sanctions dont la prison si nous ne respections pas les consignes. Ils se tournent ensuite vers les employés de l'hôtel et leur indiquent qu'ils sont responsables de nous. Ça casse un peu l'ambiance...
 
-<img src="{{baseurl}}/assets/owner/photos/colombie 3.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/colombie3.jpg" style="width:100%" />
 
-<img src="{{baseurl}}/assets/owner/photos/colombie 4.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/colombie4.jpg" style="width:100%" />
 
 27 jours après ma demande de virement, Seaboard Marine m'indique qu'ils viennent de recevoir le paiement mais... la somme n'est pas exactement la bonne, il en manque une peu en raison des frais bancaires qui se sont multipliés. Je ne veux plus avoir à faire avec ma banque, je contacte Téa notre intermédiaire, transitaire, au Panama, je lui verse la différence via Western Union et elle porte l'argent directement au transporteur à Panama City qui débloque aussitôt la situation.
 
@@ -144,11 +144,11 @@ Le 25 mars, je décide de braver l'interdiction de sortie et je me rends au bure
 
 Le lendemain, je ressors et trouve un taxi qui me conduit à la DIAN, les douanes. Je ne suis pas tranquille car il y a de nombreux contrôles de police mais ils semblent ne pas contrôler les taxis. Une fois les documents renseignés, le douanier m'indique que toutes les autres démarches devront se faire par internet car les employés du port sont en télétravail, les choses se corsent et vont s’avérer très compliquées. Au final je fais appel à Ana, une intermédiaire qui s'occupe normalement des démarches pour envoyer des véhicules du Cartagena à Colon et qui est une connaissance de Téa. Elle prend les choses en main et se débrouille pour débloquer la situation. La facture du port pour tous ces jours où Thor a été bloqué au port est plus que salée mais nous n'avons guère le choix...
 
-<img src="{{baseurl}}/assets/owner/photos/colombie 7.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/colombie7.jpg" style="width:100%" />
 
 Le 2 avril, toutes les démarches sont terminées, nous allons enfin pouvoir récupérer Thor. Le matin il est "dépoté" du flat rack, non sans mal car aucun employé ne veut rentrer dans Thor en raison du Covid... Ana trouve enfin une personne qui accepte de conduire Thor jusqu'à la sortie de l'immense port. Elle vient me chercher à l'hôtel, je me cache à l'arrière de la voiture tandis que son mari en moto nous ouvre la route. Arrivés à l'entrée du port, nous attendons que Thor sorte, je prends rapidement la place du conducteur et nous rentrons promptement à l'hôtel. Willman est dans le coup et nous attend pour ouvrir le portail afin que l'on puisse mettre Thor à l'abri dans l'hôtel.
 
-<img src="{{baseurl}}/assets/owner/photos/colombie 6.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/colombie6.jpg" style="width:100%" />
 
 Thor est en pleine forme, aucun dégât, aucune effraction donc aucun objet volé, ce qui est déjà un miracle ... il est juste recouvert de sel, un gros nettoyage s'impose...
 
@@ -162,7 +162,7 @@ Au moment du repas, nous regardons les infos colombiennes, le nombre de cas Covi
 
 Au bout d'un mois de confinement avec nous, Augustina et Willman sont relevés et vont pouvoir rentrer chez eux. Ils sont remplacés par deux autres employés que nous connaissons déjà.
 
-<img src="{{baseurl}}/assets/owner/photos/colombie 5.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/colombie5.jpg" style="width:100%" />
 
 Toujours pas de place pour nous sur un vol de rapatriement organisé par l'ambassade. Le 29 avril, elle nous adresse un message nous disant qu'il reste quelques places sur un vol de rapatriement organisé par le gouvernement britannique, cerise sur le gâteau avec une escale à Cartagena de Indias. Oui il faut préciser que nous sommes à plus de 1000 Km de la capitale et que les taxis nous demandent une petite fortune pour nous y conduire. Le message précise que les premiers qui répondent seront les premiers servis. Nous nous consultons avec Corinne pendant au moins 5 secondes et prenons la décision de postuler... Nous sommes pris sur ce vol qui va nous amener jusqu'à Londres.
 
@@ -170,11 +170,11 @@ Ana nous trouve un lieu de stockage pour Thor, ce n'est pas la panacée mais il 
 
 Le 04 mai, c'est le jour du départ, je dépose Thor avec le mari de Ana qui me ramène à l'hôtel à l'issue, dans l'après-midi nous prenons un taxi qui nous laisse à l'aéroport, complètement désert, seul notre vol est programmé aujourd'hui. Contrôle sanitaire avant d'entrer avec prise de température puis nous sommes reçus par le consul de France à Carthagène qui nous souhaite un bon retour. Si, dans l'aéroport, les gestes barrières sont bien en place, on se retrouve tous entassés dans l'avion de la compagnie COPAN qui nous ramène sur le vieux continent après 50 jours de confinement strict.
 
-<img src="{{baseurl}}/assets/owner/photos/colombie 9.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/colombie9.jpg" style="width:100%" />
 
 Arrivés à l'aéroport de Londres-Heathrow, à notre grande surprise, aucun contrôle sanitaire, nous passons les différentes étapes et nous nous retrouvons à l'extérieur de l'aérogare. Nous avions peur de devoir passer 24 heures sur un banc en zone de transit international et finalement ce sera dans un hôtel tout proche. Le lendemain matin nous prenons un avion pour Paris, pas de contrôle sanitaire, la PAF nous donne une attestation pour pouvoir circuler dans le pays puis nous louons une voiture de location pour rentrer chez nous. Lors du survol des deux grands aéroports de Londres et Paris, nous avons pu observer des centaines d'avions bloqués au sol, on ne peut que s'étonner du peu de vols de rapatriement organisés.
 
-<img src="{{baseurl}}/assets/owner/photos/colombie 10.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/colombie10.jpg" style="width:100%" />
 
 Pour répondre aux questions souvent posées, tous les frais ont été à notre charge, hôtels, avions... Si les ambassades organisent des rapatriements sanitaires, l'Etat ne paie, ni n'avance, aucun frais, tout est à la charge des voyageurs. les termes de "rapatriement" ou "sanitaire" ne désignent que le fait que ces vols sont organisés entre les Etats et sont les seuls autorisés à pouvoir circuler et braver ainsi les fermetures des frontières.
 
