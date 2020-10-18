@@ -7,7 +7,7 @@ date: 2020-05-07 13:00:00
 from-date: 2020-03-07 12:00:00
 to-date: 2020-05-07 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-rt33.jpg"
+header-img: "assets/owner/blog/header/post-bg-rt34.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
 tags: [mer-ocean, transport, histoire, architecture, culturel]
 pois: [cartagena#O7-mars]
@@ -27,6 +27,8 @@ Cet article couvre la période du 23 février au 06 mai 2020, au cours de laquel
 Après un vol rapide, nous arrivons en Colombie à l'aéroport de **Cartagena de Indias**. Les formalités, immigrations et douanes, sont rapides. Effectivement il y un panneau qui liste les pays "cibles" du Coronavirus mais la France y est étonnamment absente. Tant mieux. Visa de 90 jours accordé sans passer par la case examen médical. L'ensemble des démarches du transport maritime du véhicule a été retranscrite **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-04-06-colombie-shipping %}">ici</a>)**. Nous prenons un Uber qui nous conduit à notre hôtel qui se trouve sur un cordon lagunaire, véritable station balnéaire. Nous passons devant la vieille ville entourée de ses remparts, c'est très beau. Il y a un vent assez fort et la mer est démontée. Notre hôtel est vraiment récent avec tout le confort. Une fois installés nous sortons manger un morceau et prendre une nouvelle carte Sim.
 
 <img src="{{baseurl}}/assets/owner/photos/colombie 1.jpg" style="width:100%" />
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49644873951/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49644873951_3b28c67d46_3k.jpg" width="3072" height="1920" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 08 et 09 mars
 
@@ -52,7 +54,11 @@ Nous sortons des remparts et passons un long moment dans le quartier Getsemani q
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49665493868/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49665493868_17c95b5be9_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666098836/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666098836_16789db022_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous finissons la journée au **Château de San Felipe de Barajas**, imposante citadelle espagnole qui domine la ville et surtout la baie.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49665542508/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49665542508_3f45a2c606_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49645546523/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49645546523_504b38adfa_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -95,6 +101,10 @@ On décide de refaire un tour dans le centre historique,
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49665625803/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49665625803_3b92cf501b_3k.jpg" width="3072" height="1920" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666471927/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666471927_d400c8de40_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Pablo Escobar "El Patron" est toujour très populaire ici...
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49648218202/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49648218202_fbfa1ac924_3k.jpg" width="3072" height="1920" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 En traversant le **Parque Del Centenario** nous remarquons dans les arbres plusieurs paresseux, en pleine activité dont une mère et son bébé, nous avons traverser de nombreux pays et parcs en espérant en voir de prés et c'est pratiquement en pleine ville que nous pouvons observer un très beau spécimen, ainsi que quelques singes.
 
