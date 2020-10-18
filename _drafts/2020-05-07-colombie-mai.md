@@ -102,7 +102,7 @@ On décide de refaire un tour dans le centre historique,
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666471927/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666471927_d400c8de40_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Pablo Escobar "El Patron" est toujour très populaire ici...
+Pablo Escobart "El Patron" est toujours très populaire ici...
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49648218202/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49648218202_fbfa1ac924_3k.jpg" width="3072" height="1920" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
