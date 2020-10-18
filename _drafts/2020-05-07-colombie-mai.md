@@ -20,7 +20,7 @@ itinary: "2020/colombie.json"
 mapZoom: 5
 ---
 
-Cet article couvre la période du 07 mars au 06 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud et avons visité la ville coloniale de Cartagena de Indias avant de subir un confinement de 58 jours en raison du Covid-19 et enfin, pouvoir rentrer en France.
+Cet article couvre la période du 07 mars au 06 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud et avons visité la ville coloniale de Cartagena de Indias avant de subir un confinement de 50 jours en raison du Covid-19 et enfin, pouvoir rentrer en France.
 
 ## 07 mars
 
@@ -168,7 +168,7 @@ Toujours pas de place pour nous sur un vol de rapatriement organisé par l'ambas
 
 Ana nous trouve un lieu de stockage pour Thor, ce n'est pas la panacée mais il ne faut pas trop faire les difficiles vu les circonstances. La veille du départ, je demande aux services de l'immigration l'autorisation de quitter l'hôtel pour déposer Thor et nous rendre à l'aéroport, ce qui nous est accordé. L’ambassade nous fournit également un laissez-passer, ainsi que le document qui nous permettra d'entrer en Grande Bretagne. Moins de 24 heures avant le départ, les anglais nous signifient que nous ne pouvons rester que 24 heures sur leur sol, ce qui nous complique un peu la situation et nous oblige à prendre d'autres billets pour rentrer sur Paris.
 
-Le 04 mai, c'est le jour du départ, je dépose Thor avec le mari de Ana qui me ramène à l'hôtel à l'issue, dans l'après-midi nous prenons un taxi qui nous laisse à l'aéroport, complètement désert, seul notre vol est programmé aujourd'hui. Contrôle sanitaire avant d'entrer avec prise de température puis nous sommes reçus par le consul de France à Carthagène qui nous souhaite un bon retour. Si, dans l'aéroport, les gestes barrières sont bien en place, on se retrouve tous entassés dans l'avion de la compagnie COPAN qui nous ramène sur le vieux continent après 58 jours de confinement strict.
+Le 04 mai, c'est le jour du départ, je dépose Thor avec le mari de Ana qui me ramène à l'hôtel à l'issue, dans l'après-midi nous prenons un taxi qui nous laisse à l'aéroport, complètement désert, seul notre vol est programmé aujourd'hui. Contrôle sanitaire avant d'entrer avec prise de température puis nous sommes reçus par le consul de France à Carthagène qui nous souhaite un bon retour. Si, dans l'aéroport, les gestes barrières sont bien en place, on se retrouve tous entassés dans l'avion de la compagnie COPAN qui nous ramène sur le vieux continent après 50 jours de confinement strict.
 
 <img src="{{baseurl}}/assets/owner/photos/colombie 9.jpg" style="width:100%" />
 
