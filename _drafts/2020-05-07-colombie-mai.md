@@ -5,7 +5,7 @@ preview: "Cet article couvre la période du 07 mars au 06 mai 2020, au cours de 
 parent-id:
 date: 2020-05-07 13:00:00
 from-date: 2020-03-07 12:00:00
-to-date: 2020-05-07 13:00:00
+to-date: 2020-05-06 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt34.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
@@ -152,7 +152,7 @@ Le 2 avril, toutes les démarches sont terminées, nous allons enfin pouvoir ré
 
 Thor est en pleine forme, aucun dégât, aucune effraction donc aucun objet volé, ce qui est déjà un miracle ... il est juste recouvert de sel, un gros nettoyage s'impose...
 
-# 03 avril au 04 mai
+# 03 avril au 06 mai
 
 La période de doute commence, nous sommes en contact avec de nombreux voyageurs bloqués, confinés un peu partout aux Amériques et nous en sommes tous à se poser les mêmes questions, faut-il rentrer en France ? faut-il rester et attendre patiemment avant de pouvoir reprendre la route ? telles sont nos questions... L'ambassade de France organise quelques vols sanitaires avec Air France et KLM, elle a établi une liste des personnes prioritaires (personnes âgées, malades, médecins, infirmièr(e)s, familles nombreuses...). Vu le nombre de vol, nous ne sommes pas prêts de rentrer.
 
