@@ -72,7 +72,7 @@ Ce matin, nous avons eu confirmation que la banque n'a, une nouvelle fois, pas r
 
 # 14 mars
 
-On repart visiter le centre-ville, on prend un taxi qui nous conduit jusqu'au **Convent of Santa Cruz de la Popa** implanté en haut d'une colline, la vue y est incroyable. Entièrement restauré, le cloître est superbe.
+On repart visiter le centre-ville, on prend un taxi qui nous conduit jusqu'au **Convento de Santa Cruz de la Pop** implanté en haut d'une colline, la vue y est incroyable. Entièrement restauré, le cloître est superbe.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49666498292/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49666498292_a9aac49205_3k.jpg" width="3072" height="1728" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
