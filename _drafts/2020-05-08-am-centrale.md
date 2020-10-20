@@ -47,8 +47,8 @@ Nous avons trouvé les mexicains très sympathiques et accueillants, si d'un pre
 
 ### Quelques chiffres :
 
-- **_Nombre de jours_** : 168 jours ;
-- **_Nombre de pays et états traversés_** : USA (1 état) - Mexique (23 états) ;
+- **_Nombre de jours_** : 185 jours ;
+- **_Nombre de pays traversés_** : Mexique, Belize, Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Colombie ;
 - **_Monnaie_** : Dollars US et Pesos mexicain ;
 - **_Banque_** : Carte N26 Black, aucun problème rencontré ;
 - **_Prix moyen de l'essence_** : En Californie 3,04$ le gallon (entre 2,80$ et 3,29$) soit 0,82$ ou 0,72€ le litre, au Mexique 19,84 $Mex le litre (entre 17,96 et 25$Mex) soit 0,93€ le litre, données basées à partir de nos 44 "pleins" soit 3829,44 litres d'essence consommés. Notre consommation générale est de 25 litres au 100 Km ;
@@ -56,9 +56,9 @@ Nous avons trouvé les mexicains très sympathiques et accueillants, si d'un pre
 - **_Eau_** : Rapidement nous avons du remplir notre réservoir avec de l'eau non potable. Nous avons donc acheté un "Garafon" pour nous approvisionner en eau potable auprès des magasins ou les faire remplir dans des stations de purification "Agua Purificada". Les 20 litres coûtent moins d'un euro ;
 - **_Électricité_** : Dans certains campings uniquement. Mieux vaut être autonome, nous ne regrettons pas d'avoir fait modifier notre système électrique à Denver ;
 - **_Stationnements_** : En règle générale, nous n'avons pas eu de soucis, nous avons suivi très souvent les indications de IOverlander ;
-- **_Santé_** : 3 gastros. Nous sommes allés voir des médecins à deux reprises. Il y a souvent des praticiens dans des locaux attenant aux pharmacies. Le prix des consultations est vraiment peu cher et varie selon les Etats, parfois même elles sont gratuites, on donne ce que l'on veut ;
+- **_Santé_** : Aucun problème de santé ;
 - **_Sécurité_** : Aucun soucis, nous n'avons jamais eu la sensation de ne pas être en sécurité, pour peu que l'on respecte les règles élémentaires de bon sens ;
-- **_Communications, Internet_**: Forfait Free à 19,99€ + une carte sim Telcel 8,90€/mois pour le Mexique - Aucun problème ;
+- **_Communications, Internet_**: Carte sim Telcel 8,90€/mois pour le Mexique - Aucun problème ;
 - **_Distance parcourue_** : 9561 miles soit 15308 Km dont 40 miles de piste - 64 Km.
 
 ### Quelques statistiques :
