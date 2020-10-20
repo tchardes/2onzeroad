@@ -11,8 +11,8 @@ tags: []
 countries: ["Mexique", "Belize", "Guatemala", "El Salvador", "Honduras", "Nicaragua", "Costa Rica", "Panama", "Colombie"]
 category: "bilan"
 location: "14.044971, -85.293690"
-itinary: "2019/total-2020.json"
-mapZoom: 4
+itinary: "2020/total-2020.json"
+mapZoom: 5
 ---
 
 C'est le temps du bilan pour ce road trip 2018/2019. Ce troisième séjour de presque six mois en Amérique du Nord nous a, de nouveau, comblé.
