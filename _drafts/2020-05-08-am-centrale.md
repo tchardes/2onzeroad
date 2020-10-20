@@ -8,7 +8,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-bilan2019.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-bilan2019.jpg
 tags: []
-countries: ["Mexique", "Belize", "Guatemala, "El Salvador", "Honduras", "Nicaragua", "Costa Rica", "Panama", "Colombie"]
+countries: ["Mexique", "Belize", "Guatemala", "El Salvador", "Honduras", "Nicaragua", "Costa Rica", "Panama", "Colombie"]
 category: "bilan"
 location: "14.044971, -85.293690"
 itinary: "2019/total-2020.json"
