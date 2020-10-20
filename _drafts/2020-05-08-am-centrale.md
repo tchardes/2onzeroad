@@ -3,7 +3,7 @@ layout: blog
 title: "Bilan road trip 2020"
 preview: "C'est le temps du bilan pour ce road trip 2019/2020. Ce quatrième séjour de presque six mois en Amérique Centrale nous a, à nouveau, comblé…"
 
-date: 2019-05-18 14:00:00
+date: 2020-05-08 14:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-bilan2019.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-bilan2019.jpg
