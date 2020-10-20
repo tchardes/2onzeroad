@@ -17,33 +17,109 @@ mapZoom: 6
 
 C'est le temps du bilan pour ce road trip 2018/2019. Ce troisième séjour de presque six mois en Amérique du Nord nous a, de nouveau, comblé.
 
-Nous devions rester juste une dizaine de jours en Californie, finalement nous y sommes restés un mois. Nous avions commandé des pièces pour Thor, à distance, et nous avons dû attendre car tout n'était pas conforme à nos attentes. Pas toujours facile de faire des affaires avec les amerloques. Cela nous a permis de refaire un tour du côté de Los Angeles et de bien profiter de San Diego, ville très agréable. Nous avons quitté les Etats-Unis, avec un pincement au cœur, pour entrer en Amérique Latine, au Mexique.
+**Mexique :**
 
-Après un mois passé dans un décor fabuleux en Basse-Californie entre désert, océan Pacifique et mer de Cortès, nous avons pris le ferry pour gagner le continent et son haut plateau.
+**Belize :**
 
-Véritable voyage dans l'histoire avec la visite de ces cités coloniales héritées des conquistadors espagnols. Leurs recherches frénétiques de trésors les ont conduit de Veracruz à Santa Fe au Nouveau Mexique (USA) à la recherche d'or, d'argent et de pierres précieuses, El Camino Real... L'évangélisation fait également partie de l'aventure du nouveau monde qui deviendra la nouvelle Espagne. L'église catholique procède à sa conquête, spirituelle pour le coup, et laisse un patrimoine religieux impressionnant. Au travers des Jésuites puis des Dominicains et Franciscains, ce sont près de 300 monastères, missions et autant d'églises aux styles baroque, renaissance, churrigueresque, plateresque, néo-classique qui ont été bâtis... Les retables de style baroque sont vraiment impressionnants, imposants, riches en détails, chargés, très chargés, parfois même inquiétants voire macabres... Il en résulte que les mexicains sont très croyants, les églises sont pleines avec souvent une dizaine de messes par jour. Impossible, pour la plupart, de passer devant un édifice religieux, même en voiture, sans se signer.
+**Guatemala :**
 
-Le Mexique, c'est avant tout l'histoire de grandes civilisations aujourd'hui disparues. Toutefois, de nombreuses "tribus" amérindiennes sont encore présentes et tentent de faire survivre leurs coutumes. Elles représentent près de 30% de la population mexicaine réparties en plus de 50 tribus qui parlent des dialectes différents. Vivant en communauté très hiérarchisée, le "chaman" et le repère essentiel de la vie sociale. Ils vivent principalement de agriculture traditionnelle et de l’artisanat et sont quelque peu oubliés par le pouvoir fédéral créant ainsi des tensions comme au Chiapas. Les Aztèques et les Mayas ont laissé un patrimoine important, très bien restauré, et mis en valeur. Certains sites, un peu à l'écart des circuits touristiques habituels, sont souvent peu fréquentés et très beaux comme Xochicalco, Xochitécatl, Cacaxtla, Cantona, Ek Balam et bien d'autres.
+**Nous avons vraiment adoré :**
 
-Nous avons trouvé les mexicains très sympathiques et accueillants, si d'un premier abord, ils semblent parfois fermés voire sur la défensive, un simple sourire ou un "Holà !!" suffit à leur faire afficher un large sourire et à engager la conversation. Il existe un très gros contraste entre le niveau de vie des habitants des zones rurales voire désertiques, très pauvres et les grandes agglomérations. S'ils travaillent très durement la semaine, les week-ends sont très festifs, la musiques, à fond, est omniprésente. On peut manger de partout au Mexique, la street food est reine, on a l'impression qu'ils mangent toute la journée. La nourriture n'est pas très épicée de base mais de nombreux condiments sont disponibles sur la table, certains très très pimentés, mieux vaut se renseigner avant de goûter...
-
-**Nous avons adoré :**
-
-- Les côtes sauvages de la péninsule de la Basse-Californie, surtout du Sud et nos rencontres avec les baleines ;
-- L'histoire, la culture et la gastronomie mexicaine, très riches ;
-- La gentillesse des autochtones ;
-- Les paysages du Chiapas ;
-- Nos rencontres et moments partagés avec d'autres voyageurs ;
-- Le climat en général, chaud la journée et frais la nuit ;
-- Le pouvoir d'achat.
+- Le site de Tikal ;
+- La région de Flores ;
+- Le Lac Atitlan, ses volcans et petits villages ;
+- Chichicastenango, son marché, ses festivités ;
+- Notre escapade au bord du pacifique avec la rencontre de Greg ;
+- La ville d'Antigua avec son histoire, son architecture et ses volcans ;
+- Les rencontres et partages avec les autres voyageurs qui sont toujours très enrichissants.
 
 **Nous avons moins aimé :**
 
-- Les routes, on le savait, une véritable indigestion de "topes" ;
-- Les tentatives d'extorsion de fond de trois policiers lors de contrôles routiers ;
-- L'insalubrité de certains lieux. On comprend la problématique de la gestion des déchets, notamment des plastiques ;
-- Si les mexicains conduisent bien en général, les taxis, les chauffeurs de bus de ville et colectivos sont de grands malades.
-- Le prix des sites archéologiques dans le Yucatan, augmenté par une taxe régionale de près de 400 pesos. Cela reste néanmoins très abordable.
+- Certaines routes pour leurs mauvais états, voir l'absence de route... ;
+- La capitale qui ne présente que peu d'intérêts, la circulation y est vraiment compliquée, surtout pour nous ;
+- Les conducteurs de camions, bus, taxis qui prennent beaucoup de risques et conduisent trop vite avec des engins en très mauvais état. Les conducteurs, en général, qui ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complétement la circulation.
+
+Nous avons passé au total 26 jours au Guatemala et avons parcouru près de 1490 Km.
+
+**El Salvador :**
+
+**Nous avons vraiment adoré :**
+
+- La gentillesse des gens, on ne peut pas compter le nombre de coups de klaxon, de pouces levés ou simplement un sourire ou un petit bonjour de la main.
+- Les paysages de la route des fleurs ;
+- La ville de Conception de Ataco ;
+- Le Parc Naturel de Cerro Verde et ses volcans ;
+- La ville de Suchitoto
+
+**Nous avons moins aimé :**
+
+- La capitale et son centre historique qui est assez pauvre et ne présente que peu d'intérêts, la circulation y est vraiment compliquée, surtout pour nous ;
+- Comme au Guatemala, les conducteurs de camions, bus, taxis qui prennent beaucoup de risques et conduisent trop vite avec des engins en très mauvais état. Les conducteurs, en général, qui ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complètement la circulation.
+
+Nous avons passé au total 8 jours au El Salvador et avons parcouru près de 530 Km. Nous avons visité la moitié du pays la plus intéressante, préférant remonter vers le Nord pour visiter une partie du Honduras.
+
+**Honduras :**
+
+**Nous avons vraiment adoré :**
+
+- Les paysages de montagne ;
+- La ville de Copán et son site Maya ;
+- La gentillese et la bienveillance des honduriens.
+
+**Nous avons moins aimé :**
+
+- La méteo qui a contrarié pas mal nos plans ;
+- Certaines routes pour leurs mauvais états, voir l'absence de route... ;
+- Les conducteurs de camions, bus, taxis qui prennent beaucoup de risques et conduisent trop vite avec des engins en très mauvais état. Les conducteurs, en général, qui ne font aucun effort vis à vis des autres, c'est la jungle, aucune civilité ou courtoisie, c'est chacun pour soi, à en bloquer complétement la circulation.
+
+Nous avons passé au total 11 jours au Honduras et avons parcouru près de 1242 Km. Certes le pays ne renferme pas des sites extraordinaires en dehors de Copán mais les paysages sont vraiments très beaux. A aucun moment nous nous sommes sentis en insécurité. Nous ne regrettons pas d'avoir fait le détour. Toutes les formalités à la frontière réalisées, nous pouvons partir à la découverte du Nicaragua.
+
+**Nicaragua :**
+
+**Nous avons vraiment adoré :**
+
+- Les paysages ;
+- Les villes de León et Granada pour leur architecture et histoire ;
+- Le volcan Santiago et son lac de lave ;
+- La ville de San Juan Del Sur pour sa baie magnifique sur le Pacifique ;
+- Le bon état des routes et la propreté du pays en rapport à ses voisins du Nord.
+- La gentillesse et la bienveillance des habitants.
+
+**Nous avons moins aimé :**
+
+- Pas grand chose au final, peut-être juste le manque d'infrastructures au niveau des campings. Il n'y en a aucun.
+- Le passage de la frontière du Nicaragua (Entrée et sortie) un peu alambiqué.
+
+Nous avons passé, au total, 15 jours au Nicaragua et avons parcouru près de 795 Km. Nous avons adoré découvrir ce pays magnifique. Le Nicaragua sort difficilement de la crise politique qu'il a connu il y a deux ans, tous les vacanciers étrangers évitent cette destination qui mérite pourtant d'être découverte.
+
+**Costa Rica :**
+
+**Nous avons vraiment adoré :**
+
+Ce pays est paradisiaque, très propre, avec un réseau routier très bien entretenu et avec le développement d'un tourisme maitrisé, plutôt écoresponsable. Coincé entre Pacifique et mer des Caraïbes, l'ambiance est totalement différente d'une côte à l'autre et les plages, qu'elles soient de sable blanc, jaune ou noir, restent très sauvages. En cherchant un peu, on trouve des lieux sans âme qui vive.
+Entre les deux, un paysage très montagneux qui abrite des forêts tropicales sèches ou humides, parfois d'altitude près de 3000 mètres au Parc National Los Quetzales, sans oublier lacs et volcans. Mais, avant tout, ce qui est incroyable c'est qu'ils aient su autant préserver leur faune.
+
+**Nous avons moins aimé :**
+
+Pas grand chose au final si ce n'est peut-être les prix qui s'approchent des prix européens. Corinne n'a pas du tout aimé passer sur ces ponts à une seule voie et souvent très étroits.
+
+**Panama :**
+
+**Nous avons vraiment adoré :**
+
+- La Côte Caraïbe au niveau de Bocas Del Toro (en dehors de son réseau routier) ;
+- Le Canal de Panama ;
+- La ville de Panama City.
+
+**Nous avons moins aimé :**
+
+- Les prix en général ;
+- L'amende pour excès de vitesse qui nous a fait perdre 2 jours sur notre programme ;
+- Le prix de la traversée entre Colón et Cartagena (Colombie), une escroquerie ;
+- Plus sale et moins bien entretenue que le Costa Rica ;
+- Les habitants pas toujours sympathiques.
+
+**Colombie :**
 
 ### Quelques chiffres :
 
