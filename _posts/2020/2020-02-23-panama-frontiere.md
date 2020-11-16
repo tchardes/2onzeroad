@@ -45,19 +45,19 @@ Les deux postes frontières sont en travaux en raison de la construction d'un no
 
 - **Paiement taxe touristique** - **_Repère 2_** : On descend à pied en contrebas de la route sur la gauche où se trouvent de nombreux commerces. Plusieurs établissements se chargent d'encaisser cette taxe pour le compte du "Ministerio de Hacienda" qui est de 8 dollars US + 1 dollar de frais par personne. On vous remet un reçu qui sera vérifié par l'immigration.
 
-<img src="{{baseurl}}/assets/owner/photos/Panama4.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/panama4.jpg" style="width:100%" />
 
 - **Immigration** - **_Repère 3_** : Toujours à pied, on longe la route sur la gauche, on passe le portique de fumigation utilisé pour ceux qui rentrent au Costa Rica et sur la gauche se trouvent des genres d'Algecos blancs. C'est là que tous les voyageurs doivent se rendre pour valider la sortie du territoire, les démarches sont très rapides.
 
-<img src="{{baseurl}}/assets/owner/photos/Panama6.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/panama6.jpg" style="width:100%" />
 
-<img src="{{baseurl}}/assets/owner/photos/Panama5.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/panama5.jpg" style="width:100%" />
 
-<img src="{{baseurl}}/assets/owner/photos/Panama7.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/panama7.jpg" style="width:100%" />
 
 - **Douanes** - **_Repère 4_** : L'immigration et les douanes se font face, il suffit de se retourner pour s'occuper de la fin de l'importation temporaire. L'agent vous fait remplir une demi-feuille en double exemplaire de demande de fin d'importation et après saisie sur son ordinateur, la procédure est terminée. On peut retourner au véhicule et rouler en direction du Panama par un vieux pont étroit qui est également emprunté par les piétons. Il y a bien un policier à l'entrée du pont mais il ne nous demande rien.
 
-<img src="{{baseurl}}/assets/owner/photos/Panama8.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/panama8.jpg" style="width:100%" />
 
 ### Entrée au Costa Rica
 
@@ -106,4 +106,4 @@ Côté Panama :
 - 3 US\$ pour la fumigation ;
 - 25 US\$ pour l'assurance (30 jours minimum).
 
-Toutes les démarches ont pris un peu plus de 2 heures. Bien vérifier sur tous les documents que l'on vous remet (titre d'importation et assurance) que les N° d'immatriculation et série du véhicule sont conformes, très important pour le shipping vers la Colombie. Une fois les démarches terminées, le voyage en terres panaméennes peut commencer...
+Toutes les démarches ont pris un peu plus de 2 heures. Bien vérifier sur tous les documents que l'on vous remet (titre d'importation et assurance) que les N° d'immatriculation et série du véhicule sont conformes, très important pour le shipping vers la Colombie. Une fois les démarches terminées, le voyage en terres panaméennes peut commencer....
