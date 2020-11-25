@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "VIDEOS"
-description: "Une fois que vous avez lancé la vidéo cliquez sur le carré en bas à droite juste après Youtube pour la mettre en mode plein écran, puis sur Echap ou Esc pour revenir sur la page"
+description: ""
 header-img: "assets/owner/hero/video-bg.jpg"
 permalink: /video/
 ---
@@ -25,10 +25,10 @@ permalink: /video/
       maxResults: 50,
       order: "date",
       type: "video",
-      q: query
+      q: query,
     });
 
-    request.execute(function(response) {
+    request.execute(function (response) {
       /* sort through the list until a video comes up, then set the URL link */
       var link = "";
 
