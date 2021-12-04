@@ -7,57 +7,37 @@ itinary: "total.json"
 ---
 
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">  
-        <meta name="viewport" content="width=device-width">
-        <link rel="stylesheet" href="{{root_url}}/assets/libs/css/galleries.css">
-        <link rel="stylesheet" href="{{root_url}}/assets/libs/css/magnificpopup.css">
-        <link rel="shortcut icon" href="/favicon.ico">
-        {% include head.html %}        
-    </head>
-    <body> 
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="{{root_url}}/assets/libs/css/galleries.css" />
+    <link rel="stylesheet" href="{{root_url}}/assets/libs/css/magnificpopup.css" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    {% include head.html %}
+  </head>
+  <body>
+    {% assign relatedPosts = "" | split:"|" %} {% for post in site.posts %} {% assign areEquals = false %} {% assign hasParents = false %} {% if post.parent-id and page.parent-id == post.parent-id %}
+    {% assign areEquals = true %} {% endif %} {% if post.path contains page.parent-id or page.path contains post.parent-id or areEquals %} {% assign hasParents = true %} {% endif %} {% if page.id !=
+    post.id and hasParents == true %} {% assign relatedPosts = relatedPosts | push: post %} {% endif %} {% endfor %} {% include nav.html %} {% assign post = page %}
 
-        {% assign relatedPosts = "" | split:"|"  %}
-        
-        {% for post in site.posts %}       
-            {% assign areEquals = false %}
-            {% assign hasParents = false %}
-
-            {% if post.parent-id and page.parent-id == post.parent-id %}
-                {% assign areEquals = true %}
-            {% endif %}
-
-            {% if post.path contains page.parent-id or page.path contains post.parent-id or areEquals %}
-                {% assign hasParents = true %}
-            {% endif %}
-
-            {% if page.id != post.id and hasParents == true %}
-                {% assign relatedPosts = relatedPosts | push: post %}
-            {% endif %}
-
-        {% endfor %}
-
-        {% include nav.html %}
-
-        {% assign post = page %}
-
-        <div class="container-fluid" style="margin-bottom:-20px">
-            <div class="row"> 
-                <div>  
-                    {% include map_canvas.html id="map1" hideMarkers="true" displayItinary="true" relatedPosts=site.posts isRecusrive="false" googleStyle="true" height="800" %}
-                </div>
-                <div style="width: 100%;text-align: right;padding-right: 10px; font-style: italic">Le tracé représente notre parcours - <span style="color:#d000ff;font-weight:bold;">2015/2016</span> - <span style="color:#982D2D;font-weight:bold;">2017</span> - <span style="color:#2D6298;font-weight:bold;">2018</span> - <span style="color:#FF8000;font-weight:bold;">2018/2019</span> - <span style="color:#CF061F;font-weight:bold;">2019/2020</span></div>
-            </div>
+    <div class="container-fluid" style="margin-bottom: -20px">
+      <div class="row">
+        <div>{% include map_canvas.html id="map1" hideMarkers="true" displayItinary="true" relatedPosts=site.posts isRecusrive="false" googleStyle="true" height="800" %}</div>
+        <div style="width: 100%; text-align: right; padding-right: 10px; font-style: italic">
+          Le tracé représente notre parcours - <span style="color: #d000ff; font-weight: bold">2015/2016</span> - <span style="color: #982d2d; font-weight: bold">2017</span> -
+          <span style="color: #2d6298; font-weight: bold">2018</span> - <span style="color: #ff8000; font-weight: bold">2018/2019</span> -
+          <span style="color: #cf061f; font-weight: bold">2019/2020</span> - <span style="color: #33ffcc; font-weight: bold">2022</span>
         </div>
+      </div>
+    </div>
 
-        {% include footer.html %}
-        {% include scroll_to_top.html %}
+    {% include footer.html %} {% include scroll_to_top.html %}
 
-        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5807328e5c4d2d94"></script> 
-    </body>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5807328e5c4d2d94"></script>
+  </body>
 </html>
 
 <script>
-    initMap();
+  initMap();
 </script>
