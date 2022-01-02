@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <style>
+      .inputText {
+        width: 600px;
+        height: 300px;
+      }
+      .button {
+        padding-top: 40px;
+        padding-bottom: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <textarea id="data" name="data" class="inputText"></textarea>
+    </div>
+    <div class="button">
+      <button type="button" onclick="transform()">Transform</button>
+    </div>
+    <div id="result"></div>
+  </body>
+</html>
+
+<script>
+  //[{"StartPoint":"11.121791, -85.594301","EndPoint":"11.043942, -85.667187","WayPoints":["11.122527, -85.594661","11.111705, -85.610382","11.084019, -85.620435","11.072407, -85.630256","11.063182, -85.643844","11.049035, -85.659566","11.038961, -85.665898","11.037761, -85.668462","11.040777, -85.668306"]}]
+  function transform() {
+    const data = document.getElementById("data").value;
+
+    const dataObject = JSON.parse(data)[0];
+
+    const coords = [];
+
+    coords.push(reverseCoord(dataObject.StartPoint));
+
+    dataObject.WayPoints.forEach((coord) => {
+      coords.push(reverseCoord(coord));
+    });
+
+    coords.push(reverseCoord(dataObject.EndPoint));
+
+    document.getElementById("result").innerHTML = coords.toString();
+  }
+
+  function reverseCoord(coord) {
+    coordTable = coord.split(",");
+    coordReversed = "[" + coordTable[1] + ", " + coordTable[0] + "]";
+    return coordReversed;
+  }
+</script>
