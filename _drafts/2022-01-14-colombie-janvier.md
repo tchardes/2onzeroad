@@ -60,6 +60,26 @@ Si nous sommes rapidement reconnectés au réseau, il nous est impossible de tro
 
 ## 12 au 20 janvier
 
+J'écluse et interroge tous les forums et contacte quelques voyageurs, tous les renseignements sont ante civid et ne sont plus au gout du jour. Finalement on me donne l'e-mail d'une agent d'asurance du Sud du pays, qui après surprise de mon contact direct se propose de m'aider. Après moults échanges, elle fini par me dire que le TIP (permis temporaire d'importation) de Thor arrive à terme trop rapidement (21 janvier) et qu'il faut que je le renouvelle avant pouvoir espèrer être assuré. Je contacte Ana et ensemble rédigeons une nouvelle demande auprès des douanes. Pas rapide en temps normal, là ils ne travaillent qu'à mi-temps…
+
+En attendant, nous prolongeons notre séjour à l'hôtel, nuitée par nuitée, et flanons de temps à autre dans le centre historique, ce qui n'est pas désagréable. Nous mangeons le plus souvent à l'hôtel, à midi le menu est à 12 000 Cop par personne soit 4,5 € pour nous deux. Certe ce n'est pas très varié, ce qui est normal ici, mais c'est toujours très bon. La variété cse fait pas les acompagnements, Riz, salade composée, frittes, haricots rouges, bananes frites, croquettes de yuka, patacones la spécialité de la colombie, il s'agit de rondelles de banane plantin un peu aplatie et frites plusieurs fois.
+
+<img src="{{baseurl}}/assets/owner/photos/colombie16.jpg" style="width:100%" />
+
+Le soir c'est à la carte et nous payons environ 20 000 Cop par personne soit moins de 10$€ pour nous deux. Les plats sont plus évolués s'y ajoute poisson, pastes, hamburgers.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51820225733/in/datetaken/" title="IMG_3953"><img src="https://live.staticflickr.com/65535/51820225733_d9262d6dc0_6k.jpg" width="6144" height="2499" alt="IMG_3953"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51819163347/in/datetaken/" title="IMG_3965"><img src="https://live.staticflickr.com/65535/51819163347_af0a56644e_6k.jpg" width="6144" height="2666" alt="IMG_3965"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51820456589/in/datetaken/" title="IMG_3970"><img src="https://live.staticflickr.com/65535/51820456589_24105250cf_6k.jpg" width="6144" height="2584" alt="IMG_3970"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51820225258/in/datetaken/" title="IMG_3968"><img src="https://live.staticflickr.com/65535/51820225258_7914896797_4k.jpg" width="4032" height="2268" alt="IMG_3968"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51820110456/in/datetaken/" title="IMG_3959"><img src="https://live.staticflickr.com/65535/51820110456_4d041f7080_3k.jpg" width="3072" height="1728" alt="IMG_3959"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51819162637/in/datetaken/" title="IMG_3955"><img src="https://live.staticflickr.com/65535/51819162637_f4f8c93c80_3k.jpg" width="3072" height="1728" alt="IMG_3955"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o-FMcnoFuhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
