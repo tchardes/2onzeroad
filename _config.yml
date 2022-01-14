@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "10.426360185728827, -75.55026728858594"
   name: "Cartagena de Indias - Colombie"
-  date: "10 janvier 2022"
+  date: " Du 10 au 18 janvier 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
