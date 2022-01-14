@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt34.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
 tags: [mer-ocean, transport, histoire, architecture, culturel]
-pois: [cartagena#O7-mars]
+pois: [cartagena#10-janvier]
 country: Colombie
 states: ["Bolivar"]
 category: "roadmap"
