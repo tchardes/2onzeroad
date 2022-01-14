@@ -42,7 +42,7 @@ Le vol se passe bien, en sortant de l'avion nous sommes littéralement assommés
 
 ## 11 janvier
 
-Ce matin on retrouve les employés de l’hôtel, agustina nous tombe dans les bras, elle est très émue. Nous retrouvons notre petit déjeuner habituel ici avec jus de fruits maison et des fruits frais. En milieu de matinée, Juan Pablo vient nous récupérer à l'hôtel. C'est le fils de Ana qui c'est occupée de nous et surtout de Thor depuis notre arrivée en Colombie en 2020. Il nous conduit au lieu de stockage de Thor, un genre de parking dans un collège très bien ceinturé et gardé. Thor, n'était pas tout seul puisque entouré de nombreux Iguanes de "garde". Nous découvrons Thor dans un triste état extérieur, c’est normal il vient de passer un an sous un arbre. Après un tour d'inspection rien n'est cassé ni détérioré, tout à l'air "normal".
+Ce matin on retrouve les employés de l’hôtel, Agustina nous tombe dans les bras, elle est très émue. Nous retrouvons notre petit déjeuner habituel ici accompagné de jus de fruits maison et des fruits frais. En milieu de matinée, Juan Pablo vient nous récupérer à l'hôtel. C'est le fils de Ana qui c'est occupée de nous et surtout de Thor depuis notre arrivée en Colombie en 2020. Il nous conduit au lieu de stockage de Thor, un genre de parking dans un collège très bien ceinturé et gardé. Thor, n'était pas tout seul puisque entouré de nombreux Iguanes de "garde". Nous découvrons Thor dans un triste état extérieur, c’est normal il vient de passer un an sous un arbre. Après un tour d'inspection rien n'est cassé ni détérioré, tout à l'air "normal".
 
 <img src="{{baseurl}}/assets/owner/photos/colombie14.jpg" style="width:100%" />
 
@@ -57,6 +57,7 @@ En fin de matinée, Juan Pablo nous ramène à l'hôtel, en route nous repérons
 A midi nous mangeons à l’hôtel et retrouvons notre soupe de poulet en entrée et le traditionnel plat de viande (poulet, beef ou porc), riz, quelques frittes et une salade composée. Le tout accompagné d’un jus de fruit maison. En début d’après-midi nous prenons un taxi pour nous rendre dans le centre historique pour acheter une carte SIM et assurer Thor. Nous retrouvons nos marques rapidement dans cette magnifique ville de Cartagena, c'est toujours aussi beau. Il y a du monde mais on voit clairement qu'il y a peu d'étranger. Nous traversons le "Parque Del Centenario" où nous retrouvons paresseux, singes et iguanes. Les belles colombiennes en habit traditionnel et panier de fruits frais sur la tête sont toujours prêtes pour "la" photo typique.
 
 Si nous sommes rapidement reconnectés au réseau, il nous est impossible de trouver un assureur ouvert. La crise Covid est passée par là. Soit les locaux sont fermés définitivement soit les personnels sont en télétravail et on nous laisse même entendre qu'ils n'en délivrent plus aux étrangers. Ça devient problématique. si nous n’avons pas notre SOAT, impossible de bouger THOR, trop dangereux.
+
 
 ## 12 au 20 janvier
 
