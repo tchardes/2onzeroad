@@ -20,11 +20,19 @@ itinary: "2022/colombie.json"
 mapZoom: 5
 ---
 
-Cet article couvre la période du 07 mars au 06 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud et avons visité la ville coloniale de Cartagena de Indias avant de subir un confinement de 50 jours en raison du Covid-19 et enfin, pouvoir rentrer en France.
+Cet article couvre la période du 10 janvier au 2022, au cours de laquelle nous avons passé jours en Colombie.
 
-## 07 mars
+Nous avions pour habitude de dire à chaque départ que nous quittions notre zone de confort pour partir à la découverte de nouveaux horizons, à l'aventure quoi, au moins pour nous... Cela n'a jamais été aussi vrai... 616 jours plus tard, nous repartons enfin pour la Colombie avec des valises d'incertitudes. Qu'en sera t-il de la situation sanitaire et économique du pays ? Dans quel état allons nous retrouver Thor ? Va t-il nous reconnaître ?. Connaissant bien les méandres de l'administration Colombienne, pourra t-on faire prolonger une énièmme fois notre titre d'importation temporaire pour Thor pour continuer la route sereinement ou serons nous contraint de quitter précipitament le pays en quelques jours ?... Nous partons alors que la frontière terrestre avec l'Equateur est ouverte depuis peu mais, pour l'instant, la frontière terrestre entre l'Equateur et le Pérou est toujours fermée et rien n'annonce une ouverte prochaine. Pourtant c'est là que nous devons nous rendre pour pouvoir y laisser Thor à nouveau.
 
-Après un vol rapide, nous arrivons en Colombie à l'aéroport de **Cartagena de Indias**. Les formalités, immigrations et douanes, sont rapides. Effectivement il y un panneau qui liste les pays "cibles" du Coronavirus mais la France y est étonnamment absente. Tant mieux. Visa de 90 jours accordé sans passer par la case examen médical. L'ensemble des démarches du transport maritime du véhicule a été retranscrite **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-04-06-colombie-shipping %}">ici</a>)**. Nous prenons un Uber qui nous conduit à notre hôtel situé sur un cordon lagunaire, véritable station balnéaire. Nous passons devant la vieille ville entourée de ses remparts, c'est très beau. Il y a un vent assez fort et la mer est démontée. Notre hôtel est récent avec tout le confort. Une fois installés, nous sortons manger un morceau et prendre une nouvelle carte Sim.
+## 10 janvier
+  
+Comme toujours c’est André, notre beau-frère, qui nous conduit à la gare TGV pour monter à Roissy CDG. Pour la première fois nous prenons Air France. L'avantage est double, vol direct vers Bogota et le fait que l'on n'aura pas tout l'aéroport de roissy à traverser pour arriver au bon terminal. J'aurais bien aimé faire un détour de quelques jours aux USA mais les prix sont encore élevés et nous craignons que la situation change du jour au lendemenain et que l'on se retrouve confinés en quarantaine à une escale.
+
+Nous arrivons à l'heure à Roissy et trouvons rapidement notre Terminal. Avec la Covid toutes les procédures se sont dématérialisées et que soit avec la SNCF ou Air France, tout se fait via leur application, même l'enregistrement et la dépose des bagages se fait par nous même, limitant ainsi les contacts. Un simple contrôle de notre pass sanitaire et nous voilà en salle d'ambarquement. Aucune questions sur le fait que nous ayons ou pas un billet pour sortir de la Colombie.
+
+
+
+
 
 <img src="{{baseurl}}/assets/owner/photos/colombie1.jpg" style="width:100%" />
 
