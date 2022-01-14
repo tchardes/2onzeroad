@@ -28,7 +28,7 @@ Nous avions pour habitude de dire à chaque départ que nous quittions notre zon
 
 Comme toujours c’est André, notre beau-frère, qui nous conduit à la gare TGV pour monter à Roissy CDG. Pour la première fois nous prenons Air France. L'avantage est double, vol direct vers Bogota et le fait que l'on n'aura pas tout l'aéroport de Roissy à traverser pour arriver au bon terminal. J'aurais bien aimé faire un détour de quelques jours aux USA mais les prix sont encore élevés et nous craignons que la situation change du jour au lendemain et que l'on se retrouve confinés en quarantaine à une escale.
 
-Nous arrivons à l'heure à Roissy et trouvons rapidement notre Terminal. Avec la Covid toutes les procédures se sont dématérialisées et que soit avec la SNCF ou Air France, tout se fait via leur application, même l'enregistrement et la dépose des bagages se fait par nous même, limitant ainsi les contacts. Un simple contrôle de notre pass sanitaire et nous voilà en salle d’embarquement. Aucune questions sur le fait que nous ayons ou pas un billet pour sortir de la Colombie.
+Nous arrivons à l'heure à Roissy et trouvons rapidement notre Terminal. Avec la Covid toutes les procédures se sont dématérialisées et que soit avec la SNCF ou Air France, tout se fait via leur application, même l'enregistrement et la dépose des bagages se fait par nous même, limitant ainsi les contacts. Un simple contrôle de notre pass sanitaire et nous voilà en salle d’embarquement. Aucune question sur le fait que nous ayons, ou pas, un billet pour sortir de la Colombie dans les 90 jours.
 
 <img src="{{baseurl}}/assets/owner/photos/colombie12.jpg" style="width:100%" />
 
@@ -57,7 +57,6 @@ En fin de matinée, Juan Pablo nous ramène à l'hôtel, en route nous repérons
 A midi nous mangeons à l’hôtel et retrouvons notre soupe de poulet en entrée et le traditionnel plat de viande (poulet, beef ou porc), riz, quelques frittes et une salade composée. Le tout accompagné d’un jus de fruit maison. En début d’après-midi nous prenons un taxi pour nous rendre dans le centre historique pour acheter une carte SIM et assurer Thor. Nous retrouvons nos marques rapidement dans cette magnifique ville de Cartagena, c'est toujours aussi beau. Il y a du monde mais on voit clairement qu'il y a peu d'étranger. Nous traversons le "Parque Del Centenario" où nous retrouvons paresseux, singes et iguanes. Les belles colombiennes en habit traditionnel et panier de fruits frais sur la tête sont toujours prêtes pour "la" photo typique.
 
 Si nous sommes rapidement reconnectés au réseau, il nous est impossible de trouver un assureur ouvert. La crise Covid est passée par là. Soit les locaux sont fermés définitivement soit les personnels sont en télétravail et on nous laisse même entendre qu'ils n'en délivrent plus aux étrangers. Ça devient problématique. si nous n’avons pas notre SOAT, impossible de bouger THOR, trop dangereux.
-
 
 ## 12 au 20 janvier
 
