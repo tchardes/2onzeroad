@@ -58,7 +58,7 @@ port: 4000
 
 #dependencies
 # Gems
-gems:
+plugins:
   - jekyll-paginate
 
 # Build settings

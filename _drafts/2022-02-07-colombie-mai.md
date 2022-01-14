@@ -34,7 +34,7 @@ Nous arrivons à l'heure à Roissy et trouvons rapidement notre Terminal. Avec l
 
 
 
-<img src="{{baseurl}}/assets/owner/photos/colombie1.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/colombie12.jpg" style="width:100%" />
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/49644873951/in/datetaken/" title="Carthagène - [Colombie]"><img src="https://live.staticflickr.com/65535/49644873951_3b28c67d46_3k.jpg" width="3072" height="1920" alt="Carthagène - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
