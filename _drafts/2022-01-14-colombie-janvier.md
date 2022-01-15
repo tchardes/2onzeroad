@@ -58,7 +58,7 @@ A midi, nous mangeons à l’hôtel et retrouvons notre soupe de poulet en entr�
 
 Si nous sommes rapidement reconnectés au réseau, il nous est impossible de trouver un assureur ouvert. La crise Covid est passée par là. Soit les locaux sont fermés définitivement soit les personnels sont en télétravail et on nous laisse même entendre qu'ils n'en délivrent plus aux étrangers. Sur leur site Internet, seul les véhicules colombiens peuvent être assurés en ligne. Ça devient problématique. Si nous n’avons pas notre SOAT, impossible de bouger Thor, trop dangereux.
 
-## 12 au 20 janvier
+## 12 janvier
 
 J'écluse et interroge tous les forums et contacte quelques voyageurs. Tous les renseignements que j'obtiens sont ante covid et ne sont plus au goût du jour. Finalement j'obtiens l'e-mail d'une agent d'assurance du Sud du pays, qui après surprise de mon contact direct, se propose de m'aider. Après moults échanges, elle fini par me dire que le TIP (permis temporaire d'importation) de Thor arrive à terme trop rapidement (21 janvier) et qu'il faut que je le renouvelle avant de pouvoir espèrer être assuré. Je contacte Ana et ensemble rédigeons une nouvelle demande auprès des douanes. Pas rapide en temps normal, là ils ne travaillent qu'à mi-temps…
 
@@ -67,6 +67,10 @@ En attendant, nous prolongeons notre séjour à l'hôtel, nuitée par nuitée, e
 <img src="{{baseurl}}/assets/owner/photos/colombie16.jpg" style="width:100%" />
 
 Le soir c'est à la carte et nous payons environ 20 000 Cop par personne soit moins de 10€ pour nous deux. Les plats sont plus évolués s'y ajoute poisson, pates, hamburgers.
+
+## 13 janvier
+
+Toujours pas de nouvelle de la dian, ils ne travaillent que le matin, en verra demain… Dans l’après-midi à part faire un tour dans le centre historique, il y a beaucoup moins de monde que lors de notre dernière venue mais on voit toutefois quelques touristes.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51820225733/in/datetaken/" title="IMG_3953"><img src="https://live.staticflickr.com/65535/51820225733_d9262d6dc0_6k.jpg" width="6144" height="2499" alt="IMG_3953"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -79,6 +83,14 @@ Le soir c'est à la carte et nous payons environ 20 000 Cop par personne soit mo
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51820110456/in/datetaken/" title="IMG_3959"><img src="https://live.staticflickr.com/65535/51820110456_4d041f7080_3k.jpg" width="3072" height="1728" alt="IMG_3959"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51819162637/in/datetaken/" title="IMG_3955"><img src="https://live.staticflickr.com/65535/51819162637_f4f8c93c80_3k.jpg" width="3072" height="1728" alt="IMG_3955"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## 14 au 16 janvier
+
+Le vendredi 14 aucune nouvelle de la Dian, se sera donc pour lundi... peut-être. Samedi nous retournons faire une tour en centre ville. Nous nous faisons déposer au pied du Castillo de San felipe de Barajas que nous avons déjà visité, mais nous n'avions pas vu "Los Zapatos Viejos". Il y a énormément de monde et nous devons faire la queue pour immortaliser l'instant.
+
+Nous déhanbulons ensuite sur les remparts de la veilles villes et traversons le Barrio Getsemani, quartier très animés, quartier du street art. Nous sommes surpris de voir comme les graffitis se sont dégradés depuis notre dernier passage. Il est vrai que le climat carribéen est très agressif pour ces peintures.
+
+A midi nous mangeons un peu à l'ecart à "El Arsenal : The Rum Box". S'il y a rhum dedans... se doit être bien. Restaurant très atypique sur deux étage, très bien décoré. Nous sommes reçus par une petit marmite de piments grillés, une tuerie, sans suit une dégustation d'un vieux Rhum colombien "Ron Viejo de Caldas" accompagné d'une petit chocolat colombien dosé à 35%. Il n'y a qu'en europe que nous mangeons le chocolat très concentré. L'association est bonne mais on ne va pas se mentir, quand on connait les Rhums agricole antillais à 50° et plus, les autres Rhum à 35° comme celui-là font pâle mine même s'ils ont une bonne saveur. Si nous avons bien compris ils ont plus de 80 rhum différents à la dégustation. Le repas qui s'en suit est parfait, une bonne adresse. Nous finissons la journée dans le centre historique, très bon moment, cette vile est vraiment très agréable.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
