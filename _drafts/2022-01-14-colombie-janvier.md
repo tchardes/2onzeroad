@@ -44,6 +44,8 @@ Le vol se passe bien, en sortant de l'avion, nous sommes littéralement assommé
 
 Ce matin, on retrouve les employés de l’hôtel, Agustina nous tombe dans les bras, elle est très émue. Nous retrouvons notre petit déjeuner habituel ici accompagné de jus de fruits maison et des fruits frais. En milieu de matinée, Juan Pablo vient nous récupérer à l'hôtel. C'est le fils de Ana qui s'est occupée de nous et surtout de Thor depuis notre arrivée en Colombie en 2020. Il nous conduit au lieu de stockage de Thor, un genre de parking dans un collège très bien ceinturé et gardé. Thor, n'était pas tout seul puisque entouré de nombreux Iguanes de "garde". Nous découvrons Thor dans un triste état extérieur, c’est normal il vient de passer un an sous un arbre. Après un tour d'inspection, rien n'est cassé ni détérioré, tout à l'air "normal".
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51822910643/in/datetaken/" title="Cartagena de Indias - [Colombie]"><img src="https://live.staticflickr.com/65535/51822910643_8970699d03_k.jpg" width="2048" height="1152" alt="Cartagena de Indias - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <img src="{{baseurl}}/assets/owner/photos/colombie14.jpg" style="width:100%" />
 
 <img src="{{baseurl}}/assets/owner/photos/colombie17.jpg" style="width:100%" />
