@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Colombie"
+title: "Colombie 2"
 preview: "Cet article couvre la période du 10 janvier au 2022, au cours de laquelle nous sommes revevus en Colombie après cette période folle de Covid. Nous avons..."
 parent-id:
 date: 2022-01-14 13:00:00

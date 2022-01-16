@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Colombie"
+title: "Colombie 1"
 preview: "Cet article couvre la période du 07 mars au 06 mai 2020, au cours de laquelle nous sommes passés de l'Amérique Centrale à l'Amérique du Sud..."
 parent-id:
 date: 2020-05-07 13:00:00
