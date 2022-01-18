@@ -112,7 +112,7 @@ Dimanche nous retournons en centre ville car le restaurant de l'hôtel est ferm�
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51823839372/in/datetaken-public/" title="Cartagena de Indias - [Colombie]"><img src="https://live.staticflickr.com/65535/51823839372_a9a6643540_k.jpg" width="2048" height="1152" alt="Cartagena de Indias - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51823839372/in/datetaken-public/" title="Cartagena de Indias - [Colombie]"><img src="https://live.staticflickr.com/65535/51823839372_a9a6643540_k.jpg" width="2048" height="1152" alt="Cartagena de Indias - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51824795086/in/datetaken-public/" title="Cartagena de Indias - [Colombie]"><img src="https://live.staticflickr.com/65535/51824795086_764f6d7470_k.jpg" width="2048" height="913" alt="Cartagena de Indias - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 17 janvier
 
@@ -123,11 +123,6 @@ Je passe le reste de la journée à me battre avec l'assurance via WhatApp, la c
 Juste avant de descendre on toque à la porte de la chambre, une employée de l'hôtel apparait, on la connait bien. En 2020 quant l'hôtel à fermé elle pleurait car ici il n'y a aucune couverture sociale, pas d'emploi, pas d'argent. On voit immédiatement qu'elle n'est pas bien, elle nous montre un coffret contenant une montre et nous demande si nous ne voulons pas l'acheter. Elle nous explique que sa fille rentre à l'université (ici l'année scolaire commence fin janvier) et qu'ils n'ont pas assez d'argent pour lui payer ces études. Bien sur on refuse la montre et nous donnons un peu d'argent.
 
 ## 18 janvier
-
-
-
-
-
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
