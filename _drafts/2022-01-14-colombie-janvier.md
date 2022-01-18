@@ -106,6 +106,14 @@ A midi nous mangeons un peu à l'écart à "El Arsenal : The Rum Box". S'il y a 
 
 Dimanche nous retournons en centre ville car le restaurant de l'hôtel est fermé. Nous nous arrêtons à midi Plaza San Diego où nous sommes attirés par de la salsa qui émane du restaurant "Cuba 1940". Très bon choix, nous dégustons un ceviche de poisson au jus de maracuja et rhum blanc, sandwich cubain, yuka fris, le tout dans une très bonne ambiance. A mi repas, un chanteur prend la place de la sono et nous chante des chansons d'amour dégoulinantes de mi corazon et de mi amor...
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51825514975/in/datetaken-public/" title="Cartagena de Indias - [Colombie]"><img src="https://live.staticflickr.com/65535/51825514975_c319347630_k.jpg" width="2048" height="1152" alt="Cartagena de Indias - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51825137124/in/datetaken-public/" title="Cartagena de Indias - [Colombie]"><img src="https://live.staticflickr.com/65535/51825137124_ec66d81d2d_k.jpg" width="2048" height="1152" alt="Cartagena de Indias - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51823839372/in/datetaken-public/" title="Cartagena de Indias - [Colombie]"><img src="https://live.staticflickr.com/65535/51823839372_a9a6643540_k.jpg" width="2048" height="1152" alt="Cartagena de Indias - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51823839372/in/datetaken-public/" title="Cartagena de Indias - [Colombie]"><img src="https://live.staticflickr.com/65535/51823839372_a9a6643540_k.jpg" width="2048" height="1152" alt="Cartagena de Indias - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## 17 janvier
 
 Journée décisive... on attend toute la matinée une réponse de la DIAN, midi approche et toujours rien, on se dit que c'est encore foutu pour aujourd'hui, puis je reçois un message de Ana qui me dit que son fils vient me chercher à l'hôtel car la DIAN veut me voir. Je ne suis pas très rassuré car depuis deux ans, tous les 3 mois, tout se passait par Internet. On arrive devant les locaux des douanes et l'on nous demande d'attendre à l'extérieur. Au bout d'une demi-heure une inspectrice arrive avec un dossier à la main, l'oreille verrouillée à son téléphone. En pleine communication, elle me tend un stylo et me fait signe de parapher deux documents. Elle m'en rend un avec un grand sourire et s'en va. Nous n'avons pas échangé un seul mot. Je regarde plus attentivement le TIP, Thor peut circuler légalement en Colombie jusqu'au 20 avril...
@@ -114,7 +122,7 @@ Je passe le reste de la journée à me battre avec l'assurance via WhatApp, la c
 
 Juste avant de descendre on toque à la porte de la chambre, une employée de l'hôtel apparait, on la connait bien. En 2020 quant l'hôtel à fermé elle pleurait car ici il n'y a aucune couverture sociale, pas d'emploi, pas d'argent. On voit immédiatement qu'elle n'est pas bien, elle nous montre un coffret contenant une montre et nous demande si nous ne voulons pas l'acheter. Elle nous explique que sa fille rentre à l'université (ici l'année scolaire commence fin janvier) et qu'ils n'ont pas assez d'argent pour lui payer ces études. Bien sur on refuse la montre et nous donnons un peu d'argent.
 
-
+## 18 janvier
 
 
 
