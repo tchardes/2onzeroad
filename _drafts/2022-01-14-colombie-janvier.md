@@ -120,7 +120,7 @@ Journée décisive... on attend toute la matinée une réponse de la DIAN, midi 
 
 Je passe le reste de la journée à me battre avec l'assurance via WhatApp, la commerciale ne comprend pas du tout la "carte grise" américaine de Thor, je ne peux pas lui en vouloir, il ne ressemble en rien à un document officiel, et penne à remplir les cases de son application. Finalement, vers 18h30, après un paiùent en ligne, je reçois le fameux sésame, le SOAT. On va pouvoir enfin démarrer pour de bon...
 
-Juste avant de descendre on toque à la porte de la chambre, une employée de l'hôtel apparait, on la connait bien. En 2020 quant l'hôtel à fermé elle pleurait car ici il n'y a aucune couverture sociale, pas d'emploi, pas d'argent. On voit immédiatement qu'elle n'est pas bien, elle nous montre un coffret contenant une montre et nous demande si nous ne voulons pas l'acheter. Elle nous explique que sa fille rentre à l'université (ici l'année scolaire commence fin janvier) et qu'ils n'ont pas assez d'argent pour lui payer ces études. Bien sur on refuse la montre et nous donnons un peu d'argent.
+Juste avant de descendre on toque à la porte de la chambre, une employée de l'hôtel apparait, on la connait bien. En 2020 quant l'hôtel à fermé elle pleurait car ici il n'y a aucune couverture sociale, pas d'emploi, pas d'argent. On voit immédiatement qu'elle n'est pas bien, elle nous montre un coffret contenant une montre et nous demande si nous ne voulons pas l'acheter. Elle nous explique que sa fille rentre à l'université (ici l'année scolaire commence fin janvier) et qu'ils n'ont pas assez d'argent pour lui payer ces études. Bien sur on refusé la montre et nous lui donnons un peu d'argent. 
 
 ## 18 janvier
 
