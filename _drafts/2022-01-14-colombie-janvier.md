@@ -92,7 +92,7 @@ Le vendredi 14 toujours aucune nouvelle de la DIAN, se sera donc pour lundi… p
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51822801681/in/datetaken/" title="Cartagena de Indias - [Colombie]"><img src="https://live.staticflickr.com/65535/51822801681_d8a00fe05a_k.jpg" width="2048" height="1152" alt="Cartagena de Indias - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous déambulons ensuite sur les remparts de la veilles villes et traversons le Barrio Getsemani, quartier très animé, quartier du street art. Nous sommes surpris de voir comment les graffitis se sont dégradés depuis notre dernier passage. Il est vrai que le climat caribéen est très agressif pour ces peintures.
+Nous déambulons ensuite sur les remparts de la veilles villes et traversons le « Barrio Getsemani », quartier très animé, quartier du street art. Nous sommes surpris de voir comment les graffitis se sont dégradés depuis notre dernier passage. Il est vrai que le climat caribéen est très agressif pour ces peintures.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51823519685/in/datetaken/" title="Cartagena de Indias - [Colombie]"><img src="https://live.staticflickr.com/65535/51823519685_10a1ac2524_k.jpg" width="2048" height="1152" alt="Cartagena de Indias - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -103,6 +103,23 @@ Nous déambulons ensuite sur les remparts de la veilles villes et traversons le 
 A midi nous mangeons un peu à l'écart à "El Arsenal : The Rum Box". S'il y a rhum dedans… se doit être bien. Restaurant très atypique sur deux étage, très bien décoré. Nous sommes reçus par une petite marmite de piments grillés, une tuerie, sans suit une dégustation d'un vieux rhum colombien "Ron Viejo de Caldas" accompagné d'un petit chocolat colombien dosé à 35%. Il n'y a qu'en Europe que nous mangeons le chocolat très concentré. L'association est bonne mais on ne va pas se mentir, quand on connait les rhums agricoles antillais les autres rhum à 35° comme celui-là, distillé après extraction de la mélasse, font pâle mine même s'ils sont bien parfumés. Si nous avons bien compris ils ont plus de 80 rhums différents à la dégustation. Le repas qui s'en suit est parfait, une bonne adresse. Nous finissons la journée dans le centre historique, très bon moment, cette ville est vraiment très agréable.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51823521275/in/datetaken/" title="Cartagena de Indias - [Colombie]"><img src="https://live.staticflickr.com/65535/51823521275_5f0b44cb84_k.jpg" width="2048" height="1152" alt="Cartagena de Indias - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Dimanche nous retournons en centre ville car le restaurant de l'hôtel est fermé. Nous nous arrêtons à midi Plaza San Diego où nous sommes attirés par de la salsa qui émane du restaurant "Cuba 1940". Très bon choix, nous dégustons un ceviche de poisson au jus de maracuja et rhum blanc, sandwich cubain, yuka fris, le tout dans une très bonne ambiance. A mi repas, un chanteur prend la place de la sono et nous chante des chansons d'amour dégoulinantes de mi corazon et de mi amor...
+
+## 17 janvier
+
+Journée décisive... on attend toute la matinée une réponse de la DIAN, midi approche et toujours rien, on se dit que c'est encore foutu pour aujourd'hui, puis je reçois un message de Ana qui me dit que son fils vient me chercher à l'hôtel car la DIAN veut me voir. Je ne suis pas très rassuré car depuis deux ans, tous les 3 mois, tout se passait par Internet. On arrive devant les locaux des douanes et l'on nous demande d'attendre à l'extérieur. Au bout d'une demi-heure une inspectrice arrive avec un dossier à la main, l'oreille verrouillée à son téléphone. En pleine communication, elle me tend un stylo et me fait signe de parapher deux documents. Elle m'en rend un avec un grand sourire et s'en va. Nous n'avons pas échangé un seul mot. Je regarde plus attentivement le TIP, Thor peut circuler légalement en Colombie jusqu'au 20 avril...
+
+Je passe le reste de la journée à me battre avec l'assurance via WhatApp, la commerciale ne comprend pas du tout la "carte grise" américaine de Thor, je ne peux pas lui en vouloir, il ne ressemble en rien à un document officiel, et penne à remplir les cases de son application. Finalement, vers 18h30, après un paiùent en ligne, je reçois le fameux sésame, le SOAT. On va pouvoir enfin démarrer pour de bon...
+
+Juste avant de descendre on toque à la porte de la chambre, une employée de l'hôtel apparait, on la connait bien. En 2020 quant l'hôtel à fermé elle pleurait car ici il n'y a aucune couverture sociale, pas d'emploi, pas d'argent. On voit immédiatement qu'elle n'est pas bien, elle nous montre un coffret contenant une montre et nous demande si nous ne voulons pas l'acheter. Elle nous explique que sa fille rentre à l'université (ici l'année scolaire commence fin janvier) et qu'ils n'ont pas assez d'argent pour lui payer ces études. Bien sur on refuse la montre et nous donnons un peu d'argent.
+
+
+
+
+
+
+
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
