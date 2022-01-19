@@ -126,9 +126,19 @@ Juste avant de descendre manger, on toque à la porte de la chambre, une employ�
 
 Ce matin Juan Pablo nous conduit une nouvelle fois auprès de Thor mais cette fois c'est la bonne. La bodega nous fait cadeau d'une mois et demi de gardiennage, c'est sympa. Thor démarre du premier coup. Quelques petits coups de marche avant et arrière pour décoller les frein et c'est partie...Il faut vite se mettre dans le bain entre la boite auto, le gabarit, la circulation, l'état des routes, les deux roues qui font n'importe quoi. Direction le lavage, Juan Pablo nous conduit dans une grande station de lavage qui fait également garage. En route on passe par une petite route qui fini avec deux poteaux, ça passe trop juste et j'abime un peu la bâche du auvent, entrée en matière difficile... du coup gros embouteillage, la police arrive, veut voir nos papiers, Corinne l’envoie bouler et lui dit que pour l'instant nous avons autre chose à faire. Il s'exécute et attend en faisant un peu de circulation. Avec l'aide des badauds nous arrivons à passer sans trop de dégâts. Le policier contrôle tous nos documents, RAS on peut poursuivre...
 
-Thor est pris immédiatement en compte coup de balais sur le toit, mousse, lavage, bichonnage idem pour le moteur. Ils y ont passés trois heures. A midi nous retournons à l'hôtel pour prendre notre dernier repas et rendre notre chambre. Thor et garé sur le parking et joue à la vedette, toutes les filles de l'hôtel veulent le visiter. Grosses embrassades, photos souvenirs et nous partons direction un tapissier. Oui cela fait longtemps que le skaï qui se trouve sur le haut de notre banquette par en déconfiture. Les derniers 18 mois confinés dans un environnement chaud et humide n'a fait qu’aggraver les chose. Nous choisissons la couleur du nouveau skaï et lui laissons tous nos éléments. On en profite pour changer également la mousse des assises. Ils viendront nous les livrée directement à l'hôtel dans 3 jours seulement.
+<img src="{{baseurl}}/assets/owner/photos/colombie18.jpg" style="width:100%" />
+
+Thor est pris immédiatement en compte coup de balais sur le toit, mousse, lavage, bichonnage idem pour le moteur. Ils y ont passés trois heures. A midi nous retournons à l'hôtel pour prendre notre dernier repas et rendre notre chambre. Thor et garé sur le parking et joue à la vedette, toutes les filles de l'hôtel veulent le visiter. Grosses embrassades, photos souvenirs.
+
+<img src="{{baseurl}}/assets/owner/photos/colombie19.jpg" style="width:100%" />
+
+Nous partons direction un tapissier. Oui cela fait longtemps que le skaï qui se trouve sur le haut de notre banquette par en déconfiture. Les derniers 18 mois confinés dans un environnement chaud et humide n'a fait qu’aggraver les choses. Nous choisissons la couleur du nouveau skaï et lui laissons tous nos éléments. On en profite pour changer également la mousse des assises. Ils viendront nous les livrée directement à l'hôtel dans 3 jours seulement. Bon, ça à l'air d'être une peu le Bronx mais à l'hôtel on nous dit qu'ils travaillaient très bien.
+
+<img src="{{baseurl}}/assets/owner/photos/colombie20.jpg" style="width:100%" />
 
 Si l'extérieur est nickel, il faut que l'on s'occupe maintenant de l'intérieur et de remettre en route tout les équipement. Nous nous rendons dans un hôtel - camping, très root, connu des voyageurs, implanté au Nord-Est de Cartagena face à la mer des caraïbes. Sur place nous rencontrons son propriétaire un français exilé depuis 60 ans. Il nous explique que établissement de 65 chambres et "fermé" et a été mis en vente mais il accepte toutefois de nous accueillir. Nous garons Thor sous les arbres et prenons une chambre pour quelques nuits le temps de tout mettre en route. Nous sommes les seuls clients. Après quelques courses, nous mangeons ce soir chez nous !!! les choses sérieuses commence....
+
+<img src="{{baseurl}}/assets/owner/photos/colombie21.jpg" style="width:100%" />
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
