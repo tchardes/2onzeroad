@@ -152,6 +152,9 @@ A part une serrure d'un coffre qui me donne du fil à retordre, tout marche du p
 
 Vers 15 heures après que Corinne m'ait littéralement tondu, on sort de l'hôtel, traversons la route et accédons directement à la plage. Ce petit bain dans la mer des caraïbes fait du bien car il fait très très chaud. Les vagues sont importantes, on se fait malmener. En fin d'après-midi nous allons faire quelques courses, il faut bien remplir le frigo...
 
+## 20 au janvier
+
+On poursuit la mise en route de Thor en alternant travail et détente sur la plage.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
