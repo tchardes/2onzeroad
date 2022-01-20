@@ -138,13 +138,13 @@ Nous partons direction un tapissier. Oui cela fait longtemps que le skaï qui se
 
 Si l'extérieur de notre casa rodante est nickel, il faut que l'on s'occupe maintenant de l'intérieur et de remettre en route tous les équipements. Nous nous rendons dans un hôtel/camping, très root, connu des voyageurs. Il est implanté au Nord-Est de Cartagena face à la mer des caraïbes. Sur place nous rencontrons son propriétaire, un français exilé depuis 60 ans. Il nous explique que l'établissement de 65 chambres est "fermé" et a été mis en vente mais qu'il accepte toutefois de nous accueillir. Nous garons Thor sous les arbres et prenons une chambre pour quelques nuits, le temps de tout remettre en route. Nous sommes les seuls clients de passage, il y a quelques permanents apparament. Après quelques courses, nous mangeons ce soir chez nous !!! les choses sérieuses commencent...
 
+<img src="{{baseurl}}/assets/owner/photos/colombie21.jpg" style="width:100%" />
+
 ## 19 janvier
 
 Ce matin branle bas de combat tout le monde sur le pont !!! on se lêve de bonne heure car il y a du pain sur la planche. Corinne s'occupe de nettoyer l'intérieur et moi du reste. Corinne est surprise de l'état général, au final très peu de poussière, on dirai qu'on la laissé à peine quelques semaines. A part une serrure d'un coffre qui me donne du fil à retordre, tout marche du premier coup. L'électricté du secteur de l'hôtel alimente bien tout Thor, le frigo et le congélateur redémarrent du premier coup, aucun problème avec le gaz, une fois notre réservoir d'eau rempli on teste la pompe à eau et les circuits, RAS. Nous avons amené une valise pratiquement pleine que de pièces détachées, surtout des élèments en plastic, que j'avais commandé aux USA. Je change tout ce que j'avais prèvu. Seules les causses de mes deux batteries de services sont complètements rongées, oxydées. Je bricole une solution temporaire, on les changera plus tard, les batterie se chargent à nouveau, c'est le principal.
 
 Vers 15 heures après que Corinne m'ait littéralement tondu, on sort de l'hôtel, traversons la route et nous retrouvons sur la plage. Ce petit bain dans la mer des caraïbes fait du bien car il fait très chaud. Les vagues sont importantes, on se fait malmener. En fin d'après-midi nous allons faires quelques courses, il faut bien remplir le frigo...
-
-<img src="{{baseurl}}/assets/owner/photos/colombie21.jpg" style="width:100%" />
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
