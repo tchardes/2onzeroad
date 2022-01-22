@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Colombie 2"
+title: "Colombie - Cartagena"
 preview: "Cet article couvre la période du 10 janvier au 2022, au cours de laquelle nous sommes revevus en Colombie après cette période folle de Covid. Nous avons..."
 parent-id:
 date: 2022-01-14 13:00:00
@@ -15,7 +15,7 @@ country: Colombie
 states: ["Bolivar"]
 category: "roadmap"
 flickr-text: ""
-location: "5.717436, -74.142638"
+location: "10.422022196104173, -75.52834649085165"
 itinary: "2022/colombie.json"
 mapZoom: 5
 ---
@@ -146,7 +146,7 @@ Ce matin branle bas de combat tout le monde sur le pont !!! on se lève de bonne
 
 <img src="{{baseurl}}/assets/owner/photos/colombie22.jpg" style="width:100%" />
 
-A part une serrure d'un coffre qui me donne du fil à retordre, tout marche du premier coup. L’électricité du secteur de l'hôtel alimente bien tout Thor, le frigo et le congélateur redémarrent du premier coup, aucun problème avec le gaz, une fois notre réservoir d'eau rempli on teste la pompe à eau et les circuits, RAS. Nous avons amené une valise pratiquement pleine que de pièces détachées, surtout des éléments en plastic, que j'avais commandé aux USA. Je change tout ce que j'avais prévu. Seules les causses de mes deux batteries de services sont complètements oxydées et rongées, elles se désagrègent dès que je les démontent. Je bricole une solution temporaire, on les changera plus tard, les batterie se chargent à nouveau, c'est le principal.
+A part une serrure d'un coffre qui me donne du fil à retordre, tout marche du premier coup. L’électricité du secteur de l'hôtel alimente bien tout Thor, le frigo et le congélateur redémarrent du premier coup, aucun problème avec le gaz, une fois notre réservoir d'eau rempli on teste la pompe à eau et les circuits, RAS. Nous avons amené une valise pratiquement pleine que de pièces détachées, surtout des éléments en plastic, que j'avais commandé aux USA. Je change tout ce que j'avais prévu. Seules les cosses de mes deux batteries de services sont complètements oxydées et rongées, elles se désagrègent dès que je les démontent. Je bricole une solution temporaire, on les changera plus tard, les batteries se chargent à nouveau, c'est le principal.
 
 <img src="{{baseurl}}/assets/owner/photos/colombie23.jpg" style="width:100%" />
 
@@ -154,7 +154,7 @@ Vers 15 heures après que Corinne m'ait littéralement tondu, on sort de l'hôte
 
 ## 20 au 24 janvier
 
-On poursuit la mise en route de Thor en alternant travail et détente sur la plage. AU final tout foctionne bien sauf notre générateur qui démarre bien mais s'arrête au bout de quelques secondes, certainement la carburation en raison de l'essence qui a stagnée depuis 2 ans. Nous nous en servant plus depuis que nous avons fait modifier notre système éléctrique à Denver mais on ne sait jamais. Il existe un réparateur à Cartagnena, nous y passerons en partant. Nous changeons également notre fanion et notre drapeau français dont les UV ont eu raison. Il s'agit quand même de porter haut et fort l'image de la France et surtout... de ne pas se faire prendre systématiquement pour des étasuniens...
+On poursuit la mise en route de Thor en alternant travail et détente sur la plage. On libère notre chambre et nous nous installons complétement dans Thor. Les premières nuits sans clim sont un peu difficiles, on va s'y habituer. Au final tout foctionne bien sauf notre générateur qui démarre bien mais s'arrête au bout de quelques secondes, certainement la carburation en raison de l'essence qui a stagnée depuis 2 ans. On ne s'en sert plus depuis que nous avons fait modifier notre système éléctrique à Denver mais on ne sait jamais. Il existe un réparateur à Cartagnena, nous y passerons en partant. Nous changeons également notre fanion et notre drapeau français dont les UV ont eu raison. Il s'agit quand même de porter haut et fort l'image de la France et surtout... de ne pas se faire prendre systématiquement pour des étasuniens...
 
 <img src="{{baseurl}}/assets/owner/photos/colombie24.jpg" style="width:100%" />
 
