@@ -20,7 +20,7 @@ itinary: "2022/colombie.json"
 mapZoom: 5
 ---
 
-Cet article couvre la période du 10 janvier au 2022, au cours de laquelle nous sommes revevus en Colombie après cette période folle de Covid. Nous avons passé jours en Colombie.
+Cet article couvre la période du 10 janvier au 24 janvier 2022, au cours de laquelle nous sommes revevus en Colombie après cette période folle de Covid et nous avons remis Thor en bon ordre de marche. Nous avons passé jours en Colombie.
 
 Nous avions pour habitude de dire à chaque départ que nous quittions notre zone de confort pour partir à la découverte de nouveaux horizons, à l'aventure quoi, au moins pour nous… Cela n'a jamais été aussi vrai… 616 jours plus tard, nous repartons enfin pour la Colombie avec des valises d'incertitudes. Qu'en sera t-il de la situation sanitaire et économique du pays ? Dans quel état allons nous retrouver Thor ? Va t-il nous reconnaître ?. Connaissant bien les méandres de l'administration colombienne, pourra t-on faire prolonger une énième fois notre titre d'importation temporaire pour Thor pour continuer la route sereinement ou serons nous contraint de quitter précipitamment le pays en quelques jours ?… Nous partons, alors que la frontière terrestre avec l'Equateur est ouverte depuis peu mais, pour l'instant, la frontière terrestre entre l'Equateur et le Pérou est toujours fermée et rien n'annonce une ouverte prochaine. Pourtant c'est là que nous devons nous rendre pour pouvoir y laisser Thor à nouveau. On verra bien et après les plans A, B… il reste toujours l'improvisation. Début janvier, nous prenons notre décision… on repart.
 
