@@ -156,6 +156,10 @@ Vers 15 heures après que Corinne m'ait littéralement tondu, on sort de l'hôte
 
 On poursuit la mise en route de Thor en alternant travail et détente sur la plage. AU final tout foctionne bien sauf notre génératuer qui démarre bien mais s'arrête au bout de quelques secondes, certainement la carburation en raison de l'essence qui a stagnée depuis 2 ans. Nous nous en servant plus depuis que nous avons fait modifier notre système éléctrique à Denver mais on ne sait jamais. Il existe un réparateur à Cartagnena, nous y passerons en partant. Nous changeons également notre fanion et notre drapeau français dont les UV ont eu raison. Il s'agit quand même de porter haut et fort l'image de la France et surtout... de ne pas se faire prendre systématiquement pour des étasuniens...
 
+<img src="{{baseurl}}/assets/owner/photos/colombie24.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/colombie27.jpg" style="width:100%" />
+
 Vendredi matin on vient nous livrer notre nouvelle banquette. Le tapicier nous réinstalle tout, nous sommes super contents du travail réalisé, ça change tout, idem pour les mousses des assises qui étaient complétement affaissée.
 
 <img src="{{baseurl}}/assets/owner/photos/colombie25.jpg" style="width:100%" />
@@ -163,6 +167,8 @@ Vendredi matin on vient nous livrer notre nouvelle banquette. Le tapicier nous r
 En début d'après-midi nous établissons notre futur parcours pour traverser la Colombie du Nord au Sud en essayant de relier tous les points d'intérêts que nous voulons visiter. Une fois finalisé nous contactons Malika "Kika" de la Finca "La Bonanza" à Silvia dans le Sud. Malika et sa famille sont d'anciens voyageurs comme nous qui, arrivés en Colombie, ont décidés de poser leurs valises. Ils tiennent aujourd'hui un camping connu de tous les voyageurs, elle administre également le groupe "Familles AmSud" sur WhatsApp qui est une véritable mine d'or d'informations et de contacts entre voyageurs. Nous discutons un long moment, elle nous conseille d'ajouter, supprimer certains spots. Il faut toujours se renseigner auprès des locaux car il y a des renseignements que l'on ne trouve pas sur les cartes...
 
 En allant faire des courses, nous trouvons la Panaderia Kutú (boulangerie) juste derrière l'hôtel. Nous y trouvons du vrai pain boule, ainsi que des pignas et des brioches noires farcie de fruits frais et de caramel. On ne comprend pas trop ce qu'il nous explique mais on prend. Nous nous régalons avec le pain qui très bon un peu "aigre" comme certains pains de campagne.
+
+<img src="{{baseurl}}/assets/owner/photos/colombie26.jpg" style="width:100%" />
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
