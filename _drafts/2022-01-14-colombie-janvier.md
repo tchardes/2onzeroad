@@ -152,9 +152,15 @@ A part une serrure d'un coffre qui me donne du fil à retordre, tout marche du p
 
 Vers 15 heures après que Corinne m'ait littéralement tondu, on sort de l'hôtel, traversons la route et accédons directement à la plage. Ce petit bain dans la mer des caraïbes fait du bien car il fait très très chaud. Les vagues sont importantes, on se fait malmener. En fin d'après-midi nous allons faire quelques courses, il faut bien remplir le frigo...
 
-## 20 au janvier
+## 20 au 24 janvier
 
-On poursuit la mise en route de Thor en alternant travail et détente sur la plage.
+On poursuit la mise en route de Thor en alternant travail et détente sur la plage. AU final tout foctionne bien sauf notre génératuer qui démarre bien mais s'arrête au bout de quelques secondes? certainement la carburation en raison de l'essence qui a stagnée depuis 2 ans. Nous nous en servant plus trop depuis que nous avons fait modifier notre système éléctrique à Denver mais on ne sait jamais. Vendredi matin on vient nous livrer notre nouvelle banquette. Le tapicier nous réinstalle tout, nous sommes super contents du travail réalisé, ça change tout, idem pour les mousses des assises qui étaient complétement affaissée.
+
+<img src="{{baseurl}}/assets/owner/photos/colombie24.jpg" style="width:100%" />
+
+En début d'après-midi nous établissons notre futur parcours pour traverser la Colombie du Nord au Sud en essayant de relier tous les points d'intérêts que nous voulons visiter. Une fois finalisé nous contactons Malika "Kika" de la Finca "La Bonanza" à Silvia dans le Sud. Malika et sa famille sont d'anciens voyageurs comme nous qui, arrivés en Colombie, ont décidés de poser leurs valises. Ils tiennent aujourd'hui un camping connu de tous les voyageurs, elle administre également le groupe "Familles AmSud" sur WhatsApp qui est une véritable mine d'or d'informations et de contacts entre voyageurs. Nous discutons un long moment, elle nous conseille d'ajouter, supprimer certains spots. Il faut toujours se renseigner auprès des locaux car il y a des renseignements que l'on ne trouve pas sur les cartes...
+
+En allant faire des courses, nous trouvons la Panaderia Kutú (boulangerie) juste derrière l'hôtel. Nous y trouvons du vrai pain boule, ainsi que des pignas et des brioches noires farcie de fruits frais et de caramel. On ne comprend pas trop ce qu'il nous explique mais on prend. Nous nous régalons avec le pain qui très bon un peu "aigre" comme certains pains de campagne.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
