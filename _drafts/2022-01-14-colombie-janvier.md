@@ -5,7 +5,7 @@ preview: "Cet article couvre la période du 10 janvier au 2022, au cours de laqu
 parent-id:
 date: 2022-01-14 13:00:00
 from-date: 2022-01-10 12:00:00
-to-date: 2022-01-14 13:00:00
+to-date: 2022-01-22 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt34.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
