@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt34.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
 tags: [mer-ocean, transport, histoire, architecture, culturel]
-pois: [cartagena#10-janvier, eltotumo#25janvier, puertovelero#25janvier, baranquilla#26-janvier]
+pois: [cartagena#10-janvier, eltotumo#25janvier, pvelero#25janvier, baranquilla#26-janvier]
 country: Colombie
 states: ["Bolivar"]
 category: "roadmap"
