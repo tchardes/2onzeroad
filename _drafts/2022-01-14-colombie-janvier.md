@@ -188,7 +188,7 @@ Nous poursuivons notre route jusqu'à la Baie de Trebal où nous nous posons pou
 
 <img src="{{baseurl}}/assets/owner/photos/colombie29.jpg" style="width:100%" />
 
-## 26 au 28 Janvier
+## 26 au 30 janvier
 
 Nous passons une super nuit sur notre plage, suffisamment de brise pour maintenir une température agréable dans Thor. La mer est tellement calme qu'on ne l'entend même pas. Ce matin nous partons de bonne heure pour **Baranquilla** où nous avons rendez-vous chez Cummins pour notre générateur. La ville compte plus de 400 000 hbts et je pense qu'ils sont tous sur les routes ce matin. Nous sommes très bien reçus par tout le staff, ils me font entrer Thor dans l'atelier et ils commencent à tout démonter. J'ai beau leur expliquer que tous les organes de vérification sont en façade, rien y fait, ils veulent le sortir complètement, bon... soit. Au bout de trois heures, la bête est à terre. A côté des autres dans l'atelier gros comme une voiture, le notre fait échantillon. Bref, ils me sécurisent tout le système qui reste connecté à Thor et me disent que je peux y aller.
 
@@ -197,3 +197,5 @@ Nous passons une super nuit sur notre plage, suffisamment de brise pour mainteni
 On part donc à la découverte de cette ville, très industrielle. Sur la rocade, nous faisons un arrêt au monument "Ventana al Mundo" implanté sur un rond-point. Il date de 2018, date à laquelle la ville a accueilli les 23éme jeux d'Amérique Centrale et de la Caraïbe. Nous contournons le centre ville et trouvons un parking pour y laisser Thor et poursuivre la visite à pied. Visite rapide car il n'y a vraiment rien à voir, même la cathédrale, très moderne est fermée, de nombreux SDF dorment, cuvent sur les trottoirs, franchement on nous l'avait dit mais la ville ne présente aucun intérêt. Il est encore tôt et je ne me vois pas passer la nuit là. Je prends contact avec Cummins qui m'annonce que ça avance mais qu'il ne sera prêt que demain. Du coup nous retournons à notre bivouac. Sur place nous discutons un long moment avec la famille qui tient un petit restaurant, visite de Thor, bières...
 
 <img src="{{baseurl}}/assets/owner/photos/colombie30.jpg" style="width:100%" />
+
+Vendredi Cummins nous indique que notre générateur ne sera finalement prêt à être remonté que lundi matin du coup nous restons sur notre plage. Le retaurateur nous permet de nous brancher, d'utiliser ses toilettes et nous fait le plein d'eau.
