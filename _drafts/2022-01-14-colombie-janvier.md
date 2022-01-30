@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Colombie - Cartagena"
-preview: "Cet article couvre la période du 10 janvier au 2022, au cours de laquelle nous sommes revevus en Colombie après cette période folle de Covid. Nous avons..."
+preview: "Cet article couvre la période du 10 janvier au 24 janvier 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis..."
 parent-id:
 date: 2022-01-14 13:00:00
 from-date: 2022-01-10 12:00:00
@@ -20,7 +20,7 @@ itinary: "2022/colombie.json"
 mapZoom: 5
 ---
 
-Cet article couvre la période du 10 janvier au 24 janvier 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid et nous avons remis Thor en bon ordre de marche. Nous avons passé jours à Cartagena de Indias.
+Cet article couvre la période du 10 janvier au 24 janvier 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis Thor en bon ordre de marche et avons silloné le Nord du pays.
 
 Nous avions pour habitude de dire à chaque départ que nous quittions notre zone de confort pour partir à la découverte de nouveaux horizons, à l'aventure quoi, au moins pour nous… Cela n'a jamais été aussi vrai… 616 jours plus tard, nous repartons enfin pour la Colombie avec des valises d'incertitudes. Qu'en sera t-il de la situation sanitaire et économique du pays ? Dans quel état allons nous retrouver Thor ? Va t-il nous reconnaître ? Connaissant bien les méandres de l'administration colombienne, pourra t-on faire prolonger une énième fois notre titre d'importation temporaire pour Thor pour continuer la route sereinement ou serons-nous contraints de quitter précipitamment le pays en quelques jours ?… Nous partons, alors que la frontière terrestre avec l'Equateur est ouverte depuis peu mais, pour l'instant, la frontière terrestre entre l'Equateur et le Pérou est toujours fermée et rien n'annonce une ouverte prochaine. Pourtant c'est là que nous devons nous rendre pour pouvoir y laisser Thor à nouveau. On verra bien et après les plans A, B… il reste toujours l'improvisation. Début janvier, nous prenons notre décision… on repart.
 
@@ -198,4 +198,6 @@ On part donc à la découverte de cette ville, très industrielle. Sur la rocade
 
 <img src="{{baseurl}}/assets/owner/photos/colombie30.jpg" style="width:100%" />
 
-Vendredi Cummins nous indique que notre générateur ne sera finalement prêt à être remonté que lundi matin du coup nous restons sur notre plage. Le retaurateur nous permet de nous brancher, d'utiliser ses toilettes et nous fait le plein d'eau.
+Vendredi Cummins nous indique que notre générateur ne sera finalement prêt à être remonté que lundi matin du coup nous restons sur notre plage. Le retaurateur nous permet de nous brancher, d'utiliser ses toilettes et nous fait le plein d'eau. En fin d'après-midi le patron vient nous voir pour nous prévenir que le vendredi soir des motards des quartiers de Banraquilla viennet faire un peu le foin, de tout ranger et de ne pas sortir. Effectivement vers 23h00 on entends plusieurs dizaines de moto arriver sur la plage pour s'amuser. En dehors du bruit, acune gêne particulière aucun ne vient vers Thor.
+
+Samedi nous allons faire le plein du frigo dans une épicerie au village de Puerto Colombia, pas facile de circuler dans ces petits villages mais on arrive quand même à se faufiller. Dans la nuit nous avons assister à un truc étrange, irréaliste. Vers minuit, nous sommes réveiller par des... incantations. Nous regardons par la fenêtre et assistons à une sorte d'exorcisme, pas diabolique mais plutôt d'une maladie, vraissemblablement. Une des jeunes filles du restaurant, que l'on avait trouvée pas en forme aujoud'hui, est allongée au sol et à l'air souffrante, et une sorte "Chamane", "guerisseuse", parfois en transe, et au-dessus d'elle, cris des incantations en envoyant de la fumée et en lui jettant ce qui semble être de "l'eau". D'autres personnes sont autour et veillent sur la "patiente". Je reste un peu pantois en voyant cette scéne qui dure plusieurs heures. Au final cela s'arrête et nous nous endormons. Ce matin nous avons vu la jeune fille, la tête défaite main en vie !!!! Nous n'osons pas évoquer avec eux cet épisode.
