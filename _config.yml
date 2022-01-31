@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "10.97920629005225, -74.80738955621926"
-  name: "Baranquilla - Colombie"
-  date: " 25 janvier 2022"
+  coordinates: "11.23571969499983, -74.19997402344252"
+  name: "Santa Marta - Colombie"
+  date: " 31 janvier au 01 février 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
