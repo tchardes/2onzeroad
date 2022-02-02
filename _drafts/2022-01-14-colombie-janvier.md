@@ -3,9 +3,9 @@ layout: blog
 title: "Colombie - Côte Caraïbe"
 preview: "Cet article couvre la période du 10 janvier au 24 janvier 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis..."
 parent-id:
-date: 2022-01-14 13:00:00
+date: 2022-02-02 13:00:00
 from-date: 2022-01-10 12:00:00
-to-date: 2022-01-22 13:00:00
+to-date: 2022-02-02 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie_caraïbe.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
