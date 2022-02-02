@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Colombie - Cartagena"
+title: "Colombie - Côte Caraïbe"
 preview: "Cet article couvre la période du 10 janvier au 24 janvier 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis..."
 parent-id:
 date: 2022-01-14 13:00:00
@@ -10,9 +10,9 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-rt34.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
 tags: [mer-ocean, transport, histoire, architecture, culturel]
-pois: [cartagena#10-janvier, eltotumo#25janvier, pvelero#25janvier, baranquilla#26-janvier]
+pois: [cartagena#10-janvier, eltotumo#25janvier, pvelero#25janvier, baranquilla#26-au-30-janvier, stamarta#31janvier, tayrona#01fevrier]
 country: Colombie
-states: ["Bolivar"]
+states: ["Bolivar", "Magdalena"]
 category: "roadmap"
 flickr-text: ""
 location: "10.422022196104173, -75.52834649085165"
@@ -20,7 +20,7 @@ itinary: "2022/colombie.json"
 mapZoom: 5
 ---
 
-Cet article couvre la période du 10 janvier au 24 janvier 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis Thor en bon ordre de marche et avons silloné le Nord du pays.
+Cet article couvre la période du 10 janvier au 24 janvier 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis Thor en bon ordre de marche et avons silloné une partie du Nord du pays.
 
 Nous avions pour habitude de dire à chaque départ que nous quittions notre zone de confort pour partir à la découverte de nouveaux horizons, à l'aventure quoi, au moins pour nous… Cela n'a jamais été aussi vrai… 616 jours plus tard, nous repartons enfin pour la Colombie avec des valises d'incertitudes. Qu'en sera t-il de la situation sanitaire et économique du pays ? Dans quel état allons nous retrouver Thor ? Va t-il nous reconnaître ? Connaissant bien les méandres de l'administration colombienne, pourra t-on faire prolonger une énième fois notre titre d'importation temporaire pour Thor pour continuer la route sereinement ou serons-nous contraints de quitter précipitamment le pays en quelques jours ?… Nous partons, alors que la frontière terrestre avec l'Equateur est ouverte depuis peu mais, pour l'instant, la frontière terrestre entre l'Equateur et le Pérou est toujours fermée et rien n'annonce une ouverte prochaine. Pourtant c'est là que nous devons nous rendre pour pouvoir y laisser Thor à nouveau. On verra bien et après les plans A, B… il reste toujours l'improvisation. Début janvier, nous prenons notre décision… on repart.
 
@@ -204,7 +204,7 @@ Samedi, nous allons faire le plein du frigo dans une épicerie au village de Pue
 
 ## 31 janvier
 
-Ce matin nous quittons définitivement notre plage non sans dire aurevoir à tout le monde. Nous arrivons pile à l'heure à Cummins mais le travail ne commence réellement qu'une heure plus tard. Bref à midi le générateur est remonté et il fonctionne. On prend la route aussitôt vers Santa Marta. La route payante est toujours aussi agréable et facile de conduite. Nous travsersons des zones humides très sympas entre océan et marécages malheureusement aucun endroit n'est aménagé pour s'arrêter. Au niveau de pueblo Viejo juste avant Cienaga nous traversons de petits marais salants, la zone est très très pauvres et nous avons plus l'impression de traverser un bidon ville qu'un pueblo. Arrivé à **Santa Marta** nous faisons un tour en ville pour essayer de trouver un lieux pour la nuit mais nous abandonnons l'idée et sortons de la ville pour finir sur un parking gardé pour les poids lourds. Tous les bivouacs se suivent mais ne se ressemblent pas...
+Ce matin nous quittons définitivement notre plage non sans dire aurevoir à tout le monde. Nous arrivons pile à l'heure à Cummins mais le travail ne commence réellement qu'une heure plus tard. Bref à midi le générateur est remonté et il fonctionne. On prend la route aussitôt vers Santa Marta. La route payante est toujours aussi agréable et facile de conduite. Nous travsersons des zones humides très sympas entre océan et marécages malheureusement aucun endroit n'est aménagé pour s'arrêter. Au niveau de pueblo Viejo juste avant Cienaga nous traversons de petits marais salants, la zone est très très pauvres et nous avons plus l'impression de traverser un bidon ville qu'un pueblo. Arrivé à **Santa Marta** nous faisons un tour en ville pour essayer de trouver un lieux pour la nuit mais nous abandonnons l'idée et sortons de la ville pour finir sur un parking gardé pour les poids-lourds. Tous les bivouacs se suivent mais ne se ressemblent pas...
 
 ## 01 Février
 
