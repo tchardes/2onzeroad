@@ -213,4 +213,4 @@ Nuit très chaude et très bruyante, sans compter les camions qui ont démarrés
 
 ## 02 Février
 
-Nous avons attend le point le plus au Nord de l'amérique du Sud que nous avons décidé de visiter. Nous pourrions poussé jusqu'à l'extrème et aller jusqu'au bout de la péninsule de Guajira mais il n'y a pas grand chose à voir et Thor n'aprécierai pas les pistes qui y mènent. Si nous reagrdon plein Ouest nous sommes remontés au niveau du Nicaragua.
+Nous avons attend le point le plus au Nord de l'amérique du Sud que nous avons décidé de visiter. Nous pourrions poussé jusqu'à l'extrème et aller jusqu'au bout de la péninsule de Guajira mais il n'y a pas grand chose à voir et Thor n'aprécierai pas les pistes qui y mènent. Si nous regardons une carte plein Ouest nous sommes remontés pratiquement au hauteur du Nicaragua.

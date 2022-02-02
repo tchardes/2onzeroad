@@ -536,7 +536,7 @@
   { "name": "eltotumo", "displayName": "Volcan de Lodo El Totumo", "type": "nature", "country": "Colombie" },
   { "name": "pvelero", "displayName": "Puerto Velero", "type": "nature", "country": "Colombie" },
   { "name": "stamarta", "displayName": "Santa Marta", "type": "ville", "country": "Colombie" },
-  { "name": "tayrona", "displayName": "Parc National Tayrona", "type": "nature", "country": "Colombie" },
+  { "name": "tayrona", "displayName": "Parc National de Tayrona", "type": "nature", "country": "Colombie" },
   { "name": "", "displayName": "", "type": "", "country": "Colombie" },
   { "name": "", "displayName": "", "type": "", "country": "Colombie" },
   { "name": "", "displayName": "", "type": "", "country": "Colombie" },
