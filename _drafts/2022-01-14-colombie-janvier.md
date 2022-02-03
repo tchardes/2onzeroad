@@ -213,6 +213,8 @@ Nuit très chaude et très bruyante, sans compter les camions qui ont démarrés
 
 ## 02 au 03 Février
 
-Nous passons deux jours chez Claudia, nous faisons quelques ballades aux allentours, mais une grande partie des abords des plages est privatisée, nous arrivons quand même à accéder à un Mirador qui nous permet d'avoir une belle vue sur l'océan et les montagnes. Un rio coule à quelques dizaine de mètres de nous. Je comptais le descendre j'usquà l'océan mais la maitresse des lieux m'en a dissuader, de nombreux caïmans résident dans l'embouchure. 
+Nous passons deux jours chez Claudia, nous faisons quelques ballades aux allentours, mais une grande partie des abords des plages est privatisée, nous arrivons quand même à accéder à un Mirador situé Playa Los Angeles qui nous permet d'avoir une belle vue sur l'océan et les montagnes. Un rio coule à quelques dizaine de mètres de nous. Je comptais le descendre jusqu'à l'océan mais la maitresse des lieux m'en a dissuader, de nombreux caïmans résident dans l'embouchure. Claudia qui est décidement adorable nous accompagne à pied ce matin à la Playa Coco où nous passons un agréable moment, le temps est un peu nuageux est il fait moins chaud. Avant de partir elle va ceuillir quelques Carambolles et nous propose un jus de fruit frais.
 
 En fin de jornée nous quittons Tayrona pour faire retour sur Santa Marta. Nous avons attend le point le plus au Nord de l'amérique du Sud que nous avons décidé de visiter. Nous pourrions poussé jusqu'à l'extrème et aller jusqu'au bout de la péninsule de Guajira mais il n'y a pas grand chose à voir et Thor n'aprécierai pas les pistes qui y mènent. Si nous regardons une carte plein Ouest nous sommes remontés pratiquement au hauteur du Nicaragua.
+
+## 04 Février
