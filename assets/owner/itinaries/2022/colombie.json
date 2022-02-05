@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "country": "Colombieee",
+      "country": "Colombie",
       "type": "Feature",
       "properties": {
         "color": "#04857C"
