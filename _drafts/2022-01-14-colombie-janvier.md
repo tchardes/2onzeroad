@@ -17,7 +17,7 @@ category: "roadmap"
 flickr-text: ""
 location: "10.422022196104173, -75.52834649085165"
 itinary: "2022/colombie.json"
-mapZoom: 5
+mapZoom: 7
 ---
 
 Cet article couvre la période du 10 janvier au 24 janvier 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis Thor en bon ordre de marche et avons silloné une partie du Nord du pays.
