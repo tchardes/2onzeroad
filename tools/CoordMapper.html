@@ -27,17 +27,22 @@
   function transform() {
     const data = document.getElementById("data").value;
 
-    const dataObject = JSON.parse(data)[0];
+    const dataObject = JSON.parse(data);
 
     const coords = [];
 
-    coords.push(reverseCoord(dataObject.StartPoint));
+    dataObject.forEach((journey) => {
 
-    dataObject.WayPoints.forEach((coord) => {
-      coords.push(reverseCoord(coord));
-    });
+        coords.push(reverseCoord(journey.StartPoint));
 
-    coords.push(reverseCoord(dataObject.EndPoint));
+        journey.WayPoints.forEach((coord) => {
+          coords.push(reverseCoord(coord));
+        });
+
+        coords.push(reverseCoord(journey.EndPoint));
+
+      }
+    )
 
     document.getElementById("result").innerHTML = coords.toString();
   }
