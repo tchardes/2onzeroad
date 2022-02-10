@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie_caraïbe.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
 tags: [mer-ocean, histoire, architecture, culturel, unesco]
-pois: [cartagena#10-janvier, eltotumo#25janvier, pvelero#25janvier, baranquilla#26-au-30-janvier, stamarta#31janvier, tayrona#01fevrier, tayrona#01fevrier, tayrona#01fevrier, tayrona#01fevrier, tayrona#01fevrier,]
+pois: [cartagena#10-janvier, eltotumo#25-janvier, pvelero#25-janvier, baranquilla#26-au-30-janvier, stamarta#-31janvier, tayrona#01-fevrier, minca#04-fevrier, mompox#05-et-06-fevrier]
 country: Colombie
 states: ["Bolivar", "Magdalena"]
 category: "roadmap"

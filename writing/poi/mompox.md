@@ -1,5 +1,5 @@
 ---
 layout: "writing_by_poi"
-permalink: "/writing/poi/acadia"
+permalink: "/writing/poi/mompox"
 header-img: "assets/owner/hero/pois-bg.jpg"
 ---
