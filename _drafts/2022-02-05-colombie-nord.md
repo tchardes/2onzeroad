@@ -268,19 +268,19 @@ Bref après diner nous décidons de redescendre sur Santa Marta et nous reprenon
 
 ## 05 et 06 février
 
-Nuit chaude et bruyante comme les autres. Nous reprenons la route direction **Santa Crux de Mompox** qui est inscrite au patrimoine de l'humanité à l'Unesco. Fondée en 1540 par les espagnols au bord d'une rivière, cette ville coloniale est restée dans son jus. Nous y arrivons en fin de matinée, une fois de plus la route est impeccable et on comprend aisément les quelques péages.
+Nuit chaude et bruyante comme les autres. Nous reprenons la route direction **Santa Crux de Mompox** qui est inscrite au patrimoine de l'humanité à l'Unesco. Fondée en 1540 par les espagnols au bord d'une rivière, cette ville coloniale est restée dans son jus. Nous y arrivons en fin de matinée, une fois de plus, la route est impeccable et on comprend aisément les quelques péages.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51871352262/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51871352262_1173d12f7e_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le village étant très étroit, nous n'avons pas beaucoups d'option pour la nuit. Nous trouvons finalement un grand parking où Thor ne trouve aucune difficultée pour s'intégrer. En milieu d'après-midi nous visitons cette ville vraiment très agréable dont les grands édifices ont été bien conservés. Le long du fleuve un malecon ombragée abrite de nombreuses boutiques et restaurants, nous y passons un agréable moments.
+Le village étant très étroit, nous n'avons pas beaucoup d'options pour la nuit. Nous trouvons finalement un grand parking où Thor n'a aucune difficulté pour s'intégrer. En milieu d'après-midi, nous visitons cette ville vraiment très agréable dont les grands édifices ont été bien conservés. Le long du fleuve un malecon ombragée abrite de nombreuses boutiques et restaurants, nous y passons un agréable moment.
 
 <a data-flickr-embed="true" data-footer="true" data-context="true" href="https://www.flickr.com/photos/2ozr/51871970006/in/datetaken-public/" title="Santa Cruz de Mompox - [Colombie]"><img src="https://live.staticflickr.com/65535/51871970006_d14cb58fa7_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On rentrant, quelques mètres avant notre parking nous voyons une femme installer une nappe blanche sur une table au milieu de la rue. Devant notre étonnement certainement visible de loin, elle nous demande de nous approcher et nous explique qu'à 19 heures il y aura une messe. A l'heure dite je me pointe et effectivement il y a une cinquantaine de personnes assises et le curé qui se prépare. J'ai finalement assisté à la messe compléte, on est même venu m'apporter une chaise, autant dire que j'ai fait sensation.
+En rentrant, quelques mètres avant notre parking nous voyons une femme installer une nappe blanche sur une table au milieu de la rue. Devant notre étonnement certainement visible de loin, elle nous demande de nous approcher et nous explique qu'à 19 heures,   il y aura une messe. A l'heure dite, je me pointe et effectivement il y a une cinquantaine de personnes assises et le curé qui se prépare. J'ai finalement assisté à la messe compléte, on est même venu m'apporter une chaise, autant dire que j'ai fait sensation.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51873550803/in/datetaken-public/" title="Santa Crux De Mompox - [Colombie]"><img src="https://live.staticflickr.com/65535/51873550803_8e8fb796cf_k.jpg" width="2048" height="1152" alt="Santa Crux De Mompox - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le lendemain matin je refais un tour du village pour bénéficier d'une belle lumière et en profite pour faire quelques photos.
+Le lendemain matin, je refais un tour du village pour bénéficier d'une belle lumière et en profite pour faire quelques photos.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51871352632/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51871352632_de46dce8c7_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
