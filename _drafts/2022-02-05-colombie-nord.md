@@ -15,7 +15,7 @@ country: Colombie
 states: ["Bolivar", "Magdalena"]
 category: "roadmap"
 flickr-text: ""
-location: "10.422022196104173, -75.52834649085165"
+location: "10.08216648979338, -74.7043919834102"
 itinary: "2022/colombie_nord.json"
 mapZoom: 7
 ---
