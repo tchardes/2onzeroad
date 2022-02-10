@@ -280,7 +280,7 @@ En rentrant, quelques mètres avant notre parking nous voyons une femme installe
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51873550803/in/datetaken-public/" title="Santa Crux De Mompox - [Colombie]"><img src="https://live.staticflickr.com/65535/51873550803_8e8fb796cf_k.jpg" width="2048" height="1152" alt="Santa Crux De Mompox - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le lendemain matin, je refais un tour du village pour bénéficier d'une belle lumière et en profite pour faire quelques photos.
+Le lendemain matin, je refais un tour du village pour bénéficier d'une belle lumière et j'en profite pour faire quelques photos.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51871352632/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51871352632_de46dce8c7_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
