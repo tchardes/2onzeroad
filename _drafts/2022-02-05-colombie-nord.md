@@ -180,7 +180,7 @@ Arrivé chez Cummins, je suis très bien reçu. Ils sont habitués à travailler
 
 <img src="{{baseurl}}/assets/owner/photos/colombie28.jpg" style="width:100%" />
 
-## 25 Janvier
+## 25 janvier
 
 Ce matin nous passons la matinée à peaufiner notre départ. En début d'après-midi nous disons au-revoir à nos hôtes et prenons la route. Nous faisons le plein d'essence et sommes agréablement surpris du prix, 0,55 € le litre. Dès la sortie de Cartagena nous entrons sur une très belle route à péage. Une grande partie est construire sur un pont qui passe au-dessus de la Cienaga de la Virgen, une immense zone humide couverte de mangroves. Nous effectuons notre premier arrêt au "**Volcan de Lodo El Totumo**" cette attraction se trouve au bord de la Cienaga Del Totumo, une grande zone humide.
 
@@ -218,7 +218,7 @@ Ce matin nous quittons définitivement notre plage non sans dire aurevoir à tou
 
 On prend la route aussitôt vers Santa Marta. La route payante est toujours aussi agréable et facile de conduite. Nous travsersons des zones humides très sympas entre océan et marécages malheureusement aucun endroit n'est aménagé pour s'arrêter. Au niveau de pueblo Viejo juste avant Cienaga nous traversons de petits marais salants, la zone est très très pauvres et nous avons plus l'impression de traverser un bidon ville qu'un pueblo. Arrivé à **Santa Marta** nous faisons un tour en ville pour essayer de trouver un lieux pour la nuit mais nous abandonnons l'idée et sortons de la ville pour finir sur un parking gardé pour les poids-lourds. Tous les bivouacs se suivent mais ne se ressemblent pas...
 
-## 01 Février
+## 01 février
 
 Nuit très chaude et très bruyante, sans compter les camions qui ont démarrés dans la nuit. On s'y attendait un peu. Ce matin nous prenons un collectivo pour nous rendre dans la vieille ville de Santa Marta. La ville est déjà beaucoup agréable et accueillante que Baranquilla. Le centre est très animé, nous visitons l'ancienne "Casa de la Aduana", qui est la plus ancienne construction coloniale des amériques à être toujour debout. Simon Bolivar le héros du Nord de l'Amérique du Sud y a vécu est y est mort. Elle abrita aujourd'hui le musé de l'or dont lentrée est gratuite. On nous a demandé tout de même notre pass sanitaire. Le batiment est très beau et les objets présentés sont bien mis en valeur. Il n'y a pas énormément de piéces mais c'est très intéressant.
 
@@ -236,7 +236,7 @@ Nous passons enssuite devant la cathédrale qui est fermée. On ne retrouve pas 
 
 En milieu d'après-midi nous décidons de lever le camp en direction du **Park National de Tayrona**. Noud nous arrêtons à la Finca San Martin et sommes reçus par Claudia, très gentille qui met à disposition des voyageurs un bout de terrain juste en limite du Parc. En discutant, elle nous apprend que le parc ferme 15 jours par an, et c'est maintenant... Pas de chance!!!. Nous nous installons quand même, claudia nous prépare un café colombien très bon, fort mais fruité.
 
-## 02 au 03 Février
+## 02 au 03 février
 
 Nous passons deux jours chez Claudia, nous faisons quelques ballades aux allentours, mais une grande partie des abords des plages est privatisée, nous arrivons quand même à accéder à un Mirador situé Playa Los Angeles qui nous permet d'avoir une belle vue sur l'océan et les montagnes.
 
@@ -254,7 +254,7 @@ Un rio coule à quelques dizaine de mètres de nous. Je comptais le descendre ju
 
 En fin de jornée nous quittons Tayrona pour faire retour sur Santa Marta. Nous avons attend le point le plus au Nord de l'amérique du Sud que nous avons décidé de visiter. Nous pourrions poussé jusqu'à l'extrème et aller jusqu'au bout de la péninsule de Guajira mais il n'y a pas grand chose à voir et Thor n'aprécierai pas les pistes qui y mènent. Si nous regardons une carte plein Ouest nous sommes remontés pratiquement au hauteur du Nicaragua.
 
-## 04 Février
+## 04 février
 
 Ce matin nous prenons un collectivo pour le centre ville et recupérons un mini van qui fait la liaison avec **Minca**. Ce petit village très touristique se trouve dans le massif montagneux de la Sierra Nevada de Santa Marta dont le point culminant est le Pico Cristobal qui est plus de 5750 mètres d’altitude. Nous nous arrêtons à Minca qui est à 600 mètres. Nous avons eu raison de ne pas y aller avec Thor. Même si la route est faisable, sur place se garer aurait été une grosse galère. Plutôt décu dans l’ensemble, le village en lui même n’a aucun cachet et les excusions aux alentours sont hors de prix, c’est vraiment un attrape touristes.
 
@@ -266,7 +266,7 @@ Après si les gens ne visite que la côte carïbéenne cela leur permet de voir 
 
 Bref après diner nous décidons de redescendre sur Santa Marta et nous prenons la route en direction de Mompox. La route est belle mais en raison d’une accident nous perdons plus d’une heure dans les ambouteillages et devons nous arrêter à Bosconia dans un parking pour camion pour la nuit.
 
-## 05 et 06 Février
+## 05 et 06 février
 
 Nuit chaude et bruyante comme les autres. Nous reprenons la route direction **Santa Crux de Mompox** qui est inscrite au patrimoine de l'humanité à l'Unesco. Fondée en 1540 par les espagnols au bord d'une rivière, cette ville coloniale est restée dans son jus. Nous y arrivons en fin de matinée, une fois de plus la route est impeccable et on comprend aisément les quelques péages.
 
