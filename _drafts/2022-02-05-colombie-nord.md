@@ -266,7 +266,7 @@ Après si les gens ne visite que la côte carïbéenne cela leur permet de voir 
 
 Bref après diner nous décidons de redescendre sur Santa Marta et nous prenons la route en direction de Mompox. La route est belle mais en raison d’une accident nous perdons plus d’une heure dans les ambouteillages et devons nous arrêter à Bosconia dans un parking pour camion pour la nuit.
 
-## 05 Février
+## 05 et 06 Février
 
 Nuit chaude et bruyante comme les autres. Nous reprenons la route direction **Santa Crux de Mompox** qui est inscrite au patrimoine de l'humanité à l'Unesco. Fondée en 1540 par les espagnols au bord d'une rivière, cette ville coloniale est restée dans son jus. Nous y arrivons en fin de matinée, une fois de plus la route est impeccable et on comprend aisément les quelques péages.
 
@@ -276,4 +276,6 @@ Le village étant très étroit, nous n'avons pas beaucoups d'option pour la nui
 
 <a data-flickr-embed="true" data-footer="true" data-context="true" href="https://www.flickr.com/photos/2ozr/51871970006/in/datetaken-public/" title="Santa Cruz de Mompox - [Colombie]"><img src="https://live.staticflickr.com/65535/51871970006_d14cb58fa7_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On rentrant, quelques mètres avant notre parking nousvoyons une femme installer une nappe blanche sur une table au milieu de la rue. Devant notre étonnement certainement visible de loin, elle  nous demande de nous approcher et nous explique qu'à 19 heures il y aura une messe. A l'heure dite je me pointe et effectivement il y a une cinquantaine de personnes assises et le curé qui se prépare. J'ai finalement assisté à la messe compléte, on est même venu m'apporter une chaise, autant dire que j'ai fait sensation.
+On rentrant, quelques mètres avant notre parking nous voyons une femme installer une nappe blanche sur une table au milieu de la rue. Devant notre étonnement certainement visible de loin, elle nous demande de nous approcher et nous explique qu'à 19 heures il y aura une messe. A l'heure dite je me pointe et effectivement il y a une cinquantaine de personnes assises et le curé qui se prépare. J'ai finalement assisté à la messe compléte, on est même venu m'apporter une chaise, autant dire que j'ai fait sensation.
+
+Le lendemain matin je refais un tour du village pour bénéficier d'une belle lumière et en profite pour faire quelques photos. Après le déjeuner, nous prenons la route pour une longue étape puisque nous quittons le Nord de la Colombie pour nous enfoncer au centre du pays en région montagneuse, notre destination, Medellin.
