@@ -216,7 +216,7 @@ Ce matin nous quittons définitivement notre plage non sans dire aurevoir à tou
 
 <img src="{{baseurl}}/assets/owner/photos/colombie32.jpg" style="width:100%" />
 
- On prend la route aussitôt vers Santa Marta. La route payante est toujours aussi agréable et facile de conduite. Nous travsersons des zones humides très sympas entre océan et marécages malheureusement aucun endroit n'est aménagé pour s'arrêter. Au niveau de pueblo Viejo juste avant Cienaga nous traversons de petits marais salants, la zone est très très pauvres et nous avons plus l'impression de traverser un bidon ville qu'un pueblo. Arrivé à **Santa Marta** nous faisons un tour en ville pour essayer de trouver un lieux pour la nuit mais nous abandonnons l'idée et sortons de la ville pour finir sur un parking gardé pour les poids-lourds. Tous les bivouacs se suivent mais ne se ressemblent pas...
+On prend la route aussitôt vers Santa Marta. La route payante est toujours aussi agréable et facile de conduite. Nous travsersons des zones humides très sympas entre océan et marécages malheureusement aucun endroit n'est aménagé pour s'arrêter. Au niveau de pueblo Viejo juste avant Cienaga nous traversons de petits marais salants, la zone est très très pauvres et nous avons plus l'impression de traverser un bidon ville qu'un pueblo. Arrivé à **Santa Marta** nous faisons un tour en ville pour essayer de trouver un lieux pour la nuit mais nous abandonnons l'idée et sortons de la ville pour finir sur un parking gardé pour les poids-lourds. Tous les bivouacs se suivent mais ne se ressemblent pas...
 
 ## 01 Février
 
