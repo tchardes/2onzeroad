@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Colombie - Côte Caraïbe"
+title: "Colombie - Centre"
 preview: "Cet article couvre la période du 10 janvier au 05 février 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis..."
 parent-id:
 date: 2022-02-07 13:00:00
