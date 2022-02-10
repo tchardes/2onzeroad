@@ -1,16 +1,16 @@
 ---
 layout: blog
 title: "Colombie - Côte Caraïbe"
-preview: "Cet article couvre la période du 10 janvier au 24 janvier 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis..."
+preview: "Cet article couvre la période du 10 janvier au 05 février 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis..."
 parent-id:
-date: 2022-02-02 13:00:00
+date: 2022-02-07 13:00:00
 from-date: 2022-01-10 12:00:00
-to-date: 2022-02-02 13:00:00
+to-date: 2022-02-05 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie_caraïbe.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
-tags: [mer-ocean, transport, histoire, architecture, culturel]
-pois: [cartagena#10-janvier, eltotumo#25janvier, pvelero#25janvier, baranquilla#26-au-30-janvier, stamarta#31janvier, tayrona#01fevrier]
+tags: [mer-ocean, histoire, architecture, culturel, unesco]
+pois: [cartagena#10-janvier, eltotumo#25janvier, pvelero#25janvier, baranquilla#26-au-30-janvier, stamarta#31janvier, tayrona#01fevrier, tayrona#01fevrier, tayrona#01fevrier, tayrona#01fevrier, tayrona#01fevrier,]
 country: Colombie
 states: ["Bolivar", "Magdalena"]
 category: "roadmap"
@@ -20,7 +20,7 @@ itinary: "2022/colombie.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 10 janvier au 24 janvier 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis Thor en bon ordre de marche et avons silloné une partie du Nord du pays.
+Cet article couvre la période du 10 janvier au 05 février 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis Thor en bon ordre de marche et avons silloné une partie du Nord du pays.
 
 Nous avions pour habitude de dire à chaque départ que nous quittions notre zone de confort pour partir à la découverte de nouveaux horizons, à l'aventure quoi, au moins pour nous… Cela n'a jamais été aussi vrai… 616 jours plus tard, nous repartons enfin pour la Colombie avec des valises d'incertitudes. Qu'en sera t-il de la situation sanitaire et économique du pays ? Dans quel état allons nous retrouver Thor ? Va t-il nous reconnaître ? Connaissant bien les méandres de l'administration colombienne, pourra t-on faire prolonger une énième fois notre titre d'importation temporaire pour Thor pour continuer la route sereinement ou serons-nous contraints de quitter précipitamment le pays en quelques jours ?… Nous partons, alors que la frontière terrestre avec l'Equateur est ouverte depuis peu mais, pour l'instant, la frontière terrestre entre l'Equateur et le Pérou est toujours fermée et rien n'annonce une ouverte prochaine. Pourtant c'est là que nous devons nous rendre pour pouvoir y laisser Thor à nouveau. On verra bien et après les plans A, B… il reste toujours l'improvisation. Début janvier, nous prenons notre décision… on repart.
 
@@ -182,7 +182,13 @@ Arrivé chez Cummins, je suis très bien reçu. Ils sont habitués à travailler
 
 ## 25 Janvier
 
-Ce matin nous passons la matinée à peaufiner notre départ. En début d'après-midi nous disons au-revoir à nos hôtes et prenons la route. Nous faisons le plein d'essence et sommes agréablement surpris du prix, 0,55 € le litre. Dès la sortie de Cartagena nous entrons sur une très belle route à péage. Une grande partie est construire sur un pont qui passe au-dessus de la Cienaga de la Virgen, une immense zone humide couverte de mangroves. Nous effectuons notre premier arrêt au "**Volcan de Lodo El Totumo**" cette attraction se trouve au bord de la Cienaga Del Totumo, une grande zone humide. Il s'agit en fait d'un grand cône au sommet duquel se trouve une piscine de boue. Par sur que cela est un quelconque rapport avec un vrai volcan... Après avoir fait trempette, il ne vous reste plus qu'à prendre la douche dans un des petits commerces tout autour ou d'aller piquer une tête dans le marais. Pas vraiment adeptes de bain de boue, nous avons une très belle peau naturellement !!! nous avons passé notre tour...
+Ce matin nous passons la matinée à peaufiner notre départ. En début d'après-midi nous disons au-revoir à nos hôtes et prenons la route. Nous faisons le plein d'essence et sommes agréablement surpris du prix, 0,55 € le litre. Dès la sortie de Cartagena nous entrons sur une très belle route à péage. Une grande partie est construire sur un pont qui passe au-dessus de la Cienaga de la Virgen, une immense zone humide couverte de mangroves. Nous effectuons notre premier arrêt au "**Volcan de Lodo El Totumo**" cette attraction se trouve au bord de la Cienaga Del Totumo, une grande zone humide. 
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872050333/in/datetaken-public/" title="El Totumo - [Colombie]"><img src="https://live.staticflickr.com/65535/51872050333_6b5e9c573d_k.jpg" width="2048" height="1152" alt="El Totumo - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Il s'agit en fait d'un grand cône au sommet duquel se trouve une piscine de boue. Par sur que cela est un quelconque rapport avec un vrai volcan... Après avoir fait trempette, il ne vous reste plus qu'à prendre la douche dans un des petits commerces tout autour ou d'aller piquer une tête dans le marais. Pas vraiment adeptes de bain de boue, nous avons une très belle peau naturellement !!! nous avons passé notre tour...
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872615585/in/datetaken-public/" title="El Totumo - [Colombie]"><img src="https://live.staticflickr.com/65535/51872615585_ffd4e10a0c_k.jpg" width="2048" height="1152" alt="El Totumo - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous poursuivons notre route jusqu'à la Baie de Trebal où nous nous posons pour la nuit sur la plage de **Puerto Velero** avec ses Palapas et ses hamacs. Si le week-end, l'endroit doit être bondé et bruyant là il n'y a personne, nous sommes seuls au monde. Dès notre arrivée, une moto avec deux policiers arrivent et nous discutons 5 minutes. Il prend mon numéro de téléphone et me donne le sien et m'explique qu'ils passeront dans la nuit pour notre sécurité. L'océan est ici très calme dans la baie, cela change des rouleaux de Carthagène.
 
