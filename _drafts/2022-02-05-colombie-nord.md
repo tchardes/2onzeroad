@@ -278,4 +278,18 @@ Le village étant très étroit, nous n'avons pas beaucoups d'option pour la nui
 
 On rentrant, quelques mètres avant notre parking nous voyons une femme installer une nappe blanche sur une table au milieu de la rue. Devant notre étonnement certainement visible de loin, elle nous demande de nous approcher et nous explique qu'à 19 heures il y aura une messe. A l'heure dite je me pointe et effectivement il y a une cinquantaine de personnes assises et le curé qui se prépare. J'ai finalement assisté à la messe compléte, on est même venu m'apporter une chaise, autant dire que j'ai fait sensation.
 
-Le lendemain matin je refais un tour du village pour bénéficier d'une belle lumière et en profite pour faire quelques photos. Après le déjeuner, nous prenons la route pour une longue étape puisque nous quittons le Nord de la Colombie pour nous enfoncer au centre du pays en région montagneuse, notre destination, Medellin.
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51873550803/in/datetaken-public/" title="Santa Crux De Mompox - [Colombie]"><img src="https://live.staticflickr.com/65535/51873550803_8e8fb796cf_k.jpg" width="2048" height="1152" alt="Santa Crux De Mompox - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Le lendemain matin je refais un tour du village pour bénéficier d'une belle lumière et en profite pour faire quelques photos.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51871352632/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51871352632_de46dce8c7_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872314786/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51872314786_bb66e465a4_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872960980/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51872960980_e26b982ee7_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872633444/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51872633444_6da17b1c5e_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872960450/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51872960450_968be0baae_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Après le déjeuner, nous prenons la route pour une longue étape puisque nous quittons le Nord de la Colombie pour nous enfoncer au centre du pays en région montagneuse, notre destination, la région de Medellin.
