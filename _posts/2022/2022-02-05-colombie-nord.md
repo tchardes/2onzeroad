@@ -30,11 +30,11 @@ Comme toujours, c’est André, notre beau-frère qui est de corvée, il nous co
 
 Nous arrivons à l'heure à Roissy et trouvons rapidement notre Terminal. Avec la Covid, toutes les procédures se sont dématérialisées et que ce soit avec la SNCF ou Air France, tout se fait via leur application, même l'enregistrement et la dépose des bagages se fait par nous-même, limitant ainsi les contacts. Un simple contrôle de notre pass sanitaire et nous voilà en salle d’embarquement. Aucune question sur le fait que nous ayons, ou pas, un billet pour sortir de la Colombie dans les 90 jours.
 
-<img src="{{baseurl}}/assets/owner/photos/colombie12.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/Colombie12.jpg" style="width:100%" />
 
 Nous décollons de Paris avec une bonne heure de retard et la capitaine de bord nous annonce que l'horaire ne pourra pas être rattrapé. Notre voisin est français, ex-marié à une colombienne de Cartagena, il y retourne pour la première depuis deux ans, un peu comme nous. En discutant, il nous met la pression car il pense que jamais nous n'aurons le temps de prendre notre correspondance pour Cartagena à Bogota.
 
-<img src="{{baseurl}}/assets/owner/photos/colombie13.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/Colombie13.jpg" style="width:100%" />
 
 On arrive effectivement à Bogota en retard. Il est près de 21 heures 00, la température est douce et agréable, il faut dire que la capitale se trouve à 2600 mètres d'altitude. Juste avant de passer devant l'officier de l'immigration, une personne nous "contrôle" ou plutôt jette un oeil à notre pass sanitaire sur l'application tous anti-covid. Pas de question, pas de prise de température. Après quelques questions, nos passeports sont tamponnés, visa accordé pour 90 jours. Commence alors une véritable course d'orientation pour trouver le hall des départs puis la bonne porte. Heureusement, les bagages sont automatiquement transférés, du moins nous l'espérons et nous avions, déjà depuis la France, édité notre carte d'embarquement. Nous arrivons finalement à la bonne porte, et en avance…
 
