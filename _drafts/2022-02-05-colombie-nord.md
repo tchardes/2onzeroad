@@ -8,7 +8,7 @@ from-date: 2022-01-10 12:00:00
 to-date: 2022-02-05 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie_caraïbe.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-mompox.jpg
 tags: [mer-ocean, histoire, architecture, culturel, unesco]
 pois: [cartagena#10-janvier, eltotumo#25-janvier, pvelero#25-janvier, baranquilla#26-au-30-janvier, stamarta#-31janvier, tayrona#01-fevrier, minca#04-fevrier, mompox#05-et-06-fevrier]
 country: Colombie
