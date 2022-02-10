@@ -284,6 +284,8 @@ Le lendemain matin je refais un tour du village pour bénéficier d'une belle lu
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51871352632/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51871352632_de46dce8c7_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872960880/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51872960880_68a6e8e850_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872314786/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51872314786_bb66e465a4_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872960980/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51872960980_e26b982ee7_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
