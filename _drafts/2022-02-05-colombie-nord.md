@@ -182,7 +182,7 @@ Arrivé chez Cummins, je suis très bien reçu. Ils sont habitués à travailler
 
 ## 25 Janvier
 
-Ce matin nous passons la matinée à peaufiner notre départ. En début d'après-midi nous disons au-revoir à nos hôtes et prenons la route. Nous faisons le plein d'essence et sommes agréablement surpris du prix, 0,55 € le litre. Dès la sortie de Cartagena nous entrons sur une très belle route à péage. Une grande partie est construire sur un pont qui passe au-dessus de la Cienaga de la Virgen, une immense zone humide couverte de mangroves. Nous effectuons notre premier arrêt au "**Volcan de Lodo El Totumo**" cette attraction se trouve au bord de la Cienaga Del Totumo, une grande zone humide. 
+Ce matin nous passons la matinée à peaufiner notre départ. En début d'après-midi nous disons au-revoir à nos hôtes et prenons la route. Nous faisons le plein d'essence et sommes agréablement surpris du prix, 0,55 € le litre. Dès la sortie de Cartagena nous entrons sur une très belle route à péage. Une grande partie est construire sur un pont qui passe au-dessus de la Cienaga de la Virgen, une immense zone humide couverte de mangroves. Nous effectuons notre premier arrêt au "**Volcan de Lodo El Totumo**" cette attraction se trouve au bord de la Cienaga Del Totumo, une grande zone humide.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872050333/in/datetaken-public/" title="El Totumo - [Colombie]"><img src="https://live.staticflickr.com/65535/51872050333_6b5e9c573d_k.jpg" width="2048" height="1152" alt="El Totumo - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
