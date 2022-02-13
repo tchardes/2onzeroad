@@ -12,7 +12,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
 tags: [histoire, architecture, culturel]
 pois: [santafede#08-fevrier,]
 country: Colombie
-states: ["Bolivar", "Magdalena"]
+states: ["Bolivar", "Sucre", "Cordoba", "Antioquia"]
 category: "roadmap"
 flickr-text: ""
 location: "6.497986370251644, -74.50492493126464"
