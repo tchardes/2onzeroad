@@ -73,12 +73,11 @@ Nous prenons un collectivo à deux reprises pour descendre, tambour battant, à 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51878487152/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51878487152_09b35d7fbc_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51878487152/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51878487152_09b35d7fbc_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879531003/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51879531003_f008240830_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879268776/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51879268776_efc60b6898_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51878486447/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51878486447_40cfc20a4f_k.jpg" width="2048" height="905" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 
 Durant plusieurs jours je suis en relation avec un guide français installé à Medellin pour effectuer la visite de la fameuse Comuna 13, on arrive pas à se mettre d'accord sur le jour et finalement je décide de me débrouiller par moi même. Ce bidon-ville qui a poussé dans les années 60 sur les flans abruptes de la montagne a été peuplé surtout de paysans fuyants les conflits armés et qui ont migrent vers la ville était connu par le passé pour être l'une des quartiers les plus dangereux du monde, dans les années 90 on y dénombré plusieurs milliers de morts par balle et par an. Petit à petit les gangs ont pris le contrôle de cette zone de non droit, trafic de stup, trafic d'armes ... Il a fallu de nombreuses interventions armées de l'état durant 10 ans pour "assainir" cette zone avec l'aide aussi des habitants. Grâce à de nombreuses subventions le quartier c'est modernisée et la culture américaine y a débarquée, Street Art, Hip-Hop...et petit à petit le tourisme. Des escalators ont même été mis en place pour facilité les vie des gens ... et des touristes. J'ai donc passé plus de 4 heures dans cette favela en suivant dans un premier temps le "circuit" puis en me perdant un peu volontairement dans ces méandres. Deux hommes surpris de voir un "gringo" si loin m'ont même checkés... Ce ne sont pas les plus beaux graffs que j'ai vue mais le tout est très dépaysant et coloré. De nombreux groupes de Hip-Hop se produisent au détour des ruelles, c'est très vivant et le tourisme à fait naitre de nombreuses petites boutiques qui font vivre les gens de ce quartier. Les boum boum des sonos ont remplacés les coup de feu.
 
@@ -101,13 +100,3 @@ Avant de repartir par le métro, je prend un téléphériques et surcolle plusie
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879567059/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51879567059_5345b713c4_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Le camping se remplis peu à peu et l'on voit arriver deux 4X4 avec tente de toit, un couple de franco/Quebequois et un couple de suédois, nous échangeons également beaucoup.
-
-
-
-
-
-## 10 au 11 janvier
-
-10 logistique
-
-11 Ce matin nous prenons au collectivo qui va nous conduire, nous descendre sur Medellin. Une bonne heure de route avec un dénivellé de 1000 mètres... à fond la caisse.
