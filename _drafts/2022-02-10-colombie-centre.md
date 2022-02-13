@@ -20,11 +20,11 @@ itinary: "2022/colombie.json"
 mapZoom: 7
 ---
 
-Cet article couvre la période du 10 janvier au 05 février 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis Thor en bon ordre de marche et avons silloné une partie du Nord du pays.
+Cet article couvre la période du 05 au  février 2022, au cours de laquelle nous avons silloné le centre de la Colombie.
 
 ## 06 janvier
 
-Le matin viviste de Mompox avec une belle lumière our le photos puis après le repas route en direction de Medellin. Nous nous arrêtons pour la nuit à Chinu, la moitié de la route à été pourrie.
+Après un dernier petit tour à Mompox nous prenons la route en direction du centre du pays. Nous avons prévu de couvrir le 700 kms qui nous sépare de Medellin en deux étapes, tout dépendra de l'état des routes, il faut en général toujours rajouter au mois 30% au temps indiqué par google map. Effectivement la route qui 
 
 ## 07 janvier
 
