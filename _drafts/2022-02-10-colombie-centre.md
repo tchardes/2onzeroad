@@ -15,9 +15,9 @@ country: Colombie
 states: ["Bolivar", "Magdalena"]
 category: "roadmap"
 flickr-text: ""
-location: "10.422022196104173, -75.52834649085165"
-itinary: "2022/colombie.json"
-mapZoom: 7
+location: "6.497986370251644, -74.50492493126464"
+itinary: "2022/colombie_centre.json"
+mapZoom: 5
 ---
 
 Cet article couvre la période du 05 au février 2022, au cours de laquelle nous avons sillonné le centre de la Colombie.
