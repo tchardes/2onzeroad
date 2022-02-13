@@ -47,7 +47,7 @@ Je m’arrête ensuite à la première Llanteria que nous trouvons sur la route,
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879526163/in/datetaken-public/" title="Santa Rosa De Osos - [Colombie]"><img src="https://live.staticflickr.com/65535/51879526163_8b1c18d5f6_k.jpg" width="2048" height="1152" alt="Santa Rosa De Osos - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879526163/in/datetaken-public/" title="Santa Rosa De Osos - [Colombie]"><img src="https://live.staticflickr.com/65535/51879526163_8b1c18d5f6_k.jpg" width="2048" height="1152" alt="Santa Rosa De Osos - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872633144/in/datetaken-public/" title="Santa rosa de Osos - [Colombie]"><img src="https://live.staticflickr.com/65535/51872633144_fc6fdc5332_k.jpg" width="2048" height="1152" alt="Santa rosa de Osos - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous traversons Medellin sans nous arrêter. Il ne fait pas beau mais malgré le crachin on se rend compte que la ville est implantée dans une vallée mais que tout les pents de la montagne sont couvert de petites maisons construites en briques rouges style favela. Nous poursuivons 60 kms plus loins pour visiter la ville coloniale de **Santa Fe De Antoquia**. La ville ne se trouve plus qu’à 556 mètres d’altitude autant dire que l’on peut ranger la couette pour la nuit… Nous trouvons un emplacement à l’entrée de la ville et partons à sa visite. Toutes ces villes coloniales ont été construites sur le même plan pratiquement, pour autant elles ont toutes un cachet différent. c’est vraiment très beau.
 
@@ -57,7 +57,7 @@ Nous traversons Medellin sans nous arrêter. Il ne fait pas beau mais malgré le
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872958580/in/datetaken-public/" title="Santa Fe de Antioquia - [Colombie]"><img src="https://live.staticflickr.com/65535/51872958580_21af429bd2_k.jpg" width="2048" height="1152" alt="Santa Fe de Antioquia - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872958580/in/datetaken-public/" title="Santa Fe de Antioquia - [Colombie]"><img src="https://live.staticflickr.com/65535/51872958580_21af429bd2_k.jpg" width="2048" height="1152" alt="Santa Fe de Antioquia - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872393293/in/datetaken-public/" title="Santa Fe de Antioquia - [Colombie]"><img src="https://live.staticflickr.com/65535/51872393293_83834e75ce_k.jpg" width="2048" height="1152" alt="Santa Fe de Antioquia - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 09 au 13 janvier
 
@@ -69,7 +69,7 @@ Nous prenons un collectivo à deux reprises pour descendre, tambour battant, à 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879254326/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51879254326_35efaad678_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879254326/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51879254326_35efaad678_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879897730/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51879897730_bfcd1c0d85_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51878487152/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51878487152_09b35d7fbc_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
