@@ -99,4 +99,6 @@ Avant de repartir par le métro, je prend un téléphériques et surcolle plusie
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879567059/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51879567059_5345b713c4_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879451386/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51879451386_2fd7ad16b9_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Le camping se remplis peu à peu et l'on voit arriver deux 4X4 avec tente de toit, un couple de franco/Quebequois et un couple de suédois, nous échangeons également beaucoup.
