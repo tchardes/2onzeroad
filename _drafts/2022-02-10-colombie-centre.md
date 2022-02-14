@@ -3,9 +3,9 @@ layout: blog
 title: "Colombie - Centre"
 preview: "Cet article couvre la période du 10 janvier au 05 février 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis..."
 parent-id:
-date: 2022-02-07 13:00:00
+date: 2022-02-13 13:00:00
 from-date: 2022-02-05 12:00:00
-to-date: 2022-02-10 13:00:00
+to-date: 2022-02-3 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie_caraïbe.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
