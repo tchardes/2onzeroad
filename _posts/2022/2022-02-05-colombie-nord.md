@@ -295,3 +295,7 @@ Le lendemain matin, je refais un tour du village pour bénéficier d'une belle l
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872960450/in/datetaken-public/" title="Santa Cruz de Mompox- [Colombie]"><img src="https://live.staticflickr.com/65535/51872960450_968be0baae_k.jpg" width="2048" height="1152" alt="Santa Cruz de Mompox- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Après le déjeuner, nous prenons la route pour une longue étape puisque nous quittons le Nord de la Colombie pour nous enfoncer au centre du pays en région montagneuse, notre prochaine destination, la région de Medellin.
+
+Un résumé de cette dernière partie de notre voyage en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jYQEqfFUVZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
