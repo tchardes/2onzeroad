@@ -106,3 +106,6 @@ Avant de repartir par le métro, je prends un téléphérique et survole plusieu
 Le camping se remplit peu à peu et l'on voit arriver deux 4X4 avec tente de toit, un couple de franco/québequois et un couple de suédois, nous échangeons également beaucoup.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51880162561/in/datetaken-public/" title="Santa Elena - [Colombie]"><img src="https://live.staticflickr.com/65535/51880162561_373ac71b7f_k.jpg" width="2048" height="1152" alt="Santa Elena - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+Renault est ominiprésent en Colombie, certainement la marque la plus représentée. Ici pas vraiment de Dacia puisque tous les véhicules sont plaqués Renault. Cette présence n'est pas nouvelle car nous aovns pu voir de nombreux anciens modèles qui roulent toujours, 4l, R12, R9 ......
