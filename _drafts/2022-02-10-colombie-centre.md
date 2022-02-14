@@ -37,7 +37,7 @@ Aujourd’hui, encore une grosse journée de liaison pour s’approcher de Medel
 
 ## 08 février
 
- Nuit hyper fraiche, on a dû sortir la couette et une couverture... Ce matin on quitte le parking un peu boueux en raison des quelques gouttes qui sont tombées dans la nuit. Je fais le tour de Thor et je me rends compte que le pneu avant gauche est à plat. On va dans une Llanteria qui est sur place et rapidement nous trouvons un maillon de chaine de moto planté dans le pneu. Il démonte et colle une rustine à l’intérieur puis nous partons.
+Nuit hyper fraiche, on a dû sortir la couette et une couverture... Ce matin on quitte le parking un peu boueux en raison des quelques gouttes qui sont tombées dans la nuit. Je fais le tour de Thor et je me rends compte que le pneu avant gauche est à plat. On va dans une Llanteria qui est sur place et rapidement nous trouvons un maillon de chaine de moto planté dans le pneu. Il démonte et colle une rustine à l’intérieur puis nous partons.
 
 On fait une vingtaine de kilomètres et nous nous arrêtons prendre de l’essence, en faisant le tour je constate qu’un des pneus arrière droit est un peu dégonflé, nous reprenons la route. Rapidement, nous tombons sur un poste de contrôle de la Police. Là je vois au regard du Policier que l’on va y avoir droit. Effectivement, il nous fait garer sur le côté et commence à discuter avec moi. Il me demande s’il peut visiter Thor, on ne refuse jamais, et nous continuons la discution assis sur la banquette. En parlant, il me demande s’il peut faire une vidéo de moi et si je peux dire qu’en tant qu’étranger, je suis super content du travail de la Police, pas de problème… silence on tourne! On s’échange notre WhatsApp, je lui donne des porte-clés en forme de tour Eiffel pour ses filles.
 
@@ -103,6 +103,6 @@ Avant de repartir par le métro, je prends un téléphérique et survole plusieu
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879451386/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51879451386_2fd7ad16b9_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le camping se remplit peu à peu et l'on voit arriver deux 4X4 avec tente de toit, un couple de franco/Quebequois et un couple de suédois, nous échangeons également beaucoup.
+Le camping se remplit peu à peu et l'on voit arriver deux 4X4 avec tente de toit, un couple de franco/québequois et un couple de suédois, nous échangeons également beaucoup.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51880162561/in/datetaken-public/" title="Santa Elena - [Colombie]"><img src="https://live.staticflickr.com/65535/51880162561_373ac71b7f_k.jpg" width="2048" height="1152" alt="Santa Elena - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
