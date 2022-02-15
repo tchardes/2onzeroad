@@ -109,3 +109,18 @@ Le camping se remplit peu à peu et l'on voit arriver deux 4X4 avec tente de toi
 
 
 Renault est ominiprésent en Colombie, certainement la marque la plus représentée. Ici pas vraiment de Dacia puisque tous les véhicules sont plaqués Renault. Cette présence n'est pas nouvelle car nous aovns pu voir de nombreux anciens modèles qui roulent toujours, 4l, R12, R9 ......
+
+
+
+
+
+
+
+
+
+
+Un résumé de cette dernière partie de notre voyage en vidéo :
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DDJ-R1USlIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
