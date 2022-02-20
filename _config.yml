@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "6.554732041671453, -73.1374518107736"
-  name: "San Gil - Colombie"
-  date: "18 février 2022"
+  coordinates: "5.544557126791765, -73.35757655086209"
+  name: "Tunja - Colombie"
+  date: "21 février 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
