@@ -59,7 +59,7 @@ Nous traversons Medellin sans nous arrêter. Il ne fait pas beau mais, malgré l
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51872393293/in/datetaken-public/" title="Santa Fe de Antioquia - [Colombie]"><img src="https://live.staticflickr.com/65535/51872393293_83834e75ce_k.jpg" width="2048" height="1152" alt="Santa Fe de Antioquia - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## 09 au 13 janvier
+## 09 au 14 janvier
 
 Ce matin nous reprenons la route en direction de Medellin. Il y a des travaux partout, il semble que la Colombie mette le paquet dans le BTP, ils doublent le nombre de voies, construisent des ponts. Nous avons déjà traversé un très beau tunnel de plus de 6 km de long à l’air récent. Il faut dire qu'ici aussi nous sommes en pleine campagne présidentielle. La traversée du centre de Medellin se fait bien puis nous grimpons un dénivelé de près de 1000 mètres à travers les quartiers populaires en direction de Santa Elena où nous avons repéré un super camping. Nous arrivons à AL Bosque, à 2600 mètres d'altitude. Nous sommes super bien reçus par la patronne de l'établissement qui nous fait faire le tour du propriétaire. Nous y rencontrons un couple de jeunes français, Nicolas et Manon avec leurs deux chats qui s’apprêtent à rentrer en France après un voyage de 5 ans en Amérique du Sud. Nous passons deux soirées ensemble et discutons beaucoup.
 
@@ -103,12 +103,84 @@ Avant de repartir par le métro, je prends un téléphérique et survole plusieu
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879451386/in/datetaken-public/" title="Medellin - [Colombie]"><img src="https://live.staticflickr.com/65535/51879451386_2fd7ad16b9_k.jpg" width="2048" height="1152" alt="Medellin - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le camping se remplit peu à peu et l'on voit arriver deux 4X4 avec tente de toit, un couple de franco/québequois et un couple de suédois, nous échangeons également beaucoup.
+Le camping se remplit peu à peu et l'on voit arriver deux 4X4 avec tente de toit, un couple de franco/québequois et un suédois qui voyage tout seul, nous échangeons également beaucoup.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51880162561/in/datetaken-public/" title="Santa Elena - [Colombie]"><img src="https://live.staticflickr.com/65535/51880162561_373ac71b7f_k.jpg" width="2048" height="1152" alt="Santa Elena - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Renault est ominiprésent en Colombie, certainement la marque la plus représentée. Ici pas vraiment de Dacia puisque tous les véhicules sont siglés Renault. Cette présence n'est pas nouvelle car nous avàns pu voir de nombreux anciens modèles qui roulent toujours, tant bien que mal, 4l, R12, R16, R9, twingo...
 
-Renault est ominiprésent en Colombie, certainement la marque la plus représentée. Ici pas vraiment de Dacia puisque tous les véhicules sont plaqués Renault. Cette présence n'est pas nouvelle car nous aovns pu voir de nombreux anciens modèles qui roulent toujours, 4l, R12, R9 ......
+
+## 15 janvier
+
+On était très bien dans ce camping mais il faut que nous reprenons la route. Avant notre départ nous remettons au camping au grand drapeau français que nous avions en soute, en effetc'était le seul qui leur manqué à l'accuil du camping. Ils sont super content et save déjà où ils vont le mettre. Nous faisons route ensuite vers le très beau village colonial de **Guatapé** qui se trouve au bord d'un lac artificiel. Vous devez vous dire encore un village colonial... oui mais ils sont tous différents et celui là ne déroge pas à la régle, très coloré les sous bassement des maisons présentents de frises en bas relief qui retrace soit la pasion sous le travail du propriétaire de la maison. Le temps n'est pas avec nous mais nous faisons une très belle visite. La cathédrale est d'ailleur superbe aussi bien dehors que dedans. Comme nous sommes garés à seulement quelques dizaine de mètres de la place centrale, nous refaisons un tour le soir pour contenpler son éclairage.
+
+
+
+## 16 janvier
+
+Ce matin nous quittons Guatapé après une très bonne nuit. Nous nous arrêtons une dizaine de kilomètres plus loin pour voir La **Piedra El Peñon**. Il s'agit d'une immense monolite où l'on a constrtuit un escalier dans une faille pour accéder à son sommet. Un genre de pain de sucre colombien. C'est très impressionnant. Je décide de ne pas monté au sommet (636 marches) car le but final est de bénéficier d'une super vue à 360° des la région mais le temps n'est pas terrible et la visibilité très réduites. Mes mollets m'ont remerciés...
+
+
+Nous reprenons la route en direction de **Bucaramanga**. Si au dépard nous roulons sur une route à péages, donc pas trop mal, elle se transforme vite sur une route nationale avec de très nombreux travaux et arrêts. Le trafic est dense avec de nombreux camions, nous avons assisté à un accident entre un camion et un bus, ce qui n'est pas trop étonnant vu la vitesse où ils roulent et comment ils doublent, en général. Lors d’un arrêt nous discutons un moment avec une mère et son fils qui circulent en moto, on se suit un très long moment, à un arrêt le petit vient visiter Thor et on lui donne quelques bombons. Arrivés à Puerto Berrio, elle vient à mon niveau et nous propose de venir dormir chez elle, on décline mais c’est vraiment trop gentil. Il est vrai avec tous ces travaux on a pris du retard sur notre horaire et du coup il fait nuit quand nous décidons de nous arrêter dans une station essence qui dispose d'une grand espace. Nous sommes redescendus à une altitude de 123 mètres et il fait hyper chaud… la nuit va être difficile…
+
+
+## 17 janvier
+
+
+Effectivement... nuit très chaude...
+Ce matin on reprend la route vers Bucaramanga. toujourd autant de travaux du coup on arrive vers 15h00 à notre destination principale une  usine de Gaz dans la périphérie un peu chaude de la ville. Effectivement trouver du gaz Propane en Colombie est très compliqué et nous n'en avons presque plus. Tous les voyageurs sont confrontés à cette problèmatique. Nous avons eu de la chance de farne la traversé Colon - Catagena en flat rack et du coup nous n'avons pas été obligé de vider notre réservoir fixe de gaz pour monter sur le bateau. Nous avons fait de nombreux dépôts de gaz mais aucun n'a voulu nous le remplir souvent parce qu'ils n'ont pas la connectique (US) pour ce connecter à notre tank. J'avais bien prévu d'acheter un adaptateur pour le Pérou mais jusqu'à maintenent il n'y avait pas de problème ici. L'autre paramètre est qu'ici pour les maison ils utilises du gaz naturel et non de propane ou Butane. Bref nous avons un espoir ici car avant le covid des voyageurs y sont arrivés. Je me pointe à la grille de l'usine et j'explique ma problèmatique au garde qui m'indique qu'ici ils ne vendent pas. Cela commence mal... Je lui demande s'il n'y a pas un camion citerne de livraison qui doit rentrer prochainement il me dit que non. A ce moment je vois arrivver derrière moi un monsieur d'un certain âge casque blanc sur la tête qui parle anglais et un peu le Français. Grande discussion, il fait appeler plusieurs responsables de l'usine et d'un coup tout se débloque, ils font sortir un camion de l'usine, avec du propane, et nous font le plein 22 Kg... Victoire!! allelouya !!! nous voilà sauvé pour un bon mois. Jairo nous présente sa fille Gala, ils travaillent ensemble dans leur entreprise qui si j'ai bien compris, ont en charge le contrôle de l'intégrité des pipeline. Nous les invitons à boire un coup dans Thor et disuctons un long moment. Quant on leur dit que nous allons passé la nuit à Giron, ils nous confirment que la ville de Bucaramanga n'a aucun attrait et se propose de nous rejoindre le soir pour nous faire visite le centre historique de Giron.
+
+Nous les quitons et trouvons un parking gardé tout près du centre ville de Giron. Nous faisons un petit tour de cette ville coloniale très sympa puis sommes rejoints par Jairo et Gala, il nous explique l'histoire de cette ville puis nous finissons dans une restaurant de la ville où nous dégustons des spécialités, en entrée les Arepas, sorte de galette épaisse réalisés avec de la farine de Maïs que l'on mange avec du guacamole, très bon, puis du ventre de boeuf cuit au BBC avec comme accompagnement du Yuka des arepas et une salade composée. Nous avons passé une très bonne soirée très instructive où nous avons discuter un peu de tout dans une sorte d'esperanto. 
+
+Au final c'est une super journée car nous apprenons dans la soirée que les frontières terrestres entre l’Equateur et le Perou réouvrent demain après deux ans de fermeture. Nous allons enfin pouvoir dérouler notre voyage sans soucis.
+
+
+## 18 janvier
+
+
+Ce matin nous reprenons de la hauteur et rataquons la montagne. La route est très belle bien que très sineuse, le décor est grandiose, il parait que c'est la plus belle route de toute la Colombie. notre premier arrêt se fait au Parc National del Chicamocha, situé au bord d’un canyon. Il s'agit plus d'une parc d'attraction qu'un parc national à proprement parler. L'atraction phare est un téléphérique qui permet de traverser le canyon et monter sur l’autre versant, en plus, pour la petit histoire, il est français. La descente puis la remontée sont assez impressionnante, c’est à faire avec plus de 2000 mètre de dénivelé. Sur le deux sites de nombreuses boutiques, restaurant et une surprenant sulpture " Monumento a la Santandereanidad" qui est une alégorie à la révolution de la commune de 1781 contre les espagnols
+
+
+
+
+Nous faisons route ensuite vers San Gil, nous nous y arrêtons une petite heure mais le courant ne passe pas, on ne s'y sent pas à l'aise et nous nous écartons de la ville pour la nuit sur un parking pour poids-lourds.
+
+
+
+## 19 janvier
+
+Ce matin à moulte reflexions nous décidons de laisser Thor ici et de partir à **Barichara** en transport en commun. Nous avons peur une fois sur place de ne pouvoir trouver un stationnement. Du coup taxi et collectivo et après une heures de route nous découvrons ce nouveau village colonial construit lui, sur un flan de coline. Pas aussi beau que Sant Fe, moins vivant d’ailleurs, mais visite fort agréable. Nous y rencontrons une famille avec quatre enfant en "tour du monde". Originaire de Paris mais installés en Bourgogne ils parcourent le monde en sac en dos depuis 7 mois, quel courage !!!! Nous discutons un long moment. C’est toujours pationnant de parler avec d’autres voyageurs car chacun construit son voyage différemment du coup, même si nous avons traversé les même lieux, l’expérience est différente.
+
+
+Nous mangeons dans un très bon restaurant qui propose une cuisine locale mais très raffinée, on s’est régalés. Nous avons également gouté la spécialité de la région les OBLEAS, il s’agit de deux disques en gaufrette très très fin de 20 cm de diamètre prenant en sandwich une garniture sucrée de son choix.
+
+
+Après un dernier petit tour de la ville nous rejoignons Thor et prenons la route en direction de Villa de Leyva. sur la carte ce n’est pas très loins mais il y a tellement de camions que nous dépassons difficilement les 40 km/h de moyenne. Du coup à 17 heures on s’arrête dans une station essence pour la nuit. Demain il fera jour…
+
+
+## 20 janvier
+
+Ce matin nous poursuivons notre route vers **Villa de Leyva** une très belle ville coloniale. J’ai deux options de route pour y aller et je prends celle dont une partie et à péage donc gage d’un bon revêtement. Effectivement la route jusqu’à Arcabuco, l'embrachement pour notre destination, est potable même s’il y a énormément d’affaissement de la route, mais à partir de la bifurcation nous tombons sur une piste, 15 km de piste…
+
+Nous arrivons quand même à notre bivouac où se trouve des allemands qui eux sont sur le départ. Nous nous installons puis allons à la découvert de cette ville dont le centre historique est très bien conservé. Sa place principale la "Plaza Mayor" et carément immense. Si à Barichara les rue étaient pavées de dalle en pierre bien plate, ici ce sont de gros galets pas du tout rond qui font très mal aux articulations.
+
+On est dimanche et les rues sont très animées, nous trouvons une boulangerie patisserie française où nous faisont le plein de pain, gâteau et même une quiche…
+
+
+Après avoir arpenté toutes les rues du centre nous sortons de la ville pour visiter une curiosité, la Casa Terracotta, une maison construite par un architecte entièrement en terre cuite. Il parait qu’il a du quitter sa maison tant il était harcelé par des gens qui souhaitaient la visiter et c’est vrai que c’est à voir.
+
+## 21 janvier
+
+On quitte Villa de Leyva pour **Tunja**, nous voulions visiter une maison ancienne qui propose de grandes fresques mais c’est lundi et le lundi c’est fermé… De plus Corinne n’est pas du tout emballée par cette ville car elle a la réputation d’être la plus froide du pays. Sur la route le décor est splendide, la région est très vallonée et offre un paysage agreste avec toutes ces parcelles cultivées qui grimpes le long des versants. Malheusement il est très difficile de s'arrêter en bord de route, qui plus est avec Thor,pour prendre des photos. Il n'y a jamais d'aire de repos ni même de dégagement et souvent aucun bas côté, la route s'arretant au niveau de la ligne continue extérieure.
+
+
+Nous nous arrêtons dans un premier temps sur un lieu historique pour les colombiens **El Puente de Boyaca** où c’est déroulé une grande bataille le 7 août 1819 qui a vu la victoire des troupes républicaines menées par Simon Bolivar contre les troupes fidèles à l'Espagne.. Cette victoire à permis au troupes de marcher sur Bogota et elle consacrera l'indépendance de la grande Colombie.
+
+
+
+En début d’aprè-midi nous quittons notre route vers Bogota pour faire un petit détour par le lac **Embalse de Tomine** il est encore tôt du coup mais nous décidons de nous poser dans une marina et bien nous à pris car à peine une heure après nous être posé nous avons essuyé un très gros orage.
+
+
 
 
 
