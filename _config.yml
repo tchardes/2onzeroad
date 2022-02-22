@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "5.544557126791765, -73.35757655086209"
   name: "Bogota - Colombie"
-  date: "22 au 25 février 2022"
+  date: "23 au 26 février 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
