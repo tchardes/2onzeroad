@@ -163,13 +163,12 @@ On quitte Villa de Leyva pour **Tunja**, nous voulions visiter une maison ancien
 
 Nous nous arrêtons dans un premier temps sur un lieu historique pour les colombiens **El Puente de Boyaca** où c’est déroulé une grande bataille le 7 août 1819 qui a vu la victoire des troupes républicaines menées par Simon Bolivar contre les troupes fidèles à l'Espagne.. Cette victoire à permis au troupes de marcher sur Bogota et elle consacrera l'indépendance de la grande Colombie.
 
-
 En début d’aprè-midi nous quittons notre route vers Bogota pour faire un petit détour par le lac **Embalse de Tomine** il est encore tôt du coup mais nous décidons de nous poser dans une marina et bien nous à pris car à peine une heure après nous être posé nous avons essuyé un très gros orage.
-
 
 ## 22 janvier
 
-
+Ce matin, je trouve le gérant de la marina quui me donne la clé du wifi, du coup je poste toute mes photos sur flickr. Nous partons vers 11h00 en direction des **mines de sel de Menocon**. On fait volontairemnt un détour pour être sur d’être sur une grande voie. Arrivés à Menocon on se gare en ville et je vais à cette mine à pied. La visite guidée prend plus de deux heures. Elle commence par un musée qui retrace l’histoire géologique de la région puis de l’extraction du sel geme. La visite se poursuit directement dans les anciennes galeries de la mine, Même si je n’ai pas tout compris des explications en espagnol, la visite est très bien organisée et très intéressente. On y retrouve même les galeries où ont été tournées les scènes du film « Les 13 » avec Antonio Banderas et qui retrace les deux mois de calvaire des mineurs Chiliens qui se sont retrouvés enfermés dans la mine.
+Comme il est trop tard pour faire route sur Bogota nous nous rendons dans une autre mine, celle là à Zipaquirá, où l’on peut dormir sur leu parking.
 
 
 
