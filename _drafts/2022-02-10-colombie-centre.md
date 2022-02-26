@@ -107,11 +107,15 @@ Le camping se remplit peu à peu et l'on voit arriver deux 4X4 avec tente de toi
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51880162561/in/datetaken-public/" title="Santa Elena - [Colombie]"><img src="https://live.staticflickr.com/65535/51880162561_373ac71b7f_k.jpg" width="2048" height="1152" alt="Santa Elena - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Renault est omniprésent en Colombie, certainement la marque la plus représentée. Ici pas vraiment de Dacia puisque tous les véhicules sont siglés Renault. Cette présence n'est pas nouvelle car nous avàns pu voir de nombreux anciens modèles qui roulent toujours, tant bien que mal, 4l, R12, R16, R9, twingo...
+Renault est omniprésent en Colombie, certainement la marque la plus représentée. Ici pas vraiment de Dacia puisque tous les véhicules sont siglés Renault. Cette présence n'est pas nouvelle car nous avons pu voir de nombreux anciens modèles qui roulent toujours, tant bien que mal, 4l, R12, R16, R9, twingo...
 
 ## 15 janvier
 
-On était très bien dans ce camping mais il faut que nous reprenons la route. Avant notre départ nous remettons au camping au grand drapeau français que nous avions en soute, en effet c’était le seul qui leur manqué à l’accueil du camping. Ils sont super content et savent déjà où ils vont le mettre. Nous faisons route ensuite vers le très beau village colonial de **Guatapé** qui se trouve au bord d'un lac artificiel. Vous devez vous dire encore un village colonial... oui mais ils sont tous différents et celui là ne déroge pas à la règle, très coloré, les sous bassement des maisons présentent des frises en bas relief qui retrace soit la passion soit le travail du propriétaire de la maison. Le temps n'est pas avec nous mais nous faisons une très belle visite. La cathédrale est d’ailleurs superbe aussi bien à l'extérieur qu'à l'intérieur, toute en bois décoré. Comme nous sommes garés à seulement quelques dizaine de mètres de la place centrale, nous refaisons un tour le soir pour contempler son éclairage.
+On était très bien dans ce camping mais il faut que nous reprenons la route. Avant notre départ nous remettons au camping au grand drapeau français que nous avions en soute, en effet c’était le seul qui leur manqué à l’accueil du camping. Ils sont super content et savent déjà où ils vont le mettre.
+
+
+
+Nous faisons route ensuite vers le très beau village colonial de **Guatapé** qui se trouve au bord d'un lac artificiel. Vous devez vous dire encore un village colonial... oui mais ils sont tous différents et celui là ne déroge pas à la règle, très coloré, les sous bassement des maisons présentent des frises en bas relief qui retrace soit la passion soit le travail du propriétaire de la maison. Le temps n'est pas avec nous mais nous faisons une très belle visite. La cathédrale est d’ailleurs superbe aussi bien à l'extérieur qu'à l'intérieur, toute en bois décoré. Comme nous sommes garés à seulement quelques dizaine de mètres de la place centrale, nous refaisons un tour le soir pour contempler son éclairage.
 
 
 ## 16 janvier
@@ -168,7 +172,7 @@ En début d’aprè-midi nous quittons notre route vers Bogota pour faire un pet
 ## 22 janvier
 
 Ce matin, je trouve le gérant de la marina quui me donne la clé du wifi, du coup je poste toute mes photos sur flickr. Nous partons vers 11h00 en direction des **mines de sel de Nemocon**. On fait volontairement un détour pour être sur d’être sur une grande voie. Arrivés à Nemocon on se gare en ville et je vais à cette mine à pied. Il y a deux prix un pour les locaux et un pour les étrangers. C'est le genre de truc qui m'irrite toujours un peu. La visite guidée prend plus de deux heures. Elle commence par un musée qui retrace l’histoire géologique de la région puis de l’extraction du sel gemme. La visite se poursuit directement dans les anciennes galeries de la mine, Même si je n’ai pas tout compris des explications en espagnol, la visite est très bien organisée et très intéressante. On y retrouve même les galeries où ont été tournées les scènes du film « Les 13 » avec Antonio Banderas et qui retrace les deux mois de calvaire des mineurs Chiliens qui se sont retrouvés enfermés dans la mine.
-Comme il est trop tard pour faire route sur Bogota nous nous rendons dans une autre mine, celle là à Zipaquirá, où l’on peut dormir sur leur parking.
+Comme il est trop tard pour faire route sur Bogota nous nous rendons dans une autre mine, celle là à **Zipaquirá**, où l’on peut dormir sur leur parking.
 
 On apprend par le réseau de voyageurs que l'ELN, l'armée de libération nationale, (Ejército de Liberación Nacional) a déclaré trois jours de "El Paro Armado". Journées sous hautes tensions en raison des élections présidentielle dont le premier tour est mi-mars. Il est conseillé de ne pas circuler et de faire très attention. En raison du covid il y a une forte inflation en Colombie et les prix ont explosés. On va donc se poser au moins jusqu'au 26 et laisser passer l'orage...
 
