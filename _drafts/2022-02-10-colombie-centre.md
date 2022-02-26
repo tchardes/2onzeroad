@@ -7,7 +7,7 @@ date: 2022-02-13 13:00:00
 from-date: 2022-02-05 12:00:00
 to-date: 2022-02-3 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-colombie_caraïbe.jpg"
+header-img: "assets/owner/blog/header/post-bg-colombie-centre.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
 tags: [histoire, architecture, culturel]
 pois: [santafede#08-fevrier,]
