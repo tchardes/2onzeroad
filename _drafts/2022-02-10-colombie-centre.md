@@ -155,30 +155,45 @@ Nous avons fait de nombreux dépôts de gaz mais aucun n'a voulu nous le remplir
 
 <img src="{{baseurl}}/assets/owner/photos/colombie34.jpg" style="width:100%" />
 
-Nous voilà sauvé pour un bon mois. Jairo nous présente sa fille Gala, ils travaillent ensemble dans leur entreprise qui, si j'ai bien compris, ont en charge le contrôle de l'intégrité des pipelines. Nous les invitons à boire un coup dans Thor et discutons un long moment. Quant on leur dit que nous allons passé la nuit à Giron, ils nous confirment que la ville de Bucaramanga n'a aucun attrait et se propose de nous rejoindre le soir pour nous faire visite le centre historique.
+Nous voilà sauvé pour un bon mois. Jairo nous présente sa fille Gala, ils travaillent ensemble dans leur entreprise qui, si j'ai bien compris, ont en charge le contrôle de l'intégrité des pipelines. Nous les invitons à boire un coup dans Thor et discutons un long moment. Quant on leur dit que nous allons passé la nuit à Giron, ils nous confirment que la ville de Bucaramanga n'a aucun attrait et se propose de nous rejoindre le soir pour nous faire visite le centre historique. Nous les quittons et trouvons un parking gardé tout près du centre ville de Giron. Nous faisons un petit tour de cette ville coloniale très sympa puis sommes rejoints par Jairo et Gala.
 
-<img src="{{baseurl}}/assets/owner/photos/colombie35.jpg" style="width:100%" />
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51896219557/in/datetaken-public/" title="Giron - [Colombie]"><img src="https://live.staticflickr.com/65535/51896219557_66f2b0cdee_k.jpg" width="2048" height="1152" alt="Giron - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous les quittons et trouvons un parking gardé tout près du centre ville de Giron. Nous faisons un petit tour de cette ville coloniale très sympa puis sommes rejoints par Jairo et Gala.
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897179886/in/datetaken-public/" title="Giron - [Colombie]"><img src="https://live.staticflickr.com/65535/51897179886_d536fb06e8_k.jpg" width="2048" height="1152" alt="Giron - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897269313/in/datetaken-public/" title="Giron - [Colombie]"><img src="https://live.staticflickr.com/65535/51897269313_d4ce77d00d_k.jpg" width="2048" height="1152" alt="Giron - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Ils nous expliquent l'histoire de cette ville puis nous finissons dans une restaurant de la ville où nous dégustons des spécialités locales, en entrée les arepas, sorte de galette épaisse réalisés avec de la farine de maïs que l'on mange avec du guacamole, très bon, puis du ventre de boeuf cuit au BBC avec comme accompagnement du Yuka des arepas et une salade composée. Nous avons passé une très bonne soirée très instructive où nous avons discuter un peu de tout dans une sorte d’espéranto. 
+
+<img src="{{baseurl}}/assets/owner/photos/colombie35.jpg" style="width:100%" />
 
 Au final c'est une super journée car nous apprenons dans la soirée que les frontières terrestres entre l’Equateur et le Pérou réouvrent demain après deux ans de fermeture. Nous allons enfin pouvoir dérouler notre voyage sans soucis.
 
 ## 18 janvier
 
-Ce matin nous reprenons de la hauteur et ré attaquons la montagne. La route est très belle bien que très sinueuse, le décor est grandiose, il parait que c'est la plus belle route de toute la Colombie. Notre premier arrêt se fait au Parc National del Chicamocha, situé au bord d’un canyon. Il s'agit plus d'un parc d'attraction que d'un parc national à proprement parler. L’attraction phare est un téléphérique qui permet de traverser le canyon et monter sur l’autre versant, en plus, pour la petite histoire, il est français. La descente puis la remontée sont assez impressionnante, c’est à faire, avec plus de 2000 mètres de dénivelé. Sur le deux sites de nombreuses boutiques, restaurants et une surprenante sculpture " Monumento a la Santandereanidad" qui est une allégorie à la révolution de la commune de 1781 contre les espagnols.
+Ce matin nous reprenons de la hauteur et ré attaquons la montagne. La route est très belle bien que très sinueuse, le décor est grandiose, il parait que c'est la plus belle route de toute la Colombie. Notre premier arrêt se fait au **Parc National del Chicamocha**, situé au bord d’un canyon. Il s'agit plus d'un parc d'attraction que d'un parc national à proprement parler. L’attraction phare est un téléphérique qui permet de traverser le canyon et monter sur l’autre versant, en plus, pour la petite histoire, il est français. La descente puis la remontée sont assez impressionnante, c’est à faire, avec plus de 2000 mètres de dénivelé. Sur le deux sites de nombreuses boutiques, restaurants et une surprenante sculpture " Monumento a la Santandereanidad" qui est une allégorie à la révolution de la commune de 1781 contre les espagnols.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51896224847/in/datetaken-public/" title="Parque Nacional del Chicamocha- [Colombie]"><img src="https://live.staticflickr.com/65535/51896224847_44ae229dac_k.jpg" width="2048" height="1152" alt="Parque Nacional del Chicamocha- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897838635/in/datetaken-public/" title="Parque Nacional del Chicamocha- [Colombie]"><img src="https://live.staticflickr.com/65535/51897838635_86ce21be1b_k.jpg" width="2048" height="1152" alt="Parque Nacional del Chicamocha- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897840355/in/datetaken-public/" title="Parque Nacional del Chicamocha- [Colombie]"><img src="https://live.staticflickr.com/65535/51897840355_0ea48e7d54_k.jpg" width="2048" height="1152" alt="Parque Nacional del Chicamocha- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51896230882/in/datetaken-public/" title="Parque Nacional del Chicamocha- [Colombie]"><img src="https://live.staticflickr.com/65535/51896230882_9eb7c869d9_k.jpg" width="2048" height="1152" alt="Parque Nacional del Chicamocha- [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous faisons route ensuite vers San Gil, nous nous y arrêtons une petite heure mais le courant ne passe pas, on ne s'y sent pas à l'aise. Nous nous écartons de la ville pour la nuit sur un parking pour poids-lourds.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897190951/in/datetaken-public/" title="San Gil - [Colombie]"><img src="https://live.staticflickr.com/65535/51897190951_032a4adcca_k.jpg" width="2048" height="1152" alt="San Gil - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897843905/in/datetaken-public/" title="San Gil - [Colombie]"><img src="https://live.staticflickr.com/65535/51897843905_1d263922fc_k.jpg" width="2048" height="1152" alt="San Gil - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 19 janvier
 
 Ce matin à moult réflexions nous décidons de laisser Thor ici et de partir à **Barichara** en transport en commun. Nous avons peur une fois sur place de ne pouvoir trouver un stationnement. Du coup taxi et collectivo et après une heures de route nous découvrons ce nouveau village colonial construit lui, sur un flan de colline. Pas aussi beau que Sant Fe De Antioquia, moins vivant d’ailleurs, mais visite fort agréable. La particularité et la couleur très orangée de la roche utilisée pour la construction et ces ruelles pavées en pierres bien plate. Nous y rencontrons une famille avec quatre enfant en "tour du monde". Originaire de Paris mais installés en Bourgogne ils parcourent le monde en sac en dos depuis 7 mois, quel courage !!!! Nous discutons un long moment. C’est toujours passionnant de parler avec d’autres voyageurs car chacun construit son voyage différemment du coup, même si nous avons traversé les même lieux, l’expérience est différente.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897853065/in/datetaken-public/" title="Barichara - [Colombie]"><img src="https://live.staticflickr.com/65535/51897853065_6922bbe299_k.jpg" width="2048" height="1152" alt="Barichara - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897870195/in/datetaken-public/" title="Barichara - [Colombie]"><img src="https://live.staticflickr.com/65535/51897870195_d5e3380e30_k.jpg" width="2048" height="1152" alt="Barichara - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Nous mangeons dans un très bon restaurant qui propose une cuisine locale mais très raffinée, on s’est régalés. Nous avons également gouté la spécialité de la région les « obleas », il s’agit de deux disques en gaufrette très très fin de 20 cm de diamètre prenant en sandwich une garniture sucrée de son choix.
 
