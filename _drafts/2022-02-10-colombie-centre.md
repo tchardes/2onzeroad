@@ -199,16 +199,34 @@ Ce matin à moult réflexions nous décidons de laisser Thor ici et de partir à
 
 Nous mangeons dans un très bon restaurant qui propose une cuisine locale mais très raffinée, on s’est régalés. Nous avons également gouté la spécialité de la région les « obleas », il s’agit de deux disques en gaufrette très très fin de 20 cm de diamètre prenant en sandwich une garniture sucrée de son choix.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897210331/in/datetaken-public/" title="Barichara - [Colombie]"><img src="https://live.staticflickr.com/65535/51897210331_910a8d4c6e_k.jpg" width="2048" height="1152" alt="Barichara - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Après un dernier petit tour de la ville nous rejoignons Thor et prenons la route en direction de Villa de Leyva. sur la carte ce n’est pas très loins mais il y a tellement de camions que nous dépassons difficilement les 40 km/h de moyenne. Du coup à 17 heures on s’arrête dans une station essence pour la nuit. Demain il fera jour…
 
 ## 20 janvier
 
 Ce matin nous poursuivons notre route vers **Villa de Leyva** une très belle ville coloniale. J’ai deux options de route pour y aller et je prends celle dont une partie et à péage donc gage d’un bon revêtement. Effectivement la route jusqu’à Arcabuco, l’embranchement pour notre destination, est potable même s’il y a énormément d’affaissement de la route, mais à partir de la bifurcation nous tombons sur une piste, 15 km de piste… c'est très long...
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51904710110/in/datetaken-public/" title="villa de Leyva - [Colombie]"><img src="https://live.staticflickr.com/65535/51904710110_3972b884e4_k.jpg" width="2048" height="754" alt="villa de Leyva - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Nous arrivons quand même à notre bivouac où se trouve des allemands qui eux sont sur le départ. Nous nous installons puis allons à la découverte de cette ville dont le centre historique est très bien conservé. Sa place principale la "Plaza Mayor" et carrément immense. Si à Barichara les rues étaient pavées de dalles en pierre bien plate, ici ce sont de gros galets pas du tout rond qui font très mal aux articulations.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897902755/in/datetaken-public/" title="Villa de Leyva - [Colombie]"><img src="https://live.staticflickr.com/65535/51897902755_48b1400013_k.jpg" width="2048" height="1152" alt="Villa de Leyva - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
 On est dimanche et les rues sont très animées, nous trouvons une boulangerie pâtisserie française où nous faisons le plein de pain, gâteau et même une quiche lorraine...
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897585389/in/datetaken-public/" title="Villa de Leyva - [Colombie]"><img src="https://live.staticflickr.com/65535/51897585389_f8b18da93f_k.jpg" width="2048" height="1152" alt="Villa de Leyva - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897342943/in/datetaken-public/" title="Villa de Leyva - [Colombie]"><img src="https://live.staticflickr.com/65535/51897342943_d5828e3371_k.jpg" width="2048" height="1152" alt="Villa de Leyva - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Après avoir arpenté toutes les rues du centre nous sortons de la ville pour visiter une curiosité, la Casa Terracotta, une maison construite par un architecte entièrement en terre cuite. Il parait qu’il a du quitter sa maison tant il était harcelé par les gens qui souhaitaient la visiter et c’est vrai que c’est à voir.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897336958/in/datetaken-public/" title="Villa de Leyva - [Colombie]"><img src="https://live.staticflickr.com/65535/51897336958_b863c47d1c_k.jpg" width="2048" height="1152" alt="Villa de Leyva - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897892595/in/datetaken-public/" title="Villa de Leyva - [Colombie]"><img src="https://live.staticflickr.com/65535/51897892595_ea5d2ba750_k.jpg" width="2048" height="1152" alt="Villa de Leyva - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897576524/in/datetaken-public/" title="Villa de Leyva - [Colombie]"><img src="https://live.staticflickr.com/65535/51897576524_ba54e0eec6_k.jpg" width="2048" height="1152" alt="Villa de Leyva - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 21 janvier
 
@@ -216,18 +234,51 @@ On quitte Villa de Leyva pour **Tunja**, nous voulions visiter une maison ancien
 
 Nous nous arrêtons dans un premier temps sur un lieu historique pour les colombiens **El Puente de Boyaca** où c’est déroulé une grande bataille le 7 août 1819 qui a vu la victoire des troupes républicaines menées par Simon Bolivar contre les troupes fidèles à l'Espagne.. Cette victoire à permis au troupes de marcher sur Bogota et elle consacrera l'indépendance de la grande Colombie.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51896276477/in/datetaken-public/" title="Puente de Boyaca - [Colombie]"><img src="https://live.staticflickr.com/65535/51896276477_29ca425fce_k.jpg" width="2048" height="1152" alt="Puente de Boyaca - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897888625/in/datetaken-public/" title="Puente de Boyaca - [Colombie]"><img src="https://live.staticflickr.com/65535/51897888625_76489b4c2e_k.jpg" width="2048" height="1152" alt="Puente de Boyaca - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 En début d’aprè-midi nous quittons notre route vers Bogota pour faire un petit détour par le lac **Embalse de Tomine** il est encore tôt du coup mais nous décidons de nous poser dans une marina et bien nous à pris car à peine une heure après nous être posé nous avons essuyé un très gros orage.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51904388949/in/datetaken-public/" title="Guatavita - [Colombie]"><img src="https://live.staticflickr.com/65535/51904388949_7c1425bec6_k.jpg" width="2048" height="1152" alt="Guatavita - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897885280/in/datetaken-public/" title="Guatavita - [Colombie]"><img src="https://live.staticflickr.com/65535/51897885280_9a2cfdc9eb_k.jpg" width="2048" height="1152" alt="Guatavita - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 22 janvier
 
-Ce matin, je trouve le gérant de la marina quui me donne la clé du wifi, du coup je poste toute mes photos sur flickr. Nous partons vers 11h00 en direction des **mines de sel de Nemocon**. On fait volontairement un détour pour être sur d’être sur une grande voie. Arrivés à Nemocon on se gare en ville et je vais à cette mine à pied. Il y a deux prix un pour les locaux et un pour les étrangers. C'est le genre de truc qui m'irrite toujours un peu. La visite guidée prend plus de deux heures. Elle commence par un musée qui retrace l’histoire géologique de la région puis de l’extraction du sel gemme. La visite se poursuit directement dans les anciennes galeries de la mine, Même si je n’ai pas tout compris des explications en espagnol, la visite est très bien organisée et très intéressante. On y retrouve même les galeries où ont été tournées les scènes du film « Les 13 » avec Antonio Banderas et qui retrace les deux mois de calvaire des mineurs Chiliens qui se sont retrouvés enfermés dans la mine.
+Ce matin, je trouve le gérant de la marina quui me donne la clé du wifi, du coup je poste toute mes photos sur flickr. Nous partons vers 11h00 en direction des **mines de sel de Nemocon**. On fait volontairement un détour pour être sur d’être sur une grande voie. Arrivés à Nemocon on se gare en ville et je vais à cette mine à pied. Il y a deux prix un pour les locaux et un pour les étrangers. C'est le genre de truc qui m'irrite toujours un peu.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51904300849/in/datetaken-public/" title="Nemocon - [Colombie]"><img src="https://live.staticflickr.com/65535/51904300849_a94be55f07_k.jpg" width="2048" height="1152" alt="Nemocon - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51903972441/in/datetaken-public/" title="Nemocon - [Colombie]"><img src="https://live.staticflickr.com/65535/51903972441_6057b7e6f3_k.jpg" width="2048" height="1152" alt="Nemocon - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+La visite guidée prend plus de deux heures. Elle commence par un musée qui retrace l’histoire géologique de la région puis de l’extraction du sel gemme. La visite se poursuit directement dans les anciennes galeries de la mine, Même si je n’ai pas tout compris des explications en espagnol, la visite est très bien organisée et très intéressante. On y retrouve même les galeries où ont été tournées les scènes du film « Les 13 » avec Antonio Banderas et qui retrace les deux mois de calvaire des mineurs Chiliens qui se sont retrouvés enfermés dans la mine.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51903009992/in/datetaken-public/" title="Nemocon - [Colombie]"><img src="https://live.staticflickr.com/65535/51903009992_04e0036850_k.jpg" width="2048" height="1152" alt="Nemocon - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51903979531/in/datetaken-public/" title="Nemocon - [Colombie]"><img src="https://live.staticflickr.com/65535/51903979531_497e989263_k.jpg" width="2048" height="1152" alt="Nemocon - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Comme il est trop tard pour faire route sur Bogota nous nous rendons dans une autre mine, celle là à **Zipaquirá**, où l’on peut dormir sur leur parking.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51903987431/in/datetaken-public/" title="Zipaquirá - [Colombie]"><img src="https://live.staticflickr.com/65535/51903987431_9da62e3f50_k.jpg" width="2048" height="1152" alt="Zipaquirá - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On apprend par le réseau de voyageurs que l'ELN, l'armée de libération nationale, (Ejército de Liberación Nacional) a déclaré trois jours de "El Paro Armado". Journées sous hautes tensions en raison des élections présidentielle dont le premier tour est mi-mars. Il est conseillé de ne pas circuler et de faire très attention. En raison du covid il y a une forte inflation en Colombie et les prix ont explosés. On va donc se poser au moins jusqu'au 26 et laisser passer l'orage...
 
 ## 23 au 26 janvier 
 
-Ce matin, comme nous sommes sur place, je décide de visiter cette fameuse **Cathédrale de sel**, Corinne ne se sent pas de venir. Le site est beaucoup plus grand et plus organisé que celui de Nemocon. Le prix de l'entrée est également beaucoup plus élevé. Il s’agit là aussi d’un tour guidé, l’infrastructure fait bien plus parc d’attraction, c’est d’ailleurs le premier site touristique de Colombie. En fait je croyais qu'une cathédrale avait été construite dans la mine mais c'est en fait toute la mine qui a été transformée en "cathédrale". Nous visitons la dernière partie d'exploitation de la mine qui date des années 2000 et qui était organisée en grandes galeries parallèles. Depuis le couloir central les entrées des anciennes galeries ont été transformée en postes du chemin de croix avec au niveau le plus bas une grande galerie avec une immense croix taillée dans la roche. Autour d'autres chapelles, magasins de souvenirs, une salle de cinéma... bref on peut y passer un long moment d'autant plus qu'à la fin de la visite le guide vous laisse à ce niveau et on peut y rester le temps que l'on souhaite. très belle visite.
+Ce matin, comme nous sommes sur place, je décide de visiter cette fameuse **Cathédrale de sel**, Corinne ne se sent pas de venir. Le site est beaucoup plus grand et plus organisé que celui de Nemocon. Le prix de l'entrée est également beaucoup plus élevé. Il s’agit là aussi d’un tour guidé, l’infrastructure fait bien plus parc d’attraction, c’est d’ailleurs le premier site touristique de Colombie.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51903995631/in/datetaken-public/" title="Zipaquirá - [Colombie]"><img src="https://live.staticflickr.com/65535/51903995631_00d1bc06dc_k.jpg" width="2048" height="1152" alt="Zipaquirá - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+En fait je croyais qu'une cathédrale avait été construite dans la mine mais c'est en fait toute la mine qui a été transformée en "cathédrale". Nous visitons la dernière partie d'exploitation de la mine qui date des années 2000 et qui était organisée en grandes galeries parallèles. Depuis le couloir central les entrées des anciennes galeries ont été transformée en postes du chemin de croix avec au niveau le plus bas une grande galerie avec une immense croix taillée dans la roche. Autour d'autres chapelles, magasins de souvenirs, une salle de cinéma... bref on peut y passer un long moment d'autant plus qu'à la fin de la visite le guide vous laisse à ce niveau et on peut y rester le temps que l'on souhaite. très belle visite.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51903021192/in/datetaken-public/" title="Zipaquirá - [Colombie]"><img src="https://live.staticflickr.com/65535/51903021192_89d7268412_k.jpg" width="2048" height="1152" alt="Zipaquirá - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51904709185/in/datetaken-public/" title="Zipaquirá - [Colombie]"><img src="https://live.staticflickr.com/65535/51904709185_388768ffc9_k.jpg" width="2048" height="1152" alt="Zipaquirá - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+
 
 A l'issue, nous faisons route vers **Bogota**, nous avons trouvé un parking en plein centre dans le quartier de la Macarena qui est réputé comme sûr et tranquille. La traversée se fait bien et nous arrivons assez facilement à l'adresse mais devons attendre 17h00 car le parking est plein. Nous nous garons dans la rue et en profitons pour visiter le musée national qui est tout proche et y passons un bon moment. A 18h00 nous arrivons a rentrée dans le parking et à nous poser.
 
