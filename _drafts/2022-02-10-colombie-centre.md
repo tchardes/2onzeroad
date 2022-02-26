@@ -113,14 +113,35 @@ Renault est omniprésent en Colombie, certainement la marque la plus représent�
 
 On était très bien dans ce camping mais il faut que nous reprenons la route. Avant notre départ nous remettons au camping au grand drapeau français que nous avions en soute, en effet c’était le seul qui leur manqué à l’accueil du camping. Ils sont super content et savent déjà où ils vont le mettre.
 
+<img src="{{baseurl}}/assets/owner/photos/colombie33.jpg" style="width:100%" />
 
+Nous faisons route ensuite vers le très beau village colonial de **Guatapé** qui se trouve au bord d'un lac artificiel. Vous devez vous dire encore un village colonial... oui mais ils sont tous différents et celui là ne déroge pas à la règle, très coloré, les sous bassement des maisons présentent des frises en bas relief qui retrace soit la passion soit le travail du propriétaire de la maison. 
 
-Nous faisons route ensuite vers le très beau village colonial de **Guatapé** qui se trouve au bord d'un lac artificiel. Vous devez vous dire encore un village colonial... oui mais ils sont tous différents et celui là ne déroge pas à la règle, très coloré, les sous bassement des maisons présentent des frises en bas relief qui retrace soit la passion soit le travail du propriétaire de la maison. Le temps n'est pas avec nous mais nous faisons une très belle visite. La cathédrale est d’ailleurs superbe aussi bien à l'extérieur qu'à l'intérieur, toute en bois décoré. Comme nous sommes garés à seulement quelques dizaine de mètres de la place centrale, nous refaisons un tour le soir pour contempler son éclairage.
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897141906/in/datetaken-public/" title="Guatape - [Colombie]"><img src="https://live.staticflickr.com/65535/51897141906_49f9186f4a_k.jpg" width="2048" height="1152" alt="Guatape - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897806150/in/datetaken-public/" title="Guatape - [Colombie]"><img src="https://live.staticflickr.com/65535/51897806150_9913c1ec9f_k.jpg" width="2048" height="1152" alt="Guatape - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897242703/in/datetaken-public/" title="Guatape - [Colombie]"><img src="https://live.staticflickr.com/65535/51897242703_292a1ea650_k.jpg" width="2048" height="1152" alt="Guatape - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Le temps n'est pas avec nous mais nous faisons une très belle visite. La cathédrale est d’ailleurs superbe aussi bien à l'extérieur qu'à l'intérieur, toute en bois décoré.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51896201317/in/datetaken-public/" title="Guatape - [Colombie]"><img src="https://live.staticflickr.com/65535/51896201317_696658a41c_k.jpg" width="2048" height="1152" alt="Guatape - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51897811710/in/datetaken-public/" title="Guatape - [Colombie]"><img src="https://live.staticflickr.com/65535/51897811710_f5dd809f3f_k.jpg" width="2048" height="1152" alt="Guatape - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Comme nous sommes garés à seulement quelques dizaine de mètres de la place centrale, nous refaisons un tour le soir pour contempler son éclairage.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51904390019/in/datetaken-public/" title="Guatape - [Colombie]"><img src="https://live.staticflickr.com/65535/51904390019_3ed34047a4_k.jpg" width="2048" height="1536" alt="Guatape - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## 16 janvier
 
 Ce matin nous quittons Guatapé après une très bonne nuit. Nous nous arrêtons une dizaine de kilomètres plus loin pour voir La **Piedra El Peñon**. Il s'agit d'une immense monolithe de 220 mètres de haut où l'on a construit un escalier dans une faille pour accéder à son sommet. Un genre de pain de sucre colombien. C'est très impressionnant. Je décide de ne pas monté au sommet (649 marches) car le but final est de bénéficier d'une super vue à 360° de la région mais le temps n'est pas terrible et la visibilité très réduites. Mes mollets m'ont remerciés...
+
+
+
+
+
+
 
 Nous reprenons la route en direction de **Bucaramanga**. Si au dépars nous roulons sur une route à péages, donc pas trop mal, elle se transforme vite sur une route nationale avec de très nombreux travaux et arrêts. Le trafic est dense avec de nombreux camions, nous avons assisté à un accident entre un camion et un bus, ce qui n'est pas trop étonnant vu la vitesse où ils roulent et comment ils doublent, en général. Lors d’un arrêt nous discutons un moment avec une mère et son fils qui circulent en moto, on se suit un très long moment, à un arrêt le petit vient visiter Thor et on lui donne quelques bombons. Arrivés à Puerto Berrio, elle vient à mon niveau et nous propose de venir dormir chez elle, on décline mais c’est vraiment trop gentil. Il est vrai avec tous ces travaux on a pris du retard sur notre horaire et du coup il fait nuit quand nous décidons de nous arrêter dans une station essence qui dispose d'un grand espace. Nous sommes redescendus à une altitude de 123 mètres et il fait hyper chaud… la nuit va être difficile…
 
