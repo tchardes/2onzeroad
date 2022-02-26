@@ -8,7 +8,7 @@ from-date: 2022-02-05 12:00:00
 to-date: 2022-02-3 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie-centre.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-rt33.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-colombie-centre.jpg
 tags: [histoire, architecture, culturel]
 pois: [santafede#08-fevrier,]
 country: Colombie
