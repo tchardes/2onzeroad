@@ -544,7 +544,7 @@
   { "name": "santaelena", "displayName": "Santa Elena", "type": "ville", "country": "Colombie" },
   { "name": "guatape", "displayName": "Guatape", "type": "ville", "country": "Colombie" },
   { "name": "penol", "displayName": "Piedra El Peñol", "type": "nature", "country": "Colombie" },
-  { "name": "bucaramanga", "displayName": "Bucaramanga", "type": "", "country": "Colombie" },
+  { "name": "bucaramanga", "displayName": "Bucaramanga", "type": "ville", "country": "Colombie" },
   { "name": "giron", "displayName": "Girón", "type": "ville", "country": "Colombie" },
   { "name": "chicamocha", "displayName": "Parque Nacional del Chicamocha", "type": "nature", "country": "Colombie" },
   { "name": "gil", "displayName": "San Gil", "type": "ville", "country": "Colombie" },
