@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie-centre.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-colombie-centre.jpg
 tags: [histoire, architecture, culturel]
-pois: [santafede#08-fevrier, medellin#09-au-14-fevrier, santaelena#09-au-14-fevrier, guatape#15-fevrier, penol#16-fevrier, bucaramanga#17-fevrier, giron#17-fevrier, chicamocha#18-fevrier, gil#18-fevrier, barichara#19-fevrier, leyva#20-fevrier, tunja#21-fevrier, boyaca#21-fevrier, tomine#21-fevrier, nemocon#22-fevrier, zipaquira#23-au-26-fevrier, bogota#23-au-26-fevrier]
+pois: [santafede#08-février, medellin#09-au-14-février, santaelena#09-au-14-février, guatape#15-février, penol#16-février, bucaramanga#17-février, giron#17-février, chicamocha#18-février, gil#18-février, barichara#19-février, leyva#20-février, tunja#21-février, boyaca#21-février, tomine#21-février, nemocon#22-février, zipaquira#23-au-26-février, bogota#23-au-26-février]
 country: Colombie
 states: ["Antioquia","Santander", "Boyacá"]
 category: "roadmap"
