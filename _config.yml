@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "5.060146777566292, -75.50166826878218"
-  name: "Manizales - Colombie"
-  date: "27 au 28 février 2022"
+  coordinates: "4.6391995930692955, -75.56995241964626"
+  name: "Salento - Colombie"
+  date: "29 février 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
