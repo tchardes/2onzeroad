@@ -263,7 +263,7 @@ Comme il est trop tard pour faire route sur Bogota nous nous rendons dans une au
 
 On apprend par le réseau de voyageurs que l'ELN, l'armée de libération nationale, (Ejército de Liberación Nacional) a déclaré trois jours de "El Paro Armado". Journées sous hautes tensions en raison des élections présidentielle dont le premier tour est mi-mars. Il est conseillé de ne pas circuler et de faire très attention. En raison du covid il y a une forte inflation en Colombie et les prix ont explosés. On va donc se poser au moins jusqu'au 26 et laisser passer l'orage...
 
-## 23 au 26 février 
+## 23 au 26 février
 
 Ce matin, comme nous sommes sur place, je décide de visiter cette fameuse **Cathédrale de sel**, Corinne ne se sent pas de venir. Le site est beaucoup plus grand et plus organisé que celui de Nemocon. Le prix de l'entrée est également beaucoup plus élevé. Il s’agit là aussi d’un tour guidé, l’infrastructure fait bien plus parc d’attraction, c’est d’ailleurs le premier site touristique de Colombie.
 
