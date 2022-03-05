@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Colombie - Centre"
-preview: "Cet article couvre la période du 10 janvier au 05 février 2022, au cours de laquelle nous sommes revenus en Colombie après cette période folle de Covid, avons remis..."
+title: "Colombie 2"
+preview: "Cet article couvre la période du 05 au février AU 06 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie jusqu'à..."
 parent-id:
 date: 2022-03-04 13:00:00
 from-date: 2022-02-05 12:00:00
@@ -12,15 +12,15 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-colombie-centre.jpg
 tags: [histoire, architecture, culturel]
 pois: [santafede#08-février, medellin#09-au-14-février, santaelena#09-au-14-février, guatape#15-février, penol#16-février, bucaramanga#17-février, giron#17-février, chicamocha#18-février, gil#18-février, barichara#19-février, leyva#20-février, tunja#21-février, boyaca#21-février, tomine#21-février, nemocon#22-février, zipaquira#23-au-26-février, bogota#23-au-26-février, filandia#28-février-au-02-mars, solento#28-février-au-02-mars, cocora#28-février-au-02-mars, silvia#04-au-06-mars]
 country: Colombie
-states: ["Antioquia","Santander", "Boyacá"]
+states: ["Antioquia","Santander", "Boyacá", "Cundinamarca", "Caldas", "Tolima", "Quindio", "Cauca", "Nariño"]
 category: "roadmap"
 flickr-text: ""
 location: "6.497986370251644, -74.50492493126464"
-itinary: "2022/colombie_centre.json"
+itinary: "2022/colombie.json"
 mapZoom: 5
 ---
 
-Cet article couvre la période du 05 au février AU 06 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie.
+Cet article couvre la période du 05 au février AU 06 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie jusqu'à la frontière avec l'Equateur.
 
 ## 06 février
 
