@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Colombie 2"
-preview: "Cet article couvre la période du 05 au février AU 06 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie jusqu'à..."
+preview: "Cet article couvre la période du 05 au février au 06 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie jusqu'à..."
 parent-id:
 date: 2022-03-04 13:00:00
 from-date: 2022-02-05 12:00:00
@@ -20,7 +20,7 @@ itinary: "2022/colombie.json"
 mapZoom: 5
 ---
 
-Cet article couvre la période du 05 au février AU 06 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie jusqu'à la frontière avec l'Equateur.
+Cet article couvre la période du 05 au février au 06 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie jusqu'à la frontière avec l'Equateur.
 
 ## 06 février
 
@@ -384,17 +384,21 @@ En début d'après midi nous rentrons au camping, juste avant l'orage du jour. L
 Nous avons vraiment adoré :
 
 La gentillesse des colombiens ;
+Les centaines de pouce levés, de coup de klaxon, de bienvenidos
 La ville de Cartagena de Indias ;
 La région du café ;
-Les alentours de Gauatapé ;
+Les alentours de Guatapé ;
 Le prix de l'essence ;
-Les routes à péages ;
+L'ata des routes... à péages ;
 
 Nous avons moins aimé :
 
-Le prix au total des routes à péages
-La partie Nord de la côte Caraïbe
-Les miliers de poid-lourds
+Le prix au total des routes à péages ;
+La partie Nord de la côte Caraïbe ;
+Les miliers de poid-lourds ;
+L'impossibilité de trouver des bivouacs sauvages ;
+L'impossibilité de s'arrêter au bord des routes pour admirer les paysages.
+
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
