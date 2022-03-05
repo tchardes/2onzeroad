@@ -319,7 +319,7 @@ Nous avons essuyé un super orage avec beaucoup de pluie toute la nuit. Ce matin
 
 Nous montons jusqu’à 3700 mètres. Des dizaines d’équipes de la "DDE" locale sont à pied d’oeuvre car il y a eu énormément d’éboulements sur la route dans la nuit en raison des fortes pluies. La circulation est vraiment laborieuse surtout avec les poids lourds qu’il est très difficile de doubler. Nous arrivons finalement à Manizales, cette ville de 90000 hbts est coincée dans plusieurs vallée, on a beau tourner, impossible de trouver à nous garer, du coup nous filons sur Pereira. Les flans de colline sont couverts de caféiers avec également d’immenses bambouseraies, le contraste du vert foncé des caféiers et des bosquets blonds des bambous est vraiment très beau. A Pereira nous trouvons enfin une grande surface avec un parking (ce qui est rare ici) qui peut nous accueillir. On fait le plein car il y avait urgence… on trouve même quelques produits français comme le fromage. Nous filons ensuite et poursuivons en direction de Arménia et trouvons un lieu pratique pour na nuit.
 
-Ce matin nous prenons un colectivo pour nous rendre à la petite ville coloniale de Filandia, nous sommes sous la pluie ce qui gâche un peu cette petite localité, toutefois elle a son charme. Nous restons le reste de la journée dans Thor sous une pluie battante heureusement nous avons l’internet de l’aire de repos…
+Ce matin nous prenons un colectivo pour nous rendre à la petite ville coloniale de **Filandia**, nous sommes sous la pluie ce qui gâche un peu cette petite localité, toutefois elle a son charme. Nous restons le reste de la journée dans Thor sous une pluie battante heureusement nous avons l’internet de l’aire de repos…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51914803638/in/datetaken-public/" title="Filandia - [Colombie]"><img src="https://live.staticflickr.com/65535/51914803638_49ef2e44ac_k.jpg" width="2048" height="1152" alt="Filandia - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -327,7 +327,7 @@ Ce matin nous prenons un colectivo pour nous rendre à la petite ville coloniale
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51915025764/in/datetaken-public/" title="Filandia - [Colombie]"><img src="https://live.staticflickr.com/65535/51915025764_1fc35fef2d_k.jpg" width="2048" height="1152" alt="Filandia - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le lendemain nous décidons de laisser Thor ici, il est sous bonne garde, il y a un agent de sécurité H24, et quelques mètres plus loin un check point de la police et de l’armée. Je discute d’ailleurs un long moment avec un militaire, j’en profite pour lui offrir un écusson France. Il me parle beaucoup de la situation en Ukraine. Nous prenons deux colectivos est arrivons à la petite bourgade de Salento.
+Le lendemain nous décidons de laisser Thor ici, il est sous bonne garde, il y a un agent de sécurité H24, et quelques mètres plus loin un check point de la police et de l’armée. Je discute d’ailleurs un long moment avec un militaire, j’en profite pour lui offrir un écusson France. Il me parle beaucoup de la situation en Ukraine. Nous prenons deux colectivos est arrivons à la petite bourgade de **Salento**.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51915314210/in/datetaken-public/" title="Salento - [Colombie]"><img src="https://live.staticflickr.com/65535/51915314210_e8b51aecce_k.jpg" width="2048" height="1152" alt="Salento - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -335,7 +335,7 @@ Le lendemain nous décidons de laisser Thor ici, il est sous bonne garde, il y a
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51914788278/in/datetaken-public/" title="Salento - [Colombie]"><img src="https://live.staticflickr.com/65535/51914788278_2110492536_k.jpg" width="2048" height="1152" alt="Salento - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-De là nous reprenons un colectivo en jeep willys qui nous conduit à la vallée de la Cocoa où l’on peut admirer les fameux palmier cire. C’est l’emblème du pays, certain peuvent atteindre plus de 60 mètres de haut. C’est dommage que le temps ne soit pas de la partie car il y a de belles randonnées à faire ici. On se contente entre les goute de marcher un peu dans la vallée.
+De là nous reprenons un colectivo en jeep willys qui nous conduit à la **vallée de la Cocoa** où l’on peut admirer les fameux palmier cire. C’est l’emblème du pays, certain peuvent atteindre plus de 60 mètres de haut. C’est dommage que le temps ne soit pas de la partie car il y a de belles randonnées à faire ici. On se contente entre les goute de marcher un peu dans la vallée.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51915303040/in/datetaken-public/" title="Salento - [Colombie]"><img src="https://live.staticflickr.com/65535/51915303040_b0f87e4beb_k.jpg" width="2048" height="1152" alt="Salento - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -359,7 +359,7 @@ Comme la météo est mauvaise toute la semaine, ce n’est pas la peine que nous
 
 ## 04 mars
 
-Ce matin nous nous réveillons sous un beau soleil, nous prenons un colectivo pour aller visiter Silvia, petit village indigène où de nombreuses femmes et quelques hommes portent encore l'habit traditionnel des indiens Missak, très coloré.
+Ce matin nous nous réveillons sous un beau soleil, nous prenons un colectivo pour aller visiter **Silvia**, petit village indigène où de nombreuses femmes et quelques hommes portent encore l'habit traditionnel des indiens Missak, très coloré.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51918565399/in/datetaken-public/" title="Silvia - [Colombie]"><img src="https://live.staticflickr.com/65535/51918565399_2eb659a29d_k.jpg" width="2048" height="1152" alt="Silvia - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
