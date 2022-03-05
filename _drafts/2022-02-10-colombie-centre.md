@@ -12,7 +12,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-colombie-centre.jpg
 tags: [histoire, architecture, culturel]
 pois: [santafede#08-février, medellin#09-au-14-février, santaelena#09-au-14-février, guatape#15-février, penol#16-février, bucaramanga#17-février, giron#17-février, chicamocha#18-février, gil#18-février, barichara#19-février, leyva#20-février, tunja#21-février, boyaca#21-février, tomine#21-février, nemocon#22-février, zipaquira#23-au-26-février, bogota#23-au-26-février, filandia#28-février-au-02-mars, solento#28-février-au-02-mars, cocora#28-février-au-02-mars, silvia#04-au-06-mars]
 country: Colombie
-states: ["Antioquia","Santander", "Boyacá", "Cundinamarca", "Caldas", "Tolima", "Quindio", "Cauca", "Nariño"]
+states: ["Antioquia","Santander", "Boyacá", "Cundinamarca", "Caldas", "Risaralda", "Tolima", "Quindio", "Cauca", "Nariño"]
 category: "roadmap"
 flickr-text: ""
 location: "6.497986370251644, -74.50492493126464"
@@ -381,6 +381,20 @@ En début d'après midi nous rentrons au camping, juste avant l'orage du jour. L
 
 
 
+Nous avons vraiment adoré :
+
+La gentillesse des colombiens ;
+La ville de Cartagena de Indias ;
+La région du café ;
+Les alentours de Gauatapé ;
+Le prix de l'essence ;
+Les routes à péages ;
+
+Nous avons moins aimé :
+
+Le prix au total des routes à péages
+La partie Nord de la côte Caraïbe
+Les miliers de poid-lourds
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
