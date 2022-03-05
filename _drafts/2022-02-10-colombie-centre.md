@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie-centre.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-colombie-centre.jpg
 tags: [histoire, architecture, culturel]
-pois: [santafede#08-février, medellin#09-au-14-février, santaelena#09-au-14-février, guatape#15-février, penol#16-février, bucaramanga#17-février, giron#17-février, chicamocha#18-février, gil#18-février, barichara#19-février, leyva#20-février, tunja#21-février, boyaca#21-février, tomine#21-février, nemocon#22-février, zipaquira#23-au-26-février, bogota#23-au-26-février, filandia#28-février-au-02-mars, solento#28-février-au-02-mars, filandia#28-février-au-02-mars,]
+pois: [santafede#08-février, medellin#09-au-14-février, santaelena#09-au-14-février, guatape#15-février, penol#16-février, bucaramanga#17-février, giron#17-février, chicamocha#18-février, gil#18-février, barichara#19-février, leyva#20-février, tunja#21-février, boyaca#21-février, tomine#21-février, nemocon#22-février, zipaquira#23-au-26-février, bogota#23-au-26-février, filandia#28-février-au-02-mars, solento#28-février-au-02-mars, cocora#28-février-au-02-mars, silvia#04-au-06-mars]
 country: Colombie
 states: ["Antioquia","Santander", "Boyacá"]
 category: "roadmap"
@@ -20,7 +20,7 @@ itinary: "2022/colombie_centre.json"
 mapZoom: 5
 ---
 
-Cet article couvre la période du 05 au février 2022, au cours de laquelle nous avons sillonné le centre de la Colombie.
+Cet article couvre la période du 05 au février AU 06 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie.
 
 ## 06 février
 
@@ -357,7 +357,7 @@ De retour à Salento, toujours en Willys nous mangeons dans un très bon restaur
 
 Comme la météo est mauvaise toute la semaine, ce n’est pas la peine que nous restions ici. C’est sous la pluie que nous quittons la région du café. Si la route est belle, nous allons essayé de rouler jusqu’à Silvia, en pleine région indienne. Après la région du café, nous arrivons dans la région de la canne à sucre, des champs à perte de vue et des « Tren de cañero » des tracteurs poid-lourds avec 4, 5, 6 remorques accrochées, pleines de cannes. Autant dire qu’ils ne sont pas faciles à doubler. La végétation nous rappelle les Antilles avec d'immenses flamboyants et arbres à pain. La route est à péage, le plus souvent une 2X2 voies, très belle, droite. On en profite pour décalaminer le moteur de Thor, cela fait longtemps que l’on n’avait par roulé à cette vitesse. Finalement le temps est agréable à part la dernière heure de route où nous arrivons à parcourir le 330 kms qui nous séparent du camping « La Bonanza » tenu par Kika, Anouar et leur fille Maya, juste avant d’arriver à Silvia. Nous sommes reçus avec un thé et du pain et confitures qu’ils fabriquent eux même, un régal. Leur Finca est très belle est c'est une référence ici en Colombie.
 
-## 04 mars
+## 04 au 06 mars
 
 Ce matin nous nous réveillons sous un beau soleil, nous prenons un colectivo pour aller visiter **Silvia**, petit village indigène où de nombreuses femmes et quelques hommes portent encore l'habit traditionnel des indiens Missak, très coloré.
 
