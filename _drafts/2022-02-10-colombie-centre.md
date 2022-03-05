@@ -17,7 +17,7 @@ category: "roadmap"
 flickr-text: ""
 location: "6.497986370251644, -74.50492493126464"
 itinary: "2022/colombie_centre.json"
-mapZoom: 6
+mapZoom: 5
 ---
 
 Cet article couvre la période du 05 au février 2022, au cours de laquelle nous avons sillonné le centre de la Colombie.
