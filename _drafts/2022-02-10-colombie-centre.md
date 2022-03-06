@@ -390,21 +390,21 @@ Samedi le temps n'est pas terrible avec beaucuop de pluie. Notre rayon de soleil
 
 Nous avons vraiment adoré :
 
-La gentillesse des colombiens ;
-Les centaines de pouce levés, de coup de klaxon, de bienvenidos
-La ville de Cartagena de Indias ;
-La région du café ;
-Les alentours de Guatapé ;
-Le prix de l'essence ;
-L'ata des routes... à péages ;
+- La gentillesse des colombiens ;
+- Les centaines de pouce levés, de coup de klaxon, de bienvenidos
+- La ville de Cartagena de Indias ;
+- La région du café ;
+- Les alentours de Guatapé ;
+- Le prix de l'essence ;
+- L'état des routes... à péages ;
 
 Nous avons moins aimé :
 
-Le prix au total des routes à péages ;
-La partie Nord de la côte Caraïbe ;
-Les miliers de poid-lourds ;
-L'impossibilité de trouver des bivouacs sauvages ;
-L'impossibilité de s'arrêter au bord des routes pour admirer les paysages.
+- Le prix au total des routes à péages ;
+- La partie Nord de la côte Caraïbe ;
+- Les miliers de poid-lourds ;
+- L'impossibilité de trouver des bivouacs sauvages ;
+- L'impossibilité de s'arrêter au bord des routes pour admirer les paysages.
 
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
