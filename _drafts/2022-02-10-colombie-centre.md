@@ -385,7 +385,7 @@ Samedi le temps n'est pas terrible avec beaucuop de pluie. Notre rayon de soleil
 
 <img src="{{baseurl}}/assets/owner/photos/colombie37.jpg" style="width:100%" />
 
-
+<img src="{{baseurl}}/assets/owner/photos/colombie38.jpg" style="width:100%" />
 
 
 Nous avons vraiment adoré :
