@@ -379,6 +379,13 @@ L'église Nuestra Señora del Perpetuo Socorro est vraiment originale car la nef
 
 En début d'après midi nous rentrons au camping, juste avant l'orage du jour. Le soir nous passons la soirée avec Kika, Anouar et un voyageur "Rémy" qui arrive de l'équateur où son CC était entreposé depuis 2 ans. Il fait route jusqu'à Carthagène pour le mettre sur un bateau.
 
+Samedi le temps n'est pas terrible avec beaucuop de pluie. Notre rayon de soleil nous l'avons à midi, kika nous invité à partager un couscous marocain préparé par Anouar, il est tout simplement délicieux, cela fait plaisir de manger un plat cuisiné. Rémy nous quitte juste après, il a encore beaucoup de route pour rejoindre Cartagena où Ana l'attend pour mettre son CC sur le bateau.
+
+<img src="{{baseurl}}/assets/owner/photos/colombie36.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/colombie37.jpg" style="width:100%" />
+
+
 
 
 Nous avons vraiment adoré :
