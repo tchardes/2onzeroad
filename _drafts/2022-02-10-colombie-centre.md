@@ -359,7 +359,7 @@ Comme la météo est mauvaise toute la semaine, ce n’est pas la peine que nous
 
 ## 04 au 06 mars
 
-Ce matin nous nous réveillons sous un beau soleil, nous prenons un colectivo pour aller visiter **Silvia**, petit village indigène où de nombreuses femmes et quelques hommes portent encore l'habit traditionnel des indiens Missak, très coloré.
+Ce matin nous nous réveillons sous un beau soleil, nous prenons un colectivo pour aller visiter **Silvia**, la Suisse colombienne, petit village indigène où de nombreuses femmes et quelques hommes portent encore l'habit traditionnel des indiens Missak, très coloré.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51918565399/in/datetaken-public/" title="Silvia - [Colombie]"><img src="https://live.staticflickr.com/65535/51918565399_2eb659a29d_k.jpg" width="2048" height="1152" alt="Silvia - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -387,8 +387,7 @@ Samedi le temps n'est pas terrible avec beaucuop de pluie. Notre rayon de soleil
 
 <img src="{{baseurl}}/assets/owner/photos/colombie38.jpg" style="width:100%" />
 
-
-Nous avons vraiment adoré :
+**Nous avons vraiment adoré :**
 
 - La gentillesse des colombiens ;
 - Les centaines de pouce levés, de coup de klaxon, de bienvenidos !!! ;
@@ -398,17 +397,17 @@ Nous avons vraiment adoré :
 - Le prix de l'essence ;
 - L'état des routes... à péages ;
 
-Nous avons moins aimé :
+**Nous avons moins aimé :**
 
 - Le prix au total des routes à péages ;
 - La partie Nord de la côte Caraïbe ;
 - Les miliers de poid-lourds ;
 - L'impossibilité de trouver des bivouacs sauvages ;
 - L'impossibilité de s'arrêter au bord des routes pour admirer les paysages.
+- Les vendeurs de tout et n'importe quoi qui se tiennent au milieu des routes pour vendre leur camelotes aux conducteurs. Ils prennent beaucoups de risques pour gangner quelques pièces. J'ai toujours eu peur d'en blesser un ou une avec un de nos rétroviseurs.
 
+Nous avons passé au total 115 jours en Colombie, 58 jours en 2020 et 57 jours en 2022 et avons parcouru près de 3600 Km.
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DDJ-R1USlIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
