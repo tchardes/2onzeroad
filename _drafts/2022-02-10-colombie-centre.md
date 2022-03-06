@@ -335,7 +335,7 @@ Le lendemain nous décidons de laisser Thor ici, il est sous bonne garde, il y a
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51914788278/in/datetaken-public/" title="Salento - [Colombie]"><img src="https://live.staticflickr.com/65535/51914788278_2110492536_k.jpg" width="2048" height="1152" alt="Salento - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-De là, nous reprenons un colectivo en jeep willys qui nous conduit à la **vallée de la Cocora** où l’on peut admirer les fameux palmiers cire. C’est l’emblème du pays, certains peuvent atteindre plus de 60 mètres de haut. C’est dommage que le temps ne soit pas de la partie car il y a de belles randonnées à faire ici. On se contente, entre les gouttes, de marcher un peu dans la vallée.
+De là, nous reprenons un colectivo en Jeep Willys qui nous conduit à la **vallée de la Cocora** où l’on peut admirer les fameux palmiers cire. C’est l’emblème du pays, certains peuvent atteindre plus de 60 mètres de haut. C’est dommage que le temps ne soit pas de la partie car il y a de belles randonnées à faire ici. On se contente, entre les gouttes, de marcher un peu dans la vallée.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51915303040/in/datetaken-public/" title="Salento - [Colombie]"><img src="https://live.staticflickr.com/65535/51915303040_b0f87e4beb_k.jpg" width="2048" height="1152" alt="Salento - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -345,7 +345,7 @@ De là, nous reprenons un colectivo en jeep willys qui nous conduit à la **vall
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51914995644/in/datetaken-public/" title="Salento - [Colombie]"><img src="https://live.staticflickr.com/65535/51914995644_9cf5301795_k.jpg" width="2048" height="1152" alt="Salento - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-De retour à Salento, toujours en Willys nous mangeons dans un très bon restaurant où je déguste la spécialité locale à savoir la truite saumonée, un régal… Ici les jeep Willys datant de la dernière guerre mondiale sont reines. Les premiers montent à l'arrière sur des banquettes et les derniers finissent dehors à l'extérieur, accrochés sur le pare choc. Nous faisons ensuite quelques achats de souvenirs avant de retourner vers Thor. Super journée.
+De retour à Salento, toujours en Willys nous mangeons dans un très bon restaurant où je déguste la spécialité locale à savoir la truite saumonée, un régal… Nous faisons ensuite quelques achats de souvenirs avant de retourner vers Thor, en Jeep Willys. Super journée. Ici les "Willys" dont certaines datent de la dernière guerre mondiale sont reines. Les premiers montent à l'arrière sur des banquettes et les derniers finissent dehors à l'extérieur, accrochés sur le pare choc. Ils embarquent jusqu'à 16 personnes !!! Super journée.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51915275615/in/datetaken-public/" title="Salento - [Colombie]"><img src="https://live.staticflickr.com/65535/51915275615_1dcc2fc20e_k.jpg" width="2048" height="1152" alt="Salento - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
