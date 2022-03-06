@@ -391,7 +391,7 @@ Samedi le temps n'est pas terrible avec beaucuop de pluie. Notre rayon de soleil
 Nous avons vraiment adoré :
 
 - La gentillesse des colombiens ;
-- Les centaines de pouce levés, de coup de klaxon, de bienvenidos
+- Les centaines de pouce levés, de coup de klaxon, de bienvenidos !!! ;
 - La ville de Cartagena de Indias ;
 - La région du café ;
 - Les alentours de Guatapé ;
