@@ -387,6 +387,9 @@ Samedi le temps n'est pas terrible avec beaucuop de pluie. Notre rayon de soleil
 
 <img src="{{baseurl}}/assets/owner/photos/colombie38.jpg" style="width:100%" />
 
+Dimanche nous décidons de descendre sur Popayan qui est à une heure de route, le temps est maussade, il a plu toute la nuit. Anouar nous dit que cette pluie nocturne est inhabituelle et qu'e, généralement, en cette période, il ne pleu l'après-midi. Il me semble que cette année nous sommes sous l'influence du phénomène "El Niño". Nous prenons un taxi qui nous conduit jusqu'au village de Piendamo en route des équipes de la DDE dégage la route de nombreux éboullement et glissement de terrain, effectivement il a plu fort cette nuit. De là nous prenons un colectivo qui nous conduit au centre ville de popayan. A peine arrivées au centre historique la pluie se remet à tomber et ne s'arrêtera plus de la journée. Nous faisons quand même un petit tour de la ville blanche qui n'a rien d'exceptionel. A midi on s'offre un super repas dans un restaurant indiqué par Kika, un parilla avec pleins de viandes différentes et sauces différente le tout accompagné d'un très bon vin chilien, ca rechauffe. Après de trois courses nousreprenon un colectivo direct pour Silvia. En fin d'après-midi nous passons un très bon moment avec Kika, Anouar et deux jeunes français, anciens voyageurs, qui se sont également installé à Silvia. Les histoires et anecdoctes de voyages fusent, on rigole bien.
+
+
 **Nous avons vraiment adoré :**
 
 - La gentillesse des colombiens ;
