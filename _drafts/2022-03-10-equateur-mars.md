@@ -84,7 +84,8 @@ Nous profitons de cette journée pour nous occuper de la logisitique, site, phot
 
 Nous avons passé au total 116 jours en Colombie, 58 jours en 2020 et 58 jours en 2022 (nous n’avons pas fait exprès) et avons parcouru près de 3790 Km. Dans son ensemble la Colombie n'est pas exceptionnelle mais il y a des zones vraiment très belles et surtout il y a les colombiens. Malgré la dureté de leur vie, l'explosion de l'inflation et l'augmentation des prix en raison de la pandémie, ils sont toujours souriants, toujours prêt à rendre service et surtout très heureux que l'on vienne visiter leur grand pays. Nous y avons fait également des rencontres attachantes. Aucun ressentie d'insécurité, la police et les militaires nous ont toujours regardé passé avec un pouce levé. En fin de séjour la météo a un peu contrariée nos plans mais dans l'ensemble nous avons pu voir tout ce que nous avions programmés.
 
-
 Un résumé de cette dernière partie de notre voyage en vidéos :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DDJ-R1USlIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ch-tDW5rqWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
