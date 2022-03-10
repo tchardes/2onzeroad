@@ -439,3 +439,5 @@ Nous avons passé au total 116 jours en Colombie, 58 jours en 2020 et 58 jours e
 Un résumé de cette dernière partie de notre voyage en vidéos :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DDJ-R1USlIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ch-tDW5rqWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
