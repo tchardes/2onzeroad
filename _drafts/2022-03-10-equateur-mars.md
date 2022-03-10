@@ -58,7 +58,7 @@ Nous faisons connaissance d'un couple américain, des "full timer" qui ont tout 
 
 ## 10 mars
 
-Nous profitons de cette journée pour nous occuper de la logisitique, site, photos, vidéos, lessives .... A midi nous prenons notre repas chez Hans ou nous dégustons de s plats allemands à base de Knacks énormes accompagnée d'une bonne pilsen. C'est l'occasion de discuter un bon moment avec Snow et Kirt
+Nous profitons de cette journée pour nous occuper de la logisitique, site, photos, vidéos, lessives .... A midi nous prenons notre repas chez Hans ou nous dégustons des plats allemands à base d'énormes saucisses allemandes accompagnée d'une bonne pilsen. C'est l'occasion de discuter un bon moment avec Snow et Kirt et
 
 
 
