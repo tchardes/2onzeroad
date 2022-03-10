@@ -20,7 +20,7 @@ itinary: "2022/colombie.json"
 mapZoom: 5
 ---
 
-Cet article couvre la période du 05 au février au 08 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie jusqu'à la frontière avec l'Equateur, en fin un petit bilan sur notre ressenti de la découverte de ce grand pays.
+Deuxième article qui traite de la Colombie  **(voir le premier article <a href="{{site.baseurl}}{% post_url 2022/2022-03-09-equateur-nord %}">ici</a>)**Cet article relate notre voyage de la période du 05 février au 08 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie jusqu'à la frontière avec l'Equateur, en fin un petit bilan sur notre ressenti de la découverte de ce grand pays.
 
 ## 06 février
 
