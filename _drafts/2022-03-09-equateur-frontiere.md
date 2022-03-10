@@ -55,7 +55,7 @@ Reprendre le véhicule et traverser le pont en direction de l'Equateur.
 
 <img src="{{baseurl}}/assets/owner/photos/equateur3.jpg" style="width:100%" />
 
-- **Stationnement** - **_Repère 4_** : On passe un premier contrôle au milieu du pont où un agent donne la direction à suivre, se garer devant les locaux de la douane.
+- **Stationnement** - **_Repère 4_** : Passage à un premier contrôle au milieu du pont où un agent donne la direction à suivre, se garer devant les locaux des douanes.
 
 <img src="{{baseurl}}/assets/owner/photos/equateur12.jpg" style="width:100%" />
 
