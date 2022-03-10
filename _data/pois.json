@@ -563,7 +563,7 @@
   { "name": "pasto", "displayName": "San Juan de Pasto", "type": "ville", "country": "Colombie" },
   { "name": "ipiales", "displayName": "Ipiales", "type": "ville", "country": "Colombie" },
   { "name": "laslajas", "displayName": "Santuario de Las Lajas", "type": "autre", "country": "Colombie" },
-  { "name": "passagectoequa", "displayName": "Passage de frontière Colombie - Equateur", "type": "information", "country": "Colombie" },
+  { "name": "passagectoequa", "displayName": "Passage de frontière Colombie - Equateur", "type": "information", "country": "Equateur" },
 
   { "name": "", "displayName": "", "type": "", "country": "Equateur" },
   { "name": "", "displayName": "", "type": "", "country": "Equateur" },
