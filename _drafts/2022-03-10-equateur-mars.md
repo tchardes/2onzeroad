@@ -17,7 +17,7 @@ category: "roadmap"
 flickr-text: ""
 location: "-1.4591434289623488, -77.264823782651"
 itinary: "2022/equateur.json"
-mapZoom: 5
+mapZoom: 4
 ---
 
 Cet article couvre la période du 09 mars au , au cours de laquelle nous avons traversé l'Equateur jusqu'à la frontière avec le Pérou, en fin un petit bilan sur notre ressenti de la découverte de ce petit pays.
