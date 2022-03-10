@@ -397,6 +397,12 @@ Ce matin nous quittons la Finca Bonanza, Kika et Anouar nous offre un dernier ca
 
 Nous rentrons dans San Juan de Pasto qui est une grande ville et trouvons un endroit pour nous garer juste devant une grande surface, ce qui est exceptionnel ici. Nous faisons de grosses courses car les produits essentiels sont beaucoup moins chers ici qu'en Equateur. A notre sortie il y a foule devant Thor, on fait visiter l'intérieur à tout ce beau monde, les gens sont super contents et nous discutons pendant que Corinne range les courses. Kika nous a dit qu'il y avait un groupe FB ou les colombiens postaient les véhicules un peu inhabituels ici est elle se souviens avoir déjà vu Thor en photo, posté par des colombiens qui appellent ça "Les licornes" car pour eux se sont des engins inabordable malheureusement. Nous arrivons enfin à repartir en direction d'**Ipiales**, la ville frontière avec l'Equateur. En route nous sommes deviés de la route principales en raisons de travaux et passons par ce qui devait être l'ancienne Panaméricaine. Du coup nous passons dans de très belles vallées qui offrent des dizaines de cascades sur ces flancs. Arrivé à Ipales nous poussons jusqu'à **Las Lajas**. Nous nous garons au niveau d'un téléphérique qui permet d'accéder à l'attraction du coin sans devoir traverser le village, ce qui nous arrange. 10 minutes dans une petite cabine et nous arrivons au **Santuario de Las Lajas** une église absolument magnifique construite dans un canyon, c'est incroyable.
 
+
+
+L'église néogothique1 est construite à cheval sur des gorges4,5, à l'endroit même où une petite fille muette aurait retrouvé par miracle la parole1. Construite entre janvier 1916 et août 1949, elle a remplacé une église qui datait du xixe siècle et devient basilique en 1954. Le chemin qui accède à cet endroit est couvert de milliers d'ex-voto pour motifs divers6.
+
+
+
 **Nous avons vraiment adoré :**
 
 - La gentillesse des colombiens ;
