@@ -6,7 +6,7 @@ parent-id: 2022-03-09-colombie-centre
 
 date: 2022-03-09 15:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-nica-costarica.jpg"
+header-img: "assets/owner/blog/header/post-bg-col-equa.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-col-equa.jpg
 tags: []
 pois: [passagectoequa]
@@ -24,15 +24,14 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 Le poste frontière du Nicaragua est tout neuf et les satellites de google n'ont apparemment pas survolé la zone récemment.
 
-- **Repère 1** - Poste frontière Colombien, parking ;
-- **Repère 2** - Poste frontière Colombien, fin immigration,
-- **Repère 3** - Poste frontière Colombien, DIAN, fin importation temporaire du véhicule ;
+- **Repère 1** - Poste frontière colombien, parking ;
+- **Repère 2** - Poste frontière colombien, fin immigration,
+- **Repère 3** - Poste frontière colombien, DIAN, fin importation temporaire du véhicule ;
 - **Repère 4** - Poste frontière équatorien, parking ;
 - **Repère 5** - Poste frontière équatorien, contrôle sanitaire (Pass sanitaire);
 - **Repère 6** - Poste frontière équatorien, immigration;
-- **Repère 7** - Poste frontière équatorien, importation temporaire du véhicule - Photocopie
+- **Repère 7** - Poste frontière équatorien, importation temporaire du véhicule
 - **Repère 8** - Poste frontière équatorien, dernier contrôle documents.
-
 
 ### Sortie Colombie
 
