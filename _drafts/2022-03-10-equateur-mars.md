@@ -38,10 +38,11 @@ Nous faisons ensuite un petit tour en centre ville autour de la place Ayora où 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51929026753/in/datetaken-public/" title="Tulcan - [Equateur]"><img src="https://live.staticflickr.com/65535/51929026753_b0e833ccbb_k.jpg" width="2048" height="1152" alt="Tulcan - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51928937926/in/datetaken-public/" title="Tulcan - [Equateur]"><img src="https://live.staticflickr.com/65535/51928937926_3454971e45_k.jpg" width="2048" height="1152" alt="Tulcan - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <img src="{{baseurl}}/assets/owner/photos/equateur16.jpg" style="width:100%" />
 
 Nous repartons ensuite pour notre bivouac des prochains jours à **Ibarra**, chez Hans, un colosse allemand qui tient un super camping, "La Finca Sommerwind" au bord d'une immense lac "Laguna de Yahuarcocha". La route pour y accéder est vraiment très belle, le plus qouvent 2X2 voies avec un revétement impécable, on y ajoute un super soleil et de très beaux paysages avec des parcelles agricoles qui grimpes sur les flancs des montagnes, parfaitement dessiné par des haies d'arbres, c'est très beau, le voyage est très agréable.
-
 
 A notre arrivée Hans nous attendait car il avait été prévenu de notre arrivée par Kika. L'acceuil est chaleureux et nous trouvons un super emplacement ombragé. Toutes les commodités sont présentes et Hans propose dans son restaurant, plats, bierres et patisserie allemandes. Dès l'installation terminée nous nous détendons autour d'une bonne bière et d'une part de gâteau.
 
@@ -49,15 +50,15 @@ A notre arrivée Hans nous attendait car il avait été prévenu de notre arriv�
 
 <img src="{{baseurl}}/assets/owner/photos/equateur18.jpg" style="width:100%" />
 
-
-Nous faisons connaissance d'un couple américain, des full timer qui ont tout vendu pour s'acheter un RV et parcouri le monde. Juste au Méxique au denut de la pandémie, ils y sont restés un an avant de pouvoir continuer leur voyage. En milieu d'après-midi c'est un irlandais... à vélo qui arrive au camping. Hans nous explique que ces deux années ont été terrible et qu'il est enfin heureux de voir arriver à nouveau des voyageurs. Son camping l'atteste, il y a de nombreux véhicules en tout genres, qui attendent depuis deux ans leur propriétaire, certains sont collector....
-
+Nous faisons connaissance d'un couple américain, des "full timer" qui ont tout vendu pour s'acheter un RV et parcourir le monde. Juste au Mexique au début de la pandémie, ils y sont restés un an avant de pouvoir continuer leur voyage. En milieu d'après-midi c'est un irlandais... à vélo qui arrive au camping. Hans nous explique que ces deux années ont été terribles et qu'il est enfin heureux de voir arriver à nouveau des voyageurs. Son camping l'atteste, il y a de nombreux véhicules en tous genres, qui attendent depuis deux ans leur propriétaire, certains sont collector....
 
 <img src="{{baseurl}}/assets/owner/photos/equateur19.jpg" style="width:100%" />
 
 <img src="{{baseurl}}/assets/owner/photos/equateur20.jpg" style="width:100%" />
 
+## 10 mars
 
+Nous profitons de cette journée pour nous occuper de la logisitique, site, photos, vidéos, lessives .... A midi nous prenons notre repas chez Hans ou nous dégustons de s plats allemands à base de Knacks énormes accompagnée d'une bonne pilsen. C'est l'occasion de discuter un bon moment avec Snow et Kirt
 
 
 
