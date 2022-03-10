@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie-centre.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-colombie-centre.jpg
 tags: [histoire, architecture, culturel]
-pois: [santafede#08-février, medellin#09-au-14-février, santaelena#09-au-14-février, guatape#15-février, penol#16-février, bucaramanga#17-février, giron#17-février, chicamocha#18-février, gil#18-février, barichara#19-février, leyva#20-février, tunja#21-février, boyaca#21-février, tomine#21-février, nemocon#22-février, zipaquira#23-au-26-février, bogota#23-au-26-février, filandia#28-février-au-02-mars, solento#28-février-au-02-mars, cocora#28-février-au-02-mars, silvia#04-au-06-mars]
+pois: [santafede#08-février, medellin#09-au-14-février, santaelena#09-au-14-février, guatape#15-février, penol#16-février, bucaramanga#17-février, giron#17-février, chicamocha#18-février, gil#18-février, barichara#19-février, leyva#20-février, tunja#21-février, boyaca#21-février, tomine#21-février, nemocon#22-février, zipaquira#23-au-26-février, bogota#23-au-26-février, filandia#28-février-au-02-mars, solento#28-février-au-02-mars, cocora#28-février-au-02-mars, silvia#04-au-06-mars, pasto#7-mars, ipiales#!-mars, laslajas#8-mars]
 country: Colombie
 states: ["Antioquia","Santander", "Boyacá", "Cundinamarca", "Caldas", "Risaralda", "Tolima", "Quindio", "Cauca", "Nariño"]
 category: "roadmap"
@@ -413,12 +413,7 @@ Nous rentrons dans San Juan de Pasto qui est une grande ville et trouvons un end
 
 ## 09 mars
 
-Après une nuit sur le parking du téléphérique, nous nous dirigeons vers la frontière et quittons définitivement la Colombie, c'est la première fois que les démarches se passent aussi vite. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2020/2020-01-24-costa-rica-frontiere %}">ici</a>)**
-
-
-
-
-
+Après une nuit sur le parking du téléphérique, nous nous dirigeons vers la frontière et quittons définitivement la Colombie, c'est la première fois que les démarches se passent aussi vite. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-09-equateur-frontiere %}">ici</a>)**
 
 **Nous avons vraiment adoré :**
 
