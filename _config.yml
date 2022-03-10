@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "1.2116371212855699, -77.27790928992654"
-  name: "San Juan de Pasto - Colombie"
-  date: "07 mars 2022"
+  coordinates: "0.38041913136395533, -78.08966691007413"
+  name: "Ibarra - Equateur"
+  date: "09 et 10 mars 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
