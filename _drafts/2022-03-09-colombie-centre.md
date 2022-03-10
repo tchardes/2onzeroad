@@ -3,9 +3,9 @@ layout: blog
 title: "Colombie 2"
 preview: "Cet article couvre la période du 05 au février au 08 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie jusqu'à..."
 parent-id:
-date: 2022-03-04 13:00:00
+date: 2022-03-09 13:00:00
 from-date: 2022-02-05 12:00:00
-to-date: 2022-03-04 13:00:00
+to-date: 2022-03-09 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie-centre.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-colombie-centre.jpg
