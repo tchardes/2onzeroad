@@ -7,7 +7,7 @@ parent-id: 2022-03-09-colombie-centre
 date: 2022-03-09 15:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-nica-costarica.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-nica-costa.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-col-equa.jpg
 tags: []
 pois: [passagectoequa]
 flickr-text: ""
