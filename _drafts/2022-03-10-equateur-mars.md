@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Equateur"
-preview: "Cet article couvre la période du 09 mars au 2022, au cours de laquelle nous avons traversé le Pérou jusqu'à..."
+preview: "Cet article couvre la période du 09 mars au 2022, au cours de laquelle nous avons traversé l'Equateur jusqu'à..."
 parent-id:
 date: 2022-03-10 13:00:00
 from-date: 2022-03-09 12:00:00
@@ -10,12 +10,12 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie-centre.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-colombie-centre.jpg
 tags: [histoire, architecture, culturel]
-pois: [santafede#08-février]
+pois: [tulcan#09-mars, ibarra#09-mars]
 country: Equateur
 states: []
 category: "roadmap"
 flickr-text: ""
-location: "6.497986370251644, -74.50492493126464"
+location: "-1.4591434289623488, -77.264823782651"
 itinary: "2022/equateur.json"
 mapZoom: 5
 ---
@@ -24,8 +24,38 @@ Cet article couvre la période du 09 mars au , au cours de laquelle nous avons t
 
 ## 09 mars février
 
+Le passage à la frontière est hyper simple et rapide, en moins d'une heures toutes les formalités colombiennes et équatoriennes sont finalisées, un records. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-09-equateur-frontiere %}">ici</a>)**
 
-Après une nuit sur le parking du téléphérique, nous nous dirigeons vers la frontière et quittons définitivement la Colombie, c'est la première fois que les démarches se passent aussi vite. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-09-equateur-frontiere %}">ici</a>)**
+Nous faisons route ensuite vers **Tulcan**, capitale équatorienne du cyclisme... Première ville frontalère, cette ville est connue pour son cimetière est ses œuvres d'art topiaire, figures emblématiques sculptées dans les cyprès, animaux, hommes, personnages imaginaires. Toute la faune et les traditions locales y sont représentées ! Commencée il y a plus de 60 ans par José María Franco Guerrero, cet étonnant jardin se perpétue grâce à son fils qui entretient les 80 sculptures vertes avec une équipe de cinq personnes.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51929028723/in/datetaken-public/" title="Tulcan - [Equateur]"><img src="https://live.staticflickr.com/65535/51929028723_cf573a5653_z.jpg" width="640" height="360" alt="Tulcan - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51929561520/in/datetaken-public/" title="Tulcan - [Equateur]"><img src="https://live.staticflickr.com/65535/51929561520_b8c03eba5c_z.jpg" width="640" height="360" alt="Tulcan - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51929275219/in/datetaken-public/" title="Tulcan - [Equateur]"><img src="https://live.staticflickr.com/65535/51929275219_4cee5952bc_z.jpg" width="640" height="360" alt="Tulcan - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Nous faisons ensuite un petit tour en centre ville autour de la place Ayora où je change ma carte SIM pour un opérateur Equatorien. C'est ici un peu plus cher qu'en Colombie en raison du fait que l'Equateur a abandonné sa momnaie nationale pour le Dollar US, du coup tous les prix on fortement augmenté. Nous mangeons dans un restaurant qui ne fait que du poulet, genre KFC mais équatorien, on nous sert une assiette composée de deux gros morceaux de poulet frie avec des frites et juste une fourchette. On regarde un peu autour de nous et on voit que tout le monde mange le poulet avec les doigts, on s'immerge rapidement dans les partiques locales et mangeons notre poulet à pleine dents... Nous nous étions garés non loin d'un commissariat et à notre retour un policier nous attend, il contrôle nos passeports, puis nous fait plein de recommandation et nous souhaite la bienvenue en Equateur. Comme toujours, cela fini par une visite de Thor et un photo devant sa grosse calandre.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51929026753/in/datetaken-public/" title="Tulcan - [Equateur]"><img src="https://live.staticflickr.com/65535/51929026753_a9e453fc02_z.jpg" width="640" height="360" alt="Tulcan - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51929026753/in/datetaken-public/" title="Tulcan - [Equateur]"><img src="https://live.staticflickr.com/65535/51929026753_b0e833ccbb_k.jpg" width="2048" height="1152" alt="Tulcan - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+Nous repartons ensuite pour notre bivouac des prochains jours à **Ibarra**, chez Hans, un colosse allemand qui tient un super camping, "La Finca Sommerwind" au bord d'une immense lac "Laguna de Yahuarcocha". La route pour y accéder est vraiment très belle, le plus qouvent 2X2 voies avec un revétement impécable, on y ajoute un super soleil et de très beaux paysages avec des parcelles agricoles qui grimpes sur les flancs des montagnes, parfaitement dessiné par des haie d'arbre, c'est très beau, le voyage est très agréable.
+
+
+A notre arrivée Hans nous attendait car il avait été prévenu de notre arrivée par Kika. L'acceuil est chaleureux et nous trouvons un super emplacement ombragé. Toutes les commodités sont présentes et Hans propose dans son restaurant, plats, bierres et patisserie allemandes. Dès l'installation terminée nous nous détendons autour d'une bonne bière et d'une part de gâteau.
+
+
+Nous faisons connaissance d'un couple américain, des full timer qui ont tout vendu pour s'acheter un RV et parcouri le monde. Juste au Méxique au denut de la pandémie, ils y sont restés un an avant de pouvoir continuer leur voyage. En milieu d'après-midi c'est un irlandais... à vélo qui arrive au camping. Hans nous explique que ces deux années ont été terrible et qu'il est enfin heureux de voir arriver à nouveau des voyageurs. Son camping l'atteste, il y a de nombreux véhicules en tout genres, qui attendent depuis deux ans leur propriétaire, certains sont collector....
+
+
+
+
+
+
+
+
 
 **Nous avons vraiment adoré :**
 
