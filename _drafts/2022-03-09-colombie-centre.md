@@ -20,7 +20,7 @@ itinary: "2022/colombie.json"
 mapZoom: 5
 ---
 
-Deuxième article qui traite de la Colombie **(voir le premier article <a href="{{site.baseurl}}{% post_url 2022/2022-02-05-colombie-nord %}">ici</a>)**Cet article relate notre voyage de la période du 05 février au 08 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie jusqu'à la frontière avec l'Equateur, en fin un petit bilan sur notre ressenti de la découverte de ce grand pays.
+Deuxième article qui traite de la Colombie **(voir le premier article <a href="{{site.baseurl}}{% post_url 2022/2022-02-05-colombie-nord %}">ici</a>)**. Cet article relate notre voyage pour la période du 05 février au 08 mars 2022, au cours de laquelle nous avons sillonné le centre et le sud de la Colombie jusqu'à la frontière avec l'Equateur, en fin un petit bilan sur notre ressenti de la découverte de ce grand pays.
 
 ## 06 février
 
@@ -43,7 +43,7 @@ On fait une vingtaine de kilomètres et nous nous arrêtons prendre de l’essen
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51873550298/in/datetaken-public/" title="Santa Rosa de Osos - [Colombie]"><img src="https://live.staticflickr.com/65535/51873550298_50c4bacc1a_k.jpg" width="2048" height="1536" alt="Santa Rosa de Osos - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Je m’arrête ensuite à la première llanteria que nous trouvons sur la route, verdict, une grosse vis plantée dans le pneu, démontage à nouveau puis rustine… Depuis que nous voyageons, nous n’avons crevé qu’une seule fois, là 2 fois de suite je trouve cela un peu bizarre mais bon!!! Nous poursuivons notre descente sur Medellin sous un crachin. La route est très belle mais il y a énormément de camions, ici tout le fret passe par la route.
+Je m’arrête ensuite à la première llanteria que nous trouvons sur la route, verdict, une grosse vis plantée dans le pneu, démontage à nouveau puis rustine… Depuis que nous voyageons, nous n’avons crevé qu’une seule fois, là 2 fois de suite je trouve cela un peu bizarre mais bon!!! Nous poursuivons notre descente sur Medellin sous un crachin. La route est très belle mais il y a énormément de camions, ici tout le fret passe par la panaméricaine.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51879526163/in/datetaken-public/" title="Santa Rosa De Osos - [Colombie]"><img src="https://live.staticflickr.com/65535/51879526163_8b1c18d5f6_k.jpg" width="2048" height="1152" alt="Santa Rosa De Osos - [Colombie]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
