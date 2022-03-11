@@ -58,8 +58,15 @@ Nous faisons connaissance d'un couple américain, des "full timer" qui ont tout 
 
 ## 10 mars
 
-Nous profitons de cette journée pour nous occuper de la logisitique, site, photos, vidéos, lessives .... A midi nous prenons notre repas chez Hans ou nous dégustons des plats allemands à base d'énormes saucisses allemandes accompagnée d'une bonne pilsen. C'est l'occasion de discuter un bon moment avec Snow et Kirt et
+Nous profitons de cette journée pour nous occuper de la logisitique, site, photos, vidéos, lessives .... A midi nous prenons notre repas chez Hans ou nous dégustons des plats allemands à base d'énormes saucisses allemandes accompagnée d'une bonne pilsen. C'est l'occasion de discuter un bon moment avec Snow, Kirt et Franck.
 
+## 11 mars
+
+Nous faisons les pleins et les vides et nous quittons Hans et sa Finca. Dans Ibarra nous faisons le plein, c'est un peu plus cher qu'en Colombie puisque le Gallon est à 2,55$ soit environ 0,60€, c'est toujours mieux qu'en France si on en croit les infos. Notre première halte est à **Otovalo**, célèbre pour ces marchers. Nous trouvons une place de parking juste à coté du marché municipal qui est très grand, il est découpé en secteur, vêtements, fruits et légumes, viandes, restauration, épicerie... Les étals sont bien garnis c'est une explosion de couleur, d'odeurs... Les vêtements sont principalement les tenues portées par les équatoriennes d'ici, chemisier blanc brodé, robe noire, des genres d'espadrilles et pour la tête un morceau de tissu plié, très difficile de les prendre en photo, j'essuie un refus systématique.
+
+Nous marchons ensuite jusqu'au marché artisanal qui est au centre de la vieille ville, on y trouve tous les bibelots touristiques habituels mais aussi beaucoup de vêtements et accéssoires en alpaga, Corinne s'achète une écharppe et la vendeuse m'autorise à la prendre en photo.
+
+On déjeune sur place dans un très bon restaurant avant de reprendre la route pour la **Laguna Cuicocha**. Le Cuicocha est une caldeira qui s'est formée il y a 3100 ans environ. Il s'agit maintenant d'un grand lac d'où émergent deux gros îlots, nommés Yerovi et Teodoro Wolf, formés par les sommets de quatre dômes dont l'accès est interdit. On arrive sur place sous la pluie, l'entrée est gratuite mais on ne peut pas y dormir. On profite de quelques alcamie pour faire quelques photos mais il n'est pas possible de faire trail qui fait le tour du lac, la moitiée est dans les nuages et ilfaut compter 5 heures pour en faire le tour. Comme la méteo demain s'annonce très pluvieuse nous décidons de quitter les lieux en direction de la capitale Quito. A mi-chemin nous nous arrpêtons pour la nuit dans la ville de Cayambe. 
 
 
 
