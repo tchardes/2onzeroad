@@ -68,7 +68,7 @@ Nous marchons ensuite jusqu'au marché artisanal qui est au centre de la vieille
 
 On déjeune sur place dans un très bon restaurant avant de reprendre la route pour la **Laguna Cuicocha**. Le Cuicocha est une caldeira qui s'est formée il y a 3100 ans environ. Il s'agit maintenant d'un grand lac d'où émergent deux gros îlots, nommés Yerovi et Teodoro Wolf, formés par les sommets de quatre dômes dont l'accès est interdit. On arrive sur place sous la pluie, l'entrée est gratuite mais on ne peut pas y dormir. On profite de quelques alcamie pour faire quelques photos mais il n'est pas possible de faire trail qui fait le tour du lac, la moitiée est dans les nuages et ilfaut compter 5 heures pour en faire le tour. Comme la méteo demain s'annonce très pluvieuse nous décidons de quitter les lieux en direction de la capitale Quito. A mi-chemin nous nous arrpêtons pour la nuit dans la ville de Cayambe. 
 
-
+## 12 au  mars
 
 **Nous avons vraiment adoré :**
 
