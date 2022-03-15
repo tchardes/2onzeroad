@@ -85,8 +85,7 @@ Aujourd'hui nous avions prévu de partir vers le Sud et nous poser à Baños. En
 
 Le temps est un peu plus dégagé et si nous ne voyons toujours pas les volcans nous apercevons les sommets inférieurs entièrement eneigés. Nous sortons rapidement de la ville et attaquons la montagne sans préavis... La route est longue mais très belle, le plus souvent 2x2 voies, si l'on oculte les éboulements ou carrément les glissements de terrain où parfois les deux voies de circulation ont disparus. Petit a petit on se met en tenue légère et arrivons au bord du Pacifique sous une grosse chaleur. Nous sommes arrivés à parcourir les 450 km dans la journée et nous posons dans un camping tenu par un suisse allemand où nous recevons un superbe acceuil.
 
-
-
+## 15 mars
 
 
 **Nous avons vraiment adoré :**
