@@ -288,6 +288,8 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 - Rodriguo, Manu, Nina et Maria - Nossacasamundo - (Instagram : Nossacasamundo) - Une famille brésilienne rencontrée au Mexique à Teotihuacan le 31 mars 2019 ;
 - [Claude et Bernadette - moramora-vagabondage](https://moramora-vagabondage.webnode.fr/) - Rencontrés au Mexique à Playa Del Carmen - péninsule du Yucatan le 08 novembre 2019.
 - [Seba, Alby, Angela & Anna - Happy Family BIOcycling](https://www.facebook.com/695823407212571/photos/2158767137584850/) - Famille italienne depuis 4 ans sur le route... en vélo. Rencontrés au Nicaragua à Granada le 20 janvier 2020.
+- Manon et Nicolas : rencontrès le 14 février 2022 en Colombie à Santa Elena au camping "Al Bosque".
+- Snow et Kurt : Un couple d'américains rencontrés le 10 mars 2022 en Equateur, Ibarra chez Hans au camping "Finca Summerwind".
 
 ## Divers
 
