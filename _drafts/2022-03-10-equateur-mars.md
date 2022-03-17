@@ -87,6 +87,12 @@ Le temps est un peu plus dégagé et si nous ne voyons toujours pas les volcans 
 
 ## 15 mars
 
+Nous passons une journée de plus chez Samuel, le matin est occupé à la logistique et l'après-midi nous allons gouter la chaleur du pacifique, les vagues et les courants sont forts, c'est toutefois très agréable. le soir nous partageons avec notre hôte qui a eu une vie bien remplie, ancien marin il a parcouru le monde et n'est pas avare d'anecdotes, on passe un bon moment.
+
+## 16 et 17 mars
+
+Nous quittons le camping en milieu de matinée pour réaliser un saut de puce vers Manichala où j'ai repére un camping, sur place nous sommes super bien reçus par la patronne mais malheureusement l'endroit est un peu étriqué pour Thor, nous ne pouvons pas nous y installer. Nous continuons donc jusqu'à Puerto Lopez, petite ville de pêcheurs. Nous commençons par faire le plein des courses et nous ne posons au bord de la plage, nous sommes seuls au monde. Rémi que nous avons rencontrès chez Kika y a passé deux mois durant le confinement, on espère quand nous n'y passer que deux jours. L'après-midi nous nous installons au bord de l'aeu, ici l'océan est bien plus calme.
+
 
 **Nous avons vraiment adoré :**
 
