@@ -87,7 +87,7 @@ Le temps est un peu plus dégagé et si nous ne voyons toujours pas les volcans 
 
 ## 15 mars
 
-Nous passons une journée de plus chez Samuel, le matin est occupé à la logistique et l'après-midi nous allons gouter la chaleur du pacifique, les vagues et les courants sont forts, c'est toutefois très agréable. le soir nous partageons avec notre hôte qui a eu une vie bien remplie, ancien marin il a parcouru le monde et n'est pas avare d'anecdotes, on passe un bon moment.
+Nous passons une journée de plus chez Samuel, le matin est occupé à la logistique et l'après-midi nous allons gouter la chaleur du pacifique, les vagues et les courants sont forts, c'est toutefois très agréable. le soir nous partageons une bière avec notre hôte, âgé de 73 ans, qui a eu une vie bien remplie, ancien marin il a parcouru le monde et n'est pas avare d'anecdotes, on passe un bon moment.
 
 ## 16 et 17 mars
 
