@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-1.5563118210878182, -80.81153364490201"
-  name: "Puerto Lopez - Equateur"
-  date: "16 et 17 mars 2022"
+  coordinates: "-2.1729524987223168, -79.89232518279294"
+  name: "Guayaquil - Equateur"
+  date: "18 et 19 mars 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
