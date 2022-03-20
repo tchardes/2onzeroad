@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie-centre.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-colombie-centre.jpg
 tags: [histoire, architecture, culturel, mer-ocean, plage ]
-pois: [tulcan#09-mars, ibarra#09-mars, otovalo#11-mars, mitad#12-et-13-mars, quito#12-et-13-mars, cayo#14-mars, lopez#16-et-17-mars,guayaquil#18-mars]
+pois: [tulcan#09-mars, ibarra#09-mars, otovalo#11-mars, mitad#12-et-13-mars, quito#12-et-13-mars, cayo#14-mars, lopez#16-et-17-mars,guayaquil#18-et-19-mars]
 country: Equateur
 states: []
 category: "roadmap"
@@ -160,9 +160,17 @@ Le lendemain nous promenons sur le malecon, on voit que c'est un lieu très tour
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51946599961/in/datetaken-public/" title="Puerto Lopez - [Equateur]"><img src="https://live.staticflickr.com/65535/51946599961_2ac9e5f373_k.jpg" width="2048" height="1152" alt="Puerto Lopez - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## 18 mars
+## 18 et 19 mars
 
 Cette nuit il a un peu plu et cematin le temps est gris, même si il y a de fortes chances que le temps se lève dans la journée , nous décidons de lever l'ancre en direction de **Guayaquil**, qui est la plus grande ville de l'équateur, la capitale économique du pays avec une immense activitée portuaire. Au demmarage ce matin j'ai un voyant orange "Moteur" qui s'allume, je suis pratiquement sur que cela provient de l'essence qui n'est pas toujours de très bonne qualité ici, rien de grave, il devrait y avoir un Ford à Guayaquil. La route dans l'ensemble est très belle et se fini par une super 2x2 voie, du velour... On se s'immice dans la criculation de cette grande ville et norte preier arrêt et pour un grand garage Ford. A notre arrivée ils sont surexités... je pense que c'est la première fois qu'ils voient un RV. Je leur montre mon défaud et il me font rentrée dans l'atelier. Pendant qu'un ouvrier branche son ordianteur sur la prise OBD tout les autres me posent de nombreuses questions et finissent par visiter Thor. Il me confirme que cela vient du carburant, efface l'erreur et me conseille d'ajouter un additif quand je fais le plein. Ils contrôlent tous les niveaux et me libérent sans vouloir qu'on les payent. On laisse quand même un TIP. Peu après le garage on prend de l'essence en y ajoutant un additif, on verra si cela améne quelque chose. On termine dans un parking pour bus avec toutes les commodités. On va pourvoir brancher la clim car la chaleur, moite, est étouffante...
+
+Aujourd'hui on part visiter le centre ville et surtout son malecon qui longe le Rio Guayas, les temps est gris avec quelques gouttes de temps en temps mais cela ne nous empêche pas de pronener. Au final rien d'extaordinaire hormis quelques bâtiments, son principal atout est vraiment cette longue promenade qui a été aménagée le long du fleuve. De retour, proche de notre bivouac on tombe sur une restaurant qui fait rotir des cochons de lait et des cochons d'inde que l'on appele ici "Cuyes" et qui se prononce "couillés" ça ne s'invente pas.
+
+
+## 20 mars
+
+Ce matin nous reprenons la route, on dicute un moment avec un chauffeur de bus qui nous indique que la route principale pour aller à Cuenca est coupée depuis 2 mois en raison d'éboulements et nous indique une autre route qui sera forcement plus longue. Dès que nous quittons la plaine et commençons à grimper nous retrouvons le pluie, le brouillard, nous grimpons jusqu'à 3500 mètres avant de redescendre tout doucement sur Cuenca qui se situe à 2600 mètres d'altitude. On va devoir ressortir la couette... Au final nous avons bien roulé et la route n'a pas été si mauvaise que ça. On se pose chez des gens très sympathiques qui mettent un bout de terrain à la disposition des voyageurs, on va être bien...
+
 
 **Nous avons vraiment adoré :**
 
