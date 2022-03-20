@@ -167,7 +167,7 @@ Cette nuit il a un peu plu et cematin le temps est gris, même si il y a de fort
 Aujourd'hui on part visiter le centre ville et surtout son malecon qui longe le Rio Guayas, les temps est gris avec quelques gouttes de temps en temps mais cela ne nous empêche pas de pronener. Au final rien d'extaordinaire hormis quelques bâtiments, son principal atout est vraiment cette longue promenade qui a été aménagée le long du fleuve. De retour, proche de notre bivouac on tombe sur une restaurant qui fait rotir des cochons de lait et des cochons d'inde que l'on appele ici "Cuyes" et qui se prononce "couillés" ça ne s'invente pas.
 
 
-## 20 mars
+## 20 et 21 mars
 
 Ce matin nous reprenons la route, on dicute un moment avec un chauffeur de bus qui nous indique que la route principale pour aller à Cuenca est coupée depuis 2 mois en raison d'éboulements et nous indique une autre route qui sera forcement plus longue. Dès que nous quittons la plaine et commençons à grimper nous retrouvons le pluie, le brouillard, nous grimpons jusqu'à 3500 mètres avant de redescendre tout doucement sur Cuenca qui se situe à 2600 mètres d'altitude. On va devoir ressortir la couette... Au final nous avons bien roulé et la route n'a pas été si mauvaise que ça. On se pose chez des gens très sympathiques qui mettent un bout de terrain à la disposition des voyageurs, on va être bien...
 
