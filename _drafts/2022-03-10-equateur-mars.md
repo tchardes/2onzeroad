@@ -3,14 +3,14 @@ layout: blog
 title: "Equateur"
 preview: "Cet article couvre la période du 09 mars au 2022, au cours de laquelle nous avons traversé l'Equateur jusqu'à..."
 parent-id:
-date: 2022-03-10 13:00:00
+date: 2022-03-18 13:00:00
 from-date: 2022-03-09 12:00:00
-to-date: 2022-03-10 13:00:00
+to-date: 2022-03-18 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie-centre.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-colombie-centre.jpg
-tags: [histoire, architecture, culturel]
-pois: [tulcan#09-mars, ibarra#09-mars]
+tags: [histoire, architecture, culturel, mer-ocean, plage ]
+pois: [tulcan#09-mars, ibarra#09-mars, otovalo#11-mars, mitad#12-et-13-mars, quito#12-et-13-mars, cayo#14-mars, lopez#16-et-17-mars,guayaquil#18-mars]
 country: Equateur
 states: []
 category: "roadmap"
@@ -76,7 +76,9 @@ Notre première halte est à **Otovalo**, célèbre pour ces marchers. Nous trou
 
 Nous marchons ensuite jusqu'au marché artisanal qui est au centre de la vieille ville, on y trouve tous les bibelots touristiques habituels mais aussi beaucoup de vêtements et accéssoires en alpaga, Corinne s'achète une écharppe et la vendeuse m'autorise à la prendre en photo.
 
+<img src="{{baseurl}}/assets/owner/photos/equateur26.jpg" style="width:100%" />
 
+<img src="{{baseurl}}/assets/owner/photos/equateur27.jpg" style="width:100%" />
 
 On déjeune sur place dans un très bon restaurant avant de reprendre la route pour la **Laguna Cuicocha**. Le Cuicocha est une caldeira qui s'est formée il y a 3100 ans environ. Il s'agit maintenant d'un grand lac d'où émergent deux gros îlots, nommés Yerovi et Teodoro Wolf, formés par les sommets de quatre dômes dont l'accès est interdit. On arrive sur place sous la pluie, l'entrée est gratuite mais on ne peut pas y dormir. On profite de quelques alcamie pour faire quelques photos mais il n'est pas possible de faire trail qui fait le tour du lac, la moitiée est dans les nuages et ilfaut compter 5 heures pour en faire le tour. Comme la méteo demain s'annonce très pluvieuse nous décidons de quitter les lieux en direction de la capitale Quito. A mi-chemin nous nous arrêtons pour la nuit dans la ville de Cayambe. Nous sommes au pied du volcal Cayambe qui culmine à 5790 ce qui en fait le trosième plus sommet du pays. Bien sur vu l'épaisse couche nuageuse nous ne le voyons pas...
 
@@ -84,13 +86,13 @@ On déjeune sur place dans un très bon restaurant avant de reprendre la route p
 
 ## 12 et 13 mars
 
-Ce matin nous faisons route sur le site où a été matérialisé le passage de l'équateur "Mitad del Mundo". Le site est très bien aménagé, c'est le site le plus visité de l'équateur. Nous faisons la traditionnelle photo à cheval entre l'émisphère Nort et Sud. Après avoir passé le cercle artique puis le tropique du Canver, nous traversons cette ligne imaginaire et rentrons officiellement dans l'hépmisphère Sud. Sur le site il y a un petit pavillon "France" qui retrace notre implcation de la mesure exacte de l'arc compris entre Tumcan et Paita et qui permetra de déterminer evec précidion le passage de l'équateur. Cette mission gérer par l'institut géographique militaire c'est déroulée de 1902 à 1906.
+Ce matin nous faisons route sur le site où a été matérialisé le passage de l'équateur **"Mitad del Mundo"**. Le site est très bien aménagé, c'est le site le plus visité de l'équateur. Nous faisons la traditionnelle photo à cheval entre l'émisphère Nort et Sud. Après avoir passé le cercle artique puis le tropique du Canver, nous traversons cette ligne imaginaire et rentrons officiellement dans l'hépmisphère Sud. Sur le site il y a un petit pavillon "France" qui retrace notre implcation de la mesure exacte de l'arc compris entre Tumcan et Paita et qui permetra de déterminer evec précidion le passage de l'équateur. Cette mission gérer par l'institut géographique militaire c'est déroulée de 1902 à 1906.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51940345576/in/datetaken-public/" title="Ciudad Mitad del Mundo - [Equateur]"><img src="https://live.staticflickr.com/65535/51940345576_f2d6f232b7_k.jpg" width="2048" height="1152" alt="Ciudad Mitad del Mundo - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51940967090/in/datetaken-public/" title="Ciudad Mitad del Mundo - [Equateur]"><img src="https://live.staticflickr.com/65535/51940967090_8759751b3b_k.jpg" width="2048" height="1152" alt="Ciudad Mitad del Mundo - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous partons ensuite en direction de la deuxième capitale la plus haute au monde, Quito, qui culmine à 2850 mètres. On se gare sur un parking en plein centre de la ville et pour une fois on y arrive facilement. Le réseau routier en équateur est pour l'instant parfait.
+Nous partons ensuite en direction de la deuxième capitale la plus haute au monde, **Quito**, qui culmine à 2850 mètres. On se gare sur un parking en plein centre de la ville et pour une fois on y arrive facilement. Le réseau routier en équateur est pour l'instant parfait.
 A peine arrivés et installés il se met à pleuvoir. Nous prenons un taxi et allons nous réfugier au musée national où nous passons un agréable moment.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51940410413/in/datetaken-public/" title="Quito - [Equateur]"><img src="https://live.staticflickr.com/65535/51940410413_50cdbd0978_k.jpg" width="2048" height="1152" alt="Quito - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -111,7 +113,7 @@ Dimanche matin de nombreux Quiténien viennent faire du sport au parc de la Caro
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51940875893/in/datetaken-public/" title="Quito - [Equateur]"><img src="https://live.staticflickr.com/65535/51940875893_c456ba9636_k.jpg" width="2048" height="1042" alt="Quito - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Après une bonne engeulade avec deux taxi qui nous prennent pour des américains, nous redescendons en ville pour visiter la Basílica del Voto Nacional, immense édifice contrtuit à flanc de colline. Sa principale atractivité et de pouvoir monter au sommet de ce deux clocher pour admirer la ville et sa rosace. Nous passons le reste de la journée à visité églises, musées religieux et profiter de l'ambiance de la ville. En fin de journée nous rentrons "chez nous", juste avant la pluie...
+Après une bonne engeulade avec deux taxis qui nous prennent pour des américains, nous redescendons en ville pour visiter la Basílica del Voto Nacional, immense édifice construit à flanc de colline. Sa principale atractivité et de pouvoir monter au sommet de ce deux clocher pour admirer la ville et sa rosace. Nous passons le reste de la journée à visité églises, musées religieux et profiter de l'ambiance de la ville. En fin de journée nous rentrons "chez nous", juste avant la pluie...
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51940307483/in/datetaken-public/" title="Quito - [Equateur]"><img src="https://live.staticflickr.com/65535/51940307483_f8ca9fac9e_k.jpg" width="2048" height="1152" alt="Quito - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -125,7 +127,7 @@ Après une bonne engeulade avec deux taxi qui nous prennent pour des américains
 
 ## 14 mars
 
-Aujourd'hui nous avions prévu de partir vers le Sud et nous poser à Baños. En route nous devions faire un arrêt au Parc National du Cotopaxi pour voir son volcan qui culmine à 5897 mètres d'altitude puis Baños pour voir de nombreuses cascades. Je regarde la méteo et vois qu'il neige actuellement dans cette localité. Les température son négative la nuit et ne dépase pas 7° en journée, tout ca sous une temps très pluvieux. Après conciliabule, nous décidons de zapper cette zone et d'aller au soleil, à la chaleur bref vers l'océan. Nous quittons donc la capitale et la cordillère des andes pour l'océan Pacifique jusqu'à Puerto Cayo. On verre selon l'état de la route jusqu'où l'étape du jour nous conduira...
+Aujourd'hui nous avions prévu de partir vers le Sud et nous poser à Baños. En route nous devions faire un arrêt au Parc National du Cotopaxi pour voir son volcan qui culmine à 5897 mètres d'altitude puis Baños pour voir de nombreuses cascades. Je regarde la méteo et vois qu'il neige actuellement dans cette localité. Les température son négative la nuit et ne dépase pas 7° en journée, tout ca sous une temps très pluvieux. Après conciliabule, nous décidons de zapper cette zone et d'aller au soleil, à la chaleur bref vers l'océan. Nous quittons donc la capitale et la cordillère des andes pour l'océan Pacifique jusqu'à **Puerto Cayo**. On verre selon l'état de la route jusqu'où l'étape du jour nous conduira...
 
 Le temps est un peu plus dégagé et si nous ne voyons toujours pas les volcans nous apercevons les sommets inférieurs entièrement eneigés. Nous voyons également la polution de la ville. Nous sortons rapidement de la ville et attaquons la montagne sans préavis... La route est longue mais très belle, le plus souvent 2x2 voies, si l'on oculte les éboulements ou carrément les glissements de terrain où parfois les deux voies de circulation ont disparus. Petit a petit on se met en tenue légère et arrivons au bord du Pacifique sous une grosse chaleur. Nous sommes arrivés à parcourir les 450 km dans la journée et nous posons dans un camping tenu par un suisse allemand où nous recevons un superbe acceuil.
 
@@ -146,7 +148,7 @@ Nous passons une journée de plus chez Samuel, le matin est occupé à la logist
 
 ## 16 et 17 mars
 
-Nous quittons le camping en milieu de matinée pour réaliser un saut de puce vers Manichala où j'ai repéré un camping, sur place nous sommes super bien reçus par la patronne mais malheureusement l'endroit est un peu trop étriqué pour Thor, nous ne pouvons pas nous y installer. Nous continuons donc jusqu'à Puerto Lopez, petite ville de pêcheurs. Nous commençons par faire le plein des courses et nous ne posons au bord de la plage, nous sommes seuls au monde. Rémi que nous avons rencontrè chez Kika y a passé deux mois durant le confinement, on espère quand à nous n'y passer que deux jours. L'après-midi nous nous installons au bord de l'eau, ici l'océan est bien plus calme.
+Nous quittons le camping en milieu de matinée pour réaliser un saut de puce vers Manichala où j'ai repéré un camping, sur place nous sommes super bien reçus par la patronne mais malheureusement l'endroit est un peu trop étriqué pour Thor, nous ne pouvons pas nous y installer. Nous continuons donc jusqu'à **Puerto Lopez**, petite ville de pêcheurs. Nous commençons par faire le plein des courses et nous ne posons au bord de la plage, nous sommes seuls au monde. Rémi que nous avons rencontrè chez Kika y a passé deux mois durant le confinement, on espère quand à nous n'y passer que deux jours. L'après-midi nous nous installons au bord de l'eau, ici l'océan est bien plus calme.
 
 <img src="{{baseurl}}/assets/owner/photos/equateur24.jpg" style="width:100%" />
 
@@ -160,7 +162,7 @@ Le lendemain nous promenons sur le malecon, on voit que c'est un lieu très tour
 
 ## 18 mars
 
-Cette nuit il a un peu plu et cematin le temps est gris, même si il y a de fortes chances que le temps se lève dans la journée , nous décidons de lever l'ancre en direction de Guayaquil, qui est la plus grande ville de l'équateur, la capitale économique du pays avec une immense activitée portuaire. Au demmarage ce matin j'ai un voyant orange "Moteur" qui s'allume, je suis pratiquement sur que cela provient de l'essence qui n'est pas toujours de très bonne qualité ici, rien de grave, il devrait y avoir un Ford à Guayaquil. La route dans l'ensemble est très belle et se fini par une super 2x2 voie, du velour... On se s'immice dans la criculation de cette grande ville et norte preier arrêt et pour un grand garage Ford. A notre arrivée ils sont surexités... je pense que c'est la première fois qu'ils voient un RV. Je leur montre mon défaud et il me font rentrée dans l'atelier. Pendant qu'un ouvrier branche son ordianteur sur la prise OBD tout les autres me posent de nombreuses questions et finissent par visiter Thor. Il me confirme que cela vient du carburant, efface l'erreur et me conseille d'ajouter un additif quand je fais le plein. Ils contrôlent tous les niveaux et me libérent sans vouloir qu'on les payent. On laisse quand même un TIP. Peu après le garage on prend de l'essence en y ajoutant un additif, on verra si cela améne quelque chose. On termine dans un parking pour bus avec toutes les commodités. On va pourvoir brancher la clim car la chaleur, moite, est étouffante...
+Cette nuit il a un peu plu et cematin le temps est gris, même si il y a de fortes chances que le temps se lève dans la journée , nous décidons de lever l'ancre en direction de **Guayaquil**, qui est la plus grande ville de l'équateur, la capitale économique du pays avec une immense activitée portuaire. Au demmarage ce matin j'ai un voyant orange "Moteur" qui s'allume, je suis pratiquement sur que cela provient de l'essence qui n'est pas toujours de très bonne qualité ici, rien de grave, il devrait y avoir un Ford à Guayaquil. La route dans l'ensemble est très belle et se fini par une super 2x2 voie, du velour... On se s'immice dans la criculation de cette grande ville et norte preier arrêt et pour un grand garage Ford. A notre arrivée ils sont surexités... je pense que c'est la première fois qu'ils voient un RV. Je leur montre mon défaud et il me font rentrée dans l'atelier. Pendant qu'un ouvrier branche son ordianteur sur la prise OBD tout les autres me posent de nombreuses questions et finissent par visiter Thor. Il me confirme que cela vient du carburant, efface l'erreur et me conseille d'ajouter un additif quand je fais le plein. Ils contrôlent tous les niveaux et me libérent sans vouloir qu'on les payent. On laisse quand même un TIP. Peu après le garage on prend de l'essence en y ajoutant un additif, on verra si cela améne quelque chose. On termine dans un parking pour bus avec toutes les commodités. On va pourvoir brancher la clim car la chaleur, moite, est étouffante...
 
 **Nous avons vraiment adoré :**
 
