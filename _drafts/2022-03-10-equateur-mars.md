@@ -169,7 +169,7 @@ Aujourd'hui on part visiter le centre ville et surtout son malecon qui longe le 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51953726655/in/datetaken-public/" title="Guayaquil - [Equateur]"><img src="https://live.staticflickr.com/65535/51953726655_bd86de8acd_k.jpg" width="2048" height="1152" alt="Guayaquil - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51953726655/in/datetaken-public/" title="Guayaquil - [Equateur]"><img src="https://live.staticflickr.com/65535/51953726655_bd86de8acd_k.jpg" width="2048" height="1152" alt="Guayaquil - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51953204053/in/datetaken-public/" title="Guayaquil - [Equateur]"><img src="https://live.staticflickr.com/65535/51953204053_bb26764356_k.jpg" width="2048" height="1152" alt="Guayaquil - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 De retour, proche de notre bivouac on tombe sur une restaurant qui fait rôtir des cochons de lait et des cochons d'inde que l'on appelle ici "Cuyes" et qui se prononce "couillés" ça ne s'invente pas.
 
