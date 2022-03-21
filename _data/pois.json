@@ -573,8 +573,8 @@
   { "name": "cayo", "displayName": "Puerto Cayo", "type": "ville", "country": "Equateur" },
   { "name": "lopez", "displayName": "Puerto Lopez", "type": "ville", "country": "Equateur" },
   { "name": "guayaquil", "displayName": "Guayaquil", "type": "ville", "country": "Equateur" },
-  { "name": "", "displayName": "", "type": "", "country": "Equateur" },
-  { "name": "", "displayName": "", "type": "", "country": "Equateur" },
+  { "name": "cuenca", "displayName": "Cuenca", "type": "ville", "country": "Equateur" },
+  { "name": "loja", "displayName": "Loja", "type": "ville", "country": "Equateur" },
   { "name": "", "displayName": "", "type": "", "country": "Equateur" },
   { "name": "", "displayName": "", "type": "", "country": "Equateur" },
 
