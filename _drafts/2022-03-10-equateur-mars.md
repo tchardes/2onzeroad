@@ -187,7 +187,7 @@ On prend un taxi qui nous conduit au centre historique. Le temps est gris et on 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51953137046/in/datetaken-public/" title="Cuenca - [Equateur]"><img src="https://live.staticflickr.com/65535/51953137046_76856b9e87_k.jpg" width="2048" height="1152" alt="Cuenca - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51952153007/in/datetaken-public/" title="Cuenca - [Equateur]"><img src="https://live.staticflickr.com/65535/51952153007_a5ac500757_k.jpg" width="2048" height="1280" alt="Cuenca - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Nous avons vraiment adoré :**
 
