@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-2.895118952763147, -79.00209283978377"
-  name: "Cuenca - Equateur"
-  date: "20 et 21 mars 2022"
+  coordinates: "-4.003997629892292, -79.20975228068475"
+  name: "Loja - Equateur"
+  date: "22 mars 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
