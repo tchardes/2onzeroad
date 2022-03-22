@@ -7,7 +7,7 @@ date: 2022-03-18 13:00:00
 from-date: 2022-03-09 12:00:00
 to-date: 2022-03-18 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-colombie-centre.jpg"
+header-img: "assets/owner/blog/header/post-bg-equateur.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-colombie-centre.jpg
 tags: [histoire, architecture, culturel, mer-ocean, plage ]
 pois: [tulcan#09-mars, ibarra#09-mars, otovalo#11-mars, mitad#12-et-13-mars, quito#12-et-13-mars, cayo#14-mars, lopez#16-et-17-mars,guayaquil#18-et-19-mars, cuenca#20-et-21-mars]
