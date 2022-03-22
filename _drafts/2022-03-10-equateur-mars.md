@@ -189,6 +189,16 @@ On prend un taxi qui nous conduit au centre historique. Le temps est gris et on 
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51952153007/in/datetaken-public/" title="Cuenca - [Equateur]"><img src="https://live.staticflickr.com/65535/51952153007_a5ac500757_k.jpg" width="2048" height="1280" alt="Cuenca - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+## 22 mars
+
+Nous quittons Cuenca pour la ville de Loja.
+Au niveau de San Lucas la route est coupée, nous attendons plus de 4 heures, un polocier nous dit que nous allons pouvoir passer alors on attend, pas trop le choix non plus, il n'y a qu'une route. Vers 16 heures on redemarre et effectivement le pont et la route ont disparu dans un ravin, certainement en raison d'un éboulement. Du coup il nous font passer par ce qui doit être l'ancienne route qui descend au niveau de la rivière. Je demande à plusieurs policier si Thor va pouvoir passer,ils sont tous affirmatif puis en plein milieu des villageois viennent pour me dire qu'à leur avis jamais on passe une épingle a cheveux très courte et très raide de l'autre côté de la rive. J'en parle à deux policiers qui du coup sont moins sûr d'eux. Finalement on se met sur le coté, il me coupe le flux et je fais demi tour. Voilà... il faut que l'on revienne pratiquement sur nos pas. Finalement on laisse tomber Loja et Vilcabamba, cela fait un trop long détour. Donc on décide de partir vers la frontière.
+
+## 23 mars
+
+
+
+
 **Nous avons vraiment adoré :**
 
 - La gentillesse des colombiens ;
