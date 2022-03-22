@@ -3,9 +3,9 @@ layout: blog
 title: "Equateur"
 preview: "Cet article couvre la période du 09 mars au 2022, au cours de laquelle nous avons traversé l'Equateur jusqu'à..."
 parent-id:
-date: 2022-03-18 13:00:00
+date: 2022-03-21 13:00:00
 from-date: 2022-03-09 12:00:00
-to-date: 2022-03-18 13:00:00
+to-date: 2022-03-21 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-equateur.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-equateur.jpg
