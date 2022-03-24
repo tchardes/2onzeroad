@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-3.476575730423933, -80.2228261849398"
-  name: "Huaquillas - Equateur"
-  date: "23 mars 2022"
+  coordinates: "-3.683248562073486, -80.68257475629179"
+  name: "Zorritos - Pérou"
+  date: "24 mars 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
