@@ -2,11 +2,11 @@
 layout: blog
 title: "Passage frontière Equateur - Pérou"
 preview: "Cet article n'intéressera que les personnes qui souhaitent connaître les démarches administratives pour passer la frontière avec leur camping-car…"
-parent-id: 2022-03-09-colombie-centre
+parent-id: 2022-03-24-equateur-mars
 
 date: 2022-03-24 15:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-col-equa.jpg"
+header-img: "assets/owner/blog/header/post-bg-perou.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-equa-perou.jpg
 tags: []
 pois: [passageequatoperou]
