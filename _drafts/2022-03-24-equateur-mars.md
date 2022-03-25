@@ -22,7 +22,7 @@ mapZoom: 6
 
 Cet article couvre la période du 09 au 24 mars 2022, au cours de laquelle nous avons traversé l'Equateur jusqu'à la frontière avec le Pérou, en fin un petit bilan sur notre ressenti de la découverte de ce petit pays.
 
-## 09 mars février
+## 09 mars
 
 Le passage à la frontière est hyper simple et rapide, en moins d'une heure toutes les formalités colombiennes et équatoriennes sont finalisées, un record. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-09-equateur-frontiere %}">ici</a>)**
 
