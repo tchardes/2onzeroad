@@ -429,6 +429,7 @@ Après une nuit sur le parking du téléphérique, nous nous dirigeons vers la f
 - Le prix au total des routes à péages ;
 - La partie Nord de la côte Caraïbe ;
 - Les milliers de poids-lourds ;
+- 3 crevaisons pour le moins douteuses ;
 - L'impossibilité de trouver des bivouacs sauvages ;
 - L'impossibilité de s'arrêter au bord des routes pour admirer les paysages ;
 - Les vendeurs de tout et n'importe quoi qui se tiennent au milieu des routes pour vendre leur camelotes aux conducteurs. Ils prennent beaucoup de risques pour gagner quelques pièces. J'ai toujours eu peur d'en blesser un ou une avec un de nos rétroviseurs.

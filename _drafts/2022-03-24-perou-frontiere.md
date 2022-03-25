@@ -34,17 +34,29 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 ### Sortie Equateur
 
+<img src="{{baseurl}}/assets/owner/photos/perou4.jpg" style="width:100%" />
+
 Cela parait bizarre mais le bureau de l’immigration de l'Equateur se trouve au Pérou dans un centre binacional. Donc pas d'inquiétude vous allez entrer au Pérou "illégalement"...
 
 <img src="{{baseurl}}/assets/owner/photos/perou3.jpg" style="width:100%" />
 
+<img src="{{baseurl}}/assets/owner/photos/perou5.jpg" style="width:100%" />
+
 - **Stationnement** - **_Repère 01_** : On arrive devant une sorte de péage peu avant la zone qui regroupe les bâtiments. Il faut laisser son véhicule là et passer le "Péage" à pied en direction de l'angle du premier bâtiment pour le contrôle sanitaire.
 
+<img src="{{baseurl}}/assets/owner/photos/perou6.jpg" style="width:100%" />
+
 - **Contrôle sanitaire** - **_Repère 02_** : Arrivés devant la porte, un agent regarde les passeports puis jette un oeil rapide aux pass sanitaires sur l'application "TousAntiCovid". Remise d'un petit morceau de papier pour indiquer à l'immigration que c'est OK au niveau Covid.
+
+<img src="{{baseurl}}/assets/owner/photos/perou7.jpg" style="width:100%" />
 
 - **Immigration** - **_Repère 03_** : toujours à pied, il faut se rendre ensuite au bloc F occupé par l'immigration équatorienne et péruvienne. Sortie du territoire puis entée dans le nouveau, les passeports sont tamponnées, les démarches sont très rapides.
 
 <img src="{{baseurl}}/assets/owner/photos/perou2.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/perou8.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/perou9.jpg" style="width:100%" />
 
 - **Stationnement - Equateur** - **_Repère 04_** : Malheureusement si les services de l'immigration sont réunis sous le même toit, il n'en est pas de même pour les douanes. Il faut donc retourner au véhicule, faire demi tour et remonter la circulation à contre sens sur quelques dizaines de mètres, si si..., jusqu'à un passage dans le muret qui permet de changer de voie, direction le CEBAF en Equateur, à 6 km...
 
