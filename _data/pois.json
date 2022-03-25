@@ -574,9 +574,18 @@
   { "name": "lopez", "displayName": "Puerto Lopez", "type": "ville", "country": "Equateur" },
   { "name": "guayaquil", "displayName": "Guayaquil", "type": "ville", "country": "Equateur" },
   { "name": "cuenca", "displayName": "Cuenca", "type": "ville", "country": "Equateur" },
-  { "name": "loja", "displayName": "Loja", "type": "ville", "country": "Equateur" },
-  { "name": "", "displayName": "", "type": "", "country": "Equateur" },
-  { "name": "", "displayName": "", "type": "", "country": "Equateur" },
 
-  { "name": "passageequatoperou", "displayName": "Passage de frontière Equateur - Pérou", "type": "information", "country": "Equateur" }
+  { "name": "passageequatoperou", "displayName": "Passage de frontière Equateur - Pérou", "type": "information", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "", "displayName": "", "type": "", "country": "Pérou" }
 ]

@@ -85,5 +85,5 @@ Elle prend des photos des documents, sort pour prendre le véhicule en photo, re
 
 Toutes les démarches ont pris moins d'une heure, c'est certainement le passage de frontière le plus simple et le plus rapide. Pas d'assurance possible pour les étrangers en Equateur.
 
-Comme toujours, bien vérifier sur tous le document que l'on vous remet que les N° d'immatriculation et série du véhicule sont conformes. Côté équatorien il y a un distributeur de billet de banque à côté de la douane et de nombreuses personnes peuvent vous changer vos derniers COP colombiens en Dollars US. Si vous rouler en direction de Ibarra il faut des dollars pour payer le péage.
+Comme toujours, bien vérifier sur tous le document que l'on vous remet que les N° d'immatriculation et série du véhicule sont conformes. Côté équatorien il y a un distributeur de billets de banque à côté des douanes et de nombreuses personnes peuvent vous changer vos derniers COP colombiens en Dollars US. Si vous rouler en direction de Ibarra il faut des dollars pour payer le péage.
 Une fois les démarches terminées, le voyage en terres équatoriennes peut commencer...

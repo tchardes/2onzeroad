@@ -7,7 +7,7 @@ parent-id: 2022-03-09-colombie-centre
 date: 2022-03-24 15:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-col-equa.jpg"
-thumbnail: /assets/owner/blog/thumbs/post-thumb-col-equa.jpg
+thumbnail: /assets/owner/blog/thumbs/post-thumb-equa-perou.jpg
 tags: []
 pois: [passageequatoperou]
 flickr-text: ""
@@ -24,9 +24,9 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 - **Repère 1** - Poste frontière péruvien, parking ;
 - **Repère 2** - Poste frontière péruvien, contrôle sanitaire (Pass sanitaire) ;
-- **Repère 3** - Poste frontière péruvien, (Equateur et Pérou), immigration
+- **Repère 3** - Poste frontière péruvien, (Equateur et Pérou), immigration ;
 - **Repère 4** - Poste frontière équatorien, parking ;
-- **Repère 5** - Poste frontière équatorien, fin importation temoraire du véhicule ;
+- **Repère 5** - Poste frontière équatorien, fin importation temporaire du véhicule ;
 - **Repère 6** - Poste frontière équatorien, lavage des pieds... ;
 - **Repère 7** - Poste frontière péruvien, parking ;
 - **Repère 8** - Poste frontière péruvien, importation du véhicule ;
