@@ -42,7 +42,7 @@ Cela parait bizarre mais le bureau de l’immigration de l'Equateur se trouve au
 
 <img src="{{baseurl}}/assets/owner/photos/perou5.jpg" style="width:100%" />
 
-- **Stationnement** - **_Repère 01_** : On arrive devant une sorte de péage peu avant la zone qui regroupe les bâtiments du centre. Il faut laisser son véhicule là et passer le "Péage" à pied en direction de l'angle du premier bâtiment pour le contrôle sanitaire.
+- **Stationnement** - **_Repère 01_** : On arrive devant une sorte de péage peu avant la zone qui regroupe les bâtiments du centre. Il faut laisser son véhicule là et passer le "Péage" à pied en direction de l'angle du premier bâtiment pour le contrôle sanitaire. Il faut porter un double masque de protection pour effectuer toutes les démarches au Pérou.
 
 <img src="{{baseurl}}/assets/owner/photos/perou6.jpg" style="width:100%" />
 
@@ -71,6 +71,7 @@ Cela parait bizarre mais le bureau de l’immigration de l'Equateur se trouve au
 * Carte grise du véhicule ;
 * Passeport ;
 * Permis international.
+
 Il rédige le document d’importation puis il vient contrôler le véhicule à l'extérieur et vous remet le TIP.
 
 - **Derniers contrôles** - **_Repère 09_** : reprendre la route et passage à un dernier check point où les agents contrôlent les documents.
