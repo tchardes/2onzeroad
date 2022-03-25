@@ -24,9 +24,9 @@ Cet article couvre la période du 09 au 24 mars 2022, au cours de laquelle nous 
 
 ## 09 mars février
 
-Le passage à la frontière est hyper simple et rapide, en moins d'une heures toutes les formalités colombiennes et équatoriennes sont finalisées, un record. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-09-equateur-frontiere %}">ici</a>)**
+Le passage à la frontière est hyper simple et rapide, en moins d'une heure toutes les formalités colombiennes et équatoriennes sont finalisées, un record. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-09-equateur-frontiere %}">ici</a>)**
 
-Nous faisons route ensuite vers **Tulcan**, capitale équatorienne du cyclisme... Première ville frontalière, elle est connue pour son cimetière est ses œuvres d'art topiaire, figures emblématiques sculptées dans les cyprès, animaux, hommes, personnages imaginaires. Toute la faune et les traditions locales y sont représentées. Commencée il y a plus de 60 ans par José María Franco Guerrero, cet étonnant jardin se perpétue grâce à son fils qui entretient les 80 sculptures vertes avec une équipe de cinq personnes.
+Nous faisons route ensuite vers **Tulcan**, capitale équatorienne du cyclisme... Première ville frontalière, elle est connue pour son cimetière est ses œuvres d'art topiaire, figures emblématiques sculptées dans les cyprès, animaux, hommes, personnages imaginaires. Toute la faune et les traditions locales y sont représentées. Commencé il y a plus de 60 ans par José María Franco Guerrero, cet étonnant jardin se perpétue grâce à son fils qui entretient les 80 sculptures vertes avec une équipe de cinq personnes.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51929028723/in/datetaken-public/" title="Tulcan - [Equateur]"><img src="https://live.staticflickr.com/65535/51929028723_22407bc9cb_k.jpg" width="2048" height="1152" alt="Tulcan - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -34,7 +34,7 @@ Nous faisons route ensuite vers **Tulcan**, capitale équatorienne du cyclisme..
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51929275219/in/datetaken-public/" title="Tulcan - [Equateur]"><img src="https://live.staticflickr.com/65535/51929275219_54cb7d230f_k.jpg" width="2048" height="1152" alt="Tulcan - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous faisons ensuite un petit tour en centre ville autour de la place Ayora où je change ma carte SIM pour un opérateur Equatorien. C'est ici un peu plus cher qu'en Colombie en raison du fait que l'Equateur a abandonné sa monnaie nationale pour le Dollar US, du coup tous les prix on fortement augmenté. Nous mangeons dans un restaurant qui ne fait que du poulet, genre KFC mais équatorien, on nous sert une assiette composée de deux gros morceaux de poulet fris avec des frites et juste une fourchette. On regarde un peu autour de nous et on voit que tout le monde mange le poulet avec les doigts, on s'immerge rapidement dans les pratiques locales et mangeons notre poulet à pleine dents... Nous nous étions garés non loin d'un commissariat et à notre retour un policier nous attend, il contrôle nos passeports, puis nous fait plein de recommandation et nous souhaite la bienvenue en Equateur. Comme toujours, cela fini par une visite de Thor et un photo devant sa grosse calandre.
+Nous faisons ensuite un petit tour en centre ville autour de la place Ayora où je change ma carte SIM pour un opérateur Equatorien. C'est ici un peu plus cher qu'en Colombie en raison du fait que l'Equateur a abandonné sa monnaie nationale pour le Dollar US, du coup tous les prix ont fortement augmentés. Nous mangeons dans un restaurant qui ne fait que du poulet, genre KFC mais équatorien, on nous sert une assiette composée de deux gros morceaux de poulet fris avec des frites et juste une fourchette. On regarde un peu autour de nous et on voit que tout le monde mange le poulet avec les doigts, on s'immerge rapidement dans les pratiques locales et mangeons notre poulet à pleine dents... Nous nous étions garés non loin d'un commissariat et à notre retour un policier nous attend, il contrôle nos passeports, puis nous fait plein de recommandations et nous souhaite la bienvenue en Equateur. Comme toujours, cela fini par une visite de Thor et une photo devant sa grosse calandre.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/51929026753/in/datetaken-public/" title="Tulcan - [Equateur]"><img src="https://live.staticflickr.com/65535/51929026753_b0e833ccbb_k.jpg" width="2048" height="1152" alt="Tulcan - [Equateur]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -42,9 +42,9 @@ Nous faisons ensuite un petit tour en centre ville autour de la place Ayora où 
 
 <img src="{{baseurl}}/assets/owner/photos/equateur16.jpg" style="width:100%" />
 
-Nous repartons ensuite pour notre bivouac des prochains jours à **Ibarra**, chez Hans, un colosse allemand qui tient un super camping, "La Finca Sommerwind" au bord d'une immense lac "Laguna de Yahuarcocha". La route pour y accéder est vraiment très belle, le plus souvent 2X2 voies avec un revêtement impeccable, on y ajoute un super soleil et de très beaux paysages avec des parcelles agricoles qui grimpes sur les flancs des montagnes, parfaitement dessiné par des haies d'arbres, c'est très beau, le voyage est très agréable.
+Nous repartons ensuite pour notre bivouac des prochains jours à **Ibarra**, chez Hans, un colosse allemand qui tient un super camping, "La Finca Sommerwind" au bord d'un immense lac "Laguna de Yahuarcocha". La route pour y accéder est vraiment très belle, le plus souvent 2X2 voies avec un revêtement impeccable, on y ajoute un super soleil et de très beaux paysages avec des parcelles agricoles qui grimpes sur les flancs des montagnes, parfaitement dessiné par des haies d'arbres, c'est très beau, le voyage est très agréable.
 
-A notre arrivée Hans nous attendait car il avait été prévenu de notre arrivée par Kika. L’accueil est chaleureux et nous trouvons un super emplacement ombragé. Toutes les commodités sont présentes et Hans propose dans son restaurant, plats, bières et pâtisserie allemandes. Dès l'installation terminée nous nous détendons autour d'une bonne bière et d'une part de gâteau.
+A notre arrivée Hans nous attendait car il avait été prévenu de notre arrivée par Kika. L’accueil est chaleureux et nous trouvons un super emplacement ombragé. Toutes les commodités sont présentes et Hans propose dans son restaurant, plats, bières et pâtisseries allemandes. Dès l'installation terminée nous nous détendons autour d'une bonne bière et d'une part de gâteau.
 
 <img src="{{baseurl}}/assets/owner/photos/equateur17.jpg" style="width:100%" />
 
@@ -58,7 +58,7 @@ Nous faisons connaissance d'un couple américain, des "full timer" qui ont tout 
 
 ## 10 mars
 
-Nous profitons de cette journée pour nous occuper de la logistique, site, photos, vidéos, lessives .... A midi nous prenons notre repas chez Hans ou nous dégustons des plats allemands à base d'énormes saucisses accompagnées d'une bonne pilsen. C'est l'occasion de discuter un bon moment avec Snow, Kirt et Franck.
+Nous profitons de cette journée pour nous occuper de la logistique, site, photos, vidéos, lessives .... A midi nous prenons notre repas chez Hans ou nous dégustons des plats allemands à base d'énormes saucisses (qu'il fait fabriquer à Quito selon sa recette) accompagnées d'une bonne pilsen. C'est l'occasion de discuter un bon moment avec Snow, Kirt et Franck.
 
 ## 11 mars
 
