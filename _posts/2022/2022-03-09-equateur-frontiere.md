@@ -41,7 +41,7 @@ Cet article n'intéressera que les personnes qui souhaitent connaître les déma
 
 <img src="{{baseurl}}/assets/owner/photos/equateur9.jpg" style="width:100%" />
 
-- **Doaunes - DIAN** - **_Repère 3_** :
+- **Douanes - DIAN** - **_Repère 3_** :
 
 Sortir du bâtiment de l'immigration et faire la queue à la DIAN au guichet extérieur. L'agent demande le ou les permis d'importation temporaire du véhicule, contrôle, coup de tampon et c'est fini pour le Colombie.
 
