@@ -578,5 +578,5 @@
   { "name": "", "displayName": "", "type": "", "country": "Equateur" },
   { "name": "", "displayName": "", "type": "", "country": "Equateur" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Equateur" }
+  { "name": "passageequatoperou", "displayName": "Passage de frontière Equateur - Pérou", "type": "information", "country": "Equateur" }
 ]
