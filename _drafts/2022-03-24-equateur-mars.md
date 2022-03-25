@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Equateur"
-preview: "Cet article couvre la période du 09 mars au 2022, au cours de laquelle nous avons traversé l'Equateur jusqu'à..."
+preview: "Cet article couvre la période du 09 au 24 mars 2022, au cours de laquelle nous avons traversé l'Equateur jusqu'à..."
 parent-id:
 date: 2022-03-24 13:00:00
 from-date: 2022-03-09 12:00:00
@@ -191,32 +191,31 @@ On prend un taxi qui nous conduit au centre historique. Le temps est gris et on 
 
 ## 22 mars
 
-Nous quittons Cuenca pour la ville de Loja. Au niveau de San Lucas la route est coupée, nous attendons plus de 4 heures, un polocier nous dit que nous allons pouvoir passer alors on attend, pas trop le choix non plus, il n'y a qu'une route. Vers 16 heures on redemarre et effectivement le pont et la route ont disparu dans un ravin, certainement en raison d'un éboulement. Du coup il nous font passer par ce qui doit être l'ancienne route qui descend au niveau de la rivière. Je demande à plusieurs policier si Thor va pouvoir passer,ils sont tous affirmatif puis en plein milieu des villageois viennent pour me dire qu'à leur avis jamais on passe une épingle a cheveux très courte et très raide de l'autre côté de la rive. J'en parle à deux policiers qui du coup sont moins sûr d'eux. Finalement on se met sur le coté, il me coupe le flux et je fais demi tour. Voilà... il faut que l'on revienne pratiquement sur nos pas. Finalement on laisse tomber Loja et Vilcabamba, cela fait un trop long détour. Donc on décide de partir vers la frontière. Décidement l'Equateur ne nous aura pas permis de faire ce que nous avions programmé...
+Nous quittons Cuenca pour la ville de Loja. Au niveau de San Lucas la route est coupée, nous attendons plus de 4 heures, un policier nous dit que nous allons pouvoir passer alors on attend, pas trop le choix non plus, il n'y a qu'une route. Vers 16 heures on redemarre et effectivement le pont et la route ont disparu dans un ravin, certainement en raison d'un éboulement. Du coup il nous font passer par ce qui doit être l'ancienne route qui descend au niveau de la rivière. Je demande à plusieurs policier si Thor va pouvoir passer,ils sont tous affirmatif puis en plein milieu des villageois viennent pour me dire qu'à leur avis jamais on passe une épingle a cheveux très courte et très raide qui se trouve de l'autre côté de la rive. J'en parle à deux policiers qui du coup sont moins sûr d'eux. Finalement on se met sur le coté, il me coupe le flux et je fais demi tour. Au niveau de l'éboulement un sentier a été aménagé à la hâte à flanc de montagne. Les bus sont présents de chaque côté et les passager passent par le sentier pour monter dans l'autre bus, des "bêtes de somme" transportent la marchandise sur leur dos... Personnes fragiles et soumises au vertige s'abstenir.
+
+Voilà... il faut que l'on revienne pratiquement sur nos pas à Cuenca. Finalement on laisse tomber Loja et Vilcabamba, cela fait un trop long détour, plus de 10 heures de routes... secondaires. Donc on décide de partir vers la frontière. Juste avant la tombée de la nuit on trouve un bivouac à Saraguro près du stade de foot, on y sera très bien. Décidement l'Equateur ne nous aura pas permis de faire tout ce que nous avions programmé...
 
 ## 23 mars
 
+On reprend la route en direction de Cuenca puis on bifurque afin de nous diriger vers l'océan. On pense ainsi rerpendre la panaméricaine avec une bonne qualité de route, c'est tout l'inverse, on trouve énormément déboulement et d'affaissement de la route avec parfois des "marches" qui nécessitent de passer à l'arrêt. Bien sur aucune signalisaion ou indication n'attire l'attention du conducteur. On fait en sorte de rouler toujours derrière un "lièvre", quand on le voit sauter ou piler on sait qu'il va y avoir un imprévu...  au final la route jusqu'à Machala est très longue et nerveusement épuisante. Arrivé dans cette localité sans aucun charme on s'arrête faire le plein de courses et d'essence car elle est moins chère ici qu'au Pérou. J'avais trouvé un camping non loin de la frontière mais à notre arivée on constate que Thor ne peut pas entrer dans la propriété. Il fait presque nuit et on décide finalement de rouler jusqu'à la frontière et on se pose près des douanes équatorienne.
 
+## 24 mars
 
+Après une nuit au final très calme, nous nous dirigeons vers la frontière et quittons définitivement l'Equateur, les démarches sont très raides bien qu'originales. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-24-perou-frontiere %}">ici</a>)**
 
 **Nous avons vraiment adoré :**
 
-- La gentillesse des colombiens ;
-- Les centaines de pouce levés, de coup de klaxon, de bienvenidos !!! ;
-- La ville de Cartagena de Indias ;
-- La région du café ;
-- Les alentours de Guatapé ;
-- Le prix de l'essence ;
-- L'état des routes... à péages ;
+- La qualité du réseau routier principal ;
+- Les paysages magnifique même si les conditions atmosphèriques n'ont pas été toujours de notre côté ;
+- La côte Pacifique ;
+- Dans l'ensemble pays très propre.
 
 **Nous avons moins aimé :**
 
-- Le prix au total des routes à péages ;
-- La partie Nord de la côte Caraïbe ;
-- Les milliers de poids-lourds ;
-- L'impossibilité de trouver des bivouacs sauvages ;
-- L'impossibilité de s'arrêter au bord des routes pour admirer les paysages ;
-- Les vendeurs de tout et n'importe quoi qui se tiennent au milieu des routes pour vendre leur camelotes aux conducteurs. Ils prennent beaucoup de risques pour gagner quelques pièces. J'ai toujours eu peur d'en blesser un ou une avec un de nos rétroviseurs.
+- La mauvaise qualité du réseau routier secondaire ;
+- La pluie, la pluie et le brouillard ;
+- La relative chéreté de la vie en raison de leur passage au Dollar US.
 
-Nous avons passé au total 116 jours en Colombie, 58 jours en 2020 et 58 jours en 2022 (nous n’avons pas fait exprès) et avons parcouru près de 3790 Km. Dans son ensemble la Colombie n'est pas exceptionnelle mais il y a des zones vraiment très belles et surtout il y a les colombiens. Malgré la dureté de leur vie, l'explosion de l'inflation et l'augmentation des prix en raison de la pandémie, ils sont toujours souriants, toujours prêt à rendre service et surtout très heureux que l'on vienne visiter leur grand pays. Nous y avons fait également des rencontres attachantes. Aucun ressentie d'insécurité, la police et les militaires nous ont toujours regardé passé avec un pouce levé. En fin de séjour la météo a un peu contrariée nos plans mais dans l'ensemble nous avons pu voir tout ce que nous avions programmés.
+Nous avons passé au total 15 jours en Equateur et avons parcouru près de 1153 Km. Décidement l'Equateur ne nous aura pas permis de faire tout ce que nous avions programmé, notamment la partie entre Quito et Cuenca en raison du temps et entre Cuenca, Loja et Vilcabamba en raison de ... plus de route. Même si en génèral les matinées sont peu pluvieuses la couverture nuageuse est trop importante pour pouvoir admirer la cordillère et ces volcans. On savait que nous y serions en pleine saison des pluies mais cette année le phénomene "El Niño" a amplifié et aggravé la situation. Aucun ressentie d'insécurité, si ce n'est un peu dans Quito mais la police était omniprésente. Si en Colombie les routes étaient moins belles il y avait des armadas d'employés de voirie qui entretenaient les abords des routes et s'occupaient de nettoyer la route après un éboulement, même le dimanche. En equateur personne au bord des routes secondaires envahies par la végétation et aucune dégagement de la route des nombreux éboulements (même anciens), obligeant les conducteurs à slalommer entre rochers et amas de terre.
 
 Un résumé de cette dernière partie de notre voyage en vidéos :
