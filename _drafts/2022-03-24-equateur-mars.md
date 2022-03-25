@@ -213,7 +213,7 @@ Après une nuit au final très calme, nous nous dirigeons vers la frontière et 
 **Nous avons moins aimé :**
 
 - La mauvaise qualité du réseau routier secondaire ;
-- La pluie, la pluie et le brouillard ;
+- La pluie, la pluie, la pluie et le brouillard ;
 - La relative chéreté de la vie en raison de leur passage au Dollar US.
 
 Nous avons passé au total 15 jours en Equateur et avons parcouru près de 1153 Km. Décidement l'Equateur ne nous aura pas permis de faire tout ce que nous avions programmé, notamment la partie entre Quito et Cuenca en raison du temps et entre Cuenca, Loja et Vilcabamba en raison de ... plus de route. Même si en génèral les matinées sont peu pluvieuses la couverture nuageuse est trop importante pour pouvoir admirer la cordillère et ces volcans. On savait que nous y serions en pleine saison des pluies mais cette année le phénomene "El Niño" a amplifié et aggravé la situation. Aucun ressentie d'insécurité, si ce n'est un peu dans Quito mais la police était omniprésente. Si en Colombie les routes étaient moins belles il y avait des armadas d'employés de voirie qui entretenaient les abords des routes et s'occupaient de nettoyer la route après un éboulement, même le dimanche. En equateur personne au bord des routes secondaires envahies par la végétation et aucune dégagement de la route des nombreux éboulements (même anciens), obligeant les conducteurs à slalommer entre rochers et amas de terre.
