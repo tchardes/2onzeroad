@@ -17,7 +17,7 @@ category: "roadmap"
 flickr-text: ""
 location: "-9.141853081899212, -75.77585867210979"
 itinary: "2022/perou.json"
-mapZoom: 5
+mapZoom: 4
 ---
 
 Cet article couvre la période du 24 mars au 20 avril 2022, au cours de laquelle nous avons traversé la partie Nord du Pérou jusqu'à la capitale, Lima. En fin un petit bilan sur notre ressenti de la découverte d'une partie de ce pays.
