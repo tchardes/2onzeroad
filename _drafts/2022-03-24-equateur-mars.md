@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Equateur"
-preview: "Cet article couvre la période du 09 au 24 mars 2022, au cours de laquelle nous avons traversé l'Equateur jusqu'à..."
+preview: "Cet article couvre la période du 09 au 24 mars 2022, au cours de laquelle nous avons traversé l'Equateur jusqu'à la frontière avec le Pérou..."
 parent-id:
 date: 2022-03-24 13:00:00
 from-date: 2022-03-09 12:00:00
@@ -20,7 +20,7 @@ itinary: "2022/equateur.json"
 mapZoom: 6
 ---
 
-Cet article couvre la période du 09 au 24 mars 2022, au cours de laquelle nous avons traversé l'Equateur jusqu'à la frontière avec le Pérou, en fin un petit bilan sur notre ressenti de la découverte de ce petit pays.
+Cet article couvre la période du 09 au 24 mars 2022, au cours de laquelle nous avons traversé l'Equateur jusqu'à la frontière avec le Pérou, en fin d'article un petit bilan sur notre ressenti de la découverte de ce petit pays.
 
 ## 09 mars
 

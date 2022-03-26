@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Pérou"
-preview: "Cet article couvre la période du 09 au 24 mars 2022, au cours de laquelle nous avons traversé l'Equateur jusqu'à..."
+preview: "Cet article couvre la période du 24 mars au 20 avril 2022, au cours de laquelle nous avons traversé la partie Nord du Pérou jusqu'à la capitale, Lima...."
 parent-id:
 date: 2022-03-26 13:00:00
 from-date: 2022-03-24 12:00:00
@@ -20,7 +20,7 @@ itinary: "2022/perou.json"
 mapZoom: 4
 ---
 
-Cet article couvre la période du 24 mars au 20 avril 2022, au cours de laquelle nous avons traversé la partie Nord du Pérou jusqu'à la capitale, Lima. En fin un petit bilan sur notre ressenti de la découverte d'une partie de ce pays.
+Cet article couvre la période du 24 mars au 20 avril 2022, au cours de laquelle nous avons traversé la partie Nord du Pérou jusqu'à la capitale, Lima. En fin d'article un petit bilan sur notre ressenti de la découverte d'une partie de ce pays.
 
 ## 24 mars
 
