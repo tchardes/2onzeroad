@@ -24,7 +24,7 @@ Cet article couvre la période du 24 mars au 20 avril 2022, au cours de laquelle
 
 ## 24 mars
 
-Le passage à la frontière est assez simple et rapide, en un peu plus d'une heure toutes les formalités colombiennes et équatoriennes sont finalisées. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-24-perou-frontiere %}">ici</a>)**
+Le passage à la frontière est assez simple et rapide, en un peu plus d'une heure toutes les formalités équatoriennes et péruviennes sont finalisées. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-24-perou-frontiere %}">ici</a>)**
 
 Notre premier arrêt est pour la ville de Zarumilla pour l'habituelle changement de carte SIM. Tous les magasins ne proposent que des recharges et me conseillent d'aller sur Tumbes. Effectivement, c'est dans cette ville assez brouillonne, peu acceuillante, que nous changeons notre forfait. Nous sommes très surpris par la différence de paysage entre les deux pays, très vert et agricole côté Equateur et quasiment désertique côté Pérou. Rapidement la route longe la côte Pacifique avec de très longue plages. Nous nous posons pour notre premier bivouac dans un très beau camping tenu par un Suisse, francophone ce coup-ci, à Zorritos. L'acceuil est chaleureux et nous rencontrons un couple de jeunes colombiens, Juan et Monica avec qui nous discutons un bon moment.
 
