@@ -7,7 +7,7 @@ date: 2022-03-26 13:00:00
 from-date: 2022-03-24 12:00:00
 to-date: 2022-03-26 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-equateur.jpg"
+header-img: "assets/owner/blog/header/post-bg-perou2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-equateur.jpg
 tags: [histoire, architecture, culturel, mer-ocean, plage ]
 pois: [tulcan#09-mars]
