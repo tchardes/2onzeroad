@@ -28,9 +28,15 @@ Le passage à la frontière est assez simple et rapide, en un peu plus d'une heu
 
 Notre premier arrêt est pour la ville de Zarumilla pour l'habituelle changement de carte SIM. Tous les magasins ne proposent que des recharges et me conseillent d'aller sur Tumbes. Effectivement, c'est dans cette ville assez brouillonne, peu acceuillante, que nous changeons notre forfait. Nous sommes très surpris par la différence de paysage entre les deux pays, très vert et agricole côté Equateur et quasiment désertique côté Pérou. Rapidement la route longe la côte Pacifique avec de très longue plages. Nous nous posons pour notre premier bivouac dans un très beau camping tenu par un Suisse, francophone ce coup-ci, à Zorritos. L'acceuil est chaleureux et nous rencontrons un couple de jeunes colombiens, Juan et Monica avec qui nous discutons un bon moment.
 
-## 25 au  mars
+## 25 au 30 mars
 
-Après une nuit au final très calme, nous nous dirigeons vers la frontière et quittons définitivement l'Equateur, les démarches sont très rapides et originales. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-24-perou-frontiere %}">ici</a>)**
+Nous passons quelques jours dans ce superbe endroit ou bord de l'océan Pacifique, nous fêtons ici notre 800 éme jours en road trip, c'est incroyable. Nous sommes conscients de la chance qui nous est offerte de pouvoir vivre cette aventure personnelle. Cette sensation de totale liberté, de parenthèse dans une vie toujours trop speed et souvent réglée comme du papier à musique, d'excitation de partir vers l'inconnue sans repère aucun est unique. Situation oxymorique ou l'intense et le serein se marient très bien. Nous n'avons que le nécessaire et au final il n'en faut pas plus. Paulo Coelho disait "Si vous pensez que l'aventure est dangereuse, essayez la routine… Elle est mortelle!". ... Bref nous espérons encore en profiter longtemps et continuer à découvrir d'autres lieux est d'autres personnes très différents.
+
+Le Pérou n'est pas épargné par la situation mondiale, le prix des carburants a, ici aussi, fortement augmenté et les professionnels de la route sont en grève et bloquent les axes principaux et en priorité la panaméricaine. On reste donc sagement au camping en entendant que la situation revienne au calme. Après tout il y a pire endroit pour patienter...
+
+
+
+Après une nuit au final très calme, nous nous dirigeons vers la frontière et quittons définitivement le Pérou, les démarches sont très rapides et originales. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-24-perou-frontiere %}">ici</a>)**
 
 **Nous avons vraiment adoré :**
 
