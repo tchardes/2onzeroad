@@ -11,7 +11,7 @@ header-img: "assets/owner/blog/header/post-bg-perou2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-equateur.jpg
 tags: [histoire, architecture, culturel, mer-ocean, plage ]
 pois: [tulcan#09-mars]
-country: perou
+country: Pérou
 states: []
 category: "roadmap"
 flickr-text: ""

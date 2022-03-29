@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_country"
-country: "Perou"
+country: "Pérou"
 permalink: "/writing/destination/perou/"
 header-img: "assets/owner/hero/canada-bg.jpg"
 flickr-text: ""
