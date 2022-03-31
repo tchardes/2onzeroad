@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-6.771080211096937, -79.84609424225918"
   name: "Chiclayo - Pérou"
-  date: "31 mars 2022"
+  date: "01 avril 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
