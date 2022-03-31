@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-3.6819041246709316, -80.67468720871486"
-  name: "Zorritos - Pérou"
-  date: "24 au 29 mars 2022"
+  coordinates: "-6.771080211096937, -79.84609424225918"
+  name: "Chiclayo - Pérou"
+  date: "31 mars 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
