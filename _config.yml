@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-8.110616699607451, -79.02855144254768"
   name: "Trujillo - Pérou"
-  date: "02 avril 2022"
+  date: "02 au 04 avril 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
