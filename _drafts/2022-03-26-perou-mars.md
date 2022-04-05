@@ -26,13 +26,70 @@ Cet article couvre la période du 24 mars au 20 avril 2022, au cours de laquelle
 
 Le passage à la frontière est assez simple et rapide, en un peu plus d'une heure toutes les formalités équatoriennes et péruviennes sont finalisées. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-24-perou-frontiere %}">ici</a>)**
 
-Notre premier arrêt est pour la ville de Zarumilla pour l'habituelle changement de carte SIM. Tous les magasins ne proposent que des recharges et me conseillent d'aller sur Tumbes. Effectivement, c'est dans cette ville assez brouillonne, peu acceuillante, que nous changeons notre forfait. Nous sommes très surpris par la différence de paysage entre les deux pays, très vert et agricole côté Equateur et quasiment désertique côté Pérou. Rapidement la route longe la côte Pacifique avec de très longue plages. Nous nous posons pour notre premier bivouac dans un très beau camping tenu par un Suisse, francophone ce coup-ci, à Zorritos. L'acceuil est chaleureux et nous rencontrons un couple de jeunes colombiens, Juan et Monica avec qui nous discutons un bon moment.
+Notre premier arrêt est pour la ville de Zarumilla pour l'habituelle changement de carte SIM. Tous les magasins ne proposent que des recharges et me conseillent d'aller sur Tumbes. Effectivement, c'est dans cette ville assez brouillonne, peu acceuillante, que nous changeons notre carte sim pour un opérateur péruvien. Nous sommes très surpris par la différence de paysage entre les deux pays, très vert et agricole côté Equateur et quasiment désertique côté Pérou. Rapidement la route longe la côte Pacifique avec de très longue plages. Nous nous posons pour notre premier bivouac dans un très beau camping tenu par un Suisse, francophone ce coup-ci, à Zorritos. L'acceuil est chaleureux et nous rencontrons un couple de jeunes colombiens, Juan et Monica avec qui nous discutons un bon moment.
 
 ## 25 au 30 mars
 
 Nous passons quelques jours dans ce superbe endroit ou bord de l'océan Pacifique, nous fêtons ici notre 800 éme jours en road trip, c'est incroyable. Pour nous qui aimons les voyages, nous sommes conscients de la chance qui nous est offerte de pouvoir vivre cette aventure personnelle. Cette sensation de totale liberté, de parenthèse dans une vie toujours trop speed et souvent réglée comme du papier à musique, d'excitation de partir vers l'inconnue sans repère aucun est unique. Nous n'avons que le nécessaire et au final il n'en faut pas plus. Paulo Coelho disait "Si vous pensez que l'aventure est dangereuse, essayez la routine… Elle est mortelle!". ... Bref nous espérons encore en profiter longtemps et continuer à découvrir d'autres lieux est d'autres personnes très différents.
 
-Le Pérou n'est pas épargné par la situation mondiale, le prix des carburants a, ici aussi, fortement augmenté et les professionnels de la route sont en grève et bloquent les axes principaux et en priorité la panaméricaine. On reste donc sagement au camping en entendant que la situation revienne au calme. Après tout il y a pire endroit pour patienter...
+Le Pérou n'est pas épargné par la situation mondiale, le prix des carburants a, ici aussi, fortement augmenté et les professionnels de la route sont en grève et bloquent les axes principaux et en priorité la panaméricaine. On reste donc sagement au camping en entendant que la situation revienne au calme. Après tout il y a pire comme endroit pour patienter...
+
+## 30 mars
+
+La situation semble se calmer et nous partons pour la ville de Piura, on verra bien... La route est très belle dans l’ensemble mais très salz, un vrai dépotoir. Nous traversons une immense zone désertique où seuls quelques déricks viennent perturber la quiétude des lieux. Le Pérou exploite quelques poches de pétrole sur terre comme en mer et produise environ 10% de leur consomation nationale.
+
+
+Arrivée à Piura on s'arrête dans la première garnde surface pour faire le plein, on commencait à étre à sec. La ville ne présente aucun intérêt et après une journée de route nous n'avons qu'une envie, nous poser. On trouve une famille Alex, péruvien et Mayla colombienne qui acceuulle les voyageur dans leur jardin. Thor est un peu trop gros nous restons à l'extérieur le long de la cloture. Mayla est adorable et nous parlons un long moment de voyage et surtout de son pays natal. Nous sommes obligé d'écouter un peu la conversation en raison des nuées de moustiques.
+
+## 31 mars
+
+Nous reprenons en direction de Chiclayo nous allons visité le très beau musée « Tumba Rales de Sipán ». Pour une fois nous trouvons un guide qui parle français et c’est donc avec Luis que nous visitons ce très beau musée sur la civilisation Mochica qui régna de -100 à 650 ans. Les pièces exposées viennent d’une pyramide « cimetière » découverte il n’y a pas si longtemps sur le site de Sipan.
+
+
+
+
+Nous remontons un peu au nord Est pour nous arrêter sur le parking du site de Tucume. A notre arrivée les site est fermé mais je vais quand même voir les heures d'ouvertures pour le lendemain. En fait en raison du Covid et du manque de touriste, le site n'ouvre que quelques jours par semaine et demain c'est fermé. La dame très gentille me demande d’où on vient et très déçue que nous puissions visiter le site. Du coup elle l’ouvre rien que pour moi et me fait pauer moitié prix car je ne pourrais pas visiter le musée. Je pars à la découverte du site avec ces 26 pyramides construite en adobe. Avec l’érosion, ces pyramides se sont tranformés montagne de boue, on dirait d'immmense termitiaires. Je parcours une toute petit partie du site et rentre juste avant la nuit.
+
+
+
+Je demande au gardien de nuit si nous pouvons dormir là, il me dit avec plaisir, il va jetter un oeuil sur nous toutes la nuit et nous indique qua la police passe également régulièrement. Avec tout cela nous allons pouvoir dormir sur nous deux oreilles, un peu comme d’habitude il faut l'avouer.
+
+## 01 avril
+
+Nous revenons sur nos pas et passons dans Chiclayo pour nous rendre au musée Sican qui regroupe des objets découverts dans le tombes du seigneur Sican sur le site de Batan Grande. Le musée est assez petit et un peu décevant après celui d’hier. Je tente un racourcie pour éviter de retranverser Lambayaque mais suite a des travaux on se retrouve sur une mauvaise piste, du coup demi-tour, nous avons perdu deux heures.
+
+En debut d’après-midi nous sommes a Sipan sur le site où a été retrouvé le cimetière d’où a été extrait le seigneur Sipan. La aussi les plus belles pièces sont exposées à Lambayaque et nous n’avons aucun accés au site en lui même…
+
+Re racourcie et re piste mais cette fois c’est ok, on quite la région pour nous rendre à Trujillo, on alterne paysage désertique et rizières, c’est très suprenant. On s’arrête juste avant la nuit dans une station à Pacasmayo. On prend de l’essence pour la première fois au Pérou et c’est vrai que ça pique un peu les yeux puisqu’elle est ici à 1,30€ le litre soit le double de ces voisins du Nord. Cela nous prépare tout doucement à notre retour en France. On comprend pourquoi les camioneurs sont en grèves. En parlant d’eux aucun problème pour l’instant sur la route… Un peu vant la tombée de la nuit, on se pose dans une station essence qui dispose d'une grand parking un peu à l'écart de la route.
+
+## 02 avril
+
+Les nuits sont très fraiches on a du sortir la couverture, c’est vraiment un climat de désert. On repart sur la panaméricaine. A chaque fleuve qui descend de la cordillère vers l’océan on tombe sur un oasis avec souvent des rizières, champs de cannes à sucre ou bananeraies puis desert à nouveau, toujours aussi sale et malodorant, jusqu’au prochain fleuve.
+
+Premier arrêt pour le site de El Brujo et la señora Coa au bord de l'océan. Les 5 derniers kilomètres sont compliqués avec une mauvaise piste. Le site est très moderne. Nous sommes les seuls visiteurs, on commence par le site archéologique ou des fresques et bas reliefs sont encore visibles puis visite du musée où l’on peu voir la momie de la prétresse, très bien conservée, de la señora de Cao dont les bras et jambes sont reconverts de tatouages.
+
+A l'époque Mochis, les seigneurs contruisaient leurs cités aux pieds des montanges tandis que les prétresses qui étaient très puissantes construiaient leurs cités au bord de l'océan.
+
+En débiut d’après-midi nous nous approchons de Trujillo et nous nous arrêtons au site archéologique de Chan Chan qui s’étant sur 26 km de long et de large, tout construit en adobe. Nous ne visitons que le palocio Nik An qui est très impressionnant, le mur d’enceinte de la l’ancienne cité fait 13 mètres de haut, ensuite visite du musée, pas extraordianire puis nous traverssons la ville de Trijillo et nous nous posons dans un petit camping qui se trouve au pied de la Huacas del Sol et proche de la huacas de la Lune, un autre sitre que nous visiterons prochainement. Nous sommes reçus par vicky et sa soeur qui sont très sympathique, elles tiennent une mini camping. Nous sommes seuls et seulement les deuxièmes voyageurs depuis la "fin" de la pandémie. Nous trouvons rapidement nos marques. Il semble que le président péruvien soit aussi maladroit et hautain que Macron. Dans une interview il a insulté les routiers et même après de plates excuses, rien n'y a fait, les camioneurs décrètrent une grève nationale ilimitées sur tout le pays. Bon on va attendre ici...
+
+## 03 avril
+
+Ce matin nous prenons un taxi pour nous rendre au centre historique de Trujillo, sur la plazza de armas. L'endroit est très beau et les bâtiments coloniaux qui l'entourent sont très bien conservés, on dehors de ce lieu il n'y a rien d'autre à visité, la ville (900000hbts) n'a pas beaucoup d'attrait. La cuisine péruvienne est reconnue dans le mode entier et nous décidons de nous arrêter dans un restaurant connu pour être unlieu privilegié des locaux, on prend des spécialités qui sont bonnes mais pas extarordianire et très originales. Dans l'après-midi nous faisons quelques magasins puis rentrons au camping.
+
+En fin de journée arrive Yann un français qui voyage avec son chien et qui circule avec un camping-car américain comme nous. Il vient de se taper deux ans bloqué en équateur et il est trop content d'enfin pouvoir voyager à nouveau. Nous discutons un long moment autour d'un Pisco Saour que nous a préparé le fils de Vicky. Tous nos souvenirs de notre voyage au chili il y a quelques années nous reviennent en mémoire...mémoire des papilles...
+
+## 04 et 05 avril
+
+Info du jour, le routiers bloquent bien toute la ville...et le pays. Aujourd'hui je m'occupe de démonter mes batteries de service et de les nettoyer, les déoxyder. Les deux années de storage leur ont fait perdre de leur autonomie. J'en profite avec l'aide de Yann de redresser mon chassis de support de batterie que j'avais tordu sur le passage d'un énorme topé. A midi on partage notre repas avec Yann, grand amateur de Rhum (on va bien s'entendre) il nous fait gouter pour l'occasion un rhum venezuelien et un dominicain très bon...
+
+La grève continue et le site de la Huacas de la Lune est toujours fermé.   
+
+
+
+
+
+
+
 
 
 
