@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-8.110616699607451, -79.02855144254768"
-  name: "Trujillo - Pérou"
-  date: "02 au 04 avril 2022"
+  coordinates: "-12.05300995749632, -77.03890465280136"
+  name: "Lima - Pérou"
+  date: "08 au 20 avril 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
