@@ -74,18 +74,28 @@ En débiut d’après-midi nous nous approchons de Trujillo et nous nous arrêto
 
 ## 03 avril
 
-Ce matin nous prenons un taxi pour nous rendre au centre historique de Trujillo, sur la plazza de armas. L'endroit est très beau et les bâtiments coloniaux qui l'entourent sont très bien conservés, on dehors de ce lieu il n'y a rien d'autre à visité, la ville (900000hbts) n'a pas beaucoup d'attrait. La cuisine péruvienne est reconnue dans le mode entier et nous décidons de nous arrêter dans un restaurant connu pour être unlieu privilegié des locaux, on prend des spécialités qui sont bonnes mais pas extarordianire et très originales. Dans l'après-midi nous faisons quelques magasins puis rentrons au camping.
+Ce matin nous prenons un taxi pour nous rendre au centre historique de Trujillo, sur la plazza de armas. On a du tomber suru ancien pilote de rallye, on s'accroche tout le long du trajet, on s'étonne qu'il n'y ait pas plus d'accrochage. L'endroit est très beau et les bâtiments coloniaux qui l'entourent sont très bien conservés, en dehors de ce lieu il n'y a rien d'zxecptionnel, la ville (900000hbts) n'a pas beaucoup d'attrait. La cuisine péruvienne est reconnue dans le mode entier et nous décidons de nous arrêter dans un restaurant connu pour être un lieu privilegié des locaux, on prend des spécialités qui sont bonnes mais pas extraordinaires et très originales. Dans l'après-midi nous faisons quelques magasins puis rentrons au camping.
 
-En fin de journée arrive Yann un français qui voyage avec son chien et qui circule avec un camping-car américain comme nous. Il vient de se taper deux ans bloqué en équateur et il est trop content d'enfin pouvoir voyager à nouveau. Nous discutons un long moment autour d'un Pisco Saour que nous a préparé le fils de Vicky. Tous nos souvenirs de notre voyage au chili il y a quelques années nous reviennent en mémoire...mémoire des papilles...
+En fin de journée arrive Yann un français qui voyage avec son chien et qui circule avec un camping-car américain comme nous. Il vient de se taper deux ans bloqué en équateur et il est trop content d'enfin pouvoir voyager à nouveau. Nous discutons un long moment autour d'un Pisco Saour que nous a préparé Philip le fils de Vicky. Tous nos souvenirs de notre voyage au chili il y a quelques années nous reviennent en mémoire...mémoire des papilles...
 
 ## 04 et 05 avril
 
-Info du jour, le routiers bloquent bien toute la ville...et le pays. Aujourd'hui je m'occupe de démonter mes batteries de service et de les nettoyer, les déoxyder. Les deux années de storage leur ont fait perdre de leur autonomie. J'en profite avec l'aide de Yann de redresser mon chassis de support de batterie que j'avais tordu sur le passage d'un énorme topé. A midi on partage notre repas avec Yann, grand amateur de Rhum (on va bien s'entendre) il nous fait gouter pour l'occasion un rhum venezuelien et un dominicain très bon...
+Info du jour, le routiers bloquent bien toute la ville... et le pays. Aujourd'hui je m'occupe de démonter mes batteries de service et de les nettoyer, les déoxyder. Les deux années de storage leur ont fait perdre de leur autonomie. J'en profite avec l'aide de Yann de redresser mon chassis de support de batterie que j'avais tordu sur le passage d'un énorme topé. A midi on partage notre repas avec Yann, grand amateur de Rhum (on va bien s'entendre) il nous fait gouter pour l'occasion un rhum venezuelien et un dominicain très bon...
 
-La grève continue et le site de la Huacas de la Lune est toujours fermé.   
+La grève continue et le site de la Huacas de la Lune est toujours fermé. A midi, c'est vicky qui nous prépare à mangé, nous passons un long moment à table à discuter. En fin d'après-midi nous faisons une ballade aux alentours et visitons la Huacas herotico, la civilisation Mochis était très pédagogue en matière éducation sexuelle, sans aucun tabou, en témoigne de nombreuses poteries très explicites, le maire actuel de Trujillo a décidé de faire d'énormes reproductions parfois caricaturales...
+
+## 06 avril
+
+Des renseignements que nous obtenons, la situation s'arrange un peu, du moins à Trujillo, les barrages semblent se concentrer sur le Sud et le centre du pays. Du coup ce matin on visite le musée et le site de la Huacas de la Lune avec une guide francophone, la structure est imposante et il existe encore de très belles fresques et bas reliefs. La visite est très intéressante.
 
 
+A Midi c'est la soeur de Vicky qui souhaite nous offrir le repas avant notre départ, nous dégustons du cabri avec du riz et des harricots rouges en sauce, c'est très bon. En début d'après-midi nous prenons la route. On voit les stigmates des manifestations sur les bas côtés de la route. On roule sur la panaméricaine jusqu'au village de pêcheurs de Tortuga. Il fait déjà nuit qu'en on se pose sur le malecon, une habitante sort et nous souhaite la bienvenue...
 
+## 07 avril
+
+Ce matin on se réveille avec une super vue sur cette anse, le contraste avec le désert est saisissant, on promemene dans le village, les habitants sont supers accueillants.
+
+## 08 au 22 avril
 
 
 
