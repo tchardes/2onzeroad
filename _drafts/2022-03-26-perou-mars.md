@@ -95,7 +95,7 @@ A Midi c'est la soeur de Vicky qui souhaite nous offrir le repas avant notre dé
 
 Ce matin on se réveille avec une super vue sur cette anse, le contraste avec le désert est saisissant, on promemene dans le village, les habitants sont supers accueillants.
 
-## 08 au 22 avril
+## 08 au 20 avril
 
 
 
