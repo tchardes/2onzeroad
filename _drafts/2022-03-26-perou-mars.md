@@ -88,16 +88,15 @@ La grève continue et le site de la Huacas de la Lune est toujours fermé. A mid
 
 Des renseignements que nous obtenons, la situation s'arrange un peu, du moins à Trujillo, les barrages semblent se concentrer sur le Sud et le centre du pays. Du coup ce matin on visite le musée et le site de la Huacas de la Lune avec une guide francophone, la structure est imposante et il existe encore de très belles fresques et bas reliefs. La visite est très intéressante.
 
-
 A Midi c'est la soeur de Vicky qui souhaite nous offrir le repas avant notre départ, nous dégustons du cabri avec du riz et des harricots rouges en sauce, c'est très bon. En début d'après-midi nous prenons la route. On voit les stigmates des manifestations sur les bas côtés de la route. On roule sur la panaméricaine jusqu'au village de pêcheurs de Tortuga. Il fait déjà nuit qu'en on se pose sur le malecon, une habitante sort et nous souhaite la bienvenue...
 
 ## 07 avril
 
-Ce matin on se réveille avec une super vue sur cette anse, le contraste avec le désert est saisissant, on promemene dans le village, les habitants sont supers accueillants.
+Ce matin on se réveille avec une super vue sur cette anse, le contraste avec le désert est saisissant, on passe la matinée à se promemener dans le village, les habitants sont supers accueillants. En début d'aprè-midi nous reprenant notre route sur la panaméricaine en compagnie de Yann qui ouvre la voie. La route est magnifique, nous traverssons cette zone désertiques entourée de chaines de montagnes aux multiples couleurs, certaines côté Pacifique sont recouvertes d'une voile de brumes venant de l'océan, c'est magique. Nous nous posons pour la nuit dans un camping du côté de Huaral, l'endroit est bien sympathique et l'accueil est chaleureux. Ce soir c'est Yann qui nous propose de préparer le repas et il invite pour l'occasion Rodrigo et son oncle du camping. Nous sortons l'extension et mangeons tous dans Thor, nous passons une excellente soirée à parler surtout musique autour d'un bon plat. Nous ne comprenons pas tout mais l'essentiel...
 
 ## 08 au 20 avril
 
-
+Nous partons en milieu de matinée pour traverser Lima à une heure pas trop chargée. Comme toutes les capitales, la circulation est hyper dense et nous mettons plus de 2 heures pour traverser cette immense ville de 9 milions d'habitants. On a de la chance "Lima la grise" n'est pas dans la brume. Les axes sont larges et la conduite n'est pas trop difficile. Après un arrêt pour faire le plein de provisions, nous nous dirrigeons plein Est vers Cienaguilla au camping "El Refugio" notre dernière destination, où nous allons laisser Thor quelques mois.
 
 
 
