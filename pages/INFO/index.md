@@ -291,6 +291,11 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 - Manon et Nicolas : un couple de français rencontrè le 14 février 2022 en Colombie à Santa Elena au camping "Al Bosque".
 - Snow et Kurt : Un couple d'américains rencontré le 10 mars 2022 en Equateur, Ibarra chez Hans au camping "Finca Summerwind".
 - [Juan et Monica - Sin frontera Cultural](https://www.facebook.com/sinfronteracultural): un couple de colombien rencontré le 24 mars 2022 au Pérou, Zorritos au camping Swiss Wassi.
+- [Yann et Summer](https://www.facebook.com/ByZWay) : Yanne et son chien summer rencontrés le 03 avril 2022 à Trujillo au Pérou au camping Ramada Campestre.
+- Popé, Maria et Lola : un couple argento péruvien avec leur petite fille rencontrés le 8 avril 2022 à Cieneguilla au Pérou au camping "El Refugio".
+
+
+
 
 ## Divers
 
