@@ -96,7 +96,9 @@ Ce matin on se réveille avec une super vue sur cette anse, le contraste avec le
 
 ## 08 au 20 avril
 
-Nous partons en milieu de matinée pour traverser Lima à une heure pas trop chargée. Comme toutes les capitales, la circulation est hyper dense et nous mettons plus de 2 heures pour traverser cette immense ville de 9 milions d'habitants. On a de la chance "Lima la grise" n'est pas dans la brume. Les axes sont larges et la conduite n'est pas trop difficile. Après un arrêt pour faire le plein de provisions, nous nous dirrigeons plein Est vers Cienaguilla au camping "El Refugio" notre dernière destination, où nous allons laisser Thor quelques mois.
+Nous partons en milieu de matinée pour traverser Lima à une heure pas trop chargée. Comme toutes les capitales, la circulation est hyper dense et nous mettons plus de 2 heures pour traverser cette immense ville de près de 10 milions d'habitants. On a de la chance "Lima la grise" n'est pas dans la brume. Les axes sont larges et la conduite n'est pas trop difficile. Après un arrêt pour faire le plein de provisions, nous nous dirrigeons plein Est vers Cienaguilla au camping "El Refugio" notre dernière destination, où nous allons laisser Thor quelques mois.
+
+Nous sommes très bien reçu par Heraldo, Sarah et "El Chine". 
 
 
 
