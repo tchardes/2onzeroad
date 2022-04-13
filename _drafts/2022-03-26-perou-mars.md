@@ -101,7 +101,7 @@ Nous partons en milieu de matinée pour traverser Lima à une heure pas trop cha
 Nous sommes très bien reçu par Heraldo, Sarah et "El Chine". 
 
 
-
+Le 13 avec Heraldo nous allons au cmissariat de police pour commencer notre dossier de suspenson de TIP pour un an, les policier doivnet effectivement attester que le vehicule est bien entreposé chez heraldo et qu'il n'en bouge pas , à partir de là on peut demander à l Sunat de suspendre le tIP. On est très bien reçu par une agent qui s'occupe de nous immédiatement, la procédure prend quelques minutes. Elle tamponne le dossier à la date d'aujourd'hui et un policier passera au camping vérifier.
 
 
 Après une nuit au final très calme, nous nous dirigeons vers la frontière et quittons définitivement le Pérou, les démarches sont très rapides et originales. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-24-perou-frontiere %}">ici</a>)**
