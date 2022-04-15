@@ -98,7 +98,7 @@ Ce matin on se réveille avec une super vue sur cette anse, le contraste avec le
 
 Nous partons en milieu de matinée pour traverser Lima à une heure pas trop chargée. En route je fais le plein de propane dans une station service. J'avis commander sur Internet un adaptateur pour mon tank US et cela fonctionne super bien. Après des jours de galères pour en trouver en Colombie, ici c'est super simple ça va nous changer... Comme toutes les capitales, la circulation est hyper dense et nous mettons plus de 2 heures pour traverser cette immense ville de près de 10 milions d'habitants. On a de la chance "Lima la grise" n'est pas dans la brume. Les axes sont larges et la conduite n'est pas trop difficile. Après un arrêt pour faire le plein de provisions, nous nous dirrigeons plein Est vers Cienaguilla au camping "El Refugio" notre dernière destination, où nous allons laisser Thor quelques mois.
 
-Nous sommes très bien reçu par Heraldo, Sarah et "El Chine". 
+Nous sommes très bien reçu par Heraldo, Sarah et "El Chino". 
 
 
 Le 13 avec Heraldo nous allons au cmissariat de police pour commencer notre dossier de suspenson de TIP pour un an, les policier doivnet effectivement attester que le vehicule est bien entreposé chez heraldo et qu'il n'en bouge pas , à partir de là on peut demander à l Sunat de suspendre le tIP. On est très bien reçu par une agent qui s'occupe de nous immédiatement, la procédure prend quelques minutes. Elle tamponne le dossier à la date d'aujourd'hui et un policier passera au camping vérifier.
