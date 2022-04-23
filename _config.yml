@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-12.05300995749632, -77.03890465280136"
-  name: "Lima - Pérou"
-  date: "08 au 20 avril 2022"
+  coordinates: "46.80297685536561, 2.4200213717338106"
+  name: "France"
+  date: "21 avril 2022"
 
 # set the encoding to utf-8
 encoding: utf-8
