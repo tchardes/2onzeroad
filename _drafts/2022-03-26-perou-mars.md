@@ -26,13 +26,23 @@ Cet article couvre la période du 24 mars au 20 avril 2022, au cours de laquelle
 
 Le passage à la frontière est assez simple et rapide, en un peu plus d'une heure toutes les formalités équatoriennes et péruviennes sont finalisées. **(voir la procédure complète <a href="{{site.baseurl}}{% post_url 2022/2022-03-24-perou-frontiere %}">ici</a>)**
 
-Notre premier arrêt est pour la ville de Zarumilla pour l'habituelle changement de carte SIM. Tous les magasins ne proposent que des recharges et me conseillent d'aller sur Tumbes. Effectivement, c'est dans cette ville assez brouillonne, peu acceuillante, que nous changeons notre carte sim pour un opérateur péruvien. Nous sommes très surpris par la différence de paysage entre les deux pays, très vert et agricole côté Equateur et quasiment désertique côté Pérou. Rapidement la route longe la côte Pacifique avec de très longue plages. Nous nous posons pour notre premier bivouac dans un très beau camping tenu par un Suisse, francophone ce coup-ci, à Zorritos. L'acceuil est chaleureux et nous rencontrons un couple de jeunes colombiens, Juan et Monica avec qui nous discutons un bon moment.
+Notre premier arrêt est pour la ville de Zarumilla pour l'habituelle changement de carte SIM. Tous les magasins ne proposent que des recharges et me conseillent d'aller sur Tumbes. Effectivement, c'est dans cette ville assez brouillonne, peu acceuillante, que nous changeons notre carte sim pour un opérateur péruvien. Nous sommes très surpris par la différence de paysage entre les deux pays, très vert et agricole côté Equateur et quasiment désertique côté Pérou. Rapidement la route longe la côte Pacifique avec de très longue plages. Nous nous posons pour notre premier bivouac dans un très beau camping tenu par un Suisse, francophone ce coup-ci, à Zorritos. L'acceuil est chaleureux et nous rencontrons un couple de jeunes colombiens, Juan et Monica avec qui nous discutons de longs moments, nous avons le même niveau d'anglais...
+
+<img src="{{baseurl}}/assets/owner/photos/perou10.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/perou11.jpg" style="width:100%" />
 
 ## 25 au 30 mars
 
 Nous passons quelques jours dans ce superbe endroit ou bord de l'océan Pacifique, nous fêtons ici notre 800 éme jours en road trip, c'est incroyable. Pour nous qui aimons les voyages, nous sommes conscients de la chance qui nous est offerte de pouvoir vivre cette aventure personnelle. Cette sensation de totale liberté, de parenthèse dans une vie toujours trop speed et souvent réglée comme du papier à musique, d'excitation de partir vers l'inconnue sans repère aucun est unique. Nous n'avons que le nécessaire et au final il n'en faut pas plus. Paulo Coelho disait "Si vous pensez que l'aventure est dangereuse, essayez la routine… Elle est mortelle!". ... Bref nous espérons encore en profiter longtemps et continuer à découvrir d'autres lieux est d'autres personnes très différents.
 
+<img src="{{baseurl}}/assets/owner/photos/perou12.jpg" style="width:100%" />
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52041542142/in/datetaken-public/" title="Zorritos - [Perou]"><img src="https://live.staticflickr.com/65535/52041542142_0130890049_k.jpg" width="2048" height="1152" alt="Zorritos - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Le Pérou n'est pas épargné par la situation mondiale, le prix des carburants a, ici aussi, fortement augmenté et les professionnels de la route sont en grève et bloquent les axes principaux et en priorité la panaméricaine. On reste donc sagement au camping en entendant que la situation revienne au calme. Après tout il y a pire comme endroit pour patienter...
+
+<img src="{{baseurl}}/assets/owner/photos/perou13.jpg" style="width:100%" />
 
 ## 30 mars
 
