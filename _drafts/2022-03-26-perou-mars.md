@@ -75,7 +75,7 @@ Avec l’érosion, ces pyramides construitent avec des milliers de briques en te
 
 Je demande au gardien de nuit si nous pouvons dormir là, il me dit avec plaisir, il va jeter un œil sur nous toute la nuit et nous indique qua la police passe également régulièrement. Avec tout cela nous allons pouvoir dormir sur nous deux oreilles, un peu comme d’habitude, il faut l'avouer.
 
-<img src="{{baseurl}}/assets/owner/photos/perou13.jpg" style="width:100%" />
+<img src="{{baseurl}}/assets/owner/photos/perou14.jpg" style="width:100%" />
 
 ## 01 avril
 
@@ -183,7 +183,9 @@ Le 14 la police se déplace pour vérifier que Thor est bien là, il revient en 
 
 ## 18 au 20 avril
 
-Pope doit également quitter le camping pour Lima et il nous propose de nous y conduire dans la camping-car. Il nous dépose dans un très beau quartier où habite le grand-père de Maria et nous prenons un taxi pour regagner l'hôtel que nous avons réservé pour deux nuits dans le très beau quartier de Miraflores.
+Pope doit également quitter El Regugio pour Lima et il nous propose de nous y conduire dans la camping-car. Il nous dépose dans un très beau quartier où habite le grand-père de Maria et nous prenons un taxi pour regagner l'hôtel que nous avons réservé pour deux nuits dans le très beau quartier de Miraflores.
+
+Nous passons les deux dernier jours à visiter le centre historique
 
 **Nous avons vraiment adoré :**
 
