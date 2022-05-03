@@ -143,6 +143,8 @@ Ici nous rencontrons des "chiens nus"... Il s'agit d'une race péruvienne de can
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044952583/in/datetaken-public/" title="Trujillo - [Perou]"><img src="https://live.staticflickr.com/65535/52044952583_61a76cbcf6_k.jpg" width="2048" height="1152" alt="Trujillo - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<img src="{{baseurl}}/assets/owner/photos/perou18.jpg" style="width:100%" />
+
 ## 06 avril
 
 Des renseignements que nous obtenons, la situation s'arrange un peu, du moins à Trujillo, les barrages semblent se concentrer sur le Sud et le centre du pays. Du coup ce matin on visite le musée et le site de la Huaca de la Lune avec une guide francophone, la structure est imposante et il existe encore de très belles fresques et bas reliefs. La visite est très intéressante.
