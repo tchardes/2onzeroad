@@ -155,25 +155,25 @@ Des renseignements que nous obtenons, la situation s'arrange un peu, du moins à
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52043312252/in/datetaken-public/" title="Trujillo - [Perou]"><img src="https://live.staticflickr.com/65535/52043312252_e4656ae425_k.jpg" width="2048" height="1152" alt="Trujillo - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A Midi c'est la soeur de Vicky qui souhaite nous offrir le repas avant notre départ, nous dégustons du cabri avec du riz et des haricots rouges en sauce, c'est très bon. En début d'après-midi nous prenons la route. On voit les stigmates des manifestations sur les bas côtés de la route. On roule sur la panaméricaine jusqu'au village de pêcheurs de Tortuga. Il fait déjà nuit qu'en on se pose sur le malecon, une habitante sort et nous souhaite la bienvenue...
+A Midi c'est la soeur de Vicky qui souhaite nous offrir le repas avant notre départ, nous dégustons du cabri avec du riz et des haricots rouges en sauce, c'est très bon. En début d'après-midi nous prenons la route. On voit les stigmates des manifestations sur les bas côtés de la route. On roule sur la panaméricaine jusqu'au village de pêcheurs de Tortuga. Il fait déjà nuit quand on se pose sur le malecon, une habitante sort et nous souhaite la bienvenue...
 
 <img src="{{baseurl}}/assets/owner/photos/perou16.jpg" style="width:100%" />
 
 ## 07 avril
 
-Ce matin on se réveille avec une super vue sur cette anse, le contraste avec le désert est saisissant, on passe la matinée à se promener dans le village, les habitants sont supers accueillants. A l'entrée de la baie on peu apercevoir un mur de brumes maritimes que les vents de terres maintiennent à distance. La côte pacifique est souvent prises dans les brumes.
+Ce matin on se réveille avec une super vue sur cette anse, le contraste avec le désert est saisissant, on passe la matinée à se promener dans le village, les habitants sont supers accueillants. A l'entrée de la baie on peu apercevoir un mur de brumes maritimes que les vents de terres maintiennent à distance. La côte pacifique est souvent prises dans ces brumes.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044896841/in/datetaken-public/" title="Tortugas - [Perou]"><img src="https://live.staticflickr.com/65535/52044896841_325dad5453_k.jpg" width="2048" height="935" alt="Tortugas - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044896556/in/datetaken-public/" title="Tortugas - [Perou]"><img src="https://live.staticflickr.com/65535/52044896556_b0dc006eb7_k.jpg" width="2048" height="769" alt="Tortugas - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En début d'aprè-midi nous reprenant notre route sur la panaméricaine en compagnie de Yann qui ouvre la voie. La route est magnifique, nous traversons cette zone désertiques entourée de chaines de montagnes aux multiples couleurs, certaines côté Pacifique sont recouvertes d'une voile de brumes venant de l'océan, c'est magique. Nous nous posons pour la nuit dans un camping du côté de Huaral, l'endroit est bien sympathique et l'accueil est chaleureux. Ce soir c'est Yann qui nous propose de préparer le repas et il invite pour l'occasion Rodrigo et son oncle du camping. Nous sortons l'extension et mangeons tous dans Thor, nous passons une excellente soirée à parler surtout musique autour d'un bon plat. Nous ne comprenons pas tout mais l'essentiel...
+En début d'après-midi nous reprenons notre route sur la panaméricaine en compagnie de Yann qui ouvre la voie. La route est magnifique, nous traversons cette zone désertiques entourée de chaines de montagnes aux multiples couleurs, certaines côté Pacifique sont recouvertes d'une voile de brumes venant de l'océan, c'est magique. Nous nous posons pour la nuit dans un camping du côté de Huaral, l'endroit est bien sympathique et l'accueil est chaleureux. Ce soir c'est Yann qui nous propose de préparer le repas et il invite pour l'occasion Rodrigo et son oncle du camping. Nous sortons l'extension et mangeons tous dans Thor, nous passons une excellente soirée à parler surtout musique autour d'un bon plat. Nous ne comprenons pas tout mais l'essentiel...
 
 <img src="{{baseurl}}/assets/owner/photos/perou17.jpg" style="width:100%" />
 
 ## 08 au 18 avril
 
-Nous partons en milieu de matinée pour traverser Lima à une heure pas trop chargée. En route je fais le plein de propane dans une station service. J'avis commander sur Internet un adaptateur pour mon tank US et cela fonctionne super bien. Après des jours de galères pour en trouver en Colombie, ici c'est super simple ça va nous changer... Comme toutes les capitales, la circulation est hyper dense et nous mettons plus de 2 heures pour traverser cette immense ville de près de 10 millions d'habitants. On a de la chance "Lima la grise" n'est pas dans la brume. Les axes sont larges et la conduite n'est pas trop difficile. Après un arrêt pour faire le plein de provisions, nous nous dirrigeons plein Est vers Cienaguilla au camping "El Refugio" notre dernière destination, où nous allons laisser Thor quelques mois.
+Nous partons en milieu de matinée pour traverser Lima à une heure pas trop chargée. En route je fais le plein de propane dans une station service. J'avais commander sur Internet un adaptateur pour mon tank US et cela fonctionne super bien. Après des jours de galères pour en trouver en Colombie, ici c'est super simple ça va nous changer... Comme toutes les capitales, la circulation est hyper dense et nous mettons plus de 2 heures pour traverser cette immense ville de près de 10 millions d'habitants. On a de la chance "Lima la grise" n'est pas dans la brume. Les axes sont larges et la conduite n'est pas trop difficile. Après un arrêt pour faire le plein de provisions, nous nous dirrigeons plein Est vers Cienaguilla au camping "El Refugio" notre dernière destination, où nous allons laisser Thor quelques mois.
 
 Nous sommes très bien reçu par Heraldo, Sarah et "El Chino". 
 
@@ -183,18 +183,20 @@ Le 14 la police se déplace pour vérifier que Thor est bien là, il revient en 
 
 ## 18 au 20 avril
 
+Pope doit également quitter le camping pour Lima et il nous propose de nous y conduire dans la camping-car. Il nous dépose dans un très beau quartier où habite le grand-père de Maria et nous prenons un taxi pour regagner l'hôtel que nous avons réservé pour deux nuits dans le très beau quartier de Miraflores.
+
 **Nous avons vraiment adoré :**
 
 - La qualité du réseau routier principal ;
-- Les paysages magnifique même si les conditions atmosphèriques n'ont pas été toujours de notre côté ;
-- La côte Pacifique ;
-- Dans l'ensemble le pays est très propre.
+- La côte Pacifique et les paysages désertiques ;
+- La facilité pour trouver du propane ;
+- La souplesse de l'administration péruvienne qui nous permet de suspendre notre TIP.
 
 **Nous avons moins aimé :**
 
-- La mauvaise qualité du réseau routier secondaire ;
-- La pluie, la pluie, la pluie et le brouillard ;
-- La relative chéreté de la vie en raison de leur passage au Dollar US.
+- Les ordures omni présentes au bord des routes ;
+- Le prix de l'essence ;
+- 
 
 Nous avons passé au total 15 jours en Equateur et avons parcouru près de 1153 Km. Décidement l'Equateur ne nous aura pas permis de faire tout ce que nous avions programmé, notamment la partie entre Quito et Cuenca en raison du temps et entre Cuenca, Loja et Vilcabamba en raison de ... plus de route. Même si, en génèral, les matinées sont peu pluvieuses la couverture nuageuse est trop importante pour pouvoir admirer la cordillère et ces volcans. On savait que nous y serions en pleine saison des pluies mais cette année le phénomene "El Niño" a amplifié et aggravé la situation. Aucun ressentie d'insécurité, si ce n'est un peu dans Quito mais la police était omniprésente. Si en Colombie les routes étaient moins belles il y avait des armadas d'employés de voirie qui entretenaient les abords des routes et s'occupaient de nettoyer la route après un éboulement, même le dimanche. En equateur personne au bord des routes secondaires envahies par la végétation et aucun dégagement de la route des nombreux éboulements (même anciens), obligeant les conducteurs à slalommer entre rochers et amas de terre, arbres arrachés.
 
