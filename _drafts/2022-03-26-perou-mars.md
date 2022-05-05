@@ -234,6 +234,7 @@ Le 19 nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'e
 
 - La qualité du réseau routier principal ;
 - La côte Pacifique et les paysages désertiques ;
+- Les sites archéologiques d'anciennes civilasation peu connues ;
 - La facilité pour trouver du propane ;
 - La souplesse de l'administration péruvienne qui nous permet de suspendre notre TIP.
 
