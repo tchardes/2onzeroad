@@ -175,9 +175,26 @@ En début d'après-midi nous reprenons notre route sur la panaméricaine en comp
 
 Nous partons en milieu de matinée pour traverser Lima à une heure pas trop chargée. En route je fais le plein de propane dans une station service. J'avais commander sur Internet un adaptateur pour mon tank US et cela fonctionne super bien. Après des jours de galères pour en trouver en Colombie, ici c'est super simple ça va nous changer... Comme toutes les capitales, la circulation est hyper dense et nous mettons plus de 2 heures pour traverser cette immense ville de près de 10 millions d'habitants. On a de la chance "Lima la grise" n'est pas dans la brume. Les axes sont larges et la conduite n'est pas trop difficile. Après un arrêt pour faire le plein de provisions, nous nous dirrigeons plein Est vers Cienaguilla au camping "El Refugio" notre dernière destination, où nous allons laisser Thor quelques mois.
 
+<img src="{{baseurl}}/assets/owner/photos/perou19.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/perou20.jpg" style="width:100%" />
+
+
+
+
+
+
 Nous sommes très bien reçus par Heraldo (argentin), Sarah (péruvienne) et "El Chino" un employé argentin. Le camping se trouve dans une vallée encaissée entre deux montagnes pelées, sans aucune végétation, nous sommes en plein désert et seuls les abords du fleuve qui traverse la ville présentent de la végétation. L'eau de ville est accéssible uniquement de 10 heures à midi, Héraldo profite de ces moments là pour remplir de gros réservoirs qui permettent de tenir toute la journée. Même si le camping est assez rustique il y a tout le confort même une piscine. Nous sommes trois voyageurs, Yann, Pope (argentin) Maria (péruvienne) et leur fille Lola, et nous.
 
+<img src="{{baseurl}}/assets/owner/photos/perou21.jpg" style="width:100%" />
+
 En raison de la pandémie et de l'absence de voyageur, Heraldo a divisé son terrain en deux et a construit des cabañas pour y accueillir des vancanciers. Il y a toujours du monde, des fêtes, des barbecues, des soirées très animées, les argentins consomment leur mate coca toute la journée ainsi que d'autres herbes... On teste plusieurs vins chiliens et argentins aisnsi que divers rhum. Je profite également de cette pose pour changer le moteur de mon auvent et faire quelques bricoles.
+
+<img src="{{baseurl}}/assets/owner/photos/perou22.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/perou23.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/perou24.jpg" style="width:100%" />
 
 Avec Héraldo on s'occupe de la suspension de notre titre importantion temporaire pour Thor afin que l'on puisse rentrer en France et le laisser quelques mois au Pérou en toute légalité et sécurité. Le 13 nous allons au commissariat de police pour leur apporter un dossier complet et leur demander de se déplacer au Camping pour q'ils attestent par procés-verbal que Thor est bien entreposé chez Heraldo. On est très bien reçu par une agent qui s'occupe de nous immédiatement, elle controle les pièces, tamponne la demande et nous remet un reçu. Le 14 la police se déplace au camping et vérifie Thor en long en large et en travers. Il revient en début de soirée pour nous faire signée à Heraldo et moi son PV de constatations. Le 16 nous nous rendons à nouveau au commissariat pour récupérer une copie certifiée du document.Dans l'après-midi j'adresse par courrier electronique tous les documents à la douane (SUNAT) de notre lieu d'entrée au Pérou afin d'obtenir la fameuse suspension.
 
@@ -185,9 +202,11 @@ Avec Héraldo on s'occupe de la suspension de notre titre importantion temporair
 
 Pope doit également quitter El Regugio pour Lima et il nous propose de nous y conduire dans son camping-car. Il nous dépose dans un très beau quartier où habite le grand-père de Maria et nous prenons un taxi pour regagner l'hôtel que nous avons réservé pour deux nuits dans le très beau quartier de Miraflores.
 
-Nous passons les deux dernier jours à visiter la capitale. Nous avons de la chance car il fait très beau, aucune brume ne vient envahir la côte. Le centre historique, notamment la plazza de armas, est difficilement 
+Nous passons les deux dernier jours à visiter la capitale. Nous avons de la chance car il fait très beau, aucune brume ne vient envahir la côte. Le centre historique est très beau mais en raison des mouvements sociaux, la police anti émeute est omniprésente et bloque de nombreuses avenues qui donnent sur la plazza de armas où se trouve les batiments gouvernementaux. On arrive a passer certains contrôles en expliquant que l'on veut juste prendre quelques photos.
 
-Le 19 nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'envoi à Héraldo, nous sommes rassusrés et pouvons quitter le Pérou pour quelques mois, serins.
+Les quartiers au Sud de la ville, Miraflores et Barranco sont très beau et sécurisé, on promene un long moment, perché en haut de falaises le vue sur le pacifique est très belle.
+
+Le 19 nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'envoi à Héraldo, nous sommes rassurés et pouvons quitter le Pérou pour quelques mois, sereins. 
 
 **Nous avons vraiment adoré :**
 
