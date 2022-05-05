@@ -212,7 +212,21 @@ Pope doit également quitter El Regugio pour Lima et il nous propose de nous y c
 
 Nous passons les deux dernier jours à visiter la capitale. Nous avons de la chance car il fait très beau, aucune brume ne vient envahir la côte. Le centre historique est très beau mais en raison des mouvements sociaux, la police anti émeute est omniprésente et bloque de nombreuses avenues qui donnent sur la plazza de armas où se trouve les batiments gouvernementaux. On arrive a passer certains contrôles en expliquant que l'on veut juste prendre quelques photos.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52043852807/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52043852807_7608b9f2b1_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044355946/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044355946_50ca5cd1cf_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044951508/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044951508_f740e07862_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044605589/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044605589_077234ccb6_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Les quartiers au Sud de la ville, Miraflores et Barranco sont très beau et sécurisé, on promene un long moment, perché en haut de falaises le vue sur le pacifique est très belle.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044951223/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044951223_88498d73b4_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044605074/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044605074_02c31e801b_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044951183/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044951183_65c9b436a0_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Le 19 nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'envoi à Héraldo, nous sommes rassurés et pouvons quitter le Pérou pour quelques mois, sereins. 
 
