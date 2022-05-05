@@ -194,13 +194,17 @@ En raison de la pandémie et de l'absence de voyageur, Heraldo a divisé son ter
 
 <img src="{{baseurl}}/assets/owner/photos/perou23.jpg" style="width:100%" />
 
-<img src="{{baseurl}}/assets/owner/photos/perou24.jpg" style="width:100%" />
-
 Avec Héraldo on s'occupe de la suspension de notre titre importantion temporaire pour Thor afin que l'on puisse rentrer en France et le laisser quelques mois au Pérou en toute légalité et sécurité. Le 13 nous allons au commissariat de police pour leur apporter un dossier complet et leur demander de se déplacer au Camping pour q'ils attestent par procés-verbal que Thor est bien entreposé chez Heraldo. On est très bien reçu par une agent qui s'occupe de nous immédiatement, elle controle les pièces, tamponne la demande et nous remet un reçu. Le 14 la police se déplace au camping et vérifie Thor en long en large et en travers. Il revient en début de soirée pour nous faire signée à Heraldo et moi son PV de constatations. Le 16 nous nous rendons à nouveau au commissariat pour récupérer une copie certifiée du document.Dans l'après-midi j'adresse par courrier electronique tous les documents à la douane (SUNAT) de notre lieu d'entrée au Pérou afin d'obtenir la fameuse suspension.
 
 ## 18 au 20 avril
 
+Ce matin on fini les derniers préparatifs, on vide et on nettoye les réservoirs et on prpéare Thor à de long moments d'attente. On le stationne un peu à l'écart et Yann nous donne une bache pour protéger l'avant de Thor de la poussière. Dernière photo avec toutes les personnes avec lesquelles nous avons passé ces 10 dernier jours.
+
+<img src="{{baseurl}}/assets/owner/photos/perou24.jpg" style="width:100%" />
+
 Pope doit également quitter El Regugio pour Lima et il nous propose de nous y conduire dans son camping-car. Il nous dépose dans un très beau quartier où habite le grand-père de Maria et nous prenons un taxi pour regagner l'hôtel que nous avons réservé pour deux nuits dans le très beau quartier de Miraflores.
+
+<img src="{{baseurl}}/assets/owner/photos/perou25.jpg" style="width:100%" />
 
 Nous passons les deux dernier jours à visiter la capitale. Nous avons de la chance car il fait très beau, aucune brume ne vient envahir la côte. Le centre historique est très beau mais en raison des mouvements sociaux, la police anti émeute est omniprésente et bloque de nombreuses avenues qui donnent sur la plazza de armas où se trouve les batiments gouvernementaux. On arrive a passer certains contrôles en expliquant que l'on veut juste prendre quelques photos.
 
