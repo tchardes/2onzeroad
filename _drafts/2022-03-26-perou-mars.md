@@ -220,7 +220,7 @@ Nous passons les deux dernier jours à visiter la capitale. Nous avons de la cha
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044605589/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044605589_077234ccb6_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Les quartiers au Sud de la ville, Miraflores et Barranco sont très beau et sécurisé, on promene un long moment, perché en haut de falaises le vue sur le pacifique est très belle.
+Les quartiers au Sud de la ville, Miraflores et Barranco sont très beaux et sécurisés, on y promène un long moment, souvent perchés en haut de falaises, la vue sur le pacifique est très belle.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044951223/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044951223_88498d73b4_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
