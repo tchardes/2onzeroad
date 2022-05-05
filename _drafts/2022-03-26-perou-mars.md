@@ -188,13 +188,17 @@ Nous sommes très bien reçus par Heraldo (argentin), Sarah (péruvienne) et "El
 
 <img src="{{baseurl}}/assets/owner/photos/perou21.jpg" style="width:100%" />
 
-En raison de la pandémie et de l'absence de voyageur, Heraldo a divisé son terrain en deux et a construit des cabañas pour y accueillir des vancanciers. Il y a toujours du monde, des fêtes, des barbecues, des soirées très animées, les argentins consomment leur mate coca toute la journée ainsi que d'autres herbes... On teste plusieurs vins chiliens et argentins aisnsi que divers rhum. Je profite également de cette pose pour changer le moteur de mon auvent et faire quelques bricoles.
+En raison de la pandémie et de l'absence de voyageur, Heraldo a divisé son terrain en deux et a construit des cabañas pour y accueillir des vancanciers. Il y a toujours du monde, des fêtes, des barbecues, des soirées très animées, les argentins consomment leur mate coca toute la journée ainsi que d'autres herbes... On teste plusieurs vins chiliens et argentins ainsi que divers rhums. Je profite également de cette pose pour changer le moteur de mon auvent et faire quelques bricoles.
 
 <img src="{{baseurl}}/assets/owner/photos/perou22.jpg" style="width:100%" />
 
 <img src="{{baseurl}}/assets/owner/photos/perou23.jpg" style="width:100%" />
 
 Avec Héraldo on s'occupe de la suspension de notre titre importantion temporaire pour Thor afin que l'on puisse rentrer en France et le laisser quelques mois au Pérou en toute légalité et sécurité. Le 13 nous allons au commissariat de police pour leur apporter un dossier complet et leur demander de se déplacer au Camping pour q'ils attestent par procés-verbal que Thor est bien entreposé chez Heraldo. On est très bien reçu par une agent qui s'occupe de nous immédiatement, elle controle les pièces, tamponne la demande et nous remet un reçu. Le 14 la police se déplace au camping et vérifie Thor en long en large et en travers. Il revient en début de soirée pour nous faire signée à Heraldo et moi son PV de constatations. Le 16 nous nous rendons à nouveau au commissariat pour récupérer une copie certifiée du document.Dans l'après-midi j'adresse par courrier electronique tous les documents à la douane (SUNAT) de notre lieu d'entrée au Pérou afin d'obtenir la fameuse suspension.
+
+<img src="{{baseurl}}/assets/owner/photos/perou27.jpg" style="width:100%" />
+
+<img src="{{baseurl}}/assets/owner/photos/perou28.jpg" style="width:100%" />
 
 ## 18 au 20 avril
 
