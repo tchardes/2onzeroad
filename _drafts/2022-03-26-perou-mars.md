@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-perou2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-equateur.jpg
 tags: [histoire, architecture, culturel, mer-ocean, plage ]
-pois: [zorritos#24-mars, piura#30-mars, sipan#31-mars, tucume#31-mars, ]
+pois: [zorritos#24-mars, piura#30-mars, sipan#31-mars, tucume#31-mars, sican#01-avril, ]
 country: Pérou
 states: []
 category: "roadmap"
@@ -139,7 +139,7 @@ La grève continue et le site de la Huaca de la Luna est toujours fermé. A midi
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52045148069/in/datetaken-public/" title="Trujillo - [Perou]"><img src="https://live.staticflickr.com/65535/52045148069_ff412ce0a7_k.jpg" width="2048" height="1152" alt="Trujillo - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Ici nous rencontrons des "chiens nus"... Il s'agit d'une race péruvienne de canidé dont la paticularité est de n'avoir presque pas de poil sauf un peu sur la tête, certains ressemblent à des iroquois avec uniquement une crête sur la tête. Ils sont toutefois moins laid que les chats sphinx... Il existe des preuves archéologiques de sa présence sur des céramiques des civilisations pré-incas Vicús, Moche et Chancay. La représentation du chien nu a remplacé celle du puma, du serpent ou du faucon, notamment dans la culture Chancay.
+Ici nous rencontrons des "chiens nus", il s'agit d'une race péruvienne de canidé dont la paticularité est de n'avoir presque pas de poil sauf un peu sur la tête, certains ressemblent à des iroquois avec uniquement une crête sur la tête. Ils sont toutefois moins laid que les chats sphinx... Il existe des preuves archéologiques de sa présence sur des céramiques des civilisations pré-incas Vicús, Moche et Chancay. La représentation du chien nu a remplacé celle du puma, du serpent ou du faucon, notamment dans la culture Chancay.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044952583/in/datetaken-public/" title="Trujillo - [Perou]"><img src="https://live.staticflickr.com/65535/52044952583_61a76cbcf6_k.jpg" width="2048" height="1152" alt="Trujillo - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -220,7 +220,7 @@ Nous passons les deux dernier jours à visiter la capitale. Nous avons de la cha
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044605589/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044605589_077234ccb6_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Les quartiers au Sud de la ville, Miraflores et Barranco sont très beaux et sécurisés, on y promène un long moment, souvent perchés en haut de falaises, la vue sur le pacifique est très belle.
+Les quartiers au Sud de la ville, Miraflores et Barranco sont très beaux et sécurisés, on y promène un long moment, souvent perchés en haut de falaises avec une très belle vue sur le pacifique.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044951223/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044951223_88498d73b4_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
