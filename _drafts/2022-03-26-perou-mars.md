@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-perou2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-equateur.jpg
 tags: [histoire, architecture, culturel, mer-ocean, plage ]
-pois: [tulcan#09-mars]
+pois: [zorritos#24-mars, piura#30-mars, sipan#31-mars, tucume#31-mars, ]
 country: Pérou
 states: []
 category: "roadmap"
@@ -79,7 +79,7 @@ Je demande au gardien de nuit si nous pouvons dormir là, il me dit avec plaisir
 
 ## 01 avril
 
-Nous revenons sur nos pas et repassons par Chiclayo pour nous rendre au **musée Sican** qui regroupe des objets découverts dans le tombes du seigneur de Sican sur le site de Batan Grande. Le musée est assez petit et un peu décevant après celui d’hier. La visite est rapide. Je tente un raccourcie pour éviter de retraverser Lambayaque mais en raison d'importants travaux on se retrouve sur une mauvaise piste qui nous contraint à faire demi-tour, nous avons perdu deux heures.
+Nous revenons sur nos pas et repassons par Chiclayo pour nous rendre Ferreñafe au **musée national de Sican** qui regroupe des objets découverts dans la tombe du seigneur de Sican sur le site de Batan Grande. Le musée est assez petit et un peu décevant après celui d’hier. La visite est rapide. Je tente un raccourcie pour éviter de retraverser Lambayaque mais en raison d'importants travaux on se retrouve sur une mauvaise piste qui nous contraint à faire demi-tour, nous avons perdu deux heures.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044897461/in/datetaken-public/" title="Ferreñafe - [Perou]"><img src="https://live.staticflickr.com/65535/52044897461_6c0b31607e_k.jpg" width="2048" height="1152" alt="Ferreñafe - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
