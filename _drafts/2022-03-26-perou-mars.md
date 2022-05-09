@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-perou2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-equateur.jpg
 tags: [histoire, architecture, culturel, mer-ocean, plage ]
-pois: [zorritos#24-mars, piura#30-mars, sipan#31-mars, tucume#31-mars, sican#01-avril, ]
+pois: [zorritos#24-mars, piura#30-mars, chiclayo#31-mars, tucume#31-mars, sipan#01-avril, ferrenafe#01-avril, brujo#02-avril, trujillo#02-avril, tortuga#07-avril, cienaguilla#08-avril, lima#18avril]
 country: Pérou
 states: []
 category: "roadmap"
@@ -79,7 +79,7 @@ Je demande au gardien de nuit si nous pouvons dormir là, il me dit avec plaisir
 
 ## 01 avril
 
-Nous revenons sur nos pas et repassons par Chiclayo pour nous rendre Ferreñafe au **musée national de Sican** qui regroupe des objets découverts dans la tombe du seigneur de Sican sur le site de Batan Grande. Le musée est assez petit et un peu décevant après celui d’hier. La visite est rapide. Je tente un raccourcie pour éviter de retraverser Lambayaque mais en raison d'importants travaux on se retrouve sur une mauvaise piste qui nous contraint à faire demi-tour, nous avons perdu deux heures.
+Nous revenons sur nos pas et repassons par Chiclayo pour nous rendre **Ferreñafe** au **Musée National de Sican** qui regroupe des objets découverts dans la tombe du seigneur de Sican sur le site de Batan Grande. Le musée est assez petit et un peu décevant après celui d’hier. La visite est rapide. Je tente un raccourcie pour éviter de retraverser Lambayaque mais en raison d'importants travaux on se retrouve sur une mauvaise piste qui nous contraint à faire demi-tour, nous avons perdu deux heures.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044897461/in/datetaken-public/" title="Ferreñafe - [Perou]"><img src="https://live.staticflickr.com/65535/52044897461_6c0b31607e_k.jpg" width="2048" height="1152" alt="Ferreñafe - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -147,7 +147,7 @@ Ici nous rencontrons des "chiens nus", il s'agit d'une race péruvienne de canid
 
 ## 06 avril
 
-Des renseignements que nous obtenons, la situation s'arrange un peu, du moins à Trujillo, les barrages semblent se concentrer sur le Sud et le centre du pays. Du coup ce matin on visite le musée et le site de la Huaca de la Lune avec une guide francophone, la structure est imposante et il existe encore de très belles fresques et bas reliefs. La visite est très intéressante.
+Des renseignements que nous obtenons, la situation s'arrange un peu, du moins à Trujillo, les barrages semblent se concentrer sur le Sud et le centre du pays. Du coup ce matin on visite le musée et le site de la **Huaca de la Luna** avec une guide francophone, la structure est imposante et il existe encore de très belles fresques et bas reliefs. La visite est très intéressante.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044610514/in/datetaken-public/" title="Trujillo - [Perou]"><img src="https://live.staticflickr.com/65535/52044610514_80ebe80207_k.jpg" width="2048" height="1152" alt="Trujillo - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -161,7 +161,7 @@ A Midi c'est la soeur de Vicky qui souhaite nous offrir le repas avant notre dé
 
 ## 07 avril
 
-Ce matin on se réveille avec une super vue sur cette anse, le contraste avec le désert est saisissant, on passe la matinée à se promener dans le village, les habitants sont supers accueillants. A l'entrée de la baie on peu apercevoir un mur de brumes maritimes que les vents de terres maintiennent à distance. La côte pacifique est souvent prises dans ces brumes.
+Ce matin on se réveille avec une super vue sur cette anse de **Tortuga**, le contraste avec le désert est saisissant, on passe la matinée à se promener dans le village, les habitants sont supers accueillants. A l'entrée de la baie on peu apercevoir un mur de brumes maritimes que les vents de terres maintiennent à distance. La côte pacifique est souvent prises dans ces brumes.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044896841/in/datetaken-public/" title="Tortugas - [Perou]"><img src="https://live.staticflickr.com/65535/52044896841_325dad5453_k.jpg" width="2048" height="935" alt="Tortugas - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -173,7 +173,7 @@ En début d'après-midi nous reprenons notre route sur la panaméricaine en comp
 
 ## 08 au 18 avril
 
-Nous partons en milieu de matinée pour traverser Lima à une heure pas trop chargée. En route je fais le plein de propane dans une station service. J'avais commander sur Internet un adaptateur pour mon tank US et cela fonctionne super bien. Après des jours de galères pour en trouver en Colombie, ici c'est super simple ça va nous changer... Comme toutes les capitales, la circulation est hyper dense et nous mettons plus de 2 heures pour traverser cette immense ville de près de 10 millions d'habitants. On a de la chance "Lima la grise" n'est pas dans la brume. Les axes sont larges et la conduite n'est pas trop difficile. Après un arrêt pour faire le plein de provisions, nous nous dirrigeons plein Est vers Cienaguilla au camping "El Refugio" notre dernière destination, où nous allons laisser Thor quelques mois.
+Nous partons en milieu de matinée pour traverser Lima à une heure pas trop chargée. En route je fais le plein de propane dans une station service. J'avais commander sur Internet un adaptateur pour mon tank US et cela fonctionne super bien. Après des jours de galères pour en trouver en Colombie, ici c'est super simple ça va nous changer... Comme toutes les capitales, la circulation est hyper dense et nous mettons plus de 2 heures pour traverser cette immense ville de près de 10 millions d'habitants. On a de la chance "Lima la grise" n'est pas dans la brume. Les axes sont larges et la conduite n'est pas trop difficile. Après un arrêt pour faire le plein de provisions, nous nous dirrigeons plein Est vers **Cienaguilla** au camping "El Refugio" notre dernière destination, où nous allons laisser Thor quelques mois.
 
 <img src="{{baseurl}}/assets/owner/photos/perou19.jpg" style="width:100%" />
 
