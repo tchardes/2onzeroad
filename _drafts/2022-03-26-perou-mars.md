@@ -50,7 +50,7 @@ La situation semble se calmer et nous partons pour la ville de **Piura**, on ver
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52041541277/in/datetaken-public/" title="Panaméricaine - [Perou]"><img src="https://live.staticflickr.com/65535/52041541277_aac02817bf_k.jpg" width="2048" height="1152" alt="Panaméricaine - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Arrivée à Piura, sans aucun barrage sur la route, on s'arrête dans la première grande surface pour faire le plein, on commençait à être à sec. C'est nos premières courses au Prou et on constate qu'efectivement les prix sont assez élevés. La ville ne présente aucun intérêt et après une journée de route nous n'avons qu'une envie, nous poser. On trouve une famille qui accueille les voyageurs dans leur jardin, Alex est péruvien et Mayla colombienne. Thor est un peu trop gros, nous restons donc à l'extérieur le long de leur clôture. Mayla est adorable et nous parlons un long moment de voyage et surtout de son pays natal. Nous sommes obligés d'écourter un peu la conversation en raison des nuées de moustiques qui nous ont pris pour cible.
+Arrivée à Piura, sans aucun barrage sur la route, on s'arrête dans la première grande surface pour faire le plein, on commençait à être à sec. C'est nos premières courses au Prou et on constate qu’effectivement les prix sont assez élevés. La ville ne présente aucun intérêt et après une journée de route nous n'avons qu'une envie, nous poser. On trouve une famille qui accueille les voyageurs dans leur jardin, Alex est péruvien et Mayla colombienne. Thor est un peu trop gros, nous restons donc à l'extérieur le long de leur clôture. Mayla est adorable et nous parlons un long moment de voyage et surtout de son pays natal. Nous sommes obligés d'écourter un peu la conversation en raison des nuées de moustiques qui nous ont pris pour cible.
 
 ## 31 mars
 
@@ -62,7 +62,7 @@ Nous reprenons la route en direction de **Chiclayo** afin de visiter le très be
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52041540527/in/datetaken-public/" title="Lambayeque - [Perou]"><img src="https://live.staticflickr.com/65535/52041540527_ea160dcdd7_k.jpg" width="2048" height="1152" alt="Lambayeque - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nous remontons ensuite un peu au Nord-Est pour nous poser sur le parking du site archéologique de **Tucume**. A notre arrivée le site est fermé mais je vais quand même voir au guichet les heures d'ouvertures pour le lendemain. Je découvre qu'en raison du Covid et du manque de touriste, le site n'ouvre que quelques jours par semaine et demain c'est fermé. La dame à l'accueil, très gentille, me demande d’où on vient et est très déçue que nous ne puissions visiter le site. Elle consulte le gardien et ils décident d'ouvrir le site rien que pour moi et me font payer moitié prix car je ne pourrais pas visiter le musée. Je pars à la découverte du site qui comporte au total 26 pyramides ou Huacas construitent en adobe.  Le site était l'un des centres administratifs et cérémoniels de la culture Sicán ou Lambayeque. Il fut annexé successivement au royaume Chimú et à l'empire Inca, et resta en activité jusqu'à la conquête espagnole.
+Nous remontons ensuite un peu au Nord-Est pour nous poser sur le parking du site archéologique de **Tucume**. A notre arrivée le site est fermé mais je vais quand même voir au guichet les heures d'ouvertures pour le lendemain. Je découvre qu'en raison du Covid et du manque de touriste, le site n'ouvre que quelques jours par semaine et demain c'est fermé. La dame à l'accueil, très gentille, me demande d’où on vient et est très déçue que nous ne puissions visiter le site. Elle consulte le gardien et ils décident d'ouvrir le site rien que pour moi et me font payer moitié prix car je ne pourrais pas visiter le musée. Je pars à la découverte du site qui comporte au total 26 pyramides ou Huacas construitent en adobe. Le site était l'un des centres administratifs et cérémoniels de la culture Sicán ou Lambayeque. Il fut annexé successivement au royaume Chimú et à l'empire Inca, et resta en activité jusqu'à la conquête espagnole.
 
 Avec l’érosion, ces pyramides construitent avec des milliers de briques en terre, se sont transformés en montagne de boue, on dirait d’immense termitières. Je parcours une toute petit partie du site et rentre juste avant la nuit.
 
@@ -84,7 +84,7 @@ Nous revenons sur nos pas et repassons par Chiclayo pour nous rendre **Ferreñaf
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044952988/in/datetaken-public/" title="Ferreñafe - [Perou]"><img src="https://live.staticflickr.com/65535/52044952988_01ed643e78_k.jpg" width="2048" height="1152" alt="Ferreñafe - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-En debut d’après-midi nous sommes a **Sipán** sur le site où a été retrouvé le cimetière d’où a été extrait le seigneur Sipan. Nous visitons le petit **Musée Huaca Rajada**. Là aussi, les plus belles pièces sont en fait exposées à Lambayaque. Il s'agit du plus important complexe funéraire de la culture Moche découvert à ce jour. Malheureusement le site en lui même n'est pas accessible aux visiteurs…
+En début d’après-midi nous sommes a **Sipán** sur le site où a été retrouvé le cimetière d’où a été extrait le seigneur Sipán. Nous visitons le petit **Musée Huaca Rajada**. Là aussi, les plus belles pièces sont en fait exposées à Lambayaque. Il s'agit du plus important complexe funéraire de la culture Moche découvert à ce jour. Malheureusement le site en lui même n'est pas accessible aux visiteurs…
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52042635203/in/datetaken-public/" title="Sipán - [Perou]"><img src="https://live.staticflickr.com/65535/52042635203_d1d46d67dc_k.jpg" width="2048" height="1152" alt="Sipán - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -94,7 +94,7 @@ Nouveau raccourcie et nouvelle piste, mais cette fois elle n'est pas trop mauvai
 
 ## 02 avril
 
-Les nuits sont très fraiches on a du sortir la couverture, c’est vraiment un climat de zone désertique, chaud le jour et froid la nuit. On repart sur la panaméricaine. A chaque fleuve qui descend de la cordillère vers l’océan on tombe sur un oasis avec souvent des rizières, champs de cannes à sucre ou bananeraies puis desert à nouveau, toujours aussi sale et malodorant par endroit et ceux jusqu’au prochain fleuve.
+Les nuits sont très fraiches on a du sortir la couverture, c’est vraiment un climat de zone désertique, chaud le jour et froid la nuit. On repart sur la panaméricaine. A chaque fleuve qui descend de la cordillère vers l’océan on tombe sur un oasis avec souvent des rizières, champs de cannes à sucre ou bananeraies puis désert à nouveau, toujours aussi sale et malodorant par endroit et ceux jusqu’au prochain fleuve.
 
 Le premier arrêt de la journée se fait sur le site de **El Brujo** (le sorcier) et la **señora Coa** dans la vallée du fleuve Chicama et au bord de l'océan. Les 5 derniers kilomètres sont compliqués avec une très mauvaise piste. Le site est très bien aménagé, le musée très moderne. Nous sommes les seuls visiteurs, le parking et vide. On commence par le site archéologique où des fresques et bas reliefs sont encore visibles puis visite du musée où l’on peu voir la momie de la prêtresse, la señora de Cao, très bien conservée, dont les bras et jambes sont recouverts de tatouages.
 
@@ -172,23 +172,23 @@ En début d'après-midi nous reprenons notre route sur la panaméricaine en comp
 
 ## 08 au 18 avril
 
-Nous partons en milieu de matinée pour arriver Lima à une heure pas trop chargée afin de traverser la ville plus facilement. En route je fais le plein de propane dans une station service. J'avais commander sur Internet un adaptateur pour mon tank US et cela fonctionne super bien. Après des semaines de galères pour en trouver en Colombie, ici c'est super simple ça va nous changer... Comme toutes les capitales, la circulation est hyper dense et nous mettons plus de 2 heures pour traverser par le Nord cette immense ville de près de 10 millions d'habitants. On a de la chance, aujourd'hui "Lima la grise" n'est pas dans la brume. Les axes sont larges et la conduite n'est pas trop difficile même s'il faut s'imposer sans cesse. Après un arrêt pour faire le plein de provisions, nous nous dirrigeons plein Est vers **Cienaguilla** au camping "El Refugio" notre dernière destination, où nous allons laisser Thor quelques mois.
+Nous partons en milieu de matinée pour arriver Lima à une heure pas trop chargée afin de traverser la ville plus facilement. En route je fais le plein de propane dans une station service. J'avais commander sur Internet un adaptateur pour mon tank US et cela fonctionne super bien. Après des semaines de galères pour en trouver en Colombie, ici c'est super simple ça va nous changer... Comme toutes les capitales, la circulation est hyper dense et nous mettons plus de 2 heures pour traverser par le Nord cette immense ville de près de 10 millions d'habitants. On a de la chance, aujourd'hui "Lima la grise" n'est pas dans la brume. Les axes sont larges et la conduite n'est pas trop difficile même s'il faut s'imposer sans cesse. Après un arrêt pour faire le plein de provisions, nous nous dirigeons plein Est vers **Cienaguilla** au camping "El Refugio" notre dernière destination, où nous allons laisser Thor quelques mois.
 
 <img src="{{baseurl}}/assets/owner/photos/perou19.jpg" style="width:100%" />
 
 <img src="{{baseurl}}/assets/owner/photos/perou20.jpg" style="width:100%" />
 
-Nous sommes très bien reçus par Heraldo (argentin), Sarah (péruvienne) et "El Chino" un employé argentin. Le camping se trouve dans une vallée encaissée entre deux montagnes pelées, sans aucune végétation, nous sommes en plein désert et seuls les abords du fleuve qui traverse la ville présentent de la végétation. L'eau de ville est accéssible uniquement entre 10 heures à midi, Heraldo profite de ces moments là pour remplir de gros réservoirs qui permettent de tenir toute la journée. Même si le camping est assez rustique il y a tout le confort même une piscine. Nous sommes trois voyageurs, Yann, une petite famille composée de Pope (argentin) Maria (péruvienne) et leur fille Lola, et nous.
+Nous sommes très bien reçus par Heraldo (argentin), Sarah (péruvienne) et "El Chino" un employé argentin. Le camping se trouve dans une vallée encaissée entre deux montagnes pelées, sans aucune végétation, nous sommes en plein désert et seuls les abords du fleuve qui traverse la ville présentent de la végétation. L'eau de ville est accessible uniquement entre 10 heures à midi, Heraldo profite de ces moments là pour remplir de gros réservoirs qui permettent de tenir toute la journée. Même si le camping est assez rustique il y a tout le confort même une piscine. Nous sommes trois voyageurs, Yann, une petite famille composée de Pope (argentin) Maria (péruvienne) et leur fille Lola, et nous.
 
 <img src="{{baseurl}}/assets/owner/photos/perou21.jpg" style="width:100%" />
 
-En raison de la pandémie et de l'absence de voyageur, Heraldo a divisé son terrain en deux et a construit des cabañas pour y accueillir des vancanciers. Il y a toujours du monde, des fêtes, des barbecues, des soirées très animées, les argentins consomment leur mate coca toute la journée ainsi que d'autres herbes... On teste plusieurs vins chiliens et argentins ainsi que divers rhums. Je profite également de cette pose pour changer le moteur de mon auvent et faire quelques bricoles.
+En raison de la pandémie et de l'absence de voyageur, Heraldo a divisé son terrain en deux et a construit des cabañas pour y accueillir des vacanciers. Il y a toujours du monde, des fêtes, des barbecues, des soirées très animées, les argentins consomment leur mate coca toute la journée ainsi que d'autres herbes... On teste plusieurs vins chiliens et argentins ainsi que divers rhums. Je profite également de cette pose pour changer le moteur de mon auvent et faire quelques bricoles.
 
 <img src="{{baseurl}}/assets/owner/photos/perou22.jpg" style="width:100%" />
 
 <img src="{{baseurl}}/assets/owner/photos/perou23.jpg" style="width:100%" />
 
-Avec Héraldo on s'occupe de la suspension de notre titre importantion temporaire pour Thor afin que l'on puisse rentrer en France et le laisser quelques mois au Pérou en toute légalité et sécurité. Le 13 nous allons au commissariat de police pour leur apporter un dossier complet et leur demander de se déplacer au camping pour qu'ils attestent par procés-verbal que Thor est bien entreposé chez Heraldo. On est très bien reçu par une agent qui s'occupe de nous immédiatement, elle contrôle les pièces, tamponne la demande et nous remet un reçu. Le 14 la police se déplace au camping et vérifie Thor en long en large et en travers. Il revient en début de soirée pour nous faire signée à Heraldo et moi son PV de constatations. Le 16 nous nous rendons à nouveau au commissariat pour récupérer une copie certifiée du document.Dans l'après-midi j'adresse par courrier électronique tous les documents à la douane (SUNAT) de notre lieu d'entrée au Pérou afin d'obtenir la fameuse suspension.
+Avec Heraldo on s'occupe de la suspension de notre titre importation temporaire pour Thor afin que l'on puisse rentrer en France et le laisser quelques mois au Pérou en toute légalité et sécurité. Le 13 nous allons au commissariat de police pour leur apporter un dossier complet et leur demander de se déplacer au camping pour qu'ils attestent par procès-verbal que Thor est bien entreposé chez Heraldo. On est très bien reçu par une agent qui s'occupe de nous immédiatement, elle contrôle les pièces, tamponne la demande et nous remet un reçu. Le 14 la police se déplace au camping et vérifie Thor en long en large et en travers. Il revient en début de soirée pour nous faire signée à Heraldo et moi son PV de constatations. Le 16 nous nous rendons à nouveau au commissariat pour récupérer une copie certifiée du document.Dans l'après-midi j'adresse par courrier électronique tous les documents à la douane (SUNAT) de notre lieu d'entrée au Pérou afin d'obtenir la fameuse suspension.
 
 <img src="{{baseurl}}/assets/owner/photos/perou27.jpg" style="width:100%" />
 
@@ -196,7 +196,7 @@ Avec Héraldo on s'occupe de la suspension de notre titre importantion temporair
 
 ## 18 au 20 avril
 
-Ce matin on fini les derniers préparatifs, on vide et on nettoye les réservoirs et on prépare Thor à de long mois d'attente. On le stationne un peu à l'écart et Yann nous donne une bache pour protéger l'avant de Thor de la poussière. Ici aucun problème d'humidité ni d'embruns marins, il sera bien. Dernière photo avec toutes les personnes avec lesquelles nous avons passé ces 10 dernier jours.
+Ce matin on fini les derniers préparatifs, on vide et on nettoie les réservoirs et on prépare Thor à de long mois d'attente. On le stationne un peu à l'écart et Yann nous donne une bâche pour protéger l'avant de Thor de la poussière. Ici aucun problème d'humidité ni d'embruns marins, il sera bien. Dernière photo avec toutes les personnes avec lesquelles nous avons passé ces 10 dernier jours.
 
 <img src="{{baseurl}}/assets/owner/photos/perou24.jpg" style="width:100%" />
 
@@ -222,13 +222,13 @@ Les quartiers au Sud de la ville, Miraflores et Barranco sont très beaux, riche
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044951183/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044951183_65c9b436a0_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le 19 nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'envoi à Heraldo, nous sommes rassurés et pouvons quitter le Pérou pour quelques mois, sereins.
+Le 19 nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'envoi à Heraldo, nous sommes rassurés et pouvons quitter le Pérou pour quelques mois, sereins. Le 20 nous prenons un Uber qui nous conduit à l'aéroport International Jorge Chávez de Lima où nous prenons notre vol retour pour Paris via Amsterdam.
 
 **Nous avons vraiment adoré :**
 
 - La qualité du réseau routier principal ;
 - La côte Pacifique et les paysages désertiques ;
-- Les sites archéologiques d'anciennes civilasation peu connues ;
+- Les sites archéologiques d'anciennes civilisation peu connues ;
 - La facilité pour trouver du propane ;
 - La souplesse de l'administration péruvienne qui nous permet de suspendre notre TIP.
 
@@ -238,7 +238,10 @@ Le 19 nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'e
 - Le prix de l'essence ;
 - 
 
-Nous avons passé au total 27 jours au Pérou et avons parcouru près de 1600 Km. Au départ nous avions prévu de traverser le Pérou en quelques jours depuis l'Equateur? juste le temps de déposer Thor faire les démarches administratives et rentrer en France. Heureusement que nous sommes restés moins que prévu en Equateur en raison des conditions atmosphériques car avec les mouvements sociaux qui ont paralisés le Pérou nous aurions eu des difficultés à arrivér en tant et heure.
+Nous avons passé au total 27 jours au Pérou et avons parcouru près de 1600 Km. Au départ nous avions prévu de traverser le Pérou jusqu'à Lima en quelques jours depuis l'Equateur, juste le temps de déposer Thor et faire les démarches administratives et rentrer en France. Heureusement que nous sommes restés moins de temps que prévu en Equateur en raison des conditions atmosphériques car avec les mouvements sociaux qui ont paralysés le Pérou nous aurions eu des difficultés à arriver en tant et heure.
+
+En plus de prendre notre temps et profiter de nos différents arrêts, nous avons découverts des sites archéologiques d'anciennes civilisations pré-incas dont nous n'avions jamais entendu parlé. Le plus gros bémol de cette première partie de visite du Pérou reste quand même les déchets qui tapissent le désert, les bords de routes et les abords des villes sur des kilomètres. On a du mal à comprendre, que dans ce genre de pays ou le ramassage des ordures est inexistant, que le gouvernement n'interdise pas au moins le plastique au profit du papier.
+
 
 
 
