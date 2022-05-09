@@ -238,11 +238,9 @@ Le 19 nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'e
 - Le prix de l'essence ;
 - 
 
-Nous avons passé au total 27 jours au Pérou et avons parcouru près de 1600 Km. Au départ nous avions prévu de traverser le Pérou jusqu'à Lima en quelques jours depuis l'Equateur, juste le temps de déposer Thor et faire les démarches administratives et rentrer en France. Heureusement que nous sommes restés moins de temps que prévu en Equateur en raison des conditions atmosphériques car avec les mouvements sociaux qui ont paralysés le Pérou nous aurions eu des difficultés à arriver en tant et heure.
+Nous avons passé au total 27 jours au Pérou et avons parcouru près de 1600 Km. Au départ nous avions prévu de traverser le Pérou jusqu'à Lima en quelques jours depuis l'Equateur, juste le temps de déposer Thor et faire les démarches administratives avant de rentrer en France. Heureusement, nous sommes restés moins de temps que prévu en Equateur en raison des conditions atmosphériques car avec les mouvements sociaux qui ont paralysés le Pérou nous aurions eu des difficultés à arriver en tant et heure.
 
-En plus de prendre notre temps et profiter de nos différents arrêts, nous avons découverts des sites archéologiques d'anciennes civilisations pré-incas dont nous n'avions jamais entendu parlé. Le plus gros bémol de cette première partie de visite du Pérou reste quand même les déchets qui tapissent le désert, les bords de routes et les abords des villes sur des kilomètres. On a du mal à comprendre, que dans ce genre de pays ou le ramassage des ordures est inexistant, que le gouvernement n'interdise pas au moins le plastique au profit du papier.
-
-
+En plus de prendre notre temps et profiter de nos différents arrêts, nous avons découverts des sites archéologiques d'anciennes civilisations pré-incas dont nous n'avions jamais entendu parlé. Le plus gros bémol de cette première partie de visite du Pérou reste quand même les déchets qui tapissent le désert, les bords de routes et les abords des villes sur des kilomètres. On a du mal à comprendre, que dans ce genre de pays ou le ramassage des ordures est pratiquement inexistant, que le gouvernement n'interdise pas au moins le plastique au profit du papier.
 
 
 Un résumé de cette dernière partie de notre voyage en vidéos :
