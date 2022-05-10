@@ -236,7 +236,7 @@ Le 19, nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'
 **Nous avons moins aimé :**
 
 - Les ordures omni présentes au bord des routes ;
-- Le prix de l'essence ;
+- Le prix de l'essence.
 
 Nous avons passé au total 27 jours au Pérou et avons parcouru près de 1600 Km. Au départ nous avions prévu de traverser le Pérou jusqu'à Lima en quelques jours depuis l'Equateur, juste le temps de déposer Thor et faire les démarches administratives avant de rentrer en France. Heureusement, nous sommes restés moins de temps que prévu en Equateur en raison des conditions atmosphériques car avec les mouvements sociaux qui ont paralysés le Pérou nous aurions eu des difficultés à arriver en tant et heure.
 
