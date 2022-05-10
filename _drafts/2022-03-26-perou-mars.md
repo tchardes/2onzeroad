@@ -196,7 +196,7 @@ Avec Heraldo on s'occupe de la suspension de notre titre importation temporaire 
 
 ## 18 au 20 avril
 
-Ce matin on fini les derniers préparatifs, on vide et on nettoie les réservoirs et on prépare Thor à de long mois d'attente. On le stationne un peu à l'écart et Yann nous donne une bâche pour protéger l'avant de Thor de la poussière. Ici aucun problème d'humidité ni d'embruns marins, il sera bien. Dernière photo avec toutes les personnes avec lesquelles nous avons passé ces 10 dernier jours.
+Ce matin on fini les derniers préparatifs, on vide et on nettoie les réservoirs et on prépare Thor à de longs mois d'attente. On le stationne un peu à l'écart et Yann nous donne une bâche pour protéger l'avant de Thor de la poussière. Ici aucun problème d'humidité ni d'embruns marins, il sera bien. Dernière photo avec toutes les personnes avec lesquelles nous avons passé ces 10 derniers jours.
 
 <img src="{{baseurl}}/assets/owner/photos/perou24.jpg" style="width:100%" />
 
@@ -204,7 +204,7 @@ Pope doit également quitter El Regugio pour Lima et il nous propose de nous y c
 
 <img src="{{baseurl}}/assets/owner/photos/perou25.jpg" style="width:100%" />
 
-Nous passons les deux dernier jours à visiter la capitale. Nous avons de la chance car il fait très beau, aucune brume ne vient envahir la côte. Le centre historique est très beau mais en raison des mouvements sociaux, la police anti émeute est omniprésente et bloque de nombreuses avenues qui donnent notamment sur la plazza de armas où se trouve les bâtiments gouvernementaux. On arrive a passer certains contrôles en expliquant que l'on veut juste prendre quelques photos. Nous finissons la journée au Circuito Mágico del Agua, un immense parc où se succède des fontaines et jeux d'eau.
+Nous passons les deux derniers jours à visiter la capitale. Nous avons de la chance car il fait très beau, aucune brume ne vient envahir la côte. Le centre historique est très beau mais en raison des mouvements sociaux, la police anti émeute est omniprésente et bloque de nombreuses avenues qui donnent notamment sur la plazza de armas où se trouve les bâtiments gouvernementaux. On arrive à passer certains contrôles en expliquant que l'on veut juste prendre quelques photos. Nous finissons la journée au Circuito Mágico del Agua, un immense parc où se succède des fontaines et jeux d'eau.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52043852807/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52043852807_7608b9f2b1_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -222,7 +222,7 @@ Les quartiers au Sud de la ville, Miraflores et Barranco sont très beaux, riche
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52044951183/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52044951183_65c9b436a0_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Le 19 nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'envoi à Heraldo, nous sommes rassurés et pouvons quitter le Pérou pour quelques mois, sereins. Le 20 nous prenons un Uber qui nous conduit à l'aéroport International Jorge Chávez de Lima où nous prenons notre vol retour pour Paris via Amsterdam.
+Le 19 nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'envoi à Heraldo, nous sommes rassurés et pouvons quitter le Pérou pour quelques mois, sereins. Notre séjour prend fin, le 20 nous prenons un Uber qui nous conduit à l'aéroport International Jorge Chávez de Lima où nous prenons notre vol retour pour Paris via Amsterdam.
 
 **Nous avons vraiment adoré :**
 
@@ -240,7 +240,7 @@ Le 19 nous recevons l'accord de la SUMAT pour la suspension de notre TIP, je l'e
 
 Nous avons passé au total 27 jours au Pérou et avons parcouru près de 1600 Km. Au départ nous avions prévu de traverser le Pérou jusqu'à Lima en quelques jours depuis l'Equateur, juste le temps de déposer Thor et faire les démarches administratives avant de rentrer en France. Heureusement, nous sommes restés moins de temps que prévu en Equateur en raison des conditions atmosphériques car avec les mouvements sociaux qui ont paralysés le Pérou nous aurions eu des difficultés à arriver en tant et heure.
 
-En plus de prendre notre temps et profiter de nos différents arrêts, nous avons découverts des sites archéologiques d'anciennes civilisations pré-incas dont nous n'avions jamais entendu parlé. Le plus gros bémol de cette première partie de visite du Pérou reste quand même les déchets qui tapissent le désert, les bords de routes et les abords des villes sur des kilomètres. On a du mal à comprendre, que dans ce genre de pays ou le ramassage des ordures est pratiquement inexistant, que le gouvernement n'interdise pas au moins le plastique au profit du papier.
+En plus de prendre notre temps et profiter de nos différents arrêts, nous avons découverts des sites archéologiques d'anciennes civilisations pré-incas dont nous n'avions pas connaissance. Le plus gros bémol de cette première partie de visite du Pérou reste quand même les déchets qui tapissent le désert, les bords de routes et les abords des villes sur des kilomètres. On a du mal à comprendre, que dans ce genre de pays ou le ramassage des ordures est pratiquement inexistant, que le gouvernement n'interdise pas au moins les sacs plastique au profit du papier.
 
 
 Un résumé de cette dernière partie de notre voyage en vidéos :
