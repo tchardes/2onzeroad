@@ -583,7 +583,7 @@
   { "name": "sipan", "displayName": "Sipán", "type": "ville", "country": "Pérou" },
   { "name": "ferrenafe", "displayName": "Ferreñafe", "type": "ville", "country": "Pérou" },
   { "name": "brujo", "displayName": "El Brujo", "type": "ville", "country": "Pérou" },
-  { "name": "trujillo", "displayName": "Trujillo", "type": "Ville", "country": "Pérou" },
+  { "name": "trujillo", "displayName": "Trujillo", "type": "ville", "country": "Pérou" },
   { "name": "tortuga", "displayName": "Tortuga", "type": "ville", "country": "Pérou" },
   { "name": "cienaguilla", "displayName": "Cienaguilla", "type": "ville", "country": "Pérou" },
   { "name": "lima", "displayName": "Lima", "type": "ville", "country": "Pérou" },
