@@ -204,7 +204,7 @@ Pope doit également quitter El Regugio pour Lima et il nous propose de nous y c
 
 <img src="{{baseurl}}/assets/owner/photos/perou25.jpg" style="width:100%" />
 
-Nous passons les deux dernier jours à visiter la capitale. Nous avons de la chance car il fait très beau, aucune brume ne vient envahir la côte. Le centre historique est très beau mais en raison des mouvements sociaux, la police anti émeute est omniprésente et bloque de nombreuses avenues qui donnent sur la plazza de armas où se trouve les bâtiments gouvernementaux. On arrive a passer certains contrôles en expliquant que l'on veut juste prendre quelques photos.
+Nous passons les deux dernier jours à visiter la capitale. Nous avons de la chance car il fait très beau, aucune brume ne vient envahir la côte. Le centre historique est très beau mais en raison des mouvements sociaux, la police anti émeute est omniprésente et bloque de nombreuses avenues qui donnent notamment sur la plazza de armas où se trouve les bâtiments gouvernementaux. On arrive a passer certains contrôles en expliquant que l'on veut juste prendre quelques photos. Nous finissons la journée au Circuito Mágico del Agua, un immense parc où se succède des fontaines et jeux d'eau.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52043852807/in/datetaken-public/" title="Lima - [Perou]"><img src="https://live.staticflickr.com/65535/52043852807_7608b9f2b1_k.jpg" width="2048" height="1152" alt="Lima - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
