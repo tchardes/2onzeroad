@@ -243,3 +243,5 @@ Nous avons passé au total 27 jours au Pérou et avons parcouru près de 1600 Km
 En plus de prendre notre temps et profiter de nos différents arrêts, nous avons découverts des sites archéologiques d'anciennes civilisations pré-incas dont nous n'avions pas connaissance. Le plus gros bémol de cette première partie de visite du Pérou reste quand même les déchets qui tapissent le désert, les bords de routes et les abords des villes sur des kilomètres. On a du mal à comprendre, que dans ce genre de pays où le ramassage des ordures est pratiquement inexistant, que le gouvernement n'interdise pas au moins les sacs plastique au profit du papier.
 
 Un résumé de cette dernière partie de notre voyage en vidéos :
+
+***(En cours de montage !!!)***
