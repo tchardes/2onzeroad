@@ -46,7 +46,7 @@ Le Pérou n'est pas épargné par la situation mondiale, le prix des carburants 
 
 ## 30 mars
 
-La situation semble se calmer et nous partons pour la ville de **Piura**, on verra bien... La route est très belle dans l’ensemble mais très sale, un vrai dépotoir. Nous traversons une immense zone désertique où seuls quelques derricks viennent perturber la quiétude des lieux. Le Pérou exploite quelques poches de pétrole sur terre comme en mer et produit environ 10% de leur consommation nationale. Nous passons pour l'occasion sur le point le plus à l'Ouest du continent sud américain.
+La situation semble se calmer et nous partons pour la ville de **Piura**, on verra bien... La route est très belle dans l’ensemble mais très sale, un vrai dépotoir. Nous traversons une immense zone désertique où seuls quelques derricks viennent perturber la quiétude des lieux. Le Pérou exploite quelques poches de pétrole sur terre comme en mer et produit environ 10% de leur consommation nationale. Nous passons pour l'occasion sur le point le plus à l'Ouest du continent sud-américain.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52041541277/in/datetaken-public/" title="Panaméricaine - [Perou]"><img src="https://live.staticflickr.com/65535/52041541277_aac02817bf_k.jpg" width="2048" height="1152" alt="Panaméricaine - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
