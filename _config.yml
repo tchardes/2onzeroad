@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "46.80297685536561, 2.4200213717338106"
-  name: "France"
-  date: "21 avril 2022"
+  coordinates: "-12.097236, -76.780624"
+  name: "Pérou - Cieneguilla"
+  date: "09 octobre 2023"
 
 # set the encoding to utf-8
 encoding: utf-8
