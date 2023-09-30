@@ -12,7 +12,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-equateur.jpg
 tags: [histoire, architecture, culturel, mer-ocean, plage ]
 pois: [tulcan#09-mars, ibarra#09-mars, otovalo#11-mars, mitad#12-et-13-mars, quito#12-et-13-mars, cayo#14-mars, lopez#16-et-17-mars,guayaquil#18-et-19-mars, cuenca#20-et-21-mars]
 country: Equateur
-states: ["Carchi","Imbabura","Pichincha","Santo_Domingo","Manabi","Santa_Elena","Guayas","Cañar","Azuay","Loja","El_Oro"]
+states: ["Carchi","Imbabura","Pichincha","Santo_Domingo","Manabi"]
 category: "roadmap"
 flickr-text: ""
 location: "-1.4591434289623488, -77.264823782651"
