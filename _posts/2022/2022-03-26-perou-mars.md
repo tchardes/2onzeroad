@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Pérou"
+title: "Pérou 2022"
 preview: "Cet article couvre la période du 24 mars au 20 avril 2022, au cours de laquelle nous avons traversé la partie Nord du Pérou jusqu'à la capitale, Lima...."
 parent-id:
 date: 2022-04-22 13:00:00
