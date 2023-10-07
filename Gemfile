@@ -10,7 +10,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.6.3"
+gem "jekyll", "4.3.2"
 gem "jekyll-paginate"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -23,3 +23,5 @@ gem "jekyll-paginate"
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
+
+gem "webrick", "~> 1.8"
