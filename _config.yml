@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-12.097236, -76.780624"
-  name: "Pérou - Cieneguilla"
-  date: "09 au 19 octobre 2023"
+  coordinates: "-14.087842481701347, -75.76418885955768"
+  name: "Pérou - Huacachina"
+  date: "22 et 23 octobre 2023"
 
 # set the encoding to utf-8
 encoding: utf-8
