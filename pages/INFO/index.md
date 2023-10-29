@@ -295,8 +295,8 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 - [Popé, Maria et Lola](http://www.instagram/ElSulqui): un couple argento-péruvien avec leur petite fille rencontrés le 8 avril 2022 à Cieneguilla au Pérou au camping "El Refugio".
 - Nathalie et Georges : un couple de Roquefort les Pins qui voyage à bord d'un 4X4 Toyota avec cellule Azalai, rencontrés au Refuge Lima à Cieneguilla, Pérou le 09 octobre 2023.
 - Pascale et Albert : un couple de Perpignan qui voyage à bord d'un 4X4 Toyota avec cellule Azalai, rencontrés au Refuge Lima à Cieneguilla, Pérou le 09 octobre 2023.
-- Flavia, Maximilien et leurs trois enfants, famille argentine qui voyage à bord d'un CC mercedes, rencontrés au Refuge Lima à Cieneguilla, Pérou le 09 octobre 2023. @te.aguanto.hasta.alaska
-
+- Flavia, Maximiliano et leurs trois enfants, famille argentine qui voyage à bord d'un CC mercedes, rencontrés au Refuge Lima à Cieneguilla, Pérou le 09 octobre 2023. @te.aguanto.hasta.alaska.
+- [Murielle et burno](http://www.instagram/babken972): couple qui voyage à bord d'un ancien camion de pompier Iveco aménagé avec une cellule, rencontrés à Arequipa, Pérou le 27 octobre 2023.
 
 ## Divers
 
