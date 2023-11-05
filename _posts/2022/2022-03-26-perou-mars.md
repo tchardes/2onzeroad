@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-perou2.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-perou.jpg
 tags: [histoire, architecture, culturel, mer-ocean, plage ]
-pois: [zorritos#24-mars, piura#30-mars, chiclayo#31-mars, tucume#31-mars, sipan#01-avril, ferrenafe#01-avril, brujo#02-avril, trujillo#02-avril, tortuga#07-avril, cienaguilla#08-avril, lima#18avril]
+pois: [zorritos#24-mars, piura#30-mars, chiclayo#31-mars, tucume#31-mars, sipan#01-avril, ferrenafe#01-avril, brujo#02-avril, trujillo#02-avril, tortuga#07-avril, cieneguilla#08-avril, lima#18avril]
 country: Pérou
 states: ["Tumbes","Piura","Lambayeque","La Libertad","Ancash","Lima","Calao"]
 category: "roadmap"
