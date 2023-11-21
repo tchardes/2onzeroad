@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-13.50563646302175, -71.98489924184246"
   name: "Pérou - Cuzco"
-  date: "03 au 19 novembre 2023"
+  date: "03 au 22 novembre 2023"
 
 # set the encoding to utf-8
 encoding: utf-8
