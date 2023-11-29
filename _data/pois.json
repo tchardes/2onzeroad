@@ -606,12 +606,12 @@
   { "name": "canincunca", "displayName": "canincunca", "type": "ville", "country": "Pérou" },
   { "name": "palccoyo", "displayName": "Palccoyo", "type": "nature", "country": "Pérou" },
   { "name": "machu-picchu", "displayName": "Machu Picchu", "type": "autre", "country": "Pérou" },
-  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
-  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
-  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
-  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
-  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
-  { "name": "", "displayName": "", "type": "", "country": "Pérou" },
+  { "name": "juliaca", "displayName": "Juliaca", "type": "ville", "country": "Pérou" },
+  { "name": "chifron", "displayName": "Playa Chifron", "type": "nature", "country": "Pérou" },
+  { "name": "amantani", "displayName": "Ile d'Amantani", "type": "nature", "country": "Pérou" },
+  { "name": "sillustani", "displayName": "Site archéologique de Sillustani", "type": "autre", "country": "Pérou" },
+  { "name": "puno", "displayName": "Puno", "type": "ville", "country": "Pérou" },
+  { "name": "qamana", "displayName": "Site archéologique Inka Qamaña", "type": "autre", "country": "Pérou" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Pérou" }
+  { "name": "", "displayName": "", "type": "", "country": "Bilivie" }
 ]
