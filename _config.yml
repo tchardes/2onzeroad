@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-16.16528375411978, -69.08635584993112"
-  name: "Bolivie - Copacabana"
-  date: "28 novembre au 02 décembre 2023"
+  coordinates: "-16.554974262960354, -68.67995756862513"
+  name: "Bolivie - Tiahuanaco"
+  date: "02 décembre 2023"
 
 # set the encoding to utf-8
 encoding: utf-8
