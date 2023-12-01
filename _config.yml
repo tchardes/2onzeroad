@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-16.16528375411978, -69.08635584993112"
   name: "Bolivie - Copacabana"
-  date: "28 au 31 novembre 2023"
+  date: "28 novembre au 02 décembre 2023"
 
 # set the encoding to utf-8
 encoding: utf-8
