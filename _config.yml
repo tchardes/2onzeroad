@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-16.507284053695834, -68.14704587554603"
   name: "Bolivie - La Paz"
-  date: "03 au 07 décembre 2023"
+  date: "03 au 06 décembre 2023"
 
 # set the encoding to utf-8
 encoding: utf-8
