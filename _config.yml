@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-18.13551334480902, -65.76267191694724"
   name: "Bolivie - Torotoro"
-  date: "07 au 09 décembre 2023"
+  date: "07 au 11 décembre 2023"
 
 # set the encoding to utf-8
 encoding: utf-8
