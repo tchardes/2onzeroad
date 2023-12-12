@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-18.13551334480902, -65.76267191694724"
-  name: "Bolivie - Torotoro"
-  date: "07 au 11 décembre 2023"
+  coordinates: "-16.274157736820307, -62.504463809596956"
+  name: "Bolivie - San Javier"
+  date: "12 décembre 2023"
 
 # set the encoding to utf-8
 encoding: utf-8
