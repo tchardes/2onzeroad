@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-16.37738721136506, -60.96360800206558"
-  name: "Bolivie - San Ignacio de Velasco"
-  date: "14 et 15 décembre 2023"
+  coordinates: "-17.8461436965966, -60.74242931059507"
+  name: "Bolivie - San Jose de Chiquitos"
+  date: "17 décembre 2023"
 
 # set the encoding to utf-8
 encoding: utf-8
