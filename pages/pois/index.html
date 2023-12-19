@@ -17,8 +17,8 @@ permalink: /pois/
             {% endif %}
         {% endfor %} -->
 
-    {% assign countries = "USA, Canada, Mexique, Puerto-Rico, Cuba, Belize, Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Colombie, Equateur, Pérou" | split: ", " %} {% for country
-    in countries %} {% if country != "Puerto-Rico" and country != "Cuba" %}
+    {% assign countries = "USA, Canada, Mexique, Puerto-Rico, Cuba, Belize, Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, Colombie, Equateur, Pérou, Bolivie" | split: ", " %} {% for
+    country in countries %} {% if country != "Puerto-Rico" and country != "Cuba" %}
     <h3 style="margin-top: 0">{{ country }}</h3>
     {% include pois_list.html country=country %} {% endif %} {% endfor %}
   </div>
