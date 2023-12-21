@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-18.178553810709378, -63.876600677134974"
-  name: "Bolivie - Samaipata"
-  date: "20 décembre 2023"
+  coordinates: "-18.489751469872562, -64.10814690850057"
+  name: "Bolivie - Vallegrande"
+  date: "21 décembre 2023"
 
 # set the encoding to utf-8
 encoding: utf-8
