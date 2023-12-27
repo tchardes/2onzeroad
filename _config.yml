@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-19.571215561277015, -65.75853337864922"
-  name: "Bolivie - Potosie"
-  date: "25 et 26 décembre 2023"
+  coordinates: "-21.43479538762583, -65.71959293970066s"
+  name: "Bolivie - Tupiza"
+  date: "27 au 31 décembre 2023"
 
 # set the encoding to utf-8
 encoding: utf-8
