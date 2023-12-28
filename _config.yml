@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-21.43479538762583, -65.71959293970066"
   name: "Bolivie - Tupiza"
-  date: "27 au 31 décembre 2023"
+  date: "27 décembre 2023 au 7 janvier 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
