@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-21.43479538762583, -65.71959293970066"
-  name: "Bolivie - Tupiza"
-  date: "27 décembre 2023 au 09 janvier 2024"
+  coordinates: "-21.402038849130108, -67.59958305083885"
+  name: "Bolivie - Villa Alota"
+  date: "09 janvier 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
