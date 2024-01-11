@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-21.402038849130108, -67.59958305083885"
-  name: "Bolivie - Villa Alota"
-  date: "09 janvier 2024"
+  coordinates: "-22.45708711180578, -68.92435802868846"
+  name: "Chili - Calama"
+  date: "11 janvier 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
