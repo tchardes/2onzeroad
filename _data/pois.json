@@ -626,17 +626,18 @@
   { "name": "rafael", "displayName": "San Rafael de Velasco", "type": "ville", "country": "Bolivie" },
   { "name": "jose", "displayName": "San Jose de Chiquitos", "type": "ville", "country": "Bolivie" },
   { "name": "cruz", "displayName": "Santa Cruz de la Sierra", "type": "ville", "country": "Bolivie" },
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" },
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" },
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" },
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" },
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" },
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" },
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" },
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" },
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" },
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" },
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" },
+  { "name": "samaipata", "displayName": "Samaipata", "type": "ville", "country": "Bolivie" },
+  { "name": "vallegrande", "displayName": "vallegrande", "type": "", "country": "Bolivie" },
+  { "name": "sucre", "displayName": "Sucre", "type": "ville", "country": "Bolivie" },
+  { "name": "potosi", "displayName": "Potosi", "type": "ville", "country": "Bolivie" },
+  { "name": "tupiza", "displayName": "Tupiza", "type": "ville", "country": "Bolivie" },
+  { "name": "lipez", "displayName": "Sud Lipez", "type": "nature", "country": "Bolivie" },
+  { "name": "uyuni", "displayName": "Salar de Uyuni", "type": "nature", "country": "Bolivie" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Bolivie" }
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+
+  { "name": "", "displayName": "", "type": "", "country": "Chili" }
 ]
