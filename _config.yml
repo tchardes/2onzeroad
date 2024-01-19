@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-35.59736973815011, -71.3563980411641"
-  name: "Chili - San Clemente"
-  date: "16 et 17 janvier 2024"
+  coordinates: "-22.460468827025846, -68.9233857394918"
+  name: "Chili - Calama"
+  date: "19 janvier 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
