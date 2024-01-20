@@ -627,7 +627,7 @@
   { "name": "jose", "displayName": "San Jose de Chiquitos", "type": "ville", "country": "Bolivie" },
   { "name": "cruz", "displayName": "Santa Cruz de la Sierra", "type": "ville", "country": "Bolivie" },
   { "name": "samaipata", "displayName": "Samaipata", "type": "ville", "country": "Bolivie" },
-  { "name": "vallegrande", "displayName": "vallegrande", "type": "", "country": "Bolivie" },
+  { "name": "vallegrande", "displayName": "Vallegrande", "type": "autre", "country": "Bolivie" },
   { "name": "sucre", "displayName": "Sucre", "type": "ville", "country": "Bolivie" },
   { "name": "potosi", "displayName": "Potosi", "type": "ville", "country": "Bolivie" },
   { "name": "tupiza", "displayName": "Tupiza", "type": "ville", "country": "Bolivie" },
