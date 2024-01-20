@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-22.460468827025846, -68.9233857394918"
   name: "Chili - Calama"
-  date: "19 janvier 2024"
+  date: "20 janvier 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
