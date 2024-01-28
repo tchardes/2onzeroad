@@ -15,7 +15,7 @@ country: Chili
 states: ["Jujui","Salta"]
 category: "roadmap"
 flickr-text: "Argentine"
-location: "-27.278383813817562, -62.91193676023074"
+location: "-25.086404316049375, -61.99267778682089"
 itinary: "2023-24/argentine.json"
 mapZoom: 6
 ---
