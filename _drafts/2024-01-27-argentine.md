@@ -17,7 +17,7 @@ category: "roadmap"
 flickr-text: "Argentine"
 location: "-27.278383813817562, -62.91193676023074"
 itinary: "2023-24/argentine.json"
-mapZoom: 5
+mapZoom: 6
 ---
 
 Cet article couvre la période du 12 au 23 janvier 2024, au cours de laquelle nous avons fait une petite incursion au Chili.
