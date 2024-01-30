@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-24.794503870724608, -65.41930284673249"
   name: "Argentine - Salta"
-  date: "28 au 30 janvier 2024"
+  date: "28 au 31 janvier 2024"
 
 # set the encoding to utf-8
 encoding: utf-8

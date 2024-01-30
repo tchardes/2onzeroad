@@ -634,10 +634,21 @@
   { "name": "lipez", "displayName": "Sud Lipez", "type": "nature", "country": "Bolivie" },
   { "name": "uyuni", "displayName": "Salar de Uyuni", "type": "nature", "country": "Bolivie" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "calama", "displayName": "Calama", "type": "ville", "country": "Chili" },
+  { "name": "pedro", "displayName": "San Pedro d'Atacama", "type": "ville", "country": "Chili" },
+  { "name": "atacama", "displayName": "Désert d'Atacama", "type": "nature", "country": "Chili" },
+  { "name": "lune", "displayName": "Vallée de la Luna", "type": "nature", "country": "Chili" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Chili" }
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" }
 ]
