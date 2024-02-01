@@ -11,7 +11,7 @@ header-img: "assets/owner/blog/header/post-bg-colombie_caraïbe.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-perou2.jpg
 tags: [lac, histoire, architecture, culturel, unesco, religion]
 pois: [calama#11-janvier]
-country: Chili
+country: Argentine
 states: ["Jujui","Salta"]
 category: "roadmap"
 flickr-text: "Argentine"
