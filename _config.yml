@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "-26.072860229970914, -65.97612614755356"
-  name: "Argentine - Cafayate"
-  date: "01 février 2024"
+  name: "Argentine - Salta"
+  date: "02 février 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
