@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-25.29565531437092, -57.61019565678958"
-  name: "Paraguay - Asuncion"
-  date: "04 au 06 février 2024"
+  coordinates: "-25.562225155305093, -57.2872210169652"
+  name: "Paraguay - Yaguaron"
+  date: "06 février 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
