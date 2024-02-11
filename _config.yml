@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-25.609040470367137, -54.480210598073946"
-  name: "Brésil - Foz do Iguaçu"
-  date: "09 et 10 février 2024"
+  coordinates: "-25.687365471978897, -54.45572746385004"
+  name: "Argentine - Puerto Iguazú"
+  date: "12 février 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
