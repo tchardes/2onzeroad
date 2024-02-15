@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-26.894852326419993, -48.681446602076186"
-  name: "Brésil - Itajai"
-  date: "14 février 2024"
+  coordinates: "-27.61139301845333, -48.4522515654012"
+  name: "Brésil - Lagoa Da Conceicao"
+  date: "15 février 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
