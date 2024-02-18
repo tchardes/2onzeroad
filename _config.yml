@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-29.164830545393606, -49.583203704909806"
-  name: "Brésil - Balneário Gaivota"
-  date: "16 et 17 février 2024"
+  coordinates: "-30.04653109618536, -51.15774885215219"
+  name: "Brésil - Porto Alegre"
+  date: "18 et 19 février 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
