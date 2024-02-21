@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-33.53236628169723, -53.3640452964905"
-  name: "Brésil - Santa Victoria do Palmar"
-  date: "20 février 2024"
+  coordinates: "-34.591928308558465, -54.128023995961115"
+  name: "Uruguay - La Pedrera"
+  date: "21 février 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
