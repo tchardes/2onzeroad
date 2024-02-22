@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "-34.591928308558465, -54.128023995961115"
-  name: "Uruguay - La Pedrera"
-  date: "21 février 2024"
+  name: "Uruguay - La Barra"
+  date: "22 février 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
