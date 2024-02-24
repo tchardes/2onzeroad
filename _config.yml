@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-34.63993503260639, -55.57059352981643"
   name: "Uruguay - La Querencia"
-  date: "23 février 2024"
+  date: "23 au 29 février 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
