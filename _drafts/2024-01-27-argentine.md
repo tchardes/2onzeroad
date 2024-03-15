@@ -1,18 +1,18 @@
 ---
 layout: blog
 title: "Argentine"
-preview: "Cet article couvre la période du 12 au 23 janvier 2024, au cours de laquelle nous avons fait une petite incursion au Chili."
+preview: "Cet article couvre la période du 24 janvier au 14 février 2024, au cours de laquelle nous avons visité la région de Salta au Nord-Ouest de l'argentine avant de..."
 parent-id:
-date: 2024-02-05 13:00:00
+date: 2024-02-15 13:00:00
 from-date: 2024-01-24 12:00:00
-to-date: 2024-02-04 13:00:00
+to-date: 2024-02-14 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-colombie_caraïbe.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-perou2.jpg
-tags: [lac, histoire, architecture, culturel, unesco, religion]
+tags: [montagne, géologie, architecture]
 pois: [calama#11-janvier]
 country: Argentine
-states: ["Jujui","Salta"]
+states: ["Jujuy","Salta", "Chaco", "Formosa"]
 category: "roadmap"
 flickr-text: "Argentine"
 location: "-25.086404316049375, -61.99267778682089"
@@ -20,17 +20,12 @@ itinary: "2023-24/argentine.json"
 mapZoom: 6
 ---
 
-Cet article couvre la période du 12 au 23 janvier 2024, au cours de laquelle nous avons fait une petite incursion au Chili.
-
+Cet article couvre la période du 24 janvier au 14 février 2024, au cours de laquelle nous avons visité la région de Salta au Nord-Ouest de l'argentine avant de traverser une partie du pays d'Ouest en Est pour entrer au Paraguay.
 
 # 24 janvier
 
-On quitte San pedro on ayant pris un peu d’essence. On attaque la montée vers l’Argentine, on va carrément traverserr la cordillère. Les paysages sont à couper le souffle on  navigue entre 4300 et  4500 avec deux passages à pkus de 4800 mètres. Thor est impéccable. On fait de nombreux arrêts tans les paysages sont magnifiques.
-20 Km avant la frontière un homme avec son fils nous font de grands signes au bord de la route. On s’arrête, ils sont en panne. Ils montent avec nous et nous les conduisons jusqu’au poste frontière. Ce sont des argentins de Formosa très sympas ils nous laissent leurs ccordonnées.
-Passage de frontière simple et rapide, les chilien et les argentins sont dans le même bâtiment les uns à la suite des autres. On évite le contrôle sanitaire nous avons 90 jours et Thor 8 mois !!!
-Premier arrêt dans une station service qui ne prend par la CB je retire de l’argent dans un ATM qui me prend énormémenment de frais. Du coup on ne met que 30 litres histoire de regagner le village d’après où nous arrivons en fin de soirée. Côté argentin le Le pausage change , bien plus couvert et n ous voyons apparaitre d’immenses cactus.
-
-72152 Frontière
+Passage de frontière à Jama et simple et rapide, les chiliens et les argentins sont dans le même bâtiment les uns à la suite des autres. On évite le contrôle sanitaire nous avons 90 jours et Thor 8 mois. Nous avons pris le minimum d'essence à San Pedro en raison du prix et notre premier arrêt est dans une station service. Le pompiste m'annoce que leurs TPE sont en panne, il faut apyer en numéraire. Devant ma tête dépitée il me montre un distributeur. Je retire donc de l'argent mais je ne peux teirer que 16000 pesos par retrait sur lesquel la banque prend 8000 pesos de frais, une escroquerie. Je retire uniquement la somme qui me permet de mettre 30 litres histoire de rejoindre Susques notre première étape où nous arrivons en fin de soirée. Les paysages côté argentin sont très différents comme la météo, les nuages sont aglutinés contre la cordilllère, d’immenses cactus font leur apparitions dans le décor.
+Le village est très petit, peu de boutiques, l'unique station essence semble dater d'une autre époque. On trouve un bivouac on verra demain pour la logistique.
 
 # 25 janvier
 
