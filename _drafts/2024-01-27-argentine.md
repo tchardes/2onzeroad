@@ -24,8 +24,9 @@ Cet article couvre la période du 24 janvier au 14 février 2024, au cours de la
 
 # 24 janvier
 
-Passage de frontière à Jama et simple et rapide, les chiliens et les argentins sont dans le même bâtiment les uns à la suite des autres. On évite le contrôle sanitaire nous avons 90 jours et Thor 8 mois. Nous avons pris le minimum d'essence à San Pedro en raison du prix et notre premier arrêt est dans une station service. Le pompiste m'annoce que leurs TPE sont en panne, il faut apyer en numéraire. Devant ma tête dépitée il me montre un distributeur. Je retire donc de l'argent mais je ne peux teirer que 16000 pesos par retrait sur lesquel la banque prend 8000 pesos de frais, une escroquerie. Je retire uniquement la somme qui me permet de mettre 30 litres histoire de rejoindre Susques notre première étape où nous arrivons en fin de soirée. Les paysages côté argentin sont très différents comme la météo, les nuages sont aglutinés contre la cordilllère, d’immenses cactus font leur apparitions dans le décor.
-Le village est très petit, peu de boutiques, l'unique station essence semble dater d'une autre époque. On trouve un bivouac on verra demain pour la logistique.
+Passage de frontière à Jama et simple et rapide, les chiliens et les argentins sont dans le même bâtiment les uns à la suite des autres. On évite le contrôle sanitaire nous avons 90 jours et Thor 8 mois. Nous avons pris le minimum d'essence à San Pedro en raison du prix et notre premier arrêt est dans une station service. Le pompiste m'annoce que leurs TPE sont en panne, il faut apyer en numéraire. Devant ma tête dépitée il me montre un distributeur. Je retire donc de l'argent mais je ne peux teirer que 16000 pesos par retrait sur lesquel la banque prend 8000 pesos de frais, une escroquerie. Je retire uniquement la somme qui me permet de mettre 30 litres histoire de rejoindre Susques notre première étape où nous arrivons en fin de soirée. Les paysages côté argentin sont très différents comme la météo, les nuages sont aglutinés contre la cordilllère, d’immenses cactus font leur apparitions dans le décor.Le village est très petit, peu de boutiques, l'unique station essence semble dater d'une autre époque. On trouve un bivouac on verra demain pour la logistique.
+
+<img src="{{baseurl}}/assets/owner/photos/argentine1.jpg" style="width:100%" />
 
 # 25 janvier
 
