@@ -24,7 +24,7 @@ Cet article couvre la période du 24 janvier au 14 février 2024, au cours de la
 
 # 24 janvier
 
-Passage de frontière à Jama et simple et rapide, les chiliens et les argentins sont dans le même bâtiment les uns à la suite des autres. On évite le contrôle sanitaire nous avons 90 jours et Thor 8 mois. Nous avons pris le minimum d'essence à San Pedro en raison du prix et notre premier arrêt est dans une station service. Le pompiste m'annoce que leurs TPE sont en panne, il faut apyer en numéraire. Devant ma tête dépitée il me montre un distributeur. Je retire donc de l'argent mais je ne peux teirer que 16000 Ars par retrait sur lesquel la banque prend 8500 Ars de frais, une escroquerie. Je retire uniquement la somme qui me permet de mettre 30 litres histoire de rejoindre Susques notre première étape où nous arrivons en fin de soirée. Les paysages côté argentin sont très différents comme la météo, les nuages sont aglutinés contre la cordilllère, d’immenses cactus font leur apparitions dans le décor. Le village est très petit, peu de boutiques, l'unique station essence semble dater d'une autre époque. Après un raide tour, on trouve un bivouac ; on verra demain pour la logistique.
+Passage de frontière à Jama et simple et rapide, les chiliens et les argentins sont dans le même bâtiment les uns à la suite des autres. On évite le contrôle sanitaire nous avons 90 jours et Thor 8 mois. Nous avons pris le minimum d'essence à San Pedro en raison du prix et notre premier arrêt est dans une station service. Le pompiste m'annoce que leurs TPE sont en panne, il faut apyer en numéraire. Devant ma tête dépitée il me montre un distributeur. Je retire donc de l'argent mais je ne peux teirer que 16000 Ars par retrait sur lesquel la banque prend 8500 Ars de frais, une escroquerie. Je retire uniquement la somme qui me permet de mettre 30 litres histoire de rejoindre **Susques** notre première étape où nous arrivons en fin de soirée. Les paysages côté argentin sont très différents comme la météo, les nuages sont aglutinés contre la cordilllère, d’immenses cactus font leur apparitions dans le décor. Le village est très petit, peu de boutiques, l'unique station essence semble dater d'une autre époque. Après un raide tour, on trouve un bivouac ; on verra demain pour la logistique.
 
 <img src="{{baseurl}}/assets/owner/photos/argentine1.jpg" style="width:100%" />
 
@@ -46,36 +46,73 @@ On prend la route 52 vers Purmamarca. Après une longue route sur l’altiplano,
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587447376/in/datetaken-public/" title="Salinas Grande - [Argentine]"><img src="https://live.staticflickr.com/65535/53587447376_0475134db5_k.jpg" width="2048" height="1152" alt="Salinas Grande - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A la fin de l'altiplano on attaque une descente vertigineuse, la Cuesta de Lipan, on l'on passe de 4170 mètres à un peu pleu de 2000 mètres en quelques dizaines de kilomètres. Il y a plusieurs prtions de lacets et épingles très serrées où il vaut mieux savoir utiliser son frein moteur en priorité.
+A la fin de l'altiplano on attaque une descente vertigineuse, la **Cuesta de Lipan**, on l'on passe de 4170 mètres à un peu pleu de 2000 mètres en quelques dizaines de kilomètres. Il y a plusieurs portions de lacets et épingles très serrées qiui sont imprésionnnates. Il vaut mieux savoir maitriser l'utilisation de son frein moteur pour descendre sans risque. De nombreux véhicules de faible puissance étaient arrêtés dans le sens de la montée car les moteurs avaient chauffées idem dans le sens de la descente ou les freins n'étaient plus efficient.
 
 <img src="{{baseurl}}/assets/owner/photos/argentine6.jpg" style="width:100%" />
 
+Une fois dans la vallée du Rio de la Quebrada de Pumamarca la route est très belle le décor change radicalement avec des montagnes au couleurs surprenantes.
+
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587448681/in/datetaken-public/" title="Purmamarca - [Argentine]"><img src="https://live.staticflickr.com/65535/53587448681_ff5a3f146b_k.jpg" width="2048" height="1152" alt="Purmamarca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Arrivé à Purmamarca on fait plusieurs camping pour finir finalement au parking municipal très près de la place principale et qui offre electricité et eau…
-On repart en ville en quête d’une carte Sim et du liquide.
-On trouve une boutique qui me vend une puce Claro mais étant étranger je dois enregistrer mon Imei sur le site qui ne fonctionne pas… On trouve du Wifi et je décide de m’envoyer de l’argent via Western Union, au moins un truc qui marche … je m’envoie 200€ et je recupère 278200 pesos soit l ‘équivalent de 300 euros, c’est la magie de l’Argentine….
-On passe le reste de la fin de journée dans la boutique pour tenter de faire fonctionner ma carte sim, même un client s’y met mais rien à faire, tant que mon téléphone ne sera pas inscrit, ma carte ne sera pas réellement activée… Du coup on mange sur place un panini et une bière…. On verra demain…
+Arrivés à **Pumamarca** on fait plusieurs campings pour finir finalement au parking municipal très près de la place principale et qui offre électricité et eau. Une fois installés nous partons à la découverte de ce très beau village, très touristique, entrouré de montagnes multicolres. Ca place centrale abrite un grand marché artisanal, de nombreuses boutiques, bar est restaurants accueillent une foule de touristes. Pumamarca est une étape de la boucle Nord de Salta. On trouve rapidement une boutique qui me vend une carte Sim de l'opérateur Claro. Etant étranger, je dois enregistrer le N° Imei de mon téléphone sur un site officiel pour activer mon compte mais ce dernier ne fonctionne pas. Possédant également un guichet Western Union je décide de m’envoyer de l’argent via cette plate forme qui applique un taux de change différent de celui des banques officielles. En effet, je m’envoie 200€ et je recupère 278200 Ars soit l‘équivalent de 300 euros au taux officiel, c’est la magie de l’Argentine… Sachant que les pricipaux billets en Argentine sont de 1000 et 2000 Ars, on se retrouve avec des liasses de billets, j'en mets dans toutes mes poches... Avec cette inflation constante qui mine l'économie argentine depuis des décenies, il est plus avantageux pour nous de tout payer en numéraire plutôt que d'utiliser la CB. On passe le reste de la fin de journée dans la boutique pour tenter de faire fonctionner ma carte sim, même un client s’y met mais rien n'y fait.
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53590791776/in/datetaken-public/" title="Pumamarca - [Argentine]"><img src="https://live.staticflickr.com/65535/53590791776_86aa4c78e1_k.jpg" width="2048" height="1005" alt="Pumamarca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587448516/in/datetaken-public/" title="Purmamarca - [Argentine]"><img src="https://live.staticflickr.com/65535/53587448516_36f75298f3_k.jpg" width="2048" height="1152" alt="Purmamarca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53591236490/in/datetaken-public/" title="Pumamarca - [Argentine]"><img src="https://live.staticflickr.com/65535/53591236490_4bbeeabfbc_k.jpg" width="2048" height="1111" alt="Pumamarca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # 26 janvier
 
-Ce matin ja fais une randonnée qui serpente entre les magnifiques montagnes qui entourent la ville, c’est vraiment suprenant et magnifique, contrairmenet à la montagnes aux 7 coleurs du Pérou qui sont en formes de strat, là ce sont différentes montagnes qui sont des couleurs différentes.
-A midi je passe à l’épicerie nous prendre une bouteille de vin argentin, un Malbec, il faut profiter d’être ici pour découvrir leur vin. celui-ci est très fort meis très bon.
-On y retourne en fin d’après-midi avec Corinne pour d’autre paysage au soleil couchant, très belle balade de 3KM. De retour on passe à la laverie récupérer notre linge tout propore. Après un petit tour en ville on mange dans un restaurant.
+Ce matin ja fais une petite randonnée de 3 km qui serpente entre les magnifiques montagnes qui entourent la ville, c’est vraiment surprenant et inattendue, contrairement à la montagnes aux 7 couleurs du Pérou qui sont en forme de strat, là ce sont différentes montagnes aux couleurs très différentes.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587663978/in/datetaken-public/" title="Purmamarca - [Argentine]"><img src="https://live.staticflickr.com/65535/53587663978_fa9db2e206_k.jpg" width="2048" height="1152" alt="Purmamarca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587769994/in/datetaken-public/" title="Purmamarca - [Argentine]"><img src="https://live.staticflickr.com/65535/53587769994_15d752982a_k.jpg" width="2048" height="1152" alt="Purmamarca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+De retour je m'arrête dans une épicerie nous prendre une bouteille de vin argentin, un Malbec, il faut profiter d’être ici pour découvrir leur vin. Celui-ci est très puissant mais très bon. En fin d’après-midi je refais la randonnée avec Corinne pour découvrie ces paysages au soleil couchant. De retour on passe à la laverie récupérer notre linge tout propre. Après un petit tour en ville on mange dans un restaurant.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587895145/in/datetaken-public/" title="Purmamarca - [Argentine]"><img src="https://live.staticflickr.com/65535/53587895145_c1260d0ade_k.jpg" width="2048" height="1152" alt="Purmamarca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53586580672/in/datetaken-public/" title="Purmamarca - [Argentine]"><img src="https://live.staticflickr.com/65535/53586580672_3e99f8411d_k.jpg" width="2048" height="1152" alt="Purmamarca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # 27 janvier
 
+Ce matin pendant que l'on fait le plein d’eau, deux camping-cars européens arrivent. Ce sont des chiliens qui ont acheté leur véhicule à d'anciens voyageurs. Ils passent toutes leurs vacances d’été au Brésil on discute un long moment, Thor leur fait vraiment envie…
+On prend finalement la route direction plein Nord sur la Quebrada Humahuaca. La route longe le lit du Rio Grande. Le décor tout au long des 70 kilomètres qui nous séparent de Humahuaca est magique. Maimara est notre premier arrêt. On peut y voir la palette du peintre, un flan de montagnes naturellement découpés, aux couleurs incroyables.
 
-Ce matin on fait le plein d’eau, deux CC européens arrivent, des chiliens qui passent toutes leurs vacances d’été au Brésil on discute un long moment Thor leur fait vraiment envie…
-On prend finalement la route direction plein nord sur la Quebrada Humahuaca. La route est dans le lit de la rivière est le décor tout au long des 70 kilomètres qu nous sépare de Humahuaca, on fait des arrêts à Maimara pour voir la formation palette des peintres, puis à Tilcara, très belle ville coloniale avec des dizianes de boutiques dans le style bobo chic. En début d’après-midi je visite un site archéologique, « Pucara de Tilcara »et son jardin botanique, pas inoubliable…
-On fini notre rourte à Humahuaca, très beau village avec un très beau marché artisanal et un immense monument dédié aux héros de l’indépendance.
-On fait quelques courses dont du saucisson de lama … à voir…
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53591108889/in/datetaken-public/" title="Maimara - [Argentine]"><img src="https://live.staticflickr.com/65535/53591108889_831bd14b8f_k.jpg" width="2048" height="885" alt="Maimara - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587769534/in/datetaken-public/" title="Maimara - [Argentine]"><img src="https://live.staticflickr.com/65535/53587769534_6df6067045_k.jpg" width="2048" height="1152" alt="Maimara - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script
+
+La route pour arriver à Tilcara et très belle, on y voit notemment des vignobles parsemmés de cactus. Cette ville coloniale est un peu comme Pumamarca avec ces dizaines de boutiques dans le style Hippie chic. En début d’après-midi je visite un site archéologique de « Pucara de Tilcara » et son jardin botanique, pas inoubliable si l'on considère que tout a été reconstruit toutefois la vue depuis le site est très belle et le jadin botanique abrite une curiosité, une pierre qui sonne comme une cloche...
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587663523/in/datetaken-public/" title="Quebrada de Humahuaca - [Argentine]"><img src="https://live.staticflickr.com/65535/53587663523_a9d2d358da_k.jpg" width="2048" height="1152" alt="Quebrada de Humahuaca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587663748/in/datetaken-public/" title="Tilcara - [Argentine]"><img src="https://live.staticflickr.com/65535/53587663748_699260b773_k.jpg" width="2048" height="1152" alt="Tilcara - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53590996818/in/datetaken-public/" title="Tilcara - [Argentine]"><img src="https://live.staticflickr.com/65535/53590996818_897e11fb5a_k.jpg" width="2048" height="1152" alt="Tilcara - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On fini notre route à Humahuaca, On trouve un bivouac au bord du Rio Grande, avec d'autre voyageurs, argentins, brésiliens. Le village est très vivant avec un très beau marché artisanal et un immense monument dédié aux héros de l’indépendance. On fait quelques courses dont du saucisson de lama...
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587769684/in/datetaken-public/" title="Humahuaca - [Argentine]"><img src="https://live.staticflickr.com/65535/53587769684_5dc1127cb1_k.jpg" width="2048" height="1152" alt="Humahuaca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587894910/in/datetaken-public/" title="Humahuaca - [Argentine]"><img src="https://live.staticflickr.com/65535/53587894910_10bcad7a8d_k.jpg" width="2048" height="1152" alt="Humahuaca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # 28 janvier
 
-Ce matin dernier tour dans Humahuaca pour bénèficier d’une bonne lumière puis on reprend laa route plein Sud.
-La portin de la Quebrada est toujours aussi belle jusqu’à Pumarmaca  la route descend tout doucement et peu à peu les couleurs disparaisse pour laisser place à la végétation. On pas dans la capitale regionale San Salvador de Jujuy car la ville ne présente aucun intéret. Nous y faisons toutefois le plein avec de la Gazoline 95 ce qui est suffisant pour Thor. On se débarrase ainsi d’une bonne liasse de billets…
+Ce matin dernier tour dans Humahuaca pour bénèficier d’une bonne lumière pour prendre quelques photos puis on reprend la route en sens invers, plein Sud.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53586581617/in/datetaken-public/" title="Humahuaca - [Argentine]"><img src="https://live.staticflickr.com/65535/53586581617_e0b3c68235_k.jpg" width="2048" height="1152" alt="Humahuaca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587894915/in/datetaken-public/" title="Humahuaca - [Argentine]"><img src="https://live.staticflickr.com/65535/53587894915_0f556956f8_k.jpg" width="2048" height="1152" alt="Humahuaca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+La portion de la Quebrada est toujours aussi belle jusqu’à Pumamarca, on fait quelques arrets supplémentaires, au village d'Uquia, au tropique du Capricorne.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53586581527/in/datetaken-public/" title="Uquia - [Argentine]"><img src="https://live.staticflickr.com/65535/53586581527_b7ef673d5b_k.jpg" width="2048" height="1152" alt="Uquia - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587769549/in/datetaken-public/" title="Huacalera - [Argentine]"><img src="https://live.staticflickr.com/65535/53587769549_842bb1ef4d_k.jpg" width="2048" height="1152" alt="Huacalera - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Après Pumamarca, la route descend tout doucement et peu à peu les couleurs disparaisse pour laisser place à plus la végétation et d'agriculture. On passe dans la capitale regionale, San Salvador de Jujuy, mais on ne s'y arrête pas car la ville ne présente aucun intéret. Nous y faisons toutefois le plein avec de la Gazoline 95 ce qui est suffisant pour Thor. On se débarrase ainsi d’une bonne liasse de billets…
 Nous poursuivons notre route jusqu’à une autre capitale régionale Salta. Nous nous posons dans un camping municipal qui dispose d’un immense bassin, c’st dimanche, ce sont les vacances d’été ici, c’est blindé. On trouve toutefois une place pour thor avec de l’électricite et du wifi, je me mets un peu à jour avant la nuit.
 
 # 29 janvier
