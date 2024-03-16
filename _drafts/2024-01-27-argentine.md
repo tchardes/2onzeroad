@@ -24,15 +24,31 @@ Cet article couvre la période du 24 janvier au 14 février 2024, au cours de la
 
 # 24 janvier
 
-Passage de frontière à Jama et simple et rapide, les chiliens et les argentins sont dans le même bâtiment les uns à la suite des autres. On évite le contrôle sanitaire nous avons 90 jours et Thor 8 mois. Nous avons pris le minimum d'essence à San Pedro en raison du prix et notre premier arrêt est dans une station service. Le pompiste m'annoce que leurs TPE sont en panne, il faut apyer en numéraire. Devant ma tête dépitée il me montre un distributeur. Je retire donc de l'argent mais je ne peux teirer que 16000 pesos par retrait sur lesquel la banque prend 8000 pesos de frais, une escroquerie. Je retire uniquement la somme qui me permet de mettre 30 litres histoire de rejoindre Susques notre première étape où nous arrivons en fin de soirée. Les paysages côté argentin sont très différents comme la météo, les nuages sont aglutinés contre la cordilllère, d’immenses cactus font leur apparitions dans le décor.Le village est très petit, peu de boutiques, l'unique station essence semble dater d'une autre époque. On trouve un bivouac on verra demain pour la logistique.
+Passage de frontière à Jama et simple et rapide, les chiliens et les argentins sont dans le même bâtiment les uns à la suite des autres. On évite le contrôle sanitaire nous avons 90 jours et Thor 8 mois. Nous avons pris le minimum d'essence à San Pedro en raison du prix et notre premier arrêt est dans une station service. Le pompiste m'annoce que leurs TPE sont en panne, il faut apyer en numéraire. Devant ma tête dépitée il me montre un distributeur. Je retire donc de l'argent mais je ne peux teirer que 16000 Ars par retrait sur lesquel la banque prend 8500 Ars de frais, une escroquerie. Je retire uniquement la somme qui me permet de mettre 30 litres histoire de rejoindre Susques notre première étape où nous arrivons en fin de soirée. Les paysages côté argentin sont très différents comme la météo, les nuages sont aglutinés contre la cordilllère, d’immenses cactus font leur apparitions dans le décor.Le village est très petit, peu de boutiques, l'unique station essence semble dater d'une autre époque. On trouve un bivouac on verra demain pour la logistique.
 
 <img src="{{baseurl}}/assets/owner/photos/argentine1.jpg" style="width:100%" />
 
 # 25 janvier
 
-Ce matin impossible de trouver une carte sim, WU n’a pas de cash et la banque nous confirme que nous ne pouvons retirer que 16000 Ars par retrait et qu’il y a chaque fois 8500 ars de frais soit la moitiè de la somme retirée en plus…
-Bref la pompiste est sympa est accépte l’argent Bolivien qui nous reste plus des dolards et on arrive à prendre 30 litres d’essence…
+Ce matin promenade à pied dans ce village minier perdu des andes qui se trouve sur la célèbre Ruta 40 qui traverse l'Argentine du Nord au Sud en longeant la cordillère. Susques a été implanté au point de rencontre de plusieurs rios qui se réunissent là pour former le Rio de las Burras. On visite l'église Notre Dame de Belén, très simple avec son toit en paille, elle serait la plus vieille église du Nord de l'argentine.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587895420/in/datetaken-public/" title="Susques - [Argentine]"><img src="https://live.staticflickr.com/65535/53587895420_c9946fd84b_k.jpg" width="2048" height="1152" alt="Susques - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587770304/in/datetaken-public/" title="Susques - [Argentine]"><img src="https://live.staticflickr.com/65535/53587770304_2e4e107a67_k.jpg" width="2048" height="1152" alt="Susques - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On se rend dans les quelques boutiques du village mais impossible de trouver une carte sim. On n'a pas plus de chance avec le guichet Western Union qui est bien ouvert mais qui ne dispose pas de cash. En dernier recours on se rend à la seule banque du coin où on nous confirme que nous ne pouvons retirer que 16000 Ars par retrait avec les frais… On décide de quitter les lieux mais avant on passe à la station essence qui malgrè toutes les apparence est en service. La pompiste est habitué aux voyageurs dont les stickers recouvent les pompes. C'est une veritable femme d'affaire, elle prend toutes les monaies, calculatrice en main pour calculer le change. En réunissant les pesos boliviens qui nous reste plus quelques dollars on arrive à prendre 30 litres d’essence, assez pour arriver à notre prochaine étape.
+
+<img src="{{baseurl}}/assets/owner/photos/argentine2.jpg" style="width:100%" />
+
 On prend la route vers Purmamarca. Après une longue route sur l’altiplano, moins beau qu’au Chili, on traverse le salar « Salinas Grandes » on y fait un petit arrêt avant de reprendre la route et attaquer une descente vertigineuse Cuesta de Lipan. La route est très belle et descent de près de 2000 mètres en une trentaine de kilomètre, très beau décort. 
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53586582102/in/datetaken-public/" title="Salinas Grande - [Argentine]"><img src="https://live.staticflickr.com/65535/53586582102_e87670e2a0_k.jpg" width="2048" height="1152" alt="Salinas Grande - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587447376/in/datetaken-public/" title="Salinas Grande - [Argentine]"><img src="https://live.staticflickr.com/65535/53587447376_0475134db5_k.jpg" width="2048" height="1152" alt="Salinas Grande - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587448681/in/datetaken-public/" title="Purmamarca - [Argentine]"><img src="https://live.staticflickr.com/65535/53587448681_ff5a3f146b_k.jpg" width="2048" height="1152" alt="Purmamarca - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Arrivé à Purmamarca on fait plusieurs camping pour finir finalement au parking municipal très près de la place principale et qui offre electricité et eau…
 On repart en ville en quête d’une carte Sim et du liquide.
 On trouve une boutique qui me vend une puce Claro mais étant étranger je dois enregistrer mon Imei sur le site qui ne fonctionne pas… On trouve du Wifi et je décide de m’envoyer de l’argent via Western Union, au moins un truc qui marche … je m’envoie 200€ et je recupère 278200 pesos soit l ‘équivalent de 300 euros, c’est la magie de l’Argentine….
