@@ -165,9 +165,11 @@ On mange sur la place principale une escalope milanaise accompgnée d’un bon v
 
 # 01 février
 
-On quittela camping ce matin pour découvrir la Quebrada de la Concha qui va nous conduire jusqu’à Cafayate.
-Avant de quitter la ville on s’arrête dans une ferreteria pour acheter mon autocollant 90, enfin …
-La première moitié de la route est une route de campagne boen agréable puis on rentre dans la quebrada où se succéde de magnifique paysage, on entre dans une vallée où les montagnes change de couleur de texture sans arrêts, c’est impressionnant comme cette géologie torturée nous présente un spectacle magnifique. On fait de nombreux arrêts très beau malgrè le fait qu’il ne fasse pas très beau et que le tonnerre gronde en haut des montagnes.
+On quitte le camping ce matin pour découvrir la Quebrada de la Concha qui va nous conduire jusqu’à Cafayate. Il s'agit de la partie asphaltée de la boucle Sud. La première moitié de la route est une route de campagne bien agréable puis on rentre dans la quebrada où se succéde de magnifique paysage, on entre dans une vallée où les montagnes change de couleur de texture sans arrêts, c’est impressionnant comme cette géologie torturée nous présente un spectacle magnifique. On fait de nombreux arrêts très beau malgrè le fait qu’il ne fasse pas très beau et que le tonnerre gronde en haut des montagnes.
+
+
+
+
 Arrivé à Cayafate on se dirige vers le syndicat d’initiative qui nous confirme que la Ruta 40 c’est principalement du rupio et que pour aller en direction du Paraguay le plus sage est de retourner sur Salta. Après un tour rapide du centre ville, il n’y a rien de particulier à voir ici, on se trouve une micro brasserie bien sympa où on deguste bières et empanadas. On se trouve enfin un endroit calme pour dormir, super journée.
 
 # 02 février
