@@ -115,24 +115,38 @@ La portion de la Quebrada est toujours aussi belle jusqu’à Pumamarca, on fait
 
 Après Pumamarca, la route descend tout doucement et peu à peu les montagnes perdent leurs belles couleurs pour laisser place à plus de végétation et d'agriculture. On passe dans la capitale régionale, San Salvador de Jujuy, mais on ne s'y arrête pas car la ville ne présente aucun intéret. Nous y faisons toutefois le plein avec du Super 95 (0,58 €/litre), qualité suffisante pour le moteur rustique de Thor. On se débarrase ainsi d’une bonne liasse de billets… Nous poursuivons notre route jusqu’à une autre capitale régionale **Salta**. Nous nous posons dans le camping municipal qui dispose d’un immense bassin, c’est dimanche, nous sommes en pleine vacances d’été, c’est noir de monde, principalment des familles qui viennent profiter du bassin. On trouve toutefois une place pour thor avec de l’électricite et du wifi, je me mets un peu à jour avant la nuit. A 18h00 tout le monde quitte le camping il ne reste que quelques camping-cars, c'est très calme.
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587448161/in/datetaken-public/" title="Salta - [Argentine]"><img src="https://live.staticflickr.com/65535/53587448161_108851769b_k.jpg" width="2048" height="921" alt="Salta - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 # 29 janvier
 
 Ce matin nous prenons un taxi pour trouver un garage Ford pour la révision de Thor, le deuxième est le bon mais il veut voir Thor pour savoir s’il peut trouver les filtres. rendez-vous est pris pour cet après midi. Oui ici la sieste est sacrée, tous les commerces ferment pour la pose méridienne et ne réouvre que vers 16 ou 17 heures jusqu’à 20 ou 21h00. On reprend ensuite un taxi pour le centre ville ou je trouve un grand magasin Claro qui regle mon probleme d’inscription on a enfin accés à la 4G… Je reteste une banque HSBC et le verdict est le même 16000 Ars max avec 8500 Ars de frais en plus. On trouvee un bureau Western Union qui se trouve dans une grande surface Carrefour. Je m'envoie 300€ et je recois 405063 Ars ce qui correspont à 450€ au taux officiel des banques, c’est fou... Du coup il y a la queue devant le guichet car tout le monde paye en liquide, les gens se promènent avec des liasses de billets sur eux. Comme ils n'ont pas de pièces, aux caisses ils arrondissent toujours les prix.
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53586581407/in/datetaken-public/" title="Salta - [Argentine]"><img src="https://live.staticflickr.com/65535/53586581407_288b83cd30_k.jpg" width="2048" height="1152" alt="Salta - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Autour de la place principale il y a énormément de gars qui font du change, des dollars ou euros contre des Ars à un taux de change encore plus intéressant on appelle ça le taux Blue qui est en fait un vrai marché parraléllé de l’argent en Argentine.
 Les poches pleine de biftons… on va déjeuner dans un très bon retaurant ou on commande un parillada, l’argentine est le pays de la viande, au menu boudin, saucisses, poulet, porc et boeuf, un régal, le tout accompagné d’une vin rouge de Salta un Malbec très fruité.
 Histoire de digérer on va jusqu’à la gare pour voir la possibilité de faire une atraction touristique "El tren de la Nubies". Ce train traverse des gorges de la Puna et comporte 19 tunels, 29 ponts et 13 viaducs. Je croyais que le train faisait Salta - San Antonio de Los cobres aller et retour. Au final c’est 5 heures de Bus pour arriver à San Antonio de Los cobres et puis de là on monte dans le train pour faire 22 kilomètres de voie ferrée aller et retour et re 5 heures de bus pour revenir à Salta, je déclare forfait…
 
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587894650/in/datetaken-public/" title="Salta - [Argentine]"><img src="https://live.staticflickr.com/65535/53587894650_e86f07c75c_k.jpg" width="2048" height="1152" alt="Salta - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587769329/in/datetaken-public/" title="Salta - [Argentine]"><img src="https://live.staticflickr.com/65535/53587769329_e786fc6301_k.jpg" width="2048" height="1152" alt="Salta - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 On déhambule dans le centre ville puis on prend un uber pour rentrer au camping et récupérer Thor pour nous rendre chez Ford, le gars regarde un peu et me dit qu’il faut qu’il démonte le filtre à huile pour voir s’il trouve le même, rendez vous est pris pour demain 9h00.
 Comme on est dehors on en profite pour trouver un laveur de camions et on offre à Thor une grosse douche, plus d’une heure de travail pour lui enlever terre et poussière des pistes que nous avons emprunté, il est méconnaissable.
+
+<img src="{{baseurl}}/assets/owner/photos/argentine3.jpg" style="width:100%" />
 
 # 30 janvier
 
 Ce matin direction Ford, à notre arrivée un mécano démonte les filtre et pat en ville à la quête des pièces. On passe la journée a attendre dans Thor ne sachant pas quand il reviendra. Le seul point positif c’est le bon wifi du garage qui nous permet de contacter longuement toute la famille. Vers 17h30 ils se mettent au boulot changement des filtres, vidange et à ma demande ils conttrolent la timonerie, les freins, les suspensions et la transmission, tout est OK. La facture est quand à elle sallée…
 
+<img src="{{baseurl}}/assets/owner/photos/argentine5.jpg" style="width:100%" />
+
 # 31 janvier
 
 Ce matin on repart en centre ville en taxi, on arrive à visiter la cathédrale puis nous allons visiter l’église et le musée San Francisco pour finir par le carmel San Bernardo. On mange sur la place principale une escalope milanaise accompgnée d’un bon vin blanc. Ils sont très fort les Italiens car en plus des pizzas et des pattes que l'on trouve partout dans le monde, depuis la Bolivie on constate que presque tous les restaurant propose des escaloppes milanaise de toutes sortes, il y a même des restaurants entièrement dédiés à cette spécialité. On fait les boutiques puis on retourne au Carrefour pour retirer du liquide au WU, le garage nous a tout pris, puis nous faisons les courses. Le temps se couvre on rentre au camping. Sur place on assiste à un défilé en musique des enfants des centres aérés qui dansent autour de la grande piscine.
+
+<img src="{{baseurl}}/assets/owner/photos/argentine4.jpg" style="width:100%" />
 
 # 01 février
 
