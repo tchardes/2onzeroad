@@ -188,13 +188,11 @@ Ce matin on reprend la route direction Salta par la même route, la 68. Il fait 
 
 Arrivés à Salta on fait quelques courses et le plein de carburant qui a augmenté de 11% depuis hier, ce sont les nouvelles mesures du nouveau président, elle reste quand même à 0,61€ le litre... On retourne dans le camping municipal où nous retrouvons emplaacement pour notre dernière nuit dans la région.
 
-# 03 février
+# 03 et 04 février
 
-Départ de Salta et route presque jusqu’à Resistencia, route droite pas souvent de bonne qualité, chaleur étouffante…
+Départ de Salta direction plein Est pour rejoindre le Paraguay. On quitte définitivement le relief Andin pour les grandes plaines monotones du centre de l'argentine. On décide de rouler toute la journée en éspérant s'approcher le plus de la ville de Resistencia. On parcour presque 800 km dans la journée sur une route pas toujours en très bon état et pratiquement droite, c'est impressionnant. Le décors est composé principalement de forêts et grandes propiétées agricoles. La chaleur est étouffante.
 
-# 04 février
-
-Ce matin le ciel est couvert et la haluer et tout aussis etouffante. On fait un passage par Corrientes ou on fait une balade le long du rio Paraña, la seule atractivité de la ville puis par Resistencia RAV.
+Ce matin le ciel est couvert et la chaleur et la moiteur sont tout aussi etouffante. On fait un passage par Corrientes avec une balade le long du rio Paraña, la seule atractivité de la ville puis par Resistencia RAV.
 Après déjeuner on reprend la route en direction de Formsa pui de la frontière où on arrive en fin d’après-mid. On refait le plein avec de passer au paraguay où elle est plus chère. Passege de frontière facile côté argentin et un peu plus tatillon et à l’ancienne du côté des duanes du paraguay.
 On fait route ensuite vers la capitale Asicion, très grande ville ou plus de la moitiè des habitats du pays vivent. C’est la première fois que l’on rentre dans un pays et directement dans sa capitale. 
 On a eu de la chance car au péage pour rentrer en ville il prenne la CB car nous n’avons aucun pesos paraguayens pour le moment.
