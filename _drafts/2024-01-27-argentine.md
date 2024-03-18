@@ -7,7 +7,7 @@ date: 2024-02-15 13:00:00
 from-date: 2024-01-24 12:00:00
 to-date: 2024-02-14 13:00:00
 author: "Thierry"
-header-img: "assets/owner/blog/header/post-bg-colombie_caraïbe.jpg"
+header-img: "assets/owner/blog/header/post-bg-argentine.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-perou2.jpg
 tags: [montagne, géologie, architecture]
 pois: [calama#11-janvier]
