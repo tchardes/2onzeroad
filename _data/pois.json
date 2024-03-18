@@ -639,16 +639,24 @@
   { "name": "atacama", "displayName": "Désert d'Atacama", "type": "nature", "country": "Chili" },
   { "name": "lune", "displayName": "Vallée de la Luna", "type": "nature", "country": "Chili" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "susques", "displayName": "Susques", "type": "ville", "country": "Argentine" },
+  { "name": "lipan", "displayName": "Cuesta de Lipan", "type": "", "country": "Argentine" },
+  { "name": "pumamarca", "displayName": "Pumamarca", "type": "ville", "country": "Argentine" },
+  { "name": "salinas", "displayName": "Salinas Grande", "type": "nature", "country": "Argentine" },
+  { "name": "humahuaca", "displayName": "Humahuaca", "type": "ville", "country": "Argentine" },
+  { "name": "humahuaca", "displayName": "Quebrada de Humahuaca", "type": "nature", "country": "Argentine" },
+  { "name": "maimara", "displayName": "Maimara", "type": "ville", "country": "Argentine" },
+  { "name": "tilcara", "displayName": "Tilcara", "type": "ville", "country": "Argentine" },
+  { "name": "salta", "displayName": "Salta", "type": "ville", "country": "Argentine" },
+  { "name": "conchas", "displayName": "Quebrada las Conchas", "type": "nature", "country": "Argentine" },
+  { "name": "cafayate", "displayName": "Cafayate", "type": "ville", "country": "Argentine" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" }
+  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
+
+  { "name": "", "displayName": "", "type": "", "country": "Paraguay" }
 ]

@@ -10,7 +10,7 @@ author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-argentine.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-argentine.jpg
 tags: [montagne, géologie, architecture]
-pois: [calama#11-janvier]
+pois: [susques#24-janvier, lipan#25-janvier, pumamarca#25-janvier, salinas#25-janvier, humahuaca#27-janvier, maimara#27-janvier, tilcara#27-janvier, salta#28-janvier, conchas#01-fevrier, cafayate#01-fevrier]
 country: Argentine
 states: ["Jujuy","Salta", "Chaco", "Formosa"]
 category: "roadmap"
@@ -40,7 +40,7 @@ On se rend dans les quelques boutiques du village mais impossible de trouver une
 
 <img src="{{baseurl}}/assets/owner/photos/argentine2.jpg" style="width:100%" />
 
-On prend la route 52 vers Purmamarca. Après une longue route sur l’altiplano, qui est bien moins beau qu’au Chili, on traverse le Salar « Salinas Grandes » (3415 m) où de nombreux cars déposent des vagues de touristes. On y fait un petit arrêt rapide avant de reprendre la route. Il faut dire qu'après le Salar d'Uyuni on est un peu blasé. Tout autour, il y a de nombreux panneaux de protestations contre le projet d'exploitation du Salar pour en extraire le lithium si cher à nos pseudo écolos bobos parisiens...
+On prend la route 52 vers Purmamarca. Après une longue route sur l’altiplano, qui est bien moins beau qu’au Chili, on traverse le Salar **Salinas Grandes** (3415 m) où de nombreux cars déposent des vagues de touristes. On y fait un petit arrêt rapide avant de reprendre la route. Il faut dire qu'après le Salar d'Uyuni on est un peu blasé. Tout autour, il y a de nombreux panneaux de protestations contre le projet d'exploitation du Salar pour en extraire le lithium si cher à nos pseudo écolos bobos parisiens...
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53586582102/in/datetaken-public/" title="Salinas Grande - [Argentine]"><img src="https://live.staticflickr.com/65535/53586582102_e87670e2a0_k.jpg" width="2048" height="1152" alt="Salinas Grande - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -79,7 +79,7 @@ De retour je m'arrête dans une épicerie nous prendre une bouteille de vin arge
 # 27 janvier
 
 Ce matin pendant que l'on fait le plein d’eau, deux camping-cars européens arrivent. Ce sont des chiliens qui ont acheté leur véhicule à d'anciens voyageurs. Ils passent toutes leurs vacances d’été au Brésil on discute un long moment, Thor leur fait vraiment envie…
-On prend finalement la route direction plein Nord sur la **Quebrada Humahuaca** qui est la partie asphaltée de la boucle Nord. La route longe le lit du Rio Grande. Le décor tout au long des 70 kilomètres qui nous séparent de Humahuaca est magique. **Maimara** est notre premier arrêt. On peut y voir la palette du peintre, un flan de montagnes naturellement découpés, aux couleurs incroyables.
+On prend finalement la route direction plein Nord sur la **Quebrada de Humahuaca** qui est la partie asphaltée de la boucle Nord. La route longe le lit du Rio Grande. Le décor tout au long des 70 kilomètres qui nous séparent de Humahuaca est magique. **Maimara** est notre premier arrêt. On peut y voir la palette du peintre, un flan de montagnes naturellement découpés, aux couleurs incroyables.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53591108889/in/datetaken-public/" title="Maimara - [Argentine]"><img src="https://live.staticflickr.com/65535/53591108889_831bd14b8f_k.jpg" width="2048" height="885" alt="Maimara - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -163,7 +163,7 @@ On mange sur la place principale, une escalope milanaise accompagnée d’un bon
 
 # 01 février
 
-On quitte le camping ce matin pour découvrir la **Quebrada de la Concha** qui va nous conduire jusqu’à **Cafayate**. Il s'agit de la partie asphaltée de la boucle Sud. La première moitié de la route est une route de campagne bien agréable puis on rentre dans la quebrada où se succèdent de magnifiques paysages, on entre dans une vallée où les montagnes changent de couleurs et de textures sans arrêts, c’est impressionnant comme cette géologie torturée nous présente un spectacle magnifique. On fait de nombreux arrêts, très beaux malgré la grisaille, le tonnerre gronde dans la vallée.
+On quitte le camping ce matin pour découvrir la **Quebrada las Conchas** qui va nous conduire jusqu’à **Cafayate**. Il s'agit de la partie asphaltée de la boucle Sud. La première moitié de la route est une route de campagne bien agréable puis on rentre dans la quebrada où se succèdent de magnifiques paysages, on entre dans une vallée où les montagnes changent de couleurs et de textures sans arrêts, c’est impressionnant comme cette géologie torturée nous présente un spectacle magnifique. On fait de nombreux arrêts, très beaux malgré la grisaille, le tonnerre gronde dans la vallée.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53587894190/in/datetaken-public/" title="Quebrada las Conchas - [Argentine]"><img src="https://live.staticflickr.com/65535/53587894190_bfeb32dbdd_k.jpg" width="2048" height="1152" alt="Quebrada las Conchas - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
