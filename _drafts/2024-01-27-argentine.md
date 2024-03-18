@@ -9,7 +9,7 @@ to-date: 2024-02-14 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-argentine.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-argentine.jpg
-tags: [montagne, géologie, architecture]
+tags: [montagne, geologie, architecture]
 pois: [susques#24-janvier, lipan#25-janvier, pumamarca#25-janvier, salinas#25-janvier, humahuaca#27-janvier, maimara#27-janvier, tilcara#27-janvier, salta#28-janvier, conchas#01-fevrier, cafayate#01-fevrier]
 country: Argentine
 states: ["Jujuy","Salta", "Chaco", "Formosa"]
