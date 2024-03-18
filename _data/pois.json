@@ -640,7 +640,7 @@
   { "name": "lune", "displayName": "Vallée de la Luna", "type": "nature", "country": "Chili" },
 
   { "name": "susques", "displayName": "Susques", "type": "ville", "country": "Argentine" },
-  { "name": "lipan", "displayName": "Cuesta de Lipan", "type": "", "country": "Argentine" },
+  { "name": "lipan", "displayName": "Cuesta de Lipan", "type": "nature", "country": "Argentine" },
   { "name": "pumamarca", "displayName": "Pumamarca", "type": "ville", "country": "Argentine" },
   { "name": "salinas", "displayName": "Salinas Grande", "type": "nature", "country": "Argentine" },
   { "name": "humahuaca", "displayName": "Humahuaca", "type": "ville", "country": "Argentine" },
