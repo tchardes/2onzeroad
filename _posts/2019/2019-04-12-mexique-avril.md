@@ -327,7 +327,7 @@ On mange au centre du village dans un très bon restaurant puis on rentre au cam
 
 ## 01 au 05 Avril
 
-Ce matin, nous préparons Thor à un petit storage de quelques jours. On commande un Uber qui arrive rapidement et nous conduit jusqu’à l’hôtel Ibis que nous avons réservé, en plein centre de **Mexico**, à une quarantaine de kilomètres. Nous prenons en compte notre chambre et partons dans le centre historique où nous faisons un grand tour. En fin d’après-midi, retour à l’hôtel pour se reposer. A 19h00, nous retrouvons Christophe et Jean-Pierre et nous allons diner dans un restaurant Italo-Argentin. On finit la soirée par une petite ballade sur le Zocalo avant de regagner l’hôtel.
+Ce matin, nous préparons Thor à un petit storage de quelques jours. On commande un Uber qui arrive rapidement et nous conduit jusqu’à l’hôtel Ibis que nous avons réservé, en plein centre de **Mexico**, à une quarantaine de kilomètres. Nous prenons en compte notre chambre et partons dans le centre historique où nous faisons un grand tour. En fin d’après-midi, retour à l’hôtel pour se reposer. A 19h00, nous retrouvons Christophe et Jean-Pierre et nous allons diner dans un restaurant Italo-Argentin. On finit la soirée par une petite balade sur le Zocalo avant de regagner l’hôtel.
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/2ozr/46624586215/in/datetaken/" title="Mexico - Mexico - [Mexique]"><img src="https://live.staticflickr.com/7809/46624586215_93f36566f5_k.jpg" width="2048" height="1152" alt="Mexico - Mexico - [Mexique]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

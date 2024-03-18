@@ -134,7 +134,7 @@ Info du jour, les routiers bloquent bien toute la ville... et le pays. Aujourd'h
 
 <img src="{{baseurl}}/assets/owner/photos/perou15.jpg" style="width:100%" />
 
-La grève continue et le site de la Huaca de la Luna est toujours fermé. A midi, c'est Vicky qui nous prépare à manger, nous passons un long moment à table à discuter. En fin d'après-midi nous faisons une ballade à pied aux alentours et visitons la Huaca Herotico, la civilisation Mochis était très pédagogue en matière d'éducation sexuelle, sans aucun tabou, en témoigne de nombreuses poteries très explicites, le maire actuel de Trujillo a décidé d'en faire d'énormes reproductions, plutôt caricaturales... enfin... je pense...
+La grève continue et le site de la Huaca de la Luna est toujours fermé. A midi, c'est Vicky qui nous prépare à manger, nous passons un long moment à table à discuter. En fin d'après-midi nous faisons une balade à pied aux alentours et visitons la Huaca Herotico, la civilisation Mochis était très pédagogue en matière d'éducation sexuelle, sans aucun tabou, en témoigne de nombreuses poteries très explicites, le maire actuel de Trujillo a décidé d'en faire d'énormes reproductions, plutôt caricaturales... enfin... je pense...
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/52045148069/in/datetaken-public/" title="Trujillo - [Perou]"><img src="https://live.staticflickr.com/65535/52045148069_ff412ce0a7_k.jpg" width="2048" height="1152" alt="Trujillo - [Perou]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

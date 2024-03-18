@@ -34,7 +34,7 @@ Après 11 heures de vol, nous atterrissons à Oakland en Californie, le deuxièm
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/45755381234/in/datetaken/" title="San Francisco - Californie - [USA]"><img src="https://farm5.staticflickr.com/4856/45755381234_50e0782689_k.jpg" width="2048" height="1152" alt="San Francisco - Californie - [USA]"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Ce matin, on se lève sous un très beau soleil. Il fait un peu frais, à peine 9° dans Thor mais le soleil nous réchauffe très vite. Dans la matinée, nous faisons une petite ballade à pied dans ce parc d’eucalyptus qui, même s’il ne fait pas très chaud, dégage une odeur suave qui nous rappelle nos années passées à Ajaccio. On passe la journée à tout ranger et nettoyer. Je teste le compresseur que j'ai acheté lors de notre dernier séjour et il me lâche au deuxième pneu qui du coup est un peu à plat!
+Ce matin, on se lève sous un très beau soleil. Il fait un peu frais, à peine 9° dans Thor mais le soleil nous réchauffe très vite. Dans la matinée, nous faisons une petite balade à pied dans ce parc d’eucalyptus qui, même s’il ne fait pas très chaud, dégage une odeur suave qui nous rappelle nos années passées à Ajaccio. On passe la journée à tout ranger et nettoyer. Je teste le compresseur que j'ai acheté lors de notre dernier séjour et il me lâche au deuxième pneu qui du coup est un peu à plat!
 
 ## 03 décembre
 
