@@ -190,19 +190,12 @@ Arrivés à Salta on fait quelques courses et le plein de carburant qui a augmen
 
 # 03 et 04 février
 
-Départ de Salta direction plein Est pour rejoindre le Paraguay. On quitte définitivement le relief Andin pour les grandes plaines monotones du centre de l'argentine. On décide de rouler toute la journée en éspérant s'approcher le plus de la ville de Resistencia. On parcour presque 800 km dans la journée sur une route pas toujours en très bon état et pratiquement droite, c'est impressionnant. Le décors est composé principalement de forêts et grandes propiétées agricoles. La chaleur est étouffante.
+Départ de Salta direction plein Est pour rejoindre le Paraguay. On quitte définitivement le relief Andin pour les grandes plaines monotones du centre de l'argentine. On décide de rouler toute la journée en éspérant s'approcher au plus près de la ville de Resistencia. On parcour presque 800 km dans la journée sur une route pas toujours en très bon état et pratiquement droite, c'est impressionnant. Le décors est composé principalement de forêts et grandes propiétées agricoles. La chaleur est étouffante.
 
-Ce matin le ciel est couvert et la chaleur et la moiteur sont tout aussi etouffante. On fait un passage par Corrientes avec une balade le long du rio Paraña, la seule atractivité de la ville puis par Resistencia RAV.
-Après déjeuner on reprend la route en direction de Formsa pui de la frontière où on arrive en fin d’après-mid. On refait le plein avec de passer au paraguay où elle est plus chère. Passege de frontière facile côté argentin et un peu plus tatillon et à l’ancienne du côté des duanes du paraguay.
-On fait route ensuite vers la capitale Asicion, très grande ville ou plus de la moitiè des habitats du pays vivent. C’est la première fois que l’on rentre dans un pays et directement dans sa capitale. 
-On a eu de la chance car au péage pour rentrer en ville il prenne la CB car nous n’avons aucun pesos paraguayens pour le moment.
-On trouve un coin le long de la Costanera, le malecon qui est très vivant en cette fin de dimanche.
-Dans la soirée un gars tape à la porte, il est accompagné de deux enfants et il commence à nous parler de la France, des origines de sa famille dans l’Est de la france, de sa branche italienne, bref on discute un long meoment dans un esperento incroyable, il nous souhaite à plusieurs reprise un bon séjour dans son pays.
-On fait un tour sur la costanera et on s’arrêt manger une Pizza dans un food truck. La dame tres entpusisate nous demande si c’est nous qui avons la casa rodante garée plus loin, les nouvelles vont vites, et elle aussi est très heureuse et nous souhaite la bienvenue, ils n’ont pas le droit de vendre de bière, mais elle nous en donne deux en cachette dans une poche en papier. Décidemment nos premières heures ici son très sympathique…
-Soirée et nuit très chaude, il y a plus de 40° dans Thor….
+Ce matin le ciel est couvert et la chaleur et la moiteur sont tout aussi etouffante. On fait un passage par Corrientes avec une balade le long du rio Paraña, la seule atractivité de la ville puis par Resistencia, pas très attirante. Après déjeuner on reprend la route plein Nord en direction de Formosa puis de la frontière où on arrive en fin d’après-mid. On refait le plein d'essence à Clorinda dernière ville de l'argentine avant de passer au Paraguaydirection la capitale Asuncion, où elle est plus chère. Passage de frontière facile et rapide côté argentin puis on traverse le pont sur le rio Pilcomayo pour entrer au Paraguay.
 
+Nous n'avons passé que 11 jours et parcourus un peu plus de 2000 km dans cet immense pays, la région de Salta célèbre pour sa beauté naturelle époustouflante avec des paysages variés comprenant des montagnes colorées, des vallées, des déserts, des vignobles. Dès que l'on rentre en Argentine on s'y sent bien. Les argentins sont chaleureux, plus expressifs, plus "européens" que leurs voisins du Nord. On dit d'ailleur des argentins que ce sont des italiens qui parlent espagnol et se prennent pour des français... tout est dit. L'italien est la deuxième langue parlée ici, à la fin du 19 éme siècle se sont plus de 2 millions d'Italiens qui ont émmigrés ici. Nous aurons l'occasion lors de notre prochain voyage de mieux décourvir et profiter de ce pays.
 
-Passage frontière : 73451
 
 Un résumé de cette dernière partie de notre voyage en vidéo :
 
