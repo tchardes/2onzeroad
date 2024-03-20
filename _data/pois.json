@@ -651,12 +651,15 @@
   { "name": "conchas", "displayName": "Quebrada las Conchas", "type": "nature", "country": "Argentine" },
   { "name": "cafayate", "displayName": "Cafayate", "type": "ville", "country": "Argentine" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
-  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
-  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
-  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
-  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
-  { "name": "", "displayName": "", "type": "", "country": "Paraguay" },
+  { "name": "asuncion", "displayName": "Asuncion", "type": "ville", "country": "Paraguay" },
+  { "name": "yaguaron", "displayName": "Yaguaron", "type": "ville", "country": "Paraguay" },
+  { "name": "ignacio", "displayName": "San Ignacio", "type": "ville", "country": "Paraguay" },
+  { "name": "maria", "displayName": "Santa Maria", "type": "ville", "country": "Paraguay" },
+  { "name": "rosa", "displayName": "Santa Rosa", "type": "ville", "country": "Paraguay" },
+  { "name": "cosme", "displayName": "San Cosme y San Damian", "type": "ville", "country": "Paraguay" },
+  { "name": "trinidad", "displayName": "Trinidad", "type": "ville", "country": "Paraguay" },
+  { "name": "jesus", "displayName": "Jésus", "type": "ville", "country": "Paraguay" },
+  { "name": "itaipu", "displayName": "Itaipu", "type": "autre", "country": "Paraguay" },
 
   { "name": "", "displayName": "", "type": "", "country": "Paraguay" }
 ]
