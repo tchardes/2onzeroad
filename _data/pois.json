@@ -661,5 +661,18 @@
   { "name": "jesus", "displayName": "Jésus", "type": "ville", "country": "Paraguay" },
   { "name": "itaipu", "displayName": "Itaipu", "type": "autre", "country": "Paraguay" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Paraguay" }
+  { "name": "foz", "displayName": "Foz do Iguassu", "type": "ville", "country": "Brésil" },
+  { "name": "iguassu", "displayName": "Chutes d'Iguassu", "type": "nature", "country": "Brésil" },
+  { "name": "puerto", "displayName": "Puerto d'Iguazu", "type": "ville", "country": "Brésil" },
+  { "name": "iguazu", "displayName": "Chutes d'Iguazu", "type": "nature", "country": "Argentine" },
+  { "name": "florianopolis", "displayName": "Florianopolis", "type": "ville", "country": "Brésil" },
+  { "name": "gaivota", "displayName": "Balneário Gaivota", "type": "ville", "country": "Brésil" },
+  { "name": "alegre", "displayName": "Porto Alegre", "type": "ville", "country": "Brésil" },
+  { "name": "chuy", "displayName": "Chuy", "type": "ville", "country": "Brésil" },
+
+  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
+
+  { "name": "", "displayName": "", "type": "", "country": "Uruguay" }
 ]
