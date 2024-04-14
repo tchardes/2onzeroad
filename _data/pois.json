@@ -650,6 +650,8 @@
   { "name": "salta", "displayName": "Salta", "type": "ville", "country": "Argentine" },
   { "name": "conchas", "displayName": "Quebrada las Conchas", "type": "nature", "country": "Argentine" },
   { "name": "cafayate", "displayName": "Cafayate", "type": "ville", "country": "Argentine" },
+  { "name": "puerto", "displayName": "Puerto d'Iguazu", "type": "ville", "country": "Argentine" },
+  { "name": "iguazu", "displayName": "Chutes d'Iguazu", "type": "nature", "country": "Argentine" },
 
   { "name": "asuncion", "displayName": "Asuncion", "type": "ville", "country": "Paraguay" },
   { "name": "yaguaron", "displayName": "Yaguaron", "type": "ville", "country": "Paraguay" },
@@ -663,8 +665,6 @@
 
   { "name": "foz", "displayName": "Foz do Iguassu", "type": "ville", "country": "Brésil" },
   { "name": "iguassu", "displayName": "Chutes d'Iguassu", "type": "nature", "country": "Brésil" },
-  { "name": "puerto", "displayName": "Puerto d'Iguazu", "type": "ville", "country": "Brésil" },
-  { "name": "iguazu", "displayName": "Chutes d'Iguazu", "type": "nature", "country": "Argentine" },
   { "name": "florianopolis", "displayName": "Florianopolis", "type": "ville", "country": "Brésil" },
   { "name": "gaivota", "displayName": "Balneário Gaivota", "type": "ville", "country": "Brésil" },
   { "name": "alegre", "displayName": "Porto Alegre", "type": "ville", "country": "Brésil" },
