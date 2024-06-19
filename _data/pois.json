@@ -670,9 +670,10 @@
   { "name": "alegre", "displayName": "Porto Alegre", "type": "ville", "country": "Brésil" },
   { "name": "chuy", "displayName": "Chuy", "type": "ville", "country": "Brésil" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
-  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
-  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
+  { "name": "santat", "displayName": "Parc National Santa Teresa", "type": "nature", "country": "Uruguay" },
+  { "name": "paloma", "displayName": "La Paloma", "type": "ville", "country": "Uruguay" },
+  { "name": "barra", "displayName": "La Barra", "type": "ville", "country": "Uruguay" },
+  { "name": "este", "displayName": "Punta Del Este", "type": "ville", "country": "Uruguay" },
 
   { "name": "", "displayName": "", "type": "", "country": "Uruguay" }
 ]
