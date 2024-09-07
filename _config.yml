@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "46.58253189600864, 2.462709451453199"
-  name: "France"
-  date: "01 mars 2024"
+  coordinates: "-32.49843611581499, -56.16135426001827"
+  name: "Uruguay"
+  date: "12 octobre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
