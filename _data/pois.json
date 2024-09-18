@@ -681,7 +681,7 @@
   { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
   { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
   { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
-  { "name": "", "displayName": "", "type": "", "country": "Uruguay" }
+  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
 
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
@@ -698,5 +698,4 @@
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
 
   { "name": "", "displayName": "", "type": "", "country": "Argentine" }
-
 ]
