@@ -675,5 +675,28 @@
   { "name": "barra", "displayName": "La Barra", "type": "ville", "country": "Uruguay" },
   { "name": "este", "displayName": "Punta Del Este", "type": "ville", "country": "Uruguay" },
 
+  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
+  { "name": "", "displayName": "", "type": "", "country": "Uruguay" },
   { "name": "", "displayName": "", "type": "", "country": "Uruguay" }
+
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" }
+
 ]
