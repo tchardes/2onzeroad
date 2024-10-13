@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-32.49843611581499, -56.16135426001827"
   name: "Uruguay"
-  date: "12 octobre 2024"
+  date: "12 et octobre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
