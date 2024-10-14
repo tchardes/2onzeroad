@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Uruguay 2"
+title: "conclusion"
 preview: "Cet article couvre la période du 11 au 28 octobre 2024, au cours de laquelle nous sommes revenus en Uruguay après quelques mois d'absence..."
 parent-id:
 date: 2024-09-30 15:00:00
