@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-34.865866749352776, -56.162037288663264"
-  name: "Montevideo"
-  date: "14 au 15 octobre 2024"
+  coordinates: "-34.46685221845325, -57.836996668185314"
+  name: "Colonia del Sacramento"
+  date: "16 au 18 octobre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
