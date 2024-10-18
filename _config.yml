@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-34.46685221845325, -57.836996668185314"
-  name: "Colonia del Sacramento"
-  date: "16 au 18 octobre 2024"
+  coordinates: "-34.2038850516137, -58.06728569095432"
+  name: "Puerto Ingles"
+  date: "18 octobre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
