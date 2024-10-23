@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-34.250765113558444, -59.472289453829895"
   name: "San Antonio de Areco"
-  date: "21 octobre 2024"
+  date: "21 au 23 octobre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
