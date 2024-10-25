@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-34.250765113558444, -59.472289453829895"
-  name: "San Antonio de Areco"
-  date: "21 au 23 octobre 2024"
+  coordinates: "-34.56856000120595, -59.10739113562479"
+  name: "Lujan"
+  date: "24 octobre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
