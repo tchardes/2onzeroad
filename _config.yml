@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "-34.56856000120595, -59.10739113562479"
-  name: "Tigre"
-  date: "25 au 27 octobre 2024"
+  name: "Buenos Aires"
+  date: "28 octobre au 04 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
