@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-34.61814886486083, -58.48130572876166"
-  name: "Buenos Aires"
-  date: "28 octobre au 04 novembre 2024"
+  coordinates: "-35.43698343213613, -58.8096233703756"
+  name: "San Miguel del Monte"
+  date: "05 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
