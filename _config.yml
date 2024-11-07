@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-35.43698343213613, -58.8096233703756"
-  name: "San Miguel del Monte"
-  date: "05 novembre 2024"
+  coordinates: "-38.069658528543044, -61.97444743673526"
+  name: "Parc Ernesto Tornquist"
+  date: "07 et 08 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
