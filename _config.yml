@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-38.069658528543044, -61.97444743673526"
-  name: "Parc Ernesto Tornquist"
-  date: "07 et 08 novembre 2024"
+  coordinates: "-39.26171941448086, -62.60528995455861"
+  name: "Mayor Buratovich"
+  date: "07 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
