@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-39.26171941448086, -62.60528995455861"
-  name: "Mayor Buratovich"
-  date: "07 novembre 2024"
+  coordinates: "-41.044989512911734, -62.83067776664253"
+  name: "El Condor"
+  date: "08 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
