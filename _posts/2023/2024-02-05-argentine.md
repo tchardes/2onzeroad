@@ -12,7 +12,7 @@ thumbnail: /assets/owner/blog/thumbs/post-thumb-argentine.jpg
 tags: [montagne, paysage, geologie, architecture]
 pois: [susques#24-janvier, lipan#25-janvier, pumamarca#25-janvier, salinas#25-janvier, humahuaca#27-janvier, maimara#27-janvier, tilcara#27-janvier, salta#28-janvier, conchas#01-fevrier, cafayate#01-fevrier]
 country: Argentine
-states: ["Jujuy","Salta", "Chaco", "Formosa"]
+states: ["Jujuy", "Salta", "Chaco", "Corrientes", "Formosa"]
 category: "roadmap"
 flickr-text: "Argentine"
 location: "-25.086404316049375, -61.99267778682089"
@@ -128,7 +128,7 @@ Ce matin nous prenons un taxi pour trouver un garage Ford pour y faire effectuer
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53586581407/in/datetaken-public/" title="Salta - [Argentine]"><img src="https://live.staticflickr.com/65535/53586581407_288b83cd30_k.jpg" width="2048" height="1152" alt="Salta - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Autour de la place principale, il y a énormément des gars qui font du change dans la rue, des dollars ou euros contre des Ars à un taux de change aussi très  intéressant, on appelle ça le taux Blue, c'est en fait un vrai marché parallèle de l’argent en Argentine qui a pignon sur rue.
+Autour de la place principale, il y a énormément des gars qui font du change dans la rue, des dollars ou euros contre des Ars à un taux de change aussi très intéressant, on appelle ça le taux Blue, c'est en fait un vrai marché parallèle de l’argent en Argentine qui a pignon sur rue.
 
 Les poches pleines de biftons… on va déjeuner dans un très bon restaurant où on commande une parillada, l’Argentine est le pays de la viande, au menu boudin, saucisses, poulet, porc et boeuf, un régal, le tout accompagné d’un vin rouge de Salta, un Malbec. C'est le serveur qui connaissant bien les vins français me l'a suggéré comme étant proche d'un bourgogne, effectivement il était peu tanique et très fruité.
 
