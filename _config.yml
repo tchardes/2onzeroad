@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-41.044989512911734, -62.83067776664253"
-  name: "El Condor"
-  date: "08 au 10 novembre 2024"
+  coordinates: "-40.8045934, -64.8801185"
+  name: "Puerte San Antonio Este"
+  date: "11 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
