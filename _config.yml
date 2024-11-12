@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-40.8045934, -64.8801185"
-  name: "Puerte San Antonio Este"
-  date: "11 novembre 2024"
+  coordinates: "-40.799344145406614, -65.07723787276672"
+  name: "Las Grutas"
+  date: "12 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
