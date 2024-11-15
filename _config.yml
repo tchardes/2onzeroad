@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-42.508824377876664, -63.91673634646417"
-  name: "Péninsules de Valdes"
-  date: "13 au 15 novembre 2024"
+  coordinates: "-42.76479376531535, -65.05223998943976"
+  name: "Puerto Madryn"
+  date: "16 au 17 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
