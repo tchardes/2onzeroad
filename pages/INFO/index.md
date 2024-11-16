@@ -297,6 +297,7 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 - Pascale et Albert : un couple de Perpignan qui voyage à bord d'un 4X4 Toyota avec cellule Azalai, rencontrés au Refuge Lima à Cieneguilla, Pérou le 09 octobre 2023.
 - Flavia, Maximiliano et leurs trois enfants, famille argentine qui voyage à bord d'un CC mercedes, rencontrés au Refuge Lima à Cieneguilla, Pérou le 09 octobre 2023. @te.aguanto.hasta.alaska.
 - [Murielle et Bruno](http://www.instagram/babken972): couple qui voyage à bord d'un ancien camion de pompier Iveco aménagé avec une cellule, rencontrés à Arequipa, Pérou le 27 octobre 2023.
+- [Grégory] (https://www.youtube.com/@titouaventures) : Voyageur depuis 3 ans et qui rentre en France prochainement, rencontré à Montévidéo le 15 octobre 2024.
 
 ## Divers
 
