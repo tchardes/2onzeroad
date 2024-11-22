@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-44.92517622103635, -65.5476459023853"
-  name: "Cabo Dos Bahias"
-  date: "21 et 22 novembre 2024"
+  coordinates: "-44.794634376487366, -65.71297302800576"
+  name: "Camarones"
+  date: "22 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
