@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-44.794634376487366, -65.71297302800576"
-  name: "Camarones"
-  date: "22 novembre 2024"
+  coordinates: "-45.927854817119446, -67.55955821345356"
+  name: "Rada Tilly"
+  date: "23 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
