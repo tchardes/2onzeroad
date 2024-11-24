@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "-45.927854817119446, -67.55955821345356"
-  name: "Rada Tilly"
-  date: "23 novembre 2024"
+  name: "Villa Rada Tilly"
+  date: "23 et 24 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
