@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-45.927854817119446, -67.55955821345356"
-  name: "Villa Rada Tilly"
-  date: "23 et 24 novembre 2024"
+  coordinates: "-47.74207005773228, -65.8949503976184"
+  name: "Puerto Deseado"
+  date: "25 et 26 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
