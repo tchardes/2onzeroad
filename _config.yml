@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-47.74207005773228, -65.8949503976184"
   name: "Puerto Deseado"
-  date: "25 et 26 novembre 2024"
+  date: "25 au 27 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
