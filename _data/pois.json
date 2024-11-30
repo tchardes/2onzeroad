@@ -709,8 +709,11 @@
   { "name": "comorodo", "displayName": "Comorodo Rivadavia ", "type": "ville", "country": "Argentine" },
   { "name": "tilly", "displayName": "Rada Tilly", "type": "ville", "country": "Argentine" },
   { "name": "desadeo", "displayName": "Puerto Desadeo", "type": "ville", "country": "Argentine" },
+  { "name": "sanjulian", "displayName": "Puerto San Julian", "type": "ville", "country": "Argentine" },
+  { "name": "piedrabuena", "displayName": "Comandante Luis Piedrabuena", "type": "ville", "country": "Argentine" },
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" }
 
   { "name": "", "displayName": "", "type": "", "country": "Argentine" }
 ]
