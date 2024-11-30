@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-49.30669165861793, -67.73098144587593"
-  name: "Puerto San Julian"
-  date: "29 novembre 2024"
+  coordinates: "-49.97911844360878, -68.9150199088921"
+  name: "Comandante Luis Piedrabuena "
+  date: "30 novembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
