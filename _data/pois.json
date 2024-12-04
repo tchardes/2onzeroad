@@ -714,7 +714,9 @@
   { "name": "monteleon", "displayName": "Parc National de Monte Leon", "type": "nature", "country": "Argentine" },
   { "name": "gallegos", "displayName": "Rio Gallegos", "type": "ville", "country": "Argentine" },
   { "name": "lagunaazul", "displayName": "Reserva Provincial Laguna Azul", "type": "nature", "country": "Argentine" },
+
   { "name": "magellan", "displayName": "Détroit de Magellan", "type": "nature", "country": "Chili" },
+
   { "name": "riogrande", "displayName": "Rio Grande", "type": "ville", "country": "Argentine" },
   { "name": "estancia", "displayName": "Estancia Maria Behety", "type": "autre", "country": "Argentine" },
   { "name": "tolhuin", "displayName": "Tolhuin", "type": "ville", "country": "Argentine" },
