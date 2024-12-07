@@ -720,8 +720,8 @@
   { "name": "riogrande", "displayName": "Rio Grande", "type": "ville", "country": "Argentine" },
   { "name": "estancia", "displayName": "Estancia Maria Behety", "type": "autre", "country": "Argentine" },
   { "name": "tolhuin", "displayName": "Tolhuin", "type": "ville", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "ushuaia", "displayName": "ushuaia", "type": "ville", "country": "Argentine" },
+  { "name": "terredefeu", "displayName": "Parc National Terre de Feu", "type": "nature", "country": "Argentine" },
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
 
   { "name": "", "displayName": "", "type": "", "country": "Argentine" }
