@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-54.81095486623362, -68.3321115232861"
-  name: "Terre de Feu - Ushuaïa"
-  date: "05 au 10 décembre 2024"
+  coordinates: "-53.77083221325505, -67.72008586335924"
+  name: "Terre de Feu - Rio Grande"
+  date: "10 décembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
