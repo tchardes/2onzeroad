@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-53.77083221325505, -67.72008586335924"
-  name: "Terre de Feu - Rio Grande"
-  date: "10 décembre 2024"
+  coordinates: "-53.1482391036918, -70.91107453120586"
+  name: "Punta Arenas"
+  date: "12 au 15 décembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
