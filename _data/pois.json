@@ -722,9 +722,9 @@
   { "name": "tolhuin", "displayName": "Tolhuin", "type": "ville", "country": "Argentine" },
   { "name": "ushuaia", "displayName": "Ushuaïa", "type": "ville", "country": "Argentine" },
   { "name": "terredefeu", "displayName": "Parc National Terre de Feu", "type": "nature", "country": "Argentine" },
-  
+
   { "name": "punta", "displayName": "Punta Arenas", "type": "ville", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "rey", "displayName": "Parque Pingüino Rey", "type": "nature", "country": "Chili" },
   { "name": "", "displayName": "", "type": "", "country": "Chili" },
   { "name": "", "displayName": "", "type": "", "country": "Chili" },
   { "name": "", "displayName": "", "type": "", "country": "Chili" },
