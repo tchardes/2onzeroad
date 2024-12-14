@@ -4,8 +4,8 @@ country: "Paraguay"
 permalink: "/writing/destination/paraguay/"
 header-img: "assets/owner/hero/canada-bg.jpg"
 flickr-text: "Paraguay"
-distance: 890 km
-days: 5 jours
+distance: 890
+days: 5
 photos: 50
 videos: 1
 walk:

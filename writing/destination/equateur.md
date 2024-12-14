@@ -2,7 +2,7 @@
 layout: "writing_by_country"
 country: "Equateur"
 permalink: "/writing/destination/equateur/"
-header-img: "assets/owner/hero/canada-bg.jpg"
+header-img: "assets/owner/hero/equateur-bg.jpg"
 flickr-text: "Equateur"
 distance: 1153
 days: 15
