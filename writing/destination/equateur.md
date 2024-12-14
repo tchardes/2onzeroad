@@ -4,8 +4,8 @@ country: "Equateur"
 permalink: "/writing/destination/equateur/"
 header-img: "assets/owner/hero/canada-bg.jpg"
 flickr-text: "Equateur"
-distance: 1153 Km
-days: 15 jours
+distance: 1153
+days: 15
 photos: 131
 videos: 1
 walk:

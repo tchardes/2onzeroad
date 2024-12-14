@@ -4,8 +4,8 @@ country: "Uruguay"
 permalink: "/writing/destination/uruguay/"
 header-img: "assets/owner/hero/uruguay2.jpg"
 flickr-text: "Uruguay"
-distance: 1142 Km
-days: 17 jours
+distance: 1142
+days: 17
 photos:
 videos:
 walk:

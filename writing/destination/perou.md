@@ -4,8 +4,8 @@ country: "Pérou"
 permalink: "/writing/destination/perou/"
 header-img: "assets/owner/hero/perou-bg.jpg"
 flickr-text: "Pérou"
-distance: 4115 km
-days: 77 jours
+distance: 4115
+days: 77
 photos: 707
 videos: 2
 walk:

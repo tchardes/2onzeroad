@@ -5,7 +5,7 @@ permalink: "/writing/destination/bolivie/"
 header-img: "assets/owner/hero/bolivie15.jpg"
 flickr-text: "Bolivie"
 distance: 3400 Km
-days: 43 jours
+days: 43
 photos: 543
 videos: 1
 walk:
