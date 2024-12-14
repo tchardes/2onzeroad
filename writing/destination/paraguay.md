@@ -2,7 +2,7 @@
 layout: "writing_by_country"
 country: "Paraguay"
 permalink: "/writing/destination/paraguay/"
-header-img: "assets/owner/hero/canada-bg.jpg"
+header-img: "assets/owner/hero/paraguay-bg.jpg"
 flickr-text: "Paraguay"
 distance: 890
 days: 5
