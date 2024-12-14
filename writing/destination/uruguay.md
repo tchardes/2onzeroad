@@ -8,5 +8,5 @@ distance: 1142
 days: 17
 photos:
 videos:
-walk:
+walk: 39
 ---
