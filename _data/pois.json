@@ -725,8 +725,8 @@
 
   { "name": "punta", "displayName": "Punta Arenas", "type": "ville", "country": "Chili" },
   { "name": "rey", "displayName": "Parque Pingüino Rey", "type": "nature", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "isidro", "displayName": "Faro San Isidro", "type": "autre", "country": "Chili" },
+  { "name": "hito", "displayName": "Hito de la Mitad De Chile", "type": "autre", "country": "Chili" },
   { "name": "", "displayName": "", "type": "", "country": "Chili" },
   { "name": "", "displayName": "", "type": "", "country": "Chili" },
   { "name": "", "displayName": "", "type": "", "country": "Chili" },
