@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-53.69834112119523, -70.96829681634746"
-  name: "Rio San Pedro"
-  date: "15 décembre 2024"
+  coordinates: "-51.745056236726384, -72.25052455847225"
+  name: "Pleine Pampa"
+  date: "16 décembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
