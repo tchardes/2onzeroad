@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-51.745056236726384, -72.25052455847225"
-  name: "Pleine Pampa"
-  date: "16 décembre 2024"
+  coordinates: "-51.73023804995686, -72.49594991334511"
+  name: "Puerto Natales"
+  date: "17 décembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
