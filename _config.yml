@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-51.73023804995686, -72.49594991334511"
   name: "Puerto Natales"
-  date: "17 décembre 2024"
+  date: "17 au 20 décembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
