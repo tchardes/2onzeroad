@@ -2,10 +2,10 @@
 title: "2 OnZeRoad"
 description: Carnet de voyages
 
-currentLocation:
-  coordinates: "-51.73023804995686, -72.49594991334511"
-  name: "Puerto Natales"
-  date: "17 au 20 décembre 2024"
+currentLocation:-
+  coordinates: "-51.07283119655275, -73.0153756699793"
+  name: "Parc National Torres Del Paine"
+  date: "22 au 25 décembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8
