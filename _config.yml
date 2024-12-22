@@ -2,7 +2,7 @@
 title: "2 OnZeRoad"
 description: Carnet de voyages
 
-currentLocation:-
+currentLocation:
   coordinates: "-51.07283119655275, -73.0153756699793"
   name: "Parc National Torres Del Paine"
   date: "22 au 25 décembre 2024"
