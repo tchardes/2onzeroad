@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-50.34619408178324, -72.27453881626927"
-  name: "El Calafate"
-  date: "26 décembre 2024"
+  coordinates: "-50.313289292207, -72.79397081945663"
+  name: "Estancia Punta Bandera"
+  date: "27 décembre 2024"
 
 # set the encoding to utf-8
 encoding: utf-8

@@ -730,13 +730,14 @@
   { "name": "natales", "displayName": "Puerto Natales", "type": "ville", "country": "Chili" },
   { "name": "bories", "displayName": "Musée Frigorífico Bories", "type": "autre", "country": "Chili" },
   { "name": "paine", "displayName": "Parc National Tores Del Paine", "type": "nature", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+
+  { "name": "calafate", "displayName": "El Calafate", "type": "ville", "country": "Argentine" },
+  { "name": "gperito", "displayName": "Parc National Los Glacieros - Perito Moreno", "type": "Nature", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
 
   { "name": "", "displayName": "", "type": "", "country": "Argentine" }
 ]
