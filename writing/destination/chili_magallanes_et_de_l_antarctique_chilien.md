@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
 destination: "Chili - Magallanes et de l'Antarctique chilien"
-permalink: "/writing/destination/chili-magallanes_et_de_l_antarctique_chilien/"
+permalink: "/writing/destination/chili-magallanes-et-de-l-antarctique-chilien/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 flickr-text: ""
 ---
