@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "Argentine - Santa Cruz"
-permalink: "/writing/destination/argentine-santa-cruz/"
+destination: "Argentine - Formosa"
+permalink: "/writing/destination/argentine-formosa/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 flickr-text: ""
 ---
