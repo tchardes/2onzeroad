@@ -732,7 +732,7 @@
   { "name": "paine", "displayName": "Parc National Tores Del Paine", "type": "nature", "country": "Chili" },
 
   { "name": "calafate", "displayName": "El Calafate", "type": "ville", "country": "Argentine" },
-  { "name": "gperito", "displayName": "Parc National Los Glacieros - Perito Moreno", "type": "Nature", "country": "Argentine" },
+  { "name": "gperito", "displayName": "Parc National Los Glaciares - Perito Moreno", "type": "Nature", "country": "Argentine" },
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
