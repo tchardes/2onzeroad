@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
-destination: "Brésil - Rio Grande du Sud"
-permalink: "/writing/destination/bresil-rio-grande-du-sud/"
+destination: "Bolivie - La Paz"
+permalink: "/writing/destination/bolivie-la-paz/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 flickr-text: ""
 ---
