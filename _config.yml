@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-50.313289292207, -72.79397081945663"
-  name: "Argentine - Estancia Punta Bandera"
-  date: "27 et 28 décembre 2024"
+  coordinates: "-49.32947595184542, -72.88775065096723"
+  name: "Argentine - El Chalten"
+  date: "30 décembre 2024 au 04 janvier 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
