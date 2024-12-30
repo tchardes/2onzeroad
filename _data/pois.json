@@ -729,7 +729,7 @@
   { "name": "hito", "displayName": "Hito de la Mitad De Chile", "type": "autre", "country": "Chili" },
   { "name": "natales", "displayName": "Puerto Natales", "type": "ville", "country": "Chili" },
   { "name": "bories", "displayName": "Musée Frigorífico Bories", "type": "autre", "country": "Chili" },
-  { "name": "paine", "displayName": "Parc National Tores Del Paine", "type": "nature", "country": "Chili" },
+  { "name": "paine", "displayName": "Parc National Torres Del Paine", "type": "nature", "country": "Chili" },
 
   { "name": "calafate", "displayName": "El Calafate", "type": "ville", "country": "Argentine" },
   { "name": "gperito", "displayName": "Glacier Perito Moreno", "type": "nature", "country": "Argentine" },
