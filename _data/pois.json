@@ -736,7 +736,7 @@
   { "name": "chalten", "displayName": "el Chalten", "type": "ville", "country": "Argentine" },
   { "name": "gzonasur", "displayName": "Parc National Los Glaciares - Zona Sur", "type": "nature", "country": "Argentine" },
   { "name": "gzonanorte", "displayName": "Parc National Los Glaciares - Zona Norte", "type": "nature", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "fitz", "displayName": "Fitz Roy", "type": "nature", "country": "Argentine" },
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
   { "name": "", "displayName": "", "type": "", "country": "Argentine" },
