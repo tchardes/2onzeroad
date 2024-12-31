@@ -9,7 +9,7 @@ to-date: 2024-02-04 13:00:00
 author: "Thierry"
 header-img: "assets/owner/blog/header/post-bg-argentine.jpg"
 thumbnail: /assets/owner/blog/thumbs/post-thumb-argentine.jpg
-tags: [montagne, paysage, geologie, architecture]
+tags: [montagne, paysage, geologie, architecture, unesco]
 pois: [susques#24-janvier, lipan#25-janvier, pumamarca#25-janvier, salinas#25-janvier, humahuaca#27-janvier, maimara#27-janvier, tilcara#27-janvier, salta#28-janvier, conchas#01-fevrier, cafayate#01-fevrier]
 country: Argentine
 states: ["Jujuy", "Salta", "Chaco", "Corrientes", "Formosa"]
@@ -82,7 +82,7 @@ De retour je m'arrête dans une épicerie nous prendre une bouteille de vin arge
 
 Ce matin pendant que l'on fait le plein d’eau, deux camping-cars européens arrivent. Ce sont des Chiliens qui ont acheté leur véhicule à d'anciens voyageurs. Depuis, ils passent toutes leurs vacances d’été au Brésil, on discute un long moment, Thor leur fait vraiment envie…
 
-On prend finalement la route direction plein Nord sur la **Quebrada de Humahuaca** (Gorge de Humahuaca) qui est la partie asphaltée de la boucle Nord. La route longe le lit du Rio Grande. Le décor tout au long des 70 kilomètres qui nous séparent de Humahuaca est magique. **Maimara** est notre premier arrêt. On peut y voir la palette du peintre, un flan de montagnes naturellement découpées, aux couleurs incroyables.
+On prend finalement la route direction plein Nord sur la **Quebrada de Humahuaca** (Gorge de Humahuaca) qui est inscrite au patrimoine mondial de l'Unesco. Elle est la partie asphaltée de la boucle Nord. La route longe le lit du Rio Grande. Le décor tout au long des 70 kilomètres qui nous séparent de Humahuaca est magique. **Maimara** est notre premier arrêt. On peut y voir la palette du peintre, un flan de montagnes naturellement découpées, aux couleurs incroyables.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/2ozr/53591108889/in/datetaken-public/" title="Maimara - [Argentine]"><img src="https://live.staticflickr.com/65535/53591108889_831bd14b8f_k.jpg" width="2048" height="885" alt="Maimara - [Argentine]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
