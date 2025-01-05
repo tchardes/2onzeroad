@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-49.32947595184542, -72.88775065096723"
-  name: "Argentine - El Chalten - Fitz Roy"
-  date: "30 décembre 2024 au 05 janvier 2025"
+  coordinates: "-48.74752004089081, -70.25138774298114"
+  name: "Argentine - Gobernador Gregores"
+  date: "05 janvier 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
