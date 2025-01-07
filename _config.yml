@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-48.74752004089081, -70.25138774298114"
-  name: "Argentine - Gobernador Gregores"
-  date: "05 janvier 2025"
+  coordinates: "-46.58863844165527, -70.92672335569874"
+  name: "Argentine - Perito Moreno"
+  date: "07 janvier 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
