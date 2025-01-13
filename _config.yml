@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-46.548012892473515, -71.62800049505982"
-  name: "Argentine - Los Antiguos"
-  date: "11 et 12 janvier 2025"
+  coordinates: "-47.56523404163913, -71.74270992721452"
+  name: "Argentine - Lago Posadas"
+  date: "13 janvier 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
