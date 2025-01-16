@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-46.5899016030639, -70.92623340995226"
-  name: "Argentine - Perito Moreno"
-  date: "14 et 15 janvier 2025"
+  coordinates: "-45.688276799433446, -70.25997388485641"
+  name: "Argentine - Rio Mayo"
+  date: "16 janvier 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
