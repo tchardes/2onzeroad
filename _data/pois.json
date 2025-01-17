@@ -733,11 +733,11 @@
 
   { "name": "calafate", "displayName": "El Calafate", "type": "ville", "country": "Argentine" },
   { "name": "gperito", "displayName": "Glacier Perito Moreno", "type": "nature", "country": "Argentine" },
-  { "name": "chalten", "displayName": "el Chalten", "type": "ville", "country": "Argentine" },
+  { "name": "chalten", "displayName": "El Chalten", "type": "ville", "country": "Argentine" },
   { "name": "gzonasur", "displayName": "Parc National Los Glaciares - Zona Sur", "type": "nature", "country": "Argentine" },
   { "name": "gzonanorte", "displayName": "Parc National Los Glaciares - Zona Norte", "type": "nature", "country": "Argentine" },
   { "name": "fitz", "displayName": "Fitz Roy", "type": "nature", "country": "Argentine" },
-  { "name": "manos", "displayName": "Cuevas de las Manos", "type": "nature", "country": "Argentine" },
+  { "name": "manos", "displayName": "Cuevas de las Manos", "type": "autre", "country": "Argentine" },
   { "name": "pinturas", "displayName": "Parque Patagonia - Portal Cañadon Pinturas", "type": "nature", "country": "Argentine" },
   { "name": "41", "displayName": "Ruta Escénica 41 ", "type": "nature", "country": "Argentine" },
   { "name": "posadas", "displayName": "Lago Posadas", "type": "nature", "country": "Argentine" },
