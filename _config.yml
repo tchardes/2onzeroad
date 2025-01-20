@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-42.91009260060622, -71.31442726551201"
-  name: "Argentine - Esquel"
-  date: "18 au 20 janvier 2025"
+  coordinates: "-42.98091002066065, -71.65372654647807"
+  name: "Argentine - P.N. Los Alerces"
+  date: "19 et 20 janvier 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
