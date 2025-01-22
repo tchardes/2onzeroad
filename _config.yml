@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-42.07695635808958, -71.60935831694316"
-  name: "Argentine - P.N. Lago Puelo"
-  date: "20 et 21 janvier 2025"
+  coordinates: "-41.14809472901866, -71.2983983514516"
+  name: "Argentine - San Carlos de Bariloche"
+  date: "21 et 22 janvier 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
