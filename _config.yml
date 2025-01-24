@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-39.92686025293668, -71.07828137807896"
-  name: "Argentine - San Junin de los Andes"
-  date: "23 janvier 2025"
+  coordinates: "-40.7620130, -71.6442711"
+  name: "Argentine - Villa la Angostura"
+  date: "24 janvier 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
