@@ -748,18 +748,19 @@
   { "name": "esquel", "displayName": "Esquel", "type": "ville", "country": "Argentine" },
   { "name": "bariloche", "displayName": "San Carlos de Bariloche", "type": "ville", "country": "Argentine" },
   { "name": "huapi", "displayName": "Parc National Nahuel Huapi", "type": "nature", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" },
+  { "name": "llao", "displayName": "Parque Municipal Llao-Llao", "type": "nature", "country": "Argentine" },
+  { "name": "junin", "displayName": "San Junin De Los Andes", "type": "ville", "country": "Argentine" },
+  { "name": "7lacs", "displayName": "Route des 7 lacs", "type": "nature", "country": "Argentine" },
+  { "name": "arrayanes", "displayName": "Parc National Los Arrayanes", "type": "nature", "country": "Argentine" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Argentine" }
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+
+  { "name": "", "displayName": "", "type": "", "country": "Chili" }
 ]
