@@ -1,7 +1,7 @@
 ---
 layout: "writing_by_destination"
 destination: "Chili - Ñuble"
-permalink: "/writing/destination/chili-nuble/"
+permalink: "/writing/destination/chili-ñuble/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 flickr-text: ""
 ---
