@@ -1,6 +1,6 @@
 ---
 layout: "writing_by_destination"
-destination: "Chili - Nuble"
+destination: "Chili - Ñuble"
 permalink: "/writing/destination/chili-nuble/"
 header-img: "assets/owner/hero/archive-bg.jpg"
 flickr-text: ""
