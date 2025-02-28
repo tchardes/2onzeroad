@@ -5,7 +5,7 @@ description: Carnet de voyages
 currentLocation:
   coordinates: "-33.439441634768585, -70.6629161043182"
   name: "Chili - Santiago de Chile"
-  date: "25 au 27 février 2025"
+  date: "25 au 28 février 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
