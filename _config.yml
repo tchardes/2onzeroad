@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "-33.10416093518202, -71.66906729716587"
-  name: "Chili - Laguna Verde"
-  date: "02 mars 2025"
+  name: "Chili - El Portillo"
+  date: "03 mars 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
