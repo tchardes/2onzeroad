@@ -771,11 +771,16 @@
   { "name": "colo", "displayName": "Colo", "type": "ville", "country": "Chili" },
   { "name": "quemchi", "displayName": "Quemchi", "type": "ville", "country": "Chili" },
   { "name": "varas", "displayName": "Puerto Varas", "type": "ville", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
-  { "name": "", "displayName": "", "type": "", "country": "Chili" },
+  { "name": "villarrica", "displayName": "Villarrica", "type": "nature", "country": "Chili" },
+  { "name": "peces", "displayName": "Mirador de Peces", "type": "nature", "country": "Chili" },
+  { "name": "chiflon", "displayName": "Mina Chiflón del Diablo", "type": "autre", "country": "Chili" },
+  { "name": "clemente", "displayName": "San Clemente", "type": "ville", "country": "Chili" },
+  { "name": "santiago", "displayName": "Santiago de Chile", "type": "ville", "country": "Chili" },
+  { "name": "scruz", "displayName": "Santa Cruz", "type": "autre", "country": "Chili" },
+  { "name": "algarrobo", "displayName": "Algarrobo", "type": "ville", "country": "Chili" },
+  { "name": "portillo", "displayName": "Portillo", "type": "nature", "country": "Chili" },
+  { "name": "inca", "displayName": "Pont de l'Inca", "type": "nature", "country": "Chili" },
+  { "name": "7colores", "displayName": "Cerro de 7 Colores", "type": "nature", "country": "Chili" },
 
   { "name": "", "displayName": "", "type": "", "country": "Chili" }
 ]
