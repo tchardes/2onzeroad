@@ -779,8 +779,9 @@
   { "name": "scruz", "displayName": "Santa Cruz", "type": "autre", "country": "Chili" },
   { "name": "algarrobo", "displayName": "Algarrobo", "type": "ville", "country": "Chili" },
   { "name": "portillo", "displayName": "Portillo", "type": "nature", "country": "Chili" },
-  { "name": "inca", "displayName": "Pont de l'Inca", "type": "nature", "country": "Chili" },
-  { "name": "7colores", "displayName": "Cerro de 7 Colores", "type": "nature", "country": "Chili" },
+
+  { "name": "inca", "displayName": "Pont de l'Inca", "type": "nature", "country": "Argentine" },
+  { "name": "7colores", "displayName": "Cerro de 7 Colores", "type": "nature", "country": "Argentine" },
 
   { "name": "", "displayName": "", "type": "", "country": "Chili" }
 ]
