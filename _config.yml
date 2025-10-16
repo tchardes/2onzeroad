@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "46.58195482642749, 2.4614212646051477"
-  name: "France"
-  date: "12 mars 2025"
+  coordinates: "-33.36307912870493, -71.66547713999582"
+  name: "Santiago du Chili"
+  date: "13 au 17 octobre 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
