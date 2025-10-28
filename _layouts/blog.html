@@ -9,16 +9,11 @@
     {% include head.html %}
   </head>
   <body>
-    {% assign relatedPosts = "" | split:"|" %} {% for post in site.posts %} {% assign areEquals = false %} {% assign hasParents = false %} {% if post.parent-id and page.parent-id == post.parent-id %}
-    {% assign areEquals = true %} {% endif %} {% if post.path contains page.parent-id or page.path contains post.parent-id or areEquals %} {% assign hasParents = true %} {% endif %} {% if page.id !=
-    post.id and hasParents == true %} {% assign relatedPosts = relatedPosts | push: post %} {% endif %} {% endfor %} {% if page.category == "bilan" %} {% for relatedPost in relatedPosts %} {% if
-    relatedPost.category == "roadmap" %} {% assign refPost = relatedPost %} {% for post in site.posts %} {% if post.category == "blog" %} {% assign areEquals = false %} {% assign hasParents = false %}
-    {% if post.parent-id and refPost.parent-id == post.parent-id %} {% assign areEquals = true %} {% endif %} {% if post.path contains refPost.parent-id or refPost.path contains post.parent-id or
-    areEquals %} {% assign hasParents = true %} {% endif %} {% if refPost.id != post.id and hasParents == true %} {% assign relatedPosts = relatedPosts | push: post %} {% endif %} {% endif %} {%
-    endfor %} {% endif %} {% endfor %} {% endif %} {% if page.country == null %} {% assign fullDestination = page.countries | join: " - " %} {% else %} {% assign fullDestination = page.country %} {%
-    if page.states == null %} {% else %} {% assign fullDestination = fullDestination | append: " - " %} {% endif %} {% for state in page.states %} {% if forloop.last == true %} {% assign
-    fullDestination = fullDestination | append: state %} {% else %} {% assign fullDestination = fullDestination | append: state | append: " / " %} {% endif %} {% endfor %} {% if page.city %} {% assign
-    fullDestination = fullDestination | append: " - " | append: page.city %} {% endif %} {% endif %} {% include nav.html %} {% assign post = page %}
+    {% assign relatedPosts = "" | split:"|" %} {% for post in site.posts %} {% assign areEquals = false %} {% assign hasParents = false %} {% if post.parent-id and page.parent-id == post.parent-id %} {% assign areEquals = true %} {% endif %} {% if post.path contains page.parent-id or page.path contains post.parent-id or areEquals %} {% assign hasParents = true %} {% endif %} {% if page.id !=
+    post.id and hasParents == true %} {% assign relatedPosts = relatedPosts | push: post %} {% endif %} {% endfor %} {% if page.category == "bilan" %} {% for relatedPost in relatedPosts %} {% if relatedPost.category == "roadmap" %} {% assign refPost = relatedPost %} {% for post in site.posts %} {% if post.category == "blog" %} {% assign areEquals = false %} {% assign hasParents = false %} {% if
+    post.parent-id and refPost.parent-id == post.parent-id %} {% assign areEquals = true %} {% endif %} {% if post.path contains refPost.parent-id or refPost.path contains post.parent-id or areEquals %} {% assign hasParents = true %} {% endif %} {% if refPost.id != post.id and hasParents == true %} {% assign relatedPosts = relatedPosts | push: post %} {% endif %} {% endif %} {% endfor %} {% endif
+    %} {% endfor %} {% endif %} {% if page.country == null %} {% assign fullDestination = page.countries | join: " - " %} {% else %} {% assign fullDestination = page.country %} {% if page.states == null %} {% else %} {% assign fullDestination = fullDestination | append: " - " %} {% endif %} {% for state in page.states %} {% if forloop.last == true %} {% assign fullDestination = fullDestination |
+    append: state %} {% else %} {% assign fullDestination = fullDestination | append: state | append: " / " %} {% endif %} {% endfor %} {% if page.city %} {% assign fullDestination = fullDestination | append: " - " | append: page.city %} {% endif %} {% endif %} {% include nav.html %} {% assign post = page %}
 
     <article>
       <!-- Post Header -->
@@ -53,31 +48,23 @@
             <div class="container">
               <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1" style="padding: 20px 5px 5px 5px">
-                  <i class="fa fa-pencil" style="padding: 0 5px 0 10px"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}
-                  <i class="fa fa-calendar" style="padding: 0 5px 0 10px"></i>{{ page.date | date: "%-d %-B %Y" }} {% if post.tags.size > 0 %}
+                  <i class="fa fa-pencil" style="padding: 0 5px 0 10px"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} <i class="fa fa-calendar" style="padding: 0 5px 0 10px"></i>{{ page.date | date: "%-d %-B %Y" }} {% if post.tags.size > 0 %}
                   <i class="fa fa-tags" style="padding: 0 5px 0 10px"></i>
-                  {% for tag in page.tags %} {% assign displayTag = "" %} {% for dataTag in site.data.tags %} {% if dataTag.name == tag %} {% assign displayTag = dataTag.displayName %} {% endif %} {%
-                  endfor %} {% if displayTag != "" %}
-                  <a style="color: white" href="{{ site.baseurl }}/writing/tag/{{  tag | slugify }}?tags={{tag | slugify}}" data-toggle="tooltip" title="Autres posts taggés avec {{ tag }}" rel="tag"
-                    >{{ displayTag }}</a
-                  >
+                  {% for tag in page.tags %} {% assign displayTag = "" %} {% for dataTag in site.data.tags %} {% if dataTag.name == tag %} {% assign displayTag = dataTag.displayName %} {% endif %} {% endfor %} {% if displayTag != "" %}
+                  <a style="color: white" href="{{ site.baseurl }}/writing/tag/{{  tag | slugify }}?tags={{tag | slugify}}" data-toggle="tooltip" title="Autres posts taggés avec {{ tag }}" rel="tag">{{ displayTag }}</a>
                   {% endif %} {% unless forloop.last %}&nbsp;-&nbsp;{% endunless %}{% endfor %} {% endif %} {% if page.category == "roadmap" and relatedPosts.size > 1 %}
-                  <i class="fa fa-folder-open" style="padding: 0 5px 0 10px"></i> {{ relatedPosts | size }} article(s) {% endif %} {% assign minutes = content | number_of_words | divided_by: 180 %}
-                  <i class="fa fa-clock-o" style="padding: 0 5px 0 10px"></i>{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %} Lecture ~ {{ minutes }} min.
+                  <i class="fa fa-folder-open" style="padding: 0 5px 0 10px"></i> {{ relatedPosts | size }} article(s) {% endif %} {% assign minutes = content | number_of_words | divided_by: 180 %} <i class="fa fa-clock-o" style="padding: 0 5px 0 10px"></i>{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %} Lecture ~ {{ minutes }} min.
                 </div>
               </div>
             </div>
           </div>
         </div>
         <div>
-          {% if page.category == "blog" %} {% include map_canvas.html id="map1" displayItinary="false" googleStyle="false" %} {% else %} {% include map_canvas.html id="map1" displayItinary="true"
-          googleStyle="true" %}
+          {% if page.category == "blog" %} {% include map_canvas.html id="map1" displayItinary="false" googleStyle="false" %} {% else %} {% include map_canvas.html id="map1" displayItinary="true" googleStyle="true" %}
           <div style="width: 100%; text-align: right; padding-right: 10px; font-style: italic">
-            Le tracé représente notre parcours - <span style="color: #d000ff; font-weight: bold">2015/16</span> - <span style="color: #982d2d; font-weight: bold">2017</span> -
-            <span style="color: #2d6298; font-weight: bold">2018</span> - <span style="color: #ff8000; font-weight: bold">2018/19</span> -
-            <span style="color: #cf061f; font-weight: bold">2019/20</span> - <span style="color: #04857c; font-weight: bold">2022</span> -
-            <span style="color: #c62d0c; font-weight: bold">2023/24</span> -
-            <span style="color: #d000ff; font-weight: bold">2024/25</span>
+            Le tracé représente notre parcours - <span style="color: #d000ff; font-weight: bold">2015/16</span> - <span style="color: #982d2d; font-weight: bold">2017</span> - <span style="color: #2d6298; font-weight: bold">2018</span> - <span style="color: #ff8000; font-weight: bold">2018/19</span> - <span style="color: #cf061f; font-weight: bold">2019/20</span> -
+            <span style="color: #04857c; font-weight: bold">2022</span> - <span style="color: #c62d0c; font-weight: bold">2023/24</span> - <span style="color: #d000ff; font-weight: bold">2024/25</span>-
+            <span style="color: #f5ee27; font-weight: bold">2024/25</span>
           </div>
           {% endif %}
         </div>
@@ -96,13 +83,9 @@
                   {% if page.category == "roadmap" %} {% assign shortFormDate = page.from-date | date:"%Y-%m-%d" %} {% assign shortToDate = page.to-date | date:"%Y-%m-%d" %}
                   <a style="color: white !important" href="{{ root_url }}/gallery/?fromDate={{shortFormDate}}&toDate={{shortToDate}}">La suite en photos...</a>
                   {% else %} {% if page.flickr-tags %}
-                  <a style="color: white !important" href="{{ root_url }}/gallery/?tags={{page.flickr-tags | replace: ' ', '_' | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e'}}"
-                    >La suite en photos...</a
-                  >
+                  <a style="color: white !important" href="{{ root_url }}/gallery/?tags={{page.flickr-tags | replace: ' ', '_' | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e'}}">La suite en photos...</a>
                   {% else %}
-                  <a style="color: white !important" href="{{ root_url }}/gallery/?text={{page.flickr-text | replace: ' ', '_' | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e'}}"
-                    >La suite en photos...</a
-                  >
+                  <a style="color: white !important" href="{{ root_url }}/gallery/?text={{page.flickr-text | replace: ' ', '_' | replace: 'é', 'e' | replace: 'è', 'e' | replace: 'ê', 'e'}}">La suite en photos...</a>
                   {% endif %} {% endif %}
                 </div>
               </div>
