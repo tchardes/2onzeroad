@@ -4,8 +4,8 @@ description: Carnet de voyages
 
 currentLocation:
   coordinates: "-33.100896259256125, -71.66493136261818"
-  name: "Chile - Laguna Verde"
-  date: "28 octobre au 01 novembre 2025"
+  name: "Argentine - Uspallata"
+  date: "30 octobre 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
