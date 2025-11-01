@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-33.100896259256125, -71.66493136261818"
-  name: "Argentine - Uspallata"
-  date: "30 octobre 2025"
+  coordinates: "-33.05475032509177, -68.55858183250275"
+  name: "Argentine - Palmira"
+  date: "30 octobre au 01 novembre 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
