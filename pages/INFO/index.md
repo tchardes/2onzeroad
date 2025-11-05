@@ -298,6 +298,7 @@ Nous mettrons les liens des sites des voyageurs que nous rencontrerons lors de n
 - Flavia, Maximiliano et leurs trois enfants, famille argentine qui voyage à bord d'un CC mercedes, rencontrés au Refuge Lima à Cieneguilla, Pérou le 09 octobre 2023. @te.aguanto.hasta.alaska.
 - [Murielle et Bruno](http://www.instagram/babken972): couple qui voyage à bord d'un ancien camion de pompier Iveco aménagé avec une cellule, rencontrés à Arequipa, Pérou le 27 octobre 2023.
 - [Grégory] (https://www.youtube.com/@titouaventures) : Voyageur depuis 3 ans et qui rentre en France prochainement, rencontré à Montévidéo le 15 octobre 2024.
+- [Fred, Julie, Julia et Loula](http://www.instagram/tib_casita): Une famille originaire du var sur les routes d'Amérique du Sud pour un à bord de leur Camping-Car, Tib-Casita, que nous avons rencontré en Argentine au Talampaya N.P. le 04 novembre 2025.
 
 ## Divers
 
