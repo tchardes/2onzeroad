@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-29.835798943060674, -67.86330180812726"
-  name: "Argentine - Talampaya N.P."
-  date: "03 au 05 novembre 2025"
+  coordinates: "-30.36014056664583, -66.31433196232952"
+  name: "Argentine - Chamical."
+  date: "05 novembre 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
