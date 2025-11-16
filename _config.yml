@@ -3,9 +3,9 @@ title: "2 OnZeRoad"
 description: Carnet de voyages
 
 currentLocation:
-  coordinates: "-32.85479290289935, -61.15085533948646"
-  name: "Argentine - Carcarañá."
-  date: "15 novembre 2025"
+  coordinates: "-33.00903156282191, -58.52162788475884"
+  name: "Argentine - Gualeguaychú."
+  date: "16 novembre 2025"
 
 # set the encoding to utf-8
 encoding: utf-8
