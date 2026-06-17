@@ -794,5 +794,6 @@
   { "name": "alta_gracia", "displayName": "Alta Gracia", "type": "ville", "country": "Argentine" },
   { "name": "cordoba", "displayName": "Cordoba", "type": "ville", "country": "Argentine" },
   { "name": "jesus_maria", "displayName": "Jesus Maria", "type": "ville", "country": "Argentine" },
-  { "name": "colonia_valdense", "displayName": "Colonia Valdense", "type": "ville", "country": "Argentine" }
+  
+  { "name": "colonia_valdense", "displayName": "Colonia Valdense", "type": "ville", "country": "Uruguay" }
 ]
