@@ -783,5 +783,16 @@
   { "name": "inca", "displayName": "Pont de l'Inca", "type": "nature", "country": "Argentine" },
   { "name": "7colores", "displayName": "Cerro de 7 Colores", "type": "nature", "country": "Argentine" },
 
-  { "name": "", "displayName": "", "type": "", "country": "Chili" }
+  { "name": "chicuero", "displayName": "Chicuero", "type": "nature", "country": "Chili" },
+  { "name": "valparaiso", "displayName": "Valparaiso", "type": "nature", "country": "Chili" },
+
+  { "name": "palmira", "displayName": "Palmira", "type": "ville", "country": "Argentine" },
+  { "name": "telteca", "displayName": "Reserva Natural y Cultural Bosques Telteca", "type": "nature", "country": "Argentine" },
+  { "name": "ischigualasto", "displayName": "Parc Provincial de Ischigualasto", "type": "nature", "country": "Argentine" },
+  { "name": "talampaya", "displayName": "Parc National de Talampaya", "type": "nature", "country": "Argentine" },
+  { "name": "nono", "displayName": "Nono", "type": "ville", "country": "Argentine" },
+  { "name": "alta_gracia", "displayName": "Alta Gracia", "type": "ville", "country": "Argentine" },
+  { "name": "cordoba", "displayName": "Cordoba", "type": "ville", "country": "Argentine" },
+  { "name": "jesus_maria", "displayName": "Jesus Maria", "type": "ville", "country": "Argentine" },
+  { "name": "colonia_valdense", "displayName": "Colonia Valdense", "type": "ville", "country": "Argentine" }
 ]
